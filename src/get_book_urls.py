@@ -189,9 +189,9 @@ def main(this_category):
 
 if __name__ == "__main__":
 
-    categories = [883] #, 1206, 1235, 1213, 892, 1126, 871, 882, 61, 873, 874, 877, 1018, 897]
+    categories = [882] #883, 1206, 1235, 1213, 892, 1126, 871, 882, 61, 873, 874, 877, 1018, 897]
 
-    num_attempts = 3
+    num_attempts = 10
     for category in categories:
         for i in range(num_attempts):
             main(category)
