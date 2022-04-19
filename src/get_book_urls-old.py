@@ -10,53 +10,34 @@ from lxml import html
 from requests import Session
 from tqdm import tqdm
 
-import cloudscraper
-
 from utils import dump, get, get_headers, mkdirs
 
 NB_RETRIES = 3
 
 
-def main(this_category):
+def main():
     # create dirs
     root_dir = Path(__file__).resolve().parents[1]
     dump_dir = root_dir / "dump"
     mkdirs(dump_dir)
 
-    # horror: 883
-    # fantasy: 1206
-    # romance: 1235
-    # science fiction: 1213
-    # adventure: 892
-    # sports: 1126
-    # western: 871
-    # humor & comedy: 882
-    # children's: 61
-    # urban: 873
-    # thriller & suspense: 874
-    # religious: 877
-    # YA/teen: 1018
-    # mystery & detective: 879
-
     # determine search_urls (should be roughly 0.9B words in total)
     search_urls = [
-        f"https://www.smashwords.com/books/category/{this_category}/downloads/0/free/medium/{i}"
-        for i in range(0, 10000 + 1, 20)
+        f"https://www.smashwords.com/books/category/1/downloads/0/free/medium/{i}"
+        for i in range(0, 30000 + 1, 20)
     ]
-
 
     # get headers (user-agents)
     headers = get_headers(root_dir / "data" / "user_agents.txt")
 
     # initialize cache-controlled session
-    session = CacheControl(cloudscraper.CloudScraper())
-
+    session = CacheControl(Session())
 
     with ThreadPoolExecutor(max_workers=os.cpu_count()) as executor:
         # get/write book_page_urls
         book_page_urls = []
 
-        with open(dump_dir / f"book_page_urls-{this_category}.txt", "a") as f:
+        with open(dump_dir / "book_page_urls.txt", "w") as f:
             for nb_retry in count(1):
                 # break if all search_urls successful
                 if not search_urls:
@@ -82,7 +63,7 @@ def main(this_category):
                 )
 
                 # dump the search_responses
-                dump(search_responses, f"search_responses-{this_category}.pkl")
+                dump(search_responses, "search_responses.pkl")
 
                 for search_url, search_r in zip(search_urls, search_responses):
                     if search_r is not None:
@@ -109,7 +90,7 @@ def main(this_category):
                 search_urls = failed_search_urls
 
         # write data/book_urls.txt
-        with open(root_dir / "data" / f"book_urls-{this_category}.txt", "a") as f:
+        with open(root_dir / "data" / "book_urls.txt", "w") as f:
             for nb_retry in count(1):
                 # break if all book_page_urls successful
                 if not book_page_urls:
@@ -137,7 +118,7 @@ def main(this_category):
                 )
 
                 # dump the book_page_responses
-                dump(book_page_responses, f"book_page_responses-{this_category}.pkl")
+                dump(book_page_responses, "book_page_responses.pkl")
 
                 for book_page_url, book_page_r in zip(
                     book_page_urls, book_page_responses
@@ -188,10 +169,5 @@ def main(this_category):
 
 
 if __name__ == "__main__":
+    main()
 
-    categories = [883] #, 1206, 1235, 1213, 892, 1126, 871, 882, 61, 873, 874, 877, 1018, 897]
-
-    num_attempts = 3
-    for category in categories:
-        for i in range(num_attempts):
-            main(category)
