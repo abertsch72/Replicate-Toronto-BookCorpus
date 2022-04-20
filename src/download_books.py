@@ -6,6 +6,7 @@ from pathlib import Path
 
 from cachecontrol import CacheControl
 from requests import Session
+from cloudscraper import CloudScraper
 from tqdm import tqdm
 
 from utils import (
@@ -23,14 +24,16 @@ NB_RETRIES = 3
 
 
 def main():
+    category = 1235
+
     # create dirs
     root_dir = Path(__file__).resolve().parents[1]
-    data_dir = root_dir / "data"
+    data_dir = root_dir / f"data/{category}"
     dump_dir = root_dir / "dump"
     mkdirs(data_dir, dump_dir)
 
     # load book_download_urls
-    book_download_urls = read(root_dir / "data" / "book_urls.txt").splitlines()
+    book_download_urls = read(root_dir / "data" / f"book_urls-{category}.txt").splitlines()
 
     # remove any books that have already been downloaded
     book_download_urls = [
@@ -38,6 +41,7 @@ def main():
         for url in book_download_urls
         if not (data_dir / f"{get_book_id(url)}.txt").exists()
     ]
+    print(book_download_urls)
 
     if book_download_urls:
         # keep only the first 500 (as smashwords blocks the IP-address after 500 requests)
@@ -47,7 +51,7 @@ def main():
         headers = get_headers(root_dir / "data" / "user_agents.txt")
 
         # initialize cache-controlled session
-        session = CacheControl(Session())
+        session = CacheControl(CloudScraper())
 
         # get proxies
         proxies = get_free_proxies(session=session, headers=headers[0])

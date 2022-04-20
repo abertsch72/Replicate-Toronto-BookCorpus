@@ -14,6 +14,8 @@ for genre in categories:
         with open(filename) as f:
             lines = [line for line in f.readlines() if line.strip() != ""]
             num_books[genre] = len(lines)
+    else:
+        print(genre)
 
 sorted_list = sorted(num_books, reverse=True, key=num_books.get)
 total = 0
