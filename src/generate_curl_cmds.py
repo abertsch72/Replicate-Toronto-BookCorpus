@@ -17,7 +17,7 @@ def gen_commands(filename, max, outfile = None):
             f.write("#!/bin/bash\n")
             f.writelines([f"curl {url} -o data/{category}/{get_name(url)}.txt\n" for url in urls[:max]])
 
-gen_commands("data//book_urls-1206.txt", 50, "getdata.sh")
+gen_commands("data/book_urls-1235.txt", 50, "getdata.sh")
 
 
 def remove_throttled(folder):
@@ -29,4 +29,4 @@ def remove_throttled(folder):
 
     print(count)
 
-remove_throttled("data/1206")
+remove_throttled("data/1235")
