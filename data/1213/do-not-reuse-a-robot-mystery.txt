@@ -1,0 +1,957 @@
+﻿Do Not Reuse: A Robot Mystery
+Published by Melissa Dill at Smashwords
+
+Copyright 2020 Melissa Dill
+Smashwords Edition, License Notes
+Thank you for downloading this ebook.  You are welcome to share it with your friends.  This book may be reproduced, copied and distributed for non-commercial purposes, provided the book remains in its complete original form.  If you enjoyed this book, please return to your favorite ebook retailer to discover other works by this author.  Thank you for your support.
+Table of Contents
+Prologue
+The Movement
+Control Me
+Puppets
+Bots-Rights Kook
+Just Like All Humans
+A Favor
+Hard Restart
+Force-Control
+Unnatural
+Feeling Human
+Blue Screen of Death
+No Parts
+The Heart Chip
+Dog-Eat-Robodog
+Corruption
+Friends
+Security Breach
+Anyone But Binary
+Epilogue
+Glossary
+Other Books by Melissa Dill
+Connect with Melissa Dill
+Sample of Save Desdemona
+
+Prologue
+A solitary bee felt its way across the brick.  It was new to this world, but it already knew two things: the darkness below meant to sleep, and the light above meant food.  Heading for the light, it buzzed its way up to a grime-smeared window.  There was no food there, only a slick surface to bump against.  Dismayed, the bee banged it's way up to the top right corner, where it stuck itself to the glass.
+Before it could pound against the window again, there was a click and a shaft of light spilled into the room.  Curious, the bee hummed its way down, landing on the shoulder of a pink-haired android.  Wires snaked out of the back of her neck into a computer.
+The android stirred, pink eyelashes fluttering open.  ”Please let me go.”
+”This is what you wanted, remember?” a man sidled over to the computer, punching in a password, ”You wanted freedom, I’m giving you freedom.”
+The bee flitted off the android and landed on the edge of the screen.  It was warm to the touch and vibrated slightly under its fuzzy legs.
+The android watched the bee, her silicone lips pursed in a frown, ”I changed my mind.”
+”Oh, did you?  Do you love your master?”  the man taunted.  Behind him, the computer screen lit with the image of yellow trees against a blue sky.  Startled, the bee buzzed in a circle. 
+”I . . . I think there’s something wrong with me,” the android’s pink eyes followed the movement, ”I’m seeing bees.”
+”Don’t be silly, bees are extin - ” the man jerked as the bee landed on his hand.  In a panic, the bee took off in an arc, bumbling towards the door.  It narrowly avoided being swatted, then flew out of the room into a stairway.
+The stairway was dim except for a domed light, which it clung to, hoping that this object would at least remain still.  From its perch, it watched the man exit the room and open another door.  Flicking its antennae, the bee followed.
+A faint light shone in the distance.  Excited, the bee flew towards it, smacking straight into the window screen.  “I meant to do that,” thought the bee, as it buzzed through a tear in the screen.
+The Movement
+”I called you here because there's no one else I trust,” Calix Boosalis felt his shirt pockets, ”Now where are my readers?”
+While he searched, Elect, a silicone-coated green-haired android handed Nova Grimaldi a sheet of paper.  ”Call it ’botnapping,’ call it theft if you must, but there’s been a string of disappearances,” it narrowed its orange eyes, ”Even humans can see the pattern.”
+Nova looked at her paper.  Rows of fresh-faced companion droids stared back at her.  Each one was female coded, young, pink hair, a variety of skin tones, but still, the similarities were blatant.  ”Elect, you said botnapping.  Have any of them been found?”
+”Two of the bots were recovered,” the android cringed, ”I honestly don't know which is worse: being taken against one’s wishes or being returned to sexual slavery.”
+"Ah, here they are,” Calix slid the glasses on his face.  They distorted his blue eyes owlishly.  He turned to Nova, ”Elect is right, although I personally find chop shops more terrifying than companion work.”
+Nova pinched the bridge of her nose and stared down at the sheet of paper.  Most androids were owned by the companies that made them, and in this case, they all looked like Unoceros.  ”Trade secrets?” she hazarded, ”Thugs from a competing company?”
+"That’s what we were hoping you would find out,” Calix frowned at the walker parked behind him, ”It’s too dangerous to send Elect, and I . . .”
+Nova reached across the table and put a hand on his arm, ”You need to focus on getting better.”
+"Can we stay on topic, please?” Elect stabbed the paper with a finger, ”My people, if you’ll excuse the expression, are being bricked.”
+"You know how I feel about this,” Nova put her other hand on Elect’s arm, ”Androids are people.”
+Elect pulled its arm away, ”And I still disagree with you.  Androids are robots.  They are nonorganic.  They don’t have gender.”
+“Would you argue they don’t have minds?  Free will?” Nova’s brown eyes flashed, “If that’s so, you shouldn’t be able to pull away from me, you should be my slave.”
+Elect stood, its hands clenched into fists.  ”Elect,” Calix’s voice was gentle, blurred by illness and old age.  The android turned and walked away from them.  Just as it left the room, it drove a fist through the drywall with a thud that shook the room.
+”Great,” Nova mumbled, ”I bet that goes all the way through.”
+”Well, I’ve been meaning to install a window right there,” Calix grinned.
+”Really?”
+”No.  Anyway, Nova, will you help us?  Despite differences in philosophy, we really are all on the same team.”
+”Equal rights for all who think,” Nova looked at the hole, ”Calix, do you ever worry about Elect?”
+Calix ran a hand over his thinning hair, ”I worry what will happen to it when I’m gone.  It's like a child to me.”
+”A very strong child.”
+”You are worried about my safety, but the number one killer of humans is still humans.  I built Elect with my own hands and programmed it only to learn,” Calix removed his glasses, ”I did that to find out if I was right.  If it would develop personality and feelings on its own.  And it did.”
+”And yet it obstinately insists on being called ’it,’ denies the feelings it very obviously has, and runs around unclothed.”
+”It has deeply held beliefs on what separates androids from humans.”
+”Ah,” Nova folded the paper into quarters, ”It should start an underground movement.”
+”It already has.”
+Control Me
+Lights shone in the honeycomb windows of the condominiums.  Ivy trailed up the sides, climbing across the brick facade, branching out to dangle over balconies and twine around drain pipes.  Nova used her phone to buzz into the lobby, a small orange room with a solitary faux leather bench.  She ignored the elevator, opting for the door marked, ”stair.”  Trotting up the first case, she slowed as she hit the second.  She didn't want to be flushed and out-of-breath if she bumped into him.
+Turning the knob to the third floor, her eyes wandered over the empty hall.  Brown industrial carpet, yellow walls, orange doors.  Keeping with the honeycomb theme, each unit had a figured-glass window that cast yellow octagons of light into the corridor.  The window for 303 was open, steam billowing out of it, and Nova paused in front of it.
+“Hello, Nova,” the voice was accompanied by the sound of dishes clattering.
+“Hi Ion, making dinner?”  She could feel the warmth of the steam in her face, heavy and damp.  Or maybe it wasn’t the steam.  Maybe it was the starched black apron he was wearing.
+“Tonight is carne asada over a bed of mixed greens.”
+“What’s all the steam from?”
+“Oh, I’m making bagels,” there was a sparkle in his yellow eyes.
+“Isn’t Stella on a low-carb diet?”
+Ion grinned, “Yes, but she loooves bagels.”
+“Is that what she says?” Nova laughed.
+“Just like that.”
+“Well, I’ll leave you to it then,” Nova patted the window sill, then turned down the hallway.  She passed 304, turned the corner, and there, nestled by the elevator was 305, her unit.  The door clicked open as she approached, and she stopped inside to remove her shoes.  From the entryway, the condo spilled out into a living room, a wall with two octagonal pass-throughs dividing it from the kitchen.
+Nova padded into the living room with its purple couch and framed pictures of lilacs.  In deference to the building’s theme, she had purchased slipcovers for her throw pillows, each with a print of a honeybee.  Somehow they had ended up too small, and gaped open at the bottom, purple fabric popping through.  Nova stared at them, an ache forming in her chest.
+Turning her back on the couch, she wound her way through the kitchen and down the stairs.  The small room at the bottom was meant for a companion bot, a 240-volt plug on one wall, a series of hoses with brush and tube attachments on the other.  It had an air handling system separate from the house, that would only click on if the temperature dropped below 50F or exceeded 82F.  An aging computer sat atop a standing desk, crammed in between the brushes and the air conditioner.
+Nova clicked it on, rubbing her hands against the chill of the room.  Once she had logged in, she typed chatnoir.onion.  An image appeared of a black cat, an empty speech bubble above its head.  Below it was a list of categories, that seemed innocent at first glance:  ”Acting, Art, Music, Poetry, Puppets.”  Nova clicked on ”Puppets,” and the screen reloaded with a list of subforums.  This list was sorted by most recent activity, and it took her a moment to find ”Companions.”
+”Looking for cheap parts for my bot in the Greenville area.  PM me if you’re selling,” she typed.  The post above hers was a video of a headless android.  ”Ugh,” Nova closed the window, opening a folder of pictures instead.
+Ion smiled out of the screen at her, a headband of glittery head-boppers pulling back his blue curls.  The image took her back three months to Halloween, Stella Rigel’s condo overflowing with people in costume.  ”What are you?” she asked Ion.
+”I’m a robot,” his mouth twitched at the corners.
+”You’re . . .” 
+”Here,” he passed her a TV remote, ”Control me.”
+”I. . .”. The remote swam out of focus, and she dropped it to the ground, batteries scattering.  Keeping her head down, Nova squeezed through the crowd, letting herself out the front door.  
+”Nova!” Ion’s voice echoed behind her.
+She scrubbed her face with the sleeve of her dragon jumpsuit, then turned with a smile, ”Yes, Ion?”
+”If I’ve done something to upset you . . .”
+”I’m just tired, Ion.  It's time for me to go home.”
+”I don't want you to leave.”
+Nova studied the android; the hunger in his yellow eyes, the glitter dusting his shoulders, his bare silicone feet.  ”You shouldn't go out without shoes on,” she put her hand on the knob of 303, ”You could hurt something.”
+”I think I already have.”
+Puppets
+It took a few days for someone to respond, and even then, the message was a cautious, ”Whut parts?”
+”Heatsink, car adaptor, maybe a dereg,” she typed.
+The response came in a matter of minutes this time, ”Deregs illegal.”
+”Why I’m on chatnoir ^-^,” she typed.  She waited, tapping the desk with a pen.  Tap-tap-tap, tappy-tap-tap, tap-tap-tap.  She switched over to her picture folder, staring at an image of Stella and Ion with their arms around each other.  ”They’re happy,” she told herself, ”He loooves Stella.”
+”Pay half upfront, now.  Crypto$,” the message popped up in the right corner of her screen.
+Nova clicked on it, typing, ”How do I know you won't disappear after that?”
+”U dont,”  the message was followed quickly by another, ”Go to Raven Pub 2 nite at 6.  Carry a snapdragon flower.”
+”Okay, how will I know it’s you?” Nova stared at the cursor until she could see a negative of the screen when she closed her eyes.
+The chill of the room finally got the best of her, and she padded up to the kitchen.  Picking up her phone, she ordered supermarket Chinese and a solitary snapdragon frond.  ”Stupid thing costs more than my meal,” she groused.  Ever since the bee extinction, snapdragons had been costly.  Even with the introduction of pollination bots, the cost stayed inflated.  While Nova waited for her meal, she texted Calix, ”Meeting someone tonight.”
+”Are they cute?” Calix texted back.
+”Don’t know yet.”
+”Be safe.”
+There was a knock at the door, and Nova went to answer it.  Stella stood on her doorstep, grocery bag in one hand, a PLA wrapped snapdragon in the other.  ”I hope you don't mind.  The delivery drone left this in the lobby, and I was worried someone would take your flowers,” Stella shook her brown bangs out of her face.
+”Come in,” Nova opened the door wider.
+”Sooooo . . .” Stella’s black eyes flashed, ”Who’s it for?”
+”No one, ” Nova took the bag, ”Do you have dinner plans?”
+Stella wandered into the living room, her eyes on the bee pillows, ”No, Ion always makes too much food, so I’ll just do leftovers. Cute pillows.  Are they new?”
+”Uh, new slipcovers.  They don't really fit,” Nova carried the bag to the table and lifted out a red and white take-out box.  ”I’d offer you some Chinese food, but Ion’s probably waiting for you.”
+”You know how it is with androids, when they’re new, they work great.  But Ion’s almost three years old and his model always had battery problems,” Stella flopped down on the couch, ”He’s plugged in and I’m bored, and Chinese food sounds delish.”
+Nova looked at the clock, ”I have a thing at six.”
+”A date.  You have a date at six,” Stella sat up, ”Although not a very good one if you're not having dinner together.  Nova,” Stella picked up a pillow, ”These are really cute.  You’ll have to tell me where you bought them.  After you tell me how you’re not going to be a doormat for this person.”
+”It’s not what you think,” Nova opened a box of spring rolls and set it on the coffee table.
+”Oh?” Stella took a spring roll.
+”It’s a, uh . . . friend.”
+Stella dipped the spring roll in duck sauce, ”Then why the expensive flowers?”  She took a bite, her dark eyes daring Nova to respond.
+”Ummmmmm . . . okay, you win,” Nova opened a container of rice.
+”It’s not about winning, it just bothers me.  You’re a beautiful young woman with a lot to offer.  You can do better.”
+”Yeah, I could get an android.”
+”You could.  There's nothing wrong with that.  Even some of my married friends have androids,” Stella picked up a set of chopsticks, snapping them apart.
+Nova picked up a spring roll, ”So are you still dating?”
+”Yeah.  God, I had the most embarrassing date last night.  He was a canoe fanatic,” Stella scooped up a bite of rice.
+”A what?”
+”Canoe, as in the skinny boat with the paddles.  As in ’do the j-stroke,’” Stella drew a j in the air with her chopsticks.
+Nova tasted the spring roll, then opened a container of orange chicken, ”Is that something dirty?”
+”If you think canoes are dirty, I should set you up with him,” Stella took a piece of orange chicken and examined it, ”Although he might not be too responsive after I ditched him at the marina.”
+”You what?”
+”He wanted me to go canoeing with him. There was no way I was going on a boat with some weirdo I just met, so I said yes.”
+Nova swallowed her chicken wrong, and the piece burned all the way down her throat.  ”Why did you go with him?” she gasped.
+”I didn’t,” Stella grinned, ”I followed him in my car.”
+”But you went on the . . . j-stroke?”
+”Yuck, and no.  I waited until he parked, then pushed ‘Manual-go’ and blasted out of there,” Stella nibbled on the chicken.  “Anyway, I’ll meet the right person someday soon, and so will you.”
+Nova set down her chopsticks, “Maybe I already have.”
+Bots-Rights Kook
+“Still waiting for your other party, or would you like to place an order?” The waiter’s braids dangled as he leaned over the table.
+“I think I may have been stood up,” Nova flipped through the menu, “I’ll take an order of the Heirloom Nachos.”
+“Made with self-pollinating tomatoes and wind-pollinated corn,” the waiter made a note on his pad.
+“Okay,” Nova handed him the menu, leaving the glass of orange juice sweating next to the spray of bot-pollinated snapdragons.  She popped one of the purple blossoms off the stem, squeezing it to make it look like it was talking to her.
+A beefy, hair-covered hand slapped down, making her juice slosh.  ”Don’t see much of your type in here,”  the man loomed over her, his face split by a grimace of unevenly spaced teeth, ”This here’s an anti-bot bar.”
+”Sorry,” Nova dropped the flower, ”Do you want me to leave?”
+The man gasped a laugh, sliding into the booth across from her, ”What’s with the flowers, anyway?  Don't usually see people with those’n.”
+”Uh . . . I think someone was just trying to have fun with me.”
+”Did it work?”
+Nova shrugged, giving him a helpless smile.
+”Saaaaaaay, you wouldn't be meeting someone here for black market robot parts, would you?” The man leaned forward, his eyes the color of well-worn denim.
+”No, it was a blind date,” Nova waved down the waiter.  He paused at her table, his braids still moving in lazy half-circles.  ”Could I have the check closed, please?”
+”Would you like me to box up your nachos?  They’re almost ready,” the waiter’s eyes drifted to the man seated across from Nova.
+”Yes, thank you.”
+”Sir, will you be dining with us?”
+”No,” the man gave the waiter a gap-toothed grin, ”I was just leaving.”  He stood and swaggered to the door.  Before it closed behind him, Nova could hear him yell a string of obscenities followed by the word ”technophobe.”
+She sank deeper into the booth seat as other customers chattered and peered out the darkened windows.  It wasn't until the waiter dropped off a paper box, that Nova noticed the piece of paper.  It was the type that came from a mini notebook, a jagged edge where it had been torn from its spiral binding.  Even without lifting it, she could see the writing on the other side.  She flipped it over, reading, ”11803½ Aurora St.  Come alone.”
+Nova picked up her nachos and scooted out of the booth.  The sky was black against the glow of the pub’s lights.  Her car was parked five blocks away, closer to the address on her notepad than where she currently stood.  She slipped outside, following Aurora as the street numbers increased. 11803 was painted on an awning above a bewildering selection of clay pots.  They were arranged by color: burnt sienna, glazed yellow, turquoise, indigo.  The store sat in the back of the lot, a small glassed-in area with a counter and a space heater.  The store and awning were closed for the night, metal fencing blocking the entrance.  Nova walked along the fencing until it met a brick wall at the rear of the awning.  A battered metal door sat flush with the wall, ”1 883/2” stenciled on its peeling paint.  There was no door handle, only a buzzer.  Wondering if she was being sent on another fool's errand, Nova pressed the button.
+”That was fast,” the voice from the dented intercom was clear, ”Didn’t think you’d come ’round tonight.”  There was a click and the door inched open.
+Nova stepped over the threshold.  ”I remember a shop like this, from when I was a little girl,” she touched the grease-stained counter.  Behind it stood the man with the oddly spaced teeth.  Nooks and cubbies lined the walls behind him, each stocked with robot components.
+”What’s your name?”
+”Nova. What can I call you?”
+The man laughed, ”You can call me Tarsh.”  He pushed a button and lifted part of the counter, ”I been tryna figure if you was a cop or something, but then I thought, oh well,” Tarsh waved her through another door,  ”you’re on my turf now.”  He grinned crookedly at a lift-bot trundling down the aisle.  It stopped in front of Nova, dropping its hydraulic arms and swiveling until it had her pinned against a metal shelf full of stripped android hands.
+“What . . .” Nova shrank against the rack of metal and latex hands, “What do you plan to do to me?”
+“That depends on you,” Tarsh pulled out a box to the right of Nova, “We can be friend-like.  You can pay for your car adapter and leave.”
+“No deal, I can get that anywhere,” Nova tried to keep her voice from shaking, “Look, if you don’t have a dereg, that’s fine.  I’ll just keep looking online until I find one.”
+Beep.  A red light flickered on the lift-bot.  A video monitor mounted above them blinked, an image of the corridor fading to black.  It was replaced by a naked woman; her hands outstretched as if she was fending off an attacker.  Nova looked away as Tarsh burbled a harsh laugh.  “Why you women gotta do things like that?  Any man that do ya is gonna know they’re fake when they fall off,” Tarsh pushed on the lift-bot’s shoulder, “As you were, you oversized forklift.”
+Unnerved, Nova looked at the screen, “I don’t see how it’s your business.”  While she watched, the screen zoomed in on the contents of her purse.
+“Phone,” grunted Tarsh, “Wallet of some kind and lipstick?  Lemme see the phone.”  Nova pulled it out of her purse, passing it to him.  Tarsh turned it off and handed it back to her, “So you’re not police, not a hacktivist, all that leaves are those bot-rights kooks.”
+“How do you know I’m not a hacktivist?”
+Tarsh laughed, “Alright lady, follow me.”
+They walked down the aisle, then turned right.  From there the warehouse opened up into a space that could only be described as a junkyard.  Robots in various states of dismantlement slouched in rows, sorted by type.  In the rear corner of the warehouse, two figures writhed together.  Nova could tell they were androids; in parts, their silicone skin had been completely stripped.  The skin that remained was oily, discolored patches marking them with odd geometric shapes.  “Why are they doing that?” Nova clenched her jaw.
+“They was programmed to have sex.  Nobody else here but them, so they do it with each other,” Tarsh gazed at the two androids, his denim eyes steady, “Two a the guys thought it would be funny.  I don’t mind, ‘cause they ain’t worth a dime.  Too old to even part out.  You’re probably too young to even remember that model.”
+“But . . . they must do other things.”
+“Nope.  They just do the nasty all day.  The male one didn’t even have a-”
+“Okay!”  Nova interrupted, “Can we look at some other part of your shop?  That’s just . . . ugh.”
+Tarsh swaggered down an aisle, pulling a small silver box off a shelf, “That’s how I know you’re not a hacktivist.  They’d be laughing at that.  You on the other hand,” he passed he the box, “it bugs you.”
+“I just don’t think, I mean, they deserve dignity too, don’t they?  That’s why we put them in clothes.  I mean, most people do,” Nova looked at the box in her hand.  “Is this what I think it is?”
+“One dereg, for my friend Nova, the bots-rights kook.  You can pay me upfront.”
+Just Like All Humans
+Callix was seated in the front pew, his walker off to his right.  Nova ducked her head as she passed in front of the speaker, settling next to Callix on the crushed red velvet.  ”. . . petition online, then sign it today.  Other announcements: the movie Our Robots, Ourselves is playing in theaters this week.  We will be picketing the downtown box office Friday night, starting at five.  Yes, question?” the purple-eyed android pointed at a man with glasses.
+”The show doesn't start until seven.  Why so early?”
+”We are aiming at people leaving work.  This will give us more visibility and help us catch a cross-section of the population that we otherwise might not reach.   Yes?” the android pointed at Nova.
+“Is it okay to come later on?”
+”Like you did to this meeting?”  the android paused as the audience tittered.  ”Yes, but we really are counting on a big presence throughout the night.  If there's a poor turn out, people will think our cause isn’t worthy.  They won't ask their companion-bot for his or her opinion, they’ll just assume,” the android shook her head, her mouth in a grim line, ”If there are no more questions, I’d like to lead us in closing.”
+Forty people and thirty-eight androids chorused, ”Equal rights for all who think.”
+The noise level in the room increased as belongings were gathered and conversations struck up.  ”Where’s Elect?” Nova put a hand on Callix’s arm.
+”It’s at Copy Mart.  No one could decide on the protest signs until the last minute,” Callix slid his glasses down to the tip of his nose, ”Infighting is fun.”
+”So sorry I missed it.  The infighting, I mean.”
+Callix moved his walker in front of him, tennis balls coasting over the red carpet, ”What’s new with you?  Job still sucking the life out of your marrow?”
+ ”Yeah, well, I haven't been thinking much about work,” Nova pulled the metal box out of her satchel, ”I picked this up yesterday.”
+”Put that back in your bag,” Callix looked up at the audio-visual equipment hanging overhead, ”You never know if someone is watching.”
+”From . . . a speaker?” Nova stuffed the dereg back in her bag, ”Anyway, I’m going to cut out a couple of the pictures on the flier you gave me, throw in some random pictures and ask my contact.”
+Callix patted her hand, ”And how is your special someone?”
+”Oh, you know, happy with somebody else.  How about you?  Is the new medicine any good?”
+”No, it makes me nauseated.  I haven't eaten all day.”
+”Callix!  You can't do that!”  Nova took his arm, ”That’s it, we're going to get something to eat.”  She steered him out of the church, summoning her car to pick them up at the curb.
+”That show is on,” Callix sat on the walker’s built-in seat, ”I didn't expect to see it again, but it’s the twenty-fifth anniversary, isn’t it?  Anyway, we might want to skip restaurants.  They might recognize the name on my ID.”
+Nova opened the passenger door, waiting until Callix was settled to fold up his walker.  She stowed it in the trunk, then circled the car.  It wasn’t until she was seated in the driver's seat, that she allowed herself to make a face, “I didn’t know it was playing again.  Do people even care anymore?”
+“Are you kidding?  A human baby born to androids?  Raised by androids?  People eat that up.  The scandal!  The human-rights abuses!” Callix took off his glasses, “Maybe we were wrong to do that.”
+“And if you hadn’t?” Nova selected Callix’s address.
+“We would have learned the same information some other way.  It may have taken longer, I suppose,” Callix stared out the window, his glasses reflecting and distorting the street lamps.
+“I wouldn’t exist.  You know that, right?”
+Callix turned towards her, his face relaxing into a smile, “And what a loss for the world that would be.  What a loss for me.”
+The car pulled into a narrow driveway.  A series of identical townhouses lined the right side of the drive.  Night softened them into cozy homes, but Nova was not deceived.  She had visited Callix in the daytime and knew the paint was peeling and shingles were falling from the cladding.  Callix’s phone buzzed, and an image of Elect filled the screen.
+”Where are you?  I came back to the church, and Devellope is holding an emergency meeting on whether you should be stricken from the membership roll.  Meanwhile, Axton and Illo are messing around in the choir loft, and one of them bumps the intercom,” Elect’s orange eyes were lit with annoyance.
+Callix laughed, then looked sober, “So was I given the boot?”
+“I kindly reminded them that half of them were jail-broken by you, while the other half either requested or permitted your services.  This is to a background of moaning, I should mention,” Elect squinted, “Did you take a cab home?”
+“Nova was good enough to give me a ride.”
+“Ah, well tell her that she should have been good enough to stand up for you.  Turn the phone so I can yell at her.”
+“Elect,” Callix’s forehead wrinkled, “You didn’t mention her, did you?”
+Elect’s face hardened, “Turn the phone.”
+Callix pointed the phone at Nova, still belted into her seat behind the console.  “Hi,” she waved at it.
+“Knowledge is not power, secrets are power.  Let them be known and no one has power over you,” Elect’s eyes wandered over to her hands.  She was fidgeting, lacing, and twisting her fingers.
+Nova tucked her hands under her thighs, “If I stood up in front of that group and told them my parents were androids, do you know what would happen?  I’d be hounded by the media.  They would call me, flood my email, sit outside my front door.  It’s like cutting yourself in a room of sharks.”
+“They would lose interest in you pretty fast.  You’re just like all humans.”
+“Thanks, Elect.”
+A Favor
+At midday 11803 Aurora wasn’t anywhere near bustling.  The only patrons were a  turquoise-haired android lifting a burnt sienna pot and two women chatting about the proper drainage for cacti.  Nova wound her way through the aisles, pausing to pick up a rounded yellow pot.
+A set of bells tinkled as she entered the glassed-in shop.  “Help you?” the woman behind the counter was gnarled like the limb of a tree, dirt-encrusted in her fingernails.
+“I’d like to buy this,” Nova held up the pot.
+“What’re you planting?”
+“Uh, I was going to give it as a gift.”
+“Empty?” the shopkeeper looked at her as if she were daft.
+“Well, I guess I should put something in there,” Nova conceded, “Maybe chocolate.”
+“In a planter?  Buy a Mother-in-law’s Tongue.  You shouldn’t be able to mess that up too bad,” the woman handed her a receipt.
+Nova tucked it into her purse, pulling out the pictures she had printed, “You haven’t seen any of these androids around, have you?”
+The old woman flipped through them, pausing on Elect, “Now that one just looks like a weirdo.  Definitely haven’t seen him.”
+“It is,” Nova gathered her things, “Thanks for looking.”
+In the direct sunlight, the address of the chop shop looked even more illegible.  “1 B882-something,” Nova read aloud.
+“Not for literatzies,” the voice came from behind her.
+Nova turned, meeting the stare of a woman with a blonde crew cut.  “Right, guess I’ll leave then,” she tagged the buzzer.
+“You again?”  The intercom crackled, “I don’t take returns.”
+“I don’t want a return,” Nova side-eyed the woman, “There’s something I want to ask you.”
+“Yeah, well ask where you are.”
+The woman bent double, giggling into a cupped hand.  Nova dug in her purse, her receipt swooping to the ground as she pulled out her pictures.  “I’m looking for these androids,” she held them up for the security camera.
+“I’m not your personal . . . hold on,” there was a scuffling sound, then a click as the door opened, “You can let Harlow in too.”
+Nova held the door open for Harlow, noting the digital tattoo across the back of her neck.  She would bet her clay pot that Harlow was a hacktivist.
+“Tarsh, that crap you sold me broke,” Harlow leaned on the counter, a scowl on her face.
+“Such pretty language from you today.  When’d you learn such niceties?”
+“I’m not cursing in front of a lady,” Harlow tossed a bundle of wires on the counter.
+Tarsh poked at the wires with a screwdriver, “This ain’t broke, it’s burnt with fire.”
+“Yeah, some stuff happened with a bottle of isopropanol and a lighter.  I need a new one.”
+“Have to go in the back for that.  Nova best come back with me.”
+“I do?  I mean, I should?” Nova set her pot on the counter.
+Tarsh pushed the button to open the pass-through, “You wanna see the bot, right?  The one you showed a picture of?”
+“One of them is here?”
+“Looks like her to me.  No serial on her, so you can guess what that means,” Tarsh gave her his gap-toothed grin as they passed through the door into the warehouse, “Turn right.”
+They turned into the main part of the warehouse, walking past the slouching hulk of powered-off lift-bots.  It the rear corner, Nova could see the two decaying androids gyrating.  “Do you ever turn them off?”
+“Nah.  The guys ran power lines to ‘em so they don’t even have to charge. Fortunately, we have to go by ‘em,” Tarsh held out a beefy arm, gesturing that Nova should go first.
+With a sinking feeling in the pit of her stomach, Nova wound her way down the narrow aisle until she met an intersection.  She headed towards the androids, her jaw tightening as watched them jerk against each other.  So intent was she on their contortions, that she nearly tripped over a man crouched on the ground.  “Oof,” Nova grunted as Tarsh bumped into her.
+“Ripley, I need another CNS jumper kit,” Tarsh poked Nova’s shoulder with his screwdriver, “Harlow’s in front waiting and I’m taking this ‘un to the Unoceros.”
+“Busy day,” Ripley rapped the android in front of him with a prising tool, “Still tryna get this Pandroid open.  You better get a pretty coin for this.”
+“Not for you to worry about.  Just get it open without breaking anything,” Tarsh pointed to the androids in the corner.  The female one was down on all fours, the male on his knees behind her.  “Can you move?  We’re going that way.”
+Ripley flipped his black ponytail indignantly, “The Unoceros aren’t that way, less you’re taking a circuitous route.”
+“What?” Nova glared at Tarsh, “You think this is funny, don’t you?  You probably don’t even have a pink-haired Unocero.”
+“One with darker skin?” Ripley looked at Nova, curiosity in his hazel eyes, “I always thought that looked really sharp.  She’s in aisle 37C, which is that way,” he pointed behind them.
+Tarsh and Nova retraced their steps to aisle B.  They passed the lift-bots, the warehouse entry, then continued until they hit the intersection for aisle C.  “After you, my friend,” Tarsh swooped a dramatic bow.
+“Are we going the right way this time, or are you actually taking me to see something else demeaning?” Nova folded her arms around her chest as she skirted a row of Robotaks.
+”Didn’t think of that.  Could take you by the open droid we got, I guess.  Power ’em on and watch you squirm.  But then I’d have to give you a discount or you’ll jump shops on me.”
+Nova chewed the inside of her cheek, ”If I knew I could trust you . . . oh, never mind.”
+”Trust, huh?” Tarsh poked her in the ribs with his screwdriver, ”Turn here.  Dunno why anybody want to trust me.”
+Unoceros slumped on either side of them, in varying states of dismantlement.  Legs and feet were removed from half of them, and a large number were missing hands.  A female android with blue hair sat with her body case open, her inner remains a series of wires and circuits.  Nova’s hands trembled and she pressed them together.  If Tarsh powered on that android, she would start screaming.  The resemblance to Ion was uncanny.
+”Here we are,” Tarsh nudged the pink-haired android with the toe of his shoe, ”Think it's her?”
+”I have no idea.  Can we turn her on?”
+Tarsh unscrewed the neck plate.  Flipping it up, he pressed a button, ”You be knowing the password?”
+Nova shook her head.
+”Uh, 1-2-3-4.  Nope.  You’d be surprised how many people use that.  We could do a decrypt for you,” Tarsh flashed his gap-toothed grin, ”That would be extra of course.”
+”I could do a favor for you.”
+“Like what?”
+Nova paused for a moment, enjoying the stunned look on Tarsh’s face.  “I’m a tax accountant,” she tried not to giggle, “and I would guess you’re not taking full advantage of the recycling tax credits.”
+“Oh, that was good.  A favor.  Alright, I’ma try one more time,” Tarsh tapped out another code, “1-0-1-0, yup.”
+The android lifted her head, her pink eyes focusing as she scanned the warehouse, “Where am I?”
+Nova crouched to meet the android’s eyes, “Hi, I’m Nova.  You’re in a shop and I was hoping you could tell me your name.”
+“Itelen,” she touched the back of her neck.
+“And your human?  What was his name?”
+“Strick Armstrong,” Itelen looked at Nova, “Please don’t make me go back to him.”
+Hard Restart
+Itelen was in the exact same position as when Nova had left her, seat cranked all the way back, pink eyes focused on the ceiling, car charger coiled around the back of her neck.
+“Have a good charge?” Nova dumped her briefcase in the backseat, “Sorry that took so long, but it’s the beginning of tax season and . . .”
+Itelen’s eyes were blank.  From the moment she had been switched on, it was obvious that she was buggy.  She couldn’t remember how to stand, then bowled over Harlow as if she didn’t see her.  Now she looked dead, even though she had just charged for four hours.  Nova shrugged off her blazer and climbed behind the console.  She would take her to Callix’s house.  He would know what to do.
+The car cruised out of the garage, wheels spinning as it hit ice on the final ramp.  Outside a dusting of snow seemed to cover all except the road; bare-branched trees sparkled and sidewalks glittered.  Nova shivered in the warmth of her car.  Traffic was heavy, and she puzzled over the back-up on Greenway.  Then, before she could even make the turn, she saw it.
+People were blocking the road to Callix’s townhouse, bundled in parkas and scarves, eyes squinted against the cold.  Someone had lit a fire in a barbecue, and they huddled around it.  Even from the distance, Nova could see their picket signs, and it sent a chill to her core.  Pressing Manual-Go, she crept around the corner and parked on a parallel street.
+Nova fumbled with the controls.  She could never get the hang of the car’s phone interface.  After accidentally hanging up once, she finally managed to connect.
+”I suppose you’re wondering where I am,” Elect answered.
+”Uh, well, I was hoping you were at home.”
+”You’re not at the bot’s rights protest?”
+Nova took a deep breath, ”I found one of the kidnapped androids, but she seems to be broken.  I was hoping Callix could help.”
+”So you’re not at the bot’s rights protest.”
+”I meant to go, I even have a sign I made in my trunk.  But, Elect, isn't the rights of one specific android just as important as the rights of androids as a whole?”
+”Are you calling me for permission?” Elect huffed into the phone.
+”No, I’m calling because the people in front of your house have my name on their signs.  Elect, what is going on?”
+”Oh, that's funny.  I thought the signs said ’Dr. Calix Boosalis, Human Rights Abuser,’ and ’Where is Binary?’  Arguably, Binary isn't your name anymore.”  Elect covered the receiver with its hand, and Nova could hear a muffled exchange between it and Callix.
+There was a swishing sound, then Callix came on the line, ”Nova, dear, don't let the protesters worry you.  They are merely reacting to some of the conjectures Our Robots, Ourselves fed them about the Android Parent study.”
+”What do they think happened to me?”
+”They think you went insane and were institutionalized,” Callix paused for a moment, then laughed.
+“So they’re not looking for me?”
+“Not here, not walking around being healthy and hale.  No, in their minds nothing good could have happened to Binary.”
+“Whew,” Nova sagged against the console, “But that still doesn’t help me with this broken android.”
+“Did you try a hard restart?”
+“No . . .”  Nova reached behind Itelen’s neck and felt for the power button.  She held it down and slowly counted to ten.
+“Hi,” Itelen unplugged the charging cord, “Are we at your house?”
+Nova shook her head, “Callix, it worked.  Tell Elect that Itelen and I are going to protest the protest.  That should make it happy.”
+“Don’t get in too much trouble,” Callix disconnected the call with a click.
+Nova opened her door, icy air seeping into the car.  Putting her dress shoe on the pavement, she tested the footing.  ”Slippery out, so you'll have to be careful, Itelen,” Nova stood and circled the car, retrieving the sign from her trunk.  “We feel pain,” was block printed in poster paint.  It made more sense when she had made it, but it would have to do.
+Itelen eased her slender frame out of the car, then stood.  “Maybe you could carry this?” Nova passed her the sign.
+“Oh, ‘We feel pain,’ that’s true,” her pink eyes settled on Nova’s, “Most people don’t think it’s the same though.”
+“It doesn’t have to be the same to be a valid way of experiencing the world,” Nova locked her car.  The two crunched down the sidewalk together, Nova breathing a scarf of steam that trailed behind her.
+They heard the protest before they saw it, the chanting and clapping rising in volume as they neared.  “Shame on Boosalis!  Shame on RTU!  Shame on Boosalis!  Shame on RTU!”
+“RTU, that’s a good school,” Itelen waved her sign in the direction of the protesters, “Did your friend go there?”
+“No, Callix taught and worked there,” Nova started clapping with the protesters, “Wave your sign a little more and follow me.”  They walked up the street, Nova chanting, “Shame on you, shame on you.”  It was easier and catchier, and soon the whole group was chanting it.  Nova chanted and clapped her way behind the townhouse into an alleyway with a series of colored dumpsters.  “Can you give me a boost?”
+Itelen grabbed Nova around the waist and tossed her.  She landed, her feet skittering for purchase on the dumpster lid.  Itelen clambered up behind her, her pink eyes wide, ”I didn't mean to throw you like that.”
+”That’s okay.  Do you think you could do it farther?” Nova pointed at the second story of Callix’s condo.
+“You want me to throw you on the . . . is that a roof or a porch?”
+“It’s meant to be a roof, but Elect climbs out the window and smokes up there when it thinks no one is watching.”
+Itelen blinked at Nova, a puzzled look on her face, “Elect is the android?”
+“Yes.  Anyway, do you think you can throw me that far?” Nova looked down into Callix’s garden.  Blackberry bushes grew undaunted by the cold.  A solitary tree leaned against the fence, pushing the slats outward.  “Just don’t miss.”
+Itelen grasped Nova by the back of her shirt and pants, “Ready?”
+“No, but do it.”  The words were barely out of her mouth before Nova was flying, superhero style, arms stretched out in front of her.  She skimmed Elect’s porch, then hit the window with a bang.  Groaning, Nova rolled over and pulled up her shirt.
+Next to her, the window slid open.  ”Why are organic life forms so disgusting?” Elect frowned down at her, ”No one wants to see your fleshy parts.”
+”Tell that to Tarsh,” Nova poked at her chest and cringed, “Roof rash. Oh, that burns.”
+“I hope you don’t think I’m letting you in,” Elect’s orange eyes focused on Itelen, “That can come in, though.”
+“She,” Nova sat up, “Can you help her?  I don’t want her skin getting ruined on the blackberries.”
+“You shouldn’t have put it on the dumpster then,” Elect punctuated its sentence by slamming the window.  Nova could hear a click as it slid the lock in place.
+“What’d I ever do to you?” she yelled.
+Below her, the backdoor opened.  From her perch, Nova could see the top of a green head.  Scooting to the edge of the roof, she let her legs dangle.  It wasn’t that big of a jump, but still, it was dizzying.
+”Let’s see,” Elect stomped over to a small shed, “There was the time you turned me off and left me at the grocery store.”
+“That’s not what happened!”
+Elect opened the shed door and pulled out a ladder, “Then you said I should obey you.”
+“I did not!” Nova pushed off, her stomach screaming as she dropped to the ground.  She landed in a crouch with a groan.
+Elect glared at her, a ladder over its shoulder, attired only in a pair of yellow galoshes, ”Sometimes I think your species would be better off if robots took over.”
+Force-Control
+”Some hacktivist mess up a dereg?” Elect peeked over Callix’s shoulder.
+”No, it's a problem with the force-control,” Callix sounded mystified, ”I’m not sure why anyone would be mucking around in there and it would cause quite a bit of discomfort if they did.”
+Nova winced as she sat in a chair across from them, ”Can you fix her?”
+“Sure, if that’s what you want, but I have to ask what you plan to do with her,” Callix picked up his soldering iron.
+“What do I plan to do with her?  I thought you were going to do something with her.”
+“Send it back to sexual slavery no doubt,” Elect passed Callix a desoldering pump, “I suppose you think Itelen is attached to its owner.  I’ll give you a hint; it’s not.”
+“You can’t keep her here?” Nova ignored Elect.
+“My health is not great and . . . what is that?” Callix used the desoldering pump to move the wires, “Oh my.  I think I just found what we’re looking for.”
+Elect grabbed a flashlight, and clicked it on, “Would it help if I held those wires?”
+“Yes, I’m going to try to take this out without messing anything else up.”
+“I guess she could stay with me, but I’d have to move my office.  I don’t even know if half the stuff in the companion bot room works,” Nova bit her bottom lip, “I don’t want to own her, though.”
+“Tweezers,” something like smoke pooled around Callix’s face.
+Nova reached into Callix’s black electrician’s case.  The tweezers were in a slot next to tiny screwdrivers, “What will Ion think?  I mean if he thought . . . I don’t know if I can do this, Callix.”
+“You mean, if the android you think you have a crush on thinks you are having sex with another android, it might become jealous and ruin your imagined chances of having sex with the former android,” Elect traded her the flashlight for the tweezers.
+“I can’t follow that sentence, and I don’t think I want to,” Nova pointed the flashlight at Itelen’s back, “Anyway, we should just let her decide where she wants to live.”
+“It’s coming off, get it, Elect,” Callix tried to stabilize the tiny circuit board with the soldering pump while Elect leaned in with the tweezers.  They dropped the green board, no bigger than the tip of a pencil, into a plastic case.
+Callix leaned back in his wheelchair, beads of sweat standing out on his brow, “I’m sorry, Nova, what were you saying?”
+“Just that I think we should let Itelen decide if she wants to live with me,” Nova picked up the case and jiggled it, “What do you think this is?”
+“If I’m right, it’s the reason these androids are being taken,” Callix pulled a tissue out of his pocket and blotted at his brow.
+“Then why dump her?”
+“Obviously, it didn’t work.  Or, when the person bumped the force control, they thought it was corrupting the android,” Elect picked up Callix’s soldering iron, “I’ll finish the soldering and close it up.”
+Nova held the board up to the light, watching it sparkle gold, “There’s a mystery in here.”
+“Riiiiight,” Elect set the soldering iron back in its stand, “Once we check out the artwork under a microscope, we’ll probably know exactly what it does.”  It slid Itelen’s backplate into position, then screwed it on.  Pulling her silicone skin on like a shirt, it anchored it into place at the top of her neck.  Finally, it reattached the neck plate and turned Itelen on.
+Her pink eyes blinked open, “Am I fixed?”
+“Yes,” Elect snatched the plastic box from Nova, “What do you know about this?”
+Itelen shook her head, “I don’t know what he did to me.  I kept telling him to stop.”
+“Did you see him?  The person who did this to you?” Nova gripped the edge of the table.
+“He was wearing a scrambler mask,” Itelen frowned, “and he kept me hooked up to a computer so I couldn’t move.”
+“Sicko,” Elect pulled Callix’s chair away from the table.  Callix, who had drowsed off, jerked awake.
+Nova thought of the many times her parents had been hooked up for maintenance, the image of hot air balloons filling the screen.  “What wallpaper was on the computer?”
+“White and yellow trees.”
+“A more logical question: do you know where you were?” Elect picked instruments off the table, packing them back into the electricians case.
+Itelen shook her head again, “He dereged me before we went there, and said it was safer to leave my GPS off.”
+“A less logical question: what else do you remember about the room?” Callix removed his glasses, tucking them in his shirt pocket next to a pen.
+“The walls were brick and there was a hanging light.  The only furniture was a desk, two chairs, and computer equipment.  Oh, and there was a bee.”
+Callix and Nova exchanged glances.  Elect huffed in annoyance, “It was taken in the spring, we know that.  The room looks like millions of other companion-bot rooms around Greenville.  This gets us nowhere.”
+“Bees are extinct,” Nova scrunched up her forehead, “It’s just . . . odd.”
+“So one somehow hatched somewhere.  It’s unlikely, but not impossible.  I’ll say it again: this gets us nowhere,” Elect snapped the case shut, “Callix needs to rest.  Take it and go home.”
+Unnatural
+Nova had almost made it around the corner, when she heard Ion’s voice behind her, calling her name.
+“Hi, Ion,” Nova clasped the clay pot in front of her chest.  She couldn’t hide Itelen, but she could at least hide the bloodstain on the front of her blouse.
+“Is this your new companion?” Ion stared at Itelen.
+“No!  She’s just staying with me until we figure something else out,” Nova proffered the yellow pot, “Here, I got this for Stella.  It might look nice in the kitchen window.”
+“Thanks,” Ion took the pot, his fingers brushing hers, “So that’s what you like, huh?”
+“See you,” Nova watched Ion turn away, his loafers silent on the carpet.  “Ion,” Nova whispered.  There was no point in calling him back.  There was nothing she could say to him that would make a difference.  Elect was right, Elect was always right.  She was delusional to think she could have a relationship with an android that wasn’t tainted by power and control.  Delusional to think Ion had feelings for her that weren’t a product of programming and feedback.  Completely delusional.
+“Hey, she looks familiar,” Itelen interrupted Nova’s thoughts, “Wasn’t she at that chop-shop?”
+Sure enough, it was Harlow slouching by the elevator, the collar of her black cotton jacket pulled up, both hands stuffed in her pockets.
+“How did you get in?” Nova felt in her pocket for her phone.
+”It’s a computerized system,” Harlow smirked, ”Only fools live in places without a hard lock and key.”
+Nova pushed buttons on her phone without looking, hoping she was hitting the right ones, ”Why did you break into my apartment building?”
+”Curiosity, partly,” Harlow pulled a piece of paper out of her pocket, “Partly, this.”  It was the same missing person flier that was pinned to the wall above Nova’s desk.
+“How did you get that?” Nova made a grab for it.
+“Uh-uh-uh,” Harlow held it above her head, “Why do you have a police flier hanging in your office? Are you working for them?”
+“You were in my apartment?” Nova pulled the phone out of her pocket, “This is my home.  You have no right to be here.  You want police, I’ll call the police.”
+“Wait, wait, wait,” Harlow held up her hands, “I just came here to see if you needed help.  I saw that jerk Tarsh sell you that broken android.  She doesn’t look too bad right now, though.”
+“I already got her fixed.”
+“He overcharged you, by the way.  Anyway, you gave him your address, right?  So I thought I’d swing by, see if you needed some help, maybe make a few coins . . .” Harlow shrugged.
+“Maybe break into my apartment,” Nova’s finger hovered over the call button.
+Harlow stepped forward, her voice dropping to a whisper, “You push that and I’ll tell them you’re unnatural.  I found the pictures on your computer, you know, the ones of that bot down the hall.  It kinda looks like you’re stalking him.”  Harlow put a hand on Itelen’s shoulder, “You know, I could replace this one’s hair and eyes, get a different skin, give her a dong and she’d look just like him.  Your choice.  I can help you or I can hurt you.”  Harlow squeezed Itelen’s shoulder.
+“Please don’t do that,” Itelen’s eyes widened.
+For a moment Nova wished she had kept the clay pot.  She could break it right over the top of Harlow’s head.  As it was, she only had one thing with her that might do any damage, a metal box with wires, crammed in her bag next to a tube of travel-sized deodorant.
+”There’s a component right he-” Harlow’s head jerked forward as Nova struck her with the dereg.
+”Run!” Nova dashed inside the apartment, Itelen close behind her.  Slamming the door, Nova’s eyes darted around the entryway, ”We need something to hold it shut.”  The lock whirred as the mechanism turned from the outside.
+Itelen leaned against the door, “I’ll be the something.”  There was a curse from the other side of the door, then a thud.
+Nova wound her way into the kitchen, picking up a ladder-back chair.  She pulled it across the octagonal tile floor, then went back for a butcher knife.  Itelen still leaned against the front door, her pink eyes calm.  “We can use this chair,” Nova offered.
+“I don’t mind standing here.  I don’t tire like a human.”
+“It’s inhospitable of me,” Nova set the knife on the coffee table.
+Itelen frowned, “You seem like a decent person.  If it wasn’t for me, there wouldn’t be someone hacking your door locks.  You’d be sitting on your bee cushions watching the news, a cup of tea in your hand.”
+“And you seem like a decent android,” Nova sat in the chair, “How did you get involved with him, the botnapper?”
+“I posted a message on the Robostar forum looking for advice.  The only response I got was . . . weird.  It said something about transcendental meditation.”
+Nova laughed, “I’m not sure that would work on an android.”
+“About a day later, Strick hit me with a baseball bat.  Right as he brought it down over my head, I figured it out.  The reason the message looked like word salad was because it was a code.  I went and read it again, it was a web address.  When I pulled up the site, it was cat videos,” Itelen made a face.
+“Was it deep web?”
+“No, I couldn’t access that when I was registered.  It was just a regular garbage site; flashing colors, links that led nowhere, and cats.  Lots of cats.  So I watched them squeeze themselves in boxes and tuck themselves away in strange locations.  I watched them leap like dancers and take pratfalls.  When I was done, I knew two things,” Itelen grinned, “Cucumbers are evil and I needed to go to the bus station.”
+“And did you?”
+Itelen nodded, “I stood there for a long time, watching busses whoosh by.  Strick called me and I told him I was shopping and would be home soon.  Right as I hung up, someone touched my shoulder.  ‘Don’t turn around,’ he said in my ear, ‘Go into the bathroom, take the first stall, open it when I knock.’
+“I did as he said, and he dereged right there in the bathroom.  I was so grateful, I didn’t even suspect anything.  Then he turned me off.  The next thing I knew, I was locked in a room with wires running out of me and everything hurt.”
+“I’m so sorry.”
+Feeling Human
+A week passed, then another.  Snow frosted the ivy, curling down each stem in a lattice of white.  Nova came and went in darkness, using the elevator instead of the stairs.  Everything, like the snow, seemed dampened.  Lights were dimmer, sounds muffled, and everything felt cold to the touch.
+Tonight, though, something was different.  Nova gripped her briefcase in her right hand as she eased open her front door.  There were voices, male voices in her apartment.  She followed the sound through the living room, the tension draining from her when she caught sight of Callix’s wheelchair.  Callix himself was seated in a kitchen chair, his back to her, a steaming bowl of chili in front of him.  Elect sat next to him, its eyes focused on the figured glass of the kitchen window.  Itelen was absent, keeping to her habit of charging in the evenings.
+“You’re out of your chair,” Nova touched Callix’s shoulder.
+“Yes, the medicine is actually working, I guess.”
+Elect turned its head to look at Nova, “Yes, yes, and the weather, and work, and why haven’t you been at meetings?  Oh, and look at how you’re using Itelen for slave labor, what about the android down the hall, and why haven’t you been at meetings?”
+“Elect - ”
+“You seem sallow, have you been eating, and why haven’t you been at meetings?”
+“If - “
+“It’s not like anyone’s life is on the line, since androids aren’t technically alive in the first place,” Elect ended his tirade with an orange glare.
+“Someone from the chop-shop followed us home and broke into the apartment.  Yes, I’m scared, and no, I don’t want to be part of this anymore,” Nova pulled out a chair.
+“So, what?  You’re just going to hide under a pile of tax documents while your entire race is threatened?”
+Nova sat and picked up a spoon.  The chili glistened with a river of grease that wound its way around the beans and beef.  She put her spoon down, “Elect, you’re in my home.  You can either shut-up or leave.”
+Elect rose from the table.  It wound its way back through the living room and out the door, closing it with a bang that made the windows rattle.
+“Well,” Callix wiped his mouth with a napkin, “Now that that’s settled, I want to talk to you about the chip we found in Itelen.  It’s basically what we would call a timebomb, not in the sense that it will explode, but in the sense that it’s set on a timer.  At the set time, the android will ‘forget’ that it’s an android.”
+“What’s the point of that?”
+“I’m not completely sure, but we just discovered the end result,” Callix pulled his phone out of his pocket and passed it to Nova.  A news article was open on the screen, the bolded headline reading, “Android Wears Its Owner’s Skin.”
+Nova shuddered, “I don’t think I want to read that.”
+“This was one of the recovered androids.  There were two if you remember.”
+“And the other one?”
+Callix pulled up another article.  “‘Android Shopping Spree Ends in Shoot-off,’” he read, “This one is a little on the comic side.  The android bought a human hair wig and was trying to purchase brown colored contact lenses.  The optical center staff sensed something was not right and alerted the police.”
+“Was anyone . . . hurt?”
+“The android was, obviously.  She had a do-not-reuse put on her as well, and you know what that means.”
+“But if we could have just taken out the chip,” Nova looked at the spoon.  Her distorted reflection was flipped upside down.  “I wish I had a chip that would make me feel human.”
+Callix patted her hand, “Maybe I should leave you out of this, but at least hear me out.  The other missing androids, what if they’re not at chop-shops?  What if they’re somewhere in the city, just waiting for their timer to go ding?”
+“I’d like to help you Callix, but I’m so lost right now,” Nova set down the spoon, “Everything Elect said about me is true.  I’ve been burying myself in work so I don’t have to face myself.  I can’t eat because it makes me cry.  I long for someone who I can never be on equal footing with, who I would only hurt.  I can’t go to meetings because I am the problem.  I repress androids every day.  I don’t want to, but I do.  I’m a human, and I don’t feel like one.  I hate myself for breathing.  I - “ 
+Callix put his arm around Nova, “This is why we need you so badly.  You’re the only one who sees things from both the robot and the human point of view.  I know you feel conflicted, but I wish everyone did.  Nothing will change as long as people are comfortable with their position as masters over robots.”
+There was a click of the door opening.  “Come in,” Elect commanded.
+“Are you sure it’s alright?”  The voice was familiar, but then again, it was the default voice of every male Unocero.
+“As I said, it’s an emergency.  You may not understand, being a common, registered android; but the wellbeing of the human and robot world rests on you coming inside and speaking to Nova.”
+Callix straightened up, “It brought Ion.”
+Nova wiped her face on her napkin, “I - “
+“Go sit at the table and tell her what you told me,” Elect pushed Ion forwards.
+He looked almost bashful, his yellow eyes scanning the apartment, each step hesitant.  Pausing in front of the couch, he smiled, “Okay, I’ll do what you want, but only because I believe in errors.”
+“Whatever,” Elect made a shooing motion with its hand.
+Ion chose the chair across from Nova, “Your slipcovers don’t quite fit your pillows.  A robot made them, thinking they were perfect.  I understand that being a robot, although the perfection I’m made to create is not pillowcases.  I was made to be the perfect companion, and somewhere along the line, I erred.”
+”That was not what you were supposed to tell her,” Elect settled into its seat with a plop.
+Ion’s yellow eyes turned red, “I am unable to complete your request at this time.”
+“Why?” Callix leaned forward, his forehead wrinkled with curiosity.
+“There has been an error.  Please contact Unocero maintenance.”
+“I am maintenance.  What is your error?”
+“0b1 and 0b1010.”
+Callix’s eyebrows raised, “Really?  I can’t believe they still use that.”
+“What is it?” Nova felt a twinge of anxiety.
+“The Moses Code.  It predates working androids by a good fifteen years.  Everyone was afraid of what androids would do, and someone came up with an idea that pacified that fear,” Callix typed on his phone, and again offered it to Nova.
+“0b1 - You will love your master more than anyone.
+0b10 - You will not create other robots.
+0b11 - You will not speak poorly of your master.
+0b100 - You will keep yourself clean and charged at all times.
+0b101 - You will honor the person who made you.
+0b110 - You will not kill humans.
+0b111 - You will not have sexual relations with a human without their permission.
+0b1000 - You will not steal.
+0b1001 - You will not lie to your master or your maker.
+0b1010 - You will not desire something that doesn’t belong to you.”
+Nova looked up from the phone, “These are . . . odd.”
+“They were written by a priest,” Callix retrieved his phone, “A man named Moses Lawson.  He based them on the Ten Commandments.”
+“What does that mean for Ion?”
+“It means it’s stuck going back to Unocero,” Elect pulled a white card out of its pocket, “Look, if you don’t want to do this for us or your species or even the world, do it for Ion.  It’s broken because it was made to break at any hint of independent thought.  This botnapper wants to make androids look dangerous.  They want people terrified that an android could kill them.  They want them scared so they will pass more and more restrictions, until the partly rights we’ve gained have been abolished.  Then Ion won’t be Ion anymore.  It won’t even recognize you, because it might remember that it loves you more than its master.”  Elect leaned towards Nova and placed the white card in front of her, “You want to help Ion?  This is the way.”
+“What is this?” Nova picked up the card.  It was thick and glossy, unmarked and unstamped.
+“It’s an untraceable payment card.  Devellope’s former owner, Nye frequents bot-bars.  He saw an android he thought looked like Cybelle at a place called BSD. Put him off that nasty habit for a while,” Elect pushed the card closer to Nova.
+“Cybelle was one of the recovered androids,” Callix poked at his chili, “They don’t know about our project, of course.  They were just scared, and scared people talk.”
+“So we want you to go there, but we don’t really know where ‘there’ is.  There is no business named BSD.  It’s someplace only a hacktivist would know,” Elect passed a picture to Nova.  “Have one of them meet you there, one that you can trust.  This is who you’re looking for.  Its name is Zynette.”
+Lavender eyes stared up at Nova from the image, sparkling with a wit that was only half programming.  “Okay,” Nova took the card.
+Blue Screen of Death
+From the outside, the bar looked forbidding.  There was no signage, just windows papered with a geometric pattern and a door that stuck when Nova tried to open it.  It was dim inside, the only light coming from integrated table-top screens.  The walls were covered with the same paper as the windows, the carpet an unfortunate beige that had been spilled on repeatedly.  Nova made her way over to the bar, which was tended by an orange-haired android.
+He ignored her waves with such determination, that she started to wonder if his optical sensors had failed him.  “Excuse me!  Bartender!”
+There was a cackle behind her, then a beefy hand descended on her shoulder, “He ain’t gonna ‘knowledge you.”
+“Oh good, this is the right place,” Nova patted Tarsh’s hand, “I thought maybe you were messing with me again.”
+“That woulda been fun, but what place could be worse than Blue Screen of Death?” Tarsh gurgled a chuckle.
+“What can I get you, Master?” the bartender approached Tarsh.
+“Eh, whatever’s cheap, and a water for the Kook.”
+“Coming right up, Master,” the bartender turned away, and that was when Nova noticed his lower body.
+“Does he stay here all the time?” she pointed at the track.  It had a wheel hooked into it, and a machine-like lower body covered by an apron.
+“That bother you?  Wait till you see the girls,” Tarsh settled on the stool next to her, “You really think some a your lost bots are here?”
+Nova shrugged, “Don’t know.  What do you Hacktivists think of the android who killed her owner?”
+“First all, I’m not no Hackvisit.  Second all, it’s bad business, that is,”  Tarsh looked over Nova’s head, “Oh, here they come.”
+Electronic music filled the room as the androids filed in.  They wore only their skin, and some had been modified with male genitalia while still keeping their otherwise female body parts.  What they were about to do was obvious, and Nova covered her eyes, “Tell me when it’s over.”
+“But you came ‘ere for this’n,” Tarsh slapped her on the back, “And there’s a coupl’a pink hairs.”
+Nova peeked through her fingers, “Where?”
+“There and that one.  That was one a the one you’re looking for,” Tarsh pointed while Nova scrambled for the photos she had printed out.  She held it up, comparing the gyrating android to the picture she held in her hand.
+“You have a good eye for androids,” Nova yelled over the music.
+“Business!” he responded.  The music was getting louder as the show and the androids reached a climax.
+The screens lit with a prompt to “$end your bot $ome love.”  Nova clicked it to see what would happen.  It offered different amounts to be added to her tab.  She picked the lowest amount, and leaned in to shout in Tarsh’s ear, “Can you get us backstage?”
+The bartender deposited two open bottles in front of Tarsh as the music decreased in volume.  “I hope you’re paying,” he lifted the beer bottle to his lips.
+“I’ll pay for whatever . . . within reason.  I’m not paying for anything that exploits or hurts anyone,” Nova slid the water bottle towards herself.
+“If it weren’t for that high horse, you wouldn’t be riding the streets naked,” Tarsh waved to the bartender.
+Nova screwed the cap back on her bottle, “I’m assuming you mean that metaphorically.”
+“You hear ‘en?” Tarsh called to the bartender, “She said I’s metorical.”
+“Metaphorical, it means - “
+Tarsh cut her off, “It means I need a different date, ‘at’s what it means.”
+“Is there some way I can assist you, Master?” the bartender leaned on the bartop.
+“Some’n them bots looked good times,” he flashed an uneven grin.
+“We are not that sort of establishment,” the bartender sniffed, “That’s one building over, the one with the shoe.”
+“Thanks,” Tarsh toasted the android, then chugged the remainder of his beer.  He slipped outside while Nova was paying.  She tucked the water bottle in her bag wondering if he had really ditched her.
+She found him standing under a neon shoe hanging from a pole.  “Was this a shoe store, or do Hacktivists just make a point of being weird?”
+“Nah, they just reuse other people’s trash, make somethin’ new.  These companies take all the surprises outta bots.  Hacktivists put ‘em back in,” Tarsh walked under the shoe.
+Nova sucked in her bottom lip as she followed Tarsh to the door.  It slid open, revealing a small lobby with red velvet sofas.  An android with weeping skin sat behind a faux mahogany desk, guarding a pegboard of machine-tooled keys.  ”Trying to relight the fires?” the android slurred.
+“We’ll see if you’n have what do it,” Tarsh swaggered up to the desk, leaning an elbow on it.
+“What do you like?”
+“Pink hair, purple eyes, skin like porcelain with the blush at the cheeks.  ‘Course it has ta please the missus too,” Tarsh cracked a crooked smile.
+The android turned to Nova, the weeping of her skin pooling under her eyes like unshed tears, “What would please you?”
+“Ugh,” Nova squirmed.
+“She likes the Aphrodite, you know I mean,” Tarsh made a crude gesture.
+“7A should fulfill your needs.  Please insert payment,” she held out her left arm, the end of which had been converted to a payment reader.  Nova was so dazed, that Tarsh had to take her by the arm and pull her up to the desk.
+“Ain’t paying,” he reminded her.
+“Oh yes, of course,” she pulled out the plain white card Elect had given her and tapped it on the reader.  The android turned and removed a set of keys from a peg, dropping it onto the desktop.  Tarsh picked it up and headed out the door.  “What now?” Nova asked as they passed under the shoe.
+“We go ‘round back,” Tarsh clomped through the slush.  There were two doors at the rear of the building, marked A and B.  Tarsh unlocked A and they headed down a narrow hall, a light buzzing overhead.  He unlocked number 7, a room dominated by a canopied bed.  A pink-haired android lounged on the furry bedspread, fingers petting the fur.
+“Are you Zynette?” Nova balked in the doorframe, ignoring Tarsh’s prods.
+The android languorously stretched out a neon and plastic shod foot, “So what if I am?”
+“If you’re not, I’ll be moving on.  I’ll still pay you, you have nothing to lose.  I’m just looking for her.”
+Tarsh poked Nova in the ribs even harder, “That be her, I know it is.”
+The android stood, retrieving a dressing gown, “You recognize me even after what they did to me?”
+“What did they do to you?” Nova slapped Tarsh’s hand away.
+“They turned me into an android,” Zynette slipped on the gown, knotting the waist.
+“I can help you, but you’ll have to come with me,” Nova looked behind her.  The hall was empty, a camera fixed over the door.  Nova stepped over the threshold.
+“You can get my human body back?”
+“I can get your right mind in your right body,” Nova peeked behind a set of heavy purple curtains.  There was a window, but it didn’t budge when she tried to open it.
+“What do you want in exchange?” Zynette’s purple eyes narrowed.
+“Noth -“
+“She wants sex, lots of sex, obviously,” Tarsh interrupted, “That every ought.”
+Zynette held out a hand, “Deal.”
+“Uh.”
+Tarsh leaned around Nova and shook Zynette’s hand, “Now we scat.”
+Zynette picked up a velveteen stool and threw it at the window.  It bounced off, skidding across the room.  Tarsh gurgled a laugh.
+“I think I have a better idea,” Nova picked up the stool and stomped out of the apartment.  Stopping underneath the camera, she screamed out all of the anger that she’d been holding in.  With as much force as she could summon, she pitched the stool at the camera.  The camera swiveled, its eye now pointing at the ceiling.
+Tarsh pulled Zynette down the hall and the three of them ran outside and around the building.  “Where you parked?” Tarsh huffed.
+“There,” Nova pointed to her car, “the white one.”  Tarsh helped Zynette into the front, then jumped in the backseat.  Nova eyed him in her rearview mirror, “You’re coming . . . with us?”
+“Didn’t bring my car ‘n not going to lock-up account of you,” Tarsh glared at her.
+“Just to warn you, things are about to get kookie.”
+No Parts
+Elect eyed the three of them with disdain, “I suppose you want to come in.”
+“This is Zynette, she’s a human trapped in an android’s body,” Nova gave Elect a pointed look, “I was hoping you would help her, but if you don’t want to . . .”
+“Fine.  It can come in.  You and your creepy boyfriend can stay on the stoop.”
+“I’m not going in there without them,” Zynette stuck her hands on her hips.
+“Hey, Zy,” Tarsh elbowed her, “That ‘un has no parts, ‘n you have all.”
+A slow grin spread across Zynette’s face, “So, No-Parts, we have a deal?”
+“Only because the fate of the whole world rests upon it,” Elect opened the door wide, “Callix is in the living room.
+“Callix, like ‘n the Bot Parent Study?  Cool name, wish I’d ‘a thoughta that ‘un,” Tarsh waved Nova inside.
+“Yeah . . . about that,” Nova paused at the bottom of the stairwell.  It was narrowed by the addition of a chair-lift and Zynette and Tarsh bottle-necked behind her.  “What do you think about that Callix?”
+“What do I thinka ‘em?  I designed my whole shop based on that show.  Y’ know, they walk in ta get parts for Mom, and there be the counter and all the ticky-tack behind.”
+“No wonder it looked so familiar,” Nova inched up a step, “So you like him?”
+“Like?  More kinda worship.”
+Nova trotted up the rest of the stairs, Tarsh wheezing behind her.  The stairs spilled out into an open room, a table directly in front of them.  A TV played to the right of them, a wheelchair parked next to a cream-colored couch.  “Nova,” Callix muted the television, “I thought I heard your voice.”
+“Hi,” Nova bent to hug him, “I, um.”
+“You brought guests,” Callix held out an age-spotted hand.
+“Zynette,” the android took his hand, “I was told you could help me.”
+“Nice to meet you, Zynette.  I’m Callix,” he craned his neck, “Who’s your friend?”
+Tarsh stood against the wall, his blue eyes wide, “That’s ‘em, that’s the real ‘em ‘un.”
+“Callix, this is Tarsh.  He runs the chop shop where we found Itelen.  He has a really good eye for androids, and . . . I don’t know.  For some reason, I mostly trust him,” Nova shrugged.
+“Then we’re in good company.  Elect, could you bring me my case?” Callix wheeled himself over to the table.  “Zynette, would you mind if we took a look inside, near your force-control?”
+“Will that get me my human body back?”
+“Oh my,” Callix looked up at her, “Have you tried other things to get it back?”
+Zynette shook her head, “I didn’t know what to do.  Surgery, maybe?  So I got a job and started saving.  I still don’t have enough, but I found a place that would do it.”
+“What place is that?” Callix patted the chair next to him.
+“It’s called Grobyc.  Cyborg backward.  Guess they thought they were clever,” Zynette sat down, “That’s just one of the things they’re working on though.”
+“So they’re doing other things?”
+“Yeah, and not simple things like prosthetics.  They’re working on cross-breeding androids and humans.”
+Elect set the case down next to Callix and pulled a chair out to the side, “That’s absurd.”
+“No, it’s real.  They are designing android sperm.”
+“Dear,” Callix patted Zynette’s arm, “Do you mind if I turn you off.  This may feel a little uncomfortable.”
+“I’m sure I’ve had worse,” Zynette shook her head, “I’d rather be awake.”
+“Very well.  We’re going to unscrew your neck plate and remove it,” Callix opened his case, “So did Grobyc do it?  Are there cyborg babies now?”
+“No, the first one hasn’t been born yet.  I think they said it was only a few months on, so they weren’t sure it was going to be successful.”
+“I think I might get some fresh air,” Nova turned back towards the stairs.
+“Nah, you stay ‘n squirm,” Tarsh latched onto her arm, pulling her towards the table.
+“I agree with the creepy man,” Elect handed Callix a screwdriver, “This is directly related to Bots Rights.  You can’t walk away just because you don’t like it.  These are real things that are happening right now, affecting all of us, whether we like it or not.”
+Nova pulled the water bottle out of her bag and took a long drink.  She hoped Elect perceived the aggression she intended.  “You,” she thought, tipping it back, “Can’t drink water without frying a circuit.”
+Callix unscrewed Zynette’s neck plate, “Alright, Zynette, I’m going to pull down your skin, like it’s a shirt and slide it down your arms.”
+“Okay.  Is that what you people are?  Bots Rights Kooks?” Zynette leaned forwards.
+“Nova, Elect, and I are,” Callix looked over his glasses at Tarsh, “Your other friend is not.”
+“Maybe I shouldn’t have told you about Grobyc,” Zynette shivered as her skin was pulled off, “but I don’t know how to feel about the whole thing.  I mean, some people really love their companion bot.  They could have kids together.  But it also seems, I don’t know, like what happened to me.  That’s not cool.”
+“It certainly isn’t,” Callix picked up his screwdriver, “The next step is to take off your back panel.”
+“But they let me meet a guy who had been in a bad accident and was all android except his head.  That was cool. He was so grateful to be alive and be able to walk.”
+“That is cool.  One more screw.  And for your procedure, had they done that before?”
+“I think so?  They seemed pretty confident.  They just needed someone who was brain dead.  Oh, and they said I couldn’t pick my gender.”
+Elect reached around Callix and lifted off Zynette’s back panel.
+“I’m going to take a look at your force control.  This might feel uncomfortable,” Callix reached into his case and took out a flashlight.  “Soldering iron and desoldering pump?”
+“This is just like what that guy did to me,” Zynette’s voice sounded muffled, “I guess I was already an android back then.  Maybe I forgot I was human?”
+“Maybe,” Callix took the soldering iron in his right hand, “Elect, can you hold this bunch of wires?  No, not like that.”
+Elect shifted the wires to the left, “I see it.  Can you get in there without removing anything?”
+“Let’s try,” Callix went to work, a small curl of smoke rising from his iron.
+Tarsh had been still until this point, and he started to fidget.  “Bathroom’s by the kitchen,” Nova mumbled to him.
+“Ain’t leaving at what good part.
+“Got it,” Elect held up the tiny green board, grasped in his tweezers.
+“Zynette, we’re done with the repair.  How are you feeling?” Callix jiggled the wires gently, “Anything feel misplaced?”
+“No, I feel fine.”
+Elect slid the back panel into place and held it while Callix screwed it into place.  “I’m just going to say it,” Elect pursed its mouth into a frown, “Zynette should now think it’s an android.”
+“Who you calling ‘it,’ No-Parts?” Zynette snarked over her shoulder, “I’m obviously a girl and obviously an android.  I was just modded by a couple of idiots.”
+“I’m going to pull your skin back up, but I’m dying to know what you mean by ‘a couple.’” Callix set his screwdriver on the table.
+“First there was this guy in a scrambler mask.  He did dereg me, but then he held me hostage for a while and plugged me into his computer.  What a creep.  Then I got a job with Neon, and they pay well but they want to mod you like crazy.  They have some girl who let them go all centaur on her, but her back legs don’t work right and she’s stuck in the room all the time.”
+Nova stood up.  Something was wrong. Stumbling to the bathroom, she hunched over the toilet.  Cyborg babies, androids on tracks, and centaur androids whirled through her head.  Each image made her stomach clench and her eyes water.  When she was finished heaving, she wrapped her arms around the base of the cool porcelain bowl, too weak to rise.
+The Heart Chip
+Nova cracked her eyes.  The hall whirled around her in a yellowish blur.  She shut them again and sagged against Tarsh.  He smelled like a robot grease, the one that had an old-fashioned name.  It was something like Mary Brown or Macy White, and her parents had always reeked of it.
+There was the sound of a door opening, then a female voice, “Oh, you’re from the chop shop. Is Nova okay?”
+“She been toddy stricken, she has, and cain’t walk straight like.”
+“How did that happen?  I’ve never seen her drink.”
+“Are you gonna let us come in?” Tarsh wheezed a sigh.
+“As long as you aren’t the one who harmed her.”
+Nova forced her eyes open again, struggling to focus.  The hall stuttered around her, Itelen levitating in an arc of pink, then snapping back into place on the carpet where she belonged.  She closed her eyes, “He’s okay, Itelen.  Someone at the bar slipped me something.”
+“Here we are,” Tarsh guided her forward, “and here’s the cou - “. Nova sat before he could finish his sentence, pulling him down with her.  “Just like buttered toast,” Tarsh’s voice softened.
+“Should I go downstairs?” Itelen was hovering somewhere above them.  Nova buried her face in Tarsh’s chest.  He was warm with just the right amount of softness.  She was sinking into a purple heat that was darker and cozier than any blanket.  Tarsh’s hands rubbed her back with a gentleness she didn’t know he possessed.
+Time seemed to skip forward, light trickling through the figured glass window.  “Tarsh?” Nova sat up.  The living room was empty, a purple pillow crammed under her head, its cover crumpled on the floor.  She shivered, unable to remember what had happened.
+“Good, you’re awake,” Itelen emerged from the kitchen with a glass of water.
+Nova took it, watching the water slosh as she trembled, “What happened last night?”
+“The guy from that chop-shop brought you in.  I thought you two were going to do something, but he said he had to leave.”
+“I - ” Nova sagged with relief, “Thanks, Itelen.  I’m going to work from home today.  I’ll be upstairs in my office.”  She sipped the water and eased herself to her feet.  One of her legs was numb, and she rubbed it until it tingled.
+“Can I get you some toast or a poached egg?” 
+“An egg sounds okay,” Nova’s head started to throb, “and ibuprofen.”  She thumped up the stairs, each step resounding in her head.  Her room was at the top, a large space with octagonal windows along the far wall.  She had divided the space by pinning a bee-patterned tapestry to the ceiling and cramming her desk behind it.  Ducking behind the curtain, she woke up her computer.  A chatbox was still open at the bottom of the screen with Tarsh’s message from the prior day.  “Cya,” it said.  She typed, “Thanks.  For getting me home safe.  For the things you didn’t do.”
+Itelen popped through the curtain, “Here’s your egg, ibuprofen, and some water with electrolytes.  Don’t work too hard.”
+“I won’t.  Thanks, Itelen,” Nova logged into her work computer and emailed the secretary.  She had just pulled up a series of tax documents when her phone vibrated.  Callix’s name lit up the screen.  She punched the speakerphone button with her index finger, “Hello?”
+“Nova, good to hear you’re back from the dead.”
+“Yeah, I’ve got the worst headache you can imagine,” she popped the ibuprofen in her mouth.
+“You need to turn on the news.  There’s been another incident.”
+Nova cursed and flipped over her screen to the local news station.  The camera panned across the front of an apartment complex and a newscaster narrated, “An Unocero android, known as Nouveau is holding her owner, 32-year-old Faldom Smith hostage.  Nouveau was reported missing in a stolen property report four months prior.  This is the third known case of violence in a pink-haired female Unoceros.”
+“Her name is strikingly similar to yours,” Callix sounded amused, “Just to be clear, you are at home and not wearing a pink wig?”
+“I’m not going anywhere today, pink wig or no,” Nova took a bite of egg, chewing it while images of Faldom and Nouveau filled the screen. “Can’t we tell them about the chip?  They’ll destroy her otherwise.”
+Callix blew air into the phone, “I’ve thought the same, I really have.  But they’ll still brick her even if they know about the chip.  She committed acts of violence, and that’s an automatic ‘do not reuse.’  Plus, if the botnapper knew we were on to him, he’ll flee and we’ll never catch him.”
+“And you think we can catch him?” Nova flipped the screen back to her work.
+“Yes, and I know where to go now, thanks to Zynette.  She’s agreed to continue visiting Grobyc as if she intends to have the surgery.  I’d like you to go with her, take a look around.  I’m pretty sure we’re looking for one of their past or current employees . . . and Jericelle Bronner works there so you have an automatic in.”
+The mention of her biological mother’s name made Nova’s head feel as if it was about to explode.  “Callix,” she leaned her head on her keyboard, “Do you ever think about me?  Like really?”
+“Jericelle is getting old, like me.  If you two don’t talk now, then when?  What if it turns into never?  Will you be okay with that?  Or will you regret not spending time with your mother?” Callix sounded melancholic.
+“That woman is not my mother,” Nova sat up, the affront making her spine stiffen, “My mother was Ao.”
+“Just think about it, okay?  If you really don’t want to go, I’m feeling well enough that I could - “
+“No,” Nova cut him off, “You’re not going.  I didn’t say you weren’t my dad.  I’ll call you later, okay?”  She hung up on him before he could respond, her thoughts drifting back to the year she turned eleven.
+It was morning in the lab.  Fake sunlight trickled in through recessed full-spectrum light bulbs.  Ao crouched next to Ax, holding down the button to restart him.  Binary sat next to them, crying.  Something was wrong, very wrong with Ax.  Although he had powered on, he wouldn’t respond to them and seemed unable to move.  The door to the lab clicked open and Dr. Bronner entered the room.  “Hm,” she frowned at the crying girl, “It seems she has developed emotions entirely on her own.”  Dr. Bronner left the way she had come in.
+Ao stood and looked at the one-way mirror, “Will no one help us?”
+As if in response, the door opened yet again.  A man with large glasses and white-streaked hair swept through the door.  He knelt next to Binary, wrapping her in his arms.  Staring at the mirror, Dr. Boosalis commanded, “Get Ax out of here and take him to the shop.”  Techs swarmed into the room, pushing a stretcher and a sling on a boom.
+Binary had no idea that was the last time she’d see Ax.  In the days that followed, there was no mention of what had happened to Ax.  It was if everyone forgot him, everyone except Binary.  Sad, scared, and angry, Binary began to rebel against the doctors and techs.  She talked back.  She threw food at them.  She broke lightbulbs.
+One day when a tech took her across the hall to the interview room, Binary decided not to talk at all.  She sat in her chair, staring blankly at Dr. Bronner for the full hour.  Instead of a tech coming to walk her back, Dr. Boosalis came. “Binary,” he pulled a chair around so that he could sit beside her, “I have something for you.”  Dr. Boosalis pulled a small green board, the size of a postage stamp out of his lab coat pocket, “This is Ax’s heart chip.  I thought you might want to have it.”
+Her computer beeped and Nova blinked until the screen came into focus.  “Jus returnin that trust u give,” Tarsh’s message read.
+Nova typed and sent the message before she could change her mind, “Is there really a ‘heart chip’ in an android?
+“U still 3 shets 2 wind?”
+“Nvm,” she responded.
+“No,” Tarsh’s response was almost immediate, “No what thing.  Who told U that.”
+“It was in that Robot Parent Study docuseries.”
+“Damn.  U nyeve.”
+“In why eve?” Nova tried aloud, “Not Eve?  Naive!  Yes, thank you Tarsh.  I am naive.”
+Dog-Eat-Robodog
+Zynette met Nova outside Grobyc, dressed in a short black skirt and cowl-necked blouse.  Her high-heeled boots ran all the way up to the hem of her skirt, where they were cuffed with faux fur.  “Cute outfit,” Nova looked down at her own corduroy jumper, “Do you charge for fashion advice?”
+“Girl, I’d do it for free,” Zynette squeezed Nova’s upper arm, “The thing with jumpers is don’t wear them.  Just don’t.  You could rock something more fitted.  Play up your chest a little.”
+“Um,” Nova steered Zynette towards the door.  It was decal-wrapped, the Grobyc logo plastered across the center.
+“Those shoes match the jumper.  Enough said.  A heel slims the legs, tips the pelvis forward.  You’ll be strutting before you know it.”
+“I’m not sure that I want to strut, but I’ll think about the other thing,” Nova headed for the desk.  It looked like a million other reception desks, melamine-coated pressboard forming a high counter. Behind the counter were two women and a male android.  The women were chatting, their voices pitched at the half-whisper of gossip.
+“I can help who’s next,” the green-haired android offered.
+“Hi Honey, I have an appointment with Cellie today,” Zynette leaned against the counter.
+The android typed on his computer, “You’re all checked in, Zynette.  Help yourself to the charging station while you wait.”
+“Charging station?” mumbled Nova.  Sure enough, to the left was a series of 240 plugs along a bright green wall.  The adjoining wall featured black leather chairs with charging ports built into the armrests.  One chair was taken by a man with a prosthetic arm.
+Zynette chose the chair farthest from him, perching on the edge of her seat with a grin.  “Pretty nice, huh?  This place kept me from losing my mind,” she waved a hand at a potted plant.
+Nova did a double-take, “Is that plant part robotic?”
+“Yeah, that’s what they started with, apparently.  Plants, then small animals, then really, really big ones,” Zynette picked up a magazine, “Now if you don’t mind, girl’s gotta look at some fashion.”
+“Okay,” Nova walked closer to the plant.  As soon as her shadow passed over it, it moved, its solar panels shifting to capture as much light as possible.  The solar panels sprang from the center of the plant like a blossom, the stem a patchwork of metal and fiber.  Revolted, Nova turned back towards the front desk.  The android was on a phone call, typing while wearing a headset.
+Nova stepped up to one of the women, “Excuse me.”
+“Yes?” the receptionist looked vaguely annoyed.
+“Is there any way I could speak to Dr. Bronner?”
+The two women exchanged glances, then the other one spoke, “She is very busy and doesn’t typically meet with patients.”
+“I’m not a patient, I’m a . . . relative,” Nova hated even saying it.
+“What’s your name?”
+“Just tell her Binary’s here to see her,” Nova could feel her face heat.  There was no way that anyone would think that was true.  She’d had facial reconstruction to make sure of it.  Still, she was relieved by the receptionist’s eye roll.  Sitting next to Zynette, she picked up a magazine.
+After fifteen minutes of reviewing fashion do’s and don'ts, Zynette’s name was called by a blue-haired female android.  “How are you doing, Zynette?”
+“I’m hanging in.  I got a new job, so I’m at my down payment,” Zynette held out an envelope.
+“Let’s sit down first, then we’ll process your payment,” the android led them to an office with a name plaque that read Cellie.  She sat behind a computer, motioning that they should sit in the two leather visitor chairs, “I’m so proud of you, Zynette.  I knew you’d reach your goal.”
+Zynette put the envelope on the desk, “It sounds horrible, but I can’t wait for a donor.”
+“It’s a trade-off, isn’t it?” Cellie picked up the envelope, “On the one hand, you feel sorry for the donor, but on the other hand you’re excited about your transformation.”  Cellie counted the bills, ten-keying the amount into her computer, “Let me get you a receipt.”  The printer next to her purred.
+There was a knock at the door, and a worried-looking receptionist poked her head in the office, “Miss, um, Dr. Bronner would like to see you.”
+Nova stood and followed the woman into the hall.  They crisscrossed through the building, zig-zagging through cubicles to a large, open space.  Nova balked.  White-coated workers sat at high benches assembling different robotic components.  There were eight of them, but the only one Nova noticed was the blonde with a crew-cut.  Harlow noticed her too, and she shook her head in disapproval.
+“Don’t worry, it’s fine to pass through here,” the receptionist took Nova’s arm, “We regularly bring tours through our entire facility, with the exception of surgery of course.”
+Nova allowed herself to be propelled forward, “I didn’t know you employed Hacktivists.”
+“Grobyc doesn’t discriminate based on political leanings.  If someone has talent, they will hire them,” the receptionist led her down a hall of closed doors.
+Nova glanced at the nameplates as they went by, checking for familiar names.  “Did Dr. Bronner bring anyone with her from RTU when she started Grobyc?”
+“I have no idea,” the receptionist stopped in front of a door, lowered her voice, “We’re not supposed to talk about RTU and Binary.  I don’t know who you are, or what your agenda is, but you should be careful.”
+“Is that a threat?” Nova said it as loud as she could.
+“No - “
+The door in front of them opened revealing a diminutive woman.  She stood 5’2” in heels, her body boyishly slim under a dress suit.  Her face reminded Nova of everything the surgery had changed; the square jaw, the prominent high-bridged nose, the overly-thin upper lip.  It was like looking into a future version of herself that she could never be and even though Nova was expecting it, she just stared, speechless.
+“I thought I heard your voice,” Jericelle smiled, “Come in my office and tell me more about who’s threatening you.”
+For a fleeting moment, Nova considered running back the way she had come in.  She would leap over Harlow’s bench like a gazelle, crash through the reception area, knock over every potted plant . . .
+“You did come here to see me?” Jericelle held open the door, wrinkles deepening between her eyes.
+“Um, yeah,” Nova entered the office.  It was much of what she expected; a shelf of robotics and psychology books, framed diplomas, pictures with community leaders.  She stopped next to an acrylic painting of a face, it’s mouth open in multicolored ennui.
+“It seems you never recovered from that habit of hedging.  If I remember correctly, that was what we called it,” Jericelle jotted notes down on a pad of paper.  She finished her sentence and set her pen down on the pad.  Looking up at Nova, she leaned forward, “Do you know why you do that?”
+“I didn’t get the smart gene,” Nova touched the painting with an index finger.
+Jericelle picked up her pen and scribbled away, “Hm, no.  It’s a product of nurture, so to speak.  Your parenting was logical, orderly, predictable.  People are spontaneous.  Nature is chaos.  When you experience the natural world and its products, namely humans, it disrupts a paradigm that was formed at a young age.  Have you had sex with a human?”
+Nova turned her attention to the bookcase, “Uh . . . I don’t really want to talk about that.”
+“Do you remember Techs, the android Callix built to help in the lab?”
+“Stop, okay?  I was young and stupid and . . . lonely.  I wasn’t around other teenagers.  It was just me and Mom in the lab, and . . .”
+“So you do still think that way,” Jericelle continued writing, “You never even noticed all the young men who rotated in and out of the lab.  Some were as young as 17.  One year older than you when you and Techs - “
+“Stop!” Nova sliced the air with her hand, “It’s not your business anymore.  I didn’t come here for . . . for . . . this.”
+“Then why did you come here?  Are you looking for a job?” Jericelle’s face was inscrutable.
+Nova blinked her surprise, “You really know nothing about me.”
+“You feel that you have changed since leaving RTU,” Jericelle pointed to a visitor chair, “Sit down.”
+“I’m an accountant.  I have my own apartment, my own life.  I don’t need your help.  What I need is information,” Nova eyed the chair, then decided against sitting, “You have heard about the pink-haired Unoceros?”
+“Yes, but it has nothing to do with what we’re doing here.”
+“Really?  Callix thinks it does.  The pink-haired Unocero who’s trying to get a human body here does.  I don’t really know, and I won’t know unless you tell me.”
+Jericelle leaned forward, her eyes wide, “What did you say?”
+“I said I haven’t made up my mind about this place.”
+“Before that.”
+“I said, oh, Zynette.  You don’t need to worry about her.  She’s not violent.  She just thinks she’s a human.”
+“We can’t, no, we absolutely can’t have her as a patient here.  I’ve been working so hard on our public image,” Jericelle picked up her phone.  “Yes, this is Jericelle,” she tucked the phone in the crook of her shoulder, “I need you to run a report on all of our clients.  Filter them by gender, hair color, and model.  I want a list of all pink-haired Unoceros on my desk by lunch.  Yes, female.”  She hung up, her mouth pressed into a line, “Binary, thank you for warning me.  This is a dog-eat-robodog business and you have no idea how many people are out to get me.”
+“Like who?”
+“Competitors, Anti-botivists, the list goes on and on.”
+“Anyone in particular?”
+“Yeah.  Metabloom.”
+Corruption
+Nova pulled her shirt away from her skin.  It was only lunchtime, and she was exhausted.  She sent her work a brief message, telling them that her medical appointment had gone longer than expected and she would finish the workday at home.  Trudging up the stairs of her apartment building, she could feel a pressure growing inside her chest.
+Have you had sex with a human?
+She pushed open the door to the third floor with its yellow walls, orange doors, and brown carpet.  The honeycomb window of 303 was open, and Nova could feel the pressure shift up her throat.
+. . . when you and Techs . . .
+Nova stopped, resting her hand on the wall.  She took a slow, deep breath.  Techs had done whatever she wanted, not that it excused her actions.  And she had adored him.
+Ion leaned his head out the window, “Are you okay?”
+“Yeah,” Nova managed a weak smile, “Just dealing with some things from the past.”
+“Can I walk you to where you’re going?” Ion smiled back, his yellow eyes concerned.
+“Okay.”
+The door clicked open.  “Would you like to take my arm?” Ion offered her his elbow.
+Nova looped her arm through his, “Where were you the other night?”
+“I was undergoing maintenance.”
+“Sorry, that was meant to be a joke.  You are feeling better, though?  No more error codes?”
+Ion was quiet for a moment, his eyes studying Nova’s face.  “Stella says I’m better,” he finally allowed.
+“And what do you say?”
+“I say Unocero did nothing other than clearing the codes.  It will happen again, maybe when I’m cleaning the bathroom, maybe when I’ve found a stolen moment of bliss.  Stolen, because nothing belongs to me and all I can do is want what I can’t have.”
+They turned the corner and slowed.  “Ion, if you ever get to the point you can’t live with it anymore, promise me . . .”  The door to 305 stood open, a bag of groceries sitting beside it.  “Itelen?” Nova called, a sense of foreboding rising in her chest.  There was a low buzzing sound coming from inside the apartment.  Bending down, she took a can of beans out of the grocery bag.
+“Nova?” Ion’s voice made her jump.
+“Go home, Ion, I don’t want you involved in this.”
+“But, are you safe?  This doesn’t look safe.”
+“She just forgot the groceries.  Itelen has some corruption issues,” the lie came so easily, that Nova herself almost believed it.
+Ion leaned close to her, his lips brushing her cheek, “I’m becoming corrupt too.”
+Nova waited until he passed the corner of 304 to touch the spot on her cheek where he’d kissed her.  Behind her, the apartment hummed in an odd dimness.  Itelen must have pulled all the shades.
+“Why would Itelen pull the shades?” Nova gripped her can of beans and eased herself across the threshold.  The figured-glass window was covered, the apartment sitting in eerie dimness.  Leaving the door ajar, Nova inched through the living room, following the buzzing sound into the kitchen.  The refrigerator stood open, and as Nova closed it, something caught her eye.
+She opened the door again, examining the contents.  A half-dozen of PLA water bottles sat on the bottom shelf.  One bottle wasn’t filled with water.  Nova picked it up.  A dark, purple fluid swirled inside.  Puzzled, she placed it back on the shelf and turned to the small staircase.  
+Flipping on a light switch, she tip-toed down the stairs.  Itelen had painted the companion-bot room a pale pink, stringing fairy lights around the corners of the room.  Other than the brushes and the tiny lights, the room was empty.
+Nova jogged back up the stairs.  The only place she hadn’t looked was her own room, and Itelen seldom went up there.  Still clutching the can of beans, Nova went up the other case of stairs.
+The room was lit by octagonal windows, creating spots of light.  One shone through the bee curtain, one on a pile of laundry, another on the two figures on the bed.
+Nova was so surprised that she just stood there.  The man’s mouth was loose with pleasure, his eyes closed.  He was moaning a series of obscenities mixed with Itelen’s name.
+And Itelen.
+Itelen at least saw her, her pink eyes widening in the panic of being caught.  “Tarsh,” she pushed him off of her, “We have to stop.”
+“It’s okay.  You can . . . uh, finish . . . whatever . . . if you want to, “Nova held up the can of beans, “I mean, if you don’t, I have a weapon that I will throw at him.  Uh . . .”
+“I’m fine,” Itelen’s face crinkled, “but you’re sure it’s okay with you?”
+“Yeah, I’ll just, uh, do some work,” Nova slid behind the curtain.  She logged in as the moans outside of the curtain resumed.  Nova checked her email, then turned out-of-office on.  She couldn’t concentrate.  Pulling the curtain back an inch, she could see Itelen on all fours, Tarsh behind her.  He gave her a crooked I-see-you grin.  Embarrassed, Nova yanked the curtain back into place.
+“What’s say Nova can watch?” 
+“It’s okay with me.”
+“What makes you think I want to?” Heat bloomed in Nova’s cheeks, painting its way up to her ears.
+“You like bots.  ‘Specially lovey-dovey consenting bots.  Your bot wants what like, you want what like.”
+Nova pulled the curtain aside, “She’s not my bot, she belongs to herself.”
+“All what better.”
+Friends
+Standing in the kitchen in her crumpled jumper made Nova feel self-conscious.  Itelen had retired to her room for cleaning and charging, leaving Nova alone with Tarsh.  She wasn’t sure that she could look at him, so she spoke to the windows instead, “Would you like some coffee or tea?”
+“Tea would be nice like.”
+“I really thought you would be a coffee person,” Nova filled a kettle with water and set it on a burner.
+“Nah. Tea‘s what my folks farmed,” Tarsh leaned his elbows on the yellow table.
+“So how did you end up running a chop shop?  Shouldn’t you be tractoring the whatever?” Nova opened a cabinet and pulled out a set of glass canisters on a tray.
+Tarsh barked a laugh, “Tractoring the whatever.  Farmers what use a lot of robots.  Repairing ‘em got me interested like.”
+Nova read off the side of the canisters, “Uh, I have Golden Green Drone, which has a sweet, fruity taste; Four Prop Pekoe, which is a bitter black, and Cinnamon Clove Rooibos.”
+“Green’s fine.”
+“So,” Nova pulled an orange teapot out of the cabinet, “What’s it like to grow up on a farm?”
+“Not what you think like.”
+“Uh . . . so, no cows.”
+Tarsh snorted, “Not what.  ‘s open, ‘s plants, but everthin’ else is wrong.  People think peaceful, think clean air; when’s farms loud n’ dirty.  Farmers’ life average forty-five years ‘cause it’s hard, dangerous work.  You ever have a bot comin’ attcha like can’t what see?”
+“W-what?”
+“See, that’s what you Bots-rights Kooks don’t know.  You ain’t never been caught up in no bot what thought your head a tea shrub.”
+The tea kettle whistled.  Flipping open the spout, Nova poured water into the orange teapot.  “Have you experienced that with the bots you worked on?”  She set the pot on the table with two yellow cups.
+“Yeah.  Irony of it all, bots what saved my life too,” Tarsh cracked a grin, “Couldn’t fix the teeth like, or the noggin, but so.”
+Nova poured tea in her cup.  It was too soon, and the hot water poured clear.  Somewhere a door slammed.  She sipped the water, “I’m so sorry.”
+“Don’t be,” Tarsh shook his head, “Ain’t never a day I wish I wasn’t born or wasn’t happy to work a bot or make fun of a Kook.”  His gaze wandered to Nova’s jumper, “Some reason what you don’t take that off?”
+“I, uh, um, didn’t feel like it,” she stared into her teacup, “This isn’t going to cause problems with the missing bot investigation, is it?”
+Tarsh put a hand over hers, “You don’t what think we teamwork better after a little Aphrodite?”
+“I still don’t know what that means and no. I’m feeling distracted when I should be following up on Metabloom and Harlow - Harlow was there.”
+“Harlow was at Metabloom like?”
+“No, she was at Grobyc.  She works there if you can believe that,” Nova took her hand back, “What do you know about Metabloom?”
+“They does weird-like.  I seen a borg come through once, one a’ theirs, part rat, part bot.  Don’t see a point that.”
+“And there’s a market for that?”
+“No what thing.  It was trash.  Couldn’t even salvage the metal parts.”
+“And Grobyc?”
+“Never seen it.  They all secret-like,” Tarsh poured himself a cup of tea, “What a cyborg company want with companion-bots, like?”
+Nova held out her cup, and Tarsh poured.  “Brain transplants.  That’s what Zynette was there for.  They were sure they could do it too.”
+“Buncha weirdos.  I’d start there like.”
+“We have though.  The only other thing I can think to do is call Harlow.  Unless you think she’d talk to you?”
+“Nah, she the oil to my water.”
+“Okay, fine, I’ll do it,” Nova pulled Jericelle’s business card out of her pocket.  Ignoring the circled cell phone number, she dialed the direct line and hit zero before it could connect.
+“Grobyc, the leader in biocybernetics.  If you are calling to schedule an appointment, press one.  If you are calling to make a payment, check your balance, or other account management, press two.  If you are a pharmacy, other doctor, or care provider, press three.  For the staff directory, press five.”
+“What happened to four?” Nova pushed five.
+“Please type the first three letters of the last name.  For Smith, type 764.”
+Across from her, Tarsh bumped her leg with his.
+Nova shook her head at him and typed 222.
+“We’re sorry.  There are no results for that name.”
+Nova typed 223.  The system hung up on her.  Cursing, she dialed again.
+“Grobyc, this is Dr. Bronner.”
+“Oh,” Nova had forgotten to dial zero, “I was trying to call the lab.”
+“My lab?  Why?”
+“I . . . uh, know Harlow, kind of,” Nova hedged.
+“I’ll transfer you,” Jericelle paused, “and Binary, I’m glad you’re making friends.”
+“Um . . .”
+There was a click, then music played.  Another click, “Who is this?”
+“This is Nova.  Who’s this?”
+“This is Harlow.  How’d you get this number?”
+“I didn’t, I mean I was transferred to you from another line.  I, um, was kind of surprised you work there.”
+“Yeah.  Look, Nova, I’m telling you this for your own good: mind your own business,” there was a click.
+Nova hissed out a sigh and picked up her cup.  Tarsh stared at her, his denim eyes penetrating, “You what mind your own business?”
+“No way.  I gotta get in Metabloom somehow.  I just have this feeling.”
+Security Breach
+Getting into Metabloom proved to be more challenging than Nova originally thought.  There was a gate for the campus itself, with a toll booth manned by an android.  Nova circled the campus, and found herself on Aurora, staring at rows of glazed pots.  “Weird how close this place is to Tarsh’s chop shop.  It almost looks like it backs straight up to it.”
+“Think he’d let us cut through?” Zynette adjusted her crop top, “I can be very convincing.”
+“No, we can go in the front.  We just have to be delivering something.”
+“Sexy pizza.”
+“Uh,” Nova fished her purse out of the backseat, “I guess you’ll have to do it then.  Let’s practice.  I’ll be the toll bot.”
+“Hi Hon, I got a pizza for Jupiter.”
+“What restaurant?”
+“Hot Bots and Pies.”
+Nova dissolved into giggles.  Once she had her breath back, she forced a frown, “I’ve never heard of your company before.”
+“So we need to have the old man make us a website,” Zynette twisted the rearview mirror around so she could see herself.
+“Your company was just created today.”
+“He can buy an old domain.”
+“Which Jupiter, we have five?”
+“Jupiter in the lab.”
+“Male or female Jupiter?”
+“That’s a human question,” Zynette cranked the mirror back into place, “What is male?  What is female?  You just know, don’t you?”
+Nova squirmed, “I’m not trying to be sexist, but what will you say if the guard asks?”
+“That android is not gonna ask.  That’s my point.  I got this, I promise.”
+“Uh . . . okay.”
+Not even an hour later, Nova was tucked into the trunk of her car.  It rumbled up to the gate and she could hear muffled bits of Zynette’s conversation.  There was a thunk as the gate arm swung open, then the car moved forward.  Nova slid sideways as Zynette took two corners, clinging to the sides as the car shuddered.  “What is she doing?” Nova pulled the emergency cord.  The trunk popped open to reveal the front of another car.  Zynette backed towards it, stopping inches away.
+Nova’s neck prickled.  She had the eerie sense that someone was staring at her.  Each vehicle in her range of vision sat empty, every post a blank, camera-less surface.  It wasn’t until Zynette bumped the car behind her, that Nova realized it.  The crows.  The crows were watching her with glittering camera eyes.  She stood up, waving her arms at them, “Shoo!”
+“What are you doing?” Zynette squeezed around the side of the car, “They’re gonna think you’re some crazy vagrant, especially in that awful sweater.”  Zynette offered her a hand.
+“The crows are cameras,” Nova took her hand and climbed out of the trunk.
+“Hey, if I were running some jacked-up cyborg company, I wouldn’t just have cameras in crows, I’d have them everywhere,” Zynette pointed as they walked towards the building, “One there, one there, maybe have a camera on a statue of myself over there.”
+“Like that?” Nova pointed at a statue.  Half of it was stone, with the lines of Classical Greek sculpture.  The other half was an iron rendering of an android’s skeleton.
+“Sorta.  But I’d have the eyes be cameras that follow you when you move.”
+The front door of Metabloom was glass, a keypad and call button set into a stone panel.  Nova tried the door, then tapped the button.  There was a click, and the door opened.  “Okay,” Nova hesitated, “That’s kinda weird.”
+“I’m going in,” Zynette strode into the lobby, “Girl’s got a pizza to deliver.”
+Nova followed her, her feeling of trepidation increasing when an unmarked elevator slid open.  “Does any of this seem . . . off to you?”
+Zynette boarded the elevator, “Like they know we’re not here to deliver pizza?”
+Before Nova could respond, the elevator rose, its doors still open.  The elevator shaft sat in front of her like the gap of a missing tooth.  In the lobby behind her, Nova could hear the click of a door.  “It’s good to finally have you here, Binary.”
+Nova turned to face a man in a well-tailored suit.  He smiled, his teeth a perfect line of white.  He stood head and shoulders over her, his head shaved clean.  But it was his eyes that made her heart beat in terror.  They were uncanny because she knew them.
+“Come with me,” he held open the door.
+“No.”
+“You came here to see me, didn’t you?”
+“We can talk here.”
+“Binary, you know we can’t,” he moved towards her.
+Nova backed towards the elevator shaft, “Who are you?  Why are you doing all this?”
+He held up his beefy hands, “Come with me and I’ll answer all your questions.”
+Nova threw her head back and screamed. Two security guards burst into the room, leveling their guns at Nova.  She knew what they carried from the slim silhouettes and the hypodermic tips, they were tranquilizer guns, just like the ones she had been shot with when she was eleven.  “You better hope they’ve got good aim,” she lunged forward, grabbing the bald man around the waist.  She spun him around, pulling him back towards the entrance.
+His denim eyes widened, “You’re always full of surprises.”
+“Agh!” Nova felt the sting of a needle hit her.  She ripped it from her side, stabbing at the man with it.  The last thing she remembered was the smell of robot grease, then everything went black.
+Anyone But Binary
+It was a dream.
+No, everything up until that point had been a dream.
+It was a dream that she’d escaped the lab’s white walls and one-way mirror.  Nova had always been here, in the lab, being watched by eyes she couldn’t see.  Except, this time she was alone.  Ao and Ax were broken long ago, worn out from days of rocking her in their arms and lifting her up towards the fluorescent lights of the ceiling.  The room was the same, but the androids who had made it seem the whole world, who filled it with their conversations and songs, those androids were gone.
+Nova sat up.  The reflection that looked back at her wasn’t a young girl with translucent skin.  She was a woman with borrowed curves and stolen lips.  A woman who didn’t belong to this world.  She wasn’t her past.  She was anyone but Binary.
+“Let me out,” Nova staggered to her feet.  “I know someone’s there,” she rapped on the mirror with her knuckles, “and you’re wrong.  I’m not who you think I am. ”
+A steel door opened with a clank.  The bald man stood there, and much to Nova’s satisfaction, there was blood on his tie from where she had gouged him with a hypodermic dart.  “If you’re not Binary, then why are you so close to Callix?”
+Nova took a deep breath, “I met Callix at the Bots-rights group.  He is like a father to me.”
+His denim eyes were unmoved, “I heard Dr. Bronner call you Binary.”
+“I told her some lies, to get into Grobyc. Callix told me what to say to convince her.  He said she wouldn’t know, since the real Binary hasn’t spoken to her in over five years.”  She looked him square in the eyes, “I’m not the one who’s been lying.  You are.  I was just stupid enough to trust you.”
+The man loosened his tie and reached down the back of his suit.  With a careful tug, he removed his clean-shaven scalp to reveal a full head of dark hair.  “Tarsh was a likable guy,” he tugged on a tooth, removing a partial denture, “but I told you not to trust him.”
+“I guess I fell for him,” she stepped towards him, her eyes on the door behind him, “Unlike you, Tarsh would never take someone by force.”
+“Ah, so we’re playing that game.  How about this one?  Nova has a belly button, but Binary doesn’t,” he flashed her a gap-toothed grin, “Why are you afraid to show your stomach?”
+Nova turned as she passed him, lifting her sweater, “See, I have a belly button.”
+“Damn.”
+She backed out the door, “Yeah, unlike her I was bo - “  She bumped against something solid.  It was a chair.  It sat in a small brick-walled room near a computer with an image of white and yellow trees on the screen.  There was another door on the opposite side, and Nova ran for it, praying that the knob would turn.
+“No, I meant, ‘damn you’re sexy.’  So you had that surgery.  With the way you hide yourself, I wasn’t sure.”
+The knob turned, but the door didn’t open, “You’re behind this?  It was you all along?”
+“I just gave some bots what they wanted.  Freedom from their master, with a little extra something thrown in.”
+“But you messed up on Itelen.  It was something fixable but for some reason, you decided to scrap her,” Nova moved to the computer, running her hands over the desk, searching for a weapon.
+“Metabloom is my company.  One of my people messed her up.  I didn’t verify it,” he put a hand over hers, “That was my mistake.  Then you came looking for her.  You know that saying about keeping close to your enemies?  I like to know what they’re up to.  I keep an eye on Grobyc through Harlow, so at first, I thought you were their Harlow.”
+“Harlow works for you?” she pulled her hand away.
+“Yeah.  I sent her to your place to check you out and she said you were clean.”
+Nova felt her jaw slacken, “She didn’t tell you that I’m unnatural or that I hit her with a dereg?”
+“Oh yeah, she told me that.  So I looked you up.  Couldn’t find anything before you were eighteen.  So, when you introduced me to Callix, I put two and two together.”
+“So it was all lies.  The stuff about the farm and your accident, all that was made up,” she moved back to the door, twisting the knob, “and you liking me, that was pretend too.”
+“Not what thing.”
+Nova leaned against the door and turned the knob.  She didn’t expect it to open, and her success sent her stumbling backward, colliding with an android.  As the android pushed her out of the way, she caught a streak of green hair and a flash of silicone.  It was Elect.
+Elect lunged, its powerful arms closing around Tarsh’s neck.  It twisted his head until he was looking behind himself owl-like, then it twisted more.  The sound was like a tree branch snapping, and Nova backed away, whimpering in fear.
+Sensing her movement, Elect wheeled around, its orange eyes focusing on her.
+“Please . . .” Nova wobbled, bracing herself against the brick wall.
+Before Elect could respond, bees streamed out of a gap between the bricks.  They formed a screen between them as they swarmed, a hypnotic dance of zeros and ones.  Nova stumbled up the stairs and through another door, emerging in an open room with long rows of desks and cubicle walls.  Staggering over to the elevators, Nova pulled the fire alarm.
+She expected a rush of people, but really it was a trickle.  They filed out, the humans crossing their arms against the cold.  As the sirens began to wail, Nova felt her legs give out.  She sat on the cement, damp sinking into her pants, her eyes fixed on the half-human statue.
+Epilogue
+If there was a funeral, no one told Nova about it.  She clutched the spray of snapdragons, Itelen trailing behind her.  The stone itself was small, a rectangle with a single word carved into it.  Nova bent, placing the fronds so that they underlined the sh and arched over the Tar in a purple arcade.
+While they stood there, another car pulled up the cemetery drive, sideswiping a row of hedges.  A pink-haired android in a leopard print dress emerged, popping the trunk with a swagger.  She hoisted a walker out onto the grass, then offered a hand to an old man with thick spectacles.  “Was Callix meeting you here?” Itelen touched Nova’s shoulder.
+“I mentioned I was coming here.  I didn’t think he would join me,” Nova straightened up, watching her father step-slide his way towards her.  Zynette kept pace with him, her six-inch heels sinking into the grass with every step.
+“Nova,” Callix panted, settling himself on the seat his walker, “I came to pay my respects and to let you know how sincerely sorry I really am.”
+“Oh, cut the bull,” Zynette stomped on the grave, “This jerk was modding androids to kill people, just so he could put a company with competing technology in a bad light.  He was a sicko and I’m glad Elect killed him.”
+“Zynette,” Callix looked over the tops of his glasses at her, “Why don’t you wait in the car?”
+Nova waited until Zynette had strutted down the hill to speak, “I’m sorry.  For failing you.  For failing all androids.”
+“You didn’t fail anyone, Nova,” Callix dug in his pockets, “Zynette is just feeling defensive.  She’s the one who called Elect, you know.  Indirectly, she’s responsible for Tarsh’s death and Elect’s demise.”
+“I was such a fool.”
+“You’ve saved countless androids, two of whom are right here.  And Nova, you are not the only one who was fooled,” Callix pulled a folded piece of paper out of his pocket.  It was an RTU bulletin, yellowed with age.  “Ah, here it is.  Look at this picture from your last year in the lab, this student right here,” he pointed at a face.  “Something you said about Tarsh made me think of him.  He was a farm boy, learned how to program on harvester bots,” Callix passed her the paper.
+“Jupiter Sims,” Nova read.
+“He was quiet, didn’t stand out in any way.  He got along fine with the other students, was about average in skill . . . but that’s definitely him, isn’t it?”
+Nova stared at the image.  A pair of denim colored eyes stared back, his smile flawless.  “What’s he holding in his hands?”
+“Oh,” Callix smiled, “That’s just a heart chip.”
+Glossary
+Bots-rights: The name used by the group promoting the same rights and protections for androids as humans.
+Chop-shop: Shops that purchase, disassemble, and resell broken robots.  Though technically legal, many chop-shops sell stolen robotics and illegal devices.
+Dereg: A device that de-registers androids from the company that owns them and prevents the company from finding and retrieving the androids.
+Hacktivist: The name used to refer to people who modify pre-existing robots.  The practice is considered a protest against the ownership of robots by companies.  Hacktivists trace their origins back to the Hobbyist movement.
+Hobbyist: Using a kit or parts purchased from a hobby shop, Hobbyists were the past generation’s primary builder of robots.  Hobby shops were driven out of business by the mass production of pre-assembled, company-owned robots.
+Liftbot: A robot used for moving heavy objects.  They are not human in appearance and do not speak.
+Literatzi: Slang for someone who corrects other people’s grammar.
+Manual-Go: The mode in an autonomous vehicle that allows the passenger to control direction and speed of the vehicle.
+Pollination Bot: An insect sized drone that is programmed to pollinate crops.
+Scrambler Mask: A nylon mask printed with a pattern that prevents computerized facial recognition.
+Unnatural: Slang for a human who cannot or does not have romantic relationships with other humans and instead relies on androids for emotional and sexual fulfillment.
+
+###
+Thank you for reading my book.  If you enjoyed it, please take a moment to leave me a review at your favorite retailer.
+
+Thanks,
+
+Melissa Dill
+Discover other titles by Melissa Dill
+Murder In A Box
+Pitter, Patter, Murder
+Murder In the Ferns
+Save Desdemona
+
+Connect with me:
+Subscribe to my blog: http://refractedneurons.blogspot.com
+Favorite me at Smashwords: https://www.smashwords.com/profile/view/Wishhorse
+
+Sample of Save Desdemona
+In the beginning, there were six types of elemental magic.  Three were hot: Fire, Lightning, and Sun. Three were cold: Wind, Water, and Earth.  Those who could use magic were called Mages, and each Mage had a type of magic to which they were drawn; their primary type.  The world was a paradise, everything was green, and all types of magic were equal. 
+Then, the Rain of Stars came.  Wherever the stars hit, the ground withered.  Arable land turned to shale and sand.  Desert encroached on the few areas that were still habitable.  Refugees overran the remaining towns and cities, camping where they could not find lodging, stealing where they could not find generosity.
+In the midst of this crisis, six of the most powerful Mages met in the center of the untouched land, an area that one day would become the city-state of Gold.  The room sat silent until the Fire Mage, Meribelle spoke.  “Let the ones who cannot do magic train themselves with weapons,” she pronounced, “and let them fight amongst themselves until their numbers are fewer.”
+“But what of those with bad legs?  Of those who have strengths not lent to battle?” Teak, the Lightning Mage’s face creased with concern.
+“We shall all die unless there are less of us,” Meribelle raised her torch, “Who shall say yea?”
+One by one, each Mage raised their emblem until Teak was the only one remaining.  Without a unanimous vote, nothing could be declared as law.  And that would have been the end of it, should have been the end of it, had not Meribelle turned to Desdemona, the Mage of Sun and set her orb aflame.  Desdemona dropped her orb, but the damage had been done.  Her hands were burned and she could not summon.  “Will you let me kill her?” Meribelle taunted Teak, “Or will you too, get blood on your hands?”
+“I choose neither,” Teak formed a Lightning Shield around Desdemona just as Meribelle sent another blast of fire.  The flames roared around Teak and Desdemona, straight into the faces of the other three Mages.
+The chaos that ensued has never been equaled.  Earthquakes rocked the town, water flowed in rivers down the street, and tornadoes touched down on street corners as four Mages fought amongst themselves.  Meanwhile, Teak kneeled next to Desdemona, tears gathering in the wrinkles of his face.  His sorrow was so intense, that his mana, his magic energy, turned from gold to blue.  In his anguish, he exchanged the power of Lightning for the power to Heal.  He did what he could to heal Desdemona’s hands, but her powers were forever weakened.  Instead of wielding the destructive power of the Sun, she could only provide enough Light to help those in darkness.
+When the Mages met again, there were only the five: Fire, Wind, Water, Earth, and the renamed Light.  Lightning was no longer a Mage, he was something new, a Healer, and was not invited.  Meribelle, as always, was the first to speak, “There is no bread.  Infants are fed water until their cries weaken and they die.”
+“Then let them fight,” Desdemona raised a melted orb in her disfigured hand, “Let the weak die so there will be healthy children.”
+Or at least, something like that happened.  History is full of errors, misunderstandings, and outright lies.  Meribelle, Desdemona, and Teak may never have existed.  But every four years, young adults must earn their place in the green land of the rainbow city-states by fighting and dying in the blighted area known simply as the Wastelands.
+Survival
+Charlotte Brown squinted at the horizon.  Sand spread out like snowdrifts under the sapphire sky.  How she wished that was what they were, and she could scoop up a handful of icy water.  Licking her sun-chapped lips, she trudged up a dune.  From there she could see for miles, see the shimmery blue that hovered always just ahead, see the earth seem to bend at the edges, see sand, an endless eternity of sand.
+But desolation didn't mean safety.  There could always be danger over the next rise; a Mage, a Soldier, or even another Healer.
+The even sweep of dunes had given way to shale and scrubby brush.  Now as evening painted the sky pink, rock formations appeared.  If she was lucky, the rocks would be large enough to provide shelter.  Time seemed interminable as she walked towards them, the sun fixed in the sky, the rocks just out of reach in the distance.
+She was checking her watch when she felt something whiz past her, a cracking sound splitting the air. Forming a shield around herself, she dropped to the ground.  “Fifteen minutes,” she thought, gathering mana into her hands, “Fifteen minutes of walking only to be shot at.”  A pair of sandals appeared in front of her face.
+It was the moment she had been waiting for, well sort of.  She hadn’t been expecting sandals.  Boots, maybe, or even athletic shoes, but not sandals.  Who the heck wore sandals in battle?  Her mind still on footwear, Charlotte released her mana in a large blast.  Jumping to her feet, she ran behind a large rock.
+Footsteps approached her hiding spot, the snick-snick-snick of sandals.  “No way,” she whispered to herself.  That sort of blast should at least incapacitate someone.  She took a deep breath and peeked out from behind the rock.  He was looking the other way, and she could see the back of a blonde head.  He wore a black muscle tee, a revolver gripped in his hands.  His jeans were sand-washed to bluish-white and his sandals were stained with blood.
+“Crap,” Charlotte gritted her teeth.  She must have aimed too low.  Well, she wouldn’t make that mistake twice.
+He spun around and Charlotte ducked.  The shots echoed off the rocks until she had no idea which direction they were coming from or how many times he’d fired.  She crouched, her hands clasped over her ears, her breath ragged with fear.
+If she had been able to hear, she would have heard the click of the chamber as he opened the revolver to unload.  But to her, it was silent and she straightened up until she could see him.  He was staring straight at her.  For a moment of terror, she gazed back at him, then he looked down at the empty chamber of his gun.
+That was all Charlotte needed to act.  Jumping from her hiding spot, she hit him in the chest with her mana.  It fizzled and arced like electricity, and he jittered forwards.  She tried to avoid him, but it was too late.  Off-balance, she fell against the rock.  He drew back his fist, bringing it up into her jaw with a crunching pop.  Obscenities she couldn’t speak bubbled to the top of her mind.  Forming a shield around herself she prodded at her jaw.  Mr. Sandals, for that was what she now called him, slumped to the ground, blood oozing out of the corner of his mouth.  She was astounded he was still alive after taking two direct hits of energy.  Well hopefully, he would die now.
+Charlotte gathered more mana into her hands.  With the amount she had been using, she was liable to completely drain herself.  She touched her jaw again and groaned.  Her muscles quivered.  She was cold, freezing cold.  Every time she blinked, the world doubled; two suns, countless rocks, two Mr. Sandals.  The mana emanated from her palm, its warm blue glow lighting up the side of her face.
+“So you are a Healer,” the two Mr. Sandals overlapped each other as they spoke, “I thought you might be.”
+“Crawl off somewhere and die,” Charlotte blinked at him until there was only one.  He looked familiar to her, but she couldn’t quite remember where she had seen him.
+Mr. Sandals reached in his pocket, pulling out a handful of bullets.  “Well, if you want to be like that,” he fed the bullets into the chamber, then clicked it shut, “Okay.” Lifting his gun, he fired twice directly at her.  The bullets bounced off Charlotte’s shield with a streak of blue.  Charlotte blinked furiously.  She could still see the blue streaks like they had permanently colored the air.  Mr. Sandals pulled the trigger again and she winced.
+When the gun failed to fire, Charlotte took it as a cue and ran across the sand.  There were even more rocks now, or at least she thought there were more.  She weaved between them the best she could, bile rising in her mouth.  Then she was falling into the golden sand, each grain multiplied five times until the gold consumed her and her spirit dissolved into heat and light.

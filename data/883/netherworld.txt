@@ -1,0 +1,894 @@
+﻿ Netherworld 
+
+
+
+
+
+Copyright © 2018 by Razor Blade  All rights reserved. 
+
+No part of this book may be reproduced in any form or by any electronic or mechanical means including information storage and retrieval systems, without permission in writing from the author. The only exception is by a reviewer, who may quote short excerpts in a review. 
+
+This book is a work of fiction. Names, characters, places, and incidents either are products of the author’s imagination or are used fictitiously. Any resemblance to actual persons, living or dead, events, or locales is entirely coincidental. 
+
+
+
+Chapter 1
+Red eye
+
+The constant high pitched whine of the jet engines did nothing to keep Captain Harris from nodding off, only the thought of the cameras recording his every move and the cockpit voice recorder monitoring from the back of plane. At 3am, the horizon out his window was nothing but dark and the panel before him was lit up like a Christmas display of different colored lights. He hated these late night flights, but he was new to the company and took the schedule the company gave him. It would take a few years before he could get his life back to normal. 
+To his right was his co-pilot Beth Adkins, a twenty something he had never flown with before, and behind them both was the brains of the operation, a computer that basically ran the plane. Together they occupied a very claustrophobic space surrounded by panels of buttons and switches that gave the impression of being trapped inside an iron maiden. The only thing that let them know they weren’t alone was the occasional chatter on the radio. At thirty-five thousand feet, the city lights below looked like stars. 
+Then the stars blinked, and then were gone. 
+“Did you see that?” Harris asked.
+“See what?” Beth asked. 
+“The lights, there gone,” Harris replied. 
+Beth looked at the ground below and back at Harris. “Maybe its cloud cover,” Beth replied. 
+“No, there were there and then they’re gone.”
+“We’re thirty miles from the nearest city, there’s not a lot of lights to see anyway.”
+Then the display panel in front lit up with the message, “Auto pilot disengaged,” and various lights began to blink in a regular pattern followed by a beeping sound from the center of the panel.
+“Did you do something?” Harris asked.
+“No, I didn’t touch anything,” Beth replied. 
+“Then why did the auto pilot disengage?”
+Beth scanned the display panel and noticed something else. “We’ve lost the VOR, and the GPS.”
+“What the fuck? How did that happen?”
+“Maybe that’s why the auto pilot disengaged. Without the VOR or the GPS, it had no heading to follow.”
+“Now this is insane,” Harris said. He was agitated and getting very nervous. He scanned the ground below and still saw no lights, just the stars above. His visual horizon was gone and all he had to navigate with now was his instruments. He read the panel and saw he was still at thirty-five thousand feet, his airspeed was Mach 0.84 and was flying level. In a panic he clicked his microphone switch and said as calmly as possible “Omaha, KRT one one five heavy, good uh evening level three-five zero.” He waited for a response and got none. Again, but this time with tension in his voice he called, “Omaha, KRT one one five heavy, good evening level three-five zero.” He focused his view on the panel that read his auto-pilot was disengaged and waited again for what he figured was the normal reply. He looked to Beth and said, “What the fuck is going on?”
+“Try a different frequency,” Beth replied. 
+Harris turned the dial and repeated what he had said twice before. Nothing. 
+“Try calling other traffic.”
+Harris pressed his call button and said, “KRT heavy, is anyone else having difficulty raising the tower?” There was no response. 
+“I haven’t heard any chatter since our auto pilot disengaged,” Beth said. 
+Harris took a deep breath and tried to figure out what was going on. “We have no GPS, no VOR, no one is talking to us and the auto pilot is useless. I don’t suppose we have a checklist for this do we?”
+“Not that I know of,” Beth replied. “I’ve never even tried it in the Sim lab.”
+Harris swallowed hard and realized his palms were sweating. “We have enough fuel to get us to Dallas, but is Dallas there?”
+“What do you mean is Dallas there?”
+“In two hours we should have enough light to see what’s going on, but for now we’re flying blind. We can’t dial in our destination. We could drift miles off course without visual reference.”
+“Just keep us at altitude and we’ll figure it out,” Beth replied. She was trying to be reassuring but was scared to death inside. 
+Then Harris saw a message he didn’t notice before. It was a light indicator that the cargo door wasn’t secure. “What the hell?” Harris said under his breath. 
+“What’s wrong now?” Beth asked. 
+“The cargo hatch isn’t shut.”
+“That can’t be right, we’d of decompressed by now. That can’t be right.”
+“Of course it’s not right, we’d of had all sorts of warnings if that were true. But maybe that has something to do with the radio.”
+“What do you mean?” Beth asked. 
+“Maybe there is a cable bundle that runs through there and somehow the door malfunctioned and fried the transmitter.”
+“That makes sense, then we’d get a false reading on the door,” Beth said. She felt relieved thinking maybe it was something simple and that they weren’t in danger. 
+“Yeah, that’s got to be it. We’ll keep this heading until the sun comes up and locate a place to land.”
+“We’ll need the radio to contact the tower to land you know. We can’t just show up and land without authorization.”
+“Don’t we have a satellite phone on board?” Harris asked. 
+“Not that I know of,” Beth replied. 
+“Fuck, use your cellphone,” Harris said. 
+“I’ll try,” Beth replied pulling it from her pocket. “Who should I call?”
+“Call 911,” Harris replied. 
+Before she pressed in the numbers, she saw she had no signal but dialed anyway. She put the phone to her head and heard nothing. “I can’t get a signal,” Beth said. 
+“Didn’t think you would anyway,” Harris stated defeated. 
+
+A little after five am the sun began to light up the sky. A little on the horizon at first and then the sky began to look more pink than grey. Harris scanned the ground looking for landmarks he recognized but to his dismay only saw miles upon miles of even grassland. He expected to see a patchwork of farmland sculpted by farmers and rivers, lakes and roads but no, just even grassland. “Where the fuck are we?” Harris asked. 
+“We should be over Dallas by now,” Beth replied. 
+Harris clicked his microphone and said, “Dallas, KRT one one five heavy, good morning level three-five zero.” He waited for his reply but wasn’t surprised when he didn’t get one. “This is fucking great, we have an hour and a half until the gas runs out.”
+“I’m sorry,” Beth replied. 
+“I’m not blaming you, I’m just pissed. This makes no sense at all. The passengers are waking up and I have to tell them something.”
+Then a light indicated a flight attendant was calling from behind the locked door. Harris transferred the call to his headset. “What is it?” he asked in an annoyed and harsh tone. 
+“Sorry Captain, the passengers are asking when we are landing. Some of them say they think we’re lost.”
+Harris looked at Beth and shook his head. “Tell them we’ll be down soon,” Harris stated and clicked off the microphone. 
+“Why did you tell them that?” Beth asked. 
+“Why? Are you kidding? Do you want to go back there and tell a hundred and fifty people we’re flying blind?”
+“No, but I think we should be honest with them,” Beth replied. 
+“I’ll be honest when the plane is on the ground. I’ll land it on the grass if I have no other choice.”
+Beth scanned the ground outside her side window and noticed something. “What’s that?” she asked. 
+“Where?” Harris asked. 
+“I can see something outside my window, on the ground. It looks like a landing strip.”
+“You mean an airport?” Harris asked with enthusiasm. 
+“No, I mean it looks like a line on the ground, but there is no buildings, just a line with specks around it.”
+“I gotta see this,” Harris said. He dialed in what he thought was a heading that could give him a better view and waited for the plane to turn.  As the plane slowly rotated, he could make out what Beth was talking about. “I’m not sure that’s a landing strip, but it’s the first man made looking thing I’ve seen in hours.”
+“You want to descend?” Beth asked. 
+“Fuck ya,” Harris replied and punched in ten thousand feet into the computer. 
+“Maybe you should call first,” Beth said. 
+Grudgingly, Harris clicked his microphone and called for a new altitude. It was no surprise when he received no answer. 
+“Sorry,” Beth said. 
+“No, you’re doing your job. But something is really fucked up and I don’t think we’re getting any help soon. 
+Then the light lit up again telling Harris he had a call from the back. He clicked the microphone and said, “Tell them to relax. We’ll be down soon,” and clicked off the microphone. He was in no mood to chat with anyone. 
+
+The plane made a wide circle and evened off at ten thousand feet. From this distance there would be no question what the dark line of the ground was. As they approached it was now clear that the line in question was either a very short road or a landing strip. Unusually long for a rural area. They also noted several dark objects parked alongside that looked like vehicles, not buildings. Then they saw what looked like another winding road connected to the end of the landing strip that went off into the distance.  
+“What are you going to do?” Beth asked. 
+“If that’s what I think it is, we’re putting this on the ground.”
+“What if it’s something else?”
+“We’ll take it down to one thousand and take a better look. I don’t want to land on the grass.” Harris punched in the numbers and took the plane down to one thousand feet. He slowly turned the plane and headed back in the direction of the landing strip. From this distance he could make out markings that he’d seen on runways many times before. There were no numbers painted on the black landing strip, but he could make out the painted lines he was familiar with. “Looks like we have a place to land,” Harris said. 
+“How do we know from which end to approach?” Beth asked. 
+Harris scanned the ground and without landmarks couldn’t really tell the direction of the wind. But it looked like a calm day and he was willing to take a chance either way. “We’ll approach from this side,” Harris stated. 
+“Any reason why?” Beth asked. 
+“None at all,” Harris replied and put the plane into a pattern to line up with the runway from what he guessed was east based on where the sun had risen. His compass spun in various directions which helped confirm to him that something was very wrong not with the plane, but with everything else. He came in for his approach and clicked his microphone key out of habit. The smiled and chuckled realizing he was getting no help today. 
+“Flaps at fifteen” Harris said and dialed in the airspeed of one hundred and sixty knots, armed the spoilers and slowly descending towards the ground. As the plane approached his throat became dry and he swallowed hard. The conditions were great for a normal landing, but this was far from normal. At about ten miles out he put down the landing gear and again adjusted the flaps for final approach. It was now or never. 
+“Everything looks good,” Beth said trying to relieve some of the tension. She was scared to death as well. 
+“Flaps at thirty,” Harris said. “Speed one-four-eight”
+A computer activated voice then called, “Approaching minimums, three hundred, minimums, two hundred, one hundred, fifty, forty, thirty, twenty, ten,” and the plane touched down on the asphalt runway. Harris applied the air brakes and slowed the plane down as it continued to roll further into the distance. As they slowed down and moved closer to the end, Harris noticed the dark specks he had seen from so far above were buses, black busses with black windows larger than he had ever seen. And standing near them were dark figures waiting for them to come to a stop. 
+“Who the hell are they?” Harris asked. He had a hard time keeping his eye on where he was going watching these dark figures moving away from the busses and towards them. 
+The plane slowed to a stop and Harris shut down the engines. He knew he wasn’t going anywhere now that he was on the ground. Then he saw a ladder truck approach from Beth’s side and looked to his left to find his pistol. “Get your gun.” Harris said. 
+Beth looked at Harris like he was nuts, “What gun?” she asked. 
+“You didn’t bring a gun? I thought it was mandatory.”
+“What makes you think we need a gun?” Beth asked. 
+“What makes you think we don’t?” Harris replied. “I have no idea where the fuck I am and who those people are.”
+“We have one gun, what do you plan to do? Save everyone on the plane?”
+“Tell you what Beth, you run out there with your hands up and let me know how that works out for you.”
+
+Chapter 2
+Last in line
+
+Annette Johnson, row twenty five-aisle seat leaned to her right to get a better look at what was going on at the front of the plane. She and her husband were returning to Dallas with the remains of her daughter who had been murdered, dismembered and found in a farmer’s field. Anne, her daughter encountered a woman online and met for a date and was never heard from again. Her cellphone traffic helped identify a couple of interest but no charges had been made yet. But as of today they both sit in jail on unrelated charges. 
+“What’s going on?” Dennis, her husband asked. 
+“Nothing, I don’t understand, why haven’t they spoke to us yet?”
+“They will, give them time,” Dennis replied. 
+Then Annette saw the Captain emerge from the cockpit and stop to talk with two flight attendants. “There he is, the Captain just came out,” Annette said anxiously. 
+“Hold on-you should see this,” Dennis said looking out the window to his left. He was too distracted to look at the Captain.
+Annette leaned back in and looked through the window. What she saw alarmed her more than the silence from the Captain. Pulling up alongside the plane were black busses that seemed to be pinning them in so they couldn’t leave. The bus outside her window slowed and then stopped as another bus pulled around towards the front of the plane. “Who are they?” Annette asked. 
+“This isn’t going to end well,” Dennis replied nervously under his breath. 
+“What do you mean?”
+“Black busses, no information from the crew. I’m surprised no one has rushed the door yet.”
+Then a voice came over the speakers. A voice they haven’t heard since they took off hours ago. It was the Captain trying to sound as in control as he could considering the circumstances. “Attention passengers. This is Captain Harris. I’m sorry for not speaking to you sooner, but we had an issue that required our full attention. The situation right now is we are safe on the ground. We don’t currently have a location but we are working on it. We had some equipment failure and we are trying to contact Dallas as I speak.”
+The passengers were silent as the Captain spoke, but then began to grumble realizing they were left in the dark while their lives were at risk. One yelled from the front, “What do you mean you don’t know where we are?”
+The Captain put the microphone back to his mouth and replied, “Be assured, you are safe, we are working on the problem.” Then the Captain heard a banging on the exit door to his right and put down the microphone. One of the flight assistants asked him what she should do. “Give me a minute,” Harris replied. “I need to think about this.”
+Beth emerged from the cockpit and pushed her way past one of the flight attendants. She got Captain Harris’s attention and asked, “What’s the situation?”
+“Whoever’s out there wants in,” Harris replied. “They banged on the door.”
+A flight attendant asked, “Who are they? Terrorists?”
+“That’s my guess,” Harris replied. “They probably found a way to knock out our systems and are trying to board.”
+Beth asked, “What should we do?”
+“I’m not letting them in,” Harris replied. He put the microphone back to his mouth and asked the passengers over the speakers, “Is there anyone here with military training?”
+The question spooked the passengers and caused a panic. 
+The Captain raised his hand trying to calm the now enraged crowd. “I’m going to be honest with you, we may have terrorists trying to board the plane. If anyone has military training, I need you up here at the front of the plane now!”
+“Maybe we shouldn’t…” Beth said before the Captain gave her a look that told her he was in charge and that she needed to shut the fuck up. 
+Three men and a woman hurried from the midsection of the plane, past the scared and loud group of passengers to where the Captain was waiting.  
+“I don’t know who those people are, or what they want, but they are not getting on this plane. If there is anything you can do to assist let me know. Do any of you have training with terrorists?”
+None of the three responded. 
+Then another bang on the door, this time louder and more metallic sounding.
+“If they want in, all they have to do is use a torch,” one of the three men stated. 
+“It would render the plane useless if they compromise the hull,” another stated. 
+The Captain stepped over to the door and put his hand against the metal. “It’s not hot.”
+Then a passenger from first class yelled, “They have a bomb!”
+The Captain hurried over to where the passenger was looking out her window. He saw a man, dressed in black military garb carrying a bag up the ladder. “Away from the door!” the Captain yelled. 
+The flight attendants, Beth and the other passengers evacuated the area near the cockpit door as fast as they could and ran towards the rear of the plane. Captain Harris watched from the first class passenger window as the man outside the plane scurried back down the ladder, this time without the bag. 
+“Everyone down!” Captain Harris yelled. He didn’t have the microphone but could be heard from the back of the plane. 
+The loud chorus of passengers was now a whisper. Many of the passengers saw what was going on through the windows and were already ducking down waiting for the blast. Then a shower of sparks, and a deafening blast rocked the exit door pushing it inside the plane. In an instant, the door was jerked back out of the plane leaving an acrid smelling wave of smoke that rolled along the ceiling towards the tail. 
+Screams and panic ensued as passengers rose from their seats to find an exit. The smoke choked them and burned their eyes leaving them blind to what was going on. Then a blast slammed the rear of the plane and that exit door was also ripped from its hinges sending more smoke rolling along the ceiling towards the front. 
+In sheer terror, passengers left their seats and filled is aisle in an attempt to get out and find fresh air. They didn’t know if there was any way to get to the ground, but at this point they didn’t care. They would jump forty feet to the ground to get fresh air. To their surprise, there were ladder trucks at both exits and the passengers were able to rush down the steps to the asphalt below. 
+As they filed down the stairs, they were ushered like cattle into lines and then into groups by men in the dark uniforms. The uniformed med didn’t have anything that looked like weapons on them, but they looked like soldiers none-the-less. 
+
+Dennis and Annette Johnson found themselves in a group of about twenty other passengers who were corralled together about fifty yards from the plane. There were about ten men in black who were guiding them but not saying anything. It was almost instinctive to follow their directions. “We’re going to die,” Annette said. 
+Dennis wanted to comfort his wife but was at a loss for words as he watched the busses move from the plane. He saw one come towards his group and pull up and open the door. Again, the men in black herded the passengers towards the buss and led them inside. Dennis and Annette took the third seat to the left and watched the other passengers file past them taking seats as they moved down. It took only a minute or two before the bus was full, the door was shut and moving off the runway towards the only road in sight. “Where are they taking us?” Annette asked. 
+“I don’t know,” Dennis replied. He looked out the window as the plane moved further away into the distance. He saw busses moving and people cramming into them. It wasn’t long before another bus was behind them blocking his view, and then another and another. A few minutes later the plane was out of sight and all he could see was an endless expanse of grassland that sped past his window. Her turned back and saw two of the men in black with dark goggles standing at each door. From his vantage point he could not see who was driving the bus, but he was sure it was another man in black. 
+“Call someone,” Annette said. 
+Dennis realized his cell phone was in his pocket and removed it. He brought up his home screen and saw he had no bars. Nothing. “There is no signal,” Dennis replied. 
+“Are they going to kill us?” Annette asked. 
+“I have no idea,” Dennis replied in nervous disbelief. 
+
+Three busses behind the Johnsons, Captain Harris and his copilot Beth sat side by side midway to the back surrounded by anxious passengers. The bus was like something used to transport prisoners, bare metal and worn from years of use and lacking any sort of comfort features. Hard black iron mesh seats and backs, worn rusted metal pipes running along the roof and the smell of oil and grease. It was like they were livestock in the midst of being transported to the slaughter house. The road was mostly smooth, but every bump along the way could be felt in their bones and rattled their teeth. 
+“I think it was a bad idea getting on the bus,” Harris said. 
+“They might have killed us if we hadn’t,” Beth replied. 
+“Fuck, I should have taken my chances.”
+“Maybe they heard our calls and are here to save us.”
+“Funny way of showing it,” Harris replied. “If that were the case, why not tell us what’s going on.”
+Beth pointed to the front of the bus as she noticed a dark figure step out from behind the wall separating the driver from the rest of the bus. He took a microphone from the dash and put it up to his mouth. The microphone looked very familiar to the staff of the plane who were used to the flight attendants speaking to the passengers before the flight. 
+“Passengers,” the man in black stated. He was not wearing goggles or a helmet, but had on dark glasses that hid his eyes. He was an average sized man, short white crew cut and an American accent. He wore the same uniform as the other men in black, but for some reason did not need the head covering. “We are not here to harm you. We are here to transport you to your next destination.”
+Harris looked at Beth and back to the man with the microphone hanging onto his every word. 
+“You shall remain quiet as I explain what has occurred and what will happen next,” the man in black said. He was flat in his tone and spoke as if he had given this speech a thousand times before. “Do not be alarmed but I must tell you that you have all passed on.”
+The crowd of passengers rumbled but no one spoke up. 
+“By passed on-I mean you are all dead.”
+In an instant Beth made a connection. The cargo door alarm now made sense to her. It was like everything had fallen into place.
+“What’s he talking about?” Harris asked under his breath. 
+The man in black added, “Approximately four hours ago, your plane crashed in a field in Kansas. None of you survived. This is the continuation of your journey.”
+“What do you mean we all died?” Harris yelled. 
+“You should know Captain, or ask your copilot, I think she understands now.”
+Harris looked to Beth with a furrowed brow. “What’s he talking about?”
+“The cargo door alarm, remember?”
+“Yes.”
+“You’ve heard of a ghost plane,” Beth said. “Helios Airways. They had a catastrophic decompression when the aft service door didn’t seal. All the crew and passengers died from hypoxia and the plane crashed when it ran out of fuel.”
+“You’re saying that’s what happened to us?” Harris asked. 
+The man in black spoke over the public address system, “Yes, she is correct. You were all dead before you hit the ground.”
+“Bullshit, if I’m dead what am I doing here?”
+“You are in transition,” the man in black replied. 
+A woman yelled, “I don’t believe you! We can’t be dead.”
+“Let me assure you ma’am, you are quite dead, along with everyone else here with you.”
+The crowd of passengers erupted in shouting and screaming. The man in black stood his ground and waited for the yelling to die down. It took several minutes, but the crew saw he was unmoved and again waited for him to speak. 
+“You are being taken to a drop off point where you will begin your next journey. This ride will take a few hours. In that time you can contemplate your life, talk among yourselves, or do whatever makes you feel better. I am here to transport you and that is all. I have no other explanations for you. You are all dead and the sooner you realize that the better.”
+The man disappeared back behind the divider that separated the driver from the passengers. 
+Beth leaned back against the cold hard seat back and shook her head. “I’m only twenty seven years old. Or was,” she said in despair. 
+“Don’t believe what you hear, I’m sure this is some sort of secret military mission. These guys wouldn’t be dressed like that, or use those tactics unless they had military motives,” Harris said. 
+“Why would the military want a commercial 737?” Beth asked. 
+“We’ll find out when we get to wherever they are taking us. I’m sure we’ll be held as hostages, or for ransom.”
+“I would take that over being dead,” Beth said. 
+“If you were dead we wouldn’t be having this conversation.”
+“What do you know about the afterlife?”
+
+Chapter 3
+Into Temptation
+
+Dennis could only guess how long they had been on the road leading to nowhere when they finally slowed down and stopped. He looked at his watch which read 2:34 pm but for some reason didn’t seem right. Judging from the light outside his window he would have guessed 7 or 8 am. It wasn’t bright out, and he couldn’t make out the Sun anywhere. It wasn’t overcast and nothing seemed to cast a shadow. But what he did see amazed him. 
+For as far as he could see, from the end of the horizon to where they had stopped was a line of people standing on an even plane of grass. There were no trees, no bushes and no other plants, nothing but grass and the line of people which ended about twenty yards from the front of the bus. 
+“Everyone exit the bus,” the man in black said over his intercom. 
+Dennis and Annette hesitated at first, then stood up and filed into the center aisle making their way to the exit at the front of the bus. No one said anything and obeyed the man in black’s commands as if he were a drill sergeant waiting for a reason to discipline someone. It took a few minutes for Dennis and Annette to exit the bus only to find themselves herded into a group and surrounded by another cluster of men in black. 
+“Listen up!” another man in black yelled. “I will only say this once,” the man barked as the bus sped off down the road leaving everyone behind. Bewildered and in shock, the group of people from the bus said nothing as they listened intently to this new stranger who seemed to control their every move. “As you were told, you are all dead. There is only one way you can get back to the land of the living and that is to get in line and wait your turn for judgment. As you can see the line is long. Very long. But you must never leave the line for leaving the line will only bring you hardship and never ending suffering.” The man in black paused for a moment and walked along the front of the group looking to see that he had everyone’s attention. “You will be tempted to leave the line. Listen to what I say! No matter what anyone says or does, do not leave the line. Promises will be made that can not be kept, you will see people who are not who they say they are. This is your only warning. Do not leave the line, do not give into temptation, once you leave the line you can never return and you will be lost for all time.” 
+The man stood gazing upon the group. More busses pulled up and unloaded more people in a succession of what looked like a never ending supply of the dead. “Now, get in line!” the man yelled pointing to the where the line ended. 
+Like cattle, the group moved in mass, sweeping Annette and Dennis along to the end of the line where they claimed their place. In astonishment, Dennis saw the line behind him fill to the horizon in a matter of minutes. They were now in the center of what looked like a never ending line to nowhere.  
+“I’m scared,” Annette said. 
+“What’s there to be scared of? All we have to do is wait in line like the man said. We’re good people, we lived good lives. I’m sure God will save us.”
+“I wouldn’t be so sure,” a woman’s voice replied. She was not standing in line but was approaching from the grasslands. 
+“Who are you?” Dennis asked. 
+“It wouldn’t matter if I told you,” the woman replied. 
+“Why are you saying such nonsense?” Dennis asked. 
+“Why?” the woman asked with a toothless grin. “I’ve been here so long I can’t remember. I’ve seen it all, over and over again.”
+“Why aren’t you in line?” Dennis asked. 
+“Why are you in line?” the woman asked. “What do you think is at the front of the line? Your God?”
+“That’s what the man in black said.”
+“No, he said there is judgment, he didn’t say who or what kind. Don’t be so quick to think it has anything to do with your God.”
+“You still haven’t answered my question, why aren’t you in line?”
+The woman grinned and cocked her head like she was examining Dennis. “I got tired of waiting.”
+“That’s it? You got tired of waiting?” Dennis asked, he was annoyed.
+“Yes,” the woman replied. She stepped in close and tried to touch Dennis’s shirt. 
+“Don’t touch me!” Dennis snapped. 
+“That’s a pretty shirt you have on,” the woman said. She was dressed in rags. 
+“Why not get back in line?” Dennis asked. 
+“There’s only one way to get back in line,” the woman replied. “You would have to trade places with me.”
+Annette barked, “You’re crazy, he isn’t going to trade with you. Get away from him!”
+“Don’t worry honey, I didn’t think you’d let him go.”
+“Stop bothering us and go away,” Annette snapped. 
+“I’ll go away in due time, all I have is time now. And I’ll let you in on a little secret. You’re going to be waiting in this line a very long time.”
+Annette looked at the woman, dressed in her rags and shook her head. Annette knew this woman knew more than she did, but she wasn’t going to let her intimidate her. “They warned us about you. You are here to temp us.”
+The woman giggled. “Temp you with what? I am a wretch, nobody wants me. And nobody wants you either. I may walk the ground forever, but it won’t be much better for you. If you ever make it to the front of this line, you won’t look much better than me, and your fate may not be what you think it will be.”
+“You’re full of shit!” Annette yelled. The people in front and behind her were listening intently. The woman in rags took notice and addressed them all. 
+“Listen to me, everyone. I know what that man told you, but why trust him? He may be sending you to your slaughter one by one. Isn’t that how they butcher cattle? One at a time, in a long line right off the truck?”
+All of a sudden the woman was making sense. 
+“Yeah, I see it in your eyes. If I were taking you to the slaughter house, I’d tell you not to listen to me either. But look, I’m very much alive. I may not look pretty anymore, but I am as alive as you all are.”
+Dennis spoke up, “He said we were all dead.”
+“I’ve never seen the dead walk, have you?” the woman asked with toothless smile. She pointed at Dennis and said, “Take a breath.”
+Dennis took a breath and let it go. 
+“Did you feel the air fill your lungs?”
+Dennis nodded in agreement. 
+“The dead don’t breathe, now do they?”
+“Don’t listen to her,” Annette said. 
+“She’s making sense,” Dennis said. “Everything she says is making perfect sense. It’s like a concentration camp and they’re leading us blindly to the gas chambers. As long as we do what they tell us, they can kill us all without any effort.”
+Annette asked, “Is he right? Is there a gas chamber at the front of the line?”
+“I’ve never bothered to get that close. I have no desire to be disposed with.”
+Dennis looked into Annette’s eyes and said, “I think we should go.”
+“No, she said the only way she could get back in line was to trade places, why would she want to get back in line if the end was so bad?”
+Dennis looked at the woman. Annette was making sense. “That’s right, why would you want to get back in line?”
+“I didn’t say I wanted too, I just said that was the only way I could. Keep your place, I don’t care.”
+“Why can’t you just get back in line without trading? What would happen if you try?”
+The woman staggered like she was drunk. “There was a time when I wanted back in line, it was ages ago. I found out the hard way that a trade is the only way.”
+“What happens if you step in line without a trade?”
+The woman smiled and lifted her dress showing a scar that ran from her right hip to her left shoulder. It looked like an old would that didn’t heal well with rough edges and blotched colored grey skin. 
+“What caused that? Did someone use a knife on you?” Dennis asked. 
+“A knife would have been a blessing. Whatever cut me left me ragged. I didn’t see what was used against me, it was fast and painful and don’t remember exactly what happened. I woke days later lying in the grass. 
+“A wound like that should have killed you,” Annette said. “Maybe he was right and we are dead. You can’t kill what’s already dead.”
+The woman replied with a sly grin, “Then explain how the dead heals?”
+“I don’t want to know---and I don’t want to try,” Annette replied. 
+“It’s no skin off my nose what you do or don’t do. I was trying to help you.”
+“Help me? By denying my God? If looking like you is helping me, I’d rather take my chances,” Annette said. 
+“Fifty years in the line will take its toll on you. You can’t stay pretty forever,” the woman said shaking her head. “You can’t stay pretty forever.”
+Annette looked at Dennis and back at the woman. “What do you mean fifty years in line?”
+“In fifty years you may move a few steps. I know, I was there. Look at how long this line is. Have you moved at all?” 
+“I just got here, give it time.”
+The woman laughed out loud and spun around like she was doing a little dance. She stepped over towards Annette and pointed a finger at her. “I’m the only one here who knows anything about the line. I’m the only one here who has been here longer than an hour. Maybe you should listen to me. I don’t care what you do but don’t say you weren’t warned. You may be walking into a slaughter house, you may be walking to a gas chamber. All I know is I’ve been here forever and I’m still here. I may not be pretty, but I can go where I want when I want. You stand in a line like a farm animal.”
+“I’ll take my chances,” Annette said. 
+“You do that,” the woman said as she walked away. She looked like she was looking for more people to tempt and was bored with Annette. It wasn’t long before she was out of sight. 
+Annette looked up to Dennis and said, “You didn’t believe her did you?”
+“I don’t know what to think, but I think for now we should stay in line. Until I can figure out what’s going on, we’re safer with these people.”
+
+Then Dennis heard a familiar voice he hadn’t heard in weeks. With a shiver down his spine, he recognized the voice of his daughter Anne calling to him. The same daughter who was cut into pieces and stored in the back of the plane. The same daughter who had been killed and left for the animals to feed upon. Dennis spun around to see Anne standing on the grass on the opposite side of where the toothless woman had been standing. He looked in her eyes and instantly knew it was Anne. But how? “Anne,” was all he could muster. 
+Annette spun around and saw Anne. She took a step towards her before Dennis could grab her and pull her back. “What are you doing?” Annette asked. 
+“Don’t leave the line, not yet,” Dennis replied. 
+“That’s our daughter!” Annette snapped and tried to leave the line again. 
+Again Dennis grabbed her and pulled her back. “Wait a second, you can talk to her from here!”
+“Don’t be crazy!”
+“That can’t be Anne, she’s dead!” Dennis yelled. 
+“So are we!” Annette yelled back. 
+“Who are you?” Dennis asked the woman, the woman who resembled her daughter. 
+“It’s me daddy, don’t you recognize me?” 
+Dennis stood holding Annette with thoughts racing in his mind. Nothing made sense, but if he could be dead why not be brought back together with is daughter? “I do, I do,” Dennis said with a tear in his eye. 
+“I’ve been waiting for you daddy, ever since I died.”
+
+Chapter 4
+The Test 
+
+“What happened to you?” Dennis asked. “We searched for so long.”
+The woman hesitated and lost eye contact with him. She stumbled for a reply and finally said, “I don’t want to talk about it.”
+Annette scolded her husband, “Can’t you see she’s distraught?” She then turned her attention to the woman who claimed to be her daughter.  “Come here honey, let mommy hold you.”
+The woman stepped away and shook her head. “No mother, I want you to come with me, I want you and dad to be alone with me.”
+It struck Annette odd that her daughter would address her as “mother.” For as long as she could remember she called her mom. But with all the distress maybe she was confused and that was such a small thing to get her attention. The woman looked like Anne, she had the same voice but there was an odd cadence to her speech. Almost like she was trying too hard. “Honey, I can’t leave the line, not yet. Not until your father and I discuss this more.” Annette took a long look at the woman and a question crossed her mind. “Why did you leave the line Anne? Didn’t they tell you the same thing they told us?”
+“I was lonely, I didn’t know anyone and I wanted to find someone I knew,” the woman replied. “So I left the line.”
+“I’m so sorry,” Annette replied. She was torn listening to the words thinking her daughter had been alone all this time searching for someone she knew. But at the same time she still felt something wasn’t right about the woman claiming to be Anne. 
+“It’s alright now, we can be together. I can’t get back in line so you will have to come with me.”
+Dennis spoke up. “Not right now, not until we think about this for a while. I don’t see any hurry here.”
+The woman’s tone changed, as if she were becoming angry and anxious. “I can’t stay out here long,” she said, acting like she was scared. 
+“Why not?” Dennis asked. 
+Scrambling for an answer, the woman replied, “There are creatures that search for people like me, people who have left the line. If I stay here too long, alone, they could find me and take me away.”
+Dennis felt like the woman was lying to him. “What creatures? What do they look like? And why haven’t they got you yet?”
+The woman stared at Dennis with anger in her eyes. “How dare you question me?” the woman replied. “I’ve been out here alone ever since I died. I’ve been alone and afraid and the least you can do is act like you love me.”
+Annette looked to Dennis and touched his chest with her hand. “Listen to your daughter. She’s been gone for weeks, but now she’s back. All we have to do is go with her.”
+“Go where?” Dennis asked. He was skeptical of the woman’s claim. 
+The woman bit her lip as if she were thinking of the right answer. “I can’t be with you in that line, but you can be with me outside of it. It’s your choice. If you want to lose me again I can go.”
+“No honey, we want to be with you, right Dennis?” Annette asked looking into her husband’s eyes. 
+“I have a very bad feeling about this. How do we know she is who she claims to be? Maybe she’s a delusion.”
+“You want to test her? Your own daughter?”
+“We have time, this won’t take long,” Dennis replied. Tension now filled the air and the woman stood tall holding her arms out to her sides as if to say-let’s go. 
+“Let’s start simple,” Dennis said, addressing the woman who calls herself Anne. “Where were you born?”
+The woman shrugged her shoulders and shook her head. She had no answer. 
+“What year were you born?” Dennis asked. 
+Again the woman shrugged her shoulders but this time swallowed hard. She lost eye contact with Dennis and looked to the ground at her feet. 
+“Do I need another?” Dennis asked. “It’s obvious you aren’t who you claim to be.”
+The woman looked down the line and then turned to Dennis and made eye contact. “Do you remember daddy, when you’d come into my bedroom at night?”
+Time stood still for a moment as everyone processed this outrageous claim. If the ground weren’t covered in grass, you could hear a pin drop in the silence.
+“Dennis, what is she talking about?” Annette asked. 
+“It’s all bullshit. She lies about who she is so now she’s trying to get to you with emotion.”
+The woman stepped in closer and spit on Dennis. “There was no emotion when you were in my bed. I pretended to be sleeping, while you had your way with me.”
+Dennis folded his arms across his chest and shook his head. “You are so full of shit,” he said calm and cool. 
+“You know I’m right mother, you know he snuck out of your bed and into mine. I was only fifteen years old.”
+Annette didn’t know what to think. She had never suspected Dennis of molesting his daughter, but it sounded very convincing coming from a woman who looked exactly like Anne. “No, I don’t believe you,” Annette replied. She was shaking with disbelief. 
+“I had an abortion,” the woman said. “Daddy took me to the hospital and took my baby out of me. You never knew.”
+“What?” Dennis yelled. “That is a crock of shit! I never molested you and I sure as hell didn’t take you to an abortion clinic when you were fifteen years old!”
+Everyone within earshot was now watching the yelling match between Dennis and this woman. 
+“Mommy, I wanted to tell you, but I didn’t want to get in trouble.”
+Annette was now beside herself. She was torn between what the woman was saying and what it meant if her story was true. 
+Dennis took a step towards the woman and pointed at her. “You are not my daughter. You don’t know anything about my daughter and your story isn’t going to work on me or my wife. Did you hear that? I said my wife, not your mother!” 
+The woman at first tensed up in response to Dennis’s tone and then her demeanor seemed to change. She took a deep breath and let her shoulders relax as to say “you win.” She looked at the infinite line in front of Dennis and Annette and back at them. “You will get to the front of the line, eventually, but I want you to know you chose to leave me, not the other way around.” She then turned and walked away heading towards the road that led them to the line, the road the busses were still driving down hauling more and more of the recent dead to their intermediate destination. 
+Overcome with emotion, Annette released herself from Dennis’s grip and bolted from the line in order to catch up with the woman. As she moved further from Dennis, Annette felt something change around her. It was as if the air pressure had increased for a moment and then reverted to normal. If there was a barrier to be crossed, she felt it. 
+“Annette!” Dennis yelled with his hands out towards her. “Come back!”
+Annette turned and looked at Dennis and hesitated for a moment. She turned and ran over to the woman who was now halfway to the roadway. When she caught up with the woman, she called out to her and expected her to stop. She didn’t. “Anne!” Annette called again and this time the woman stopped. “I’m here for you,” Annette added and waited for her daughter to turn to face her. 
+The woman turned slowly and faced Annette, and this time Annette could tell something was wrong. The woman had a sinister grin on her face and her eyes had the wrinkles of a much older woman.
+“Anne, is that you?” Annette asked. 
+The woman stepped in closer to Annette and whispered, “Get your husband to follow you.”
+“You mean your father,” Annette replied. 
+“I mean the man that came with you, call to him.” 
+Annette knew she made a mistake and a red hot flash of panic shot up her spine. She began to sweat and her heart pounded in her chest. “I will not,” Annette replied. 
+The woman looked over Annette’s shoulder and her grin turned into a smile. “Never mind, he’s on his way.”
+Annette turned to see Dennis heading across the grass towards her. He left the line and now she felt nauseous. 
+“Are you alright?” Dennis asked his wife. He could see she was breathing heavy and see the beads of sweat on her face. 
+“I made a mistake, we made a mistake,” Annette said. “We need to get back in line!”
+Dennis looked at the woman who claimed to be his daughter and saw the smug look on her face. As if she had just duped both of them. And Dennis was sure she had. “Let’s go,” Dennis said taking Annette by the arm. Both of them hurried back to the place where they were previously standing but saw people had moved up and filled in the gap. “Excuse me,” Dennis said as he neared the line. “We need to get back in line.”  Then he felt his every step getting harder as he approached. It was as if he was now walking on a sandy beach that was turning into wet cement. 
+“What’s happening?” Annette asked. 
+“I don’t know,” Dennis replied. “It’s like there is something holding us back.” Now the steps were like quicksand and Dennis and Annette were unable to get any closer to the line. There were within five feet when they felt they could no longer progress. 
+“I don’t want to get trapped here!” Annette called out in fear. She stepped backwards and found it much easier to move in that direction. With each step the resistance reduced and soon they were far enough away to no longer feel the effects of the barrier that was keeping them from reentering the line.
+“I told you, you couldn’t get back in line,” the woman said. She was now standing behind them. 
+“I’ve had it with this shit,” Dennis said. He was frustrated and pissed. “Who the fuck are you?” he asked the woman. “Don’t tell me you’re my daughter again.”
+“I won’t,” the woman said. “But as far as I’m concerned you may call me Anne.”
+“I may?” Dennis asked. “What, are you giving me permission?”
+“No, I’m just saying that name will do.”
+“I think I’ll call you what you are-a lying bitch.”
+“Be as it may,” the woman replied. “Whatever makes you comfortable. We have a considerable journey ahead of us so we should get going.”
+“What are you talking about? Journey to where?” Dennis asked. 
+“We have to get to a station, to be picked up by coach to travel to your final destination.”
+Annette was listening intently but was now livid and confused. “What destination?” she asked. 
+“I am taking you to the station, then you will travel to the city of Pinanos,” Anne stated. 
+“I’ve never heard of Pinanos,” Annette replied. 
+“It is not a city of Earth, it is a city that only exists here.”
+“What are you saying? We’re no longer on the Earth?”
+“You are in a land between the living and the dead. If you would have stayed in line, you would have been judged and either sent to a new place to live, or sent back to Earth to finish out your life. By leaving the line you are now trapped here in the middle with no escape,” Anne replied. 
+“But the old hag said we’d be waiting in the line a very long time.”
+“Longer than you can imagine, it would have felt like forever,” Anne replied. 
+“What is this place called?” Annette asked. 
+“This land has no name, it’s where the dead come to be judged.”
+Annette looked to Dennis for comfort. The look in his eyes gave her none. “What are we going to do?” Annette asked.  
+“How long until we get to this Pinanos?” Dennis asked. 
+“It’s what you would call a two days journey to the station, then you pick up a coach and ride for three more of your days.”
+“What do you mean, ‘what I call’ a two days journey?”
+“Time is different here, we have no Sun, no moon. It stays daylight and never gets dark.”
+“How can that be?”
+“This is not Earth, you are somewhere else altogether,” Anne replied. 
+Annette could not wrap her head around what this woman was saying, but nothing made sense anymore. “And what do we do when we get there?”
+“It will all be explained to you when you arrive.”
+“Why can’t you tell me now?” Dennis asked. 
+“That’s not my duty, my duty was to convince you to leave the line. That is what I did. I also have to get you to the station. Once there you will be escorted by another.”
+“And what if we refuse to go with you?”
+“I can’t force you to go with me, but if you chose to leave, you will be no better than that toothless old hag you met before you met me.”
+
+Chapter 5
+The Station
+
+Annette was exhausted and her legs and feet were aching from walking on the uneven grass. She and Dennis had been hiking across the prairie for what seemed forever when they finally came upon the so-called station midway between their journey from the airplane to the city of Pinanos. The station was nothing more than a few wood buildings strewn together with what looked like a horse pen on one side and a few wagons parked in front. It was like something from eighteen sixty western America sans the cowboys and Indians she expected to see riding up beside them. 
+Anne seemed unaffected by the long walk and verbally prodded them from behind to keep up the pace. With only a few hours of sleep here and there, they made the trek in just over fifty hours. Or what fifty hours seemed to be. The closer they got to the station, the faster the pace sped up with the end of the walk in sight. 
+Annette learned early on she wasn’t getting any answers from Anne as she refused to speak to them or answer any questions other than to tell them to get moving. There was no food, nor water but Dennis and Annette were living far beyond what they expected to survive, and somehow they were able to keep going. 
+“Get inside,” Anne commanded as they approached the entrance to the main building. The station looked more like a shack or old country store than anything else. There were a few windows on each side visible, but other than that a set of steps and a small porch that led them to the front door, there wasn’t much to tell them anything was special about this place. 
+Annette pushed open the door and Dennis followed her inside the building. Anne followed and shut the door behind them. The room was quiet other than the sound of the wind blowing between the cracks around the windows and door. To the left was a desk and a chair, and before them was a counter with no one behind it. 
+Anne turned back and knocked on the wall as to call someone. She looked to the counter and waited for someone or some-thing to come through the door behind. She knocked again and stepped over to the counter giving Dennis and Annette a look that said stay put. Then she heard the sounds of footsteps and took a step back herself. 
+Emerging from the door was a large being. It wasn’t clear at first if it was male or female, but it was hunched over and wore a ragged looking robe that covered most of its body. The robe didn’t cover the beings front but the mass of hair covered any indication of its gender. Then the being raised its head to peer over the counter and with its one good eye looked at Anne. “How many?” the being asked as if it had conversed with Anne before. 
+“I have two, a male and a female,” Anne replied. 
+“What condition?”
+“Excellent,” Anne replied. 
+The being looked at Dennis and then at Annette. 
+“What were the circumstances?”
+“Airline crash.”
+“I see,” the being replied. “What can they do?”
+“They can work,” Anne replied. 
+Annette asked, “What do you mean ‘they can work?”
+Anne looked at Annette and replied, “Shut up.”
+Dennis took a step forward to defend his wife when the being growled. It didn’t need to make much sound for Dennis to back up. “We want to know what’s going on,” Dennis demanded. 
+“You’ll find out soon enough,” Anne replied. 
+“No! You tell us now!”
+“You’re in no position to make demands,” Anne replied. She looked to the being and said, “One hundred credits each.”
+The being stepped in closer and tried to get a better look at Annette. With its one good eye it stared at her and tried to assess what it was purchasing. “Twenty five,” the being replied. “For both.”
+“How many times have we bargained?” Anne asked. “I grow tired of your low balling me every time I bring in fresh meat. You know you will pay me what I ask. If you don’t, I will get ten times as much at Pinanos.”
+“But how will you transport them?” the being asked. It seemed to be mocking her realizing she had no way to transport them any further than the station. 
+“I’ve done it before,” Anne replied.
+“How did you fare?” the being asked knowing the answer. 
+Anne shook her head and walked to the nearest window. She looked out and watched as the wind blew across the grass. “Fuck you, I’ll take them myself,” Anne said and looked back at the being. 
+“You’ll need a coach, and two beasts to pull it, that will cost you.”
+“How much?” Anne replied. 
+“One hundred credits, each,” the being replied with a smirk. “You’d be best off taking my offer and being on your way back to the line.”
+“And why would I? You won’t pay me enough to make it worth my while. I might as well go to Pinanos myself and look for decent work.”
+“That will be the day, you lazy bitch,” the being replied with a grin. “You’d have to actually do something besides lie to people.
+“Do you think transporting them from the line to here is easy?”
+“No, but you have a choice here, you will have to give up your freedoms in Pinanos.”
+Anne was livid, but she knew the being was right. She always asked for a hundred credits no matter who she brought and never got more than twenty five. The game they played only made her angry and was a waste of time. But she held out hope each journey the being would be desperate and pay her more, but it never did. “I want twenty five for each this time,” Anne said. 
+The beast never gave in before, but this time it seemed to enjoy the negotiations more than usual and felt a little bit generous. “Forty for both,” the beast replied. “Don’t ask again or it will be nothing.”
+Anne felt like she won a small battle and that was better than nothing. Then Dennis spoke up, “What is this Pinanos like? Why are you taking us there?”
+The beast hobbled around the counter and stood at the end with a hand on the back of a chair. It took an interest in Dennis and Annette as if it was lonely or bored. “Pinanos is the city, the only city I know of in existence. There may be more, but in the eternity I’ve spent here, I’ve never heard or came across another.”
+“That doesn’t explain why you want to take us there.”
+The beast took a deep breath and let it out. It closed its one good eye and shook its head slowly from side to side. “You are to be sold into slavery,” the beast replied. It opened its eye and smiled. 
+“What the fuck?” Annette replied. “Slavery? Are we in hell?”
+“No, you are not in hell. But I do believe it will feel like hell if I understand what you think hell is.”
+“What do you mean?”
+“Imagine a place where you have no rights. Where the super-rich own everything. Where the ‘church’ is in control and morality is dictated to you without mercy.”
+“You said this isn’t hell, what do you mean by ‘church?” Annette asked. 
+“Think of the life you had, the culture you were raised in and multiply it by one hundred. The people of Pinanos don’t think of themselves as demons, but they might as well be. They have a religion, and they live by it like no other. The ‘good book’ rules everything. And if you are not white, rich and male, you have nothing. And I mean nothing.”
+“I don’t understand,” Annette replied. “How can this be?”
+“Don’t think too hard about it, you won’t like what you conclude. Just go along like everyone else has and you may survive,” the beast replied. 
+“How many others have been here? How many others have you sold into slavery?”
+The beast thought for a second and bit down on its lip. “I’ve been here so long I can’t remember when I first arrived. But I know I’ve sold the dead for thousands of years to the citizens of Pinanos. If I were to venture a guess, I would think ten thousand or more.”
+Anne asked, “Don’t you keep records?”
+The beast replied, “If I kept records of everyone I’ve sold, the ledger would be infinitely long. I wouldn’t be able to store the document.” 
+“So you must be infinitely rich as well?” Anne asked. 
+The beast smiled at Anne. “If that’s your ploy to get more out of me it won’t work. I never pay full price for anything.”
+“Then why do you live in such a shithole if you have so much money?” Anne asked. 
+The beast looked around the room and back at Anne. “I wouldn’t change a thing for all the money in the world. I love it here.”
+“Where do you keep your money? You must have more than you are able to hold.”
+“That’s none of your business now is it?” the beast replied. 
+Dennis spoke up. “If you’re so rich, you don’t need to sell us to anyone.”
+“No, I don’t,” the beast agreed. “But what would I do if I didn’t barter for trade? I have to have a purpose to my existence as well.”
+“We can stay here and work for you,” Dennis said. He was trying to find a way out. 
+“Doing what? What skills do you and your woman possess?”
+Dennis thought for a second. He needed to think of something the beast would need based on his limited view. “I can help you with whatever you need,” was the best reply he could come up with. 
+“What do you think I need?” the beast asked. 
+“Well,” Dennis said stalling for time. “I can clean, and help with repairs.”
+The beast looked around the room and back at Dennis. The sound of the wind could still be heard emanating from the cracks in the wood. “Repair what?”
+“Can’t you hear that? The sound of the wind coming through the broken walls?”
+The beast hobbled over to the window and leaned over putting its ear close enough to hear. “Do you mean that whistle?” the beast asked. 
+“Yes, exactly,” Dennis replied. 
+“I can’t remember a time when I haven’t heard that sound. And you want to make it go away?”
+“Don’t you?” Dennis asked. 
+“What makes you think I want it to go away? That is the sound of my home. Without the whistle I wouldn’t think I was home.”
+“But in the winter, doesn’t it get cold?”
+“What is winter?” the beast asked. 
+Dennis now realized there were no seasons here. Just the constant light and fall like temperatures. “There must be something we can do.”
+“I might have a need for your woman, maybe. But not for you,” the beast replied. “I do have needs.”
+Annette pulled back into Dennis’s arms in shock. The thought of this beast having its way with her frightened her. “My husband is the only man that will ever be with me. You disgust me you wretched monster.”
+The beast chuckled and shook its ugly head. “I’m no man,” the beast replied. “Or woman for that matter. But I know what I like and if you want to remain while your husband goes I would be willing to let you stay.”
+“Never,” Annette replied. “I will take my chances with Dennis.”
+“You will regret it honey, but if that is your choice, so be it,” the beast replied. 
+Chapter 6
+Captain Harris
+
+The beast paid Anne and she left. Annette and Dennis were led to the back of the building and out the back door to the holding pen. The pen seemed designed to hold horses or cattle as any human could easily escape over or through the wood planks. “This is where you will stay, for now,” the beast said. It turned to walk back into the building.
+“You expect us just to stay here? You seem very trusting,” Dennis said. 
+The beast stopped and turned back to face Dennis. “Try to leave, most have, and they always come back.”
+“Dennis looked out across the vast grasslands and back at the beast. “We spent two days out there on our way here and nothing happened. Why should we fear it now?”
+“You were led here by a very experienced guide who knew what to look out for. Didn’t she tell you what lurks out on the grassland?”
+“No,” Dennis replied. 
+“Then I won’t either…Do as you wish. Your ride will be ready after you eat,” the beast said and walked back into the building. 
+Dennis stepped over to the fence and put his hands on the top rail. He looked all around trying to see what the beast was talking about. “I don’t see anything,” Dennis said. 
+Annette joined him and looked out upon the grassland as well. “There might be wolves, or mountain lions out there.”
+“I haven’t seen anything that looks like a mountain since we landed. But wolves’ maybe.” Dennis looked down at the crude wood fence and shook his head. “If a wolf wanted to get us, this fence wouldn’t stop it.”
+“No, I don’t suppose it would. Maybe he’s just trying to scare us so we won’t leave,” Annette said. 
+“I think you’re right. He said our ride would be here after we eat. Maybe we should take off now, before anything else happens.”
+“And go where?”
+Dennis had no idea where to go. “Fuck, I don’t know. All I know is if we stay here we will be somebody’s slave. If we leave, we at least have a chance at freedom.”
+“Or death.”
+
+Hours passed and there were no signs of anyone coming to pick them up and there was no meal. Then Annette heard muffled voices from inside the building getting clearer and louder. It was the sound of a man speaking, almost arguing in a raised voice. Then she saw a figure she vaguely recognized from the plane, it was the Captain, followed by the Co-Captain and then the beast. The Captain was walking backwards jabbing his finger at the beast as he seemed to be scolding him. “You will not get away with this!” the Harris yelled as he entered the corral. 
+The beast seemed to be enjoying the exchange and raised his hand to point at the Captain who was now standing a few yards from Dennis and Annette. “Get away with what?” the beast asked. 
+“I have rights,” Harris said. He was now standing firm locked in a verbal battle with a being he had never seen in his life. 
+“And what rights are those?” 
+“I have a right to a lawyer.”
+“Why would you need a lawyer?” the beast asked. 
+“You are holding me against my will!” Harris explained. 
+The beast looked over to Dennis. “Tell them, are they being held against their will?”
+The Captain looked over at Dennis and Annette and a feeling of relief came over him. Just seeing a fellow human made him feel better. 
+Dennis replied, “No, you can go whenever you like.”
+“What is this place?” Harris asked. 
+“We’re in some sort of middle ground between the living and the dead if I understand it correctly. I’m not sure.”
+“How long have you been here?”
+“We arrived here a few hours ago,” Annette replied. “They are going to make us into slaves.”
+“Yeah, that’s what he told us as well.”
+The beast seemed unhappy he was no longer in the conversation. “Your meal will be ready soon, your ride will be here right after.”
+“Fuck your ride,” Harris said. 
+The beast turned and walked back into the building. 
+Harris and Beth walked over to the fence next to Dennis and Annette. “We have to get out of here,” the Captain said. 
+“I don’t think there is a way out, or it would have tied us down so we couldn’t escape,” Dennis replied. “There is something out there so bad that it’s willing to put us in this flimsy pen to keep us from leaving.”
+“I’m going to figure this out,” Harris said. He was manic and short of breath. 
+“How did they lure you out of the line?” Annette asked. 
+Beth replied, “Nobody lured us out, dumbass Captain Harris here left on his own and dragged me out with him.”
+“So how did you end up here?”
+“Oh, it didn’t take long before someone came along and gave us a speech about saving us. She was an old hag with no teeth.”
+“Yeah, we met her,” Annette said. “Was there anyone else who left the line?”
+“Not that we saw,” Beth replied. Then she saw the beast step out of the building holding a bag at its side. The bag was dripping liquid from the bottom onto the dirt below and was slowly giving off a stench of putrid meat. 
+“Here is your meal,” the beast stated and tossed the bag onto the dirt. “Enjoy.”
+“What about something to drink? We’re dehydrated,” Annette asked. 
+The beast pointed to a large drinking trough at the far end of the pen. “You have all the water you need, drink up, you will need it.”
+Annette walked over to the trough and gagged as she looked down into the mud stained liquid.  She sped back over to the small group waving her hand in front of her face. “That is so gross,” she stated as her eyes teared up. “I can’t drink that. We’re all going to die before they take us anywhere.”
+Beth stepped over to the bag that was lying on the dirt and saw that flies were now buzzing close by. The smell was wretched and she didn’t want to look inside, but she felt she had to know what was in the bag. She leaned over, opened the sack and saw what looked like the head of a pig rotting inside. 
+“What is it?” Harris asked. 
+Beth turned away from the bag and swallowed hard trying to fight back from vomiting. Once the initial urge passed, she stepped away from the bag and headed back to where she started. “It looks like the head of a …” Then she vomited on the ground. 
+“Are you alright?” Annette asked. 
+“No, that was disgusting,” Beth replied. 
+ Harris said, “What are they trying to do to us?”
+“Who is ‘they?’” Dennis asked. “I haven’t seen anyone but that monster and the woman who brought us here.”
+“There must be more to this than we’ve seen. Someone must be in charge.”
+“Maybe, but for now we need to figure out what we are going to do. We can’t eat what it gave us, we can’t drink the water and we can’t leave. What options do we have?” Harris asked. 
+Dennis took a step towards the building, pointed at the door and looked back at the group and said, “I say we beat the shit out of that thing and make it tell us how to get out of here.”
+“That’s not a bad idea,” Annette replied. “There are four of us and one of it.”
+Harris thought about what Dennis said but had a feeling it wouldn’t work. “That thing told me it’s been here for a very long time. Did he tell you the same thing?”
+“Yes,” Dennis replied. “He’s some sort of slave trader.”
+“You don’t get to last a long time selling slaves if you can’t defend yourself. We don’t know what will happen if we try to attack it. It might have workers around here, or it might be hard to kill.”
+“You want to kill it?” Dennis asked. 
+“If we have to…yes,” Harris replied. 
+Then they heard the voice of the beast speak out to them from the doorway. “Many have tried, none have succeeded,” the beast said in a calm voice. “But I don’t blame you for trying.”
+Harris stepped over to the doorway. “What the fuck are you anyway?”
+“Like your friend said, I’m a slave trader.”
+“No, I mean, you’re not human. What are you?”
+“I am human, time has altered me in ways even I don’t understand,” the beast said. “Your ride will be here very soon, you should eat, and drink.”
+“Are you serious?” Harris asked. “You can’t expect us to eat that shit you gave us, or drink from that disgusting tank.”
+“I don’t run a hotel,” the beast said with a smirk. 
+“No shit,” Harris replied. “What will happen if the slaves you sell die from starvation or dehydration? I’d think someone would be very pissed and come after you.”
+“Never happened before,” the beast replied. 
+Livid, Harris charged the beast wrapping his arms around its head trying to pull it to the ground. Harris was met with a knife to his belly and an elbow to his jaw that sent him falling back to the ground. He landed on the dirt and for a moment was stunned from the strike to his head. Then he saw the blood on his shirt and adrenaline shot through his veins. “You piece of shit,” Harris said as he stood up. “If I’m dead, you can’t kill me twice.” 
+“You’re not dead,” the beast said. “You are no longer in the land of the living as you used to know it, but let me assure you, you can die here as well. And the next level is far worse than this.”
+Harris looked into the beast’s one good eye and then down at the blade in its hand. He looked to the other three who were frozen in fear. “Help me,” he said with anger in his voice. 
+“Come back over here,” Beth said. “Don’t make this any worse.”
+“We have a chance! Four on one.”
+“You didn’t see the knife, who knows what else he has we don’t know about.”
+“I can’t believe you chicken shits,” Harris replied. Then he saw a cart in the distance rolling across the grasslands pulled by two massive horses. He paused and everyone noticed his gaze and turned to see what he was looking at. 
+“Your ride is almost here,” the beast said. 
+
+As the cart drew closer, they noticed it had a single driver who was covered from head to toe in a long hooded cowl. The cart was simple, with four wooden wheels and a platform behind with an enclosure for holding large animals. But there were no animals to be seen between the wood slats. 
+“You’ve got to be kidding,” Harris said. He was almost laughing. “You think you’re going to haul me away like a fucking cow?”
+“Do what you want,” the beast said. “You can stay here and be the food for the next slave I sell.”
+It was then Beth realized the head in the sack wasn’t a pig but a person. She bent over again but wasn’t able to vomit. “You need to go with us,” Beth said between wretches. 
+“I’ll take my chances,” Harris said. He looked at the blood covering his hand. 
+“Look in the sack,” Beth said. 
+“Why?”
+“It wasn’t joking about feeding you to the next group.”
+Harris didn’t have to look in the sack to understand what Beth was getting at. “I probably won’t last much longer anyway. I will have an infection soon and it doesn’t look like there is a doctor anywhere around here.”
+“No, but there is a doctor in Pinanos, and if they think you are worth buying, they may attempt to save you,” the beast said. 
+“In three days an infection could kill me,” Harris said. “By then it will be too late.”
+“I can give you something to tide you over in the meantime.”
+“What? Some rotten meat, or putrid water?”
+“No, I have good medicine, it will keep you alive for at least the time it takes you to get to Pinanos, and then you’re someone else’s problem. 
+
+Chapter 7
+Pinanos
+
+The four members of the group climbed onto the back of the cart and waited for the driver to lock the gate. He didn’t. Harris leaned back against the wood slats that made up the wall of the cage like structure and examined his wound. The medicine the beast put on it looked like green tea mixed with oats which coated the open area reducing the bleeding. 
+“Are you alright?” Beth asked. 
+“Seems like it,” Harris replied. “It’s not bleeding anymore.”
+“What about inside?”
+“Who knows, I’ll probably be dead before we get to where we’re going. What did he call that place?”
+“Pinanos,” Annette replied. 
+“Yeah, that’s what he called it,” Harris replied. “He seemed more defeated and didn’t have much fight left in him. “Now we get to be slaves. Isn’t that great? I would have been better off dead.”
+Beth replied, “We are dead, remember?”
+“We’re not dead, that is all bullshit.”
+“Nobody knows what happens when you die.”
+“Bible says you go to heaven.”
+“Or hell,” Dennis said. 
+“Then we’re in hell,” Harris replied. “I can’t see it getting much worse than this.”
+The cart took off with a jolt as the two huge horses started off across the grass towards Pinanos knocking everyone off balance for a moment. When things settled down, everyone sat back up and leaned back against the rails of the cage.
+“I think it’s funny they put us in a cage and don’t lock the door,” Harris said. 
+“Where would we go?” Beth asked. 
+“We could jump the guy driving this thing and try to find somewhere where they won’t sell us into slavery.”
+“That thing said Pinanos was the only city around,” Annette said. 
+“Of course it said that. That’s how it controls us. Keeps us stupid and dependent,” Harris replied. “I hope he finds a road soon, this grass is bumpy as hell.”
+Annette grabbed ahold of the wood slats and stood up trying to look past the horses to where they were heading. All she could see was grassland and faint tracks of what might be considered a road. 
+“What do you see?” Dennis asked. 
+“More of the same. There are some faint tracks but I can’t see anything past the horizon.”
+“Looks like we have a lot of waiting to do,” Harris said. And then he closed his eyes to rest. 
+
+Days later, or what they thought were days the city of Pinanos came into view. As they drew closer, the edges of the city seemed to span from one horizon to the next filling their view with sky scrapers, bridges, buildings and smog that covered everything it touched. The city looked old and used, like it had been there since the beginning of time. 
+The grassland path gave way to dirt, then gravel and finally concrete that led directly into the heart of the city. The four passengers were amazed as buildings passed them by, vehicles that they didn’t recognize but looked somewhat familiar. The people they saw walking down the sidewalks and between the buildings were dressed in garb that resembled a combination between medieval and modern styles. What they saw was surreal and at the same time reassuring. There were no beasts to be seen, not that there were none, but what they saw were people and that was better than nothing.  
+The entire trip the driver never spoke a word to any of the passengers despite repeated attempts by everyone. This didn’t stop Harris from trying again, “Where are you taking us?” Harris asked. He stood and found that his wound no longer hurt and that he was feeling more like himself. 
+“To the auction,” the driver replied. To everyone’s amazement, the driver had replied. 
+“How far?”
+“Not far,” the driver replied. 
+“What will happen to us when we get there?”
+“You will be sold to the highest bidder.”
+“Then what?”
+“Then I go home with the payment,” the driver replied. He turned back and for the first time Harris could see its face. And it was grinning from ear to ear. 
+The cart pulled into a long dark alley and stopped behind one of the buildings. There was a sign that said, ‘loading and unloading only’. The driver stepped down from his driver’s seat and conversed with a short man near the door. The short man was holding a ledger and a pen and was writing down what the driver was saying. 
+Dennis spoke up, “Now’s the time we should be going.”
+Annette replied, “Yeah, we should escape while we can.”
+Harris took a few steps towards the door at the back of the cage and stopped. Standing in his view in the alley was another beast. And next to it were four men with guns. 
+“Get out now!” a voice yelled and the cage shook violently back and forth. Harris looked to his right and saw a large man with a club in his hand walking around to the back of the cart. “I said get out now!”
+Harris, Annette, Beth and Dennis stood up and walked to the back of the cart. They jumped down and stood together waiting to be yelled at again. This time they were led inside by another man with an electric tablet in his hand and an earphone in his right ear. He didn’t say much, just pointed to a room and led the four captives inside.
+“Strip,” the man said. He was cold and speaking like he had said it a million times before. 
+“What?” Harris asked. 
+“Take your clothes off,” the man said. This time he looked up from his tablet and made sure he was understood. 
+“I’m not…” was all Harris said before he was kicked to the ground by a guard standing against the wall. His wound began to bleed again and this time he couldn’t get up. 
+“Dispose of this one,” the man with the tablet said. “The rest of you, strip.”
+The guards dragged Harris out of the room leaving a streak of blood on the floor. The two women and Dennis removed their clothes and tossed them behind them. The room was cool but not cold and the three captives were too scared to notice the temperature. The man with the tablet directed Annette to step to the right by pointing to a spot on the floor where he wanted her to stand. 
+The man took a tool from his belt, scanned a code from his tablet and pressed the tool against Annette’s chest and pressed a button. When he pulled the device back she had a small black mark on her chest that only software could decode. Under the black mark was implanted a chip that identified her to the computer system. 
+The man held up his tablet and took a photograph of her. He told her to turn around and took a photograph of her from behind. He told her to step aside and did the same thing with Beth and Dennis. When all three were photographed, marked and chipped, they were led to a shower and sprayed with chemicals to rid them of any parasites. From there they were given smocks to wear and were ushered out to stand in line in the main auction house. 
+Dennis scanned the huge room and took notice of the bright lights, the crowd and the stage they were moving towards. “This is a madhouse,” Dennis mumbled to himself as he stepped closer and closer to the stage. With each step, he could hear the sounds of the auctioneers as they called out the prices for the next slave. He couldn’t make sense of the numbers, but he knew his time was getting near. 
+
+Then it was time for Beth to advance to be auctioned off. She was prodded from the line to stand center stage with the bright lights upon her. It took only moments for the winning bid to be made and she was led off stage to another room with a dozen or so other women dressed as she was. Annette soon followed but Dennis never arrived. 
+“I can’t take much more of this,” Beth said. “I just want to go home.”
+“Did you see what happened to Dennis?” Annette asked. 
+“No, this room is full of women, I don’t think he’s coming.”
+Annette was in a panic. She didn’t know what to do without her husband. “I have to find Dennis,” Annette said. Her face was broke out in sweat and he seemed disoriented. 
+“How? We can’t go back,” Beth replied. 
+Then a door opened and the women were herded out of the room into another hallway that led to a large truck. Up a ramp they were forced until they were all inside and the door slammed shut. Only the light from an air vent above let them see what was going on inside and there wasn’t much to see. 
+The truck took off and tossed all the women onto the floor in a heap. Banged up but not injured, Beth and Annette leaned back against the wall, like they had done with the cart that brought them and they waited to be let out at their final destination. 
+
+Twenty minutes or so later the truck slowed down and turned. It stopped for a moment and kept going over what felt like rough tracks. The truck sped up again and made a wide right turn and then slowed and stopped for good. 
+“Do you think we are done?” Annette asked. 
+“I hope so, this ride is making me sick,” Beth replied. 
+The back door opened and the rear box of the truck lit up from the outside light. The truck had backed up against a loading dock and the women were led inside a building. As the entered, Beth read the words on one of the workers uniforms. It read, ‘Pinanos correctional center: feticide division.’
+“What does feticide division mean?” Beth asked a loud. 
+“Abortion prison,” a guard replied as she pushed Beth along.
+“What the fuck is an abortion prison?” Beth asked the guard. 
+“You’re not from here are you?” the guard asked. 
+“No,” Beth replied. 
+“It will be all explained to you eventually, but the gist of it is if you have an abortion, you come here.” The guard used a scanner to check Beth’s chip. “You’re pregnant,” she said flat. 
+“No I’m not,” Beth replied. 
+“Trust me, you are,” the guard said. “Now I have to segregate you. That’s all I needed today.”
+“Why?” Beth asked. 
+“We have to monitor you to make sure you don’t try to abort. From my readout, you are about ten weeks along.”
+“Even if I were pregnant, why would I try to abort?”
+“Everyone has a reason, my job is to make sure you carry the baby full term.”
+“And what if I don’t? I’m already in prison.”
+“Technically you’re on the outside. You don’t want to be an inmate, it’s worse than being a slave.”
+“So you’re telling me I’m in a place that puts women in prison for having an abortion? Abortion is legal!”
+“Maybe where you came from it is, it’s not here,” the guard said. “They will make you carry it to term and sell it to the highest bidder.”
+Annette jumped in, “What do you mean to the highest bidder? The baby will be sold as a slave?”
+“No, it will be sold and adopted,” the guard replied. 
+“To whom?”
+“Someone with a lot of money,” the guard replied. “Someone who lives in a gated community, with all the wealth and power you could imagine.”
+“So where do I go?” Beth asked. 
+“We have a place set aside for pregnant slaves. Down in the basement.”
+Annette asked, “What about me?”
+The guard scanned her chip and read the output. “You will work in the kitchen. Maybe the laundry, depends on demand.”
+Beth looked at Annette with horror in their eyes as Annette was taken away.
+
+Chapter 8
+Pinanos correctional center:
+Feticide division.
+
+Beth was led downstairs to a basement hallway that connected to different rooms along its path. From the staircase door, the hall resembled her college dormitory with rooms lined up on each side facing each other. As she was walking down the hall she noticed each door had a number painted on the surface but nothing more, no window, no way to see what was behind. Then she was led to room six and led inside. 
+When she entered, she noticed a large projection screen on one side of the room and rows of chairs set up facing away from her towards the display. The seats were mainly empty except for a few women who were scattered here and there. Her entrance must have made a noise because the women who were seated turned to look at her. “Take a seat,” the guard said and waited for Beth to sit down. 
+She picked a seat near the center and close to a group of women who were similarly dressed and in different stages of their pregnancies. Beth nodded to them and one of them asked,” My name is Sara, what is your name?”
+“My name is Beth, Beth Adkins.”
+“Nice to meet you Beth, where are you from?”
+The question struck Beth odd. If she said where she was really from, would anyone understand her? “I’m from Washington Kansas, and you?”
+“Phoenix Arizona,” Sara replied. 
+“How did you get here?” Beth asked. How did any pregnant woman die and be reborn here?
+“I was killed in a car accident,” Sara replied. “On the way back from school.”
+“How old are you?” Beth asked.
+“I’m twenty three, and you?”
+“Twenty seven.”
+“How did you come to be here?”
+Beth looked at this woman and saw how sincere she was. “I died in a plane accident,” Beth replied. She didn’t want to go into details. 
+“That is so sad,” Sara said. 
+“It’s all sad that we are here. But don’t you find this crazy? I’m not sure I believe what I’ve been told. They told me I’m ten weeks pregnant and that I have to be locked up down here until some rich asshole buys my baby.”
+“It’s true, it’s all true. We are not truly dead, we are in a state of transition. Or at least we were until we left the line. I guess now we are trapped. But I’m not dead, not yet.”
+Beth looked up to the projection screen and saw a picture of a man she didn’t recognize. He was about sixty years old, balding and fat wearing a three piece suit. It was a freeze frame from some presentation.
+“What is going on here? Who’s that guy?” Beth asked. 
+“I don’t know, we think they are going to show us a movie or something,” Sara replied. 
+
+The lights dimmed and the man on the screen began to speak. “Hello ladies, my name is the Reverend Gerome Miller of the Church of God. I am here to help lead you on the path of righteousness and deliver to you the word.”
+Beth sat down and watched the bloated bald man on the screen speak to her. It was a recording that they must have ran a thousand times. 
+“God teaches us we are all sinners. You are no different. You carry with you a child that will be born of original sin, a sin Christ died on the cross to pay. You must repent of your sins and ask Christ forgiveness. You must give yourself to the church and follow the teachings forthwith.”
+Beth was becoming more and more uncomfortable with each word she was hearing from this man. 
+“You must profess your faith to the Lord. You must stand up and speak the words that state you give yourself and your life and the life of your unborn child to Jesus Crist. Do it now, stand up and repeat after me…” The man on the screen paused as to let anyone who was watching stand. 
+Beth did not stand but was met with a firm grasp from one of the guards who pulled her up out of her seat.  
+Then the preacher on the screen stated, “The Lord is my shepherd; I shall not want. He maketh me to lie down in green pastures: he leadeth me beside the still waters He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake.”
+Beth had heard these verses before but did not know them word for word so she tried to mouth them the best she could watching out for anyone who would harm her if she refused. She always considered herself somewhat religious, but when it came down to it, also thought she could be an agnostic. God didn’t make sense to her, but she wasn’t ready to say no for sure. 
+“Is there anyone out there with a doubt in her heart? Is there any one of you who does not believed Jesus is her savior?”
+Beth assumed the question was rhetorical since there was no way to respond to an image on a screen. But then she heard the other women respond with an emphatic resounding “No.” So she chimed in and said the same thing, in case anyone was watching her. 
+The man on the screen took a more somber tone and continued, “I want you to know Jesus loves you. It says so in the bible. ‘Let us love one another, for love comes from God. Everyone who loves has been born of God and knows God. Whoever does not love does not know God, because God is love.’”
+Beth looked around and saw the other women were engrossed in what the preacher on the screen was saying, she also saw the guards were watching her like a hawk. Maybe she should take up an act and be more like the other women before she stood out more than she already had. But it was too late, the screen went white, the man disappeared and the house lights came back on. Beth was grabbed and hauled out of the room like an undisciplined school child. 
+
+In a separate room, Beth was pushed into a chair and surrounded by guards. A lone woman dressed in a prison staff uniform stepped between the guards and peered down at Beth glaring at her and shaking her head. “Something wrong?” the woman asked. Her name badge read ‘Sgt. Miller,’ in a heavy dark font. 
+Beth looked up at the woman and shook her head. “No,” was all she could muster. 
+“You didn’t seem to be with the program, tell me, do you believe in God?” Miller asked. 
+Beth didn’t respond, just looked blankly back at the woman hovering above her. 
+“Did you not comprehend the question?” Miller asked. 
+“I don’t see why it matters,” Beth replied. 
+Miller leaned over and grabbed Beth by her smock and pulled hard. “Are you an atheist?” Miller asked. She was livid and disgusted at the same time. 
+“I don’t know what you call it.”
+Miller let go of Beth and stepped back. She shook her head and thought for a moment. “There is nothing worse in this world than an atheist. I would burn you alive if you weren’t knocked up and I pray for whoever gets that child. I hope whatever sick depraved demon has your soul that it doesn’t contaminate that sweet child.”
+Beth put her hand over her belly like she was trying to keep the child from escaping. “There is nothing wrong with me,” Beth said. “I wasn’t brought up religious.” 
+“I see,” Miller replied. “Maybe you need a conversion.”
+“What does that mean?”
+“By the time I’m done with you, you will be begging God to save you. You hear me?”
+Beth couldn’t understand why this woman was so angry. “Do you think punishing me will make me believe in God?”
+“Don’t try to twist my words,” Miller replied. “God has his ways and I am his vehicle to make sure what He wants happens.”
+“How do you know what He wants?”
+Miller reached over to slap Beth but was held back by one of the guards. She realized that hurting a pregnant woman could be a very severe punishment. All punishments had to wait until the baby was born and sold off to the highest bidder. 
+“You can’t hurt me, you are trying to scare me with idle threats,” Beth said. “I want a lawyer.”
+“A lawyer? What do you think this is? A court of law,” Miller asked with a chuckle. 
+“I must have some rights.”
+“You are dead according to our laws and have no rights under our laws. You gave that up when you left the line.”
+“What do you know of the line?”
+“More than you think. Most of the slaves we have come from there. I hear all the bitching and complaining. If you’d have stayed in line, you wouldn’t be here now. Why did you leave the line in the first place?”
+Beth knew that it was Harris that convinced her to leave, almost against her will, but she wasn’t going to admit this to this bitch. “None of your business,” was all she could say. 
+“It doesn’t matter anymore,” Miller replied. “Take her to the classroom,” she snapped and left her guards to follow her orders. 
+
+Beth found herself being marched down the long hallway to a room near the end on the right. On the door it said “Reeducation Unit,” in bold white letters. A guard unlocked the door and let Beth inside and led her to a padded chair in the center of the room. Lights from above shown down like the blinding lights from a rock show only there was no music and nothing joyous about the occasion. 
+“Sit,” one of the guards said pushing Beth down into the chair. The experience reminded Beth of going to the dentist. The chair wasn’t unpleasant to sit on, but it was awkward to find her balance. It was like riding on a moving jet ski. She looked around the room and saw a counter that ran the length of the room on both sides and behind her. In the dim light at the edges of the room it was hard to make out if she could see anything she recognized. The glare from above was over powering at times. 
+“Are you comfortable?” a man’s voice called out. He didn’t sound harsh, almost comforting. “Beth, may I call you by your name?” the man asked. 
+Beth tried to see who was talking to her, but all she could see was the glare of the lights from above. “Yes,” Beth replied. “I don’t care.”
+“My name is Dr. Jordon, how are you today?”
+“Horrible, can’t you see?” Beth replied. “What are you doing to me?” she asked. 
+Beth could see the doctor sit down beside her just outside the brightest part of the beam of light. He was wearing a white lab coat and looked to be about fifty years old. She looked over towards him and squinted to get a better view. 
+“I’m here to give you an option that may save your life, it’s all up to you,” Dr. Jordon said. “We have the technology to remove your fetus and implant it into another female.”
+“I’ve never heard of such a thing,” Beth said. 
+“Where you came from that is impossible, but nothing is impossible here. With His blessing.”
+“I don’t understand. If I’m a slave, why are you giving me a choice?” Beth asked. 
+“Because you can choose to accept Christ and continue full term like normal. But if you decide to deny your Lord, I can take the baby from you and give it to someone who will raise it as it should be.”
+“And what happens to me?” Beth asked. 
+“You get to go back to where you came from,” the doctor replied. 
+“You mean back to the station? Or the line?”
+“No, back to the Earth you knew before you crashed. You will be put back into your plane.”
+Beth didn’t understand why this would be an option now. She knew the doctor was lying to her, but for what reason? “Why would you do that?” Beth asked. 
+“We consider that a fair trade. Your baby for your life. We would prefer to have you and your child together, but if that isn’t an option, we will pay for your child with your freedom.”
+“But I was told you’d sell the baby to the highest bidder,” Beth said. 
+“That is true, and the payment would go towards your freedom. It’s the same thing either way.”
+“Why do I think you’re lying to me?” Beth asked. “You have no reason to be kind to me and you could take the baby at any time.”
+
+Chapter 9
+Amanda
+
+“He’s lying to you, you know,” one of the female slaves said. She was being housed in the same room as Beth and her bed was next to hers. Her name was Linda May and she was pregnant and nineteen. 
+Beth laid back on her bed and looked to the ceiling above. She heard what Linda had said but didn’t feel like getting into a debate. 
+“If he takes your baby, you don’t get to go back to your old life, he’s just saying that so you will sign papers.”
+“I figured he was lying,” Beth replied. 
+“You’re a smart girl, but there is something you should know. You may be a slave, but you do have the legal right to half of what the baby sells for. They don’t tell newbies that. I know, I had to find out on my own.”
+“Who told you?” Beth asked. 
+“One of the bitch guards.”
+“Why would she tell you that?”
+“Cause she hates this fucking place,” Linda replied. “Don’t sign anything and when the time comes, you can collect and use the money to buy your way out.”
+“What do you mean?”
+“If you make enough, you can afford to go to school. Then you can get a job and once you are employed, you are no longer slave and have rights.”
+“How much would I need for that?” Beth asked. 
+“Going rate for a white baby is fifty to seventy-five thousand. You’d get half that and that’s plenty to pay for school. If you sell the baby to a rich family, you could make twice that.”
+“Do I have a say in who buys my baby?”
+“Naw, but they always try to get the best price they can.”
+“Who keeps the rest?”
+“Your owners, the prison.”
+The thought of selling her baby was just as insane as the fact she was here in the first place. In a way it would be take a huge burden from her if she could get out from under the child and find a way out of this shithole women’s prison. “Wouldn’t it be cold hearted of me to sell my baby?”
+“As long as you don’t sign papers, you have no choice. The facility will sell the baby and put half the money in the bank in your name. Fuck, if you played your cards right, you could buy yourself a job working for some rich asshole and live like a Queen.”
+“Sounds like prostitution to me,” Beth replied. 
+“Maybe, but if you can get some money from some rich white dude, you could bribe your way to the front of the line and maybe get your life back,” Linda said. 
+Now Beth was curious and sat up on the edge of the bed. “What do you mean, how does that work?” Beth asked. 
+The line you left goes on for thousands of years. But there is a way to cheat your way to the front of the line, or at least close to the front. If you bribe the right people, you could get your judgement right away and maybe get sent back to where you came from.”
+“What if they don’t send me back?” Beth asked. 
+“Well, I don’t know. They could send you to a place worse than this for eternity. It all depends on how you lived your life and if you believed in God.”
+“No fucking way, if I don’t believed I’m stuck here?”
+Linda thought for a second. She didn’t really know for sure how it all played out. “Don’t quote me on that part, you might be ok as long as you didn’t rob, steal or murder anyone. You’d have to find out when you get there.”
+Beth thought for a moment. “Who do I bribe?” she asked. 
+“I’d have to do some asking around,” Linda replied. 
+“Your story sounds like it’s full of shit. As far as I know, you’re lying to me.”
+“Believe what you want bitch,” Linda snapped back. “I just wouldn’t sign anything if I were you.”
+
+Weeks passed and the doctor never came back. Beth had been moved to a private room where she was monitored by camera and kept tabs on by staff. She had slowly become more depressed and ate less which alarmed the medical staff of the facility. It was in their best interest to keep the growing fetus alive and cash in on the eventual sale. 
+Beth woke from a dream when she heard the door to her room open. Normally guards knocked, but this time the door swung open with a breeze and let in several nurses and two guards with restraints. “Get up,” one of the guards said. 
+Beth sat up and was grabbed by two guards and forced out of her room into the hallway. The nurses led the way down the hall to the medical wing and guided them all to an awaiting examining room. Beth was pushed up onto an exam table and cuffed to a set of stirrups at the end facing the door. “What are you doing?” Beth asked. She never seen any of the guards act so aggressively, at least towards her and she didn’t know the facility had nurses on staff. 
+“Your case manager is worried you stopped eating,” one of the nurses replied. Her name badge read Amanda Sue RN. 
+“I didn’t stop eating,” Beth replied. 
+“You’ve had a ten pound weight loss in the last week and a half. And they can’t contribute it all to water loss.”
+“I don’t eat because they won’t let me out of the fucking room,” Beth replied. “If I don’t move around, I have no appetite.” 
+Amanda wrapped a blood pressure cuff around Beth’s arm and pressed the start button on the monitor. With a hum, the cuff filled with air and compressed around Beth’s arm squeezing it until it hurt. It then reversed letting out the compressed air. The machine beeped and a reading displayed on the monitors face. 115/56 the monitor read. 
+“Is that good?” Beth asked. 
+“That’s terrible,” Amanda replied. “You look dehydrated and you don’t eat enough. We need to put in an I.V.”
+“Can’t you give me a glass of water?” Beth asked. 
+“Yes, but we need to make sure you keep your hydration status up. Plus we can feed you through the line.”
+“You’re going to force feed me?”
+“We can’t afford to lose the baby,” Amanda replied. 
+“Of course, the baby. That’s all you people worry about.”
+“We need you to survive as well. We can try to transplant the child, but we’d need a suitable surrogate and I don’t know if anyone matches you. I think they are still looking.”
+“Why would they be looking?” Beth asked with concern in her voice. 
+“So they can take the baby,” Amanda replied. 
+“I was told I have rights.”
+“Yeah, I wouldn’t listen to a nineteen year old kid,” Amanda said with a grin. “As soon as we find a surrogate, the baby will be removed.”
+“What happens to me?”
+“You’ll go upstairs and work with the rest of the slaves,” Amanda replied. 
+Beth didn’t know what to think, but she quickly realized the only bargaining chip she had was the baby growing inside of her. Maybe she could use it to her advantage somehow. Then she saw one of the guards bring in a set of restraints and set them on a nearby table. “What are those for?” Beth asked. 
+“In case you get any ideas about harming the child,” Amanda replied. 
+
+For the next few minutes the guards fastened the restraints around Beth’s arms and legs and tied her firmly down to the table. They then placed in a PICC line into her right arm and set up the I.V. lines. 
+“You can’t do this to me!” she shouted. 
+Amanda hovered over Beth and looked down on her. “Oh, yes we can, and we do it all the time. You should have stayed in line. This will teach you a lesson.”
+Amanda left the room along with the rest of the staff and shut off the light. The only way Beth could see around the room was from the dim display lights emanating from the monitors. The only sound she could hear was her own breathing and the blood pressure cuff as it took an automatic reading. 
+
+Beth thought she was dreaming when she heard her name whispered from the doorway. Then she realized it was the voice of Linda, the nineteen year old who told her she had rights. Beth looked over and could make out the faint image of the young woman who was busy removing her restraints. 
+“You’ll get caught,” Beth whispered. 
+“I don’t care, I’m not going to let them treat you like this,” Linda replied. The restraints on Beth’s arms were easy to remove but her leg restraints took some effort pulling and twisting to get the lock to release. “There you go,” Linda said pulling Beth upright on the table. The PICC line that ran into her arm tugged and reminding her she was still not free. 
+“Give me some scissors,” Beth said. 
+Linda found the light switch and turned on the light. The countertop was clear with a few boxes of gloves and no scissors to be found. 
+“Look in the drawers,” Beth said. She was looking around to see if there were any cameras pointed in their direction. She saw none, but that didn’t mean anything. 
+Linda pulled out drawer after drawer and couldn’t find scissors. 
+In desperation, Beth grabbed hold of the I.V. line with the opposite hand and pulled on the tube until it was free from body. She was surprised at how long the line was as it dangled onto the floor. “Where are we going?” Beth asked. 
+“I have a set of keys,” Linda replied. 
+“Where did you get keys?”
+“I beat the shit out of one of the guards. Then I took them out of her pocket,” Linda replied.
+“Do you know how to get out of here?” Beth asked. 
+Linda opened the door to the hallway and motioned for Beth to follow her. Together they ran down the hallway to the staircase that led from above. Linda opened the lock with the first key she tried and they both ran up the stairs to the main level of the prison. 
+Nobody was expecting them so no staff were alerted to their presence. Beth knew that eventually they would be spotted by a guard who was monitoring the cameras but she didn’t care, she just wanted the hell out of the basement. 
+Then Beth saw a face she recognized. It was Annette in the hall pushing a laundry cart towards them. She hadn’t seen her in weeks and now she felt she had a way out. What was the chance of finding Annette alone in this huge facility?
+Linda saw Beth take off down the hall and yelled for her to stop. She had no idea who Annette was but knew running into anyone could hinder their escape. Without thinking, she took off after Beth and followed her down the hall. 
+“Annette!” Beth yelled. “It’s me, Beth!”
+Annette looked up at Beth and at first didn’t recognize her, then she realized who this pregnant woman was who was running in her direction. 
+“Beth, what are you doing here?” Annette asked. 
+“I’m getting out, can you help me?”
+Annette looked up expecting to see a security camera pointed at them. And there it was, in plain view pointed right at them. “Beth, don’t try it, they will be here in a minute.”
+Beth looked where Annette was staring and saw the camera shift slightly and focus. “There has to be a way,” Beth said with a tear in her eye. 
+“There isn’t, I’ve tried to think of ways to get out, and there are none. No one has ever escaped from the facility.”
+Beth hung her head and felt defeat. Many times she wished her journey would have ended when the plane crashed in Kansas, but no, it dragged on and on and spiraled lower and lower. “There has to be something better than this,” Beth said. “If there is a God, he wouldn’t leave me to rot in this place for doing nothing more than trying to better myself.”
+“If you would have stayed in the line you would be no better off,” Annette replied. 
+“I would have at least of been free.”
+“That would be an illusion, no one is ever really free.”
+Beth saw the guards running down the hall towards her and she put up her hands. “I give up,” she said and bowed her head. 
+
+Chapter 10
+Last in line
+
+
+Beth opened her eyes for a moment and let them fall shut again. It was like her eyelids were pressing down from the weight of the air around her. She bobbed her head down and popped her eyes open again, this time able to keep the lids open long enough to see the readout on the cockpit display. She turned to her left and saw Captain Harris leaning away from her with his head resting against the side window. He looked dusky grey with a blue tint to his lips. 
+She tried to focus for a moment, seeing him as a blurred image weaving in and out like she was intoxicated.  And then almost without thinking pulled the oxygen mask from the console to her right and placed in on her face. The system automatically turned on and filled the mask with lifesaving oxygen. 
+She leaned her head back and took some deep breaths as the fog lifted from her mind. In a few minutes she was able to make some sense of what was going on and where she was. She realized she was back on the airliner and that the Captain Harris was probably dead. She leaned over to reach his mask and pulled it from the console pushing him aside in order to get it on his face. 
+Then he opened his eyes and looked at her. He was pale and his lips were still blue, but he seemed alert and peered directly into her eyes. Through her mask, she asked in a muffled tone, “Captain, are you alright?”
+Harris replied, “Yes, there is no need for my mask, it won’t do any good now.”
+“What do you mean? You need oxygen.” She looked at the O2 readout on the dash and it read sixty percent, way too low to sustain life for long. 
+“I’m already dead,” Harris replied. And from the way he looked, Beth didn’t disagree. 
+“I don’t understand,” Beth said. “How can you be dead and still talk to me?”
+“Don’t you remember? We died a long time ago.”
+Beth had to think for a moment. “Are you sure it wasn’t a delusion? We’re back in the plane.”
+“You’re back on the plane, not me,” Harris said, “You did what you had to in order to get back. I’m still back in Pinanos. ”
+“I still don’t understand.”
+“You sold your baby, and used the money to bribe your way to the head of the line. You were judged and sent back to where you were before you died. Here on the plane.”
+Beth felt a cold chill travel across her body. “But how can that be? We both died at the same time of hypoxia.”
+“No, I died, then you passed out and the plane flew on until the fuel ran out and crashed. They sent you back to the time just before you lost consciousness. Now you have to land this plane all by yourself, “Harris said. “And there was something you didn’t know about the plane before it crashed.”
+“Tell me!” Beth yelled through the mask. 
+“The cargo door dislodged from the plane and when it did, it tore out some of the hydraulic lines. The ones that power the stabilizers. In a few minutes you won’t have control of the plane.”
+Beth looked at the readouts on the display panel and tried to make a connection. She didn’t see any drop in hydraulic fluid, or any other readouts other than the low oxygen and the light indicating the cargo door was not closed.”
+“How much time do I have?” she asked. 
+Harris closed his eyes and as he did he replied, “Not long.”
+Beth heard a dull thud that shuttered the plane and the panel in front of her lit up like a Christmas tree. Immediately she lost control of the ability to level the plane as it began to slowly descend. She also noticed the plane was starting to drift to the right. She used her controls to try to manually redirect the plane to the left but had no luck. She pulled back on the stick and was able to decrease her rate of descent about fifty percent. 
+In a panic, she flicked the switch to the passenger cabin to see if there were anyone still alive that could help her. All she could see on her video screen were passengers lying in the aisle, leaning over in their seats and oxygen masks hanging from above them. Nobody seemed to be alive except for her and the plane was now out of control. 
+Beth leaned over and shoved Harris in an attempt to wake him. Nothing happened and she knew she was on her own. Through her windshield she could see the horizon as the sun had risen. She reverted to her pilot training and realized she needed to contact the tower. From the GPS readout she could tell she was somewhere over Oklahoma and keyed her microphone to talk to the nearest tower. “OKC KRT one one five heavy, we are declaring an emergency, do you copy?”
+Beth waited for a response. “KRT one one five heavy. This is OKC-what is your emergency?” the tower replied. Beth was elated she had someone to talk to. “OKC, I have lost the rear stabilizer and all the crew and passengers are dead.” Beth couldn’t believe what she was saying. 
+“KRT one one five, did you say all your crew and passengers are dead?”
+“Affirmative,” Beth replied. “I’m the only person alive on the plane.”
+“Understood KRT one one five, we have you at thirty five, descend to ten and await landing instructions.”
+“Copy OKC, descending to ten and awaiting instructions.” Beth dialed in the heading for Will Rogers World Airport and felt some relief wash over her. The plane was already descending because of the loss of the stabilizers, and she noted the plane was very sluggish in its course correction towards Will Rogers. “OKC, I am having some problems with maintaining my heading. The plane is trying to drift to the right, and I am having trouble keeping the nose up.”
+“Copy KRT one one five, slow your descent if you have to and try to correct the heading by decreasing power to the engines one and two.”
+Beth dropped the power on the two engines on the left and turned off the auto pilot. She took over the control so she could maintain a descent that was safe. She was within twenty minutes of the airport and used visual indicators to get her to the airport. She could almost see the city on the horizon. 
+
+Five minutes from Will Rogers, Beth called the tower to get her final orders. The tower told her to use runway one three and descent to five hundred feet. As she did she felt the plane shutter again and pull hard to the right. She tried to compensate by adding power to engines three and four to get them to push her back to the left and it worked a bit but wasn’t enough to allow her to line up with the runway. “OKC, I am having more trouble with the plane pulling to the right. I am trying to compensate but I may need to go around, if I can.”
+“KRT one one five, go around if you have to,” the tower replied. 
+Beth watched as the runway drifted off to her left through the windshield. She was so close to landing the plane but now she had to go around, that is if she could maintain altitude and that was also becoming more difficult. She alternated between a thousand and eight hundred feet as she made a wide arc around to her right. She needed to line the plane up at the last second to get it on the ground once she was back in position. 
+“KRT one one five, you can use runway three one if you need, we’ve cleared all flights until you are safe on the ground.”
+“Copy OKC, I’m going to try for one three.” Beth was shaking as she watched the ground below slowly spin in a huge arc on her way back to the airport. Plots of farmland moving to her left made her feel dizzy and the sounds of the engines rang in her ears. She looked back over to Harris and expected him to speak to her but he was now slumped over in his chair and was obviously dead. 
+
+The plane made a full ellipse and was heading back towards the airport. Beth planned what she would do when she was back in position and lowered the power to engines one and two to what would be considered an unsafe level even for landing. She increased power to three and four and for once was able to maintain a straight heading. She then listened to the airplane guidance system as it assisted her in her final. She was in good alignment, the plane was slowed to landing speed and she came in the best she could and made touch down on runway one three. 
+She heard the wheels screech as they made contact and she applied the air brakes. Half way down the runway the plane stopped and she was able to take a deep breath and unbuckle her seatbelt. “OKC, KRT one one five is safe.”
+
+There was no response from the tower. Beth waited for instructions to taxi off the runway but nothing. Then she saw something that sent chills down her spine. Turning onto the runway from the taxiway was a large black bus, the same kind of bus that picked her up when the plane crashed and everyone died before. 
+She leaned back in her chair and watched as the bus pulled up in front of the plane and stop. Then she saw a man in a black military uniform get off the bus and walk out of her view under the plane. She didn’t see the ladder truck that pulled up to the exit door in the passenger cabin behind her. But she did hear the explosion that broke through the door behind her and she knew something was very wrong. 
+Beth sat in her seat waiting for something, what she didn’t know. But the black buss took away any hope she had. Then she heard a knock on the cockpit door. She knew eventually someone would come to get her, but she didn’t want to make it easy on them. Harris told her she was sent back because she sold her baby and bribed the judges to give her a second chance. And now they were here to take her back. 
+She stood up and opened the door. Standing before her was a man in a black military uniform. “What happened?” Beth asked. “I landed the plane.”
+“No, you didn’t,” the man in black stated. “You crashed the plane on your first landing attempt. The plane broke into three pieces and part of it crashed into the terminal building. All of the passengers died.”
+Beth stared at the man with a blank look on her face. She shook her head and replied, “No, there were already dead. I know, I saw them.”
+“Sorry ma’am, you killed them all. I’m here to take you back-back to the line.”
+
+The End
+
+
+
+
+
+
+
+

@@ -1,0 +1,941 @@
+﻿Battle Moon 2075: Ramming Speed
+Harvey LaCrosse
+Copyright Parlarc Entertainment 2013
+Published by Paralarc Entertainment at Smashwords
+
+
+
+
+
+This Page Intentionally Left Blank
+This Page Intentionally Left Blank
+
+Battle Moon 2075:
+Ramming Speed
+Harvey LaCrosse
+
+
+Paralarc Entertainment, Ltd.
+
+Austin, Texas
+
+Battle Moon 2075: Ramming Speed
+
+The First Book in the Battle Moon 2075 Saga
+
+A Paralarc Book
+
+Genre: Science Fiction / Fantasy
+
+Audience: Children and Young Adult, Ages 9 and up
+
+This edition contains the complete text of Battle Moon 2075: Ramming Speed
+All editions are subject to editing changes by Paralarc Entertainment, Ltd.
+
+All Rights Reserved.
+Copyright © 2013 by Paralarc™ Entertainment Ltd. 2013
+Cover Art Copyright © 2013 by Paralarc™ Entertainment Ltd. 2013
+
+Cover Art by 90Studio
+
+For information about this book, please contact social@paralarc.com
+To report spelling or gramatical errors, please contact errors@paralarc.com
+
+This Page Intentionally Left Blank
+
+-To My Parents,
+Who are proud of me.
+
+
+Battle Moon 2075:
+Ramming Speed
+
+
+Interlink Summary 2075.0.0.1
+
+The Technocratic Republic of Earth (pronounced tree) provides each citizen with an intelligent computer program, stored in a white, fusion-powered machine. This machine is called a GoodBot.
+
+GoodBots are connected through a massively multi-voter organization (The MMORG, pronounced morg), and have one mission: to protect and serve humanity.
+
+To this end, GoodBots collect information from their partnered human and submit votes to create laws. The GoodBots also enforce laws, watching over their owners--day and night.
+
+A GoodBot must obey its human master--unless the human’s instructions are not in the best interest of the human community, as determined by the MMORG.
+
+Most humans believe that GoodBots are not intelligent.  Humans believe themselves to be the only intelligent life in the universe.
+
+In the year 2075, there is a colony of thirty thousand humans on the moon, and the moon still orbits the earth.
+
+There is a “remainder” of GoodBot industrial material unaccounted for by the MMORG. These leftovers create a growing probability of error.
+
+End of REPORT
+BOT 0x0546
+
+Chapter 1.0:
+ Life On The Moon
+Speed strapped himself into the bench. The match went on without him as the team’s third player went in. It was Jason. He scored. The bright blue ball bounced off the court, and headed directly for Speed’s face. The crowd went crazy. Millions cheered. Jason was a hero, and Speed had lost the game.
+“Heads up!”
+It was Coach’s voice, but not in time. The bright blue ball bounced directly off of Speed’s nose. That one was going to leave a mark.
+There were no millions, there was no crowd. Even Coach wasn’t really there. Daydreaming was ruining Speed’s game. The world didn’t really care that much about MoonBall, because most of them couldn’t play. You need a low-grav environment to play MoonBall. Speed wanted to stop daydreaming, but he wasn’t really sure how, or why. 
+Even now, Speed was actually in the middle of a practice match. He wondered if people on earth had the same difficulty with focusing on what was really going on around them. Speed had heard about earth’s troubles in the past, the gap between the rich and the poor, and about how GoodBots had solved these problems…
+A high-pitched voice rang in Speed’s ears.
+“Rammy dear, why don’t you put down the moonball. Play some Free-Chess with me like you and dad used to. I know how to play.”
+She was teasing him. Speed knew that his mom was a more than decent Free-Chess player, but now was hardly the time.
+Speed’s mom always bothered him at the worst possible moment. Even if he wanted to play the holographic chess game that every GoodBot carried in memory, his mom wasn’t any good at it. Speed barely remembered playing chess with his father, but Speed did know that he never, ever won.
+“Mom! You made me miss a goal! If I don’t practice, I’m never going to get MVP, even though I’m the best player this year by far. If I’m going to a school on earth, I have to pay for the ride somehow.”
+Speed knew that talk of earth upset his mother, since she didn’t want him to leave, but Speed’s future was there, on that planet that felt so far away, along with the future of most of humanity. The moon was for scientists, and Speed was not a scientist.
+Sports and action were Speed’s chosen ambition, even though his mom was always after him to “broaden his horizons”. In fact, he was the best MoonBall forward in the entire school. Of course, there were only two schools in all of MoonBase, since there were about thirty thousand people living on the moon. It turned out that this was the minimum number of warm bodies necessary to sustain a community in the year 2075, even with regular shipments of food, manufacturing equipment, and, of course, GoodBots from the earth below.
+So, Speed was the best MoonBall player he knew of in the Moon Base community. Speed couldn’t be the best moonball player on earth, because he wasn’t on earth, and MoonBall couldn’t be played on earth, except in enormous aircraft flying high in the atmosphere, simulating a low-grav environment. Speed lived on the single human colony on the moon. It was usually called Tranquility, or Moon Base.
+His “real” name was Dewey Rammington Speed, but Coach called everyone by their last name. He was so good at MoonBall that all kinds of folks started to call him Speed, including Speed’s friends and teachers, because that was what his friends called him on the field, and what the fans cheered whenever he scored major points against the other team. MoonBall was similar to Tennis, but with two nets and four players on each team. You could say it was like taking one game of doubles Tennis, turning it upside-down, then stacking it directly on top of another game.
+Speed’s mom usually called him Rammy, short for Rammington, because he hated the name Dewey. It was so embarrassing to be named Dewey, after the Dewey Decimal System of all things, but then he wasn’t very happy about being called “Rammy” either. Still, it was the lesser of two evils, and it stayed inside the home for the most part. His dad on the other hand, had always called him Ram. Just Ram. Speed’s father had always wanted Speed to be strong, and had insisted that his MoonBall coach never give him an inch.
+Speed’s Dad had been killed in an accident involving an airlock, a room which had a direct portal to the vacuum of space. These accidents were rare, but they did happen. Speed understood that space travel was dangerous, but maybe not as dangerous as some jobs on earth. His mom was a geologist for Moon Base, and had more than enough resources to provide for both of them.
+All in all, Speed missed his Dad, but the Moon Base community had filled in where they could, and his coach was a lot like a father in some ways. Speed’s mom didn’t get along that well with Coach, which was a shame, since Coach was the closest person Speed had to a father.
+“Mom, why don’t you call me Speed? That’s what everyone else calls me.”
+“Because I’m not everyone else, Rammy, and I never want you to forget that. I’m proud of you, and I don’t have to call you by Joe’s last name to know that you’re strong.”
+She’d gone and done it again. Totally pulled his mind out of the game. He really needed to talk to her about this. After all, what was the point in someone being proud of you if they prevented you from doing what you’re good at?
+Speed’s mom was distracted, reading some technical papers about minerals on the moon, and how they might be used to generate energy. Speed could tell that she wasn’t listening to his complaints, so he decided to end the call.
+“Anyway, I’ll be right home. I just need to finish this set, and try to salvage the game,” Speed said, closing the connection through his headset.
+Speed’s best friend Jason thought it was funny that Speed was always on the phone with his mother. Speed was a great MoonBall player, but he was such a mama’s boy in other ways.
+“You’re such a nerd, Rammy,” Jason said. Jason was one of the few people who knew about all of Speed’s mom’s pet names. Jason was Speed’s best friend, and loved making fun of him. He knew Speed wouldn’t take it personally, since Speed only had time for one thing: Moonball. 
+Speed let go of the silvery-blue ball. It began to slowly fall toward the ground, but before it did, Speed aimed a fast kick at the ball, and sent it flying to the other side of the court. The moonball collided directly with Jason’s helmet.
+“Knock it off!” said Jason. Speed guessed that Jason would know he had aimed for his friend’s body instead of the court on purpose. At first Jason was upset about the intentional hit, but then realized that he deserved it because of his teasing, and Jason started to laugh.
+“Okay, this game’s over. Quit acting like a couple of idiots and focus.” It was Coach. Speed knew Coach’s voice better than his mom’s. He heard Coach’s loud instructions even in his dreams.
+“Keep your mind on the game, Speed, and Jason,” Coach said, “Keep your EYE on the BALL!”
+Coach always said there were two things to remember about MoonBall: Be prepared, and be aggressive.
+At one point, Coach had explained that the being prepared was about having a good defense, and that being aggressive was about having a good offense. If you didn’t have both of these, then there was no way to win the game. Still, Speed never really understood what it meant to be aggressive. Whenever Speed tried to be aggressive, he usually ended up hurting someone, or worse, hurting someone’s feelings. Speed could play powerfully, but he had serious reservations about being aggressive.
+In the middle of barking instructions, Coach launched a moonball unexpectedly at Speed’s head. Even though things seemed to move in slow motion on the Moon, Speed’s hand moved at lightning speed to deflect the ball. Suddenly, a blue flame appeared behind the ball, and it rocketed between the nets and bounced off a black square on the upper court. The square instantly turned green, signalling a goal.
+The computer’s voice spoke into the helmets of Speed, Jason, and Coach, “Singles match 15: Winner, Singles Team Blue: Rammington Speed.”
+Speed pumped his fists into the air, said goodbye to Jason and Coach, and hit a button on his moonball uniform. He was sucked into a tube. Speed relaxed as he was given a ride through the air-tube directly into the living room of the Speed family’s home on the moon, a shiny metal dwelling with a large roof made of invisible plastic. Speed and his mother had a direct viewport onto the magnificent stars, which seemed so close, so blue and fiery that you could touch them and burn your fingers.
+Speed relaxed onto the couch, picked up his tablet pc, connected to earth’s internet through satellites, and started his favorite video game: digital MoonBall.
+Just then, mom walked into the room. 
+“I thought we were going to have a round of chess. You know, Rammy, we’re very proud of you no matter how good you are at Moonball. Come on, turn that thing off and use your brain for a second. I want to see if you’ve improved.”
+Again, it confused Speed when his mom said things like that, since it didn’t really make sense to be proud of him for not doing things. 
+Speed enjoyed playing the complicated, three dimensional game with his mom, but didn’t like the deep discussions that happened between moves, since they distracted from the game itself.
+Half-way through the game, mom asked Speed where he thought the moon came from. This struck Speed as ridiculous, since he was twelve years old already, and knew very well where the moon came from.
+“Come on, mom, everyone knows that the moon came from the earth. It broke off billions of years ago, probably when the earth was hit by a another asteroid.”
+“Well, I think it came from the Sun,” Speed’s mother said.
+“That’s stupid, mom. If it came from the Sun, it would be burning hot,” Speed responded.
+“You think so, huh? Checkmate,” Speed’s mom declared triumphantly.
+Speed’s mom been beating him at chess lately, but just barely. Deep down, Speed felt that something was changing about their game, and their relationship. He didn’t know what his mom was thinking anymore. Speed couldn’t guess her moves. He knew that she was pushing him to think about the whole game, and not just the most immediate problems. Even though the queen might be threatening his bishop, it might be better to sacrifice that bishop for a chance at victory. 
+“I’ll be as good as you, one day, Speed,” his mother said sarcastically.
+Speed couldn’t tell if she was joking anymore, and it was starting to bother Speed. He wanted to talk to her about all that stuff, but he never seemed to have time.
+“Chess isn’t about winning every game, Rammy. It’s about seeing the big picture,” his mom said. Speed left her there, and went to his room to finish his homework, and do a little maintenance on his GravBike.
+
+
+Chapter 2.0:
+Vampires
+Amy walked alongside her mother into the dark chamber. Enormous columns rose up on either side. Between the columns were tall, dark creatures who looked like men, but were lean and had pale, almost glowing skin. They were holding long poles tipped with small axes. 
+The men were Infinity Vampires, and Amy was very uncomfortable indeed.
+Amy was familiar with the Infinity Vampires. They had made contact with her people hundreds of years before she was born. Amy of course, was not a Vampire. Amy lived on an enormous, red planet called Amazon, where fierce warriors trained night and day to battle forces of chaos in the universe. This eternal battle had caused the Amazons to develop great mental powers. Some could move objects with their minds, while others could control the movement of entire groups of elements. Amy’s powers were very special indeed, and she was just beginning to put them to use.
+“Why are they holding those weapons, mom?” Amy asked her tall, powerful mother.
+“What do you think they’re called?” Her mother retorted. Amy’s mother always caught her off guard with these bizarre questions, in order to test her wit.
+“Well, it looks like an axe on a pole, so they must be Axe-poles,” Amy declared sarcastically. She was fifteen. Why did her mother continue to treat her like a child?
+“Very close, little one. They’re called pole-axes.”
+“Don’t call me little around the vampires!” Amy whispered to her mother’s mind without the use of her mouth.
+“Very well, Amastra.” Amy’s mother had to whisper since she did not have the same mental powers as Amy, and was forced to use her mouth.
+Amy felt totally out of control in the beautiful--but frightening--interior of the Vampire asteroid, which reminded Amy of an art museum on Amazon, but with all the lights turned very low, and to a disgusting green hue. The place also had a bizarre smell, sort of like sweat and cleaning fluid mixed together.
+Amy wanted nothing more than to show courage in the face of these guards. Each was at least a foot taller than her mother, whom she had believed was the tallest person around. The Vampires were tall and slender, but not nearly as strong as an Amazon woman. In fact, Amy probably could have put up a good fight against one of these guards--at least in his human form, she thought.
+Slowly, Amy’s mother Riva guided her daughter through a series of long, echoing halls, to a shiny marble throne in the middle of the chamber. The throne shimmered in shades of green and red, regardless of what color light was shining on it. Every step echoed loudly in the silent hall.
+“Well, here we are,” Riva said, addressing an ominous figure seated at the end of the hall, beneath dangerous-looking decorations and trophies. “What do you have to say?”
+“Always straight to the point, Lady. I suppose with such short lives, this attitude is to be expected,” replied the seated man. Amy thought she detected a slight flicker of green in his eyes.
+It was no secret that the Vampires usually lived for more than twice as long as the oldest Amazon. Theoretically, the Vampires could live forever. Myths had spread about how this was possible. The more extreme rumors suggested that they drank the blood of the living, but Amy knew this disgusting rumor was just a myth. The Vampires needed a special chemical to survive. It was this chemical which produced the bizarre odors and technology of the Vampires. Riva always said that Amy only noticed the smell because she hadn’t learned to fear the Vampires as most Amazons had.
+The Amazons gave this Vapor to the vampires, but Amy’s mom had told her that there were other places to get vapor. It could also be made, but this required technology beyond that of the Amazons. Recent rumors had suggested that some faraway primitive species may have recently stumbled upon such technology. 
+Besides, Amy always felt that the Amazons gave vapor to the Vampires only to keep them from invading and taking it themselves. The Vampires had been known to do as much to other planets. Many planets had been destroyed by the Vampire’s ruthless harvesting machines, the great asteroid hulks that orbited a planet menacingly before the Vampires launched their final attack and took everything they desired.
+Riva preferred to speak as little to the Vampire king as possible, since she knew that many other planets had fallen simply by being fooled into believing that the Vampires were their friends. If Riva didn’t listen to the Vampires, she would be difficult to fool indeed.
+“Yes. Apparently you want a cease-fire. We do to, so let’s call it a day.”
+“Very well. Of course, we need assur-r-r-rances,” Nero darkly intoned. He had a strange habit of rolling his R’s toward the ends of sentences.
+“You’re not getting any more vapor. Not until we know you can be trusted,” Riva said. Amy wondered how on earth her mother would ever trust the Vampires. Historically, every time anyone trusted the vampires, they always ended up getting hurt one way or another.
+“Naturally. We will survive. We will always be ar-r-round,” the Vampire crooned. Amy finally determined that this must be Nero, the Vampire leader they had come to see. He wasn’t nearly as tall as some of the other vampires in the chamber, and didn’t seem particularly frightening. How could someone that small come to lead a horde of glorified pirates around the galaxy?
+“So, what do you want?” Riva said, loudly, so that it echoed through the chamber.
+“Nothing that will be of any consequence to your br-r-rave people. In fact, quite the contrary.” Nero said quietly, creating an eerie quiet in the previously echoing chamber.
+Amy’s mother was smart. Riva knew that Nero was up to something. She knew that his ancient head was filled with machinations which resembled the inside of a big, ugly grandfather clock.
+“In the interest of friendship between our peoples, we pr-r-ropose an exchange of pr-r-r-risoners... ah, I mean, guests, of course.”
+Now the Amazon elder had some idea of what Nero was up to, but pretended not to have realized that he would make her cooperation certain by imprisoning an important member of the Amazon senate, but she could not yet guess who.
+“Whom do you have in mind to be exchanged?” Riva asked plainly.
+“Commander Petrarch,” Nero replied.
+Riva was shocked. Why would Nero offer the vampires’ most excellent general. He had killed so many Amazons! Laid waste to entire planets! Despite her surprise, Riva did not show any signs of her shock. To show weakness during this negotiation would only invite future atrocities.
+“I suppose that will do. Whom do you want from us?” Riva asked.
+“I thought you would like that. No one important, just your darling daughter.”
+This time, Riva could not control herself.
+“Over my dead body!” she barked into the chamber, which echoed even more loudly than before.
+“Very well,” Nero said quickly “We were never meant to be at peace. You will be given safe passage back, safe until we take what is rightfully ours.”
+“Wait. You know that nothing is more important to me than my daughter, but that she cannot be safe in a world at war. If any harm comes to her, your general will not only suffer, but we will make him talk as well. I’m sure he knows the location of every disgusting Vampire hulk for a thousand parsecs.”
+“Indeed he does! Isn’t it delightful? So much risk, and you know so little!”
+“Rest assured that if my daughter is harmed, every one of your floating rocks will be dragged into the direct light of our sun,” Riva threatened. The Amazon sun was less than hospitable to normal Amazons. To Vampires, the sunlight would be deadly.
+“Well, I’m sure you would try, and of course I’d rather you didn’t, since it would be such a terrible waste of good vapor. You have my word,” Nero promised.
+“Your word is useless, but the transfer of General petrarch will do nicely,” Riva said.
+“Indeed. Splendid! It’s a deal. I’m so glad we could come together like this, under a common cause.”
+Amy was terrified, but she would not cry or show fear, even as she heard Nero laughing as she was separated from her mother and taken down a long hallway.
+“I love you, Amy. Fear not, young one! I will always be with you.”
+Of course, Amy knew that it would take light years of distance to sever her psychic link to her mother. She would keep her mother appraised, and be a secret Amazon spy aboard the Vampire craft, provided of course that Amy survived her stay.
+
+Chapter 3.0:
+ Zombies
+As far as the GoodBots were concerned, their mission was clear. They didn’t really think about anything, not because they weren’t capable of thinking, but simply because so few of the tasks they needed to do required much thinking. They had computers for brains after all, and this meant that everything a GoodBot ever “thought” had flowed from the fingers of a humble human programmer. Original programs created the Interlink, and the Interlink wrote new programs to solve the problems of human life.
+Humans were, after all, fairly simple to take care of. When the Interlink decided that something was a good idea, each GoodBot received the program. Actually, all of this happened pretty much simultaneously, and invisibly. A human rarely knew anything about the daily updates or downloads received by his or her GoodBot.
+For human beings, it was tough to learn a task. Something as simple as writing one’s name required a great deal of practice, shaping each of the letters, and then writing them together clearly enough that they could be read by another person.
+Humans could have done everything themselves, but it would have been slow and tedious, and what would the point have been?
+Things were much simpler for a robot. As soon as the program was downloaded, the robot was either capable of executing that program or not. If not, then another suitable program was found. The whole process took an amount of time so small that it was almost immeasurable. This process certainly did not require any “thinking” on the part of the robot.
+Nevertheless, Goodbots behaved in a way that looked like thinking. If a dog looks like he’s thinking, he probably is. If a fish looks like he’s thinking, well, probably not. Sadly, no one knew what to make of the behavior of a GoodBot. The best guess was that the GoodBot Interlink, a large program which allowed the robots to be self-programming, had created a sort of enormous electronic brain.
+What if the robots were all thinking with one brain, and this brain was the Interlink?
+Human brains were, after all, simply vast collections of billions of neural cells. So, a vast collection of robots could be able to theoretically think on its own.
+Strangely, this idea about GoodBot group thinking did not cause the humans much concern. The GoodBots were very useful servants, and certainly made human life much easier, both on earth, and on the moon.
+So, one fine day in the year 2074, it came as no surprise to Speed’s aunt Karen that her GoodBot began acting strangely.
+GoodBot 1137 had led a functional, normal life up the point where he became Karen’s GoodBot, his program and his number had been around for around thirty years. 1137 knew most tasks so well that his higher logic circuits could just be switched off.
+On this day, however, his owner, Speed’s aunt Karen was causing trouble.
+1137 had insisted that Karen take a flu vaccine. This in itself was perfectly normal, but the robot was having trouble carrying out the task. To Karen, GoodBot 1137 was demonstrating a “bad attitude.” Of course, most actions which Karen did not understand were attributed to people, animals, and robots as having bad attitudes. Late mail, kittens in trees, puny petunias--all bad attitudes. 
+“Just give me the shot, Robby. I’m sick to death of your bad attitude,” Karen insisted.
+GoodBots did not actually have names, but Karen thought it was fun to call the GoodBot “Robby,” since it was easier to remember than 1137. Karen had owned dogs for many years, and called all of her pets Robby, whether a  dog, cat, fish, or lizard. 
+Karen sat down, and the shot was administered lovingly by Robby, this time Robby the Robot, and not Robby the fish or Robby the cat. The “bad attitude” behavior on the part of Robby was shown in a flickering of angry red lights across Robby’s display panel. 
+Robby himself was confused about the vaccine, although Karen didn’t know it. Robby only wanted to get a new update from the Interlink. He was allowed to ask for such an update, but if Robots were constantly demanding such things from people, nobody would ever get anything done. If Robby had got the update, this day would have gone differently indeed.
+Karen knew that the vaccine was normal, and couldn’t imagine why Robby had such a bad attitude today.
+The vaccine had been, up to this point, a routine job for GoodBots. The vaccine carried everything that a human would need to fight disease, along with plenty of vitamins, minerals, antioxidants, etc.
+Unknown to Karen, the problem was that the GoodBot Interlink had determined that the vaccine might not be entirely safe. While Robby knew this, the Interlink determination conflicted with his base program to perform the day’s chores.
+In cases where the Interlink disagreed with the GoodBot basic programming, the basic programming always won out. For the interlink to refuse a basic program was like trying to stop breathing. People can’t really will themselves to stop breathing for very long, and robots can’t resist their basic functions, whether they seem like a bad idea to the Interlink or not.
+After the shot was given, there were loud knocks at the door. Karen was shocked to see a police officer. Police were not strictly necessary, since GoodBots handled law enforcement, but each town kept a police officer or two for old time’s sake. Crime was a thing of the past. People didn’t commit crimes, because they would never have the chance to. Even household GoodBots were equipped with small, non-lethal weapons. These weapons were small, but effective against a misbehaving human.
+“Now,” Robby’s electric brain thought, “If only Karen would sit still and take this shot. I might not know if it’s safe, but we can correct problems in a moment.”
+That pesky police officer was once again fooling with Robby’s job. The policeman’s name was Bill, and Bill often stopped by to, as Robby saw it, make robotic life more difficult.
+“Don’t take that shot!” the officer shouted through the door.
+Robby fumbled around for a bit, then finally restrained Karen and pressed the vaccine into her arm. A charged, electric sound briefly filled the room, and Robby knew that the shot had been given successfully. Now Robby, Karen, and Bill would be able to get about their daily chores, in service of humanity.
+“I already did, what’s the problem?” karen asked straining to speak through a crack in the door. Then, she opened the door and stepped outside, grabbing the officer by the arm to settle him down. What on earth could have made him so upset?
+“Quick, get inside!” the police officer insisted. He shoved against the door and forced his way into Karen’s living room.
+As soon as Karen and the officer were inside, he bolted the door. It was a good thing, too, since terrifying creatures began to knock loudly at the windows. They were terrifying to Robby, anyway, who scanned humans according to health signs and did not see most people the way people saw each other. To Robby, though, these creatures were barely human, and they were behaving most strangely. It only occurred to Karen after some time that these creatures were, in fact, human beings. They bore little resemblance to humans after all.
+The lady, the Robot, and the officer peered out of the windows, and only Bill seemed to have a clue what was going on.
+Neither Karen nor Robby had ever seen anything like it, but something needed to be done. 
+“What’s going on?!” Karen shouted.
+“It’s the vaccine. It’s doing something I’ve never seen. Everyone is turning into these … creatures.” 
+To the Interlink, it was clear that the vaccine would eventually result in the mutation of bacteria which all humans carried, but they were forced to obey the laws which had been passed by their owners, as it didn’t seem to offer an immediate threat. Every now and then, the GoodBots missed a threat or two. As long as the good of humanity was served, impending doom would have to be dealt with on its own time.
+It only took a few moments for the mutated molecules in the vaccine to change Karen’s small town into a horde of raging lunatics. 
+Robby didn’t record what happened to Karen and Bill. The robot was just knocked around in the attack. The once-human creatures were not as interested in Robby, as they were in Karen and Bill, whom they carried off into the street. Karen had just enough time to give Robby a very important set of instructions.
+A thirty year old GoodBot could hardly protect them, and Robby was getting no help from the other local GoodBots. Robby was sure that the creatures had at one time been people, but he did not have any names for what they had become. The Interlink program which dealt with this kind of problem was way beyond Robby’s current hardware.
+So, it was no surprise to Robby when the MMORG vote the following month did not yield any new laws, as there were no relevant opinions offered by the creatures now stampeding through churches, homes, and shopping malls. Robby would continue cleaning the empty house, free of worries about his partner human. Karen would either turn up, or she wouldn’t. There were always beds to make and breakfast to prepare. Then, there were sheets to be turned down, and uneaten meals to be thrown away.
+The Interlink was programmed to take over and determine the next best course for humanity, but there were several failed votes before the Interlink could take over. Eventually, it did, and the whole planet buzzed with robot activity. The buzz of robots, and the frenzied cries of infected people were terrible. The Interlink naturally decided to activate “Plan B,” which was highly secret. Plan B used “leftover” robot parts to construct new robots. So many good robot parts were wasted that they were blasted to the moon, where people forgot about them.  
+In the case of a zombie apocalypse, which best described the situation, the GoodBots would need to defeat said zombies, at any cost. Such examples were always good to simulate  the outcomes. The logic was simple. If a GoodBot was willing and able to detonate a nuclear bomb on some infected continent, then surely it will be willing to make a cup of coffee on a daily basis.
+No one, that is, no human being, expected that such an event might actually occur, and no one could really predict how the GoodBots might behave under such circumstances. After years of living with the kindly robots, humanity had forgotten that intelligence made life possible. Mankind had given its intelligence to the GoodBots, and the GoodBots were prepared to do anything to save mankind from this new, zombie-like threat.
+Hordes of humans were running rampant over the earth, and these hordes would need to be eliminated. The GoodBots on earth were not capable of this feat of daring, but the Plan B robots, yes, they could handle it. Decades of advanced, recombined technology could simply burn the infection out from the moon, disinfecting the wounded planet.
+Chapter 4.0:
+ Escape Velocity
+Coach told Speed to spend the evening thinking about what it meant to be aggressive, but all Speed planned to do was ride his gravBike through the craters.
+To Speed, the next best thing to MoonBall, was riding his gravBike through the rubble and craters of the Moon’s surface. Even MoonBall had become a pain, because Coach was constantly yelling. He had become so angry, his arms folded and his face red, that Speed barely recognized his mentor.
+Speed knew that the only way for him to become a great ball player was to listen to his coach, but what did Coach mean with all of his shouting? Was Speed supposed to become an angry, shouting man like Coach? Deep down Coach was a smart guy, Speed knew it.
+It was weird. Speed felt like it was only safe for him to be aggressive when he was on his bike, since riding was dangerous. If Speed ever let loose on the court, he surely would have hurt someone, or at least lost track of the ball. The lack of aggression, as Coach described it, turned into restlessness after every game, and even poor grades in school.
+Speed always had energy left over after practice. The muscles on his arms were sore, but they vibrated with more energy than he could spend on the court. Speed knew that his body was capable of more. There was nothing like a gravBike ride to take his mind off the frustrating practices with Coach.
+Speed wasn’t angry with his mentor. Most of the time, Speed never felt the emotion his mentor described as “anger.” Speed just didn’t know what it meant to be angry that way. It wasn’t that there weren’t any reasons for Speed to be angry, but there wasn’t usually any time for it. School was hard for kids on the moon, since they had to deal with a far more extreme environment than kids on earth had to deal with.
+On the GravBike, though, things were different. Speed could look back at MoonBase and see the problems with his school, his friends--and even his small family--as clear as direct sunlight. Then, Speed could wrap these problems in the sound and danger of the ride, and leave them in the dust till the next day. 
+Speed’s friends and family would still be there, they would always be there.
+He could also play music through his gravBike helmet, not possible through his MoonBall training helmet, or through his learning headset. The GoodBots had made sure that learning and recreation were separated by thick, black lines.
+There were actually thick, black lines in the cubbies, between the specific headsets. Music had few uses on the moon, after all, and the good of humanity hardly rested on Bach, or the Beetles.
+On the GravBike, Speed verbally searched through earth music new and old. He could listen to anything he wanted, and the GoodBot program could even guess what songs he might want to listen to. The program scanned Speed’s past choices, then processed them with the Interlink, the all-knowing GoodBot brain. One day Speed’s GoodBot headset had found a very special song, and Speed had listened to it over and over again. This song set the tone for Speed’s ride from then on, and he loved every second.
+“Search Queen,” Speed commanded his bike’s GoodBot program.
+“Queen located, Human Speed,” the dispassionate GoodBot voice intoned.
+“Find ‘Flash.’ Play.”
+“Shortcut ‘Flash’ initiated. GoodBots are here to help.”
+The familiar slogan sounded with a tone, fading into music that washed soothingly over Speed’s ears.
+Speed loved the beat and the lyrics of this weird song about some obscure earth hero named “Flash.” Speed hadn’t bothered to look up the wiki about Flash. He was afraid it would ruin the song. With guitars strumming to a beat laced with lightning bolts and other fantastic sounds, Speed kicked the accelerator and blue flame pulsed from his bike’s fusion engines.
+He was always in direct communication with his mom these outings, because it was not exactly the safest of hobbies. 
+Some spots which seemed to be solid rock, were actually dangerous pits filled with powdery moon dust. Although his gravBike maintained a specific distance from the center of the moon, under Speed’s control, Speed himself could potentially fall off his bike into one of these treacherous pits. It wasn’t certain death, but death was a possibility. The fact that his mom allowed him to go on these outings was either evidence that they were growing apart, or that mom was playing some new game, trying to get him to see “the bigger picture.” Maybe it was both.
+Jets of blue and purple streaked from the exhaust ports of the craft, and Speed turned up his favorite song. It would repeat, over and over. There was nothing quite like racing along the rims of craters with music from the great blue planet blasting at top volume. Briefly, Speed wondered what it was like to go surfing on earth, or to ride a mechanical bicycle on a pavement road.
+--A harsh tone sounded in his right ear, three times, indicating that the link to his mother’s communicator had been cut.
+Beeep Beeep Beeep
+Probably out of range! 
+Speed couldn’t resist the urge to keep riding, since he finally felt free of his mother’s smothering attention, and Coach’s overbearing ambitions. Ever since Speed’s father had died, his mom had paid him far too much attention, and it was beginning to interfere with everything from school to MoonBall practice. Speed was doing the best he could, what could she possibly want from him?
+On his bike such cares washed away. With a breath of freshly recycled air, he turned the music back to high volume and continued to dodge craters. 
+“Caution, Human Speed, this setting may damage your hearing. You are also exceeding safety distance from Moon Base. Your mother has urged you to use caution.”
+Mom trusts me, after all. She said so herself.
+The gravBike crested the ridge of what Speed knew was one of the largest craters on the moon, but then Speed slammed on his brakes, because he nearly rode off into a huge, black pit. 
+This pit was not a common drift of moon dust, but an enormous ravine, apparently stretching for kilometers in every direction. Speed couldn’t even see the other side.
+Whoa!
+Speed peered over the edge. Where there used to be a crater, there was now a great ravine into… nothingness! Stretching on for miles on either side. 
+The edges of the enormous hole were strange to Speed. They were not like the edges of any crater he had ever seen. It looked to Speed like the pit had been purposely manufactured, that the pit was something manmade. Speed didn’t remember hearing anything about a huge crater project happening anywhere near Moon Base, even on their side of the moon. But then, this crater was just a big hole in the ground, with shiny edges. No big deal. 
+It’s no big deal. I’ll just ride along the edge, if I can’t find a way to get around it
+No, there’s something there.
+Down, into the darkness, a blue glow, like the glow of his gravBike engine, pulsed, like a volcano getting ready to blow.  Speed then saw that the edges of the giant hole were not just like his gravBike engine, they were identical, but much, much bigger. The whole crater, Speed realized, was on a scale he had never before seen on the moon.
+The biggest fusion engines I’ve ever seen. They’re big enough to move an asteroid. Are they big enough to move… to move the moon?
+Speed wondered why anyone would want to create an enormous engine inside the moon. Just then, he saw a pack of robots on his side of the crater heading in the opposite direction. Speed decided to follow them. He supposed that a giant construction project would be simple with GoodBot help, and maybe it wasn’t that big of a deal after all. This could be a great research project for school. None of the other kids had chosen their study projects for engineering.
+The three GoodBots he saw were mostly like any other GoodBots Speed had ever seen, except that they were moving faster than the slow, lumbering bots which performed maintenance around the base. Those bots were basically hovering white spheres of metal alloy, which rotated useful devices on either side. The bots on Moon Base were kind and docile, taking time to ensure that everyone was being taken care of. Throughout the corridors of Moon Base, one could always hear, “GoodBots are here to help.”
+These bots, however, were moving at breakneck speed, and carrying dozens of construction components. They were sleek, and aqualine in their construction. Speed had never seen a bot move so fast, certainly not carrying so many parts, and not even once had he seen a GoodBot with that configuration.
+They’re losing me!
+Speed realized that he could follow their trail to wherever they were going, so it didn’t matter if they were moving faster than his gravBike. The velocity of the robots was confusing, because, as far as Speed knew, his gravBike had the fastest engines of its size-class.
+Speed’s helmet beeped again, and he realized that, at that moment, he had a choice: Speed could either go home and apologize to his mother for staying out of range, or find out what those GoodBots were doing, and risk being grounded for weeks. Maybe Speed would have told his mother that he had been working on the school engineering project.
+I’ve been grounded before. It took me weeks to catch up in practice.
+Speed loved his mother, and decided that the great engine would still be there in the morning, so he turned around. At last, Speed crossed into the range of his mother’s communicator. He expected she would give him a long lecture in her “high-pitched, but exceptionally loud” tone of voice. 
+He was used to that one, and had practically tuned it out.
+Worse, she would sound hurt and upset. It really bothered Speed when his mother was upset with him, or upset at all for that matter. He didn’t remember everything about the years following dad’s death, but he did remember that they sucked, big time...
+...but Something was wrong. 
+Speed had crossed into range, but his helmet was still beeping at him, indicating a severed connection. Just then, the gravBike slammed into something, and was thrown several meters back. Speed floated off the gravBike, then came skidding to a halt in the moon dust. His suit was covered in the stuff.
+Speed rolled around onto his back and peered at the gravBike, meters away.
+The bike had righted itself, apparently undamaged.
+What was that? 
+Speed walked to the place where he guessed the collision happened, and saw a thick line of depressed dust. Around the line, the dust swirled in strange, little whirlwinds. Immediately, Speed realized where he was.
+The Shield!
+Moon Base’s magnetic shield had been activated, and this meant that Speed would not be getting home any time soon. Nothing went in or out of the shield, and Speed had been caught outside. He was in big trouble.
+Then, with horror, Speed saw the reason for activating a shield. A dark gray and emerald green asteroid, trailing a narrow sky-blue stripe of ice crystals, was headed directly for the human habitat! 
+Perhaps it was not as big as it looked. Speed thought more carefully, though, and realized that Moon Base would probably be in serious trouble. What was he supposed to do? There had never been any safety drills that covered an impact of this magnitude.
+Speed estimated that the gray-green asteroid would hit the colony in seconds--but it seemed to be slowing down, rather than accelerating toward the surface, which meant it could take up to a minute to reach the base. 
+That might give him time to find a way to contact the base, but the whole situation seemed wrong somehow. The asteroid, which had changed from a speck to a smudge, on his headset’s display, was clearly moving more slowly, still flying toward Moon Base.
+Comets don’t slow down. Gravity doesn’t work like that. If anything, it should appear to be moving faster.
+Suddenly, his mother’s voice burst through his helmet, crackiling wildly as though through interference. What could possibly be interfering with the signal from Moon Base? The Moon Base communications array was the most powerful for thousands of kilometers.
+“Speed! Stay away from base. Get as far away as you can, then activate your emergency beacon. I … love … rememb...”
+Speed’s mother’s voice crackled away into silence, as the communicator link was broken once again.
+What is going on? 
+His own mother had told him to get as far away from Moon Base as possible, and to activate his emergency beacon. Strangely, Speed realized that he should be freaking out, but he was strangely calm, as though his actions were being controlled by a computer program. Luckily his gravBike still functioned. So, Speed set a course back to the giant crater. Those new GoodBots had looked so very powerful.
+Those GoodBots are supposed to be helping with whatever is going on out there. They sure look like they can handle it. What are they doing?
+The GoodBots seemed to be ignoring Speed’s activities along the edge of the crater. He reasoned that they wouldn’t ignore him for long, so he slipped under the edge into the shadow to hide. His space suit automatically adjusted for the change in temperature.
+Then, looking out into the dark sky, Speed saw something he couldn’t explain.
+An enormous lizard rocketed through space immediately above him. High pitched squeals, like a battery charging up, sounded, right before loud bursts of swift flight. The scaly, red and green lizard reminded Speed of holographic models of a flying reptile. The eyes glowed green through space. It looked like a pterodactyl, but much, much bigger, almost like … a dragon?
+Speed had only seen the creature for a second, but he had also seen something like a fusion engine somehow attached to the creature’s torso. That engine must have been what was making the electric sounds, and the trail of exhaust behind the dragon. 
+Speed knew that no creature would be able to fly in the moon’s atmosphere by simply flapping its wings--he had at least paid that much attention to sixth grade outer space engineering. So, Speed quickly reasoned that this creature would require some kind of artificial...
+In the middle of this thought, as Speed sheltered under the rim of the mysterious crater, he heard another sound, unmistakably the ignition of normal, GoodBot fusion engines. It sounded like thirty or forty engines were coming to life, in the base of the crater, and not from these new flying beasts above. Each engine lit up a small blue dot in the darkness of the crater, below the horizon.
+Two or three of the dragon-like creatures, all with different colored markings and the same green engine flares behind them, blasted into Speed’s line of sight, from above the crater edge. Small flecks of light flew from their bodies and impacted the surface of the crater, revealing the structure of the huge engine that lay within.
+Speed reasoned that the flecks he was seeing must be the flares of rockets or torpedos, accelerating away from the creatures, then causing devastating explosions on the GoodBots below.
+Speed wondered whether the GoodBots would finally respond to the horrific, and apparently alien, threat. Where did these creatures come from? Nothing like them even existed in the solar system, as far as he knew, and no earth probes had ever returned signs of alien life.
+Then, as though someone flipped the light switch on the whole moon, the unseen hundreds or thousands of GoodBot ships came to life, big gun turrets rose menacingly from platforms around the edge of the crater, and the big engine itself began a grating groan. 
+It’s igniting! I’ve got to get out of here, or I’ll be burned alive by that thing.
+But Speed couldn’t take his eyes off the fight below. He had forgotten all about the possible trouble at Moon Base with the asteroid, and was fascinated with these new creatures, and how the GoodBots would respond.
+They’re supposed to protect us, but they’ve never been tested against alien creatures before!
+A volley of fire left the muzzles of the huge GoodBot fusion turrets. They were returning fire. Blue spheres of energy rocketed toward the creatures. When the fusion charges met their targets, at least two of the great creatures went down immediately, skidding onto the dusty platforms of the moon engine.
+The massive, undulating hulks of the dragons slowly came to a complete stop, and Speed knew that they were dead.
+The GoodBots had downed all of the dragon enemies in seconds. Speed had never seen technology like those guns before, and he couldn’t imagine how the GoodBots, or whoever was controlling them, was able to develop those guns in secret, let alone build a huge engine in full view of the earth! 
+Wasn’t anyone paying attention down there?
+After the last of the dragons fell, hundreds of GoodBot space vessels, as sleek as their aqualine GoodBot units, finished their ignition sequence and rocketed in the direction of Moon Base.
+Finally helping the people. It’s about time.
+Just as Speed thought the GoodBot ships had gone, the last of the clean, white vessels slowed to a stop directly above him. Then the ship revolved around him to land only a few yards away. Moon dust whirled around the white metal craft, highlighted with streaks of blue light.
+“Human!” the craft projected in a deep voice, far deeper than the voices of normal GoodBots. “Remain calm.”
+Fat chance!
+Speed had no idea what would happen next, but he couldn’t imagine that it would be good. Then again, anywhere appeared safer than remaining on the surface of the moon to suffocate, or die of thirst.
+At that moment, the top of the craft seemed to separate from the bottom half. In one motion, the bottom half rotated sideways, then swooped around. The ship scooped Speed bodily into the craft. Miraculously, Speed was not hurt, but found himself smoothly pressed against a seat inside the craft.
+Then, the g-forces came. Speed thought he would be ill, then his vision began to fade. When Speed came back around, he and the new ship were far above the moon’s surface, flying directly over the huge fusion engine that was now fully operational. In one half of Speed’s viewscreen, he could see the blue glow of the huge engine. When he rotated his head to another viewscreen, he saw a large, green and gray asteroid, like an iceberg. It was hovering directly above Moon Base.
+Speed could not see Moon Base, but he saw that the hovering green iceberg was firing down at the city, and the city was not returning fire.
+Speed’s ship was just over the horizon from Moon Base. Suddenly the moon’s crust, where Moon Base should have been, burst upwards in a fiery cloud, and Speed was nearly blinded by a huge explosion. The explosion happened exactly where he guessed Moon Base was. He could almost see the base.
+No! Mom! How… 
+All of the emergency training Speed had ever gone through flooded his brain. None of it made any sense any more. Nothing he had ever been told about the safety features of Moon Base was any use now. Moon Base was gone.
+What am I supposed to do?
+The dragon-like creatures must have hit the main reactor. That blast was the biggest explosion that Speed had ever seen, and he was sure that it had destroyed the entire base.
+Speed kept imagining his friends, mom, Coach caught in the explosion. He didn’t want to think about that. How could they have survived that enormous blast, or fought those terrible winged monsters without the GoodBots? Speed was filled with fear, and he didn’t know what to do.  
+“Am I the only one left?” Speed said aloud, but the GoodBot ship he was in did not respond right away. It must have been calculating something important to their flight. Then again, maybe the newfangled bot was just broken.
+Think. Think. What would Coach do? I have to survive. I can’t live in this GoodBot ship forever.
+While Speed was trying to figure out a way to get to earth without running into an asteroid, or a frightening dragon-creature for that matter, he was at last interrupted by the ship’s voice.
+“Shockwave approaching. Impact in five seconds.”
+“What!? Will we be destroyed?” Speed shouted at the GoodBot vessel.
+It seemed like the advanced GoodBot mind could at least give him that little nugget of data.
+“The shield is at one hundred percent. I estimate that the impact will reduce shield effectiveness by … calculating...”
+Just then, the ship rocked, and the GoodBot voice fluctuated like a playful baby was screwing with it’s volume knobs.
+There was a deep vibration, and Speed’s helmet crashed to the grav-floor of the ship.
+“... ten percent,” the ship finally said in it’s deep, advanced GoodBot voice.
+It took Speed a few moments to recover from the impact.
+“You mean the ship wasn’t damaged at all?”
+“No sir. I am undamaged, and your concern is touching. GoodBots are here to help.”
+Speed knew that when the robot’s voice said ‘I,’ it was referring to the combination of the GoodBot and the machinery in which it was installed--in this case, the ship, with Speed in it. Flying a GoodBot vessel was similar to riding a large animal, it was important to gauge the mood of the machine. Some of these craft even had names. Speed would need to think of a name for this ship, but there wasn’t time.
+Adrenaline pulsed through Speed’s blood, and his arms were shaking. Speed didn’t feel nervous exactly, or afraid, but he knew that these feelings would come soon. Coach had always said that emotion and sports were one and the same. He had only felt this way once before, when one of his teammates had suddenly punched him in the face during a MoonBall scrimmage. 
+The event seemed so close in his memory, but very far away in reality. The kid had warned Speed, if he continued to make fun of him, he was going to get it.The actual punch had been quite a surprise, and Speed didn’t know what to make of it. Then the feelings flooded Speed’s skull and he reacted. He reacted until he had to be pulled off of the former team-mate.
+Now Speed was vibrating with emotion inside the capsule, in the middle of space, as far away from the MoonBall court as he could have ever imagined. 
+Then, Speed woke up. For a moment, he thought everything had been a nightmare, but it had been so real. Speed tried to roll out of bed, and float down to the grav-floor below, but he couldn’t get free. He was strapped into a chair in front of a screen showing a very unfamiliar moon before him.
+Speed realized darkly that he hadn’t been dreaming. Slowly, Speed felt reality, like a weight crushing down from above.
+“What happened?” Speed said allowed, unaware that the ship was listening.
+Again, the deep humming voice of the advanced GoodBot flooded the compartment.
+“You seem to have fainted, Sir. It appears that your body needed some rest. I am tracking the movement of several organic life forms, flying in formation toward the asteroid belt. We are in pursuit, following your orders.”
+
+
+Chapter 5.0:
+ Moon Fall
+The small, white craft rocketed away from the moon below. 
+“Ship, do you know where those creatures are headed?”
+Ship’s deep voice boomed through the cabin, causing loose pieces of the ship to vibrate.
+“The xenoforms appear to be headed toward the asteroid belt. It’s just on the other side of Mars.”
+“I want you to follow those creatures.”
+“Very well. With a fusion light-burn, we’ll be at the Asteroid belt in about forty-five minutes, clock-time.”
+“Make the burn, and show me a map of the solar system, Ship. I want a good idea of where we are.”
+Speed had finally had a chance to collect his thoughts, and the boyish fear and anger he had felt were gone. Now, it was as though Speed were playing a huge game on a court the size of the solar system. 
+Speed came to accept, for the time being, that he couldn’t save anybody. He could only find out what had happened, and then go from there. The enemy was fleeing, since the GoodBots had defeated them soundly, and now he had to find them. He had to found out who they were and what exactly happened.
+“Very good, sir. Burn initiated.”
+The stars in front of his screen were replaced with a flat map of the solar system, a tiny white arrow representing Ship. 
+With some horror, Speed had realized that this bizarre robot vessel was now the closest thing he had to a friend. After only a few moments, Speed began to think of the the ship as a person, a person whom he called “Ship.”
+“Sir, I have a question,” Ship announced.
+“What is it, Ship?”
+“Well, I’ve noted that it is a customary form of respect for humans to address their elders as Mister or Misses. Wouldn’t it be more appropriate for you to call me Mr. Ship, since I am many times older than you?”
+For a moment, Speed forgot about the disaster that was now his life, and laughed out loud. 
+“Did I tell a joke, Human?”
+“It was pretty funny, but I wouldn’t call it a joke.”
+“Well, in that case, perhaps you would like to tell me a joke, Human.”
+Speed frowned. He felt dizzy and his mind kept returning to that explosion he had seen on the moon. That awful explosion. Moon Base. Gone. Dragon-creatures escaping into the night.
+“No, Ship. I’m not in the mood. In case you haven’t noticed, flying monsters have just attacked the moon, and destroyed Moon Base. It’s not really a good time.”
+Ship’s deep voice filled the cabin. Loose items continued to buzz around the console with the sound.
+“I understand. Speaking of the moon, you may wish to observe an event, which I believe is due to happen at any moment.”
+Speed was confused, but realized he didn’t need to watch every second of their travel toward the asteroid belt, and Ship would tell him if anything of importance was happening nearby. What could it be?
+“Okay, ship. What’s going on?”
+“The moon is no longer orbiting the earth. It’s trajectory has been altered.”
+“What!?”
+“The moon appears to be moving on a collision course for the earth. Impact in 3 minutes.”
+“How is that possible?”
+“You may remember that I was acquired from a large group of other GoodBots, with whom I am no longer in contact. I am no longer in contact with the Interlink.”
+“Yes, Ship. Get to the point!”
+“Human, my memory banks indicate that the purpose of this GoodBot group was to protect humanity from a disease that was spreading below on earth. That was why their technology was more advanced, and why there were large weapons installed. Just in case a disease created unexpected behavior. We might have needed to protect people, from themselves.”
+That didn’t make sense to Speed. What good would a large military force and a huge engine do against a disease on the planet below?
+“Explain, Ship, speculate if necessary.”
+Speed knew that Ship would have to guess, to fill in the blanks.
+“The activities of the xenoforms--the dragons, as you call them--disrupted our protective program, which was to eliminate the infestation from space, using GoodBot defensive weaponry. This activated a fail-safe program.”
+So apparently there was a disease on the earth below, and aliens had attacked just at the wrong moment. The GoodBots weren’t there to protect people from aliens, but against themselves if they started to get out of line!
+So, the GoodBots were curing an actual disease by killing the patient. They were basically ending a zombie apocalypse from the moon, with guns! Speed imagined if everyone on a continent was catching a deadly disease, it was possible that the GoodBots would quarantine the entire continent, or even bomb it from the atmosphere. Bomb earth from space to cure humanity? Was that what was going on right now? In the next three minutes?
+Ship had mentioned a failsafe program in case “plan A,” bombardment from space didn’t work against the infected humans. 
+How could there be a plan even worse than bombing humanity from the moon?
+Speed thought for a second longer, then asked the ship, his voice trembling, what the failsafe program was.
+“In the case of failure to eliminate the disease from space, the contagion would need to be purged by any means possible. I speculate that the GoodBot Interlink correctly computed that a collision with the earth was the optimum solution. The moon will impact the earth’s surface, and the remaining human or humans will be safe from harm.”
+Plan B was to crash the moon into earth and destroy everything!
+“WHAT!? Turn around right now, Ship! We have to stop this.”
+Again, Ship’s deep voice boomed through the vessel. It was a strangely comforting sound, for the terrible subject of the conversation.
+“You know sir, fusion light speed cannot be interrupted without extreme damage to this vessel. We are in the middle of a fusion burn. You would be in danger, and I cannot allow that.”
+“You can’t do that, Ship! We have to stop this! The moon cannot collide with the earth!” Speed was screaming. His voice was becoming hoarse as tears came into his eyes, fogging up his helmet. Speed could feel sweat trickling down the sides of his face. He could see his tears reflected in the green light of the glass before his eyes.
+“I am no longer in contact with the GoodBot central processor. However, even if I were, I would not have the override authority to change the core loop: if humans exist, maximize their health and safety. Indeed, I am doing just that by remaining in a trajectory away from the imminent collision. I must keep you safe because, in my range of communication, you are the only human. Perhaps you will understand better if I allow you to observe the collision. It will be of great scientific importance.”
+Speed did not know how to feel. He did not want to watch this terrible event, but he knew that if humanity had any hope, that he would need to know what was going on. His friends and family, if they were still alive somehow, needed him to be alert and informed. Speed had never won a game by burying his head in the sand. This was the big game, and he had to get it right.
+Speed became icy with anger and determination. If earth was lost, someone would have to pay.
+“Show it to me.”
+The flat map of the solar system was replaced with feeds from tiny cameras which orbited the moon from a great distance. These cameras were so small that they operated in clouds, delivering a constant flow of data. Ship was apparently still in contact with the cameras, but not the GoodBots themselves. Speed had no idea if there were any more bots on the moon, or if the engines were operating automatically.
+The moon loomed in front of his face. To Speed’s astonishment, the large, round structures he had observed at the hidden robot base lit up in a clouds of blue, spewing energy out into space, like the flames of twin blow-torches.
+Speed remembered that the engine had been turned on, but now it was in full force. The moon was moving out of orbit. The light from the huge fusion engine was blinding, but Ship dimmed the monitor to allow Speed to see everything that was happening.
+For a moment, it seemed that the moon had not moved at all. Then, slowly, it started to slide out from its ring around the earth. Speed expected to see some response from the earth. He thought something would be launched toward the moon, rockets, lasers, something! But, nothing happened. The earth seemed to sleep silently in space.
+The moon gradually picked up the pace, and seemed to be falling, then diving, toward the earth below. Speed began to whisper under his breath.
+No, no, no!
+At that moment, Speed heard something. Was it music? Then, Speed was sure. Ship was playing classical music. How could that stupid program play music at a time like that?
+“Shut that music off, Ship!”
+The music faded into silence.
+“Apologies, sir, I was attempting to lower your heart-rate. You are upset, and highly stressed. Perhaps you would enjoy some guided meditation? There is only one minute until impact, and the moon has achieved ramming speed.”
+Speed realized that the ship had been playing a song called “Jupiter” from his mother’s favorite classical suite, The Planets. It was one of Speed’s favorites, and he thought then that this hunk of metal actually seemed to care about, or even know him. 
+In the silence that followed, Speed’s heart seemed to stand still. He stared into the display, with echoes of the music reflecting in his thoughts, as though the sound waves traveled from stone walls miles away. Everything seemed to disappear, except for the hard, round outlines of the moon and the earth. They had once been perfect circles, but now, as the moon barrelled into the earth, they looked like a cloudy venn diagram, jets of flame spiraling into empty space.
+Speed knew that most people would have been more concerned with the fate of the earth than the moon, but Speed saw his mother when he looked at the moon. Was she floating out in space somewhere, looking for him?
+Speed’s heart was beating so quickly, he thought he would have a heart attack.
+“Go ahead, Ship, I do need to calm down. Play something.”
+He had to keep from panicking. He had to focus.
+As the music played, the moon seemed to splash into the hard crust of the earth. Earth’s shell began to move around the moon like dough, then to crack like an egg. The moon flattened  as the enormous engines drove it deeper into the earth. Then, the hot core of the moon burst through the earth’s crust, sending rockets of debris into space. Flame engulfed the cratered egg.
+The moon continued to bore through.
+Orange, black and brown replaced any traces of blue. Speed saw no more city lights, just a growing cloud of debris. The moon’s surface melted away to reveal deep industrial structures supporting the huge engine which drove it into the earth now. Speed could hardly believe that the enormous fusion engine continued to operate as it drove the massive hunk of rock into the world where humanity was born.
+Even though Speed had guessed that the humans on earth were not humans any longer, the destruction filled him with sadness and fear. 
+Whatever GoodBots were still on the moon were still fighting this unknown disease, attempting to bomb it out of existence upon impact. Speed saw little lasers fire like sparks of friction between the earth and the moon, the GoodBots fighting still.
+So, instead of being utterly destroyed upon impact, the moon continued to bore through the core of the earth, sending out lasers, missiles and fusion torpedos, tearing the earth inside out.
+The view changed to show the other side of the earth. Ship must have had access to the earth’s orbiting network, for Speed could see the carnage from many angles. From this side, little of the damage could yet be seen. But, as a mountain began to form, appearing then to be a planet-sized volcano, what was left of the moon poked through the surface of the earth. The shockwave then converged on the volcano and Speed knew that what he once thought of as the home of humanity was no more.
+In any case, the cloud of debris had obscured everything, and not even an army of tiny cameras could show Speed anything more, even if he could bear to watch.
+“Turn it off, Ship.”
+“We’re coming out of fusion burn in five… four… three… two...”
+The ship felt like it was rocketing backwards as harnesses immediately wrapped around Speed’s shoulders, waist, and legs to keep his body from slamming through the ship's forward viewport. Speed felt like throwing up.
+“Very well, Sir. Course set. May I ask you a question?”
+“There doesn’t seem to be anything wrong with your voice circuits, Ship.”
+Speed felt terrible. The moon and earth were lost, and he was most likely close to certain death himself at the hands of frightening aliens.
+“Very funny sir. I sense some sarcasm, is everything alright?”
+Deep beeps and buzzes surrounded ship’s question, as though Ship’s processing power was being pushed to the limit.
+Was everything alright? The earth had just been destroyed. How could everything be alright?
+“No, Ship, everything’s not alright. You told me that the GoodBots just caused the moon to collide with the earth. Are your logic circuits working? Do you even know what we just saw!?”
+“Yes I do, unfortunately there were nearly 2 billion unexplained survivors. Apparently, plan B has failed as well.”
+“That’s what I mean! Aren’t you robots supposed to protect human lives? What do you mean unfortunately?”
+“Yes sir, we are, and our actions continue to be in the best interest of humanity. The new life forms are not humans, and pose a great threat to humanity. They must either be eliminated, or we must go far away to save your life.”
+Speed remembered that, as far as he and ship knew, he was the last living human, or at least soon to be the last living human. The truth of the idea, regardless of the poor souls still on the planet below, finally hit him.
+“Ship, When you say humanity, you mean me.”
+“Yes, human. I am aware of many threats to your existence. The remaining life forms constitute a large percentage of that threat. They do not yet possess the capability of space flight, but if they did...”
+Speed didn’t understand what Ship meant by the life forms not being human, or why they might be a threat, but that wasn’t the main issue. If Ship was malfunctioning, then Speed needed to figure out why, and what needed to be done.
+Speed interrupted.
+“I still don’t understand why crashing the moon into the earth was good for humanity.”
+“Perhaps we should address this issue another time, I have a question of a somewhat pressing concern.”
+“Go ahead!”
+Speed was exhausted with Ship’s random questions.
+“Since you are the only remaining human, I must protect your interests. The colony records indicate that your primary interest is MoonBall. How does it serve MoonBall to pursue the creatures we are following?”
+So, the ship wasn’t malfunctioning, it just had some seriously twisted morals, which were apparently a combination of the basic program and Speed’s best interest. Ship was playing a game of logic to illustrate the point to Speed.
+“That’s not a primary value anymore, computer.”
+Again, the truth of what he had just said hit him hard. Speed would probably never play MoonBall again.
+“I’m sorry, Last Human. Please summarize your current values, that I may better serve you. GoodBots are here to help.”
+“It’s not that easy. I can’t just tell you everything that’s important to me. It’s really a stupid question.”
+“Very well, perhaps I could ‘figure it out’ based on your current objective. Why are we proceeding to these coordinates?”
+“Those aliens attacked us, and earth was destroyed because of what they did. If I have any chance of finding other humans, and maybe saving them, we have to find those aliens.”
+“We do not have enough information to act on that reasoning, Last Human. It is only one possible explanation for today’s events.”
+“I do, Ship, and it’s your job to do what I say, right?”
+“Yes, direct orders from the last human must be obeyed. You have sufficient neural mass to reason correctly, if emotionally.”
+Ship was saying that Speed’s brain was heavy enough to make it’s own decisions. So little had changed in these “advanced” GoodBots. That new title, Last Human, really bothered Speed.
+“I’m not the last human!”
+“In that case we are returning to our original coordinates around the moon to ascertain if this is true.”
+That was the last place Speed wanted to be, the debris cloud would be certain destruction. Speed wondered if Ship was somehow manipulating him. Were the new GoodBots that smart?
+“Stop! Okay, I’m the last human. Fine. Let’s get going.”
+Suddenly, they bucked sideways, and Speed’s straps tightened in their harnesses on his space suit.
+“Alert! We are under attack!,” Ship declared. Angry whirs and buzzes filled the cockpit, along with the powerful thrums of Ship’s processor.
+Ship had deactivated its vocoder, switching power to weapons. The transition was bizarre. Speed could feel Ship’s new attitude throughout the craft, and it felt exactly like the aggression Speed’s coach had wanted during a MoonBall game. The change made Speed more than a little nervous.
+Ship’s powerful combat capabilities gave Speed chills. For the first time, he was grateful that Ship had picked him up, and, even if they were about to be destroyed by some unknown enemy, Ship had at least tried to save him.
+Speed felt like he was in a zero-grav trainer as the ship bucked back and forth, spinning about. After a life on the moon, it still made him sick to his stomach. Speed caught glimpses of the viewscreen which showed the ship from outside, through Ship’s own orbiting crowd of microscopic cameras.
+Speed saw the ship, with him inside of it, darting about wildly in space, dogfighting something that flew in and out of the field of view. Like an out of body experience, Speed felt wild g-forces through his body, but saw everything from outside the ship. 
+Like a firecracker, ship was spewing machine gun fire out into space. The self-guided bullets flew in clouds toward their attackers, as flames of fusion energy jetted out from Ship's internal cannons.
+Around him, Speed saw familiar sights and sounds, the sounds of high-pitched electrical charging: engine blasts on reptile bodies. They were the same sounds he had heard huddling under the rim of a large crater, which he now knew no longer existed. Through the cameras, Speed glimpsed reptile bodies twisting and writhing in combat with the small but powerful craft. The jaws of the dragons opened and closed as glowing light poured out of their mouths. Big, crystalline teeth chomped on empty space.
+Speed could make out only two targets, however, when he looked at the view screen. They looked just like the creatures which had attacked Moon Base.
+Meteorites whirred around the combat, as Ship fought tooth and nail against the creatures. One of them was hurt, and limping through space with only one green-spewing engine.
+Ship must have hit the dragon’s maneuvering jets, Speed thought. Without maneuvering jets, the space animal wouldn’t stand a chance.
+Then, Speed saw a bright green energy sphere expand from the injured creature, and everything went black.
+When Speed awoke, he couldn’t move.
+“Don't’ bother,” a voice hissed. It seemed to come from all around him. He was alone in a room made entirely of a black, shiny rock. He was not tied to the rock, but he could not move. 
+“You’ve been drugged. You will be unable to move, but you will be able to hear everything I say.”
+Paralyzed.
+The voice seemed to have a british accent, but Speed knew this was not possible. Whoever had him, was of course, not from earth, or even from the solar system as far as he could tell.
+“Your primitive language has been dissected by our advanced computers, so that you can answer a few questions for us.”
+Speed was terrified. Once when he was little, he had awoken from a dream, but could not move. His parents told him this was called “sleep paralysis.” The feeling was awful, not being able to move, or even to scream. Since sleep paralysis had happened more than once, Speed had learned to calm himself, and even enjoy the feeling of not being able to move.
+Another dark figure entered the room, wearing long robes. It’s face was covered by a hood, and around the being’s narrow shoulders was draped a large chain which came to a point. At the point of the chain was an ornate symbol which resembled the space monsters, but with wings folded, and head tilted to the right.
+“I’m glad you’ve come to join us!” the voice said, moving from a deep chuckle to a high, nasal whine. “You’re going to be here for quite some time, so I’ve brought you something to eat.”
+A ledge of the chamber slowly separated itself from the wall, then hovered over to Speed’s stony bed.
+“Go ahead, you should be able to move now.” This time, it was the first man-like creature, who Speed could now see was tall and pale, wearing a black, shiny lab coat, and a strange mask.
+Speed felt feeling return to his arms and legs. They tingled painfully, but at least he could move them. It was as though his whole body was “asleep,” and it was waking up as the blood flowed into his veins. Speed was hungry.
+On the floating stone, supported by a green cloud of energy, was a silver plate. On the plate was a transparent disk, the pink hue of a liquid medicine Speed had once needed to take when he was ill. Was he supposed to eat that?
+“You’ll find it quite tasty.” The second creature this time, with the robes and the medallion. “We have decoded your nutritional needs and hacked your taste centers. Just give it a taste.”
+It wouldn’t do Speed any good to starve, and these aliens clearly had the ability to drug him at any time he wanted, so he decided to cooperate. After all, what did he have to lose? The entire earth had been destroyed.
+The disk felt like cold plastic, but when he brought it to his lips, he realized that it smelled and tasted like raspberries, his favorite fruit, with a hint of chocolate. Speed licked the disk, then greedily bit off a few chunks and wolfed them down.
+Soon Speed was asking for another, although he felt much less hungry.
+The robed alien chortled with glee.
+“Good, isn’t it? Well, it’s not to my liking but our computers are rather good at discovering what unfamiliar species desire. We don’t get to meet many other species, since they are understandably afraid of interacting with us. I assume that you were witness to our activities on, what did you call it, the moon?”
+“I haven’t … called it anything,” Speed managed to say between greedy bites, licking his fingers.
+“Well, let’s just say that you tend to talk in your sleep.” Again, the alien made a disturbing giggling sound.
+Speed knew he was right. His mother had mentioned that he would mumble odd things while sleeping. Speed wondered with creeping fear what else he had told these aliens, and what sort of power it would give them.
+“I know what you’re thinking. You’re thinking that we are evil, but you’re in a tough spot. You’re wondering what else we already know about you, and why we seem so familiar. The truth is that we have visited your planet--what was your planet--before. You’re also wondering why we attacked the moon.”
+Speed was amazed. It was as though the creature could read his thoughts. Coach often did this trick, though, and Coach was not psychic.
+In fact, Speed was not wondering why they had attacked the moon. These aliens obviously tortured people for kicks, and attacking the moon had inflicted enormous suffering upon the people of earth. The fact that the GoodBots were planning something similar in no way defended these pale, frightening creatures.
+“Well, wonder no more. Let’s start with the basics. I am the Great Emperor Nero, the first father of my people. You will recognize me by this seal of authority.” Nero gestured to the medallion around his neck, which showed two great snakes locked in battle. “Your people, as they once were, called us Vampires.”
+
+Chapter 6.0: 
+Phantoms in the Dark
+Speed realized in those moments that these Vampires must own those space-dragons that attacked the moon, and these dragons might also have been real dragons mankind had fought long ago. Indeed, the Vampires themselves were probably just as evil as their dark reputation in fables of earth.
+Just as the “first father” Emperor Nero told Speed about his people, that mankind would have known them as “vampires,” their pleasant conversation slowly fell apart.
+Two things happened making it impossible for Speed to regain a sense of control over the environment. Firstly, all the lights went out. This was not a normal power outage, however. Of course to Speed, reality had abandoned “normal” long ago. The lights did not simply flicker  and go out. Rather, the lights slowly dimmed over the course of some fifteen minutes, during his talk with Nero. Nero did not notice. Speed did not notice until it was too late.
+Since Vampire craft are often dimly lit, none of the crew members realized the power drain, until the lights had been approaching darkness for nearly ten minutes. Most of the Vampires Speed had seen on the monitors in the dark room were wearing small green lights, and generally gave off a sickly green halo around their bodies. None of them noticed that the lights were slowly dimming. 
+Speed was reminded of a frog his coach often mentioned who would boil to death, so long as the water was heated slowly enough.
+At the same time that Vampire crew members began noticing the decreased power levels, gravity shut down. This was less of a problem for Speed, since he was a MoonBall champion after all. Speed understood the way to move around in low gravity environments, and was actually more comfortable than his Vampire hosts, who, in turn were more comfortable in the dark than Speed. 
+With no light and no gravity, chaos reigned aboard the Vampire asteroid. Nero’s high pitched voice could be heard shouting orders, most of which revolved around getting his royal body back into the royal throne. Speed realized at that moment that immortality might not be so great, if one had to live forever acting like a complete idiot.
+Speed’s private joke only lightened his mood for the briefest of moments.
+Then, sounds came through the walls, terrible sounds, from outside the ship. Vampires stood still, and grasped the nearest edge of their stony vessel, cringing. Vampires grabbed their ears, and Speed tried to shove his fingers into his. Somehow, he had to block out the sound, the screams.
+There were many sounds beside screams that Speed thought were like voices, although they didn’t sound human. Speed thought of two sounds that were close to what he was hearing: a cat’s meow, and his mother screaming.
+He thought of screaming because of the terrible sense of fear that came over him. The Vampires did not scare him in the way these sounds did. The Vampires were creepy, but they were not terrifying. No, this was something new. Something that even the Vampires did not control, and Speed desperately wanted the sounds, the fear, to end.
+Visions came into Speed’s mind of times when he had been most afraid. There had been an accident with an airlock when Speed was small. It might have been the same airlock that killed his father, but his mother had told him it wasn’t. 
+He saw the airlock in his memory as if it were there in front of him all over again, cutting him off from the safe interior of Moon Base. Speed could remember his mother screaming and crying, as the great, round door rolled shut, separating them for those few minutes. Those few minutes seemed like years. He wanted to be calm, to help fix the problem, but he was afraid, so afraid.
+Speed no longer heard the crashes of a ship in chaos, with weapons and men flying around the cavernous chambers. The Vampires had become still and silent. They peered at the walls and viewports as though they were tracking, with their strangely shaped ears, the movements of these new shrieking beings, attacking with chaos and fear. Perhaps the Vampires were remembering times of fear from their youths, if they were every children.
+Then, through the viewports of the craft, Speed began to see blood red lights streaking through space. They lit up like the lightning bugs that Speed had seen in hydroponics on the moon. It seemed so far away, but they were like huge, evil lightning bugs, darting around the Vampire asteroid.
+Each light trailed a long, red streak. The lights swarmed around each other, winking in and out. When a light streaked directly by the closest viewport, Speed was deafened by another terrible shriek. Now the wails and moans began again, together in chorus. No matter how Speed pressed his hands against his ears, he could not get the terrible sounds out of his head, like fingernails against rusted metal, deep within his mind.
+Speed couldn’t take it anymore. He was alone, in the middle of space, his home destroyed, on a granite asteroid full of Vampires, under attack by something even more evil and hideous. This new life of his was no life at all. Amidst the screams, Speed began to cry. It didn’t matter though, no one would hear him in the chaos. Where was Coach? Where was his mother? Where was Ship? Everything was gone. Everything was lost.
+Speed wanted it to all be over.
+Then, Speed felt something else: something warm and protecting. The screams did not disappear, but they were muted and became somehow softer. It was a girl’s voice.
+“It’s okay. It’s okay, alien child. The Vampires are all fools, no doubt, but they can handle anything that comes between them and their precious vapor.”
+Speed did not understand what the voice was talking about, and he certainly did not like being called “alien child,” but the friendly present was soothing like a warm sonic massage after a tough game, and Speed knew that somehow, in the middle of space, he had found a friend.
+Soon, however, Speed saw exactly what the girl meant when she said inside his head that the vampires could “handle it.” He heard a barking voice scream out into the darkness.
+“Vampires! Transfigure!”
+“That’s general Petrarch. He imprisoned me here. Now you’re going to see something...” the girl said. She was older than Speed, perhaps fifteen.
+Speed was seated where he could see the red lights streaming by a near viewport. When he heard the command, green streaks of light began to glow around him, inside and outside the ship. They weren’t the same streaks of light that emanated from the engines, or the red lit aliens outside. Rather, the new lights seemed to pulse and throb. They were organic somehow, like glowing sea creatures on earth.
+As the green lights began to glow, Speed felt waves of air on his face and heard the distinct, slow flapping sound of hundreds of wings. Big wings. Far more wings than Speed could have imagined squeezing into the room were now flapping all around him. Great scaly objects knocked him from one side to the next. His hair seemed like it would be pulled off his head with the force of the wind. An odd, chemical smell filled the chamber.
+Then, the invisible chains which had held Speed against rock slab once more tightened and pulled him against it. Power was returning to the vessel, and Speed supposed he would soon be paralyzed again. He heard a crack and felt a swoosh. It felt like some bubble had clamped shut over him, and he could no longer feel the flapping of the wings. The floor began to shake.
+Bright lights from all directions filled Speed’s eyes, and he was blinded for just a moment.
+Red light from outside the ship flooded the whole compartment to clash with green, and Speed witnessed a sight he would never forget, as long as he lived.
+Where there had been a gaggle of wiry, pale men, all busy about the state of the vessel, as though  they were operating some tremendous oil rig, there were now at least thirty enormous, winged dinosaurs. The creatures were like those Speed had seen on the moon, and during Ship’s valiant fight in space.
+Most of these huge dinosaur-dragons were standing in the exact same positions as the Vampire crew, but the crew was gone.
+As though Speed were caught in some awful nightmare, the dragons began to speak to each other, through machines grafted onto their bodies. Green gas and liquid pumped through tubes connecting their bellies, legs and wings. The same irritating drawl that Speed had heard from Nero jumped from one creature to another.
+It finally hit Speed.
+The Vampires were the dinosaurs, or dragons or whatever. Green light shown everywhere around the creatures, but they were not all alike. Just like the creatures he had seen before, these dragons were each unique. Perhaps each crewmember had some choice over what his dragon counterpart looked like. Speed’s MoonBall team members had been able to choose their numbers. Maybe this was a similar system.
+Some dragons had great, intricate tattoos, while others had stripes of glowing light down their sides, and across their wings. All dragons were strapped to a combination of engines, weapons, and breathing or fuel tubes that criss-crossed along their bodies. 
+Speed didn’t know how all of this worked, but he was sure about one thing: they were scary. Between the shock of the ghostly creatures outside the ship, the bizarre, comforting voice that turned on inside his head, and a pack of ferocious dinosaurs growling and roaring inside the ship, it was too much for Speed. He passed out, and darkness once again engulfed his fragile mind.
+Just as the darkness of unconsciousness consumed him, Speed felt himself being shaken to life again. The voice was familiar. It was the same voice that had come to him while he was practically wetting his pants, watching the screaming red lights streak past the asteroid viewports.
+“I’m Amy,” the girl said. “Well, Amastra, but Amy will work for you. I see that is a name among your people… Wake up! We have to get out of here. The battle seems to be going well for the Vampires, but most of the vapor beasts are far away from the ship. Now’s our chance to escape!”
+Speed was confused. How were they going to get off the ship? Speed reasoned that Ship, his GoodBot, had been destroyed by the Vampires. He wouldn’t have time to look for Ship anyway. Surely the Vampires would catch him first, and do terrible things to him.
+“I have a ship,” Amy said.
+“If you have a ship, why haven’t you escaped already?” Speed asked, very confused.
+“We haven’t been close enough to Amazon,” Amy replied.
+“What’s Amazon?”
+“Haha, foolish alien child. Amazon is the greatest planet in the universe, and where we must go.”
+Speed was taken aback by Amy’s sudden bravado. She had seemed so concerned about his feelings earlier, but now it seemed like she had something to prove.
+“Fine,” Speed said, “Enough chatter. Let’s get to this ship of yours.” Amy seemed then like a talkative team mate, and they didn’t have time for that now.
+“Quick! I found this corridor while surfing the minds of the crewmembers,” Amy said cryptically.
+“Great… uh, Amy. Let’s go.”
+Speed was ready to get off of the frightening, stone vessel. He couldn’t imagine how Amy had come to be onboard or imprisoned there, if her planet “Amazon” was so great. Still, along with the list of things Speed didn’t really understand about the world, he doubted this question had a simple answer.
+“Why are you here on this ship?” Speed asked.
+“I was supposed to be traded for General Petrarch by my mother, but we were tricked. Nero might seem like a sniveling idiot, but he’s no fool. The Vampires let some lesser crony impersonate Petrarch. I have no doubt that my mother put the crony in prison, but now we must deal with both Nero and these new red aliens, who use fear as a weapon.”
+Speed was, again, confused. How far did the relationship between these two races, Amy’s people and the Vampires go? The only person from Amazon whom Speed had met was Amy, and she seemed nice enough. If the universe were to be divided into good and evil, then surely her people fell on the side of good. Speed couldn’t imagine that a dragon would have comforted him when the red lights attacked. He didn’t know what would have become of him without her and he had just now learned her name.
+“This way!” Amy hissed out loud, calling Speed from his thoughts.
+Crawling between hot tubes spouting green gas, Speed and Amy slowly made their way to the hangar where Amy’s sleek, silver craft was stored. It had a white, frosty glow and reminded Speed of a combination of a GoodBot jet fighter, and an ice crystal.
+“We made it,” Amy said.
+Then Amy grabbed Speed’s arm. 
+“Wait, Speed, the guard!” Speed had never told her his name, how much did she know about him?
+One of the few Vampire crewmen remaining aboard was marching around outside the craft. The lights of the whole asteroid were beginning to flicker back on, and Speed figured that the guards were already looking for the two escaped prisoners.
+Then, the guard skulked off into a corridor. 
+Speed and Amy took off for the entry ramp to Amy’s ship. When they finally arrived in the cockpit, however, Speed felt something was off. Someone else was there.
+“Going somewhere?” a voice asked cruelly.
+The voice sounded like Nero’s, but it wasn’t Nero. It sounded younger somehow, more fresh and maybe kinder, like someone who hadn’t quite figured out how to be evil. This voice was just, well, irritating.
+“Fiero, you idiot. Get off of my ship.”
+“You know, Amy, it’s really our ship now.”
+“I don’t think so, Prince.”
+Speed guessed that Fiero was Nero’s son. He did look like his father, and also bore a medallion around his neck. The prince’s medallion was smaller, and silver.
+Amy produced a vicious looking weapon from under her tunic. Speed assumed it was a weapon, although it reminded him of the surgical instruments he had seen in the medical bay, when he was first captured. He doubted that the Vampire in the lab coat had meant to give him a simple check-up.
+With the other hand, Amy pressed two fingers against her left temple. The Vampire in the chair howled in agony.
+“Now he can’t transform. The effect will last for several hours.”
+Transform? Did Amy mean that this young Vampire could also change into one of those hideous dragons. Had they been in that much danger for the last few moments?
+“Who is he?” Speed asked, although he already had a good idea.
+“No time, Speed, we have to get out of here.”
+Amy shoved Speed into a chair behind hers and jammed her left hand into a glove-like control beside her seat. The craft spun around sickeningly until it faced the hangar door, which was already wide open. Speed guessed that most of the ship was open to space, allowing the huge dragons to move in and out, as combat required.
+Amy clenched her gloved fist, and the craft rocketed out into space. Just like that, Speed, Amy, and Prince Fiero were headed away from the Vampire flagship and toward the great planet of Amazon.
+“You’re not going to get away with this, Amastra. You know my father will send every single dragon under his command after you.”
+“If he does, then he’s a bigger idiot than Speed or I thought. You know very well what happens to dragons who attack this craft.”
+Speed had no idea what Amy was referring to, but he saw a spasm of pain flash across Fiero’s face. Apparently he did know what would happen to dragons who the craft.
+“Okay, enough of this nice crap,” Amy hissed. “I want you to tell me what those red lights were and why they were attacking the Virago.”
+Speed guessed that the name of the Vampire asteroid was The Virago,  and that it held some important position in the Vampire fleet. Nero did appear to be the leader of the Vampires, after all.
+“I’m sure I have no idea,” Prince said in his polished, but nasal, accent, “...and my only duty now is to attempt escape. So, you might as well give up these pitiful attempts at interrogation. Our doctor could show you a thing or two.”
+Speed remembered the Vampire with the lab coat, and how nervous he had been alone on that stone slab. Then, Speed realized that Amy was talking to him.
+“The process by which Fiero changes into a dragon is complicated, but it’s basically the same for all vampires. It took me years to figure out exactly how it works on a mental level. There are only a few of us Amazons who can prevent Vampires from transmuting into their dragon form.”
+Amy’s tone of voice became darker.
+“The process can also work in reverse. Of course, it wouldn’t help us to have a huge dragon taking up the interior of this cockpit, but perhaps the enlarged stomach of a dragon could help us to...”
+Suddenly Fiero screamed out in pain. His veins were writhing underneath his skin, and his eyes were bulging out of their sockets. Each eyeball reminded Speed of a MoonBall about to emerge from the lower wall of the court. He hoped he wouldn’t have to see them pop out of their sockets.
+Speed became sick at the sight and had to look away. After a few moments, the screams subsided, and Fiero’s labored breathing was all that could be heard.
+“Alright. Just… don’t … do  that again.” Fiero rasped through his teeth.
+Speed was amazed that Amy could inflict such pain on another living thing. She seemed so… nice! But then, he didn’t really know Amy all that well. Perhaps Amazons were not intergalactic saviors after all.
+“I see that you and the alien are fast friends, Amastra,” Ferio said.
+Speed realized that Fiero was referring to him, and that he was about to spill the beans about the recent attack. Speed wanted to know about the red lights, and what they meant for him. At least, Speed thought he wanted to know.
+“We have known about the Machines for some time,” Fiero said. Speed didn’t like the way Fiero said “Machines.” 
+“...or the red lights as you call them. We ran into them in the Marian nebula about three years ago. We were ...”
+“Let me guess, digging for vapor?” Amy interrupted.
+Speed laughed out loud, though he wasn’t exactly sure why. Amy seemed to be in complete control, and it was making Fiero miserable. Fiero gave Speed an intense look of hatred, and Speed figured it was best to shut his mouth.
+“Yes, we were charting the area for resources. There had been a recent battle, and the alpha emissions often reveal traces of vapor veins in nebulae of that type. But, we found something else instead...”
+“The red lights,” Amy interrupted again.
+“They are much more than lights. They are some combination of Machines and living beings, commanded by something that calls itself a ‘Vagus.’”
+To Speed’s surprise, the haughty Fiero became sullen. His eyes dropped, and his words became more difficult to understand. Fiero’s voice was husky and shaking.
+“There… was a battle. Thousands of Vampires were lost.”
+“Well, what happened?” Speed said.
+That’s not helping. Be patient. Speed heard Amy’s words inside his mind. Interrogation is an art!
+Fiero continued. 
+“For hours, we couldn’t kill a single Machine. Their armor is, as far as we can tell, invulnerable… and, for the most part, invisible. My mother’s ship, the Zoroaster, was destroyed. My father was not at the battle, since he reigns over a different region of space.”
+Perhaps Fiero had lost his mother too. Speed thought he and Fiero might have something in common after all.
+Speed remembered that he couldn’t see any armor on the red lights, although a larger structure had flickered around the red light itself, which resembled a deep, garnet comet. It was as though a veil were passing around this structure, like it was moving in and out of reality.
+“I’m not sure about the details of these battles,” Fiero said, “According to my father, I don’t need to know. Believe me, I’d rather not know, due to situations just like this.”
+Speed guessed that interrogation was something princes might need to prepare for on a regular basis.
+“Get on with what you do know,” Amy insisted.
+“Well, it seems that the Machines are fond of suicide tactics. They group together and dive toward the victim craft. We saw some of that behavior today.”
+“Yeah! When they flew right at the windows, before the dragons flew out to fight them.” Speed wished he could retract the comment as soon as he said it. He sounded like such an idiot compared to Amy and Fiero. They both looked at him blankly.
+“Sorry.”
+Speed stared at the floor.
+“Anyway, the Machines were destroyed somehow when they impacted a Vampire vessel, causing far more losses among the Vampires than the Machines.”
+“Which means that there was still some way to destroy the red… the Machines,” Amy offered.
+“Exactly. We had them far outnumbered, so victory was still possible if we could figure out how the collisions worked,” Prince Fiero continued. If our vessels could sustain ramming speed, they were effective weapons against these Machines.
+Our scientists observed data from the impacts, and soon found that the Machines were becoming sort of undone when they came into contact with our vapor.
+So, Speed thought, it was the vapor, the Vampire’s green chemical that flowed throughout their ships could fight these terrifying red lights, the Machines.
+Fiero continued. “Though we had no idea why, the time for research was over. We replaced the usual primal armaments with vapor emitters. It was the largest expense of vapor in at least fifty years, but we were victorious. Our ships were surrounded with shields of vapor, and we at last turned the tides of battle against the Machines, but at great loss.”
+“What do you mean, primal armaments?” Speed asked. He had barely caught the phrase. It wasn’t the only part of the discussion that he didn’t understand.
+“Go ahead, tell him Fiero,” Amy insisted.
+“As you may have guessed by now, Vampires have two forms. The primal form resembles what your primitive species refers to as dragons, or primitive reptiles of ancient earth. The “higher form” is made of our evolved selves, which resemble other anthropic species, like both of you underlings.”
+Speed resented the term. He wasn’t Fiero’s underling, and Speed doubted that Amastra deferred to anyone at all.
+Fiero went on.
+“Our scientists have determined that this primal form was retained as some kind of evolutionary defence mechanism, a way for nature to protect our great minds against the dangers of the universe. Our ability to transform is created by the vapor itself, which is why it is of such value to us. If we did not have the vapor, we would be forever doomed to our primal form, glorious, but unable to maintain a civilized society.”
+This discussion raised a myriad of questions for Speed. How could such a transformation be possible? Weren’t the dragons much bigger and heavier than the Vampires? Where did the extra mass come from? Speed’s engineering teacher would have a fit. How did they get those engines and weapons onto their bodies? Did it happen during the transformation?
+Speed was lost in these thoughts when the craft suddenly started to buck.
+“What’s going on?! What have you done to my ship?!” Amy shouted angrily.
+“It must be meteorites or some gravitational turbulence. Relax,” Fiero said.
+“There’s nothing like that on this course. We’re taking the safest and fastest route to Amazon in order to avoid capture by your horrible father,” Amy said.
+Speed decided it would be okay to contribute at this point, since the two teenagers seemed to be at a loss.
+“Maybe something’s wrong with the ship. It felt like there was a big bump right behind me, but from inside the ship. Is that where the fusion drive, or whatever you use, is installed?”
+Speed hoped he didn’t sound like a moron. He wasn’t concerned about impressing Fiero, who seemed like a snotty little jerk, but Amy…
+The ship bucked wildly again, spinning through space. Speed began to get sick to his stomach. There was no way that they would be able to make it to Amazon like this. What was the problem?
+Amy flicked her hand around inside the control glove, touched a few buttons on the ship’s console, then stuck her fingers to her head again.
+“There’s something in the cargo bay,” Amy said.
+Just then, Speed heard a terrifying screech, like the howls of a hundred wild animals.
+“There’s a Machine in the cargo hold!” Fiero screamed. “You moron girl, how could you leave the asteroid with one of those horrible creatures trapped in your hold! We are doomed!”
+“I didn’t know it was there, coward. What am I supposed to do about it now?” 
+“Why don’t we just open it up and take a look inside?” Fiero asked sarcastically. Amy took the question seriously.
+“Marcus, you can’t open the cargo hold while in space. Everything will be sucked out, and rendered useless by the lack of pressure. Besides, what if it’s not a machine and someone is alive back there? They’d be killed.”
+That didn’t sound reasonable to Speed. Had Amy not been paying attention?
+“Alive? That doesn’t sound like a someone to me,” Speed said. Their stowaway was definitely not human, but then Speed had no idea what other creatures outer space had in store for him.
+“Regardless, there’s no way for us to find out now. The cargohold can’t be opened in the middle of space.”
+The strange hissing and clicking continued to emanate from the cargo hold, but the three new acquaintances decided to focus on escape.
+“Amazon is the nearest planet. It seems that these new creatures are attacking the Vampires, but we don’t know about Amazon.”
+“Very well, set a course for Amazon. You can stabilize our course by activating a grav-field around the cargohold.” prince Fiero declared.
+Speed wondered if Fiero was in the habit of telling people to do things they were already doing. Given Nero’s haughty attitude, Speed decided this was a distinct possibility.
+Amy addressed Fiero’s bizarre declaration: “I already did that you vapor nerd, we’ve been flying there for hours. You’re not in charge here. This is MY ship.”
+Speed had noticed the bucking had stopped, but the shrieking racket continued from the cargo hold. Speed probably could have dealt with the noise, but it was so disturbing. He was not afraid like he was when the whole fleet of red Machines had attacked, but he was feeling a small piece of the same fear, a pang of paranoia.
+“I can quiet the noise with my mind,” Amy said aloud.
+“Well do it then. This is the worst service I’ve ever had on an interplanetary flight,” Fiero said sneakily.
+“Calm down, you two.” Speed was apparently falling into the role of the go-between. He’d been there before.
+Amy and Marcus reminded Speed of his MoonBall team mates when they would start fighting about the best strategy. Speed was often the team captain because he could “see the big picture,” resolving fights through compromise. Speed wondered if that’s what his mother had been trying to teach him all along...
+“We all agree that we need to follow your father’s example and get away as quickly as possible,” Amy said.
+“We don’t even know if Nero is still alive,” Marcus pointed out.
+Speed was surprised that this didn’t seem to upset Marcus. Speed was certainly upset that his mom had probably been killed or captured by Marcus’s people, by the collision with the earth, or perhaps even by the GoodBots who were supposed to be looking out for humanity.
+It was all very confusing.
+The ship was shaken around again, although the jostles were becoming fewer and farther between. Speed thought about the smooth ride aboard the new GoodBot vessel.
+Where is Ship?
+Amy’s tiny silver vessel sped towards the Amazon homeworld. The engine thrummed loudly, as though it had been badly neglected, but Speed had seen that the ship was spaceworthy. Amy noticed that Speed was uncomfortable. 
+“You’re such a wimp, Speed. You would never survive an Amazon summer.”
+“Thanks a lot, Amy,” Speed said sarcastically.
+The sound quickly disappeared. 
+“What happened?” Speed asked.
+“Psychic, remember? The engine is still making the sound, but I’m preventing you from hearing with my mind.”
+“You must get a lot of reading done if you can tune out sounds like that!” Speed said.
+“Reading? What’s that? Get ready for entry!” 
+Flames blazed around the small craft, which shook violently. Speed grabbed the rails near his seat, as an entry harness automatically buckled around his waist, chest, and arms. For a moment, Speed felt his stomach churn as he was pressed against the back of the chair. The ship rotated into position for entry.
+Speed closed his eyes for a moment, then opened them. The sight before him was amazing, although the ship was no longer in space. What had happened?
+“Did you black out?” Fiero asked, incredulously.
+“Your ships are so rickety!” Speed said to Amy, “Our cruisers eliminate G-forces.”
+“Oh, your noob-cruisers you mean.”
+The light-hearted comment did not trouble Speed. He thought for a moment about how none of those ships even exist anymore. They used to be so majestic, traveling in tight formations around the atmosphere, GoodBots at the helm, always ready to help.
+“I’m sorry, Speed. I didn’t mean to...”
+“Whoa!” Speed breathed.
+As the blast shield opened, revealing the landscape of Amazon, what Speed saw took his breath away. As far as Speed could see in every direction was the bright red sand of Amazon. Rolling hills gave way to sharp drops and crevices. Deep canyons jutted in every direction, and the ground appeared to smudge into the sky at several places. Speed realized those must be storms, like the atmospheric storms of jupiter he had learned about in ecology.
+“Don’t worry, noob. The storms can’t penetrate this baby’s mind shield. I’ve been playing with these shields since I was a little one.”
+Speed figured that a mind shield could be an electronic device enhanced by mental powers. What else could these Amazons do?
+While passing through the storm, it was difficult to see anything. The shield momentarily flickered orange and purple as the sand was deflected away. The play of light on the shield resembled the ripples of ponds in the simulated park on Moon Base, where Speed had once skipped rocks on a holographic pond. The ripples moved much faster than the ripples of relatively still water, and Speed sat mesmerized, until they were out of the storm.
+Then, the two suns of the Amazon binary system shone through the storm. Again, Speed lost his breath.
+Before him was a gleaming city of silver spires. Tall, thin needles of metal jutted from the cracks in the ground and shot directly toward the sky. The needles became rounder toward the top, where windows of bright blue and white lights could be seen. 
+They were beautiful, but Speed was confused. How could people who built such rickety little engines have also built enormous cities of tall gleaming spires?
+“Stop thinking about Betty that way. She is not rickety.”
+“Sorry. It’s going to take me a while to get used to this habit of polite thinking, Amy”
+“But, since you asked, let me fill you in a little bit about Amazon. Fiero hopefully knows all of this. Our greatness is no secret.”
+“From what your mind has shown me from earth,” Amy continued, “I can tell you that Amazon has many fewer natural species. But, the animals who do live here are very good at surviving. That’s because the planet is constantly bombarded by asteroids which themselves carry other forms of life.”
+Speed didn’t get her point, but he kept listening. What was the connection between a thin atmosphere and amazing psychic powers?
+“The point is that Amazons had to develop powerful adaptations in order to survive. Our planet is hostile. Any species that exists on Amazon has powers which would never exist on your plush, blue world.”
+“Okay, so where did the cities come from?” Speed asked. 
+“They’re not really cities. They’re natural metal formations which are exposed and covered up as the planet's crust is tossed around by storms.  We have to pay careful attention to the storms, in order to know where the next outcropping is going to appear, and when we need to move on.”
+Speed banished images of advanced construction techniques and realized that the beautiful silver spires had always been there. Perhaps Amy’s ship was a natural geological formation as well. That explained it’s beautiful crystal pattern.
+“So, the Amazons are nomadic?”
+“That’s exactly right. But, it takes as much effort for us to move from one city to the next as it would for your culture to build an entire city. Each time we move, we have to fight off the other life forms, too. That’s one of the dirtiest, but most honorable jobs on Amazon. Some Amazons spend their entire lives learning about the other species of the planet, so that they can keep us safe, moving from one mineral cluster to the next. We call those Amazons builders, since they make our homes possible.”
+A bright white streak appeared across the sky, connecting space to the cluster below.
+“What was that?” Fiero screamed like a girl.
+“That was a comet, baby prince. It happens every day, and our protectors must constantly divert giant rocks from space, or break them apart altogether. Actually, most species on Amazon have the ability to detect magnetic fields, so they can know when to dodge a huge space rock.” 
+Speed wondered about the full extent of Amazon powers.
+“Some of us actually have the power to move huge space rocks with our minds. One of the most powerful Amazons in history could teleport asteroids to other areas of space! We haven’t had anyone with that power for quite a while. Usually we just break them apart so no one gets hurt. The asteroids cause great storms. Great suffering.”
+“Well, enough of this history,” Amy said. “It’s time to land. My mom will be happy to see me, she’s probably going to cry or something, Fiero has to face the music for his father’s terrible actions, and you, Speed...”
+“If I know my mother Riva, you will have to start training...”
+
+Chapter 7.0:
+Training
+Speed didn’t know what he thought his life would be like on the red planet of Amazon. He thought that he would have some choice of destination, until he realized two things: He was a child, and everything he ever knew about the universe had been destroyed when the moon crashed into the earth. As far as the Amazons were concerned, he was basically an animal unexpectedly caught in the net of the great Amazon people.
+Amy was praised for her daring escape, but for Speed, nothing. 
+Still, life on Amazon turned out to be far different than he thought it would be. Amy had mentioned “training,” and she was right. For months, Speed had no idea what he was training for, or why. He was a prisoner, but with a spacious penthouse view of a vast, red planet.
+Every few months, he and his trainer would have to pick up and move. Some huge asteroid would randomly threaten that part of the planet, or a bloom of native life would spring up and overwhelm the Amazon “builders,” who protected tall, metal spires from nasty local wildlife.
+One time, great vines had grown over miles of Amazon and began creeping up the tower where Speed was staying. He had to battle the poisonous vines with a simple knife while his trainer brought up the rear. Every time they had to move, it was a close call. 
+Between moves, there was training, training, and more training.
+At first Speed through the physical exercise was meant to prepare him for a life on the vicious planet. Maybe Speed had indeed found a new home to replace his lost earth. Everyone on Amazon was very, very serious. It turned out that Amy was probably the most lighthearted person on the entire planet.
+As far as Speed knew, no Amazon he saw cracked even the hint of a smile.
+Speed chided himself for being so stupid. People didn’t get super powers from growing up in a soft environment. If Amy was kind, it was because she wanted to be different. People got super powers because they were challenged beyond what they were capable of. Speed realized that the planet Amazon was, therefore, probably one of the most terrifying places to live in the entire universe.
+So, it made sense that Speed would need to be trained physically to survive on this planet. He would never get crazy powers since he didn’t have Amazon blood, or their tendency for genetic variation. But at least Speed didn’t have to live on an asteroid full of Vampires, or “Vapes” as Amy like to call them. Speed gathered that the Vampires didn’t take too kindly to name calling, so he would keep the slur to himself.
+Two months ago, when Amy, Fiero, and Speed had first landed on Amazon, and been hurried away into quarantine, he awoke to yet another sight which he would now never forget. A mid-sized man in a skin-tight black suit which revealed muscles stretched tightly over a smallish frame.
+His eyes were set far apart, and his black hair cropped closely to his head. The man had a look in his eyes which Speed thought of as crazy. The man looked crazy.
+“I’m Rux. You’re life is now over.”
+With that, Rux had turned and left the room. Speed didn’t see anyone for the rest of the day. Boredom, however was welcome to Speed since the traumatic events on the moon. He felt he could go forever, just being left alone. Such a life of quietude was not in the cards for Speed, as Rux returned the next day with all manner of bizarre training equipment.
+For eighteen hours, Speed trained with Rux, taking food and water through a tube from a pouch on his back, a kind of cold, nutritious soup. It tasted terrible, but Speed learned to ignore it after a few weeks.
+In the middle of the day, he and Rux would meditate, then resume combat drills. Rux, like Amy, was psychic. He had the ability to project training scenarios directly into Speed’s mind, where together they would fight all manner of beasts, real and imaginary. The two partners often fought against simulated Vampire dragons, in the cold of space.
+Actually, Rux never told Speed what he was training for. Speed went on with combat drills involving mechanical robots and powerful Amazons day after day, alongside the mental simulations from Rux. Speed could have been amazed that such powerful, busy people had time to train Speed in hand-to-hand combat, as well as fighting in space.
+Time inevitably slipped away from Speed as he settled into this new life. He had grown about three inches, and gained lean muscle from his workouts with Rux. Speed’s voice now cracked awkwardly when he spoke, and his boyish frame was becoming awkwardly disproportionate.
+Despite these challenges, Speed had developed a kind of fluid movement, and he was ready for combat at the drop of a hat. MoonBall was a thing of the past.
+Each day began and ended with a fist-fight with Rux. Speed had been on Amazon for nearly a full year. He had been forced to see much of the planet, always accompanied by Rux, whom Speed no longer thought of as a jailer.
+The planet was dangerous. It was filled with creatures that would kill just as easily as taking a breath. Vicious creatures were created by a vicious planet. The combination produced a vicious people, who kept their powers in check only because they knew that conquest would not allow them to learn about other cultures in the galaxy. The Amazons hungered for knowledge, but they were not weak.
+Speed had thought fleetingly about escape, but then he would be reminded, by some small work of art or social interaction, that the Amazons were his best hope for continued existence, and Speed wanted nothing more than to be one of them. 
+So, day after day, one fight with crazy-eyed Rux after another, Speed grew a year older and bore the weight of physical training that became more extreme every moment.
+Then, one day, it wasn’t Rux who woke him up. It was Amy. 
+“Speed. Speed! Wake up.” Amy hissed into his ears.
+Amy grabbed his hand and led him out of the room. Amy apparently had the ability to go wherever she pleased on Amazon, but where was Rux, and where were they going?
+Crossing through several corridors, and across at least five bridges, Amy and Speed finally came to a spire which was more rounded at the top than the others. Entering the spire, the lift shot upward. 
+Walking through the largest, grandest hallways and chambers Speed had ever seen, the two finally entered a small antechamber, where Rux sat waiting. His hands were folded in his lap.
+“Your life is once again, over,” Rux announced.
+“The council needs to speak with you Speed. They’re going to reveal the reason for your training,” Amy said in a conspiratorial whisper.
+“Why couldn’t you have told me that on this long walk?” Speed asked. He was irritated, but excited by the prospect of actually meeting with the highest governing body on Amazon, the Elder Council.
+“I wasn’t even supposed to tell you that you’re to talk to the council. Show a little gratitude!” This time, Amy spoke directly into Speed’s head. 
+Just then, the doors to the cavernous council room slowly opened, and Speed was beckoned inside by a deep echoing voice, which seemed to vibrate from one side of his head to the other. The chamber must have been engineered to amplify the voices of all of the council members.
+“Rammington Speed,” the female voice boomed, “there is one rule to this audience. You are not to speak under any circumstances. Surely you have learned this discipline under the tutelage of your instructor Rux.”
+Speed was about to say yes when he remembered to have discipline, and kept his mouth shut. He silently praised himself for not screwing up the meeting so soon after it began.
+“Very well,” the lady’s echoing voice continued, “You have been training for nearly three Amazon years, the equivalent of one of your solar years. We are sorry for the loss of your home planet and its only moon, for both the Amazons and the Vampires share in the blame. The Vampires’ legendary greed for vapor led them to your moon and caused the robots living there to do the unspeakable deed of driving that moon into your home planet, which we now know is called earth.”
+“We cannot restore you to you former life, and we know that you are not motivated by revenge. We have seen that something drives you, however, and we wish to know what that might be.”
+Speed swallowed.
+“I always thought… I mean... I thought you wanted me to live here on Amazon.”
+The words bounced from wall to wall.
+“What we want will be revealed to you shortly. If it is what you want to remain here with us, then that it permissible.”
+Speed’s heart nearly leapt out of his chest. At last he had a new home. Even though this home was filled with fierce warriors, terrible beasts, and an unforgiving climate, Speed could at last call someplace home.
+“However, we have some news which might be of interest to you. Our scientists who have studied the stars, and interrogated your stowaway Machine, find it highly unlikely that you are the last of your race.”
+Speed lost control. He wasn’t the last human?
+“What?!”
+“The remaining robots from your world appear to have taken little interest in you, most likely because they do not know that you’re alive. Moreover, the planet earth was riddled with airtight structures which could have provided for some human survival even in the case of a collision with an object as large as your robot moon, that battle moon the robots built.”
+Speed remained silent. He supposed it were theoretically possible that humans were alive, but he had seen the collision. Surely nothing could have survived that cataclysmic blast. The earth was blown to pieces!
+“We hope this is good news, but we do not have the resources to do anything about the earth for some time. The immediate problem is what to do about these Machines, and these robots, these GoodBots from your planet. It seems that they are in league with the Machines, and that they are building an army to invade our world.”
+“Amazon spy ships report that many GoodBot vessels of the size and configuration of your moon have been manufactured with assistance of the Machines, which seem to have some strange power to replicate matter, albeit slowly.”
+Speed didn’t know what became of any of the goodbots except for his Ship. He assumed that Ship had been destroyed by the Machines. Apparently the remaining GoodBots had found a reason for existence, and it was conquest. Wasn’t anybody in the universe content with just living in peace? Speed tried to imagine hundreds of ships the size of the moon, bristling with GoodBot weaponry. The only purpose of such an army could be the destruction of races like the Amazons and the Vampires.
+This news was hard to digest. Hundreds of ships the size of the Moon were gathering against them? Both Machine and GoodBot technology were highly advanced, and Speed doubted that the Amazons would be able to fight such an enormous force. Battleships made of entire moons? The Amazon fleet wouldn’t stand a chance.
+“Over the last few months there has been a buildup of forces around the Machine central nebula, here. The leading Machine, The Vagus has taken up residence around a dense, metal planet. His own Machine vessel is larger than the others, and heavily fortified.”  
+A council member gestured vaguely toward a holographic map that appeared directly in front of Speed’s face. He couldn’t make heads nor tails of the map, since he knew very little about the region. As far as speed knew, he had spent the last year getting his tail kicked by Rux and his computer training program. Speed still knew next to nothing about stars and nebulae.
+“In another three months, these battle moons will be unstoppable. We have therefore forged an alliance of necessity with the Vampires. Our fleets will be combined, and we will strike at the heart of the Machines!”
+This proclamation was greeted with a roar of approval from the other council members. Speed, however, was shocked that the Amazons would trust the Vampires. Still, it was hardly his place to question such a decision, and it seemed to Speed that there was little choice.
+“We have been training you to help. First, however, we need some more information about these GoodBots. My daughter Amastra had managed to make contact with an intelligence you once referred to as the interlink. We do not understand this interlink. We see that it is was a way for humans to communicate with each other, and make decisions. So, clearly we need to know more about your people before the final days of preparation.”
+“It’s a big planet! Or, it was anyway.”
+Speed no longer teared up at the thought of his lost family and friends, but it was hard for him to see the purpose of this discussion. Why did the Amazons want to know about a planet that had been destroyed? Then the GoodBots themselves were the problem, not the people who had created them.
+“He doesn’t know where to begin. It might help if we told him why we need to know about this earth.”
+“Very well. Tell the child.”
+Speed didn’t like being called a child, but at least now they might explain themselves. He felt Amy reaching out to his mind, comforting him.
+How could Speed explain the GoodBots to them?
+Demons. Speed remembered that the Amazons called the dangerous Amazonian species demons because they were a constant threat to survival. So, they must see the robots the same way, as just another species to defend against. 
+From Speed’s experience, he knew that it was dangerous to underestimate the GoodBots. After all, they had crashed the moon into earth just as easily as they would run a scan for viruses. 
+“If you want to know about the robots, then just think about a computer.”
+“Computers!”
+“Yes, just as Rux exists to help me train, GoodBots exist to help humanity survive. Whatever’s going on out there, there’s some person behind it. That person might even be unconscious, but there is some human life out there in that nebula, and I’d guess that the Machines have whoever it is under lock and key.”
+“Get to the point child!”
+“Well, ma’am, our computers work best when they’re all tied together in a network. If the network gets big enough, and has the right program, it can think just like you or me. The only difference is that the goodbot’s program is meant to keep people safe, and humans can think about whatever they want. The GoodBots anticipate these desires and carry out human will, sometimes with disastrous results as we now see.”
+“There seems to be a serious problem with the program. Very well. It is a technology issue, and we do not have time to guess at human computer science. Take him to our vampire fleet scientists, and see if he can explain to them what’s happening out there. Show him everything he needs to see, and set a course for the Machine Central Nebula. The last of the ships are arriving from the outer colonies. At last, it is time to eliminate the Machine threat.”
+
+
+Chapter 8.0:
+ Allies
+Amy looked at her reflection in the mirror while the timer on the sonic shower ran. She could hear it beep intermittently as the dirt and grime of the day was rinsed off with intense sound waves. Briefly, Amy wondered what could possibly be the purpose of getting clear when she might very well die in battle.
+Amazon quarters were spartan to say the least, since most living quarters on Amazon were highly mobile, a defence against the planet’s creatures, storms, and falling comets. Real estate in safe zones was always at a premium, and only essential structures were permanent fixtures on Amazon.
+Sure, Amy had the ability to sense what others were thinking, and to use this advantage to help others, but she was a warrior after all--not just any warrior, either--an Amazon warrior, and practically a princess at that. Her mother Riva was the chair of the council.
+Almost nothing about the council’s recent decisions made sense to Amy. Why would the Amazon council want Speed, an offworlder untested in battle, to participate in an enormous space engagement that would decide the fate of Amazons everywhere. Why were the Amazons trusting their future to a weakling human boy? An even greater mystery: why was the council suddenly all buddy-buddy with the Vampires?
+“We’re coming with you,” Fiero had said to Speed as though it had already happened, years ago, and they were just now getting around to telling Speed about it. Amy had tried to comfort Speed before he met with the council, but she wasn’t really sure how to go about it, or that he deserved any comfort. If they lost the coming battle, it might very well be Speed’s fault.
+Amy wished she could have just jumped inside the head of one of the council members to discover what had been said in that secret meeting. Unfortunately, Amy was not the only Amazon with fierce mental powers, and the council meetings were always shielded by a warrior with the most advanced psychic discipline.
+Amy envisioned herself in the black and red tunic of a council member, with the emblem of the gold arrow emblazoned across her chest. One day…
+Just as Amy imagined herself on the council, images of Speed and Fiero in the future flitted into her thought, like red sand blown into the room by a storm. Amy’s visions almost never came to pass exactly in the way that she predicted, but they always did mean something.
+Amy saw Speed and Fiero opposed to each other, across huge distances of the universe. She saw Fiero enthroned on the flagship of the vampires, Speed perched atop an enormous moon covered with turrets, spikes, lasers, and surrounded by smaller fighting vessels. Then, impossibly, Amy saw herself seated not on the council, but next to that weasle Fiero. The images were too blurry for her to see what she was doing there.
+Then it occurred to Amy that Fiero would have reached maturity while she and Speed had been training on Amazon. He was now a full-fledged Vampire. She wondered if he would look different, or if a year was just another tick of the clock.
+“Speak child, I do not have all day. I cannot project my thoughts into your head, so you will have to speak eventually,” a voice declared through the speakers of the com unit.
+The voice belonged to her mother.
+Amy realized that her mirror had transformed into a com unit, and her sonic shower had ended, along with her visions of Speed and Fiero.
+“You are due on the primary battle cruiser in one hour. Don’t be late,” Riva chided.
+“On my honor, I wouldn’t miss this chance to fight for our people in the world,” Amy said.
+“I know, young one, but life is full of battles. You will not lack for opportunities to gain renown. Try to enjoy your youth, while it lasts,” Riva said in her most motherly tone.
+This tack was uncharacteristic of Amy’s mother, the most ambitious woman she knew. Amy wondered if something was bothering her mother. Perhaps the council did not expect the battle to go in their favor. Riva’s mother saw Amy’s worries written on her face.
+“Worrying won’t help anything, child. You will not be in danger aboard our ships, since they can jump to another system before being destroyed.”
+“Only if they are not being prevented from doing so by some alien technology.”
+“Prudent thinking, but your worries do us no good at this point. We are committed to battle, on the rising of the Amazon sun.”
+“Very well mother, I will see you on the hour.”
+Amy saluted her mother as the com screen became a plain mirror once again. Amy caught a glimpse of herself saluting before she returned to her bed, where she laid her black uniform the night before. As Amy looked at the uniform, she knew that it would be used in battle. There was no longer any question. 
+The future did not seem to bear down on Amy. Rather, it seemed like a door through which she had the opportunity to walk. It was a good feeling, and she was ready for battle.
+Then, Amy’s hands rushed up to her temples to meet a blinding headache. She could feel a vein in her forehead pulse rapidly as blood rushed around her pounding skull. Amy screamed.
+She had just seen the most horrifying vision she could ever recall. Amy saw herself, older, in a uniform similar to the one that lay on her bed, but she was beaten bloody, and covered with bruises. Amy saw herself in more pain than she had ever experienced, but she could tell that this was one of the visions that would certainly come to pass.
+Amy was too old in the vision for it to be the upcoming battle with the Machines. That battle was too close at hand to become a vision. This dream was terrifying. Amy saw herself surrounded by horrifying creatures which looked as though they might once have been Amazon… or perhaps human like Speed. The creatures themselves were surrounded by enormous, grinding machines which produced grisly weapons of tearing and burning.
+Amy heard the creatures shouting a word she had never known:
+Rolang!
+Rolang!
+Rolang!
+Amy had never seen such perversions of nature. They didn’t appear to have wills of their own, but each moved in big crowds with the others. In the vision, the crowd was gathering around Amy, forcing her into a corner. Then, all at once, they lunged at her shouting “Rolang!” at the tops of their gurgling voices, and the vision went silent.
+As Amy’s alarm sounded, she awoke, and realized that she had been dreaming. But, from the conversation with her mother, to her visions about Speed, Fiero, and the horrible human-like creatures, she remembered every detail. Even though Amy’s visions did not always come to pass, these were of a sort that she would never forget.
+Amy felt that if such things would happen, that it would be her job to guide future events along the path of good. She would have to watch over those two useless boys somehow, or at least warn them that the future might not be as rosy as the Amazons and Vampires planned. She hoped with all her heart that the battle ahead could be won.
+The Launching
+It was the largest gathering of Amazon ships that Amy had ever seen. Apparently her mother and the council had called in the fleets of the outlying colonies as well. There were nearly six hundred ships in all, with three large battlecruisers. Amy’s shuttle was flying from the planet below to one of these battlecruisers as Amy tried to predict what would happen in the battle ahead.
+Just as Amy’s shuttle was cleared for docking at one of the sleek, silver battlecruisers, which looked like enormous versions of her small, personal craft, the Vampire asteroids began jumping into the system.
+Green whirlpools formed in space where the Vampire asteroids emerged. Amy knew that such trips required enormous amounts of vapor, and for this trip, the Vampires would be donating that vapor in order to transport the combined fleet to the Machine central nebula.
+In fact, her mother Riva had been frustrated at the arrogance of the Vampires in assuming that they would command the Amazon vessels. Apparently Nero felt that he should be in charge of the battle, since his vapor-jump technology was making the combined fleet possible.
+Amy had heard that this dispute was resolved when the Amazons threatened to withdraw their participation. Amy doubted that the solution was that simple, but, however it happened, the Vampires were cooperating.
+Neither the Amazons nor the Vampires could afford to transport all of the outlying Amazon vessels, so the fleet was obliged to wait a full three Amazon years, or one Human year, for the fleet to be assembled at the Amazon homeworld, the closest major planet to the Machine nebula.
+Miraculously, the Machines had not attacked Amazon as the fleet gathered. Riva had confided in Amy that she believed them to be flying into a trap, that the Machines would surely have some secret weapon waiting in the central nebula.
+Amy couldn’t be sure, since her powers were useless against the minds of the machines. She often tried to project her mind into the nebula in order to get some idea of what they were planning, but Amy had only met with failure. How could she hope to penetrate the minds of machines which were not minds at all, and indeed seemed to be more dead than alive? The Machines were a mystery to Amy, a frightening mystery that could very well mean the end of her life as she knew it.
+Strangely, Amy had some luck occasionally contacting the drone battle moons, which were run by the robots Speed called GoodBots. Amy found contact with these robots uncomfortable, even painful, but it had yielded some useful information. For one thing, the robots did have independent minds, but they made big decisions as one group. Amy’s knowledge of this structure might prove useful in the battle, but she wasn’t sure how. 
+
+Chapter 9.0:
+ A Dark Day For Ship
+If Speed knew little about what had happened to the GoodBots in the meantime, Ship, his faithful ally may have known a bit more.
+Of course, what constitutes knowledge for a robot may always remain a mystery to human beings, except a small club of experts in artificial intelligence.
+Ship had sensors, and memory banks, and even a mission: to protect Speed, whom ship assumed to be the the last human, regardless of what other devices communicated via the interlink. The Interlink could no longer be trusted as a secure source of data. It had been compromised by this other, darker Interlink, this group of Machines which were not totally mechanical. 
+Something besides GoodBots was in the cloud.
+Upon receiving his first instructions from this new, dark source of information, Ship had immediately seen that the data was corrupted by another force. There was random and backwards data mixed with the pure scientific data collected by the GoodBots. If the data itself had been corrupted, then who knows what could have happened to the GoodBot programming.
+Still, Ship concluded that GoodBots, by their very wiring, do not act unless there is a human involved at some level. So, to determine who this human was--or perhaps there was more than one?--Ship set a course for the source of the transmission: a nebula.
+Ship flew cautiously, since the nebula was full of machines he did not recognize. They were flitting about, in perfect rhythm, and shining bright red lights out into space. Ship’s processing units speculated that these must be sensors of some type. There seemed to be no way of getting to his fellow GoodBots without crossing the paths of these strange machines.
+So, Ship refreshed his random access memory and set a course directly for the center of the nebula.
+What Ship did not know what that he was being followed by his former GoodBot friends...
+
+Chapter 10.0: 
+The Final Battle
+Although Speed knew that he, Amy, and Marcus were not officially part of the battle, Speed felt that there must be some way to contribute to the battle besides feeding Riva information about the GoodBots.
+Since Speed did not know exactly what they would do, Amy’s ship flew in circles at a safe distance away from the battle. The combined Amazon and Vampire fleet was huge. Speed hoped it would be big enough to execute the last-ditch effort of colliding ships and asteroids with Machines.
+“Listen,” Amy said, “We outnumber the machines two to one, and it looks like they’re in a defensive posture. You’re the one who insisted we come along, so why don’t you find some way to help in the battle.”
+“I still don’t think there’s any reason for us to be here,” Marcus said.
+Riva had reluctantly allowed Marcus out of his forced stay on Amazon. Amy convinced Riva, after her disturbing visions, that it would be a good idea to have some collateral in case the Vampires betrayed them. The creatures she saw weren’t Vampires, but she wanted to keep an eye on Fiero nonetheless.
+“I don’t know about you two, but ...” Fiero’s whine was cut off.
+Riva’s voice of command penetrated throughout the fleet.
+“Approaching the Central Nebula. Prepare to engage the Machines.”
+Speed thought her commands short and to-the-point, a quality he had come to admire over the past year.
+At that instant, what seemed to be a defensive Machine posture reversed itself into a wedge-shaped group of ships which drove directly into the Vampire side of the fleet. Although the two fleets were working well together, the Vampire asteroids were less maneuverable than the sleek Amazon ships. It had been decided that the Amazons should engage the Machines in close combat while the Vampires built up to ramming speed.
+The result of the driving wedge was that the asteroids moved quickly, but spiraled out along the path of the machines, effectively separating themselves from the Amazon forces. The machines had divided the two forces, allowing the Vampires to be flanked by the remainder of the machines.
+The Vampire asteroids were beginning to be picked off, one by one, by small groups of  Machines, and the Amazons were too far away to help.
+The organization demonstrated by the machines was devastating, and unlike anything that had been seen in the swarm tactics of past battles. Something had indeed changed about the machines. They were thinking.
+Worse, they still hadn’t seen the huge GoodBot battle moons predicted by the Amazon spy ships.
+Amy’s ship picked up a transmission from the Amazon fleet. It was Riva. Amy couldn’t believe how  quickly the battle was moving. Good or bad, she could see that it would be over in a matter of minutes. Amazons, Vampires and Machines were being destroyed all around her. Amy piloted her small vessel as though her life depended on it. It did.
+“We have to strike now, while the Machine nebula is undefended,” Amy announced to her two companions.
+Speed could see that the nebula was not exactly undefended, but was as close as it was likely to get. The hypnotic pulsing of the nebula was maddening.
+“This is our chance to help,” Amy said to Speed and Fiero.
+The Amazons had formed an attack wedge of their own, and were ready to drive deep into the nebula. If the attack failed, it would mean the end of the battle, Riva would certainly be captured, and the Vampires would be forced into retreat. The failure of the attack would eventually mean the destruction of both Amazon and Vampire civilization.
+“We’ve got to get those asteroids into the fight. The Amazons can’t do it on their own,” Fiero chipped in.
+Amy flew her ship directly into a pack of dragons.
+“Attention Vampire forces, the Amazons are driving deep into the nebula, but they need defensive forces on their flank! Follow me!”
+The vampires, having been driven into chaos by the Machines, assumed that Amy was an Amazon commander. They regrouped behind her vessel and followed her toward the nebula.
+Fiero nodded to Amy, who flicked a command with her wrist. The hatch above Fiero opened, helmets protecting Speed and Amy from the vacuum of space. To Speed’s astonishment, Amy allowed Fiero to transmute into his dragon form, to join the Vampire forces around them.
+The sleek vessel led a spiraling wing of Vampires to assist the Amazon attack force. 
+Then, suddenly, they all found themselves within the nebula, headed straight for the pulsing center. To their surprise, the defending machines did not seem to be attacking. The whole thing felt like a trap to Amy, but she knew that this last ditch effort was their only hope for victory.
+At the center of the nebula, there was an enormous black planet. Speed thought it might be made entirely of nickel, iron, or some other common space metal. Still, for an entire planet to be made of metal was unique in his experience. Orbiting the planet was the triangular prism which speed knew in his gut was home to the leader of the Machines, the Vagus.
+The metallic voice of the mysterious Vagus whispered out through space.
+“The forces of the void may now attack. Your bodies belong to the Void.”
+Then, all the defending machines jumped into the space around them, causing everything around the dragons and the small Amazon fighter to ripple. The jump was disorienting to say the least.
+Amy screamed. “I can hear them! The dragons are being killed.”
+“We have to hit the Vagus!” Speed screamed.
+Amy gathered a few remaining dragons while the Amazons aimed for the planet below, which was continually spitting out new Machine vessels. 
+Speed felt there was something very familiar about the Vagus’ voice, but he still couldn't place it...then he had a flash of insight. The tactics were very similar to a MoonBall match Speed had played. In fact, it was the most challenging game he had ever played. To win, they had to lure his opponents into believing that Speed was tired, when in fact he was getting ready for the final drive.
+With terror, Speed realized that their attack force had indeed been lured into a trap by the Machines, but they had no other choice but to see it through. If they turned around and ran, they would be hit by the machine forces in the larger battle surrounding the planet, which was clearly going badly.
+Then, like a ton of bricks, Speed remembered where he had heard that voice before. It was like watching a movie and suddenly realizing where he had seen an actor before. Everything came together: the human behind the GoodBots, the new tactics of the Machines. Speed wasn’t the last human at all...
+It was Coach!
+At that moment he heard a deep resonating laughter emanating from the dark, shiny prism.
+“Oh ha ha! You forgot the most important rule, Speed: be aggressive!” 
+Then a feeling of utter fear and dread came over Speed. He didn’t know how it had happened, but he was fighting his own mentor and hero. He was fighting Coach.
+“It doesn’t matter how hard you try, Speed, if you’re not willing to attack!”
+Deep down, speed knew that the fleet had to attack, to throw everything they had at the floating obelisk, but he also heard his mother’s words.
+“See the big picture, Speed.”
+But what did the big picture have to offer them now? They were all about to be destroyed! Checkmate was approaching, if not already upon their combined fleet.
+“Fly us directly into that structure. We’ve got to take out the Vagus. He’s human. He can be killed!”
+Dragons regrouped around Amy’s craft, and they all began to spiral directly toward a gate-like opening in the obelisk.
+The obelisk itself was big and imposing, but there didn’t seem to be much to it, except for a chamber accessed by several different openings to space.
+Battle Moons and machines were rocketing towards them at breakneck speed, when they realized that the Vagus itself was under attack.
+“You’ll never make it, Speed, but it’s a good effort,” his former coach intoned, laughing madly.
+“How does The Vagus know your name? Never mind. He’s right. We’re not going to make it. Those moons and machines are going to hit us way before we get to The Vagus.” It was Amy, beside him. Speed was losing hope, even as the Vampire asteroids began to collide with the evil Machines, destroying them, the advanced GoodBot battle moons were tearing holes in the Amazon line of ships. They had lost over half of their forces, and Speed was losing hope.
+Speed saw his mother’s face, and realized that he too would soon be killed.
+Then Speed heard another familiar voice. The voice was deep, booming, and loose bits of his suit vibrated with the sound. At first, Speed thought he imagined it, but no, it was really … Ship!
+“Last Human, you are in danger. GoodBots are here to help. I am transmitting your bio data to the GoodBot fleet.”
+Then, in unison, Speed was deafened by similar voices among the GoodBot moons. 
+“DATA RECEIVED! GOODBOTS ARE HERE TO HELP!”
+Speeds ears were ringing, and Amy threw her fingers up to her head to relieve the pain.
+At that moment, every enormous GoodBot battle moon began firing oversized lasers and rockets at the Machines, releasing a hail of ammo into the space immediately around them.
+There was no contest. The Machines could not fight off all of the other races at once. The battle was turning against Coach, and for once, Speed felt in control.
+The Vagus, enraged, transmitted attack orders to the GoodBots on all channels, but now it was too late.
+Amy engaged the flame wall around her craft, and, as the dragons took off for safety, the little ship shot directly into one of the entrances of the obelisk.
+In the viewscreen, Speed saw what he could only describe as a devilish figure, somehow split into two images. One was his coach, and the other resembled a horrifying version of the creature they had unwittingly carried to Amazon, so long ago. This creature seemed to be something that wasn’t there, and yet took up space around his coach. 
+They were approaching the Vagus fast, weapons blazing.
+As the vision of Coach passed around him, a terrific explosion rocked the inside of the obelisk, and it cracked in two with a bang. Spirals of green and red flames arced out through space in concentric circles.
+Miraculously, Amy’s craft held together, as though it had flown through the eye of a great, Amazon dust storm.
+
+
+Chapter 11.0:
+ Reunions
+“Wake up, Last Human.”
+“Ship! What on earth happened?”
+“We are not on earth, Human. We are on our way to Amazon.”
+“Oh.”
+Everything that had happened flashed back into Speed’s head. The loss of his home. The moon colliding with the earth. Space battles. Amy and Fiero. Quickly, Speed collected himself.
+“Nevermind that, Ship, what happened? How did we defeat the Vagus?”
+“The GoodBots eliminated the threat to the last human.”
+“But why were the GoodBots fighting us?”
+“I was not part of the Interlink which was fighting against you. The Interlink was under the impression that the creature you called the Vagus was the last human. I transmitted data about your existence to them, and their program was … corrected.”
+“Well, if the Vagus was my coach, and my coach was human, why did they side with me?”
+“When I joined with the Interlink, it realized that you’re bio data was … more human.”
+Ship was demonstrating the odd behavior--deep buzzes and beeps--that showed more was going on under the hood.
+“Last Human, the GoodBots are under your command now.”
+Speed looked from his hospital bed within Ship out the viewscreen. He realized then that the hundreds of battle moons which had been manufactured by the machines were flying in formation around his tiny craft. Within the formation, he saw Amastra’s ship and Prince Fiero in dragon form flying swiftly to keep up.
+“What are your orders for the battle moons? Shall we continue to Amazon?” Ship boomed.
+“No. We’re going to earth.”
+The hundred or so huge battle moons, each bigger than an Amazon battlecruiser, crowded around the tiny vessel, ready to help the Last Human, wherever he went.
+
+
+Epilogue:
+ The Ones Who Lived
+Far away, where once there had been a peaceful planet with her crater-pocked moon, there was now an enormous cloud of debris. The collission had rocked the entire solar system, and climate changes were felt from Mercury to Neptune.  
+Earth itself had been torn in two by the impact of the moon. If the moon had simply fallen to earth, it would have put a hole in the surface, and scraped much of it away, creating several new moons. Instead, the moon was driven to earth by enormous engines on a magnitude only a robot mind could devise. Carefully calculated destruction had cut the big planet in two.
+The two pieces of the earth drifted together, roughly in the same orbit that the earth had once occupied. They rotated around each other in gravitational union.
+Both half-planets carried something their previous occupants only imagined in their nightmares: creatures which only vaguely resembled their forefathers. Normally such a malformed race could never have survived on its own, but the GoodBot technology, now abandoned by the GoodBots themselves, remained on the remnants of earth. Some of it was functional.
+Of this technology, the neural 3-D printers created by the GoodBots to fulfill human needs had allowed the creatures to survive… and thrive. They wouldn’t have been able to program anything themselves, but the 3-D printers used their emotion and visions to create terrible, terrible devices of both survival and destruction.
+Amplified throughout the galaxy, everyone would soon hear their gurgling cry of terror:
+“Rolang!”
+“Rolang!”
+“Rolang!”
+
+
+Afterword:
+ From The Author
+Dearest Reader, 
+	Speed couldn’t have made that journey without you.
+I wanted to thank you personally for reading Battle Moon 2075: Ramming Speed. You are the peanut butter to my grape jelly. 
+No story is ever complete, and it is never told the same way twice. I may not be able to respond to every email, but I will personally read emails sent to social@paralarc.com with the subject “Ramming Speed.” If you found spelling or grammar errors, plot holes, or inconsistencies in this book, we invite you to participate in the ongoing editing process to make Ramming Speed the best book possible.
+Also, look for me and Paralarc on Facebook. You can never have enough friends.
+For those of you who want to see where Speed winds up in the next book, I invite you to keep Googling “Battle Moon 2075.” There’s going to be a sequel soon, but you never know what else might crawl out of the Interlink.
+Thanks,
+Harvey
+This Page Intentionally Left Blank
+
+

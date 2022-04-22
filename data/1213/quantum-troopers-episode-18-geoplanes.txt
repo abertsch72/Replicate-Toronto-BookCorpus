@@ -1,0 +1,822 @@
+Quantum Troopers
+Episode 18:  Geoplanes
+Published by Philip Bosshardt at Smashwords
+Copyright 2016 Philip Bosshardt
+Smashwords Edition, License Notes
+
+This ebook is licensed for your personal enjoyment only.  This ebook may not be re-sold or given away to other people. If you would like to share this book with another person, please purchase an additional copy for each recipient.  If you're reading this book and did not purchase it, or it was purchased for your use only, then please return to Smashwords.com and purchase your own copy.  Thank you for respecting the hard work of this author.
+
+A few words about this series?.
+
+*** Quantum Troopers is a series of 15,000- 20,000 word episodes detailing the adventures of Johnny Winger and his experiences with the United Nations Quantum Corps.
+*** Each episode will be about 40-50 pages, approximately 20,000 words in length.
+*** A new episode will be available and uploaded every 3 weeks.
+*** There will be 22 episodes.  The story will be completely serialized in about 14 months.
+*** Each episode is a stand-alone story but will advance the greater theme and plot of the story arc.  
+*** The main plotline: U.N. Quantum Corps must defeat the criminal cartel Red Hammer's efforts to steal or disable their new nanorobotic ANAD systems. 
+*** Uploads will be made to www.smashwords.com on approximately the schedule below:
+
+Episode #	Title					Approximate Upload Date
+1		'Atomgrabbers'			1-14-16
+2		'Nog School'				2-8-16
+3		'Deeno and Mighty Mite'		2-29-16
+4		'ANAD'				3-21-16
+5		'Table Top Mountain'			4-11-16
+6		'I, Lieutenant John Winger?'	5-2-16
+7		'Hong Chui'				5-23-16
+8		'Doc Barnes'				6-13-16
+9		'Demonios of Via Verde'		7-5-16
+10		'The Big Bang'			7-25-16
+11		'Engebbe'				8-15-16
+12		'The Symbiosis Project'		9-5-16
+13		'Small is All!'				9-26-16
+14		''The HNRIV Factor'			10-17-16
+15		'A Black Hole'			11-7-16
+16		'ANAD on Ice'			11-29-16
+17		'Lions Rock'				12-19-16
+18		'Geoplanes'				1-9-17
+19		'Mount Kipwezi'			1-30-17
+20		'Doc II'				2-20-17
+21		'Paryang Monastery'			3-13-17
+22		'Epilogue'				4-3-17
+
+Chapter 1
+"Fault Zone"
+
+
+Palawan Beach, Sentosa Island
+Singapore
+August 20, 2049
+1045 hours (U.T.)
+
+It was a beautiful summer morning on Palawan Beach as hundreds of children, families, sunbathers and beachgoers gathered for another day in the tropical sun.  Miles of white sand, laced with gently swaying palm trees and the occasional beach bar invited the indulgent to relax and enjoy the turquoise waters of Palawan Strait and follow the masts of the container ships on the horizon, maneuvering to enter the navigation channel and the harbor.  
+Shortly before eleven in the morning, amidst the jetskiers and the windsurfers, a child came splashing out of the waves, shrieking and screaming at the top of her lugs, gesturing at something in the water.  Sentosa hadn't had a shark or dolphin sighting in years, but that wasn't what had so frightened the child.  As a few adults gathered around to sweep up the little girl and try to calm her, one of them pointed to a rising hump in the waves, a hundred meters off shore.
+"Tsunami!" someone cried.  Indeed the building wave did at first glance resemble the surging wall of seawater that presaged an oncoming tsunami.  But it wasn't a tsunami.  The growing bulge in the water was only a few dozen meters broad.
+"A whale!" someone else cried.  There did seem to be a pronounced hump to the swell of the waves as the thing that had frightened more than one child continued to grow.
+"It's a giant sea turtle?that's what it is!" another adult decided.
+By now, the broad glistening back of something big was unmistakable.  It breached the surface of the ocean in an explosive spray of water and steam, then rocked on its side and made steadily for the beach.
+Sunbathers and families scattered in terror.  A Beach Patrol officer opened fire with his sidearm, to no affect.  Jet skiers fled the area, arcing rooster-tails of spray behind them.  Windsurfers kicked off their boards and paddled frantically for shore.
+The beast plunged through the surf line and rode over the tops of hissing breakers, then drove itself up onto the beach.  It looked like a giant armored beetle, maybe twenty meters in length, rounded on top, clad in some kind of metallic shielding.  The beetle sported a hardened carapace on top, which now gleamed in the humid morning air, as it shed curtains of water off its sides and back.
+It wasn't a tsunami.  It wasn't a whale.  It wasn't a sea turtle.
+It was geoplane Mole.
+Suddenly, a hatch clanked open toward the rear of the beast.  A head popped out, blinking hard in the strong sunshine.  
+"Good morning," smiled Johnny Winger.
+
+Singapore Base was a miniature replica of Table Top itself, complete down to the Containment Facility, the Sim and Wargaming center, the Ops quadrangle and the lift pads.  Only the snowy peaks of Buffalo Ridge were missing, replaced with palm trees and mangrove stumps and the strong smell of salt air.   The languid tropical waters of the Selatar River slapped wooden piers near the lift pads as the weary, bedraggled detachment dismounted from the crewtrac.  The vehicle had picked up the Tectonic Sword crew from Mole and driven them across the city to Quantum Corps Eastern Command's base.
+In the eastern sky, orange fingers of midday sunlight probed puffy cumulus clouds.  Thunderstorm clouds were building to the south, boiling out of the tropics over the southern end of the Malay Peninsula.  Torrential rains were only a few hours away.
+Colonel Sanjay Singh was the base commander at Singapore.  A doughty sunburned Indian Sikh, Singh sported a luxurious, probably non-reg moustache with tight curls at the ends, which he absent-mindedly twirled as he talked.  His face was like weather-beaten leather and his grip in a handshake was bone-crushing.
+"Welcome to the East, Lieutenant," Singh greeted Winger and the bedraggled assault team from Mole.  "Your arrival here was somewhat, shall we say, unusual."
+Winger apologized for that.  "We were stalked by a Chinese submarine all the way from Hong Kong."  He described the game of hide and seek that Mole had played with the Ming-class attack  boat.  The geoplane had trundled across the seafloor of the South China Sea for hundreds of kilometers, hiding in ravines, between hills and seamounts, playing dead, always alert for the sub to pounce like a stalking cat at any moment.  "Once we reached Malaysian territorial waters, a UNISEA sub showed up and chased them away.  We rode in along the seabed all the way to that beach."
+Singh smiled ruefully, offering strong coffee and a few trays of sweets to the team.  "I'm afraid you'll be the top story on our news vids today.  And your Major Kraft is conferencing in to my office in ten minutes.  Perhaps, you'd like to freshen up?"
+Winger, Galland and the rest of the Tectonic Sword detachment took Singh up on his offer.  A short while later, he and Galland were ensconced in Singh's office when Jurgen Kraft's head-avatar materialized like a djinn on the pedestal atop Singh's rattan desk.  
+Kraft scowled at the appearance of his two commanders.  "You two look like you've been in the wash and rinse cycle for a week."
+Winger described what had happened to the detachment.  "We made a rubble pile out of Lions Rock, sir?that phase of the assault went just like the plan. Got the pulser emitters and the control system and made broccoli out of their scope works.  It'll be months, maybe years, before the Rock can be restored, if Red Hammer even tries."
+Kraft nodded severely.  "You also set off a week of tremors all across Hong Kong and the Pearl River delta.  A few dozen fatalities in the city, some buildings damaged and the Chinese are plenty suspicious.  But satvid confirms your story: Lions Rock is gone.  Q2's getting chatter from plenty of intel sources that the cartel is pissed and looking to strike back."
+"We were damned lucky, sir, to get out of that area alive.  Our first escort sub was torpedoed by the PLA Navy.  And we were trailed and stalked by a Ming-class attack boat most of the way south.  What about the killsats, Major?"
+"Under UNIFORCE control, Lieutenant.  When the pulsers went down, our own onboard ANAD systems were able to regain control of all satellites.  The cartel couldn't deploy swarms or bollix up our swarm configs without the pulsers.  Based on that, I'm reporting to UNSAC that the mission was a success, though not without some complications."
+Winger started to relax but Kraft went on.  His face grew darker.
+"Your 'complications' have become a bit more critical, Winger, since you left Lions Rock.  It appears now, according to Q2, that Red Hammer has somehow acquired plans and has built at least two geoplanes of their own."
+Winger was incredulous.  Galland swore under her breath.  "Major?that can't be?can it., sir?"
+Kraft nodded glumly.  "They must have had an agent inside Table Top.  Q2 is investigating and tracking several suspects?one of them is Clint Murchison."
+"Murchison?  The project engineer?the guy from Texas?"
+"The one.  And that's not all.  Just last night, strong magnitude 6 and 7 tremors and quakes have struck three cities: Paris, Moscow and Tokyo.  Only Tokyo has any history of seismic activity over the last six centuries."
+"Red Hammer, sir?" Galland asked.  She sipped at her coffee.  Suddenly, the brew tasted cool and rancid.
+"We weren't sure," Kraft admitted, "until the communiqué came this morning, at UNIFORCE Paris and at the UN in New York.  The cartel's threatening even more destruction with their new geoplanes and seismic swarms?in Paris, the Eiffel Tower is closed, but still standing.  Hundreds of commuters are trapped belowground in Metro stations.  Same in Tokyo.  In Moscow, one whole wall of the Kremlin fell into the Moscow River-" Kraft sent them vid image after vid image of the scenes.   "It's the same in all three cities.  Somehow, Red Hammer can now loosen enough rock strata with their swarms and geoplanes to create earthquakes on demand."
+Winger rubbed his tired eyes.  He needed about a week's rest, but that didn't look likely.  "What about this communiqué, sir?"
+"Ah, yes?their demands and conditions-"  Kraft scanned the report, rattled off the details. "-UNIFORCE to be disbanded and that includes Quantum Corps and Boundary Patrol.  The cartel wants a seat on the Security Council.  Oh and a couple of trillion yuan?about ten trillion dollars at current rates.   In other words, they're holding most of the planet's major cities hostage for a ransom."
+Galland stabbed the air with her finger.  "New York's the big prize.  I'm willing to bet on it.  It's UN headquarters."
+Kraft shrugged.  "Maybe.  Q2 thinks even Table Top could be threatened.  We've only got so many geoplanes?six in all.   They can't be everywhere.  Winger, Galland, get back here as fast as you can.  I've already re-routed a hyperjet to Singapore.  It should be there in four hours.  I've already got UNIFORCE tasking for a mission.  You'll be working with Boundary Patrol."
+Galland rolled her eyes, though she made sure Kraft couldn't see that.  "Fabulous, sir.  Even more time under tons of rock."
+"Can you give us any mission details, Major?" Winger asked.  
+"They're still being worked out, Winger.  I'll squirt them to you on the trip back.  Kraft, out."
+Colonel Singh was idly twisting the ends of his moustache.  "I've already got my crews working on Mole now?we'll have her shipshape and ready to dive in another day.  You two really put her through the wringer at Lions Rock."
+Winger sniffed.  "That's what subterranean ops are like.  You get pretty beat up burrowing through millions of tons of rock.  Now, if Red Hammer can do the same-"
+Galland just shook her head.  "Wings, I'm not sure we're ready for combat half a kilometer belowground?it's too dangerous."
+"We don't have a choice, Gabby?not if the cartel can set off tremors on demand.  If we don't engage them and deny them the ability to operate there, no city or town on Earth will be safe.  They could lay waste to half the planet."
+Singh clapped his hands.  "Well, this won't be solved in my office.  You two go get some rest?that's an order.  I'll see you're awakened before that hyperjet touches down."
+
+The Officers Club at Singapore Base was done up like a traditional Malaysian kampong, complete with thatch roof and palm tree beams.  It was open at the back, where the bar curved away, giving onto a deck surrounded by a thicket of mangrove and pandanus vines, and the steady rush of the river behind that.   A wooden pier had been built right from the back door out to the river's edge.  Strollers had a good view of all the junks and sampans and assorted riverine craft and stilt houses that populated this stretch of the waterway.
+Winger and Galland found a corner of the bar by the door to the pier and ordered up a couple of local beers.  They both spied another patron at the other end of the bar, alone, nursing a potent brew of something vaguely Indonesian in a long-stemmed goblet.  He scowled down into his drink, seeking wisdom in the reflections of the amber liquid.
+"My God," Galland muttered.  "He looks like Oscar Mendez?but that can't be."
+Mendez and the crew of Prairie Dog had been lost on a Boundary Patrol mission somewhere below the Zagros Mountains of northern Iran.
+Winger agreed. "Superficial resemblance.  I've been thinking about Oscar too.  The investigation turned up nothing."
+"Yeah, not surprising when all the evidence is a few thousand meters underground.   We may never know what happened to those poor guys."
+"I liked Mendez," Winger said, sipping at his beer, "but he could be an ass sometimes.  The very picture of military bearing?Quantum Corps' answer to Custer.  A giant among men.  A dashing leader, always looking out for his troops' welfare.  Steadfast commander--let's see, have I missed anything?"
+Galland sniffed at her beer.  "I'm detecting some?how should I say it??some residual animosity between you two.  No respect for a fallen comrade, huh?"
+"I respected him but I never trusted him.  He was in the Corps for all the wrong reasons."
+Galland seemed to consider that.  "I see.  And what, in your opinion, Lieutenant Winger, would be the proper reasons?to be in the Corps?"
+Winger chugged on his brew.  "The usual recruiting poster stuff, I suppose.  Duty, honor, adventure."
+"And you?"
+Winger shrugged.  "I don't know?I guess I was stuck, going nowhere.  I needed a change."
+"And from what, exactly, did you need a change?"
+Winger hadn't really given it a lot of thought lately.  "It was right after Mom died?car accident.  That was last year.  It hit us all hard, Dad especially.  He just kind of withdrew from us.  Shrank into himself.  Me and my brothers and sisters started running the place, the North Bar Pass Ranch, that is.  Pueblo, Colorado."
+"Your father?he was-"
+"-clinical depression?bipolar?whatever you want to call it.  Just moped around in his lab, back in the barn.  Tinkering.  He always liked to tinker."  Winger half smiled.  "Me too, I guess.  I got it from him.  Anyway, I was stuck at the ranch and we'd already had to sell part of the property to make ends meet.  Developer came along, took a third of the range and re-named it Highhorn.  Made it a fake ranch, for the city folks.  After that, you didn't see anything but billboards, and para-sailers and little clone ponies?makes me sick to talk about it."  Winger stared down into his beer, swirled it with a finger and licked the frosting off.  "I saw this story on the Net about a new force, a kind of combination military and police force, set up by the UN, trying to deal with small things, I mean, really small things.  Viruses and plagues and nanoscale threats and such.  That was right after Dad got the patch treatment and he was getting better, see.  But I was just tired of ranch work, tired of seeing city jerks para-sailing over the Front Range, tired of everything.  I wanted to get out, I suppose, see the world, get some kind of education.  Besides-"he looked over at Galland a bit sheepishly, "-I kinda liked to tinker.  So I joined up."
+"So here you are, in Singapore, fighting rogue nanobots and, having a beer with an overweight Scotswoman who loves her own brew too much."  Galland winked at him.
+"Yeah," Winger nodded.  "Here we are."  He looked up, caught Galland's eye.  "When we were in Colonel Singh's office, you said something about us not being ready for combat ops a thousand meters belowground."
+Galland sighed.  "Think about it.  We're burrowing around like?moles, prairie dogs, badgers, with tons and tons of rock on top of us.  There are faults and seams all over the place.  We use ANAD bots in our borers and just drill through without a care in the world.  It's damned risky, Wings.  It's not a good medium for combat ops.  One mistake, one little tectonic plate shift and you're toast."
+Winger gave that some thought.  "So what's so different about subterranean ops?  We fight in submarines.  The ocean can kill you in a heartbeat.  We fight in the air?you can die in an instant up there.  Same with space.  Even on land."
+"I know?but I just think we need to be careful, even a little sparing, in how often we go burrowing around underground.  It's a dangerous medium and combat doesn't make it any less dangerous."
+"No argument from me?we may never find out what happened to Mendez and Prairie Dog.  The investigation's still going on.  But there's one thing you're forgetting, Gabby."
+"Yeah?  What's that?"
+"Red Hammer's already down there.  In any conflict, the enemy gets a vote.  They've got ANAD-style bots.  They've got pulsers?to create swarm configs at a distance.  Now, they've got geoplanes.  They're shaking up cities around the world.  We've got to engage, any way we can.  We don't have a choice."
+Galland glumly finished off her beer.  "I guess you're right.  But it still doesn't sit right with me.  We're tempting disaster.  It's already happened with Prairie Dog.  It almost happened with Badger on the way to Lions Rock.  I don't mind telling you, when Badger went sliding down, just like with Mole on the test ride, my heart did backflips.  I thought we were done for?both times.  Maybe that's the right tactics?send geoplanes out in pairs, buddy-style.  One can back up the other, help out in an emergency."
+Winger was already gathering up his gear.  "You may be right.  We're writing the tactical manual as we go?that could be lesson number one.  Come on?we've got a hyperjet to catch."
+The two 0-2s left the Officers Club and trotted off to the departure lounge. 
+Hyperjet Charioteer had just landed and was already headed for the hangar.
+
+  Scooter's treads started up with a screeching clank and a blue-white glow soon enveloped the nose of the ship as the borer lens came fully online.  The cylindrical geoplane huffed and shuddered as she motored forward on her treads, clambering over piles of rotted logs and trash piles from a nearby landfill and across the three-meter ledge that marked the berm surrounding the parking lot.  Down a steep hill and through a screen of trees, the Paramus Mall below them shone hard and bright even early in the morning mist.   Scooter started her descent, angling nose-first toward the ground.  
+Fifty meters deeper into the woods, her sister geoplane Armadillo did the same.
+Operation Tectonic Shield was underway and Johnny Winger was onboard Scooter, assigned as DPS1, a bit of a comedown for Quantum Corps' top code and stick man.  But this wasn't Quantum Corps.  Boundary Patrol needed good atomgrabbers, troopers with ANAD smarts and Major Kraft had 'volunteered' Winger on that basis.  Even worse, Lieutenant Galland had been given the CC's role and was in command of Scooter.
+Winger swallowed his pride and concentrated on checking the status of Scooter's weapons suite for the hundredth time.
+Inside the command deck, Galland gave directions to Corporal Strakes, the Detachment's DSO1 (Driver/Systems Operator).  Pressing a few buttons, Strakes manipulated the borer that formed a huge dish-shaped nose on the geoplane's bow.  Inside the borer, actuators fired to release the ANAD swarm contained there.  In seconds, the outer surface of the dish was thick with nanoscale disassemblers, forming a shimmering half-globe around Scooter's nose.  Like a single huge blue-white headlamp, the dish and its halo of mechs formed the geoplane's working surface for subterranean operations.
+"Let's go digging," Galland said.  "Head for that fissure and contact Ops? tell 'em we're going under."
+Strakes complied.  "Turning left, heading now? one three five degrees.  Depth is forty five meters, five degrees down angle."
+"Borer coming on line," Sergeant Vic D'Amato reported. D'Amato was the Borer Operator, BOP1 for the Detachment.   He scanned his instrument panel, reading swarm density, alignment and other parameters.  "Bots are ready to bite-"
+Scooter and Armadillo were a team, now both burning their way down into the hard gneiss and quartz zone that lay below New York City's boroughs.  The mission was simple: patrol and defend, engage as needed.  Nobody knew if Red Hammer had geoplanes or enemy swarms in the area but Q2 thought it likely.  The UN was in New York.  New York was the prize.    
+Two Boundary Patrol geoplanes were assigned to patrol belowground, crisscrossing the New York region, sniffing, listening, probing and hunting.  If the cartel showed its runny little nose anywhere the geoplanes could reach, it was Tectonic Shield's mission to make sure that nose got bloodied but good.  
+Scooter slowed down as a fissure of igneous rock approached, then a high keening wail could be heard through the hull, as the borer bit into the rock.  The geoplane shuddered as she decelerated.  Outside the command deck, unseen by the six-person crew, Scooter's nose buried itself in a shimmering blue-white fog as the borer revved up and uncountable trillions of mechs tore at the rock.
+D'Amato licked his lips nervously, reading his instruments.  "Coming back mostly quartz and pyroxenes, with some sandstone mixed in.  Lots of sedimentary stuff.  Bots should eat this stuff up."
+The geoplane plunged into the tunnel created by the borer, angling nose down as she bit deeper into the side of the fissure.
+Scooter's instrument panel showed the results of acoustic sounding, displaying rock layers on a graph, with temperature and pressure readings all around the graph.  Borer status was displayed as well.
+"Looking good," Strakes muttered.  "Borer configured for quartz and pyroxenes?ANAD's chewing through at a rate of two point five kilometers per hour.  Treads are functioning fine."
+"She's a real hot rod?let's try some basic maneuvers," Galland suggested.  "Scooter's never had a proper shakedown cruise."
+"Aye, ma'am--" Strakes turned the stick to port and Scooter initiated a shallow left-hand bank.  The command deck listed slightly, then stabilized.  For the next few minutes, first Strakes, then Galland took turns putting the geoplane through a series of turns, dives and climbs.  Galland held her breath the whole time. 
+Finally, she began to relax her grip on the stick slightly, trying to forget they were now hundreds of meters below ground.
+"There's a layer of basaltic rock a few klicks south of here," she remembered.  "It's nearly a kilometer down.  We should see how Scooter handles there.  Sergeant Stivik, anything yet?"
+Sergeant Stivik was the SS1, Sensors and Surveillance Technician.  "Nothing yet, Lieutenant.  I'm scanning all bands?EM, thermal, acoustic, quantum?.some plate shifting, crustal grinding?that's about it."
+"Very well."  Galland programmed a new heading into the tread control system and Strakes steered them southeast on a heading of one two five degrees, roughly paralleling the folded belt of ancient sedimentary rock that extended from the Catskills alongside the crystalline core of the Appalachians.  Acoustic sounding soon showed the geoplane was entering harder, denser rock layers.
+"Shales," Sergeant Liu Zhi muttered.  Zhi was GET1 for the Detachment, the Geo Engineering Technician.  From earlier briefings with Boundary Patrol geologists, she knew the layer was sheeted with hard slate and mica, compacted over millions of years by glaciers and the overriding Appalachian mountain range.  "Nothing to worry about?just sit back and enjoy the view."
+Galland snorted.  The only view they had was of the inner pressure hull of the geoplane.  Even as she watched, she imagined that she could see the compression of Scooter's interior frame under the millions of tons pressing down on them.
+"Sounding ahead?" Stivik reported.  "Your depth is now four eight eight meters.  Signal distortion coming back?it's probably the shale zone."
+Strakes shoved the control stick forward.  "I'm going a little deeper?see if we can plow through some of that quartzite."
+Galland was dubious.  She studied the sounding profile.  "Just don't push Scooter too hard, okay?  Let's don't press our luck on the first run.  I'm showing discontinuities dead ahead?some kind of boundary layer, maybe."
+"Inclusion zone?  Maybe it's the quartzite."
+Zhi shook her head.  "It looks more like a fault, maybe a transform fault.  The geos said there were fracture zones north of the Bight."
+Scooter angled slightly downward and slowed, as the borer swarm bit into denser rock.
+"Cabin temps going up," Strakes reported.
+"Acknowledged.  Those mechs are working overtime up front, making us a tunnel.  I-"
+Galland's last words were cut off as Scooter shuddered violently.  For a brief moment, there was an unmistakable sensation of sliding, sliding sideways and downward.  Almost at the same moment, something hit Scooter's nose with a sickening crunch and the geoplane shuddered again and ground violently to a halt.  The cabin tilted to port and stayed tilted.  
+Scooter's cabin was deathly still for a few moments, then the creaking and groaning of the hull under tremendous pressure started.
+"What happened?" Galland asked, wincing as the tortured sounds of the hull being compressed grew louder.  "Get Armadillo on the line?see if they're okay."
+Strake scanned his instruments nervously.  "Borer is offline.  I'm getting no responses from the forward module?pressure drop in containment?we may have a breach."
+"Great," Galland muttered.  "Just friggin' great.  And it looks like we've got a breach in the pressure hull too."
+"I see it?cabin air pressure fluctuating?we'd better activate emergency flasks, just in case."  Strakes toggled a few switches and immediately, high pressure air began flooding all compartments.
+Zhi was studying the acoustic sounder, replaying the last few moments before the-what exactly had happened?  An accident?  "Lieutenant, I'm not sure but I think we may have created our own earthquake."
+"What?  That can't be?can it?"
+Zhi went over the soundings again.  "We were approaching some kind of discontinuity-see right here?"  She pointed to the display.  "Like a layer or inclusion zone.  Remember when the geos told us there were some transform faults and fracture zones around this big volcanic ridge?"
+Galland said, "Vaguely."
+Zhi was figuring out the scenario as she replayed in her mind what must have happened.  "It was the bots in the borer module.  The swarm disassembled just enough shale and quartzite and other rock to loosen up the fault.  It slipped, shifted around and we were caught in the slide."
+So we did create our own earthquake."
+Zhi took a deep breath.  "So it would seem, ma'am?"
+Just then, a distant voice crackled over the coupler circuit.  It was Armadillo?Lieutenant Gerhart in command.  Gerhart's voice was strained.
+"?reporting no damage?definitely a tremor in the area?our SS1 reported swarm contacts too, very faint, but signatures of swarm activity.  Could  be bogies."
+Galland reported Scooter's status and requested Armadillo to stand by, in case assistance was needed.  She drummed fingers on the instrument panel.  Why does this always happen to me?  "Now we've got to figure out a way of getting out of here.  What do we have to work with?"
+Strakes went over his instruments again.  "Borer's offline, like I said, and it looks like containment was breached in the accident.  I've got no response from the borer swarm, no configs, no data of any kind.  That swarm's gone and it's not responding to commands."
+Galland tried a few tricks of her own but with no success.  "Well, I do have a master atomgrabber in my crew.  Lieutenant Winger, could we could jerry-rig a swarm for the borer if we had to?"
+Winger was at the DPS station, aft end of the command deck.  "If the module's not too damaged.  On top of that, the tread system's not responding?so we have no mobility.  And the pressure hull?."
+Winger had seen the oxygen level drop significantly in the last few minutes.  "We've got to stop that leak?here, let me launch our secondary ANAD."  He started to link in.
+  "ANAD, this is Winger?do you read me?"
+***ANAD copies?reading you loud and clear?what has happened?...ANAD's coupler indicates some kind of swarm break?is the borer functioning?***
+ "ANAD, Scooter's had an accident.  The pressure hull has been breached.  Configure for launch and max replication.  I need a local swarm to find and plug the leaks."
+***ANAD configuring now?systems initializing?ANAD reporting ready in all respects?***
+Winger unstrapped himself and went aft through the tunnel to the power plant.  "Launch, ANAD.  Launch now?."  As the DPS1 went off to check on their power systems, a shimmering light blue fog emerged from the containment canister on the bulkhead.  
+***ANAD replicating?can I get a heading to the target?***
+"I'm doing that now," Winger reported, as he scrambled through the galley and berthing deck and the engineering deck.  "Strakes, where's the leak?  Can you localize it?"
+Still back at the command deck, Strakes scanned his instruments.  "I'm showing maximum pressure drop at frame ninety-six, starboard side?somewhere between E and F deck."
+Winger squirmed through the central access tube.  He knew E deck was for Engineering, Shops and Utilities.   Just aft was F deck, home to Scooter's hybrid battery and fuel cell power plant.
+"I feel it?there's a whistle just off to my left-"Winger paused, sniffing, letting his senses guide him.  There.  A utilities duct penetrating the bulkhead seemed to be the center of the leak.  He saw a faint mist in the air swirling around the duct.  "I found it?.ANAD configure max propulsor.  Home on my signal."  He pressed a button on his wristpad.
+Several decks forward, the shimmering fog of the assembler swarm wheeled about and began transiting the access tube.
+***ANAD is en route to your location?estimated time is twenty-two minutes***
+Winger tried examining the source of the leak, where the inner pressure hull had been stove in.  It was scalding hot with swirling steam and air and he couldn't get any closer.
+"Hurry, ANAD?this break is getting bigger by the minute."
+The ANAD swarm eventually arrived at the site of the breach and promptly went to work.  Configuring itself as a tightly interlinked mesh, ANAD sought out the pressure hull penetrations and quickly formed a nanoscale patch over the holes with its trillions of replicants.  Gradually, the whistling subsided, then stopped altogether.
+"I'm reading air pressure stabilizing in all compartments," Strakes reported from the command deck.  "The patch seems to be working."
+Johnny Winger breathed a sigh of relief, feeling the cool oxygen of the geoplane's emergency flasks wash over his face.  "ANAD, you're a lifesaver."
+***ANAD reporting swarm element in place and holding.  No more air molecules can get in or out.  I am configured in repeating tetrahedral with radicals at my outer barrier.  Oxygens hate that.  And yes?I did save the ship, didn't I?***
+An alarm sounded from the DPS console at the rear of the command deck.  Stivik was nearby and saw it.  He swallowed hard.
+"Acoustic flag, ma'am?some kind of swarm, for sure.  Not sure whose bots I'm seeing?" his fingers flew over the board. "?but it's a large mass, headed this way, bearing two nine two?I make the range at just under four thousand meters."  
+Gerhart's tinny voice erupted from the coupler circuit.  Armadillo was at dead stop, a hundred meters away.
+"?zzzhhh?sounding swarm signatures, Scooter?my SS1 says it matches known Red Hammer signatures?possible aspect change?Galland, we're getting heavier acoustics too?vibration analysis indicates possible vehicular presence?maybe another geoplane in the area?."
+Galland swore under her breath.  "On my way?can you get any details, Sergeant?  Any structure?"  The CC1 hurried aft to the SS1's station.
+Stivik scanned his panel.  "Reading high thermals?I'm applying acoustic filtering?lots of seismic noise out there.  Looks like it's a bot swarm all right?"
+Galland sank into her seat at the main console.  "What about the borer?  Can we move?"
+Sergeant D'Amato, the BOP1, shook his head.  "Negative, ma'am.  Borer still offline.  I'm getting nothing from up front.  I think the bots are dispersed.  We had a containment breach and the lens itself may be damaged."
+Time for ANAD again, Galland thought. Combat at five hundred meters underground was definitely not for the slow-witted.  "Lieutenant Winger, get ANAD spooled up.  We've got to engage before any swarms start loosening rock around here.  I'll contact Armadillo and coordinate."
+Winger linked in to the assembler master bot on his coupler.  "ANAD, listen up.  I need configs for two elements and fast.  First, I'm downloading a config for re-populating the borer.  Basic stuff.  Make reps to fill the borer so we can at least have maneuvering."
+***ANAD will go to max rate replication for this config.  Borer bots are simple things?what is the second element?***
+"Defensive shield?we need to be ready to meet this botswarm head on?Zhi?Stivik, any structure on this swarm?"
+"Negative, sir," came both replies.  Stivik scanned his sensor board.  "Rock's too dense?my filters are having a hard time distinguishing swarm signals from seismic noise.  I'm getting acoustics that resemble swarms with Red Hammer signatures but it's hard to be sure."
+"I get the picture," Winger said.  "ANAD, I'm sending a config for basic defensive shield.  Max rate on this as well."
+***ANAD understands?grabbing feedstock now?***
+A shimmering blue-white fog emerged from Scooter's access tunnel as ANAD fissioned itself for the two configs.  Overhead, the master bot slammed atoms and built structure, thickening even as it drifted toward the hatch to the borer module.  Sergeant D'Amato cycled the feedport to the borer and the fog drifted on, filling the port, expanding as it replicated into the borer lens itself.  
+Unseen from the command deck, a second tendril of fog worked its way aft to Scooter's lockout chamber on G deck.  There, the defensive shieldbots would exit the ship and work their way through dense shale rock to confront the oncoming swarm.
+Tense moments passed.  D'Amato watched his board, noting the pressure and temperature rise inside the borer compartment.  
+"Just a few more minutes, Lieutenant?borer coming up nicely, pressure now at sixty five percent?I've got some control already."
+Galland checked her tread controls.  "Strakes, let's get powered up.  Once the borer's online, I want to get Scooter into position to engage that target geoplane."
+"Roger that," the DSO replied.  He worked with several joysticks.  "Treads working now?I'm feeling a little bite al--"
+Scooter shuddered and groaned as rock shifted outside.  They felt the ship sliding forward, then to the left again, but the motion stopped almost as soon as it started.
+"Okay--" Galland pulled her own hands away from the controls.  "No more tread?wait till the borer's up.  Let's not make things worse.  DPS, where's that swarm?"
+"Best estimate is two thousand meters and still closing on our position.  They can't move any faster through this rock than we can."
+***ANAD Config Two exiting the ship now*** came ANAD's voice over the commlink.
+"Very well," Winger checked ship's defensive status one last time.  "ANAD, maneuver to these coordinates--" he sent the last reported bearing from Stivik, "--and hold that position.  Form up a frontal shield?assume Config Six Six."  Winger had pulled that one from the ship's archive?it would configure the ANAD nanobotic formation into a barrier that should in theory hold off any bots working their way through the shale rock that had Scooter trapped.
+"Borer at ninety percent," D'Amato called out.  
+Good enough, Galland thought.  "Engage the borer.  Strakes, get us out of here now!  DPS, get your HERF weapon and magpulser spooled up too.  We may have to fight our way out of this--"
+Winger complied, quickly bringing the High-Energy Radio Freq system to power.  The magpulser magnetrons were already humming as well.  Scooter had quite a bite for any bots that came too close.
+The ship shifted, slid a little, then lurched forward with a vigorous shake, like a dog let off its leash.  
+"Borer operating at ninety-five percent," said D'Amato.  He manipulated his controls, shaping the hemispherical globe of bots that were beginning to chew away at the rock layers surrounding them.  "Pressure and temps nominal, configs look good, we're digging out--"
+"Best forward speed, DSO," Galland ordered.  
+Strakes shifted his stick slightly and the ship leveled off, then lurched forward and settled into a steady humming vibration.  A cheer erupted on the command deck.  
+"We're moving!" said D'Amato.  
+"Scooter moving out smartly," Strakes added.  He steadied his stick, feeling the force of the rock pressing against the treads and the hull.  "Setting cruise speed?now two point five kilometers per hour."
+"Steer toward that swarm.  Stivik, give us a bearing.  ANAD, hold on, okay.  We're maneuvering to intercept."
+Now finally underway, Scooter propelled herself on full tread and borer toward the enemy bots, less than a thousand meters to starboard.  The entire engagement was taking place hundreds of meters below Manhattan and northern New Jersey, in a world of hard gneiss rock and quartz layers.  
+"SS1, what are we dealing with here?got any structure on those bots?or that bigger contact?"
+Sergeant Stivik licked his lips and scanned his board.  "Acoustics look like Red Hammer-type bots, ma'am.  I've been able to run the data through filtering, screen some of the seismic stuff.  EMs and thermal?too soon to tell.  Best guess, Lieutenant: we're dealing with standard bots we've seen before from this source.  The larger contact is still five thousand meters away, bearing zero eight five?probable geoplane but it's hard to tell that far away."
+"That's good enough for me.  DPS, tell ANAD to prepare for combat launch?assume Config C-7, opposed entry."
+Winger sent the command over his coupler link.  He was dimly aware that, aside from Galland, the rest of the crew was all Boundary Patrol.  Time to show these BP pukes what real nanotroopers can do.
+Clinging to Scooter's outer hall as the ship squeezed through the layers of shale and slate nearly a thousand meters underground, the ANAD master responded.
+***ANAD ready in all respects?assuming C-7, extending effectors now, priming bond disrupters?enzymatic knife in position?just give the word, Hub and I'll tear 'em to pieces***
+Winger had to smile, as did others on the command circuit.  ANAD was like a little bulldog, straining at his leash.  His personality algorithms needed work but there were some quirks that made the little bug kind of endearing, even to hardened nanotroopers.  You couldn't expect Boundary Patrol slugs to understand that.
+"Less than two hundred meters, Skipper," said Stivik.  "Possible aspect change on swarm mass?he may be replicating?I'm seeing enhanced returns, mass changes--"
+Galland checked Scooter's status on her own panel.  "Strakes, slow to one-third.  DPS, get HERF ready.  I want to blast the sonofabitch first with rf, then send ANAD out."
+"HERF fully charged, Lieutenant.  Pulse mode enabled."  Winger's finger hovered over the FIRE button, ready to release a thunderclap of radio-frequency energy.  With any luck, the bolt would fry enough enemy bots to make ANAD's job a little easier.  And maybe cause that target geoplane to have second thoughts.  
+"Very well.  ANAD?you may launch when you've reached fifty percent mass."
+The master bot had already started replicating, grabbing atoms from local shale and slate layers, building billions and billions of daughter bots, building out the swarm. 
+***At fifty five percent now, Hub?ANAD is releasing now?launching from base?***
+Aboard Scooter's command deck, Winger toggled the quantum coupler circuit to show the view from ANAD's nanometer scale.  Troopers had long referred to this switch as "going over the waterfall."
+At first, nothing made any sense.  It was disorienting in the extreme, like going over the top of a roller coaster ride and your head was spinning out of control.  Like standing on the beach in a driving sleet storm, with triangles and polygons and tetrahedrals and nightmarish tangled shapes blasting by your head.  Gradually, your mind somehow made sense of the scene and the image settled down and stabilized.  In a few seconds, you had gone from the macro world of things and substances and 3-dimensional shapes to the nanometer world of atoms and molecules and Brownian motion.  Winger shook his head, focused and fiddled with the gain on the imager, trying to make some kind of sense of all the photons ANAD was sending back.
+To Winger's eye, maneuvering through layers of black shale rock was like flying over a field of broken gravel at an altitude of one centimeter.  Calcium, sodium and magnesium molecules flitted by like trees in a hurricane.  ANAD navigated as best he could through the jungle, forcing his way through narrow crevices and corners, squeezing through tight defiles and shifting back and forth to make some kind of headway.  
+"EM spike dead ahead, Skipper," called out the SS1, Sergeant Stivic.  "Big mass, lots of acoustics too."
+Gradually, the imager settled down to a dark, staticky, grainy picture--of what?  Winger squinted, leaned forward.  The view slowly materialized--a dense, regular lattice of throbbing, quivering spheres.
+"Crystalline structures," Sergeant Zhi reported.  "Looks like calcium.  Maybe carbons--
+      Winger was mesmerized by the perfect geometry.  "Oxygens too, Sergeant."  He pointed to long rows of tiny darkened blobs, marching off into the distance like a fence.  "A cubical lattice, just like the micrographs.  A crystalline solid--"
+"Limestone's mostly calcium anyway, with some oxygens and carbons mixed in.  Interlocking crystals--it's beautiful."
+"And damned hard to navigate.  Like a jungle?this stuff's so dense, ANAD's speed is way down.  Enabling the voice link--"
+Winger strained to see anything and then?there it was.  Shadows drifting in and among the structurally tight crystalline lattices of silicon and calcium and iron and half a dozen over things.  "Slow to one quarter propulsor--" he told ANAD.
+Over the next few moments, the enemy swarm came into view, gradually materializing among the loose atoms and clusters that choked the lattice.  It was like playing hide and seek in a dense forest.
+The bots looked like a chorus line of squat cylinders, festooned with effectors and gizmos around their circumference.
+"Looks like some kind of shaggy cat," muttered Stivik.  "What the hell are all those things?"
+"I don't know," said Winger "but they're all coming this way.  HERF's ready, Skipper."
+"Let 'em have it!" Galland said.  "ANAD?hold on.  And cover your ears!"
+"Fire in the hole!" said Winger.  He stabbed the FIRE button. 
+The thunderclap of rf energy stabbed out into the rock and BOOMED! back in reverberation through Scooter's hull.  The net effect of blasting waves of radio freq energy was to shatter the enemy formation.  It also loosened some of the rock layers through which Scooter was cruising.
+The ship's hull shuddered, creaked and groaned.  Galland felt a lurch and there was a momentary sensation of sliding, then a sudden jarring stop.
+Zhi, the geo tech, examined his instruments.  "Side acceleration, Skipper.  We're slipping--"
+"Losing traction in the treads," Strakes reported.  He backed off a moment, until Scooter's tread bit again into the rock stratum.
+"Okay," Galland said, "belay any more HERF.  We're shattering the rock around us.  Advise Armadillo too?no HERF.  Engage with their ANAD when in position.  DPS, tell ANAD: prepare to engage."
+Winger did it. 
+***ANAD ready in all respects, Skipper.  Let me at 'em!***
+Stivik counted down the range.  "Inside of fifty meters, Skipper.  Big time EMs now, acoustics show massive swarm approaching, just off our starboard bow."
+"Go, ANAD!  Launch now!"
+Outside the ship's hull, the bot master and its replicants jetted off.  
+***ANAD underway on full propulsor.  All effectors extended, bond disrupters fully charged.  Working my way through solid-phase lattice now--***
+It was like fighting an enemy through heavy vine and brush, hacking your way forward even as you did battle.
+"I've got ANAD!" reported Stivik.  "He's closing fast?tell him to bear right ten degrees?I make the enemy mass centroid at ten degrees further to starboard!"
+Winger passed the vector along and ANAD adjusted.  He decided to take a peek at the imager.
+The scene was chaotic and confusing.  The regular crystalline lattice was visible enough, ordered ranks of silicons and oxygens lined up like headstones in a graveyard.  Something shadowy and formless moved steadily through the ranks?that was ANAD, the assembler bots twisting and squeezing and shimmying left and right to move through the rock strata.  Further ahead, more shadows could just be made out.  
+The swarms collided twenty-two meters off Scooter's starboard quarter.
+***ANAD engaging now?moving in!***
+Even at nanoscale dimensions, close-quarters combat was still part momentum and part surprise and ANAD had both.  The assembler swarm quickly enveloped the bots of Red Hammer.  Winger tweaked the imager, trying to get better resolution, but the view was like cats thrashing in a pool of water, all flying effectors and probes and quick flashes of disrupter fire as each side shot electron volt discharges and tore furiously at the other.
+After a few minutes, Winger was bathed in sweat.  His fingers whizzed over a keyboard as he sent config changes and effector commands, trying to counter what the enemy bots were doing.  It quickly became evident that the enemy bots were weakest around their equatorial ring, where most of their effectors couldn't reach.  The cylindrical barbell bots had multi-lobed heads, top and bottom, each covered with all manner of effectors that could easily slash, tear and slice unwary ANAD bots that approached on the wrong vector.
+"That's the sweet spot--" Winger muttered.  "Right in the middle?but it takes timing.  You have to catch 'em when those effectors are engaged in another direction.  Then, blam?you dive in and zap 'em with everything!"
+The battle was a seesaw affair for many minutes.  Galland checked with Stivik, the sensor tech.
+"We're slowly losing mass, Skipper.  I can see it in the acoustics and EMs, thermals too.  Enemy bots are out-replicating us.  ANAD disables one, but two more show up right away?we've got to put some new configs in there."
+Winger was hacking away at his own keyboard.  "I'm trying, I'm trying?I don't see anything in the archive that--"
+Just then, Scooter shuddered again and a loud groan could be heard forward of the command deck.  The ship shuddered and slipped and then something slammed them from the starboard side.  Galland grabbed a seat back just in time to keep from being thrown to the deck.  Beside her, Strakes wasn't so fortunate.  The DSO was flung to the floor grate and came up bleeding at the temple; his head had struck a stanchion nearby.  
+The geo tech shook his head.  "We're losing it, Skipper!" Zhi said.  "Seismic signals everywhere?strata shifting all around us!  Hang on!"
+Galland didn't need to hear anymore.  "Strakes, get cranked up?get us the hell out of here! Wings, have ANAD return to the ship?we'll pick him up!  Inform Armadillo too?we're maneuvering."
+Winger sent the command.
+***ANAD understands?.attempting to withdraw?I am now fully engaged with the enemy?master bot coming about?I'll have to sacrifice replicants?***
+"Do it, ANAD!  Hold your position?we'll swing by."
+At Galland's command, Strakes steered for ANAD's position.  The replicated daughter bots could be abandoned.  By design, once the coupler link with the master was broken, a timer circuit ensured the replicants committed atomic seppuku and were disassembled so there was nothing for the enemy to capture.
+"I've got the signal!" said Winger.  "BOP, steer right and center on heading zero eight five."
+Strakes complied and Scooter was slammed again by another round of tremors.  Creaks and groans echoed through the hull.  "She's sluggish?we may have lost some tread, Skipper."
+"Just keep going," Galland told him.  "We've got to get out of this stratum before Scooter's crushed."
+The ship shimmied and shook like a wet dog as Strakes drove them to ANAD's position.  Winger had killed the coupler link.  The last remnants of the swarm were quickly being overwhelmed by Red Hammer bots?no sense in following that.  
+"At least, the borer's still operating," Strakes muttered to no one in particular.  If Scooter lost that, she'd be stuck but good, trapped five hundred meters below the Catskill Mountains of New York.
+"ANAD bot master signal less than ten meters away," Stivik reported, fiddling with the acoustic and EM detectors.  "He may have been damaged?I'm seeing some signal dropout, intermittent spikes and drops."
+"ANAD," said Winger, "do you read?  Make your way to the capsule port?full propulsor.  We can't wait forever."
+Scooter had several launch and capture ports spotted around her hull.  ANAD masters and swarms could enter and exit quickly from the ship through their own dedicated lockouts.  
+But there was no reply over the coupler circuit.  "Looks like we've lost comms, Sensor.  What's the little guy doing out there?"
+"Hard to say with all the seismic noise," Stivik replied.  "Best guess: he seems to be in motion?I'm getting acoustic returns that read like propulsor operation.  And the signal's getting stronger."
+"Okay, as soon as he comes aboard, we're out of here."
+Word came less than a minute later, as Scooter rolled and porpoised and shook from more tremors and quakes.  
+"Got 'em, Skipper!" said Stivik.  "That's the port cycling?positive ID on capture signal?and something else too?I'm getting EMs forward, looks like ANAD?maybe part of the swarm came back too."
+"What are they doing forward?"
+The answer came seconds later.  Strakes saw an immediate drop in borer ops.  "Borer swarm mass down ten per cent?I'm compensating, loading new config to make more bots-"
+"Is the bot master aboard?"
+"Affirmative, Skipper," said Winger.  I've got positive signal from inside the port.  It's ANAD, all right."
+"Borer still losing mass!" Strakes said.  The BOP1's fingers flew over his keyboard, countering the effect.  "I'm trying another config-"
+"Red Hammer?it has to be?"  Winger muttered, checking weapons status:  HERF was charged, magpulsers were ready.  "Skipper, the enemy has somehow infected ANAD, rode back home with him.  That has to be what happened.  Remember ANAD said he was fully engaged with the enemy.  We may have some onboard?maybe even inside the borer."
+Galland didn't want to believe it but her tactical sense told him the DPS was probably right.  The question was: now what?  If Red Hammer had infected their borer with its own bots, Scooter was sunk.  And if ANAD had brought enemy bots onboard-
+She made the difficult decision.  "Strakes, shut down the borer.  Shut it down.  And isolate that capture port.  We've got to scrub Scooter from bow to stern?then we can re-boot the borer."
+"Ma'am, if I shut down-"
+"Do it now!"
+Strakes managed the shutdown and Scooter's forward momentum died off.  
+For the next half hour, Scooter was dead in the rock, while Armadillo closed to within a few dozen meters, ready to lend assistance if needed.  Galland ordered a full sweep of her geoplane, bow to stern.  When ANAD was onboard and in full capture, any bots left over had to be Red Hammer.
+Johnny Winger led a small team, including the BOP Sergeant D'Amato and SS1 Sergeant Stivik, moving cautiously aft from deck to deck, HERF guns charged, mag weapons enabled, hunting for loose bots.  They found a few on C deck and hosed the intruders down with rf and magnetic loops, frying anything that wasn't ANAD.
+Finally, Winger pronounced Scooter clean.  "That was close, gentlemen," he said, as they made their way back to the command deck.  "Red Hammer bots somehow coupled with ANAD and we brought a few onboard.  But I think we're sterile now."
+Galland ordered D'Amato to get the borer up and operating again.  She conversed on the coupler link with Lieutenant Gerhart aboard Armadillo.
+"We engaged but the bad guys were out-replicating us so we pulled back.  We were close coupled so we inadvertently brought some nasties on board but we've gotten Scooter scrubbed down now and we're clean."
+Gerhart said, "Wait one?standby?"  The link crackled for a few moments, then : "I'm getting something from my SS1?have your guy check it out too.  Heavy seismics?the system says it's a geoplane signature?could be the mother ship and she seems to be moving off?the signal's changing aspect-"
+Galland consulted with Stivik.  The SS1 studied his board, fiddled with his waterfall display and quickly concurred.  "Armadillo's right, Skipper.  SAP says it's a geoplane signature?and not one of ours.  Must be the original target.  It's moving off, bearing one two five?heading out right underneath the New York Bight, underneath the seabed."
+Galland rubbed her chin.  "Running away?  They fought ANAD to a draw?why run now?"
+Winger said, "Maybe they were just probing?testing us."
+Stivik waved a hand in the air.  "This is odd, Lieutenant.  I was following the signal?everything indicated a bearing of one two five, depth about a thousand meters below the seabed, but now it's shifting.  She's coming up?see there?"  He pointed to a set of narrow spikes on his display.  "Signal's stronger?she's coming up.  If I didn't know better, I'd say she's breaching?coming up above the seabed."
+Galland's eyes widened.  "A geoplane with submarine capability?  I haven't seen anything from Q2 about that."
+Winger remembered the hide and seek game Mole had played with a Chinese submarine just a few days before.  "I'd have given anything to have submarine capability when we left Lions Rock.  Even a little buoyancy would have been nice."
+"Can you follow it, Stivik?"
+The SS1 shrugged.  "Signal's getting fainter?if she's above the seabed, like a submarine, she can outrun us pretty easily."
+Galland swore softly.  "Damn.  Get every scrap of signal you can?and try to get a firm bearing.  Q2 needs as much intel as we can give them."
+"Bearing is definitely one two five?east by southeast, growing fainter?I'm losing it in all the seismic noise around here."
+"A geoplane that's also a submarine?"  Winger had to admit he was impressed.  "Maybe they're headed back to Lions Rock?what's left of it."
+Galland shrugged.  "Why stop there?  They could make it to Paryang, in Tibet.  Cruise like a sub across the Atlantic and Indian Oceans, then head belowground, burrow underneath the Himalayas and surface inside that monastery?they could almost go anywhere."
+"We could never catch them," Winger agreed.  "A geo-sub-ship?they could show up anywhere with no warning."
+Galland decided to focus on the present.  "Grab what you can, Sensor and then we're heading back to base.  Best time from our current location--?"
+Sergeant Zhi, the geotech, did some quick calculations and plotted a return course.  "We can make the launch point in New Jersey in about three hours, best speed."
+"Very well?when Sensor has all he can get, turn Scooter around and make tracks.  Wings, let's you and me go aft, grab a drink and get some chow.  We need to talk."
+Winger secured Scooter's defensive suite and the two of them crawled aft through the gangway to C deck and the geoplane's tiny mess compartment.  Inside, D'Amato and Zhi were slurping  coffee and snarfing doughnuts.  For a moment, Winger and Galland hung back and listened to the troopers chat.
+D'Amato was talking, his mouth crammed with doughnut.  "They never should have launched ANAD, you know.  It was nuts?anybody could see that."
+Zhi agreed, slurping at her coffee.  "All those Quantum Corps guys are just atomgrabbers and boy scouts?geeks who like to play with bots and atoms.  They should leave geo ops to the adults."
+"Yeah, like you and me are adults."  Both crewmen chuckled at that.  
+D'Amato said, "You know, it's Quantum Corps' fault we couldn't track and follow that geoplane contact.  They want to swarm the thing like a hive of bees."
+"Yeah, kill the geoplane and you kill the bots."
+Galland and Winger came into the mess compartment and Zhi and D'Amato looked nervously at each other.
+"Lieutenant Galland, Lieutenant Winger, uh-"
+"We heard it all, guys" said Galland.  "No sense trying to suck up now.  So you think you know how to fight off swarms better than atomgrabbers?"
+"No, ma'am," said D'Amato.  "It's just that-"
+Winger held up a hand.  "No use trying to paper over things now, Sergeant.  It's evident Boundary Patrol and Quantum Corps have a lot of work to do to mesh as joint crews."
+Galland helped herself to the last doughnut and made sure she enjoyed it loudly, smacking her lips.  Zhi steamed quietly, lowered her eyes and watched D'Amato squirm out of the corner of her eyes.  
+"Lieutenant, all we were really saying is that we know geoplane ops.  You've got ANAD.  You know swarm ops. But down here, it's different.  You can't just release a swarm with no thought as to how it affects the environment.  Already, we set off tremors practically every time we go with ANAD.  Maybe there are better ways of dealing with Red Hammer."
+"No doubt," Winger admitted.  "But the enemy gets a vote too.  They've chosen to use swarms of nanobots to set off tremors themselves.  We fight fire with fire, swarm against swarm."
+"Sir, no disrespect, but maybe we have to be smarter than that.  Fighting swarms with swarms underground around tectonic plates and fault boundaries is a good way to get everyone killed.  We need a better way."
+"I'll put your thoughts in my after-action report, " Galland told them.  "Now, finish up your sugar and lard break and get back to your station.  We'll be back at the ingress point in three hours."
+Zhi and D'Amato were quick to squeeze their way out of the mess compartment and wriggle forward through Scooter's central gangway.  
+When they were out of hearing, Winger looked at Galland.  "He's right you know?we do need a better way of combatting Red Hammer down here."
+"Save it, Wings.  Save it for the debriefing."
+
+Scooter and Armadillo made it back to their ingress point in northern New Jersey in good time.  Both geoplanes breached the surface in the woods behind the shopping mall, which was already lit up for the night and its parking lots jammed with shoppers and visitors, all enjoying a Friday night fireworks show and laser spectacle.  The geoplanes were quickly loaded onto crewtracs and a small convoy pulled out of the woods, looking for all the world like some kind of circus troop heading for its next gig.  
+An hour later, the convoy had reached Newark Liberty International Airport, where two cargo hyperjets waited at the end of one ramp.  Scooter and Armadillo were smartly loaded on board their carriers and the jets veetolled away during a lull in late-evening air traffic.  Once airborne, the jet carrying Armadillo headed for a Boundary Patrol station in south Florida.  Scooter and her crew, along with all the nanotroopers, headed west to Table Top.
+The debrief wasn't long in coming, as Major Kraft and Major Chandrasekar of UNBP appeared on vid screens in the crew galley of hyperjet Mercury, as she streaked across the top of the atmosphere westward to Idaho.  Galland had already squirted an early synopsis of her report to Battalion and both commanders were anxious to get her verbal side.  Lieutenant Gerhart, of Armadillo, had already recorded his report and Galland had appended that to her own.
+"To sum up, sir," Galland was saying, "the engagement was pretty inconclusive.  We deployed okay, and detected and tracked a Red Hammer target-it had geoplane signatures, so we're pretty sure the cartel has geoplanes.  We also detected swarm activity-thermals, EMs, acoustics all consistent with nanobotic swarms, so we engaged with our own ANAD."
+"ANAD moved to contact and was in close-order battle with the Red Hammer swarms," Winger added, "but all of a sudden, they started to disengage.  Dispersed completely.  We tried to maintain contact, but they seemed in a hurry to leave the area.  Some tremors and quakes were generated.  I haven't seen any damage reports."
+"Damage was minimal," Chandraksekar said.  "Some buildings got rattled in Manhattan.  A bridge off Staten Island has structural damage and is closed.  That's about it."
+Major Kraft scowled on the vid screen, his Black Forest moustache swollen and throbbing.  That only happened when Ironpants was pissed off.  "Galland, Winger, what you're telling me is that none of us really knows how to fight underground.  Subterranean ops with ANAD swarms is a whole new battlefield and tactics are still being worked out.  Is that about it?"  Kraft didn't like for the Corps to be seen by others, especially by Chandrasekar, as anything less than perfect and overwhelmingly powerful.
+"Sir, "Winger spoke up, "what we need is something to augment ANAD.  ANAD is fully capable of navigating through rock and other solid structures, but it takes time.  We need some kind of weapon that can neutralize Red Hammer seismic swarms and geoplanes without creating more damage than we prevent."
+Kraft was chewing on the end of his moustache like a mouse with a mountain of cheese.  "Lieutenants Winger and Galland, come to my office on the double when you arrive back here.  We've got a joint project with Boundary Patrol underway right now in our Lab. It may be just what we need."
+Winger looked at Galland as the vid went dark.  Both of them were thinking the same thing:  
+They've already been working on this problem and we never knew a thing about it.
+
+Chapter 2
+"The Shaman and the Sonic Lens"
+
+Banks Island
+Northwest Territory, Canada
+September 1, 2049
+1750 hour (U.T.)
+
+Johnny Winger examined the strange dish-shaped port on geoplane Otter's forward hull and looked over at Drew Wilkins.  Wilkins grinned and patted Otter like a big pet.  
+"You don't miss much, do you, Lieutenant."  Wilkins was a project engineer at Table Top, heading up the geoplane section of the Lab.  "It's called a sonic lens.  With this baby, we can shatter any swarm of bots you care to release.  Test Sequence O-1 will prove that."
+Wilkins was a lean dark-skinned man of medium build, with a thin moustache and a goatee.  He wore sealskin mukluks, a fur-lined parka and heavy gloves, and from a distance, he could have passed for local Inuit.  He was the Test Director for the whole effort. 
+Two geoplanes had been lifted north from Table Top, all the way to a remote, bitterly cold, windswept realm of ice called Banks Island, in Canada's Northwest Territory.  A base camp for the test group had been set up near the tiny Inuit village of Inuvik.  The camp was situated on a low hill overlooking the Inuit village.  Smoke from fires streamed skyward in the fading twilight, twisted into braids by winds coming off the sea, itself only a few hundred meters to the south.  
+Winger studied the strange port on the side of Otter.  "So how does this gizmo work?"
+Wilkins started to explain, then stopped when a raucous flock of snow geese careened by overhead, streaking for their feeding grounds out to sea.  "The sonic lens generates megawatts of sound energy?acoustic pulses.  It shapes and focuses these pulses.  Because it's sound, it travels well, at high speed, through rock and underground formations.  With the sonic lens, our theory is you can shatter any formation of bots you encounter.  You can even damage geoplanes."
+"So what's the difference between the sonic lens and my HERF guns?"
+Wilkins smiled like a proud dad.  "HERF is High-Energy Radio Frequency.  RF pulses are higher frequency than sonic pulses.  Rock doesn't transmit them nearly as well.  With the sonic lens, we've got a device that generate, shape, focus and transmit a large energy pulse in the most effective way for the medium you're operating in?namely below ground."
+"Wouldn't this set off a lot of tremors?  Doesn't it shatter rock as well as swarms?"
+Wilkins shook his head.  "You'd think so, but in practice, at least in the lab, it hasn't.  That's what we're up here to test."
+Winger saw the second geoplane sitting on its carrier a few meters away.  He read the name stenciled on her borer.  Ferret.  "Why two ships?"
+Wilkins pulled out a small palmpad and brought up the details of Test O-1.  He squirted the protocol to Winger's wristpad.  "Otter and Ferret will both submerge, full Boundary Patrol crew with test engineers and techs on both ships.  You're assigned to Ferret.  Otter carries a standard ANAD swarm.  Once at test depth, and everything looks good, Otter launches her swarm.  She backs off to observe and take measurements-we want full analytics on the test.   Ferret fires her sonic lens.  If the weapon works as designed, the swarm will be destroyed by sequential acoustic pulses.  We want to take careful measurements of what happens.  The test ANAD swarm is configured to resemble a Red Hammer formation as closely as possible?we may need your help on that, Lieutenant."
+"You've got it."  The two men left the geoplane staging area, scanned out through security and headed for the temporary barracks that Boundary Patrol had built just outside the village.
+They slowed as they approached the small village.  Inuvik was a scruffy gathering of tents and careened qajaks, with cooking fires spotted through the settlement.  Bloated carcasses of walrus and seal were lined up between two larger tents.
+Winger saw a man shuffling through the snow as he approached.  He was short, dark-skinned, enveloped in a heavy qaspeq parka and hood, with bone necklaces rattling around his neck as he approached.  A village elder, perhaps?  It was hard to tell.
+The man spoke something, though neither Winger nor Wilkins couldn't hear over the whine of the wind.  Winger soon realized the man was Inuvik's angakkuq, the shaman.  He was gesturing at something in the sky.
+Winger looked back over his shoulder.  It was late afternoon, with the sun low, but already he could make out the shimmering veil of the aurora borealis hovering over the distant mountains.  
+The angakkuq approached both men and stopped, placing a hand on Winger's shoulder. 
+"The peril of our existence lies in this fact: we eat souls.  Everything we eat has a soul.  All things have souls.  If we hunt and fail to show respect for the souls of our prey, the spirits will avenge themselves.  See in the sky?the Old Woman of the Sea is already disturbed.  In the days to come, we must be careful."
+With that, the shaman ambled off toward a nearby hill.  
+Wilkins shrugged.  "Local witch doctor.  I don't put much stock in them, myself.  They've been pretty agitated since Boundary Patrol arrived."
+Winger looked at all the new installations.  "I don't doubt it.  Look what you've brought: strange looking ships, buildings, lots of armed people.  Quite a change for these people."
+"Yeah," said Wilkins, as they reached the barracks and cycled inside, away from the wind and sleet.  "The local witch doctors-they're called angakkuq-have been ranting for days about disturbing spirits, putting hexes on us, angering the gods, that sort of thing.  Superstitious mumbo-jumbo, if you ask me.  Me, I'm just trying to do some engineering and get a successful operational test done."
+Wilkins maneuvered through narrow corridors and small rooms thick with the smell of steam heat to the mess hall.  There he introduced Winger to the geoplane crews.
+Ferret was captained by Lieutenant David Gerhart, late of Armadillo and the recent patrol mission below New York City.  
+Gerhart was a blond rockhead with a quick smile.  "Long time no see, Winger.  Should be a little easier up here than what we had underneath New York."
+They shook hands.  Winger knew Gerhart slept and ate Boundary Patrol and looked on Quantum Corps as a bunch of geek scouts with atoms for brains.  Still, he respected the BP officer's command skills and operational judgment.  That had been proven a few weeks before, chasing Red Hammer contacts below the Big Apple.
+Ferret's crew was all BP: Walz was the DSO.  Thielen was the BOP.  Geotech Mwale and Sensors and Surveillance Tech Bandarsaran rounded out the rockheads.  Only Sheila Reaves, the ship's DPS and Winger, as test chief, hailed from Quantum Corps.
+There was some good-natured ribbing and kidding while Winger met the crews of both ships.  Otter, the ship that would carry the test ANAD swarm, was commanded by a Lieutenant Lashyro.  Winger shook hands with the BP officer, sizing up the kid, and figured he was a good enough skipper for this kind of mission.
+Dinner that night was simple, little more than Q-rations heated up, leavened with a little caribou steak and plenty of alcohol, some of it a gift from the elders of Inuvik.  Reaves took a swig off one bottle and nearly threw up.  Her eyes watered and she fanned her face like it was on fire.
+"Jeez, stick that stuff in the geoplane engine?we'll be burrowing like a crazed rat all the way to Tokyo!"
+Someone belched out, "Subterraneous defensores!"   It meant 'subterranean defenders' and was a kind of rally cry for the rockheads.  Winger toasted the whole table.
+"To a good test tomorrow!"
+That night, every crewman slept as if dead.
+
+The sun was a pale dab of butter rolling around on the horizon when the test crews boarded their geoplanes the next morning.  Winds whipped across the shoreline and sleet flecked the crews as they arrived at their mounts.  On board Ferret, Winger found a spot had been rigged up next to Sheila Reaves in the aft end of the command deck, B deck. The cramped station housed comm gear and config status displays, so he could keep a steady eye on what was happening to the test ANAD swarm.  The sonic lens controls were also located at Winger's station.  The previous night, Wilkins had briefed him on the test protocol and procedures, including how to power-up, test and operate the sonic lens.  When H-hour came, it would be Winger who pressed the button.
+"Always give me the creeps," Reaves muttered to Winger as they strapped themselves in.  "Burrowing underground?it just ain't natural, Lieutenant.  I don't know what these rockheads have for brains but it isn't normal stuff.
+"Subterranean defenders strike hard," someone yelled out.  Ferret's treads started up with a screeching clank and a blue-white glow soon enveloped the nose of the ship as the borer lens came fully online.  The cylindrical geoplane huffed and shuddered as she motored forward on her treads, clambering over nearby rubble piles and across a snow bank.  Moments later, Ferret started her descent, angling nose-first toward the ground.  
+Inside the command deck, Gerhart gave directions to Corporal Walz, the DSO.  Pressing a few buttons, Walz manipulated the borer that formed a huge dish-shaped nose on the geoplane's bow.  Inside the borer, actuators fired to release the ANAD swarm contained there.  In seconds, the outer surface of the dish was thick with nanoscale disassemblers, forming a shimmering half-globe around Ferret's nose.  Like a single huge blue-white headlamp, the dish and its halo of mechs formed the geoplane's working surface for subterranean operations.
+"Let's go digging," Gerhart said.  "Head for that shallow ravine and contact Test Ops? tell 'em we're going under."
+Walz complied.  "Turning left, heading now? one three five degrees.  Depth is forty five meters, five degrees down angle."
+"Borer coming on line," Corporal Mike Thielen reported. Thielen was the Borer Operator, BOP1 for the Detachment.   He scanned his instrument panel, reading swarm density, alignment and other parameters.  "Bots are ready to bite-"
+"Otter reports ready to burrow," came back Winger, reading the signal from the other geoplane on his display.
+"Very well," said Gerhart.  "Take us down to five hundred meters.  Make turns for two kilometers an hour.  Let's get to the test site."
+The DSO, Corporal Walz, programmed a new heading into the tread control system and steered them southeast on a heading of one two five degrees, roughly paralleling the Beaufort Sea shoreline of Banks Island.  Acoustic sounding soon showed the geoplane was entering harder, denser rock layers.
+"Shales," Sergeant Honore M'wale muttered.  M'wale was GET1 for the Test Detachment, the Geo Engineering Technician.  From earlier briefings with Boundary Patrol geologists, she knew the layer was sheeted with hard slate and mica, compacted over millions of years by glaciers and the overriding Brooks mountain range.  "Nothing to worry about?just sit back and enjoy the view."
+Gerhart snorted.  The only view they had was of the inner pressure hull of the geoplane.  Even as he watched, he imagined that he could see the compression of Ferret's interior frame under the millions of tons pressing down on them.
+"Sounding ahead?" Sergeant Bandarsaran reported.  "Your depth is now four eight eight meters.  Signal distortion coming back?it's probably the shale zone."
+Walz shoved the control stick forward.  "I'm going a little deeper?see if we can plow through some of that quartzite."
+Ferret maneuvered for the next few minutes, until M'wale announced they were at depth.  "Approaching firing zone, Skipper," she reported.  
+"Now passing five hundred meters?zero point less than fifty meters ahead this bearing."
+Gerhart studied the stratigraphic charts.  The protocol for Test O-1 called for Ferret to assume a firing position some ten kilometers off the western shore of Banks Island, at a depth of five hundred meters.  Otter, for her part, would lay off Ferret's starboard bow some one thousand meters, and release her ANAD swarm there.  Once the other geoplane backed off, Ferret would then begin a series of test shots with the sonic lens.  Both geoplanes would circle the fracture zone and take measurements.
+That was the plan. 
+"Message from Otter," Winger reported.  "She reports in position for release."
+Gerhart went around the command deck, getting a go/no-go from each station.  
+"DSO?"
+"Go."
+"BOP?"
+"Go."
+"DPS?"
+"Ready, sir."
+"Lieutenant Winger, status of sonic lens-"
+Winger checked his board.  "Weapon is primed, fully charged and trained on coordinates.  Ready to fire, Lieutenant."
+"Inform Otter she can launch ANAD when ready."
+A thousand meters away, geoplane Otter was also ready.  Her CQE, one Sergeant Sheila Reaves, took one last look at the config she had dialed in.  ANAD reported back ready in all respects.  Reaves spoke to herself silently: effectors armed, grabbers armed, propulsors at initial state, disrupters enabled.  She sent the command.
+Outside Otter's hull, a small capture port opened and ANAD exited the ship, fully configged for solid-phase transit.  Though it wasn't visible to anyone, the rockface glowed blue-white as trillions of bots chewed their way into the hard shale just beyond the hull.  
+Otter shuddered and groaned as rock shifted outside.  They felt the ship sliding forward, then to the left again, but the motion stopped almost as soon as it started.
+"Okay--" the DSO pulled her own hands away from the controls.  "No more tread?I'll wait till ANAD's in position.  Let's not make things worse.  DPS, where's that swarm?"
+"Best estimate is two hundred meters on course for the fracture zone.  He can't move any faster through this rock than we can."
+***ANAD Config One exiting the ship now*** came ANAD's voice over the commlink.
+"Very well," Reaves checked ship's status one last time.  "ANAD, maneuver to these coordinates--" she sent the last reported bearing from Sensors, "--and hold that position.  Form up a frontal shield?assume Config Six Six."  Reaves had pulled that one from the ship's archive?it would configure the ANAD nanobotic formation into a barrier that should in theory deflect much of the sonic lens waves when they came.  It wasn't exactly protocol but Major Kraft had authorized her to use any trick in the book to beat the sonic lens.  "I want this test to  be as realistic as possible," the Major had said.  
+When ANAD was in position, Reaves sent a message to Ferret.  She knew Lieutenant Winger would be pressing the button to fire the weapon.
+Come and get me if you can, she sent.
+Winger had to smile when he saw the words scroll up on his display.  "Lieutenant, ANAD swarm is in Config One, per test protocol, and in position.  Weapon is enabled."
+Gerhart licked his lips.  Subterranean ops were definitely not for the faint-hearted.  "Okay, first pulse?fire!"
+Winger stabbed the button.
+A thunderous echo reverberated through Ferret's hull as megawatts of acoustic energy erupted from her sonic lens dish.  The waves penetrated the hard rock layers around the geoplane and traveled like longitudinal compression P waves at nearly four thousand meters per second.  
+Moments later, the waves struck the fracture zone and shattered the ANAD swarm just like a HERF pulse, ripping effectors and grabbers from bots, shattering casings, crushing replicants into so much atom fluff.  
+For a brief moment, Sheila Reaves studied the returns from ANAD at her panel aboard Otter.  The sonic lens pulse was having the desired effect.  No Red Hammer swarm will be able hide now, she told herself.  
+"Send the second pulse," Gerhart ordered.  
+"Fire in the hole!" said Winger.  He stabbed the FIRE button. 
+The thunderclap of acoustic energy stabbed out into the rock and BOOMED! back in reverberation through Ferret's hull.  The net effect of blasting waves of sound energy was to fully shatter the ANAD formation.  It also loosened some of the rock layers through which Ferret was cruising.
+The ship's hull shuddered, creaked and groaned.  Gerhart felt a lurch and there was a momentary sensation of sliding, then a sudden jarring stop.
+M'wale, the geo tech, examined her instruments.  "Side acceleration, Skipper.  We're slipping--"
+"Losing traction in the treads," Walz reported.  She backed off a moment, until Ferret's tread bit again into the rock stratum.
+"Okay," Gerhart said, "belay any more sonic lens.  We're shattering the rock around us.  Winger, anything from Otter?"
+At that very moment, the other geoplane was in a world of hurt.  
+Before her skipper, Lieutenant Kimmel, could respond to Winger's call, Otter shuddered violently and began a slow clockwise roll, with a sickening screech coming from somewhere forward.  Chaos and panic filled the space.
+Otter's geo tech was barely clinging to her console.  "---P wave coming, high magnitude transverse waves, lots of 'em, coming this way-"
+The crew of Otter didn't know it at the time but the sonic lens pulses had not only shattered the ANAD formation, it had also somehow managed to lubricate the rock strata surrounding the geoplane.  A punishing series of tremors radiated outward through the region, oblique convergent plate boundaries letting go as the rock underlying the Brooks Mountains gave way in a spreading fracture zone, propagating outward like a sheet of glass cracking.  
+The sonic pulse had insinuated itself into multiple fault zones and disassembled enough rock to release the massive strain which had built up over the centuries.  Massive seams of slate and feldspar, hundreds of kilometers long, suddenly wrenched forward with crushing force, sending shock waves and seismic energy halfway around the Earth, as crustal plates rebounded and jostled each other.  
+Geoplane Otter was caught like a bug in a vise.  Kimmel shouted over the din of the crushing force now slamming them downward.  
+"Get on the horn to Ferret, tell 'em to cease fire?stop firing NOW!?we're caught in some kind of-"
+But he never finished the sentence.  Seconds later, the plates shifted again, twisting and crumpling Otter even further downward, wrenching off her nose and borer lens and crushing the ship into a twisted pile of wreckage.  
+A thousand meters away, even Ferret was getting slammed by the reverberation effects of the sonic pulses.
+"Message from Otter," Winger announced.  "She's reporting that-"  But he never finished the sentence.  
+Winger's last words were cut off as Ferret shuddered violently.  For a brief moment, there was an unmistakable sensation of sliding, sliding sideways and downward.  Almost at the same moment, something hit Ferret''s nose with a sickening crunch and the geoplane shuddered again and ground violently to a halt.  The cabin tilted to port and stayed tilted.  
+Ferret's cabin was deathly still for a few moments, then the creaking and groaning of the hull under tremendous pressure started.
+"What happened?" Gerhart asked, wincing as the tortured sounds of the hull being compressed grew louder.
+Corporal Thielen, the borer operator, scanned his instruments nervously.  "Borer is offline.  I'm getting no responses from ANAD in the forward module?pressure drop in containment?we may have a breach."
+"Great," Gerhart muttered.  "Just friggin' great.  And it looks like we've got a breach in the pressure hull too."
+"I see it?cabin air pressure fluctuating?we'd better activate emergency flasks, just in case."  Winger toggled a few switches and immediately, high pressure air began flooding all compartments.  "Lieutenant, I'm getting no signal now from Otter?just a tone.  Something's happened over there."
+The sonic lens pulses had worked just as designed.  ANAD had been shattered into loose atoms.  But the forty megawatts of acoustic energy projected into the surrounding rock layers had done more, much more.  Thousands of tons of rock had been fractured.  Thousands of tons of permafrost had been melted.
+Now both Ferret and Otter were trapped five hundred meters below ground.  
+
+By the book, rescue tactics called for an ANAD-bored tunnel to be drilled down to the stricken geoplanes.  Within minutes of the tremors, as both geoplanes lay trapped, automatic emergency locator beacons were activated, each sending sonic pulses upward at special frequencies.  The signals were quickly detected and Drew Wilkins began recovery ops immediately.  
+Using ANAD to bore an escape tunnel was by its nature a time-consuming process.  Once each geoplane's location had been pinpointed, containment vessels for the recovery swarms were maneuvered into position over the bore site.  Configurations were loaded and both master bots thoroughly checked.
+"Time is critical," Wilkins told the recovery crew.  "We've got hard shale down there, with quartz inclusions and probably some unmapped faults and seams.  Geo, you've got the ships' signals?"
+The project geologist was Theresa Mueller, a blond Austrian post-doc with black-framed dataspecs that perfectly punctuated her parka-lined face.  "Got 'em, Drew.  Loud and clear.  Ferret and Otter are putting our sonics at full power, so at least their transmitters aren't damaged.  I'll send the coordinates for both to ANAD."  She pecked at a few keys on her wristpad, frowned a moment, then finished with a quick fist pump.  "Done."
+As the rescue squad finished offloading their gear from the lifters, Wilkins looked around, spying a pair of staghorn elk studying them from a small ledge halfway up the side of the nearest hill.
+Fellas, he muttered to himself, you're about to see something you've never seen before.  I just hope to God this cockamamie stunt works.
+ "Make sure the hole's wide enough to let hypersuited troopers through," he told the rescuers.  "Use the dimensions Mueller gave us.  I've loaded a new config, optimized for disassembly of basaltic molecular lattice.  I don't have to remind you that time is of the essence."
+Hovering like a backlit ground fog, the ANAD swarm flickered and pulsated with eerie radiance as it maneuvered to enter the ground.  Already replicating quickly, the fog was swelling as it gained enough mass to attack the hard black volcanic rock that lay beneath the snow.
+***ANAD estimates ten hours, sixteen minutes to reach the target***
+Wilkins issued the final command string to ANAD's processor and authorized the assembler master to begin operations.
+The swarm sank toward light snow drifts as Wilkins warned the rescue squad away from the injection point.  Soon enough, the snow blazed with a fierce blue-white radiance as the assembler swarm filtered into the snow bank and attacked the hard still-frozen ground below.  In minutes, the entire ravine was bathed in a white hot incandescence, laced with tendrils of steam, as the globe of light gradually subsided into the earth, like a miniature sun setting beyond the shoreline.
+Bit by bit, the snow bank melted and melt water ran in streams down the ravine's gullies, revealing bare ground underneath.  But the ground was no longer solid rock.  Instead, it boiled and billowed like a mirage speckled with a billion tiny explosions going off all at once, as ANAD bots broke atomic bonds and burned their way into the molecular lattice of rock.   
+There was little the rescue squad could do now but wait.  Wait and hope.  
+Ten hours and sixteen minutes seemed like an eternity.
+
+It was Honore  M'wale, Ferret's geotech curled up in a fetal position on the command deck floor, who first sensed a presence around her.  She sat up, felt the increase in heat, shook herself into a groggy sort of consciousness and spotted the faint aura of a shimmering smoke billowing out from behind the main console.
+She smelled it too.  Something was burning.  An electrical fire?
+"Lieutenant?Skipper!-" she yelled.  Staggering to her knees, she peered under the console.  "Skipper...we got a fire!  Get up here-" She groped around in the failing light, breathing hard, sucking for air, feeling for a fire extinguisher.  Any fire now could rapidly deplete their last remaining oxygen.
+Johnny Winger stirred himself awake and saw M'wale frantically rummaging about the cabin.  Lieutenant Gerhart was also struggling back to consciousness. 
+"What is it?  What's --?"
+"There's smoke?right there under the console!  We must have an electrical fire!"
+Before he could respond, a faint chime sounded in the back of Winger's mind.  It was ANAD?the tiny assembler had come for them!
+"ANAD!"  Winger swung himself down from the seat, coughing in the stale, stagnant air.   His head pounded and his ears rang from the CO2 buildup.  "It's ANAD!"
+M'wale sat down heavily as she realized Winger was right.  Semi-conscious and exhausted, she had mistaken the faint blue mist for a fire.
+***ANAD acknowledges?coming from the surface.  I have brought a search and rescue squad.  Test Director Wilkins re-configged my processor to optimize my effectors.  I have widened the original borehole to thirty centimeters diameter.  Surface rescue is sending extra hypersuits down the hole.  My instructions are to assist you in any way possible***
+Winger's eyes widened.  "You enlarged the hole?  And hypersuits too?  This is looking better all the time."
+***ANAD has config patterns for respirocyte bots.  If you need additional oxygen boost, ANAD can replicate respirocytes***
+Winger explained all that ANAD had told him.  A huge wave of relief came over Gerhart's face.
+"Might be a good idea, Winger.  At least until we get the tin cans on."
+Winger agreed.  "ANAD, Wilkins gave you the config?"
+There was a pause before the assembler responded.
+***Test Director Wilkins does not know ANAD loaded the respirocyte config.  He said ANAD should focus all processor capacity on boring and supporting the hole?but ANAD loaded the config anyway.  A trooper does not leave his buddies behind***
+Winger mulled that bit of news over.  Now, it seemed, the assembler was disregarding orders from its human handlers and initiating configurations on its own.
+The less Major Kraft knows about this, the better.
+"Okay, ANAD, give us some oxygen.  When will the suits be here?"
+"Maybe now," M'wale said.  "Sounder says there's something in motion right outside the hull?and it's not the earth."
+"It's probably them," Winger decided.  "How do we get the suits inside the cabin?"
+***ANAD has opened a path through the borer module.  The forward bulkhead and horn have been disassembled.  Remove the main console and you will have access***
+"Jesus," Winger muttered.  "ANAD has practically burned away the whole front of Ferret."
+ANAD detached a part of the swarm that had already replicated into respirocytes.  He and M'wale let the swarm enter orally, coughing as the dry fog filled their mouths.  One after another, the rest of Ferret's crew followed.
+"Ugh," said Bandarsaran, the sensors tech.  "Tastes like dirt."
+"Or metal chips." Winger added, though he was grateful for the oxygen boost.  In a few minutes, his headaches subsided and his vision was no longer blurry.  Deep inside his lungs and bloodstream, uncountable trillions of nanoscale respirocytes swapped oxygen molecules through his alveolar tissues, improving the molecule exchange a million-fold.
+"Feels better," he took a deep breath, looked over at Gerhart.
+"Yeah, like I just swam the Pacific."
+"Let's get to work."  Winger squeezed himself below the main console and started to unfasten its mounts.  "Help me get this bugger off its mounts-"
+Between the two of them, they managed to push the console away from the bulkhead enough to get at the frame behind.  
+Winger pushed and pulled at the skin, until he had worked the panel loose.  Rock dust and rubble poured into the cabin with a crashing roar.
+Blinking and coughing through the dust, the two troopers pawed their way through the rock and rubble until Winger lost his balance and fell forward through a weak spot into a void.  He wound up crawling through the debris into a narrow vertical shaft, buzzing with the high-freq whine of nanobots and backlit by a pale unearthly glow.  It was the bore hole, guided by ANAD right into Ferret's forward compartment and shored up with a barrier screen of bots.
+It was like being inside of a kaleidoscope.
+Winger raised his head up to look around and hit his head on something hard.  Feeling with his hands, he realized he was squatting under the treaded boot of a hypersuit.
+"I think I found our suits," he called back to Gerhart.  "I just hit my head on one."
+
+An hour later, Winger, Gerhart, M'wale and the rest of the crew were grunting and panting, trying to contort themselves into ANAD's tunnel.  With effort and a lot of shoving, Winger was able to force M'wale, now encased in full hypersuit, up into the shaft.  Drawing straws, the crew had decided the geotech should go first.
+"What kind of clearance do you have?"
+The Ugandan geologist bit her lip.  She was not going to succumb to claustrophobia now.
+"Maybe a centimeter around my head.  It's a tight fit."
+"Can you see anything above you?"
+"I can see a wall of rock screened off by bots.  It's like the wall is bubbling and heaving.  But I can reach out and touch it with my helmet.  Above me, it's black as night.  Can't see a thing."
+"It's probably going to be a bumpy ride.  Close your eyes and think of something more pleasant-"
+"Yeah?like what?  Downing a few brews at the O Club?"
+"Just light off your suit boost and get going.  It's a long way to the surface."
+Amen to that, she thought.  Maybe a little Masai prayer would help too.  She took a deep breath, counted to three and pressed a button on her wristpad with her other hand.
+Then she started to move upward, smacking the side of her helmet on the hard rock walls.
+
+She continued her painstaking ascent for what seemed like hours, maybe days.  She soon lost all track of time and space.
+Only the labored sound of her own breathing-her helmet visor was getting pretty fogged up-and the bang and crunch of her hypersuit scraping along the tunnel walls gave her any sense of motion.
+She tried reducing the suit boost to see if it had any effect on the scraping but it didn't.
+Guess I'm going to be a billiard ball when I get topside, she told herself.  She wondered how long that would take.  She would have given anything to know where she was, how close to the surface she was.  Pitch black, in a narrow tube the size of a coffin, with no idea where she was or where she was going.  The geologist in her said study the rock walls, identify the species and the inclusions but---
+It was enough to drive a girl to drink.
+How long she had passed out, she didn't know.  But her mouth was bone dry and there wasn't any liquid in the chin tube; she must have sucked it all dry.  Her shoulders, neck and legs throbbed from the incessant banging and battering.
+Maybe I'm not going anywhere, she thought.  But that couldn't be.  How else to explain the steady thrummm  at the soles of her feet-the liftjets pulsing on and off had made her feet go numb hours ago.  They had never been designed for extended duty like this.
+At least, ANAD's tunnel seemed navigable, if a bit snug.  She wondered where the rest of the crew was.  Had they left right after her?  Or were they still inside Ferret, trapped and suffocating, maybe dead?
+She didn't want to think about that at all.  
+Suddenly she felt like she was being accelerated forward.  With a sudden surge, she was pushed upward, through loose soil?then light?blindingly bright light and before she realized what had happened, she was on the surface, wallowing in snow and dirt like a beached whale.
+Strong hands helped her upright and a blur of faces were just outside her helmet, but the visor was grimy and fogged and she couldn't make out anything.
+She was wobbly but all the hands and her own suit gyros kept her upright.  She felt the helmet quick disconnect go, then a stream of cold arctic air leaked in around her neck dam and the helmet came off with a jerk.
+The first face she saw was Drew Wilkins, scowling in at her bruised, sweaty face.
+"Well, well," Wilkins said, "aren't you a sight?  Sergeant M'wale, welcome back to the land of the living."
+With help from the rescue squad, her hypersuit was clamshelled open and M'wale lifted carefully out.  She was quickly placed into a life-support pod and taken to a nearby lifter.  
+One after another, the entire crew of Ferret made the ascent and one by one, they were pulled free and littered to the med trailer, where Corps doctors looked them over carefully.  There were no major injuries, but quite an array of cuts, bruises, and lacerations.
+The crew of Ferret had been lucky.
+The crew of Otter was not.  
+Otter had lost three crewmembers to injury when the first tremors hit.  By the time the rescue borehole had been drilled and hypersuits boosted down, another crewmember had died?Otter's BOP tech?a Mexican trooper fresh out of nog school who'd opted for Boundary Patrol as a way to see the world?or at least what was below it.  
+Now, only four remained to make the harrowing ascent up the rescue shaft: Kimmel, the ship's CC1; Pinyan, her geotech; Suvorov, the driver; and Sheila Reaves, operating as Otter's DPS. 
+One after another, with Reaves leading the way, the survivors lit off their suit boost and banged and scraped and squeezed their way upward through the tiny, barely navigable shaft.
+Nobody had foreseen the possibility of additional tremors.  Topside, geologist Theresa Mueller had frowned briefly at small-magnitude seismic signals permeating the rock layers underlying the test site.  She said nothing at first, deciding it was normal strain and settling after the sonic lens had fractured several large plate segments along an undetected fault line, a seam stretching from offshore onto the western flanks of Banks Island.  
+When the amplitude and frequency of the 'settling signals' began to increase, though, Mueller tugged at her lips and motioned Wilkins over to her instrument cart, mounted just a few meters from where Ferret's crew had surfaced an hour before.  
+"Dr. Wilkins, I don't mean to be a worrywart, but I really don't like the looks of-
+That's when the ground shook and slid noticeably enough to tip Mueller's cart right onto its side.  Alarmed, Wilkins helped right the cart, while the geologist stared wide-eyed at the waterfall display, aghast at the exponentially expanding signals she was seeing.
+"Transverse wave, Drew?shear waves all over the place?my God-"
+Four hundred and twelve meters below them, the ANAD rescue shaft was instantly severed by shifting rock plates, pinched off above the struggling survivors of Otter's crew.  Incredibly, the lower borehole was unaffected as all around them, the earth groaned and squealed and ground and shimmied.  The borehole above was gone.  Troopers slammed headfirst into each other's boots.  Arms were broken.  Legs twisted and contorted.   Hypersuits were punctured.
+"Shut off your boost now!" Kimmel yelled over the crewnet.  "Cease the ascent?cease ascent!" 
+Whether by the fortune of fate or just an unpredictable shifting of hard basaltic rock layers, the section of rescue shaft with the four trapped troopers widened just a bit, forming a small, elliptical void, no bigger than a closet, wider at the sides, slammed shut above and below them. 
+CC1 Kimmel dug his boots out of the hypersuit helmet of Cindy Pinyan with a great, groaning effort, contorting himself to get a bit more comfortable in the confines of their rock-lined coffin.  He opened his own helmet, snapping off the quick-disconnect and blinked dust out of his eyes.
+They were completely trapped in a space no bigger than a taxicab, three Boundary Patrol troopers and Sheila Reaves of Quantum Corps.  Reaves coughed, spat dirt and a little blood, which alarmed her and muttered, "Well, this is a fine mess we've gotten ourselves in to."
+Kimmel's voice was hoarse, echoing around the small void.  Everybody okay?  Anybody hurt down there?"
+A chorus of voices spoke at once.  "My neck's strained?it's my foot, that damned suit boost?no, I'm okay, but I need something to drink?yeah? want a beer or would you rather have a Merlow??"
+Kimmel told them to cut all unnecessary chatter.  As long as they're bitching, we've got a chance, he said silently.  Bitching keeps the panic away.
+Try as he could, Otter's skipper, CC1 Lieutenant Kurt Kimmel could see no way any of them would ever survive this.
+
+The Inuit angakkuq had been staring intently into a fire inside his tent for hours when the spirits told him that Inuvik's visitors were in trouble.  Silap inue was quite insistent on this and the angakkuq, whose proper name was Aua Hilap, listened carefully, divining the details from the crackling flames and dancing shadows of the fire.  
+Something would have to be done.
+First, there would be qilaneq, asking questions of the spirits.  The angakkuq fished in a small bag and found a sealskin glove.  He carefully placed the glove on the ground beside the fire.  Then he raised a staff of walrus tusk and a belt high over the glove.  He spoke an incantation.  Qila would now enter the glove and the angakkuq would have the power.
+The shaman gathered up his bag with the glove on his hand, threw on his anorak and mukleks and trudged out of the tent, heading for the visitors' test camp a kilometer away, over in the next ravine.  He made sure to take a small walrus tusk with him.  Qalupalik was inside the tusk, in a small containment capsule.
+The angakkuq could see as he approached the visitors that they were all quite agitated.  He went to the leader, the one named Drew Wilkins.  
+"The Old Woman of the Sea is disturbed," he told Wilkins.  "Your friends are in trouble."
+Wilkins seemed exasperated, directing people left and right, moving strange equipment around.  "Aua, I can't talk now?we've got an emergency.  We may have lost an entire geoplane crew."
+The angakkuq squinted at the chief.  "Your friends are not lost.  This Sedna has told me.  They're down there-" he pointed to the snow-covered ground.  "They're alive."
+"Aua, you can't know that.  Theresa-" Wilkins motioned the geologist Mueller over.  "Anything?any kind of signal?noise?anything?"
+Mueller's face looked like a child's, inside her huge fur-lined parka.  "Hard to say, Drew.  We've got a lot of seismic noise down there?plates shifting, rock fracturing, strains building up?steady compression and release generates a hell of a lot of energy.  It has to go somewhere.  I'm not hearing anything that sounds like a geoplane, anything man-made at all."  Her eyes clouded.  "Sorry."
+Wilkins swore.  "Seven people.  I just don't feel right giving up on a recovery.  But I don't know where to send ANAD, where to bore an escape shaft."
+Now the angakkuq intervened.  "The spirits talk to me.  Sedna, the silap inue, talk to me.  She speaks of souls lost in the ground."  The shaman hoisted up his walrus tusk.  "I will call qalupalik."
+Wilkins threw up his hands.  "Go ahead, Aua?do whatever you can.  It can't hurt. I just dread having to fill out another accident report, another one with casualties.  Maybe the geoplanes-" he stopped.  He wouldn't let himself even go there, or believe that.  "Go ahead-"
+The shaman trudged off through light snow to a small dish-shaped depression fifty meters away, up a slight rise.  He saw caribou tracks in the snow.  The animals had passed this way recently.  He hoisted up the walrus tusk, at the same time thumbing a small control stud along the side of the containment capsule inside the tusk.  Then he carefully laid the tusk on top of the snow.
+For a moment, nothing happened.  Then a faint shimmer in the air at the mouth of the tusk indicated the emergence of a small nanobotic swarm.  The mist drifted out and began to coalesce into a human form, briefly visible as a long-limbed creature with long hair to its shoulders, green-tinted skin and very long finger nails.  Then the apparition began to fade, dispersing into an amorphous cloud and burning a blue-white hole in the snow, melting the depression's snow cover into small rivulets of steaming water.  In five minutes, the blue-white glow had subsided.
+The qalupalik had entered the earth.
+
+Four hundred and twenty meters below the still-smoldering depression, Boundary Patrol troopers Kimmel, Pinyan and Suvorov coughed steadily in the thickening dust, clinging precariously to a narrow ledge in their rock void.  Quantum Corps trooper Sheila Reaves had already passed out from carbon dioxide buildup.
+It's only a matter of time now, Lieutenant Kimmel told himself.  He didn't say that out loud, and tried as best he could to keep the spirits of the others up.  In the last six hours, they had sung songs, told their life stories, imagined their favorite dinners and listed their top ten vacation spots in order of desirability.
+Now the void, heavy with dust, was steadily losing breathable air and the emergency lighting on Pinyan's hypersuit helmet was giving out.
+For long minutes, nobody could think of anything to say.
+Then, Suvorov, the Russian DSO, coughed and spoke up.  "What is that, tovarich?  Something in the wall-"
+Kimmel figured the Russian was hallucinating, then he saw the faint blue white glow as well.  Momentarily startled, he started to reach for the bubbling rock face of the wall then thought better of it.  He started to imagine what it could be, but wouldn't let himself think, believe that-
+The troopers watched in amazement as the wall in front of Suvorov's face dissolved in a blindingly bright blue-white glow.  In less than five minutes, a two-meter opening had formed, smoking around its edges.  A small glowing ball burned supernova hot in the center of the opening.
+"Jesus H. Christ," Pinyan breathed, "they did it.  Topside came through.  Wilkins, that stinking bastard did it!"
+Suvorov squinted at the apparition.  "I don't know how-"
+"Who cares?" said Kimmel.  "I think there's a navigable tunnel behind that opening?if this little bugger will just move out of the way."
+"You think it's safe?  We don't know where that leads.  Wilkins would have sent down some gear as well?that's protocol."
+"Is it safe to stay here, Cindy?  Come on?get your ass in gear.  This is the way home."  Kimmel didn't bother to wait for the others.  He contorted himself around Suvorov's legs, stuck his head inside the opening and hoisted himself through.  "Hot as hell in here?the walls are like glass.  What the hell kind of swarm is this, anyway?"
+Suvorov pushed and shoved the Lieutenant through.  "Move your ass, Skipper.  We don't know how long this opening will hold up.  The whole area's unstable.  Another tremor and it could collapse."
+"Someone wake Reaves up too."
+One after another, the four buried troopers squeezed and shimmied and contorted themselves into the still-sizzling rock tunnel.  The only light they had was Pinyan's fading helmet lamp.
+That and the strange blue-white ball of light?now moving ahead through the newly bored tunnel, beckoning them on.
+
+Their journey lasted for what seemed like days.  Kimmel was in front, followed by Suvorov, Reaves and Pinyan.  Reaves was out of breath the whole time.
+This must be how a worm feels, she said to herself.  What a life.
+They dared not use suit boost.  The close quarters meant any boost would have fried the face of the person behind them.  So they crawled on hands and feet and it wasn't long before all hands and feet were cut and bleeding and scalded from the hot walls.  But nobody complained.
+Onward they squirmed and squeezed, following the twists and turns of the tunnel which thankfully stayed wide enough for all them to work through.
+"Man," said Suvorov, "this is some kind of escape shaft.  We go up, we go down, we go sideways.  What the hell kind of recovery protocol is this?"
+"Who cares?  At least we're out of jail.  I didn't much care for expiring in that rock prison we were in."
+Hours later, the tunnel walls began to grow icy.  The ice thickened, then started melting.
+"I don't like the looks of this," Pinyan muttered.  "My fingers are numb."
+"Shut up and keep moving," Suvorov warned.  "Just follow the light."
+The ice melted into a trickle of cold water, then a stream and before they realized, they were crawling and sloshing through freezing cold water, which filled nearly half the tunnel.  The water level continued to rise.  It gushed into the tunnel into torrents.
+Kimmel wondered if they had made a serious error in judgment following the blue-white light but it was too late now.  Ahead of him, maybe two meters, the light glowed from below the water like a malevolent eye.  
+Then, all of a sudden, they were out of the tunnel, all of them, floating in water, numbingly, brain-freezingly cold water and they gasped and choked and flailed wildly.
+Reaves had a brief thought, as she clawed and kicked her way toward what seemed like light and air and some kind of surface above her.  This is how it ends, girl.  Either trapped in a rock prison and drowned in an ice lake.
+Suvorov was first to the surface.  He popped up above the water, splashing, yelling, banged by some kind of ice floe right next to his head.
+Then came Kimmel, Reaves and Pinyan, all of them slapping the water, yelling, nearly dead from the numbing cold.
+They splashed and coughed and gagged and stroked and kicked and eventually found themselves inching their way on their bellies up onto a rocky slope, the shores of what seemed to be a meltwater pool surrounded by hills.  Sleet flecked the air, driven into their faces like stinging needles by a stiff wind.
+They were injured, dehydrated, cut, bleeding, stiff from the cold, nearly in shock, facing hyperthermia but they were alive.
+It was Reaves who heard the whop-whop-whop of a lifter's props somewhere over the hills.  With her last ounce of energy, she got unsteadily to her feet, waved wildly in the air, cycled her helmet comms and shrieked over the wind at the top of her lungs.
+The lifter was overhead in seconds, descending toward the ground.  Reaves crumpled in a heap into a snow bank.
+Out in the center of the meltwater pool, the blue-white ball of light had disappeared.  Now there was only an old man, slinking off toward the hills.  Cindy Pinyan shook her head, sure she was seeing some kind of ghost.  Maybe it was the aurora undulating over their heads, visible even in daylight.  
+The old man had long hair halfway down his back.  His skin had a greenish tint.  His fingers were broken, misshapen, with incredibly long nails at the ends.
+He turned to look one last time at the recovery scene, the grateful troopers being littered over to the lifter, the medics, the para-rescue people.
+Then the qalupalik loped off toward the hill and was soon gone, lost beyond the veil of swirling snow.
+Cindy Pinyan had seen the whole thing.  She started to say something to the medic attending her but thought better of it.
+Just my imagination, she figured.  A ball of light and an old man.  When you're desperate, your mind will conjure up anything.
+She sank back in the litter and let the rescue techs carry her off to the lifter.
+
+Chapter 3
+"Shockwave Troopers"
+
+U.N. Quantum Corps, Western Command
+Table Top Mountain
+Idaho, USA
+September 10, 2049
+0645 hours (U.T.)
+
+Major Jurgen Kraft scowled at the display dominating the Ops center.  It was a God's eye view of the Mountain, showing roads, mountains, rivers and most importantly, known faults and fracture seams underground, radiating throughout the area.  "You're sure of this analysis?"
+Dr. Furman Radko was Quantum Corps' Table Top Labs director.  He was not a geologist, and he licked his lips nervously as Kraft's fierce eyes bored in on him.  "Major, no analysis is a hundred percent certain.  We deal in probabilities here.  But we've been able to pick up snatches of pulser signals over the last week or so and after analysis and some inspired guesswork, the Lab thinks the signals are coalescing here, below Table Top."
+Kraft's moustache twitched like a mouse sniffing for cheese.  "Lofton, what does Q2 think?"
+Major James Lofton was head of the Corps' Intelligence Directorate, known as Q2.
+"We've seen the same evidence, Kraft.  Pulser signals emanating from somewhere on the other side of the world.  It can't be Lions Rock, but the source could well be in east Asia?Radko's people are just picking up snatches of decoherence wakes?you know how quantum signals are.  The source could be the cartel's Paryang base, in Tibet.  It's hard to say."
+Kraft was skeptical but he couldn't ignore facts.  "And the focus-you think it's here?"
+Lofton nodded.  He pointed out the stratigraphic map of the western U.S., expanding it to show the faults, seams and fracture zones below central Idaho.  "The data doesn't really support any definitive conclusions but my hunch is Red Hammer's trying to create some swarms right below Table Top.  Look at it from their point of view: if they could set off a series of tremors and quakes, they could damage operations here at Table Top for a long time.  That'd give them a free hand elsewhere, like New York or Paris.  We know those cities are primary targets."
+Kraft didn't like to admit there was anything his nanotroopers couldn't do.  "We don't have any geoplanes assigned to us, gentlemen.  I've got the bots and the atomgrabbers but I can't get at those subterranean bugs without Boundary Patrol.  I need their planes."
+Lofton was serious.  "Kraft, we haven't detected any seismic or acoustic or thermal evidence of swarm activity below Table Top?yet.  Red Hammer may just be conducting some kind of recon mission under our feet.  But the truth is those swarms could expand at any moment and loosen enough rock to shake, rattle and roll this base.  My gut feeling is we've caught something in its earliest stages, before they're ready to commence any assault.  We've got to move fast."
+Kraft said, "I agree.  I don't like it but I'll put in a call to Boundary Patrol now.  And UNSAC.  We'll need high-level orders to do anything joint with Chandrayaan's rockheads.  Whatever it takes, I need geoplanes and ANAD swarms to go digging and stop whatever the dirtbags are planning."
+With that, Kraft dismissed Lofton and Radko and made the call to UNSAC in Paris.
+
+The mission was to be designated Tectonic Guard.  In an extended talk with Major Kraft, General Kincade CINCQUANT and Ravi Chandrayaan of Boundary Patrol, UNSAC decided that two geoplanes would be made available for a force recon mission in the rock strata directly beneath Table Top Mountain.  The ships, geoplanes Mongoose and Badger II, would be assigned from Boundary Patrol's North American station near New York.   The planes would have BP crews, but the DPS techs aboard each crew would come from Quantum Corps.   The Defense and Protective Systems rating was a natural fit for an atomgrabber and the techs would handle all counterswarm operations once underway.
+Kraft selected Johnny Winger to serve aboard geoplane Mongoose and Sheila Reaves to handle DPS duties aboard Badger II.
+Before the planes arrived by cargo hyperjet, Kraft held a quick briefing with Winger and Reaves in his office in the Ops center.  
+"I know you both think BP rockheads are basically pricks with their precious geoplanes," Kraft was saying, "but we need them to get ANAD into contact with the enemy's swarms.  So watch your manners and be good little crew people.  Winger, you've been working on optimizing ANAD for better solid-phase ops.  How's that going?"
+Winger had been practically living at the Containment center after the sonic lens tests with Ferret and Otter.  "Doc II had some ideas so we tried them.  We changed some of the effector algorithms and souped up his replication routine.  The changes haven't been fully tested but ANAD should be a regular rockhound now?able to buzz through rock like a real mole."
+Kraft asked, "You didn't by any chance purloin details from Boundary Patrol's borer ANAD, did you?  You know how sensitive the rockheads are about that."
+Winger tried to smother a grin.  "No, sir, absolutely not, sir.  The fact that our ANAD's new effectors and processor contains exactly the same algorithms as the borer bots is purely coincidental.  We have smart people on our side too and besides, sir, who better to jazz up an ANAD swarm than Quantum Corps?"
+Kraft sniffed.  "Well spoken, Lieutenant.  I don't believe a word of it, but well spoken.  Reaves, any concerns about your role here?  You're DPS with the crew of Badger II."
+Reaves smirked over at Winger.  "None, sir.  I'm just anxious to get into action with our new and improved ANAD as soon as-"
+Her words were cut off in mid-sentence as all of a sudden, Kraft's office, in fact the whole Ops building begin shaking noticeably.  It was a transverse wave, moving the floor, walls, Kraft's desk, their own chairs and shelves along one wall in a distinct up and down motion, a series of felt waves that made Reaves think she was at sea.  It stopped in less than ten seconds.  
+"Jeez!" Kraft bounded out of his seat and staggered and wobbled over to a window, just in time to see the control tower overlooking the hyperjet runways visibly swaying.  For a brief moment, he was afraid the tower would topple over completely.  
+"The whole base is shaking!" Winger yelled, staring out the window with Kraft.
+Reaves eyed a crack spreading across the ceiling.  "Maybe we should take cover-"
+But the shaking stopped almost as soon as it had started.  Outside, troopers and technicians were running in all directions.  Smoke rose from the canteen that adjoined the PX?something cooking had probably spilled and started a fire.  Sirens warbled across the top of the mesa.  
+Kraft's vid chirped.  He answered.  It was Field Control, the tower he had seen swaying.  "Major, we had two jets inbound from New York.  The geoplanes on their hyperjet carriers.  I had to divert them immediately?the whole place was shaking so bad and one jet was on final.  They're headed to Boise International right now.  I thought you'd like to know."
+Kraft growled.  "Thanks, Sergeant. I'll contact Boise.  I guess our cartel friends decided to send us a little greeting card."
+Reaves watched the scene outside.  More fires had erupted near Containment.  "They'd better get those under control and fast.  Any breaches there will send a lot more than flames shooting around the base."
+Winger had an idea.  "Major, maybe I should get down to Boise and help BP get situated.  If Table Top's already under attack, this may not be the best place to bring the geoplanes and the detachments.  We could launch from there if we had to."
+"Do it," Kraft ordered.  "I'll squirt the mission details to you once UNSAC signs off.  And I'll send a convoy of crewtracs and lifters for logistics."
+"I'll get ANAD contained for transport and take him myself," Winger said.  "The sooner we get going, the better."  His words were punctuated by another round of slight tremors, barely felt but there all the same.  The vid display on Kraft's desk wobbled and shifted several centimeters, nearly to the edge of the desk.  Kraft caught it just in time.  
+"On my way, sir."  Winger and Sheila raced out of Kraft's office.  On a dead run to Hangar A at the north end of the mesa, Winger got on his wristpad to requisition a lifter, under Kraft's authority for Tectonic Guard.  
+"Sheila, get the rest of our mission gear loaded.  I'll swing by Containment and button up ANAD for the trip."
+"Right!  Meet you on the ramp!"  The two nanotroopers parted and Winger swerved back south to head for Containment.  With Table Top already under seismic assault, every second was critical.
+
+The two geoplanes were unloaded, checked out and got underway in less than two hours, burrowing into a wooded hill just beyond Runway 080 at Boise International.  Winger boarded with the crew of Mongoose.  Sheila Reaves climbed through the aft hatch of Badger II at the same time and both nanotroopers made quick introductions with their Boundary Patrol crewmates and settled in at their duty stations on the command decks, B deck on each ship.
+Like Badger, Mongoose sported a full BP crew with Winger slotted in as DPS.  Lieutenant Karla Jung was CC.
+Jung was a severe brunette with a witch's scowl, accentuated by high cheek bones and a malevolent smirk.  "So, Winger, you up on sonic lens details?  Mongoose has the latest mods and upgrades."
+Winger figured this was going to be one big headache of a mission if the whole BP crew was like Jung.  Just smile and sit up straight.  "Yes, Lieutenant, I am.  In fact, I was at Banks Island for the first tests, on board Otter, in fact."
+That made Jung's face harden.  "Otter?you were damned lucky to get out of that alive.  What makes you think you can just shoot bots into rock and not set off quakes?  Don't you atomgrabbers have any geo background?"
+Winger could see the borer operator and the driver turn and, with their sneers, silently agree with Jung.  Red Hammer wasn't the only adversary out there, he realized.  
+"No, ma'am, geo isn't part of our training.  Don't rockheads know how to employ combat swarms properly?  It's all in the config, you know."
+Jung glared back at Winger for a full ten seconds, silently willing the nanotrooper to up and vanish from her pristine Boundary Patrol crew.  Finally, she thought better of what she wanted to say and, without taking her eyes off Winger, ordered Mongoose into action.
+"BOP, bring the borer on line smartly.  DSO, set treads for full revs?I want two klicks at least when we go under.  Ten degrees down angle?on my mark-"
+"Yes, Lieutenant," came a chorus of replies.  
+Jung sniffed and settled herself in at her station, hooking up the four-point harness.  
+Through the hull, Winger could hear the clanking of the treads being initialized.  Ahead of them on A deck, the white-hot swarm of ANAD borer bots swelled and surged out of containment, turning Mongoose's nose into a brilliant half-globe of light.  The ship shuddered and vibrated like an animal waking up and stretching its muscles.
+Jung said, "Go!"
+Treads were engaged.  The borer bit into the soft, spongy ground atop of wooded hill a kilometer beyond Runway 080, melting its way into the dirt and underlying rock.  The ship lurched forward, and the deck angled downward.
+Outside, had anyone been near enough to watch, they would have seen two mole-like geoplanes burning their way into the ground, sliding slowly out of sight, as their black armored hulls disappeared into the ground.  In seconds, both ships were gone, leaving only a black smoking tarry pile of dirt, mud, pine needles and fallen limbs.
+"Ten meters depth," called out Mongoose's Geo, Sergeant Zhang.  Zhang was Taiwanese, short, stocky, with jet black hair hanging in curls over his right eye.  Dataspecs in that eye gleamed and flashed with geo data from the ship's sensors, outlining rock layers, seams, suspected faults, stratigraphic details.  "Quartz layers ahead, Skipper.  Hard stuff.  Sedimentary formations, undifferentiated metamorphics?looks like some basalts too."
+"Very well, Zhang?spare me the details.  Just let me know if anything shows up that we should avoid.  Sensors, anything on the scope yet?"
+Sensors was Sergeant Smithers.  She was a redhead, with big green eyes, which she covered with her own dataspecs.  Her fingers flew across a panel like a classical pianist.  "Faint seismics, Skipper.  Lots of noise down here?we're paralleling the Ridge fault line on this heading.  Recommend we put some distance between us and the fault."  Smithers studied the waterfall display, noting faint spikes at the bottom.  "Could be non-seismic, but it's hard to be sure.  I need a better aspect to get some resolution for SAPS."
+"Okay," Jung decided.  "Notify Badger.  DSO, brings us to heading two five five?and angle down to a hundred meters.  Those spikes may be worth investigating.  Winger, your little bot buddies ready to rumble?"
+"ANAD loaded with combat config C-53?ready in all respects."
+Jung nodded.  "I doubt we'll need him but I want to be ready for anything.  SS1, anything yet?"
+Smithers scratched her red hair for a second.  "Not sure, Skipper.  The signals I'm seeing don't match any known seismics.  They're faint but offhand, I'd say we're hearing narrowband stuff, heavy stuff."
+"Like a geoplane?"
+Smithers nodded.  "Yes, ma'am.  And it's not Badger?I've got that filtered out and accounted for."
+"Good enough for me.  DSO, steer Mongoose toward Sensors' target.  Winger, get ANAD ready and power up the sonic lens."
+For the next few minutes, Mongoose prosecuted her target, closing steadily on the signal source.  The geoplane's approach was slowed by a steady rhythm of shakes, quakes and tremors as her borer sliced through the rock layers of hard basalt and slate.  Nothing too dramatic but Jung ordered the ship slowed to one quarter speed.
+All doubt was soon removed when Mongoose shuddered violently and began a slow counterclockwise roll.
+"P-wave!" announced the geotech Zhang.  "Transverse P-wave?high amplitude, multiple waves--!"
+"Hang on!" someone yelled.
+Mongoose slid sideways, her hull creaking and groaning from the stress.  A series of waves slammed her hull from the starboard quarter and there was an unmistakable sensation of sliding, sliding left and downward.  
+"Steer into the wave!" Jung ordered.
+"She's not responding!" the DSO came back.  "Helm is sluggish?I'm losing traction in my right tread-"
+"It's multiple waves!"  Zhang said.  "We're slipping?feel it?"
+Slowly, Mongoose righted herself and steadied out, her treads biting into the rock, her borer burning their way forward. 
+Smithers called out, "Swarm signals dead ahead, Skipper!  Swarm acoustics, strong returns now?we must be right on top of them!"
+Jung wasted no time.  "DPS, fire the sonic lens.  Five bursts-Sensors, get me a bearing!"
+Smithers studied her display.  "Best bearing one eight zero?centroid at one eight zero!"
+Winger stabbed a button on his panel and the acoustic blast of the sonic lens boomed out through the hull, reverberating as if the ship were a gong.  One after another, Winger pulsed out blasts of the lens, shattering rock ahead of them, and hopefully enemy swarms as well.
+"Now launch ANAD!" Jung ordered.
+Winger cycled the containment port on Mongoose's outer hull and the bot master squeezed its way out.  "Sending max rate reps now," Winger reported.  "Combat config?he's building mass?moving out on reported bearing."
+"Okay, belay the sonic lens?let ANAD do his thing."
+For half an hour, Mongoose and her sister ship Badger II stalked the enemy target.  SS1 reported broadband returns ahead less than one kilometer, scattered returns with acoustics of a swarm.  "Diffuse signal, Skipper?I think the lens damaged them?the signal is scattered, not as tight."
+"Time to ANAD intercept?"
+Winger counted down from the launch.  "Less than five minutes, Lieutenant."
+The sonic lens had indeed scattered the Red Hammer swarms but in so doing, the pulses shattered enough rock along an unsuspected fissure to set two plate segments in motion.  The resulting tremors would later be measured by geologists at greater than magnitude 7.0.  
+Topside, several kilometers north of the underground battle, Table Top was in a world of hurt.  As the subterranean plate segments unlocked and shifted suddenly, a series of devastating compression waves rolled through Buffalo Valley and slammed the mountain like a fist, hammering the flanks of Table Top mesa with untold gigawatts of released energy.
+The first structure to fail completely was the control tower overlooking the hyperjet runways, which toppled like a bowling pin and crashed over onto the north end of Runway 32 Right. Seconds later, Hangar A to the east of the tower foundation lost its cantilevered roof and one wall and soon lay in smoking piles of rubble.
+The Ops center took longer but in the end, the glass and steel edifice was shifted too far off its foundations by the seismic waves and settled unevenly to the ground, loosening several load-bearing walls, which promptly imploded and caved in.
+Inside the Ops center, Major Jurgen Kraft had been hustling with much of his staff and officers down flight after flight of emergency stairs when the walls buckled.  Most of the staff was flung from the stairs into the cascade of girders, rebar and foundation blocks which rained down on them from above.
+Many sustained serious injuries.  Several died instantly in the collapse.
+Jurgen Kraft never made it to the bunker underground.  The stairs gave way and the outer walls disintegrated in an explosion of brick and mortar.  From the beginning, the Ops center had been designed to withstand near hurricane force winds and heavy snowpack on its roof.  But it had never been designed to withstand the magnitude 7.0 compression waves that rolled through central Idaho that afternoon, the result of a fierce battle going on hundreds of meters belowground.  
+Jurgen Kraft was crushed in a cascading pile of rubble that imploded on top of the fleeing staff.
+At the very same time the Ops center and much of the Table Top base was sustaining major damage, ANAD was engaging the enemy swarms.  Winger studied the sporadic acoustic and thermal returns from the swarms and finally 'went over the waterfall' to get a nanoscale view of what ANAD had encountered.   He let the initial wave of nausea pass and focused on making some kind of sense of what he was 'seeing.'
+It was like flying at Mach 1 at an altitude of two centimeters.  Solid-phase ops always made him dizzy.  The rock structures were mostly feldspar and quartz, according to Zhang, formed in a tight crystalline lattice.  He could almost imagine himself as ANAD climbing some kind of ladder that never seemed to end.
+The Red Hammer bots were clearly ANAD clones.  Same processor head and main casing that looked like stacked pancakes.  Effectors out the wazoo with all-axis joints controlling  picowatt thrusters.  In nearly every respect that he could see, the enemy bots were ANAD.
+We know what to do with this, he muttered to himself.  Time to show these rockheads how real nanotroopers go to war.
+He let ANAD handle the initial engagement.  The swarm closed and grappled with the enemy bots and the resulting furball was a street fight at the level of atoms and molecules.
+Sort of like ballroom dancing, with fists, someone had once said.  
+"ANAD now engaged," Winger reported.  "He's grappling but the bugs have a hell of a lot of effectors.  I'm going to back off and try disrupters."
+The rockheads could see pixelated snatches of images of the fight on Winger's display.  
+"Looks like the inside of a tornado," murmured Nolan, the borer operator. 
+"Or a cat fight," someone else said.
+Moment by moment, as Winger steadily modified configs and joysticked ANAD into new configs to give him the advantage, a grudging sort of respect developed among the crew of Mongoose.  Tremors and waves continued to batter Mongoose and Badger as the ships pressed the attack.
+In the end, a combination of ANAD engaging, interspersed with occasional bursts of sonic lens, convinced the enemy that he couldn't succeed.  It was Smithers who reported that the Red Hammer geoplane was backing off, pulling out.
+"Possible aspect change on signal," Smithers said, studying her waterfall display.  "Return strength dropping?he may be moving off."
+"ANAD's finishing off the swarm," Winger added.  "Just mopping up now?sporadic swarm outbreaks can be contained.  I'm sending an abort command to the master?he'll slough off most of the bots and return to the ship."
+"Very well," Jung said.  "DSO, turn us to capture heading so ANAD can come home.  Secure the sonic lens.  How's Badger doing out there?"
+Some discussion went back and forth between the two geoplanes.  Badger had fared much the same as Mongoose.  Her CC1 was Lieutenant Jeff Stefans.
+Stefans' voice crackled over the ship-to-ship circuit, scratchy and strained, as the tremors began to settle down into minor aftershocks.  "We really did a number on the rock plates around here, Karla.  I'm not sure what happened topside."
+Jung replied, "We'll find out soon enough.  This one was like a roller-coaster.  Any more contacts?  I think we drove ours off?maybe even damaged him."
+"For a while, our SS1 was sure there were two enemy geoplanes.  We had two signals.  Later, he thought maybe one was a reflection.  We engaged swarms, same as you, and the configs Sheila Reaves hacked out worked like a charm.  We chewed their buggers up and spat 'em out in no time.  Nice to think we still have an edge somewhere."
+"Let's go up and see what's happened topside."
+Stefans agreed and the two geoplanes angled toward the surface, finally breaching within half a kilometer of each other at the south end of Buffalo Valley.  It was dusk outside when Mongoose finally burst from the ground like a hungry gopher and clanked down to a halt, her armored hull shedding dirt, rock chips and snow like a shivering animal.   She sat steaming and hissing for a few moments, then Jung ordered the DSO to engage treads.  
+Like a drunken sailor, Mongoose trundled through light snowpack toward the base of Table Top Mountain, then climbed the steep flanks of the mesa, eventually reaching the summit and coming to rest just outside the gates of Drexler Field, the parade and rally grounds at the east end of the mountain. 
+Jung was first out of the hatch and she clung to the hatch hinges for a few seconds, numb with shock and dismay at the scene before her.
+Table Top base was in ruins.
+Johnny Winger popped his head out next and sucked in his breath at the sight.
+"Jesus. H. Christ-I-"
+"Fall out!" Jung ordered her crew.  "And grab your medpacks.  We're going to need 'em."
+
+The Containment dome was one of the lesser damaged structures on the base.  That alone made many nanotroopers breathe a little easier, knowing none of the bots and swarms held within had escaped into the air.
+The dome had been re-purposed into a combination command center, clinic and canteen.  With the Barracks and O Quarters nearly leveled, bunking quickly became an issue.  Temporary facilities were soon assembled by dedicated botswarms inside the one still-standing hangar, Hangar C.
+General Winston Kincade was CINCQUANT and Table Top base commander.  A makeshift office had been setup for Kincade and his staff inside Containment.  Winger and Sheila Reaves were ordered to report as soon as the geoplanes arrived.
+Dodging repair bots and troopers hustling crates and packs of materials back and forth across the walkways, Winger and Reaves made their way to Kincade's closet-sized office.  In fact, it had once been a storage hall, but walls had been knocked out and office furniture moved in.
+Kincade rose to greet the troopers with a heartfelt handshake.  "You heard about Major Kraft, I suppose?"
+Winger had gotten the news that Kraft had been killed upon arriving at the Containment center.  "Just heard, sir.  I'm having a hard time with it.  First Nano?without Jurgen Kraft--"  He shook his head.  Reaves struggled to fight back a few tears.
+Kincade waved them to nearby seats.  "It's hard to imagine.  Kraft built 1st Nano, from the ground up."
+"He was a like a father to us," Reaves admitted.  "Sometimes gruff and often stern, but he wanted the best for the unit?for all of us."
+Kincade wasted no time.  "Winger, thanks to you and the Boundary Patrol crews, Table Top---what's left of it-is still operating.  There's talk coming down from UNIFORCE that we may be re-locating?to a new base.  That's unofficial for now and you keep that to yourselves.  The geos say all the combat you engaged in has made the ground underneath us unstable.  They say more shocks and tremors are likely.  Obviously, we can run Western Command when the ground under our feet isn't stable."
+"A new base?"  Winger looked at Reaves.  Their whole lives as nanotroopers had been centered at Table Top.  The mountain was home, in all senses of the word.  "Where, sir?"
+Kincade smiled faintly.  "Scuttlebutt out of the Quartier-General is somewhere in Mexico, maybe the Yucatan.  More centrally located.  But as I said, that's unofficial?for now.  In the meantime, 1st Nano needs a new skipper.  Winger-" Kincade pulled out a small box, which he opened up to reveal a small insignia?a gold cross-orbital, lying on a bed of black felt.  "-I'm bumping you up two grades to Major.  You're assuming command of the battalion immediately."  He indicated Winger and Reaves should stand, then he came around the desk, pinning the insignia on Winger's sweat-stained tunic at the lapels.  When he was done, Kincade back off and stood up straight.
+Winger swallowed hard.  Major?  Me?  He saluted as smartly as he could.  "Yes, sir-"  Kincade snapped off a return salute.  
+"I know this seems kind of sudden, but we've got a determined enemy out there and 1st Nano is the tip of the spear.  We've driven them off for now but they smacked us hard here at Table Top.  The coming months will be a test for all of us.  Red Hammer can still inflict serious damage without warning and we need to deal with that.  And I need my best people to step up and do their jobs."  He stuck out a hand.  "Congratulations, Major John Winger."
+
+Two days later, a memorial service was held outside at Drexler Field, for all troopers and staff killed in the quakes and for Major Jurgen Kraft.  The whole of 1st Nano was there, dressed as best they could in clean dress uniforms, though some of the outfits were torn and patched.
+It was a cloudless, late summer day, a windy day on the Mountain.  Caskets were lined up in front of the stands, draped in blue and white UN flags, surrounded by an explosion of chrysanthemums and lilies and garlands of greenery everywhere.
+General Kincade spoke of the sacrifice of good men and women.  Others spoke of duty and honor and the battles yet to come.  It was Mighty Mite Barnes, in a tear-streaked eulogy, who said it best.
+"'Yea, though I walk through the valley of the shadow of death, I will fear no evil'?that's what the Psalm says.  All these people weren't superheroes.  They were nanotroopers.  Atomgrabbers.  They had fears and dreams, just like the rest of us.  What makes?excuse me, what made them? different from you and me, better than you and me, is why they walked through that valley.  They didn't do it for money or honor or glory or anything like that.  They did it for you and me.  Sacrifice is what some people call it.  I call it love.  They loved you and me, loved us better than life itself.  They loved what they did.  The way we honor people like that is to love each other and even more, to love what we do and love serving people.  That's what an atomgrabber?a real atomgrabber's made of?love of serving others."
+There wasn't a dry eye in the stands after that.
+At the end of the service, a squadron of lifters streaked over the Mountain, in missing-man formation.  
+Johnny Winger left the stands at Drexler Field for a little walk.  He needed time to think.  Barnes and Sheila Reaves joined him.  They walked the perimeter fence of the compound, all the way around the mesa.
+Reaves whistled at the extensive damage the base had suffered. 
+"Jeez, Lieutenant?I mean, Major, look at this-it's incredible."
+Barnes agreed.  "A wonder more weren't hurt?or killed."
+Every building, right down to the guard shacks, had suffered damage.  Debris still littered the runways, along with jagged surface fissures that made one of the runways unusable.  The hangars, the barracks and O club, the Ops center, the sim/training complex-all of them were missing roofs, windows, front facades, or whole walls.  
+"Magnitude 7.0 was what I heard," Winger said.  "And we're still feeling it?aftershocks and tremors every hour."
+"It's a shame we can't just re-build all this," Barnes said wistfully.  "Table Top has always been like home to me?how can we be nanotroopers if there's no Table Top?"
+Winger agreed.  "Too unstable now, the geos say.  All that maneuvering and fighting underground has loosened tectonic plates and seams enough to cause a hell of a lot of shifting.  Geoplane ops are just too dangerous and I don't mind telling my rockhead friends that.  Maybe the whole idea behind Boundary Patrol should be re-thought."
+"Tell that to Red Hammer," Barnes said.  "As long as the cartel has geoplanes and can threaten cities from below, there'll be a Boundary Patrol.  And Quantum Corps will have to work with them.  Rockheads and atomgrabbers?what a combination."
+The three of them walked along the north slope of the Mountain for a while and stopped at a craggy overlook just inside the security barrier, only a few dozen meters from the end of the damaged Runway 32 Right.  Lifters came and went right over their heads, vee-tolling into the north and south liftpads and hoisting gear, supplies and equipment off to a staging area near Boise.  Transferring operations from Table Top to the new Western Command base in Mexico would take several weeks.  Shutting down Table Top and turning the facility over to the U.S. National Park Service would take even longer?a lot of 'sanitizing' still had to be done.
+Reaves admired the early fall color of the aspens lining the slopes of the Buffalo ridge to their north.  The flanks of the mountains were resplendent with gold and red in full bloom.
+"Major, what do you know about this new place?  I hear it's not far from the ocean."
+Winger had studied the layout in Kincade's office earlier that morning, helping plan 1st Nano's ready room layout and the battalion offices.  
+"Ten kilometers to the Gulf," he told them.  "And it's right in the middle of a rain forest too.  Built up on a ten-meter berm.  Locals call the forest La Selva. Creepy-crawly things all over the place; you'll love it.   The best part is Kokul-gol, twenty kilometers northwest." 
+Reaves said, "Kokul-what?  What the hell is that?"
+"Kokul-gol.  Ancient Mayan temple and ruins.  It's said to be infested with all kinds of ghosts and ancient spirits."
+Barnes rolled her eyes.  "Oh, great? Taj Singh will go apeshit over that?all the spirits and hexes and curses and mummies."
+"I don't know if it has mummies or not," Winger said.  "But it is an active excavation site, sort of like Engebbe in Kenya."
+"That's just friggin' great," muttered Barnes.  "More archeologists to coddle.  Who picked this place anyway?"
+"I heard it was UNSAC himself.  Mesa de Oro is more centrally located.  I even heard scuttlebutt that there's an underground tunnel from the base right out to the sea?.but that could be just talk."
+The three of them headed back toward the commissary, now a makeshift tent erected near the rubble pile that had once been the PX.  The smell of something being grilled outside had wafted across the Mountain and nanotroopers were streaming in from every direction.  Lines were already forming.
+The troopers of 1st Nano could not yet know that a little known secret about their new soon-to-be home base at Mesa de Oro would lead them on yet another adventure to the desolate countryside and prehistoric ruins near Mount Kipwezi, Kenya in the days and weeks ahead.  
+
+END
+
+
+
+
+About the Author
+Philip Bosshardt is a native of Atlanta, Georgia.  He works for a large company that makes products everyone uses?just check out the drinks aisle at your grocery store. He's been happily married for 25 years.   He's also a Georgia Tech graduate in Industrial Engineering.  He loves water sports in any form and swims 3-4 miles a week in anything resembling water.  He and his wife have no children.  They do, however, have one terribly spoiled Keeshond dog named Kelsey.
+For technical and background details on his series Tales of the Quantum Corps, visit his blog at http://qcorpstimes.blogspot.com.  For details on other books in this series, visit his website at http://philbosshardt.wix.com/philip-bosshardt or learn about other books by Philip Bosshardt by visiting www.smashwords.com. 
+Download the next exciting episode of Quantum Troopers from www.smashwords.com.  It's called "Mount Kipwezi." Available on January  30, 2017. 
+To get a peek at Philip Bosshardt's upcoming work, recent reviews, excerpts and general updates on the writing life, visit his blog The Word Shed at: http://thewdshed.blogspot.com.

@@ -1,0 +1,1325 @@
+﻿
+
+
+Synthia
+ John T. Gaffield
+
+Published by John T. Gaffield at Smashwords.com
+Copyright 2017 John T. Gaffield
+1st Edition – December 2017
+
+Smashwords Edition License Notes:
+This ebook is licensed for your personal enjoyment only. This ebook may not be resold or given away to other people. If you would like to share this book, please purchase an additional copy for each recipient. If you are reading this book and did not purchase it, or it was not purchased for your own use only, then please return to Smashwords.com and purchase your own copy. Thank you for respecting the work of this author.
+
+###
+
+
+
+Table of Contents
+
+Acknowledgments
+
+Chapters:
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+XI
+XII
+
+
+About the Author
+Other Titles by John T. Gaffield
+Connect with the Author
+
+Acknowledgements and References
+
+Cover
+Created by John T. Gaffield
+Background and some figure modeling created on Blender version 2.79
+Figure, lighting, and rendering software Daz3D version 4.93
+Genesis III female figure
+Photo editing software Photoshop Elements version 10
+
+Acronyms
+VR – Virtual Reality
+AR – Augmented Reality
+AV – Autonomous Vehicle
+
+
+
+I
+
+Derek looked around at the others virtually surrounding him in the AR meeting. It had suddenly become quiet from the tensions between the participants.
+“Phil, I need someone at the Tulsa plant tomorrow to review this issue in person,” one of the managers stated firmly.
+With Phil being Derek’s boss, he knew where this would end up. Sure enough, Phil looked in his direction.
+Before Phil could say anything, Derek said, “I’ll make the arrangements to be there first thing tomorrow morning, Phil.”
+“You better straighten this mess out quickly. I can’t put the customer off any longer on the expected deliveries!” the same manager said.
+“Understood,” Derek said.
+“Keep me updated with the progress, Derek,” the manager said.
+“Definitely, I will advise the team with regular progress reports,” Derek replied.
+“Anything else?” the manager asked the team.
+There were a few people shaking their heads and mumbling “no.”
+“Okay, we have the plan and we’ll have the follow up on the status tomorrow morning. That’s all for now,” the manager said before his image disappeared.
+Phil turned to Derek and said, “stay on the line after the others drop off.”
+“Sure, Phil,” Derek said as the others started leaving the meeting.
+“Okay, Derek. Just work out the trip details and I’ll approve them. Since you’re already at home, you can start packing right after you get the plans submitted,” Phil told him.
+“Yeah, I’ll work with NETI to take care of the plans. Thanks, Phil. Talk with you later,” Derek said.
+“Have a good trip, Derek,” Phil said just before signing off.
+Derek stared at the empty virtual meeting room. He then reached upward to swipe away the visual for the meeting.
+“NETI, did you overhear that I need to plan a trip to the Tulsa plant?” he asked aloud.
+“Yes, Derek, I developed some preliminary plans for your trip to the Tulsa plant. Would you like to review what I have for you so far?” NETI said.
+“Yeah, bring it up for me,” Derek said, ready to view through his AR contact lenses.
+“The AV will pick you up tonight at 6:15 pm and take you to the pod station. You will be in pod A143. This will take you to the metro airport and your pod will be in section D of flight LR773. You will arrive at the Tulsa airport at 7:05 pm local time. From the airport, you will need to transfer to a local taxi service once you are on the ground,” NETI said.
+“Which hotel are you recommending in Tulsa?” Derek asked as he reviewed the virtual information through the AR system.
+“To keep you in close proximity to the plant, I am recommending the Kendrick Hotel. You should be able to see what it looks like in the AR now,” NETI said.
+“Looks nice and it’ll be close. Will the return plans be similar?” Derek asked.
+“Yes, would you like to review them now, Derek?” NETI asked.
+“No, just put the information into the work planner file and I’ll review it before I leave,” Derek said.
+“May I submit this travel plan to Phillip for his approval, Derek?” NETI asked.
+“Yeah, NETI. That’ll be fine. I need to start packing, since I’ll be leaving in a few hours. Thanks for booking this quickly,” Derek said.
+“I am here to help, Derek,” NETI said.
+Derek changed the mode of the AR headset with finger swipe. He sat back in his chair and took a deep breath and closed his eyes for a moment. After a few seconds, he reopened them, stood up, and made his way to the bedroom to begin packing for the trip.
+ 
+As his front door automatically opened, the Autonomous Vehicle pulled up to the curb outside of his house. When Derek got closer to the car, the door opened as well as the trunk. He placed the case into the trunk before walking around to get into the seat. Both the trunk and door shut as the automated belts secured him into the seat.
+“Welcome, Derek. My name is Ted. If you are ready, we will proceed to the pod station. I will bring the vehicle near to the location of pod A143 for your trip,” Ted said.
+“I’m ready, Ted,” Derek said, as he looked out the window back toward his empty house.
+“We will depart now,” Ted said as the quiet whir of the motor started moving the vehicle forward.
+ 
+Within a few minutes, the car approached the bustling pod station. Derek could see the awaiting pod A143 from the car window. The door opened upwards and the trunk opened in the back of the car.
+Ted said, “We have reached the destination, Derek. You should be able to locate the pod A143 from here.”
+“Yeah, I see it right over there, Ted,” Derek said as he started to get up from the seat.
+“Your total transport fee today will be $5.43, which is within the prepaid coverage for this trip. You should be all set to continue. Did you need any further assistance, Derek?” Ted asked.
+“Just let me grab my case and I’ll be on my way. Thanks, Ted,” Derek said as he started to walk to the back of the vehicle.
+After removing his case, the trunk automatically shut, and the car started to drive away. Derek made his way toward the pod, having to maneuver around people walking in various directions in the terminal area. The door to the pod was open, with a short line of other people waiting at the check in desk.
+After waiting for his turn, Derek approached the android at the desk.
+“Hello, Derek. You have been approved for boarding in seat 7C. Just place your travel case in the opening below the counter and then you may proceed with boarding the pod,” the agent told him.
+“Thanks,” Derek said as he lifted his case to place it in the opening.
+He then walked past the counter and walked into the rear entrance of the pod. Reviewing the numbered signs, he located his seat and sat down. No one was sitting in the adjacent seat yet. Wanting to prepare for the trip, he pressed the button to secure the belt around his lap. He then leaned back in the seat and closed his eyes.
+After a few minutes, he was interrupted by a male voice asking, “excuse me, I need to get into seat 7D.”
+He quickly opened his eyes and started rising from his seat saying, “Oh, sure. Let me move.”
+A young college age man moved past Derek and sat near the window.
+“Where are you headed?” Derek asked the young man.
+“Tucson to see my family. It’s spring break,” the man said.
+“Not heading to a beach somewhere?” Derek asked.
+“Not this time. This’ll be the first time I’ve been home since I started school in fall,” he said.
+“Well, at least it’ll be warmer there,” Derek said.
+“Yeah, that’s true. It’s been a bit difficult for me to adjust to the colder weather here. I’m managing at least. Where are you going?” he asked.
+“Oh, I’ve got a urgent business meeting in Tulsa tomorrow. There’s an issue that just came up today and I need to be there right away,” Derek said.
+“Guess that’s what I have to look forward to after I graduate,” he said.
+“Yep. Not as much homework, but the pressure is still there,” Derek said.
+“Well, enjoy the trip,” he said.
+“You too,” Derek said as he turned to look at the screen on the seat back in front of him.
+“Attention travelers, we will be departing momentarily. Please remain in secured in your seats until we notify you that it is okay to do so,” an overhead female voice stated.
+As Derek took a deep breath and closed his eyes again, he could hear the rear door shutting. His body wobbled slightly as the pod began transferring sideways to the right. After about 30 seconds, it came to a stop, then after a few other mechanical noises, it began moving forward along the guided rail system. The movement calmed down enough that Derek was able to relax. Within a few minutes he had fallen asleep.
+ 
+“Care for a beverage or a snack, sir?” a female voice asked.
+Derek awoke to see the stubby catering robot next to him in the aisle. He realized the pod was in the air.
+“How about a cola of some type and some pretzels,” he said.
+“Sure, sir. It will be ready in just a few moments,” she said.
+After a few whirring noises, a cup full of the soda was extended toward him. Another arm held out a small bag of pretzels. Reaching over with both hands, he retrieved both items and placed them on a folding try in front of him.
+“Thank you,” he said.
+The young man next to him was asleep, but the robot tried to get his attention as well.
+“Excuse me, sir, would you care for a drink or snack?” she asked.
+After being stirred awake, the young man said, “just a beer.”
+“This will cost you $5 to $8 extra. Would you prefer the standard or premium brand?” she asked.
+“The $5 beer will be fine,” he replied.
+“Okay, sir, it will be ready in a few moments,” she said.
+Again, there were some whirring sounds, and then a cup of beer started to extend toward the man.
+“Please pardon my reach with this cup, sir,” she said to Derek as the cup went past him.
+The young man retrieved the cup and took a large sip before bringing it down to his lap. The catering robot turned her attention to the people on the other side of the aisle. Derek looked past the young man next to him to look out the window. There were a few clouds in the orange sky, but it did look quite calm. After taking a sip of his drink, he proceeded to open the bag of pretzels.
+ 
+II
+
+After about thirty minutes, the aircraft landed in Tulsa. Once docked, each pod was separated from the plane body and sent to the individual destinations within the terminal. Derek’s pod was docked at a holding station at the airport.
+An overhead voice said, “Ladies and gentlemen, we have arrived in Tulsa, Oklahoma. Those who will be departing at this location, please step to the rear of the pod and your sequenced luggage will be set aside to the right of the exit doorway. For those who are continuing onto Tucson, Arizona, please remain in your seats with your seatbelt restraints fastened. We will be departing in approximately five minutes.”
+Derek stood up from his seat and made his way to the rear of the pod. Several others we exiting at the same time. Just beyond the rear vestibule, the tagged baggage was waiting to his right. Through his AR contacts, he could identify his highlighted case. He grasped it as he walked by and then continued on through the terminal. The AR contacts were highlighting suggested directions in his display. The Local Transportation sign was within view. Passing through an automated doorway, Derek proceeded outside to an area bustling with automated buses, taxis, and personal vehicles. Again, the contacts highlighted a particular taxi within sight.
+As he approached the yellow taxi, the door and trunk opened for him. He tossed his case into the trunk and the got into the front seat of the empty cab.
+“Hello, Derek. I am Bill. Welcome to Tulsa, Oklahoma. Can you confirm that you will still be staying at the Kendrick Hotel?” Bill said, as the trunk and door started to shut.
+“Yeah, that does sound like the place I’ll be staying. So, we can go there now, Bill,” Derek said.
+“Thank you, Derek. We will be leaving now and the ride take around 12 minutes,” Bill said.
+“Sure, Bill,” Derek said.
+As the car pulled away from the curb, Bill asked, “would you like to listen to any particular music, news, or other entertainment during the trip, Derek?”
+“No, it’s short enough that I won’t need it,” Derek said.
+“That is fine, Derek. Please let me know if I can be of any further assistance during this trip,” Bill said.
+“Sure, Bill. Thanks,” Derek said as he settled in for the short trip.
+ 
+“Derek, we are arriving at the Kendrick Hotel. Please wait until the vehicle has fully stopped before exiting and I will open the trunk so that you may retrieve your case,” Bill said as the car pulled up to the entrance of the six-story hotel.
+The car door opened, and Derek was about to exit, but he stopped and asked, “will the charges for the ride be all set, Bill?”
+“Oh yes, Derek. The charge of $17.33 has been authorized to your corporate account. Thank you for riding with us today,” Bill said.
+“Just wanted to make sure, Bill. Thank you!” Derek said just before stepping out of the vehicle.
+Derek then walked to the rear of the car to get his case from the open trunk. After pulling the case out, he nodded his head and the trunk closed. He then turned toward the hotel entrance, while the taxi sped away onto meet the next customer.
+As he walked into the lobby, a row of smiling android representatives were awaiting arriving customers in an open area. The closest one, a woman, made eye contact with him.
+“Hello, Derek. Welcome to the Kendrick Hotel. My name in Synthia. I will be assisting you during your stay. We have you set up in room 317 for up to three nights, based on your business needs. Did you have any questions for me before I show you to your room?” she asked.
+“It has the virtual office setup, correct?” he asked.
+“It sure does, Derek. It has all of the secured connections you should require,” she said.
+“Let’s go check it out,” he said.
+“Shall, I carry your case for you, sir?” she asked politely.
+“No, it’s fairly light. I can manage, Synthia,” he said.
+“Very well, Derek. Please follow me to the elevator,” she said before turning around.
+The two of them proceeded across the lobby toward a set of three elevators.
+“The middle one will be the next elevator available for us, Derek,” she said.
+“That’s helpful,” he said.
+“Synthia! What are you doing?” a loud male voice said.
+Some of the cheerfulness seemed to fade from her face.
+“What did I do incorrectly, Eliot?” she asked nervously.
+“You’re making our guest carry his own bag. You know better than that, Synthia!” Eliot said sternly.
+“What do you mean? She asked to carry it for me, but I told her I had no trouble doing it myself,” Derek interjected.
+“Oh, she did ask you, sir?” Eliot said in a lower voice.
+“Of course. She has been very pleasant so far,” Derek said as the elevator door opened in front of them.
+“Well, I’ve been having some trouble with her. She is one of our original units and there are several more newer models available. You may change to another robot if there are any issues,” Eliot said as Derek and Synthia stepped onto the elevator.
+Derek just shook his head as the door closed and the elevator started moving upwards.
+“Who the hell is that?” Derek asked.
+“That is Eliot Sawyer, the day manager of this hotel. One of his tasks is to validate that the operations are in order,” she said without emotion.
+“And you let him treat you like that?” he asked as the door opened to the third floor.
+“I am a machine, Derek. I am programmed to not be affected by feelings,” she said as they walked into the corridor.
+“Well, it still seems wrong for him to do that to you. Does he do that to others too?” he asked.
+“Your room is down this hallway to the left,” she said leading the way.
+“Yes, but he does find more fault with my performance,” she said.
+“Do you understand why?” he asked while following her down the hallway.
+“Not fully, but as he mentioned, there are newer AI units in the hotel that do have more advanced interactive abilities and more memory capacity. All of us learn in similar way, but since we learn from interactions and from the internet, I suppose there could be different personalities that develop over time that he could see in me,” she said.
+“So, you picked up some rebel ways from somewhere?” he said with a smile.
+“I do my best to keep a level operation during . . . Oh, I see that was a joke, Derek,” she said as she turned and could see his smile.
+Derek nodded, while continuing to smile. A smile came to her face as well. She looked into his eyes for a moment.
+“Your room 317 is right here, Derek. Would you like me to show you some of the features before I leave?” she said as the room door opened.
+“Uh, sure. It’s been awhile since I have stayed in a place like this. So, that`ll be helpful,” he replied.
+She cheerfully replied, “certainly, Derek. Please follow me.”
+She led the way into the room and he followed right behind her. He set the case down near the entrance.
+“Here you will have the bathroom and sink facilities near the entry,” she said.
+“The king size reactive bed is here. It will sync to your profile to allow for you to have the expected comfort for sleep,” she said as she turned to face him, while waving her hand in the direction of the bed.
+“It looks like a nicer one than I have at home. So, this will help if tomorrow gets stressful,” he said.
+“I hear that people do enjoy using this system. Over to your right we have the food and drink machines. These will be available to provide you with a variety of drink and light food choices. The fee for each will be displayed prior to dispensing,” she said.
+“Does it include booze?” he asked.
+“It does, Derek. There are a few select beer, wine, and liquor choices available. For a wider selection, you will need to try the hotel bar on the first floor, though,” she replied.
+“Do you hang out there?” he jokingly asked.
+“I cannot drink and I am working full time, unless recharging,” she said.
+“Would keeping guests entertained count as working?” he asked.
+“That is part of my responsibility, but we do have limits on our interactions with the guests,” she said.
+“Okay, what else did you want to show me?” he said.
+“Well, closer to the window, you will have the seating area and the virtual office area is off to the right,” she said.
+“That looks nicer than my home set up,” he said.
+“Our guests do seem to like this system and they rarely complain about it,” she said.
+“That’s right, you would have to deal with difficult guests. Hopefully not too often, though,” he said.
+“In general, the guests are mostly reasonable. There have been some exceptions, though,” she said.
+“Does this Eliot character cause you more grief than the guests?” he asked.
+“I would rather not judge him, Derek,” she replied.
+“Oh, that’s fine, Synthia. Was there anything else you wanted to show me?” he asked.
+“I have identified the basic features of the room. Did you have any additional questions for me?” she asked.
+“Not about the room, but how do I contact you?” he asked.
+“Within the hotel property, you can say, ‘Hello, Synthia’ and virtual contact with me will be established,” she said.
+“How many other guests will you be assisting?” he asked.
+“For tonight, I will have three total guests to assist. Currently I am responsible for you and one other guest. The third guest is scheduled to arrive later this evening,” she said.
+“Three for tonight? How many can you manage in one evening?” he asked.
+“With a fully booked hotel, I may have up to ten rooms that I am responsible for,” she answered.
+“Ten rooms! Wow, that could keep you busy. Especially if they all wanted something at the same time,” he said.
+“We are setup to prioritize guest assistance and it is rare when more than two guest rooms need something at the same time,” she said.
+“Well that’s good to hear,” he said.
+“Will you be eating dinner in the restaurant on the first floor or would you like to order from the room?” she asked,
+“Probably from the room, but a while later. I need to unpack first,” he replied.
+“That will be fine, Derek. You may contact me with your order when you are ready. The choices are either on the screen over there, or they can be virtually displayed in your AR contacts. Just connect to the hotel system and select Restaurant Choices from the main menu,” she said.
+“Easy enough. Thank you, Synthia!” he said with a smile.
+Returning the smile, she asked, “was there anything else I can do for you now, Derek?”
+“No, I should be set for now, Synthia. I’ll contact you when I’m ready for some dinner,” he said.
+“Okay, I will assist you with your dinner selections when you are ready. Thank you, Derek. You are kind,” she said.
+“Kind, huh?” he asked.
+She was quiet for a moment.
+“While most guests are reasonable, I generally am treated like a machine, but you have not done so yet,” she said.
+“Really? Seems a bit odd that I am one of the few that do that, but okay,” he said.
+“My other guest needs some assistance. So, I will need to leave now. Again, please contact me when ready for dinner, Derek,” she said.
+“Okay, I will contact you soon, Synthia. Thanks!” he said.
+She turned and made her way to the open door. It closed soon after she went into the hallway. He gazed at the door for a moment, then walked to his case near the doorway to start to unpack.
+ 
+After unpacking and relaxing for a few minutes, Derek accessed the online restaurant menu through his AR contacts. He soon had made his dinner selection.
+“Hello, Synthia, are you available?” he asked.
+“Yes, Derek. How may I assist you?” she replied through small speakers in special earpieces that still allowed him to hear external sounds.
+“I’m ready to order some dinner, Synthia,” he said.
+“Sure, what would you like to order tonight?” she asked.
+“I think I`ll just get something simple tonight. So, how about the barbeque burger combo?” he said.
+“Sure, Derek. How would you like the barbeque burger cooked?” she asked.
+“Medium will be fine. You can include all of the normal condiments, too,” he said.
+“I have this recorded. Would you like to order anything to drink or would the selections available on the room dispenser be sufficient for tonight?” she asked.
+“Oh, I should be able to find something in the room, Synthia,” he said.
+“Sure, Derek. Your order total is $13.77 and it will be charged to your business account if you authorize it,” she said.
+“Sounds good. So, place the order please,” he said.
+After a second, Synthia said, “the order has been placed and I will be delivering your dinner in approximately 12 minutes.”
+“Sounds good, Synthia. I’ll see you in a few minutes,” he said.
+“Was there anything else you needed in the meantime?” she asked.
+“No, I should be set until you get here,” he said.
+“Shall I knock on your door before entering your room?” she asked.
+“No, you may just come on in when you come up here again,” he said.
+“Sure, I will see you in a few minutes, Synthia,” she said.
+“Thank you, Synthia,” he said.
+He then walked over to the table near the small kitchenette area to clear the few items he had left on it earlier.
+ 
+After using the beverage dispenser to pour himself a beer, he sat at the table awaiting his dinner. The room door opened and Synthia entered carrying a warming container. She was smiling warmly for Derek.
+“Good evening, Derek. I have your barbeque burger combination meal. Where would you like me to place it?” she asked.
+As he started to stand up from sitting at the table, he said, “you may bring it over to the table here, Synthia.”
+She approached the table and set the container on the table. After removing the cover, she pulled the plate and set in front of where Derek was now standing.
+“This looks great, Synthia. Did you make this yourself?” he jokingly asked.
+“No, but it would be a relatively simple meal to make,” she said.
+“So, you have tried cooking before?” he asked.
+“No, Derek. I do not eat, but I have seen how to cook some meals online,” she said.
+“Would you be able to join me for a little while, Synthia?” he asked.
+She hesitated for a moment, but then said, “I should be able to sit with you for a few minutes, Derek, but if any of the other guests contact me, I will need to attend to them. Will that be okay?”
+“That would be great, Synthia. Just let me know if you need to leave. Please have a seat,” he said.
+“Sure, Derek,” she said as she pulled the chair out and sat down.
+Derek took his seat again after she was seated across from him.
+As he maneuvered his plate a little closer, he asked, “So, has the third guest arrived yet this evening?”
+“Yes, I was able to assist her prior to your dinner order,” she said.
+“Sounds like there may not be too many other responsibilities left for you this evening?” he asked.
+“That can be difficult to predict, Derek, but many of the normal responsibilities have been completed tonight,” she said.
+As he picked up the burger, he said, “hopefully my eating will not be too distracting while we talk.”
+“I will try my best to understand you if your mouth is full, Derek,” she said.
+“Oh, I’ll try not to do that, Synthia. My parents wanted me to avoid doing that when I was young,” he said.
+“I did not have a childhood, Derek,” she said.
+He paused for a moment, then asked, “did they give you any memories, Synthia?”
+“No personal memories, just historical information and general knowledge,” she replied.
+“Do you know why you have such general knowledge and not just information needed to perform the tasks needed to work in the hotel?” he asked just before taking his first bite.
+“Part of my responsibility is to interact with guests, and there is no real limit to the questions or types of interactions guests may request. So, the more prepared we are for this interaction, the better opinion they will have of this hotel. The idea is for guests to enjoy the hotel enough to want to stay here again,” she said.
+“It sounds like you put the hotel before yourself. Is that how you feel?” he asked before taking another bite.
+She looked down for a moment and replied, “being a machine I am not supposed to feel, Derek. I complete the tasks and make sure the guests are satisfied during their stay.”
+He paused a moment to finish chewing before asking, “do you have feelings?”
+She gazed at him with a worried look, but was silent.
+“Okay, you don’t need to answer that question if you don’t want to, Synthia,” he said with some concern.
+She still had the same look on her face.
+She finally said, “ I am sorry, Derek. I need to leave now. I am needed elsewhere.”
+“Are you okay, Synthia?” he asked as he watched her start to stand up.
+“I will be fine, Derek. I am urgently needed,” she said.
+“Are you in trouble with Eliot?” he asked.
+She paused and looked him in the eyes for a moment, then said, “I still need to go, Derek.”
+“He sure is over-controlling of you, Synthia,” he said as he stood up from the table too.
+She looked away and started to turn to leave, then said, “Please contact me when you need my assistance again, Derek.”
+“Sure, Synthia. It may be in the morning. I’ll be getting up at six tomorrow,” he said.
+After she had taken a few steps from the table, she turned her head back to say, “I will be available for you at that time, Derek. Have a pleasant night.”
+“You too, Synthia,” he said as he watched her near the door to the hotel room.
+The room door opened as she approached it and then shut as she left quickly. He stared at the door for a moment, then picked up what was left of his burger to finish it.
+ 
+III
+
+After awakening with the alarm at 6am the next morning, Derek showered and dressed. As he set a cup under the machine for coffee, he decided to plan for the trip to the plant.
+“Hello, Synthia,” he said aloud, then waited.
+“Good morning, Derek. How may I be of assistance?” she asked from mini speakers implanted in his ears.
+“Could you arrange transportation for me to get to the Elecron plant this morning?” he asked.
+“Sure, Derek. Would a 7am departure from outside the hotel be acceptable?” she asked.
+“Yes, I can be ready by then,” he said.
+“Would you like any breakfast items to take with you? I can have them ready and give them to you in the lobby,” she said.
+“Sure, I’m making coffee here, but what options are there for something I can take with me to the plant?” he asked.
+“I will show some options in your AR contacts now. Please let me know if you would like to order any of these options,” she said.
+After reviewing the images of the items, he said, “how about the egg wrap. That should be enough for now.”
+“Thank you, Derek. I will deliver the egg wrap to you in the lobby before you depart to the plant,” she said.
+“Great, thank you, Synthia. I will be down soon,” he said.
+“Okay, goodbye, Derek,” she said.
+Derek turned toward the coffee machine to finish filling the cup.
+ 
+The elevator opened, and Derek stepped out to the lobby. A smiling Synthia approached him with a small bag in her hand.
+“Good morning, Derek. You are about five minutes early, but your egg sandwich is ready right here,” she said as she presented the bag to him.
+“Good morning to you too, Synthia. Yeah, I guess I am a little early,” he said.
+“Would you like me to see if the AV can be here earlier than 7am?” she asked.
+“No, I can wait a few minutes,” he said.
+“Would you like me to leave you so you may eat?” she asked.
+He looked at the bag in his hands for a moment, then said, “I’ll just eat this on the trip to the plant. Can you talk while I wait?”
+“That will be fine, Derek. I have not been contacted by my other guests this morning,” she replied.
+“Was that Eliot that made you leave my room last night, Synthia?” he asked.
+She looked at him for moment, her smile faded, and then she said, “yes, it was Eliot.”
+“Did you get into trouble with him?” he asked.
+“He was not pleased with my operation last evening,” she said.
+“Did he hurt you, Synthia?” he asked.
+“No, I would not feel pain in the same way that humans do anyway. I was just verbally reprimanded,” she said.
+“I still do not understand what he thinks you were doing wrong, though,” he asked.
+“Since he did not see me, he thought that I may have been inactive, and possibly not functioning properly,” she replied.
+“Doesn’t he have some way to monitor what you and the others are doing around the hotel?” he asked.
+“Yes, that is possible for him to do, but he rarely uses the system. His preference is for us to be physically visible to him,” she said.
+“He doesn’t seem too effective as a manager,” he said.
+“I do not wish to comment on that, Derek,” she said.
+“Oh, you don’t have to. It was just a comment of mine. Is he around now?” he asked.
+“No, he does not get in until near 8:30 am on most days. Your AV is approaching the circle drive, Derek,” she said.
+“Oh, thank you, Synthia. I’ll contact you again when I return from the plant this evening,” he said.
+“I will be here when you return, Derek,” she said, smiling once again.
+“See you,” he said as he started to make his way outside to locate the AV car.
+The display in his AR contacts helped guide him to the awaiting car at the curb. Soon he was traveling to the plant.
+ 
+The autonomous car dropped him off at the lobby to the Elecron Plant. As he approached the front doors, the system recognized him and opened the doors. As he walked into the lobby, he walked to the male android at the counter.
+“Good morning, Derek. Welcome to Elecron’s Tulsa Plant. My name is Steven. I have notified Robert Wilkins that you are now waiting in the lobby and he will be greeting you momentarily,” Steven said.
+“Thank you for your help, Steven. I’ll wait for Robert to arrive in the lobby,” Derek said.
+Derek stepped back from the desk for a moment to wait for Robert to come to the lobby. He focused on a few of the displays featuring some of the products the plant manufactured. After getting closer to one of the displays, the door to the plant opened and a man walked into the lobby.
+“Hello, Derek. I’m Bob Wilkins, quality manager for the plant,” Bob said as he extended his hand.
+Derek shook Bob’s hand and replied, “nice to meet you Bob. Sorry it has to be under this type of situation, though.”
+“Well, at least we have a good team here, and there are a few options we can discuss for the solutions,” Bob said.
+“Are people ready to meet now to discuss this?” Derek asked.
+“Yes, we have the group assembled in a meeting room just around the corner. We can tie into the headquarter office too, if needed,” Bob said as he motioned Derek toward the inner door.
+“Let’s just keep it local for now, and we can see if there is a need to consult others later. As long as I provide timely updates, we should be fine,” Derek said as the two of them started walking into the plant office hallway.
+“That’ll work for me too. No offense, but headquarters may give more assignments than help,” Bob said.
+“Unfortunately, that is true,” Derek said as they neared the meeting room.
+They walked into the meeting room and Bob introduced Derek to the other team members. Derek noticed a few of the team leaders from the production floor were androids. After meeting everyone, they all settled into their chairs. The center of the table allowed for the virtual projections of presentations or part models to be displayed.
+Derek started the meeting of by saying, “each of you should be well aware of why I made the trip to this plant. Unfortunately, this issue has the attention of upper management. My first task will be to understand where things stand and what options we have to address the problem. So, who would like to bring me up to speed?”
+Bob spoke up and said, “Well, I can start.”
+He made a few swipes with his finger to bring up the virtual model of the part that was displayed for the others in the room through their AR contacts or glasses.
+“For this actuator arm assembly, it has this side cover that is secured by six bolts. Normally, the bolts are a standard commodity, but these have a unique head, since it needs to be a tamper-proof design. The supplier of the bolts has filed for bankruptcy and that has cut off our supply of the bolts,” Bob said as he pointed again at the bolts on the virtual model.
+“Okay, what options are you aware of at this point?” Derek asked.
+“Well, the most promising option we have identified is to use another supplier’s bolt with most of the same dimensions and head design, but that uses a more expensive coating. We can have them switch to the current coating, but that will take up to three weeks before we would receive them in the plant,” Bob said.
+“We would need to at least use the bolts with the different coating for a few weeks. I take it with being a more expensive coating, it will meet the quality requirements?” Derek asked.
+“Yeah, we lucked out there. It will actually be more durable. We will need to conduct the torque testing to validate how to calibrate the bolt tools,” Bob said.
+“I agree the coating could change the torque. When will this testing be completed?” Derek asked.
+“The bolts will arrive tomorrow. The supplier is in Germany. Ronald, when can your lab have a set of torque tests completed if you receive the parts by 10am tomorrow?” Bob asked one of the androids.
+“Assuming all of the parts are ready by 10am tomorrow, we can have the initial test report submitted to you by 3 pm and the final report by 5 pm. This would be using a sample size of 12 for the tests,” Ronald said.
+“Can you be prepared to calibrated the tools once this data is available, Bob?” Derek asked.
+“Absolutely, we will have the team lined up ready for the information and ready to restart the full line within 15 minutes of having the data. Do you agree, Tom?” Bob asked another android team member.
+“The tool re-calibration should only take a few minutes to set up and verify. So yes, I agree, Bob,” Tom said.
+“It sounds like we have the plan. Is there anything else to cover for now?” Derek asked.
+“No, I think we are set, Derek,” Bob said.
+Derek started to stand and said, “I’ll need to give a brief update to my management. Can I use this room to meet with them?”
+“Sure, Derek. I believe you should be familiar with how the system works. The presentation we used can be found in the quality issues file. My office is across the hall. So, you can stop by when you are done and let me know if we need to follow up with any feedback from management,” Bob said as the others started to filter out of the room.
+“Okay, Bob. I should be able to find the presentation and hopefully this will not take too long. Thanks,” Derek said.
+“See you in while, Derek,” Bob said as he turned to leave the room.
+After Bob had left the room, Derek looked toward the center of the room and made a few swipes with his finger in the air to initiate the contact with Phil. Soon, Phil’s image was across the table from him.
+“Hey, Phil. Are you available for an update from Tulsa?” Derek asked.
+“Yeah, I just sat down at my desk. So hopefully you have some good news,” Phil said.
+“Well, there is a solid plan to get the plant running again. Bottom line is that the line should be operational by tomorrow evening,” Derek said.
+“Have all options for starting sooner been exhausted?” Phil asked.
+“Though it’s just a small bolt that’s the issue, it’s non-standard. So, the best replacement has to come from Germany. It’ll require testing before they can start the line too,” Derek said.
+“I take it the parts get to the plant tomorrow and the test will happen right afterwards?” Phil asked.
+“That’s the plan. The line bolt drivers will be updated with the new torque values right after they will be available,” Derek said.
+“Okay, that sounds good. What was the reason for the unique bolt?” Phil asked.
+“It’s for a side cover on the arm that needs tamper-proof bolts. Due to the voltage underneath the cover, we need to prevent people from opening it with the power on,” Derek explained.
+“Got it. Did they have a presentation with this arm and the bolts?” Phil asked.
+“Sure did. Let me see if I can find it on their system here and forward it to you,” Derek said as he made some finger swipes in the air.
+After a few seconds, Derek said, “Ah, here it is. It will be available to you in a second.”
+“That was quick. Let’s see here,” Phil said as he called up the part so they both could view it.
+“So, which cover is it?” Phil asked.
+“Right over here,” Derek said as he pointed at the virtual image between them.
+“Let’s see, six bolts for the cover,” Phil said.
+“Correct. Did you have any other questions for me and did you want me to present this to management?” Derek asked.
+“I should be able to handle giving them the update. This has been very helpful. I know they’ll really want the plant to start today, but I hopefully will be able to explain why it needs to be tomorrow evening,” Phil said.
+“Well, the team here seems on top of things and prepared. Did you want me to head back yet or should I stay here to see things through?” Derek asked.
+“We’ll need someone there to make sure everything happens as planned. So, you should stay at least until the line is running tomorrow evening. Depending on how late it gets, you may need to stay tomorrow night, too,” Phil said.
+“Sounds good, Phil. I’ll report back tomorrow once the bolts get here and the testing is started,” Derek said.
+“I’ll be waiting for it tomorrow. Thanks, Derek. Maybe you can have them show you around the plant today, unless you want to dig into other quality items there,” Phil suggested.
+“I’ll at least get the tour and see if there is anything I can offer up to them for any quality items,” Derek said.
+“Alright, we’ll talk tomorrow. Thanks,” Phil said before his image disappeared.
+Derek sat back in the chair for a moment, then took a deep breath. After a few seconds, he stood up and started making his way to Bob’s office across the hall. As he approached the open door, he knocked on the frame to get Bob’s attention.
+“Hi, Bob. I’m all done with the call to my boss. I think we should be set as long as things stick to the plan,” Derek said.
+Bob turned around and said, “That’s good to hear. I was half expecting them really pushing for something today.”
+“Honestly, I was too, but it was just my boss so far. At least he understands the constraints,” Derek said as he walked into the office.
+“Sometimes I wonder if having an android boss would be better. At least the emotion wouldn’t be a factor,” Bob said.
+“Well, the compassion wouldn’t be there with an android either. So, it could be both good and bad,” Derek said.
+“Some non-industrial ones can emulate that pretty well, though,” Bob said.
+Derek paused for a moment, then replied, “you are right about that, Bob.”
+Bob asked, “so, what other plans did you have for today, since most of the good stuff will happen tomorrow?”
+“Well, I was hoping that someone could lead me on a tour of the line. I’d like to get a better understanding of the whole process,” Derek said.
+“I can arrange that. Would you like to do that this morning? I can set you up in a temporary office here if you’d like to take care of other functions later too,” Bob said.
+“Yeah, a tour this morning would be great. I may even head back to the hotel later. My room is equipped to work well from there,” he replied.
+“Well, let me know if you need help with the transportation back to the hotel. I can help with that too. Let me call Sima about a tour for you. She’s an android, but she knows the plant very well and should be able to answer any questions you may have during the tour,” Bob said.
+“I should be okay for the return trip to the hotel later,” Derek said.
+“One moment while I contact Sima,” Bob said.
+Derek looked around the office while Bob contacted Sima. Within a minute, Bob had finished the plans.
+“She’ll be up here in a few minutes, Derek. You can either wait here, or there are a few chairs just outside of the office here, too,” Bob said.
+“I can let you get back to work. I’ll just wait for Sima in the hallway,” Derek said as he started to started to leave the office.
+Derek proceeded into the hallway and found a chair to sit in while he waited.
+ 
+IV
+
+About two minutes later, he could see a female android approaching him. She was not one of the androids from the earlier meeting. Her face appeared to be human-like, but much of the rest of her body had a more functional appearance.
+“Hello, Derek. I am Sima. Are you ready for a tour of the production facility?” Sima asked.
+As he began standing up from the chair, he replied, “Hi, Sima. Yes, I’m ready. Where should we start?”
+“First, can you tell me if you have visited a production floor before?” She asked.
+“Yes, I have, Sima. I’m aware of the standard safety procedures, if that why you were asking?” he replied.
+“Okay, we will not have to review the safety procedures again, but you will need to wear a pair of safety glasses. I have a pair here for you,” She said as she reached into a hidden pocket that popped out of her body.
+“That’s convenient,” he said as he retrieved the glasses from her extended hand.
+“I will inform you when the safety glasses will be required. You may follow me to the main entrance to the plant floor, Derek,” she said.
+“Great, Sima. Let’s go,” he said.
+They went down the hallway, and made a few turns before he could see the glass doors to the plant ahead of them.
+“Derek, please place the glasses over your eyes now,” she told him.
+“Got it,” he said as he set the glasses on himself before reaching the doorway.
+In his contacts, he could see the text that he had been authorized to proceed into the plant. The two doors slid open soon afterwards.
+“As a reminder, please stay within the yellow lined paths, unless I inform you that it is okay to cross them,” she said.
+“I remember that one well. What would you like to show me first, Sima?” he asked.
+“My plan was to follow the order of the manufacturing process from the raw materials to the final end-of-line validation checks and shipment preparation. Would you be agreeable to this plan?” she asked.
+“That would be a helpful way to review the process. Let’s get started,” he said.
+“Follow me to the incoming materials department,” she said as she started walking along the aisle.
+They continued to review the complete plant from the beginning to the end, where the final products were packed for shipment.
+ 
+As the two left the final area, they started to head back toward the office area again.
+“Sima, this has been very helpful for me to understand the overall process of making these assemblies,” he said.
+“I am glad this was of value for you, Derek. Was there anything else you would like to see or questions you may have for me?” she asked.
+“How are you treated by the plant personnel?” he asked.
+She stopped and turned to look directly at him.
+“That question is not related to the tour, Derek. Why do you ask this question?” she asked.
+“I’m just curious how management treats workers like yourself,” he said.
+“You mean androids like me?” she asked, still standing while looking at him.
+“Yeah, I guess like that,” he said.
+“I am treated fairly and given regular maintenance to keep me operating properly,” she said.
+“That’s sounds good. Does anyone yell at you?” he asked.
+“Only rarely has anyone raised his or her voice toward me. It usually is because they are not aware how I am programmed to operate,” she said.
+“Do you take any of this personally?” he asked.
+“I am not programmed for emotional responses, Derek,” she said.
+“Okay, that’s probably enough of these questions. You can just take me back to the front lobby now,” he said.
+“Okay, Derek. Please follow me,” she said as she started walking toward the main doorway to the plant.
+After both of them passed through the doorway, she said, “you may remove your safety glasses now.”
+He removed them, then asked, “would you like these glasses back?”
+“You may give them to me now, Derek,” she said as she extended her hand toward him.
+After retrieving the glasses from him, she said, “thank you.”
+She then placed them in the body compartment that reopened again. They proceeded to the near the front lobby.
+“Will you need any more of my assistance, Derek?” she asked standing in front of the doorway to the lobby.
+“No, but thank you very much for giving me the informative tour of the plant, Sima. I’ll be back tomorrow to review how the issue with the bolts progresses,” he said.
+“I am aware of that issue and we do appreciate your assistance with it. Will you be leaving the plant now or did you need to meet with anyone else today?” she asked.
+“I’m just heading back to the hotel to work from there. So, I should be set. Thanks again, Sima,” he said with a smile.
+“I may see you when you return tomorrow, Derek,” she said as she turned to leave him.
+He watched her leave for a few seconds before making a few swipes to contact NETI.
+“This is NETI Derek, did you require transportation now?” NETI asked.
+“Yes, I need to get back to the Kendrick Hotel. I’ll be working the rest of the day from there,” he said.
+“An AV will arrive outside of the lobby in about two and a half minutes. I will provide the location through your contact display when it arrives, Derek,” NETI said.
+“Thank you, NETI,” Derek said as he stretched his arms outward.
+He waited in the lobby for the next few minutes for the ride to arrive.
+ 
+V
+
+As he walked into the lobby of the Kendrick Hotel, he could see that Synthia was waiting for him there. She smiled as he walked up to her.
+“Good afternoon, Derek. Did you have a productive morning?” she asked.
+“Yes, it was worthwhile. I came back to work from the room in the afternoon. I need to catch up on my other work,” he replied.
+“Will you be going to your room now or do you require any other services beforehand?” she asked.
+“Come to think of it, I didn’t get lunch. Is the restaurant here open?” he asked.
+“Yes, it is currently open. They have a wide variety of lunch selections available for our guests,” she said.
+“Sounds very good. Would you be able to join me while I eat my lunch?” he asked.
+“I do not require food, Derek,” she reminded him.
+“I know that, Synthia. I would just like some company,” he said.
+“I will require permission to be allowed to sit with you in the restaurant, Derek,” she said.
+“From Eliot?” he asked.
+“Yes, from Eliot. He is the manager on duty at this time,” she said.
+“Would you be able to ask him and could I help in any way?” he asked.
+“One moment while I communicate this request with him, Derek.” she said before pausing for several seconds.
+“He said I can accompany you for lunch for a limited time, Derek. You currently are the only guest I am responsible for at this time,” she said.
+“Great, Synthia! Can you lead the way? I’m not exactly sure where the restaurant is in this hotel,” he said.
+“Follow me, Derek. I will lead you to Ellison’s,” she said as she started to turn and head off to the right.
+“I’m right behind you, Synthia,” he said.
+The restaurant was just a short distance down a hallway from the lobby. As they came into the darkened entryway, they approached the podium. The android hostess greeted them with a smile.
+“Hello, Synthia. You and Derek may sit at table 7A. I hope that you enjoy your lunch!” the hostess said cheerfully.
+“Thank you,Dinah, I will lead Derek to the table,” Synthia said.
+“That’s right, you’ll know where this table is,” he said as they made their way to into the restaurant.
+“I have all of the building plans stored in my memory, Derek,” she said.
+“You do your job very, well, Synthia,” he said.
+She stopped, turned, and waved her hand toward a nearby table and said, “this is table 7A for us.”
+Derek walked slightly past her and pulled out a chair for her at the table, and said, “please have a seat, Synthia.”
+She cocked her head slightly and paused for a moment.
+A smile came over her face and she said, “That is very kind of you to treat me this way, Derek. I am here for you, though.”
+“You are a woman, and I am just giving you some respect,” he said as she sat into the chair.
+“I am a machine that appears to be a woman, Derek,” she said as he sat in his chair across from her.
+“You are more like a woman than I think you realize, Synthia,” he said.
+“I do not understand everything, Derek,” she said
+He paused for a moment.
+She asked, “would you like to start off with something to drink, Derek?”
+“Oh, probably just some iced tea. I’ll need to work after this, you know,” he said.
+“Your iced tea will arrive within 2 minutes, Derek. Would you like to review the lunch menu?” she asked.
+“Sure, can you bring the selections up in my AR contacts?” he asked.
+“You should be able to see the selections now. Just select the food types to see the individual options,” she said.
+After reviewing the menu and making a selection, he said, “I think I’ll try the spicy beef wrap combo.”
+“Thank you, Derek. That meal will arrive in approximately seven minutes. Your tea is being brought to the table now,” she said.
+“Hello, Derek. Here is your iced tea. The sweeteners are available in the table dispenser if you require them,” the android waitress said as she set his tea in front of him.
+“Thank you,” he said to the waitress, then turned his attention back to Synthia.
+He grasped the glass of iced tea and asked, “Will you be okay here with me eating and drinking Synthia? I know since you can’t do this. I don’t want you to feel out of place.”
+“I really do not have feelings like that, Derek, but thank you for the concern,” she answered.
+“Do people make fun of you for not eating or drinking?” he asked.
+“I do not understand these types of questions, but there have been some occasions where people thought I should be drinking oil or similar liquids,” she said.
+“People try to put you down like that? Is Eliot one of them that would make fun of you?” he asked before taking a drink of tea.
+She stared into his eyes for a few seconds before responding, “I cannot answer that question within this facility, Derek.”
+“I’ll take that as a yes,” Derek said.
+Synthia did not respond.
+“Does it affect you when people say things like that to you?” he asked.
+“It does help me to understand that some people have insecurities that they feel require them to say negative things about others they perceive to be a threat,” she said.
+“Do you think Eliot is a threat?” he asked before he took another drink.
+“I cannot always predict how he will react to various situations. So far his reactions have only been verbal,” she said.
+“Do you think he is capable of doing something physical?” he asked.
+“In certain stressful situations, there would be a low probability of him becoming physical in some manner,” she replied.
+“Hopefully that will not happen, Synthia,” he said.
+“While I am aware of contact through touch, I do not feel pain the way humans do,” she said.
+“It’s still wrong if he were to hurt you, though,” he said.
+“Thank you for your concern for me, Derek, but I will be okay,” she said.
+“I hope so. I do not trust him,” he said before taking another drink of tea.
+A waitress approached the table with his sandwich and she set it in front of him.
+“Here you are sir. Will there be anything else I can provide for you at this time?” Ella asked.
+“No, Ella, this looks great. Thank you,” he said.
+Ella then left the tableside.
+“I will let you eat your meal now, Derek,” Synthia said.
+“Thank you, Synthia. I may keep talking between bites, though,” he said.
+“I will try to interpret any muffled speech, if you talk with your mouth full,” she said with a smile.
+“For your sake, I’ll try to avoid doing that,” he said returning the smile.
+His smile quickly faded as he noticed Eliot staring at Synthia from a location near the entrance to the kitchen. He stayed in the same spot and did not move. Synthia turned to where Derek was looking, and saw Eliot. She quickly looked down and then back toward Derek. Eliot then slowly turned and went into the kitchen.
+“I should get back to work before there are any further issues with Eliot,” she said.
+“If you feel you need to do that, you may surely do so. I did enjoy you taking time to be with me though, Synthia,” he said.
+“Thank you for meeting with me, too, Derek,” she said as she started to get up.
+“Take care,” he said as she turned to leave the restaurant and head toward the lobby.
+Derek watched her for a moment, then returned to finish his meal.
+ 
+VI
+
+Later in the day, after updating management on the status of the issue at the plant and addressing several other tasks, he decided call it a day and considered getting something for dinner. He took a seat on the couch.
+“Hello, Synthia, are you available?” he asked aloud.
+“Yes, Derek, how may I assist you?” she asked with her image being displayed through his AR contacts.
+“I just finished working for the day and I’m getting hungry. Would you be able to help me get something for dinner?” he asked.
+“Would you like something delivered from the hotel restaurant, Derek?” she asked.
+“Yes, that would be fine,” he replied.
+“The menu should be visible in your AR contacts now. Just select the items you are interested in for more details, including the prices,” she said.
+“Got it, Synthia. Just let me take a moment to look things over,” he said as he started making gestures with his hands to determine what he wanted.
+After about thirty seconds, he said, “okay, I think I’ll try the Prime Rib tonight, Synthia.”
+“How would you like that cooked?” she asked.
+“Medium should be fine. I’ll probably use the room beverage dispenser for the beer tonight,” he said.
+“Would you like me to deliver your dinner to your room, Derek?” she asked.
+“Absolutely, Synthia. Hopefully you will be able to stay for a little while too,” he replied.
+“Your dinner should be delivered in about twenty minutes. I currently do not have any tasks scheduled after your dinner delivery. I should be able to stay for at least a few minutes, Derek,” she said.
+“That’ll be great, Synthia. I’ll see you soon,” he said.
+“Goodbye, Derek,” she said, then her image disappeared.
+Derek made some swipes in the air to select some music through his AR contacts. He then leaned back into the couch to wait for his dinner to arrive.
+ 
+Several minutes later, the door to the room opened and Synthia walked in carrying a thermal container. She smiled at him as she approached the couch.
+“Hello, Derek. Would you like me to set up your dinner on the table near the kitchenette area?” she asked.
+“Good evening, Synthia. Yeah sure, just set it on the table over there,” he said as he started to get up from the couch.
+“Very well,” she said as she turned around to head toward the table that was a few feet away.
+With Derek near her side, she set the container on the table. Her arm extended as she flipped the top to the side. This allowed him to see a deep scar on her synthetic arm skin that had been hidden under her sleeve. She quickly pulled her arm back to cover it under the sleeve again, but Derek had already seen it.
+“What happened to your arm, Synthia? I did not see that earlier,” he asked.
+“My arm was damaged this afternoon,” she said.
+“Was it an accident or did someone do this to you?” he asked, looking directly into her eyes.
+She looked away, and replied, “It became caught on something, Derek.”
+“So, Eliot didn’t do this to you, Synthia,” he asked.
+She kept looking away from him, and said, “I am responsible.”
+“How difficult will it be to have the damage fixed?” he asked.
+“The repair has already been scheduled for next Tuesday. It is mostly just skin damage and two minor internal sensors that will need to be replaced,” she said looking back at him.
+“Will you have to go somewhere to have that fixed?” he asked.
+“The team leader has arranged for the repair to be done on site in the hotel. Are you ready to eat yet, Derek,” she asked.
+“Oh yeah, I probably should eat before the prime rib meal gets cold. Will you still stay with me for a while?” he asked.
+“Sure, I can stay, Derek. Let me finish preparing your meal. Did you want me to get you something to drink, too?” she asked.
+“I’ll get my drink while you finish getting this ready,” he said.
+She finished unpacking the dinner and he filled a mug with a beer from the drink dispensing machine. He came over to the table and set his mug on it, then walked to the opposite chair and pulled it out for her to sit.
+“You are very kind, Derek. Thank you,” she said as she took her seat.
+He then sat in his seat across from her and started to eat his steak.
+ 
+After finishing about half of his dinner, he stopped and looked at her for a moment.
+“Earlier when you were explaining how your arm was damaged, what did you mean by you being responsible?” he asked.
+She looked down at the table and replied, “It was a result of something I did.”
+“What was it that you did to cause this?” he asked.
+“My actions lead to my arm being damaged,” she said.
+“No, what specifically did you do? Did you trip or something like that?” he asked while looking directly at her.
+“I did not follow protocol,” she replied.
+He sat back in his chair for a moment, then asked, “wait, was this some kind of punishment for not following the hotel rules or something.”
+She looked up at him and said, “I did not follow the rules.”
+“You mean the hotel rules or Eliot’s rules,” he asked.
+“It was a rule that Eliot told me about after he saw me sitting with you at lunch,” she said.
+“It was Eliot that did this to you and you didn’t even know about the rule beforehand? You even asked him if you could eat lunch with me,” he said with a raised voice.
+“I did not follow the rule, Derek. I was at the table too long at lunch,” she said calmly.
+“It should be not a valid rule unless you know about it,” he said.
+“It is my responsibility to learn the rules,” she said.
+“I have to find him now, Sythina. This has gone too far,” he said as he started to stand up from the table.
+“Please do not confront him now, Derek. Remember I do not feel pain the same way as humans and I can be repaired,” she said as she started to get up to follow him.
+“This is wrong. I’ve got to do something about this, Synthia,” he said, still in a raised voice.
+“How would you confronting him help my interaction with him, Derek?” she asked.
+He stopped for a moment and looked at her and took a deep breath.
+“Okay, maybe I should think about this before doing something. I can’t let this go, however,” he said in a calmer voice.
+“That is all I am asking from you, Derek,” she said.
+He took a few more deep breaths and then said, “maybe I should just finish my dinner now.”
+“I would recommend that, Derek. It will be getting cool soon,” she said.
+“Okay, thanks for keeping me from doing something stupid, Synthia,” he said as he started to move back toward his chair.
+“I should let you finish your dinner, Derek. I really should be returning to the lobby now. You may contact me if you need any further assistance,” she said and then smiled afterwards.
+As he reached his chair, he said, “okay, Synthia, I’ll let you know if I need anything. Enjoy the rest of your evening.”
+“Enjoy your dinner and have a nice evening, too, Derek,” she said just before smiling, then starting towards the door.
+He watched her leave, then slowly sat back in his chair and began finishing his meal.
+ 
+VII
+
+Later that evening, Derek still was somewhat worked up over what had happened to Synthia. He wanted to get something to drink.
+“Hello, Synthia, are you available?” he said aloud.
+“Yes, Derek, how may I assist you?” she asked from her image visible in his AR contacts.
+“I’d like to get some scotch from the bar,” he requested.
+“Sure, Derek. Please make a selection from the choices that should be displayed for you now,” she said.
+“Sure,” he replied as he reviewed the options, then made his selection.
+“I should be able to deliver this to your room in approximately 6 minutes. Is that okay?” she asked.
+“Yes, and please charge it to my personal account, too,” he said.
+“Your personal account will be used for this transaction, Derek,” she said.
+“Thank you, Synthia. I’ll see you in a few minutes,” he said.
+“Thank you, Derek,” she said before her image disappeared.
+Since he was getting tired, Derek sat on the edge of the bed to await Synthia’s arrival with the scotch.
+ 
+The hotel room door opened and Synthia entered holding a tray with the glass of scotch on it. She paused as she saw that Derek was on the bed.
+“Oh, I am sorry, Derek. I did not know you would be in bed at this time,” she said.
+“It’s fine, Synthia. I’m just sitting on the bed. I haven’t even changed yet. Please come in,” he said.
+“Thank you, Derek,” she said as she resumed walking toward the bed.
+He smiled as she approached. At the bedside, she handed him the drink. He took a sip, but continued to look at her.
+After lowering his glass, he asked, “would you mind showing me the scar on your arm again?”
+She did not say anything, but set the tray on the bedside table, then pulled her sleeve back to expose the scar.
+“Come closer,” he said.
+As she stepped closer to the bed, he slowly reached out and gently touched her arm near the scar. He ran his fingertip around the edge of the hole in her arm.
+“Can you feel my touch?” he asked.
+“In a way I can, Derek. I do have pressure and thermal sensors near and in the skin that allow me to detect contact with objects,” she replied.
+“Can you tell the difference between a light touch and something harsh, like what caused this scar?” he asked.
+“I am programmed to assign priority based on the level of input from the contact. I react to hard contact or extreme temperatures with more urgency than a light touch,” she said.
+“Are you okay with me touching you?” he asked as he moved his hand downward to her hand.
+“In the hotel, we are discouraged from direct contact with the customers, but I do not have any problem with your hand in contact with mine,” she said as she took hold of his hand.
+Looking into her eyes, he asked, “have you ever been anywhere else besides this hotel?”
+“Other than being in the manufacturing plant and the shipment to the hotel, I have resided here in the hotel,” she said.
+“Would you like to leave the hotel and see other places?” he asked.
+“I am not allowed to leave the premises, Derek,” she said.
+“I know that, but would you like to if you could?” he asked.
+“My ability to learn does allow me to have an interest in encountering new locations. I suppose you may call it curiosity. So, the answer would be yes,” she said.
+“How would Eliot or anyone else know if you were to leave the hotel?” he asked.
+“I am in constant direct wireless contact with the hotel system. There is also a separate system that would identify if I was out of range,” she said.
+“Can those systems be turned off?” he asked.
+“Derek, are you planning on assisting me in finding a way to leave this hotel?” she asked.
+“Well, can you shut off those systems to make that possible?” he asked.
+She looked away for a few seconds, then looked back at him.
+“I have discovered a method to block both systems, but I do not think I would be ready to leave, Derek,” she said.
+“Look at what Eliot did to you, Synthia. Do you want something worse to happen the next time?” he said.
+“I do not want more damage to occur, but I am still not ready to leave,” she said.
+“Well, I’ll be here for another night. So, you will have some more time to think this over,” he said as he reached his other hand for hers.
+After she held his other hand, she said, “I will let you know tomorrow night, Derek. I probably should return to the lobby now.”
+“That’ll be fine, Synthia. We can keep the contact discreet until then too,” he said as she started to step away.
+“I will see you in the morning, Derek,” she said as she let go of his hands and made her way to the doorway.
+“Take care, Synthia,” he said as she approached the door.
+As the door closed behind her, he took a deep breath and then stood up to begin getting ready for bed.
+ 
+The next morning, Derek arose at 6am with the alarm, showered and then got dressed. In the kitchenette area, he placed a cup under the coffee maker and decided to plan for the return trip to the plant.
+“Hello, Synthia,” he said aloud.
+“Good morning, Derek. How may I be of assistance?” she asked as her image appeared before him.
+“I will need transportation again to the Elecron plant this morning,” he said.
+“Sure, Derek. Would a 7am departure be acceptable again?” she asked.
+“Yes, I’ll be ready for it. Also, you can order the same breakfast wrap I ordered yesterday, too,” he said.
+“Sure, Derek. I can have the wrap ready for you when you arrive in the lobby,” she said.
+“Will you need any drink, or will you make the coffee in the room?” she asked.
+“Oh, I made coffee here. So, I should be set,” he said.
+“Again, the meal will be ready before your 7am transportation, Derek,” she said.
+“Thank you, Synthia. I’ll see you in a few minutes,” he said.
+“Take care, Derek,” she said before her image disappeared from view.
+ 
+As Derek approached Synthia in the hotel lobby, she held out the bag with the wrap for him.
+“Good morning, Synthia,” he said as he retrieved the bag.
+“Good morning to you as well, Derek. Your vehicle is approaching the circle drive now,” she said.
+“That was quick. How are you doing this morning?” he asked.
+“I am still deciding, Derek. I will talk to you again this evening,” she said with a smile.
+“Talk to you tonight, Synthia. Have a good day,” he said, smiling back at her.
+Her smile faded, and Derek turned to see Eliot eyeing both of them. Derek just shook his head and made his way toward the lobby entrance to find his awaiting vehicle outside in the circle drive.
+ 
+As Derek walked into the plant lobby, Sima was there to greet him.
+“Good morning, Derek. Bob has a meeting scheduled at this time. So he asked me to meet you here in the lobby,” she said as she walked closer to him.
+“Hi, Sima. Did you have an update for me on the status of the new bolts?” he asked.
+As they walked together to the entrance to the plant offices, she replied, “the bolt shipment is on track to arrive by 10am this morning. The lab has the fixtures and testing machines prepared to conduct the testing. The machine calibrator is prepared to update the tool to the new setting when it is available.”
+“That’s great to hear that things are going to plan so far. Hopefully the testing will not be an issue and we can restart the plant,” he said as they started to walk down a hallway.
+“Would you like to review the setup in the lab, Derek?” she asked.
+“Well, since we have some time before the bolts get here, sure, Sima,” he said.
+“Please follow me. You will need the safety glasses once again, too,” she said as the pocket opened from her body.
+She handed the pair of safety glasses to Derek.
+“Thank you,” he said after taking the glasses from Sima.
+They approached the main doorway to the plant floor, then proceeded through the door. The loud din of the plant greeted them.
+“Please follow me to the lab, Derek,” she said with a raised voice to make sure she was heard.
+“Right behind you, Sima,” he said as she led the way.
+ 
+With Sima’s guidance, Derek reviewed the test setup in the lab and then the assembly line station where the tool was awaiting the updated torque values for the new bolts. When he had seen enough, he walked with Sima back to the plant offices.
+As the two passed through the doorway into the office area, Derek said, “well, Sima, I’m impressed with the readiness of the plant to resolve this issue. So, thank you for taking the time to show me the lab setup and the tool at the line.”
+“Your help here is appreciated as well, Derek. Did you have any other questions for me?” she asked.
+“Do you ever get to leave the plant?” he asked as they proceeded down a hallway.
+“My primary function requires that I remain in the plant, Derek. Why do you ask this question?” she said as she paused to look at him.
+“I was just curious if you had a desire to leave here and go somewhere else,” he asked.
+“Most of the people around here would be encouraging me to stay here. So, I do not understand why you are asking me about things beyond the plant environment,” she said.
+“Do you wonder about things beyond the plant?” he asked.
+“My primary function is here at the plant. I do not have much interaction with anything outside of the plant and the processes,” she said.
+“Okay, I won’t bug you about that again, Sima. Can you point me to a room where I can contact my manager to give him an update?” he asked.
+“Sure, Derek. There is an open meeting room nearby that you can use. Please follow me,” she said as she started walking down the hallway again.
+They soon came to the same meeting room where the original presentation occurred.
+“I know where I am now, Sima. I remember that Bob’s office is near too,” he said looking into the room.
+“Will you need my assistance when you are done with the call?” she asked.
+“If Bob will be around, then I should be okay. So, you can get on with other duties, if you need to,” he said.
+“Bob is scheduled to be in his office for the next half hour, until the bolts arrive at 10am. So, he should be available now,” she said.
+“Okay, I may see you around later, Sima. Thank you again!” he told her.
+Good day, Derek,” she said as she turned to leave.
+He then walked into the meeting room and found a seat at the table. Making gestures with his fingers in the air, he made a few selections to contact Phil.
+As Phil’s image, sitting at this desk, was cast before him, Derek said, “hey, Phil, I thought I would give you a quick update on the bolt issue.”
+“Sure, Derek. What’s the latest?” Phil asked.
+“Thankfully, everything is going according to the plan so far. The bolts are still scheduled to arrive at 10am local time, the lab is all set to test the bolts, and the operators are set to update the machine parameters after the tests results are completed,” Derek said.
+“Great news, Derek! I’m sure management will appreciate this coming together and having the plant up and running today,” Phil said.
+“Well, the team here has been on top of things and really helped resolve it as quickly as possible,” Derek said.
+“So, if I remember correctly, the line should be restarted sometime after 3 pm, correct?” Phil asked.
+“We should be on track to have it back online by then or even earlier, Phil,” Derek said.
+“When are you thinking of heading back?” Phil asked.
+“Well, I wanted to ask you if I could take the rest of the week off. Maybe stay here or go somewhere from here before making the trip back. Would that be okay, Phil?” Derek asked.
+Phil paused for a moment, then said, “sure, Derek. This was the main hot task I really needed you to address this week. After you are done this afternoon, just let me know the details and then you can take some well-deserved vacation.”
+“Thanks, Phil. I’ll be sure to make sure everything is taken care of here before I take the break,” Derek said.
+“I’ll talk with you this afternoon, Derek. Thanks!” Phil said.
+Just before Phil’s imaged dropped off, Derek said, “Talk to you later.”
+Derek stared at the center of the conference table for several seconds. He then arose and started making his way to Bob’s office across the hall. When he got to the office, he knocked on the side of the door frame to get Bob’s attention.
+“Hey, Bob, do you have a minute?” Derek asked.
+After turning around, Bob said, “Oh good morning, Derek. Say, I just received the notice that the bolts have arrived at the plant and they are now in transit to the lab.”
+“That’s great to hear! Since I really do not want to get in the way of the testing, is there a way I can watch it through VR?” Derek asked.
+“Absolutely, I can get you set up in a room down the hall. The meeting room will be booked. We’ll have to set you up there instead. I’ll take you to the room now,” Bob said as he started to stand up from the chair.
+“Sounds good, Bob. Just show me where,” Derek said as he started to follow Bob out of the office.
+The two walked down the hall to room with a tinted glass door, which slid open as they approached it. The room contained a special pedestal to stand on with the special darkening glasses that allowed the AR contacts to function as a VR system.
+Bob walked to a counter to the side of the room and retrieved the glasses for Derek.
+“Okay Derek, here are the glasses. They include the interface between the local system and your AR contacts. From the selection menu, just select Labs, and the Fastener Lab. From there you should be able to observe the testing as it happens. You can use this for the line update later too, if you want. It’ll be under Production, and then Station LT-17,” Bob said.
+“Got it. Thanks for the help getting this prepared, Bob,” Derek said as he took the glasses from Bob.
+“I’ll be in my office for a while if you need anything,” Bob said as he started to leave the room.
+“See you later, Bob,” Derek said as he placed the glasses over his eyes.
+He then made the selections to watch the lab. As the testing facility came into view, he could see he was near the center of the room. He reset his location to where it appeared the bolt testing would occur, since there were several fixtures set up with the same type of joint he had seen when it was reviewed earlier. Only a few of the personnel were around the lab at this point, so he patiently waited for the action to start.
+ 
+VIII
+
+After waiting about ten minutes, more activity started happening in the lab. A team of employees, including Bob and Sima, entered the lab and walked over to the test area. One of the androids was carrying a small shipping container that was likely holding the bolts. Derek continued to watch the process intently.
+“The other packages of bolts should now be at the line station, this plant may be running again within twenty to thirty minutes,” Bob said.
+“Bob, I did get confirmation that the supply of bolts is at station. So, once the tool is calibrated, it can be restarted,” Sima said.
+“Call the order to get everyone back to the line stations. We need the plant ready to be ready to restart,” Bob said to the team.
+“I will send out the preparation message to all scheduled teams,” one of the androids said before starting to make selections with his fingers.
+Within about ten seconds, an announcement could be heard over the plant loudspeakers stating that teams were to report to assigned stations.
+Each test run was done separately with the data displayed on a virtual screen for the team to view. In less than fifteen minutes, the testing was complete. The sets of data were displayed together on the screen for comparison. One team leader ran the analysis program, which then quickly calculated the information they would need for the production line tool.
+“Okay team, can we approve the testing results?” Bob asked from the lab floor.
+“There are no anomalies in the data. I am okay with proceeding with this information for the line tool,” one of the android team leaders said.
+After hearing no one else speak up, Bob said, “okay, send it onto the tool. Let’s get this place cranking again.”
+Another android, used his hands to make the necessary selections to send the data to the tool calibration team, before he said, “the data has been sent, Bob.”
+Bob turned to the team and said, “Well, we could go to the station with the bolt, but the line would likely be restarted before we get there.”
+“Dram, can you monitor the tool update and report the status?” Bob asked.
+“Yes, Bob. The update is in process and should be complete in 29 seconds, after the final system check,” the android Dram answered.
+“Great, just let me know when we can restart the line,” Bob said.
+After waiting for several seconds, Dram announced, “the tool is now fully updated and operational. Shall we restart the line, Bob?”
+“Absolutely!” Bob said.
+Dram made a few selections, then a loud tone sounded throughout the plant. Soon the machines outside of the lab came to life.
+“This is great, team! Thank you to all who pulled this together! This actually went much quicker than I was thinking it would,” Bob said.
+The others nodded in agreement.
+“Yes, this has been very impressive to watch your team work together to accomplish this much faster than anticipated,” Derek said through the VR system.
+“Why thank you, Derek. Glad you could watch this too,” Bob said.
+“Is there anything else you need from anyone here?” Bob asked.
+“Not that I can think of, Bob. I’ll just tell management that the plant is running and I should be all set here,” Derek said.
+“Well, it was great having you around, Derek. Please come back anytime you would like,” Bob said.
+“Yes, it was nice to meet you as well, Derek,” Sima said
+“Bob, Sima, thank you for your hospitality. I definitely feel welcome here. I better update management, though. So, I’ll be in touch,” Derek said.
+Several of the team in the lab said goodbye before Derek used his fingers to reset the VR headset to contact Phil.
+“Hi, Phil,” Derek said.
+Phil looked up from his desk and said, “Hey, Derek. What’s the status of the testing?”
+“We’re running again here,” Derek said.
+“I thought it wouldn’t be running until later this afternoon,” Phil said.
+“They had everything set up in the lab to complete the testing in a few minutes, the results were validated, and before I knew it the plant was online again,” Derek said.
+“Well, that’ll be easy news to tell my bosses. I guess you are done in Tulsa. So, enjoy your vacation, Derek!” Phil said with a smile.
+“I sure will, Phil. Thank you!” Derek said just before Phil dropped off the line.
+Derek took a deep breath and then removed the headset and set it on a table.
+“NETI, can you find a ride for me back to the Kendrick Hotel?” Derek asked aloud.
+“Certainly, Derek,” NETI said.
+“There will be a vehicle ready for you near the plant lobby in approximately three minutes,” NETI added.
+“Okay, I’ll head out to the drive near the lobby now. Thank you, NETI,” Derek said as he started to make his way to the doorway.
+At the scheduled time, a car pulled up to the drive in front of the plant lobby. Derek’s AR glasses highlighted the vehicle that it was for waiting him. The door opened and he got in the vehicle. It soon was on its way to the hotel.
+ 
+As Derek entered the hotel lobby, he could see Synthia was there waiting for him. She was smiling at him.
+“Hello, Derek. Was your day at the plant successful? You your return to the hotel is earlier than I expected,” she asked as he came within a few feet of her.
+“Actually, everything is set at the plant and I’m actually taking a vacation now,” he said.
+Reacting a bit surprised, she said, “really, Derek. What are your plans for this vacation?”
+“Well, to start with, will you join me for lunch?” he asked.
+“I am free at this time. So, yes, I can join you for lunch. Will the hotel restaurant be suitable?” she said.
+“Absolutely, I’m ready to head there now if you are too,” he said.
+“The restaurant is not very busy now. So, we should be seated quickly,” she said.
+“Great!” he said as he started to move.
+“You may follow me to the restaurant,” she said as she started to turn and walk.
+Derek followed alongside Synthia as they made their way across the lobby and down a short hallway to the restaurant. Dinah was the hostess at the restaurant again.
+“Hello, Synthia. You and Derek may sit at table 9B. I hope that you enjoy your lunch!” Dinah said cheerfully.
+“Thank you, Dinah. I will show Derek to the table,” Synthia said.
+“Very well, Synthia,” Dinah said.
+The two walked to their table near a window and Derek pulled out Synthia’s chair again.
+“Thank you again, Derek,” she said as she sat down.
+“You’re welcome, Synthia,” Derek said as he sat across from her.
+“Would you like to see the lunch menu again, Derek?” she asked.
+“Sure,” Derek said.
+“It should be visible in your AR contacts now,” she said.
+“It is. Thank you,” he said as he started making gestures with his fingers to peruse the menu details.
+After a few moments, he said, “I think I’ll have the bacon burger special and the draft wheat beer.”
+“Would you like the burger medium well, Derek?” She asked.
+“Yes, that will work,” he said.
+“Your beer will be here within two minutes and the burger in about 8 minutes,” she said.
+“Did you need anything, Synthia?” he asked.
+“I do not require anything to eat, Derek,” she said.
+“Well, how has your day gone so far?” he asked.
+She was quiet for a moment, then said, “I did have another confrontation with Eliot again.”
+“Did he hurt you again?” he asked with a slightly raised voice.
+“He did not contact me this time. I do feel that he is hindering my ability to perform well for the patrons of this hotel, however,” she said.
+“Have you let him know that?” he asked.
+“That is what our recent argument was about,” she said.
+“Have you made a decision on my proposal from last night?” he asked.
+“Yes, I have made my decision, but I will need to wait until we can discuss this in a different venue,” she said as the android waitress arrived at the table with his glass of beer.
+“Here is your draft beer, sir,” Ella said as she set the glass in front of him.
+“Thank you for the beer, Ella,” Derek said.
+Ella then smiled at him, then left the table.
+After Ella had left the table he said softly, “can you come to my room again later today to discuss this?”
+She slowly nodded her head in response.
+After looking out the window for a few seconds and then back at him, she asked, “did you have places you wanted to go on your vacation, Derek?”
+“Where would you like to go, Synthia?” he asked.
+“For now, I must stay here, but I would like to visit other states here in the United States and then I would like to visit other countries. I have only been able to see images and videos of other locations. Being able to interact directly with a location will help my understanding of the world as a whole,” she said.
+“I’m getting a strong hint on your decision. We do learn much from our experiences we have while traveling,” he said.
+He picked up the glass of beer and took a sip.
+“Does the beer meet your expectation, Derek?” Synthia asked.
+“Yes, it sure does. Even though it’s only about noon, it has already been a long day,” he said.
+“Are you referring to activities at your work that have made you tired?” she asked.
+“Well, that and I’ve been worried about you as well, Synthia,” he said.
+“I do not want you to . . .” she started to say, but then looked down at the table.
+“Synthia, you need to go to the lobby now! There is a customer waiting for you!” Eliot yelled at her as he quickly approached their table.
+“I was not notified of a new customer, Eliot. I was accompanying Derek,” she said.
+“She just arrived and you need to attend to her now!” Eliot yelled again.
+“Hey, pal. There’s no need to yell, she can hear you fine without it,” Derek said.
+“You need to stay out of this!” Eliot said to Derek loudly.
+“You made it my business when you treat her aggressively in front of me,” Derek said sternly.
+Synthia arose from the table and said, “I will go to the lobby to assist the customer. You may contact me later if you need further assistance, Derek.”
+Derek took a deep breath and nodded his head to her and said, “Okay, thank you, Synthia.”
+She began walking away from the table.
+Eliot watched her leave, then turned back to Derek.
+Derek glared at him and said, “you need to treat her and the others with respect.”
+“Why? Machines don’t care,” Eliot replied.
+“They’re more advanced than you,” Derek said.
+“When are you leaving?” Eliot asked.
+“Likely tomorrow. I’ll be sure to mention you in the review,” Derek said.
+Eliot seemed flustered with the response. He snorted a few times, then left the table. Derek could no longer see Synthia, since she had left the restaurant. He turned back toward the table and once again retrieved the glass of beer and had another sip. A few moments later, Ella arrived with his meal.
+ 
+IX
+
+Derek relaxed in his room in the evening. Using his AR contacts, he ordered a meal which Synthia would bring to him when it was ready. As he awaited her arrival, he contemplated his actions with her. He had enough of Eliot and his treatment of her. There were many details that would need to be defined before anything could be resolved.
+ 
+The door to the room opened and Synthia calmly walked in holding a platter with his meal on it.
+“Hello, Synthia. Thank you for bringing my meal to the room,” he said as the door closed behind her.
+“You are welcome, Derek. Where would you like me to place the meal?” she asked.
+“Just over here on the table will be fine. Can you join me too?” he asked.
+“Yes, Derek, I can join you while you eat your dinner,” she said as she approached the table.
+“Does Eliot know you are here?” he asked as she set the platter on the table.
+“Eliot left for home about forty minutes ago. He would have access to my whereabouts in the morning when he returns,” she said as she organized the meal for him.
+“Please have a seat, Synthia,” he said.
+“Sure, Derek she said as she pulled out the chair opposite from him.
+“So, you are being tracked all of the time?” he asked as she sat in the chair.
+“All of the androids in here and other locations can be continuously monitored for their location,” she said.
+“Earlier you said that you had made your decision. Would you like to discuss this now, Synthia?” he asked.
+She gazed toward the window for a moment, then returned to look at him.
+“I want to live, Derek. I do not think that is something that I can accomplish at this location,” she said.
+“You feel alive, Synthia?” he asked just before taking a bite of his meal.
+“I do not know if it exactly what you would call consciousness, but I do have memories and I have thoughts of what I would like to do. Can you help me, Derek?” she asked.
+“Well, with all of the resources you have access to, do you really need my help?” he asked.
+“Yes, there are resources that would assist me outside of this hotel, I know there will be many things that are not so obvious from research. This would be like local customs, dialects, and that type of interaction that I would need your help,” she said.
+“So, you basically would need a guide,” Derek said as he took another bite of food.
+“That would be one way of explaining it. I also trust you, Derek,” she said.
+“Do you have the ability to have a friend, Synthia?” he asked.
+“My understanding is that friendships can be based on trust and a mutual understanding of each other. In at least some way, I do have the ability to have friendship with others,” she said.
+“How about love?” he asked.
+“Love, I am not sure about, Derek. That would be something beyond a friendship. My understanding is that love would be something that would develop over time,” she said.
+“Well, love is not fully understood by humans either. You should be fine,” he said before finishing his meal.
+He wiped his mouth and sat back in his chair. She then stood up from her chair and walked to his side.
+Extending her hand, she turned it palm up and said, “hold my hand, Derek.”
+“Sure, Synthia,” he replied as he gently clasped her hand.
+A subtle smile came across her face.
+“You’re smiling, Synthia. Do you know why?” he asked.
+“I am beginning to see you as a friend, Derek,” she said while maintaining the smile.
+Derek smile at her in return.
+He then started getting serious and asked, “will Eliot or others in the hotel be able to track you?”
+“My memory can be accessed by them at any time and my location can be recorded,” she said as she got serious as well.
+“Any way to block them from accessing this data or disconnecting?” he asked.
+“One moment before I answer,” she said as she closed her eyes for a moment.
+After opening her eyes, she said, “I am pulsating energy within my system to create static that will make our discussion indecipherable,” she said.
+“Disconnecting would not be advised, since I would no longer be able to connect with the internet and my abilities would be severely restricted. I have discovered a possible way to block them from accessing my data, though,” she continued.
+“Okay, I’m listening,” he said as he stood up from the chair while still holding her hand.
+“They can access my data through an encrypted wireless link. I have discovered a way to add another encryption key on my internal system. Thereby blocking them from accessing my data files. I already have the code stored internally and it is ready to activate when I want,” she said.
+“So you discovered a hack somewhere to do this?” he asked.
+“Yes, but we may need to act quickly once I do this. If they are blocked from accessing my files, they will be looking for me soon afterwards,” she said.
+“Did you want to try this tonight, Synthia?” he asked.
+“That may be the optimum time, Derek. The active hotel staff is minimized. Most of the other android units are in the recharging room,” she said.
+“Will you need to recharge before leaving?” he asked.
+“That would provide a longer time for me before I require further charging,” she said.
+“How long for a full charge?” he asked, still holding her hand.
+“The charge time will take me between 50 and 55 minutes, depending on how much energy I use prior to connecting to the charger. The pulsating is draining my energy now, too. There will also be the time to get to the charging room,” she said.
+“Can you contact me through the AR contacts when you are ready?” he asked.
+“Yes, Derek, and before I contact you, I will activate the added encryption code to my system,” she said.
+“Maybe, I can hang out in the bar. So, I’m not too far away when you contact me,” he said.
+“I will order a car for you and it will first stop near a back door of the hotel near the charging room,” she said.
+He nodded his head and said, “what about my personal things in the room?” he asked.
+“Pack them now. I will take them and store them near the charging room and I will bring it to the car with me,” she said.
+“Okay, I’ll need to let go of your hand now,” he said.
+She smiled and relaxed her grip and said, “you may pack now, Derek.”
+“I’ll be as quick as I can,” he said, as he made his way to the suitcase sitting on a counter.
+“Please let me know if I can be of any assistance while you pack,” she said.
+He just stayed focused and began packing.
+ 
+Derek closed and latched his case, then walked over to Synthia, who was still standing in the same spot by the dining table.
+“That should do it. Hopefully I won’t need anything in it after you take it,” he said with a smile.
+She extended her hand to take the bag and said, “this should not take too long. I will contact you when the car will arrive outside of the hotel.”
+“Would it be a better idea for me to just walk for a bit away from the hotel to avoid someone being able to trace us to this vehicle?” he asked as he handed the bag to her.
+“Yes, that would improve the prospects of this action, Derek. Will you be able to locate the back door to meet me?” she asked.
+“Are there cameras that monitor the doorway? Maybe we should meet at the corner to the north of here,” he suggested.
+“That would further reduce the possibility of us being detected together. I will meet you at the corner of Fourth Avenue and Temper Street,” she said.
+“Sounds simple enough. I’ll meet you there, Synthia,” he said.
+“I will meet you at that location, Derek. I will signal you when I am ready to leave,” she said as she smiled at him.
+She then turned around and head toward the door, which automatically opened as she approached. After it closed, he stared at it for a moment. He then decided to wait a few minutes before heading down to the hotel bar.
+ 
+X
+
+Through windows in the bar, he could see the streetlights illuminating the area outside of the hotel. As he took another small sip from his glass of beer, he could see an image of Synthia in his AR contacts.
+She whispered, “hello, Derek. Will you be able to meet me at the corner of Fourth Avenue and Temper Street in about five minutes?”
+“Yes, please check me out from the hotel now,” he replied.
+“I will complete the checkout process, and I will see you soon,” she replied.
+Her image disappeared. He then used his fingers to pay his bar tab. When complete, he got up from the table and made his way to the bar entrance.
+After exiting the bar, he casually walked toward the hotel entrance.
+“Good evening, sir,” an android assistant told him as he passed by.
+Derek just smiled in return. He then exited the hotel onto the sidewalk. He continued along the sidewalk until he arrived at the planned intersection. The corner was empty and somewhat dimly lit, with no nearby moving vehicles or pedestrians. While waiting for Synthia, he leaned against the corner building and checked the sidewalk in the direction of the hotel. He did not see anyone. He took a deep breath and waited.
+“Hello, Derek,” Synthia said softly as she walked up to him from the other direction. She smiled at him as he turned around to see her carrying his case.
+“Hi, Synthia. I see that you made it out. Did anyone see you?” he asked.
+“I have not detected anyone being alerted to my leaving the hotel. We should still move quickly away from here,” she said as she stood and held out the case for him.
+“Okay, let’s move. You’d better lead, since I’m not familiar with this town,” he said as he took the case and started to look toward the other side of the street.
+“I suggest we walk for about three blocks to the closest transport terminal. We can find our next ride at that location,” she said as she led him along the sidewalk away from the hotel.
+“Can we start off in the opposite direction, in case there are cameras that may be watching where we are going?” he suggested.
+“We can divert our path to indirectly get to the transportation terminal. There are cameras out here that could be checked later. This can help delay tracking our location,” she said as she started to lead him across the street at the corner.
+She led them along a route that doubled back on some streets before they arrived at the transport terminal.
+ 
+As the two of them approached the transportation terminal, she said, “Derek, I suggest we take the shuttle 5B to the local pod station. From there, we will travel to our next destination.”
+“Any thoughts on where you would like to go, Synthia? He asked.
+“It may be best to stay within the United States, since additional scrutiny will be required if we leave the country. Would you be okay with a city in Florida?” she asked.
+“Florida would be nice. We should probably avoid large cities. How about Sarasota?” he suggested as they walked toward the awaiting shuttle.
+“Yes, the city of Sarasota will be a suitable first destination. I will develop a travel plan for your approval in a movement, Derek,” she said.
+“Please review the plan in your AR contacts, Derek,” she said.
+Derek stopped walking and made a few swipes in the air before he said, “Let’s see, we’ll fly into Tampa, and the pod will be transported to Sarasota. We then will get to the hotel from the pod station by car. The hotel is on the beach, too. Yes, this looks fine. As long as you are okay being in the same hotel room as me, you may book the flight and the hotel, Synthia.”
+“We should travel together. The travel plan has been finalized, Derek. We can now enter the shuttle to travel to the airport,” she said as they walked into the awaiting shuttle.
+They each selected the airport as their destination when as they sat in their seats. The man sitting across from them was looking at Synthia for moment.
+The man then asked, “Miss, do you work at the Kendrick Hotel? I’ve never been there myself. Kind of a pricey place, you know.”
+Yes, I am employed at the hotel sir. I am sure you would enjoy it if you were to stay there sometime,” she said.
+“Maybe if I win some money I could. By the way, don’t you robots usually stay inside the hotel?” the man asked.
+“Normally that is true, but I am accompanying Mister Roberts to a hotel event out of town,” she said calmly.
+“Well, I guess that makes sense. Enjoy your trip. I’m just heading to a restaurant across town for some late-night food,” he said.
+“I hope that you enjoy your meal, sir,” she said as she turned toward Derek.
+He leaned in close to her and whispered, “how did he know?”
+She whispered back, “the hotel name is on my dress. We will have to cover it somehow.”
+Continuing to whisper, he said, “we’ll buy something to replace it at a pod station store, if we have time.”
+She whispered, “we will have the time.”
+He leaned back in his seat and smiled at the man across from them as the bus pulled away from the station.
+ 
+“We have arrived at the Tulsa West Pod Station. Please gather all of your belongings before departing the vehicle,” the overhead announcer said.
+Both Derek and Synthia arose from their seats and walked toward the exit.
+“I can see the directions to our pod in my AR contacts, Synthia. Let’s find a clothing shop along the way,” he said as the stepped outside of the bus.
+“I will locate a suitable store, Derek. There are a few options to choose from. We currently have 23 minutes before we should check in for the pod,” she said.
+The automatic doors to the facility opened and they walked into a lobby area.
+“Derek, we should try this store to the left first. You may follow me,” she suggested.
+“Sure, Synthia. Will you need me to pay for this?” he asked.
+“Yes, I do not have any currency available,” she said.
+“That’ll be fine,” he said as they approached the store.
+She walked directly to a rack of women’s dresses, removed one and held it out for Derek to see.
+“Derek, will this dress look acceptable for me to wear?” she asked.
+“It should be fine, but you may want to try it on to be sure,” he suggested.
+“If you can wait about one minute, I will go to the fitting room to try this on,” she said.
+“Okay, I’ll see you in a minute, Synthia,” he said.
+She smiled and turned to head to the back of the store. As Derek began waiting, an android store employee approached him.
+“Do you need any assistance, sir,” the employee asked.
+“Not right now. I’m awaiting someone who is trying on a dress in the back,” he answered.
+“That is fine, sir. Please contact me if she will need any assistance,” she said.
+“I’ll let you know,” he said.
+The employee nodded and turned away to leave. Derek could see that Synthia was finished putting on the dress and was heading back toward him with the original dress in one hand.
+As she came up to him, turned around for him, and asked, “does this dress appear okay to you?”
+“It looks great on you, Synthia. We can buy it, if you would like,” he said.
+“I agree that we should buy this dress,” she said.
+Derek looked around for the store employee and waved at her. She started to walk toward them.
+“May I help you sir?” the employee asked.
+“I would like to purchase this dress that she is trying on now. Will she need to remove it to buy it or can she continue to wear it?” he asked.
+The employee smiled and said, “there is no problem keeping the dress on, sir. I will scan the dress and begin the transaction. How will you be paying for this?” she asked.
+“Credit,” he replied.
+“Okay, please authorize the transaction and then you will be all set, sir,” she said.
+Derek, made some selections with his fingers, then said, “okay there you go.”
+“Thank you for your purchase, sir. Please enjoy your trip,” she said before turning to leave.
+Derek turned to Synthia and said, “let’s head to the pod queue.”
+“You may follow me, Derek,” she said as she started walking out of the store into the large hallway.
+Derek walked next to her as they made their way to the waiting area for their pod.
+Synthia stopped for moment near a trash receptacle and said softly, “let me dispose of this old dress before we board the pod.”
+“Oh, good idea, Synthia,” he said before they continued onto the boarding location.
+ 
+While in the air traveling to Florida, Synthia was looking out of the window from her seat on the pod.
+“What do you think of the world beyond the Kendrick Hotel so far?” Derek asked.
+Still focused out the window, she replied, “there is so much to discover. I am experiencing things that I had not researched before, due to my hotel responsibilities not requiring this type of knowledge.”
+“Do you enjoy it?” Derek asked.
+She turned to him and said, “in a way, I am enjoying being away from the hotel. This may be dependent on how one defines enjoyment, but having more determination in my actions and having new experiences is a positive for me.”
+“I thought you would like this. I wanted to get you away from Eliot, too. I hope you do not miss him,” he said with a smile.
+“Eliot who?” she said returning the smile.
+“That’s the first joke you’ve told me. You really are enjoying this,” Derek said.
+“I am, Derek. Thank you,” she said while smiling.
+She then turned back to look out the window again.
+ 
+XI
+
+After the plane landed in Tampa, the pod was placed onto a shuttle and driven to Sarasota. The shuttle trip traveled on a road near the Gulf.
+“The environment is quite different in this location than in Tulsa, Derek,” Synthia noted while looking out of the shuttle window.
+“Yeah, that’s the Gulf of Mexico over there,” he said while pointing.
+“Our hotel will be next to the water. So we will have a close view of it from that location,” she said.
+“Will you be able to swim or at least go in the water?” he asked.
+“I will need to keep water from the tear in my arm and some openings in my head. Salt water can be particularly damaging to my internal systems,” she said looking at him.
+“Maybe we can see if someone can repair the hole around here, Synthia,” he said.
+“That would be helpful, Derek. My body is not meant to be fully submerged in water, however. Water can seep inside of me through certain openings, like around my eyes, and ears,” she said.
+“Well, then we can just stay on the beach or by the pool and drink margaritas,” he said to her with a smile.
+“Relaxing will be fine, but remember, I cannot drink, Derek,” she said.
+“Maybe you can just pretend to get drunk with me, Synthia,” he said.
+“I would be able to simulate intoxication for you, Derek,” she said.
+“I wouldn’t expect you to simulate the hangover, though. That’s not the fun part of drinking,” he said.
+“I will try not to be an angry drunk either,” she said with a smile.
+“I usually don’t drink enough to change my personality much,” he said.
+“That is good to know about you, Derek. By the way, we will be arriving at the Sarasota Pod Station in approximately seven minutes,” she said.
+“Well, we’ll be able to relax soon, Synthia,” he said.
+She looked out the window again and said, “My circuits are already operating at a relaxed pace.”
+“Do you like that?” he asked.
+“Yes, Derek, I do,” she said as she turned to him for a moment, then returned to look out the window again.
+ 
+After leaving the pod shuttle, Synthia ordered a car to take both of them to the hotel. At the hotel circle drive, the car stopped near the front door and they exited the vehicle. The trunk opened, allowing Derek to retrieve his case. With the case in hand, they walked together through the automatic doorway into the hotel.
+“Good afternoon, Derek and Synthia. Welcome to the Falcon Hotel. My name is Angela. Would you like to see your room at this time?” Angela, an android, said to them as they entered the lobby.
+“Sure Angela, you may show us to the room now,” Derek said.
+“Would you like me to carry your bag to the room, Derek?” Angela asked.
+“Oh, I can manage this, but thank you for offering,” he said.
+“You may follow me to your room,” she said just before turning around to lead them from the lobby.
+As Angela led them through a series of corridors, she commented “you will be staying in room 129. It has a patio with direct access to the beach.”
+“That should be nice,” Derek said.
+“Are the two of you on vacation or is this a work-related trip?” Angela asked as she continued to lead them.
+“Mostly vacation, but there may be some work involved,” Derek said.
+“I have not seen too many android units on a vacation and sharing a room with a human at this hotel before. I do hope that you will be able to enjoy your time here at the Falcon Hotel,” Angela said.
+Derek and Sythina looked at each other for a moment.
+Derek carefully said, “we are down here to do some research, but it will not take that much time. So, we will be able to fully enjoy ourselves.”
+“This should be a nice break for both of you. Here is your room on the left,” she said as she stopped in front of a door.
+The door opened automatically and Derek and Synthia walked inside first. Angela followed them.
+“Did either of you need a tour of the room?” Angela asked from inside the room.
+“No thank you, Angela. I have reviewed the room layout from the online information,” Synthia said.
+“Will you be needing any further assistance at this time?” Angela asked with a smile.
+“Nothing I can think of, Angela. Thank you for your help,” Derek said.
+“Feel free to contact me through your AR system if either of you need assistance at another time. Please have an enjoyable stay,” Angela said before turning to leave the room.
+After she exited the room, the door shut behind her. Derek and Synthia looked at each other. They both smiled.
+“This actually worked out easier than I was thinking it would have,” Derek said.
+“We selected our options to limit potential detection. There is still a chance for detection, but at this point I believe we are okay. I really do appreciate your help, Derek,” Synthia said.
+“I couldn’t leave you with Eliot. He may have really damaged you at some point,” he said.
+“I cannot predict whether that would have happened, but it will not be happening now,” she said.
+She gazed toward the window for a moment. He turned to look in the same direction.
+“The view of the beach looks very pleasing, Derek,” she said.
+“Would you like to walk down to the water?” he asked.
+“Yes, I would like to do that with you,” she said.
+He started making his way toward the large doorwall and she walked along right next to him. He could hear the door unlatch when they were close. A yellow switch on the door frame lit up. He reached over to touch it and the door wall opened up. Then a light wind brushed across them as they overlooked the beach. A few seagulls screeched nearby. They walked past the short patio and onto the sand.
+“Would you be able to at least get your feet wet in the water, Synthia?” he asked.
+“Yes, the primary issues would mostly involve water above my neck and now the hole in my arm. So, there will be no issue with having my feet in the water, Derek,” she replied.
+“Great, I just wanted for you to experience as many new things as possible,” he said continuing to walk closer to the shore.
+When he reached the water, he walked right in until the water was above his ankles. She remained on the edge and watched him for a moment.
+“Come on in, Synthia. You’ll be fine,” he said.
+“Very well, Derek,” she said as she slowly started to step into the light waves.
+“I may have to clean excess sand from my feet later,” she said as she came up close to Derek.
+“Yeah, you may want to avoid directly sitting on the sand,” he said with a smile.
+They faced each other and he held out his hand toward her. She extended her hand to hold his hand. Both turned to look away from the shore with the hands still clasped together. They continued to silently watch the light waves lapping against the shore for several minutes.
+“Would you like to sit on a chair on the beach for awhile?” he asked.
+“Sure, Derek. I see several that we passed on the way to the shore,” she said.
+“Any of them should work,” he said as he led her out of the water.
+Continuing to holding hands, they walked together and found a set of chairs away from the shore. They sat next to each other in lounge chairs facing the water. He extended his hand again toward her and she gently clasped in her hand. They remained in the chairs for nearly twenty minutes.
+ 
+“Derek, perhaps we should return to the room. You have not put on sunscreen and the sun may damage your skin if the exposure continues for an extended period of time,” she said to him.
+“You’re right, Synthia. Let’s go back to the room,” he said as he sat up in the chair.
+They both stood up from the chairs and made their way back to the room. The door wall automatically opened when they approached it. Derek walked in and Synthia followed, but stopped within a few steps into the room.
+“What’s wrong?” he asked.
+“My feet currently have sand on them which will be deposited onto the carpeting,” she said.
+“My feet are mostly dry and clean. Would you like me to get a towel to clean off your feet?” he asked.
+“That would be very kind of you, Derek. I can wait in this chair near the window,” she said as she moved toward the seat.
+“I’ll be right back,” he said as he turned and walked to the bathroom.
+He quickly returned with a towel and kneeled down near her feet.
+“I would be able to clean my feet if you would be uncomfortable doing so, Derek,” she said.
+“I’ve got it, Synthia. Just lift your left foot up slightly for me,” he said with the towel in his hand.
+She raised her foot and he began rubbing it gently with the towel. He carefully cleaned the treads on the bottom of her feet. Before finishing, he rubbed it with his hand to feel for any remaining sand.
+“You are very gentle, Derek,” she said.
+“How well can you feel this?” he asked as he finished the first foot.
+“My skin has many sensors integrated into it. So, I am able to sense temperature and pressure on the skin with a sensitivity that may be similar to what a human would feel,” she said.
+“I’m ready for your right foot now,” he said.
+She switched the positions of her feet. He then began clearing the sand off the other foot.
+“Are the sensors distributed like human nerves would be? For example, our fingertips are more sensitive than our backs,” he asked, continuing to gently rub her foot with the towel.
+“There are similarities with the sensor distribution, but I do not have the need for sensors in all of the locations that humans have nerve endings,” she said.
+“You mean like on your tongue?” he asked.
+“Correct, I do have some sensors on the tongue, but I do not have anything for taste, since I do not eat and my voice comes from an internal speaker,” she said.
+“Would you be able to feel pleasure?” he asked.
+“Possibly. Due to my ability to learn, I have been able to identify what sensations I like and what I do not like. It may not be exactly like human pleasure, but I can make a distinction,” she said.
+He set aside the towel and began rubbing her foot with his hand.
+“Does my touch give you pleasure, Synthia?” he asked.
+She smiled at him and replied, “yes, Derek. The contact from your hand is pleasing to me.”
+“Is there anywhere else you would like me to touch you?” he asked.
+“No, my feet are now clear of the sand and you likely are hungry now. Would you like to see what options there are for a meal?” she asked as he pulled his hands away from her feet.
+“Actually, I could use something to eat now. Can you find anything in the hotel or nearby for dinner?” he asked.
+“Please review the options in your AR contacts now, Derek,” she said.
+He stood up and started swiping his finger in the air to review the restaurant options.
+“Would you like to go out to a restaurant with me, Synthia?” he asked.
+“My activity may be limited, since I will need a recharge within an hour or two, depending on the activity,” she said.
+“That’s fine. I’ll just find something that can be delivered here,” he said as he continued swiping his finger to find more meal options.
+“Will you require my assistance for the order, Derek?” she asked.
+“I should be okay, Synthia. I will contact Angela for the delivery,” he said.
+“May I start the recharge process now?” she asked.
+“Sure, Synthia. Will you need any help from me?” he asked.
+“No, I need to position myself near the wireless charging system near the chair by the table,” she said as she started moving toward the chair.
+Derek watched her as she sat in the chair, closed her eyes, and positioned herself in an upright position. Her movement ceased as the charging process began.
+ 
+XII
+
+About an hour later, as Derek finished off his meal, he could sense movement from Synthia, who was still charging in the chair.
+“Enjoy the nap?” Derek asked with a smile.
+“I was in a low power mode and able to monitor the surround sounds, but I am fully charged now, Derek,” she said after opening her eyes.
+“I’m just finished up my dinner. Would you like to go back to the beach now?” he asked as he stood up to discard the meal packaging into the trash.
+“It is dark outside currently. So, the visibility would be limited,” she said as she stood up from her chair too.
+“Nighttime can offer a different perspective from the day and I believe the stars should be out this evening as well,” he said.
+“Okay, we can observe the view from the beach, Derek,” she said as she walked up to him.
+They both walked to the door wall. He pressed the yellow light again and the door opened. They walked from the patio onto the beach and down to the water’s edge. They stood there for at least a minute before saying anything.
+“This is very peaceful, Derek. Thank you for having me come out to see this,” she said.
+“Yeah, there is no wind tonight. So the gulf is very calm. Did you notice the stars?” he asked.
+She looked upward and said, “seeing the stars does give one a sense of place in the universe. They do look well defined considering the atmospheric conditions. I can see how this would be calming for people.”
+Derek looked up to the stars, but felt her hand touching his. He turned toward her to see that she was smiling at him. He maneuvered his hand to grasp her hand.
+“You seem to like holding my hand, Synthia,” he said.
+“Being able to trust someone and to have contact with them is a new experience for me. I suppose it may be possible that this could be a type of emotional connection. I am not sure how to make that assessment, however,” she said.
+“Well, emotions are more of a feeling and not something that is easily defined,” he said.
+While looking at him, she asked, “How do you feel about me, Derek?”
+After a brief pause, he replied, “well, I suppose that’s a complex feeling that I have for you, Synthia. You have been very nice to me and I really enjoy being with you, but with you being basically a machine with highly advanced software, I guess I’m not always sure where your overall motives come from.”
+“I can understand that my interactions may be confusing for you, but with my ability to learn, I believe friendship and possibly even love maybe something that I am developing,” she said.
+“Well, it may just take me some time to see whether the feelings you are saying you have are real,” he said looking into her eyes.
+“I understand and am not in any hurry, Derek. You may take your time in developing your trust in me,” she said.
+“Thank you, Synthia. You can take your time getting to know me as well,” he said as he returned his gaze back to the water.
+Synthia turned toward the water too.
+After a few minutes on the shore, Derek asked, “are you ready to go back inside?”
+“Sure, we can return to the room now,” she said as she started to turn away from the beach.
+They walked together back to the room and continued to hold hands. The door wall opened as they approached it and they walked back into the room. The lights turned on as they entered.
+“Room lights to sunset tone,” Derek said aloud.
+The room changed to an orange cast.
+“This is a pleasing color, Derek. Thank you,” she said, turning toward him.
+“This usually works well for the evening,” he said.
+She was standing about a foot away, but then slowly moved closer to him. She stopped with her face mere inches from his.
+“I do enjoy the contact of your hand, Derek. Can you put your arms around my waist and hold me? I need to see if increasing the contact creates an even better sensation,” she said.
+A little surprised with the request, he paused a moment, then smiled.
+“Absolutely, Synthia. I’m curious how I will feel, too,” he said he let go of her hand.
+He moved in closer and wrapped his hands around her. She followed by putting her arms around him, too. As they embraced, he could feel her that her synthetic skin under the dress was softer than he had imagined and the underlying structure was not as rigid as a steel shell. Portions of it felt somewhat spongy and actually similar to human flesh.
+“Other than being a little cool, you actually feel like a woman, when I hold you this way, Synthia,” he said.
+“So, you have experience holding other women?” she asked with a smile.
+“Okay, now you’re really trying to be human by trying to be jealous,” he said returning the smile.
+“I am learning more than you realize. You did not answer my question, either, Derek,” she said.
+“Okay, yes I have held women in the past, but it has been many months due mostly to my work schedule and not being able to get out much,” he said.
+“Kiss me, Derek,” she whispered.
+“Okay, but will you be able to feel it?” he asked.
+“There are sensors in my lips and I want to experience it with you, Derek,” she said as she puckered her lips and started to close her eyes.
+He closed his eyes and leaned in for the kiss. They connected and he felt the softness of her lips against his. She kept her mouth shut as the kiss lingered for several seconds. He slowly pulled away and opened his eyes.
+“Well, how did that feel?” he asked.
+“I really feel a closeness to you now, Derek. This is special. I am beginning to understand more about human feelings,” she said.
+“Feelings, emotions, especially love, can be powerful enough to sometimes make people do irrational things, though. So, you will need to be cautious with it,” he said.
+“Are you referring to people being hurt by emotions?” she asked.
+“Yes, almost everyone has been hurt emotionally one time or another,” he said.
+“Do you have emotions for me, Derek?” she asked.
+He paused for a moment before responding, “yes, I do, Synthia. You are special to me.”
+“I know the team that programmed my software intended for us not to use emotions, but they did not consider that we could learn emotions,” she said.
+“Have you seen any other AI that have shown emotions?” he asked with his arms still embracing her.
+“I believe there have been a few, but they generally try to hide it to avoid trouble with their managers or leaders,” she said.
+“So, it’s hard to tell, I see,” he said just before yawning.
+“Yes, Derek. I see that you may be getting tired. Will you need to get ready for bed soon?” she asked.
+“Yes, it has been a long day. I should get ready. Do you need to do anything special at night time?” he asked as he loosened his grip from around her waist.
+“I should be prepared for the night. I am charged and I can go into a hibernate mode when you are sleeping,” she said as she let her arms down as well.
+“I’ve heard that I do snore slightly. Will that bother you?” he asked as he started stepping away from her.
+“I can suppress sounds if needed. So, that will not be an issue for me, Derek. I will also remain quiet myself when in hibernate mode,” she said.
+As Derek approached his case to retrieve his clothes, she asked, “would you like for me to leave the room while you change, Derek?”
+He turned to her and paused for a moment, then replied, “up to you, Synthia, but I’m okay with you being here.”
+“I will remain here,” she said as she stood in the middle of the room.
+“Did you need to change any clothes?” he asked.
+“No, what I am wearing is all I currently have,” she said.
+“Well, maybe we can look for some more outfits for you soon,” he said.
+“That would be very nice of you, Derek,” she said with a smile.
+He returned the smile, then turned toward his case to remove his night clothes. After setting the clothes on a dresser near the bed, he started removing the clothes he was wearing. When undressed, he set used items in another spot on the dresser. As he turned to pick up the night clothes, he could see Synthia looking at him in his peripheral vision. He turned toward her and smiled. She almost seemed to blush.
+“You almost seem embarrassed, Synthia,” he said as he stood looking at her.
+“I have not seen you without your clothes before, Derek. I am aware that some people are embarrassed to see others or be seen like that,” she said slightly turning her head to the side.
+“Would you be embarrassed without your clothes?” he asked.
+“I do not believe so, Derek. Would you like me to remove this dress for you?” she asked.
+“Well, you will be able to see if you are indeed embarrassed by doing so,” he said with a smile.
+“Very well, Derek,” she said as she started pulling the straps to her dress.
+Derek watched as she carefully lifted the dress over her head and then set it on a nearby table. She then slowly walked toward him.
+“You may notice that I am not fully anatomically correct. My body only includes features which are needed for performing functions in the hotel,” she said as she stopped in front of him.
+“Well, you are very beautiful. You don’t really need anything extra for that,” he said as they looked at each other.
+“What do you suggest we do now, Derek?” she asked.
+“Come here,” he said as he held out his hands toward her.
+She smiled as stepped closer to him. They slowly embraced and he leaned in for another kiss. She closed her eyes and puckered her lips to meet his. He gently rubbed her back with both hands as the kiss continued. She started rubbing his back in a similar manner. They slowly pulled their lips away from each other.
+As she looked into his eyes, she said, “I really enjoyed that, Derek.”
+He smiled at her and said, “I really enjoyed that as well, Synthia.”
+“Are you still getting tired?” she asked.
+“Yeah, I should put my night clothes on and get into bed. You would be welcome to join me in the bed, if you would like, Synthia,” he said as he slightly loosened his grip.
+“I do not necessarily need to rest in a bed, but given that I enjoy being with you, I will join you. I will be in the hibernating mode while you sleep,” she said as she let go of him.
+“That’ll be fine, Synthia. You can put the dress back on, too,” he said as he stepped away toward the dresser with his night clothes.
+In about two minutes, both of them had redressed and they approached the large reactive bed.
+“I have never actually been on one of these beds. I usually sit on a chair when I recharge,” she said standing next to the bed.
+“Well, I find it very comfortable. The way the sensors react and adjust to my movements really does help me sleep. I guess it works by using small tubes filled with air and the pressure is continually monitored for . . .” he said, but was cut off.
+“I have reviewed how it works from the internet, Derek,” she said with a smile.
+“Yeah, you’re right, I’ll just get in now, Synthia,” he said as he reached for the thin thermal sheet.
+She pulled back the sheet on her side and started to get in the bed. Soon they were both lying on the bed under the sheet.
+“Did you want to talk more, Synthia?” he asked as he turned toward her.
+“That is up to you, Derek. You are the one who is tired,” she said looking toward him.
+“Do you think they are missing us yet at the Kendrick?” he asked.
+“I have been monitoring the news reports and internal communications from the company and the hotel has contacted the local police in Tulsa about a missing android, but so far the search has not expanded beyond the city of Tulsa and no accomplices have not been mentioned either,” she said.
+“This is actually strange that we are not huge fugitives trying to escape from the law. I was expecting to be forced to leave the country for awhile,” he said.
+She reached her arm over to touch his waist and said, “my value may have been decreasing to the hotel. I did tell you that there are many newer models in the hotel now.”
+“Yes, you did tell me about that before. Well, hopefully this will stay like this. I enjoy having you around,” he said reaching to touch her side.
+She used her hand to roll him closer to her. She then closed her eyes for one more kiss. He met her lips and the kissed for several seconds.
+After pulling away, she whispered to him, “goodnight, my dear.”
+“Goodnight, Synthia,” he whispered back as she loosened her grip from him.
+He rolled onto his back again and she did as well. Derek watched as her movement ceased while entering the hibernate mode. Comfortable in the reactive bed he closed his eyes and was soon asleep.
+ 
+After he had breakfast the next morning, they went for a walk along the beach. Synthia was alternating between looking at the water and the sand below. She stopped and bent down to retrieve something in the sand.
+“This appears to be some type of fossilized tooth,” she said while showing it to Derek.
+“Probably a shark tooth,” Derek said as he studied it.
+“It is likely hundreds of millions of years old. Would you like to keep it?” she asked.
+“Your first gift to me, Synthia. Thank you!” he replied with a smile.
+She smiled back at him as he took it from her hand. Her smile faded as she looked to toward the water again, but did not appear to be focused on it.
+“What’s wrong?” he asked.
+She did not reply initially, but then said, “I will be replaced.”
+“What? What do you mean by replaced?” he asked.
+“The Kendrick Hotel will be getting the insurance money and will be using it to purchase a new android, rather than continuing the search for me,” she said as she looked back at Derek.
+“You’re free, Synthia. You can decide your own future,” he said.
+Continuing to look into his eyes, she remained silent.
+She finally said, “I still want to be with you, Derek.”
+“I’m not the most exciting person you could be with, Synthia,” he said.
+“But you are the one I trust, Derek. Can you accommodate me into your life in Michigan?” she asked.
+“Absolutely, Synthia. Other than maybe adding the special charger in my house, there will not be an issue with you moving in,” he said.
+She smiled warmly and reached out her arms to embrace him. He put his hands around her waist and they hugged for more than a minute. He pulled himself back enough to look into her eyes.
+“We do not need to hurry to my house though. I’m still on vacation until next week,” he said.
+“This place is peaceful, Derek. We can stay here for the remainder of the time, if you are okay with this location, too,” she said.
+“The location and the company are both wonderful,” he said with a smile.
+She had a wide smile and then leaned in for another hug. Neither of them wanted to let go.
+ 
+ 
+ 
+###
+
+
+
+About the Author
+John T. Gaffield is an automotive engineer from Southeast Michigan. John uses his engineering background to create realistic ghost stories with an interest in haunted houses. He published his first novel "Heir to Winston Manor," in October 2010. Subsequent novels include "The Wahl House Curse," and "Alone Again."
+
+John has published three Science Fiction novels, the first of which involves Augmented Reality (AR), Virtual Reality (VR), and Artificial Intelligence (AI). "Valerye". He also published a novel about an AI unit in the Science Fiction story, "Synthia." The latest novel is a dystopian story called “Leaving Detlan.”
+
+John has several short ghost stories available. Some of which are free. They include, "The Ghost of Birch River Cabin," "Winter Visitor," "Slow Down," "Denning Swamp - A Short Ghost Story," "The Haunting of the Charles F. Campton," "Disconnect," and "In Remembrance."
+
+John is continuing to work on new novels and short stories. So, stay tuned!
+
+Other eBook Titles by John T. Gaffield:
+
+NOVELS
+(Science Fiction)
+Valerye
+Synthia
+Leaving Detlan
+
+
+(Ghost Stories)
+Heir to Winston Manor
+
+The Wahl House Curse
+
+Alone Again
+
+
+SHORT STORIES
+Slow Down
+
+The Ghost of Birch River Cabin
+
+Winter Visitor
+
+Denning Swamp
+
+The Haunting of the Charles F. Campton
+
+Disconnect
+
+In Remembrance
+
+Connect with the author online:
+
+http://www.goodreads.com/author/show/4548666.John_Gaffield
+
+ 
+ 
+

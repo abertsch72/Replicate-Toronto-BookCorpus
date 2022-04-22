@@ -1,0 +1,994 @@
+﻿Quantum Troopers Return
+Episode 4: Deep Encounter
+Published by Philip Bosshardt at Smashwords
+Copyright 2020 Philip Bosshardt
+Smashwords Edition, License Notes
+
+This ebook is licensed for your personal enjoyment only.  This ebook may not be re-sold or given away to other people. If you would like to share this book with another person, please purchase an additional copy for each recipient.  If you’re reading this book and did not purchase it, or it was purchased for your use only, then please return to Smashwords.com and purchase your own copy.  Thank you for respecting the hard work of this author.
+A few words about this series….
+
+Quantum Troopers Return is a series of 25,000-30,000-word episodes detailing the adventures of Johnny Winger and his experiences as a quantum trooper with the United Nations Quantum Corps.  This series continues the original serial stories of Quantum Troopers, Episodes 1-22 (formerly Nanotroopers).
+Each episode will be about 40-60 pages, approximately 30,000 words in length.
+A new episode will be available and uploaded every 4 weeks.
+There will be 10 episodes.  The story will be completely serialized in about 12 months.
+Each episode is a stand-alone story but will advance the greater theme and plot of the story arc.  
+The main plotline: U.N. Quantum Corps must defeat the criminal cartel Red Harmony’s efforts to use their nanorobotic ANAD systems for the cartel’s own nefarious and illegal purposes. 
+Uploads will be made to www.smashwords.com on approximately the schedule below:
+
+Episode # (*)	Title					Approximate Upload Date
+1 (23)		‘Fab Lords’					2-7-20
+2 (24) 		“Free Fall’					3-6-20
+3 (25)		“Forbidden City”				4-3-20
+4 (26)		“Deep Encounter”				5-8-20
+5 (27)		“HAVOC”					6-12-20
+6 (28)		“The Empty Quarter”				7-10-20
+7 (29)		“The Hellas Paradox”				8-14-20
+8 (30)		“Twist Pirates”				9-11-20
+9 (31)		“The Better Angels”				10-9-20
+10 (32)		“The Ship of Theseus”			11-13-20
+
+(Note *: Episode numbers start with Episode 1 in this new series but the continuation of episode numbers from Quantum Troopers is also provided)
+
+Chapter 1: “Impact”
+
+Europa
+September 11, 2060
+
+On Europa, there is only ice…to the naked eye.  Ice cliffs and ice valleys.  Ice ravines and ice canyons.  Ice bergs, buttes, badlands.  Ice continents.  Above the ice is the vacuum of space.  Below the ice is a vast ocean, black as night.  Normally, the two don’t mix.
+In the late summer of 2060, as people on Earth reckon time, a small channel of sluggish, slightly warmer ice surged upward through the badlands of Conamara Chaos, embedded in a  column known to geologists as a diapir, and burst through the surface crust.  A geyser erupted into space, not in itself an unusual occurrence on Europa.  However, this geyser extended over several square kilometers, flinging tons of ice and steam into the heavens.  
+This geyser caught the attention of observers on Earth and at Korolev Crater’s Farside Observatory, on the Moon.  
+After the Jovian Hammer mission some years before, an orbiting detection network had been put into place around Europa.  Known as Europa-Eye, it was designed to provide intelligence on what the Keeper, still thought to be buried in the Europan sea, was doing.  The network contained numerous instruments: visual cameras, mass spectrometers, neutron flux devices, radiometers.  
+On the first day of September, Europa-Eye detected evidence of some kind of vast swarm movement under the ice.  Increased thermals, spikes in electromagnetic activity, even acoustic signals well above baseline were detected and processed through SpaceGuard Center at Farside.  
+There was no consensus on what the signals meant, just a growing suspicion that the Keeper, a colossal swarm of nanobotic devices, seemed to be stirring after more than a decade of quiescence.  Analysts at SpaceGuard Center, vidconferencing with their colleagues at the UNISPACE Watch Command Center in Paris, concurred that something was happening on the surface of Europa, something different, something unexpected.  
+Visual analysis from Europa-Eye was inconclusive.  But it was plain to see from the imagery streaming back from Jupiter’s huge satellite, that a newly formed geyser had just erupted on the surface.  After some discussion, UNISPACE analysts finally decided to log the event as an icequake, a shifting of ice plates and ice continents, that had opened up a channel to pressurized water beneath.  That water, rising through the newly formed channel from the Europan ocean, was now sublimating into space, in a series of spectacular geysers.  The phenomenon seemed to be mainly centered along a series of ice grooves, known as linea, starting in the Conamara Chaos and ending at the southern end of Radamanthys Linea, longitude 192 degrees, latitude 12 degrees north.
+Or so they thought.  The report issued to CINCSPACE made the conclusion that the geyser field was nothing more than an unusual series of ice plates shifting about, despite growing evidence of massive swarm movements in the ocean below.  Europa-Eye would continue to observe and record the event, providing thesis material for astronomers and geologists and glaciologists for years to come.  Farside and UNISPACE would continue to monitor the activity that had roiled the surface of Europa.  
+But the report was firm in its principal conclusion:  natural forces were responsible for a series of new ice geysers erupting on the surface of Europa.  It was more violent and spectacular than before, but nothing the investigators hadn’t seen before on countless worlds, even on Europa itself.
+What Europa-Eye could not see, however, was what was actually embedded in the main geyser, hidden from view, obscured by the violence of tons of ice sublimating into space every second.   The Keeper swarm itself, once a target of Quantum Corps investigation from close range during the Golden Horde case, was no longer submerged in Europa’s ocean of night.  Instead, the Keeper had bored through more than thirty kilometers of ice and arisen to the surface of the satellite.  Now residing in a steep ice ravine, surrounded by towering ice cliffs, hidden by geysering spouts of water, the vast swarm boiled away like a festering sore, slamming atoms to maintain itself and expand in the maelstrom of erupting ice and water.
+As it settled onto the icy surface, the Keeper had begun to bud off trillions of replicant bots from its main structure.  The Keeper was shedding parts of itself.
+These bots sloughed off and drifted upward, some riding on droplets of water, particles of ice sublimating into the vacuum.  Most of the bots managed to achieve escape velocity through infinitesimal nano-scale thrusters, using the available water as propellant.  Orienting themselves toward the Sun, the swelling swarm of nanobots collected themselves into a variety of structures and soon entered a steep, elliptical heliocentric orbit, an orbit which would intersect the orbit of Earth in less than four years.
+Disguised by the geysers, the swarm escaped Europa and the Jupiter system completely.  They now drifted sunward…and Earthward.
+
+Chinese Academy of Sciences Space Watch Observatory
+Mount Kailash, Tibet Autonomous Region
+September 1, 2064
+1730 hours, Earth Universal Time (EUT)
+
+Nightfall at Mount Kailash came abruptly, too abruptly, thought Ling Fong.  She stared out the porthole of the Space Watch Center and watched the shadows drop like a black curtain across the face of the mountain.  Kailash was a massive place, fully six thousand meters in height with stairstep rim walls and sheer gray-black cliffs choked with deep snow.  Building an observatory here had been an engineer’s nightmare—scores had died in construction--but Beijing had wanted it done and poured billions into the project. 
+The mountain was also sacred to four religions. 
+Ling Fong watched the black creep down the mountain slopes and ooze across the valley floor like a spreading stain.  Somehow, it seemed depressing…another night with only the stars for company.  Cosmic grandeur, my ass, she muttered to herself.  Give me a beach in the South Pacific and some native boys and I’ll tell you a thing or two about cosmic grandeur.
+Ling was pulling late shift today…tonight…whatever the hell it was.  Tending the radars and telescopes of the Cassegrain 80-meter Cixin reflector, a key node in the SpaceGuard System that scanned the heavens for anything approaching the Earth-Moon system, was a critical job, especially now that GreenMars had started moving rocks around and tossing them sunward.
+That ought to be a spectacle, Ling thought.  She’d seen the sims often enough, the ones GreenMars had put out for public consumption, the ones that showed asteroid 2351, better known as Wilks-Lucayo, barreling down the sun’s gravity well and smashing the bejeezus out of Mars.   Impact was scheduled for less than a year from now and Ling and her fellow techs would have a ringside seat to a great show.
+Ling took one last look out the nearest porthole and begrudged the final wisps of daylight before the mountain was fully enveloped in the nightfall.  Astronomers are supposed to savor the night, she kept telling herself but that never worked.  At that same moment, she heard a beeping from her console and turned her attention back to the array controls.
+What the hell…
+Ling Fong looked over her boards, controlling the positioning of the great telescope further up on the mountain and the optical and radio sister scopes that accompanied it.  She quickly pinpointed the source of the beeping…Scopes C and D…the south lateral spotter array…was picking up some anomaly.  
+She massaged the controls and tried to focus the array better, get better resolution on the target.  SpaceGuard didn’t beep without reason.  Somewhere in its nearly infinite memory were ephemeris data and trajectory details for nearly every detectable piece of space junk in the solar system, out to several billion kilometers.  Like an overprotective mother, SpaceGuard knew where everybody was supposed to be, right down to the nearest centimeter.  
+She only beeped and chirped when someone was out of position.
+A quick perusal made the hairs on the back of Ling Fong’s neck stand up.  The system displayed a list of likely targets, based on radar imaging and known ephemerides.  She scanned the list.
+Right at the top was an unknown traveler.  SpaceGuard had already designated it A-2288. 
+The damn thing had just shown up out of nowhere.  Somewhere in the deeps of the asteroid belt, a half-kilometer wide rockball had somehow changed position, just enough to trigger a SpaceGuard alert.
+Before she could decide what to do next, Ling was interrupted by the sound of a door opening…it was Xi Zhou, the shift supervisor.
+Xi was a heavy-set bear of a man, who appreciated Mount Kailash’s clear air more than most.  He had thick eyebrows and a perpetual scowl.
+“What gives?  SpaceGuard’s sending out an anomaly alert.  What’s on the board?”  Xi sat down at a console next to Ling and began tapping at the keyboard.  
+Ling shrugged.  “She’s indicating a new object, but that doesn’t make any sense.  We just scanned this sector last week and picked up nothing…unless GreenMars has pulled a quick one on us.”
+“Won’t be the first time that’s happened,” Xi muttered.  He pointed to a display in front of them.  “Check out the delta-vee.  That’s almost half a kilometer a second.”
+Ling clucked.  “No way impulse motors could do that.  What gives?  Can you get a read on the new trajectory?”
+Xi said, “I’m trying…but SpaceGuard’s showing Doppler fluctuations…she’s still thrusting…still changing velocity.   Check your east and west arrays.  Let’s zero in on the vicinity of this thing and see if something’s around that might be tugging her off course.  I’ll send this to GreenMars too…maybe something broke off their baby 2351 Wilks-Lucayo.”
+For the next few minutes, the huge radar arrays and the main reflector probed deep space.  At the moment, A-2288 was several hours away by light signal.  They wouldn’t get any solid observational data until nearly midnight, local time.  In the meantime, Xi washed the raw trajectory feed from the first returns through the computers.  “It’ll give us an idea of what we’re dealing with here.”
+The analysis, when it came back an hour later, made their blood run cold.
+Xi Zhou shook his head.  “This can’t be right.  It doesn’t make any sense.  Better set up another run through SpaceTrack and see if we gave it bad data before.”
+“I don’t know, Chief…the numbers seem to match up.”  Ling brought up a projected plot on their main displays.  It showed the nominal trajectory the object had been following.  A dotted line showed SpaceTrack’s projected new path, after the velocity change had been factored in.
+The path intersected Earth in early October, next month, right before National Day in China, Xi noted.  He always took his family to Beijing on National Day, to see the parades.  
+“This thing’s showing an Earth-intercept path and the doppler shows velocity is still changing.  We’d better get GreenMars on the line right away.”
+The telecom spanned several hundred thousand kilometers in a three-way hookup: Mount Kailash Observatory patched in with GreenMars offices aboard Phoenix Station and UNIFORCE headquarters in Paris.  
+Kaoru Nakamura was the Earthside chief of GreenMars operations.  He was emphatic on the screen, as he scrolled through Mount Kailash’s data.  
+“Gentlemen, you’re sure of these numbers?  I mean, I know the data’s good…but believe me, we’ve had no course corrections going on.  Nothing indicating anything broke away from Wilks either.”
+UNIFORCE was represented by a sleepy, rather morose Galen Bosch, the assistant Director-General.
+“Any more evidence of A-2288 maneuvering? Maybe the asteroid was hit by something…any indications of that?”
+Ling Fong was emphatic.  “There’s nothing in the data.  Something is or has clearly tugged on this object enough to change its delta-v by about three-tenths of a kilometer per second.”
+“And the current trajectory, assuming no more changes…?”
+Ling had checked and re-checked the analysis, washed the data through SpaceTrack half a dozen times.  The result was always the same. 
+“Earth intercept, sometime in the first week of October…next month.  We’re still tracking,” she hastened to add.  “And we’re still seeing some velocity change even now.  But doppler indicates the rate of change is slowing.”
+Bosch rubbed tired eyes.  Just what I don’t need today.  “What about the impact point?  Any projections?
+Now Xi jumped in.  “Right now, SpaceTrack’s projecting an Indian Ocean impact, north and east of Madagascar.  Probable Level 8 on the Torino Scale…localized destructive effects, small-scale tsunamis, that sort of thing.”
+Bosch was grim.  “Then I’d better take this to UNSAC and the Secretary-General.  We’ll have to mobilize recovery forces right away.  Phoenix, what about your diverters?”
+Nakamura’s image went off screen while he ran down the number.  Momentarily, he reappeared.  “At the moment, we have sixty-four in all.  Mass driver type.  They would dig into the object’s surface, shape up chunks of soil and rock into little charges and fire them off into space.  Specific impulse is small but the fuel supply is inexhaustible.  Each motor has its own small reactor plant for power.”
+Bosch was working out an idea in his head.  “Then you should be able to counteract this…force, or whatever it is, that’s diverting and tugging on A-2288.”
+Nakamura nodded.  “In theory, yes.  In fact, I’ve already given this as an option to the Board of Governors.  They’re meeting right now at Mariner City.  But the devil is in the details.  Until we know the nature of the force—is it continuous or intermittent?—what’s the magnitude of the force?--where is the source?...I’m not sure we can counteract.  Obviously, something has to be done.  But we have a lot of options and there’s still some time between now and October.”
+“Any data to help out Dr. Nakamura?” Bosch asked.  The A-DG would have to brief UNSAC soon and he wanted as many options as he could get his hands on.
+Ling Fong had noticed additional effects beyond the calculated course they had seen on A-2288.  “At the same time we got anomaly alerts from SpaceTrack, the system started giving us a bunch of perturbations…like everything going haywire in the outer Solar System.  Beyond the orbit of Jupiter, it’s like a big gravity wave just pushed everything aside—“  she waved at Xi to pull up the ecliptic plots so the others could see.  “—anomalies with almost every satellite, man-made or otherwise.  At Saturn, Calypso, Helene and Epimetheus…at Uranus: Ophelia and Caliban.  These are just the early ones, the biggest shifts.  There are dozens of these.  Even the bigger bodies…Oberon and the like, have shown measurable shifts in position and velocity.  It’s like something massive just passed through the Solar System.  But we’re tracking no unknown or unreported bodies.”
+Galen Bosch was studying something off screen.  “Gentlemen, I’m willing to bet the source of all these disturbances is much closer to home.  Quantum Corps was running an op down in Kolkata…some kind of weird quantum disturbances there.  I haven’t seen the reports yet but I’m willing to bet there’s a connection.”
+Nakamura was intrigued with the phenomena described by Ling.  “There’s a theory about what you’re describing, Kailash.  I heard a talk on the idea over the Net last year…a conference on perturbation effects caused by extra-solar processes.  As I recall, the authors of the paper described ways to effect large-scale perturbations by manipulating local cosmic string structure.  Like tugging on the basic fabric of the Universe.  All very theoretical…there’s no evidence such a thing is even possible.”
+Bosch wasn’t so sure.  “Maybe there is, Doctor.  At this point, I don’t think we can exclude anything.  I’ll brief UNSAC right away.  I expect there will be a full meeting of the Security Council after that.  Whatever the cause of this shift in the object’s path, the effect is the same: either we find a way to put A-2288 on a new path, or we run out of options pretty fast.”
+The vid went dark as everybody signed off.  Ling looked at Xi for a long moment.
+“Are you thinking what I’m thinking?”
+Xi nodded.  “We just read the reports last week, didn’t we?  That Academy paper—”
+“Exactly.”  Ling tugged at her lower lip, trying to recall the title.  “Something about ‘Effecting Long-Range Perturbations on Fast-Moving Objects in Heliocentric Orbit’…something like that.  Wasn’t that general in the Peoples’ Space Forces arguing for using small asteroids as projectiles against Earth targets?’
+Xi nodded.  “That was something we weren’t supposed to see, I think.  Slipped through the censors.”
+Ling’s face darkened.  “Maybe this is a test…PSF trying out their new techniques.”
+Xi shook his head a little too vigorously.  “This matter is above us, Ling.  Let’s don’t go there…it’s only trouble if we follow that line of thought.”
+“Chief, we have to do something.”
+“We’re doing it,” Xi insisted.  “Keep track of A-2288 and send good current data to the authorities.  That’s all we can do.  It’s all we should do.”
+
+UNIFORCE Special Report to the Secretary-General
+Principal Impact Effects from A-2288
+1 October 2064
+
+Impactor A-2288 impacted the earth’s surface at 061510Z, 1 October 2064.  Point of impact was 8N by 58E, approximately one hundred and sixteen kilometers south-southeast of the city of Victoria, in the Seychelles Islands.  The point of impact was located at the center of a triangle between the Madagascar coastline and the Seychellean Island of Mahe.
+At impact, the impactor was moving at an estimated velocity of 16.99 kilometers per second.  
+Energy released at impact was estimated to be approximately 6.04 x 10 exp 16 Joules.  
+Due to the water impact, an estimated 2.35 x 10 exp 6 tons of seawater was vaporized.  Most of the vaporized material was lifted as steam into the earth’s atmosphere.
+Oceanic effects included a series of seismic events and transients, culminating in three succeeding tremors of Richter magnitude 5.4, 5.1 and 4.1, all occurring in the first two hours after impact.
+Shock waves and tsunami effects are appended to this report as Attachment A: Impactor A-2288 Oceanic Effects on the Indian Ocean Basin.  Notable effects included wave heights of over a hundred meters measured at Dar es Salaam, Mogadishu, Mumbai and Banda Aceh.  Similar destructive wave effects of lesser magnitude were measured at Muscat, Karachi and Perth, Australia.
+UNIFORCE efforts to ameliorate destructive shock wave and tsunami effects through nanobotic shielding were only partially successful, owing to the short time frame involved.  Shielding was most effective at Dar es Salaam, where observed wave heights reached one hundred and seventy meters approximately two kilometers offshore.  Wave energy was substantially dissipated by nanobotic shielding along the waterfront west and east of the center of the city.  Measured wave heights at the port entrance did not exceed one hundred and ten meters.  
+Impactor A-2288 partially disintegrated in the lower atmosphere, yielding multiple fragments to impact the ocean surface.  Disintegration effects were most pronounced at an altitude of five thousand meters above MSL.  Peak overpressures from this event exceeded 17.7 bars (approximately 251 PSI) at a point two kilometers from the center of the impact field.  Because the impact site was well offshore, little overpressure damage was sustained to land structures.  Some shipping in the area was damaged.  
+Casualty reports are appended to this report as Attachment B: Casualty Effects from Impact of A-2288.  Note that known casualties that can be directly attributed to this event will exceed 8,000 around the Indian Ocean basin alone.  
+Long term meteorological and climatic effects are detailed in Attachment C: Forecast Climatic Effects from Impact of A-2288 and Lesser Impactors.  Note that long-term climatic effects incorporate estimates of seawater and seabed excavation and dynamic lifting of excavated materials into the atmosphere integrated into current forecast models over the next two years.
+For latest results of forecast model iterations, see World Meteorological Organization “Proceedings of Conference on Climatic Effects from Recent Asteroidal Impacts”, 3-5 November 2060, Madrid, Spain, appended to this report as Attachment D. 
+UNIFORCE casualty and environmental remediation efforts continue and are expected to be required at current levels of effort for at least the next two years.  
+
+Aboard INS Submarine Cochin
+Indian Ocean 58 degrees East, 8 degrees South
+Depth 150 meters
+October 10, 2064
+
+	Cochin was cruising serenely at thirty knots, in level trim, when the first alarm sounded.  Captain Ajit Kumar had been lightly dozing on the command deck, dreaming of boyhood and rocket-hopping across the Sea of Tranquility with Sanjay and Raj and the others.  He was just about to win the race when an insistent beeping awakened him from his slumber.
+	He realized as he startled himself awake that it was the sonar alarm.  Cochin had detected something ahead, something big from the looks of it.  Auto-helm was engaged and she had already begun slowing.
+	Kumar came fully awake and rubbed his eyes.  He studied the sonar plot.  Whatever it was, it was a large object, some ten thousand meters dead ahead.  
+	Probably the target, he surmised.  From the nav console, he could see Cochin had just about made the predicted coordinates, several hundred meters below the surface of the Indian Ocean.  He got on the intercom.
+	“Doctor Chakra to the command deck…Doctor Chakra to the command deck at once….”
+	Kumar ordered autohelm disengaged and took the controls himself, slowing the ship to a crawl.  He didn’t want to run Cochin into something this big without studying it first.
+	Chakra’s head popped into the compartment a few moments later.
+	“What gives, Captain?”
+	“Take a look at the plot.”
+	Chakra slid into the second seat and studied the sonar return.  “Could be what we’re looking for.  Can we get a little closer?”
+	“We can try,” Kumar said.  
+	Slowly, Cochin closed on her target, dead ahead.   The ocean at this depth was completely devoid of light, black as night.  But the returns from Cochin’s sonar indicated that the object could very well be their target: the submerged remnants of A-2288.
+	Eventually, Kumar brought them to a complete stop, five hundred meters away. 
+	The two men discussed their options.
+	“That’s about as well as our sonar can resolve the target,” Kumar said.  “From the returns, it seems to be a large, probably buoyant object, with some kind of structures on top.  I’m getting faint returns around the main one, too, smaller objects of some type.”
+	Chakra nodded.  “I’ll check with engineers…see if they’re detecting anything.”  He called down to Vijay Singh.  The quantum engineer was in the crew’s mess, C deck, playing cards.
+	“Vijay, check your entangler readouts…we’ve got a large object dead ahead.  It may be the target.  I want to know about any quantum disturbances, decoherence waves, that sort of thing.”
+	Singh replied, “I’m on it, Doctor Chakra…” she waved at Gujran, grabbing a coffee and doughnut.  “Guj, get your gear…we may be tango on our target—“
+	Five minutes later, Singh’s voice crackled over the intercom on the command deck.
+	“Bingo, Doctor…you were right.  We’ve got a real strong source nearby, something emitting quantum waves at a very hard to detect entanglement level.  Definitely a quantum source.”
+	Chakra considered the situation.  “Captain, I’d like to get a visual…can we get in a little closer…put some lights on that thing?”
+	Kumar was reluctant.  “Water’s a little turbulent ahead of us.  I don’t want to get caught in something we can’t get out of.”
+	“Just enough to get some light and better look…”	
+	Kumar mumbled something but started up Cochin’s propulsors again.  The ship eased forward.
+	A hundred meters away, they were rocked gently by turbulent currents.  “That’s as close as we get,” Kumar announced.  “Here go the spots—“  He flipped a few switches.
+	The water was murky, thick with sediment, but the general outlines of the structure were dimly visible.   It was indeed a large buoyant platform, roughly rectangular in outline, easily four to five hundred meters in its longest dimension.
+	“That’s no asteroid fragment…look at the size of that mother,” Chakra marveled.  “Half a kilometer, easily—“
+	Both top and bottom surfaces of the platform were surmounted by some kind of spherical structures.  The structures were fuzzy and indistinct, whether from the murky water or some other reasons, could not be determined.  And they seemed to be rotating.
+	“Seems to be floating freely,” Kumar observed.  “I don’t see a tether holding it in position.”
+	“Maybe it has thrusters…those extensions below that platform that look like legs, maybe…?”
+	Even as they watched the object, its shape began to change, morphing right in front of them, shifting and transforming itself from one state to another.  It was like a funhouse mirror distortion, a crazy collage of images superimposed, one upon the other. 
+	“How can an object that big--?”
+	“Quantum device,” Chakra said.  “We’ve seen that effect before.  I’m thinking this whole thing is nothing but a giant swarm.  A-2288 is no asteroid, Captain.  It seems to be a device of some kind.”
+	“Gives me the creeps,” Kumar admitted.  He checked Cochin’s position.  She was holding one hundred meters away, level and trim, at all stop.  “I don’t really want to get any closer.  Your call, Doctor.  You’re the mission commander.”
+	Chakra watched the huge platform, deeply shadowed in Cochin’s spotlights, morphing and changing right before their eyes.  It was like a series of waves engulfed the thing, starting at one end and working its way rhythmically down its length, making the structure into something new over and over again.
+	“The only way we’re going to know for sure what we’re dealing with here is to go out there.  Examine it from close up.”
+	“I was afraid you would say that.  I’m thinking that’s not such a great idea, Doctor.  Look how turbulent the water is around those legs.”
+	Chakra shrugged.  “We’ve come all this way to locate this thing.  Now we’re here.  We’ve still got a mission to carry out.  If we don’t determine what this object is, the Chinese or someone else will.  That won’t look good in New Delhi.”
+	Kumar called a briefing in the crews’ mess.  Chakra had decided to form a small recon squad of three divers:  Chandrapur, Gujran and Chakra.  The rest would stay aboard Cochin for the time being, operating as backup.  Two divers would partially suit up, just in case.  
+	“What’s our mission?” asked Singh.  
+	“Straight reconnaissance for this trip.  We go outside, get as close as we can and see what we’re dealing with here.  If it’s a big swarm, like Vijay thinks, we have tools to deal with that.”
+	Gujrat sipped at a steaming cup of tea.  “I’m guessing our HERF guns won’t be too effective here.  That bugger’s the size of a small city.”
+	“Take ‘em anyway,” Chakra said.  “Fit yourselves out for opposed entry, full gear, hypersuits and all.  Let’s move,” Chakra ordered and the recon team headed aft for G deck and the lockout chamber. 
+	Suit-up took an hour.  The hypersuits had been rigged out for deep diving in the ocean, depths below five hundred meters.  All divers had been respirocyte-treated; their bloodstreams were thick with nanobots shuttling boosted amounts of oxygen back and forth.  But the ocean at this depth was cold and dense and the divers would need pressure and temperature protection, as well as personal propulsors. 
+	“Here’s the containment canister,” Rajkat handed the capsule to Chakra, who slung it in a pouch on his web belt.  “The swarm inside is safed and ready to go.  He’s in Config One, for the time being.”
+	“You checked him over?”
+	Rajkat nodded.  “Full diagnostics, scanned every file and config.  All copacetic, Doctor.  For the moment, at least—“
+	The three divers entered the lockout chamber and cycled through.  Chakra was the first to exit the ship.
+	His first impression was cold.  Numbing, penetrating cold.  Chakra switched on his suit lamps, saw only a fuzzy blur.   Too much sediment, too much something in the water.  He dialed down the light intensity, and kicked off under one-quarter propulsor, sounding ahead.
+	Chandrapur and Gujran joined him a few moments later.  
+	The recon team gently felt their way forward along Cochin’s underhull, until they came at last to the sonar dome.
+	“End of the line, here—“ Chakra muttered.  He checked his own sonar scan.  A-2288 was out there somewhere, giving off intermittent returns.  There was a fuzzy patch near the center of his scope.
+	That has to be it.
+	“Kumar, this is Recon One…can you move in just a little closer…put more light on the target?”
+	Kumar obliged.  As soon as the team was clear, the sub inched forward, cranking up her spot and floodlights, trying to bring as much illumination to bear on the platform as possible.  It was like shining headlights through a dense fog.
+	“Launching Chaacha One and Two, “came Kumar’s voice.  The underwater drones, nicknamed Uncle One and Two, would accompany the recon team on its excursion around the target.  Presently, the murmur of their jets could be heard nearby.
+	“Got ‘em,” said Chandrapur.  “I have full control…both bots…steering straight ahead…you want sonar, Doctor?”
+	“Sound away,” Chakra said.  “I’ve got nothing but scrambled eggs on my scope.  Object’s morphing too fast to give a solid return.”
+	The object known as A-2288 was a vast complex, more accurately resembling an underwater cloud.  Visibly, it resembled a huge platform studded with structures top and bottom, rotating, swirling water around in small-scale whirlpools.  There were murky blobs floating nearby…nanobotic swarm elements, said Singh—forming a loose protective sphere around the platform.  Water flow was turbulent.  Chakra found a steady current pushing him away and he had to adjust his propulsors to stay in position.
+	“I’m calling up Chaacha One,” he told them.  “Let’s see what the drones can find out.”  He pressed a few keys on his wristpad and the underwater bot surged forward, its jets whirring gently.  It plunged into the murk and was soon lost to view.  Chakra patched in to the bot’s sensors.  Soon, the whole team was getting sonar, EM and visuals back from Chaacha.
+	“Definitely a swarm,” said Gujrat.  The engineer hung off to Chakra’s starboard side, testing for deco waves.  “I’m seeing decoherence right now, wave after wave, mostly small stuff.”
+	“The whole thing’s nothing but a giant quantum generator,” Chandrapur marveled. 
+	Chakra agreed.  “This thing’s bigger and stronger than what we saw at Paryang or Candor.  We could be seeing only a shadow of the real thing.  Devices like this can be in multiple places at the same time.  We’d best go slow and feel our way in.”
+	Chaacha plunged closer and closer toward the platform.  Chakra turned on visual.
+	The view, when it came up, was like flying through a sleet storm.  For a brief moment, the troopers of the recon team saw inside the object.  Clumps and clots of nanobotic devices came at the imager like hail stones in a hurricane, while Chaacha banked and careened to fly through the maelstrom, plowing through on auto while tickling the great swarm with electromagnetic fingers.
+	“Each of those clumps is like a swarm in itself,” Gujrat said.  “This is one massive mother—“
+	Then, just as the swarm mass had begun to thicken and Chaacha had slowed to negotiate the traffic, the signal dropped out.  Everything went blank. 
+	“I got nothing,” Chakra said.  His fingers flew over the keys on his wristpad—not easy in hypersuit gloves—but Chaacha didn’t respond.
+	“Me neither, Doctor,” said Chandrapur.  She tried several channels, but the drone seemed to be lost.
+	“Time for Chaacha Two,” said Gujrat. 
+	“Belay that,” said Chakra.  “We need to find out what happened—“
+	“Hey, I’m getting big deco waves now—wow!—one right after another.  Decoherence waves big time, Doctor.  Something’s really got this bugger riled up—“
+	Turbulence increased and the team was jostled and thrashed by waves pushing through the water from the object.
+	“Doctor—“ it was Kumar, aboard Cochin, “something’s happening out there.  My sonar is showing aspect changes all along that platform.  Target is moving, morphing—“
+	That was when the lights went out.
+	For Vihaan Chakra, the first impulse was like a giant fist had grabbed him and started squeezing.   He was whirling and spinning, dizzy, round and round, he could feel the force of the water against his helmet, pressing, crushing him—
+	He had a fleeting glimpse of one of his divers—maybe it was Chandrapur, maybe Gujrat—and he nearly vomited at the sight.  It was all wrong…the image was wrong and his mind refused to accept it—there was Gujrat, with two heads, now three, now four, now eight heads, popping out of his hypersuit like geraniums in fast motion video, Gujrat with his head missing, distorted in a cracked mirror, and he closed his eyes, couldn’t look at it anymore—
+	…and then it came.  An image of geometric forms—icosahedrons, polygons, trapezoids—all compressed into a tunnel, a long curving corridor and he found himself hurtling at breakneck speed down this corridor, until—
+	With a hard bump, his whole body jarred from the impact and when he opened his eyes, caught his breath and came to his senses, he was….
+	Where?
+     INS submarine Cochin had simply vanished from the sea.
+
+Toamasina, Madagascar
+In the deep tropical forest, Masoala National Park
+June 15, 2032 (32 years earlier)
+0630 hours
+
+Luciano Rakoto wiped sweat from his face as he drove the de-limber deeper into the thicket of rosewood trees.  The sun was just up but temps were already above ninety and humidity nearly as high.  
+Another day in paradise, Rakoto muttered to himself.  And another day closer to payday…that was what mattered, for the rosewood they were illegally logging was valuable in the extreme and their Chinese buyers would pay dearly for the hardwood logs they were stacking a quarter kilometer back.
+His partner, Gaethon Toliara, was walking the line just beyond the claws of the de-limber, pulling and hacking at brush, his big machete gleaming at it slashed through the humid air and shafts of morning sunlight.
+The work was boring, hard and occasionally dangerous.  Lemurs disturbed from their hollows sometimes lunged out and their razor-sharp teeth could slash a man’s leg like a polesaw in seconds.  Already, Toliara had been bitten twice in the last two days and wore extra wrapping and leggings to protect himself.  His face was bathed in sweat and his cheeks were already red from exertion and dozens of cuts from pandanus vine, low-hanging palm and rosewood limbs.
+Rakoto drove the de-limber carefully, nudging forward centimeters at a time, following his partner’s hand signals.
+They had been at this stand of trees for the better part of the morning, hacking and whacking their way through dense broadleaf forest and ropy vines when Toliara’s hand suddenly chopped the air and the logger called out sharply.
+“Mijanona!  Stop…back up…hurry!”
+Rakoto slammed on the brakes and the huge machine jerked to a halt.
+“What is it, Luc?”
+“I don’t know…maybe just a bush.”  Toliara carefully spread limbs and brush with his hands and machete, poking cautiously at a wall of bush, easily twenty meters high.  “A mound of some kind, maybe?  A small hill?”
+Rakoto didn’t think that likely in Masoala Park, for the terrain was gently sloping at best.  There were no hills around for a hundred kilometers.  He climbed down from the cab and came over.
+The two loggers pressed and prodded and poked at the mound for several minutes.
+“I can’t find the top,” Toliara said.  “If there is one, it must be twenty meters above us, maybe more.”
+“Where’s the end?” asked Rakoto.  He kicked and probed along the base of the obstruction.  Whatever it was, it was covered in dense fern and piles of broken limbs, draped in moss and bamboo branches.
+Just then, Toliara’s machete struck something hard.  Something metallic.  He jumped back, startled, then tapped at the thing again.
+“It’s metal, Luc.  Hear that?”
+For a few moments, they dug and pawed and grabbed with their hands, trying to clear the brush away.  The rosewood leaves were sharp and they had to be careful.  Gradually, the outlines of a large metal structure revealed itself.
+Rakoto stopped for a moment.  “Is it a building?”
+Toliara continued clawing, hacking and pulling, for the object was deeply buried in vine and brush.   “I don’t know.  Maybe an abandoned fort.  But metal…what is this stuff?”
+Then Rakoto had an idea.  “Maybe if you could get on the de-limber arm, I could lift you higher.  You could find the top.”
+Toliara looked at his partner like he had two heads.  “Are you crazy?  That’s against every company reg in the books.  Benito’ll dock our paychecks.”
+But a moment later, overcome with curiosity, Toliara was riding the de-limber arm like a cherry-picker, as Rakoto eased him up through low-hanging limbs, through the dense canopy overhead.
+Toliara soon disappeared from view into the branches.  Then his voice rang out sharply.
+“Mijanona!  Stop!  I found the top!”
+Rakoto hauled back on the arm controls and the huge articulating claw jerked to a halt.
+“What do you see up there?  Is it a fort?”
+For a moment, Toliara said nothing, for words would not come to his lips.   “It’s a ship, I think.  There are barnacles under the brush here…must have been here a long time.”
+“What kind of ship?”
+Now Toliara found words even harder, for his mind would not allow what his eyes were seeing.  “Hard to say for sure, Luc.”  He brushed away more limbs and growth and saw revealed a small band of letters…C…O…C…H…. He sucked in his breath.
+“Don’t laugh…I think this is a submarine.”
+Rakoto thought he had misheard.  “A what?”
+“A submarine…that’s what this thing is.  I don’t believe it myself.”
+“Hold on.  I’m bringing you back down…I want to see this myself,” Rakoto decided.  “What the hell is a submarine doing in the middle of Masoala National Forest?”
+
+Solnet/Omnivision Video Post 
+@lucy.kamargo.solnetworldview
+October 19, 2064
+1750 hours E.U.T.
+SOLNET Special Report:
+
+Coming Clash in the Indian Ocean?
+
+This Solnet Special Report will cover the increasing incidence of naval and maritime activity now occurring in the western Indian Ocean, activity which appears to be centered around the ocean impact point of astronomical object A-2288, thought to be a fragment of an asteroid that entered the Earth’s atmosphere on October 1.  Already, violent confrontations have occurred between UNIFORCE ships and ships of the Indian, Kenyan and Chinese navies.  Calls have been made for calm and for all sides to engage in tension-reducing moves.  Strenuous diplomatic efforts to defuse the crisis are underway at the UN.  Reporter Lucy Kamargo visited recently with UNIFORCE Commander-in-Chief General Kirill Rostov at UNIFORCE Headquarters in Paris, and reports on what’s happening in this contested part of the world.  
+
+“Good morning, General Rostov.  Thank you for taking the time to be with us today.”
+“My pleasure, Lucy.  I’ll try to answer your questions the best I can.”
+“General, the world has seen a spiraling increase of naval activity in the western Indian Ocean lately, focusing on the impact point of asteroid A-2288.  Could you tell our viewers why this is happening and what’s the latest from that region?”
+“Surely, Lucy.  While I can’t go into operational details—I’m sure you understand this—the crux of the matter is that a number of nations—India, Kenya and China, principally—have surged forces into the area of the impact zone and are engaged in efforts to cordon off the seas from normal maritime traffic.  Of course, UNIFORCE, though our naval subsidiary UNISEA, can’t allow anything to impede the rights of any nation to travel the seas.  The seas are the common heritage of all Mankind and all nations have the rights of freedom of navigation and innocent passage in international waters.”  Rostov’s face turned more serious and he pointed with emphasis at Lucy Kamargo.  “I might add that the impact zone is not inside any one nation’s territorial waters, as recognized and enforced by the UN.”
+Kamargo followed up with another question.  A small dronecam hovered over her head—cleared by UNIFORCE Security—and she motioned it closer for a head shot of the General.  
+“General, can you tell our viewers why this impact zone is such a point of confrontation?  Is this asteroid fragment of great value?”
+Rostov chose his words carefully.  “Without getting into classified details, I can say this much.  The area of the Indian Ocean around the impact zone is still suffering after-shocks and effects of the impact itself.  There are dangers here to all maritime traffic.  Already, you’ve no doubt heard of the loss of that Indian Navy submarine Cochin.  The Indians are in fact still looking for her and hoping to recover her in the near future.  There have been unusual levels of turbulence in the ocean, centering on a zone roughly between the Seychelles Islands and Mauritius, including an unusual number of waterspouts and whirlpools.  UNISEA has issued numerous Notices to Mariners to avoid this area.”
+“You believe these effects are, or were, caused by the impact?”
+“We’re not entirely sure, Lucy.  UNISEA is already forming up a task force to investigate these phenomena at closer range.  Unofficially, we’ve learned from intelligence sources that the Chinese are doing the same.  We’re trying to coordinate our efforts with other nations but the negotiations are complex and protracted and not much has been achieved on that front.”
+“General, what will UNISEA be doing in the future to preserve freedom of navigation in the area, as well as investigate this phenomenon?”
+“Well, Lucy, at a minimum, we want to avoid any more armed clashes such as occurred two days ago.”
+“You’re referring to the Suchow Incident, I believe?”
+“Exactly.   UNISEA has had numerous assets in the impact zone almost from the day of the impact.  We have mandated duties to protect shipping and secure the zone from being controlled or regulated by any one state or states.  When the Suchow fired on several UNISEA cruisers performing their legally mandated patrol duties, and one was severely damaged by beam fire from Chinese naval drones, we felt it was incumbent on UNIFORCE to step in and exercise our authority to perform our mission.  Thus, we have the standoff that exists today…the Chinese People’s Liberation Army (Navy) or PLA (N), is trying to exercise sole control of the impact zone and the seabed under it, in violation of all UN mandates and resolutions.  The Security Council is already taking up this matter.  As of today, Lucy, as you know, a standoff exists between UNISEA and the Chinese.  But what the Chinese are attempting to do in this region is contrary to all UN laws and regulations, and to their responsibilities as a Security Council member and we’re working feverishly on a diplomatic solution to this crisis.”
+“General, one final question, if I may?”
+“Please, go right ahead.”
+“General, what in your opinion, is the real reason for intense Chinese and Indian interest in this region of the Indian Ocean?  Is it the asteroid fragment?  There have been unsubstantiated rumors—I’m sure you’ve heard them—that this is no ordinary fragment.  Some of the wilder speculation focuses on the possibility that the fragment—that is A-2288—is in fact, a manufactured device of some kind, similar to what was located in the oceans of Jupiter’s moon Europa, and at the Candor site on Mars.  Is there any truth to these rumors, sir?”
+Rostov’s beefy face turned opaque.  “Lucy, of course I can’t speak to these rumors in any great detail, due to my position.  I’m sure you understand that.  What I can say is this: UNIFORCE is actively and intensively investigating the nature of A-2288 as we speak and any information relevant to public safety, security and the rights and responsibilities of all UN members, will be made public at the proper time.”
+“General, thanks again for taking the time to speak with our viewers.”
+“It was my pleasure, Lucy.”
+
+SOLNET Special Report Ends
+
+Chapter 2: “Tremors”
+
+UN Quantum Corps Western Command
+Mesa de Oro, Yucatan, Mexico
+October 24, 2064
+
+For Johnny Winger, for any quantum trooper, re-quals were always a bitch.  The words of General Kincade still rang in his ears….
+“Winger, I don’t care if you are a Colonel and an angel.  Everyone goes through re-quals.  Keeps you on your toes.”
+Winger said to himself: Even if my toes are part of a big cloud of bots?  But he didn’t say that.  Saluting, he got himself off to the Sim/Training building, nestled between Containment and the South lifter pads.
+
+ “Gentlemen, welcome to the Swarm Chamber.”  Lieutenant Heydrick opened the hatch to a cave-like compartment built almost like a submarine hull.  “We like to call it the Beehive.”
+Angel Barnes, Johnny Winger and nog cadet Moby M’bela filed in, a little reluctantly.  All were clad only in standard-issue cadet fatigues and tunics.  Heydrick pointed to a narrow bench along one side.
+“Sit there.  Keep some space between yourselves too.  We want the bugs to get a good bite out of each of you.”
+Barnes said, “Are we really getting swarmed in here?  Live bots.  The whole works?”
+Heydrick had a malevolent grin.  “The whole works, Corporal.  Everything you’ve heard about this little house of horrors is true.  And it’s even worse than that.”
+Winger made himself comfortable.  The chamber was old news by now.  But he figured to enjoy the looks of terror on the rookie nogs.  “I’ve heard we’re supposed to really feel what it’s like to be swarmed.”
+Heydrick said, “You heard correctly.  Paratroopers practice their craft by jumping out of airplanes.  Navy divers practice their jobs by getting wet and going underwater.  Atomgrabbers work with tiny bots.  Lots of bots.  The purpose of this little exercise is to make sure you understand what you’re dealing with…by going into the very mouth of the beast.  By getting slammed with a full-bore big bang…that’s what we call maximum-rate replication.  Only when you know how that feels and looks will you really appreciate what you’re doing.”
+Swell, Winger thought to himself.  Just swell.  Let’s get this over with. 
+Heydrick went to each trooper and examined each one in the face, checking that they’re weren’t sick, sporting some kind of infection, fully alert and awake and understood what they were about to experience.  He asked basic questions: what’s your name, where are you from, how many fingers am I holding up, where are you now?
+Anybody who answered wrong would be immediately disqualified from the Swarm Chamber and washed out of nog school.
+Winger and the other veterans had heard all the horror stories before about the exercise.  “It’s like being stung by a gazillion bees.”  “It’s like being smothered in your aunt’s favorite blanket, the one she left in the attic for twenty years.”  “It’s like falling into a scalding vat of acid naked.”  Or Winger’s favorite: “It’s like running through a line of tornadoes with sacks of nails flying right into your face.”
+Every trooper dreaded the Swarm Chamber.  The stories were legend.  They got more colorful and more graphic and more grotesque every year.  It was like when you were five and loved to see the bloodiest, goriest horror slasher movie your parents would let you.  Maybe worse than that.
+Heydrick checked some instruments on a small panel near the door.  He spoke quietly into a lapel mic.  “Subjects in the green.  All parameters normal.  O2 levels nominal. “
+Someone’s voice crackled over his earbud and Winger thought he heard the words beam injectors.  He looked up, studied the ceiling of the chamber.  Yep.  There they were.  Electron beam injectors, dozens of them.  Their projectors looked like the business end of a magpulse carbine, black snouts, focusing rings, magnetic coils around the end.
+Winger knew what those were.  If anything went wrong—Heydrick assured them that such things never happened…almost never, anyway—the injectors would flood the chamber with billions of electron volts of energy, pretty much frying everything inside, bots, cadets, anything with arms and legs and a brain.  He swallowed hard.  
+Heydrick stepped outside the chamber and cycled the hatch shut with a solid thud.  Autobolts engaged in a staccato pattern, securing them inside.  And keeping what was inside from ever getting out.
+Barnes’s voice had a slight quaver to it.  “I heard it’s better to think of pleasant things…keep your mind occupied.  One cadet even told me he sang during the whole ordeal… even taught me the song…want to hear it?”
+“No,” said Winger and M’bela in unison.  Winger knew Moby M’bela was a pink-faced nog new to all this and he noticed that Moby seemed to be manipulating something in his hands.  He would often handle trinkets and charms at stressful moments but such things were verboten inside the Swarm Chamber.  But like a mindless machine, his hands and fingers were rubbing and clenching and kneading anyway, working on nothing but thin air.
+“Subjects…are you ready in there?”
+The three of them answered in the affirmative.  “Yes, sir!  Small is all!”  The atomgrabbers’ rally cry was always barked out at times like this.
+For a few minutes, nothing seemed to be happening.  Johnny Winger looked about the chamber, trying to locate the ports from which the bots would issue.  Heydrick had given them strict instructions to stay put, stay on the bench as long as they could.  But he soon spotted what he thought were the launch orifices…a line of tiny openings in one corner.  
+Will they come from above or below, he wondered?  Did it even matter?  It wasn’t easy to actually swarm an angel.  At moments like this, Winger always counter-swarmed with his own bots.  He figured he’d grab a few of the attackers and check out their newest configs.  
+It was Barnes who gave the word.  “Ouch!” she muttered, slapping at her arms and shoulders, as if mosquitoes had suddenly enveloped her.  “Ouch--!”  She writhed and squirmed, pinching and slapping at her face and neck.
+“This is it!” M’bela yelled.
+That’s when they saw the first puffs of a phosphorescent fog, issuing from a corner just above the hatch.  
+At first, the fog seemed almost invisible.  It was there…no… I imagined it.  Nope, there it is.  The air itself sparkled and the sparkling grew brighter, more numerous, like a trillion fireflies setting out on a journey.  
+It has a certain beauty, Winger imagined himself saying.  But these fireflies had teeth. Not to mention effectors, propulsors and they could replicate like the bejeezus too.
+The three atomgrabbers stirred uneasily.
+Barnes muttered.  “Wish to hell I had a HERF gun about now.  I’d make mashed potatoes out of these buggers.  Fry ‘em up good.”
+M’bela had stopped his hand motions and was staring wide-eyed at the swelling cloud of mechs.  The air was growing foggier by the moment.  M’bela swatted at something and you could see a track where his hand had swished through the fog.  The bots were getting that thick.
+“Ouch!’ Barnes slapped her cheeks again.  “That hurts…get off me, you freaks!”
+Winger felt something lightly brush against his own face.  He was determined he wasn’t going to lose it, like they’d already seen several times that morning.  More than one cadet had pressed the “Kill” button they all held in their hands, screaming to stop the test and be let out.  On one occasion, once the hatch had been cycled open, the crazed cadet had burst through the technicians and fled the chamber, screaming and flailing at the top of his lungs.
+Winger, Barnes and M’Bela had made a pact at the mess hall that morning over scrambled eggs and toast.
+All together, in or out.  If one gave up, the others would too.  But together, they would be strong.  
+Winger felt fingers nudging his hand.  It was Angel.  She didn’t look at him but he could see the thousand-yard stare in her eyes.  Her lips were a tight line; her whole body tensed up tighter than a bow string.
+He squeezed back.  You can do it, Angel.  We can both do this. You’ve done this a dozen times before. 
+The bots were already thickening inside the chamber and soon enough, the fog became an impenetrable soup, backlit with the fires of atomic bonds being broken, atoms being slammed together as the bots built structure and mass and replicated in exponential overdrive.
+The next few minutes were excruciating.  It was like having a swarm of bees stinging every square inch of your face and neck and hands and arms.  Each individual bite wasn’t so bad; but in the aggregate, the swarm assault was like running headlong into a tornado of nails.  
+Almost without thinking, Winger found himself hyperventilating.  “The anticipation is worse than the assault; focus on small things,” Lieutenant Heydrick had told them, in the pre-test briefing that morning.  “Focus on your favorite food…your favorite show or vacation…some pleasant memory…the last time you got laid—“
+Hey, Angel almost blurted out.  This is a family house of horrors, isn’t it?
+The air had thickened so much it was getting hard to breathe.  Winger gave up Angel’s hand and stopped wondering about M’bela, who was beginning to writhe and squirm next to him.  Instead, he tried focusing on that day so many years ago his Mom and Dad had been in that car crash, Diablo Canyon outside of Colorado Springs.
+That had been a nightmare…the word from Principal Costner at Net School…the turbo ride up the highway…blasting along well over any sane speed limit…seeing his Dad inside the bioshield…his mother already dead…signing the papers to transport her to the funeral home….
+Winger realized he was holding his breath, as if withholding oxygen from his brain would make all that go away.  Of course, angels didn’t breathe the way Normals did.  The docs said it was just a residual reflex, that’s all.  He’d heard that the Corps was working with law enforcement on a new technique of using ANAD in memory tracing, using the bots to penetrate a brain and sniff out highways of glutamate concentrations, re-building recent memory tracks that had been laid down.  Jeez, if they can do that, he thought, maybe ANAD can erase memories as well…like the day his Mom and Dad had been in that car crash.
+If I can get through that, I can get through this.  
+Winger became dimly aware that Moby M’bela was no longer sitting next to him.  It was impossible to see more than a few inches…somewhere in the buzzing, flickering murk that was the swarm, M’Bela had gotten up.  Winger heard a faint banging and realized it was Moby at the hatch, banging to get out.  Over the high-pitched shrill keening of the swarm, he could hear Moby’s voice.
+“Let me out…I want out…open the hatch…I want OUT NOW….!”
+Winger thought to get up and pull M’bela back to his seat but he couldn’t stand…the air was thick and gelatinous and now the stinging biting pinching of the bots really hurt like hell.  He swatted and rubbed at his face, then remembered something Heydrick had told them.
+“Just remember small is all, cadets.  Small is all.  When you’re in the middle of a swarm, get as small as you can, minimize your surface area, cover your faces and make like a baby.  Fetal, tucked in tight, curled up like a ball of twine…that’s what you want to do.”
+Winger decided to play along, show the nogs the right way to do things; now was the time to get small.  He rolled over on the bench and shrunk himself down to as tight a little ball as he could.  He was vaguely aware of Angel doing the same thing next to him.  They bumped and Angel went sprawling right off the bench, landing hard with an oomph onto the floor.
+Sorry, girl, Winger said.  But he knew she wouldn’t hear that.
+Scrunched up into a tucked position, his head buried in his knees, Winger imagined he could feel the bots slicing into his skin, probably another residual memory from pre-angel days…he could feel it, he could hear them shrieking, he imagined rivulets of blood oozing down onto his back.  Or was that sweat?  Or something else?
+He screwed his eyes as tightly shut as he could and he could feel his face and neck crawling with a gazillion little feet—actually, effectors and grabbers and enzymatic knives and pyridine probes and flagellar thrusters and all kinds of effectors grabbing at him.  To keep from thinking about the stinging and the tickling, he tried focusing on what he could recollect about how these training ANADs were constructed…there was a diamondoid base and outer casing, with picowatt thrusters at the base.  You built the bot up as a series of nested cylinders, right up into the main casing and actuator mast, then there was spherical processor and control module on top like a pumpkin’s head, studded with sensor ports.  The whole thing was draped with effectors up and down.  
+Just when he was about to scream out loud and stab the kill switch he was still clutching tightly in his hand, he thought—maybe he was imagining it—that the pressure of the swarm had begun to lessen.   At first, he wasn’t sure, but the stinging had begun to subside, he was sure of that.  He waved and swatted for good measure, not wanting any of these critters mixed up with his own angel config. 
+Just as he begun to puzzle about the swarm, a bright flashing red light flooded the chamber and horns and warning klaxons blared at full volume.  Now, he was sure the bots had slackened off and the air was suddenly thick with some kind of bot rain…they were dying, fried by something, tinkling onto the floor of the chamber.
+What the hell?
+As the fog cleared, he saw M’bela on his knees at the hatch.  He was clawing at the hatch edges, trying to get out.
+“Pleeeease….pleeeease…let me out…!”
+“Moby—“ Winger and Barnes said at the same time.  They went to M’Bela.  “Moby…get up…did you hit the kill switch?”
+The switch lay on the floor.  It too was flashing red.  Moby had already pressed the button, which meant he had had enough and the test had to be stopped.
+That was why the swarm was slacking off.
+“Moby…you didn’t…remember: all together, in or out?”
+Winger helped the Cameroonian cadet up to his feet, just as the last of the swarm dissipated.  The big bang had been stopped early and the bots swept out of the chamber by vacuum.  Winger felt his ears pop as the hatch swung open.  Bright lights flooded into the chamber.
+Faces appeared in the door.  One was Heydrick.  Other technicians poured into the chamber. 
+M’Bela spied the outside light of the control room and tore himself from Winger’s grasp.  He fled the swarm chamber screaming and flailing, pushing everyone aside.  In seconds, he was gone.  
+Winger and Barnes looked at each other.  Heydrick was grim as the techs helped the cadets outside.  Both received a quick scan for residual bots, then a tall glass of iced tea.  Barnes downed her glass in one gulp.  Winger set his aside; angels didn’t drink. 
+“I had to stop the test,” Heydrick told them.  “Regulations…any time a kill switch is pressed, everything stops.  Doesn’t matter who pressed it, although I see it was Cadet M’Bela.”
+Barnes stretched, picked mech debris from her sleeves, brushed her hair out of her eyes.  “Does this mean we failed?  I never pressed anything.”  She handed her switch to Heydrick.  Winger did the same.
+“It means you’ll have to be re-tested, unless the supervisor decides otherwise.”
+“Oh, that’s just swell…I can’t wait to go through that again.”
+
+Nobody ever saw Oscar “Moby” M’Bela again.  Scuttlebutt had it that Moby had disqualified himself from nog school completely and left the Mesa.  Winger and Barnes were philosophical about the loss.
+They swapped thoughts over beers at The Grabber, a club for cadet officer candidates just behind the Barracks.  
+“Moby was a good man,” Winger decided.  “I don’t know what happened.  Maybe he just freaked…it happens.  You don’t know how you’ll respond to being swarmed until you go through it.  He had talents…he would have made a good atomgrabber.”
+“Yeah,” said Barnes, “But at least Ironpants gave us a pass.  We did ninety percent of a swarm chamber anyway.  So, it’s over and thank God for that.”
+“One step closer to passing re-quals.  What’s next for you, Corporal?  Something quiet and sedate, I hope.”
+Barnes consulted her eyepiece, scrolling down through the courses, the curriculum to come.  “Re-quals…Jesus.  Class time for a few weeks, looks like.  Languages, Math, something called Molecular Engineering…more SODS time.  Quantum Systems, Containment 101, DPS…I think we’ll be on the mesa for a while…no more fighting off bugs and bots.  This gal needs some quiet time.”
+At that moment, Winger’s wristpad chirped.  He looked down and saw the craggy face of General Kincade on the display.
+“Winger, I heard the Beehive test is over.  I’m sure you aced it as always.”
+Winger shrugged.   “Sir, the test was stopped early.  One cadet hit the kill switch.”
+Kincade blew that off.  “Doesn’t matter.  We just got tasking from UNIFORCE.  Paris has a new mission for 1st Nano.  Get your butt over to Ops, on the double.”
+
+Kincade was in his office when Winger arrived.  The place was thick with brass, most of them avatars.  Winger recognized General Lu, CINCQUANT and General Rostov, head of UNIFORCE, beamed in and drifting as avatars about the place.  UNSAC’s avatar was there too, as was Major James Lofton in the flesh, the man from Q2 Intelligence.  Winger strained an elbow saluting everything that moved.
+“Sit,” Kincade commanded.  Winger sat down.  “We’re calling this one Operation Quantum Cyclone.”
+Winger tried out the words.  “Something meteorological, sir?
+“Very funny.  Watch this.”  Kincade racked up a short vid briefing that had been held the previous night at UNIFORCE headquarters in the Quartier-General, Paris.  The vid featured captured imagery from several sources, most notably Gateway Station in Earth orbit and some place called Mount Kailash.  
+Lofton narrated.  “You’re all aware of this asteroid-space object called A-2288.  It entered the Earth’s atmosphere and impacted in the western Indian Ocean, on 1 October.  The screen shows some of the impact effects; you’ve all see this on the news, on SOLNET, everywhere.  Nothing new there.  We know from our sources that the Chinese and the Indians have an intense interest in recovering the remnants of the A-2288 impactor.”
+General Lu’s avatar spoke up.  “It’s just a big rock, isn’t it?”
+Lofton nodded.  “That’s what we thought.  But in the days and weeks after impact, while cities and nations around the Indian Ocean basin have been trying to recover, the area of the impact site has been undergoing a strange array of unusual disturbances. Unusual incidence of waterspouts, for instance.  Odd clusters of very intense whirlpools in the ocean.  Stormy weather of a type not usually seen in this region.”
+Kincade rubbed at his black goatee.  It sounded like sandpaper.  “So what?  These are impact effects, aren’t they?  A lot of water was vaporized in that impact.”
+Lofton shook his head.  “No, sir…not entirely, sir.  This is more than just normal impact effects.  You’ve all seen the intel in your materials about the disappearance of that Indian submarine…this is, by the way, extremely sensitive intel and I must insist that it not leave the room.  Now the Chinese are poking around the impact site too.  We have unconfirmed reports, from sources in India and Kenya, that the Chinese are trying to cordon off the impact zone and build a small underwater base there.  We’re not sure why, or how much credence to put in this intel, but I asked for Colonel Winger to be here for this reason.”
+Winger straightened up.  “These effects do remind me of some encounters in past missions.”
+Kincade was puzzled.  “What the hell are you talking about, son?”
+Lofton was warming to the task.  “He’s talking about Operation Jovian Hammer, General, way back in ’55.”
+Kincade squinted at Lofton like he had a vegetable growing out of his head.  “Jovian…you mean that mission to Europa?”
+Winger added, “And the first encounter with a Keeper unit.  There was one on Mars, too, I seem to remember.”
+Lofton smiled.  “Yes, the Candor object.”
+Now it was General Rostov’s turn to be puzzled.  The Russian bear squirmed, which caused his avatar to pixelate slightly.  “Lofton, are you saying this A-2288 impactor is a Keeper unit?  Nesusvetnaya…that’s bullshit!  We located all those, even the one at the Paryang monastery in Tibet.”
+Lofton tried to piece the picture together for them.  “Of course, sir, we’re not sure of this analysis at all.  We need more data.  That’s why I proposed to UNSAC and to General Rostov that a mission be developed to acquire more intelligence.  Yes, Colonel--?”
+Winger had raised a hand.  “One of the more threatening aspects of dealing with these Keeper units—and we should review all the briefings and after-action reports before we go too far—is that they can displace objects in time and space.  On more than one occasion, I and my troopers approached these Keeper units and as soon as we came into close proximity, we were often thrown far away in space and time, sometimes hours or even days later or before the time of our approach and usually kilometers away in distance.”
+Kincade swallowed audibly.  “If that’s true, if that’s a measurable, observed effect, then I begin to understand the Chinese interest in A-2288.  If it’s really a Keeper unit and has this same capability, imagine what the Chinese or their Red Harmony friends could do with that.  Think of it, gentlemen, a displacement weapon that could send attackers off anywhere you wanted…who wouldn’t want to get their hands on such a capability.”
+“If this big rock really is a Keeper unit,” questioned General Lu.  “I’m not convinced.”
+“Neither am I,” said UNSAC, from Paris.  The ebony-black woman who was UN Security Affairs Commissioner gently fondled her bone and ivory hairpiece, which clinked as she did so.  “But we need to find out.  We need intelligence on what the Chinese are doing, and why they’re trying to cordon off fifty square kilometers of open sea, in violation of every treaty and resolution.  They’ve already fired on several UNISEA ships as it is.  Kincade--?”
+Kincade stood up and went to the end of the conference table.  He fired up the 3-d projector and a slowly spinning earth globe materialized out of thin air.  It stopped when Kincade’s fingers hovered over the western Indian Ocean.
+“Madame Commissioner, this is what we have in mind for Operation Quantum Cyclone.
+
+Aboard UNISEA Submarine Archimedes
+Western Indian Ocean
+Depth 250 meters
+November 1, 2064
+
+“Sonar, Conn, report all contacts.”  Captain Gallatin studied the nav plot in the middle of the control room.  They were less than fifteen kilometers from their target and surface activity had been picking up for an hour.
+Sonar replied, “Multiple surface contacts, as before.  Now, two submerged contacts.  Contact One at ten thousand meters, bearing one five three.  Contact Two is closer, four thousand meters, off our port bow, bearing two two zero.  Contact Two is now turning to intercept course.  Outer doors have just come open and his forward tubes are flooded.”
+Gallatin glanced over at Johnny Winger, hanging by a bulkhead near the ship control station.  “Colonel, I think we’ve been spotted.  With all the firepower around here, I don’t want to get any closer.  The Chinese have already fired on our surface ships.”
+Winger nodded.  “Understood, Captain.  Maintain your distance.”
+Gallatin issued rapid-fire orders.  “Engine room, make turns for twenty knots.  Helm, come right to two seven zero.  We’ll parallel their outer defense perimeter, until your people have left.”
+Archimedes heeled to starboard and slowed down.  
+Gallatin said, “You’d best get your people aboard Ferret, Colonel.  Mission calls for us to begin perimeter scan and survey in an hour.  We’ll have to put her on the bottom to release the geoplane.”
+“On my way.”  Winger ducked out of the control room and went aft to the wardroom.  He gathered his detachment there for a last-minute briefing.
+Selected at Mesa de Oro from 1st Nano troopers, the detachment that would execute Quantum Cyclone consisted of Winger, their IC1 Sherm Cuddy, Stella D’Garza, who would be the quantum engineer, Joe Vinh for Defense and Protective Systems and Robbie Acuna, who would handle stealth, deception and countermeasures.
+“Captain’s going to bottom the boat in an hour.  Get your gear and get aboard Ferret now.  And go ahead and pull on the lower part of your hydrosuits.”
+D’Garza snorted.  “Aw, Colonel, those things are like wearing garbage cans.”
+Winger smiled, since he agreed with her but he couldn’t very well say that.  Modified for undersea work, the hydrosuits were hypersuits in all but name, but rigged out with extra propulsors and configured to more or less resemble dolphins.  “I know that but the mission demands something special.  Put on your suit lowers and that’ll make us ready to depart from Ferret at the right time.”
+“Skipper, how come we can’t just cruise around above the seabed, like real dolphins?  Take pics and grab intel that way. What’s with the subterranean approach?”  That was Acuna, the rookie atomgrabber.  His boyish face and red freckles sometimes gave rise to fantasies among the female troopers of 1st Nano.  
+Winger tried to be patient with the kid, fresh out of nog school.  “Because, Trooper Acuna, the Chinese and their Red Harmony cronies have decided to setup a defensive perimeter around the target and they like to shoot at unwelcome intruders like us.  Going underground can put us right in the middle of their defenses and very close to our objective, all without getting torpedoed…or worse.  Got it?”
+“Sir, we know the Chinese and the cartel both operate geoplanes.  Won’t they be guarding their butts below ground too?”  D’Garza raised that observation.
+“They might indeed, Stella.  But Quantum Cyclone assumes they won’t be looking in that direction.  One of Archimedes’ jobs is to make enough mischief around here to distract our friends from searching in other directions, like below ground.  Plus, she’s sporting special sensors like narrow-band sonar to get whatever intel she can get from further away.  Now, everybody suit up, grab your stuff and let’s get on board.”
+One after another, the detachment boarded geoplane Ferret, docked to Archimedes’ upper hull through a dry deck shelter.  Captain Jellicoe welcomed the troopers to his little craft.
+“Atomgrabbers and dirt diggers,” he chuckled to Winger as the troopers settled in and sorted their equipment.  “Normally the two mix about as well as oil and water.”
+Winger helped the Ferret crewman dog the hatch shut.  “Captain, we’re just along for the ride.  We’ll leave the driving to you.”
+Jellicoe smiled.  “Boundary Patrol Taxi Service at your command.  Secure for liftoff.”
+Moments later, Archimedes had finally bottomed and settled with a slight list on the seabed. The dry dock was unsealed and its skirt flooded.  With a muted whoomph, Ferret lifted away from the hull, slipped over the edge of the hull and sank like a rock to thick sediment below.  The geoplane had the buoyancy of a rock.
+On the command deck, Jellicoe was all business.  Winger drifted toward the back of the deck and was glad he recognized most of the crew from earlier missions.  Even that little comfort was welcome given the difficulty and sensitivity of their mission.  
+We’re in good hands today, he told himself.  For the moment….
+  In rapid-fire order, Jellicoe gave directions to the DSO, Malkin. 
+“Secure the hatches.  Unship the tracks, DSO.  BOP, get the borer going.  We need to make like a tree and get the hell out of here.”
+BOP was Borer Operator Esther Nampula, a South African recruit fresh out of tectonic school.  She twisted some joysticks, pecked at a keyboard and the portholes were soon filled with a blinding blue-white glow as the geoplane’s borer lens came online.  Her trillions of specially configured nanobots would soon form a massive globe of mechs to melt and disassemble the ship’s way into the hard carbonate rock of the Mascarene Plateau.  
+“Mostly igneous stuff,” said Jellicoe as the geoplane lurched into motion.  “Hundreds of kilometers of the stuff, limestone and marble, all the way to the target zone.”
+“Good for boring?” Winger asked.
+Jellicoe agreed.  “And for sonic lens…if we need it.  SS1, anything on the scopes?”
+The SS1 was Sensors and Surveillance Technician Michaelis.  She wiped her brown curls back and studied the board.  “Very faint, Captain.  Same signature as before, astern…maybe ten kilometers, bearing one-five-five degrees.”
+Jellicoe nodded.  “Maintain speed and heading.  It’s probably our old friend, still sniffing for us.  DPS, keep the sonic lens powered up.”
+“Aye, Commander,” said the Defense and Protective Systems Operator Matsui.
+
+“Let’s go digging,” he said.  “Head for that fissure up ahead and contact Archimedes… tell   her we’re going deep.”
+Malkin complied.  “Turning left, heading now… one three five degrees.  Depth is six fifty meters, five degrees down angle.”
+“Borer responding,” Nampula reported.  She scanned her instrument panel, reading swarm density, alignment and other parameters.  “Bots are ready to bite—“
+Ferret slowed down as a fissure of igneous rock approached, then a high keening wail could be heard through the hull, as the borer bit into the rock.  The geoplane shuddered as she decelerated.  Outside the command deck, unseen by her six-person crew and embedded detachment, Ferret’s nose buried itself in a shimmering blue-white fog as the borer revved up and uncountable trillions of mechs tore at the rock.
+“Looking good,” Malkin muttered.  “Borer configured for quartz and pyroxenes…bots are chewing through at a rate of two point five kilometers per hour.  Treads are functioning fine.”
+“She’s a real hot rod…let’s try some basic maneuvers,” Jellicoe suggested.  “Ferret’s just come out of refit…never had a proper shakedown.”
+“Aye, sir--“ Malkin turned the stick to port and Ferret initiated a shallow left-hand bank.  The command deck listed slightly, then stabilized.  For the next few minutes, first Malkin, then Jellicoe took turns putting the geoplane through a series of turns, dives and climbs.  Jellicoe held his breath the whole time. 
+Finally, Jellicoe began to relax his grip on the stick slightly, trying to forget they were now hundreds of meters below ground.
+“There’s a layer of basaltic rock a few klicks south of here,” he noticed on the profiler.  “It’s nearly a kilometer down.  We should see how Ferret handles there.  Sergeant Michaelis, anything yet?  Our friends still behind us?”
+Michaelis replied, “Nothing new, Captain.  I’m scanning all bands…EM, thermal, acoustic, quantum…some plate shifting, crustal grinding…that’s about it.  That and one distant target, now about fifteen kilometers dead astern.”
+“Very well.”  Jellicoe programmed a new heading into the tread control system and Malkin steered them southwest on a heading of one nine five degrees, roughly paralleling the folded belt of ancient sedimentary rock that extended from the Mascarene Plateau alongside the crystalline core of the undersea mountains.  Acoustic sounding soon showed the geoplane was entering harder, denser rock layers.
+“Shales,” Hughley muttered.  Hughley was GET1, the Geo Engineering Technician.  From earlier briefings with Boundary Patrol geologists, he knew the layer was sheeted with hard slate and mica, compacted over millions of years by seabed rifting and the overriding mountain range.  “Lots of igneous stuff, volcanic hotspots, nothing new.  Nothing to worry about…just sit back and enjoy the view.”
+Jellicoe snorted.  The only view they had was of the inner pressure hull of the geoplane.  Even as he watched, he imagined that he could see the compression of Ferret’s interior frame under the millions of tons pressing down on them.
+“Sounding ahead,” Michaelis reported.  “Your depth is now six-eight-eight meters.  Signal distortion coming back…it’s probably the shale zone.”
+Malkin shoved the control stick forward.  “I’m going a little deeper…see if we can plow through some of that quartzite.”
+Jellicoe was dubious.  He studied the sounding profile.  “Just don’t push her too hard, okay?  Let’s don’t press our luck on this run.  We have precious cargo aboard.  I’m showing discontinuities dead ahead…some kind of boundary layer, maybe.”
+“Inclusion zone?  Maybe it’s the quartzite.”
+Hughley shook his head.  “It looks more like a fault, maybe a transform fault.  The geos said there were fracture zones north and west of Mauritius.”
+Ferret angled slightly downward and slowed, as the borer swarm bit into denser rock.
+“Cabin temps going up,” Malkin reported.
+“Acknowledged.  Those mechs are working overtime up front, making us a tunnel.”
+With the geoplane nicely underway, Winger decided to head aft and check on his troopers.   He reminded himself that stealth was the key to this mission, for their objective was surveillance and recon.  Grab whatever intel they could get—acoustics, electromagnetics, quantum, visual—of A-2288 and whatever the Chinese were building around the impactor from space.  If it was a Keeper unit, as Q2 suspected, try to determine what the Chinese and their Red Harmony minions were trying to do with it.   The rules of engagement were simple enough if damnably hard to execute: don’t engage unless you have to, for self-defense.  Get in, take readings and get out…that’s was their mission.
+Easier said than done, Winger realized ruefully.
+The detachment was crammed into Ferret’s tiny crews’ mess.  Gear and pieces of gear were scattered across all the tables.  At least, the troopers had done as ordered and suited up the lower halves of their hydrosuits.  
+”Jeez, Colonel, this contraption just isn’t me…it doesn’t do a thing for my figure,” complained Cuddy.  He wriggled into an imaginary pole dance, not easy in the stiff confines of the suit.
+Winger ignored him.  “Get your buddy checks done…seals, valves, connectors, everything.”
+Joe Vinh was cycling cartridges through his mag gun.  “I’m armed and packing, Skipper.  I always had a taste for fried Chinese seafood.  You want extra crispy or original recipe?”
+“We’re not going out there to fry anything,” Winger reminded them.  “We’re here to snoop.  If we have to engage, and we might, that means the mission’s compromised.  That’s why we have these fish-suits.  Get buttoned up now.  Jellicoe’s says we’re already inside the Chinese perimeter.”
+“Injun country,” muttered D’Garza.  She yanked her helmet down and zipped the connect ring shut with a snap.  
+“You do remind me of a big tuna,” joked Robbie Acuna.
+D’Garza snarled from inside her helmet.  Her voice was muffled but still audible.  “Yeah…a tuna that bites.  Out of my way, landlubber.”
+Jellicoe sent word over the geoplane’s 1MC.  “Detachment to the lockout.  We’re three minutes from D-point.  Ferret surfacing and breaching the seabed in two.  Hold on.”
+The ship rocked and lurched as she nosed up through the last few meters of shale and igneous rock.  When her nose breached the seabed, the deck shifted and settled and Jellicoe ordered her borer lens killed.  The bright blue-white glow of her borer lens collapsed in a spray of light and the huge armored beetle surged up, then settled nose first in the hollow of a shallow ravine, just in the lee of a ridge off their starboard quarter.
+Winger waited for Jellicoe to flash the green light above the lockout hatch.  When it lit, he handwaved the first troopers into the chamber.  “Cuddy, Acuna, secure a perimeter right away and keep your sensors on high.  Ferret’s really vulnerable while we’re departing and Jellicoe plans to submerge her once we’re off.  Remember, you guys are dolphins.  Or maybe tuna.  Don’t give the nasties any reason to suspect something’s up.  Okay—” he patted Acuna on the shoulder.  “Go…Go….”
+One after another, in pairs, the quantum troopers of 1st Nano exited Ferret and formed up something that vaguely resembled a school of fish.  Once they had taken stock of their surroundings, finding no nearby contacts, Winger ordered them to move off and give the geoplane room.
+Moments later, Ferret’s borer lens lit up again and she had burrowed underground like a true ferret in less than a minute.
+Now it was time to go scouting.
+The seabed at this depth was mostly dark, thick with drifting clouds of silt and sediment and pockmarked with strange coral-like hillocks, lending a puckered appearance to the terrain.  The Detachment cruised toward their target, now less than a kilometer away, through moderate turbulence and tricky cross-currents.  Schools of curious blue and yellow surgeonfish swept around and past them, followed by a smaller flock of tuna, nosing in and among the troopers to see what they were about.
+“You don’t look anything like that tuna over there,” Cuddy said to D’Garza, who was cavorting playfully with several of their visitors.  “He probably wants to have your children.”
+“Yeah,” said D’Garza, shooing away a particularly nosy tuna.  “And after that, I’ll rub some tartar sauce all over him and have a fine meal.”
+Taking point position on their approach to the target zone, Johnny Winger realized they had picked up a faint but growing low-frequency thumping sound.
+“I wonder if that’s the Keeper we’re hearing,” he said to Joe Vinh, cruising nearby on half-propulsor.   
+A second later, they were both startled by a loud whoosh coming from above.  Something heavy had entered the water.
+A small craft had plunged into the water directly over their heads.  The water entry jarred both of them to a halt.  It was a controlled crash, with the ship plunging nose first right into the choppy turquoise waters.  The little ship extended her diving planes and switched to hydro propulsors, then straightened out as her pilot trimmed her for cruise.  
+“Some kind of ship,” said Vinh.  “Heading right for us.”
+Concerned that they would be detected, Winger hand-signaled the detachment to lie low and still amid some coral humps.  
+Once the ship had passed over their heads, he signaled the detachment to follow at a respectful distance.
+“Keep the chatter down,” he added.
+They cruised like an ersatz school of tuna in the wake of the ship and came at last to a sprawling compound unlike anything they had ever seen, running up their propulsors to push through a steady current.  The throb they had been hearing steadily increased in decibels, then suddenly died off to silence as the craft approached one of the habitats and docked.
+The place was ostensibly run by the Academy of Sciences and the Chinese had christened their base Station Alpha.  Station Alpha was situated on the edge of a small underwater promontory near the Mascarene Ridge, a few hundred kilometers east of Madagascar, at a depth of a hundred and fifty meters.
+Run jointly by the Chinese navy and the Academy of Sciences, the compound resembled a massive starfish nestled in the brow of a shallow ridge that overlooked steeply descending terraces to the southwest.  Containment Site Alpha, where the base’s experiments were hopefully well secured behind multiple nanobotic barriers and shields sat alone in a narrow ravine at the end of the terraces some three kilometers away, connected to the Station by thick ganglia of pipes and cables.
+Cautiously, Winger used an encrypted burst coupler channel to verbally explain their objectives.  
+“Sherm, you and D’Garza head off to the right.  I want an all-band scan of this compound—acoustic, side-band, EM, quantum effects, everything.  Get as close as you can but don’t take any chances.”
+“Robbie, you come with me and Joe.  We’re going to try and work our way closer to that main habitat, where the ship docked.”
+Vinh was wise to the Colonel’s line of thought. “Skipper, you thinking what I’m thinking?”
+Winger nodded.  “If we can get close enough, we might be able to ‘go small’ and slip inside that building.  Grab some photons and bring back some really great intelligence for Q2.”
+“What about me?” Acuna asked.  “I’m no angel…I can’t do that.”
+“Robbie, don’t sweat it.    I want you to snoop.  Like a nosy fish, around the outside of those buildings.  And cover our asses.  Don’t let anybody or anything creep up on us.”
+With that, Vinh and Winger set off for the main habitat.  As they approached, Winger hacked out some configuration changes for them in his mind.  Maybe start with C-99, add a few effectors, some extra propulsors, a carbene grabber or two at the top of the mast…in a few minutes, he had a basic idea of what config they should assume if and when they managed to penetrate the structure.
+Joe Vinh studied his design and pronounced himself satisfied it might work.  “But it’ll be dicey squeezing through that habitat wall, Skipper, without being noticed.”
+“Leave that to me, Joe.  Come on.”
+The three troopers ran their suit props up full to counter the steadily increasing current.  As they approached, skirting coral humps and small hills, Winger ordered Acuna to veer off to investigate a small egg-shaped craft docked to the main habitat.  At the same time, he and Vinh began a slow reconnoiter of the main building, staying low to the seabed to avoid detection.
+At the small ship, Acuna reported, “Something’s happening, Skipper.  I see people moving into this little sub.”
+Winger and Vinh aborted their reconnoiter and came alongside.  Lights had come on inside and through small portholes, they could see people entering the craft.
+That gave Winger an idea.
+“Joe, let’s you and me see if we can penetrate that hatch, around the seals, around the docking ring.  We might be able to get inside.”
+Vinh was up for the challenge.  “Hunch, Skipper?”
+“A feeling…an idea that this sub’s getting ready to leave and where it might be going could be important.  See those cables and lines running away from the habitat?   They meander over that ledge to another deeper plateau.  That’s where the current’s coming from.  Our target may be down there.”
+Acuna continued scouting around and through the cluster of buildings, while Winger and Vinh disassembled themselves inside their suits, then exited into the cold, dense silt-laden water.  Fighting fierce currents, they reconfigged for tight spaces and tried to tighten up their formations as snugly as they could.
+“Like trying to run through a hurricane,” said Vinh. 
+“Just keep small, Joe.  We can do this.  I’m already seeing some big chains of molecules up ahead.”
+“Polyisoprene,” decided Vinh.  “We can slither through it, I believe…with the right config…just twist and torque and bend like this—”
+With effort, losing some of their swarm in the process, both troopers managed to force the hatch seal undetected.  They filtered inside the cramped compartment like faint tendrils of smoke and hovered around the hatch.  Winger switched to a burst coupler comm channel.
+“Joe, let’s both disperse.  I don’t want to set off any alarms.”
+The troopers had configged down to little more than loose molecules and drifted like errant dust motes among the panels and cabling and pipes that cluttered the tiny compartment.  Winger held his own swarm in loose config, concentrating his processor cycles on gathering as much data as he could.  He snagged a few passing photons to form an image stream he could record for later analysis by Q2.
+It was a Chinese sub named Gang dan and it did indeed look like an egg, with a small propulsor module at its rear and four articulating tele-robotic arms attached to its sides.  Barely big enough for a two-person crew, the Egg motored off from the sub dock with Dr. Qing driving and Dr. Fei handling the arms.  Winger and Vinh were undetected passengers.
+The three kilometers to the containment site, known as Site Alpha, were mostly downhill, following the steeply pitched terraces that sloped away from Station Alpha.  A blue-white glow was visible at the foot of the terraces.  As Qing steered them closer, Winger could both see a blue-white spherical globe of light below them and feel the faint tug of the vortexes that surrounded the site, the result said Fei, of “our protective shielding…we’ve managed to contain the Xiao zhanshi inside a cocoon of our own bots for a few weeks now.  However, the little warriors are constantly evolving, constantly reconfiguring and adapting and so we have to keep up.  It’s a constant battle.”
+“You must have some data on their configs by now,” said Dr. Qing.  “We need to look at all these changes and study them…so we’ll know what these alien bots are capable of.”
+“And so you shall,” Fei said, with a sideways glance at Qing.  The Peoples’ Molecular Forces scientist was impassive, saying nothing, but his fingers whitened on the joystick as he drove the Egg closer.
+At the lowest terrace level, Containment Site Alpha was enveloped in swarms of schooling pollock and grubby, frantically orbiting the light from the barrier bots.  A flickering blue-white bubble of light pulsed in some kind of regular rhythm, attracting thousands of nearby fish.  
+Qing drove the Egg closer and Fei worked one of the remote arms.  She expertly plucked a small capsule from the forward bench just outside their portholes.
+“Our own little warriors,” she explained.  “Modified from designs we ‘acquired’ from Quantum Corps, Doctor,” she told Fei.  
+ “The capsule at the end of the arm contains bots with our latest configs.  We’ve had pretty good success in engaging these bots.  Here, I’ll show you—”
+Fei tapped some keys on a nearby keyboard.  “I’m de-tuning the barrier, just long enough to insert our little army.”
+Indeed, the blue-white bubble dimmed slightly just as Fei drove the arm forward, right through the barrier.  It flashed around the penetration, but didn’t kick the arm back out, as full-strength barrier bots might have.
+Then Fei said, “Launching now—I’ll cycle the discharge port and—”
+There was a terrific flash of light.  The Egg rocked and tumbled and began spinning, throwing the two scientists hard against a bulkhead.  Alarms and klaxons sounded.  Chaotic currents lashed the little ship.
+Winger found himself scattered and dispersed and soon gave up all hope of saving his config.  With the spin increasing, he knew he’d better concentrate of saving his main processor.  Already, the centrifugal force was pushing him against the outer hull, pinning his effectors, his actuator mast, his propulsors, crushing and squeezing and battering him…he was afraid his entire structure would come apart—
+He had a fleeting glimpse of one of the scientists—maybe it was Qing, maybe Fei—and he would have vomited at the sight if he’d had a stomach.  It was all the wrong…the image was wrong and his mind refused to accept it—there was Fei, with two heads, now three, now four, now eight heads, popping out of her suit like geraniums in fast motion video, Fei with her head missing, distorted in a cracked mirror, and he shut down the photon stream, couldn’t look at it anymore—
+…and then it came.  An image of geometric forms—icosahedrons, polygons, trapezoids—all compressed into a tunnel, a long curving corridor and he found himself hurtling at breakneck speed down this corridor, until—
+With a hard bump, his whole body—now only a barebones processor-- jarred from the impact and when he opened his eyes, caught his breath and came to his senses, he was….
+Where?
+
+The first sensation he had—it had come to him as a stability warning from his processor—was one of bobbing, floating in the ocean.  What had happened?  One moment, he and Joe Vinh were riding as unnoticed passengers in a tiny Chinese sub, about to approach something that may have been a field surrounding A-2288 and the next moment—
+A faint comm signal chirped.  It was his coupler.  It turned out to be Vinh.
+“Colonel, Skipper…you there?  Anybody there?”
+Winger replied, as best he could.  “I’m here, but I don’t know where ‘here’ is.”
+Vinh’s voice was weak.  “I’m still trying to figure out what I’ve lost.  I’ve got effectors, some propulsors, but my main mast is bent.  Power cell’s at about half.  What the hell happened?”
+Winger was in the same shape.  “Joe, don’t quote me on this but I think we got too close to that object—must be a Keeper—and went through a displacement.  Check your internal clock.”
+Vinh did so.  “This doesn’t make any sense.  Mine says we’re at…here, let me do the math…no, this can’t be, can it?”
+Winger had seen the same thing.  “We’ve been thrown back in time, Joe…looks like about seven years and a few days.  Keepers can do that.  It happened to me at Europa.  The question is, where are we?”
+They both gathered atoms as best they could, trying to re-build some structure.  Finally, Vinh had grabbed and processed enough photons to get a rough picture of their location.
+“Colonel, we’re still in that sub.  But we’re floating on the surface.  I think I see some ships or boats through the porthole.  And that warehouse over there…we must be in some kind of port.  Can’t quite make out the sign—”
+Winger strained to massage the photons he was getting.  “It says Dar es Salaam…Joe, we were thrown back in time and six hundred kilometers west.  We’re in Tanzania and we need to get out of this crate now.”
+The two Chinese scientists stirred groggily and groaned.  One of them—it was Dr. Qing—cycled the hatch open and fresh salt air breezes filled the compartment.  A strong odor of drying fish wafted in as well.
+Qing stuck his head out and said something to the female, Dr. Fei.  Carefully, awkwardly, the two of them squeezed through the hatch and dropped into the water.
+Winger realized they’d better move themselves.  “Come on, Joe.  Let’s get out of here before they shut the hatch.  We both need feedstock to rebuild.”
+Jetting forward, the Vinh and Winger processors managed to squirt out of the sub just before Qing slammed the hatch shut.  They were caught in the stiff breezes coming onshore and had to tack their way back over the dock.  Soon, though, both troopers—they were only molecule clusters at the moment—managed to drift landward and soon found themselves hovering, then settling over a crowded bazaar a few blocks from the port.  
+The two of them came to rest in the midst of a gathering of donkeys.  
+Winger ‘saw’ what was around them…tents and tables and fresh produce and headless chickens swinging from ropes over the street.  
+“Let’s grab atoms and go macro,” he told Vinh.  They began doing just that, steadily assembling themselves into forms resembling Normals in the folds of a tent, out of sight.  In about ten minutes, the small dust devil that seemed to have fallen on the donkey stand subsided.  Out from the shadows stepped two quantum troopers, looking none the worse for wear.
+Vinh checked himself out in a small mirror attached to one tent flap.  “Not too bad, Colonel.  But we’ve got to get back to the mission.  How do we get out of here?”
+“Let’s find out where we are first, get our bearings.”  
+They started strolling down the street, caught in the flow of hundreds of pedestrians, pedicabs, carts and donkeys.  The sign on a nearby building read Halib Street.  The crowd seemed to be moving toward a gathering at the end of the street.  
+There was a small stage at the intersection of Halib Street and Naibuni Road.  Below the stage with its gesticulating angel impresario, a turbaned vendor ran a demo in front of the crowd.  He was a small man, desert burning in his eyes, as his fingers flew over the keyboard.  Presently, he stopped and noticed a very young child, a small girl, standing shyly a few meters away from the stage, playing hide and seek in the folds of her mother’s loose sarong.  
+The vendor, who sported a thick black moustache, beckoned repeatedly to the young girl.  After a few minutes, her mother relented and let her child go.  The girl inched her way into the clearing and stood in front of the vendor’s table, to applause and approving shouts and chants from the crowd.
+The vendor’s name was Samson Ndinka.  Ndinka reached into a canvas bag and pulled out a trinket for the young girl.  He handed it to her and she took it, shyly, turning the small cylinder over and over in her hand.
+“You have a djinn in that cylinder, little one,” Ndinka announced, loudly enough for all to hear.  “A very powerful spirit.  He can grant you any wish you want.  Make a wish, child, and the djinn will bring it to you, right here—“
+The girl’s name was Menaka and she had huge brown eyes.  Sad eyes, thought Winger. 
+Menaka twirled the cylinder as Ndinka had shown her and squeezed her eyes tightly shut.  When she stopped twirling the cylinder, she felt it vibrate and was so startled, she dropped the cylinder to the dirt.  
+Instantly, the device was enveloped in a fine mist, a sparkling mist that billowed out and upward, swirling about the clearing in front of Ndinka and his tables like a miniature cyclone.  Gasps and shouts erupted from the crowd, and the spectators shoved back against each other, to give this growing apparition greater distance.  On the stage, the vendor gave a showman’s flair to the spectacle.
+“Now see what the young child has conjured for us—“
+The mist gradually materialized into the faint outline of a man’s upper body, with a recognizable face, shoulders and arms crossed in front.
+The ‘djinn’ then spoke out loud.  “Little one, I have come from the clouds above to grant you a great wish.  Make your wish now—“  The djinn’s voice was a deep bass profundo, so deep it rattled the beaded curtains that covered Ndinka’s merchant tent behind them.  
+Menaka stared wide-eyed, mouth open, at the apparition.  She was speechless.
+“Go ahead, child,” urged Ndinka.  “The djinn wishes you to make a wish.”
+Shouts of encouragement and support came from the crowd.  Gradually, Menaka worked up enough nerve.  Shy, haltingly, she asked for a new matatu for her father.
+“His bus is broken down, Great One,” she murmured.  “It’s the tires.  They are bad.  The bus is our livelihood.  Father needs a new matatu to carry the tourists.”
+The deep voice rumbled again, a little reverberation adding to the sense of barely contained powers.
+“As you have spoken, child…so shall it be—“
+At that moment, the swirling, twinkling apparition of the djinn dissolved into a maelstrom of churning, roiling clouds, streaked with flashes of light.  It was like watching a thunderstorm in miniature, from the inside.
+The crowd murmured and moved back uneasily.
+When the storm began to subside, the barest outlines of a structure could be seen enveloped in the thick fog.  The fog dissolved, slowly at first, then with speed, to reveal the front hood and doors of a new minibus.  Its wheels dripped with moisture and sunlight shone from the supple leather seats inside.  
+The crowd was silent for a moment, then erupted into cheers and gasps.  Menaka stared wide-eyed at the new matatu, inching her way forward to tentatively put a finger along the fender, tracing the smooth curve of the metal.  
+For fun, Ndinka reached inside the driver’s side window and honked the horn a few times, startling everyone.  The crowd laughed.
+“You see what a gift the great djinn has brought you, little one.  The djinn I have in my possession can do the same for every one of you.”  Ndinka pointedly stared at each face in the front row of the circle of onlookers.  “Such a powerful djinn, such a powerful servant is available to you, today, right now, for a very special price.  You will not believe the deal I can make for you.  My friends, you cannot leave this bazaar without experiencing what this amazing servant can do for you—the Assimilationists have brought this wonder to Uhuru Park just for today--“
+Joe Vinh clucked with reluctant approval.
+“Not bad nano, if you ask me.  Config changes were quick.  He managed to hide some of the frizziness with smoke.”
+Winger nodded.  “A little clunky in the conversion, if you ask me.  But showmanship trumps everything.  Like a magician…he kept their attention away from the nuts and bolts.”
+“Where next, Skipper?”
+They strolled on, pausing at vendor carts and tables lining the street.  Winger said, “Joe, if we were thrown seven years back and we’re somehow in Tanzania, the best thing to do is try to make it to Singapore.  I’m not getting anything on my coupler, so the frequencies must have been changed.”
+“Singapore?  Oh, right…Quantum Corps Eastern Command base.  How do we do that?”
+“It would take forever to fly or drift all the way across the Indian Ocean.  We could try attaching ourselves to a plane that’s going that way, if we can find the airport. But I don’t think we’d survive the flight.”
+Vinh had noticed a big billboard overhead.  It read Magagoni Terminal—1 Kilometer.  An arrow pointed back toward the docks.  “What about that?  We could take the vactrain.”
+Winger gave that some thought and couldn’t come up with a better idea.  “If you don’t mind zipping along through an underground tube at a thousand kilometers an hour.  Let’s go.”
+They were at the terminal in half an hour.  
+After studying the boards displaying scheduled arrivals and departures, they found a vactrain that would take them through Johannesburg to Mumbai, then New Delhi and Bangkok, before winding up at Singapore’s Changi Station.
+The trip would take the better part of a day.
+Winger used his personal Corps account to buy the e-tickets, now loaded into their processors.  
+“Good thing there are other angels around the terminal,” Vinh said, looking around.  “I’d hate to stand out.”
+“This’ll look great in the after-action report,” Winger noted.  
+They boarded the Malacca Express, found a compartment in coach and were underway a short time later.
+
+Twenty hours later, Johnny Winger and Joe Vinh swept out of the vactrain onto Platform Five at Changi Station.  
+“Now to get to the base,” Winger said.  “Come on.”
+Singapore Base was a miniature replica of Mesa de Oro itself, complete down to the Containment Facility, the Sim and Wargaming center, the Ops quadrangle and the lifter pads.  Only the Mayan ruins of Kokul-Gol were missing, replaced with palm trees and mangrove stumps and the strong smell of salt air.  The languid tropical waters of the Selatar River slapped wooden piers near the lift pads as the lights came on inside Base Ops.  In the eastern sky, orange fingers of dawn sunlight probed puffy cumulus clouds.
+At the front gate, Winger and Vinh were immediately challenged by Security, in the form of two well-built guards.
+“ID, please.”  The guard’s name plate read Riley and he had once played defensive line in college.  “You are an angel, right?  Both of you.” Riley looked Winger and Vinh up and down.
+Winger nodded, “Through and through.”  He put his face in the scan hood.  Seconds later, the thing beeped.
+Riley’s eyes widened.  “Colonel Winger…John Winger?”
+Winger smiled.  “The one and only.  Is there a problem?”
+“Uh, no, sir…not at all, sir.  It’s just that—” He turned to the other guard.  “Simmons, go get the Lieutenant.”
+Joe Vinh was scanned and pronounced official and the two of them were escorted into Ops.  The office door read Lieutenant Dharma.
+Dharma was Bengali, dark and visibly skeptical as he read the ID results from Security.
+“It says here you’re Colonel John Winger, United Nations Quantum Corps.  The Colonel John Winger?”
+“Lieutenant, you’ve got my Quantum Corps ID right in front of you.  You’ve got eyes.  It’s not easy to fake Quantum Corps ID.”
+Dharma squinted up at both of them.  “What are you two doing here in Singapore, sir?  If you don’t mind me asking.  Is there an op I don’t know about?”
+“Lieutenant, that’s going to take some explaining.”
+After repeating the story twice, Dharma seemed uncomfortable with what had dropped into his lap.  He knew you didn’t get far in the Corps by poking around looking for trouble.  It found you often enough.  Finally, he made the standard decision.  “I’m taking you to the c/o.”
+ They soon found themselves standing before General Kwame Nigala, base commander.  Nigala was tall, almost regal in bearing, with blazing eyes.  He listened without visible reaction, hands steepled under his chin, as Winger and Vinh described Operation Quantum Cyclone and the Keeper object.
+When Winger had finished, Nigala sighed heavily.  “Colonel, I’m not saying I don’t believe you, at least on some level.  But this is a lot to swallow.  We’ve seen no such object come down in the Indian Ocean that I’m aware of.  Nothing on the intel boards either.”
+“That’s because it hasn’t happened yet.  It won’t happen for another seven years.”
+Nigala was poker-faced.  “And you’re telling me you’re from the future, seven years in the future?”
+Winger said, “Sir, as I explained about the Keeper’s displacement capability—”
+Nigala held up a hand.  “Colonel, I get it.  But it’s just so damned hard to follow, you have to admit.  Objects from space, displacement, throwing you boys back in time.  I suppose this isn’t some kind of operational test from UNIFORCE, something from one of the labs.”
+Winger was growing exasperated but Nigala was a superior officer.  “Sir, if you’ll check with Quantum Corps Archives, you’ll find reports of other Keeper units we’ve encountered: Europa, the Candor object on Mars, even the Paryang monastery in Tibet.”
+Nigala stroked his chin.  “I suppose if such a displacement weapon really existed, the Chinese and the Indians would be keen on grabbing it.  But what can I do, Colonel?  What you’re describing, if I’m supposed to believe you, hasn’t happened yet.  And it won’t for another seven years.”
+Winger and Vinh looked at each other…the predicament now staring them all in the face.
+“General, somehow, some way, Corporal Vinh and I need to find a way back to our own time.  Or at least, do what we can to prevent the Keeper from falling into the wrong hands.”
+
+ Chapter 3: “Causality Paradox”
+
+Indian Space Research Center Laboratory
+Mumbai, India
+November 1, 2064
+
+Aditi Surat had been a climatologist at ISRO for almost five years—very much a fish out of water among all the engineers and astronomers—but as she studied the sensor reports from Naval and oceanic reconnaissance of the impact site, she had grown more and more certain her hunch was right.  The data couldn’t really be interpreted any other way and there were anecdotal reports that only served to substantiate her theory, reports like the unexplained disappearance of the submarine Cochin.  Added together, the idea that the unusual incidence of cyclones and waterspouts in the western Indian Ocean was only an infrequent occurrence of normal oceanic phenomena was getting harder and harder to believe.
+“I know I’m going way out on a limb on this, Dr. Viyawanda, and I know this isn’t my area of expertise, but I’m convinced these aren’t normal waterspouts.”
+Viyawanda rubbed vigorously at his white goatee, which seemed at times like a thing alive.  “Why do you say that, Aditi?”
+Surat was ready with data and charts, which she had loaded onto her wristpad and now commanded to create a mid-air projection detailing her analysis.  “The frequency, for one thing.  The depth of the spouts, their intensity and pressure drop.  This is not a normal seasonal variation we’re seeing.  Something very persistent is stirring up the ocean at mid-depths and there have been too many reports of boats and flocks of birds just disappearing from sight.  Where’s the wreckage if the boats are running into waterspouts?”
+Viyawanda winced as he read her conclusions from the projection.  “Wormholes, Dr. Surat?  Really?  You expect me to go to the Director with this?  You’re not an astronomer, or a cosmologist, Aditi.  This isn’t your area.  Go back and look at the data again.”
+Now Surat unveiled her prize: an unconfirmed report from UNIFORCE that some of their crew were missing during an undersea reconnaissance of the A-2288 impact site.  “I think the data supports my conclusion.  This object, the one we call A-2288, is not just a run of the mill meteorite.  There are persistent rumors on SolNet and in other forums that the Chinese Navy believes there’s something about A-2288 worth protecting.  That’s why there have been clashes between our navies.  We could easily test my theory if we could get our Navy to cooperate, or failing that, perhaps UNIFORCE.”
+Viyawanda was reluctant to be convinced, even by Surat’s well-presented data.  “We are a respectable scientific organization, Aditi.  I just can’t take this to the Director without a lot more proof.”
+“Then contact UNIFORCE, Dr. Viyawanda.  I’m willing to bet they’ll find my theory and my data pretty interesting.”
+Not one to be easily bluffed even by a persistent underling, Viyawanda weighed his options.  “Okay, Dr. Surat.  I’ll give you a week to prove your theory.  I can’t ask any of the Board members to undertake this.  They wouldn’t believe it and they’d never stake their reputations on it.  You, on the other hand—”
+“Are expendable.” Surat finished the thought.
+Viyawanda smiled faintly.  “Something like that.  One week, Aditi.  Go ahead and contact UNIFORCE.  I’ll grant you permission to that.  Then we’ll see what comes of this feverish notion of yours.”
+It took less than a week for UNIFORCE Paris to send a high-ranking representative all the way from Paris, accompanied by a very curious intelligence officer named Lofton and multiple Quantum Corps types from Singapore base.  Much to Viyawanda’s annoyance, Colonel Monteo Giardano arrived ready to be convinced that Aditi Surat had stumbled onto something critically important.
+
+For several days, researchers at the Mumbai institute, led by Surat, explained and demonstrated the details of the waterspouts-are-wormholes theory, the oceanic and climatological data, the sensor readings, the anecdotal evidence from the Indian Navy.  Throughout the presentations Major Lofton exchanged obvious knowing looks with Giardano, looks and glances and whispered side conversations that Surat and her colleague Dr. Rajeesh Varanasipali couldn’t help but notice.  
+On the third day, Giardano made a decision.
+“Dr. Surat, your theory is intriguing and well supported by the data.  But we need to test it. Before UNIFORCE could use such a ‘device’ as a wormhole, we’d need to know how to use it, how to operate with it safely.  I won’t lie to you.  We’re in a confrontation with the Chinese and their Red Harmony allies over the impact site now and it’s getting worse.  Something’s down there in the seabed south of the Seychelles Islands and the Chinese want to protect it and presumably exploit it very much.  We can’t afford to let them develop a capability that we have no counter or defense for.  With that in mind, I’m authorizing a test of these wormholes…a probe, if you like.  Let’s see if we can send a probe to some other place and time and get it back.  If we can do that, we may have a workable system.  And maybe we can use that to get around the Chinese quarantine of the impact site.”
+Thus, was born a project that came to be known as Vimana, so named for the mythical Hindu flying chariots. 
+ 
+The Indians, with help from Quantum Corps, decided to modify an existing submersible for duty.  Not long after this decision, Giardano prevailed on Viyawanda that the situation was critical enough to make the first test a manned operation.  He made Detachment troopers Cuddy, D’Garza and Acuna members.  The Indians supplied Aditi Surat, from the Institute, along with Raj Varanasipali and a technician named Indie Bilaspur.  Cuddy would command the test hop. 
+Two weeks of twenty-four hours days followed.  The Mumbai shipyard was a beehive of activity as Ops, Engineering, Munitions, and other departments bent to the task of fleshing out the timeship’s design and the details of how it would be employed.  Sherm Cuddy, Stella D’Garza and Robbie Acuna routinely put in eighteen and twenty hour days, working at times in makeshift quarters wargaming every possible detail of the mission, studying topographic detail of the seabed and the Institute’s maps of the waterspouts and vortexes churning in the western Indian Ocean, arguing with engineers and machinists in the shops over Vimana’s design and fittings and how the submarine itself would be rigged out to carry her.  
+Vimana would have a singularity engine, a new development the Indians were very proud of.  Though the design was unconvincing to Quantum Corps technicians, the engineers of the Mumbai Institute were certain of their theory and insistent that the timeship would need such gear.  Viyawanda himself explained it this way:
+“The singularity core is one of our greatest achievements.  It bends closed timeline curves to an infinitely small space, creating a worldline ‘tunnel’…we call it a Lorentz tunnel.  Vimana can create her own wormholes this way…we’ve been testing it on small objects for months now.”
+Colonel Giardano was skeptical.  “It’s not needed.  Your own scientists have calculated the wormhole effects of the deepest waterspouts, like the one called Farpool.”
+But Viyawanda was not to be dissuaded.  “My dear Colonel, it’s not only the vaunted Quantum Corps that can master extreme technology.  Vimana shows that we Indians can do more than just pull rickshas through dirty streets.”
+Giardano let the matter drop.  
+Bit by bit, beams and spars and panels and struts and framing came together and Vimana gradually took shape inside her well-guarded hangar. By the second week, she was powered up for the first time and Cuddy and his crew tested her for fit and function, exercising her planes, rudders and cycling the propulsors on and off.
+The lead engineer was a ruddy-cheeked sunburned Delhi man named Singh, with scarred hands and a booming voice.  He climbed up onto the command deck and sat beside Cuddy in the cockpit, while a trio of electricians pulled wiring bundles through the forward consoles.
+“She’ll be ready for maneuvering exercises next Monday, Sergeant.  We’re hauling her out to the dock over the weekend.  You got a test crew ready?”
+Cuddy was checking off switches and buttons against a diagram he had spread across his knees.  “We do, Mr. Singh.  Half Quantum Corps, half Indian.  I just have to clear it with the Colonel.”  
+Singh nodded.  “Soon as Engineering okays her docking cradle, we’ll load her up and put her to work.  The test range has already laid out a course for you.”  He handed over a map of the range to Cuddy.
+The atomgrabber studied the test course for a few moments, following the track through the ocean with his finger.  The route would take the timeship prototype from a launch point near the outer ring of vortexes surrounding the A-2288 impact site, outside the Chinese blockade line, into the deepest vortex the Institute had mapped, one the scientists were already calling the Farpool.  The test card called for Vimana to penetrate the vortex and try to control her navigation accurately enough to send them to a time just six months away and then safely return.  If the ship and crew could do that successfully, Colonel Giardano and Dr. Viyawanda were prepared to release Vimana for her first real mission…to locate and retrieve the lost quantum troopers Johnny Winger and Joe Vinh.
+“This should put Vimana through her paces, Mr. Singh.  How’s she coming along?”
+Singh shrugged, consulted his wristpad and checked files.  “Power plant full-up test this afternoon, Sergeant.  We’re still tracking down a current leak in the batteries, but that should be fixable.  Tomorrow, we hang her vanes and planes on; they’re powered up in two days.  It’s tight but we’re getting there.”   The Indian shook his head ruefully, patted Vimana’s instrument panel and played with her controls like a child.  “I don’t mind telling you, …up until a week ago, I never thought this contraption would work.  I mean…look at her…it’s not natural doing what she’s doing, going where she’s going.”
+“You mean flying through spacetime…like some kind of ghost?”  Cuddy chuckled.  “Her name fits, doesn’t it?”  The flying chariots of Hindu mythology seemed particularly appropriate.
+“The way I look at it, maneuvering through time is no different than maneuvering through air or water,” Singh lied.  Or, for that matter, atoms and molecules.  “It’s just another medium.  You have to stay focused on the mission, on the target.”  He squeezed the control stick affectionately.  “Vimana’s just your ride to the show.”
+Singh was already climbing down from the command deck, off to check on some parts in the shop.  
+“I’ll make sure she’s a good ride, Sergeant.  Don’t you and your crew worry about that.”
+
+While the submersible Vimana was being modified to perform as a timeship capable of entering and surviving one of the waterspout-wormholes, the crew began feverish training.
+Mission and operational training lasted twelve days.  In that time Cuddy learned a million things he never even knew he didn’t know. 
+Some days were consumed with weapons training.  The crew practiced and gained proficiency in HERF guns (High-energy radio frequency).  They practiced with magpulsers and coil guns, entangled themselves in MOB nets (Mobility Obstruction Barriers…swarms configured to capture and immobilize threats and persons of interest), camou-fog generators and even snap-launched dozens of SuperFly entomopters to learn how (and how not) to give the crew top cover in ground operations.  
+On other days, the Vimana crew practiced squad-level swarm tactics and ops, including clever forms of deception and concealment, feints and diversions, swarming mass attacks, dispersals and entrapment techniques.  
+Through it all, Cuddy found Stella D’Garza’s instructional approach both informative and lively.  After one particularly arduous wargame, he told her, “You seem to have this stuff down pretty well, for a nog.”
+Most cadets fresh out of nog school with D’Garza’s experience would have bridled at the implied insult but the husky trooper with the auburn hair just looked sadly at Cuddy, barely disguised scorn in her eyes.
+“In this world, when you’re female and a nog, you’ve already got two strikes against you.  With all this gear and our ANAD swarms, I get a chance to do a little ass-kicking legally.  Helps relieve the stress, you know.”
+Cuddy didn’t bother D’Garza any more after that.
+Finally, the day came when the training commander decreed that Vimana and her team was ready to ‘graduate.’  That meant it was time for the test jump.  
+The training commander was one Lieutenant Commander Wickes flown in from Quantum Corps Singapore.  Wickes was short, black buzz cut with a trim goatee and arms too long for his body, arms which he flapped around like a bird trying to take flight.
+“Okay, boys and girls, the big day is upon us.  Tomorrow, by 0800 hours, Vimana will have been moved to her launch cradle outside.  The team will board her promptly at 0830 hours.  The test jump is just that…a test.  Nothing more.  An all-up, full-systems test of ship and crew.  You’ll get the details tomorrow but allow me to provide an overview.  Once the Indian Navy task force has put you in the right position, you will launch Vimana  and approach the Farpool on a normal Level 1 approach vector.  You will enter said Farpool and maneuver, as you have been instructed, to exit same at a point in time six months to the minute from now, six months in the past.  You will strenuously endeavor to remain in the vicinity of the Farpool, while you conduct all drills and tests on your test card.  At that point, you will have logged all variances and system excursions, and re-enter said Farpool, returning to your launch cradle or close as you can, whereupon you will be recovered and brought back to the task force.  Is this in any way unclear?”
+“No, Commander!” they all cried out in unison.
+That night, Cuddy slept the sleep of the near dead.
+
+Test jump day dawned in the western Indian Ocean, breezy, humid and warm, with seas running at state three, mild whitecaps and two-meter surf crashing over the hull and conning tower of Vimana’s carrier sub, known as INS Indore. 
+The Vimana crew boarded their timeship in quiet solemnity, each one fully aware of the importance of what they were about to do: plow into the seething heart of a great wormhole-vortex and try to ride the dragon’s tail with enough precision to emerge not only alive but at a specific time and place in the past.  Then run systems checks, conduct exercises and drills and get the hell out of there before they screwed up the time stream any more.
+The test card Wilkes gave them called the time stream they would be navigating T-2278. 
+His last-minute encouraging words were: “Hey, don’t fuck this up, okay?”
+
+For launch, Vimana had been moved in her launch cradle to the huge lockout situated on Indore’s aft hull, now fully exposed to the sea.  Cuddy was last to board, taking his position forward on A deck, along with Pilot/Systems Operator (PSO) Aditi Surat.  Behind them, Navigator-Positioner (NP) Stella D’Garza sat at the nav console.  Eyebrows were raised at a small bag she brought onboard.
+“What’s that?” Cuddy asked, “Your Mom pack a sack lunch for you?”
+“You’ll see,” D’Garza told them.  “Just a little toy for us navigator types, that’s all.”
+Systems tech Raj Varanasipali came aboard right behind Quantum Systems techs Robbie Acuna and Indie Bilaspur.
+Cuddy strapped in and checked his board.  All green, all copacetic and no flags. Vimana had been powered up several hours before, her MHD power plant and singularity core ticking over, humming, now sending a slight shudder through her hull.
+“Ready all systems…stand by for final check and all-call.”
+One by one, the crew came back.
+“Ready, PSO.”
+“Nav is go!”
+“Sys1 ready.”
+“QT1…yo and go!”
+ “Propulsors on line…ease her out, Aditi.”
+Vimana lurched as her MHD jets opened up to one-quarter throttle and she slipped her cradle and surged out into the cross-currents swirling around Indore.
+“Answering one-quarter, handling nicely, CC1.  Fighting cross-currents.”
+“Steady as she goes…steer course zero eight zero.  NP, how do we look?”
+Stella D’Garza checked her boards and instruments.   Active sonar was pinging all around, showing up specks and chirps on her waterfall display.  “Plenty of traffic, CC1, but we’re clear on this heading.  Recommend depth fifty meters.  Farpool outer vortex fields six point two kilometers…ten minutes at this speed.”
+“Very well.”  Cuddy opened up the 1MC to talk to the others.  “Vimana now underway on propulsor.  Farpool in ten minutes.  QT1, advise status of singularity core.”
+Acuna’s voice came back.  “Core on line and ticking at sixty-five percent.  Deco wakes in the green, entanglers humming.  She seems ready for action.”
+Vimana closed the distance to the outer vortex fields of the Farpool in nine minutes.
+It was Surat, slightly green and tight-lipped next to Cuddy, who noticed the first effects of the huge waterspout and whirlpool.
+The Indian climatologist had drifted off into a light doze when a faint tug on the side of the craft startled her awake.
+“Something’s happening—“
+D’Garza patted the Indian on her knee.  “Patience, Doctor, patience…this is normal, I think.  Just relax, okay?”
+“I don’t know, but it feels like we’re moving sideways.”  Surat was glad to be out of the lab and finally onboard but wondered if she was cut out for this.  She plastered her nose to the porthole, trying to make something out.  “It’s silty out there.  Dark too.  Deeper water.  You feel that?”
+Some kind of force was pushing them sideways in the water.  At the same time, the compartment picked up a light shuddering vibration, gyrating like a top at the end of a string.
+“Yeah…we’re at the vortex fields…that’s what’s happening.”
+Surat gripped her seat so hard her knuckles turned white.  “…the water’s all rushing sideways, dirt, pieces of things…I can’t really make it out.”
+“Relax…just enjoy the ride.  It’s better than an E-ticket.”
+The force began to increase, a centrifugal force that soon shoved them to one side of the compartment and pressed them hard against the walls.  Worse, the compartment began a slow roll, a rotation that didn’t remain slow for long, but picked up rate at a steady clip.
+Soon, they were spinning enough to become slightly disoriented and dizzy.  
+“Now, it’s my stomach…I don’t feel so—“
+Surat’s words were suddenly lost in a bright flash of light, a searing, painfully white strobing light that flooded the compartment and blinded all of them.
+“Rudder amidships!” Cuddy ordered.  He thumbed a small dial, straining against the centrifugal force.  “Flow vanes to thirty percent!”
+The spin kept accelerating and moments later, Aditi Surat passed out.
+Seychellean tuna fishermen drifting among the coral reefs of Mahe Island several dozen kilometers to the north of the task force were treated to an incredible sight over the horizon, just before dawn.  Backlit with the orange glow of sunrise to the east, a thin ropy waterspout formed several kilometers beyond the horizon, visible as far south as the northern beaches of Mauritius.  As the spout danced and skipped across the waves, a bright pulse of light emerged from the sea and vaulted heavenward along the length of the spout, followed by a series of light pulses, as if the spout were sucking buckets of light right out of the ocean.
+The light pulses disappeared into low-hanging clouds and vanished, leaving only a faint iridescent flicker, like a silent lightning discharge.  
+Moments later, the waterspout collapsed into the sea and the ocean returned to its restless heaving.  
+Unknown to the residents of Mauritius’ Pelican Point luxury seahomes, the crew of timeship Vimana had just been catapulted into the whirling heart of the wormhole at the very center of the Farpool.  Caught in a roaring, crashing river of infinite eddies and currents of time, they rode the dragon’s tail until NP D’Garza saw her display light up green and called bingo.
+At her signal, Sherm Cuddy slammed Vimana’s flow vanes out full and punched the ship hard over, right into the faint, barely perceptible fingers of Time Stream T-2278.  Like a cocked fist, T-2278 grabbed them and yanked them out of the mainstream and into the midst of a million yesterdays.
+After that, he slumped back in his seat and let the black hole of unconsciousness wash over him.
+
+ Nine months before his very first trip into the Farpool, Sherm Cuddy had been riding his turbobike along the Gainesville Highway, near Scotland Beach, Florida, coming back from a visit with his recovering Dad at Creekside Hospital, when the bike hit a pothole in the highway. Cuddy lost control and somersaulted over the handlebars.  When he thought about this later, he realized just how much time had slowed down in those few airborne seconds.  Like his Dad always said: “It’s not the fall that hurts, it’s the sudden stop at the end.”
+So he had been airborne and basically weightless for a few seconds—not uncomfortably so—then his tumbling body had slammed into the ground inside a culvert adjoining the highway.
+Months later, when he and girlfriend Angie talked about the experience, Cuddy mentioned that going through the Farpool was like that: moments of peaceful weightlessness, almost a dreamlike quality, except for the bright strobing lights outside the porthole and then the sudden stop.  
+It was like having a horse kick the crap out of you.  Or maybe driving your bike headfirst into a brick wall at eighty miles an hour.
+The timeship shuddered and hurtled out of the Farpool in a flash of light, a roaring rush of deceleration, knocking Cuddy and Surat hard against the cockpit windows.  Still trapped in the vortex, Cuddy struggled to regain consciousness and, by instinct and training, rammed the ship’s rudder hard over, while firing her jets to counteract the residual force of the spin.  For a moment, they were both pinned sideways against the cockpit, until the force of the jets shot them through the core of the whirlpool and out into calmer waters.
+Surat had regained something like consciousness, breathed hard, wiping her face with her hands.  She checked the instruments.  
+“Sounding smoother water…rough water but visibility improving.  I can pulse ahead…looks like we made it…somewhere.”
+“And some when,” Cuddy said.  “NP, give me a hack.  Where and when are we?”
+D’Garza was still groggy but functional.  Her fingers played over her board, checking their position and heading.  “Navsats say we’re where we’re supposed to be…I read us at fifty-two degrees east by fifteen degrees north, stable at fifty-two meters keel depth.  I need to get topside to shoot the sun to know for sure.”
+They all knew the test card called for proof they had made their target in time and space, and that proof had to be brought back to Test Conductor Wickes aboard the Indore. 
+“Planing up now,” Cuddy announced.  His nudged Vimana’s joystick controls forward and the ship smoothly hummed upward, ascending through several schools of fish to breach the surface amidst rough waves and heaving froth and spray topside.
+D’Garza was already unfastening her harness, grabbing the small bag she had stashed below her seat.  As she got up, she withdrew the bag’s contents, a spindly metal contraption that earned curious stares from Cuddy, Acuna, even Aditi Surat.
+“What on earth is that?”
+D’Garza smiled faintly, heading for the gangway.  “It’s a sextant, you ignorant twerps.  I’m using it to shoot the sun’s elevation.  If it’s where it’s supposed to be, we’ll have our proof we rode out T-2278 to the right time and place.”
+Cuddy just shook his head.  “The ship’ll do that automatically for you, Stella.  You know that.”
+“Sure, Skipper, I’m aware of that.  But this is the sure way.  What if we lose our instruments, or power?  Sailors have been using this gadget for centuries.  It’ll be a good check on the instruments.”  She hustled aft down the gangway, ignoring more puzzled stares from Varanasipali and popped the hatch on E deck.
+Cuddy went too.  “She’ll never get enough precision in this surf to get a decent reading.”
+But he found that Stella D’Garza was both persistent and skilled in using the ancient device.  Not to mentioned hard-headed.  
+Cuddy found himself holding on to the NP’s lower legs to keep her steady as Vimana rolled and bobbed in the heavy surf.  He could hear D’Garza’s low curses and grunts as she struggled to take a reading on the sun.
+D’Garza eventually ducked back inside with a broad smile on her face.  “I make the sun’s elevation at fourteen-point-two degrees, give or take.  That proves we went back in time, to about late May, same year.  When we left, I took a quick reading from the hangar deck.  Twenty degrees.  Now, it’s fourteen degrees.  The sun can’t be at fourteen degrees unless we’re somewhere in May at this position…ergo we traveled the right time stream and went back.”
+Cuddy chuckled. “I’d be more impressed if we were on an English man-of-war and your name was Captain Bligh.  I’m sure Wickes will be suitably impressed. Get back inside.  I’ll check the instruments and get a real reading.”
+But D’Garza’s sextant readings turned out to be remarkably accurate.
+Over the next few hours, Vimana’ crew exercised their ship and completed all requirements on her test card.
+“Time to head back,” Cuddy decided.  “Stella, give me a heading to the Farpool…and time to next ‘landing.’”
+The NP was so pleased with her sextant that she carried the thing in her lap like a pet poodle, occasionally fondling the device.  “Steer left one nine five degrees.  Next appearance in fourteen minutes…make turns for fifteen knots.”
+Cuddy ran their propulsors up to fifty percent.  Vimana surged forward, then began a shallow descent to fifty meters, ducking below the surf topside to a quieter, more peaceful realm below.  Blurs of schooling tuna and mackerel whizzed and scooted by them as they descended.   
+“If only I had some line and bait,” Robbie Acuna observed through a porthole on E deck.  He strapped himself in at the engineering console, just abeam of the hatch to F deck and the powerplants.  Behind the heavy shielding, Vimana’s singularity core ticked over in its shielded compartment, ready to give the timeship maneuvering power if needed, once they were in the vortex.  “I’d catch me a couple of tuna, flay ‘em open and load up the salt, pepper and lemon….”
+Beside him at the containment station, Bilaspur just shuddered.  “They’re people, same as you and me, Robbie.  Just because you have fins and flukes doesn’t make you somebody’s dinner.”  Just to make sure he got the point, she waved her own arms in his face.
+Acuna was about to retort back, but Cuddy’ voice sounded over the 1MC.
+“QT1, status on power—”
+Acuna changed into a more serious tone.  “Green across the board, Skipper.  MHD on line, singularity core at twenty percent.”
+They both felt the first faint tugging of the outer vortex field grab the ship as she approached the Farpool on a steady course.
+Vimana was headed home.  With any luck, she had passed all points on her test card and was now ready for her first operational mission…a mission to rescue Johnny Winger and Joe Vinh.
+
+Dr. Viyawanda was concerned.  “Even if you make it to the proper time and place, how will you ever locate your colleagues?”
+Stella D’Garza said, “I can answer that.  The Colonel and Joe are both angels, para-human swarm entities.  To maintain themselves, angels have to break bonds and slam atoms big time.  That leaves a trail we can detect…thermal, electromagnetic emissions, even quantum disturbances called decoherence wakes.  We have instruments from our base that are precisely tuned to the signatures of the Colonel and Joe.  We get close enough, we should be able to pick them up.”
+Two days later, situated in her launch hangar on the aft hull of Indore, the timeship Vimana resembled nothing so much as a plump seed ready to be shot out into the water.  All six crewmembers stood by their hatches ready to board when Colonel Giardano and the Mumbai Institute’s Dr. Viyawanda appeared unannounced in the hangar bay with their staff entourage for a final pep talk.
+Giardano was grim, looking like a big bushy tree about to fall over.  “This mission is critical…I don’t have to remind you.  We’re not sure what the Chinese and Red Harmony are up to but whatever it is, we can’t wait to find out.  We need to locate Winger and Vinh, gather what intel they have and do what we can to interfere with the Chinese efforts.   I don’t want heroes from this mission.  I want results.  Don’t take needless chances.  Just get the job done and get back.  That is all.”
+With that, Giardano turned about and left the compartment.  Dr. Viyawanda stayed behind, conversing with the test conductor.  Half an hour later, Indore slipped her moorings and headed out to sea from her Mumbai docks.  The trip to the launch site south of the Seychelles Islands would take three days.
+ “So much for the stirring pep talk,” muttered Robbie Acuna to Stella D’Garza.
+D’Garza nodded.  “Yeah, he sounds like my Scout leader.”
+
+Seventy hours later, Indore had come to all stop at her launch position, hovering at a keel depth of fifty meters.  The waters were turbulent, even at this depth, for the ship was only a few kilometers from the outer vortex fields.  A quick sonar check confirmed the presence of a dozen surface contacts.  “Chinese navy,” explained Indore’s captain Amrit.  “We shouldn’t try to get any closer.  Your Farpool is about three kilometers off our port bow.”
+Cuddy hustled his own crew onboard Vimana and settled into pre-launch checks.
+“Singularity engine?”
+“On line, twenty percent.”
+“Flow vanes?”
+“Set for launch.”
+“Landing gear?”
+“Retracted and stowed.”
+“All call…go or no go…PSO?”
+Aditi Surat came back.  “Go.”
+“Navigator-Positioner?”
+“Go here, Skipper.”
+And so it went. The crew of timeship Vimana, the recovery team, pronounced all systems ready and able.
+Almost before they could think another thought, the command came down from the launch director in Ops.  “Launch!”
+Vimana shot out from her launch bay into the blue-green waters above a nearby seamount and settled herself into stable cruise as she approached the outer vortex fields of the Farpool.
+ “Picking up some vibrations,” Surat announced.  Her hands rested lightly on her controls, as Cuddy was maneuvering the ship to navigate the barrier of whirlpools surrounding the great vortex.  
+“QT1, singularity core to fifty percent,” Cuddy said.
+Indie Bilaspur was on E deck, at the Quantum Tech station.  “Increasing to fifty percent.  All green here.”
+“We’re in a slight roll…fifteen degrees per second,” Surat announced.  “Nulling out all other rates.”  She nudged her own joy sticks slightly, bending Vimana’s course into the very heart of the whirlpool.
+The spin had already started.  By the time Vimana entered the main Farpool, she would be spinning like a bullet in a rifled gun barrel. 
+“Here we go,” Cuddy announced.  “Hang on!”
+The strobing light outside picked up and flashed crazily outside their windows. Sea foam and bubble froth lashed the portholes; hissing and rumbling was soon buried in a crescendo of roaring thunder.  Centrifugal force was now pinning all of them against their seat straps.   
+To Cuddy, trips through the Farpool reminded him of whitewater rafting on fast mountain rivers, without the raft.  He’d never surfed the Big Cahunas on the north shore of Oahu, but he’d done a lot of body surfing off Scotland Beach, Florida.  
+You stick a toe out this way and zoom off in one direction.  Push a few fingers out that way and you go careening off in another direction.
+Controlling a timeship in the crashing maelstrom of the Farpool was like that, he told himself.  
+Like a tasty morsel being swallowed by a very big fish, Vimana spun and gyrated right down the middle of the gullet that was the Farpool.
+“Flow vanes to ten percent!” Cuddy ordered.  “Singularity to one hundred percent!”  It was the singularity core that generated the entanglement field that kept the ship centered in the throat of the vortex.  That was how Viyawanda had once explained it.  Cuddy thought the explanation just made his head hurt.
+The inevitable tunnel vision now closed over the crew of timeship Vimana, squeezing them hard, narrowing their focus and concentration to ever-smaller thimbles of vision…the normal gray-out that happened toward the end of the transit.
+With his final wisps of thought and consciousness, Cuddy tweaked the stick one last time, jamming a few fingers into the big wave and in an instant, just at the right moment, just right NOW!, the claws of the time stream yanked them hard and violently, almost like a barely controlled crash and sent them hurtling at breakneck speed down an infinitely curving corridor through a blinding sleet of polygons and tetrahedrals and cubes and then….
+Then…nothing.
+
+Cuddy felt his entire body slammed forward in a roaring rush of deceleration, blinded by a fierce pulsing light that even made his teeth hurt, and instinctively he held on to the controller tightly, trying to keep it centered, fighting yanks and pulls from every direction, until at last he was reasonably certain they were stable and the spin was falling off.  Still trapped in the vortex, Cuddy rammed the ship’s rudder hard over, while firing her jets to counteract the residual force of the spin.  For a moment, they were all pinned sideways against the cockpit, until the force of the jets shot them through the core of the whirlpool and out into calmer waters.  
+“NP…make sure our flow vanes are retracted.”
+Stella D’Garza came to slowly, breathing hard, wiping her face with one hand, realizing her worry beads were still wrapped around her fingers.  She checked the instruments.  
+“Where the hell are we?”  She checked out the forward windscreen.  “This doesn’t look like T-881.”
+D’Garza was massaging her board, making sure the flow vanes were retracted and scratching her head, perusing readouts too puzzling to believe.  “We should be right at 2057 EUT…give or take.  That time stream was precisely calculated to send us to that time.”
+Vimana breached the ocean surface in an explosion of bubbles and foam and bobbed and rolled in the chop like a fat cork.  It was a bright, sunny day at sea, wherever they were, late afternoon from the slant of the sun’s rays through cumulus clouds overhead.  
+Cuddy craned to see out his windows.  “If I’m right, we’re still in the western Indian Ocean, right where we should be.  QT1, Robbie, you getting anything on your sensors yet?”
+Aft of the command deck, Quantum Tech 1 Robbie Acuna studied his board, looking for the faintest signatures from Winger or Vinh.  For a few long moments, there was nothing: no atom-breaking, no deco wakes, nothing on any band he checked.  Then, the first taste of a signal teased him and he scrambled to home in on the ephemeral ghost of a return.
+There!  Gotcha!
+“Skipper, I’m getting something.  Too faint to get a good bearing.  Could you pivot the ship around…do a three-sixty…and let me check every sector?”
+Vimana responded smartly, pivoting around her vertical axis, to sniff out coupler emissions, thermals, EMs, anything she could find in the ether.
+Acuna rubbed his chin.  “Skipper, best guess…steer left one zero five degrees.  I’m getting a cluster of hits on that bearing.”
+Cuddy made the maneuver and the timeship came about and surged forward on that heading.  “Give me a distance, Robbie.”
+Acuna made the calculations several times.  “Best guess is fifty-four hundred kilometers.  Signals cluster around position one point three degrees north by one hundred four degrees East.  Best I can do for now.”
+Up on Vimana’s command deck, Cuddy and Surat loaded the coordinates into the ship’s nav system.  The answer came back: Singapore.
+“Winger and Vinh must be at Quantum Corps Eastern Command,” Cuddy decided.  “That actually makes sense, sort of.”
+“Except we’re seven years back in time, according to ChronoNav,” said Surat.  “And we have no surface or submerged contacts around us for a hundred kilometers.  The sea is as quiet as she ever gets.”
+“Remember A-2288 hasn’t arrived yet.”  
+Surat was thoughtful.  “Perhaps your colleagues have discovered something.”
+“There’s one way to find out.”  Cuddy ordered Vimana’s propulsors to full throttle.  “With any luck, we can make Singapore base in about four days.”
+
+Surfacing just outside the Pasir Panjang terminal at the port of Singapore, timeship Vimana attracted great attention from the Harbor Patrol and dozens of container ships at anchor in the Sentosa Island roads.  Ordered to heave to by the authorities, Vimana was soon boarded by a squad of inspectors and well-armed Singapore Marines in khaki and blue.
+After the inspection and a few port fees paid by Aditi Surat, the crew of Vimana was allowed to disembark and were taken by Patrol motorboat to the Island, where they were questioned further by a Chief Inspector.  Identifications were offered, well-rehearsed explanations given but the Inspector was convinced Vimana’s crew were pirates or renegade mutineers from one of the container ships.  Moreover, operating submersibles inside Port waters was strictly illegal and there would be an investigation.  The crew would be quarantined at a small lodge-like building operated by the Port Authority.  Once incarcerated and surrounded by guards, Cuddy turned to Acuna, who had managed to conceal his detection gear in the seat of his pants.
+“Well, Robbie, are you still getting a signal?”
+Acuna nodded.  “Very strong.  It’s the Colonel all right.  Vinh’s signature is weaker but they’re both nearby…maybe less than ten kilometers.”
+“Can that gadget send signals as well as receive them, like a coupler?”
+“No, sir, it just receives.  But my wristpad has a simple coupler circuit.  It’s limited in range though.”
+“See if you can contact Colonel Winger on that.”
+Acuna tried over an hour to make contact.  Instead of reaching Colonel Winger, however, he managed to reach the Quantum Corps base commissary exchange.  Through halting snatches of conversation and intermittent contact, the Vimana crew managed to convince enough people to send a party to the Port Authority Customs Building to see what was going on.
+An hour later, the Vimana crew had been sprung from detention and driven off to the base.  Encountering Colonel Winger and Joe Vinh outside the base Ops building, there were hugs, backslaps and handshakes all around.
+“I never thought I’d see a familiar face again,” Winger admitted.  “Joe and I penetrated that Chinese sub and were caught up in a whirlpool.  We wound up thrown back in time.  We’re still trying to figure out how to get back.”
+Sherm Cuddy explained Vimana’s mission.  “Generals Lu and Kincade want us to recover you two and see what can be done to prevent A-2288—that Keeper—from falling into Red Harmony’s hands.  If this is really 2057, the object hasn’t appeared yet.”
+On a brisk walk to the commissary, the troopers and their Indian colleagues discussed several ideas.  It was Stella D’Garza who came up with the best one.
+They all sat around a table snacking on ice creams and beers, while D’Garza explained.  
+“Unless I’ve got my timelines mixed up, object A-2288 is due to arrive in the skies over the Indian Ocean in seven years, right?”
+Everyone agreed that this was true.  D’Garza went on.
+“Both the Colonel here and Joe are angels, para-human swarm entities, right?”
+Joe Vinh said, “Where’s the love…that’s all I’m saying…where’s the love?  You say that like it’s a disease.”
+D’Garza ignored him.  “All I’m saying is that with the object not here yet, and we know it’s coming and where, we have a chance to do something about it.”
+“Like what?” Winger asked.
+“Like you or Joe donating a few of your normal configuration bots toward generating a new ANAD-style master assembler.”
+Sherm Cuddy protested.  “That would take weeks.”
+“So what?  We have seven years.  We’re here at a Quantum Corps base.  They have containment and lab facilities.  I’m a CQE, so I’ve got some quantum engineering smarts.  We have the detachment and the whole base to help us.”
+Winger was intrigued.  “Okay, I’ll grant that, Stella but what does that get us?”
+“Just this: if we can borrow a few bots from you or Joe and generate a full-fledged ANAD-style master assembler/disassembler, we could optimize it for speedy disassembly.  Then load it into a canister and take Vimana back to the exact coordinates, where we already know object A-2288 is due to crash.”
+“We do know when and where,” agreed Cuddy.  “As long as we haven’t done anything to mess up the timeline.”
+“With the canister in place, seven years pass, the big rock or Keeper or whatever the hell it is crashes into the ocean.  The canister is triggered somehow and, if we did our homework and optimized the configuration, ANAD explosively disassembles the object before any more harm is done.  And before the Chinese and Red Harmony can get their hands on it.”
+Winger just stared at D’Garza like she had two heads.  “Stella, sometimes I just want to kiss you.  You know, this might just work.  I’ll run it by General Nigala, the base commander, right now.  We need to get started on this yesterday.”
+“There’s just one small matter,” said Cuddy.  “Not to raise an unpleasant reality, but once the canister is in place, how exactly do we get back to our own time?  We came here by navigating that Farpool.  But there is no Farpool now.  There won’t be until A-2288 comes.”
+Now Robbie Acuna spoke up.  The Quantum tech said, “Didn’t our Indian friends say they had been experimenting with that singularity core…that, if done right, it could be used to create its own wormhole?  Maybe that’s our ride out of here.”
+Winger said, “Robbie, get with Surat and the other Indians.  Find out how that thing works and what has to be done to be ready.  I’ll hit up General Nigala to get us some help generating an ANAD master.  Joe and I are more than willing to contribute a few bots to the cause.”
+The troopers hurriedly finished their ice cream and beer, then left the commissary and went about their assignments with a renewed sense of purpose.
+
+Formally approved by the Singapore base commander, Winger and Vinh went to the Containment building and appropriated a few techs and the necessary lab equipment.  Straightaway, both angels let a few bots spall off their hands, which were then captured into containment and deposited in the control chamber for work to begin.
+Vinh studied the bots on the imager screen.   “My little brothers are in there.”
+Winger scanned the panel displays.  Poised around the periphery of the insulated tank in which the grid was suspended, were three rows of six electron beam injectors each.  At the slightest hint of trouble during replication, Winger would quickly toggle the firing switch on the control panel.  Several billion electron volts of energy would flood the tank, stripping atoms from molecules, and electrons from atoms.  Only a cloud of nucleus fragments would remain.
+"Injectors are ready, Colonel," Vinh told him. “I’ll have to admit I never did this before…creating an ANAD master from scratch.  Never was much of a cook.”
+"It’s all in following the recipe, Joe.  How's our little friend doing now?"  Winger asked.  He slid a chair up closer to the monitor.
+"I think he's a little anxious," Vinh said.  "Quivering with anticipation, if you know what I mean."
+Winger smiled at that.
+In the exact center of the grid, a mass of spherical shapes pulsated with some inner rhythm.  The mass looked like a bunch of grapes, hanging on a trellis.  "ANAD's ready for duty, Colonel."
+“Let’s get started.”  Before them in the center of the display, the barebones assembler that had once been part of Joe Vinh’s angel config hung like an insect trapped on a spider web.  Nested squat cylinders surmounted by multiple arms and effectors, topped by a sensor mast and sporting flagellar propulsors at its base, the device was a simple ANAD-style replicant assembler, one of quintillions that had once been part of Joe Vinh.  Now, under the right conditions, the simple bot staring back at them would be altered, atom by atom, to become a full master replicant, a creation part organism and part mechanism, with a quantum processor, extra memory, a vast archive of stored templates and effectors and propulsors out the ass.
+“Ever done this before, Joe?”
+“Never.”
+“Just watch.”
+The process of generating an ANAD master bot was initially a two-part process, involving building the bot’s core and then activating and animating the assembly with growth triggers, seeding and the proper algorithms.
+The core of any ANAD unit consisted of its memory arrays, buffers, config translator and main processor.  After that had been built and tested came the main platform and actuator mast, followed by the propulsors and sensors and effectors themselves, including such things as pyridine probes, carbene grabbers, enzymatic knives and bond breakers.
+Once the structure had been completed, Winger and Vinh, with help from D’Garza, who was a rated quantum technician and several other lab techs, began the laborious, tedious process of ‘animating’ the bot.  This involved seeding the processor with growth triggers and replication algorithms, then learning-in all the comm centers—acoustic, ELF, EM, quantum coupler, even voice synthesis and analysis, if needed.  Winger decided there was no tactical purpose in giving this master bot voice capability.
+“Who’s he going to talk to?” Winger explained.
+“Probably to himself, like me,” Vinh admitted.
+After several long days of intense work, the new ANAD master--for some reason dubbed Oscar by D’Garza—was ready for basic operations simulation and training.  Oscar’s configuration manager had been optimized for speedy disassembly, since that was his basic mission.  All system inhibits and constraint checks were tested and verified, assuring everyone in the lab that the device was controllable and safe.  Three-axis config changes were demonstrated, likely very important depending on what the Keeper threw at him.  Controlled replication was tested, even under simulated combat conditions.  All final tactical config templates were loaded and one by one, activated and tested.  
+Six days after they had started, late one night, with tropical thunderstorms brewing outside Containment and rolling thunderclaps booming and shaking the walls, Johnny Winger announced that all seemed to be ready.  General Nigala had come by earlier in the evening to witness a simple demo of Oscar’s disassembly prowess and pronounced himself satisfied and amazed at what the little quantum trooper could do.
+Nigala scratched his bald head—he did this regularly—and said, “It’s always been incredible to me that such destructive capability could be housed in something so tiny.  I know the theory and I’ve studied the tactics and strategy of using ANAD systems.  But I keep wondering: is the damn thing a virus or a machine?”
+Winger was cleaning his hands under a beam injector hood.  “Maybe a little of both, sir.  It’s true that much of the earliest processor design by Dr. Frost was based on ancient viral genomes.  But no virus can engage and replicate and assemble or disassemble like Oscar.  Hopefully, we’ve created a weapon that can engage the Keeper when it arrives in seven years and disassemble the thing into atom fluff before Red Harmony finds it.”
+Nigala h’mmed.  “It’s like ANAD is the perfect warrior.  Grown from a virus.  Part organism, part mechanism.  Don’t get me wrong, I think you quantum engineers are the smartest troopers in the Corps.  I just wonder how smart it was to try blending virus genomes with ANAD.  It’s like tampering with evolution, maybe tampering with the future.  They both came from viruses.  As a lifeform, viruses have lived on earth a hell of a lot longer than we have.  They’ve adapted to everything Life has thrown at them.  They’re relentless.  And now what do we have?  With ANAD, an intelligent, programmable virus.  Add in these new capabilities you’ve developed and what does that give you?”
+“An even more intelligent, programmable virus?”
+Nigala just shook his head.  “I’ll give the order for your ship Vimana to be made ready to depart.  You’ve got a long hike out to the impact site…or where the impact site will be.”  With that, the base commander departed, mumbling to himself, still shaking his head. 
+The timeship departed Singapore docks two days later, transported in a dry deck shelter on the aft fantail of the UNISEA research ship UNS Beagle.  The trip would take four days at the ship’s top speed, transiting the Malacca Straits and covering over five thousand kilometers to the southern reaches of the Seychelles Islands.
+The trip gave Winger and his detachment plenty of time to ask a lot of questions about Vimana’s singularity core.
+
+The day was bright, gusty and hot when Beagle arrived on station, near the projected coordinates where object A-2288 would impact in less than seven years.  Johnny Winger discussed their positioning with Beagle’s captain, Lucian Li.
+Li was scanning the horizon with his specs.  “Pretty quiet day at sea, Colonel.  You say all hell will break out here in seven years?”
+Winger nodded.  “An object will fall out of the sky and impact right here.  It’ll settle to the bottom, at the base of a ravine. There will be quakes and tsunamis for hours afterward.  Then, a lot of waterspouts will develop.  And the Chinese and the Indians will be in each other’s face trying to control access to the object.  There will be confrontations at sea with UNISEA…a big mess.”
+Li shrugged.  “I’ll have to take your word for it.  And you’ve got something to keep all that from happening, aboard your little craft?”
+“The craft is actually an Indian submersible.  And yes, we have a small canister onboard, that will make the whole problem go away, seven years from now.  I hope—”
+Li extended a hand.  “I’ll have the crane operator get ready to winch you overboard.  Good luck, Colonel.”
+Winger shook hands.  We’ll need it, he thought but didn’t say.
+Beagle’s crane grappled Vimana and swung the timeship out over the waves, then gently lowered her into the water.  Moments later, Sherm Cuddy, still in command of the ship, ordered half propulsor.  To Stella D’Garza manning the navigation console, he said, “Give me a heading, Stella.”
+Vimana heeled smartly onto the proper course and was soon over the ravine, hovering in dark turquoise waters amidst silvery schools of triggerfish and wahoo at a depth of a hundred meters.
+“This is it,” D’Garza announced.  “After impact, the object will drift down and ride currents right into the bottom of that ravine.”
+Winger and Joe Vinh had already donned hydrosuits outside the lockout on C deck.  They buddy-checked each other and then, one after the other, they cycled through and made their way past lumps of brilliant red and white brain coral down to the bottom of the narrow gorge.  
+“Seems quiet enough,” Vinh remarked.
+“Just wait seven years,” Winger said.  He extracted the ANAD canister, the size of a small shoe box, and carefully placed it on a small ledge scant meters from where D’Garza had indicated the Keeper would come to rest.  
+“That won’t get knocked off in the big pressure pulse?”
+“I secured it to the base of this coral reef.  That thing is damn sharp, by the way.  If all goes well, once our little soldiers are launched, they won’t have to travel far to engage the Keeper.”
+“What triggers the release?”
+Winger fingered a small device at the top of the canister.  “This pressure sensor here.  Once the pressure pulse crosses a threshold value, the port cycles open and presto…instant swarm, optimized for max replication and rapid disassembly.  If we did our homework right, there won’t be anything left of this Keeper but loose atoms.”
+Vinh blinked.  “Maybe a big if.  At least it’s quiet here now.  If I had any real fingers, I’d keep ‘em crossed.”
+“Let’s get out of here,” Winger said.  They made their way back to Vimana and cycled onboard.  
+For the next hour, Winger had a long conversation with the Indians—Aditi Surat, Raj Varanasipali and Indie Bilaspur—about the singularity core.
+“When we were here before—I mean seven years from now—one of those waterspouts, the one that had deepened into a wormhole, took hold of us when Joe and I were inside that Chinese sub.  That’s how we got here.  Same for you guys later.  You’re telling me Vimana’s singularity core can generate its own wormhole, its own Farpool?”
+Varanasipali replied, “It worked in the lab at the Mumbai Institute.  We ran it many times.”
+Surat added, “We even tested it on small objects at sea…Bay of Bengal, off Kolkata.”
+Varanasipali went on.  “It’s a matter of bending the closed timeline curves into a Lorentz ‘tunnel.’  The core can roll local spacetime around itself into a single worldline, then twist it like a string into near infinite density.  Novikov did the equations years ago.”
+“As long as we haven’t changed the local timeline too much,” said Surat, “we should be able to get back to approximately the same time and space as we left…depending on the accuracy of the jump and our ChronoNav guidance.”
+Winger looked at the faces of his Detachment—Cuddy, D’Garza, Vinh and Acuna.  They were expectant, hopeful, maybe a little anxious, but eager to try something, to try anything.  “We really don’t have much choice, do we? Okay, get your singularity core powered up.  Sherm, you’re the pilot of this little craft.  You take the left seat.  Let’s get the hell out of here and go home.”
+Cuddy signaled everyone to take their stations.     He strapped in and checked his board.  All green, all copacetic and no flags. Vimana had been powered up several hours before, her MHD power plant ticking over, humming, now sending a slight shudder through her hull.
+“Ready all systems…stand by for final check and all-call.”
+One by one, the crew came back.
+“Propulsors on line…ease her out, Aditi.”
+Vimana lurched as her MHD jets opened up to one-quarter throttle and she eased her way out of the ravine and surged out into the cross-currents swirling above them.
+“Answering one-quarter, handling nicely, CC1.  Fighting cross-currents.”
+“Steady as she goes…steer course zero eight zero.  NP, how do we look?”
+Stella D’Garza checked her boards and instruments.   Active sonar was pinging all around, showing up specks and chirps on her waterfall display.  “Plenty of traffic, CC1, but we’re clear on this heading.  It’s mostly small contacts, probably fishing craft.  Recommend depth fifty meters.  Projected jump point six point two kilometers…ten minutes at this speed.”
+“Very well.”  Cuddy opened up the 1MC to talk to the others.  “Vimana now underway on propulsor.  Core goes critical in ten minutes.  QT1, advise status of core.”
+Acuna’s voice came back.  “Core on line and ticking at sixty-five percent.  Deco wakes in the green, entanglers humming.  Raj says we may have to go all the way to redline, but she’s ready for action.”
+Vimana reached her jump point in six minutes.
+It was D’Garza, now slightly green and tight-lipped behind Cuddy, who noticed the first effects of the core.
+“Something’s happening—“
+Some kind of force was pushing them sideways in the water.  At the same time, the compartment picked up a light shuddering vibration, gyrating like a top at the end of a string.
+“Yeah…we’re in the vortex field…that’s what’s happening,” muttered Surat.  “We’ve seen these effects before.  The core’s already squeezing spacetime around us.”
+D’Garza gripped her seat so hard her knuckles turned white.  “…the water’s all rushing sideways, dirt, pieces of things…I can’t really make it out.”  She tried to concentrate on what her panel was telling her, what ChronoNav was telling her.  They had one shot to get this right.
+Nobody said anything else.  
+The force began to increase, a centrifugal force that soon shoved them to one side of the compartment and pressed them hard against the walls.  Worse, the compartment began a slow roll, a rotation that didn’t remain slow for long, but picked up rate at a steady clip.
+Soon, they were spinning enough to become slightly disoriented and dizzy.  
+“Now, it’s my stomach…I don’t feel so—“
+D’Garza’s words were suddenly lost in a bright flash of light, a searing, painfully white strobing light that flooded the compartment and blinded all of them.
+“Rudder amidships!” Cuddy ordered.  He thumbed a small dial, straining against the centrifugal force.  “Flow vanes to thirty percent!”
+The spin kept accelerating and moments later, D’Garza passed out.
+Seychellean tuna fishermen drifting among the coral reefs of Mahe Island several dozen kilometers to the north of the jump point were treated to an incredible sight over the horizon, just before dawn.  Backlit with the orange glow of sunrise to the east, a thin ropy waterspout formed several kilometers beyond the horizon, visible as far south as the northern beaches of Mauritius.  As the spout danced and skipped across the waves, a bright pulse of light emerged from the sea and vaulted heavenward along the length of the spout, followed by a series of light pulses, as if the spout were sucking buckets of light right out of the ocean.
+The light pulses disappeared into low-hanging clouds and vanished, leaving only a faint iridescent flicker, like a silent lightning discharge.  
+Moments later, the waterspout collapsed into the sea and the ocean returned to its restless heaving.  
+Unknown to the fishermen, the crew of timeship Vimana had just been catapulted into the whirling heart of a wormhole its own singularity core had just created.  Caught in a roaring, crashing river of infinite eddies and currents of time, they rode the dragon’s tail until D’Garza, regaining consciousness, saw her display light up green and called bingo.
+At her signal, Sherm Cuddy slammed Vimana’s flow vanes out full and punched the ship hard over, right into the faint, barely perceptible fingers of the main time stream.  Like a cocked fist, time grabbed them and yanked them out of the mainstream and into the midst of a million tomorrows.
+After that, he slumped back in his seat and let the black hole of unconsciousness wash over him.
+
+It was Joe Vinh, blinking in strong tropical sunlight streaming in through the porthole, who saw the ship first.  Aditi Surat also saw her and recognized her twin-hull keel, even from several kilometers distance.
+“The Jaipur.  From the Institute.  She’s a research vessel.  We sent her out to observe the impact.”
+After a nerve-wracking few minutes, Vimana was able to raise the ship and make contact.  
+Jaipur replied, “Vimana, heave to and hold your position.  We’ll come alongside and hoist you aboard.”
+Cuddy went back to D’Garza, who was still groggy and stirring.  “What does ChronoNav say, Stella?  Where…and when are we?”
+Together, the two of them scanned the instrument, adjusted its resolution and let measurements flow in. The news was mostly good.  
+“Proper time stream, it looks like.  We came back about twenty hours before impact.  A few kilometers off course, but we’re here.”
+A cheer rose up from the others.  
+“Right about now, the Indian Navy and the Chinese are surging into this area, anticipating the impact and trying to out-position each other to get the best view.”  Her face darkened.  “The confrontation is about to start.”
+Winger agreed.  “And UNISEA will be on station soon too.  But the first shots haven’t been fired…yet.”   He wondered if the ANAD canister was still intact.  They would know soon enough.
+The recovery process took half an hour.  After a quick shower and a hot meal of soup and curry stew, Winger joined Jaipur’s captain on the fantail of the ship.  
+Vihaan Bhatti sipped at strong coffee and tightened his cap against strong winds.
+“Colonel, last word we got from the Institute and our observatory is that the object, this A-2288, is about eighteen hours from impact.  We’re moving to a position far enough away that we should be safe.  My mission is to record the approach and impact, and measure the results.  New Delhi wants numbers and facts.  There are predictions of strong seismic activity and tsunamis from this.”
+“That will definitely happen, Captain,” Winger said, without fully explaining how he could know that.
+“That little ship of yours…she really works?  You can travel back and forth through time in that thing?”
+Winger said, “I’m not sure I understand it myself, Captain.  Your own people from Mumbai Institute could explain it better.”
+Bhatti seemed satisfied, his face wreathed in steam from his cup.  “Indian technology has come a long way.”
+Winger yawned and stretched.  “I think I’ll turn in, Captain.  All this flitting back and forth through time makes me weary.”
+
+The impact of object A-2288 came eighteen hours later, as predicted by numerous observatories around the world.  Winger and Joe Vinh were on deck, with the rest of the Detachment, when the first sighting was called out by lookouts.
+Above them, a fiery point of light had appeared between clouds, backlighting the clouds with an orange-red glow.  A series of shotgun cracks rolled over the Jaipur.
+“Sonic booms,” said Surat, scanning the speeding object with her specs.  
+The impactor left a corkscrew trail of twisted smoke and flame behind it as it plunged deeper into the atmosphere, enveloped in a plasma sheath from its fiery entry.  It coursed across the sky, from horizon to horizon in minutes, growing brighter and larger every second.  A faint hiss could be heard overhead as the object approached the sea surface and disappeared to the west.
+“It’s going to get pretty rough around here in a few minutes,” Surat said. 
+Impact came as a brilliant flash of light, too bright to look at, over the distant horizon.  The roar came half minute later.  Then the waves rolled and crashed around them and Captain Bhatti, anticipating this very moment, ordered Jaipur turned bow on to the oncoming waves.  Huge white foaming breakers crashed over her bow and drenched everyone.
+Impactor A-2288 impacted the earth’s surface at 061510Z, 1 October 2064.  Point of impact was 8N by 58E, approximately one hundred and sixteen kilometers south-southeast of the city of Victoria, in the Seychelles Islands.  The point of impact was located at the center of a triangle between the Madagascar coastline and the Seychellean Island of Mahe.
+At impact, the impactor was moving at an estimated velocity of 16.99 kilometers per second.  
+Energy released at impact was estimated to be approximately 6.04 x 10 exp 16 Joules.  
+Due to the water impact, an estimated 2.35 x 10 exp 6 tons of seawater was vaporized.  Most of the vaporized material was lifted as steam into the earth’s atmosphere.
+Oceanic effects included a series of seismic events and transients, culminating in three succeeding tremors of Richter magnitude 5.4, 5.1 and 4.1, all occurring in the first two hours after impact.
+For an hour, Jaipur rolled and heaved under the surging sea set off by the impact.  As a precaution Captain Bhatti ordered everyone belowdecks and secured into their quarters until the worst of the waves had passed.  Watertight doors were dogged shut.  The ship’s propulsors strained against the surging underwater currents.  Fierce winds and rain squalls flogged the ship until well after sunset, when Jaipur’s instruments showed the intense seismic activity beginning to subside.  Bhatti then permitted crew and selected passengers topside for brief trips.
+Johnny Winger was soon joined by Stella D’Garza, slightly green and pale from all the ship motion the last few hours.   They held tightly to a railing on the ship’s fantail, looking out over a restless sea and an intense glow of red dust and spray-laden air filtering a spectacular sunset.  
+“Colonel,” D’Garza managed to get out, “you should be glad you’re an angel.  You don’t have a stomach to go roller-coaster on you.”
+Winger had to agree.  “All I have to do is shift my configs a little.”  His face darkened.  “Stella, those waves have passed us already.  But they’re heading out in concentric rings everywhere across the ocean.  A lot of people are going to drown in the tsunamis that are coming.  We couldn’t stop that.”
+“No, sir.  But I haven’t seen many waterspouts, have you?”
+“Just a few…there’s one to the southeast now.”
+They watched a thin, ropy snake of a spout appear suddenly, then dance across the waves, and just as suddenly collapse back into the sea.
+“That’s a good sign, Stella…what we’re not seeing.”
+D’Garza understood.  “Not so many waterspouts.  That must mean ANAD was released.  The little guys are battling the Keeper out there…down there.”
+Winger said, “I hope so—” His words were interrupted by a warning klaxon.
+“All hands…intense tremors coming…measuring magnitude six point one…sea states rising…all hands go below immediately…secure all watertight doors—”
+Winger and D’Garza took one last look before scooting down a nearby hatch.  “ANAD’s disassembling the Keeper but the bastard’s putting up a hell of a fight.  I just hope our configs work.”
+“They will, Skipper.  I hope we’ve seen the last of these Keeper things.  They give me the creeps.”
+They dropped through the hatch and slid down the ladder to the deck below like experienced seamen.
+“I’m not sure about that, Stella.  Keepers somehow keep turning up, creating havoc and chaos wherever they go.  At least this one won’t be around long enough to attract conflict like before.”
+As the sea swells surged around Jaipur and the ship rocked and heaved, Winger headed to his quarters for some well-earned rest.  He couldn’t know what threats and menaces Red Harmony still had in store for the atomgrabbers of Quantum Corps, but as he tucked himself into his bunk to ride out the storm, he was sure that more HAVOC wouldn’t be long in coming.
+
+END 
+About the Author
+
+Philip Bosshardt is a native of Atlanta, Georgia.  He recently retired but worked for nearly 25 years for a large company that makes products everyone uses…just check out the drinks aisle at your grocery store. He’s been happily married for over 28 years.   He’s also a Georgia Tech graduate in Industrial Engineering.  He loves water sports in any form and swims 3 miles a week in anything resembling water.  He and his wife have no children.  They do, however, have one terribly spoiled Pekingese dog named Chance. 
+     For technical and background details on his series Time Jumpers, Tales of the Quantum Corps and Quantum Troopers, visit his blog Quantum Corps Times at http://qcorpstimes.blogspot.com.  For details on other books in this series, visit his website at http://philbosshardt.wix.com/philip-bosshardt or learn about other books by Philip Bosshardt by visiting www.smashwords.com. 
+     To get a peek at Philip Bosshardt’s notes and the backstory on how his many series were created, recent reviews, excerpts from upcoming books and general updates on the writing life, visit his blog The Word Shed at: http://thewdshed.blogspot.com.
+      Download the next exciting episode of Quantum Troopers Return from Smashwords.com and other fine ebook retailers.  It’s called ‘HAVOC.’  Available on June 12, 2020.
+
+
+
+
+
+
+ 
+

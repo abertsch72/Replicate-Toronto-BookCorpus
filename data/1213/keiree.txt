@@ -1,0 +1,956 @@
+﻿Keiree
+
+
+C Litka
+
+
+
+Smashwords Version 2 (December 2020)
+©2020 Charles Litka
+
+
+
+
+Thank you for downloading this ebook. You are welcome to share it with friends. This book may be reproduced, copied, and distributed for non-commercial purposes, provided the book remains in its complete original form.
+
+
+If you should happen upon any mistakes, I'd be delighted to correct them. You can email me at cmlitka@gmail.com  Thank you.
+
+Information and news about my other and upcoming books can be found here:
+https://clitkabooks.blogspot.com/
+
+
+Thank You
+I would like to once again thank my wife and friends who spent many hours making this book better than I could have ever made it by myself – and far more fun. I am very grateful to Sally Litka, Hannes Bimbacher, Dale Shamp, Victoria Shamp, Joe Saur, and Walt for their eagle eyes and all their helpful comments.
+
+
+Readers’ Note: Unless specified, “years” in this narrative are Martian years of 668.7 Martian days or 687 Earth days, or little less than 2 Earth years.
+
+
+
+
+Chapter 01 
+
+
+The taste of claustrophobic panic as the pod closed around us clung to the back of my throat. The sharp pricks of pain as Molly’s claws clutched my chest still lingered. And yet, if everything had gone right, those sensations would have been twelve thousand, nine hundred and fourteen Martian years old. But everything hadn’t gone right.
+I knew that without opening my eyes. Still, it took several seconds to know how I knew it.
+Gravity.
+We were not in free fall. We should have been. As the Lead Pilot of Survey Team Two, I should’ve been revived in orbit, in free fall, when the Starwind arrived in Fara V orbit. But as I lay in the pod, I could feel my weight on my back. And the weight of Molly on my chest.
+I drew a long breath and my thoughts raced to our Keiree. Where, how, was she?
+Molly stirred, distracting me.
+She retracted her claws, and freeing herself of my arms, stood, and took a dainty step forward to partially block the light I was sensing through my eyelids.
+‘I’m hungry,’ she said. ‘Feed me.’
+ She actually said, ‘Meooow.’ But in her low, menacing way. Almost a growl. Meter long silka cats can be very menacing when they care to be. Like when they’re hungry.
+‘So am I,’ I whispered. ‘But we may have more pressing concerns.’
+And I’d best face them. I opened my eyes, to see her staring down at me, giving me her most menacing look. It didn’t frighten me. Seven years of Molly’s menacing stares had long since inoculated me from their (idle) threat. No, it was the light panels in the ceiling that made my heart skip a beat. They were a patchwork of intensities and off-color hues. Not good. Light panels are designed to last a lifetime. Or two.
+I cautiously turned my head to the pod’s open side. Soft grey paneled walls. A little further, and I saw a large machine with twinkling lights and a cluster of appendages. A med-machine. I was in a medical-bay. That could be either good, or bad. It told me nothing. I could be anywhere, though the gravity felt like home. Mars.
+Molly meow-growled again.
+‘I can’t feed you while you’re standing on my chest,’ I growled back.
+She obliged by backing off, allowing me to push myself upright, and swing my legs over the side of the pod. 
+I looked around. The full feature med-machine took up one half of the small room. My stasis-pod on a low gurney half filled the other half.
+The large viewscreen next to the door on my left sprang to life. 
+‘Welcome back to life, Lead Pilot Mons, Molly,’ said the man in the viewscreen, with a faint Terran accent. I recognized him – Trey Dan, Team Leader of Survey Team One. 
+‘Where are we, Team Leader?’ I asked. A dumb question. I knew the answer. The question I wanted to ask was, “Why are we still on Mars?”
+‘”When are we?” Is the more relevant question,’ he replied, with a suave smile. ‘But to answer your question. Mars. To be precise, at the NueSky Co.’s Carsoon Cargo Port.’
+NueSky was a cargo handling company and Carsoon was their cargo staging spaceport. I had, on occasion, dropped containers here, in my old job.
+‘The Starwind and the Fara V Expedition never sailed,’ continued Trey. ‘And it appears that the entire Advance Survey Group – all five personnel containers, our spaceboats, aircars, ground transport, and equipment containers were shifted here to await our assigned loading time. Only to be forgotten about for 740 Martian years – something like 1,487 Earth-standard years. 
+‘Three years ago, Beyond Salvage, an Aerrion based salvage company, rediscovered Carsoon and filed a salvage claim on it. I’m now the company’s Team Leader for their salvage operation here.’
+I tried to make sense of it. ‘Why?’ Another dumb question, so I tried again, ‘What happened?’
+‘You’ll receive a full briefing. But briefly, shortly after we were placed in our stasis-pods and packed away here, a solar system wide plague broke out. A bad one. Within weeks it killed 70% to 80% of the population of the solar system. Carsoon was abandoned by its survivors. If any. At some point all the spacecraft and aircars seem to have been flown off, but we were left here and then forgotten about until Beyond Salvage found a record of it and sent a team here.’
+‘How long after we were put into stasis did this plague happen?’ I asked – my thoughts suddenly clear. Keiree Tulla, my wife, had a week of training to go with her First Wave Construction Team after the quantum suppression of the stasis-pod had sent me to never-ever land. 
+‘It appears to have been between 32 and 34 days after we were put into the pods.’
+I breathed a slight sigh of relief. ‘My wife is the Director of the First Wave Construction Team. Have they been revived?’
+He shook his head. ‘I don’t want to be too discouraging, but seventeen members of my team are in a similar position. No one has been able to locate any definite information about the fate of any other expedition personnel. The Fara V Expedition Company simply vanished without a trace – from our perspective today – like countless other companies. Citizenship records have only come back on line for the last 300 years and they have, so far, yielded nothing. 
+‘We can probably assume that everyone who had been put in the stasis-pods prior to the plague, was not revived until a cure was available. But when they would’ve been revived, or if they’ve been revived, is an open question. I’m in touch with my crew, so if anyone finds any information, it’ll be passed along to everyone.’
+I stared at the blank grey wall before me. I had finished my training three subjective days ago. Keiree and I had held each other, and said our goodbyes, two subjective days ago.  And yesterday, Molly and I had laid down in the stasis pod to be consigned to a quantum never-ever land. Today, everything had changed.
+ Oh, I knew being revived would be an adjustment. And I knew that it would’ve been several years after I was revived before Keiree and I would meet again. Her First Wave Construction Team would only be revived once the expedition’s survey teams had certified Fara V safe for settlement. But this was different. The certainty of that reunion was missing. And it scared me.
+‘Right,’ Trey continued, ‘First things first. As it stands right now, you’re likely harboring the fatal fungus in your lungs. It will flower within a month, killing you if not treated. We need to purge it from your body, after which, the med-machine will make several genetic and epigenome mods to eliminate susceptibility to it and similar diseases. We’ll also need to disinfect Molly for spores in her fur.
+‘Once that procedure is over, I’ll give you a complete briefing on where you’ve landed. You’re the last of the four other members of your team whom we’re reviving this month. The day after tomorrow, we’ll head back to Aerrion and you will start a new life on a little older Mars. Shall we proceed, Gy?’
+What choice did I have? ‘Let’s get it over with.’
+‘Good. Though we’ve all been treated and should all be immune, given what happened 743 Martian years ago, we don’t take chances. So please place Molly on the med-machine bed. We’ll flush out and kill any fungus spores that might be lodged in her fur. Once that’s done, we’ll proceed with your more extensive treatment.’
+‘How long will that take? Molly is hungry. Patience is not one of her virtues,’ I asked, using mundane concerns to keep thoughts of Keiree at bay, for a moment, or two.
+‘Her treatment will take only a minute. Your treatment will take six hours. You’ll be put under for that, plus a few more hours for complete recovery. But your team members, Maza Dreu, Xi Van, Lin Rin, and Marsea Fu are here and Xi assures me that Molly is quite familiar with your team. They’ll look after her, while you undergo your treatment.’
+‘Thanks, I’d appreciate that,’ I said. ’She’ll be happy. They spoil her.’
+‘Right. Molly first. Put on the mask that’s on the treatment bed so that you don’t reinfect her.’
+I heaved myself to my feet. ‘Come along, Molly. Let’s get you cleaned up.  Then the gang will feed you.’
+“Feed you” got her attention, and she followed me across the room to the med-machine. ‘Up you go,’ I said, padding the bed. And as she leaped up, I turned back to the viewscreen. ‘Now what?’
+‘Just keep her on the bed. We’ll use air blasts to flush out the spores which will then be killed by the ultra-light.’
+‘She might not like that.’
+‘I’m afraid it’s necessary. It will be over in a minute.’
+Easy for him to say. He was on the other side of a wall.
+Still, it had to be done. I carefully explained to Molly what was going to happen, put on the mask, and took hold of her fore paws to keep her on the table. Since she was a genetically engineered and enhanced cat, she was (allegedly) just as attuned to human language and social interactions as enhanced dogs were. In cats, however, this enhancement rarely showed. She, like all cats, was too proud to let on that she understood me. You just had to take it for granted.
+‘Be brave,’ I said, giving her my sternest look, while appealing to her pride. I knew that asking her to be “good” would get me nowhere.
+‘Right, let’s lift.’
+Luckily, the air blasts at the beginning were gentle enough, so she almost came to enjoy the treatment as they strengthened. The bright, ultra-light sterilizer didn’t seem to bother her. We got through the treatment with only routine mewing protests, likely about me holding her fore paws and not trusting her.
+‘Xi is at the door to collect her and take her to the cafeteria,’ said Trey.
+‘Go with Xi, She’ll get you something to eat. I’ll see you later. Be good.’
+She gave me a sulky “I’m always good” stare.
+‘I mean it.’
+She hopped off the med-machine table and swayed to the door, without looking back. Tail held high.
+The door opened a crack, some air whooshed in, and she slipped out. 
+ ‘Right,’ said Trey. ‘Now, you can remove the mask, and once you strip and place yourself on the bed, the machine can get to work. You’ll awaken in one of the transit quarters in the base headquarters. When you’re up, showered, and dressed, just step out. I’ll have one of my crew waiting for you. I’ll deliver my full “Welcome to Mars” lecture over breakfast. I remember how famished I was after our pre-stasis fast, so I won’t delay that.’
+I did as directed – stripped and laid my naked body down on the cool treatment bed. I was, indeed, hungry. But I felt that I needed the promised oblivion even more.
+ I told myself that it will all work out as the machine sprang to life, and darkness flowed around me.
+
+
+
+Chapter 02
+
+
+
+I awoke in a small room. The bunk was narrow, so Molly was sleeping at my feet. I was even more hungry than before, so I carefully slipped out of bed – Molly opened an eye, and then closed it again – and looked around. Sitting on the built-in desk was the special alloy canister that held my personal property. 
+I stepped over and unlocked it with a fingerprint and code. I quickly pulled out the live-image of Keiree. It showed an image of the Keiree Tulla the world knew – cool and remote, the most brilliant production systems engineer in the world, and the daughter of one of the wealthiest industrial families of Mars. But if I stared at it for several seconds, it changed, ever so slightly, as if she was seeing me from inside the photo. The faintest of smiles would appear on her lips, and in her eyes. My girl is a strange girl. I loved her. I had to find her. Again. 
+It was up to me since I knew that, if it was possible, she would’ve found me, if she had been revived. There were few things Keiree Tulla found impossible. So it was now up to me. I’d best begin. I made my way to the compact bathroom to shower.
+I cut the shower short and dressed in the ex-Fara V survey uniform provided – rugged, but lightweight boots, expedition pants with half a dozen pockets, and a shirt to match. There was also a light jacket in the small wardrobe, which told me it wasn’t winter in the northern hemisphere. I dug out my com-link from the canister and attached it to my wrist, for all the good it did. I could still access the information I had stored on it, but only local links appeared, no global ones. Clearly the Martians hadn’t been maintaining their satellite system. I turned to Molly still apparently sleeping on the bunk. 
+‘Let’s get breakfast.’
+She was up and at my feet in a flash. “Breakfast” being one of the words she didn’t pretend not to know, along with a long list of menu items.
+We stepped out into a long corridor, lit by a couple of failing lightpanels. The promised guide was lounging on a chair at the far end. Seeing me, she waved, and folded and put away her screen as I closed the door to my quarters behind me.
+‘Good morning Gy Mons, Molly. This way… well, we’ll follow Molly to the cafeteria,’ she laughed, as Molly raced ahead.
+ ‘I’ll ping the Boss that you’re up,’ she sang out in an accent I’d not come across before. It seemed that I was very far from yesterday. She waited for me to join her. She was a tall, lanky woman, with traces of youthfulness still seen on her face, in her eyes, and in her smile. She was dressed in a variation of the expedition uniform.
+‘Ora Rin,’ she said, offering her hand with a polite nod as I joined her. 
+‘Nice to meet you, Ora Rin,’ I said, taking her hand and returning her nod with a smile. 
+‘I’m sure you’re finding this all very strange,’ she said as we rounded a corner, and continued down a short corridor where Molly was waiting at one of the doors. ‘But don’t worry. Three years ago Trey was in the same position as you are today, so he understands how you’re feeling. And we’re all ready to help you adjust.’ 
+‘I guess I must.’ Like it or not.
+‘You will. This isn’t the new world you had signed on for, but Trey says that it’s new enough.’
+
+The pale light of the Martian day illuminated the cafeteria. There were five people seated in the sunlight around a table near the wall of large windows. I recognized them all. Three were scientists from my survey team, Van, Rin, and Fu, plus Drue, a systems tech, in addition to Trey Dan. 
+Trey looked up as we pushed through the doors of the cafeteria. ‘Morning, Gy Mons,’ he called out cheerfully, as did the rest of the gang. Ora and I joined them to exchange some ‘Welcome to Mars, again’, and other weak wise cracks. But the thing was, we’d just said our ‘Good Luck, see you in Fara V orbit,’ to each other yesterday for me, and only a few more days for them, so this was no reunion of long lost mates.
+Thankfully, Trey cut it short, with. ‘I’m sure you’ve an empty stomach and a head full of questions. So if you’ll excuse us, I’ll bring Gy up to speed. And turning to Ora, added ‘Thanks, Ora,’ he added, with a smile.
+She nodded, and gave me another cheerful smile as she turned to go. ‘See you around.’
+‘Sure. Thanks, Ora,’ I said, returning her smile.
+‘Help yourself to breakfast. I’ll brief you while you eat,’ he said, with a sweep of his hand in the direction of the large synth-galley machine set in the inside wall.
+Molly was already there and waiting. 
+We walked over, and I read off half a dozen options for Molly, and then went through the list again until she meowed “That one.” It is hard to tell an enhanced cat from one who is not, until it comes to food. She had to hear all her options before choosing. 
+I punched in hers – faux chicken (pre-cut) with a white sauce. And as it was being prepared, I made my choices – Nijah-style faux chicken curry, seasoned rice, and glass of sweet juice and a cup of tea.
+As we waited for the meals to be prepared, Trey said, ‘We never had a chance to sit down over a beer and talk during training. What did you do before signing on? Part of our commitment to you is helping you land a good job, so my question is not just idle curiosity.’
+‘I was the spaceboat pilot, and occasional aircar chauffeur, for Tulla Industries Corp. Chiefly for their Director of Production Processes. Before that I was a lighter jockey for Shan & Co. Orbit Lifters,’ I replied. ‘And you?’ 
+‘I was formerly the Director of Atmospheric Research, Sydney University.’
+‘What landed you here?’ I asked, as I removed Molly’s tray, and waited for mine.
+‘Oh, probably the same reason that landed you here. I looked around, and wanted something different. A challenge. A new beginning.’
+‘In my case, I was running away with my lover, Tulla Industries’ Director of Production Processes, Keiree Tulla.’ I said turning to him. ‘An affair with a chauffeur is one thing. An ex-chauffeur as the husband in the main family line of the Tulla family is another thing altogether. Not that it mattered to her. But I didn’t care to see her treated, the way I knew she would be. I think that we could’ve been very happy on Fara V.’
+‘Oh,’ he said, at a loss for words.
+‘Is Tulla Industries still around?’
+He shook his head. ‘Never heard of them. Most companies failed in the aftermath of the Death, what with staffs decimated and no market for decades.’
+‘Right. I guess I’d best let you get me up to speed. Hopefully that will save you answering a thousand questions,’ I said, lifting my breakfast tray out of the machine.
+‘Well, let’s take a seat. I have my lecture memorized,’ he replied, with a smile, as he directed me to a small table on the far side of the room. ‘But feel free to break in any time with questions.’
+I set the two trays down, as Molly lightly leaped onto the table. Enhanced cats don’t eat on the floor. 
+‘Carry on, Professor,’ as I sat down beside her. Trey sat down opposite us.
+‘It appears that the Expedition Company leased part of a large hangar here to house the Starwind’s survey personnel and equipment. Being the first to be revived, we would have been the last boxes to be loaded. Between the three ships, they had thousands of containers to assemble and lift to orbit in the final few months and they must have shoved the early revival crew containers off to one side. To facilities like this.’
+I nodded again. It made sense.
+‘Carsoon, as you may know, is some 2,700 kilometers northeast of Aerrion. In our day, it was a four to five hours trip from Aerrion by flier. The rail line has long been abandoned as well, so now it’s a day and a half trip in one of our surface rovers and nearly a day’s train ride from Orchard Hill. This remoteness likely explains why we slept undisturbed so long. The opportunities for salvage were too plentiful to venture this far out before Carsoon was lost in memory.’
+‘But not quite...’
+‘Right. The owner of Beyond Salvage, Daeah Kaesoon, is probably the world’s leading expert on pre-Death industry on Mars. Her research turned up the existence of Carsoon spaceport and the likelihood that it had not been extensively salvaged since the immediate aftermath of the Death. Three years ago she led an expedition here and found the survey team and all our equipment. Plus the port’s abandoned cargo handling vehicles, and a variety of other machines which we’re stripping of salvageable parts.
+‘I was one of the first revivees and she hired me to oversee this salvage project, since it involved my team, and yours. We’re not a big company, but we keep a small crew, including a couple of members of my old team working here year round. Every month one of our expedition surface rovers pulls two wagons’ worth of salvage parts back to Aerrion. And every trip, we revive five members of the Fara V teams.’
+‘Why only five?’
+‘So as not to flood the market with people like us, people from pre-Death Mars.’
+‘Flood the market?’
+‘There is a good, but limited market for people like us. Certain companies will pay well for what we know, but there are only so many of them. We want to see that our revivees land the best paying jobs we can find, so we limit the numbers of available people. Companies pay a retainer fee in exchange for first crack at the personnel we revive each month. And keeping the numbers small, keeps them paying. This is a for profit enterprise. Not a rescue mission. But I’ll get to that shortly. Let me deliver my history lecture first.’
+
+
+
+Chapter 03
+
+
+
+It may seem odd that I could sit across the table, eating breakfast as Trey described the terrible death of 75% to 80% of the humans in the solar system. Seeing that it had occurred just weeks after the stasis pod closed around me, it killed most, if not everyone I’d known in my life. But I had already reconciled their death by the time the stasis pod had closed around me. They all would’ve been dead for more than 24,000 earth years when I awoke in Fara V orbit. I had said my goodbyes and made my peace with that fact. So, what happened seven or eight lifetimes ago seemed too remote to affect me. The only loss that would affect me was that of Keiree. I hadn’t conceded that. Not by a long shot. So nothing Trey Dan said, affected my appetite to any measurable degree. The sadness in my heart was self-centered, personal. It had nothing to do with the billions that had died around me while I slept in the never-ever state of the quantum suppression field. Maybe later. Maybe I was just numb. I simply didn’t feel anything.
+‘The Death,’ as it became known, was a fungus,’ began Trey Dan. ‘It had been growing undetected in the lungs of humans, at a low level, for decades, slowly asexually reproducing. Its spores were breathed out, to be breathed in, eventually spreading to nearly every human in the solar system over the course of some 30 to 50 years.’
+‘Undetected?’ I asked between bites of my curry. ‘That doesn’t seem to lift.’
+‘Looking back, the fungus may have been noticed several times, but, you see, it was nearly indistinguishable from other beneficial microorganisms in the human system and seemed to pose no threat. The med unit detected it in your lungs.’
+‘So I would’ve died, had I not been in the stasis-pod.’
+‘Yes,  within a month. Once out of the stasis-pod, the fungus' clock would’ve started ticking again. The thing about this fungus was that it mass flowered. By that I mean that each fungus cell had an alarm clock that triggered flowering in every fungi, in every human, on every world, and every moon, all within a span of ten Earth days. This sudden flowering was characterized by an extremely rapid growth spurt, filling the lungs with a fibrous mass that, if untreated, would suffocate a person within a day. Relatively few could be treated before most died.’
+‘I thought that as a genetically engineered homo-stellar race, we were designed to be immune to things like that.’
+‘In theory. However, to engineer humans to adapt to a wide range of environments, to live two centuries without aging until the last decade or two, and to be immune to every known disease and defect, we had to borrow a lot of genetic material from a lot of places, including plants and microorganisms. It seems that the genetic and epigenomic profile of the fungus passed as native and did not trigger an immune response.’
+‘But not everyone died. Did only the treated and sleepers survive?’
+He shook his head, ‘No. Apparently somewhere between 20% to 30% had inherited a small genetic mutation that made it impossible for the fungus to live in their lungs. This percentage varied from moon to moon, planet to planet, and community to community. On Mars, something like 32% of the population survived the Death with their natural immunity. The moons were hit harder. Earth may have had a slightly better survival rate.
+‘Life and commerce within the solar system quickly ground to a halt. Since the first cases appeared on Titan, and before they knew the exact nature of the Death, an embargo on all space travel and landings was ordered, to halt its spread. But, of course, that did no good, since the fungus had been spreading for decades. 
+‘From what we can gather, the moon systems of Jupiter, Saturn and Uranus fared the worst. The drastic reduction in population in those very mechanically maintained environments likely fatally impacted their ability to maintain their environmental infrastructures. While automated radio transmissions are still received from those moons, they are assumed to be the operation of still functioning AI machines. Human radio contact with the moons of the outer planets was lost within 20 Terran years. 
+ ‘The survivors of the asteroid and other space stations abandoned them for Mars or Terra. The terraformed Moon of Earth seemed to have fared little better than the outer moons, since all communication from the Moon died off within a few Earth years. As for the Earth itself, with its large population, it experienced a nearly complete technological crash from which it hasn’t recovered, as far as we know. It went radio silent a hundred years after the Death and hasn’t been heard from since.
+‘Mars seems to have fared the best. It had a large, but not over large population plus a fully terraformed, self-functioning environment, so that its economic and technological collapse was not complete. Today, Mars still maintains a semblance of solar-system technological standards, though this has been achieved mostly by salvaging its pre-Death resources, as you will discover in the coming weeks.’
+‘Has no one gone back to Earth, or the moons? I can’t believe that every spaceer died in the Death.’
+‘It seems that the Death changed how people think, at least here on Mars. They don’t want to find out. They don’t want to venture into space anymore. Mars is enough, now.’
+He paused, and then continued. ‘I have a thought-teacher with the history of Mars since the Death for you to consume at some point. But if you have any more questions for me...’
+I shook my head no.
+‘Right. On to your more immediate concerns. How do you fit into this new, post-Death Mars?’
+I nodded, but I found myself actually indifferent to that as well. There was only one thing I was interested in. There would be time enough after I had found her to consider how we would fit in.
+‘As a lighter jockey,’ he continued, ‘you no doubt know that passengers in stasis pods are considered a special class of cargo, and as such, they are eligible to claim salvage compensation. Our company, Beyond Salvage, has filed a salvage claim on Carsoom Station with the government of Aerrion. Since the Fara V Expedition Company no longer exists to pay that salvage fee, we can take full possession of all we care to salvage, except the revivees. We are, however, allowed to apply the standard salvage claim for stasis pod passengers from the passengers themselves.’ He paused, and gave me an expectant look, and waited for my objection.
+I took his word for it and waived him on. There would be time enough to deal with that as well.
+‘The salvage fee is 5,000 credits, with an additional 500 credits to register you as a citizen of Aerrion.’ He hurried on before I could object, ‘Our fee includes room and board for 24 days at our expense, to allow you time to find suitable employment, and the citizenship fee will allow you to claim all the citizen benefits of Aerrion, which haven’t changed since the Death. This fee of 5,500 credits can be paid in installments over time, once you are employed.’
+‘In short, indentured servitude,’ I said mildly, sitting back to give Trey Dan a grim smile. I wasn’t concerned. One of the perks of being the husband of a member of one of the wealthier families of Mars is that my personal effects box held several velvet bags of the most expensive gems and jewelry that Keiree’s wealth could buy. They would have been worthless on Fara V for several generations, until surpluses and inequalities arose that would allow luxuries to exist, but she considered them a long term investment to secure our family’s place in Fara V. I didn’t have many personal effects of my own – two of my finest sculptures, one of my mom’s, Keiree’s picture, my com-link, and computer, plus other memorabilia, so I’d have room for those velvet bags of expensive trinkets. Even if they were worth only a tiny fraction of their old value today, I was pretty certain I could raise the 5,500 credits with them without depleting the velvet bags too much. Still, no point advertising that fact. ‘I take it that we don’t have a choice in the matter.’
+‘Well, we’ll not prevent you from leaving us at any time during your association with us. I would not advise doing it now, as the nearest town, Orchard Hill, is over eight hundred kilometers away. And I hope that you’d not consider it once we get to Aerrion either. There are few legitimate employment opportunities for non-citizens, and they don’t pay well. And should you earn enough credits to buy your citizenship, our credit claim is recorded and we’d still collect a portion of your wages until we’re paid. You do have alternatives. Just not good ones. 
+‘We can offer you far better options, if you give us the opportunity. You and your teammates have unique knowledge and expertise to offer, and we have a list of clients who are interested in it.  I don’t know anyone on my team who hasn’t paid off the salvage claim within a year. In short, I can pretty much guarantee that we will find you lucrative employment within 24 days of your arrival in Aerrion if you cooperate with us.’
+‘So what’s the market for spaceboat pilots and aircar chauffeurs, these days?’
+He smiled, and shrugged. ‘Truthfully, there is no market for them. There are probably fewer than a thousand operational aircars left on all of Mars, and they are treated like museum pieces, due to the lack of special alloy parts for the motors and blades. You see, with the cessation of space travel, we no longer have a source for special alloys, nor the foundries on line to reprocess them.’
+‘So how can you promise me lucrative employment? 
+‘Well, my team’s lead pilot, Pas Harria, is our on-site foreman for this project, and several other techs from my team are also working for us. I can’t speak for our owner, but I know that she’s looking to expand operations. I suspect that you’re the type of person she’d be interested in, and we pay well. But if not, or if you’re not interested in what we have to offer, I’m still certain that we can find an employer willing to pay for your pre-death expertise.’
+I’d have 24 days on the company tab to find Keiree, so I had nothing to object to. After that, I’d see. So I just nodded. 
+‘Any questions?’
+‘Oh, I have a lot. But I find that I’m content to see how this plays out.’ 
+‘Good. Talk to Pas and Silla Shore and get their take on things. And don’t forget that three years ago, I was where you are today, so I know how it feels. I’ll do what I can to help you transition to this unexpected life.’
+I nodded. ‘I’d appreciate that. Right now, I’m just too numb to care about my future.’ Except when it comes to Keiree, I thought.
+‘Right, then,’ he said, with a somewhat relieved smile. ‘Here’s the thought-teacher,’ he said drawing the thick headband device out of his briefcase. ‘And the lesson chip that will bring you up to speed on post-Death Mars, that you can acquire at your leisure.’
+
+
+
+Chapter 04
+
+
+
+Molly and I retreated to our quarters. I downloaded post-Death history, but I found that I’d no interest in exploring that knowledge. The thought-teacher implants memories directly into one’s brain, but it fades quickly if you don’t make use of it and in doing so, move it to more permanent storage. I’d probably let it fade away, it wasn’t ever going to be part of my Mars.
+I brought out Molly’s collar from the canister. It was linked to my com-link so that I could, in theory, communicate with her at a distance. But with her being a cat, you’re never sure. I put it on her, telling her how beautiful she looked with it on. I think she believed me. That’s the type of nonsense she’d believe. We then set out to find my counterpart, Pas Harria, to get a real read on what we’ve landed in.
+The nearest exit opened onto a wide terrace, typical of Martian architecture. Stepping out into the mild air, I took a deep breath. It, at least, hadn’t changed in 743 years. Nor had the palest of blue fading to white sky arching overhead. We crossed the weed laced terrace to the railing. Molly leaped to the top of the railing to survey the scene along with me. The port administration building straddled the wide crater’s central hill, so it overlooked the spaceport on one side and its rail transport terminal on the other. 
+ Rockets make a great deal of noise, so spaceports, even small ones, like Carsoon, are located away from cities. Carsoon had a fair sized crater valley all to itself. All around us, in blue in the distance, ran the crater’s ring of hills, clothed in Martian pines and oaks that had been bio-engineered to conquer Mars. The crater valley floor was a mosaic of the greens and golds of the genetically engineered perennial grains and legumes that likewise had made Mars a new Earth. These rugged plants had washed over the spaceport’s runway and loading tarmac, right up to the administration building. Below us, to the west was a ring of large hangars. Their flat roofs were also covered in grass, save for the gaping black holes in them. To the east, the land transport terminal was in no better shape – grass topped concrete warehouses and distended spider-works of cranes and elevators. The rail line was merely a straight shadow line through the grassy sea leading southwest, to those distant hills. Parked just below us was a bright orange, eight-wheeled surface rover with a Beyond Salvage logo, replacing the Fara V Expedition’s logo. 
+There was, however, one curious feature – a large corral with horses had been set up between two of the warehouses. 
+Carsoon was operated by a rival space lift company, so that Molly and I hadn’t dropped many boxes to Carsoon. But even so, it was hauntingly familiar. And not.
+Looking back to the west, I noted the beaten path down the hill to a very tiny looking open door in one of the hangars where I’d likely find the salvage crew.
+‘Come along, Molly, let’s find our mate, Pas,’ I said, turning toward the stairs that ran down to the path.
+The grass on the hill was hip high, the path narrow, and barely broken. Molly complained about that, so I draped her over my shoulders. What else was I good for but to serve The Cat?
+Passing through the doorway in the vast hangar wall, we stepped into semi darkness. At the far end, the milky Martian sunlight slanted into the dim hangar through the open hangar door and the zigzagging series of wide cracks and gaping holes in its concrete roof. The hangar floor was littered with crates, large shipping containers, and hulking, half dismantled cargo handling vehicles. Seven hundred and forty-three seasons of equinoctial dust storms had filtered into the hangar, ending up as little drifts in all the many odd, dark corners. Dust dulled all the undisturbed machines and containers.
+Molly slipped off of my shoulder and bounded forward with the curiosity of a cat. I followed her, and the booted footsteps in the dust, that led to the crew working in the sunlight on the far side.
+ Lined up against the wall on my right, were eight open, skeleton-framed shipping containers, stacked two high. Four of them held one of the expedition spaceboats. The boats I had signed on to pilot. The spaceboat’s stubby wings needed to be attached in order to fly comfortably in the atmosphere, but there they were, as good as new, beneath their coat of dust. Beyond them were four more skeleton-framed containers. Each of these contained two of our large cargo aircars. If what Trey had said was true, they were antiques now.
+ Still, I stopped to admire those poor antiques. Nearly 20,000 years in another future I’d have been flying one of them in the pure air of Fara V. I envied that never-ever me.
+‘Is that you, Gy?’ called out one of the crew on spying me.
+I waved back. ‘Aye!’ And recognizing Pas Harria, I added,‘What are these boats and aircars still doing in their crates Pas?’
+‘Blasted shame, ain’t it!? They wouldn’t be still crated if I had anything to say about it. Even if they couldn’t fly,’ he replied, as he hurried over to take my offered hand.
+‘What’s holding up the show? I hear there’s only a thousand aircars left flying. Why are they still in their crates?’
+‘Well, for the spaceboats, believe it or not, NueSky didn’t install the type of shielded special alloy fuel tanks that could hold hydrogen for 700 years. They’re bone dry. I checked.’ And leaning a little closer, added, in a whisper, ‘Or I’d have had at least one of them set up and flying, orders or not.’
+‘You don’t have that excuse for the electric powered aircars. Those reactor/capacitors were designed to be ready to fire up after a lot longer than 700 years. They’d be better than nothing.’
+‘Aye. Blame that on orders. I was told to keep them packed away for now.’
+‘Why? We could be using them to fly the junk you’re collecting back to Aerrion in hours instead of days.’
+‘Tell me about it, mate,’ he sighed. ‘Thing is, the owner wants to keep them a secret, for now. Our owner is a member of a family that is the salvage and recycling king in Aerrion. I gather that she doesn’t trust her kin not to jump into our business if they got wind of just how potentially lucrative forgotten installations like this one could be. If they did, they’d all be out in force looking for them – with a dozen old aircars they have sitting around in their salvage yards, and we’d be out of luck.’
+‘But she’s got eight brand new aircars sitting right here. Why isn’t she out looking for them?’
+‘A matter of meeting the payroll, Gy. We’re slowly building up a reserve while she searches the old records for the next potentially salvageable facility. It would take more time, crew, and credits than she has to randomly search the high latitudes for abandoned facilities. This one, being in a big grassy crater, would’ve been easy to spot. The smaller craters are likely overgrown with forests, making any facilities in them a lot harder to locate from the air. She wants to know where to look before she sets out, so she’s being cagey, and playing her cards close to her chest. You’ll get the sermon from Trey when you get to Aerrion. But I’m thinking that we’ll get to fly them aircars, at least, sooner or later. So for now, I’m following orders.’
+‘I don’t suppose there’s much of a market for pilots and aircar chauffeurs these days.’
+‘Dead on, mate. When Daeah Kaesoon, the owner, offered to waive her salvage fee, and pay me a decent salary, I looked up, and not seeing anything flying, signed on straight away. If I were you, I’d take a job with this outfit, if they offer it to you. If only to stay close to these birds.’
+‘I’ve got things to do before I sign on with anyone.’
+He gave me a sidelong questioning look. 
+‘I have my girl to track down.’ 
+He nodded. ‘Aye, you do. Well worth it. But not to sound too negative, Gy, but good luck with that. I mean it.’
+‘Yah, I know. Foolish. But I’m sure she’d do the same for me.’
+‘Right. And speaking of girls, where’s Molly?’
+‘She’s off exploring. You don’t have any boy cats around here, do you?’
+‘Not that I’ve noticed. But a word of warning. A lot of pets went feral after the Death – including those big, exotic and illegal pets of the wealthy. Run into any animal in the wild and you can pretty much assume that they ain’t going to heel and fetch sticks, when you say heel or fetch.’
+‘I got a big cat.’
+He just laughed. 
+‘Besides wild beasts on the loose, what’s our Mars like, these days?’ I asked. Like me, Pas Harria was a Martian.
+‘Oh, you won’t get too lost. Lots of things are sort of the same. Everything looks a little shabby around the edges. Don’t expect to get anywhere fast. No aircars, no tube trains, and not all that many places to go anyway. Just the Seven Cities, with four or five hundred kilometers of civilization around them. The rest is empty veld or some kingdom of a former nonconforming society. The ones that survived are larger, no longer regulated or confined to their reservations. Some of them have grown quite large, in fact.’
+‘And the Martian on the street?’
+‘They ain’t changed much. I gotta good crew. Though in general, it seems that half of the ambition of Mars seems to have been drained away. Come on, I’ll introduce you around.’
+I recognized Silla Shore, a tech from Trey Dan’s team, and Ora Rin. There were two other women and five other men, including a youngster by the name of Chu Ma.
+‘Chuie here is our Go Clan apprentice,’ explained Pas. Apparently riding herd on a thousand horses wasn’t exciting enough for him. He managed to convince his old man, the Khan of the Gos, to let him hang with us and learn all about our shiny toys. The idea being that he could fix the few they use, when they fail. At least that’s your story, heh, Chuie?’
+Chu Ma looked rather sheepish, and nodded.
+‘He has, however, earned his pay by teaching us the veldcraft of the Go Clans and how to ride Go Clan horses.’
+‘I was wondering about that corral out back.’
+‘Between you, me, and the gang here, we’ve got a fair lot of free time on our hands out here. It doesn’t take a month to dismantle enough motors and collect enough gear to fill two wagons. Dreary work, and after a day of it, you need a little bit of excitement. And I gotta say, you don’t need an aircar to fly when you give these veld ponies leave to stretch their legs. They hardly touch the ground. Sign on with us, and we’ll get you a fast one, so that you won’t miss the adrenaline of take-offs.’ 
+‘Chuie will have you up and riding a horse in no time,’ added Maza. 
+I smiled. ‘It’s been a few years since I rode a horse, but I suspect it’d come back to me quick enough.’ 
+‘You can ride?’ asked Maza.
+‘I’m the son of three generations of Ming Kingdom parents – one of the old throw-back nonconforming societies. Horses were our major means of travel. I rode’em, and mucked out more than my share of their shit in my youth. The sight of horse apples was one of the reasons I walked into the Compliance Office at the age of seven and said, “Take me away.”’
+‘I never knew you was a dissident, Gy,’ said Pas.
+‘Only as long as I had to be.’
+‘We barter our horses with the Mings at Kingshill Market in the fall,’ spoke up Chu Ma.
+‘So they made it through the Death, did they?’ I replied. ‘It wasn’t the life for me, but I’m glad they survived.’
+I hung out with the gang the rest of the morning, pitching in every now and again, just to be polite. Molly eventually showed up. It was getting near lunchtime. 
+As we walked up the hill for the midday meal, I asked Pas, ‘I gather that you’re in charge here?’
+ ‘I’m still a first mate, Gy. Not that I’m complaining. The Skipper, Trey, splits his time between Aerrion and here. When he’s in Aerrion, I’m in charge, and even when he’s here, he’s mostly here for the revivees.’
+‘Pretty easy berth, eh?’
+‘I ain’t overworked.’
+‘Still, it has to be kind’a boring and lonely out here, with nothing but the veld...’
+‘Boring and lonely, Gy? I’m an old spaceer. You don’t know boredom and loneliness until you’ve spent five months in a tin can between the belt and Earth, staring at screens for eight hours in 24. Though I have to say that winter here comes close. And while it ain’t Earthport at midnight, in every other season there’s a helluva of a lot more things to do than in old, hard space. We got the horses to ride. We ride out to the hills for picnics. We explore the town down the rail line. And you can’t discount that synth-galley in the cafeteria. You don’t find one like that onboard any freighter. 
+‘Plus, we get a month off out of every four to spend our credits.  Yah, it’s a pretty easy berth, mate. An easy orbit that puts credits in the bank while you wait for a chance to fly them aircars, and maybe even the spaceboats someday. There has to be a helluva of a lot of salvageable junk still in orbit, including the three Fara V colony ships.’
+‘Aye. I’ll keep that in mind, Pas, once I find Keiree,’ I said, with a knowing nod. 
+
+Molly and I spent the afternoon exploring the old spaceport on our own. After dinner, we wandered down to the corral to have a look at the ponies.
+They were a sturdy breed, bred to grow fat on the veld, and then to survive the long Martian winters. Still, I had no doubt that they could fly when they felt like it. Like humans, they’d been genetically engineered to retain their Earth muscle structure even in the lighter Martian gravity. They had strength to spare.
+A couple of ponies came over to visit, perhaps expecting treats, but all I could do was rub their foreheads. Molly studied them serenely from her perch on the fence, 
+Chu Ma wandered down to join me.
+‘So you were a Ming when you were young?’ he asked shyly. 
+‘I was.’
+‘They’re doing well. Have a regular empire now stretching to the south and east from their home crater reservation. My father is driving our market herd towards the Kingshill market to sell before winter sets in. The Mings, Zuulas, Czarias, the Englese, and even Seven Cities’ buyers, buy or barter for our ponies.’
+‘I used to travel to the Kingshill market with my dad and uncles. No doubt I saw your ancestors there once or twice.’
+He nodded. And then after a minute or two of silence, studying the ponies, he asked, ‘But you left the Ming Kingdom?’
+‘As soon as I could,’ I replied, and continued, ‘It wasn’t the life for me, and I wasn’t going to convince my father to give me the chance to try any other. I’d a glimpse of what we called the “Modern World” and I wanted to see more of it.’ 
+‘How did you get away?’ asked Chu Ma, rather carefully.
+‘Well, I’ll try not to make an old spaceer’s tale out of it. Our family business is, or rather was, pottery. The men, my father, uncles, and cousins worked the clay, shaped the plates, bowls and vases, and fired the finished products. The women and girls of the family decorated and glazed the pottery. The stars of our business, however, were the very beautiful statues of people and animals that my mother and her sister specialized in.
+‘As luck would have it, I inherited something of my mother’s talent, so that by the age of six, I could make clay animal figures that were good enough to sell. And by that age, my old man had me accompany our trade wagon on our regular trips to Kingshill to do the domestic work, cook, wash dishes, look after horses of the wagon team and the riding horses of uncles, older brother, and cousins who sold or bartered our export pottery.
+‘It gave me the chance to sell some of my own statues on the side, and earn some coins of my own. And with those illicit coins, I bought a library of a thousand stories stored on a cheap thought-reader band. I listened to all those stories in my head, and yearned for the adventures they described. Of course, I had to keep it secret from my family, since “modern” devices like that were forbidden amongst the Mings. And of course, I was eventually found out, and it was taken away from me, though not before I had decided that I wanted to be a spaceer – like Pas Harria.
+‘My old man would not hear of even giving me a chance to explore the modern world. And so, by my seventh birthday, I had decided to strike out on my own. Back in those days, every nonconforming society had a compliance office that made certain that the basic laws of Mars were still upheld within the dissident society. And by law, anyone over the age of seven could go to that compliance office and request a return to the modern world. This was to prevent dissidents from holding anyone against their will. So that’s what I did. After the required education in Aerrion – I chose all tech subjects – I went on to Marsport, determined to become a spaceer. I didn’t get that far. But I did land a berth as a lighter cargo tech, and then a pilot. We lifted cargo containers, like you’re unloading here, into space and transferred them to the orbiting spaceships bound for Earth or the moons of the solar system. Did that for five years before I was offered a job as a pilot for a large conglomerate’s spaceboat. With a spaceboat, I could take you up into orbit and fly you to anywhere on Mars within an hour.  It was a good berth...’  Well, it was who I was flying that made it good. And fun.
+‘Maybe you have that itch to see the modern world too, Chu. If you do, don’t do what I did. Be patient. Talk your folks around, bit by bit, like you seem to be doing now. Grow up before you make any major decisions. You got time.’
+He nodded and said, ‘You signed on to sail away to a distant star.’ It was a statement, but a question as well.
+‘Yah. I was running away again. Do as I say, not as I do.’
+
+
+
+Chapter 05
+
+
+
+We departed for Aerrion after breakfast the following morning. There were nine of us aboard the surface rover, three crew members/drivers, Trey Dan, and my crew. Ten if you count Molly. The 10 meter long, eight-wheeled, ex-expedition surface rover offered a spacious cabin, with six bunks aft, and a dozen comfortable chairs forward. A wide band of clearsteel windows wrapped around the rover, giving us a sweeping view of the veld as it rolled by. It pulled two heavily laden wagons.
+We set out for the crater’s blue-green rim hills along the arrow straight, slightly raised bed of the old railroad. The wagons kept our speed to a sedate rate of 50 kph as we plowed through the grasses that, even with the rover’s large tires and high ground clearance, brushed the sides of the rover. We seemed to be sailing in an undulating sea of grass.
+We passed under the crater’s rim hills via the train tunnel following the bright lances of our headlights for twenty minutes until we emerged once again into the high, thin, blanket-cloud filtered light of the Martian day. 
+Here we found ourselves driving through the eerie wilderness of a small, abandoned town – the former bedroom community for the spaceport. Over the last 700 years, the trees had come down from the hills and conquered the town. Arching Martian oaks, untamed fruit and ornamental, and tall Martian pine trees grew wild between, and even through, the mounds of Martian grape vines that hid the houses in deep green shade. We bounced over the low stumps of trees that had been cleared by the first expedition to reach the rail tunnel.
+Quickly putting the little town behind us, we were once more plowing through the sea of grasses that rolled away to the pale sky, faintly shimmering in the growing warmth of the day. Ahead, the faint shadow of the rail line ran straight to the gently rolling horizon. Behind us, we left our twin wheel lines and the swirling specks of birds that our passage had stirred up.
+We halted at midday to stretch our legs and then climbed to the top of the rover to eat our packed lunches. While the rover had a basic synth-galley, the one at the base was an order of magnitude more sophisticated, so we had prepared enough food to last us the journey, with some to spare. The bright, talkative veld birds were tame enough that they landed alongside of us and panhandled for crumbs.
+After eating, with Molly once more on my shoulder, I walked into the tall grasses, to get some time alone to think, and/or brood. 
+‘You didn’t have much to say this morning,’ said Ora Rin – who was one of the drivers – as she came alongside me sometime later. ‘Do you have any questions at all?’
+ I shrugged, ‘I’ll take Mars as I find it.’
+‘A good attitude, but you might find life quite different than what you’re used to.’
+I glanced to her. ‘Unlike most of the teams, I’m a Martian. Plus, I grew up in a nonconforming society. I doubt any changes will be greater than those I experienced at the age of seven, when I left the Ming Kingdom behind to go to school in Aerrion. Or when I left Aerrion for Marsport.’ I paused, and gave her a grim smile. ‘Now, that was a hell of a change. I had left “modern” civilization behind once again. Marsport is a hard, sharp-edged place, or it was in my day. So you see, I’ve already had to adapt a number of times in my life. I expect I’ll adjust to this Mars quick enough.’
+‘Still, you shouldn’t turn your nose up at the help the company offers.’
+‘I don’t intend to. I intend to live 24 days on the company’s tab. Or rather my tab, since I have to pay for it. But I’ll spend it my way. I have business to take care of.’ 
+She gave me a sidelong glance. ‘At the risk of sounding nosy. What business is that?’
+‘I need to find someone.’
+‘That should be easy, the company keeps tabs on all our revivees...’
+‘Someone from another team altogether.’ I turned to her, ‘My wife is the Director of the First Wave Construction Team. I need to find her.’
+She gave me a quick “Is he crazy?” glance. ‘You realize that it is likely that you’re the last group of the Fara V people to be found and revived? It is only because Carsoon quickly became inaccessible that you slept so long.’
+I shook my head. ‘Don’t buy that. The crew was being put into stasis first, but would’ve been loaded last. And with the expedition in the process of gearing up to its sailing date, something like five thousand cargo containers between the three ships would need to be lifted and loaded in a precise manner. I suspect that what they did to us, they did to all crew containers. And I can assure you, Carsoon is far from the only remotely located lift-off site on Mars that they could’ve used for that purpose.’
+She nodded. ‘I see your point. However, finding sites as remote as Carsoon would be very hard. Most records before the Death were lost because they existed only in information systems that became no longer accessible, and eventually nonfunctional.’
+I merely shrugged. I could’ve told her that she was wrong. But for reasons I couldn’t quite explain, I didn’t feel like sharing what I knew. Instead, I said, ‘You don’t know my wife. If Keiree Tulla had been revived before now, she would’ve searched and found us. You’ll not find a more focused, and determined person than Keiree. She found few things impossible.’
+She nodded, doubtfully. ‘Forgive me, I don’t want to sound too discouraging, but I’m not sure how possible it would’ve been.’
+‘I believe that aircars were plentiful after the Death. It’s my understanding that it has been only in the last couple of hundred years, since spare and salvaged parts became scarce, that you’re down to the point where you need to use a surface rover to reach Carsoon. And trust me, she could afford an aircar at any price.’
+‘She could fly an aircar?’
+‘Everyone could, but if you were wealthy enough, you’d hire me to do so,’ I grinned. 
+‘Time, guys! Let’s get rolling!’ called out Trey from behind us, saving poor Ora from having to find something further to say to this raving madman.
+
+We rolled on through the grass sea. About an hour after our lunch break, Trey called our attention to the subtle changes in the landscape.
+‘Notice how much patchier the shades of grasses are. That’s because we’re entering abandoned farmland. If we were flying over it, instead of driving through it, you would clearly see the outlines of the old fields.’
+He went on to explain to the non-Martians that the veld was composed of several dozen genetically engineered perennial grains, clovers and legumes that were used in the middle stages of terraforming Mars to build the atmosphere and an organic soil. Each plant has an “on and off” switch activated by applying a chemical spray, so that farmers can use chemical sprays to select the one plant they want to grow in a certain field. All the rest would die off. In this way, humans could easily carve farms out of the mix of plants growing in the wild veld. 
+‘There is also an underground irrigation system below us that would’ve greatly increased yields,’ he continued. ‘Those stands of trees we’re seeing in the distance are farmsteads, and/or orchards. And if you look directly ahead, you can see the first of the so-called “Martian castles” – grain elevators. You’ll be quite familiar with them, by the time we reach Aerrion, as they line the rail line.’
+He wasn’t exaggerating. We were never completely out of sight of at least one such castle, either behind or ahead of us all the way to Aerrion.
+‘Will these farms ever be reclaimed?’ asked Xi Van, the microbiologist.
+‘Someday. However, the population is still less than half of what it was before the Death. And something like 12% of Mars’s agricultural products were exported to the moons of Jupiter and Saturn, to supplement their home grown algae/synth based food supply. That market appears to be lost forever.’
+‘Forever? Why forever? Why is it impossible to revive the solar civilization?’ I asked.
+‘It’s not impossible. There are hundreds of spaceships in Mars orbit, including our three colony ships. However, there seems to be no desire on Mars to rebuild the old solar order, or even return to space. From my studies, Earth seemed to have suffered a more extensive collapse than Mars. And since Earth’s resources are largely exhausted, if the solar system is to be rebuilt, it would be by Mars or no one. So that must wait until a new generation arises, with its eyes on the stars. Still, I could easily be wrong. I’ve only been awake for three years, and attitudes may be different in the other Seven Cities.’
+It wasn’t long before we passed one of the Martian castles – a tower block of six weathered and stained concrete grain and bean elevators surrounded by vine covered drying bins and loading sheds. A large flock of birds flew out from under the shed rafters at our approach, and swirled up and around the old grain elevators.
+On the far side of the elevator complex was a small forest of Martian oaks. And like the town of Carsoon, in their speckled shade could be seen vine covered mounds of the long abandoned houses. A similar scene was repeated every half an hour or so –  each time we passed a Martian castle.
+The sky was a continuum of pink, orange, yellow and the palest green when we came upon a farm with a large house not far off the old rail line. We pulled in under the shade of its guarding oaks. It was a typical Martian house – long, low, flat roofed with verandas circling the house on both levels. Grape vines clung to the trellises between the two verandas – or more likely the trellises clung to the old, thick grape vines – while flowers, and flowering shrubs had spread, willy-nilly, across the broad lawn, far beyond their original beds.
+‘We’ll stop for the night here. It’s our halfway house,’ announced Trey as we pulled to a stop. 
+We had dinner from our well-stocked baskets. After dinner we sat on the wide veranda around the second floor, reminiscing until it was dark and we grew tired. I put an effort into being social, but I was glad when it was time to call it a day. There were small sleeping quarters for everyone in the old farm house, so Molly and I got in a good night’s rest.
+We were off again at first light, eager to put the wide veld behind us. By mid-morning, a line of dark blue green had wrapped itself around the whole southern horizon, the rim hill of Orchard Hill’s crater. On reaching the forest clad hills, it took the better part of half an hour to make our way through the tunnel under those hills. On emerging, we found ourselves driving along a dusty road through the patchwork of colors and textures of the gently rolling farm fields. Machines were working in the fields and driving along the dusty roads. There was life in the tree shaded granges of the farms we passed. The still abandoned rail line, now a road, led to the town of Orchard Hill, which was built on the old crater’s central hill. We had reached “modern” Mars.
+Close to midday, we entered Orchard Hill via a sleepy collection of grain silos, mills, oil seed processing plants, sheds and warehouses set in a web of grass-lined streets and sidetracks that we rumbled over. We came to our final stop atop a grass-laced drive-on loading dock alongside the rail freight yard with several flat cars waiting to carry our rover and wagons on to Aerrion.
+Tumbling out of the rover we warily took in Orchard Hill. The residential section of Orchard Hill climbed the hill across the rail lines. It was mostly hidden under its trees. The air was warm and smelled of dusty pavement with the sharp tang from the seed oil cracking plant. The sun was a milky dot overhead. Flocks of birds circled in the pale sky, landing to lunch on little piles of spilled grain that they found on the rough, cracked roads. It was quiet, a quiet only emphasized by the low rumble from a grain elevator loading a rail car on its siding, and the faint sound of a farm hauler pulling wagons into town a couple of blocks away.
+‘Come along, gang. Let’s get lunch. The diner serves real cooked food,’ said Trey, cheerfully, after returning from the small office on the dock.
+“Lunch” got Molly’s attention, and she meowed her approval of the idea, and walked beside Trey as he led us across the tracks to the town’s center. 
+The diner was crowded with workers from the mills and factories, but there was room for us in the warm, dim room, that smelled, invitingly, of real food being actually cooked. The food tasted as good as it smelled, and we revivees lingered over our sweet desserts and coffee after Trey had led his crew away to oversee loading our vehicles onto the rail cars. We were on our own until six, when the Aerrion train was scheduled to depart.
+‘I hear that if you’ve seen one Martian city, you’ve seen them all,’ said Lin Rin, the biologist from Io. 
+There were only a handful of Martians on our team, the rest came from Earth or the Jovian or Saturn moons. They had spent their six weeks of training either at the expedition’s main facility, or in the field in the rugged Tempe Terra region, so they had seen little of Mars.
+‘There’s some truth to that,’ I admitted. ‘Though there are, or at least, were, over 500 nonconforming licensed societies. They could build their cities just as they pleased. Many of them welcomed tourists, so there is variety to be had on Mars, if you strayed onto a dissenting reservation. But Mars does have a standard architecture and city structure.’
+‘Why?’
+‘The founders wanted Mars to be a united and cohesive whole – a single planet-wide society to avoid conflicts arising as the planet developed. Architecture was one of the ways of expressing this desired unity. So there is one broad style of architecture on Mars. The details depend on the type of building. All buildings, both residential and commercial, are built using 3D printed concrete. Larger buildings often have clearsteel facades. All buildings have flat roofs, with long horizontal lines a key feature of their design. As for homes, well, I’d imagine that they’ll be in the standard Martian prairie style, though I’ve never been to a small, rural town like Orchard Hill. I’ve just flown over them. However, from the city map Trey downloaded to our com links, I see that it reflects the typical hex or spider web shape of a Martian urban borough, even if it is distorted by the rail line running through the center of the town, and the steepness of the hill in the residential section.’
+‘Well, if we’re going to see the sights, and Hilltop Park, we’d best be going,’ said Xi Van. ‘I, for one, want to stretch my legs.’ 
+It seemed that Hilltop Park was the one scenic site of Orchard Hill, and with nothing better to do, we set out to climb the hill and take it in, with Molly in the lead.
+The center of town was a semi-circle of shops and restaurants around a tree shaded park that mostly hid the town’s public old, and now useless, aircar parking building.  A couple of short blocks brought us to the street that would lead, with several zigzags, up the hill to the park at its peak. It was dappled in sunlight and shade and lined with neatly trimmed hedges as it stretched up the hill, until it was lost in the overhanging branches of the large old trees in the yards of the houses that lined the street.
+‘This is a typical Martian street,’ I said, as we turned the corner. ‘As you can see, it’s more of a lane or walkway than a street. The standard street, even in large cities, is 5 to 7 meters wide. They’re designed for pedestrians and light wheeled traffic like bicycles or tri-scooters. Only in the wee hours of the morning, are they used by delivery vans to deliver supplies to shops and restaurants. Major cities have – or rather, had – tube trains to carry people swiftly across town, and trams running along the boulevards that separate the boroughs for shorter, inter-borough travel.’
+The lane was lined with typical Martian houses. Most were two stories, with a flat roof that made them look long and low for two stories. The lower level usually had long rows of windows set in the upper third of the wall, with full height clearsteel by the entryway. Paved patio ran under the second floor veranda, often the full length of the house, front and rear, at least until the slope got steeper. There houses were set lengthwise into the hill, with the side yard becoming the front yard
+‘These are fairly typical of houses that you’ll see in the cities. They are, however, set on much larger lots than you find in the cities. And in the cities, a concrete fence bordering the street is more common than these green hedges. City front courts are often paved, instead of the short-growing grass Orchard Hillians prefer. And you don’t often find these big Martian Oaks in the yards. They would be content with small fruit or ornamental trees in large pots in the fore courts.’
+At first, all the houses we passed were occupied, with their owners out working in the garden. Almost all were well maintained – though the concrete was showing the erosion after several thousands years of habitation. There were no newly constructed houses, though those were rare in my day as well.
+‘One thing I noticed,’ I remarked as we climbed further up the hill, ‘is that all the houses now seem to have greenhouses on their flat roofs. Back in my day, we used the roof as another gathering place and a place to park our aircars. There might be some rooftop gardens using pots, but not the big glass houses we’re seeing here. I don’t know if that’s a rural thing, or a post Death thing… The same goes for the large gardens you can see in the back yards. With long winters, even here in the northern hemisphere, we need to grow our food when we can – since we have to live off of synth-galley food if or when we run out.’
+‘Were there a lot of aircars about?’ asked Xi Van, an Earthling.
+‘They were quite common. Most families had one. With Mars’s lighter gravity and earth-standard terraformed atmosphere, electric hyper-fan aircars are, or were, a lot more practical, and affordable, than they would’ve been on Earth. It’s kinda eerie not seeing or hearing them buzzing overhead.’
+Once we started climbing the hill for real, hollow-eyed abandoned houses began to appear. And it was evident where all the clearsteel for the rooftop greenhouses had been sourced. At first, the lots of the abandoned homes had been converted to gardens, with houses often covered in grapevines and fruit trees wired to its walls. And there might be a greenhouse on the roof. 
+All this effort may seem strange, since a synth-galley will convert any biomass into edible food. Gardening, or farming for more than biomass, is unnecessary for survival. However, biomass, synthetic nutrients, and your basic synth-galley will provide little more than the substance of survival. The finer and more varied ingredients used, the more seasonings provided, plus the more sophisticated, and expensive, the synth-galley is, the closer to “real” food it will produce. But real vegetables and cultured or faux meat, fresh cooked, by someone who knew what they were doing, was always tastier. Clearly, the citizens of Orchard Hill valued the difference, and grew their own food in their own gardens and greenhouses.
+The higher we climbed, the more abandoned houses we passed, and the more abandoned they appeared to be. With no neighbors to turn their yards into gardens, they took on an air of picturesque – or haunted – ruins. In the shadows of the arching oaks they appeared as dark, hollow eyed ruins, stripped of windows, draped with thick vines and half hidden in a wilderness of wildflowers, veld grasses, ornamental and fruit trees gone wild. For the final climb, the lane narrowed to a footpath through the grass shooting up from the many cracks in the pavement. On either side stood the elaborate ruins of the grand old mansions of Orchard Hill, now too big, and too far from everything, for anyone to want to live in them. Sad, but romantic, at least according to Xi.
+At last we reached the peak of Orchard Hill, and its short grass park, gazebos, and picnic tables. In the shade of the wind twisted pines and oaks we caught our breath as the trees sighed their sibilant stories of life on Orchard Hill. Below us, the four quarters of Mars stretched away in a crazy quilt of farm fields to the pale haze of the distant horizon and a hint of the blue-green rim hills. 
+‘Can you tell that you’re on Mars, not Earth, gravity aside?” I asked Xi and Marea Fu, our two Earthlings.
+Xi shrugged. ‘It is hard to say. There’s a far greater variety of landscapes on Earth, so there may well be places on Earth that look much like this. But I haven’t seen them. Still, Mars looks pretty Earth-like until you pay attention to the details. Then everything seems a little… strange? Or is it merely unfamiliar? Hard to say. Still, I don’t think I’ll confuse Mars with Earth any time soon.’
+‘It may not be Earth, and it may not be a brand new world like Fara V, but there looks to be work to do here,’ said Marea Fu, 
+‘I hope so,’ replied Xi, staring out into the distance. ‘What do you say, Gy? Disappointed to find yourself still on Mars? 
+‘I was, at first. But, if things work out… I think we could build a good life here. There’s room enough on Mars for any dream.’
+Once I found where beyond that pale horizon Keiree was sleeping, and had awakened her.
+I looked to Molly, at my feet, ’What do you think? Are you happy to still be here?’
+‘Meow,’ she said, looking up. “Yes.”
+
+
+
+Chapter 06
+
+
+
+We made our way down the hill in time to catch the 18:30 train out of Orchard Hill for Aerrion. The train consisted of a massive electric traction unit in faded red livery. It pulled two ancient passenger coaches that featured well worn seats and synth-snack and beverage vending machine forward. The third coach was  “sleeper” with compartments consisting of two narrow bunks, top and bottom, a folding wash basin, and narrow wardrobe. The Beyond Salvage Co., spending our 5,000 credits with abandon, had booked a compartment for each of us. for all the good it did. The rest of the train consisted of grain and flat cars for freight containers that came and went.
+We shared one coach with several families, and a handful of other passengers, most of whom disembarked before nightfall. We talked or watched the farm fields, elevators, and villages slip slowly into night, until we could no longer put off retiring to our sleeping berths. Molly dozed, but I found real sleep impossible, as the train stopped every half an hour, to take on or discharge freight cars with shuttering bangs and unpredictable jerks. Trey assured us that there were actual luxury express passenger trains linking the Seven Cities, but I’d a feeling that “luxury” and “express” were relative terms. In our day, we flew.
+Eventually, the endless night faded to sunrise and we pulled into a station with enough cars that needed shuffling, so we had time to grab a boxed breakfast from a diner across the street from the station.
+All morning the same old farm fields, abandoned and half-abandoned towns drifted by. We still stopped at all the larger towns,  but now we were collecting passengers, rather than freight cars. The farm fields slowly gave way to a series of straggling towns that still showed the hand of the Death in their many abandoned homes and factories lining the rail line. And yet, when viewed from above, as the train rolled along an embankment, there was a green mellowness in the decay. Man had conquered Mars with its rugged perennial grains, and engineered trees, and now they were conquering the Mars that humans had abandoned. Even the occupied parts of the cities had an ancient air to them. They seemed to have aged 7,000 years in the last 700. I couldn’t quite decide on how I felt about it all. But I’d put that off until after Keiree was at my side. And then it wouldn’t matter.
+We had added more passenger coaches sometime in the night, and they were nearly filled by the time we disembarked at Cartia, which I recalled, was an eastern industrial suburb of Aerrion.
+We staggered out to Cartia’s platform-and-kiosk station and stood around, weary, and lost. Once the train rumbled into the tunnel under Cartia’s hill, after leaving most of its freight cars behind, we were treated to a view of a large, grassy overgrown rail yard, and long lines of ancient rail cars. Beyond them rose Cartia’s industrial district. Residential Cartia loomed above us, set on a steep hill that curved over the rail tunnel on our left.
+Trey’s crew once again stayed back to unload the rover and the wagons. Trey led us up the long ramp to a narrow, shop-lined street set in the steep hill. We followed it around, passing a ragged mix of shops and houses, occupied and abandoned, that were set into the steep, wooded hill. On the other side of the street, the hill fell to the weedy rail yard, and beyond, the mills, food processing plants, and light assembly facilities. Given the general air of age and decay that even the occupied homes displayed, I grew even more despondent as we straggled along in a ragged, dispirited crocodile (with Molly in the lead). My mood was not helped by the fact that the thickening clouds were slowly bleeding the color, and with it, the life, from the day. Tomorrow looked to be a scheduled rain day. All rainy days on Mars were scheduled.
+At last, we came to a long, multi-shop building set in the hillside. The building’s five small shops had been combined into one. Their clearsteel shop windows displayed an alluring collection of renovated electric motors in various sizes, power supplies, electrical components, and a wide collection of power tools – the loot of Carsoon. Over the only functional door was a small sign; “Specialty Scientific and Industrial Products.” If my spirits weren’t already on the landing pad, they would’ve hit it with a thump, on seeing our final destination.
+Trey turned to us, as we slowly gathered before him, and said, ‘I know this isn’t very impressive. It’s not meant to be. I can assure you that we’re not in the business of selling to walk-in customers. This is our showroom for local customers. We’ve a salvage yard down in the valley where we renew, recondition, and store most of our salvaged machines. 
+‘We’re a new, and still very small operation in the salvage market. A market dominated locally, by Kaesoon Industries. However, our founder, Daeah Kaesoon is a member of that family and grew up in the salvage business. She knows the business and has planet-wide contacts in the business. We’re a specialty shop, with a lot of special, hard-to-find products, which include some very special people, with very special talents – you.’ He nodded to us. ‘And we have eager customers for all of our products.’
+‘However, at present, our business model of locating and exploiting remote facilities depends on keeping larger potential competitors – especially her family, with hundreds of employees and a dozen functional aircars – in the dark about its potential, while we can put together a team large enough to push further into the great beyond. Director Kaesoon believes that many facilities like Carsoon exist in both the far north and south. That being the case, we’d appreciate it if you say little or nothing about our operation to anyone outside of the firm.’ He looked around to get our nods of acceptance.
+We nodded, and so he continued, ‘Right. Let’s step inside and get you settled.’
+The store was unsurprisingly deserted, save for a fellow in the office in back. Looking up from his work, he greeted Trey with a cheerful wave, and us with an ironic, ‘What can I do for you, ladies and gents?’
+Trey chided him for still having merchandise to sell, since the next load was being unloaded as we spoke. He then asked if Director Kaesoon was in. The fellow shook his head. ‘She left yesterday for Isidia – expects to be gone for two weeks. You’re to proceed with the usual program. She hopes to be back in time to meet everyone before they begin their new lives.’
+Trey turned to us. ‘Right then. I’m sorry that Director Kaesoon is not here to meet you, but hopefully you’ll get to meet her when she gets back. I’ll show you up to your rooms. Once you’ve freshened up, you’ll find our small cafeteria on the second floor. Help yourself. The rest of the day is yours.
+‘Tomorrow we’ll set you up with a company credit account that you can use to purchase clothes and personal items. I’ll also meet with each of you to help you with your resumes. The following day we’ll film an interview with each of you to send along to our clients.
+‘I and most of the crew have our quarters here as well, so we’ll all be around to answer any questions that may pop up during your stay.’ 
+
+After lunch, as tired as I was, I resisted the urge to lay down for a long nap that would likely lead to another sleepless night. Instead, Molly and I took a long walk around Cartia. The hill was rugged, the streets steep, and houses and apartment buildings were often wedged between rocky outcroppings. Tall Martian pines clung to the crevasses of these rocky outcroppings, shading the homes in green-grey gloom. We, or I, at any rate, found nothing to raise my spirits as we walked. Making our way to the top of the western side of the Cartia’s hill, we could see metro Aerrion stretching away to the western horizon in faint patterns.  The haze-paled office and residential towers of Aerrion’s core borough notched the sky. Keiree had a flat on the top floor of one of them, Lark Place. I planned to call on her old flat in the next few days.
+
+From a deep club chair I’d pulled up next to the full height clearsteel window we watched the night settle over the train yard, mills, and factories from our suite on the third floor of the Beyond Salvage building. With the thickening clouds, night came early.
+‘Meow,’ said Molly moodily, looking up at me from my lap.
+‘Tell me about it,’ I replied. ‘This ain’t what we signed up for, is it?’
+‘Meow,’ she agreed, purring softly. 
+‘Got’a deal with it, though,’  I muttered, softly, ruffling Molly’s ears. ‘Once we find Keiree...’
+‘Meow,’ she said, sadly. 
+‘Still, we knew that we’d have to scrape by without her for the first several years. Even after she would’ve been revived, she’d have been too busy for us to see much of her for even more years… This might work out better. This isn’t the Mars we wanted to leave behind.’
+‘Meow?’ she said, looking up, doubtfully.
+‘Don’t be so gloomy. The First Wave Construction Team would’ve been the first revived after us – and they were scheduled to be put in stasis just a week after us. That being the case, they were probably shoved off to some little spaceport just like we were. And if so, we’re in an excellent position to find her. And in a lot less than a few years.’
+‘Meow?’ Still doubtful. 
+‘All it takes is an aircar, and we know where eight brand new ones are, don’t we?’
+She just stared up at me, waiting for further explanation.
+‘Of course I know that they’re not ours. Yet. But you see, we know things. Things that I’m sure the owner of Beyond Salvage would gladly sell us one of those aircars to learn about what we know.’
+‘Meow?’ 
+‘Don’t give me that doubtful, “meow.” Use that enhanced brain of yours. Didn’t we spend five years picking up and dropping off cargo boxes at a hundred private landing fields and factory complexes, and four more years crisscrossing Mars flying Keiree to one factory or another? Director Kaesoon is searching for old records just to find hints of their existence. But I’ve got them right up here,’ I said, tapping my forehead. ‘And I don’t need satellite coordinates to find the spaceports where Keiree is likely stashed away. And given their remoteness, they probably still have more salvageable junk than Kaesoon could imagine.’
+‘Meow?’ Still doubtful.
+‘From what I can tell, present day Martians have long since forgotten about the North and South Hemispheric Heavy Industrial Zones. Ol’Pas, while he’s a spaceer and a Martian, spent most of his career in the asteroid/earth trade, and seems to consider Marsport the only real spaceport on Mars since the ships he served on never called on Mars for cargo. And even if he’s playing cagey, like me, I’m sure we’d stick together to get an aircar of our very own.
+‘Trey Dan is an Earthling, so what does he know of Mars? Pas and I were the only Martians on the Survey Team – Martians, as a general rule were content with Mars. It was the Earthlings who wanted to escape old Earth, and the inhabitants of the subsurface cities of the moons that were eager for a new world with more than a cubicle to live in.
+ ‘So you see, my dear Molly, we’re holding a handful of aces in the form of a hundred remote facilities to plunder – places that we’re going to have to call on to find Keiree in any case. If this Kaesoon doesn’t care to supply us with an aircar, I’ll bet there are other Kaesoons who would. Besides, our price will be cheap – an aircar of our own, and a small percentage of the gross haul from the facilities we locate for her. Beyond Salvage isn’t a charity, and neither are we.’
+‘Meow.’ Still tinged with a little doubt, but then, she’s a cat, and is doubtful about the intelligence of anyone who isn’t one.
+‘We’ll keep this to ourselves until the owner returns. No point giving others the same idea, if they haven’t thought about it by now.’
+‘Meow.’ She was onboard with that. 
+‘Yah, I’m impatient too. Still, we’ve got things to do in the meantime. We need to eliminate the possibility that she was revived already. If she had, she would’ve left messages for us at the places we both know well, her flat, her office, and my flat. And just to be on the safe side, on the remote chance that she would be discovered and revived before we find her, we’ll leave messages for her at those places as well on how to find us. ’
+‘Meow,’ Molly agreed. ‘Meow?’
+‘Our plan? I’ve got some ideas. First, we’ll sign up for that line of credit tomorrow. We could probably sell one of Keiree’s smallest gems and clear our debt with Beyond Salvage, but I think we’ll play things cagey for now. We need Beyond Salvage. I’ll tell Trey that, given flying aircars and spaceboats are not a thing these days, I’d like to wait on any job offer until I talk with Kaesoon. I don’t think he’ll kick about that. With a line of credit we can go shopping for clothes for me, and a backpack for you to travel in, since I know how you dislike dealing with crowds and all those promiscuously friendly dogs.’
+‘Meow!’
+‘And I’ve got some ideas about our calling card, but they can wait until morning.’
+‘Meow,’ she agreed, with a yawn.
+‘Right. Anything else we need to discuss?’
+‘Meow,’ she said, softly, purring. Her eyes all but closed. 
+‘I know that it’s been a long couple of days – on me,’ I said, giving her a hard look. She had no problem sleeping on the train. Sleep was never a problem for her. ‘So let’s call it a day.’
+
+
+
+Chapter 07
+
+
+
+The rain arrived during the night. With the only open water on Mars being the North Polar marsh in summer, Mars relies on cloud machines to pump water vapor into the atmosphere and create the rain that waters the vast stretches of Mars without underground irrigation. Someday, ten thousand years from now, if we keep the terraforming machines running, the North Polar marsh will become a sea, and the southern hemisphere will have great craters and lowlands made into lakes. But until then, the great cloud machines, fed by underground water, and the atom-level engineering of the terraforming machines, create rainy days, on schedule.
+I signed up for a line of credit, and Trey readily agreed to hold off offering me to their clients until the owner’s return. The misty rain freed me of Molly, who disliked rainy days even more than walking in crowds and, maybe, even dogs. So I spent a productive afternoon in Aerrion shopping. 
+I found the inhabited part of Aerrion to be uncannily familiar. Uncanny in that I couldn’t quite put a finger on what was different. Tubetrains had been abandoned two hundred years ago when the necessary special alloy spare parts ran out. However, the trams still ran, and you could still pick up a public bicycle or tri-scooter at every tram stop, to get around locally. But given the sprawling nature of Aerrion, and Martian cities in general, no tubetrains meant that crosstown shopping, like in the old days, was too time consuming to be possible. Luckily, local directories, maps, and ads were still available via my com link, so, I found what I needed within a half a dozen adjacent boroughs. It just took me four times as long as it would’ve taken me a week ago, subjective time.
+My first order of business was to track down a small 3D printer. I found the exact (and now, antique) model I used back in my day, in of all places, the vast retail showrooms of Kaesoon Industries, the salvage people. I ran a diagnostic check on it in the showroom, and it looked to be in excellent shape. The fact that I could simply plug in my design programs and models and use it immediately, made its price, which in credits, wasn’t cheap, cheap. I bought it and put it on hold until I tracked down the printing supplies that I’d need for my project. That took a few more tram rides, and with the day growing late, I picked up some clothes, a satchel, and the backpack before heading home in the dark. 
+Molly and I picked up the printer the following morning and spent that afternoon designing a small sculpture, a version of my “hiding rabbit” motif, that I planned to use as my “calling card.”  Since I had the time, and could lose myself in the process, I spent hours giving each rabbit a distinctive decorative pattern – a welcome respite from alternating hope and despair. 
+
+‘You’ve had another busy day,’ remarked Trey, as Molly and I walked into the cafeteria to join the gang for dinner. ‘We haven’t seen you all day.’ 
+‘Been playing with my new toy,’ I replied. 
+‘Someone said that you came back with a 3D printer.’
+‘Yep. Spending my credit line with abandon. I spent the afternoon setting it up, and designing my calling cards. I’ll actually print them tomorrow, since it will probably take most of the day.’
+‘Calling cards?’
+‘It has to do with Keiree. I need to confirm that she’s not been revived, or left any message for me in our old places. And while I’m doing that, I want to leave a message for her, on the remote chance that she’d come here looking for me while I’m away looking for her. I’ll tell her to contact Beyond Salvage, as I’ll keep you advised on how to find me. Come what may.’
+Trey nodded, somewhat doubtfully, ‘Makes sense. But what do you need a 3D printer for?’
+‘I’m a bit of an artist – 3D printed stylized animal figures. I plan to print out a small rabbit figure to leave at our old places – her flat, my flat, and her office. I want something that she’d recognize as my work on seeing it and would examine it and see my message. That way, years from now, should the people who are living or working in our old places forget its story, she could still receive my message. Plus, I’d like to make something that those people wouldn’t mind keeping on display for Keiree to see, should she call. The figure itself is very simple, but as long as I’m doing it, I figured that I might as well make it look good, with decorative patterns and several layers of glazes. That takes time, so I’ll need a day to print the three. I’ll drop them off the following day.’
+‘Where are these places located?’ asked Ora Rin, who, using her com-link, called up a map of Aerrion on one of the wall screens. She was Aerrion born and raised.
+‘My flat is in Burroughs Borough, SE11,  though, come to think of it, it’s likely abandoned, as it’s an outlying borough. But Keiree’s office is located in Mayfair Office Park NC4, and she had a flat on the top floor of Lark Place, Park Circle High Borough C1.’
+‘Burroughs Borough…’ Ora said, looking at the projected map. ‘Don’t see that one.’
+I stepped over to the wall, ‘It should be right here... What’s with this Ardetorae Park?’ I asked, pointing to where Burroughs Borough should have been. 
+Ora Rin laughed, ‘Oh, my, you used to live in Ardetorae Park? Wow!’
+‘In Burroughs Borough, ring 7 north,’ I corrected her.
+She shook her head. ‘That borough was long abandoned when the Aerrion Council awarded it to Der Von Ardetorae for his services in the aftermath of the Death. I don’t know why he wanted it. He had an extensive estate just beyond the city. But he wanted it, so the city ceded it to him. He then proceeded to build a ten meter high concrete wall around it, and the two other boroughs he got, all the way around to his country estate.’
+‘Huh?’ I asked. ‘That doesn’t make sense.’
+She laughed. ‘No it doesn’t. The official story is that he wanted a safe enclave from the nonconforming tribes who were camping outside of the city. They were making noises at the time about conquering and sacking Aerrion. Something the ancient people they were pretending to be would’ve done.’
+‘Could they have done that?’
+She shook her head, ‘Nah. At best they may have been able to conquer and sack his country estate, but not the city itself. It was mostly just play acting.’
+‘So why did he build such an extensive wall?’ I muttered, shaking my head.
+‘No one knows for certain, but there are rumors,’ she laughed. ‘If you care to hear them.’
+‘Go on.’
+‘It has been said that the wall was to keep in all the terrible monsters his scientists were creating.’
+‘You’re kidding.’
+She shook her head. ‘Nope.’
+‘What sort of terrible monsters?’
+‘Who knows? They, mostly, stayed inside that ten meter wall,’ she said with a broad smile. ‘But it is my understanding that rich people used to have special pets made for them using illegal bio-engineering all the time, back then. So it ain’t impossible.’
+I nodded. ‘Mars was infamous for flouting the laws against unnatural creations. With so much space, things like that could be done, if done discreetly.’
+‘Right. So the story says that being terribly rich, even after the Death, he gathered the surviving bio-engineering scientists and technicians together to create monsters that he could use to defend his property from the so-called savage hordes gathered at his gates. There may be some truth in that story, since one of his companies built automaton servants that people say pushed, if not exceeded a similar ban on creating sentient machine life. So pushing the limits on biological life would not be out of line with his attitude towards the law and what is possible. But then, you might know more about all that, since you lived back then.’
+I shrugged. ‘Well, the Ardetorea family was, indeed, very wealthy. And they did make some of their credits in automatons, as you said. Plus, they were one of the largest construction companies on Mars, so that everything you said was doable,’ I admitted. ‘Though they weren’t into bio-engineering, as far as I know.’
+I paused, thinking back a subjective year or two. ‘I actually met one of the Ardetoreas, Coraj Ardetorea. Not that I traveled in that lofty orbit, but Keiree did. She made a point of promoting my statues to the wealthy clientele she knew. Coraj Ardetorea had purchased one of my fox figures, and Keiree dragged me along to deliver it to her.’
+‘Did they have all the automaton servants they are rumored to have?’
+‘Yes, I suppose. Their Park Lane Automaton Company produced some of the most refined, and expensive, humanoid automatons on Mars. Though I’m certain they were all legal. The designs had to pass certification.’
+‘Ah ha!’ exclaimed Ora. ‘The old rumors were true!’
+‘Still, it hardly follows that they would create monsters and then build an enclosed park the size of half a dozen boroughs just to let them roam free when a big lab cage would be all you’d need.’ 
+‘Why else would they build a ten meter tall concrete wall?’
+‘The threat of those throw-back societies would be explanation enough. Plus, I don’t imagine that he had any other use for all the construction equipment he owned, so why not use it to enclose his entire estate? But what do you say, Lin? Monsters fall within your expertise,’ I asked, turning to Lin Rin, one of our survey team’s exo-biologists.
+Lin Rin roused himself and said, ‘There were always people trying to genetically re-engineer biological creatures. Take Molly here. She is about as extreme a modification that the law allowed. She’s a cat, despite certain mods. She’s the size of a lion cub, but less than half of a lion cub’s mass, plus her exaggerated long legs, her svelte body, long tail and tall ears. And I can assure you, no natural cats had iridescent green-blue fur. But for all that, she’s still a cat… Though I have to say, Molly, one of your ancestors was a little indiscreet, since no silka cat would have your white bib, and that white tipped ear.’
+She gave him a look and a complacent ‘meow.’ Molly wasn’t a snob. She grew up in Marsport. Marsport didn’t breed snobs.
+‘As for designing creatures distinctly different from stock Earth animals, that’s a different story. Making mods based on a working organism is one thing, designing a viable animal from scratch, or close to scratch, is several orders of magnitude harder, if not impossible. Especially, if you want them to be able to reproduce. Mars may have been a hot spot for such experiments, but I doubt that they ever achieved anything more than a one-off, infertile, heavily modified earth animal.’
+‘I bow to your far superior knowledge,’ laughed Ora. ‘However, that is not what people have believed for the last 700 years. Down through the years there have been reports of all sorts of strange, and often frightening creatures having been seen around the boroughs neighboring Ardetorae Park. According to folklore, even a ten meter wall can’t keep all of them in.’
+‘What sort of creatures?’ I asked.
+‘Oh, accounts vary – most, as you can imagine, can climb or fly. And they often appear at night, so I suppose you can dismiss most of them. Still, where there’s smoke, there’s fire. But unless you-- or Keiree – can climb a ten meter wall, I think that you can give your old flat a miss.’ 
+I sighed. ‘I suppose I could make the long trip out to the estate and pitch my story to the current Andetorae family. That’s probably what Keiree, would do, or has done.’
+‘Don’t bother. You’ll be met by their automatons, who will just tell you to go away. They say that the Andetoraes of Andetorae Park haven’t been seen nor heard from in several hundred years. The estate was given to them tax free for a thousand years, and so no one has any business with them – or so the story goes.’
+‘So you’re saying that I might as well just find my way over the wall, rather than call on the country estate?’
+‘I think what she’s saying, Gy, is that you can give up the idea of leaving your rabbit at your old flat since it’s unlikely that your wife would’ve, or will ever be able to find it there,’ said Trey.
+‘You don’t know Keiree. When she sets her mind to something, she sees it through. I doubt a ten meter wall, imaginary beasts, or uppity automatons, would deter her.’
+‘Be that as it may, you might want to consider the other locations first,’ suggested Trey mildly. ‘Where was her office located?’
+‘In the Mayfair Office Park,’ I said, as I glanced at the Aerrion map. It still appeared on the map.
+‘Now, that one is a go. NC4 is still part of Aerrion proper,’ said Ora. 
+‘Right,’ Trey said. ‘And the last one was her flat. Where was that?’
+‘She had a suite on the 40th floor of Lark Place on Park Circle,’ I replied. ‘Which is one of the reasons why I spent so much time on the figures – I needed something that sort of people might be happy to accept.’
+‘Only ghosts live on the top floor of Lark Place,’ said Ora, shaking her head sadly. ‘The towers of Park Circle were abandoned soon after the Death. I would imagine that it was very unpleasant to live among 40 floors of dead inhabitants, or all those abandoned flats once they got around to removing their remains – whenever that was. Plus, they were high maintenance, so that once things like elevators started breaking down, it wasn’t worth walking up 30 or 40 floors for the view. 
+‘And if that wasn’t enough, they, and the luxury shops below the residences, attracted a horde of scavengers who invaded the towers, hauling away what they could of the fine furnishings of the wealthy dead. After that, they just stayed on. Today the descendants of those scavengers still inhabit Park Circle. They’re known as the Ten Tribes. They’re very territorial – very nonconforming. They don’t even get along with each other, much less tourists. Violence is said to be common among them. Trust me, you don’t want to go there.’
+‘Oh, I can’t imagine they’re living 40 floors up either. So leaving my calling card would just be a matter of getting past the tribes at ground level. How far out do these tribes claim?’ I asked. ‘Beyond the ring of aircar garages?’
+Ora shrugged. ‘Not my part of town. But it doesn’t matter since you don’t want to call on the Tribes. They’re not welcoming people.’
+‘I grew up in a nonconforming society. And lived in Marsport. There ain’t a tougher, more tribal city, on Mars than Marsport, at least back in my days. Molly and I got by, by being as tough as we needed to be in order to survive.’ I paused to give them a pleasant smile, and added, ‘As the chauffeur, lover, and husband of Keiree Tulla, whose family rivaled that of the Andetoraes, some of my sharper edges may have been smoothed down. But we’re still pretty tough inside, aren’t we, Molly?’ 
+She gave me a very unconvincing ‘meow.’ 
+‘I understand your desire to locate your wife, Gy,’ began Trey. ‘But it seems to me that her old Mayfair office would be the logical place to inquire and leave your calling card. She may be determined, but I’m certain she’s smart as well, and would certainly check out the most accessible place first.’
+I nodded. ‘I’m sure you’re right.’ But there were arguments against his point as well – the inaccessibility of the other two might mean any message from her from years, or centuries ago, might still be there, unlike the office, with its continuing churn of occupants over the years. But since my mind was already made up, I saw no point in arguing with Trey. He was just looking after their investment.  
+
+
+
+Chapter 08
+
+
+
+‘You’re up early,’ I greeted Ora Rin, as Molly and I walked into the cafeteria the following (early) morning – suspiciously early for a girl who was on her month long leave.
+‘Oh, I always like to get an early start on the day,’ she replied, with an innocent smile, knowing that she was fooling no one.
+I let that slide and punched our breakfasts into the synth-galley.
+‘So you and Molly are off on your adventures today,’ she remarked as I set the tray down across the table from her.
+‘Yep. We’ve a train to catch in half an hour that will take us into the city.’
+‘Plan on looking into all of the locations?’ she asked, watching me closely.
+‘Yep.’ I’d no reason to lie.
+‘Mind if I tagged along?’ she asked, apparently not one who likes beating around the bush.
+‘Why?’
+‘Let’s say I’m curious.’
+‘Right. Trey put you up to looking after his 5,500 credit investment.’
+She shrugged. ‘We talked. But really, I was already curious about what you’ll find. He thought that I might act as your guide. Honestly, I was hoping to be able to tag along with you guys even before he brought it up. I’d hate to miss a peek into Ardetorae Park if you can actually swing it. Call it a childhood dream. And exploring the old towers sounds kinda exciting as well. So he didn’t have to twist my arm. I’m all in.’
+I gave her a measuring look. Molly and I didn’t need company. And I didn’t want to have to worry about an unnecessary third person. But then, I could sense a streak of toughness in her. I suppose that you wouldn't take a job with Beyond Salvage if you weren’t tough, independent, and willing to run risks.
+‘Please? If I don’t find something to do, I’ll get so bored that I’ll end up restoring motors down at the other plant. I’d much rather hang with the two of you for the day. It might not be as boring,’ she added with a laugh.
+Why not? I’d the impression that she could be relied upon, though she was always cheerful. I’d have to put up with that.  
+‘Molly and I are determined to complete the program I described the other night. You won’t be able to talk us out of it, if that’s Trey’s plan. I’d prefer that you just waited for us outside the wall or Lark Place. But if you choose not to, you have to take whatever we find.’
+‘Right. Trey’s the one who’s worried about you. I’m just looking for some excitement.’
+‘I’m not.’
+‘If you follow your plan, you are,’ she replied, cheerfully. ‘Eat up, we’ve a train to catch.’
+
+We didn’t have long to wait for the train in the crisp, early morning air. It was a passenger train that filled up with commuters as we went along. I had brought along the backpack for Molly, and a satchel for my rabbit figures, a bright beam lantern, and some tools, including a plasma cutter for housebreaking, if needed.
+ The train line ran through a deep cut through Cartia’s hill, and then carried on as an elevated line through the suburban shops, factories, and homes before entering a vine-walled trench that traversed the city. 
+We disembarked at Crane’s Moon Borough Station, EC12, and waited for the next tram to take us south, towards what had been Burroughs Borough. This part of the city was much like I remembered it being, but older, more weathered and worn, with the occasional abandoned home. The most noticeable change was that the constant buzz of aircars overhead was missing, and the flat roofs of the houses were no longer used to park them. Most of them, like in Orchard Hill, sported glasshouse gardens where the aircars used to be parked. Many still had the colorful, though often weathered canvas pavilions for summer living that I’d known. At first, as the tram wove along between the boroughs, I noticed few abandoned houses and apartment buildings, but with every borough we passed more and more of the homes were empty. 
+ Ora and I talked, mostly of the Aerrions we knew, and the similarities and differences. Idle chatter, nothing worth recording.
+We rode the tram to the end of its line, two boroughs short of Ardetorae Park. We grabbed two of the community use bikes and set out with Molly riding in the front basket of my bike, leading the way, in her mind. 
+Beyond the tram terminus, the wide boulevard narrowed. Grass covered banks of drifted dust filled in the street from the abandoned shops that lined the boulevard. And with a thin layer of dust across the remaining pavement, it took on the look of a dusty country road. Old trees including large Martian oaks arched overhead when we passed the abandoned little parks where the boulevards met.
+The subtle sounds of the inhabited city receded, leaving only the bird calls from the wild growing trees and bushes that had claimed the abandoned city to puncture the growing silence.
+‘How did you meet Keiree?’ Ora asked as we wove our way down the silent dusty lane. 
+ ‘It was because of my statues. Two large cat statues. Molly, of course, is my model for all my cat sculptures and I had done two half-sized ones of her, but not like her – my animals were more decorative than natural looking. They were my best work, and I had no intention of selling…’ I paused, and then continued, ‘I’d best start at the beginning. After I landed my job as a lighter pilot I usually had several days off between jobs. And with time on my hands, I decided to revisit my old craft.’
+‘Old craft? You were an artist before you were a lighter pilot?’
+‘Well, I come from an artistic family,’ I began, and spun my tale of my youth.
+‘… Now, I make no claim to being much of an artist. I’m, however, a good craftsman in one narrow line of work – animals, abstracted and idealized.  Now, if I would’ve had to work with clay to make my figures, it would’ve taken me a decade or two to do what I can do today. But software and 3D printers eliminate the actual physical manipulation of medium by hand, allowing me to concentrate on crafting the figure itself. By printing in layers with different mediums, I can accomplish what my mother and aunt did with decorated painting and glaze in a fraction of the time. In short, by drawing on the art I was familiar with in my youth, and using modern technology, I can produce some fairly unique pieces of art.
+‘By and by, I joined an art society in Marsport. Winter is long and cold in Marsport… It kept Molly and me off the streets and out of the dives. Plus, one fateful day it landed me in the lobby of the Palace of Mars Hotel, the premiere hotel in Marsport, as part of a one-day art show organized by the society. I set up my table, set out my figures, and brought along my two masterpieces, those two large cat sculptures to draw some attention. I had no intention of selling them, but to be in the show, they needed to be available for sale, so I put, what I thought, was a ridiculously high price each of them – 100,000 credits. All my smaller pieces were much more modestly priced. This was my first venture at selling them, so I didn’t know what to expect.
+‘As it turned out, Keiree Tulla was passing through the hotel after visiting one of her family’s orbital factories. She stopped at my table, perhaps more attracted to Molly, who was perched amongst my work, acting like my barker to attract interest, and doing a good job of it, too. 
+She made some “how do you do?” cat sounds to Molly, who kindly let her pet her. I greeted her, and she just looked at me, absently, and nodded with a professional smile. ‘Her name is Molly,’ I said, and she nodded again, with just a faint, but more authentic smile, to Molly.
+She continued to pet Molly as she studied my pieces. I asked her if she had any questions, but she just shook her head, no. I told her not to be afraid to pick any one of them up to look at it closer, and then let her just look. She stood silently ruffling Molly’s ears, studying my pieces for perhaps five minutes before nodding to me, saying something to Molly in cat talk and walking off. 
+‘Well, I sold a number of pieces, but of course not my masterpieces. Then, just as I was starting to pack away the rest, the silent lady returned. She greeted Molly again, who ‘Meowed’ to her like an old friend.
+‘“I’ll buy the two cat pieces,” she said, quietly. 
+‘These two?’ I asked, pointing to the last two little cat figures I had still on the table. 
+‘“No, these two,” she said pointing to the large cat statues. The ones I didn’t want to sell. As you can imagine, my jaw dropped, and I blinked, several times before asking her, ‘Are you sure. They are 100K credits, apiece, you know.’
+‘“Yes,” she said. “If you will give me your credit link, I will transfer the credits.”
+‘What could I do? While I didn’t want to lose my masterpieces, the terms of the exhibit was that everything had to be for sale. So I asked again if she was certain. ‘I really wasn’t planning on selling them.’
+‘“But they are for sale, correct?” she replied. 
+‘Well, yes, I guess they are.’
+‘“Your credit link, please,” she said, watching me. 
+‘So I gave her my credit link. I was two cat sculptures poorer and 200K credits richer.
+‘As I was carefully packing up the figures, she said, “Make six more statues of that size and quality, and when you are done, contact me. I believe that they can be sold for twice the amount I have paid. I sent along my contact information.”
+‘I didn’t know what to say, so I just mumbled a ‘Thank you,’ or some such thing. When I had them packed, I asked if she needed help carrying them, but she said no, and nodded to a fellow in the lobby behind her, who stepped forward and collected them. 
+‘She then said goodbye to Molly, and turned to me, and said, “I am looking forward to meeting you again, Gy Mons.”
+‘Yes, of course, Lady Tulla,’ I said, knowing her name only from the credit transfer. ‘Thank you. I hope you enjoy them.’
+‘“Yes, I will,” she said, and walked away.
+‘And that’s how we first met. I contacted her a few days later and told her that I wasn’t interested in producing art on a commercial basis...’ I laughed, ‘With 200k credits in the bank, I could afford to be pretty cavalier about credits. Hell, I liked flying lighters, so I was content to keep my sculpting a hobby. She suggested that we talk about it over dinner, which I agreed to, as long as it was at a restaurant that wouldn’t kick about Molly joining us. I told her that she could be pretty sulky if I went out without her – especially to eat.  She agreed, and well… Within a month she offered Molly and me the job of piloting the corporate spaceboat that she wanted to start using to get around the planet faster. She operated as the troubleshooter for Tulla’s various companies and suppliers, and was often called on to travel to various sites on and in Mars orbit to sort out production problems, or just to re-engineer them to make them more efficient.
+‘I accepted her offer – the pay was better, flying a spaceboat was more fun than a lighter, and I liked my very quiet and competent boss. A lot, as it turned out.’ 
+But by now, we were coming up upon the mysterious wall that ran along the edge of what had been the dividing boulevard between the boroughs. Our boulevard had narrowed to a footpath, in a grassy field, that split in two directions to border the wall.  It was a featureless concrete wall, high enough that only the tops of trees were visible beyond it. 
+‘What do you make of it, Gy? Is it not built to keep in some pretty big monsters?’
+‘It’s impressive, I’ll grant you that. However, I’m still thinking that it was built to keep the would-be barbarians out and keep his crew working. Nothing more than that.’
+‘And all the stories about escaped creatures?’
+‘Someone’s nightmare multiplied by seven hundred years of telling and retelling. People like scary stories.’
+‘You’re no fun. So what’s your plan? How do you propose we get over the wall?’
+I looked up and down the length of the wall. A faint footpath could be seen in the tall grass along the wall where the old boulevard was buried under a sward of grass, wild flowers, and shrubs. Looking up and down the boulevard I could see no break in the wall.
+‘My plan is to find a neighbor to talk to.’
+‘Why?’
+‘Because if there is a way in, they’ll know it.’
+‘I don’t think people want to get into Ardetorae Park.’
+‘I bet you’re wrong,’ I replied. ‘And if indeed they know of no way in, it’ll save us a lot of time looking for a way. Let’s find a native to talk to.’
+We set out, following that narrow path, and hadn’t gone more than three blocks of abandoned shops before we came across a fellow working a large garden plot in what would’ve once been a small park. We pulled up, and hailed the fellow. He looked up suspiciously, and after I had explained my mission, he said, ‘I don’t know how to get in.’
+I didn’t argue with him, though I didn’t believe him. Instead I said, ‘I used to live in Burroughs Borough, beyond the wall. I want to see my old flat again.’
+That got his attention, though he didn’t believe me until I spun an edited version of my tale.
+‘So you lived in there, back before the wall.’
+‘Yes, 743 years ago, though for me it was just a week or two ago. I want to visit my old flat to see if my wife left any message for me. She could’ve been revived before the wall was built. And I want to leave a message for her, if I never find her.’
+He nodded to the wall. ‘I don’t think she’d bother.’
+‘Oh, she would. Trust me. So how do you get in?’
+‘Wouldn’t advise that,’ he said cautiously.
+‘I’ve heard the stories. I’m willing to take my chances. And you know how to get in and out.’
+He gave me a searching look. ‘Why do you think that?’
+‘You were born here, weren’t you?’
+He nodded yes.
+‘I’m willing to bet that generations of young people have gone over the wall, just for the thrill of it, a rite of passage to prove their courage. I’ll bet that you’ve seen the other side of that wall – and can tell how to do it. You’ve warned me. And if I’m still foolhardy enough to do it, it’s on my head, not yours. So what do you say? How'd you do it?
+He hemmed and hawed a bit more. He swore that there are indeed strange and terrible beasts within the walled park. They’d actually seen them with their own eyes.
+‘What did they look like?’ 
+‘They were pretty far away. I can tell you that they were big and ran on two legs. Can’t say much more than that. They were too far away, and as soon as we spied them, they must have seen us as well, since they took after us straight away. They could run, let me tell you. We could hear them arriving at the base of the wall just as we were tumbling over the other side. And we had more than a kilometer head start.’
+I gave him a searching look.
+‘It was broad daylight. It wasn’t our imagination. They were real enough.’
+‘So where’s this place where we can get over?’
+With some more hemming and hawing, and me absolving him of any blame, he described a section of the wall, back the way we came, that had trees growing close to it on both sides. The wall there had a large crack and was pushed inwards enough that one could climb up the crack on this side, and then down the other side using the big pine alongside the wall on the other side.
+ I thanked him and turning our bikes around, we headed back, looking for a spot in the wall surrounded on both sides by trees.
+‘Kids will be kids,’ I laughed as we started off again. 
+‘Do you believe him? About the two legged creatures?’
+‘I’m sure there’s some sort of animal life on the other side,’ I said as we pedaled along. ‘But think of it. How many generations of children going missing behind the wall of Ardetorae Park would it take for the Aerrion authorities to act on those reports? I have to believe that the creatures of Ardetorae Park are pretty benign. Just because an animal is big, or curious, doesn’t make it dangerous. Look at horses. They were allowed here on Mars as pets.’
+‘And when you come to think about it, how would a park, even the size of Ardetorea Park provide a reliable food supply for carnivores for 700 years?’ I asked, and added, glancing to her. ‘I don’t think they’d grow fat on curious kids.’ 
+‘Perhaps the Ardetoraes supply the food to feed their carnivores, one way or another,’ she replied. ‘Just because they’re reclusive, doesn’t mean that they no longer exist. Being all dead is just another legend. I doubt that many people actually go out and call on the Ardetoraes these days.’
+‘True. Something to consider. Anyway you care to look at it, it doesn’t quite make sense. Still, given the experiences of generations of local kids, I don’t think we need to fear whatever we encounter too much,’ I replied. ‘Worse comes to worse, I got’a cat to protect me.’
+‘Meow,’ said Molly, confidently.
+It wasn’t hard to find the little copse, and after parking our bikes, we quickly found the crack that ran up the wall, like a steep, boot-wide staircase.
+‘Right,’ I said, turning to Ora. ‘I’m not really a foolhardy romantic idiot. I know where I am and I know how to find my flat from here. It’ll take Molly and me 15 minutes at most to reach our old flat. Give us ten minutes to search it for anything Keiree may have left for us, and we’ll head straight back. We should be back in less than an hour, but not much less. That said, don’t come looking for us. We’ll be fine.’
+‘Oh, I’m going with you. I wouldn’t miss this for the world. I told you this was a childhood interest of mine. I ain’t here to look after you. I’m here for the monsters.’
+A glance showed me that I wasn’t going to talk her out of it, and given my conviction that the dangers were minimal, I didn’t try. ‘Right. Let’s go. Molly you can lead the way,’ I said. I grabbed my satchel from the bike’s rear basket and slipped its strap over my head.
+Molly raced up the narrow track, followed by Ora, aided by a number of branches that brushed the wall on the way up. I followed them up. Between our earth-standard muscles, Mars’ modest gravity, and the branches to hold on to,  we easily reached the top of the wall. We paused there to survey the far side. 
+As promised an old Martian pine stood close alongside the wall, with a convenient set of branches that formed a ladder down to within reach from the ground. A hundred meters of field of short grass, dotted, here and there, with old trees lay between the wall and a dark, shadow shrouded forest. Of the shops that used to be here, there was no sign. There were also no monsters in sight. Everything lay quiet, peaceful, and natural in the pale Martian sunlight.
+‘They must have ground up the buildings to make the wall,’ said Ora.
+I nodded. ‘That makes sense.’ 
+Molly, having seen enough, started down, jumping from branch to branch, leaving me no option but to follow her.
+I’d been noting the weathered inscriptions set into the concrete corner walls at each cross street, so I knew that we were entering from the neighboring borough of Summer Market. We’d need to head west and then south to reach my flat. And so, keeping a wary eye towards the dark woods, we set out, following the grassy verge along the wall until we reached a lane in the woods that once was the boulevard that separated Summer Market from Burroughs Borough. Here, we angled towards the woods, looking for an old street to follow through the woods and with it, the corner walls that would direct me to my old flat.
+The single and two story houses in the woods, were mere mounds of grass with protruding moss stained concrete walls. It was curiously open under the canopy of the various oak trees that grew among the tumbled ruins of my old neighborhood. Only the three and four story apartment buildings rose above this uneven carpet of grass and concrete half walls. I could easily find my way through the woods by following the shallow hollows of the old roads. Coming to a crossroad, I’d pull away enough of the vines that draped the corner walls to read the (barely) legible inscriptions to tell me where I was.
+There was a great stillness in this forest of ruins. Not quite silence. There were birds flirting in the trees overhead, singing their songs. Butterflies drifting in and out of the speckled sunlight that made its way to the forest floor. And the leaves rustled every now and again in a breath of wind. But Mars, being an artificial environment, had little in the way of incidental animals – animals deemed unnecessary or potential pests. This meant that there were no little creatures stirring in the grass, or in the trees. It was just the birds, butterflies, and us. Fingers crossed.
+We didn’t say much. I think we were searching every shadow, nook and hollow ahead for the monsters that I was certain weren’t there.
+By the time we were within three streets of my old flat, the forest ahead had begun to lighten up. And moments later, as I walked into the full sunlight, at the edge of the ruins, I cursed softly to myself.
+Before us stretched a grassy hillside falling to a broad valley and then beyond, all the way to the old Ardetorae Estate, tiny in the blue distance. The valley was dotted with the dark squares of green woods. The city that I’d lived in a few months before, and my apartment building, had been erased and turned into a vast country estate.
+‘It’s gone, isn’t it?’ asked Ora. ‘Your flat, I mean.’
+I nodded. ‘One more block and it would still be here. Let’s see if any of it remains,’ I replied, walking slowly ahead. 
+‘I guess they had to grind up a lot of buildings to supply the concrete to build the wall,’ said Ora, as she watched me poke around in the grass searching for any foundations to go by. 
+But there were none. The great machines had ground up the building whole, not even leaving the foundations to mark where my apartment building had stood. There was no place to leave the figure where I could even hope that it could be found. After a while, I stopped poking around in the short turf and just stood, thinking.
+Ora came up to me and said, ‘You okay?’
+I shrugged, staring off into the distance, ‘I suppose it doesn’t matter. It would’ve been hard for her to get to. Her office and flat are much more likely places. Tomorrow, I’ll walk out to the estate and leave my message with the automatons.
+‘Right,’ I said, turning to Ora. ‘Let’s head back. We can take the old Summer Market Boulevard back through the woods. It will be an almost straight shot back to the wall and tree. Come along, Molly, we still have two places to visit.’
+With that, I turned east, and we walked along the edge of the forest, still keeping an eye on it, if only so as not to miss the narrow lane running through the forest of ruins that I expected to find when we reached the edge of the old borough.
+‘That should be the boulevard,’ I said, some five minutes later, pointing to a gap in the forest ahead. 
+But Ora wasn’t looking at the forest. ‘What are those… animals?’ she asked, pointing down the hill.
+We had just passed one of the copses on the downhill side, and looking to where she was pointing, I saw a large, loose herd – or rather a flock – of white animals that I recognized as sheep, grazing on the hillside. The nearest of them were not more than a hundred meters from us.
+‘They’re sheep,’ I replied. ‘You’ve never seen sheep before?’
+She shook her head. ‘But you have.’
+‘You can learn a lot by visiting the Kingshill Market,’ I replied, with a smile. ‘Certain nonconforming societies had a license to raise sheep as part of the cultural heritage they were preserving. They have thick hair that can be used to make a cloth fabric. I’m surprised to find them here… Unless some nonconforming horde actually conquered the Ardetoraes. At any rate, they’re nothing to be alarmed about. They’re harmless herbivores.’
+Of course, as soon as I said that, two very large ruddy-orange creatures, who had been resting below the flock, rose on their two hind feet and extended their long necks and stared straight at us. Even in the distance, they looked to be at least three or four meters tall. They opened their wide mouths and roared. All the heads of the sheep rose to look about in alarm.
+‘Are you thinking, what I’m thinking?’ asked Ora, glancing at me.
+‘Probably. If you’re thinking that we should be on our way.’
+The two creatures – they looked like prehistoric Earth carnivores out of my youthful adventure stories – started for us, carefully circling around the flock in several long bounds and started up the long hill. I turned to the forest behind us and spying a towering pine some two hundred meters up the narrow lane, whose lowest limbs seemed within reach, exclaimed, dragging Ora around. ‘To that big pine tree. I don’t think they can climb!’
+Molly didn’t need any urging, she took off for the tree even before we started running. And I said that I wasn’t worried about monsters, since I had a cat.
+ With enough motivation and our Earth-standard leg muscles, even out of shape Earth-standard muscles, humans can run very swiftly across the Martian landscape, for as long as one’s breath holds out. 
+But if you have legs two or three times as long, and two or three times as powerful, you can cover some ground yourself, even going uphill. Especially if you’re a swift predator from Earth’s prehistoric days.
+Halfway to the pine, with Ora easily pacing me, if not holding back, I looked back to see the two tall carnivores had reached the spot where we had been standing. They were closing fast. I tried to redouble my efforts, but clearly we were not going to make it to the tree and up into its branches.
+I expected to be pulled up short by jaws closing around me with every step. And yet, half a dozen long racing steps further, I couldn’t resist glancing back again. We still held the same lead on them. 
+Unlikely, unless they weren’t actually trying to catch us. 
+Suddenly feeling silly, I pulled up and spun around to face them.
+They pulled up short, swaying, by my sudden move. Opening their wide mouths lined with teeth, they roared. At this very close range they clearly were some variety of prehistoric Earth carnivores that featured two powerful legs, a long tail, small arms and a large head, with wide jaws – raptors – as the name came to me. I’d come across them in my youth in one of my old story-band stories. These examples had to be some four meters tall and were feathered in a dull orange with deep maroon markings. Their heads featured a long crown of feathers in bright reds and yellows. Their dark eyes glared at me. Lifelessly.
+‘What are you doing Gy?’ demanded Ora from somewhere behind me. ‘They’re not harmless herbivores!’
+‘They’re not,’ I said, keeping my eyes on them. ‘But they’re not prehistoric carnivores – raptors – either,’ I said, confident now that I was right. And continued, ‘You don’t use giant carnivores as sheep dogs, not if you want a flock of sheep at the end of the day. And you wouldn’t graze a flock of sheep in an enclosed range with even two real carnivores of this size running free.  They’re not animals at all. They’re automatons.’ The lifeless eyes gave them away.
+And then, in a louder voice, I addressed the feathered and hopefully faux raptors. ‘My name is Gy Mons,’ I began in a loud voice. ‘I was a member of the Fara V Interstellar Expedition set to sail in the year of The Death, and I’ve been only recently revived...’ I began, and went on to introduce myself and my mission. It was a speech I’d been rehearsing for the last day.
+‘… My plan is to search for any sign that my wife had been to my flat before me, and failing to find any, leave a calling card for her to find, should she come looking for me. However, my old apartment building no longer exists. So I’m wondering if you have any record of Keiree Tulla calling on Ardetorae Manor House since The Death?’ 
+Their roaring had stopped, and Ora had come to stand beside me. We waited in silence for perhaps ten seconds, before one of the automatons spoke. ‘No record of one Keiree Tulla exists. Our records do not extend back to the Death.’
+‘Right. Can I leave a message with you for her, if someday she calls looking for Gy Mons?’
+‘What is your message?’
+‘I would appreciate it if you will record today’s date, and that my whereabouts can be learned by contacting the Beyond Salvage Company of Low Street Cartia. I will keep them informed of where and what I’m up to, while I search for her.’
+‘Your message is recorded.’
+‘Thank you. I was going to leave a small statue with that message on the bottom. Would you like to add it to your collection? I believe you have, at least had at one time, one of my other figures in your collection – a fox, if I recall correctly.’
+After a pause, the speaking automaton raptor said, ‘It would not be refused.’
+‘Excellent,’ I replied, reaching back for the satchel, and digging through it, brought out one of the boxes containing the hiding rabbit figure. And stepping over to the automaton that was being used to converse with us, I held it up and out to be taken by the faux raptor’s short upper limb. 
+‘Thank you,’ it said, carefully taking the box from my hand.
+‘You’re welcome. And thank you. We’ll be off now. Good day,’ I added with a nod, and turned to Ora, we should go now. Where’s Molly?’
+‘You’re crazy,’ she replied and pointed to the pine tree, ‘Molly’s in the tree, where we should be.’
+‘Right,’ I said, and started up the narrow lane we had discovered. As I passed the tree, I called out, ‘Come along, Molly, and don’t tell me you can’t get down by yourself!’
+‘Why’d you do that? Why’d you stop?’ asked Ora, after glancing back one last time to see the automatonic raptors disappearing below the rise of the hill.
+‘I realized that we’d never make it to safety, if they wanted to actually catch us. As an old lighter jockey, I’ve a pretty good eye for judging velocity. They started off at least three times our speed with only half the distance to make up before we reached the tree, much less climbed it. We didn’t have a chance. But they weren’t catching us, even when they were four strides back. They had to be letting us escape.
+‘So you knew they weren’t real.’
+‘Not at first. But seeing that they didn’t seem to be even trying to catch us, running suddenly seemed silly. It struck me that they were only trying to scare us.’
+‘And a good job they did of that.’
+‘True, but too good. Their speed, at first, made it impossible for us to escape. So they had to slow down when they got close. When it struck me what they were doing, I decided to gamble that I was right. To call their bluff. An old Marsport habit, I guess.
+‘When I had a moment to study them close up, I realized what they actually were. As a 3D artist, I could appreciate all the detailed work put into making them look like organic creatures. They were almost flawless. However, the designers did not bother to scale their breathing to reflect their running, nor did they articulate the back of their throats when they roared. I’d a very close view of that. The roar was made by an internal speaker. 
+‘Given the Ardetorae’s Park Lane company’s reputation for excellent automatons, it was no great leap of deductive brilliance to conclude that these were machines, perhaps designed to scare off visitors – or perhaps invaders, back in the old days of the barbarian hordes on their doorstep.’
+‘Well, I suppose… And what about the sheep, and the wall?’
+‘I still think the wall was built for protection. And the sheep? They’re a mystery. Maybe the Ardetorae family now breeds sheep and trades with the nonconforming societies that once threatened them. Or maybe they’re looking far ahead to the days when Mars forgets how to be modern and will need them. Who knows?’
+‘You have an easy explanation for everything – too easy,’ said Ora, glancing at me, defiantly.
+‘Then come up with your own,’ I said with a shrug. I had all the answers I needed. Keiree hadn’t called here.
+Molly joined us as we walked back to the wall. We climbed back over it and, collecting our bikes, set off on our next stop. We waved to the gardener who we’d talked to as we passed, but didn’t stop. I didn’t care to lie, or tell the truth. Let the kids have their fun. 
+ We dropped off the bikes upon regaining civilization, and boarded a north bound tram for the long, winding trip to the Mayfair Office Park. It would’ve been a fifteen minute trip by tube train, but now it would take nearly two hours via trams. Mars of 743 AD had gotten very large, despite the inhabited parts being less than half their original size.
+ 
+
+
+Chapter 09
+
+
+
+We finally wound our way to the boulevard that ran opposite Keiree’s old office building, shortly before noon. Like many of the larger buildings of Aerrion, the Tulla Building was sheathed in bands of tinted clearsteel, in this case, iridescent midnight blues and golds. Apparently they didn’t polish their clearsteel facades these days, since 743 seasons of sandstorms, had dulled its iridescence to a more somber velvet version of deep blue and copper.
+ We held a vote and decided to lunch before approaching the unknown inhabitants of Keiree’s former office. She had an executive office, and it seemed unlikely that the current occupier of the office would be working through the lunch hour. Or two. And we were all hungry.
+We found an outdoor cafe on the boulevard, and ordered a lunch of real, locally grown food that proved quite delicious.
+‘What was your Keiree like?’ asked Ora, as we lingered over our desserts and coffee. ‘Besides someone who you would expect to brave monsters to leave a message for you.’
+‘Keiree is…’ I began, correcting her use of the past tense. ‘Well, Keiree is a rather strange person. In some ways, anyway. She is quiet. If a nod or a slight smile will do, that’s all she’ll do. She doesn’t say much, ever. She doesn’t seem awkward in social situations, but she’s just playing at that game. Going through the motions. But since she doesn’t ever say much, people assume that she’s very shy. But she isn’t. I guess the best way to describe her is that she lives her life almost entirely inside her own head. She acknowledges the outside world, but except in her professional capacity, she hardly engages with it. 
+‘Until a few months ago, she was Tulla Industries’ Director of Production; Tulla Industries is her family’s company. She’s a production process engineer by training, which is to say someone who designs how things get manufactured. She’s probably the finest production process engineer on Mars. She has this ability to take every little step in the production of anything – at scale – and assemble the process in her head. Where, it seems, she can study the process from every angle, and run multiple versions of the process to determine the best one. A computer could do it – but the result would depend on the algorithms that compose its program. I don’t think a computer program would ever equal the insight Keiree is able to bring to bear on any process. And as a result, she oversaw the design of every new production line and every change in products. She would troubleshoot production problems for all the various Tulla Industries facilities on Mars and in orbit, as well as many of Tulla’s suppliers. 
+‘And, as I said, she’s a mainline member of the Tulla family. She has, or rather had, a brother, parents, aunts, and uncles in key positions throughout the sprawling collection of companies, and owned a share of the parent company inherited from her great-grandmother, so she is, or, was important for who she was, besides what she brought to the company. 
+‘And because she was a family member and a key element in the family’s businesses, she could command the use of a spaceboat. So every week I’d be flying her to some facility on Mars, or into orbit, to inspect some manufacturing facilities Tulla owned or used as a supplier. Prior to my employment, she had used fast aircars and tubetrains to get about downside, and she had to hire an orbital taxi to visit the space facilities. After she met me, she had the company purchase a spaceboat and hired me as its pilot.’
+‘That’s romantic,’ sighed Ora. ‘You must’ve made a great impression on her.’
+‘Look at me. Do you think that’s possible? Really?’ 
+She stared at me for a moment, shook her head, and then said, ‘Well, you just told me that she was strange.’
+I laughed. ‘I did. And I guess I’m proof that she is. However, I have to believe that the more likely cause and effect was me talking about how I could reach anywhere on Mars within an hour with sub-orbital jumps. She decided that a spaceboat could take her anywhere she needed to be, saving time, and time is credits. Plus, it could be used by other Tulla executives to get them around Mars as well. Once they got used to going anywhere in an hour, they didn’t begrudge the expense of operating a spaceboat, and employing a full time pilot.’ 
+‘But she fell for you, and not just for the spaceboat.’
+‘Or Molly. I was never quite sure about that. But slowly, by and by, she let me into her world...’ I paused to order my thoughts.
+‘You see, as I said earlier, she lives within her own world most of the time. She is aware of the outside world, the one you and I inhabit. She could deal with what she has to deal with, mostly by remaining aloft and remote. She comes off not so much cold, or strange, but as a serenely solitary person. When someone chides her about her aloofness, she just says that she is thinking about her latest production process, and would add enough details to make it seem plausible. But I doubt that was often the case. She has this never-never land world in her head, which she only let a cousin of hers, Molly, and in time, me, get a glimpse of. Sometimes, I have the feeling that I’m something like a companion of hers who is half in her imagination, but who also extends halfway into the world outside of her imagination. I know it sounds strange, and I suppose our relationship is a bit strange. But how could it be otherwise? In any event, this interior world of hers is simple, pure, sweet, and kind. But not in some la-la way, for remember she’s an engineer. There is an order to it, and a process that ties her to the outside world. But she lets only two people catch a glimpse of this inner world of hers. Really, of her true self. I love her. I know that I am part of the inner world of hers. So that is why I know that she would brave the creatures of Ardetorea Park to find me again.’
+‘I hope you find her soon.’
+‘I will. I’m certain I will. I’ve this gut feeling that she’s in the never-never land of the stasis pod still undiscovered. All I have to do is find that stasis pod. And I know all the places to look.’
+I paused and looked across at the ring of offices across the boulevard. ‘But I have to approach this project like an engineer. I have to eliminate the possibility that I’m wrong, and that she has, in fact, been revived. And I have to also consider that I’m wrong about knowing all the places on Mars to look for her. And that she may be found and revived someday by someone else. So I must leave my messages for her, where I know she’ll seek them.’
+After a while our conversation turned to Molly.
+‘How’d you and your other girl, Molly, here, get together?’ 
+‘We go back to when I was a cargo tech on a cargo lifter. Cargo lifters had a crew of two – a pilot who flew the lighter, and a cargo tech who transferred the cargo containers we carried to the interplanetary spaceship. 
+‘I was making my way along the narrow catwalk between the two containers in the cargo hold, rechecking everything to make sure all was as it should be, when out from one of the containers crawled this little green kitten. I don’t know if she got aboard while the lifter was grounded, or if she came aboard with one of the containers, but there she was. If the take off didn’t smash her, the hard vacuum would kill her once the cargo doors were opened in orbit. So clearly she couldn’t stay in the cargo bay. And luckily for her, she was lonely, frightened, and hungry...’
+‘Meow!’ objected Molly.
+‘Hungry, any way,’ I said giving her a look. She didn’t object.
+‘So she let me pick her up, and take her back to my station on the lifter. I told Fran Hu, the pilot, to add a kilo to our weight because I found a stowaway on board.
+Fran Hu was an ace. I was lucky to be paired with her. With her help, I got my pilot’s ticket a good year or two before I would’ve if she hadn’t tutored me, and let me fly her lighter to practice. Anyways, she didn’t kick about our stowaway. Molly didn’t care for the takeoff, and still doesn’t…’
+‘Meow,’ she agreed.
+‘I had to hold her on my chest, and she got rather smashed. But it didn’t take her long to get used to and get around in weightlessness. She and Fran were soon having a ball flying around the cabin while I shifted the cargo containers over to the freighter. Back on Mars, she followed me, rather than Fran, home, so we became partners. I was living in the tenements at the time, and didn’t want to leave her home alone, and since Fran didn’t mind, she became our third crew member. And she’s been following me ever since.’
+‘That’s sweet.’
+‘I feed her. Right Molly?’
+She meowed her agreement.
+‘See, it ain’t sweet, it’s sweets that keeps her with me. Right Molly?’
+She meowed her agreement again.
+‘Well, I don’t believe either of you. I think it’s sweet.’
+
+When we had lingered long enough over our desert to give the unknown executive time to get back to their office, we crossed the boulevard and walked down to the old Tulla Office building.
+The building was very familiar to me, in a dream-like way. The atrium lobby’s shape hadn’t changed – but everything else had in my subjective two months since I’d last walked through these doors. The colors were wrong. The decor was unfamiliar. It seemed a bit neglected. And in my time, this had been the Tulla Industries Building, with only Tulla offices. The lobby used to have a wide reception desk, and a lush waiting lobby featuring tall trees in pots and comfortable chairs. Now the lobby was bare, with only an automated reception kiosk to direct visitors, which everyone ignored, including us. Keiree’s old office was on the sixth floor, which appeared to be entirely given over to the Marqea Media Company. So we took the elevator to the sixth floor where we disembarked into a small reception room.
+Unlike our last experience, not only were we not chased out of the Marqea Media Company by automaton monsters, I was offered a job. Several of them, I think. 
+Like in Keiree’s day, you don’t just wander into the director’s office. I had to first pitch my story to the friendly fellow at the reception desk in the small reception area that the elevator opened on to. He listened with growing enthusiasm to my tale.
+‘Are you really from the pre-Death era, and flew rocket ships?’ he asked.
+I assured him, I was.
+‘Wow, that’s wild. Hang on. I’ll ping Terah, the owner. I know that she’ll want to hear your story.’
+Cutting to the chase, as they might say at Marqea Media, Terah Yin was delighted to hear my story. Judging by her surprise at my existence, and enthusiasm, it seems that Beyond Salvage had not needed to widely advertise the fact that they had a supply of pre-Death revivees to find employment for us. 
+After hearing my story, she assured me that Keiree had not come around in the seven years that they had this office, and the former residents had not passed along any message from her either. She assured me that she would be more than happy to pass along any message to Keiree, should she show up. She then began to ask a whole lot of questions about my past, and soon, she offered me my choice of several jobs.
+It seems that the Marqea Media Company produced popular fiction in words, vids, and virtual media. She was excited to find a fellow who had firsthand knowledge of life before the Death. She first talked of hiring me as an occasional consultant, for their pre-Death “historical” productions. 
+However once she had examined my “hiding rabbit” figure that I had given to her and quizzed me on my knowledge of 3D designing software and printers, she proposed a position in their art and production design department – even after I explained to her that Molly was part of any deal. She even insisted on showing us around that department, introducing Molly, to the staff as a potential 3D designer and presumably, staff cat. Given that I was asking her to do me a big favor, I could hardly refuse, even though I was beginning to feel pressed for time. Suffice it to say, we got along well. 
+In the end, I told her that while I would consider her offers, I couldn’t accept any of her job offers at present since my first priority was finding Keiree. However, after I had found her, or exhausted all my possibilities, I would certainly get back to her.
+‘Would you really consider her offer?’ ask Ora as we stepped back into the late afternoon sunlight.
+‘Once I find Keiree, yes. There’s no future in flying aircars or spaceboats for a career, so why not? It looked like it could be interesting work. Keiree will certainly find something to do in her field, so I might as well find something in mine, since I doubt she’ll be needing me to fly her around.’
+‘Trey thinks Daeah Kaesoon will hire you once she returns.’
+I gave her a sidelong grin. ‘Oh, I’m certain Director Kaesoon and I will strike some sort of bargain. I need her help, and I think I can help her. But once I’ve found Keiree, then Marqea Media sounds well worth looking into.’
+She gave me a measuring look, and then added, ‘You’ve got me curious, but time has flown. We still have another two hour tram ride to get to Park Circle. Do you really need to continue on to Lark Place, all things considered?’
+I was tempted, but then shook my head. ‘No. Marzea Media may be the perfect place to leave a message, but I need to be certain that she hasn’t left one for me. I’m thinking that the 40th floor of Lark Place would be that place. I doubt that anyone in the last 700 years, has had any reason to climb 40 floors and rummage around abandoned flats. So if she ever left one there, it will still be there, which is more than can be said for the last two places. We still have at least five hours of sunlight left, so I’m pushing on. But please feel free to head back. I don’t need my hand held. I’m an old Marsport denizen. I can deal with the likes of the tribes of Park Circle.’
+‘I want to see this through. Let’s go.’
+ 
+
+Another series of trams carried us to the northern edge of Skylark Borough. Skylark Borough was one of the six boroughs that surround High Borough with its Park Circle of towers –  the center of Aerrion. Of the six surrounding boroughs, one was home to various government offices, another famous for its shopping opportunities, and a third the home to arts and sports venues. All of them were expensive residential boroughs. They were the home of luxury six story residential blocks and elegant ground level shops.
+Ora said that outer fringes of these six boroughs were still considered part of metropolitan Aerrion, though with the death of the fast tubetrains, shopping had been dispersed throughout the city. Moving inwards, towards the towers of Park Circle things would likely get iffy, as we entered the territory claimed by the Ten Tribes of the Towers – but having never been here, she couldn’t tell me what exactly to expect.
+‘So what’s our plan?’ Ora asked, as we alighted from the tram at the corner of Skylark Boulevard and Latitude Street – the street that ran straight through the heart of Skylark Borough, north and south. Longitude streets run straight east and west. These two streets were the only two streets that ran unimpeded through a borough. More streets were added as one moved further away from the borough’s center to keep block size within a certain standard range.
+‘Lark Place occupies the first block west of Latitude Street – between High Boulevard and Park Circle. We’ll just walk down Latitude until we get close to High Boulevard and then cut over a block.’
+‘Just walk in? I believe I mentioned that these tribes are very territorial and not above using violence to maintain their territory, didn’t I?’
+‘I believe you did. I’m thinking that they’re just your basic nonconforming society. They want to be left alone to live the life they want to live. Don’t forget, I grew up in one such society and then several years in what amounted to another one, in Marsport. The youthful natives were pretty territorial there too.’
+‘Violently territorial?’
+‘Yes. But these were age old rivalries, just like the tribes of the towers. Violence is usually a result of the intrusions of one of the non-allied gangs, or in this case, tribes, not strangers. We’ll be an anomaly, strangers from the outside. We won’t trigger an automatic response.’
+‘You’re certain of that?’ 
+I gave her a look. ‘I’m not certain of anything. But I think the odds are good. We won’t be welcomed with open arms, but unless we run into someone in authority, we won’t be challenged by the people on the street. It’s not their business. Besides, there has to be some sort of trade between the tribes and the outside world. I bet that traders call on the Tribes regularly for one thing or another. As long as we look like we know what we’re doing, our presence won’t be questioned.’
+‘That’s a lot of guesswork,’ she said, with a scowl. ‘I just know what people say about them. And they say that if you’re smart, you steer clear of the towers of Park Circle and the surrounding streets.’
+‘Good advice. But we, Molly and I, don’t have a choice. We need to look into Keiree’s flat. And we’ll do what it takes. You do have a choice. Be smart.’
+She scowled, ‘I’m staying with you two. Now tell me how you plan to get into Lark Place with people, tribe members, living in it? What’s your plan for that?’
+I shrugged. ‘My arguments might apply there, too. But I actually plan to avoid the first nine floors. I doubt they’re occupied even that high. Walking up that many stairs would be too much work, when there are so many residences to choose from.’
+‘How do you propose to do that? What other powers do you ancients possess that we don’t these days?’
+‘Knowledge. I spent a lot of time in Lark Place and Park Circle, so I know that every tower block on Park Circle has its own aircar parking garage for its residents and the shoppers for their shops across the High Boulevard. They’re linked to their respective towers by walkways, both under and over that boulevard. I propose to reach the 10th floor by walking up to the upper level of Lark Place’s parking garage and then use the walkway to cross over. 
+‘I doubt that the garages are used for anything these days, save perhaps a rooftop garden, so we should be able to avoid all the current inhabitants of Lark Place. 
+‘You’re making a lot of assumptions, Gy. Just saying,’ said Ora, giving me one of her disapproving looks. 
+‘Unavoidable. But assumptions based on my experiences in similar environments. I’m truly not anticipating any trouble. Or, any trouble that I can’t handle. That said, I’d prefer that you wait for me at that bistro across the way. Molly and I will be in our element, and, no offense, but you won’t make things any safer.’
+‘Thanks,’ she said, giving me a semi-angry look. ‘But since you assure me that you can handle whatever the Tribes have to offer, there’s no reason for me to stay behind, is there?’
+‘I would think the prospect of climbing 40 flights of stairs would be enough.’ 
+She grinned. ‘There is that. Still, I’ll tag along.’
+‘Right. Let’s go. Remember to walk as if we’ve done it a hundred times. As if we belong,’ I said, setting out, as Molly climbed back into the backpack after the tram ride.
+‘Do we have a story if we’re challenged?’
+‘The truth should do,’ I replied. 
+‘And if that doesn’t work?’
+‘Oh, don’t be so negative.’
+‘It’s just that I expected more of a plan than just walking in.’
+‘Simplicity, Ora. Simplicity.’
+The streets of this borough were wider than the usual standard to accommodate the traffic five and six storied blocks of terraced flats and shops generated. The buildings lining Latitude Street had ground floor shops and restaurants, at first. This was still a “civilized” part of town. They were set back from the street by wide plazas or strips of green parks.
+However, as we crossed the central circle of the borough, with its large, abandoned public aircar garage, the shops grew hollow eyed, the parks neglected. Grass grew in the cracks of the plazas. Above, the residences seemed increasingly abandoned, though never entirely.
+‘Are you really as tough as you make yourself out to be?’ asked Ora. ‘I mean, you’re big enough, I guess, not to be too intimidated by anyone. But can you take on a whole pack of tribal toughs? I’m just wondering...’
+‘Hopefully we don’t find out,’ I said in my best tough-guy growl.
+‘I was hoping for a little more positive answer.’
+‘I survived Marsport.’
+‘Was Marsport really that tough?’
+‘One of the Marsports was. There were three Marsports. There was the actual space port, with its launch pad runways, boarding terminals, hangars, and cargo handling docks. Everyone who was going up to or coming down from space passed through that part – briefly. And a majority of the cargo that lifted off from Mars, and almost all of the arriving cargo, came through Marsport. It’s where the tough guys worked and lived close by. Until you landed a good berth, like that of a lift rocket pilot, like I eventually did. That berth paid enough that I could afford a small apartment in genteel Marsport City, situated on the outside of the crater that Marsport was built in. I worked a regular schedule, so that I could budget the time to get to work on time. 
+‘However, many of the jobs in the spaceport, the surrounding transportation terminals, and warehouses were on an “as needed basis.” So you had to be there and ready to work when they needed you, and for that, you needed to live in the tenements that had been put up amongst all the warehouses, repair depots, and rail yards that circled the spaceport. That’s where the tough people lived. And you had to be either tough, or smart to survive, though it helped to be a member of a gang to give you an identity and protection.’
+‘Where you tough or smart?’ she asked, with a grin. ‘Just wondering.’
+‘I was both,’ I replied with a grin. ‘Besides being a bit over two meters, I still had the muscles I’d built working in the family pottery business. I shoveled a lot of clay in my days. And while the Ming Kingdom wasn’t anywhere near as cutthroat as the tenements of Marsport, the youth weren’t coddled. I could stand on my own two legs when I arrived in Marsport.’
+‘And as for being smart. Well, when I removed myself from the Ming Kingdom, I was placed in an orientation facility to learn the ways of modern Mars, and given all the education I would need to become a productive member of my new society. So, between the ages of seven and eight and a half I absorbed every thought-teacher technical course related to space ships, systems, and the interplanetary trade they offered. With that knowledge still fresh in my head, I was able to land a berth with a cargo handling firm within a month of arriving in tenement Marsport and worked in their warehouse for almost a year. It didn’t pay well, but it was fairly regular work.
+‘Plus, I was lucky to get to know one of the young fellows working there who introduced me to a good gang of mates. They taught me the ropes of Marsport’s tenement society. And it was a gang that wasn’t too deeply into crime.’
+‘Too deeply?’
+‘Work and thievery were the two mainsprings of life in Marsport’s tenements. Stuff often fell out of containers and off of docks. But then, if you didn’t care to employ regular help, or pay wages above what the government mandated, I guess you had to accept that stuff evaporated. The gang I was a member of, wasn’t a pack of wharf rats. We weren’t really into thievery. Almost all of us had better and steadier jobs than most. The berth with a cargo handling firm led to becoming an onboard cargo handler for the rocket cargo lifter after a year. And Fran Hu, the lighter jockey I mentioned, proved to be a great pal. It only took me a little over a year to earn my ticket as a cargo lifter pilot, and a job with the company as one. And with that berth, I could, and did, put the Marsport tenements behind me.’
+I could see that Ora was keeping a wary eye on the street as I talked – as was I. But I saw nothing even remotely threatening. We seemed to be walking through no man’s land now. The apartment buildings on either side now looked to be hollow shells, stripped of their clearsteel windows and siding. And drifts of windblown sand zigged this way and that across their abandoned fore courts, but nothing struck me as being too sinister. But then, it was still daylight.
+‘So you’re a tough guy with a heart of gold,’ laughed Ora, still watching the shadows in the hollow buildings.
+‘Or soft in the head. And since meeting Keiree, I’ve had no reason to be a tough guy. I had to adopt the guise of a smooth, suave and respectful employee of Tulla Industries. And the slight arrogance of an accomplished artist selling expensive statues to wealthy collectors.’
+‘And a loving and loyal husband.’
+‘That’s no guise. It’s an enchantment.’
+‘But you can still find that tough guy in you, I hope.’
+I smiled. ‘If need be. But as I said, I’m not expecting trouble.’ None that I couldn’t handle, anyway.
+We soon found ourselves in tribal territory. The sun was getting low in the west, so we walked in the blue shade from the blocks of flats that rose overhead. Making it even more blue were the tall blue painted walls that now surrounded them, presumably to protect them from raids by rival tribes. Without the plazas and forecourts, and the blank blue walls on either side, the street had taken on a very closed in feel. I’d a vague sense of walking into a trap. Still, there were people in the streets, dressed in shades of blue, unlike the empty streets of no man’s land, a block or two back. They stared at us as we passed by them with narrow eyes. We weren’t wearing blue.  A few gave us unwelcoming glares, but no one said anything to us. Directly. Only after we passed them by, might they say something loud enough for us to know that they were talking about us, but what they said was unintelligible to us.
+Blue must have been this sector’s tribal color, as all the walls were one shade of blue or another. And the concrete of the apartment blocks that were not sheathed in clearsteel had been painted blue as well. And the people on the streets all wore blue clothes.
+From what we could see above the walls, all the balconies of the upper floors had been turned into gardens, even if not occupied. And the rooftop greenhouses across the way glittered in the golden light of the slowly setting sun. The air was laced with the scents of a thousand dinners wafting along the shadowed street, some familiar, some strange.
+‘I don’t like this place,’ muttered Ora.
+‘Not a fan of blue?’
+One of her exasperated looks.
+‘Well, we’ve only a few blocks to go.’
+Just peeking over the tops of the residence blocks around us, I could make out the upper stories of aircar garages, apparently stripped of their clearsteel facing, and then, beyond and looming over them, the towers of Park Circle, their clearsteel facades, more or less intact, glowing in the ruddy sunlight.
+Two blocks before the aircar garages, I directed Ora down the cross street, bright in the western sunlight flowing between the walls and residences, until, in the distance, it curved away into blue shadows and disappeared behind those walls and residential blocks. Down the street a couple was approaching us on the other side of the street. As they got closer, the male of the pair said something to his companion, crossed over to our side of the street, and stood waiting, arms crossed.
+‘Trouble?’ whispered Ora.
+‘Nothing to worry about,’ I replied. ‘We’ll walk around him. If not, I’ll handle it.’
+‘What are you doing here?’ he demanded, as we approached, scowling at us. 
+He was a youth, big and tall. But no bigger or taller than I, so I could look him in his eyes.
+‘Minding our own business,’ I growled back gruffly, like an old Marsport hand. He had no authority. He was just a punk. He was just showing off in front of his girl. I must admit I wasn’t in the mood to even try to be tactful. Or to walk around him. So I didn’t give him any respect. It would only make him bolder. I hadn’t lived in Marsport for five years without having learned how to deal with people like him.
+‘I’ve just made it my business.’
+‘As if I care. Out of my way,’ I said, moving a step closer, and slipping my right hand, into my pants pocket. I slipped my fingers through the finger holes of an old pal of mine – my blue bolt knuckle – a relic of my Marsport youth. I had come prepared for the likes of this young would-be tough.
+‘I ain’t moving. This is Azure Territory. You’ve no business here,’ he said, somewhat taken aback by my no nonsense replies. ‘Turn around and go back, before I send you back,’ he added, lifting a clenched fist.
+Molly, no stranger to these encounters, looking over my shoulder, growled menacingly.
+‘No,’ I said. ‘I’m here on business, and I intend to carry it out. It ain’t none of yours. So get out of our way, or you’ll get hurt. I’m not a patient fellow. You don’t scare me, kid. Out of our way, or I’ll knock you flat.’ 
+It wasn’t an idle boast. I was ready to teach him an old Marsport lesson. Know your enemy. My blue bolt knuckle housed a super capacitor that worked like a darter’s needle dart to deliver a stunning bolt of plasma that, on contact, would knock him flat on his back. A second blow would knock him unconscious for five or more minutes. To deliver the plasma bolt, it had four sharp contact points designed to penetrate clothing. It’s the way we fought in old Marsport. Thick, padded jackets were common in the tenements of Marsport.
+He gave me a long look, and then looked around the street. 
+‘Your girlfriend and those two old ladies ain’t going to do anything except pick the pieces of you up, kid.. So what’s it going to be, kid? Out of our way, or do I need to bounce your face off of the pavement a couple of times?’
+I found that I was eager to do just that. Shame on me. But I think he saw that in my eyes, and after considering his chances for a second or two he took half a step to one side. ‘We’re not done yet,’ he growled.
+Molly growled back and spat out one of her menacing hiss.
+‘If you’re not as dumb as you look, we are, kid,’ I snared. If Ora wasn’t along, I might well have taken my fist out of my pocket and given him a bolt of blue lightning that would’ve rattled his little brain and sent him flying. But that wouldn’t have been polite, and I didn’t want to look like a thug in front of Ora, so I merely put a shoulder to his as I pushed past him.
+We walked on for ten meters before Ora said, ‘You weren’t bluffing, were you?’
+I grinned. ‘Hell no. It was all I could do to refrain from sending him flying. I think I got a little anger in me.’
+‘And you could’ve done it?’
+‘Hell, yes,’ I said, pulling my fist out of my pocket and against my chest, I gave her a quick look at my blue bolt knuckle and put my fist back in my pocket. ‘Know what that was?’
+She shook her head no.
+‘It’s memorabilia of my youth – we called it a blue bolt knuckle. Think of it as a hand held stun-darter. Any blow will deliver a disabling stun dart charge. Every tough in Marsport carried one in his pocket, just in case.’
+‘Oh,’ she said. ‘I thought you said we’d have no problems...’
+‘Have we had any?’ I replied, with a sidelong grin.
+ She glanced back, ‘You know that he’s following us, don’t you?’
+‘Let him. He can climb all the stairs, if he cares to, as well.’
+‘You’re having fun.’
+‘No… Well, maybe a little. But I’m here for a purpose, and when you think about it, I may well be the last living tough of Marsport. I got’a reputation to live up to.’
+At that point we came to the intersection of the street that ran west of Lark Place’s aircar garage.
+‘We turn here,’ I said, and we once more entered into a narrow street of blue shadows. The aircar garage was a concrete skeleton of its old self. All its clearsteel facade had been stripped off, so that the low light of the evening sun shot through the hollow structure, illuminating its abandoned interior. Rising beyond it, and the tree lined High Boulevard, stood the block wide tower of Lark Place. It had fared better than its parking structure. It still had most of its smooth clearsteel facade. However, where the scavengers could safely remove the clearsteel, they had. All the balconies were black hollow holes where the clearsteel window-walls and railings had been carried off. Birds flew in and out of the tower through the hundreds of these hollow holes in Lark Place.
+I counted up to where the empty windows began, and only got as high as eight.
+‘We’re in luck. The tenth floor should be deserted, judging by the empty balcony windows’ I said to Ora.
+The aircar garage was completely abandoned.  All I could see was dust drifts and a few clumps of what looked like jumbled furniture – probably the places where the Azure tribe youth hung out. I climbed over the low concrete wall and led Ora to the nearest stairwell.
+‘What about our pal behind us? ‘
+‘What about him? I doubt he’ll follow us up 40 flights of stairs.’
+‘I expect that he’s watching where we’re going, and when he knows that, he’ll organize a reception party to await our return. You didn’t make a friend, back there.’
+‘Didn’t want to. And let him. We don’t have to return this way. There’s a dozen stairwells and exits we can use – even if we have to use the stairwells down through the occupied floors on our way out. It shouldn’t matter much.’
+She gave me a doubtful look, but didn’t argue.
+The door to the stairwell was off its hinges, so we quickly climbed to the top level and crossed the empty level, open to the four winds, our foot falls echoing hollowly.  The door was off on the long walkway to the tower as well. With the parkways on both sides of the boulevard below, the walkway was at least a half a block long. The scavengers had managed to remove all the clearsteel from the walkway, so that it was just the steel skeleton of a bridge. Fortunately, the deck wasn’t clearsteel, so we could walk across it easily enough, if rather uneasily, since it had no railings and was ten stories up. Which is rather high up, even if you have a nice, four meter wide platform to cross it on. And long. It never seemed that long, back when it was enclosed and its velowalk moved you swiftly along.
+The door on the far side had also been removed, so that we could just walk into the building and around the corner to the nearest stairwell. One had to question Azure tribe’s security measures, though perhaps Lark Place was so deep in their territory that they didn’t have to worry about raids – if they really ever existed.
+Looking back, I noted that our pal had followed us up to the top floor of the parking garage and was still watching us from the far end of the walkway. As I said, there were half a dozen stairwells, and twice as many exits, so I wasn’t worried about him.
+We climbed. And climbed, all thirty floors. Molly, being no fool, stayed in her backpack until we reached the 40th floor. Only then did she climb onto my shoulder and leap to the floor.
+Pushing open the door to the 40th floor we found the corridor was crisscrossed with small drifts of equatorial dust, and random lumps of debris. It was dimly lit by faint shafts of golden light slanting through the open doors. But being a luxury apartment building, the flats were large and the doors few and far between. I took out my bright beam and examined the floor. There were no sign of footprints in the dust. We were the first here for at least a hundred years.
+‘This way,’ I said, taking the lead. It wasn’t two months ago, subjective time, since I last visited Keiree here, so I seemed to be walking in a dream of distorted realities. 
+It was almost silent, but if you listened carefully, you could hear the wind humming through the entire tower – a low moaning tune. We were too high to hear calls of the birds, and Ora was silent as well, so it was a little eerie.
+Like the other flats, Keiree’s door had been taken off its hinges to facilitate the removal of her furnishings and appliances. The window-wall that opened onto the balcony was missing, as was the clearsteel balcony parapet, so the room was crisscrossed with the sinuous drifts of hundreds of Martian sandstorms.  Small piles of debris lay here and there in the dust. The misty Martian rain had also invaded the flat, staining the walls and providing a home for lichen. The ruddy light of the dying day, made the empty desolation of Keiree’s old home even sadder.  
+Molly, who had followed us in, stepping carefully through the drifts, looked around and then up to me. ‘Meow,’ she said with a great melancholy that I shared. But there was more than melancholy in my mind. There was fear in my chest. Fear of what I would find when I entered her bedroom. She’d leave her message there.
+‘Yah,’ I replied, and then said, ‘Right. Well, let’s get at it. We’re looking for a message. It might be inscribed on the walls, or on some object that would survive for ages. She’d probably hide it somewhere where it would not be easily seen to prevent it from being looted at a later date. Though I have to say, if she came here in the last several hundred years, she probably wouldn’t need to worry about that.’
+We spent a dusty hour going over every nook and cranny of the large flat, including all the debris on the floor and kicking through all the dust drifts. Fortunately for us, only the main room had open windows, so the drifts in the other rooms were minor.
+At the hour’s end, we were back in the main room, brushing the dust from our clothes. We had found nothing. I had left my final hiding rabbit figure tucked away in the back of Keiree’s closet, out of casual sight, but where I knew she’d look.
+‘Happy or sad?’ asked Ora, turning to me.
+‘Oh, I’m very happy, Ora,’ I replied, giving her a wide grin. ‘From the look of things, I have to believe that we’re the first people to visit this flat since the scavengers hauled out the last sheet of clearsteel from the balcony parapet, probably 700 years ago. I’m certain that if Keiree had been revived she would’ve made it here and left a message. And if she had, it would almost certainly still be here. It isn’t. So now it’s up to me to find her.’
+‘Do you have a plan for that too?’ she asked, watching me closely.
+‘Yep. But I have to wait until Director Kaesoon gets back to town. We’d best be getting on our way before it gets too dark.’
+Ora would’ve liked to ask me more about my plans, but perhaps realizing that I wasn’t about to share them, said nothing more.
+Recalling our sulking shadow, when we reached the garage again, I led us down the nearest stairwell, and then across to the far side of the park alongside of it to take a street over from the one we had used in our approach. The park was dim in the shade of the old oaks, and apparently deserted.
+However, we weren’t halfway through when, from behind us, I heard a shrill whistle. It was answered from the deepening shadows of the garage looming on our right. I knew what that meant, but it didn’t change our plans, save, ‘Let’s pick up the pace a bit, Ora.’
+‘Trouble?’ she asked, again, as she fell in beside me.
+‘Maybe some fun. We’ll see,’ I replied, flashing her a grin. I was far too happy to be worried. And with my fully charged blue bolt knuckle in my pocket like the old days, I was feeling fine. And to tell the truth, I had an uncivilized urge to use it. I just wanted to put as much space between the inevitable encounter and possible reinforcements from the tower as I could.
+We put the park behind us and made it halfway down the next block, once more a wall enclosed street, before four dark figures appeared in the brighter twilight in the cross street ahead of us. They’d been running to intercept us, and skidded to a stop in a clump. The whistle sounded again behind us.
+‘Trouble,’ said Ora quietly, this time it was not a question.
+‘Nothing that I can’t deal with. Leave it to me. Just stand clear. Between my blue bolt and Molly, I’m not concerned about the odds. One blow knocks them on their asses. I may be a little rusty, but I bet I know a whole lot more about street fighting than they do. I’m looking forward to teaching them a lesson or two.’
+I wasn’t kidding. Four, six or eight young toughs weren’t going to stop me from finding Keiree. The prospect of dancing on half a dozen would-be toughs was just what I needed to release the tension of my hitherto suppressed concerns.
+‘Full speed ahead. Let’s see if we can keep ahead of the fellows behind,’ I said, picking up the pace. ‘Battle stations, Molly,’ I added.
+On cue, she leaped out of the backpack, and took the lead.
+‘Clear out, Kids,’ I called out as we approached. ‘I’m not playing games here.’
+‘We aren’t either,’ replied the original tough. And he banished a short club. The others did as well. 
+I reached into my pocket and slipped my blue bolt through my fingers. Drawing it out, I said to Ora, ‘Hold back now. Keep an eye behind us to give me a head’s up if any of the gang behind us catches up before I finish off this lot.’
+She nodded and hung back, a little.
+I didn’t break stride, but trotted towards our old pal, ready to dodge his swing and land a punch on his chin that would put him down. I hoped that by not showing any fear and putting their leader down with one blow, it would break the resolve of his followers and send them running. If not, I’d just have to plunge ahead and hope that my old reflexes would keep any blows they had time to deliver with their clubs from hitting me alongside my head, while I took them out, one by one.
+So I went straight for him.
+He swung his club as I came in range.
+I skipped back just far enough. I felt the wind of his club as it swooshed past my nose. I lunged forward, pinning his club arm to his chest with my left hand and delivering a short straight jab to his jaw. It struck with a thud that sent a brief flicker of blue light across his cheeks as the plasma discharged its dose of nerve scrambling energy into him. He jerked up, back, and then down with a thud on the pavement, as I swung to my right to meet the next attacker.
+But he was already falling back. Literally falling backwards and down.
+I swung to the left,  just to catch the flicker of blue light on his chest, before he, too, collapsed. 
+The final tough started to turn to flee, but he didn’t get more than two steps before Ora shot him in the back sending him diving to the pavement.
+I turned back to Ora. ‘Who invited you to this party?’ I was mad. ‘I could’ve dealt with them, and had fun doing it.’
+But she was looking back. Two dark figures, some twenty meters away had skidded to a stop.
+Slipping a thin, stun-darter, back into her pocket, she snapped, ‘Let’s get moving. Beyond Salvage has a fair amount of money invested in you, with the promise of more. If you’re not going to act responsibly, I must. I certainly wouldn’t relish having to carry you a dozen blocks when one of those clubs connected with your thick head. Let’s get going, before they raise a general alarm.’
+‘They hadn’t a chance,’ I muttered, but started forward again as she joined me, giving me an angry scowl.
+‘Yah, right. Put some speed on. They’ll be coming around in a minute. Move.’ 
+She was angry.
+I shoved my blue bolt back in my pocket with ill grace, and moved, with Molly bounding beside us.
+
+
+
+Chapter 10
+
+
+
+I gave her some time to cool down, before asking, ‘Did you ever consider using your darter to stop those raptors?’ as we loped along, in the Martian version of jogging.
+‘No. I don’t think a personal protection darter would have much effect on animals that size. And I didn’t care to waste time confirming that,’ she replied, adding sharply, ‘Do you want to kick about that too?’
+‘No. Just wondering.’
+A little later, ‘Do you always carry a darter?’
+‘We’re issued one in the field. And when a client insists on calling on potential monsters and semi-barbarian thugs. Any more questions?’
+‘Nah, just curious. Wondering about present day customs and that sort of thing.’
+With long, low-grav strides, we quickly put the high walled, tribal territory behind us. Crossing the central plaza, we were once more back in “civilization” and slowed to a walk. Ahead the windows of the small shops and restaurants splashed pale yellow lights across the blue shadowed plaza and street. And looking further up the street, I spied the tables and chairs, with candle lights, of several cafes set in the plaza before them.
+‘I believe I promised you dinner,’ I began, hoping to put Ora into better humor. ‘I’ll leave the choice of fare to you.’
+She shrugged. ‘Whatever.’ 
+Still a bit ticked, it seemed.
+As it turned out, Molly decided for us. We had passed several restaurants that Ora wasn’t interested in, when Molly dashed across the street to the door of a small restaurant with just two tables on the plaza. She reached the door and turned to meow at me. 
+I stopped and stared for a second – I knew the place. The “Noodle Shop” sign could’ve been the one I knew from 700 years ago. Only the name before “Noodle Shop” had changed. It read Vinna’s instead of Frae’s. The paint peeling off the concrete shop front was a different color, but, as I said, I knew the place. We had by chance, or habit taken the street we always took when going for a walk, and it had carried us to the small noodle restaurant where we had often dined. The food was superb, and Molly was welcomed, unlike the restaurants that Keiree used to dine in before she met us.
+‘Care for some noodle dishes?’ I asked, turning to Ora. ‘Keiree, Molly, and I used to dine here often, back in my life. Seven hundred years and they’re still serving noodles. I’m curious to see if their fare is still as good. Care to take a chance?’
+Ora gave me a squinty look, but shrugged and sighed, ‘Why not.’
+‘Right, then,’ I said, and we crossed the street. 
+Opening the door, Molly scooted in. She was hungry. Ora and I followed her at a more leisurely pace. The dim interior and its fragrance was almost familiar. It brought a lump in my throat, as I looked, half lost, around the familiar noodle shop. I’d been here less than a month before, subjectively. Molly had bounded ahead and jumped to the top of our usual table, looking back at us, to give us a plaintive ‘meow’ that translated into, loosely “hurry up, I want my cultured salmon dish.” 
+I walked to our old table. I felt alternately at home, and lost. So much was the same, but all the tiny differences were vaguely unsettling. It smelled the same, almost. Seven hundred years of meals served probably added a couple of millimeters of cooking oil varnish to the walls, the ceiling. The pictures on the walls – which were not the ones I remembered, but similar enough that they could pass for them. The tables and chairs were not 700 years old, but saying that, I said it all. Still, they were arranged just as they had been when I was last here. 
+Two of the tables near the window had customers, and the young waitress rose from behind the back counter to greet us as we joined Molly at “our” table.
+Suddenly Molly gave a piercing shriek, and stood stiff, fur on end.
+I sprang towards her. ‘What’s wrong, Molly?’ I asked, putting my hand on her back. 
+She did not respond, and continued to stand, tense and motionless. 
+I looked to where she appeared to be staring, and froze, like her, for several seconds. 
+Breaking free of the spell, I dodged around several tables to reach the kitchen door. Over the door, in sort of a dark grotto, was a statue. It was a half sized statue of a sitting silka cat in iridescence green, with a white bib and a touch of white on her left ear. A half sized statue of Molly.
+I made just one statue specifically of Molly. I had, of course, used her as a model for every cat statue I made – she could hold a pose when she knew I was creating another monument to her – but this was the only one that looked like her.
+I reached up and lifted the large statue off the shelf and brought it down to stare at it. 
+Behind me, the waitress was objecting. I paid her no attention. I just stared at the statue.
+I’d made it at Keiree’s request. For her. She had packed it away in her personal effects box to take with her to Fara V. I saw her do it.
+And now, it was here.
+Unlike every other fixture of the restaurant, it didn’t have a thick layer of cooking oil. It was as clean and polished as the day I’d given it to her.
+Without thinking, I slowly walked back to the table with it. Molly had recovered from her shock, and silently watched me as I returned, as did Ora. The waitress followed, still loudly objecting to my actions. I still didn’t pay any attention to her – until she stopped. She may have suddenly realized that, in Molly, she was seeing the live cat, the cat of the ancient statue. That must’ve spooked her.
+I knew the implications of what I held in my hands. But I’d not yet fully processed those implications. Absently, almost automatically, I turned the statue on it’s side, reached my thumb over, and touched a faint circle within a larger circle on the bottom of the statue. It was faint enough that you might not notice it, if you didn’t know it was there.
+The larger circle popped out far enough to lift it out. I placed the statue down on its side and pulled the cylinder hidden in the statue out. It was hollow. In it was a small velvet bag, with lumpy things, that I knew would be either jewelry or gems. The only other object in the cylinder was a narrow roll of perma-paper held by a ring, I knew the ring all too well.
+I didn’t want to read it. But I’d have to, eventually. Best get it done and over with. I slipped the ring off and slipped it on my little finger. I unrolled the single sheet of thick perma-paper.  It was written in her neat, elegant hand.
+
+My Gy,
+I looked for you, but could not find you.
+I left messages. But never heard from you.
+I never met any crew member who knew the fate of the survey team, so you and Molly must still be sleeping, and safe.
+I was revived a year after the plague, in Aressa. There was much work that needed to be done. I could not return to Aerrion for fifteen years. 
+I missed you and Molly. But I found a measure of happiness in my life, so you must not feel sad for me.
+I am old now. I want your memories of me to be ever young. So I will say nothing more.
+You were always in my dreams.
+Your Keiree
+
+I stared at that single sheet of perma-paper until I could no longer see it through my tears. No one said anything, until I wiped my eyes with the back of my hand and handed Keiree’s note to Ora.
+Looking about, I found that an elderly lady dressed in dusty black had joined the wide-eyed waitress. 
+‘You are the one,’ she said, a statement rather than a question.
+I nodded. ‘Yes.’
+‘A long time,’ she said.
+‘Yes, a very long time,’ I admitted. ‘I came as soon as I could.’
+‘We have kept the statue as our ancestors commanded us to do.’
+‘Thank you,’ I said, and seeing the velvet pouch, I picked it up and opened it. There were a few gemstones, a couple of rings, and a necklace. Nothing of Keiree’s, just stuff she purchased while converting her wealth to something portable. I didn’t need them, so I held it out to the lady in black. ‘This is for you. Thank you.’
+She shook her head no. ‘The lady gave us credits to keep this shop open, and the green cat where it could be seen, until you came.’ 
+‘She, the cat I mean, is named Molly.’ I felt the need to clarify that.
+The old woman nodded, ‘Yes, she. Molly. That is her name. She has guarded our little shop for seven generations. Your cat is the cat of the statue, is she not?’
+‘Yes, and I am the sculptor who made the statue for my wife, the woman who left it here for us to find to learn about her fate. Our fates.’  I bounced the little pouch of gems in my hand, and held it out to her, ‘She may have left this for us, if we needed it. We don’t. Please take it and stay open for another 700 years. It is your reward for being faithful.’
+She shook her head. ‘We were paid by the lady.’
+‘She would’ve wanted you to have it for being so faithful.’
+‘No. we were paid.’
+I reached into the bag and selected a large, unmounted gem – a Martian diamond with its characteristic swirl of micro gems embedded in it.  It sparkled even in the dim light as if it had a cold fire in its core. I knew it to have been very valuable, in my day. But I also knew that it was too gaudy for Keiree. It had meant nothing to her beyond its market value. 
+I handed it to the old lady. ‘Then please take this as my personal thank you gift for being faithful.’
+She still hesitated, until the waitress, wide eyes staring at the sparkling gem, pleaded in a whisper, ‘Grandma...’
+Grandma opened her hand, and I dropped it into it, and reaching into the bag, drew out a ring and handed it to the young waitress. Why not?
+
+ I took one last look into the cylinder, but there was nothing more. Keiree had left me only my dreams. I closed the cylinder and sat the statue of Molly upright on the table.
+‘So the Green Cat statue is yours,’  began the old lady, as I stood staring at it, thinking of nothing.
+I nodded absently, and then noticed something sad in the old lady’s eyes. I thought for a moment, and then said, ‘But I have the real Molly, and she’s enough for me. And since your Green Cat has guarded your establishment for seven hundred years to bring the last message of my wife to me, I guess she should stay here to guard it for 700 more.’
+And with that, I lifted it off the table and walked back to the kitchen door and set the noodle shop’s good luck god back in her rightful place above it. 
+When I returned, Ora handed Keiree’s note back to me. I slipped it into my shirt pocket. I would probably read it a million times, but I wanted to be alone when I read it again. 
+I drew a breath and said, ‘Well, we came here to eat.’ I turned to the waitress, and asked, ‘Do you still offer cultured salmon on broad noodles?’ 
+She nodded. ‘That’s for Molly, don’t bother with the noodles. And two orders of red-sauce thin-noodles with a bottle of your house wine.’ 
+She nodded, again.
+‘Wait!,’ I exclaimed as she turned away.
+I turned to Ora. ‘I’m sorry, I wasn’t thinking. That was our customary order. Force of habit. What would you like? Give her the menu to choose from,’ I said to the waitress.
+‘No, red-sauce thin-noodles will be fine,’ she said quietly. 
+After the waitress left and we had sat down, I pushed the velvet pouch over to Ora. ‘Pick one or two for all your help today.’
+She shook her head no. But I insisted. ‘I don’t want them. I have plenty more back in my room. These weren’t Keiree’s. They have no meaning to me. You’ve done much more for me today than take my dinner order.’ But she still refused.
+The thin-noodles in red sauce was almost as good as I remembered. It was a good year for the house wine – it seemed better than I remembered. Molly didn’t complain about the salmon. The meal was on the house, and the old lady promised that every other one would be as well.
+It was close to midnight when we arrived back at the Beyond Salvage headquarters. Ora had been a dear, and had simply let me do all the talking. I didn’t say much. I was grateful to her. I kept everything together until after I closed the door to my room.
+Keiree smiled from her photo. Molly purred in my arms. It helped.

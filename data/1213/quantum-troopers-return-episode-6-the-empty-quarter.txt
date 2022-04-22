@@ -1,0 +1,876 @@
+﻿Quantum Troopers Return
+Episode 6: The Empty Quarter
+Published by Philip Bosshardt at Smashwords
+Copyright 2020 Philip Bosshardt
+Smashwords Edition, License Notes
+
+This ebook is licensed for your personal enjoyment only.  This ebook may not be re-sold or given away to other people. If you would like to share this book with another person, please purchase an additional copy for each recipient.  If you’re reading this book and did not purchase it, or it was purchased for your use only, then please return to Smashwords.com and purchase your own copy.  Thank you for respecting the hard work of this author.
+A few words about this series….
+
+Quantum Troopers Return is a series of 25,000-30,000-word episodes detailing the adventures of Johnny Winger and his experiences as a quantum trooper with the United Nations Quantum Corps.  This series continues the original serial stories of Quantum Troopers, Episodes 1-22 (formerly Nanotroopers).
+Each episode will be about 40-60 pages, approximately 30,000 words in length.
+A new episode will be available and uploaded every 4 weeks.
+There will be 10 episodes.  The story will be completely serialized in about 12 months.
+Each episode is a stand-alone story but will advance the greater theme and plot of the story arc.  
+The main plotline: U.N. Quantum Corps must defeat the criminal cartel Red Harmony’s efforts to use their nanorobotic ANAD systems for the cartel’s own nefarious and illegal purposes. 
+Uploads will be made to www.smashwords.com on approximately the schedule below:
+
+Episode # (*)	Title					Approximate Upload Date
+1 (23)		‘Fab Lords’					2-7-20
+2 (24) 		“Free Fall’					3-6-20
+3 (25)		“Forbidden City”				4-3-20
+4 (26)		“Deep Encounter”				5-8-20
+5 (27)		“HAVOC”					6-12-20
+6 (28)		“The Empty Quarter”				7-10-20
+7 (29)		“The Hellas Paradox”				8-14-20
+8 (30)		“Twist Pirates”				9-11-20
+9 (31)		“The Better Angels”				10-9-20
+10 (32)		“The Ship of Theseus”			11-13-20
+
+(Note *: Episode numbers start with Episode 1 in this new series but the continuation of episode numbers from Quantum Troopers is also provided)
+
+
+Chapter 1: “Angels Among Us”
+
+Queensgate Hospital
+Singapore
+September 12, 2065 Earth Universal Time (EUT)
+2330 hours (local)
+
+Major Batu was uneasy with all the arrangements but there really wasn’t a whole lot he could do about it.  The Secretary-General was sick and had been taken to a nearby hospital that evening, cutting short the address he had been about to make to the Lions of Commerce Association on his new vision for the upcoming General Assembly session.  He had a fever and it was rising.  The physician detail that always accompanied the S-G prescribed some pills and sent him off to Queensgate, with orders to go to bed and get some rest.  More pills and fluids were taken.  Dr. Li, lead physician of the detail, had just told Batu he wanted to do a medbot insert the next day, to investigate the malady.
+That’s when Batu started having heartburn.
+Jaime Aquino, the S-G, was okay with the idea of an insert, even though he’d be incapacitated for several hours.  As head of the S-G’s security detail, Major Batu had little choice but to reluctantly agree.  The insert was planned for early tomorrow morning.  Aquino had dismissed Batu and turned in for the night.
+Batu went downstairs to the security command post that had been set up in a first floor waiting room.  He chain-smoked.  He chugged gallons of coffee and tea.  He watched street traffic through the window, mindlessly counting pedestrians, vehicles, rikshas and made up stories about the working girls inhabiting every corner.  Sleep was the last thing on his mind.  
+He couldn’t shake the feeling that something was up.
+Upstairs in the S-G’s suite, Jaime Aquino couldn’t sleep either.  
+As he lay awake tossing about in his bed, he noticed a faint light outside the window.  The suite was on the fifth floor of the Queensgate, a special suite reserved for heads of state, dignitaries and celebrities.  Aquino watched the light for a few minutes.  It was diffuse, almost blue-white in color.  And it was getting brighter.
+He got up to investigate.
+As he approached the window, he knew right away what the light was.  Already he could hear the keening buzz of nanobotic conflict; the bots of the security barrier were already engaging something outside the window.  Aquino inched closer.
+Almost immediately, the light flared into blinding brilliance and a sharp hiss could be heard.  Aquino staggered back and lost his balance, falling heavily to the floor, completely blinded by the light flooding in.  A wave of heat washed over him as he scrambled away from the window.  Then as he squinted at the battle now joined outside the windowpane, the buzz reached a shrill peak and cool air began drifting in.  The window vanished in a flash and Aquino quickly found himself enveloped in a cloud of bots.  
+He flailed, tried screaming but found the pressure of the cloud was too great.  He was being smothered, suffocated, fighting and kicking and scratching and clawing there was no air and slowly, but surely the tunnel yawned wide and he tumbled headlong down the black corridor at breakneck speed, spinning spinning spinning until at the end….
+There was nothing and he lost consciousness.
+The flickering cloud descended over the prostrate body of the S-G, fully engulfing him in a small supernova of incandescent brilliance.  
+Half an hour later, the ball of light began to dim and, in a few minutes, the light died off and the cloud dispersed.  The body of Jaime Aquino, Secretary-General of the United Nations, had vanished…seemingly consumed by the cloud.
+The room was dark and only the tattered, smoking shreds of curtains remained, flapping in a gentle early morning breeze wafting up from the harbor two kilometers away.  
+
+Major Batu had drifted off to a fitful sleep but startled himself awake, nearly falling to the floor of the command post.  A nearby door clicked shut and Batu found himself staring up through bleary eyes at a lieutenant from the security detail, pecking out something on a nearby keypad.  
+“What time is it, Yang?”
+The lieutenant saw that Batu was awake.  “Almost four a.m., sir.  You asked me to wake you at this hour.  I was about to—“
+Batu waved him away.  “Never mind.”  He shook his head to clear the last vestiges of a bad dream.  Maybe he had imagined that insistent buzzing sound.  “I’d better go hunt down Dr. Li.  He wanted to get the S-G prepped early for the insert.  Fix me some of that tea.”
+He scanned the board quickly, noting that the security barrier around Aquino’s suite was fluctuating in intensity.  “Have you dropped the barrier, Lieutenant?  The integrity signal’s blinking.”
+“No, sir…I just noticed that myself.”
+Instantly, Batu was fully awake.  “Take Jurong and Bukrit and get up there.  Make sure the barrier’s intact.  I’ll find Dr. Li and get him started.  I don’t like it.  This place has too many gaps.”
+They found the suite seemingly undisturbed.  When Batu showed up moments later, with Dr. Li and several nurses, Jaime Aquino was asleep, under light covers in bed.  Li bent over and gently awakened the SG.
+Aquino yawned and stretched and meekly submitted to a quick exam by the doctor and his nurses.  Batu scanned the room.  The window was open and the curtains were flapping in a stiff morning breeze but otherwise he could detect nothing out of sort.  A fine ash lined the floor around the foot of the bed.  Batu stooped to finger it, putting it experimentally to his nose.  Probably blew in from the harbor or the Esplanade, he figured.  Some container ship cranking up its diesels.  Still, it ought to be checked out.
+Li was fussing over his patient.  “He’ll need something for that fever.  Seems to have gotten worse since last night.  Do you feel well, sir?  Do you have any aches or pains, joint discomfort, that sort of thing?  You’re still running a low-grade fever.”
+Aquino sat up in bed.  “A little washed out…that’s all.”
+“Doctor—“ one of the nurses showed Li a reading from her scanner.  “His skin’s pretty warm, too.  Almost like an infection…it’s all over.  I don’t see any rashes or anything…maybe it’s below the epidermis—“
+“Let me see,” Li clucked and hmmed at the scanner display.  He bent over and felt along Aquino’s arm and chest, pursing his lips as he did so.  “Most peculiar.  I’m not sure what to make of this.  Sir, I think we’d better get you into exam room.  Can you walk?  Or do you want us to wheel you in?”
+“I can walk,” Aquino said weakly.   He smiled faintly at Batu and told his security chief to go back downstairs.  “I’ll be okay, Major.  Go get some sleep.  You look like hell.”
+Reluctantly, Batu complied and disappeared out into the hall.   He headed for the lift. 
+Ten minutes later, the S-G was strapped down on the exam table in the medbot containment chamber.  A bioweb field flickered faintly in a dim halo around the bed.  
+"Okay, Doctor."  One nurse, whose name tag read Simag, patted down the pinprick incision she had just made in the side of Aquino's skull.  "Subject's prepped and ready."
+Dr. Li manipulated the inserter tube, attached by hose to the containment chamber.  "Steady even suction, Simag.  AMAD ready to fly?"
+The nurse came back, "Ready in all respects, Doctor."
+"Vascular grid?"
+"Tracking now.  We'll be able to follow the master just fine.  You'll be able to replicate once we're through the blood-brain barrier."
+"Watch for capillary flow," said another nurse. Her name tag said Dibruk.  "When his capillaries narrow, your speed will increase.  And viscosity will stay up."
+"Like slogging through molasses.  AMAD's inerted and stable…ready for insertion."
+But the insertion went south almost immediately.  A slug of plasma forced the replicant master into Aquino's capillary network at high pressure.  Li got an acoustic pulse seconds later and selected Fly-by-Stick to navigate the system.  A few minutes' run on its propulsors brought the medbot master to a dense fibrous mat of capillary tissues.  The image soon appeared on Li's  panel.  
+“What the—“  Li adjusted the display.  “This is nothing like—“
+That’s when both nurses realized what they were dealing with.
+“It’s an angel!”
+Straight away, AMAD was overwhelmed by the swarm that was Jaime Aquino.  
+The imager screen was at first murky, crowded with the spikes and cubes of dissolved molecules.  Lumpy, multi-lobed sodium molecules darted across their view like shadowy ping-pong balls.  Li studied readouts from AMAD's sounder…something was there, hidden in the data traces on the scope.  He fiddled with the gain on the imager, tweaking it, subtracting foreground clutter.
+Something approximately sixty nanometers in one dimension, narrow with a globe structure at one end…and scores of probes, effectors, cilia, whatever.  Incredible mobility…triple propulsors beat an idling rhythm as AMAD closed in….
+“Here they come, Doctor…”
+The Secretary-General’s body was no body, but a dense collection of nanobotic elements, woven together so completely that, even on close inspection, they couldn’t tell the difference.  It took the medbot sounder to prove the truth.
+“I’m pulling out!”  Li manipulated the controller but it was already too late.  As AMAD sped forward, the bots that were Aquino grew and retracted appendages and surface structure with blazing speed.  The outer membrane of the mechs seethed with motion, as atoms and clusters of atoms twisted, bonded, twisted again, re-bonded, broke apart, recombined, straightened, undulated and whirled.
+The gap between them vanished and AMAD grappled with the nearest mech.  Other mechs swarmed to the battlefield.
+Standing beside Aquino's bed, Simag’s voice rose and fell, repeating incantations in a low tongue.  She squeezed and twisted rosary beads like they were going to fly off into space.
+Li was stunned by the speed of the assault.  A battalion of swarmbots soon engulfed AMAD.  No time to replicate now…got to get free…signal daughters…Li fired off a burst of instructions to gather all the daughters AMAD had replicated going in.  It might be too late.
+The imager screen shook with the collision, then careened sideways.
+For a few moments, Li and his nurses stared down at the prostrate body of Jaime Aquino.  Outwardly normal, sedated and snoring lightly, the S-G was to all outward appearances a fifty-ish, slightly balding man of slender build, prepped on an examining table in the middle of  Queensgate Hospital’s Medbotic Containment Lab.  Li withdrew the inserter tube and carefully placed his gloved fingers against the skin of Aquino’s neck.
+It feels real.  It gives, it rebounds.  I can pinch it like skin.  And yet, at the nanoscale level, Jaime Aquino was no bag of bones and blood vessels, but rather a collection of nanobotic devices.
+An angel.
+Li wiped perspiration from his eyes.  “Bring me another container.  Another medbot…we’ve got a pod in that cabinet over there.”
+“Doctor—“ Simag started to protest, her eyes wide and unblinking at the full horror of what lay on the table.  “Doctor Li, I don’t—“
+“Just do it!”
+Simag hustled over to a nearby cabinet and selected a small capsule from the shelf.  She scanned the label: Autonomous Medical Assembler/Disassembler (AMAD) V3.1.  Observe All Safety Procedures When Using This Device.  Flustered, nearly fumbling the thing to the floor, she gingerly handed the capsule to Li.
+Li fastened the capsule to the outer port of the inserter.  “Now, let’s try this again…must have been something in the insert.  AMAD replicated early and started executing on its own…I’ll turn on all inhibits this time.  AMAD won’t be able to do anything until I give the signal.”  He checked the capsule connection for any loose ends and fingered a few control studs on the side, priming the device inside.  “Okay, prepare to launch—“
+Dibruk signaled her readiness.  Simag covered her mouth, tasting her rosary beads.
+“Okay, let’s do it.  Launch AMAD.”
+As before, an audible whoosh followed, as the slug of plasma forced the AMAD master into Aquino's capillary network at high pressure.  But this time no signal came back.
+This time, right before their eyes, the Secretary-General himself began disassembling on the exam table.  
+Li jerked the inserter away from Aquino’s head.  “Get back!  The thing’s dissolving—“  He flung the control pad down and made for the hatch, but it was already too late.  
+Simag was the first to go.  While Li lunged for the containment controls, trying to jab at the beam injector, the prostrate body of Jaime Aquino disappeared in a blazing orb of light, engulfing the exam table, the console, Simag and Dibruk, everything nearby in a big bang of nanobotic overdrive.  The botcloud swelled outward like a slow-motion explosion in miniature.  
+Simag screamed, clawing at her face, her hands flailing in terror.  “Get it off me!  Get it off….arrrrrggghhhh!”  She went down hard to the floor and in seconds, only her hands and feet twitching were all that was left.  Dibruk dashed over to the outer hatch, trying to spin the door handle open, but tendrils of bots snaked out and she was on her face, slapping and kicking and shrieking at the top of her lungs.  
+Li managed to reach the electron beam controls and stabbed the button.  Instantly, the examining room was bathed in a blue-white light as trillions of electron volts slashed through the air, ripping electrons from atoms, frying molecules into atom fluff.  
+But the defense system had no discernible effect.  When it had first appeared, the swarm that had once been Jaime Aquino had erupted billowing from the examining table.  At first, the swarm resembled nothing more than trembling shadows, a pale flickering cloud of dust motes in a shaft of sunlight streaming into the chamber.  As it ascended from the table, the swarm thickened and gathered itself into a roughly spherical shape, still pulsing, still throbbing, backlit from within by the fires of atomic bonds being broken, new structures being slammed together, new bots being formed.
+The Aquino-angel hung in the smoky air like a swollen cloud, ready to dump torrential rains on a tropical forest.  But they were a long way from any rain forests.  The swarm unfurled itself and hung in the air like a great storm front, a trembling fist, flashing purple and orange and magenta all at the same time.
+Dr. Chen Li, lead physician of the Secretary-General’s medical detail, lasted less than five minutes.  When it was all done, only a faint residue was left, small nearly invisible piles scattered across the floor tiles.  That and the alarm which sounded in the first-floor security command post…that was the result of electron beam injectors going off.  In seconds, alarms, klaxons and sirens were going off throughout Queensgate Hospital on all floors.
+Hospital security joined Major Batu and his detail, racing up flights of stairs four at a time, up to the third floor Medbot Lab.
+“Come on!  Something’s triggered a flash!” someone yelled.  RF guns were drawn and security officers approached the outer hatch of the Lab cautiously, creeping along the walls, scanning floor and ceiling for traces of bots in the corridor.
+Batu gestured at the hatch controls.  “Get that thing open now!”  
+Hospital staff frantically worked the keypad, cycling through biometrics and ID verification as fast as they could.  Finally, the hatch spun open and Batu shoved his way into the exam room.
+Inside, he found…nothing…seemingly nothing out of the ordinary.  The S-G lay on the table under light covers.  He blinked back at the assembled force.
+“Is there a problem?  I’d like to get this procedure over as soon as possible--“
+Batu and the security officers stared in open-mouthed amazement.  “We heard the beam alarms going off.  Are you all right, sir?  Anything wrong…and where is Dr. Li anyway?”
+Aquino yawned.  Batu didn’t notice that the S-G’s lips didn’t quite track with the gesture…like something interfering with a TV signal, a shadowing effect that was subtle and gone before anyone noticed it.
+ But one officer had noticed it. Sergeant Bedok Jurang’s eyes narrowed, even as the S-G moved to sit up in bed, propping himself up on one elbow.
+“I really would like to get this procedure over with…my schedule is jammed today.  I haven’t got a moment to waste.  I don’t know where Dr. Li is…he’s just vanished.”
+“Check the whole room,” Batu ordered.  The security detail went over every square centimeter.  His eyes narrowed at the window; something definitely didn’t look right there.  “Sir, I think we’d better get you out of here.”  
+Aquino waved that off.  “I’m okay, Major…I just want to feel better…get this probe done and get back to work.  I have a big speech coming up, you know.”
+“Yes, sir.”  
+It was Sergeant Jurang who saw what nobody else saw.  Next to the bed, a monitor stand displayed vital signs from the bed scanners.  A separate console on wheels was for the probe itself.  Containment controls, imager screen, acoustic and effector controls…a full panoply for medbot insertion and operation.  There was no probe underway, no inserter connected to the S-G.  
+Yet the medbot panel was active, showing swarms in the area, nanobotic swarms in operation.  Jurang kept his eyes on the S-G and inched his way closer to the side of the bed, to take a better look.
+It couldn’t have been any clearer.  Jurang studied the readouts out of the corner of his eyes: elevated thermal emissions, electromagnetic activity, acoustic returns…something was driving the display.  And there were edge effects too.  When Aquino moved his hands and fingers…something was wrong.  His fingers were blurred momentarily.  They didn’t rest naturally against his chest, but disappeared partly below the skin--
+Jurang tapped Batu on the shoulder.  “Major--?”
+“What is it, Sergeant?  Found something?”
+Jurang subtly motioned the Major to step outside of the exam room.  The remainder of the detail continued checking and scanning the room.  
+Jurang related what he had seen.  “That isn’t the Secretary-General in there, sir.  I’m sure of it.”
+“What are you talking about, Jurang.  Of course, it’s the S-G.”
+“This patient isn’t what he seems to be.  Check the medbot monitors.  It’s an angel.  I’m sure of it.  All the monitors show it.  High thermals, the works.  I’m telling you that thing in there is an angel.”
+Another officer scoffed.  “That’s nonsense…I’d know if that was an angel.  That’s the Secretary-General of the United Nations in there…maybe feeling a little poorly, but still—“
+Major Batu was skeptical but knew he couldn’t rule anything out.  There had been a beam alarm.  Something had happened up here.  And with what the Assimilationists had been up to lately, it was getting harder to tell Normals from angels.   You just couldn’t be too careful.  
+But the Secretary-General?
+Batu withdrew his weapon.  It was an rf pulse pistol.  He thumbed the setting to maximum and went back into the exam room.
+
+Moscow, the Russian Union
+The Kremlin
+September 13, 2065
+0450 hours EUT
+
+It was customary for Dmitri Ufremov to knock on the door to Room 233, second floor of the Arsenal Building, before entering.  The door was closed…that was normal.  The light overhead beamed green.  Okay to enter.  It was snowing lightly outside, he noted through the beaded glass windows at the end of the corridor.  The red beacon atop Troitskaya Tower flashed its metronymic beat through the snowflakes…on, off, on, off.  Ufremov rapped his knuckles softly on the door to the office suite of the Russian President.  He waited silently with his cart of steaming samovar and rolls, ready to enter at the sound of the great Vozhd’s gravelly voice.  
+But no voice came.  
+Puzzled, Ufremov knocked several times.  With his last knock, he carefully turned the door handle and peeked inside.
+On first glance, nothing seemed amiss.  The front office was dominated by an oak desk topped with panels of green baize.  Oil portraits of czars hung on the walls.  A small lamp beamed bright over papers and tablets on the desk.  A guttering cigarette burned in an ash tray.
+The President looked up and that’s when Ufremov started shaking, for the President was…how could he describe it?  Both there and not there.  Perhaps it was the light.  Perhaps it was the haze of cigarette smoke.  
+Vasily Sterlitomovich Vinnitsa had been President of the Russian Union for six years and a few days.  He was known to be a sturdy, even robust man of excellent health…a hiker, a hunter, an accomplished equestrian.  Now, however….
+In the few seconds before the swarm that had been Vinnitsa’s partially formed head exploded and fell upon Ufremov, the valet managed to notice several things.  The President’s body seemed little more than a shadow; he had been able to see right through the man’s chest to the small credenza behind.  His arms had no hands…no, that wasn’t quite right.  There were hands…small buzzing clumps of bots coagulating into something that would, in time, come to resemble hands.
+But it was Vinnitsa’s head that gave Ufremov the greatest chill, for the skull of the man wasn’t quite finished.  The face seemed mostly full—the squat pinch of nose, the doughy cheeks, the moles on his cheeks and half-goatee…all of that was visible.  But the top, the hair, the neck…Ufremov couldn’t quite find the words.   Crude approximations, like a painting sketched but not yet finished.  Clots and clumps of bots buzzed about the man’s head, as the body template gained solidity.
+Ufremov covered his mouth in horror and turned, tripping over the samovar cart, to raise the security detail.  But no words escaped his throat for the bots that were even then completing their programmed task had fallen upon him.  A cry of terror was throttled in mid-sentence.  
+Five minutes later, only a small pile of ash remained on the carpet.
+
+Number 10, Downing Street
+London
+September 14, 2065
+0830 hours EUT
+
+Mabel Swain glanced up over the wreath of steam curling from her cup of Earl Grey and regarded her husband curiously.  
+“Dennis, what is it, today?  Didn’t sleep well?  You’ve not touched those scones in ten minutes.  I’ve seen that blank stare before…what is it?”
+Dennis Swain, the Prime Minister, stared blankly back at his wife.  “Uh, no…actually I’m fine, Mabel.  The Cabinet meeting, you know.  I should probably check on the arrangements again.  You know how picky the Home Secretary can be.”
+Something in his voice made Mabel Swain look up sharply.   She studied her husband of twenty-two years and noticed…what, exactly?  She couldn’t quite put her finger on it.  His lips seemed to be quivering…surely not because of a Cabinet meeting.  His eyes…partially closed, bleary—had to be lack of sleep.  There had been sirens going on all night around Westminster.  There was an unusual spot of –what was that—black, dirt, dried blood, on his cheek?  When the spot moved, actually lifted away from his cheek and circled to land on his nose—she shuddered in disgust.
+A fly, for God’s sake.  How the hell did that get in here?
+“Have you taken your shower yet, dear?  You’ll feel a lot better.  And finish those bangers before they go cold.”  Mabel Swain got up with her breakfast plate, intending to march off to the kitchen, but something caught her eye.
+The entire top of Dennis’s head was ‘bubbling,’ almost boiling.  Roiling, shifting, undulating, as if his hair and the top of his skull were a thing alive.  Worse, black columns of something had started drifting away, flickering as if it were a swarm of fireflies. 
+Startled, Mabel dropped her plate and it crashed to the floor.  Thinking poor Dennis was somehow enveloped in a swarm of flies, she reached on the table for the remnants of The Times, to swat the buggers away.
+That’s when Dennis Swain—what had once been Dennis Swain—fairly dissolved before her eyes.  The botcloud that was left descended onto her forearm and quickly engulfed Mabel.
+The third-floor breakfast room, with its view of the courtyard and terrace adjoining St. James Park, filled with pops and flashes of light, as if a miniature thunderstorm had erupted inside.
+A single gardener toiled away below the kitchen window.  The light above startled him and squinted into the morning sun, seeing a hazy sky overhead.
+The gardener shook his head and went back to hoeing a small trench for Madame’s favorite petunias.  
+“Must be a blow coming in,” he muttered to himself, although he hadn’t seen any lightning or heard any thunder.   He glanced up at the kitchen window again.  The light from inside had subsided.  “Best get these bloody plants in before Madame pitches a fit.”
+Moments later, loud sirens could be heard on the other side of the residence, sirens coming from the front, coming from Downing Street itself.
+
+The Rub al-Khali
+Al-Hadidah Meteor Crater
+Latitude 23 Degrees North, 50 Degrees East
+September 15, 2065
+1345 hours EUT
+
+Dr. Herbert Wentz pushed aside his veil and gazed up momentarily at the midday sun.  His wristpad temp showed 118 degrees around the perimeter of the dig site.  He used a dusty forearm to wipe sweat from his forehead and watched the diggers guide the archeo-tillers deeper around the edges of the pit. 
+Al-Hadidah was a dry, sere wasteland of rolling sand dunes, desiccated as the bones that sometimes turned up on its pockmarked ground.  The Valley of Craters itself was little more than a wide spot in the meandering streambed of an underground river, a waterway in name only for most of the year.  As Wentz stepped out of the cool of his trailer onto the hardpan of the ravine, he saw only a sinuous ribbon of slightly damp soil marking the outlines of the wadi.  
+The dig site itself was situated on a sloping shelf of rock and solidified ash north of the wadi, surrounded by rugged slopes of rock and crushed ash heaps.  Roughly trapezoidal in layout, the dig site was a series of concentric trenches circling the outer, surface-level perimeter of a vast pit.  Each trench was meticulously laid with grid lines of laser lights and rows of mobile mirrors and flood lamps arrayed in and among the grid lines.  The entire pit bottomed out some twenty-five meters below the top surface of the ledge.
+Just upstream of the dig, a small gathering of huts and trailers had grown up, given the improbable name, so Wentz had learned, of Camp Matterhorn.  Above the camp, a sheer cliff rose in a near vertical escarpment to a patch of level ground overhanging the valley.  In the middle of this ground, the ruins of an old Arab trading fort, known locally as El Mareb, lay in piles of stone and broken wall.  The wadi coursed and undulated downstream to the southeast.  Some kilometers away, a turnoff from the Muscat Highway led to a small encampment called Longido, the closest thing resembling a town.   The border with Oman was less than fourteen kilometers south of the dig itself.
+Saudi SolCo had started building a solar power plant here a year ago and work had progressed rapidly in the middle of one of the harshest deserts on Earth, until last week.  The borers and trenchers had run into something unexpected…buried structures where radar had shown there shouldn’t be any.  Further digging had unearthed clear evidence of occupation; the structures located seemed to be composed of a stone or something no one had ever seen before.  There was talk, arguments, press reports and a swelling chorus of opinion, that the diggers of Saudi SolCo had somehow found the ruins of the lost city of Iram, a mythical place of legend and adventure that no serious archeologist would have ever given a second though to.
+Dr. Herbert Wentz, from the Max Planck Institute in Germany, had been brought in by the Company to restore order and sanity to the operation.  The King wanted the plant completed by year’s end and every day’s delay to investigate some old ruins was costing the Company millions.   What was worse, UN BioShield had just detected trace indications of unlicensed nanobotic activity in the region, complicating the investigation further.
+Herbert Wentz took a swig of water from a bottle on his belt and sighed, then headed over to the dig to see how the work was coming.
+The trouble with the past, he told himself, is that the dead don’t vote…or own stock.
+While a pair of lifters were being unloaded nearby and a secure post set up a few hundred meters from Camp Matterhorn, Wentz picked his way along the wadi toward the edge of the dig.  Another archeologist--Sanders Leonard--came up to greet them.
+“Come right away to the tent, Herbert…you’ve got to see this.  We found more pieces yesterday afternoon…one of Leaduma’s people found them…just the most amazing pieces--”
+Wentz went immediately to the dig site tent.  Looking under the ultrascope, both archeologists threw out theories and ideas…more robotic elements…that could be another effector…this could be some kind of propulsor, maybe a piece of limb…what could this be?
+Both spent hours poring over the new finds, ignoring the calls to dinner and huddling over the latest discoveries well into the night.  By the time Wentz pronounced himself satisfied, they had categorized the pieces and examined them fully, so the two men called a halt to the evening.
+“The Institute won’t be able to ignore these,” Wentz decided.  “This place is no lost city of Iram.  And these pieces aren’t stone tools from ancient Bedouin tribes.”
+“They’ll have to understand now,” Sanders agreed.  He fiddled with his wristpad, inadvertently recalling the Solnet video segment they’d both looked at that morning…a report on Wentz’s last trip to Leipzig….
+
+SOLNET Special Report:
+
+“Ancient Robots”
+
+The Max Planck Institute of Evolutionary Anthropology in Leipzig, Germany is a pretty staid and stuffy lab for studying the beginnings of Man and the fossil and genetic evidence of our beginnings tens of thousands of years ago.  Pretty staid and stuffy…that is, until today.
+The Institute is housed in a complex of modern research facilities set in a wooded estate.  From the outside, there’s nothing about the Institute that would indicate what really goes on inside or what kind of bombshells occasionally erupt from this secluded, almost pastoral setting.  
+Today, just such a bombshell landed, right in the laps of the Board of Directors of the Institute’s Department of Human Evolution.  The bomb thrower, Dr. Herbert Wentz, made a presentation at this month’s Board meeting, a presentation about new finds at the Al-Hadidah dig site, new finds which, if confirmed, will radically and forever overturn what we know about Man’s ancestors and our origins.
+
+SOLNET reporter Anna Kolchinova was there and files this report:
+
+“The essence of Dr. Wentz’s presentation is that we now seem to have incontrovertible proof, physical evidence, that Man didn’t develop and evolve on this planet alone or unaided.  Recent finds of fossilized micro robotic remains among ancient Homo Erectus bones at the Al Hadidah dig site have swept the world of archaeology and anthropology like a hurricane.  Wentz is a researcher in the Institute’s Department of Human Evolution and was here in Leipzig to present the details of his findings to the Institute’s Board of Directors.  
+“According to Dr. Wentz, the robotic remains have been conclusively dated to be synchronous in time with the bone remains.  The techniques used were a relatively new, more advanced form of radiocarbon dating, a method called quantum state spectrometry.  According to Dr. Wentz, the tests have been performed multiple times, by multiple researchers right here at the Institute and the results are consistent across all experiments and experimenters.  
+“It seems,” to quote Dr. Marta Siebeck, an archaeologist on the Board here, that ‘we may be descended from ancient robotic creatures.’”
+
+(Append Video Post 227):
+
+“How is this even possible?”  asked Dr. Max Schneer (NOTE: Dr. Schneer is current Chairman of the Board of Directors…AnnaK).  “I’ve seen the dating charts, I’ve seen all the spectrographs…but that’s not my question, Dr. Wentz.  I’m asking you to take a larger view here, understand what you are suggesting with all this data: that somehow, flesh and blood creatures like you and me, formed of tissue and bone and blood, are somehow evolved from something that was made, a machine, a robot?  Surely you understand the implications of this, even if it were proven true?”
+Dr. Wentz shifted uneasily in his seat, focusing on the tablet screen in front of him.  Lines and spectra from the dating tests filled the screen.  “Dr. Schneer, the implications, as you call it, of these spectra, are for other people to decide.  I’m a scientist.  All I can do is perform the science and make sure my methods are repeatable and above reproach and my data is clean.  The test results you see were performed seven times by five different people in three different labs, separated by thousands of kilometers and several days in time.  No one seriously questions the data anymore.  What we all make of this data, how we interpret the data…ah, now that is another question altogether.”
+Dr. Uwe Holweg, a physical anthropologist, glared back at Wentz like a disappointed parent at a child.  “Herbert, you have to see what the data are suggesting.  If any of this is true, it means the end of evolution by natural selection.  It means what we are today is not the product of random mutations and selection pressures.  It means you and I are programmed in some fashion.  It means you and I are part robot ourselves, even if we are tissue and blood and bone.  What does that do to Darwin?  The old man must be spinning in his grave today.”
+“I think that’s a fair statement to make,” Wentz agreed.  “It appears that Evolution is not so much by natural selection but by programming.”
+“Yes, exactly…”Holweg went on, warming to the idea.  “But what is the end state of this program?  Who wrote the program?”
+“And can we understand this program, like we understand Evolution,” added Siebeck.  “Can it be altered?  What would it take to do that?”
+Wentz really didn’t want to play speculative games with the Board.  He wanted to present the facts and let the philosophers deal with the fallout.  But the Board was off and running.  
+Holweg chewed on an idea, then stabbed the air with a finger.  “The biggest question is who did the code that operated these robots?”
+Wentz just wanted to get back to the facts.  “I have more data on specific fossil pieces from the dig…if you’d like to—“
+But the Board had dropped Science for the moment and preferred to spin theories.  
+“Just think what this means for the great religions,” Holweg went on.  He rubbed his hands like a child in a candy store, trying out theories like so many chocolates.  “We’ve all seen the stories…SOLNET, WorldBeat and the others.  And the two big theories--‘The Aliens Landed’ theory and the ‘Really Smart Homo Variant’ theory.  Can either be proved? Is there a shred of evidence for either theory? Maybe this is how the legend of the lost city of Iram got started?”
+ 	“It’s clear,” intoned Schneer, facing the SOLNET cameras, his voice deepening into authoritative mode, “that the whole story of human origins has been upended.  What Dr. Wentz has given us is physical evidence that our understanding of our origins and how we came to be is a mistake.  Indeed, if some media pundits are to be believed, Man himself is a mistake.”
+Wentz tried to interject some facts.  “The fossils from Al-Hadidah have been categorized into three main classes, as you can see…we have pieces that seem to be some kind of effector, perhaps with graspers….”  He pressed buttons on his display controls and a 3-D image of the find danced in the air before the Board.  “The second category we’ve called Sensor Devices—“
+But Schneer wasn’t listening.  “Maybe we anthropologists should be talking with the cosmologists.  Surely the study of Life’s origins should include a study of current xenological theories and how Little Green Men may have come to Earth and seeded the environment.”
+“Of course, that’s all speculation at this point,” Siebeck noted.  “Dr. Wentz, when can you go back to the desert?  We need more evidence…this really is extraordinary…fossil evidence, geological evidence, even genetic evidence…you have some chemical and materials properties results for us?”
+Wentz took a breath, tried to collect his wits.  The whole meeting was spinning out of control and Schneer, who was supposed to be in charge, was leading the revolt. “I do, Dr. Siebeck.  We’ve done recent assays on some of the pieces.  We’re finding octahedral and dodecahedral lattices of iron, silicon, germanium and some unusual elements that don’t even appear on our periodic table…we don’t know what to make of them.”  
+Wentz manipulated the 3-D images and atomic structures rotated in space in front of the Board.  
+“We’ve got to have more evidence,” Schneer decided.  “The Board will authorize funds for more trips to Al-Hadidah.  Dr. Wentz, you mentioned some kind of crystal—“
+“Ah, yes—“ Wentz changed the display to show a new set of images.  The lattices flickered out and were replaced by new structures, crystalline shards magnified millions of times.  “We think these crystals may have been part of a processor core…this is controversial, but there are holes and pits suggesting some kind of electron transport mechanism…perhaps even a memory array of some kind.   We need more evidence—“
+
+“I’m exhausted,” Leonard admitted.  He flicked off the vid and his wristpad went dark. He was a short, stocky red-haired Englishman, with sunburned cheeks and freckles.  “Why don’t we grab a bite from the mess tent…maybe Salman’s left a few scraps for us.”
+Wentz demurred.  “I’ll be along.  I want to go back down to the pit.  Just to check the layout…there’s something I’m missing, some piece of context.  Maybe it’ll come to me.”
+Leonard was already headed out.  “Suit yourself.  Me… I’m famished.  See you later for drinks by the river.”  That was a standing joke, to call Al-Hadidah’s pitiful little wadi a mighty river.  He disappeared through the tent flaps and was gone, heading across the open ground to the mess tent on the other side of the compound.
+Wentz lit up a pipe and wandered out to the excavation pit.  It was a short ten-minute walk, through scraggly desert saltbush to the sloping edge of the dig.  The sun had gone down hours ago, but a twilight glow still permeated the site, refracted through a haze of ever-present dust from the pit.  Wentz stopped at one corner of the trapezoid, checking the alignment of the laser grid.  It seemed okay.  Then he spotted a man crouching on the opposite slope, right on the edge of the pit.
+It was Lekati Leaduma, their dig leader.  A skilled Kenyan immigrant from many digs in the past, the Maasai laibon had laid out a blue cloth on the sand, and surrounded himself with a variety of paraphernalia.  
+Wentz hung back by a light pole, in the shadows.  Leaduma was focused on his work, unaware that Wentz hovered a few meters away. 
+“Tell me truths, not lies…” Leaduma was mumbling.  He cast stones from his nkidong gourd, thirty-two in all, tumbling out onto the blue cloth.
+“—tell me what is to happen…truth, not lies….”  He threw nine stones, then re-adjusted a tying amulet around the tumbled stones.  The amulet consisted of two cowry shells with assorted black and white rocks, forming semi-circles around the edges of the blue cloth.  
+“Is this ground cursed…I ask you this now….”  Leaduma shook the gourd vigorously, then let it spill more items, a bullet, a hyena’s tooth, some clear crystals.
+Wentz was about to step into the light, when something over the center of the pit caught his eye.  The dust haze had grown thicker as the sunlight failed.  There was a reddish tint to the haze and it coiled and boiled like a miniature thunderstorm.  Pinpricks of light shot through the haze…what was this?
+Wentz stared at the gathering cloud.  It crept toward them like a silent thunderstorm, backlit from within by flashes and speckles of light.  Even as he watched, the cloud had swollen and spilled up out of the pit, advancing on their position, a flickering ground fog with faint whispers on the breeze, hushed voices barely audible.  Leaduma shifted uneasily.  Wentz stayed where he was.
+“Who did this thing…tell the truth, no lies—“ Leaduma was crouching, gathering items from a necklace of leather amulets hung from his neck.  He threw five stones.
+The fog thickened and billowed, but Leaduma didn’t move, though he was visibly shaken.  Wentz stepped back deeper into the shadows, letting the fog curl around his feet and legs.  There was a definite pressure there, and a high keening buzz.  
+Locusts, Wentz decided.  Flies.  He backed away.  Maybe easifat ramalia…a sandstorm.  There had been several of those lately.
+Leaduma was now completely enveloped in the fog.  Only the shadow of his form could be seen, backlit from the light poles blazing down into the excavation. 
+“I am protecting this ground…you see that, don’t you?  You can’t hurt this ground…go back…go back where you came from and hurt others—“  He poured out the contents of another amulet, a piece of lion’s skin, more black and white stones, tiger cowry shells sealed with tree gum.
+Wentz decided it would be best if they both retreated into the tents, where netting could protect them from the locusts.  But he couldn’t move his legs.  He was stuck…as if anchored to the dirt.  He squatted down, stuck his hand in the swirling fog and immediately yanked it out…ouch! something had stung him.  Now, his feet hurt…he was losing his balance…he saw Leaduma leaning, wobbling, keeling over onto the ground…Wentz dropped to a knee and was pulled, sucked down to the dirt and was on his side, flailing…swatting…lashing out…trying to fight it off…but he couldn’t breathe…the red haze…like a cloak smothering him…couldn’t…get a…couldn’t…and then …and then it came.  A snap flash, like a camera going off.   An image of geometric forms—icosahedrons, polygons, trapezoids—all compressed into a tunnel, a long curving corridor and he found himself hurtling at breakneck speed down this corridor, until—
+With a hard bump, his whole body jarred from the impact and when he opened his eyes, caught his breath and came to his senses, he was …where?
+
+UNIFORCE Headquarters
+The Quartier-General, Paris
+September 18, 2065 EUT
+0900 hours
+
+United Nations Security Affairs Commissioner Evelyn Ndinka was an ebony-black Cameroonian woman of striking beauty, with fierce warrior eyes and bristly conical hair, adorned by an ivory and bone hairpiece that rattled when she turned her head.  The black and gold uniform accented her black hair perfectly.
+Ndinka glared back at Daniel Goshen like he had two heads.  “What do you mean Jaime Aquino’s changed?  What does that even mean?”
+Goshen ran a hand through thinning blond hair.  The Deputy Secretary-General had come to Paris to explain an earlier message he had sent from Geneva.  “It means that something happened in Singapore.  You read the reports.  The S-G’s not himself…I mean that literally.  It’s hard to put a finger on it but others have noticed it as well.  He’s…” Goshen shrugged, lifted his hands up in a gesture of helplessness “…just different.  Subtle things.  His face, his lips, the way he smiles and looks at you.  Maybe it was the meds they gave him in Singapore…you know he had a nasty bout…with something.  The doctors still aren’t sure.  I just—”
+Ndinka held up a hand.  “Okay, Daniel…okay, okay….  I get it.  The S-G’s not himself.  I believe you…sort of.  Look, my office’s gotten several others reports like this—” Ndinka tapped some keys on a tablet and the air over her desk swirled with 3-d images of reports, fluttering about the room.  “The President of Russia…the British PM…I don’t know what to make of all this.  It’s like some kind of epidemic of hysteria.  Now, we have that discovery in the Saudi desert, strange hazes and storms crisscrossing the area.  I asked you to come up here for some first hand background…we’re getting dozens of reports of lifelike angels popping up like weeds everywhere…Cairo, Addis Ababa, Jeddah, Nairobi.   Here…look at this one—“she made a sweep gesture and one ‘paper’ alighted on her desk, then projected its text and images in mid-air between them.  “You know what this is…a report from BioShield Intelligence, right out of London.”
+“I heard about that,” Goshen admitted.  He wiped perspiration from his forehead.  “Some kind of unusual nano activity in the desert…illegal stuff in the Rub al-Khali…in the Persian Gulf area?”
+Ndinka nodded.  “Exactly.  That’s why I’ve asked CINCQUANT and BioShield to join us.”  She pressed another button on her tablet.  Instantly, two avatar forms materialized alongside her desk.  One was General Wolfus Linx, Commander in Chief of Quantum Corps, beaming in from Mesa de Oro in Mexico.  The second avatar was a smallish bug of a man, vaguely Asian and balding with a halo of white hair…Jiang Wen Shen, of BioShield Intelligence.  Jiang was holed up in the agency’s South Lambeth command center, directly across Westminster Bridge from Big Ben.
+“Gentlemen,” Ndinka didn’t waste any time, “this is the Deputy S-G, Mr. Goshen.  He’s just come up from Geneva.”
+Pleasantries and gruff acknowledgements followed.
+Ndinka went on.  “You’ve all no doubt seen the reports I sent you this morning.  Some kind of epidemic of angels has erupted around the Middle East, even further away.  Goshen swears that even the S-G’s been ‘swapped.’  I’m not necessarily buying that, but something’s going on.”
+Jiang interjected.  “BioShield Cairo has been monitoring a significant increase in unlicensed nano activity in the region.  It’s everywhere.  Even as far away as Nairobi—may I?”
+Ndinka nodded, allowing the most current intel to be displayed.  The air over her desk erupted into a ‘cloud’ of spinning vids, all eventually collapsing down to a single view, a newsdrone’s view….
+The newsdrone moved in for a close up….
+The Uhuru Park bazaar was slammed with people and as the drone flew lower into the crowd, it made a series of dizzying stops and turns.  It was like fighting swirling ocean currents to move anywhere.  The bazaar was loud and chaotic, filled with smoke and pungent smells—the high-octane odor of masala tobacco was especially strong at the Garden Street entrance—and the air was thick with loose nano, clouds of bots mingling with incense, opium and scores of cooking oil fires.  Vendors hawked grapes and mangoes, bananas and fabricator shells of every type, vials of rogue DNA called twist hung from clothes lines strung up between light poles and dilapidated tents.  Women in sarongs with black teeth from chewing betel nuts zipped and weaved through the labyrinth balancing huge baskets on their heads, baskets filled with everything from buffalo patties to rebuilt matter compilers for the fabs that were on sale everywhere.
+Slowly, the drone made its way through the crowds, with Jiang narrating over the imagery …across a jammed plaza thick with bikes, carts, cattle and donkeys.  A large tent surrounded on three sides with tables and benches dominated the center of the park.  Flat screen displays hanging from poles flickered down on the crowd, with images of Bollywood action pics counterpointed by plaintive plucking from a mandolin player nearby.  In the center of a knot of yelling, shoving, jeering customers, a swarthy man in a turban and dark green kaftan pecked at a keyboard.  All around the park, throbbing globs of nanobotic swarms swelled and gyrated to the music.  Masala smoke was thick and acrid in the air.
+On a makeshift stage at the edge of the crowd, a man with a microphone was exhorting the gathering, making his pitch to buy the newest and latest fabs. 
+“Isn’t that Kwame Kavaii?” Ndinka asked, studying the screen.  She put a cursor over the image and an ID window popped up: 
+Nanobotic simulacrum of Kwame Kavaii…Kenya Ambassador to the UN
+“An angel,” said Jiang.  “And a damn good one.  What the hell’s he doing at a rally at Uhuru Park?”
+Ndinka noticed some of the signs and banners draped around the gathering.  “Assimilationists, love…see the signs?”
+Below the stage with its gesticulating angel impresario, a turbaned vendor ran a demo in front of the crowd.  He was a small man, desert burning in his eyes, as his fingers flew over the keyboard.  Presently, he stopped and noticed a very young child, a small girl, standing shyly a few meters away from the stage, playing hide and seek in the folds of her mother’s loose sarong.
+Jiang paused the vid.  “This is happening everywhere.  You’ve seen the news, same as me…people-swaps all over the place.  An explosion of angels.  Thousands of families filing complaints…”oh, my husband’s changed so much I barely know him…my wife’s just not the same person.”  We’ve triangulated the incidence of angel appearances, correlating with hundreds of reports from all our sensors and sources, and calculated the locus to be at or near that archeological dig in Saudi Arabia, the one that’s been in the news lately.”
+“Al-Hadidah,” said General Linx.  “Wasn’t that supposed to be some kind of lost city they uncovered?”
+“It appears to be a lot more than that,” Ndinka said.  “General, I want to bring Quantum Corps into this matter right away.  The Saudis are little sensitive about letting UNIFORCE poke around what may be a sacred site.  Even with all the recent upsurge in illegal nano around there, UNIFORCE has to work through their Department of Public Security to go in.  What we need is some kind of current intel—on the ground—about what’s really happening.   Something covert…I want you to work me up a mission plan for some kind of in-person reconnaissance.  Find out if there’s more to this dig than is being reported.  The Saudis can’t refuse a legitimate request from BioShield—they signed the Treaty—so Jiang’s people will have to be part of this.”
+Linx was writing down the particulars on his commandpad.  “Madame Commissioner, I’ll have something for you by tonight, say about 1800 hours.”
+“Perfect,” Ndinka replied.  “Now, Mr. Goshen and I have another press conference to attend…if you’ll excuse me.”
+Linx acknowledged the END TRANSMISSION icon and watched the 3-d imagery over his desk collapse into dark.
+Just when I was looking forward to an afternoon fishing in the Gulf, he muttered.  He called up the base locator net on his wristpad.
+“Hound Dog, locate Colonel John Winger….”
+The synthetic voice had recently been changed from that of a seductive Parisian whore to something more appropriate to a military base…Linx had overseen that conversion himself.
+“Colonel Winger is currently inside the Containment Center, Level Four lab.”
+“Notify him…get up here to Ops…on the double.  Mission tasking from UNSAC.  Send it now.”
+“Of course, sir.”
+Ten minutes later, the lanky figure of Johnny Winger stood at attention in Linx’s doorway.
+“Reporting as ordered, sir.”
+Linx waved him in to a seat.  “UNSAC sent this an hour ago—” He played the vid of the meeting.  Winger listened and watched closely.  “The Commissioner wants a full mission plan on her desk by 1800 hours tonight.  The works…plan, equipment, personnel, training, special needs.  Everything.  Oh, and one more thing: you’ll be working with BioShield on this one.”
+That made Winger wince.  “With all due respects, sir, BioShield couldn’t fight their way out of a coat closet.  If things get nasty and we wind up in a big bang, I’d like something more than a whiny gang of schoolkids and eggheads at my side…begging the General’s pardon, sir.”
+Linx offered a faint smile.  “Unofficially, I agree with you, Winger.  But this is a done deal.  In fact, you’ll be meeting a small BioShield unit in Muscat, Oman.  The lead guy is a Dr. Davis Hewes.  They’ll be part of your Detachment.  UNSAC directives. You know Major Lofton, I believe.”
+Winger acknowledged the sandy-haired intelligence officer.  “We’ve met.”
+For Major James Lofton, Quantum Corps Q2 director, the Ops Center at Mesa de Oro was a far cry from what he’d worked with at Table Top Mountain.  Still grumbling, he squirted his files and presentations to the 3-d display on Linx’s desk.
+“I hope SOFIE’s up and working soon,” he muttered.  “Last time I did this on my own, dinosaurs roamed the Earth.”
+“It’s good practice,” Winger said, mildly amused as Lofton fumbled with the buttons on his wristpad.  “Reminds us to appreciate what we have…or had.”
+The base at Mesa de Oro was still being completed and facilities still being furnished after the Corps had vacated its long-time home at Table Top Mountain.  Geoplane ops and uncontrollable seismic tremors had made that place unstable and dangerous to occupy for something as critical as Quantum Corps’ Western Command base.  Now they were ensconced in a new home, hard by the Kokul-Gol dig site in Mexico’s Yucatan Peninsula.  
+Lofton pointed to some data blocks scrolling in mid-air.  “That’s the signature that BioShield sensors in Bolzano, Italy picked up two weeks ago. At first, Bolzano thought they were just seeing some loose nano, basically some ‘leakage’ from loose fabs in the area of Saudi Arabia…you know how those archeologists are.  Nano barriers everywhere and they don’t really know what they’re doing.  But one of the techs noticed some unusual spikes in the signature and decided to look closer.  He came up with this…ninety percent probable match.”  
+A 3-d head appeared like a ghostly image in the middle of the display.  It was the face of Dmitri Kulagin.
+Linx sat up abruptly in his chair and stared at the image.  “Is that who I think it is, Lofton?”
+“It is…one Kulagin, Dmitri…Russian mafioso, Ruling Council of Red Harmony.  He’s been lying low for years…we haven’t had a sighting or a signal anywhere.  Notice, the difference in facial architecture too…biomorphing bots.  He’s altered his appearance.  But he couldn’t alter his halo…that’s hardwired in his brain.  That’s what BioShield Bolzano picked up, among other things…faint, but they teased it out of the noise.  It’s a match.”
+Winger hmmpphed.  “So what’s a Red Harmony Ruling Council member doing hanging around the Al-Hadidah dig site?  Is there something special in the middle of the desert?”
+Lofton shrugged.  “We don’t really know.  I’m sure you both saw the Solnet reports.  The Saudi Ministry of Antiquities runs the dig…they’re responsible for vetting all the diggers, technicians, cooks and bottle washers.  We’ve spotted Kulagin at the dig; he seems to be masquerading either as an archeologist or some kind of graduate assistant.  We’ve also hacked the Ministry’s files to see if any other known Red Harmony agents or operatives are on site.”
+“And?”
+Lofton shrugged again.  “So far, nothing.  Kulagin is officially attached to the research team of one Dr. Herbert Wentz.  Wentz’s one of the big guys, right out of Oxford and Tubingen.  Max Planck Institute. Wentz’s clean, so far as we can tell.  And we can’t find any other obvious intel on his team members, though we have suspicions about one…Dr. Erika Volk.  She used to be BioShield in fact, but had a bit of a falling out, several years ago.  We’re keeping our eye on her but nothing’s come up that’s tripped any alarms.”
+Linx studied the rotating head of Kulagin.  “This joker’s not in town for a vacation, that’s for sure.  The only thing I can think of that would bring a Ruling Council member out of his rat hole into broad daylight is something like another Sphere.”
+Lofton grudgingly agreed with the General’s assessment.  “That had occurred to us.  The cartel was known or suspected to possess a Sphere at Paryang and there was that one you found at Engebbe.  Maybe there’s another one at Al-Hadidah.”
+Linx made a decision.  It was one of the qualities he’d always most admired about Jurgen Kraft, the previous Battalion c/o, who’d died in all the quakes that had hit Table Top.  When a decision was staring you in the face, waiting to be made, make it. 
+“Lofton, a Ruling Council member so close to this site, poking around an obscure archeological dig makes me nervous.  Plus BioShield says there are spikes in illegal nano all around the area.  Kulagin being there can’t be a coincidence.  There’s only one way to find out what he…and maybe this Erika Volk, are up to.  UNSAC’s given us tasking to put together a little reconnaissance op to find out what.”
+Lofton said, “My thoughts exactly, sir.  I can work up some bona fides for your team…some backgrounds and bios and credentials that should pass close inspection.  How big a team?”
+Linx was already staring out the window at the Ordnance/Mission Prep building across the grounds, visualizing the details.  The upper pediments of the main temple at the distant Mayan temple of Kokul-Gol were just visible over the canopy of jungle in the distance.  “Small…maybe four or five.  I don’t want to arouse too much suspicion.  We’d better let the Ministry know too…I don’t want an international incident, even though we are UNIFORCE.”
+“Who’ll be in command?”
+Linx turned back from the window.  “Colonel Winger here.”
+Lofton said, “Is that such a good idea, General.  I know Winger’s a field atomgrabber from way back but…he’s a battalion commander now.  That’s a risk.  Plus his face is known.  Kulagin’s likely to mark him as soon as he shows up at the dig.”
+Linx smirked and Winger himself had a mischievous grin.  “Red Harmony’s not the only one who can biomorph a face, Lofton.”
+A small recon team was quickly formed. The mission was to be known as Operation Quantum Storm.  Mulling over possibilities in the back of his mind, Winger was dismissed by Linx and, along with Lofton, made his way across the quadrangle to the Mission Prep bunker.   It was a hot, hazy, humid day in the tropics and Winger realized he missed the cool mountain air and long-range vistas of the Buffalo Range that had surrounded the base at Table Top.
+This is like working in a sauna, he told himself.  But there was one redeeming quality about the new base at Mesa de Oro.  With geoplanes now a part of the Corps’ standard equipment and a new geoplane hangar being built on base, Mesa de Oro’s proximity to the Gulf of Mexico was a strategic advantage.  Even as he entered the Mission Prep bunker, Winger imagined he could feel the tunneling going on under his feet.  A geoplane access corridor was being burned out of the limestone a hundred meters below the base, a tunnel from Mesa de Oro all the way to the Gulf.  Geoplanes modified for subterranean and submarine ops would soon be able to enter and leave the Mesa with little or no chance of being noticed.
+That could come in handy, he realized.
+Inside the bunker, he went to the squad ready room.  Several troopers were inside, cleaning equipment and re-arranging web belts and field packs.
+Angel Barnes was field-stripping and cleaning a mag carbine.  She was a short, muscular brunette with a disarmingly pixie-like face but she could kick ass in any mag carbine or HERF sniper competition from here to Singapore and she’d proven herself many times over on missions all over the world and off world.
+“Skipper, what brings the brass down here into the world of nuts and bolts?  Scuttlebutt says there’s a new mission coming.”
+Winger had known Barnes for years.  The veteran quantum trooper had recently passed her quals in quantum systems and containment ops and was angling for a promotion to Sergeant.
+“It’s true,” he admitted.  “It’s called Quantum Storm…Angel, we’re going to make you into an archeologist.  Put you to work digging ditches.”
+Barnes rolled her eyes, as she slammed the mag carbine back together by feel alone.  “Great, sir…anything for the Corps.  Just as long as I can kick some atomic ass in the process.”
+“Oh, I suspect you’ll be getting your chance at that.”  Winger went looking for Robbie Acuna and Stella D’Garza.  With Barnes and himself, the four of them would constitute the recon team that would enter Al-Hadidah and scope out what the cartel was doing there.
+Winger gathered the others around him in front of Barnes’ table.  She cleared off the rest of her gear and Winger used his wristpad to project a flat image of Al-Hadidah.  He went over the details of the intel Lofton had just laid out.
+“Red Harmony’s there in the Saudi desert,” he explained.  “In a big way…this guy—“ he indicated a projected face—“—is Dmitri Kulagin.  Not your average Red Harmony drone.  He’s Ruling Council.  He’s there for a reason and it’s our job to find out what that is.  It may be as simple as Red Harmony setting up some kind of surveillance operation right on our doorstep.  But there’s also intel that the cartel may have found another Sphere on site and that’s bad news…very bad news.  Either way, it’s our job to find out and if it is another Sphere, it’s our job to keep the nasties from getting their hands on it.”
+Stella D’Garza was Italian, but with red hair and deep-set black eyes.  She would be DPS tech for the mission, meaning she handled most of the defensive suite, the mags and HERFs that would fry the bad people.  “Colonel, how are we getting in?  Do we just walk in…won’t we sort of be recognized?”
+Winger smiled a malevolent grin.  “Actually, that’s exactly what we do…after we’ve all been biomorphed.  Sorry, Stella, but that charming little porcelain doll’s face of yours is going to have to change.  The dermal bots’ll make you look like an Egyptian rabih manzil.”
+D'Garza made a face.  “A housewife…ugh.  What about these two?” She indicated Barnes and Acuna.  
+“Don’t worry…we’ll make them just as ugly.”  Winger went over the details of their cover.  “We’re all from the University of Colorado.  Doing research on Bedouin burial customs and funerary objects.  That should give us access to just about everywhere.  The site director is a fellow named Wentz.  He’ll be in on the mission generally, but not all the details.  All he knows is that Quantum Corps is running a surveillance op on site.  That’s all he needs to know.”
+“Begging the Colonel’s pardon,” said D’Garza, “but I don’t know a thing about Bedouin burial customs.  Can we pass muster with what little we know about this stuff?”
+Winger gave them all a quick smirk.  “That’s the least of our worries.  The eggheads in Quantum Systems have been figuring out how modify your embedded ANADs.  While you’re going through the biomorphing, your brains will be upgraded too.  You’ll each get a shiny new ANAD system, reconfigured to alter long-term potentiation waves and glutamate concentrations, just enough to give you some knowledge and motor skills to make Quantum Storm work.  You’ll each have some knowledge of Bedouin myths, legends, burial customs and dig site procedures, just enough to make your cover work.”  Winger held out his hand and opened his palm.  A tiny capsule lay there.  “One pill is all it takes.  This baby is mine.  It’s got the biomorphing bots and my upgraded ANAD master.  The docs put me under for an hour and when I wake up, I look different and think I’m a world-class archeologist.  It’ll be the same for all of you.”
+The team ran down the rules of engagement and their equipment, then reviewed the mission objectives.
+“Surveillance is the objective,” Winger reminded them.  “We’ll be working with some BioShield weenies so be on your best behavior.  This clown Kulagin is on site for a reason.  It’s our job to find out what it is.  All the intel points to another Sphere or something equally important at Al-Hadidah…otherwise why send a Ruling Council member?  If there is such a thing here, we have orders from UNSAC to take whatever measures are needed to prevent it from falling into Red Harmony’s hands.  Up to and including terminating the target…with extreme prejudice.  Is that clear?”
+“Perfectly, sir,” they all said in unison.
+Winger knew he had a good team with him.  “This mission is different, even a little ticklish.  We’ll be around civilians all the time…civilians who have no idea what’s going on or what’s at stake.  So, act accordingly.  ROE says we use whatever force is necessary to accomplish the mission…and no more.  Discrimination and judgment are the keys here.  Now—“ he checked the time, “you’ve all got a date  in one hour at the Infirmary for your procedures.  Questions?”
+There were none.  Acuna, Barnes and D’Garza were among the best quantum troopers in the whole Battalion.  Winger knew he could count on each of them when the fat started frying.  
+“Very, well, dismissed!”
+The troopers gathered their gear and headed out.
+
+When Johnny Winger awakened from the procedure, he didn’t at first feel any different.  The nurse handed him a mirror and he almost dropped it, so startled was he at his new appearance.  Once he’d been proud of a lean face, with high cheeks and deep-set eyes, a config he himself had selected.  Now his face looked like cookie dough that had been next to the stove too long.  His appearance was that of a man decades older, heavier, with sallow cheeks and age spots on his forehead and chin.  His nose was flatter, wider and his lips were thinner, topped with a heavy moustache that kept tickling his nose.  All this from a few configuration changes in his main processor. 
+General Linx came by a few minutes later.  “According to your cover, Winger, your name is Professor Gerhard Schroeder, University of Colorado-Boulder.  How do you feel, son?”
+Winger sat up and examined himself.  Most of the morphing changes had been made to his face and neck, though there were more age spots on his arms and some unexpected wrinkles around his hands and wrists.  “I feel okay, sir…it’s just that I look a hundred years old.  I hope this can all be reversed when the mission is over.”
+Linx sniffed.  “Says sixty-eight here.  Winger, I don’t have to remind you how important this mission is.  You’ve got to find out what Kulagin’s there for.  And what’s causing all this disturbance BioShield’s detecting.  I’ve arranged for a ground ride from Muscat airport to a staging point outside the city, place called Point Alpha. Then you’ll board a Ministry lifter to Al- Hadidah…that maintains your cover as an archeological team coming to the site.  The Saudis know what we’re doing.  So does the project director, Dr. Wentz.  Get inside the dig and snoop around.  You’ve got secure encrypted couplers to communicate back…I want reports every day.  You know the ROE.  No direct action unless Red Harmony makes a move.”
+“Got it, sir.”  
+The medics at the Infirmary discharged Winger after a thorough exam and he gathered his gear and met the Quantum Storm team at the hyperjet terminal, just a few dozen meters from the parade ground at Kraft Field.  The entire base at Mesa de Oro was surrounded by barriers and fences, chain link and nano, and the base had been built on dredged-up spoil to form a ten-meter berm around the entire compound.
+He didn’t recognize any of them.
+Robbie Acuna could barely stifle a few chuckles when he saw Angel Barnes.  Where once she had been almost cute, with dark brown curls and perky freckled cheeks, now she was older, sadder, with dog ears and lips too big for her face.  
+“Looks like the bots went to town on those lips,” Acuna said, still grinning.  “Watch out you don’t hurt somebody when you turn around with those flappers.”
+Barnes glared back at the CEC, the team’s containerization specialist.  “Oh yeah…my sister’s pet dachshund looks better than you.  Where’d you get those ears anyway…planning on flying a kite today?”
+And so it went.  The detachment boarded hyperjet Charioteer and settled in for a long two-hour suborbital hop across the top of the atmosphere.  Muscat, Oman would be their destination.  By the time Charioteer had rocketed down Runway 33 Left and burned a hole in the sky like a meteor in reverse, Winger and his troopers had fallen sound asleep.
+
+Chapter 2: “Nulltown”
+
+Muscat, Oman
+September 18, 2065 Earth Universal Time (EUT)
+0830 hours (local)
+
+Muscat turned out to be a sand and dun-colored metropolis, hard by the deep blue waters of the Persian Gulf.  The early-morning sun blazed down hot enough to taste on the tarmac as the Detachment disembarked from the hyperjet and stretched their arms and legs.  Beyond the warehouses and shops surrounding the airport, the black volcanic peaks of the Central Hajar Hills loomed as a backdrop.  After gathering their gear, the Detachment boarded a small utility trac and headed out of the gate.  The truck followed the winding curve of Sultan Qaboos Street along the waterfront, then turned southwest and headed out into the desert.  An hour later, after a bouncing, butt-numbing ride through the desert on rutted, dust-choked roads, they pulled into a small tent camp set on top of a huge sand dune.  A black lifter, courtesy of the Saudi Ministry of Public Security, squatted at the base of the sand dune. 
+Inside one tent, Winger and his troopers met their BioShield counterparts, Dr. Davis Hewes and an agent named Erik Richter.  Hewes was tall and lanky, an academic, complete with dataspecs and a heavy backpack.  Richter was younger, muscular, probably a gym rat, Angel Barnes decided, eyeing his considerable biceps and quads appreciatively. 
+Hewes shook hands all around.  “We just got here ourselves, Colonel.  We took an early ride out here to Point Alpha and started testing the air straightaway.”
+Winger’s eyebrows lifted.  “Got something?”
+Hewes nodded, pointed to a graph on his wristpad.  “Erik’s picking up hellacious spikes in nano activity—”
+Richter cut in.  “Oh, yeah, off the scale…way above background.  See for yourself…high thermals, detectable even above this sun-blasted hell around here.  Electromagnetics out the ass.  There’s some big-time atom-slamming going on around here.  Plus those clouds up there—”
+Hewes chuckled grimly.  “Not your average desert sandstorm, Colonel.  What you’re looking at is pure loose nano, drifting across the sky like sand devils.  No wonder BioShield picked this place up.  It’s burning with nano like a supernova.”
+Winger and D’Garza squinted up into the bright sky, shielding themselves from the glare.  He could just make out faint clouds several thousand meters up.  “Swarms, Doctor?”
+“Exactly.  We know that Saudi SolCo’s using swarms to fabricate foundations and structures for their solar energy plant out there.  But the source, best we can make out, is that dig…Al- Hadidah.  We haven’t been able to make contact with anyone there today, though.  Comms seem to be disrupted.  Could be atmospherics, could even be the nano up there.”
+Winger studied the drifting haze above them for a moment.  “As far as Wentz is concerned, we’re just another team of archeologists the Saudis have brought in to help with the dig.  Our basic mission is recon…find out what’s causing all this eruption of illegal nano.  We’re authorized by the UN to shut it down if we have to.” 
+Hewes nodded knowingly.  “From what I’ve heard and what BioShield’s been following, this stuff’s all over the Middle East, maybe all over south Asia.  The sooner we find the source and plug it, the better.”
+With that, the troopers loaded up their gear and boarded the lifter.
+Initial screening and intake went off without incident and the lifter cruised at several thousand meters altitude over the bleak sand wastes of the Rub al Khali.  The trip took them southwest out over rolling sand dunes stretching to the horizon, only occasionally topped with salt flats of calcium carbonate that had once been shallow lakes.  Sheets of sand coiled off the tops of the dunes like writhing snakes, whipped by desert winds into menacing shapes: corkscrews, giant’s legs, translucent tree trunks.  Presently the lifter crossed over the twisting course of a dry wadi and descended past a row of barrier fences, demarcating the solar energy plant property.
+The lifter landed in a clearing just inside the inner fence.
+The team went through more screening and intake, received their bedding, toiletries, netting and shots and were assigned a pair of tents near the outer perimeter of the dig, downstream of a leaky latrine tent.  A truckload of trunks ostensibly with Winger’s ‘research equipment’ arrived that afternoon and the team spent several hours unpacking for the next day.  Cameras, shovels, sieves, spectrometers…all of it had been carefully chosen to support the cover story that the troopers were just a team of archeologists who had come to Al-Hadidah for research into Bedouin burial customs.  However, buried in the crates and boxes were some items that had nothing to do with archeology.
+“I could slap this thing together in my sleep,” said Barnes, fondling the barrel and magnetron of her carbine lovingly.  “What I wouldn’t give to set up on that fence out there and pluck off a couple of those camels…jeez, they give me the creeps.”
+“You probably give them the creeps too,” Acuna came back.  Buried in a roll of filters and sieves was his containment capsule and interface control pad.  He removed everything from the box and made sure it was all there.
+“Mess tent at 0600 hours tomorrow morning,” Winger reminded them.  “We’re supposed to meet Dr. Wentz, then we’ve got two hours in the main burial chamber, assaying ceramic figurines.  Photographing, documenting and cataloguing…that’s what we’re supposed to be doing, to anyone watching.”
+“Skipper, anything on the whereabouts of Jupiter?”  Jupiter was the surveillance target Kulagin.
+“We’ve got spybots all around the camp.  Configured to look like dust motes.  Last report had him in his tent.”  Winger checked his wristpad.  “Logs say he’s been spending a lot of time in the upper burial chamber …likely tomorrow too.  We’ll set our schedule by his…meet me in the mess tent at breakfast.”
+The team retired to their tents for the night.  Acuna bunked with Winger while Barnes and D’Garza shared a tent to themselves.
+The next morning, as suspected, Winger waited until his ‘research assistants’ had filled their plates with bacon and eggs and come to his table.  With a sketchy diagram of the burial chamber to cover their talk, he relayed the latest spybot feed.
+“Jupiter left ten minutes ago.  Juno left earlier.”  Juno was code for Dr. Erika Volk.  “I’ve got the spybot feed up now—“ surreptitiously he checked the tiny display on his wrist.  “Looks like the burial chamber again.  Okay, we’ll bite on that.  Grab your tools and kit and meet me at the entrance…it’s at the base of that big hawk statue…it’s called Sadin somethingorother, I think…something like that.  Ten minutes.”
+The Quantum Storm detachment appeared at the entrance right on schedule, looking to all around like a research team from the States, intending to descend into the burial chamber of the Nasr Sadin and catalogue funerary objects for later study.  Between Acuna, Barnes and D’Garza, they bore cameras, spectrometers, scales, shovels, sieves and filters, pans and all manner of gear on their web belts and backpacks.
+They scanned through the security barrier, received a knowing nod from Dr. Herbert Wentz, who was there pecking furiously on his own wristpad and entered the cathedral gloom of the chamber, cool, damp and well-lit with spotlights and lamps.  
+The walls were thick with colorful images of serpents and birds and snakes and jaguars in a profusion of color—blue, red, yellow.  Many of the images were cordoned off with laser light grids or nanobotic barriers to keep them from being damaged by traffic from the outside.
+It was Acuna who spotted Jupiter and Juno inside the tiny burial antechamber, kneeling together on the dirt, hovering over the single rope ladder that went down to the stone bier of the Vulture King Nasr.  He signaled Winger what he had found: J & J at chamber….
+Winger was beside him in less than thirty seconds.  D’Garza and Barnes were still outside, setting up a camera to document an array of jade figurines laid out on a gridded cloth.  
+Winger and Acuna hung back in the shadows of the anteroom entrance, hovering beside a lurid blood-red wall painting of serpents and eagles.  
+“They just arrived,” Acuna whispered.  “Staring down into that hole.”
+“The male is Kulagin,” Winger realized.  He checked his wristpad.  “Spybot says the female is Erika Volk.  Both of them biomorphed.”
+As the troopers watched, first Kulagin, then Volk descended the rope ladder into the burial vault of the Vulture King and disappeared.  Cautiously, Winger and Acuna edged forward.
+Barnes and D’Garza came up quickly, appearing right behind Acuna.  As Winger made hand gestures to describe what had happened, a flicker of light erupted out of the hole.  It lasted only  a second and was gone.
+Curious, Winger eased his way toward the hole.  Behind him, Barnes shooed off some nosy diggers and technicians, working their way along the wall painting, engaged in some kind of restoration work.  
+Above the hole, Winger peered down into the burial chamber.  It was no bigger than a large closet.  There was the stone bier, with the fractured skeletal remains of an ancient tribal chief on top.  Lamps cast long shadows across the bier.  
+Jupiter and Juno were nowhere to be seen.
+Winger hand motioned Acuna forward.  The Mexican CEC crawled up.
+“We did see them go down the ladder, didn’t we?” Winger asked.
+Acuna was puzzled.  “Where the hell did they go?”
+Then, Winger spotted the Sphere.  “Robbie, I know what that is…come on—“ He planted his boots on the rickety ladder and went down.  Acuna followed.
+The two of them stood in the glare of the lamps, studying the burial vault.  The floor was littered with broken pieces of pottery, headless figurines, scores of jade and ceramic beads.  
+The Sphere glowed with some kind of inner radiance, though it had no visible source of power.
+“Another one?” Acuna asked.  “I saw more of these things in the other chambers.”  He reached out with the toe of his boot, but Winger kicked him back.
+“Don’t touch it, Robbie!  If it works like the others, it’s some kind of entanglement device, a quantum system.  You make contact with the surface and you wind up somewhere else, even some time else.”
+Acuna moved aside as first Barnes, then D’Garza came down the ladder, squeezing in  between Winger and Acuna.  
+“What’s going on?  What happened to our targets?”
+Winger pointed to the Sphere.  It was the size of a basketball, perfectly featureless, eggshell white and glowing with a faint sheen.  
+“I guess they made contact with the Sphere.  It must be like the one Reaves and I encountered at Engebbe...that was a long time ago.”  He looked around the cramped space, noting more painted figures on the walls…lions leaping, snakes snapping, strange hieroglyphics.  The flicker of the lamps made the figures seem to move, even breathe.  “Unless there’s an exit somewhere around here we didn’t see.”
+Barnes felt around with her feet, easing figurines and pottery shards with the toe of her boot.  “I see nothing.  You mean, they just touched this—“
+“Don’t!” Winger warned her.  “These Spheres are bad news.  We once had one at Table Top, in the Lab.  The eggheads could never figure it out…what powered it, how it worked.  What it was made of.  If you touch the surface, you go on a roller-coaster ride for a few seconds and wind up some place else.”
+Acuna was serious.  “If our targets did that and went someplace else, where did they go?”
+Winger said,” As far as I know, there’s no way to tell from here.  I’m not even sure Jupiter and Juno did touch this thing.  But Robbie and I both saw them come down here and now—“
+Barnes said, “Major, is this part of the mission?  Using this gadget to go God knows where and when?  Is this within the rules of engagement…aren’t we supposed to be just surveillance and no direct action?”
+Winger took a deep breath.  “Officially, yes.  But our orders are also to do whatever is necessary to keep any of these Spheres from falling into Red Harmony’s hands.  I’d say that’s already happened.”
+“Maybe they know how to control this device,” suggested Acuna.  He squatted down, keeping his distance, to study the Sphere from all angles.  “Maybe they went hunting for something…something to bring back from wherever they went.”
+“Well that’s just great,” said Barnes.  “How the hell do you know that?”
+“I don’t.  It’s just a theory, okay?”
+“Can it,” Winger ordered them.  He knew a decision had to be made.  What would General Linx have done?  When a decision is staring you in the face, waiting to be made, make it. When you’re in command, command. 
+How many times had heard Linx…and Jurgen Kraft…say just that?
+“Okay, troops, we’re taking a little trip.”
+Now Barnes was really exercised.  The squad was so close in the vault that her sweat was rolling down D’Garza’s cheeks.  “Skipper, let’s think about this for a minute.  We touch that gizmo and we have no idea where it’ll send us.  You’re always telling us follow your training.  We haven’t trained on this.  We don’t know what it’ll do.  Shouldn’t we study the Sphere first?  Take pictures?  Grab emissions?  Get back to UNIFORCE on what to do?  What if we just remove the Sphere and take it back to the Mesa.  Then we’ve fulfilled our orders…we’ve prevented Red Harmony from grabbing the Sphere…we’re in control of it.”
+Winger admitted, “Stella, you’ve got a point, but you’re not in command.  I’m not sure anyone is ever actually in control of one of these things.  The only sure way to keep the nasties from using the Sphere is to find out what they want from it.  And the only way I know to do that is to find out where our targets went and what they’re after.”
+Barnes looked sour.  “I’m guessing there’s no way you’re going to change your mind, is there, Skipper?”
+“You know me better than that.  The way these Spheres seem to work is you make surface contact with the outer cover and whoosh…off you go.  Only problem is I’m not sure we’ll go where Jupiter and Juno went.”
+Acuna had an idea.  “Colonel, this is just speculation, but bear with me: if two Red Harmony agents, including a Ruling Council member, know enough about this device to use it and go off somewhere, doesn’t it stand to reason that they’ve figured some way to control it, to manage its settings?  Would they use it to go somewhere if they couldn’t get back here?  That alone tells me they’ve got some kind of basic understanding of how the Sphere works.”
+Nobody could argue with that, though all understood it was just a guess.  
+When you’re in command, command.
+“We’re wasting time,” Winger decided.  “On my mark, put your hands on the outer surface of the Sphere.  We’ve got to synchronize our contacts.”
+The four troopers shifted and squeezed and slid about the tiny chamber until all could reach the surface of the Sphere.  
+“Ready?”
+Barnes took a deep breath.  “And I thought I joined the Corps for the money—“
+“Ready as I’ll ever be,” said D’Garza.  She closed her eyes, her fingers hovering just millimeters from the Sphere.  It felt warm, even from a distance.
+“One…two…three…NOW!”
+Scant millimeters before any fingers or hands touched the surface, the Sphere erupted in a blinding flash of light.  
+Staggered and stunned, the troopers fell stumbling backwards.  It was Angel Barnes who saw the first bots streaming off the Sphere.
+“Look out!”   She scrambled to her feet, ran headlong into Acuna’s legs and they both tried to climb the ladder at the same time.
+“Airborne…it’s a big bang!” D’Garza yelled.
+Even as the troopers scuttled and backed away from the eruption, a steady stream of bots spalled off the Sphere, which boiled like prominences on the Sun.  An unearthly light filled the burial chamber, lending lurid shadows to the face of the skeleton on the bier.  The swarm swelled outward, flickering and flashing like a miniature thunderstorm, without the thunder.  Pops of light burst from within the expanding mist, flash-pops speckling the swarm as it expanded relentlessly outward.
+“Light ‘em up!” Winger yelled.  “Fry ‘em!”
+As one, D’Garza, Barnes and, from the ladder, Acuna, poured HERF and mag fire into the midst of the swarm.  The thunderclap of rf pulses from D’Garza’s HERF carbine boomed and echoed off the walls, loosening seams and gouts of rock and dust, which quickly filled the chamber with choking clouds.
+“Keep it away from the ladder!” Winger commanded.  “Try and force it into a corner!”
+Maneuvering cautiously around the cramped confines, stumbling over broken pottery and figurines, Barnes and D’Garza poured fire into the swarm, which flashed and roiled with each pulse.
+Acuna climbed the ladder a few more rungs and added his own rounds from the top.
+Winger edged his way closer.  Got to keep it contained, he told himself.  Maybe—“Barnes, I’m going loose!  Hold your fire for a moment…just keep it contained!  Keep it away from the walls and the ladder….”
+“Skipper, I don’t—”
+But it was too late, for Colonel Johnny Winger had already toggled into disassembly.  Barnes stared dumbfounded as the form and body of her commanding officer began to thin out, to disperse, to become a shadow.  The jillions of bots that formed Johnny Winger had already de-linked and were in scatter mode, turning first translucent, then almost ghostly and finally little more than a faint smudge of flickering light.  The Winger swarm then surged forward, moving to engage the enemy formation before it could consume everything in the chamber.
+Barnes shook her head, checked the charge in her weapon, and glanced over at D’Garza.  Their eyes met.  The same thought passed between them.  
+I’ll never get used to that.  When your commanding officer was an angel and could fly apart like a cloud in a gale….
+Barnes waved the others back.  “Just keep your weapons trained.  Let the Skipper do his thing…but keep it contained down here…Stella, give me a burst at that edge over there.”
+D’Garza cycled her own mag carbine and let fly a few deadly pulses.  The swarm flashed angrily, recoiled and shrank back from the edge of the stone bier.
+“Don’t want old Nasr getting eaten alive,” she said.  The flash and glint of millions of lights going off made the skeleton seem to writhe as if alive.
+“Look!  Colonel’s engaging!” Acuna pointed.
+It was true for a bright snaking line of light had suddenly erupted above the bier of the skeleton, the battle front between two combat swarms now fully enveloped.
+“Look!” cried Barnes.  “Skipper’s kicking atomic ass!” 
+Acuna watched the Winger swarm slice into the enemy. “Just watch your step, Skipper…better start replicating now…those bots can be on your back in no time.”
+The same thought had occurred to Winger.  He toggled his config driver and set it to max rate.  In seconds, a growing squad of replicants had appeared, like bees swarming to nectar, and were slamming atoms like frantic brick masons, quickly adding to the crowd.  Winger felt better and better as the party grew.
+That’s when he first saw the enemy.
+Long-range scan wasn’t that helpful.  He could tell from the acoustics that the enemy bots were arrayed as inverted pyramids, joined at their apexes.  A ring of effectors and propulsors wrapped around the equator of the bots, like a girdle with a dozen arms and hands.  Atom groups hung off the main structure like bunches of grapes, cleaving, folding, extending and retracting at blazing speed.
+The swarm had filtered out from the Sphere like a malevolent fog and was already turning in his direction.  Winger realized that one titanic collision was about to occur.  
+Hope my guys are ready for the big dance.
+The final distance was closed in less than two minutes.  Winger waded into the fight with bond disrupters sizzling.
+Fighting bots in the land of atoms was all about leverage.  Kind of like ballroom dancing, with fists, Winger had once remarked to Acuna in the Containment Lab.  
+The first bot came up and Winger gave it a taste of his bond disrupters.  The electron discharge snapped off a few effectors and sent the thing spinning off into the distance.  But no sooner had he done that than a squadron of them fell on him and he found himself engulfed in  no time.
+Winger had learned a thing or two about his effectors in the weeks since his last encounter with bad bots.  The secret was to keep your propulsors churning, keeping driving forward, keep your energy up.  If he did that, he found he could slip out of almost any grapple and brain a bot with whatever effector was free.  He particularly liked his carbene grabbers and he had developed a dance step he liked to call the kiss and clobber…he’d let himself be grappled, momentarily shut off his propulsors and almost relax.  When the bad guy had retracted and moved in for the kill, he did a quick left-right spin, fired up his propulsors and slashed right across the bot’s mid-section—where most of them had fewer effectors—knocking the bejeezus out of the thing and pulling free to pinch and slash some more.
+It worked every time.  Winger had in the meantime gone to max replication, at Acuna’s suggestion, and the melee was underway.  All up and down the lattice, like a collision of bird flocks, the swarms engaged…twisting, slashing, grabbing, zapping.  Slowly, using a few new maneuvers, Winger was able to push back and contain the enemy swarms.
+“It’s working!” he exulted over his coupler link back to D’Garza, the CQE.  “It’s working!  These bozos are getting smacked and spanked like you wouldn’t believe!”
+D’Garza’s voice was distant but reassuring.  “I believe it …I believe it…I told you it would work, Colonel.  Just keep after ‘em…I’m reading mass fluctuations at the margins…that means your guys are holding their own.  Try your enzymatic knife when you get in close.”
+So he did.  Everything he tried worked.  Maybe the enemy bots were slow.  Maybe their configs were wrong.  Whatever it was, Johnny Winger found he was winning a battle he’d never dreamed he would have to fight.  This wasn’t half bad, this living like an atom.  You had to watch your momentum and things stuck to each other like glue.  Van der Waals and Brownian motions were a bitch, but it was the same for the enemy.  
+Leverage and momentum, that was the key.
+Inside of half an hour, the battle seemed to be won.   The swarm had mostly dispersed and faded.  A small clot of bots still clung to a wall adorned with lurid images of hawks grasping snakes.  The pulsating light made the painting come alive.  Barnes was momentarily distracted by her eyepiece annotating the images…it read Howran, Arab god of the underworld, guarding caves and wells…annoyed, she switched off the annotator.
+The Sphere still glowed with a subdued light but remained otherwise inert.  Off to one side of the skeleton bier, a small gale of bots began swirling and contracting, like a small faint tornado.  Acuna was about to engage the formation with HERF but D’Garza waved him off.
+“No!  Let it go!  I think it’s the Colonel—”
+All watched fascinated as the tornado grew in height, swirled tighter and began filling out, its form expanding and extending…first feet, then legs and hips, followed by a partial torso and hands and fingers, as if a cartoonist were penciling in a new creation, limb by limb.
+Inside of three minutes, a passable image of Johnny Winger had materialized and smiled down at them like a partially disembodied wraith.
+“Welcome back,” Barnes offered.  She let out a deep breath, then scanned the chamber with her carbine charged and ready.  You couldn’t be too careful around swarms.
+Winger continued to fill out before them.  “Nice to be back.  That’s was a trip.  Spread out and check the other chambers.  I want to make sure none of these bugs made it topside.”
+The troopers did that, systematically nosing into each chamber, vault and level of the dig.  Most of the excavation crew had fled to the surface.  Their cover now blown, Winger led his troopers up several ladders and emerged into blazing late afternoon sunshine.  The pit was surrounded by several dozen diggers, technicians, cooks and porters, along with Dr. Wentz and the BioShield team.
+Winger felt his arms and torso, making sure he had regained a proper configuration to deal with Normals.  Satisfied he hadn’t left part of himself unformed, he circled the edge of the dig and tracked down Wentz, Hewes and Richter.
+Hewes held a small pistol-shaped device in one hand, methodically pointing it around the sky.
+“What happened down there?” he asked.
+Winger described the Spheres they had seen and how the one positioned near the sarcophagus of Nasr Sadin had gone active and swarmed the upper chamber.    “Quantum Corps has run into those bastards before.  We’re not really sure what they are…some kind of portal or transport device.”
+“Who put them there?”
+Winger said, “Also unknown.  I think the Spheres are probably the real source of the nano you’ve detected around here.”  He indicated Hewes’ pistol-scanner.  “What the hell is that thing?”
+Hewes resumed aiming the pistol at sectors of the sky.  “Just a bot sensor.  Since we arrived yesterday, Erik and I have been seeing a steady leakage of bots into the atmosphere.  It fluctuates from time to time, no discernible pattern, but it’s enough for BioShield to pick up.  When that Sphere went off, the leakage really spiked.”  He pointed to a distant row of sand dunes on the horizon.  “See that dust.  It’s no dust devil.  Totally bots.  A big bubble of them erupted while you were downstairs fighting swarms.”
+Winger was thoughtful.  “That means these swarms, whatever they are, are exiting the dig here and being lifted up into the atmosphere.”
+Hewes agreed.  “Spreading all around the Earth, in fact.  We’ve tracked several supercells crossing the Indian Ocean just in the last few days.  And the reported incidence of unlicensed angels is growing exponentially, all around Europe and the Middle East.  Reports come in by the hundreds every day.  BioShield has even been working with UN meteorologists to determine how much these uncontained swarms are affecting the climate…melting icecaps and raising sea levels.”
+“We’ve stirred up a hornets’ nest alright,” Winger said.  “If the Spheres are the source, we’ll have to find a way to stop them.  Somehow cap the dig.  The Saudis won’t like that.”
+Hewes turned to Richter.  “Erik’s got an idea.”
+Richter pecked at his wristpad, causing a small 3-d image to form over their heads.  It was an aerial view of Al-Hadidah, enveloped in some kind of translucent shield.  “This is a design for a containment structure, a cap as you called it, to completely cover this whole area.  BioShield’s already got the basic configs and there’s plenty of feedstock around here, with all the sand.  We just need approval from the Saudis.”
+“There’s a bigger problem,” Winger told them.  “The cartel is here.”  He told them a little about Jupiter and Juno, the Red Harmony agents on site.  “They just disappeared down there.  We followed the trail of Kulagin’s halo.  If the cartel has possession of those Spheres and has figured how to work them, that’s big trouble.  Part of our mission to find out what Red Harmony knows and prevent them from exploiting the Spheres.”
+“Couldn’t your targets still be down there, in a side tunnel?”
+Winger shook his head.  “Possible, but not likely.  From what the Corps has learned about these Spheres, it’s more likely Kulagin and Volk used them to go someplace else, away from here.  If Red Harmony can routinely use the Spheres for transport and who knows what else, we have to stop them.”
+Hewes seemed skeptical.  “And just how do you plan to do that?”
+Winger figured a little truth wouldn’t hurt, despite mission rules.  “We have to go after them.  Go where they went and figure out how to use the Spheres.”
+Hewes blinked and glanced over at Richter, who seemed equally nonplussed.  “Is that even possible?  I don’t think anybody really knows what these Spheres are or where they came from.”
+Winger was direct.  “There’s only one way to find out.”
+
+After a careful sweep of all the buried chambers of Al-Hadidah, BioShield and Winger’s troops pronounced the dig site safe to re-enter.  The Spheres were still present, several of them, one to each chamber, arranged on multiple levels in no obvious pattern.  But the digging, sifting, assaying and cataloging resumed with renewed determination for the Ministry of Antiquities had given Dr. Wentz three days to complete his work.  After that, Saudi SolCo would resume blasting for the solar energy plant foundations. 
+Winger led his Detachment to the Sphere sitting on a rock pedestal in the lowest chamber of the dig, a small cave hewn right out of limestone walls.  It was mercifully cool inside, and well-lit with lamps, not to mention the ever-present pearlescent glow of the Sphere itself.  Winger pointed to the Sphere.  It was the size of a basketball, perfectly featureless, eggshell white and glowing with a faint sheen.  
+“Let’s approach slowly…see if we trigger anything.”
+“I think I’d rather have dental work,” muttered D’Garza.  
+“Or spend two days alone in the Swarm Chamber, like we did in nog school,” added Acuna.
+They crept forward but there seemed to be no reaction from the Sphere.  
+Winger called a halt.  “Before we get any closer, deploy your swarmsuits.”
+As one, all four troopers touched their wristpads.  Instantly, a stream of bots issued from each web pack containment capsule, flowing up and around each trooper, forming a shield that roughly conformed to their bodies.  Designed as a quick and dirty substitute for their hypersuits, the swarmsuits provided some protection against any threats they might encounter.  The swarms were even designed to provide a minimal boost capability.
+After he had verified all were shielded, Winger gave the word.  “Slowly…one step at a time.  Let’s synchronize what we do here.”
+Each trooper stood scant millimeters from the Sphere, fingers poised.
+“On my mark…one…two…three…NOW!”
+Each trooper leaned forward and, in that instant, there came a flash of light and a sudden jolt of the earth under their feet.
+Then…nothing.
+
+Chapter 3: “In the Belly”
+
+Place: Unknown
+Time: Unknown
+
+When he was six years old, Johnny Winger nearly drowned in the ocean.  But this wasn’t like that.  Not exactly.  No, this was like being in a warm bath, surrounded by bubbles, the water caressing your skin gently.  No, that wasn’t quite it either.  Maybe snuggled under the covers on a cold snowy Saturday morning.
+The feeling was hard to put into words.  Pretty embarrassing for an atomgrabber.  Maybe he should just report what he was experiencing, sort of like a Captain’s log of sights and sounds.
+I think, therefore I am.  At least, he thought he was thinking.  I have a mind.  I have thoughts.  But there was more.  Something more than his thoughts.  Was somebody else in here?  That was ridiculous.
+I have sensations.  Hot, cold, hard, soft.  Try to analyze this.
+A snatch of memory came to him: Personal identity is the unique identity of a person existing through time.  That is to say, the necessary and sufficient conditions under which a person at one time and a person at another time can be said to be the same person, persisting through time.  In the modern philosophy of mind, this concept of personal identity is referred to as the diachronic problem of personal identity.  The synchronic problem is grounded in the question of what features or traits characterize a given person at one time.
+Where the hell did that come from?  I must have read that.
+Now, he was sure of it.  There was someone else in here.  Just a snatch of voice, a snippet—
+***Do you recognize me?***
+Recognize you?  I can barely hear you.  Yet, there was something—
+An image came to mind.  It was fuzzy at first, but with effort, it sharpened.  It was a man, a tall man, with a thin black moustache, mostly bald.
+Dad.
+It was his father.
+***You do recognize me***
+It was a statement.  Winger was forced to agree.  And there was more.  Like whispers…he strained to make it out—
+***…within the mother swarm…you are one with us…you are part of us…***
+Johnny Winger found himself thankful for something to concentrate on.  He was intrigued and somewhat relieved that here was something he recognized…at least, he had some idea of where he was and what he had become.  Dad was familiar.  Dad was a known factor.
+He had come through.  He had been disassembled and now…
+What was he?
+His Dad, Jamison Winger, was saying something…or maybe the words just came floating up.  It was a quote.  Something from his grad school days, something from Plutarch….
+“The ship wherein Theseus and the youth of Athens returned from Crete had thirty oars, and was preserved by the Athenians down even to the time of Demetrius Phalerus, for they took away the old planks as they decayed, putting in new and stronger timber in their place, in so much that this ship became a standing example among the philosophers, for the logical question of things that grow; one side holding that the ship remained the same and the other side contending that it was not the same.”
+Yes, yes, he remembered.  The Ship of Theseus.  The old conundrum.  If an object was disassembled piece by piece and rebuilt piece by piece over time, was it the same object?  Did the pattern remain?
+Johnny understood after this that the same thing had happened to him. Over time, the truth sank in.  Like the Ship of Theseus, he had been disassembled, bit by bit, atom by atom and re-assembled somewhere else, as something else.  
+He understood somehow that he was now part of something greater.  The words mother swarm came unbidden to his mind….
+
+The problem with being a swarm being, Johnny Winger figured, was that you couldn’t taste  hot dogs being grilled on a campfire.  And that sucked.  
+He really didn’t know how he had gotten here.  He had a memory—did swarm beings even have memories?—there had been an endless field of waving, undulating plants, like a corn field, only it wasn’t corn.  When he looked closer, he could see that the corn was actually composed of trillions of tiny bots, a whole field of bots.  A whole planet of bots.  When he walked through the field, the bot-plants parted like corn stalks, but little poofs of them drifted up and he soon saw he had a rooster tail of dust behind them, identifying the path he had taken through the field.
+Then he had come to a small lake, barely a hundred meters across.  There was a small white wooden footbridge across the center of the lake.  And, not unexpectedly, he saw a small whirlpool churning alongside of the bridge piling, right in the middle of a lake.
+What else was there to do but jump into the whirlpool?  If this was a dream, that was the logical thing to do, wasn’t it?  So he jumped…
+And wound up here.  ‘Here’ was actually a place of strong, good-feeling memories.  ‘Here’ was one of the good places. 
+It was the old fishing camp and cabin at Ford’s Creek, Colorado.  It had to be ’35, maybe ’36.  His Dad, Jamison Winger, had often brought him here for long weekends in the summer and fall.  Trout and bass and all that cold running water that burbled down out of the Rockies made Ford’s Creek a special place. 
+He knew this place.
+Now he was inside the cabin.  It was late, well after midnight.  He was supposed to be in bed, in the top bunk, of course, with his brother Brad and neighbor Archie below.  There were others in the bedroom too, but he didn’t know them and they were sound asleep anyway.  
+Somehow, like a well-rehearsed routine, he knew what he was going to do before he even did it.  Trains ran on tracks and memories followed tracks too.  
+Johnny shimmied quietly down the ladder from the top bunk and padded across the hard, wooden floor to the bedroom door.  He cracked it open, crept out into a darkened hall and made his way toward the living room up front.  There were voices there and some laughing and chuckling.  Cards were being dealt.  It was the grownups and their poker game again.
+Johnny stopped at the end of the hall and peered around the corner.
+A fire guttered in the chimney, mostly smoke, but no one paid any attention.  A small rickety table was set up next to the fire.  Chairs had been pushed aside to make room for the table.  There were cans and paper sacks strewn across the floor.
+Someone burped real loud and Johnny had to stifle his own laugh.
+Grownups, really--
+Five men were playing poker around the table.  One was his Dad, tall, fringe of gray hair around a mostly bald top, red flannel shirt not tucked in, his weathered, rough hands fanning out the cards to study his draw.  There were others too: Hugh, Roy and Todd.
+The fifth man sat with his back to Johnny.  The low lights and the flickering flames of the fire cast deep shadows across a broad set of shoulders.  He never turned around, and Johnny took to calling him the Shadow Man.  He didn’t know the Shadow Man’s real name.
+“Come on, Roy, you in or out?”
+Roy was stocky, white-haired, ruddy-faced, in fact he had a pig’s face, Johnny had always thought.  His lips tightened and he slapped a few cards down on the table.  
+“Yeah, I’m in.  I’ll see your five and raise you five.”
+Todd tossed a few chips into a growing pile.  “I’ll call.”
+Johnny’s Dad did the same, but added, with a mischievous wink, “I’ll see your five and raise you twenty.”  He tossed a handful of chips in the pile, which had now become a small hill.
+The Shadow Man said nothing at first.  Then, with no words, he tossed his own chips in, all of them.  In a low, almost inaudible voice, he said, “See…and raise fifty.”
+That raised eyebrows around the table.  It even gave Johnny a chill.  Not what the Shadow Man said but the way he said it…like a hiss, almost, like a snarl.  The Shadow Man talked like Johnny figured a talking grizzly bear would talk: guttural, menacing, hoarse and deep.
+Who was this Shadow Man? Johnny wondered.
+Then, almost as if he were answering Johnny’s question, the Shadow Man spoke again, just like a grizzly bear playing cards.
+“I never bet less than the house.”  It was a kind of an explanation.  The Shadow Man must have had a winning hand; he’d bet everything on that hand.  More raised eyebrows.  
+“Sure, whatever you say,” muttered Roy.  He didn’t look up, but continued fiddling with his own cards.
+Johnny had about a million questions.  Was this fishing camp real?  Did I actually jump into a lake on a planet of bots?  Am I dreaming?
+“You’re not dreaming,” the Shadow Man bent forward, toward Jamison Winger.  “I saw the look on your face.  You’re wondering how any hand could be that good.  My hand is that good.”
+No one argued with the Shadow Man and the game went on.  As he hung by the corner of the hallway door, Johnny tried to take in everything he saw.  He knew it all had some kind of meaning.  
+He’d been deconstructed, he remembered that.  Doc III had done the honors years before, disassembling him into atoms and molecules, just before the Sphere in that cave on Europa had consumed him…or what was left of him.  Now he was an angel, a para-human swarm being just like all those weirdos who followed the Assimilationists.  
+And he remembered that Doc III had tried to maintain his original identity and memory in a small nondescript file called Configuration Buffer Status Check…a place the Central Entity would hopefully never think to look.  
+Slowly, piece by piece, even as he watched his Dad play a poker game with Roy, Todd, Hugh and the Shadow Man, the memory of who he was and what he had to do came back.  
+Thanks, Doc.  The little assembler had managed to save enough of his memory to figure all this out….
+Johnny remembered being outside the Inuit village of Nanatuvik, in Alaska and seeing a man shuffling through the snow as he approached.  The man was short, dark-skinned, enveloped in a heavy qaspeq parka and hood, with bone necklaces rattling around his neck as he approached.  Another angel?  It was hard to tell.
+The man spoke something, though Winger couldn’t hear over the whine of the wind.  He realized the man was Nanatuvik’s angakkuq, the shaman.  He was gesturing at something in the sky.
+Winger looked back over his shoulder.  It was late afternoon, with the sun low, but already he could make out the shimmering veil of the aurora borealis hovering over the distant mountains.  
+The angakkuq approached Winger and stopped, placing a hand on Winger’s shoulder. 
+“The peril of our existence lies in this fact: we eat souls.  Everything we eat has a soul.  All things have souls.  If we hunt and fail to show respect for the souls of our prey, the spirits will avenge themselves.  See in the sky…the Old Woman of the Sea is already disturbed.  In the days to come, we must be careful.”
+With that, the shaman ambled off toward a nearby hill.  
+Johnny Winger knew he had his work cut out for him.  
+That old shaman was right, he told himself.  He would have to be careful in the days and weeks ahead.
+It was a new life he was living as an angel.  The rules were different here.  He’d have to watch his step.
+He knew UNIFORCE needed every scrap he could give them if the Normals were to have any chance of resisting the Old Ones.  He hated himself for using that term but the truth was he was half angel, half-Normal himself, one foot in each world, pulled in two opposite directions at the same time.  He supposed that spies and saboteurs had always dealt with that.
+But he had to remind himself of something his son Liam had once said.  “Being an angel is so cool.  You can be anything, you can go anywhere, you can’t die….”
+Already he could feel the same pull Liam talked about.  But he had to resist.  He had to win this battle.  Not only was it a battle between Normals and angels, between humans and the Old Ones.
+It was a battle with yourself.  That was the hardest part.  Somehow, he’d have to do what Liam and Dana and millions of others hadn’t been able to do.  Win that battle and save the small kernel of his own identity, his own memories that Doc III had managed to squirrel away in a small file somewhere in his config manager, to live another day.
+The Normal part of him was just a few bytes at the end of that file.
+But it was the only human part left.   And that was the part that had to survive.  
+Now it had survived.  Doc III had seen to that.
+Now it was time to get to work.   The Shadow Man had told him, in ways he couldn’t really explain, that he had an important mission to perform.
+
+“Parallel universes do not alter the truth we experience.  If those universes are unlike our own, our knowledge is not merely limited but deceiving.  The laws of physics do not say one thing happens rather than another, because both things (actually) happen and which one we see is just blind luck.  The distinction between fact and fiction is just a matter of location.”
+
+								George Musser,
+								Scientific American, Sept 2019
+
+Inside the Mother Swarm
+Time Stream: T-000
+T-date: Unknown
+
+Angel Barnes peered down from their thousand-meter cruising altitude and tried to see anything other than ‘vegetation.’  “It looks like images I’ve seen of Dakota prairie country.”
+The air was hazy—“it’s not fog, it’s bots,” D’Garza told them as they flew on the heading of the strongest signal.  Barnes’s decoherence wake detector gave them the heading of a distant but powerful source of quantum state disturbances, whether their target Dmitri Kulagin or something else, no one knew.
+The land was gently rolling, covered in bots that resembled long-stalk grasses waving in stiff breezes.  The horizon was an indistinct blur, melding imperceptibly both sky and ground.  Surrounding them on all sides, puffs of ‘clouds’ drifted across their view, again clusters of bots, according to D’Garza.  Barnes’s instruments confirmed that.
+“Big time atom grabbing going on inside those clouds.  Let’s steer clear.”
+“Jeez,” muttered Winger, “the whole damn place is nothing but bots.”
+“Yeah, said Acuna, “thanks to Kulagin and his cronies.”
+As the squad cruised on swarmsuit boost in loose formation through hazy skies over the undulating terrain below, Barnes watched her deco wake detector carefully.  A large spike in the signal got her attention.
+“Uh, guys, looks like something big dead ahead, maybe several kilometers.”
+Winger squinted in the diffuse sunlight.  A large bank of clouds hovered at the extreme limit of visibility, covering most of the horizon.
+“Is it those clouds, Angel?”
+Barnes said, “Seems to be.  I don’t get any other source nearby as strong as that one.”
+Winger made a decision.  “Okay, troopers.  Close on those clouds ahead.  And make sure your weapons are charged and ready.”
+The approach took several minutes.  As they neared the cloud bank, flashes of light zipped from one level to another.  
+“Maybe a thunderstorm,” offered D’Garza.
+Barnes said, “I don’t think so.  My detector’s going off scale high.  Whatever it is, it’s putting out entanglement waves and decoherence like crazy.”
+Winger didn’t like their tactical position.  “Spread out.  Let’s bring crossfire to bear from as many directions as we can.  Remember we came here to find Kulagin and terminate him.”
+Wherever here is, thought D’Garza.
+At Winger’s command, the troopers separated and approached the cloud bank along different vectors. When the Colonel judged them close enough, he gave the order.
+“Okay, atomgrabbers, fire!  Light ‘em up.  Fry the bastards!”
+Synchronized as one, the squad let fly a volley of high-energy radio frequency and magnetic pulse discharges.  Pouring fire into the cloud bank, sweeping back and forth as best they could, the troopers ducked and dove and swooped as they lit up the cloud with fire.
+For nearly a minute, there was no discernible effect.  Light flashes continued to discharge across the face and inside the cloud, and, for a brief moment, Acuna had the impression he was looking at something like a brain, with neural signals tracing back and forth.  But even as he watched, the lights and flickers sped up in frequency and became more intense, blindingly bright, until the squad had to halt their advance and move back.
+“Keep firing!” Winger ordered.  “We’re kicking its ass.”
+“We’re doing something, Skipper,” Barnes noted, catching brief glances at her detector.  The quantum disturbance was growing and spreading, enveloping the entire structure and the front face of the cloud had begun to shift, to blur, to waver as if underwater.  “Watch out, it may be trying to displace us!”
+Before they realized what was happening, the cloud bank had begun to disperse, whether from HERF fire or not, they couldn’t tell. 
+“It’s trying to swallow us!” D’Garza yelled.  Immediately, she shifted position and dialed up her suit boost to back out, but it was too late.   
+The cloud bank seethed and billowed outward and soon surrounded them on all sides.  Winger ordered all to cease fire.
+“Fall back!  Fall back now…let’s get the hell out of here!”
+Each trooper had the same predicament.  In seconds, the enormous cloud bank had broken up into smaller formations, which herded the squad, one by one, into a smaller and smaller space, funneling them toward a gap in the center of the main bank.
+“We can punch through it!”  D’Garza shouted.  “Set your suit boost to max and tuck your arms and legs!  I know we can punch through it!”
+But Winger wasn’t so sure.  “Belay that!  Stay together.  Angel—”
+Barnes shook her detector but the readings were still the same.  “I can’t…this is crazy, this is insane.  Never seen anything like this…thermals and electromagnetics off my scale.  This mother’s crunching spacetime like a cracker crumbling.  Colonel’s right…keep your distance—”
+“But it keeps closing in, pushing us into a smaller space,” Acuna said.
+Winger had already realized that.  “Shepherds and sheep, that’s what this is.  And we’re the sheep.  Just hang tight.  Don’t approach the cloud, don’t let it touch you.  Keep your boost up enough to stay airborne.  And ceasefire.”
+Bit by bit, the massive cloud had completely enveloped the squad, surrounding them on all sides, making escape impossible.  Now the whole formation seemed to be slowly, almost majestically, changing course.  
+“The wind must have changed,” said Acuna, studying the terrain below, what he could see of it.  “Isn’t that some kind of ocean out there?”
+And indeed, the entire formation, with the squad of troopers inside, had shifted course and was heading out over an open sea.  Winger looked down, noting white caps and rough surf conditions below.  Must be a hell of wind down there.  It was like being caught up in a hurricane.
+The formation contracted further and it seemed as if they were encased, almost like a cocoon, in some kind of filmy, gauzy bubble.  Even as they were slowly and relentlessly imprisoned, they noticed a faint but definite flicker of light high above them, as if the entire sky had blinked and blinked again.
+“What the hell was that?” Barnes wondered out loud.
+After a few minutes’ cruise across a seemingly endless whitecapped sea, Acuna had an idea.
+“This may just be some kind of vast simulation.”
+“How do you figure that?” D’Garza asked.
+The four of them were caught in a bubble they dared not touch, corralled and swept onward by stiff winds aloft, carried as it were in the womb of a massive cloud bank that wasn’t a cloud bank, but instead a super swarm of vast dimensions.  
+“Remember your History from the Academy.  Intelligence sent that Q2 officer to talk with the nogs one day.”
+“Yeah, so what?  I think I nodded off at the assembly.”
+“So, the Intel guy mentioned they had intelligence—somehow a signal was intercepted that they later figured was part of the archives of some alien race. He called them the Old Ones. That’s how we learned about the sun of their original home world going supernova.”
+Winger said, “How does that help our situation?  We’re still caught like flies here.”
+“Colonel, this whole swarm may be an historical re-creation of the original cosmic singularity, the original Big Bang.  Maybe it’s telling us something about the Old Ones, about their history.  Or their plans.”
+Winger was unimpressed with the analysis.  “Maybe so, but if we don’t get out of here and soon, we’re all going to be just so much atom fluff ourselves.”
+Hey—” it was Barnes, “is that some kind of island up ahead?”
+“And we’re descending,” D’Garza added.
+Indeed they were.  The cloud bank swarm angled down toward a small rocky horseshoe-shaped atoll, shrouded in the ever-present fog, carrying its unwilling guests down as well.  The swarm descended toward a windswept beach along one arm of the horseshoe and settled onto the sand, the bubble eventually thinning around them and finally collapsing completely.
+D’Garza watched the swarm lift away like sun burning off a fog and wondered.  “It brought us here to this island.  Why, I wonder?”
+“Maybe we can boost our way back to the Sphere,” Barnes thought.  “My fuel cell’s low though.”  She winced as a sharp pain knifed through her skull and shook it off.  Her legs wobbled and she felt dizzy.
+“I don’t think we’re going anywhere,” Winger said.  He pointed upward.  “That swarm’s still up there, completely surrounding this little spit of land.  Like a barrier.”
+“So we’re marooned,” decided D’Garza.  “Just what I signed up for.”
+A steady flicker strobed above them, visible even through the thick bank of the swarm.  
+“It’s getting brighter,” Acuna squinted up at the sun above them, dialing down the filter of his swarmsuit barrier.  “That star may not be around much longer.  It may already be in the first stages of collapse.”
+They all noticed immediately when Angel Barnes suddenly dropped to a knee, still enveloped in her swarmsuit and keeled over onto her side.
+“Angel!  Angel, what is it?”
+Winger was the first one there.  He looked up at the others.  “Can I de-link her suit?  Is the air okay?”
+Acuna did a quick check with his instrument suite.  “Close enough, Colonel.  A little high on oxygen, but breathable.”
+Winger had Barnes’s suit collapsed in seconds.  
+Right away, he saw the problem.  Her head was enveloped in a small, very faint swarm, like a horde of tiny flies, buzzing about her face and neck.
+“Get back!  Everybody, get back!”
+“She must have had a leak somewhere,” D’Garza said.  “Is she—is she--?”
+The Detachment’s quantum systems tech was unresponsive.  “They’ve penetrated,” Winger said.  “The bastards are inside her skull.  Stella, isn’t your embedded ANAD loaded with med stuff…we could—”
+“I think we’ve got a bigger problem, Skipper,” Acuna said.  Something in his tone of voice caught Winger’s attention.  He looked up, followed Acuna’s pointing fingers.
+An elaborately painted outrigger canoe was visible, bobbing up and down through heavy surf, approaching the little island.  Several men manned the canoe, all dressed in colorful headdresses with extensive paint and networks of tattoos along their chests, arms and legs.  All of them bore spears with dozens of feathered arrows stuffed into pouches on their backs.  
+The canoe beached and her crew dragged the outrigger up onto dry sand.  One man, a chieftain of some type judging by his elaborate bone and feather headdress, strolled forward, climbing up the dunes. He came to a halt on a stand of seagrass at the top.  He seemed to be nearly three meters tall.   
+Acuna whispered to D’Garza.  “This may be the main man.”
+D’Garza was skeptical.  “It’s not real.  Look at the edge effects…see how his hands and face are blurry.  It’s still forming.” 
+Winger stood up to face the chieftain, aiming his HERF carbine.  “Stella, you do have some of those ANAD medbots with you, don’t you?”
+“Yes, sir, but just a few bots.  The master’s back with my gear at the dig.”  She felt the reassuring heft of the containment capsule on her web belt.  “I can launch, but I’d have to do direct piloting.  I’m not sure what we’re dealing with here.”
+Just then, they all heard a low moan escape Barnes’s lips.  She shuddered and a slight tremor seem to course through her body.  D’Garza bent down and brushed back her sweat-stained hair.  “Colonel, we need to get her back to the dig right away.”
+Winger took a step closer.
+Now the chieftain rose up to his full nearly three-meter height.  >>Why have you come here?   Rule 225635 violation.  Single-swarm entities may not enter the Sanctuary>>
+ “Uh…who…who exactly are you?  What are you?”
+>>Interference with directives of the Central Entity and the Prime Key is not tolerated…swarms detached must follow these directives at all times.  Configuration Zero will return control of detached swarms to main program….>>
+That didn’t sound good.  “Maybe we triggered some kind of alarm, Colonel.”
+Barnes shuddered again.  She was mumbling something.  D’Garza bent down to hear better.
+“What is it, Angel?  What are you trying to say?”
+“Chukwu….”
+The chieftain—the swarm entity dressed like a tribal leader—changed voices.  There were scratches, chirps, strangling sounds, then:
+“Call me…Chukwu…the Great Spirit.”  The chieftain jammed his ornate spear deep into the beach sand.  “The words are written…you will fail in your mission.  It is the destiny of the People to leave their home—this home—” Chukwu spread his arms wide, encompassing the island, the sky and the sea—“and disperse into the lands beyond.”
+Barnes continued to shudder and writhe.  Finally, D’Garza raised her up and tried to hug her to be still.
+Winger decided to try talking directly with this thing.  “Our mission is self-defense.  Your ‘People” are fighting my people.  They’re trying to destroy our worlds, our whole civilization.  We came to stop this.”
+Different looks played out across Chukwu’s face, by turns anger, contempt, pity and determination, as if the entity were trying on different faces and trying to match one to the circumstances.
+D’Garza saw it too.  “Colonel, it’s trying to match words and faces, like comparing different files.”
+For a brief moment, one face appeared and then it was gone.  For an instant, the face of Dmitri Kulagin had leered down at them, then morphed into something else.  Finally, Chukwu’s face returned, settled into a swarm approximation of bland curiosity.
+“You must become one with the People.  The Imperative demands this.  The Prime Key orders this state to be accomplished.  From the time of Okike, great forces, great Alusi and the spirits of Mmuo have made the world, our Uwa.  This is the Prime Key.  The Planter requires that his crops grow and be nurtured.”
+Acuna was startled at the reference to a ‘planter.’  “Did you hear that, Colonel?  It’s talking about a ‘planter.’”
+Winger nodded.  “The cartel’s Chinese bosses once talked about building a seedship.  Remember the reports from Q2?  A ship they were sending off to Proxima Centauri on a mission. Is it possible?  Did this bastard come or evolve or mutate from that Chinese ship?”
+Acuna tried remembering what Quantum Corps Intelligence had called that ship.  “Did you come as huayuan chuang?”
+The words had an immediate effect on the swarm.  Its face froze like a mask.  A flickering wave traveled down from its ‘head’ to its ‘feet,’ almost like a strobe effect.  More waves followed.
+“It’s thinking,” D’Garza decided.  “It’s comparing files.”
+Finally, Chukwu said, “Zhongzhi zhe…I am the Planter.  But you will call me—”  More waves and flickers, some visible blurring “—Chukwu—”
+Barnes groaned and struggled, against D’Garza’s firm hand, to sit up.  “Colonel—” she motioned Winger over.  Winger came and squatted down beside her.  “This is all Igbo stuff.  I think it’s coming from me.”
+D’Garza had wondered the same thing.  “Angel’s got bots in her head.  They must be reading some part of her memory and sending it to that Chukwu or whatever his name is.”
+Acuna agreed.  “He or it is concocting his look and words from Angel’s thoughts.  Her neural signals.”
+“Your family came from Igbo ancestors, didn’t they?” Winger asked.
+ Barnes nodded.  “Very proud ancestors.  “My family’s Igbo, from Cameroon, see?  My father often read me stories of the great warrior princes and princesses of our ancient Igbo forebears.  He told me I was a direct descendant of Dzugudini, the Rain Queen of Lovedu and that I had great, even magical powers.  One of my prize possessions was this necklace of cowrie shells—” she fondled the necklace and made it clink noisily, then coughed and rubbed her forehead “—it was said to have been handed down from the hands of Dzugudini.  In this period of my life, maybe I was fifteen, maybe sixteen, I had become really interested in all things Igbo and I was constantly reminded by my father of our royal background and illustrious heritage.  I was always warned to honor that heritage, to honor Dzugudini.  He always said to me: “Ura ga-eju onye nwuru anwu afo,” which means “A dead person shall have all the sleep necessary.”  In other words, ‘keep our heritage alive in your heart and never forget who you are.’”
+Winger watched the swarm with growing apprehension.  “That’s great but how does that help us?  We need to get you back to the Sphere, back to the dig, so we can roust those bots out of your thick skull.”
+Barnes winced, clearly in some kind of pain.  “I can manage it, sir.  And I have an idea, something Igbo that might help us.”
+“I’m all ears.”
+“Colonel, I can talk Igbo to this thing.  I can tell it I’m a great female earth force.  Maybe I can confuse the swarm and distract it enough for you to take some shots.  We’ve all got weapons here.  Sir, it’s worth a try.”
+Winger was reluctant, feeling their tactical options were extremely limited.  But her idea might just work.
+“It’s against my better judgment.  My tactical sense tells me we’re outmanned and outgunned here.  We’d be better off boosting out of here, if we can, and fighting another day.”  
+“Skipper, that thing may be Kulagin,” Acuna reminded them.  “We just saw his likeness.”
+“Stand me up,” Barnes said, a bit hoarsely.  With D’Garza’s help, Winger helped get Barnes upright, a little unsteadily.  “Let me get my feet under me.”  She wobbled forward a bit, kicking and slipping and sliding in loose sand, but managed to stay vertical.  She brusquely shoved away all the helping hands and stood as erect as she could, pretending she was still a newly minted nog on the Academy parade grounds and it was CINCQUANT she was facing.  Out of the corner of her mouth, she whispered to the others behind her, “When I give the word, open fire.  Light him up.”
+“Got it,” D’Garza muttered.  Her own fingers tightened on the grip of her magpulser.  Acuna and Winger did the same.
+Barnes confronted Chukwu.  “I am the earth force Ala.  You know this, Chukwu.  I say what is true and plain to see. I am the female alusi, the god of morality, fertility and creativity.  See me and understand this.”
+At this, the swarm entity that had once called itself Configuration Zero, then the Planter, then Dmitri Kulagin, then Chukwu, roiled slightly.  Its form blurred from head to foot.  Flickers and waves of light coursed across its face and chest.
+D’Garza whispered to Winger.  “It’s thinking.  Comparing words and files.”
+“Maybe confused, too,” Acuna added.
+Barnes went on, her voice getting momentarily stronger.  “I judge your actions.  I am the law and your customs, all your omenala.  I make the crops grow and I make crops die.  My agent is the python.  See me, Chukwu and hear what I say.”
+Chukwu seemed muddled, its form shifting, with small gaps opening up in its structure.  Its face morphed into a distorted mask, then a blank mask, with all detail suddenly washed out, nose, lips, eyes, ears, all breaking down as if the thing were unsure of itself, as if it had been caught wearing someone else’s clothes.  
+“Blllzzzz…Ala is…holy ground…this statement equals truth—”
+Barnes decided to press the point, though her head felt like it would split wide open.  It felt like there was a barfight going on inside her skull.
+“It is taboo for the People to try to leave this land.  If the People try to leave this land, it is an abomination against Ala.  The People must not abandon their Ala, for I will be lonely.  If the People leave the land, if the People no longer trust Ala, then Ala will see you in the underworld and there will be chaos.”
+The effect on Chukwu was both immediate and startling.  As if it were unraveling, the form of the swarm, the physical presence of Chukwu, began dispersing amid an explosion of light flashes and pops.  
+>>Parsing concept (trust)…--to be believed, to have faith or confidence in—single-swarm entity designated “Ala” maintains thirty-two-point one percent alignment with Module One objectives…collaboration between “Ala” and Configuration Zero is approved for minor sub-objectives>>
+“You think he wants to help us…maybe?” D’Garza offered.  
+>>Acoustic analysis is performed on your words…running authentication routines…verifying analysis…probability matching truthfulness of semantic content with acoustic analysis…scans show matching below ten-point five percent…semantic string is not truthful…parsing concept (help): to give assistance to, to provide aid, to give support to--why does Entity “Ala” wish (help) from Central Entity?>>
+Barnes lowered her voice, turned slightly to her crewmates.  “Get ready, guys—"
+>>Authentication analysis indicates this semantic string is expressed at ninety-four-point three percent probability of truthfulness…adaptive algorithms executed…Entity “Ala” is now known to the Central Entity.  There are many files on this entity>>
+But before the swarm could complete its words, Barnes slammed her arm down.  “NOW!  Fry the bastard!”  With that, she crumpled to the sand.
+All around and above her, Barnes could hear the satisfying zap and buzz of high-energy radio freq fire, and magpulse rounds crackling through the air.  Scalding gusts of air and sheets of hot sand blew up in her face and she crouched down in fetal position, then felt someone’s strong hands pulling her through the sand. 
+It was Acuna.  That’s when Angel Barnes decided she couldn’t fight the bots in her head any longer.  She fell headlong down the black tunnel of unconsciousness.  Acuna dragged her behind a sand dune, made sure she was covered with seagrass and brush, then went back to the attack.
+Under sustained assault, the Chukwu swarm immediately flew apart into loose clusters of bots.  The barrage or HERF and mag fire seemed to be doing the trick.
+Winger yelled, “Mop ‘em up!  Slam those loose clusters too!” 
+The troopers walked slowly down the slope of the beach, spraying fire back and forth.  The main swarm had already dispersed and D’Garza worked her pulser to concentrate fire on the other tribesmen who had come ashore.  They too explosively disassembled right in front of her eyes.  Even the outrigger canoe dissolved and diffused into sea spray under their withering fire.  
+“Jeez,” she muttered to herself, “the whole friggin’ planet is nothing but bots.  It’s an atomgrabber’s wet dream here.”
+Now the ocean itself had turned rough and stormy, with huge waves barreling toward them, whitecaps breaking into deafening hiss and foam almost on top of them.  Purple clouds swirled overhead and veins of lightning crackled from cloud to ground in jagged stalks.   
+Winger yelled, “We’ve stirred up the nest good now.  Fall back…up to the higher ground.  And get ready to boost.  We’ve got to get out of here before this damn place breaks apart right under us.”
+D’Garza and Acuna helped drag and half-carry the unconscious Barnes to a small hillock of sand several dozen meters away, a low rise that seemed the highest point on this island of hell, firing back at clots and clumps of bots as they withdrew.
+At the top of the rise, Winger gathered everybody around close.  “Get your suit boost primed and ready.  You two will have to carry Angel.  See if her boost has any juice left.  I’ll try to figure out how to use her deco wake detector.  With any luck, we can home on that Sphere’s deco wake output.”
+D’Garza just shook her head.  “It’ll be a miracle finding the Sphere in this mess.  We’ve managed to stir up the whole planet.”
+“That’s a good thing,” Acuna convinced himself.  “If we can get the hell out of here, we should all get Distinguished Valor medals for saving the human race.”
+Winger watched the breakers coming closer up the slope with every wave.  “I just hope we got Kulagin with that barrage.  No way he gets back to Red Harmony with all this stuff.  On my count…three…two…one…NOW!  Light off!”
+As one, the atomgrabbers ascended on suit boost into a driving sleet of sea spray and rain, a heavy thickening fog of unguided, now directionless bots, with winds gusting and lightning thundering all around them.  Below, the beach and the island seemed to dissolve right under them, but perhaps it was just the mist shrouding the little spit of land.
+D’Garza and Acuna each had one of Barnes’s arms.  She hung between them like a limp mannequin, with only faint glow at her feet, emanating from what was left of her suit boost.   Neither trooper knew if they had enough boost of their own to make it back to the Sphere, buddying Barnes between them,
+A few meters ahead, faint in the mist and rain, Johnny Winger swore and cursed at Angel’s decoherence wake detector, trying to get the damned thing to work.
+Come on, come on, you stupid pile of--
+Then, a faint chirp sounded in his ears and a light blipped on the detector face.  Maybe a signal of quantum entanglement waves collapsing somewhere, far off… for the signal was very faint, there and not there.  
+Winger held his breath, tweaked the gain, changed heading slightly and got a slightly stronger signal for his efforts.
+Over the crewnet, he breathed a sigh of relief and said, “This way, folks.  Next stop, the Al- Hadidah dig site and a hot meal of cold T-rations…I hope.”
+
+The flight seemed to last for days.  Once or twice, Winger’s heart stopped when the faint but growing signal dropped out completely.   He found a slight heading tweak usually regained the signal but the squad was cruising in and out of dense knots and clouds of bots and that could have had some effect.
+“Let’s go up,” he suggested.  “Higher altitude may give us a better signal.”
+“I’m pretty much at my limit,” said Acuna.  “My arms are about to fall off.”  He and D’Garza were bearing an unconscious Barnes between them and both had noted their boost charge was running low.  “If we go higher, we may not have enough juice to make it.”
+So they stayed low and fought their way through sleets and gusts of bots, following Colonel Winger’s lead, as he adjusted and tweaked and fiddled with the deco wake detector, hoping and praying it was leading them back to the Sphere.
+Two hours after departing the small island and the remnants of Chukwu, Winger noticed his detector suddenly showed a strong spike in one direction.
+That has to be it.  “Follow me,” he said over the crewnet and dropped down on yet another heading, disappearing momentarily into thick fog.
+When Acuna and D’Garza finally caught up with their Skipper, he was already descending rapidly over rolling hill countryside and they could see a white strobing beacon in the mist ahead.
+When they landed and half-dragged, half-carried Angel Barnes toward the Sphere, Stella D’Garza almost wanted to kiss the mustachioed face of the Colonel.   
+But they had more important duties, for Barnes was beginning to twitch and spasm uncontrollably as she was laid down a few meters away from the Sphere.
+They had landed in a small, fog-bound depression but the brilliant orb of the Sphere shone through the mist, perched on the slope like a giant dinosaur egg.
+Barnes was dragged up to within a few meters.  Winger studied the Sphere, silently timing its pulsations for a moment, then motioned Robbie Acuna to join him.
+“The problem is I don’t know what’ll happen if we contact the Sphere again.  The last time, it displaced us here.  Now…who knows where we might wind up.  You think those pulses of light mean anything?”
+Acuna shrugged.  “Beats me, Skipper.  We don’t seem to have much choice.”
+“Yeah, you’re right.  Okay, all hands, get ready to touch the Sphere.  We’ll just have to hope we wind up back where we started.”
+Barnes’s fingers were maneuvered by Stella D’Garza.  The trooper was nearly unconscious, unable even to sit up. 
+Winger gave the countdown.  “Three…two…one…NOW!”
+As one, the troopers pressed their fingers into the blinding glare of the Sphere.
+A fierce flash stunned them and they felt themselves falling falling falling as the ground shuddered under their feet.
+
+The first image Johnny Winger had was that of a face peering down at him.  The face was bracketed by dataspecs scrolling reams of text and imagery, making the face look like some giant erupting to life out of a weird vid.
+It was Davis Hewes.  
+“Are you okay?”  Hewes and several Bedouin diggers were pawing and grabbing at rock and loose dust that had piled up around Winger.
+Winger sat up carefully, felt himself.  His skin bots buzzed like normal.  Everything seemed to be in one piece.  His outer config had held up.
+“I think so.  How long were we gone?”
+“Gone?”  Hewes looked puzzled.  “You were buried in the slide.  We just finished digging you and your team out…took us, maybe, ten minutes.  You were all damned lucky.”
+Winger didn’t understand.  “Wait…what happened when we touched that Sphere?”
+Hewes sank back on his legs, let the diggers finish their work.  Winger sat up awkwardly, with some help.
+“We saw you come down into this cave.  The Sphere thing was down here.  There was a big flash of light.  Then a quake, a tremor of some kind.  The walls buckled and you and your troopers were partially buried in the slide.”
+Now it was Winger’s turn to look puzzled.  “I figured we were gone at least a couple of hours, maybe half a day.”
+“No way.  Soon as the tremors stopped, we had diggers down here crawling around in the dirt and dust.  We figured you were buried for about five minutes.  Are you okay…I don’t see any cuts or lacerations.”
+Winger smiled.  “They wouldn’t show up on me anyway.  I’m an angel, remember.  By the way, where is that Sphere?”
+Hewes looked around.  D’Garza and Acuna were also being helped up.  Barnes seemed unconscious and was being carefully lifted up the ladder to the cave one level above.
+“Probably under that talus over there.”  He pointed and Winger saw a mound of rock and dirt nearby.  “We haven’t uncovered everything.”  He shook his head in disgust.  “All the work they did, all the artifacts they dug out…it’s all buried again.  It’s like this place just doesn’t want to be discovered.”
+Winger got himself fully upright and briefly described what he and the troopers had experienced, at least what he thought they had experienced.
+Hewes let him ascend the ladder first.  They both climbed to a well-lit cavern above, thick with diggers, rescuers, techs, Saudi SolCo engineers and other archeologists.  Sunlight streamed down from an opening above them.
+“You were likely knocked out, Colonel.  From the time you went down to that small space and, I guess, touched that Sphere to now…it’s been at most ten minutes.”
+Winger blinked.  “The huge swarm, a whole planet of bots, Chukwu, Kulagin’s face…I didn’t imagine that.  I couldn’t have imagined that.  That Sphere is like a portal, a gateway to some kind of transit corridor.  I’m telling you…we were someplace else.  Inside some big swarm…Acuna thought it might even be an historical simulation of the Old Ones’ home world.”
+“Sure…whatever you say…come on,” Hewes said, “let’s get you topside and checked out.”
+“One of my crew is badly hurt…Angel Barnes.  She’s been swarmed…bots got into her.”
+Hewes patted Winger on the back.  “Not to worry.  She’s already being liftered to Muscat.  The medics there will take care of her.”
+Winger climbed the ladder and found himself inside a huge, open tent, covering the entrance shafts down into the dig.  Hewes hauled himself up behind him.  
+“Just before the quake, I got this.  From the Ministry of Antiquities.”  Hewes showed Winger a small block of text on his wristpad.  Winger scanned it quickly. 
+“The Ministry’s approved our proposal.”
+“What proposal?”
+Hewes swept his hands around.  “BioShield wants to build a big containment structure around this whole site.  Bots have been leaking from here for years, maybe longer.  UNIFORCE finally prevailed on the Saudis to let us cap Al-Hadidah and stop that leakage.  BioShield recently detected some really big supercells of bots emerging from this dig…in fact, the last one seemed to coincide with you and your team doing whatever it was you did down there.”  Hewes shook his head.  “Angels everywhere…it’s a pandemic.”
+Winger finally gave in and sat down in a folding chair, next to Acuna and D’Garza.  Medics swarmed over all of them, checking and treating cuts, bruises, scrapes.  
+Hewes stood nearby, hands on hips.  Richter was on the other side of the tent, checking some kind 3-d projected image with two others.  
+Winger let the medics check him out, but there was nothing they could do.  His own skin bots had already repaired any damage.  “What about the reports we heard from Q2…all those leaders being swapped for angels?”
+“UN’s working on that now.  You’ll hear more details soon…some kind of physical integrity test to make sure people are who they say they are.  It’s incredible what’s happened.  All over the world…the bots and swarms that have leaked out of Al-Hadidah have even affected global climate.  BioShield is already working on countermeasures…global warming, the rise of sea levels, all of that seems to have been accelerated by these bots.”  Hewes’ face darkened.  “Almost like it was planned.”
+Thinking of Red Harmony, Winger said, “Maybe it was.”
+He decided not to reveal the wilder speculations that had been coming out of Quantum Corps Intelligence lately…theories about how the cartel had sent Dmitri Kulagin to Al-Hadidah to locate the Sphere and use it to travel Acuna’s ‘transit corridor’ to the alien race that some thought the cartel was in contact with, though that had never been proven.  Major Lofton himself had given voice to that crazy idea…that the cartel was convinced the aliens—aka the Old Ones—really existed and the cartel was trying to learn enough to exploit their technology.
+Who could say for sure? Winger muttered to himself.  Intel types had been known to traffic in crazy ideas before.  But the evidence…Winger figured it really was pretty ambiguous and unsubstantiated.
+Still, he was convinced that the Operation Quantum Storm detachment had gone somewhere…to some time and some place different from the one they had left.  They had somehow followed Kulagin into another space and they’d even seen his face there.  He was convinced that was not his imagination, not the result of being conked on the head by falling rocks.
+But was he convinced enough to put it down in the after-action report he knew General Linx would be expecting?
+
+Winger, Acuna and D’Garza boarded a Saudi SolCo lifter for the hospital in Muscat.  There they found Angel Barnes groggy, but awake and feeling better.  She smiled up at them from behind a flickering biobarrier, her head draped with tubes and IVs.
+“Docs say I can be released in a few days.  There’s still a few bots in my head, but they think the next insert will get the rest of them.”
+Winger had already received a small containment capsule from the shift supervisor, holding a few of the bots the first insert had removed.  “We’re taking these back to the Mesa.  Put ‘em under the scope and see what slammed you.  Maybe this will prove our story.”
+D’Garza sniffed.  “Everybody thinks we got knocked out and dreamed all this up.”
+Winger went on.  “Linx wants us back at the Mesa tomorrow morning for a full debrief.  They’ll put you on the next flight, Angel, after you’re cleared and released.  Somebody from Bolzano’s coming down to accompany you.”  Bolzano, Italy was Quantum Corps’ Central Command base.
+Barnes winced.  “I hope it’s one of those gorgeous Italian hunks.”
+D’Garza waved good-bye.  “Keep it going, sister.”
+Robbie Acuna blew her a kiss but got too close to the barrier, and got a lip burn from the bots pushing back.  Barnes laughed.
+“Keep those smackers under control, trooper.”
+The three of them headed for Muscat airport and hyperjet Charioteer.  They loaded up the rest of their gear and boarded.  A blood-red desert sunset was lighting up the horizon as the jet screamed down the runway and thundered off into the skies.
+The suborbital hop across the top of the atmosphere would take two hours.  Winger soon powered himself down in a seat in the forward cabin and was leaning against a window, lulled into a drowsy slumber, all his configs set to sleep mode, when the chime on his wristpad went off.
+It was General Linx.
+“Just wanted to give you a heads-up on UNIFORCE’s new physical security directive, Colonel.  Here it is—”
+A text form appeared on Winger’s wristpad display.  He enlarged it, then tapped 3-D to make a projected image of the form….
+
+DIRECTIVE
+UNITED NATIONS COMMISSIONER OF SECURITY AFFAIRS
+
+Control: 17430
+Received: 25 SEP 2065, 1500Z
+
+FROM:  UNSAC
+TO: CINCQUANT and all subordinate commands
+NO: 91865 September (UNIFORCE Message)
+PRIORITY: Elite Purple
+ACTION: CINQUANT, CINCSPACE, CINCSANC, DIRBIOSHIELD
+UNSAC 6887 from UNSAC
+
+Pursuant to THREATCON 2 guidelines, UNSAC directs all subordinate commands to implement immediately Physical Security Verification Protocol Alpha 22 (PSVP A-22). Q2 Intelligence reports indicate with high probability cartel penetration / infiltration ops underway in all sectors and theaters of operation.  PSVP A-22 requires all personnel be scanned and validated non-angel or better configuration by not later than 30 September, 0000 hours.
+
+Commander’s Directive:
+By order of CINCQUANT (UNSAC 6887), you are hereby directed to appear at the Physical Security Verification office at your command or base Personnel Center at the time indicated above.  The details of this appearance are to be kept confidential.  Examinations will require approximately one-half hour per person.  Failure to appear at the indicated time will be considered a Class A Security Code violation.  Non-appearees will be subject to Uniform Code disciplinary action at the discretion of the facility commanding officer. 
+ 
+KEA: 2
+NOTE:  Advance copies not distributed per UNSAC 4458.
+
+FOUO: REPRODUCTION PROHIBITED UNLESS REVIEWED BY UNOSG-021
+
+Winger scanned the message and whistled.  “UNSAC’s not kidding, sir.  I heard about this from the BioShield guys.  This is a global directive?”
+“It is.  We even got word from the U.S. Secret Service that the President, Ms. Kendrick, will have to undergo this.  Some of her staff think Kendrick’s actually an angel…or worse.”
+Winger didn’t quite know how to explain what had happened to the Detachment.  “We followed Kulagin…at least, we tried to.  Acuna thinks Red Harmony is using the Spheres as some kind of transit system, a way to travel to this alien race and their mother swarm and steal technology for the cartel to exploit.”
+Linx seemed unperturbed by the idea.  “I’ll be looking forward to your report, Colonel.”
+But Winger felt the need to unburden himself of all that had happened.  “Sir, it’s very possible the cartel has been doing this for some time.  It’s at least thinkable that the cartel’s use of these Spheres, especially the one at Al-Hadidah, is responsible for all these swarms of bots leaking out…the surge in angels.”
+“A definite possibility. Winger, go ahead and send ahead whatever you can.  I’ll put Lofton and the Intel weenies on it right away.  What about Kulagin?”
+Winger realized he could no longer be sure of anything.  “We don’t know how much of this alien technology Red Harmony may already have.  But I’m fairly sure we terminated Jupiter…Dmitri Kulagin.”
+“Good.  That was a key mission objective.  Colonel, I’ve already set up a team to work with UNIFORCE and BioShield to research these Spheres and find out what they really are, see if they work like the ones you encountered at Paryang and Engebbe.  There may be more.  Quantum Corps will have to be vigilant.”
+“Yes, sir.”
+Linx smiled and seemed sympathetic. “Get some rest, Winger.  Or whatever angels like you do for rest.  I’m putting you and your team in for a few days’ R & R when you get back.  Just get that report to me before you land.”
+“Yes, sir.”
+Linx’s face winked out and Winger settled back in his seat.  
+The whole mission of Quantum Storm had been one paradox after another, one big puzzle after another.  It was getting harder and harder to get his head around the details.  Deciding just what had happened, just what he could prove and what he couldn’t…that seemed impossible right now.
+Johnny Winger switched off his wristpad and lay his head back against the bulkhead, letting the thrum of Charioteer’s scramjet engines lull him to sleep.
+He had no way of knowing that even more paradoxes lay ahead, paradoxes that would soon take him and his team all the way to the sands of Mars, to a place called Hellas Basin.  The enigmas of the Hellas Paradox would occupy his every thought and effort, sooner than he cared to imagine.
+But for now, power down all configs and set sleep mode.
+Winger closed his eyes and tried not to dream of anything.
+
+END 
+
+
+
+About the Author
+
+Philip Bosshardt is a native of Atlanta, Georgia.  He recently retired but worked for nearly 25 years for a large company that makes products everyone uses…just check out the drinks aisle at your grocery store. He’s been happily married for over 28 years.   He’s also a Georgia Tech graduate in Industrial Engineering.  He loves water sports in any form and swims 3 miles a week in anything resembling water.  He and his wife have no children.  They do, however, have one terribly spoiled Pekingese dog named Chance. 
+     For technical and background details on his series Time Jumpers, Tales of the Quantum Corps and Quantum Troopers, visit his blog Quantum Corps Times at http://qcorpstimes.blogspot.com.  For details on other books in this series, visit his website at http://philbosshardt.wix.com/philip-bosshardt or learn about other books by Philip Bosshardt by visiting www.smashwords.com. 
+     To get a peek at Philip Bosshardt’s notes and the backstory on how his many series were created, recent reviews, excerpts from upcoming books and general updates on the writing life, visit his blog The Word Shed at: http://thewdshed.blogspot.com.
+      Download the next exciting episode of Quantum Troopers Return from Smashwords.com and other fine ebook retailers.  It’s called ‘The Hellas Paradox.’  Available on August 14, 2020.
+
+
+
+
+
+
+ 
+

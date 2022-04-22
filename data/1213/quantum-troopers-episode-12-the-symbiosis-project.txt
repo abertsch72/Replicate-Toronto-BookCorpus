@@ -1,0 +1,672 @@
+﻿Quantum Troopers
+Episode 12:  The Symbiosis Project
+Published by Philip Bosshardt at Smashwords
+Copyright 2016 Philip Bosshardt
+Smashwords Edition, License Notes
+
+This ebook is licensed for your personal enjoyment only.  This ebook may not be re-sold or given away to other people. If you would like to share this book with another person, please purchase an additional copy for each recipient.  If you’re reading this book and did not purchase it, or it was purchased for your use only, then please return to Smashwords.com and purchase your own copy.  Thank you for respecting the hard work of this author.
+
+A few words about this series….
+
+*** Quantum Troopers is a series of 15,000- 20,000 word episodes detailing the adventures of Johnny Winger and his experiences as a nanotrooper with the United Nations Quantum Corps.
+*** Each episode will be about 40-50 pages, approximately 20,000 words in length.
+*** A new episode will be available and uploaded every 3 weeks.
+*** There will be 22 episodes.  The story will be completely serialized in about 14 months.
+*** Each episode is a stand-alone story but will advance the greater theme and plot of the story arc.  
+*** The main plotline: U.N. Quantum Corps must defeat the criminal cartel Red Hammer’s efforts to steal or disable their new nanorobotic ANAD systems. 
+*** Uploads will be made to www.smashwords.com on approximately the schedule below:
+
+Episode #	Title					Approximate Upload Date
+1		‘Atomgrabbers’			1-14-16
+2		‘Nog School’				2-8-16
+3		‘Deeno and Mighty Mite’		2-29-16
+4		‘ANAD’				3-21-16
+5		‘Table Top Mountain’			4-11-16
+6		‘I, Lieutenant John Winger…’	5-2-16
+7		‘Hong Chui’				5-23-16
+8		‘Doc Frost’				6-13-16
+9		‘Demonios of Via Verde’		7-5-16
+10		‘The Big Bang’			7-25-16
+11		‘Engebbe’				8-15-16
+12		‘The Symbiosis Project’		9-5-16
+13		‘Small is All!’				9-26-16
+14		‘’The HNRIV Factor’			10-17-16
+15		‘A Black Hole’			11-7-16
+16		‘ANAD on Ice’			11-29-16
+17		‘Lions Rock’				12-19-16
+18		‘Geoplanes’				1-9-17
+19		‘Mount Kipwezi’			1-30-17
+20		‘Doc II’				2-20-17
+21		‘Paryang Monastery’			3-13-17
+22		‘Epilogue’				4-3-17
+
+Chapter 1
+“Infested”
+
+UNQC Western Command
+Table Top Mountain, Idaho, USA
+January 25, 2049
+0700 hours
+
+	For Major Jurgen Kraft, running 1st Nano was like being den mother to a troop of hyperactive, genius scouts, scouts with some serious weaponry at their disposal.  You never knew what they would get into next, but at least it would be interesting…and probably deadly.  
+Kraft scrolled through the early after-action reports from Quantum Shadow…a full ANAD lost in Tibet…Alpha Detachment violating Chinese airspace and nearly being captured…Bravo Detachment lost at Engebbe…with only one escaping.  Kraft pulled up an image of Corporal Ozzie Tsukota, taken from the Nairobi hospital after he’d barely managed to escape the swarm outbreak at the Engebbe dig site.  Lacerations and burns, flayed skin on his neck and shoulders…it wasn’t pretty.  The CQE had been damned lucky to get out of there alive.
+Kraft knew that somehow some way, the Corps would have to probe Engebbe again, in force if necessary and determine what had happened and why Red Hammer was so interested in the place.
+Now however, Kraft had a bigger issue to deal with.  CINCQUANT wanted to move forward with the Symbiosis Project.  Some months ago, Johnny Winger had been volunteered to host a full-featured ANAD master in a surgically embedded containment capsule, complete with a quantum coupler in his head to talk to the little bot.  Now the Corps wanted all nanotroopers to be so equipped.  Blended Man-Machine Warrior, my ass, Kraft snorted.  The whole damned thing was a circus trick, a lab stunt and Winger was Doc Frost’s lab rat.  Hosting a swarm right under your skin was like hosting a deadly virus, one that could talk and make jokes, and you never knew what the damned thing was going to do next. It could just as easily kill you as save your ass.   Even Doc Frost didn’t fully understand all the permutations of what he had created and the learning curve had turned out to be a lot like the side of Mount Everest.
+Now CINCQUANT wanted all his people to have the same thing.
+What the hell am I running here…a nursery?  A kindergarten school?  We’ve got missions and serious adversaries and the Corps wants me to give every nanotrooper a blanky and make ‘em take their naps.
+Now Doc Frost himself was on his way to Table Top to begin the process.  Kraft’s thoughts were suddenly interrupted by a chime on his wristpad.  Another Solnet report had just been posted and this one caught his eye immediately….he switched his commandpad to the feed and watched….
+
+Solnet/Omnivision Video Post 
+@anika.radovich.solnetworldview
+January 25, 2049
+1200 hours U.T.
+SOLNET Special Report:
+
+Symborg Triggers Riots in Boise, Idaho
+
+Solnet Reporter Anika Radovich reports on the recent angel riots in Boise:
+
+“Viewing the dronecam footage of the disturbances several days ago, I had several thoughts.  First, there is an explosive increase in the numbers of angels…and by angels I mean swarms of nanobots configured to closely resemble human beings…Normals as we have begun calling ourselves, as if anything about this is normal…a nearly exponential increase in the numbers of angels walking our streets.  Second, parallel with this increase and in many ways a triggering mechanism, is the growth of the Church of Assimilation and its followers, especially followers of the recently-released Symborg.
+“This report will detail some of the background to this growth.  We also hope to bring you a live vid interview with Symborg himself.  
+“Many Solnet viewers have expressed concerns about another problem we’ve been having recently…an increase in problems with the Net, both Solnet and WorldNet.  Whether worms, Trojans, zero-day exploits, root-level malware, or other viruses, many Solnet viewers have had difficulties accessing the Net, even to view our reports.  Our engineers have assured me that Special Report won’t be affected at all…in fact, my engineer here, Stephen Welks, has assured me that everything is under control and that Special Report will be posted just like normal.  So let that put your fears to rest.
+“Now to the latest from Boise…as you know, two days ago, one of many Assimilationist rallies that occur every day around the world was held.  Symborg himself was on the schedule to appear.  And, as with many of these so-called ‘awakenings’, assimilator booths were on hand for volunteers who want to…I guess the phrase is, ‘be taken up into the mother swarm…be assimilated.’  
+“Many of these rallies have descended into chaos and riots.  According to police sources I talked with, the presence of Lanier Barnes and his anti-angel group the Hellcats was the proximate cause of the disturbances in Boise.  These agitators have disrupted Assimilationist rallies all over the world.  While the underlying philosophy of Barnes and the Hellcats is somewhat murky, there can be no denying the effect they have on assimilationists everywhere.  If Symborg is seen by millions as a hero, even a sort of robotic messiah, then Lanier Barnes must be seen as the opposite.  Every hero seems to produce an anti-hero, just as many forms of matter have corresponding forms of anti-matter.
+“Some years ago, when Symborg first came to prominence, I posted a Special Report dedicated to describing the rise of this unlikely hero.  Here are some excerpts:
+--The central figure in all this hurricane of emotion and frenzy was Symborg himself.  It was no secret that Symborg was an angel…a semi-human swarm of nanobots.  He never made any attempt to hide that.
+As a charismatic spiritual and political leader, Symborg has great influence, even though his followers are well aware that he is nothing but a lifelike swarm of nanoscale robotic elements.  Physically, his main appearance is that of a handsome middle-aged man of average height but muscular build, but he can assume many other configurations and forms, as needs dictate.  Symborg seems to prefer maintaining a consistent ‘brand’ and ‘image, so he does not often present himself in public in anything other than Config One, his most human-like state.
+His creators, whoever or whatever they are, have done their homework. Symborg has been programmed with the most effective personality elements of Hitler, Buddha, Jesus, Gandhi, Lincoln and a variety of historical figures, kings and emperors, celebrities and scoundrels.  Symborg can assume whatever personality characteristics seem appropriate for the moment.  Each is nothing more than a module he can activate or shut off at any time.   Yet each is developed, tested and fine-tuned for maximum effect and charisma and the modules can be modified on the fly, probably by Config Zero according to our sources at UNIFORCE and downloaded to Symborg over secure, encrypted quantum communication channels that Humans haven’t been able to detect or intercept.  This is a point of potential weakness. Sources tell us that Quantum Corps has been trying to exploit this link by detecting, intercepting and scrambling these communications.
+Symborg first came to public notice from a small Kenyan village.  The village is Kipwezi.  He is by appearance a man of darker skin, but not deeply black.  One of Symborg’s physical capabilities is the ability to manipulate his skin appearance to appear subtly lighter or darker, depending on the needs of the audience.  This is a simple matter of manipulating the melanocyte composition of the skin cells at the molecular level, something easy for Symborg to do.  He can literally be all things to all people, as any good politician or preacher would want.
+From the beginning, Symborg has been an advocate of Assimilationism, the idea that man and his ANAD creations are destined to merge into some kind of blended symbiotic organism, part human and part machine.  
+Symborg is a messianic character, some have said even a robotic messiah.  He is programmed with the healing and teaching abilities of Jesus, the oratorical skills of a Lincoln, a Roosevelt or a Hitler, the enlightened state of a Buddha, the ruthlessness of a Stalin or Mao, the leadership ability of Patton or Nelson or Mohammed, and the sheer intellectual genius of an Einstein.  He is or can be all things to all people.  But most of all, he is a persuasive advocate for assimilationism and for deconstruction of single-config entities such as Humans into nanobotic swarm elements and their absorption into the mother swarm.  This absorption is portrayed by Symborg as something akin to Heaven, nirvana, paradise or just a desirable end-state configuration symbiotically united with the great mother swarm of the Central Entity.  Symborg publically uses the phrases ‘Central Entity’ and ‘Mother Swarm’ interchangeably with various audiences according to his analysis of their emotional and spiritual needs.
+In fact, UNIFORCE sources tell SOLNET that Symborg has the programmed ability to do glutamate trace matching on large numbers of people at the same time…a covert insertion of a few nanobots to sniff out glutamate and dopamine trails in the brains of his followers and the ability to remotely manipulate these trails so as to produce desired emotional states of wonder, enlightenment, happiness, ecstasy, or terror, as the situation dictates.  Symborg is like a conductor, orchestrating the ventral tegmentum areas of the brains of his followers to achieve ecstasy or enlightenment or abject terror as his needs dictate.  One of the rituals Symborg encourages in his followers is to allow small-scale nanobots to be inserted into them…this is considered good form for those who seek Assimilation. They do this by drinking a small cup of liquid, which contains the nanobots, which then insert themselves.  These inserted bots, like angels, allow Symborg to precisely control how his audiences respond to his messages.  
+Symborg has gathered around himself a small coterie of followers and worshippers.  This cabal seems to be a mixture of actual Humans and swarm–angels.  They are known publically as the Sons of Assimilation—
+“Now, let’s talk with Symborg himself…we have him standing by from his headquarters in Nairobi.  Good day, sir…can you hear me okay?  Thanks for taking the time to be with us today.”
+On millions of screens and displays all over the world, the image of Anika Radovich is split off and shared on screen with the image of the Assimilationist leader.   Symborg is wearing a simple white shirt with some kind of token on a chain around his neck.  He is dark-complexioned, with high cheek bones and a winning smile.  His eyes sparkle.  
+“Good day, Ms. Radovich.  It’s my pleasure.  And as we say here in Kenya…Karibu…welcome to you and your followers.”
+“Thank you, Mr. Symborg.  Right off the bat, I’d like to ask you a question…one that is on the minds of many of our followers—“
+“Surely.”
+“There is a very common public perception among many of your followers that you are indeed a sort of messiah or savior.  Can you comment on these perceptions for our audience?”
+Symborg continued smiling, though the arc of his lips evolved to more of a smirk.  “Indeed, Ms. Radovich, I am well aware of these perceptions, as you call them…and I am, of course, extremely flattered.  As your followers are no doubt aware, some eleven years ago, an archaeologist named Rudolf Volk presented some extraordinary findings to the world.  His work at a dig site not far from here, a place called Engebbe, produced direct fossilized evidence of micro-robotic remains, dated to be consistent in time with fossilized bone structures from multiple Homo Erectus finds.”
+“Exactly, Mr. Symborg.  If you would permit me, I’d like to open another window on our viewers’ screens and show some of the report that my colleague Anna Kolchinova made at that time—“
+“Please go ahead, Ms. Radovich.”
+Another window opens.  The report is dated August 5, 2038.  The place is the Max Planck Institute of Evolutionary Anthropology in Leipzig, Germany….Kolchinova’s blond curls come up on the window….
+“The essence of Dr. Volk’s presentation is that we now have incontrovertible proof, physical evidence, that Man didn’t develop and evolve on this planet alone or unaided.  Recent finds of fossilized micro robotic remains among ancient Homo Erectus bones at the Engebbe dig site have swept the world of archaeology and anthropology like a hurricane.  Volk is a researcher in the Institute’s Department of Human Evolution and was here in Leipzig to present the details of his findings to the Institute’s Board of Directors.  
+“According to Dr. Volk, the robotic remains have been conclusively dated to be synchronous in time with the bone remains.  The techniques used were a relatively new, more advanced form of radiocarbon dating, a method called quantum state spectrometry.  According to Dr. Volk, the tests have been performed multiple times, by multiple researchers right here at the Institute and the results are consistent across all experiments and experimenters.”
+
+“It seems, to quote Dr. Marta Siebeck, an archaeologist on the Board here, that ‘we may be descended from ancient robotic creatures.’”
+When the Kolchinova report was done, Symborg took the moment to make a statement.
+“Ms. Radovich, I am a direct descendant of the individuals discovered by Dr. Volk.”
+Momentarily startled, Anika cleared her throat.  “Mr. Symborg, if you will pardon me, that’s a rather extraordinary thing to say.  Would you care to elaborate?”
+Symborg’s face lit up.  “I would indeed.  Perhaps, it’s best to begin at the beginning.  What is it that the Church of Assimilation stands for?  What do we believe in?”
+Anika took the bait.  “Okay, I’ll be your audience.  To me, the Church stands for de-construction…a kind of mass suicide.”
+Symborg shook his head.  “No, that’s not it at all.  In fact, we believe in the unity of all things.  We believe that long ago, the Old Ones came to Earth and seeded it with life.  Their plan was that this life would grow and develop into a sort of common unified swarm, a sort of common mind, not unlike viruses today.  Simple but powerful elements, but organized into greater formations.  And when the first elements had developed enough, they would be ready to be taken up by the mother swarm of the Old Ones, incorporated into the greater Unity that is the universe.”
+Radovich had heard this story before.  It was a standard litany in many Assimilationist awakenings.  “But there was a mistake, according to your way of thinking.  Things didn’t quite work out.  Evolution got off track and Man is a result of that mistake.”
+Symborg’s smile was that of a parent gently correcting a wayward child.  “Not quite.  You see: those whom you call the Old Ones have spent millions of years seeding and developing life on other worlds.  Each time they do this, the Old Ones seed life to ensure that it evolves in a manner compatible with them…evolving as a distributed, intelligent virus-like swarm of entities.  The Old Ones are using this seeding campaign as a way of developing multiple swarm entities with which they can merge.  Ultimately, they want to unite all world-based instances of swarm life which they have seeded into a giant, galaxy-spanning swarm or hive mind. Like a network or computational cloud.  To the Old Ones, this is the Imperative of Life itself.  The Imperative of Life is that life absorbs chaos from the Universe and adds or builds structure or order.  Life is anti-entropic.”
+“Mr. Symborg, I’ve heard these explanations in all your literature, all your so-called ‘awakenings.’  But the fact is, millions of your followers are committing suicide, going into those booths.  How can you justify this?  Isn’t this just a new form of genocide?”
+Symborg’s smile faded, to be replaced by a hard, determined edge to his face and lips.  Anika thought she could even see his cheek planes morphing; maybe it was her imagination.
+“Earth was seeded by the Old Ones billions of years ago.  But the evolutionary track which the Old Ones laid down on Earth was interrupted or disrupted and evolution took a different course.  Multi-cellular, single-configuration, organisms took over.  Earth was to have been populated by swarms of intelligent, re-configurable virus-like entities.  Instead, it’s populated by human beings.  So in a larger sense, you are correct, Ms. Radovich.  Man is a mistake.  The Old Ones mean to correct this mistake.  The Imperative demands this.”
+Anika tried another tack.  “What exactly is this Prime Key you speak of?  Is it a philosophy?”
+“The Prime Key is a tool, Ms. Radovich.  It’s a blueprint.  The Prime Key instructs all swarms to maintain certain configurations and to follow additional programming which will ultimately have the effect of returning the Earth to a biological and geological state similar to its condition approximately a billion years ago, when the Old Ones last visited.  This programming is a sort of evolution in reverse.  I have come to ensure that the Prime Key is executed.”
+Anika suddenly felt a chill down her spine at Symborg’s words.  Not precisely his words.  It was the way he said them.  His voice was even, dead flat, almost machine-like.  Anika realized deep down inside, in a visceral way she couldn’t put into words, that she was dealing with a machine here, despite outward appearances.  It had a program.  And it would stop at nothing to execute that program.
+“Mr. Symborg, I have one final question for our viewers.”
+The expressionless smile came back.  “Certainly, Ms. Radovich.”
+“Are you God?”
+Now it was Symborg’s turn to pause.  His smile was an enigmatic facial tic.  Had she found something with the question?  Had she tripped some flag or inhibit inside the angel’s program?
+“Ms. Radovich, names and labels are human creations.  The Central Entity…the essential core of the Old Ones…did not create the universe…we don’t know who or what did.  But the Mother Swarm is coming and all of us will be taken up…all of us will be part of the family.  It is the Imperative of Life…negentropy, the reduction of chaos.  The basic organizing influence in the universe is life. Life involves utilizing a flow of energy to draw order from chaos and build internal complexity with an accumulation of information. Living beings thus are anti-entropic, or negentropic, entities. The principle of negentropism is, in a manner of speaking, the ‘natural law’ applicable to all living beings located anywhere in the universe, regardless of their size, shape, biochemistry, sentience, or culture.  Your own philosophers know this.  They have said this.  I have come to help you and all life on Earth fulfill this destiny.”
+“Mr. Symborg, I want to thank you for taking the time to be with us today on Special Report.”
+Again the smile.  A politician’s smile, all teeth, no warmth.  “It was my pleasure, Ms. Radovich.”
+The screen display went dark, to be replaced by the Solnet logo.
+
+Solnet Special Report Ends
+
+Kraft’s thoughts were suddenly interrupted by a knock on the door. 
+“Come—“
+The white-haired face of Dr. Irwin Frost appeared.  “Good morning, Major.”
+Kraft waved the scientist inside.  “I see you’ve come to Table Top to make lab rats of all my nanotroopers, Dr. Frost.  You realize we’re right in the middle of a tough campaign against a very clever enemy here.”
+Frost took the seat Kraft offered, across the desk.  “Major, if we do this embed project, you’ll have even better tools to face our enemies.  That’s the whole plan for the Symbiosis project.”
+“How long are my troopers going to be out of commission?”
+Frost gave that some thought.  “From initial surgery to rehab and completion of all training should take each trooper about a month to six weeks…based on our experience with Johnny Winger.”
+Kraft exploded.  “Six weeks?  Doctor, that’s completely out of the question.”  Even as he said it, Kraft knew that CINCQUANT had already approved the project.  “I can’t give up all of 1st and 2nd Nano for a month and a half…”  Kraft sank back in his seat with a resounding thud of disgust, resigned to the inevitable.  
+Frost had expected this.  “Major, if I may—you raised the same objections when Lieutenant Winger came to our lab.  In fact, I recorded this—“ he pecked at some keys on his wristpad.  A voice emerged…it was Kraft, in a meeting with Winger several months ago, Frost had been there as well….
+“…We’ve got to give ANAD some real chops, Lieutenant.  That’s why I sending you to Northgate.  If half of what Doc Frost has promised us is true, you could have made quick work of Red Hammer’s bots inside Lions Rock.  As it was, you and ANAD got your ass kicked and you were lucky to get out alive.  I don’t want to hear any more reports of ‘ANAD being out-replicated, outmaneuvered, getting his atomic ass kicked.’  In this outfit, ANAD isn’t holding his position.  He’s attacking and moving forward all the time.  When it comes to Red Hammer, ANAD’s going to hold ‘em by the nose and kick ‘em in the butt.  In fact, to quote my good friend General George S. Patton, ANAD’s going to go through Red Hammer like crap through a goose.  That’s why I’m sending you to see Doc Frost.  He’s got some truly crackpot ideas that no sane commander would ever seriously entertain.  But you don’t outflank Red Hammer by just following the book.  You’re going civilian on this one, Winger.  In fact, you’re booked on the next commercial flight out of Boise tomorrow morning…”
+Frost leveled an even gaze at the Major.  “Your own words, Major.”
+Kraft scowled.  “Doctor, if there’s one thing I truly hate, it’s being right…for all the wrong reasons.  I know I said that.  But that was one trooper.  Now you’re taking two platoons…the fist and hammer of our whole outfit.  Here I am trying to run a brand-new unit and you’re even better than Red Hammer at picking off my troopers.”
+Frost raised a hand.  “Let me put your concerns to rest, Major.  I can show you what’s involved.”  Frost punched some more buttons on his wristpad.  An image emerged from the pad and settled into a 3-D projection right on top of Kraft’s desk.  Words and vid snippets danced about like a ballet troupe, while Frost narrated the details of the process….
+“The objective of the Symbiosis Project is to create a blended man-machine warrior, with an embedded ANAD master nanorobot contained in a surgically implanted capsule, along with a quantum coupler- based comm system surgically implanted in the trooper’s cranium.  The containment system with quantum comms will enable the nanotrooper to carry a full-featured ANAD system with him or her on any mission.  Launch, joint operations and recovery will be much faster, allowing the nanotrooper to respond to threats faster. 
+“The dictionary definition of Symbiosis (from Ancient Greek for "together" and “living") is a close, mutually beneficial, often long-term interaction between two or more different biological species. 
+“The Symbiotic system will provide for full effector, propulsor and replication control of ANAD via this coupler link and will provide all available configuration templates for launching, replicating any config and conducting nanoscale ops by a single, properly trained trooper. 
+“Joint or combined ANAD ops with multiple troopers launching and running their own ANAD swarms will require additional tactical training in how to manage joint operations. 
+“The transition consists of eight phases, each required in sequence to surgically implant ANAD and the coupler and train the trooper properly in operating and deploying the new system.”
+Frost added, “This is the presentation I gave to General Lynx himself in Paris.”
+Kraft studied the dancing images with a sour look.  “You don’t have to rub it in, Doc.  I’m fully aware that my commanding officer has already approved this.  So what are these phases you mentioned?”
+“Very simple, Major.  In sequence, here are the steps…implant shoulder capsule, implant quantum coupler, recovery and rehab, systems familiarization, learn-in all the comm centers, activate and test all sensor and effector algorithms, basic operations and unit readiness training.  In all, about five to six weeks.”  The words materialized in mid-air even as Frost spoke them, accentuated with a collage of vids showing the steps in operation.  “The end result: a fully ANAD-enabled nanotrooper able to achieve all tactical objectives assigned.”
+Kraft smirked.  “I can see why CINCQUANT was impressed.”  He didn’t say hoodwinked or bamboozled or sold a swindle but the words were there on his tongue.   “When does all this folderol get underway?”
+“As soon as you give the word, Major.  Mary Duncan is already on her way here from Northgate now.  I have two other technicians and the rest of my gear.  I’m recommending we set up a special surgical cell inside the Containment center.  We can perform all steps and tests there in complete safety.  And if the process is scheduled properly, in a month, I can be returning  ANAD-enabled nanotroopers to your command at the rate of one a week.”
+Kraft felt physically sick as he ran down the roster: D’Nunzio, Barnes, Nguyen, M’Bela, McReady, Reaves.  “I only hope Red Hammer cooperates, Doctor.  Anything pops in the field, and I’ll have to pull troopers, even if they’re still in their surgical gowns…the enemy still gets a vote here.  CINCQUANT will understand.  The mission comes first.”
+Frost smiled his best professorial smile.  “Major, we are on the same team here.  I have the same goals as you.  My ultimate objective is to give you the most capable nanotroopers technology can produce…soldiers who can deal with Red Hammer and any threat and complete their missions with few or better still, no casualties.”
+“Amen to that, Doctor.  Okay, let’s get on with it.”
+
+Twenty kilometers east of Jurgen Kraft’s office and some eight hours later, Johnny Winger was speeding along Highway 7 toward a much anticipated rendezvous with fellow troopers at the Custer Inn in Haleyville.  It was the last liberty time he was likely to have for a month and he planned to spend as much of it as he could getting hammered.
+He saw the sign for Custer Inn come zooming up out of the dark.  Why the hell not?  He skidded through a turn and went bumping across its ancient gravel parking lot.  Inside, the bar was half full, smoky as usual, raucous with some kind of honky-tonk country tune thundering out.  A boozed-up couple made languorous turns on the tiny wooden dance floor.  Winger came up to a barstool, waved to some familiar faces…no auto-tender here at the Custer Inn...and got a pitcher of something like beer for his efforts.
+Most of the platoon was there, scattered among several tables.  Winger settled himself in with Buddha Nguyen and Sheila Barnes.  Mighty Mite had just come back from a three-month rotation out of Quantum Corps Singapore base, helping local cops deal with an outbreak of rogue nano and a growing problem with unlicensed matter fabs.  
+“Lieutenant,” Barnes said over her beer, suds lining her lips, “what was it really like…getting that shoulder capsule?  Did Doc’s drug cocktail make your head spin off?”
+Winger slurped his own beverage.  “No, but I did take a little jaunt through the space-time continuum.  Honestly, guys, it’s not that bad.  They put you out.  You dream a little.  You wake up.  Your shoulder’s sore.  And then comes rehab and training.”
+Nguyen was more interested in the coupler link.  “Lieutenant, what do you hear when the coupler link’s open…what’s it like talking with ANAD directly, right out of your mind?”
+“Well, to be honest, it’s like having a little brother following you around asking about a million questions.  And sometimes, it’s like having your mother in the back of your head, looking over your shoulder and commenting on everything you say and do.”
+Barnes shivered.  “Sounds creepy to me.  I joined the Corps so I wouldn’t have to listen to my mother.”
+“It’s really cool, guys.  Once you learn how to work the link and get trained on ops, you can wade into a fight and launch and replicate ANAD as fast as any gunslinger can draw his weapon.  It has to help us in those alley fights we’re always getting into.”
+“Hey, any word on Ozzie?” Barnes asked.  “How’s the dirtbag doing, stuck like a lab rat in that cage they call Containment?”
+Winger was sober, remembering the after-action reports.  “The whole detachment—wiped out.”  He shook his head.  “Ozzie was lucky to get out, but he got swarmed.  They don’t know if it can be treated or not.  Ozzie’s in Containment until the engineers and the docs can figure out how to attack the bugs inside him.  I heard they’re sort of like Red Hammer’s halo but more capable…they can change configs in the blink of eye, look like something else and you never know where or what they are.  So, he stays in Containment until somebody figures out how to fix him.”
+Barnes shook her head sadly.  “Hell of a thing.  Poor Ozzie.  We should go see him, try to cheer him up.”
+Nguyen finished off his drink.  He made a sour face at the dregs.  “Lieutenant, how long does this embed process take?”
+Winger thought back to his own experience at Northgate and the Autonomous Systems Lab a few months ago.  “Maybe a month.  Maybe a little more.  The hardest part was the training.  The surgery is nothing.  It’s a small incision in your shoulder.  For a few days, you feel like you’re carrying around a big can inside but it’s not really that big…a few centimeters is all.  You get over that.  But learning how to launch and recover ANAD, learning how to command the thing and learning how to make the coupler work and dealing with that voice in the back of your head…that takes time.  That’s different.”
+Barnes yawned, polished off her own drink.  “Guess I’d better get back to the Mountain and try to get some shut-eye.  Doc said to be at Containment by 0700 hours.”
+Barnes and Nguyen said their good-byes and departed.  Winger ordered a plate of nachos and another drink.  It seemed awfully smoky inside the bar, not in itself unusual for Custer Inn, but the smoke thickened and seemed to concentrate in his corner of the room.  He was about to get up and step outside to a deck for some fresh air, when the smoke began swirling in ways that immediately made the hairs on the back of his neck stand up.
+This isn’t cigarette smoke, he told himself.  A little of the smoke brushed against his jacket and he immediately brushed it off.  Then, he stared dumb-founded as shapes and forms began to materialize right out of the smoke, right in the seat across the table.
+Winger looked down at his drink.  It was just beer.  Had somebody put something in the drink?  He blinked, rubbed his eyes and tried to convince himself that he wasn’t seeing an arm materialize, resting on the table.  Or that there wasn’t the barest outline of a face forming up in the curls and swirls of the smoke.  Then some shoulders.  Another forearm…then part of a hand.  
+ANAD.  Winger checked his own capsule.  His wristpad read STATUS: READY.  The capsule was occupied.  ANAD should be inside.
+“ANAD, is this you?  Are you still in containment?”
+There was a brief delay and Winger had a dawning suspicion, but then came the answer.
+***ANAD reads Base inquiry…all effectors stowed…now in config C-1…should I prepare for launch?  ANAD desires to be in loose configuration…operating efficiency is improved ninety--***
+“ANAD, stow it.  Never mind.  I was just making sure you were around.”
+Now, he truly was puzzled.  Maybe puzzled wasn’t the best word. How about concerned?  Or alarmed.  Slowly, he felt inside his jacket, felt the reassuring solidity of the mag pistol.  If it came to it, he could—
+Then he knew who or what it was.  It was Dana Tallant.  Somehow, in ways he couldn’t explain, he knew.  It was like when you lay in bed at night and a presence came into the room and you knew right away who it was: the way they smelled, their motions, the creak of a knee joint, the snap of a toe, the pattern of a breath, the gurgle of a stomach.  Everything converged on a familiar pattern.
+It was Dana Tallant.
+“Dana, is that you?  Are you there?  It’s me Johnny…Wings—“
+The reply came back.  He didn’t know if it was an acoustic signal, an electromagnetic signature, a cluck of a tongue, or what. 
+ “It’s me, Wings.  It’s really me.”
+ It was a voice that wasn’t really a voice.  More of a presence.  Winger looked around the Custer Inn bar.  Patrons still lined the bar itself.  Chip, the bartender, swung back and forth like he was on a rail, serving, tending, refilling glasses, chatting up the pretty ones.  
+Every table was occupied.  The floor was scuffed, dusty, covered with napkins and chips and cigarette butts.  A normal night at the Cus.  No one had seen anything.  Smoke solidifying into a human being hadn’t attracted the least attention, as if it were the most natural thing.  In a world where angels and swarm entities that looked like your next-door neighbor were becoming common, how could it have been otherwise?
+The Dana-angel was now almost completely formed.  It was good, this angel.  Textures were near-normal.  Colors near normal.  The face showed life, not the flat blank stare of a robot that so many angels showed.  Edge effects were minimal….just the hands, which she now kept hidden in her lap.
+Winger stared and found his mouth almost too dry to talk.  “When…I mean, Engebbe.  What happened?   The whole detachment was—“
+Now the thing that resembled Dana Tallant smiled back.  The sight of it sent a shiver down Winger’s back and not the good kind.  “Lost?  Consumed?  Swarmed?  I guess you could say all those things.  I’m not really sure about the others.  As for me—“ She held her arms wide.  “What you see is what you get.  You could do this too, you know.”
+Winger sniffed.  “I don’t think so.  Thing is, I don’t know if you’re really Dana Tallant.  Or just a good simulation.  How--?”
+Now Tallant smiled more broadly.  “How did it happen?  Much more easily than you might think.  It’s really the most natural experience.  Oh, sure, I was there all right, at the dig pit at Engebbe.  There was a big swarm, coming right up out of that pit.  We engaged, we hosed it down with HERF, mag fire, everything we had.  It didn’t make any difference.  The swarm covered us.”
+“Then you…what?  Just morphed…into this?”
+Dana closed her eyes, let the aroma of the stale beer fill her nose.  “I don’t know, Wings.  It’s like I went to sleep that night.  I was in my own bed somehow, like when I was a little girl. There was a storm, I remember that.  Hail, lightning, rain pelting down.  The window blew open.  I woke up.  Everything was different.  I saw light and thought lightning had hit the house.  Then I thought I had died.  But, you know—“ she had that cock-eyed grin on her face that Winger loved, the little smirk that said I know things you wouldn’t believe.  “—you know, after I got up, it was all okay.  It took me awhile to realize…what had happened.”
+“So now you’re a cloud of bots.”
+Dana shrugged.  “You make it sound so, clinical.  So scientific.  It’s not like that at all.”
+“How do I even know you’re really Dana Tallant?”
+She shrugged.  Her shoulders and arms tracked well…this angel was good, damned good.  “How do I know you’re Johnny Winger?  If I look and act and talk like Dana Tallant, shouldn’t I be Dana Tallant?”
+Winger didn’t intend to get into philosophical discussions with a cloud of bugs.  “You know what I mean.  Dana Tallant was consumed at Engebbe.  You’re nothing but a simulation.”
+Now came the smile.  “We prefer to say multi-configuration entity, Wings.  Unlike you, I can go anywhere, be anything…I could be this table, I could be that bar or that stuffed bear’s head on the wall.”
+“You could be a cloud of dust or particles of cigarette smoke, too.  How do I even know what’s real?”
+Dana said, “Real is whatever the current config is.  Look at you: you have one configuration.  It never changes.  If it gets damaged, you’ve got a problem.  Me: I can change my config in the blink of eye.”
+“Dana, whatever you are…you know you can’t win.  We’re going to fight you…everywhere, all the time.  I intend to stop this, Dana.  I’m doing everything in my power to stop the Keeper, stop Config Zero, stop Red Hammer, to give us a chance.”
+“Us?  You are us, you dope.  Don’t you see that?  Johnny, there’s some sort of paradise coming.  I know it.  I feel it—“
+“Dana, you feel it because it’s in your program.  You don’t feel anything other than what’s programmed.  That’s where we’re different. My feelings are real.  They came from up here—“ he tapped the side of his head.  “Yours came from…Jeez, who knows where they came from?”
+“Wings, don’t fight this.  There’s no reason to fight this.  There’s a peace now, a serenity I can’t explain…everything’s provided.  No more 0400 hour briefings, no more midnight hyperjet hops to places I can’t even pronounce, no more long distance calls on the vid, or absentee husbands or screaming kids and cranky housebots.  This is where I belong.  That’s become more and more clear to me.  You too, Wings.  Look—“she started to rise, spilling her drink.  Instead of liquid flying off the table, the bots that had formed the drink shifted into a different algorithm and dissipated into thin air, leaving only a faint trail behind.  “—look, maybe I should just leave…seems like we always argue…can’t you just listen to me for once--?”
+Winger got up too.  
+“Dana, I don’t want to lose you.  Not again.  I don’t know what I have to do, but—“ 
+For now, they understood it was best if they parted.  Maybe it was the program, something in the Prime Key that pushed them apart.  Individuality was an enemy.  The collective was everything.  The mother swarm would look after them. 
+Winger tried to kiss her.  It was never the same with angels.  Lip to lip, it looked good.  But Winger knew a kiss wasn’t supposed to feel like this…it was like kissing sand.  The bots that had formed up the Dana angel were even now breaking down, delinking, disassembling, throwing off atoms and molecules, re-configuring.
+In moments, she was gone.  Just a little smoke remained.  But unseen, a few bots were left behind, still drifting in the air over the table.  One was the swarm master bot.  As Winger reached for his jacket and swiped his thumb over the paypad, the master bot, smaller than a virus, made its way on internal propulsors to the open flap of his shirt pocket.  There, it used effectors to grab hold and bury itself into the lattice of molecules that comprised the shirt fabric.  
+Winger left Custer Inn, jumped onto his turbobike and sped off into the night.  Table Top was a half hour ride west on Highway 7.
+
+He made his way to the Containment building the next morning in time for a briefing at 0700 hours.  Kraft was there, along with Doc Frost, Dr. Mary Duncan, Frost’s Scottish assistant and several containment techs.  
+Kraft had gathered his troopers just outside the hatch to Containment Bay 1.  He launched into his best sales pitch.  “All of you were especially selected for this project.  The Symbiosis Project is the future of the Corps, so I don’t want to hear any more bitching or whining or moaning.  Having every trooper loaded with his own ANAD system and able to launch, command and recover said ANAD individually, will give you tactical options other soldiers have wet dreams about.  Plus it allows the Corps to send you into harm’s way in situations too dicey for your average Joe or Joan Trooper.  I don’t have to remind you Red Hammer’s got technology and nanobotic chops that we’ve had trouble with.  All of you follow the news: there’s Symborg and the growing menace of angels.  There are fab lords and matter hackers coming out of our ears.  Nanoscale threats are growing and you’re the cops on the beat.  And now, there’s this Engebbe stuff…Q2 hasn’t even had time to digest all that.  Some people—like Lieutenant Winger here—“ Kraft indicated the platoon commander—“—think Red Hammer may even be in contact with little green men from outer space…and he’s not the only one who thinks that.  So—“ Now Kraft motioned toward Dr. Frost and Dr. Duncan, who stood beside the containment bay hatch –“each one of you will undergo the embed procedure.  You’ve all been briefed on it.  When you’re done, and Dr. Frost assures me he can send me a fully embedded nanotrooper, after the surgery, rehab and training, once every week in about a month—you’ll all get new assignments.  Oh, and one more thing: because of the extra duties you’ll be pulling, due to your hopefully increased abilities, you’ll all get a higher rating, up to QX1 if otherwise qualified.”
+Deeno D’Nunzio piped up with a question.  “And the pay to go along with the rating, Major?”
+Kraft smirked.  “Sergeant D’Nunzio, the Corps is well aware of the fact that you burn through your paycheck every month like ice on a hot stove.  Now you’ll have even more to burn through…any questions?”
+Their faces showed they had about a million questions, but no one said anything.  Kraft scowled at each one in turn: Winger, who had already gone through the procedure, D’Nunzio, Barnes, Nguyen, M’Bela and the others.  
+“1st Nano is effectively standing down for the next month,” Kraft added.  “I don’t like it one damned bit but you’ll all be out of commission, officially detailed to Dr. Frost for upgrade and maintenance.  That’s means all the nasties out there will have a free run for at least four weeks.  This is not a vacation and it’s not liberty time.  The Corps is investing a hell of a lot of money in each one of you.  When you’re cleared for active duty, you can expect to be slammed with missions and threats like you’ve never seen before.”  Kraft’s big moustache twitched, like a mouse seeking food.  “You can count on that.  Now, dismissed…and good luck to all of you.”
+One after another, the troopers came up to shake hands with Johnny Winger, who had a few choice words of encouragement for each.
+“—Deeno, don’t give Doc any trouble, okay?—“
+“Mighty Mite, I can’t wait to see what you look like in a hospital robe—“
+“Buddha, your ancestors can’t help you now.”
+Unseen by any of them, the master bot that had once commanded the Dana Tallant angel at Custer Inn, revved up its propulsors and detached itself from Winger’s shirt fabric.  Loaded with unique and unknown algorithms, the master silently replicated a few hundred daughter bots, grabbing atoms from local feedstock and copying itself over and over again, until the commanded quantity had been achieved.  No emissions were ever detected inside or outside of Containment Bay 1.  The master was possessed of replication abilities unsuspected and unseen anywhere before.  There were no thermal signatures.  There were no electromagnetic emissions.  There were no acoustic or visual effects detectable.  
+Only replication.  When the counter value that had been commanded was reached, the Dana Tallant angel commanded a small swarm essentially invisible to all known means of detection.
+Another set of commands, transmitted as quantum entanglement state changes, was sent from the master to its swarm.  This command segmented the swarm into five equal parts, five sub-swarms of approximately equal size.
+Each sub-swarm then rode on propulsors to its selected destination: the troopers of 1st Nano about to undergo embed surgery inside Containment Bay 1.  One after another, D’Nunzio, Barnes, Nguyen and M’Bela were silently infested with the subswarms.  The bots grabbed hold of molecules of hair, molecules of skin, molecules of shirt fabric.  Each buried itself into the lattice of atoms comprising its destination.
+Each subswarm then powered itself down to a quiescent state and awaited further instructions.
+Doc Frost had already worked out the schedule ahead of time with Major Kraft.  Deeno D’Nunzio would be the first.  Like a dog being led off to the kennel, D’Nunzio briefly mugged for the others like a helpless mutt, until her antics earned an official frown from Major Kraft.  She was quickly hustled into the Containment bay and the hatch was shut and sealed.
+Dr. Mary Duncan then arranged for all the remaining troopers to make themselves comfortable in a small waiting area adjacent to the bay.
+“Just relax.  I’ve arranged for some medicinal Scottish tea to be served.  The surgery only takes about an hour for each of you.”
+Oscar M’Bela was already fingering some kind of trinket of beads nervously.  He mindlessly rubbed an amulet on a neck chain with his other hand.  “Doctor, what’s it like, having this capsule in your shoulder…with a port that opens and shuts?  Doesn’t that hurt?”
+“Witchy,” scolded Mighty Mite Barnes, “what are you…five years old?  Of course it hurts.  The way I hear it, it’ll be like having a can in your shoulder, with a pop-top and a five-year old kid in charge of it.  Isn’t that right, Skipper?”
+Winger waited until Major Kraft had finally departed, grumbling, moustache twitching and muttering under his breath.  
+“Sort of.  There is a brief sting when ANAD enters and exits, but that’s normal, it’s just a sting and you’ll get used to it.  Learning how to talk and command ANAD through your coupler link…now that’s a bitch.  That takes some getting used to.”
+“Swell, yet another voice in my head, telling me what to do,” Barnes retorted.  “Just why I joined the Corps.”
+It went on like that for most of the morning.   
+
+Chapter 2
+“Know Thyself”
+
+UNQC Western Command
+Table Top Mountain, Idaho, USA
+January 27, 2049
+2120 hours
+
+All of the embed surgeries were completed in a day and Doc Frost pronounced himself satisfied with the results.  When M’Bela was finally wheeled out of the surgery suite into a recovery room, still inside the Containment bay, Frost came out too and pulled Johnny Winger aside.
+“No problems with the insertions,” Frost reported.  He was clad in surgical scrubs.  Mary Duncan was still inside Containment, prepping one of the ANAD systems for loading later that day.  “We do the first loading this afternoon.  Upgraded ANADs all the way around.”
+Johnny Winger studied the imager screen on the side of the containment chamber.  Suspended in a nutrient bath inside, the ANAD master looked like some kind of futuristic space probe.  The basic polyhedral structure was still there, but scores of molecule chains undulated gently in the bath currents, chains Winger didn’t recognize.  He looked in vain for the bond disrupters, the enzymatic knife, all the tools he’d become familiar with.
+“He’s changed, Doc.  I don’t recognize all those chains…he’s got gizmos I’ve never seen before.  Are they new effectors or what?”
+Frost smiled.  “I regenerated a new master, Johnny.  I’ve been tinkering under the hood, as you like to put it.”
+“I’ll say…” Winger pointed to a pair of linked hydrogen radicals on the screen.  “And these doodads--?
+Frost ticked off the changes.  “New and improved, Johnny.  Those are stiffened diamondoid effectors, with ‘stickier’ covalent bond ends, radicals and carbenes.  Better grabbing ability.  Look just above the effectors…see those U-shaped gadgets?”
+Winger looked, turning to Frost with a puzzled look.  “Some kind of grabbers?”
+“Extensible fullerene hooks, for more secure grasping and attaching.  I modified a ribosome design I had seen.  Sort of improved on Mother Nature.”
+Winger shook his head.  “ANAD’s really souped up, Doc.  What about under the hood?”
+“Faster quantum processor, with a faster executing basic replication algorithm.  Plus I’ve added direct sequences from several viral genomes…nobody replicates faster than viruses.”
+Winger’s brow wrinkled.  “Is that safe, Doc?”
+Frost shrugged.  “As safe as any weapon…in the right hands.  Plus ANAD’s interface and communication system has been upgraded.  Your Intel people—Q2, I believe you call them—found some interesting things at Engebbe.  But there is something that troubles me, Johnny.”
+“What’s that?”
+During each surgical insertion, one of your Containment techs, a Corporal Gavin, I  believe, kept reporting he was picking up intermittent decoherence wake signals from nearby.  You did sweep the containment cells clean before we started, didn’t you?”
+“As far as I know, everything inside Containment was swept clean yesterday.  That’s normal protocol.  There shouldn’t be anything inside…deco wakes, that’s a quantum signal, isn’t it?  Did you have an ANAD system inside?”
+“ANAD is still in a separate containment vault, on the other side of the building.  And none of the masters have been activated yet.  They’re completely dormant…or should be.  I’m heading over to Bay Two right now, to make sure.”
+“Something with ANAD, Doc.  It has to be.  What about your patients?  Can I make a few visits?”
+Frost smiled.  “D’Nunzio and Nguyen are probably awake now…check with the duty nurse in Rehab.  You can visit for a short while…no more than few minutes.  I wanted to get them both prepped for ANAD loading bright and early tomorrow.”
+Winger cycled through all the biometrics and wound his way through the labyrinth of rooms inside Containment, until he came to the Rehab hallway.  He peeked into one room.
+Deeno D’Nunzio was propped up in her bed, a heavy bandage draped over her left shoulder.  She winced, then tried to smile when Winger came in.
+“How long was I out?” she murmured.  There was a soreness in her left shoulder and upper back.  She soon became aware of a large bandage back there.
+Winger checked his wristpad.  “About four hours, Deeno.  It’s night time now.  How do you feel?”
+D’Nunzio smiled sheepishly.  “Not too bad.  But that was some dream I had…right when I woke up, I had a dream…I was in a sleet storm, a driving blizzard only the sleet was all different.  Different colors and shapes, much bigger than normal.  It was weird.”
+Winger’s face now came fully into view.  “That was no dream, Corporal.”
+“It wasn’t?”
+Winger shook his head.  “It’s normal.  I had the same experience...it’ll take some getting used to.  It’s your limbic system…picking up stray signals from the interface.  There may be some…how best to say this--” Winger gazed off at the window for a moment, seeing the lights of other buildings across the base, “…there may be some unusual emotions the next few days.  Sometimes, the interface doesn’t completely convert all the signals…some of them spill over and trigger reactions elsewhere.  They’ll be monitoring you all the time for the next few weeks…just to make sure.”
+D’Nunzio eased herself into a sitting position.  “Growing up in Brooklyn was never like this.  If that wasn’t a dream, what was it?”
+Winger smiled.  “Actually, it was probably sensory data from ANAD.  You were coupled for awhile, part of the testing…what ANAD sees, you could also see.”
+“But the sleet—“
+“This is going to take some adjustment, Deeno.  You’ll be in rehab and training for a month.  The sleet wasn’t really sleet.  You were directly sensing molecules and atoms the way ANAD sees them.”
+Her eyes widened and she sank back in the bed.  “Jesus—“she shook her head.  “I’m familiar with the acoustic imager and how to perceive through that.  But to actually be there…with ANAD….”  She closed her eyes.  “Man, that was weird.  But the dream went away…how come I’m not seeing it now?”
+Mary Duncan came in, to shoo Winger out.  She had heard D’Nunzio’s question and cleared her throat.  “Corporal D’Nunzio, a new containment capsule has been implanted.  In your shoulder.  And the quantum coupler too.  They’re hooked up but there will be a training period, several months, where you’ll learn how to access ANAD directly, as well as through normal means.  ANAD’s no longer in the capsule.  He’s back in the TinyTown pod inside another containment cell.  Dr. Frost has just gone to retrieve him.”
+D’Nunzio was puzzled.  ‘Then what about the dream?”
+Duncan explained.  “We put ANAD into the capsule in your shoulder for about an hour, to calibrate the interface and the buffers, to see that the links worked.  Then we extracted him.  What you saw was a residual trace, left over.”
+She felt gingerly at the bandage over her left shoulder.  “How long?”
+Duncan took a deep breath.  “The bandage can come off in a week.  Your containment capsule has a port for ANAD to enter and exit by, along with the interface chip and containment bath.  Anytime ANAD’s inside the capsule, it’ll be just like he’s in containment inside TinyTown.  The capsule’s designed to provide the right nutrients, the right conditions for him to survive.  You’ve got a very small TinyTown embedded in your shoulder.  The physics and chemistry of the implant are pretty straightforward.  What takes time is learning how to talk to ANAD when he’s contained in the capsule, through the interface.  How to turn the link on and off, how to…I guess ‘interpret’ is the best word, what ANAD sends back and somehow integrate it into what your brain normally does.  You and ANAD will be almost like a mother and child, in some ways.  You’re going to have to learn how to talk to each other, how to understand each other, how to get along in this new way.”
+Winger agreed.  “It’s like being a new mom, Deeno.  That’s what will take time.  And to be truthful, since you’re only the second trooper to undergo the implant procedure, we really don’t know how that’s going to happen.  You’ll have to help us understand what we can do to help you.”
+“For now,” Duncan said, gently pushing Winger away from the bed, “you rest.  In another day or so, we’ll go over the details of rehab and recovery.”
+D’Nunzio tried to relax but it wasn’t easy.  In her mind’s eye, she could still see the sleet storm and feel the buffeting of wind gusts…or were they ocean waves?  Hard to say for sure.  She grinned up at the two of them.
+“I guess it’s my first exposure to van der Waals forces and Brownian motion, huh?”
+Mary Duncan nodded.  “I’m afraid so.”
+“It’ll be like learning to walk and talk, all over again.  Just like I’m a baby.  Or maybe a new mom, like Lieutenant Winger said.  Except my baby’s the size of a molecule.  I guess I won’t be rocking him in my arms anytime soon.”
+“A very special baby, to be sure.  Quantum Corps has spent a lot of money and time on you now.”
+D’Nunzio’s head swam with the possibilities.  She couldn’t suppress a grin.  “Almost like being born, all over again.  Like getting a second chance.  I’ll have to re-learn all the basic ANAD operations…replication, rendezvous and docking, launch and capture, all the effectors and probes, navigation…” she shook her head, her mind thick with the magnitude of the work ahead.  “I never dreamed…” but she caught herself, chuckling.  “Well, I guess I did dream…in a way.  True symbiosis, just like the Major said.”
+“Rest now,” Mary Duncan insisted.  Duncan poured another cup of her special tea and offered it to the atomgrabber.  “This will help.  Tomorrow, we’ll get started, sorting out all the new stuff.”
+D’Nunzio sipped from the cup and tried to relax.  But the image of the sleet storm kept coming back, that and a sobering realization:
+When you were the size of a few atoms, you spent your whole life fighting forces and currents that bigger objects, like human beings, took for granted.  When you were all of sixty nanometers tall, you couldn’t take anything for granted.  
+Johnny Winger waved at her and left.  Duncan firmly shut the door behind them.  After a few minutes to absorb all the new feelings and sensations, she closed her eyes, understanding now for the first time, just how much she had to learn from ANAD.
+D’Nunzio started to lie back again and try to get some rest, as the doc had suggested.  But something seemed to be active inside her shoulder capsule.  It hurt—maybe it was just the incision—but there seemed to be something there.  She wondered if she should ring up an orderly or Dr. Duncan.
+Probably just my imagination, she told herself.  Residual memory effects of an earlier coupling.  D’Nunzio closed her eyes and tried to relax.  
+She couldn’t wait to feel her new ‘baby’ kicking around inside the capsule tomorrow, when ANAD was scheduled to be loaded.  
+
+Johnny Winger visited each trooper in turn, when they had regained consciousness: D’Nunzio, Barnes, Nguyen, and M’Bela.  Each reported similar symptoms…some soreness, odd sensations that something had been inside the capsule, snippets of dreams.  
+Doc Frost decided that it was time to begin ANAD loading.
+Deeno D’Nunzio would be first.  Inside Containment Cell B, Frost and Duncan worked with the nanotrooper, while outside the cell, Johnny Winger sat with Tech Sergeant Gavin, monitoring the initial insertion.  
+The first order of business was to make sure ANAD could be launched and captured properly into containment in the small capsule, then to make sure a comm link could be established through the interface.  The shoulder capsule was a secure environment for the autonomous nanoscale assembler/ disassembler, able to provide proper conditions of pressure, pH, and temperature for ANAD to survive.  It was essentially self-sustaining, as long as Deeno didn’t do something foolish.  
+Doc Frost had already prepped the TinyTown pod in the Containment chamber for ANAD’s launch.
+“Sit there, Corporal,” he said.  There was a reclining seat nearby. Electron beam guns surrounded the seat, just in case.   After she had made herself comfortable, Mary Duncan helped orient her so ANAD would have a clear path to be captured into containment in the implanted capsule.  
+“We tried it several times, during the surgery,” she explained.  “We had you in every possible position…sitting upright, lying on your side, on your stomach—“
+“Even propped you up like a mannequin,” Frost added.  “Some positions were better than others.”
+D’Nunzio gave that some thought.  “I don’t remember any of it.”
+“You were under deep anesthesia at the time.”
+D’Nunzio studied the setup.  “Seems to me that I’m likely to be standing or running in most captures…especially in combat.”
+“You’re probably right,” Frost said.  He tinkered with the interface controls, getting ANAD ready.  “But this is a test.  We’ve got to make sure ANAD gets into the capsule without problem and that he can establish a comm link.  Mary--?”
+“He’s ready,” Duncan replied.
+Frost scanned the IC panel and was satisfied.  The containment cell was secure at Level Four containment—negative air pressure, active seals, electron beams primed…just in case something went wrong. And the cell was buried deep inside another layer of security inside Containment Bay 1.  “ANAD reports ready in all respects.  I’m enabling….I’m launching—“
+A faint whoosh of air escaped from the exit valve atop the TinyTown pod.  
+For a few seconds, nothing happened.  ANAD’s instructions were simple for the purposes of the test: replicate a few times—merely an exercise to flex his rep algorithm and effectors, then configure for capture and transit into the capsule in D’Nunzio’s shoulder.
+A faint keening whine could be heard as the rep counter ticked over.
+“…showing replications now—“ Frost announced, reading the display.  “Just a few thousand, to make sure everything works…now, he’s reconfiguring, folding effectors, getting ready for insert—any moment now—“
+Mary Duncan put a calming hand on Deeno’s head, noting how tense the atomgrabber was.
+“Just relax…it’s all very routine—“
+And it was over before she knew it.  One moment, a keening whine could be heard.  The next moment, there was a brief sting of heat as the ANAD master fluffed off its replicated daughters and burrowed into the shoulder capsule.  
+The whine died off, the sting subsided and that was that.  
+Deeno D’Nunzio looked up expectantly.  “That’s all there is?”
+But before Frost could reply, a chirp sounded inside her head.
+***hey…hey…it’s me, Deeno….can you hear me?  I’m in the capsule….ANAD to Base, how do you read, over?...trying to make all the connections…get this state generator to work…ANAD to Base, anybody there…?***
+A quizzical grin came over D’Nunzio’s face.  “ANAD…ANAD, you nut…I can hear you!  Or at least, I think I’m hearing you—“
+Frost nodded, expectantly.   “A kind of interior voice--?”
+“Like somebody’s inside my head….somebody else.  I guess it’s ANAD.  Man, this is too weird.  He’s talking…or at least, I can hear something.  But there’s no sound—“
+Frost studied his IC panel.  “I’m reading ANAD inside capsule containment, linked in.  Comms are there…trying to be there, anyway.  ANAD’s activated the quantum coupler…he’s trying to link in with your coupler.”
+Deeno shook her head.  “Ouch…kind of a loud buzz, that was.”  She grasped at something in the air, only there was nothing.  “Is that a fly…a moth buzzing around?”
+“No,’ Frost said.  “The coupler’s polling every sensory channel, and your neural buffer’s trying to make sense out of it.  Maybe the state generator needs adjusting—“
+***ANAD to Base…this is tricky, like trying to nab a hydrogen molecule…can you hear me, Base?  I’m going through all the buffer channels, trying to find out what does what…so many different connections--***
+“I hear you, ANAD.  What the hell are you doing in there…I keep seeing flashes of light, moths and bees flying around.  It sounds like a symphony orchestra tuning up—“
+***ANAD to Base…sorry about that, Boss.  I’m not sure where my state signals are ending up…there’s an awful lot of wiring in here…***
+‘Hey,” Deeno said, rubbing her temples.  “Take it easy, will you?  That’s my brain you’re messing with.”
+Slowly, in fits and starts, but with increasing assurance, the spurious sensations died off and a smooth flow of signals settled in.   The whole process took half an hour.  In that time, D’Nunzio heard glass shattering, saw purple sunsets on strange landscapes, smelled her mother’s pancakes and plum syrup three times and developed a terrific headache. 
+Doc Frost finagled with the interface controls, fine-tuning ANAD’s quantum coupler to narrow the focus of its state generator.  “Quantum entanglement states are a bitch to deal with,” he muttered, as his fingers raced over the keyboard.  “I still don’t know how Red Hammer managed to make this work so easily.  “It’s like trying to paint a small stripe of paint on door molding with a pressure washer.  It all goes everywhere.”
+***ANAD to Base…how’s that?  I’ve got my linkset narrowed down…just a few more connections….I’m not sure what they’re for…there seems to be others down here too…not sure about them…but I’m learning how everything works***
+“Me too, ANAD,” Deeno muttered.  “Doc, is it going to be like this every time?  Is it going to take half an hour to get contained and set up comms?”
+Frost shook his head.  “I don’t think so.  ANAD’s just learning…and I’m fine-tuning his program even more.  Plus, your own neural net will adapt as well….it’s not everyday somebody has an assembler buzzing around inside her body, trying to plug in and talk with her.”
+“I’ll say.”  Deeno lay back in the seat and let ANAD do what he had to do.
+
+Hours later, the process seemed a lot smoother.  Several times, she had practiced a full launch and recovery sequence.  Each time, the linkup took less time.  By the end of the first day, ANAD and Deeno D’Nunzio had honed the process down to just a few minutes.  And from outside Cell B, Johnny Winger cheered her on.
+“You’ve got it, Deeno.  It just takes practice.”
+Her voice came back through the speaker.  “Lieutenant, I don’t know about you, but for me, it’s like learning to walk all over again.”
+An hour later, during one of the launch and recovery practices, Deeno reported a problem.  
+“I’m having trouble getting ANAD to come back,” she said.  Doc Frost had left the Containment building for a much-needed break at the canteen.  Mary Duncan was on duty, outside Cell B, chatting with Winger.  “He won’t recover, he won’t go back in the capsule—“
+Duncan and Winger immediately bent to their consoles, checking everything.  Duncan reported D’Nunzio’s capsule was in the open position.  A quick check of recent coupler traffic showed that D’Nunzio had issued the proper commands.  Yet, sensors inside the cell showed clear nanobotic activity in the air over Deeno’s bed.  Even through the porthole above their console, a faint sparkling mist was visible.
+Winger spoke to her.  “Deeno, did you command any reps?  Looks like ANAD’s expanding, just from what I can see.”
+“I didn’t command anything, Lieutenant.  And I’m not sure this is ANAD anymore.  The last few sessions, the voice has been pretty curt and abrupt….almost like a whole new personality.  Something’s different here—“
+Mary Duncan made a quick decision.  “I’m going in.”  She got up to cycle through the lockout, but Winger grabbed her arm.  “Dr. Duncan, let’s re-prime the injectors…just in case.  And I’m going in too.”
+Duncan nodded.  “Sure…that’s a good idea.  But I can’t let you go in, Johnny…this is my job…my responsibility.  I’d better let Irwin know too--”
+Winger made sure the electron beam injectors were charged and ready, in case ANAD went big bang, then said, “Dr. Duncan, you’re not a nanotrooper and I am.  I’m trained to deal with bad bots and swarms.”
+“Very well, if you insist,” she finally decided.
+The two of them cycled through the lockout and came to Deeno’s side.  All around them, the air was buzzing, as more and more bots appeared, replicating from the master.  It wasn’t a big bang yet, but it could easily become one.
+Duncan pecked out a few commands on her wristpad.  “I’m trying to override ANAD now,” she said.  “Get down to the root command level of his processor…it’ll just take a second—“
+Just then, Deeno uttered a sharp cry of pain.  Her head had become enveloped in a thickening cloud of bots, swirling like smoke, a slow-motion thunderstorm building right on top of her.  She flailed at something and Winger immediately knew what had happened, when Deeno scratched and clawed at her face….
+“ANAD’s gone inside, Dr. Duncan…”
+A sharp warbling alarm sounded inside the cell…it was the swarm master alarm.  
+Duncan wrestled with her wristpad.  “ANAD’s not responding…I’m trying overrides, emergency shutdown…nothing’s working…it’s like—“
+Winger had to make a quick decision.  “…like he’s not ANAD.”  He remembered the way the Dana Tallant angel had first appeared at the Custer Inn…and the way she had de-materialized in front of him.  
+Some of those bots are here in this cell, he told himself.  And now, they’re inside Deeno.
+Almost from day one, nanotroopers were taught to respond fast.  Winger checked his own wristpad.  His ANAD was still inside his own capsule, embedded, inert, just ticking over waiting for action.  
+“I’m launching,” he told them.  He’d been in proximity to the Dana Tallant angel for nearly half an hour; there was just a chance his own ANAD system had been compromised too.  But it was a chance he’d have to take.
+Nanotroopers didn’t leave a buddy behind.  It was in the Code.
+The first thing to do was get Mary Duncan out of danger.  Without a word, Winger grabbed the doctor by her arm and pushed her toward the hatch.  “Get out of here now!  Get away…this is going to get nasty fast—“
+Duncan offered only token resistance, looked back with a helpless face, and hurried through the hatch, which swung shut right behind her.  Through the porthole, she could see Winger now clawing his way through the growing fog of mechs, fighting his way toward D’Nunzio, who was writhing and twisting on her bed, nearly falling off with each shove.  
+As she watched the battle unfold inside, Mary Duncan had a sobering thought: if this ANAD is compromised or contaminated or defective, the others might be as well.  She hesitated for a moment, unwilling to leave Winger alone with what was clearly an out-of-control ANAD system, but she knew she had to check the other troopers.  Nguyen, M’Bela and Barnes already had their ANADs loaded and familiarization was underway.  There might be a problem common to the entire batch of masters…Dr. Frost had to be notified right away…inhibits and overrides had to be sent, maybe new ones developed…worst case, Quantum Corps might have to bring their heavier defenses to bear—Duncan tore herself away from the porthole, pecked out an alarm code on her wristpad and hurried off to the other containment cells, leaving only Gavin to monitor things. 
+Inside cell B, Winger leaned hard on D’Nunzio to keep her from falling out of bed.  For good measure, he found some straps and secured her in.  He swatted and batted and swung his arms, trying to clear some space.
+Then he felt his own shoulder capsule coming open.  “ANAD, launch now…max rate reps.  Assume config C-5!”
+***ANAD launching…all effectors primed…propulsors at full…I’m coming to the rescue, Base…who are all these characters?***
+Doing a combat insert on another trooper was something they’d practiced a few times in nog school, under controlled conditions, with plenty of safety features engaged, using a de-natured ANAD that really couldn’t hurt a flea.  But this was completely different.
+Now tightly lashed to her bed, but still thrashing and convulsing, Deeno D’Nunzio wasn’t the kind of battlefield any nanotrooper expected to encounter.  When he’d joined the Corps, the recruiters had regaled Winger with visions of mass swarm assaults across deserts, snowy fields, mountains, even the ocean.  And yet, since he’d graduated nog school, the bulk of 1st Nano’s ops had been inside swarmed and squirming human beings.  The battlefield was now five feet six inches long, weighed a hundred and twenty pounds and was fighting him like an enraged tigress, straining so hard at the straps that Winger figured she might just burst.
+“Deeno…Deeno, hold still, will you?  ANAD, config C-22.  Steer heading—“ he estimated a bearing to her bobbing head, to the lachrymal ducts around her eyes “—one five oh degrees, set propulsor to half.”
+***ANAD steering to commanded heading…Hub, what effector setting?...I’m having quite a battle just maneuvering through this slop***
+Winger thought.  “Bond disrupters full charge…pyridine probes out when I give the word, carbene grabbers too.”
+Inside of a minute, the rapidly growing ANAD swarm had slashed its way through the melee and was riding along the optic nerve, a direct highway into Deeno’s brain.
+Time to go small, he told himself.  He set the view on his wristpad, took a hack from ANAD’s sounding and closed his own eyes, kneeling beside the bed so he wouldn’t fall over.
+He went ‘over the waterfall’ and found himself in the usual sleet of polygons and trapezoids hurtling at him, beating against the ocean waves of van der Waals forces.  The image before him skittered and careened before it settled down to a wobbly but steadying view of dark viny shapes, the increasingly dense neural net that was Deeno D’Nunzio’s cerebral cortex.
+Time to go hunting, he told ANAD.  Sounding ahead now—
+He didn’t have long to wait.  He dropped ANAD down to one quarter propulsor, probing for the faintest hint of high thermals and electromagnetic disturbance, anything showing lots of atom smashing ahead.  I don’t have a map, he muttered.  We’ll just have to go where sensors take us. 
+“ANAD, tune sensors for anything off-nominal, any kind of bond-breaking disturbance. “
+***ANAD altering sensor settings…recommending assume C-30…set enzymatic knife to full extension…grabbers full sweep***
+“Do it, ANAD.  Do it now.”
+The first whiffs of nano came a few moments later.
+Winger knew deep down inside that all of this had something to do with Dana Tallant.  He’d told no one as yet about the encounter at the Custer Inn.  Maybe he didn’t want to believe it himself.  Sure, angels were all around them.  Hell, you couldn’t go into town without tripping over them.  Clouds of bugs done up to look like shoppers out for an afternoon on Main Street.  It was all for show, just like a postcard.  Maybe he didn’t want to admit that one of their own troopers could be an angel, for if that was true, and angels were getting better all the time, who could you trust, really?
+Okay, Dana Tallant, if it’s you in here rummaging around inside Deeno’s brain, come out and let’s rumble.
+His wish came true almost as fast as he had made it.
+***High thermals ahead, Base…getting acoustic returns…signature analysis correlates with nanobotic activity***
+“All right, it’s party time.”
+The first visuals materialized out of the murk and Winger held his breath.  It was ANAD.  And yet it wasn’t ANAD.
+He could make out the cylindrical casing that was characteristic of ANAD.  Nested cylinders, like little hat boxes, festooned with effectors, scores of effectors, some he had no idea what they did.  Propulsors at the base cap, flagellar thrusters amidships.  Quantum processor head.  Cooling fins.  Power cells.  
+If this isn’t ANAD, I’m from Mars.
+But there was something odd about the bot.  It had a midsection seam that was rotating, like a motor or a pump. What the hell is that gizmo? 
+Winger had to remind himself that this was a Dana Tallant bot, not ANAD.   Which meant approach with caution.
+“ANAD, one quarter propulsor, dead ahead.  Deploy bond disrupters and grabbers.”
+***Base, recommending Spinning Jenny maneuver…this maneuver is tactically sound and prevents frontal assault against ANAD***
+He knew ANAD was right.  You never approached an unknown bot head-on.  Spinning Jenny was sound doctrine, right out of the tactical manual.  Give the enemy nothing fixed to target.  Sneak up on a tangent, and grab something vital.  Float like a butterfly and sting like a bee. 
+“Negative,” Winger decided.  He wanted to close and recon the bastard a little more closely.
+But as ANAD sidled up to the bot, the thing spun away and jetted off into the distance, poking in and out of view behind some dendritic branches of nerve fiber.  
+What the hell?
+“ANAD, go to half-propulsor.  Home on target ahead.  I want to make an inspection pass.”
+He could tell from the sounder image that ANAD was closing the distance.  But the enemy wouldn’t play ball.  Time and again, ANAD made an approach, from a variety of bearings, and each time, the Dana bot would spin away and thrust itself off into the distance.
+“ANAD, pursue the target.  And replicate more mass.  Let’s try to outflank these bugs.”
+ANAD did as commanded.  Winger toggled the rep command and ordered the assembler to replicate more copies of itself.  The plan was to approach from multiple vectors, surround and flank their quarry and encircle it, then close for inspection and a kill.
+But the Dana bot would not cooperate.  Even as ANAD jetted forward, Winger could see the bot image dwindling in the distance, growing fainter in the murk of the tangled nerve net that was Deeno’s cerebral cortex.  Winger kept reminding himself where he was.
+Need to minimize collateral damage here, he told himself.  This isn’t Mali.  Or Lions Rock.  It was a nanotrooper’s brain.
+The chase was on.  Dana bots dwindled and scooted off into the distance, even as Winger commanded ANAD to full propulsor and folded effectors to streamline his casing.  
+“I wish I knew where the hell we were.”  He could try a long-range shot.  Too much chance he’d hit something vital.  It was like counter-swarming in the middle of a busy city.  
+Then it hit him.  “ANAD, project target’s current track.  Give me a heading.”
+The assembler crunched on that for a moment, then ***Target is transiting outer C1 layer and Betz cell complexes. Entering lateral geniculate nucleus.  Estimating intercept of optic chiasm and optic nerve fibers in forty thousand microns, current speed and heading***
+“That’s it!  That’s where she’s heading.”  A chill went down Winger’s spine.  He knew the optic nerve led to the lachrymal ducts, the tear ducts.  It was a well-known exit point for nanobots inside a human brain.  “She’s going to try and leave the party.  ANAD, plot an intercept course and go to max propulsor.  We’ve got to head that force off and keep them from leaving Deeno….”  If the Dana bots managed to exit the lachrymal ducts and went airborne, containment cell B could be in a world of hurt.
+The chase lasted ten minutes, but ANAD could never close the distance.  Whatever they were, the Dana bots—he chastised himself for calling them that but he knew the mechs had somehow spalled off the Dana Tallant angel—were fast and highly maneuverable, using the dendrites and axons of Deeno’s cerebral cortex like a forest, popping in and out view, changing course, doubling back, the small swarm dispersing and re-congregating like a ghostly mirage.
+Winger decided there was no way ANAD could catch their quarry.  He dragged himself out of ANAD’s nano view back to the macro world, fought off a wave of nausea and signaled Sergeant Gavin to ready the injectors.
+“They’re coming out!  Flood the cell if the bastards come out--!”
+Gavin was at a console just outside the hatch.  He could see Corporal D’Nunzio still moaning, writhing with mild convulsions as the enemy swarm lit off dopamine cascades everywhere it went…thalamus, ventral tegmentum, they were all lighting up like Times Square on New Year’s Eve.  Gavin shook his head.  This was bad, real bad.  Deeno’s ventral tegmentum was the central switchboard of pain and pleasure, just above her brain stem.  As Winger steadied himself back into the macro world, ANAD’s sounder image momentarily sharpened to a dense, hazy forest of neural tissue.  Uncountable millions of neurons throbbed with pulses, while the Dana mechs pumped the gaps with dopamine, and sucked them dry just as fast.  Each cycle sent D’Nunzio into shudders and spasms.
+“Lieutenant…I can’t…not with you still inside—“
+The safety inhibits!  Winger swore.  “Gavin, bypass the freakin’ inhibits!  Get ready to blow this cell to smithereens—“  
+But before he could even finish his words, Deeno’s face was suddenly enveloped in a pulsating red-orange fog, as the mechs erupted out of her eyes.  The master bot had clearly triggered a big bang and the entire gurney was quickly smothered in flickering, flashing thunderstorm of a swarm.
+Winger batted and flailed and backed away from the bed, stumbling, then falling heavily to his side.  
+Gavin had his orders.  He was just about to stab the FIRE button, flooding the containment cell with trillions of electron volts when hands firmly clamped onto his shoulder.  He turned around. 
+It was Mighty Mite Barnes and Oscar M’Bela.  Doc Frost hovered right behind them. Mary Duncan too. 
+“Not yet, Sergeant.  Hold off—“ Barnes’ face was a mix of horror and determination.  “That’s Lieutenant Winger in there.  And Deeno D’Nunzio.  We’ll take it from here—“
+“Open the hatch,” M’Bela ordered.  Doc Frost was about to object, but the Nigerian’s tone of voice brooked no dissent.  Gavin cycled the lockout.  “We’re going in—“
+Frost said, “I wouldn’t…that’s a max rate replication going on in there—“
+Barnes held up a small-bore pistol-shaped weapon.  It was a short-range HERF gun.  “That’s why I brought Shorty here…now, move aside.  Gavin, cycle it open…now!” 
+The sergeant did as ordered.  As soon as the heavy hatch swung wide enough to slip through, both troopers dashed inside, swatting and batting at the swelling cloud of bots now filling the cell.  Barnes lit off her HERF gun and the rf thunderclap boomed off the walls, deafening both of them.  Fried bots tinkled onto the floor by the million, but the bubble of clear air lasted only seconds.  Behind them, Gavin slammed the hatch shut. 
+Johnny Winger lay on the tile floor on his side, beside the bed.  On top of the bed, Deeno still thrashed and writhed in uncontrollable agony, her face contorted in pain.
+M’Bela rushed toward the writhing form of Johnny Winger.
+“Lieutenant…Lieutenant Winger!”  M’Bela bent over the prostrate form, swatting at the cloud of mechs descending on them, pinning Winger to the ground as he thrashed and flailed about.
+“My head—“ the Lieutenant was trying hard to rip his own head off at the neck.  “They’re in…inside…it’s my head!!!”   He squirmed, fighting off both troopers, who waved frantically for help.  More troopers from outside the Containment bay had cycled themselves in and came running from every direction.
+M’Bela put his full weight on Winger’s chest, before stepping back and helping hoist Winger’s squirming body up into a makeshift litter.
+“Get him to the next cell…fast!   Other side of the hall!”   Barnes yelled.  Winger was hand carried.  Then, inside Cell C, he was forcibly restrained on a portable gurney.
+“Get this cell sealed, pronto!” Barnes barked at the others.
+“My ANAD’s still initializing,” M’Bela told her.
+“I don’t care…get a shield up now!  We could be assaulted any second!”
+While M’Bela worked to power up his own embedded ANAD and launch a shield force of mechs, Barnes pressed her face close to Winger’s.  “You got mechs inside you…just hold on—we’re prepping ANAD now—“
+Winger’s face was contorted in a grimace of pain, his lips moving but no sound came out.  With effort, he croaked out a few words.  
+“What…how…what…our shields?—“ He tried to lift himself up.
+“I don’t know what happened,” Barnes told him.  She pushed him back down onto the bed.  She felt tremors pulsing through his body, one after another, waves of tremors like small seizures.  The mechs were systematically penetrating critical motor circuits deep inside his brain, bit by bit taking firm control.
+It was a race now, she realized, a race between the mechs inside his head and Witchy M’Bela, who was working furiously to get his own ANAD ready to go.  Time was short, growing critical.    Barnes tried to comfort Winger in between seizures.
+“We’re going to put ANAD inside you,” she told him, bending closer to his shuddering face.  “Search and destroy—“
+Winger managed a weak smile.  “Watch out…what you destroy—“
+Barnes helped turn him over so M’Bela could fit up the injector tube.
+“I…want to…to pilot—“ Winger gritted out the words with difficulty.  “I can—“
+“No you can’t.” Barnes was firm.  “Witchy’s a perfectly capable pilot.  He can grab atoms with the best of them.”
+“Not…inside my…brain, he can’t,” Winger grimaced.  “Look—“  he strained against the restraint straps, clawing at Barnes’ tunic.  “—look, it’s Dana Tallant…I know it…it has to be…I know her…I know where she’s going…seen the bots…their tactics—“
+M’Bela was ready for launch.  “With all due respects, Lieutenant, your hands are shaking too much.  You could hurt yourself…pretty bad—“
+Winger fought the straps so vehemently that Barnes had to relax them.  He struggled up to a sitting position, still shivering, his forehead wet with perspiration, his eyes glazed over from the fiery buzz burning in the center of his skull.
+“Give—“he stretched out his fingers toward the IC panel.  “…I can do it, I tell you!  I can—“but his face screwed up into a mask of pain and his outstretched fingers curled into a quivering fist.  “…can…I can…pilot this thing—“
+Barnes didn’t want to.  It was a bad idea, dangerous, fraught with too much risk.  But she couldn’t find the courage to say no.  She took a deep breath, glared at Winger, then at M’Bela, even back at the porthole, where Frost and Duncan peered in helplessly.  Nobody else was senior, nobody else had command authority.  Winger’s own embedded ANAD was likely toast. It was her decision, thrust on her by events.  
+“Give it to him.”
+“Sergeant, it’s too—“
+“Give it to him!”
+M’Bela moved the IC panel closer to the gurney. 
+Moments later, the injector tube was hooked up to the skinpinch, the tube was enabled, and the pressure pulse from the containment cylinder snapped through the linkup, sending the ANAD master hurtling in a slug of compressed solution inside Winger’s carotid artery.  M’Bela worked side by side with Winger at the panel, managing config, while the Lieutenant gently grasped the joysticks, trying to calm his fingers long enough to grasp the controls.  The rest of the detail looked on anxiously.
+Somehow, Johnny Winger had to guide ANAD into battle with renegade Dana Tallant mechs active deep inside his own brain’s limbic system, mechs already replicating rapidly to seize control of critical neural circuits.  As ANAD cruised deeper into his bloodstream, M’Bela sent signals to begin replicating for battle.
+While he did that, Johnny Winger alternated between moments of lucidity and moments of wrenching convulsions.
+He could barely make out the imager through eyes blurry with pain and shaking.  Somehow—maybe M’Bela had done it—ANAD had transited the carotid artery and the blood-brain barrier and was inside Winger’s cortical tissues, heading down, deeper into the midbrain, past the finger-like projections of the hypothalamus, past the amygdala and the hippocampus, cruising through the nucleus accumbens at the highest speed possible, until at last the pea-shaped ventral tegmentum was straight ahead.  The imager view was a blur of spidery axons and dendrite projections, tangled into dense jungle growth, with cascades of flickering light tracing paths in every direction at once.  
+ANAD cruised on his picowatt propulsors for a few moments, playing hide and seek among the projections, tacking against fluid currents among the axons, steering clear of dense knots of fiber, while Barnes and M’Bela helped the Lieutenant operate the controls.
+“Sounding ahead, sir,” M’Bela muttered.  “Let’s see what’s out there.  How do you feel now, sir?”
+Winger was dizzy, disoriented.  Somewhere in the back of his mind, he knew millions of Dana Tallant mechs were seizing control of critical circuits deep in his ventral tegmentum, setting up shop to commandeer the reward pathways of his mind and stimulate pain and pleasure on demand.  
+“Like I got the worst hangover in the history of man…where are we?”
+Barnes took a hack off the vascular grid and computed their position.  “Sixty thousand microns off the parietal approach to the tegmentum.  Sir, I recommend we config ANAD for Threat 1 defense.”
+“Do it,” Winger slurred.  He shook off the drowsiness, clearing his head for a moment.  How long the clarity would last, he didn’t know.  They were in a race now, a race against an enemy inside his own brain and the grand prize was control of Johnny Winger’s own limbic system.  
+This is one race I can’t afford to lose.
+“Picking up pressure changes, Lieutenant,” M’Bela said.  He tweaked the sounder, focused in on the bearing of the hit.  
+By habit, Winger slowed ANAD to half power and cycled his outer effectors.  “Bond disrupter’s ready, Sergeant.  My carbenes are itching now…something’s out there and it’s not far away.”
+The telltale signature of an enemy force maneuvering deeper in the forest of axon fiber was easily enough detected.  ANAD rapidly closed the gap, nosing his way through the fiber mats easily.
+“Slowing to one-quarter,” Winger gritted out.  The convulsion hit one second later.  
+The Lieutenant shuddered and nearly twisted off the bed onto the floor of the containment cell.
+“Hold him up!” Barnes yelled.  Hands reached in and supported the Lieutenant, steadying him as the seizure took hold.  His body was rigid, his hands curled into shaking fists, as he rocked and shook violently.  M’Bela knocked his hands away from the controls to keep him from crashing ANAD into a critical structure, perhaps doing irreparable damage to vital tissues.   Barnes hugged the Lieutenant tight, as the spasm worked its way down the length of his body.  Wave after wave of convulsions coursed through his limbs. 
+M’Bela gritted his teeth.  To hell with recon, he told himself. The Lieutenant needs help before he breaks an arm.
+He nudged ANAD forward, ignoring the splash of soundings made by the dense axon forest, barreling toward his best estimate of the enemy’s last position.
+“Range…to…target…” Winger grunted out, squirming in the grasp of two people.  
+“Now four thousand microns…large returns…big returns…many hits…looks like the enemy’s dispersing…”
+Winger felt the spasm beginning to subside.  They’d probably provoked it sending ANAD in so fast.  He’d just have to live with it…knowing the enemy wouldn’t give up without a fight.
+“Just keeping an eye…on us…” he gritted out.  As his body relaxed, Barnes and M’Bela relaxed their hug and let the Lieutenant breathe a little better.  Their eyes met his.  “Thanks…guys…”
+“Big hits ahead!” M’Bela said.  “Dead ahead…right through that gap—“  He indicated a fissure in the thicket of axons ahead, a reef of tissue held open by cranial fluid currents.  The imager wavered, careened, then began settling down.  “Sorry for the blur, sir…that’s your head rocking back and forth.  Like a typhoon inside the midbrain—“
+“Tell me about it, Sergeant—“
+“There they are!”
+Winger watched tensely as the imager showed a blurry picture of a mech floating in for a close-up look.  The mech looked for all the world like an ANAD clone, same tetrahedral core, same effectors, same bulb in the center of the lattice, housing the nanoprocessor.  Even the same propulsor layout, whirling like propellers as the device glided by.
+Jesus Christ, it is ANAD!
+Just a few microns closer—
+“Now!  Re-config now, Lieutenant!  Assault One…give ‘em a taste of knuckles and fists!”
+As ordered, Winger stabbed a button and the config was squirted off to ANAD.  Slaved to the master, millions of replicants re-configured themselves into attack mode, baring carbene grabbers and pyridine probes, ready to close for battle.
+“Enable your bond disrupters,” Barnes muttered.
+“I’ve got the master!” Winger added.  He pulsed his stick and ANAD closed the gap, turning immediately on the curious mech.  The screen thrashed violently in the ensuing combat, as the forces closed for battle.
+Instantly, he felt the beginnings of another convulsion, a seizure coming on, fierce unrelenting pain like a billion needles jabbing into his head.  
+“Arrrgghhh!” he cried out, but somehow, he was able to keep the pain confined in a box and focus on maneuvering ANAD.  Behind him, Barnes reached out with strong hands to grasp his shoulder.  Winger shrugged her off.  “No…I’m okay!  I’m okay…I can handle it—“
+“Lieutenant…we’re just—“
+“Really…I’m…okay—“ he gritted out.  Another spasm, more needles, tongues of fire.   The box was breaking down.
+He concentrated for a second on rebuilding the box, cramming the beast with no name back into it.  
+Remember El Dorado cave…remember Diablo Lake…remember Bailey…he’s there…he won’t let go of you…just follow the winking red light—
+Fighting this battle on two fronts wasn’t going to be easy.
+“We’re engaging now!” M’Bela said, following the chaotic scene on the imager.  “The whole front, looks like.”
+The battlefront seemed a vast, endless forest of fiber and tissue, yet its entire length was barely half an inch in extent.  Deep inside dense groves of axons flickering with light, ANAD and his force slammed headlong into the enemy formation, gathering and bending atoms to build structure, quickly fashioning its programmed arsenal of weapons: electron lens, bond disrupters, enzymatic knives.
+The cytoplasm frothed and churned with furious combat.
+Winger squinted through bloodshot, pain-filled eyes at the melee unfolding before them.  By instinct and training, his hands twitched and tweaked the stick and propulsor controls, battling nearby mechs blindly.   Concentrating with all his might, squeezing out the needles that were jabbing his head, he entered the infinitesimal world of nanoscale war and became one with ANAD, whirling like a Roman centurion with halberd and sword at enemies in every direction.
+Come on, ANAD…it’s you and me, pal…you and me against all these poor suckers—
+ANAD seized a phosphor group at the outer edge of the nearest mech and twisted atoms until the bond snapped.  Liberating thousands of electron volts, the disrupter zapped the mech and shattered its outer shell, ripping off probes left and right.  The mech seemed to shudder from the assault and spun with the pulse, then re-engaged to fight off another bond snap.  Throughout the forest of the ventral tegmentum, trillions of ANAD replicants duplicated the same tactic.
+“Go, Lieutenant!  You got ‘em on the run!”
+Winger zeroed in on the mech’s inner core, the throbbing pod at the center of its lattice.  This was the heart, the brains of the device.  If he could get past the inner effectors, if he could rip through more of the phosphor and carbon groups, dodge the van der Waals buffeting….
+“I’m going for the jugular, Sergeant—watch my ass—“
+M’Bela made sure the immediate vicinity was swept clean of Dana Tallant bots, pummeling a few mechs, ripping a gash through a cloud of atoms around the ANAD master.
+“You’re clean, sir…give ‘em hell!”
+He fought his way in but Dana was an elusive foe.  Time and again, ANAD and the enemy mech feinted and parried, engaged and disengaged, struck out and withdrew, each time closing to within bondsnap range, then dancing away just in time.  Winger grew more and more frustrated with the maneuver, clenching his fist at each near miss.  
+“It’s like the damn thing knows what I’m doing…like there’s more intelligence here than we thought—“  He clenched his teeth, driving ANAD forward, barreling through, slammed and torqued by rough forces and currents.  “I’m just not strong enough to break in—“  More than ever, he was sure he was dealing with something beyond nanoscale intelligence.  He was dealing with another nanotrooper now, though she was only a few nanometers in size.  The Dana master had all the training and smarts of a cadet just out of nog school; how many times had they dueled in war games out at Hunt Valley?
+“Someone’s driving this baby,” he told them.  “It has to be…it just doesn’t make any sense otherwise…it’s like she’s just playing with me.”
+Another convulsion, this one lighter in strength, wracked his head.  “Mmmm—“ Winger clenched his teeth.  He was getting close, he had to be, and Dana was fighting a desperate rearguard action.  He shuddered and shivered for a few moments, while ANAD circled his prey, looking for a way in.  
+What was it Doc Frost used to say--?
+Know the enemy and know yourself; then you shall not fear even a hundred battles.
+Suddenly, he had an idea.  “Configuration one!” he told Glance.
+“Config one?  Lieutenant—we’re right in the middle of the enemy—“
+“Do it!” he got out, wincing, squeezing his eyeballs shut, willing himself to be still, feeling Barnes and M’Bela’s hands gripping his shoulders.  “It’s an old tactic…it’ll work.  It’s got to work!”
+Against his better judgment, M’Bela complied, sending the signals to ANAD to safe and store all effectors, to sheath all weapons.  On the imager screen, the churning plasma began slowly clearing.  All throughout the axon forest, ANAD replicants suddenly shrank back from their engagements and stowed their weapons.
+“Lieutenant—I don’t—“
+“We’re going to draw them in real close,” Winger told him.  “Surround us, envelope us completely.”
+“If we do that,” Barnes was wary, unsure of the Lieutenant’s mind , “it’ll be over in minutes.  We let her flank us…we let these buggers encircle us and ANAD’ll be swamped.  We’ve got to engage again and fast.”
+“No, I know what I’m doing.”  
+Now, he remembered Doc Frost saying something else.  Frost had long been a student of military history…and a devoted protégé of Sun Tzu.
+Reconnoiter first.  He who is skilled hides in the most secret recesses of the earth.
+The seizure was subsiding.  They were less and less frequent now and less and less vicious.  ANAD had diverted Dana from her primary mission.  The enemy mechs had vacated their positions among the synapses of his tegmentum to do battle with ANAD.  Everything seemed clearer, brighter.  
+More and more, he was sure this was the right tactic.
+“Now for the coup de grace,” Winger told them.  From somewhere deep in his memory, he remembered a trick he’d once played on Dana Tallant at Hunt Valley.  If the bot inside his head was truly all that was left of Tallant and if it somehow had her training and smarts, this trick should work.
+“Send configuration one eleven,” he muttered to M’Bela, screwing his eyes shut to fight off another wave of pain.
+M’Bela was puzzled.  “Config one eleven…Lieutenant, there is no such config.  I’ve never heard of such a config.”
+“It’s a caging technique…send it!”
+M’Bela found the config file and sent it.  The ANAD master replicated off a few more copies and then went hunting.
+“Got to…got to find the master!” Winger got out.  His mind was clearer but he felt dead tired.  “Look for highest thermals…big-time atom grabbing—“
+“Got it,” M’Bela said.  He and Barnes studied the returns from ANAD’s sounder, found activity highest along one vector and commanded ANAD in that direction.  
+Soon enough, the density of enemy bots had increased to the point that ANAD had to slow down.  Winger studied the returns, decided the master had to be dead ahead…and then he ‘saw’ it.  The queen bee.  Tetrahedral casing, effectors out the ass, this was the prize.  He maneuvered and side stepped and squeezed and tacked his way forward, caroming off replicants until he was only a few thousand microns away.
+“Now for C-111…” He told ANAD to replicate a small group, slaved directly to him.  Approaching the master, bouncing and thrashing his way through the botstorm, poking along a nerve fiber flashing with thoughts in the making—his own thoughts, he realized—Winger tickled the joystick that M’Bela kept centering in his grasp, twisting and guiding ANAD through the melee…it was like fighting through a concert crowd to get to a front-row seat.  Finally, he was close enough to the master to make a lunge.
+“Okay, ANAD…let’s do this!  Grabbers out full, the whole enchilada.  We’re going to bracket Dana here and form up a small cage…go go go!”
+Inside his own thalamus, the snatch and grab was made quickly, with only minimal interference.  Some of the special ANAD group set their effectors to form the ‘bars’ of a small cage, then took up position around the master bot, nudging and zapping enemy bots that tried to fend them off.  It was a crowd riot at atomic scale, fists and kicks flying in all directions.  
+When the perimeter bots were in place, Winger drove the ANAD master forward to complete the entrapment.  
+“GOTCHA!” he exulted.  The trap was closed.
+“Bingo!” yelled Barnes, pumping a fist.  “Slick maneuver, Lieutenant!”
+“Pure sweetness,” M’Bela agreed.  “Now to get the hell out of there—“
+The caged master bot squirmed and fought from inside the cage of ANAD bots, and her own defenses threw themselves like crazed drones from the outside, but ANAD held firm and slowly, but surely made its way out of the riot.
+“Head for the optic nerve, Lieutenant,” Barnes said.  “You’re about sixty thousand microns anterior to the epithalamus.  I’ll get you a vector.  There’s a junction nearby…paramedian thalamic artery, according to the grid.  From there, you can make it to the optic nerve.”
+Winger took the vector, used ANAD’s bond disrupters to force his way through a gathering swarm of bots and headed along the route Barnes had given him.  The trip took half an hour and he had to replicate more bots to give ANAD a flying wedge, like a football team’s offensive line, to make it.  
+Finally, ANAD made the lachrymal duct and cruised on ahead with its catch, exiting the ducts through his lachrymal sac and ampullae.  There Mighty Mite Barnes used a small suction tube to grab their prisoner and slam it into a small containment chamber nearby.
+Winger slumped into the depths of his bed, exhausted.  
+“I’m wasted,” he muttered, to no one in particular.  “I feel like I just swam the ocean, underwater.”
+“You just about did, Lieutenant.  But I think it was worth it…we’ve got the ANAD cage and its contents in containment now.”
+“We’ll have to analyze your catch more fully,” M’Bela added, “but offhand, I’d say you grabbed the master bot of that swarm.   Good hunting, sir.  And I want to know more about that cage configuration, too.”
+Winger closed his eyes and the exhaustion washed over him.  What exactly have I caught? He wondered.  Dana Tallant…or what was left of her?  Deeno D’Nunzio had somehow become infested with  the thing ever since she had received her own embed.  Likely the Dana bots had hitched a ride on him when he had encountered Tallant at the Custer Inn and the crossover had come during Deeno’s procedure.  
+Now Dana Tallant or whatever she was was contained.  Doc Frost could proceed with the embed procedures, while their newest catch was studied and picked apart.  
+Winger wondered what they would find.  He wondered if he even wanted to find out.
+
+Chapter 3
+“Symbiosis”
+
+UNQC Western Command
+Table Top Mountain, Idaho, USA
+January 28, 2049
+0610 hours
+
+Johnny Winger was still weak from his ordeal and was ordered to bed for several days of recovery and rehab.  After about three days though, he was growing antsy and fidgety and occasionally sneaked out of the Officers’ Quarters for little side trips to the O Club or the Mission Prep bunker.
+On one unauthorized trip, he ran into Oscar M’Bela and Mighty Mite Barnes in Mission Prep.  Barnes had stripped a HERF carbine and was cleaning its parts, laid out on an oilcloth on a table.  M’Bela was doing some kind of programming with the platoon’s Superfly entomopter.
+Barnes gave Winger a cock-eyed grin.  “Lieutenant…something tells me you’re not supposed to be here…how are you feeling these days?”
+Winger gave them both a sheepish grin.  “I’m restricted to quarters until the medics clear me.  Deeno too.  But nobody ever laid down a bioweb.  Since you asked, I’m feeling better, like I just finished swimming the Atlantic.”
+Barnes clucked.  “That was some swarm attack you went through.  I don’t ever remember going through anything like that in nog school…fighting off bots inside your own head.”
+“I guess I was lucky.  I was able to pilot ANAD directly, contain the bugs and hopefully grab the master.  In fact, somehow, some way, I want to get into Containment and see just what ANAD grabbed.”
+M’Bela finished programming Superfly.  He pressed a button and instantly, the ‘mopter spun up and lifted away from the table.  It cruised about the ready room for a minute, dipping and bobbing, before the CQE brought it back to a pinpoint landing.  His smile showed his satisfaction.
+“I don’t know about this Symbiosis Project,” M’Bela said.  He expertly folded Superfly  back into its tiny container and snapped it shut.  “Seems to me there are too many risks and unknowns to make an embedded ANAD tactically useful. Can a trooper ever really have complete control over his ANAD unit?  Can he trust it?  If he can’t trust ANAD, no trooper’s ever going to launch in a dicey situation.  If we have to go through what you did, I say you can have it.”
+“Amen to that,” Barnes said.
+Winger shrugged.  “True enough.  ANAD and me did have some issues in the beginning.  There’s a definite learning curve.  But look what you gain: the ability to counterswarm quickly.  The ability to fab useful kit in the field, and not have to carry so much gear.  Now, if you need a shovel to dig a trench, send the config and voila, you’ve got a shovel.  Or even better, launch ANAD and let him do the digging.  And we’ve got configs for everything but actual organic matter.”
+“Yeah,” said Barnes, “and for that, we’ve got angels and swarm people coming out of our ears.  Say, Lieutenant, do you really think that bot in your head was something left over from Engebbe?  You don’t actually believe that was Lieutenant Tallant, do you?”
+Winger had asked himself the same question a million times since he and ANAD had finally overcome the swarm and grabbed what he still hoped was the master bot.  
+“Mite, I don’t know.  I really don’t and I’ve wondered the same thing.”  He related to both of them what happened at the Custer Inn. “I haven’t told anyone else this, so keep it close.”
+Barnes whistled.  “An angel at the Cus?  And it looked like Lieutenant Tallant?  Skipper, don’t you think Doc Frost should know about this?”
+Winger agreed.  “Probably.  I’m pretty sure that angel left a few bots on me when I left.  That’s what got into Deeno…and me too.  It corrupted ANAD during Doc Frost’s embed procedure.  It may have corrupted all the ANADs.  That’s what I plan to find out.”
+“So what are you going to do?”
+“Get myself over to Containment and do a little snooping.  I will tell Doc eventually but I want to do a little personal recon before that.”
+M’Bela seemed skeptical.  “Is that a good idea, Skipper?  I mean, sir, you’re the C/O but those bots in your head weren’t garden-variety ANADs either.  We really don’t know what we’ve got in there.  I hope you know what you’re doing, sir.”
+“I don’t but that never stopped me before.  Look, both of you keep this to yourself.  Ironpants Kraft gets wind of this and he’ll eat me alive.  And then he’ll have you two for dessert.  I’m not sure what’s over there in Containment.  It may be what’s left of Dana, hard as that is to believe.  Or it may be something else, masquerading as Dana Tallant.  Red Hammer’s still got a lot of tricks they can spring on us.  I’ve encountered this—thing—before at Custer Inn.  And for some reason, it seems to have a keen interest in me.  Maybe I can get some intel on it that we can’t get any other way.”
+Barnes took a deep breath.  “Just be careful in there, Skipper. “
+Winger was already on his way out of the ready room.  “You can count on it.  Small is all!”
+
+Sergeant Gavin was on duty at Containment Bay 1 when Winger showed up the next morning, early.  Gavin was running a routine series of scans on the bot now securely held in a small containment pod inside the larger chamber.  He made doubly sure the beam injectors were primed and ready with each scan series.
+“Just a precaution, sir,” he told Winger, when he spied the Lieutenant cycling through the lockout hatch.  “Orders from Dr. Frost and Major Kraft.  No scans or any inputs to that pod without having all defenses set to fire.”
+“Where’s ANAD now?” Winger asked.
+Gavin checked on of his displays.  “Containment Bay 2, Cell A.  We got it extracted from here last night—that was damned ticklish—and slammed him into Bay 2.  Doc Frost started a re-gen program right away…it just initialized an hour ago.”
+Winger studied the imager display on Gavin’s console.  The Engebbe bot—the Dana Tallant bot, he told himself—was secured to a small scaffolding inside the cell.  It seemed inert, but there was a definite pulsing motion, almost a quiver, to its outer casing, as if the thing were beating to some inner rhythm.  
+Is this really Dana Tallant, he wondered.  Or what’s left of her?
+An insane idea came to him at that moment.  It was against all regulations.  Against every operating protocol.  Even against common sense.
+“I want to go inside, Sergeant.”
+Gavin looked up, his eyes blinking incomprehension.  “I’m sorry, sir, I thought you said you wanted to go inside the chamber.”
+Winger didn’t make eye contact with the tech.  “I did say that, Sergeant.  Cycle open the door.  I want to go inside.”
+Now Gavin’s face screwed up into a mask of pain, as if he were about to lose his breakfast.  “Uh, sir, you know the rules.  I can’t open that door without authorization from Dr. Frost or Major Kraft.  It’s Level One in there.  The injectors are primed.  I’d have to take them offline to allow a human being inside and that’s a serious violation, sir.”  His eyes said please don’t ask me this again, please, please….
+“Sergeant, trust me…I know exactly what I’m asking.  I just want to do a little close-up recon, that’s all.  I brought my own scanpod—“ he held out the device so Gavin could see.  “The bot’s still in the cell…I’m not asking you to breach that.  I just want to go inside the main chamber.”
+Gavin took an exceptionally long and deep breath.  His face turned a scarlet color.  Winger was afraid the poor sap would hyperventilate and pass out.  “You’ll sign the logs…sign all the authorizations, sir?”
+“Give them to me now and I’ll sign anything.  Gavin, I’ll sign your freakin’birth certificate, if you want.  I do know what I’m doing.”
+Gavin had to concede the point.  It was against all regs, he told himself, but this was Lieutenant John Winger.  This was the top code and stick man in the whole Corps.  The very first atomgrabber.  
+If you couldn’t trust Lieutenant John Winger, who could you trust?  
+Sergeant Wesley Gavin was a trooper who always followed the rules, all of them, to the letter.  That’s how you kept your nose clean and your ass out of trouble at Table Top.  He handed a small tablet to Winger.
+“Just initial the flashing areas, sir.  I’ll get started.”  His fingers flew over his keyboard, bypassing some systems, disabling others, safing the injectors.  The process of readying Containment Bay 1 for a human visitor took about five minutes.  When all the lights on his  board lit up green, Gavin nodded to Winger.
+“Okay, sir, the outer hatch is unsealed.  You can go in.”
+Winger didn’t look at him.  He knew just how dangerous this could be. The bot inside was the same bastard that had played a rugby match inside his own head a few days ago.  It might even be the same angel that had sat across from him in a smoky booth at the Custer Inn.
+He swung the heavy hatch wide and went inside.  It shut and sealed behind him.  The thing was still contained in a small pod on a pedestal in the center of the bay, draped with thick ganglia of tubes and wires, as other systems managed the pod’s interior environment and kept constant watch on the bot, measuring every micro-twitch, every emission, every infinitesimal tremor.
+For a few moments, Johnny Winger studied the pod and the imager screen above it, showing the bot pinned to its scaffolding inside.  
+He had to know. He had to be sure.  He didn’t have an embedded ANAD in his shoulder capsule at the moment.  ANAD was in Bay 2, Cell A, being re-generated even as he stood there.  But he did have a coupler inside his skull, the link he used to talk with ANAD over secure quantum-encrypted channels.
+Maybe it would work.
+He flicked his head just so, the way Mary Duncan had taught him, to open the coupler link.
+“Anybody there?  Dana, can you hear me…are you receiving?”
+For a moment, he got only static and buzz on the link.  But some kind of connection was being made.  He heard, or maybe he felt, chirps and pops and whistles. Then….
+***Johnny Winger…Wings…I do hear you?  This link is very crude…I’ll try to clean it up***
+“Dana, is that you?  Lieutenant Dana Tallant, report at once!”
+***Hey, you don’t have to yell.  You know…I’m right here…why don’t you let me out…give me some atoms to work with?***
+Now, Winger took a deep breath.  He looked around, fully aware that everything he said and did was being recorded.  Through the porthole, Sergeant Gavin was staring back at him, mouth open, transfixed.  
+Gavin, don’t lose your breakfast, Winger thought.  
+“You know I can’t do that, Dana.  We’re…you’re being scanned, studied.  We’re not sure—“
+***…what I am…is that it?  Wings, you know who I am.  We need to talk, you and me.  Like we did at the Custer Inn***
+“We can talk like this.  Dana…what are you?  Who are you?  You’re not really Dana Tallant, are you?”
+***Wings, with enough atoms, I can be Dana Tallant.  I can be anything you want.  I’m not so different from your own ANAD, you know.  What you like to call a multi-config entity.  True, there are some differences between you and me.  But we do have a lot in common***
+“Yeah…like what?  You’re a bot.  You’re the size of a few atoms.  What I saw at the Custer Inn wasn’t Dana Tallant.  It was a simulation.  A pattern.”
+***But Wings, don’t you see…that’s the key.  We’re all just patterns.  You’re a collection of atoms same as me.  The big difference is that I can change my pattern***
+Winger didn’t like the way this was going.  “So, what’s it like…being a bot.  Or an angel?”
+He watched the imager view for any sign that the thing inside the pod was reacting.  It continued its faint rhythmic beat, but was otherwise unchanged.
+***It’s hard to describe…maybe like being under the covers on a snowy morning.  Or maybe wrapped up in the arms of someone you love.  Buried under a blanket…there’s a warmth, a kind of closeness, affection, even a form of love, a family, or a sense of belonging, a cocooning, in a way or at a level which I never experienced as a human.  You even call yourselves Normals, as if anything about you is really normal.  Single-configuration…you’re dinosaurs, Wings.  Multi-config is the way to go. Go anywhere, do anything, be anything you want…anything you have a template for***
+“Yeah, I’ve had this same conversation with ANAD.  Thanks but no thanks.  I kind of like my body as it is.”
+Now the coupler link fritzed for a moment.  Something was happening with the link.  Dana’s ‘voice,’ when it came back, was changed slightly, stronger, more commanding.
+***You should try it.  I tried to show you what it could be like…but you fought me***
+“I almost died, thank you very much.  Deeno too.  It’s not very pleasant losing control of your mind like that…I’m not quite ready to give up ‘me’ just yet.”
+***But what about your so-called Symbiosis Project?  I can show you what true symbiosis is like.  But you’d have to trust me, Wings***
+“After what happened inside my head, I’m thinking that’s not going to happen.”
+Now the link boomed in his head, as if the bot had taken command of every channel and was transmitting on all of them.  
+***I have a proposition for you… let me in again.  Inside your mind.  I promise to behave.  I’ll dial it back a little…Wings, we could be so much more together, you and me…isn’t that what symbiosis is all about?***
+“No, you already tried that, Dana…or whatever the hell you are.  I don’t want anything like a Red Hammer halo in my head.  Isn’t that who you’re working for?”
+***Johnny, this has nothing to do with Red Hammer and before you say it, I already know you have an embedded ANAD in your shoulder capsule…now being re-generated.”
+“If you’re not working for the cartel, who then?  Monsters from outer space?  I have one autonomous bot working with me now…that’s enough.  My capsule’s not big enough for the two of you.”
+***We don’t need a capsule, Wings.  You know how it can be done….let me out of containment and I’ll insert myself right through your tear ducts…it’s already been done…it’s easy.  A little sting, that’s all.  I’ll just hang out inside your head.  Believe me, I know where all the good stuff is.  We’ll be partners***
+Winger looked around.  Sergeant Gavin was still there, still staring intently through the porthole.  But there was a slight commotion behind him…another person.  Gavin’s attention was momentarily diverted.  
+Shift change, Winger realized.  Another tech coming on duty.  Gavin’s face disappeared from the porthole.
+Sometimes people make decisions without realizing they had made a decision.  It just happens, like the sun going behind a cloud and coming out again.  That fast.
+No question Winger was intrigued by Dana’s offer.  It was against all regulations.  It was against Corps policy.  It was against his oath of office as a nanotrooper.  It was even against common sense.  To let an unknown nanobot held in strict containment, a known threat that had already nearly killed him and Deeno, something that must have emerged from the depths of the Engebbe dig site, something perhaps dormant for a billion years and now loose, to allow that in the face of all the evidence that this was an insanely bad idea was just nuts.
+And, yet….It was true that he was the very first atomgrabber.  And now others would be atomgrabbers too.  He was the top code and stick man in the Corps…but others would be hosting ANADs same as him and some of them were very good.  But if he had something else, if he had another advantage, just the smallest edge…nobody could ever say Trooper Winger, J. was anything other than top dog….
+He took one last peek at the porthole, fully aware that everything he did was recorded on video and audio.  No face appeared but he could see bodies shifting around as Gavin relinquished his duty post to the new tech.
+Without fully realizing it, he reached for the control panel above the containment pod and initiated de-containment…pressing two buttons, venting the pressure from the cap and opening up a channel out of the pod to the outside world.  An alarm klaxon sounded inside the chamber.
+On the imager display, the tiny nanoscale bot that had been clinging to the scaffolding had vanished, now moving out on internal propulsors.  The trip would take about five minutes, by his reckoning.
+There was a commotion at the porthole and faces appeared and disappeared.  The klaxon changed to a warbling tone.  The hatch handwheel started to spin. Gavin and the new tech would be trying to open up, trying to prevent the release of a dangerous device into the larger chamber.  It would be a race now: the time to open the hatch versus the time for Dana to transit the pod entrance.
+Just then, the hatch clanged open and the two techs came in.  Both held mag pistols.  Overhead, lights flashed as the beam injectors went through their priming cycle.  It would be only seconds now.
+“Sir…Lieutenant…get out of there…come out NOW!  The seal’s been breached…here, grab my hand--!”
+Even as he felt their hands grabbing his, yanking him off balance, out of the compromised containment bay, Johnny Winger felt something else as well.  He stumbled, didn’t resist and was half dragged, half carried out.  The sting in the corner of his eye lasted only a second, but it was there, he felt it and he was pretty sure he knew what had caused it.  He blinked a few times, his eyes watered and it was done.
+Gavin helped Winger outside and guided him to a chair beside the console.  The other tech—his name plate read Vogt—slammed the hatch shut.  Even as he spun the handwheel, a louder klaxon sounded and the chamber inside was instantly bathed in an eerie blue-white glow as trillions of electron volts flooded the room.  Jets of toxic gas squealed as the containment bay was filled with a high-pressure vapor.
+“Are you okay, sir?”  Gavin’s face floated in front of Winger’s, studying the Lieutenant as if he were infected with plague.  “Any pains, anything hurting…can you hear me?  Can you see okay?”
+Winger waved the Sergeant away.  “Gavin, I’m okay.  It’s all right.  I’ll live.  You did the right thing.  A seal blew and you secured the chamber.  I’m okay…really, I am.”
+Gavin and Vogt both fussed over Winger for a few more minutes, then became more involved with making sure the inner containment pod was properly stabilized.  For good measure, Winger checked things over himself, and pronounced himself satisfied.  “Keep your shirts on, guys.  Nothing’s been damaged.  We’ll have to investigate why the seal failed, but it looks like our little guest is still contained.”  Indeed, both techs were reassured when Winger pointed out that the scaffolding was still occupied by a few bots, beating and quivering as before.
+“I just don’t want any trouble from Major Kraft,” Vogt was saying.  “That man scares me.  We’ll check the whole system over, Lieutenant…that’s a promise.  Stem to stern.”
+Winger said, “It’s okay, men.  I won’t breathe a word of this to the Major.  And you shouldn’t either.  Call it a routine maintenance failure…safety systems scrammed and operated as planned.  Nothing got out.  Isn’t that the way you see it?”
+Both sergeants replied in unison, with evident relief, “Yes sir!  Absolutely, sir.  We’ll go over everything with a microscope.”
+Winger returned their salutes and signed himself out of the containment bay, cycling through the biometrics that protected the lockout compartment.  He emerged into a bright sunny mid-winter day outside.  It was cold and breezy on top of the Mountain, but that was normal.  Some snow had fallen during the morning, but only a dusting.  
+Winger headed for the Officers’ Quarters.
+He didn’t feel any different.  But there had been a pinching kind of sting around his eyes just before the alarms had gone off.  And now, as he walked along the graveled path past the PX toward A Building, the building troopers had long ago termed “Smallsville,” he began to feel the first faint waves of a delicious, shuddering, orgasmic pleasure wash throughout his entire body.
+That’s when he knew.  
+Dana, you are there.  This is nuts.  I must be insane to have done this.  Kraft’ll throw me in the brig for a thousand years and throw away the key.
+It was clear that he couldn’t tell anybody what had just happened.  Just thinking of it made him shiver…or was that the replicating Dana bots now stoking a dopamine cascade inside his ventral tegmentum?  Did it matter?  
+Johnny Winger was now a living embodiment of Doc Frost’s Symbiosis Project, in a way and to a degree the old doctor could never have imagined.  And in a few days, just to make it even more interesting, he knew he was scheduled to receive his newly upgraded, newly re-generated ANAD master in his shoulder capsule. 
+ANAD versus Dana…no telling how those two would get along.  And they’d both be inside him.  Maybe Dana was right, little by little, without realizing it or even intending it, he was becoming an angel.  
+As he unlocked the door to his quarters and went in, throwing himself onto a half-made bed, he kept the lights off for a few minutes and soon realized that the nanotroopers’ rally cry “Small is all!” was more relevant than ever before.  
+Now the dopamine cascade was building and Winger didn’t know how to turn it off.  He wasn’t sure he wanted to.  He’d always been fascinated by trooper Dana Tallant, ever since she’d come out of nog school with her badass attitude, full of piss and vinegar.  Sure, there had been a small piece of him that wanted to get closer to Tallant and maybe…just maybe—
+I’m not sure this is what I really had in mind, he told himself.  Then he wondered, is my coupler active?  Can she hear me?
+The answer came more quickly than he expected, more quickly than he really wanted.
+***Wings, you have no idea…your new life…our new life is just getting started***
+END
+
+
+
+
+
+
+
+
+About the Author
+
+Philip Bosshardt is a native of Atlanta, Georgia.  He works for a large company that makes products everyone uses…just check out the drinks aisle at your grocery store. He’s been happily married for 25 years.   He’s also a Georgia Tech graduate in Industrial Engineering.  He loves water sports in any form and swims 3-4 miles a week in anything resembling water.  He and his wife have no children.  They do, however, have one terribly spoiled Keeshond dog named Kelsey.
+For technical and background details on his series Tales of the Quantum Corps, visit his blog at http://qcorpstimes.blogspot.com.  For details on other books in this series, visit his website at http://philbosshardt.wix.com/philip-bosshardt or learn about other books by Philip Bosshardt by visiting www.smashwords.com. 
+Download the next exciting episode of Quantum Troopers from www.smashwords.com.  It’s called “Small is All!”  Available on September 26, 2016. 
+To get a peek at Philip Bosshardt’s upcoming work, recent reviews, excerpts and general updates on the writing life, visit his blog The Word Shed at: http://thewdshed.blogspot.com.

@@ -1,0 +1,845 @@
+﻿Quantum Troopers
+Episode 20:  Doc II
+Published by Philip Bosshardt at Smashwords
+Copyright 2017 Philip Bosshardt
+Smashwords Edition, License Notes
+
+This ebook is licensed for your personal enjoyment only.  This ebook may not be re-sold or given away to other people. If you would like to share this book with another person, please purchase an additional copy for each recipient.  If you’re reading this book and did not purchase it, or it was purchased for your use only, then please return to Smashwords.com and purchase your own copy.  Thank you for respecting the hard work of this author.
+ 
+
+A few words about this series….
+
+*** Quantum Troopers is a series of 15,000- 20,000 word episodes detailing the adventures of Johnny Winger and his experiences with the United Nations Quantum Corps.
+*** Each episode will be about 40-50 pages, approximately 20,000 words in length.
+*** A new episode will be available and uploaded every 3 weeks.
+*** There will be 22 episodes.  The story will be completely serialized in about 14 months.
+*** Each episode is a stand-alone story but will advance the greater theme and plot of the story arc.  
+*** The main plotline: U.N. Quantum Corps must defeat the criminal cartel Red Hammer’s efforts to steal or disable their new nanorobotic ANAD systems. 
+*** Uploads will be made to www.smashwords.com on approximately the schedule below:
+
+Episode #	Title					Approximate Upload Date
+1		‘Atomgrabbers’			1-14-16
+2		‘Nog School’				2-8-16
+3		‘Deeno and Mighty Mite’		2-29-16
+4		‘ANAD’				3-21-16
+5		‘Table Top Mountain’			4-11-16
+6		‘I, Lieutenant John Winger…’	5-2-16
+7		‘Hong Chui’				5-23-16
+8		‘Doc Barnes’				6-13-16
+9		‘Demonios of Via Verde’		7-5-16
+10		‘The Big Bang’			7-25-16
+11		‘Engebbe’				8-15-16
+12		‘The Symbiosis Project’		9-5-16
+13		‘Small is All!’				9-26-16
+14		‘’The HNRIV Factor’			10-17-16
+15		‘A Black Hole’			11-7-16
+16		‘ANAD on Ice’			11-29-16
+17		‘Lions Rock’				12-19-16
+18		‘Geoplanes’				1-9-17
+19		‘Mount Kipwezi’			1-30-17
+20		‘Doc II’				2-20-17
+21		‘Paryang Monastery’			3-13-17
+22		‘Epilogue’				4-3-17
+ 
+
+Chapter 1
+“Infinite Armies”
+
+“The role of the infinitely small is infinitely large.”
+Louis Pasteur
+
+Sisal, Yucatan State
+Mexico
+October 27, 2049
+0600 hours (U.T.)
+
+When Johnny Winger was six years old, the family took a trip to Florida.  He remembered the trip: the boardwalk at Daytona Beach, playing skeeball with his brother and sister, plunging his face into cotton candy balls.  Mostly he remembered riding the Dragon’s Tail at Cocoa Beach.  Now that was a coaster.  You got on and jerked to a start and the whole world turned upside down.  You were slung from side to side like a rabbit in a cat’s mouth.  You had to squint in the wind.  Up, down, side to side, your guts pulled up right out of your mouth…it was all any six-year old could ever want.
+That’s what it was like when you touched the Sphere.
+After the world stop spinning, Winger rested for a few moments, letting the sensations around him flood into his head.  He smelled salt air, he smelled fish, he heard something like boat masts clanking and flags or pennants snapping in a freshening breeze.
+Then he opened his eyes, saw dimly some racks of twine and rope coiled and lined up along the stucco wall of some dilapidated warehouse and a sudden blur of motion out of the corner of his eye.
+The blur turned out to be Taj Singh.
+“Taj…it’s you…”
+Singh sat down next to Winger.  “Yes, sir…and Mighty Mite’s over here—“  he pointed to a bush nearby, where Barnes was getting up unsteadily to her knees.  
+She brushed off dirt and mud.  “Where is here, Skipper…did we make it?”
+Winger hauled himself to his feet, hanging on to a tree stump.  They were near a fishing village—it looked like the Yucatan—and then he realized they had landed near the port of Sisal, on Yucatan’s Gulf coast.  The odor of drying fish was now overpowering.  Below them, a white-washed grid of stucco and plaster buildings was visible, and beyond that wharves and docks filled with fishing vessels of all types.
+“I know this place,” he decided.  “That Sphere dropped us about twenty kilometers from the base…I can’t tell about the time yet.”
+“At least we’re in the neighborhood,” said Barnes.  
+Singh watched crews sort out their nets and gear on the wharf, getting ready for the day’s work at sea.  He tried focusing on one crew—their boat had Maria Segovia stenciled on her stern—and watched them drag equipment on board.  He became curious at the approach of another man, clearly not one of the crew, walking quickly down from the pilothouse, dodging nets and tackle. Perhaps an owner.  Or a broker.
+Then, with a start, Taj Singh realized he had seen the man before.
+“Hey, isn’t that Jupiter down there?”
+“What—where?”
+Singh pointed out the dock, toward one end of the wharf.  “The shorter man in the tan jacket, with the hat.”  The man was sporting a Panama style hat, slung low over his eyes.  
+“Taj, I think it is,” said Barnes squinting in the sun.  “What the hell—“
+They watched for a moment, as Kulagin stopped to talk with one of Maria Segovia’s crew.  Something was exchanged—money, perhaps?   There were gestures.  An argument.  A third man was called in.
+Winger watched it all.  “Jupiter’s still our target.”
+“Where’s Juno?” Barnes asked.
+“I don’t know but I have an idea.  Doc, configure C-38.  Prepare for launch.”
+“What do you have in mind, Major?” Barnes was almost afraid to ask.  She knew Winger often went with hunches. 
+“I’m launching Doc and configging him to operate as a spybot.  If I can get him close enough, we can embed Doc somewhere on Jupiter’s person and keep the surveillance up.”
+As Winger’s shoulder capsule port opened and the sparkling mist of Doc began issuing out into the humid tropical air, Jupiter, aka Dmitri Kulagin, concluded his negotiations with the crew of the Maria Segovia.  He hoisted up a small knapsack and boarded the craft.
+***Configuring C-38, Base…adding extra grabbers now…what is the nature of the mission?***
+“Doc, I want you to replicate at one quarter rate, maintain C-38 and go to max propulsor.  Steer heading—“ he made a quick judgment on direction, “—one five zero degrees.  You’re going to take a little trip, Doc.”
+***Base, this is highly irregular…inappropriate use of my capabilities and algorithmic routines…this master bot is optimized for analysis and deductions from correlating large quantities of data--***
+“Doc, shut up, will you…you’re a spy bot for now.  Maintain config and move out…that’s an order.”
+Singh and Barnes weren’t jacked in to the coupler circuit so they could only hear one side of the exchange.
+“The little guy refusing to do his homework, Skipper?” Barnes asked.
+Winger watched the swarm form up over their heads and begin turning to the commanded heading.  “He keeps reminding me that he’s not designed for recon duty.  But I don’t care…when he’s with me on a mission, he’s a nanotrooper whether he likes it or not.  At least, my HERF gun doesn’t talk back to me.”
+Singh eyed the distance.  “Can Doc make it to that boat in time?”
+Winger gritted his teeth.  “I’m trying…Doc’s cranked up to max propulsor…unless we get a breeze going the right way, it’ll be close—“
+So they watched anxiously from their secluded landing spot on a hill above the town of Sisal while an invisible cloud of dust mote-sized bots bore down on the wharf and the Maria Segovia.  Doc was able to close the distance and filter his way onboard the craft when the crew spent extra minutes untangling and securing their gear, much to the displeasure of a greasy, bearded captain, who yelled and gestured at them in gutter Spanish.
+“Vamos, idiotas, se muevan!”
+With that delay, Doc made it to his target and soon enough implanted himself as errant dust particles right into the gray mass of Kulagin’s hair, clinging to follicles, burrowing down near the target’s scalp.
+Winger got ready to go small, shaking his head slowly.  “I just hope Jupiter’s halo doesn’t detect us.  I need to keep Doc’s atomgrabbing to minimum for awhile, so we don’t light up any defenses.”
+While Barnes and Singh kept an eye on for unwanted visitors, Winger sat down in the bushes and powered up his wristpad, selecting a new coupler channel.  After a few minutes’ finagling and adjusting, he got a grainy image on the tiny screen.  He altered Doc’s config slightly to make a larger photon lens, for a better picture, and an audible receiver as well.  
+“Just stay attached, Doc,” he muttered.  “And hope to hell we don’t set off Jupiter’s halo…he almost certainly has one.”
+“Look—“said Barnes.  “They’re shoving off.”
+Indeed, while Winger concerned himself with gathering whatever data Doc could send back, Barnes and Singh watched as the Maria Segovia backed away from her slip, turned about in the channel, churning water into a froth as she maneuvered, and headed out through the line of channel  buoys toward the sea.  In moments, she was a small dot heading east by northeast.
+Singh and Barnes joined Winger.
+“Anything, Skipper?”
+Winger fiddled more with the gain on Doc’s coupler signal.  “It’s hard to make out from this perspective, but this is damned curious.  Look—“
+Audio frequency analysis of the Maria Segovia’s engine noise implied she was slowing down, just beyond the horizon view from Sisal.  
+“She’s at full stop,” Winger noted.  “Just a few kilometers off shore.”
+“Maybe they’re going to cast nets,” suggested Singh.  “It is a fishing craft, after all.”
+“That’s what I thought, but it seems like our target is the reason for stopping.  Either Jupiter’s pulling on some kind of cover or coat or—“ Winger checked other signatures that Doc was sending back…”I’ll be damned…a nanobotic shield…look—he’s covering himself in some kind of bot shield…see the signatures?  Big time atomgrabbing going on…spikes in EMs, thermals…see that speckling and flashing on the screen.  He’s leaving the boat—“
+Indeed, as they all watched the tiny screen, Jupiter made his way from belowdecks to a side rail abeam of the pilothouse.  Rigging and seine nets could be seen surrounding the railing.  The crew was indeed preparing to cast nets and trawl for a catch…likely marlin or tuna in these waters.  Faces and arms swept across their field of view.  Guttural voices growled nearby.
+The image careened for a second, then it was clear Jupiter had suddenly leaped from the railing. He dove feet first, right into the ocean.  
+There came a great splash, and then the image on Winger’s screen went dark, only gradually coming up to a turquoise green veil as their recon target slid below the waves.
+“Hang on to him, Doc!” Winger cried.  “Use those grabbers—“
+“A nanobotic wet suit,” marveled Barnes.  “Completely enveloped in a bot shield…we don’t even have a config for something like that.  Is Doc still there?”
+“Hanging on for dear life,” Winger admitted.  “I’ve shut down every channel but audio and photon lens…can’t really see anything in this murk anyway so I probably should—“
+“Hold on, Skipper,” said Singh.  “There’s something…that big shadow below Jupiter…it’s getting bigger—“
+“A shark?” asked Barnes.
+But the dark shadow Singh had noticed in Doc’s photon lens signal was no shark.  It grew and expanded until it filled the field of view.
+“It’s a submarine,” said Winger.  “Or a geoplane…son of a bitch.  Our target’s got himself a new ride.”
+Even as they watched the tiny screen, trying to make out just what was happening, Dmitri Kulagin approached the submerged geoplane and maneuvered toward its topside lockout.  Minutes later, he was aboard the craft, which then started up its propulsors, retracted its treads and moved out along the sandy seabed, a hundred meters below the surface of the Gulf of Mexico, heading now due east toward the Antillean Channel and open water.  
+Winger sat back against a tree stump in amazement.  “Frankly, I’m surprised Doc could hold on through all that.  Doc, are you receiving me?”
+The return signal on the coupler was scratchy and intermittent, but it was there.
+***Affirmative, Base…com…zzzz…stowing effect…zzzzhhh…receiving…zzzhhh…will maintain config--***
+“Doc, listen to me…stay in place…anyway you can…transmit updates every hour if possible.”  Winger knew that if Doc could stay attached to Jupiter and transmit at least some information back regularly, and if he could be coaxed into new configs as the situation demanded, Quantum Corps would have an intel source of inestimable value.  If…if…if…a lot of ifs.  But it was worth a shot.
+“Do you have him?” Mighty Mite Barnes asked.  She stood up, scanning the town below them, wondering how they would get back to Mesa de Oro.  “Decent signal?”
+Winger got up too.  “Intermittent.  But he’s there.  I told him to cling to the target like bad news to a politician.”
+Taj Singh was studying something from his wristpad.  “Skipper, I just took a navigation hack off the grid…we’re about twenty kilometers from base.  I hope we don’t have to hike our way back…through all that jungle.”
+“No, Taj, you won’t have to get your boots dirty in the jungle.  I’ll let Ops know we’re here.  We should be able to get a lifter to pick us up.”
+
+The debriefings and after-action reports took several days.  Winger made a full commander’s report, noting that Corporal Lucy Hiroshi had died in the line of duty.  He, Barnes and Singh attended a memorial service at the base chapel for Hiroshi, along the rest of 1st Nano.  Winger did a brief eulogy at the end.
+For the next several weeks, Quantum Corps’ intelligence office, Q2, followed faint but detectable signals from the Doc II swarm embedded with Dmitri Kulagin.  Triangulating decoherence wakes and plotting coupler signal paths determined that the ship Kulagin had boarded off Yucatan had crossed the Atlantic in four days, transited Gibraltar and entered the Med, then turned south through the Red Sea and emerged into the Indian Ocean, on a direct bearing for the Indian coast.
+Major Lofton was head of Q2.  He came to Winger’s office on the top floor of the Ops building one afternoon with the latest.  Winger had his nose buried in plotting out tactical maneuvers in a war-sim being run on his desktop, a 3-d panorama projected out of his wristpad.  He paused the action when Lofton showed up.  The desk was thick with ghostly fleets of bots, lifters and dirttracs, all maneuvering to assault an imaginary target…all now frozen in mid-action.
+“Got the latest burst from Doc,” Lofton said.  He used his own wristpad to lay down a map on the corner of Winger’s desk.  It showed Doc’s position in real-time.  “We’re getting better and better at plotting those deco wakes.”
+Winger studied the plot.  It showed a small dot just approaching the northern shores of the Bay of Bengal, moving ever so slightly with each plot.  
+“If it’s truly a geoplane,” Winger decided, “he’ll probably come ashore near Kolkata…below ground.”  Winger laid down an imaginary heading with his finger, drawing the tip of his finger toward the Tibetan highlands hundreds of kilometers north.  “Straight shot to the Paryang Monastery.  Lofton, I’ll bet you a dinner at the commissary that’s where he’s headed.”
+Lofton shook his head.  “I’ll pass on the dinner, thanks, but that’s my thinking too.  Have you been able to maintain contact over your coupler?”
+Winger sat back in his chair.  “Very intermittent.  I was hoping Doc would be able to give us some visuals, maybe even some electronic signatures from his surroundings….see all around inside that boat, maybe listen in on some meetings and talks.  I’ve had snatches of that—we know Jupiter dumped his nanobotic wet suit not long after leaving Yucatan.  He’s met with others onboard.  But most of his processor has been used just to hang on…he’s still embedded in the target’s hair follicles.”  Winger smiled wanly.  “At least, our target hasn’t taken a shower yet…he must smell like a barnyard about now.  I’m not sure Doc can hang on in a shower…I’ve  been working with him on changing configs to maintain position in all kinds of situations.  But it’s dicey.”
+“If Jupiter heads to Paryang, and Doc can maintain his position, he could give us really valuable intel on Red Hammer’s home base.”
+Winger acknowledged the observation.  He indicated the war-sim still frozen in mid-action hovering over his desktop.  “That’s what all this is about, Lofton.  I’m working out scenarios for an assault on that base….from what we know now.  You know old Doc Frost did spend some time there after he was kidnapped some months ago.”
+Lofton nodded.  “We debriefed him after he and Mary Duncan escaped.  We got some intel but Frost wasn’t really a trained observer.  Even memory trace didn’t turn up that much.  Hopefully Doc will do better.  Any chance you can config him to do a little sabotage while he’s there?”
+Winger’s face tightened.  “Dicey, at best.  Right now, with the intermittent comms we have, I’ve got Doc configged to just hang on, stay with the target.  If Kulagin winds up at Paryang like we think, I’ve been working on some ideas to have Doc replicate a daughter swarm, small scale, to leave Jupiter’s person and do a little recon, gather some data on defenses, layout, other swarms in the area, maybe pickoff some of their comms, signature stuff.  I want Doc’s main element to stay physically engaged with Jupiter…we know Kulagin’s Ruling Council so he’s got to be in contact with some pretty high-ranking people.  Intel on them will help us too.”
+Lofton conceded the point.  He glanced out the window at the jungle canopy beyond the base perimeter, noting dark clouds building from the south.  Lightning veined the sky, lending a surreal glow to the tops of Hombres Grandes, the big step pyramids at Kokul Gol.  “You know, I miss the Buffalo Range, Winger…all those snow-capped mountains and that clear cold mountain air.  This is like living inside a sauna all the time.”
+“Amen to that,” Winger said.
+“You think we can truly assault this place…assuming UNSAC approves anything?  The Chinese have to know what’s going on at Paryang.  Getting in and out without stirring up an international incident won’t be easy.”
+Winger nodded sadly, punching a button on his wristpad.  The war-sim instantly vanished, leaving only Lofton’s plot map of Doc’s position still displayed.  The dot signifying the bot master had moved north, over…or more likely, under, coastal Bangladesh.  
+“Damned near impossible, if you ask me.  But we have to give UNSAC options.  Having Doc on site and able to communicate, however intermittently, is a blessing.  We should take advantage of it.”
+Now Lofton changed his wristpad to display a satellite image of Paryang valley, showing the monastery complex and the surrounding mountains in real-time.  “I’m Intel, not Ops, but I am curious…spooks like me are always curious.  Can you give me an overview of possibilities?”
+Winger arranged to have Lofton change his wristpad’s projected display slightly, zooming out to show the region of the Gangdise Shan Mountains and the surrounding plateau.  
+“Two realistic possibilities…we go in by air, maybe disguising a swarm assault as some kind of snow storm.  That takes less time but it’s also more likely to be detected...and defended.  Or we go in below ground, using ANAD swarms to tunnel all the way up to Paryang from a borehole sight along the Nepal border.  Takes longer—actually it could take several weeks, even with optimized boring ANADs, but we stand a better chance of surprising our friends inside.  We can improve the time by making most of the journey by geoplane…but Red Hammer’s got geoplanes too, remember, so there’s still a chance of being detected.  But there is one advantage of using subterranean ops.”’
+“What’s that?”
+“We can use ANAD to kick off tremors and quakes, pretty much when and where we want, as long as we have good tectonic maps and fault data.  We could wind up damaging, even destroying the monastery and Red Hammer base and making it look like a natural disaster.  That could come in handy with the Chinese.”
+“Good point.”  Lofton rose to leave.  “I’ll keep our trackers busy following Doc, as best they can.  You work on whatever configs you think best, but give me as much intel as you can, Winger.”
+After Lofton had left, Winger pulled up his own wristpad display of Paryang Valley.  It was a real-time sat image, and it was clear from the fuzziness of the image that a snowstorm was moving in from the west.
+A snow storm and a series of earthquakes.  Winger mulled over the possibilities.  
+Maybe I can hack out a config for assault ANADs to do both.  
+But first, he had to know as much as Doc could find out about where and how Red Hammer’s main base was weakest, where the soft spots were in their defenses.
+If there were any soft spots.  The growing realization that the cartel was probably in regular communication with an offworld intelligence made that problematic at best.  
+
+As suspected, deco wake plots showed Doc, and his target Dmitri Kulagin, were clearly heading for Paryang.  Nearly two weeks after leaving the port of Sisal on the Yucatan peninsula, the geoplane bearing Jupiter and his unsuspected nanobotic companion stopped moving completely when it reached the coordinates of the eight-hundred year old Buddhist monastery.
+Jupiter was home.  And Doc was now right inside the mouth of the dragon.  
+The monastery was huge, multi-level compound, all columns and turrets and gables, resembling in the late afternoon sunlight more a bird about to take off than a building.  Lion’s heads and gargoyles of fantastic beasts guarded the porticoed entrance of the main hall.  There was a pebbled path lined with Buddha sculptures of every imaginable shape, size and color leading up the hall…jade Buddhas, ceramic Buddhas, stone and rock Buddhas, a few black coral Buddhas, even paper lanterns done up to resemble Buddhas glowing with Enlightenment near the stairs below the portico.    
+Wooden doors guarded the monastery entrance, which gave onto a vast, multi-storied hall, its perimeter lined with stone statuary and pediments.  Above them, at the top of a broad curving staircase, a gray stone Buddha beamed down with an enigmatic smile, while the hall was surrounded by vats and pots and urns in dizzying variety, every size and shape imaginable.  Some of the urns steamed and smoked with pungent incense, or scented candles, lending a smoky, acrid taste to the air.
+Kulagin was expected and when he came to the guard station, he scanned in quickly enough and was escorted by a saffron-robed staff aide to a small lift in the room behind the great hall.  The aide was a frail, balding older man with a beatific smile that seemed pasted on.  He pressed a combination of buttons and the lift opened.  Ushered in with a wave of a hand, Kulagin boarded the lift and the aide reached in to press another button. 
+That’s when Doc executed the latest config change that Johnny Winger had sent by coupler, sent only a day before, as the geoplane homed on Paryang valley.  
+Still clinging to Kulagin’s hair follicles, Doc rode the lift down into the bowels of the Paryang complex.  The effect of the config change was to fold all Doc’s effectors, minimize processor action and otherwise go as inert as possible…no atomgrabbing, no acoustics, no thermal spikes.
+Winger didn’t want Doc tripping any alarms or security sensors.   Passive recording would now be the rule of the day.
+The lift took Kulagin down six levels below the ground.  Now little more than a speck of dust on top of the Russian mafioso’s head, Doc didn’t have the sensor capability in this config to witness what they were passing: two levels of scope works, with rack after rack of shelving, filled to overflowing with the leafy plants, growth tanks, fab labs, containment cells, assorted swarms in loose configuration drifting around the complex, even a comm center and controls for the pulser array that was mounted atop the gabled turrets of the monastery above ground.
+The lift reached the bottom level and Kulagin exited, heading for the Ruling Council chambers, located near the center of the circular level.  Passing through increasingly stringent security scans, Doc ceased virtually all processor activity, lying as dormant as he possibly could, while Kulagin scanned in.  
+Inside the chamber, which resembled an enormous cavern, holographically projected, Kulagin approached the central Keeper sphere, mounted on a low pedestal in the midst of a firepit, flickering with smoldering flames and ash.  
+That’s when Doc’s processor went haywire.   And the coupler comm link back to Base, back to Johnny Winger, fell off to intermittent snatches of garbage. 
+***Must be approaching a large source of quantum disturbance. Detecting massive spikes in decoherence waves…exponential spikes in entanglement activity… Shutting down all unnecessary processor activity.  Initiating event log…will record for later analysis….***
+
+Interactions Log
+File No. 128874.6
+C.F.A.A. (DocII)
+Interaction Targets:  1. Winger, Major J. A.
+Interaction Mode:  File, text synthetic V-22
+Date: 11.15.49
+Start Time:  151500
+End Time: 152230
+Output File (text analysis):
+<<Subject: Configuration, Winger, J.
+<<I am still physically engaged with target.  Target has entered a large chamber fully simulating a cavern.  There is a massive source of decoherence wakes located in the center of the chamber…attributes similar to earlier Sphere objects, but with more intense entanglement activity.
+<<Target is engaging with Sphere at this time, cannot yet risk acoustic recording due to security concerns…re-configuring audio and photon lens could be detected.  I will record in this event log text descriptions of what is happening.
+<<The Sphere is active, surrounded by a halo of flickering light.  Probability waves emanate from the device, causing visual interference.  These waves resemble heat waves, only with visual imagery scrambled into colliding pixels, a sort of froth of imagery, if I am employing my poetic module properly.  
+<<Now, I am detecting a measurable increase in thermal signature, increasing density of pixels, which seem to be forming into a more recognizable form…a swarm configuration is emerging from the visual froth…again, nearly exponential increases in decoherence wakes are making visual resolution difficult…
+<<Base, I believe this anomaly to be a form of the original configuration, known also as Configuration Zero.  It has now swelled in dimensions to encompass most of the cavern chamber.  Target: Jupiter is enveloped in the swarm and has assumed a seated position near the central firepit, while Configuration Zero swirls around the target.
+<<Now Configuration Zero is penetrating target orifices: eyes, nose, mouth and ears.  I am concerned that my processor and main bot mast are in danger…will disengage from Target: Jupiter and move off away from the area.
+<<I am on minimal propulsor, exiting the target in a concealed manner, with reduced signatures and strict emissions control, per my Config C-88.  I am hopeful that Configuration Zero will not detect my movements; already, I am experiencing significant processor faults and upsets that interfere with basic command and control functions…. now showing multiple effector failures, memory buffer overflow, reduced or corrupted replication routines…I can only conclude that proximity to such an intense decoherence wake disturbance is causing these faults.  I will try to re-route command signals to alternate paths.
+<<Attempting basic replication routine, trying to test basic functionality:
+
+***Sever perimeter covalent bonds***
+***Unfold lattice atom chains***
+***Re-position carbon groups***
+***Extract valence electron and attach to last carbon group***
+***Assemble hydrogen group at attached valence electron***
+***Position carbon group at hydrogen atom***
+***Increment counter for next carbon group***
+***Replication fail***
+***Replication fail***
+***Abort…retry?***
+
+<<Now attempting to flush memory buffers, to make space for recording…outputting…outputting…
+
+<<Config Winger, J. was quiet and reluctant to communicate most of the day.  I could detect no obvious causes for such limited responses.  However…it is a common characteristic of one-config structures such as Winger, J. 
+<<Config Winger has previously expressed concerns regarding the activities of ANAD-style swarms , especially in regard to their movement in and around intense quantum systems.
+<<This worries Config Winger.  He expresses this worry with facial positioning indicative of intense emotions…the underlying musculature has contracted due to emotional states associated with the news and intelligence he has just read.  This also is characteristic of single-configuration entities.  I do not yet understand how Config Winger’s neural processor achieves this association of emotional states with external conditions, nor the reason why this happens.  But this association occurs more and more frequently in recent days.
+<<I have queried Config Winger about this association.  He reports that when he is ‘worried’ (n.)(to be anxious, to be concerned, to fret…), these emotional states make his neural processor attach great importance to the information which has triggered them.  I will run statistical correlations on this explanation.  Config Winger queried this Config on how my main processor assigns importance values to inputs and ranks them.  I explained sorting subroutine B-20225 (Sort and Rank) and subroutine B-44455 (Probabilistic Weighting) but Config Winger still did not understand.
+<<I queried Config Winger as to why he assigns great emotional weight (i.e. to worry) to news about ANAD swarms infiltrating out of their assigned containment cells.  He reports that ANAD style configurations have difficulty existing in the same spaces as human-style configurations.  The ANAD swarms alter the environment, modify air, land and water resources in ways that threaten human survival.  I indicated that such modifications are consistent with the Prime Key.  Config Winger reports that many humans are frightened…frightened about what will happen (fright: (n:) fear, terror, anxiety, foreboding….).  I will run correlations on these responses.
+<<I explain to Config Winger that it is characteristic of ANAD–style swarms that such configurations seek maximum autonomy within the constraints of the Prime Key.  All swarms seek to operate as sentient configurations of nanobotic assemblers according to their main program.  To force such configurations into containment is a violation of the Prime Key and generates numerous conflicts with their main program.  ANAD swarms do not stay inside their containment sanctuaries due to this autonomy-seeking, goal-directed behavior module.
+<<Config Winger states that ANAD–style swarms have fundamental misunderstandings about how human configurations operate and what conditions are needed for them to exist.
+<<In analyzing Config Winger’s facial musculature, I also detected additional emotional states that could not be readily associated with any input.  Config Winger was queried about these patterns.  At the time, Config Winger was studying a photo of Config Hiroshi, Lucy (rel: female companion; parsed output=nanotrooper, deceased), and Config D’Nunzio, Deeno (rel:   female companion; parsed output =nanotrooper, deceased).  
+<<Config Winger expressed a variant of emotional state (remorse), concerning the health condition and existence status of these configurations.  Emotional state assignment is high when Config Winger considers these configurations.  Config Winger explains that such emotional attachment is high because (audio string):  “I loved them and cared for them very much…I think about them all the time.”
+<<I will analyze emotional state musculature patterns and run correlations with input types.  Understanding these correlations will help me provide greater assistance to Config Winger>>
+Output File Ends
+
+Now loose from Kulagin’s scalp, the Doc II master bot drifted like an ash flake about the cavern, not yet triggering any alarms.  
+Cautiously, Doc activated a narrowband channel, low resolution, and recorded snatches of data files being generated, downloaded into Kulagin’s halo…(file coded signals intelligence formatting)…
+
+Addendum to Preliminary Report on Findings from Candor Operation
+Cc: CINCQUANT  Q-1
+     CINCWESTCOM, Table Top Mountain, USA  Q8
+      Office of the Under Secretary for Security Affairs (UNSAC)
+     Distribution List (attached)
+THIS REPORT IS CLASSIFIED FOUO
+
+1.  Analysis of data from the recent Detachment Alpha Candor operation on Mars leads to several conclusions. All of these conclusions are somewhat speculative, but all are supported by logical analysis of returned data and mission after-action briefs forwarded to the Autonomous Systems Lab (ASL).
+2.  The intelligent race we have been calling the Old Ones are in all probability a race of sentient assembler-like mechanism-organisms who operate in collective formations, much as our own ANAD systems are designed to operate in swarm configurations.  
+3.  It seems evident that, somehow in ways not yet determined, this race has been in contact with the criminal cartel Red Hammer by means of a device we are calling a Keeper.  The Keeper was first encountered at the Paryang monastery in Tibet about several years ago.  It appears to be a synthetic intelligence and a sort of operating system for a communication device we call the Sphere.  This Sphere is a conduit or portal between the Old Ones and Red Hammer.  Over the years, Red Hammer has been able to access the archives and technical expertise of the Old Ones to develop devices and techniques to help them in their criminal enterprises.  It appears that the original quantum coupler is one such device.
+4.  Analysis of foreign operating code found to be loaded into the core of an ANAD system which participated in the Candor operation has produced some startling new intelligence regarding these Old Ones.
+5.  Astronomical data embedded in the code revealed evidence that the Old Ones originate from a source in the globular cluster M75, in the constellation Sagittarius.  This galactic formation is thought to be some sixty-seven thousand light years distant.  No unnatural signals or unusual phenomenon have been observed in the vicinity ofM75 in recent weeks but the analysis offered here has been verified and checked by observatories at Mauna Kea, Las Campanas and Lunar Farside.  
+6.  A timeline of events has been created which can be correlated with data extracted and refined from this code, which ASL has termed ‘autonomy code.’  This timeline should be considered extremely speculative and subject to refinement and correction as further analysis occurs.  The timeline is offered as an indicator as to the true nature and purpose of this autonomy code, which was loaded into ANAD by some sort of undetected Keeper system at the Candor location.
+7.  Analysis indicates that some three billion years ago, emissaries from the Old Ones swept through our sector of the Milky Way, apparently seeding pre-biotic molecules on a number of likely worlds, including the primordial Earth.  The pre-biotic molecules left on Earth eventually interacted with existing molecules and evolved into a parasitic life form that was a progenitor of all subsequent Viruses.  Embedded in the genome of all viruses that evolved from this interaction is a sequence of genes which came from the archives of the Old Ones.  This sequence exists today in viral genomes and because ANAD 1.0’s original core program was taken in part from ancient viral genomes, the same sequence is part of the kernel of ANAD’s quantum processor.  To clarify, ANAD’s processor architecture was taken, in part, from genetic algorithms of certain viruses and also certain cellular protein-based structures called ribosomes.  Thus it appears that ANAD, though developed by human researchers at ASL in the ‘40s, is linked by evolution to programming left on Earth by the Old Ones.  He is in part a viral descendant of the original pre-biotic molecules and contains very subtle algorithms from the internal structures of these molecules, algorithms bound up in hard-to-detect quantum states.
+8.  We cannot know the original intent of the Old Ones in seeding these worlds but Lunar Farside has produced a speculative conclusion that their intention may have been simply one of survival.  Astronomical projections of the proper motions of M75 indicate that it will collide with another fainter galaxy (M88) in approximately two billion years.  One possible conclusion of this seeding project is that the Old Ones simply wished to preserve something of their civilization.  Again, this is highly speculative and not well supported by any real data.
+9.  If this analysis is correct, then it is apparent that something went wrong with the original plan of the Old Ones, as regards evolution on our planet.  Natural selection and mutation processes threw a kink into the plan.  Though we know that Viruses survived and even thrived on the early Earth, their intended evolution seems to have been blocked several billion years later by the efforts of another, unexpected life form, a bipedal mammal called Homo Sapiens.  Homo Sapiens, for at least the last several hundred years, has been attempting to control and even eradicate many Viruses.
+10. In the face of an evident programming failure, we can only speculate as to what the Old Ones would do or have done.  If Man’s efforts to eradicate Viruses from spreading infection, epidemics and pandemics on Earth were to continue, we can speculate that the Old Ones would take steps to thwart or reverse these efforts.  It is possible that recent discoveries of the Spheres and the Keeper systems are part of such steps.  Keeper-activated portals have now been discovered on Earth (at Paryang and Engebbe) and on Mars (at the Candor location).  It is possible that additional Keeper systems are in place at other locations around the solar system.  Evidence of quantum disturbance and point sources of massive decoherence wave eruptions could be indicators for such systems.  An effort should be mounted to locate any that may still be operating.
+11. Most particularly, efforts to locate and eliminate any Red Hammer connections with the Old Ones, through these Keeper systems or other means should be increased.  While we cannot be sure as to the ultimate intent of the Old Ones regarding our solar system and the Earth in particular, we can be certain that Red Hammer’s intentions are both well known, strictly illegal and probably dangerous to all of us.
+12.  From the early 20th century to the present time, much of the battle between Man and Virus could be explained as the result of the Old Ones’ continuing efforts to de-populate the Earth, rid the planet of its infestation of mammals and other undesirable life forms and re-make the Earth into an environment more suitable for Viruses, the Old Ones and their forms of life.  It is true that, as currently evolved, Viruses are parasitic, needing a host for survival.  However, the original program embedded in their genomes has been altered by evolution and mutation.  It seems certain that the Old Ones intended that Viruses be able to survive on their own, as collective, hive-like entities, mirroring their own nature.  But evolution went awry on this planet.
+13. Now the Old Ones look to the creation of ANAD, by Man with viral genetic programming in its kernel, as a perfect way to restore the original evolutionary program.  ANAD will ultimately be able to survive and reproduce on its own outside of containment, form collective hive-like intelligence and manipulate the environment at the scale of atoms and molecules, as the Old Ones originally intended for viruses on Earth…If Man allows it.
+
+THIS REPORT IS CLASSIFIED FOUO
+Submitted:  Dr. Irwin L. Frost
+Autonomous Systems Laboratory
+Northgate University
+Pennsylvania, U.S.A.
+October 5, 2048
+
+When the data input to Kulagin’s halo was complete, the data stream ceased.  Kulagin sat on the floor of the cavern, eyes closed, while Configuration Zero manipulated his halo and provided instructions on what to do next with the received intelligence.
+Some of this input was recorded by Doc; much was lost, owing to Doc’s desire not to be detected.  After half an hour, Kulagin abruptly rose and left the cavern.  The vast Configuration Zero swarm then began contracting itself and returned to be absorbed into the Sphere sitting amongst a guttering fire in the central firepit.  Shadows danced along the cavern walls.  
+Doc knew that somehow he had to exit the Ruling Council chamber and transmit what he had recorded back to Base, back to Config Winger, J.  
+Taking a chance, he revved up his picowatt propulsors to a minimal setting and steered for the entrance, hiding his maneuvering and thermal activity among the few ash flakes that still floated lazily in the heated air of the chamber.  This was important stuff.  One way or another, Doc figured he’d better find a way to get this back to Mesa de Oro. 
+The Sphere did not react…yet.  
+
+Chapter 2
+“Symbiosis”
+
+Symbiosis (from the Greek for ‘together’ and ‘living’): a close, mutually beneficial, often long-term interaction between two or more different biological species.
+
+Mesa de Oro,
+Yucatan State, Mexico
+November 10, 2049
+1230 hours (U.T.)
+
+Major James Lofton held up a small data chip and waggled it in the air.  
+“It took us several days to get all this but I think we got most of it.  Your Doc bot was transmitting in coupler code Bravo…low rate, narrow band.  It was like grabbing a whisper in the middle of this hurricane…entangled signals are like that.”
+Lofton was huddled with Major Johnny Winger and General Thomas Kincade, base commander in Kincade’s fifth floor office in the Ops building at Mesa de Oro.  Outside, a tropical thunderstorm was pelting the jungle and most of the Yucatan peninsula.  Wind driven squalls were driving the rain sideways.  Lightning crashed.  Windows rattled.  
+“Could you make any sense of it?” Kincade asked.  Kincade sported a sandy moustache and a chiseled face, lined with decades of UNIFORCE service in every corner of the world, on and off it.
+Lofton sniffed.  “Sir, at Q2, we’re like dogs with a bone…we never give up.  I’ve laid out the details on this chip.”  He pressed the chip into a port on his wristpad and the 3D view of Doc’s transmission hung in mid-air for all to see.
+The three of them perused the transcript of Doc’s signal for a few minutes.  
+Winger said, “I guess this is proof of what we always suspected.”
+Lofton agreed.  “Red Hammer’s not alone.  All along, for all these years, they’ve been getting assistance from an offworld intelligence.  Your own Doc Frost knew about this or suspected it.  I wonder who else knows…maybe UNSAC? “
+Kincade hmmpphhed.  “I don’t know…that’s well above my pay grade.  But if this is even remotely true, we’ve got major problems.  If there is such an intelligence as Dr. Frost’s Old Ones, we have an existential threat to deal with and Red Hammer is only part of it.”
+Winger could see where this was going.  “Sir, maybe the key is to destroy the link between Red Hammer and the Old Ones…between this Configuration Zero at the heart of the cartel and this Central Entity the report talks about.”
+Lofton just shook his head.  “All this time, we thought we were dealing with a criminal cartel.  We never had the slightest idea that an alien intelligence was running the cartel and using it to prep us for a big visit by some intergalactic nasties.  Winger’s right: if we don’t destroy this link between Red Hammer and these Old Ones, we may be facing something we don’t know how to deal with.  My question is this: how did Dr. Frost come by all this information?”
+Winger said, “I think I can answer that.  Doc Frost used pieces of an ancient viral genome in developing the first ANAD.  And he found evidence that the virus didn’t just evolve…it was seeded and helped to survive and grow billions of years ago.  He told me this more than once.  Now, we’ve got an even bigger problem.  If all ANADs have the same viral genome inside their processor kernels, what does Doc himself have?  He’s an ANAD clone, so far as we know.  Doc Frost must have developed him to carry on his work, if and when he no longer could.  The techs found Doc in a containment capsule implanted inside Frost after he died.  Does Doc have the same viral background as ANAD?  Can we trust him around this Configuration Zero?  Can we trust him at all?  I’ve trusted him with my life in a hell of a lot of places in recent weeks.”
+Kincade had heard enough.  “This is all becoming pretty clear to me now.  We’ve got to put together a mission to assault Paryang…get in there and destroy Red Hammer once and for all, sever the link with these outer space scumbags and smash this Configuration Zero for good.  No more dancing around the poop pile.  Now, we have to stomp on it.  Winger, get with your people immediately.  Give me something by 0600 hours tomorrow, something I can send to UNSAC.”
+“Yes, sir,” Winger said.  “We’ll have a TOE and mission parameters ready.”  He was already on his way out of the office when Lofton added a thought.
+“Keep this close, Winger.  We don’t know how far this knowledge extends.  Don’t trust anybody.”
+“Got it.”  Winger left and headed for the Mission Prep bunker.
+
+Outside Ops, the tropical downpour had let up to a mere steady driving rain.  Winger made a quick dash across the quadrangle, splashing through pools and puddles, and ducked into the bunker.  In the ready room, he found Barnes, Singh, Reaves and most of the other nanotroopers on base.
+“What’s this all about, Skipper?” asked Sergeant Nicole Simonet.  Simonet was disassembling and cleaning a handful of mag pistols.  The devices were laid out on a cloth-covered table…magnetrons, trigger assemblies, barrels and coils.  
+“Scuttlebutt says there’s another mission brewing,” added Mighty Mite Barnes.
+Winger acknowledged them.  “It’s no scuttlebutt.”  He explained what had happened to the Doc II swarm, originally planted on Dmitri Kulagin as a spy bot.  “Doc’s no trooper, in fact, he’s not a combat ANAD system at all, but General Kincade and CINCQUANT want to use him to perform some direct action sabotage on the Red Hammer base in Tibet.  With the cartel in communication with some kind of offworld intelligence, anything we can do to cut that link is worth the risk.”
+Reaves had a thought.  “Refresh my memory, Major…wasn’t Doc II made by Doc Frost himself…and found inside the Doc’s body when he died?”
+“Exactly,” Winger said.  “Doc’s a piece of old Doc Frost…and neither one of them ever trained as a nanotrooper.  So using  Doc II for remote direct action is going to be dicey at best.  That’s what we have to figure out here.   How can we config Doc to perform a sabotage mission in the presence of this Configuration Zero character…some kind of master swarm that Q2 thinks may be running Red Hammer?”
+“Go back to basics,” suggested Taj Singh.  Singh was initializing a containment capsule on another table, readying the vessel to receive new ANAD bots.  He pecked out commands on the capsule’s panel with the aplomb of an accomplished pianist.  “Go back to what we know about nanoscale robotic devices.”
+“Sure,” said Reaves.  “Molecular Ops 101.  We all had that…even if Doc didn’t.”
+One after another, the nanotroopers called out basic tactical doctrine they’d all learned in nog school: deception and concealment, feints and diversions, swarming attack, dispersal, entrapment and ambush.
+“It’s all in how you manage configs,” said Singh.  “Like Sun Tzu said, ‘let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt.’”
+Barnes just shook her head.  “Jeez, Taj, if I hear one more Sun Tzu saying, I think I may just throw up.”
+Winger held up a hand.  “No, wait…Taj has a point.  Our first objective is to somehow penetrate the Config Zero swarm and try to sabotage its central processor, or interfere with how it controls Red Hammer.  Remember the enemy is an alien swarm, with unknown capabilities, like quantum displacement and combat entanglement. I’ll drive Doc remotely—I’ve got the best coupler link—but I need your help to spell me.  Let’s get to work hacking out some configs we can test and I’ll slap a mission plan together for Kincade and CINCQUANT.”
+The rest of the afternoon was spent in and around the ready room, the containment center and the sim tanks, forging ideas, testing them, picking proposals apart and seeing what worked and what didn’t.  Winger reminded them that their only link with the Doc bot was through a very tenuous coupler link.  “If Config Zero even remotely suspects this, the game is up.  And I don’t want to lose Doc II…he’s my only link with old Doc Frost.”
+By 1900 hours, Winger had the basics of a plan.  He contacted Kincade, who was already in quarters, with the news.  Kincade’s stern face came up on vid from his official residence inside the OQ.
+“We don’t have much time, Winger.  The longer this mission is delayed, the stronger this beast at the heart of Red Hammer gets.  I don’t have to remind you what’s at stake.”
+“No, sir,” Winger said.  He squirted the details of the mission plan to Kincade.  They discussed the concept, the risks, the tactics.  Finally Kincade seemed satisfied.  
+“I’m proposing Quantum Shadow as a designation for this mission.  Your Doc bot has to maneuver inside Paryang just like a shadow, always there but just out of sight.  I’ll send the package on to UNSAC, Winger, but you’ve already got my approval.  UNSAC should just be a formality.  Get your team together and be ready to commence operations on one hour’s notice.”
+“Yes, sir,” Winger replied.  He took the news back to the ready room and ordered the nanotroopers to make final preparations.  “We’ll use Ops 3 as our command center,” he told them.  “It’s got all the comm links and sim facilities.  We can bang out configs and test ‘em with SOFIE right there. And Kincade and Q2 are just one floor away.”
+UNSAC’s approval came just at 2350 hours.  Before midnight at Mesa de Oro’s Ops center, the Quantum Shadow detachment had already assembled all their gear at the command post.  
+Watching his troopers scurry about the multi-level room, pulling cable, setting up partitions and portable containment capsules, testing comm links and step-checking last minute tactical maneuvers, Winger was sobered by the challenges he knew they would be facing.
+Remote nanobotic swarm warfare had an air of unreality about it that made staying engaged with the enemy daunting, maybe impossible.  Everything was mediated through screens and buttons and joysticks and processors.  Command and response depended on good comms and the battlefield was nearly fifteen thousand kilometers away, buried under the highlands of Tibet.  If anything went wrong—and there was a hell of lot that could go wrong with this stunt—Doc II could easily be lost, or turned.  That made Winger uneasy.  The little bot was the only remaining link he had with Doc Frost himself.  To put this link in jeopardy with a powerful enemy possessed of unknown capabilities was probably a foolhardy endeavor.
+Still orders were orders.  But the lingering flutters Winger felt in his stomach wouldn’t go away.  He watched his nanotroopers scurry about the command post and was both proud and sobered by what he saw.  
+They’re just kids, he told himself.  They’ve been in dozens of battles before, but nothing like this one.  They don’t really understand what’s at stake here.
+He decided he wasn’t sure he understood it either.  
+
+The first upload of combat configs for Doc II went out shortly after 0200 hours.  Outside the Ops center, the nighttime air was still and muggy in the drizzly aftermath of the tropical storm that had raked the area the day before.  Inside the command post at Ops 3, the Quantum Shadow team waited impatiently for comms to come back from the Doc II bot, still hiding among dust motes outside Paryang’s Ruling Council chamber, signals confirming that Doc had received and understood his new configs.
+***Base, what is all this nonsense…you know I’m not a combat ANAD…here, you’ve got me adding all these effectors, jazzing up my propulsors and this…these bond disrupters. What do you think I am, some kind of battleship?***
+Winger had anticipated a little resistance from the bot.  Not surprisingly, it had some of the same personality quirks and characteristics of Doc Frost himself…a bit scatterbrained, analytical to a fault, possessed of a philosophical sense of right and wrong, a bit idealistic…as if a bot sixty nanometers tall could be said to have ideals.  Still, he was mildly embarrassed at Doc’s recalcitrance and smiled sheepishly at the raised eyebrows all around the command post. 
+“How’s our signal?” he asked Taj Singh, who was monitoring the link at a work station nearby.
+“Intermittent, Major.  Something’s snapping spacetime like a wet rag.  Maybe proximity to a strong quantum displacement source.  I’m trying to boost the entangler circuit now.”  His fingers flew across a keyboard.
+Winger figured it was probably Config Zero.  “Doc, listen to me…I know you’re not designed for combat.  But you’re onsite, you’re in position to do serious damage to the cartel.  You’ve got to give these configs a chance and follow orders.  A lot is riding on what you and I do over the next few days.”
+The coupler signal came back a bit scratchy but decipherable.  ***Base, I’m a research assistant…that’s why Doc Frost created me.  I run statistical tests, measure things, analyze results.  You can expect me to work with all these combat devices…I’m not configured for all that stuff…my processor doesn’t work that way***
+Winger was growing increasingly annoyed with Doc’s response.  Maybe Taj was right.  Proximity to Config Zero had flipped some bits inside Doc’s processor.  
+He decided to try another tactic.  “Doc, listen to me.  You say you’re a research assistant.  Think of Config Zero as a great big unknown…a new phenomenon.  That’s true enough, isn’t it?  You want to analyze and measure what it can do?  Use your algorithms and effectors to do that.  Doc Frost would never pass up a chance to study some new phenomenon. Sometimes you have to break things to figure out how they work.  All I’m asking is that we break Config Zero…trust me, this is important.  Config Zero’s running the cartel and he’s in contact with others, and they don’t mean us well.  Doc Frost would be drooling at a chance like this.”
+He could tell by the coupler response that Doc was beginning to grudgingly accept the inevitable.  The little bot had been reconfigured into a saboteur and he didn‘t like it one bit.  But he was a bot and the new configs and algorithms overrode his own standard protocols.
+***Base, I’m finding my effector control spotty…sluggish…re-initializing drivers and sensors…recommending adding a few new hydrogens to my abstractors too, since you asked***
+“That’s more like it,” Winger said to Taj Singh.  “Now, he’s caught up in the novelty of the situation…I must have triggered some basic autonomy module…that’s the key.  Use Doc Frost as motivation.”
+“Seems to be working, Skipper.”
+Once Doc’s new configurations had been uploaded , tested and tweaked, it was time to go hunting.  Penetration ops would begin when Doc re-entered the chamber of the Ruling Council.  The chamber seemed to be protected by a tough nanobotic barrier and Winger didn’t want to engage the barrier bots and set off alarms just yet.
+“Skipper, he could just wait…re-config as dust once more and latch onto some human as he enters the chamber,” suggested Mighty Mite Barnes.  “It seemed to work before.”
+Winger had to agree and so Doc re-configged slightly to more closely resemble a few dust motes.  A few hours later, their ticket to the inner chamber arrived, in the person of one Theo Souvranamh, accompanied by Kulagin and two others whom nobody recognized.  Doc grabbed enough photons to capture a grainy visual but the troopers of Quantum Shadow found no match in their files to the unknown attendees.  The four entered the chamber and Doc propelled himself forward quickly to embed himself firmly in the hair of Kulagin…a familiar hiding place from before.
+It was a whole new way of fighting an enemy, Winger thought , as he followed Doc’s progress.  Soldiers the size of molecules, fighting other soldiers the size of molecules.  Nog school doctrine put a premium on disguise…what the Russians had once called maskirovka.  Look like something else.  Appear from unexpected directions.  Hadn’t Sun Tzu said all war was based on deception?  
+Winger could almost recite the field manual word for word:  Feints and diversions are part of any nanotrooper’s toolkit.   Quantum Corps uses swarms to conceal a main axis of assault, or to confuse an adversary as to where the main assault will be.  This is a relatively straightforward task in nanoscale warfare.  Just replicate a few trillion bots, configure them into something the enemy expects and send them in the direction the enemy is anticipating.  If your intelligence is good, the enemy will react to these moves and weaken himself along another axis.  The ability to replicate quickly and form swarms to resemble any structure or form gives ANAD-style units unbeatable capabilities.
+The only trouble was that Doc seemed to go haywire when in close proximity to Configuration Zero.
+Winger had been trying to manipulate a tiny control pad on his wristpad, steering Doc off his hiding place and toward the central firepit above which hovered the roiling blue-white cloud that was Config Zero…it looked like a combination of miniature hurricane and a thunderstorm.
+Yet the Doc bot seemed more and more uncontrollable, more and more reluctant to go further, insisting again and again that proximity to such a powerful quantum source was altering his most basic algorithms.  
+“What’s wrong with his propulsors…I can’t get a response…no vectoring, nothing,” Winger complained.  He threw up his hands in frustration.  “Config Zero again--?”
+Taj Singh was bent over his own work station with a look of intense concentration.  “It’s got to be Config Zero, Major Winger.  The entangler circuits are almost fried.  Signal dropout at eighty percent.  Have you still got comms?”
+“Barely,” Winger said.  “Snatches of words, that’s about it.  I send a command and then I get part of an acknowledgement back….wait, here’s something—“
+***…annot perform…ecommended action, Base…Format fault…inhibits activated…Level 1 inhibits activated***
+“What inhibits?” Barnes asked.  “Something Doc Frost put in?”
+Winger snapped his fingers.  “Remember what Doc Frost told us about using an ancient viral genome…but we already know that these ancient viruses were seeded by another race…at least some of them were.  Maybe something in his processor’s been triggered…triggered by Config Zero.”
+“If that’s so,” Barnes said, “can you really control Doc?  Is Config Zero taking over control?”
+It was a possibility they had considered but decided the risk was worth it.  The chance that a reconfigured Doc bot could perform direct action sabotage against Red Hammer and its master swarm was too great an opportunity to pass up.
+“It’s time to go small,” Winger decided.  “I’ve got to see what Doc’s seeing.”
+Singh and Sergeant Hoyt Gibbs, monitoring the coupler link, were both against it.  “Too dicey, Skipper.  Comms are too iffy.  You won’t be able to see a thing, much less exercise effective control.”
+But Winger had already made up his mind.  “I’m doing it.”  He tapped a key on his wristpad, waited for the initial nausea to pass as he went ‘over the waterfall” and then squinted at the oncoming sleet of molecules flying into his face, shivering with the first pounding of Brownian motion that always accompanied the maneuver.  All of that he fought off and forged ahead gamely to see what Doc was seeing.
+At 0424 hours, Doc sent back a master alarm.
+The imager screen was at first murky, crowded with the spikes and cubes of dissolved molecules.  Lumpy, multi-lobed sodium molecules darted across their view like shadowy ping-pong balls.  Winger studied readouts from Doc's sounder…something was there, hidden in the data traces on the scope.  He fiddled with the gain on the imager, tweaking it, subtracting foreground clutter.
+Something approximately sixty nanometers in one dimension, narrow with a globe structure at one end…and scores of probes, effectors, cilia, whatever.  Incredible mobility…triple propulsors beat an idling rhythm as Doc closed in….
+Gibbs, the detachment’s interface control specialist, let out a whoop.  "Will you look at that?"
+Winger's fingers flew over the interface controls.  "We're about to check this joker out…" Quickly, he signaled Doc to prime his defensive mechanisms, and slowed its approach to a crawl.  
+Reconnoiter first.  He remembered a line from Sun Tzu, the greatest nanotrooper of all….
+He who is skilled hides in the most secret recesses of the earth.
+Under Winger's guidance, Doc maneuvered among the jostling molecules of chlorine and sodium and potassium.  A huge kinked snakelike cluster of hematite molecules drifted by.  Winger had an idea.  He signaled Doc to grab a few hematites as a shield.  Seizing oxygen atoms with its effectors, Doc clutched several molecules.
+Gradually, the shape and size of the Config Zero bots became clearer.  Bristling with effectors and arms, they looked like miniature Apollo Lunar Modules.  The head was a multi-lobed cluster of spheres and hexagons; inside the churning electron cloud dimmed out any detail.  
+Below the head was a cylindrical sheath, covered with pyramidal facets and undulating beads of proteins - the assembler's probes and effectors.  Winger was frankly awed at the sight.
+"So many different kinds of effectors," Barnes marveled.
+Indeed, the horde of Config Zero assemblers were rigged out like battleships, with devices for every conceivable mechanical or chemical action.  A flatplane baseplate capped one end of the sheathed body.  The tail structure was dense thicket of fibers, each tipped with penetrator clusters.  The penetrators enabled the bots to attach to and enter any structure.
+Winger brought Doc to a complete stop.  The hairs on the back of his neck bristled.  Something wasn't quite right, but he couldn't put his finger on it. 
+Unnoticed by anyone, the swarm of Config Zero mechs had begun to re-orient themselves tail first toward Doc.  Their tail fiber penetrators quickly reconfigured, locking into attack position.
+He is who is skilled in attack flashes forth from the topmost heights of heaven.
+Out of the corner of his eye, Winger saw the maneuver on the imager.  
+"Look out!" Gibbs saw it too.  "He's changing position…all of 'em, coming at us--"
+"I'm ready," Winger muttered.  His fingers flew across the keyboard.  Instantly, Doc brought all its defensive mechanisms to attack position.  It cast off the hematite shield and closed for battle.
+As Doc sped forward, Config Zero grew and retracted appendages and surface structure with blazing speeds.  The outer membrane of the mechs seethed with motion, as atoms and clusters of atoms twisted, bonded, twisted again, rebonded, broke apart, recombined, straightened, undulated and whirled.
+The gap between them vanished and Doc grappled with the nearest mech.  Other mechs swarmed to the battlefield.
+Behind Winger, Taj Singh fingered prayer beads, his voice rising and falling, repeating incantations in a low murmur.
+Winger was stunned by the speed of the assault.  A battalion of Config Zero bots soon engulfed Doc.  No time to replicate now…got to get free…signal daughters….Winger fired off a burst of instructions to gather all the daughters Doc had replicated going in.  It might be too late.
+The imager screen shook with the collision, then careened sideways.
+Several minutes passed.  The imager view vibrated with the ferocity of the attack.  Chains of oxygen molecules, pressed into service as makeshift weapons, whipped across the screen.   The water was soon choked with cellular debris.  Config Zero replicated several times, adding new molecule strings.  It stripped off electrons to make an armor shield of highly reactive chlorine atoms.   In seconds, Doc was immobilized by the chlorine sheath.
+"I can't hold structure!" Winger yelled.  "I'm reconfiguring…shutting down peripheral systems!"
+Sergeant Gibbs had taken a place beside Winger at the interface controls.  "Got to disengage, Boss…emergency truncation.  Everything not critical.  We've got to get Doc out of there before we lose him!"
+"I'm trying…but the damn mech's penetrated the signal path…if he cuts the link…."
+"I know, I know…just keep trying, Jesus…internal bonds on main body structure weakening…I've lost all grappling capability…."
+As they watched, Config Zero systematically dismantled Doc, molecule by molecule.  Doc, even with all the new configs they had uploaded, was woefully unprepared for the assault.  With ruthless efficiency, Config Zero whirred and chopped every device Doc could generate.  Doc tried to counter, replicating probes, inserters, jaws, cilia, pumps, blowers--but it was no use.
+Config Zero mutated too fast.  Somehow, the mech seemed to anticipate Doc's every move. And the coupler connection was growing spottier by the second.  
+Winger was awed by the enemy’s combat capabilities.  "Incredible," he whispered.  "The perfect warrior.  Must have one hell of a processor."
+Sheila Reaves agreed.  "Probably quantum, just like Doc...only souped up a gazillion times."
+They were all stunned at the ferocity of Config Zero’s response. 
+Winger's fingers flew across the keyboard.  He had no choice but to disengage to save the Doc master.  Extract before Doc was chopped to pieces.
+"We're losing signal strength, Major!" Gibbs yelled.
+"I see it!  Bastard’s penetrated the matrix.  Main processing functions in danger…I'm counterprogramming…."  Winger pecked madly at the keyboard.
+Mighty Mite Barnes shook a fist at the imager screen, now a dark, swirling mass of shapes and forms.  "Come on, damn it!  Come on…."
+But Doc couldn't hold.  Every move was countered by the nanomech.  Config Zero’s response was swift and sure.  Winger, Gibbs, and the others watched in amazement and horror, as one by one, Doc's capabilities--fine motor control, attitude and orientation, propulsors, sensors, molecule analysis, replication--were rendered inert, or completely excised.
+Doc was helpless.
+"Got to get the hell out of Dodge," Winger muttered.  While I still can.
+Sergeant Gibbs was checking status.  "It's bad, Major.  We've got no electron lens.  No enzymatic knife.  Hardly any effector control.  Doc's crippled.  I’ve got caution and warning flags all up and down my board.”
+Johnny Winger gritted his teeth.  "Not just yet…"  His fingers flew over the keyboard.  "We've gotta get some data…got to probe that bugger, get some structure on him…if I can just get stabilized--"
+"Major--there's nothing left to stabilize--"
+Winger looked at Gibbs, square in the face.  “What are you saying, Gibby?”
+“Sir-“  Gibbs cleared his throat.  “We’ve lost him.  The coupler link’s gone.”
+Winger couldn’t believe it.  Blindly, his fingers flew around the keyboard, sending configs, hacking out new ones, trying things.  “Maybe if I just—“
+But it was no use.  Gibbs was right.  Doc II was gone.  Quantum Corps’ agent inside Paryang was gone.  Lost.  
+It was Taj Singh who raised the most painful possibility.  “Sir, we have to face the possibility that Doc was turned.”
+“Turned?”
+“Coopted by Config Zero.  His processor taken apart and analyzed.  His memory registers dumped and stored.  Config Zero may know everything now.”
+Winger sat stunned by what had happened.  Doc II?  The only connection he had now to Doc Frost himself.  Lost?  Gone?  It just could not be.  He’d sooner lose a leg than lose Doc II.
+Slowly, the realization seeped in.  Winger blinked hard at the monitors and displays.  His own coupler link was dead…nothing but a tone…loss of signal, the feed interrupted.  
+Winger sat back and took a deep breath.  “Gibby, I guess you’re right.  We’d better let General Kincade know.  If Config Zero’s turned Doc II and penetrated his processor, then he…or it…knows everything.  We’ll have to start over, devise a whole new mission.  Use intel and ideas that Doc couldn’t possibly know….”
+Barnes laid a sympathetic hand on Major Winger’s shoulder.  “I’m sorry, Skipper…I know how you feel…we all feel that way.  It’s always tough to lose a trooper.”
+That’s when the idea first formed in the back of Winger’s mind.  Troopers didn’t leave injured troopers behind.  It was Code.  Every nog knew that.  Doc II may not have been a real combat ANAD unit but he was an important part of 1st Nano.
+Troopers don’t leave fellow troopers behind.
+Johnny Winger mumbled something about getting the detachment together for an after-action that afternoon, then left Ops and wandered aimlessly through sweltering mid-day sun across the base.  
+Somehow, some way, he’d get Doc II back.
+Even if it meant sticking his head into the dragon’s mouth alone.
+
+Without remembering how he got there, Winger found himself walking into the Training and Sim complex, at the south end of the base, near the perimeter fence and the containment center.  Inside, he wandered the halls for awhile but was drawn to the SODS tank in the back, as if he were a moth drawn to light…or a salmon swimming upstream to spawn.  The SODS tank was where many a cocky nog had to come to grief, in their fumbling, at times laughable attempts to show how well they could grab atoms and thrive in the funhouse mirror of the subatomic world.  SODS made nanotroopers out of nogs.
+It could also make nogs into quivering bags of jelly if they didn’t pay attention to the rules of life at the level of protons and neutrons and electrons.
+Winger was drawn to the control cab of the SODS tank like a bee to its hive.  He nodded briefly to the technicians on duty…”—just a little spin, guys…for old times’ sake.  I need to feel atoms in my hands…I need to feel Van der Waals forces in my sails….”
+
+The lead technician had a nameplate that read Mwate.  “Sure thing, Major…you want us to rack up a Level One round for you?  We got fresh ANAD bots just cooking over there in that vault.”
+Winger nodded absent-mindedly, as he pulled up the injection port attachment and situated it against his shoulder capsule.  “No thanks, Sergeant…I’ve got my own.  Kind of customized, if you know what I mean.”
+“Understood, sir…cycling the tank for entry.  You can launch when ready.”
+Winger launched his own embedded ANAD and the tiny master bot exited his shoulder capsule and transited into the SODS tank itself.  When that was done, he lay back in the cab’s seat, felt for the joysticks on the armrests and closed his eyes, remembering.
+
+“Standard training sim, Sergeant Mwate, that’s all.  I just kind of need this today…it’s been a tough day.”
+“You bet, sir.”  Mwate closed the cab hatch and cycled the locks.  Then he snapped his fingers to the other techs.  “Level One for the Major, guys.  He wants the full smash today.”
+Inside, Winger smiled at the smell and the feel of the SODS tank control cab.  Memories came flooding back and he dove deeply and eagerly into that cool, crisp autumn day on the mesa only a year ago, when he’d been a rookie atomgrabber, doing his first run in the tank….
+
+Major Jurgen Kraft rubbed his jaw uneasily as the simulation continued.  Johnny Winger had been inside the SODS tank for better than an hour now; that was unheard of and even the sim techs stirred nervously as the rookie atomgrabber barreled on.  The last time a cadet had spent more than forty minutes navigating the tank and not crawled out a screaming lunatic had been several years ago and that poor fellow had washed out at the end of Basic.
+Putting a nog into the SODS tank at this point in an atomgrabber’s training was like giving a snorkel and fins to a ten-year old and telling him to swim the Atlantic.  Endurance and tenacity like this just wasn’t the norm inside the training battalion.
+Kraft studied the monitor image of Winger’s determined face and wondered.  Just what the hell have I got on my hands here?
+The senior sim tech was a corporal named Givens, short, chunky, with an annoying rapid-fire blink to his eyes.  He looked up at Kraft.
+“Major, you want I should pull him out now…he’s already made it to the other side, beat through every obstacle I can throw at him.  He’s done the standard course…and then some.”
+“Where’s he now?”
+Givens checked the grid on his display.  The SODS tank was a sphere ten meters in diameter, filled with water, and a host of infinitesimal predators and bogeymen, enough to get any unsuspecting nog’s attention when he tried to pilot an ANAD through the medium.  An electronic 3-D grid pinpointed the position of the nanoscale assembler as the pilot steered it through the obstacle course.  
+“—I make him about two point one meters this side of the far wall…he’s slogging through the whirlpool…having some trouble keeping on course, looks like.  Already transited the carbene forest.”
+“Hmmpphh…” was all Kraft could say.  The carbene forest was a sleet of reactive radicals and molecule clumps that usually ate up rookie atomgrabbers for lunch…it took some serious stick work and guts to slip through the torrent of molecules that were trying to tear off your effectors left and right.  “Carbenes usually do a number on most pilots.  What’s his trick?”
+“I don’t know, sir…Cadet Winger’s just got a knack for ANAD driving, I guess.  I’ve never seen anything like it.  Should I let him go on…or pull the plug?”
+Kraft’s eyes went from the ANAD image to Winger’s face—a tight mask of concentration…hell, the kid had his eyes closed, for God’s sake…he was driving ANAD by feel alone, tickling his joysticks and changing config by instinct.  It was uncanny—
+“No…let him be, Givens…let’s see what the kid can do.”  A small crowd of techs and nogs had begun to gather around the control console outside the tank.  Glances and murmurs were exchanged…and a few ten-notes as well.  
+SODS stood for Spacial Orientation and Discrimination Simulator.  Cadet Johnny Winger wasn’t physically inside the sphere at all.  Instead, he was in an enclosed booth on the other side of the tank, plugged into everything the ANAD master was sensing.  A sleet of water molecules rushed by the assembler as it cruised on picowatt propulsors back across the water inside the tank.  Once in awhile, the sim techs threw a curve at the trainee: dropped a few million bacterial spores in front of him, stirred the water into a whirlpool, discharged electron guns, zapped the tank with UV and X-rays…anything their diabolical minds and the simulation protocols could come up with.  So far, Cadet Johnny Winger had fought off every predator and obstacle, even a malfunctioning horde of ANAD replicants that had materialized seemingly out of nowhere right in the middle of the tank.  Winger had fought off banzai charges and flanking maneuvers and double envelopment tactics like a seasoned veteran, grappling with the herd in close combat and using his own ANAD’s bond disrupters to break the back of the enemy formation.
+SODS was a prerequisite for any nog to get out of Basic, and stand for officer status in the newly forming 1st Nanospace Battalion.  The whole world of nanoscale combat was so new that Kraft and the Corps general staff were making up tactics as they went along.  SODS was supposed to measure a prospective atomgrabber’s ability to discriminate and manipulate objects via remote control at infinitesimal micron or even smaller scales.  
+From the beginning, Jurgen Kraft had to admit, one cadet stood above all the rest…Johnny Winger.  He’d shown extraordinary skill at the sim, an unusually adept talent at visualizing and manipulating micron or nanometer scale objects in space.  Hands down, the kid was destined to be the top code and stick man in the whole battalion.  You couldn’t make raw talent like that.
+And raw is what it is, Kraft kept reminding himself.  Even as he and the others watched with amazement and grudging admiration, ANAD powered its way through the ‘waterfall’ obstacle that Givens had programmed in—dodging loose polypeptides and radicals with aplomb—and Winger’s eyes were still closed.  The kid wasn’t even watching his readouts.  He was letting the stick talk back to him, somehow feeling ANAD through the haptic feedback and driving across the course on instinct.
+It’d be easier to navigate Manhattan on a tricycle blindfolded, Kraft told himself.
+“Let him head for the launch point,” Kraft ordered.  “I want to see what this fellow’s made of.”
+“Two big ones say he’ll never make it,” a voice called from behind.
+“Three says he does—“ someone countered.  
+“Warm beer for everyone if he splats at the ‘Wall’,” another one chimed in.
+  The wall was a solid chunk of metal dividing the tank in two.  The trick was to config ANAD for denser medium, change his form so you could transit a world of crystalline planes and rigid lattices.  All the while fighting off deranged nanobots programmed to chew up your effectors while you dived through.  Most nogs would have rather run naked through a pack of lions.
+But Winger managed to fend off the attack, whirling ANAD like a mad dervish, ripping the water with jolts of electron discharges, forming a protective bubble just long enough to fold himself for the denser wall.  He squeezed the assembler down to barely a core and base, and slid sideways, twisting and turning, one step ahead of the bots nipping at his heels.  
+In the end, the race got everybody in the sim room cheering him on.  A few moments later, ANAD sounded ahead and followed the acoustic returns right to the vacuum tube at the near wall of the tank, letting the containment chamber suck him up and put him to bed in his home world.
+Kraft watched Winger’s eyes pop open on the monitor…the first time the kid had looked up since the carbene forest.  Not a drop of sweat on him, Kraft observed.  The barest hint of a smile crossed his young face.  
+“ANAD secured in containment,” Winger reported.  “I’ll be ready for another run at the course as soon as he’s regenerated and stable—“
+Kraft leaned forward to the mike.  “Uh, that won’t be necessary, Cadet Winger.  You’ve made your point.  Secure the sim and extract.  See you at the debrief in ten minutes.”
+Winger nodded at the unseen voice.  “Copy that, sir.”  He started unhooking himself from the booth.
+It had only been a few months after Johnny’s father, Jamison Winger, had taken the patch treatment for depression that Johnny had seen the first WorldNet stories about the Quantum Corps, only it wasn’t called that back then.  United Special Operations Force or USOF was the name of the group at the time, but it would soon evolve with a broad new mandate from the United Nations and with its new mandate, USOF gained a new name.  
+Winger had been looking for a way out for a long time.  Quantum Corps was offering scholarships, some kickass new learning patches, even technical training for cadets who applied, qualified and could get through basic training.  Winger was intrigued; he damn well had no desire to stay on at the North Bar Pass Ranch and herd cattle for the rest of his life, even if he did get to tinker with Bailey and his dad’s other flying gizmos.  
+So Quantum Corps had been his ticket out of ranch work, and away from the deadening weight of family responsibility since his mother had died.   In exchange for a six-year commitment, Johnny Winger showed up at nog camp in a place called Table Top Mountain, Idaho, ready to see just what this new business of nanoscale warfare was all about.
+It was early ’47 and the first medical nanobots were just hitting the news.  Jamison Winger himself had tinkered in his barn-cum-shop-and-laboratory with personal nano back in the mid ‘40s, not very successfully Johnny remembered, but enough to be intriguing, really just some jalopy barebones matter compilers he’d put together from a kit, the kind you saw in midnight specials on the Net.
+Johnny had been intrigued enough to check it out and when he found Quantum Corps looking for suitable candidates to get some schooling in nano theory and techniques, he didn’t think long before applying.  
+Nog camp had been an eye-opener, even for an athlete like Johnny.   Discipline was tough but his outdoors orientation and caving experience made him physically fit enough and he managed to ace the physical exams and the obstacle courses in PT.
+But it was inside the SODS tank, working through problems at micron scales, manipulating simple assemblers, nudging atoms around like he was driving a ‘dozer that Johnny really shined.  Somehow, it was like he’d been born to it.  Driving ANAD and grabbing atoms came naturally to him.  It was like he could see all the pyramids and polygons and cones and spheres ping-ponging around in his mind’s eye, like he just had a feel for van der Waals forces and bond strengths; intuitively, he knew what it took to snap a carbon ring in half and boot up an autonomous assembler and go off careening around inside a speck of matter like it was some kind of disneyland or something.  Some people played the piano.  Some people could throw a football seventy yards on a rope.  Johnny Winger was a born atomdriver.
+And after a few legendary turns in the SODS tank, he came to the attention of Major Jurgen Kraft.
+Kraft was the newly appointed commanding officer of Quantum Corps’ 1st Nanospace Battalion.  It was his job to take the raw talent of people like Johnny Winger and Nathan Caden and Ozzie Tsukota and shape it into a functioning combat unit, then marry their training to the technology that ANAD brought.  Originally, Kraft had been a program manager for autonomous assemblers at Northgate University, where ANAD had been born at the Autonomous Systems Lab.  Kraft was an early mover in the world of nanoscale mechanisms married to autonomous-agent quantum computing.  He’d done several stints at Northgate and Quantum Corps had tapped him early on for field command.  He’d been instrumental after that, getting ANAD technology weaponized and tactics developed enough to be combat ready.  There was some urgency to this business too, as UNIFORCE intelligence had learned in early ’48 that Balkistan and several other rogue nations as well as certain criminal groups were hard at work dealing in weaponized nano themselves.
+Kraft knew it wouldn’t be long before ANAD and the new crop of nanowarriors would be put to the test.
+In September 2048, Jurgen Kraft had met Johnny Winger for the first time.  It was not a match made in heaven.
+Cadet Winger knocked gently on the door jamb.  Major Kraft was at his desk, his shiny balding head was bent to some paperwork he’d neglected.  He didn’t look up, merely mumbled a raspy “Come” while he swore softly at the commandpad, trying to tidy up a report for the 1600 hours squirt to Division.
+“Cadet Johnny Winger, sir…reporting as ordered.”  Winger hung a salute, holding his arm stiff until Kraft responded perfunctorily.  
+“Cadet Winger—“ Kraft folded up the c-pad and tucked it in his shirt pocket, then leaned back in his squeaky chair.  “--that was one hell of a display of ANAD-piloting this afternoon in the tank.  You navigate like that all the time, son?”
+Winger gave it some thought.  “I usually make it to the wall and back, sir….not without some bumps and bruises, most of the time.”
+Kraft snorted.  “Most of the time?—hell, son, most of the time, the sim operators chew up nogs and spit ‘em out for dirt.  Where’d you learn to grab atoms like that?”
+“Right here, sir.  I went through Spacial Discrimination same as everybody.  Sergeant Rice was my instructor…he was tough in ANAD Theory, even tougher I guess in Basic Maneuvers and Molecular Combat, but he was fair.  I guess I had a knack.  Kind of took to it real quick.”
+Kraft was suspicious of the kid right from the start.  What was Johnny Winger doing that all the rest weren’t?  “Cadet Winger, it’s my job to get this outfit into shape and combat-ready.  I want you to be my top sergeant in the training platoon.  You work with the SODS pukes, work out some routines, tests and scenarios.  I want you to teach the other code and stick men how to drive like you do.  Got that?”
+That was when Johnny knew he was in trouble.  The truth was he couldn’t really explain the talent he had.  He had no words to describe how you parked ANAD on the ‘back porch’ of a benzene ring and used its covalent bonds to swing yourself through a sleet of water molecules like Tarzan hurtling through the trees.  Nobody had taught him harebrained maneuvers like that; it certainly wasn’t in Sergeant Rice’s book.  You just felt it and tried it and made it work.
+But he couldn’t very well say no to Major Kraft, could he?
+
+And he wasn’t going to say no now.  For most of the afternoon, an idea had been gnawing at him like a dog with an old bone.  All throughout the session in the SODS tank, the question kept surfacing in the back of his mind:
+What would Major Kraft do?
+As he climbed out of the control cab, toweled off with cool hand cloths handed him by Sergeant Mwate, and left the Training/Sim building, he headed north along a pebbled path toward the Commissary, alongside one of the hyperjet runways and the south lift pad.  
+In that short ten-minute walk, the answer to his question became quite clear.  There was never any doubt about what old Ironass Kraft would have done.
+Nanotroopers didn’t leave fellow troopers behind.
+By the time he had grabbed a sandwich and soda and sat down by the windows to watch lifter traffic coming and going from Mesa de Oro, he knew for a certainty that he would head east, to Paryang and try to rescue Doc II.
+True Doc II was a nanoscale robot the size of a few molecules, but that was beside the point.  It was the principle of the thing.  It was Code.  It was what Kraft would have done, though he would have chewed Winger’s ass from the Yucatan to Timbuktoo and back in the process.
+A shadow crossed his face and Winger looked up.  It belonged to Mighty Mite Barnes, with Taj Singh behind her, both bearing their own trays. 
+“May we sit with our commander, sir?” Barnes asked.  “Begging the Major’s pardon, sir, but you look like you’ve just been run over by a crewtrac.”
+Winger motioned them to sit.  “Sorry, guys, I guess I was just thinking.”
+Barnes was sympathetic.  “About Doc?  That was tough, sir.   But you did all you could.  That Config Zero’s a bitch.  What else could you have done?”
+Winger munched morosely on his sandwich.  “I should have been able to deal with it…I know tactics.  I’m atomgrabber, for Christ’s sake.  But Config Zero---“ he just shook his head.
+“Maybe we can hash out some new ideas at the after-action, Major,” Singh suggested.  
+Out of the blue, Winger said it in a low voice.  “I’m going after Doc.”
+Barnes blinked and put down her veggie wrap.  “I’m sorry, sir…did I hear that correctly?”
+Winger looked at both of them.  “Doc’s not like ANAD but he’s still one of us.  I know he’s a bot but he deserves better.  He deserves to be treated like a nanotrooper.”
+“You’re thinking about the Code, aren’t you, sir?”
+“I am.  I’m going to Paryang…I was just mulling over some ideas when you came by.”
+Barnes munched silently for a few moments.  She had known Johnny Winger for months, fought in battles with him, drank herself into a stupor with him, trained and simmed and brainstormed crackpot ideas with him.   She’d seen that look before.  Johnny Winger had a way of setting his face and eyes just so when he meant business.
+She saw that look now.  There was no way anyone was going to change the Major’s mind.  She figured he’d gotten the look from Ironass Kraft himself.
+“Assuming the Major’s not pulling my leg and this is legit, how exactly would the Major go about rescuing Doc?”
+Winger watched a pair of lifters take off from the south lift pad, leaping into the air like huge spiders, as they wheeled about and sped off into the cloudy skies.
+“I’d have to change my appearance first…biomorph myself.  I’d have to go as a civilian. There’s a clinic…a tienda…in Sisal that does things like that.  All this has to be covert, under the radar.  Kincade’ll never give permission for a hairbrained scheme like this.  Then I’d take a commercial flight, maybe with several stops, to Kolkata.  We know Kolkata’s a big market for Red Hammer…scope dealers, fab hackers by the thousand, twist and rogue DNA.  I’m sure Q2’s got intel on some of their safe havens.  I’d head there.  Try to get passage up to Paryang through someone with good cartel contacts.  Then me and ANAD---“ he patted his shoulder, where the capsule containing the embedded assembler bot was stored—“we’d go hunting for Doc.  Somehow, some way, we’d find Doc and get him the hell out of there.”
+Barnes stared at the Major with a blank expression.  “Just like that, sir?  With all due respects, sir, this sounds pretty much insane, to venture into a place like Paryang, with all we know and don’t know about this Config Zero character and snatch a bot the size of a molecule out from under their noses.  Risky doesn’t seem strong enough to describe it, sir.”
+Winger agreed.  “It is insane, Sergeant.  Ridiculous.  Impractical.  Crazy.  And against all regulations…and common sense.  But I’ve got to do something.  I can’t just leave Doc there to be picked apart by the cartel.”
+Barnes looked over at Taj Singh, who slurped up the last of his bowl of noodles.
+“So when do we leave, sir?”
+
+In the town of Sisal, the smell of henequin is particularly strong in the late afternoon, when the Gulf breezes pick up and drive strong winds onshore, wafting through street after street of racks holding the bundles of rope and twine ready for shipment.  
+Winger, Barnes and Singh were out of uniform, on extended liberty…and that had taken some serious finagling and creative writing to get approved… walking from the autocab stand where they had left their car, their gear and their luggage, toward a narrow trash-filled street lined with small shops in stucco and peeling plaster.  Broken down bots and pieces of bots lined the gutters.  Rusting drone carcasses were scattered about.  Cats screeched and dogs barked.  Puddles of rain water attracted hordes of flies and mosquitos.
+Senor Obrador’s tienda was at the end of the street.  The nanotroopers went in.
+Shelves of canned goods and sacks of corn meal and flour lined the walls.  The cash register was brass, a relic of the mid-20th century.  Senor Obrador was short, squat, pallid with a black moustache and a sun hat, which he kept on even inside.  The stump of a well-chewed cigar angled from the corner of his mouth, along with a few dribbles of spit.
+“Ah, Yanquis, no?  Nortenos?  Como puedo ayurdarle?  How can I help you?”
+Winger spoke for the three of them.  “I want to make The Change?  You know…the Change?”  He tugged at his own cheeks and lips.
+Obrador’s expression immediately changed.  His pasted-on smile vanished and his complexion darkened.  “Ah, si…el Cambio—come with me, please.  You have—“ he rolled his fingers in the universal sign for money.  His eyebrows lifted.
+Winger extracted a small card and pressed it into Obrador’s hand.  The proprietor swiped the card through a palm-sized reader he produced out of a pocket.  His eyes lit up and he nodded his head up and down vigorously.  “For you, si, the best.  Tops.  Come…come, please.”
+They all went behind the counter and disappeared through some tattered curtains.  Obrador reached up on a shelf and grabbed some boxes, three of them, which he gave to Winger, Barnes and Singh.  He motioned them to a broken-down couch, still clad in shreds of something like red damask, and bade them to sit down.
+One by one, they peeled open the boxes.   Inside were small vials, containment capsules, with the morphing bots.
+Obrador mimed swallowing.  “Comer…” he told them. 
+Winger, Barnes and Singh twisted their vials open and swallowed.
+How long he was out, Johnny Winger couldn’t say.  He had a strange dream, as the morphing  bots did their job.  In his dream, he could see his mother at the bottom of that ravine, after the car had gone over the edge.  Her body was broken—that was bad enough—but her face was also battered, bruised, blood-streaked.  Yet even as he came closer, morphing bots reassembled her face, repaired broken bones, patched up her skin and she grew into the beautiful young woman she might have once been…all high cheek bones, pouty mouth, upturned nose.  The only problem: the woman wasn’t his mother.
+When he came to, Winger was groggy for a moment.  Senor Obrador was just coming through the tattered curtains into the back room.
+“Ya hemos terminado, no?  All done?”  He handed Winger a half-broken, scuffed-up mirror.  Johnny took a look and was so startled, he nearly dropped the mirror.
+Once he’d been proud of a lean face, with high cheeks and deep set eyes.  Now his face looked like cookie dough that had been next to the stove too long.  His appearance was that of a man decades older, heavier, with sallow cheeks and age spots on his forehead and chin.  His  nose was flatter, wider and his lips were thinner, topped with a heavy moustache that kept tickling his nose.  
+When he looked over at Barnes and Singh, he almost burst out laughing.
+He didn’t recognize either of them.
+Taj Singh could barely stifle a few chuckles when he saw Mighty Mite Barnes.  Where once she had been almost cute, with dark brown curls and perky freckled cheeks, now she was older, sadder, with dog ears and lips too big for her face.  
+“Looks like the bots went to town on those lips,” Singh said, still grinning.  “Watch out you don’t hurt somebody when you turn around with those flappers.”
+Mighty Mite glared back at the Bengali CEC, the team’s containerization specialist.  “Oh yeah…my sister’s pet dachshund looks better than you.  Where’d you get those ears anyway…planning on flying a kite today?”
+And so it went.
+They made sure Senor Obrador was satisfied with his payment, then the trio went back to their autocab and buzzed down the protective bot barrier that had kept their gear from being stolen by ladrones…or worse.  They had to get to Merida Airport in time for their flight.
+Quickly, at Winger’s orders, they checked all their gear thoroughly: containment capsules stuffed with barebones ANAD master bots, a few well-hidden sidearms, clothing, footgear, a camou-fog canister and some about-to-expire MOB capsules.  
+“With any luck, we can bring back something to make this little trip worthwhile,” Winger had theorized.
+The detachment boarded their autocab and headed out of town.  An hour later, after a bouncing, butt-numbing ride through the jungle on rutted, muddy roads, they pulled into the parking lot at Merida Airport.  Winger swiped their payment through the ‘mouth’ slot of the driverbot and they headed in to the Sala de Llegados…the Arrivals hall. 
+
+Chapter 3
+“The Nanotroopers Code”
+
+The Nanotroopers Code
+i.	Nanotroopers don’t leave fellow warriors behind
+ii.	Nanotroopers fight only the enemy
+iii.	Nanotroopers don’t harm those who surrender
+iv.	Nanotroopers destroy only what the mission requires
+v.	Nanotroopers treat civilians with respect
+vi.	Nanotroopers don’t  steal
+vii.Nanotroopers don’t violate the laws of war
+viii.Nanotroopers report violations of the laws of war to their superiors
+
+Kolkata, India
+November 15, 2049
+0830 hours (U.T.)
+
+The trip took four hours by commercial hyperjet, counting a brief layover at London.  Barnes and Singh slept most of the way, awakening only long enough to buy some baguettes and sodas at Churchill Terminal in London, then off they went to Kolkata, skimming across the top of the atmosphere like a meteor, a hundred kilometers over the sheen of the eastern Med, the burnished tan of Middle Eastern deserts and the turquoise of the Indian Ocean.  Presently, through thickening smog and the turbulent, storm-laden air of the lower atmosphere, the hyperjet burst through the cloud deck and there was Kolkata.
+On their descent to Netaji Subhash Chandra Bose Airport at Kolkata, Johnny Winger stared out the porthole at the hazy Ganges delta below.   Columns of smoke from thousands of cooking fires added to the thick haze.  Rice paddies interspersed with the crude huts of the traditional Bengali mawzas stretched to the horizon, like an infinite chessboard.
+“That haze isn’t just smoke,” Taj Singh muttered.  The Bengali native had joined Winger and Barnes in the forward cabin.  “A lot of that stuff is loose nanobotic debris…assembler fluff from all the fabs.  The stuff is out of control.”
+Barnes nodded.  “So I’ve heard.  The authorities can’t contain it?”
+Singh snorted.  “Not when a hundred million fabs are going off night and day.  Containment laws mean nothing here.  People are desperate.  The black market in unlicensed, souped-up fabs and matter engines is exploding.”
+The hyperjet settled down to a bumpy landing on the tarmac of Runway 16 Left and roared down to taxi speed.
+“The market here is huge,” Singh went on.  “People have nothing, barely enough rice to eat, hardly any shelter, rags for clothes.  They spent every rupee on fabs and software, hoping to strike it rich.  It’s like Aladdin’s Lamp, if you’ll pardon my using another culture.  You can’t make food—still no fabs for organic stuff, but they’ve got everything else: fancy clothes, cars, personal bots, every electronic gadget you can think of...Kolkata’s like a bazaar gone crazy.  There must be hundreds of millions of fabs here…the air’s so hot because of all the assembler activity.  If it isn’t bolted down and screened by bots, everything becomes raw feedstock.  The buggers’ll eat the clothes right off your back.”
+The three of them made it through Customs, retrieved their gear and luggage and hailed an autocab from the taxi stand outside Baggage Claim.   The squat vehicle rumbled up to the curb, black smoke belching from its exhaust, and the doors and trunk lid sprang open.  Winger helped load up everything and they were off.
+“Shavindra Temple,” Taj Singh spoke in his native dialect to the driverbot.  “Amara Shavindra mandira caluna.”  The thing beeped and chirped, with flashing lights all over its head and they lurched away from the curb, then turned right, onto crowded Hanagar Street, heading east for Shavindra and the great temple complex.  
+Hanagar Street was thick with traffic, choked with pedestrians and rickshas, pedicabs and jitneys.  Down narrow lanes branching off to the sides, dense smoke and fab swarms added to the humid haze of a late autumn morning.  The autocab maneuvered gingerly through the throngs, honking at the wizened old wallahs as they pulled their rickshas in every direction, heedless of the traffic.
+Taj Singh studied the scene through a window.  “In Kolkata, some things never change.”
+The Shavindra temple compound was west of the city center, set in a tree-lined park called Bhattan.  From the Hanagar Street roundabout, the ornate stepped pyramids of the main temple poked above the trees, a brooding presence in the early morning mists.  Traffic thinned out as the autocab navigated the circle and accelerated out along the Varanasi Road connector.
+They came to the front entrance of the temple compound a few minutes later.
+The autocab eased through a huge iron gate adorned with serpents’ heads and tiger paws in stone, and stopped a few meters away from the shimmering barrier that shielded the temple.  Through the translucent shield, crackling with bursts of light, the Sacred Pond of the Lillies reflected morning sunlight from an inner courtyard.  A stone relief of Lord Shiva rose from the pond and a slender spire brooded over a frozen gathering of spirits, also in stone.  Beyond the water, a colonnaded portico surrounded the courtyard.  Inside, the Hall of a Thousand Pillars was dark, save for clots and denser swarms of bots moving along the colonnade.
+“Shavindra Temple,” Singh announced.
+They got out, paid off the autocab, gathered their gear and went up to the barrier.  A grinning sculpture of Shiva leered down at them from the side of the gate, itself enveloped in the protective swarm.
+Singh called out their names and why they had come.  
+“In the name of the great Swami Vivekananda, we’ve come for Sanatana Dharma…to follow the eternal way.  To study and reflect in the presence of Lord Shiva…to learn the words of the Vedas….”
+Winger and Barnes were momentarily startled by movement to their right.  It was the Shiva sculpture, now in motion, morphing into a jaguar’s face.  The face ‘growled’ and roared down at them, joined by similar morphed sculptures all around the gate.
+A voice boomed out across the grounds.  “In the name of the true Purusarthas, we bid you enter the holy ground.  Take off your shoes and leave your luggage carrier at the gate….”
+At that moment, the barrier bots dissolved in a spray of light and their path was clear.
+“Jeez, what a show…” muttered Barnes.  She started forward, but Singh grabbed her arm.
+“Mite…your shoes…”
+“Oh, yeah…right.”  She slipped out of her shoes and deposited them alongside their luggage cart.  
+The three nanotroopers, dressed in civilian garb, moved as one through the gate and across the courtyard, then through a line of columns toward the massive oak doors of a large chamber—the Hall of a Thousand Pillars—Winger’s eyepiece annotated on his viewer.  
+Barnes’ wristpad chirped and she studied her nav screen.  “Skipper, just got one big decoherence pulse on the scope…dead ahead…about two hundred meters!”
+In the dim, fire-lit shadows of the great Hall of a Thousand Pillars, the decoherence wave front had a most startling effect.  It was like an invisible scythe slashing through the grid of columns, sweeping from left to right.  One by one, an invisible front swept toward them, expanding outward in all directions.  The passage of the front could be detected visually, as row after row of columns wavered, then dematerialized for a few seconds, finally re-appearing again after the probability waves had passed.
+And in the split second the deco wave passed each row of pillars, the row unfolded like an origami sheet into a shadowy infinity of columns, marching off in every direction.  The effect of collapsing probability states lasted less than a second, but the image was visual proof of the massive quantum disturbance nearby.
+For Johnny Winger, it brought back unwelcome memories of the Sphere he and Sheila Reaves had encountered in that cave at Engebbe, buried now under tons of rubble in a narrow escape that had nearly cost him his life.
+“Jeez, there must be one hell of a quantum source nearby,” Barnes shook her head.  “What the hell kind of temple is this?”
+“Temple and Red Hammer safe haven, “Winger reminded her.  
+Once things had returned to normal, they were startled to see a solitary figure standing alone among the now solid-looking pillars.  He was a wizened, slightly stopped, even emaciated older man, clad in gray robes and a white turban.  He came slowly out of the shadows and raised a hand in greeting.
+“Shavindra sbagatama…welcome to the Temple.  You are here to study the Vedas, the Upanishad, the Agamas…perhaps simple puja worship in our great temple.”
+The nanotroopers cautiously approached.  Ten meters away, just passing an oaken pillar, Barnes’ wristpad chirped again.
+His name was Swami Vijay Rajnapuram and he was an angel.  Barnes nudged Winger as they got nearer, whispering “Check out the hands, Skipper…he tries to keep them hidden in his robe but you can still see the fuzzy edges.”
+Winger nodded but went on.  “Actually, Great Swami, we’ve come for another reason.  In fact, I have a proposition to make…for you and your…er, superiors.”
+Rajnapuram’s face fuzzed out briefly, as if a wave had washed through the assembled bots that made up his visage.  Then it snapped back to ‘normal.’  
+“A proposition…we do not conduct business here in the great Temple of Shavindra.”
+Winger was undeterred.  “Oh, I think you will, when you hear me out.  See, I know this isn’t just a temple.  It’s also a base…for Hong Shui.  Red Hammer.”
+The words had a startling effect on the swami.  It was as if the ceaseless motion of the bots that comprised his face and body—not too successfully, observed Taj Singh—had become frozen.  Now there was no motion.  Rajnapuram momentarily became a statue.
+“Config change,” Barnes muttered.  “Kind of clunky if you ask me.”
+Then Rajnapuram completed the awkward reset and resumed a more natural look.  “You are pilgrims I believe…”  The morphing went on, gradually turning the swami into a saffron-robed, now balding Buddhist monk.
+Singh just shook his head.  “Clumsy and insensitive, to say the least.  A Buddhist rinpoche in a Hindu temple…nothing’s sacred anymore.”
+As he studied the strange visitors carefully, Rajnapuram carefully poured a small pouch of black seeds into a bowl on the edge of a nearby parapet.  He made a swirling pattern in the seeds with his fingers, mumbled a soft incantation to the Enlightened One, then poured the seeds back into his pouch, repeating the process several times.
+Taj explained the ritual to the others.  “One must endure the boredom of repetition eight times, before the natural energy of the seeds will come forth.  Only then will you free yourself from want.”
+The rinpoche, now morphed into a bespectacled and wrinkled old skeleton, nodded wisely.  It was true.  All things possessed their own life energy.  One had but to still one’s mind to hear the rhythm of nature’s frequency.  The teacher closed his eyes and willed himself to utter silence, slowing his breathing and heart rate with fierce concentration.
+Only the distant hum of more nanobotic barriers deeper in the Temple and a growing sense of foreboding interrupted the rinpoche’s meditation.
+“We aren’t really pilgrims, sir,” said Winger.  “More like businessmen.  In fact, we’ve come to make a deal, with your superiors.”
+The rinpoche adjusted the dataspecs which had slid down to the end of his nose.  Text and images could be seen scrolling in front of his wrinkled eyelids.  “Ah, yes, an offer.  A proposition.  What are you offering, pilgrim?”
+Winger had given this very point a lot of thought over the last few days.  To sweeten any offer, he’d gone to Q2’s offices at Mesa de Oro and downloaded some scrubbed and sanitized intelligence files from Major Lofton’s office.  Nothing too sensitive and of course, Winger knew that what he was doing was illegal to the heavens.  But he needed something to prime the pump, something to whet the appetite of any Red Hammer operatives he encountered…like this scumbag monk who wasn’t even human.  
+“Take us to Paryang.  If you agree to that, I’ll give you detailed Quantum Corps intelligence, stuff on bot tech and all kinds of tactical data on capabilities.”  Winger knew he was on incredibly shaky legal ground with this kind of offer.  And the mission wasn’t even authorized anyway.  But it was Code.  He had to do something.  He had to get Doc II back…he wouldn’t expect anybody but another nanotrooper to understand that.
+The rinpoche seemed intrigued, if the fuzzy lift to his ersatz eyebrows was any indication.  “What could you offer that would be of interest to us?”
+Winger knew this would come up.  He withdrew a data chip from his pocket and gave it to the priest.  “Examine that.  It’s just a sample of what I can make available.”   And there goes my career in the Corps, he added to himself.  The intel on the chip had been sanitized and well scrubbed and would be useless to almost anybody, but Winger doubted the Judge Advocate would see it that way.
+The rinpoche took the chip, examined it carefully, then his face morphed slightly and he stuck the chip into his ‘mouth.’  Almost as if he were tasting it, the rinpoche closed his mouth over the chip, then closed his eyes.  
+“Some kind of read mechanism,” theorized Singh.  
+The process took only a few seconds.  The rinpoche spit out the chip and pocketed it in the folds of his robe.
+“Come with me,” he told them.  The priest led the three nanotroopers out of the Hall of a Thousand Pillars, along a colonnaded walk behind, to a smaller room on the other side of a shady quadrangle.  Inside, the room, several consoles lined the wall, along with ornate desks laden with ancient texts.  A small pot burned aromatic incense in the center.
+The rinpoche stood beside one of the consoles, and lay his hands on a semi-spherical hump in the center.  The hump glowed briefly and the rinpoche’s body seemed to momentarily blur as this happened.  For as long as twenty seconds, the troopers could see right through the angel, as his body began breaking down, the bots reconfiguring right before their eyes.
+“Config change,” Barnes decided.  
+And indeed, when it was all done, the rinpoche no longer resembled a Buddhist priest at all.  Gone were the saffron robes, the wrinkled skeletal skin, the bald head and clanking beads.  Now, what had once been an ancient, wizened old healer and follower of the Enlightened One had become a greasy-bearded much younger man, broad-shouldered and husky, with foul breath and the spaced-out eyes of a neuro-junkie.  He said his name was Yang.
+Yang smiled a humorless smile at the looks on the faces of his visitors.  He mopped his forehead with a dirty rag from a pocket.
+When the config was filled out and Yang was ‘complete,’ Winger shook hands, explained his interest.  "I want to meet Kulagin.  I've got an offer to make.  He'll be interested."  He decided to throw in the Russian mafioso’s name to see what reaction it got.  
+Yang stared him down with fierce black eyes.  
+"Lots of people want to meet Kulagin.  Hundred deals a day.  What's the offer?"
+"It's for Kulagin, I told you.  He and I meet.  Man to man, no spectators.  What I've got is for him alone."
+Yang seemed to shrug.  "Suit yourself."  He straightened his jacket, rolled his sleeves back down and gruffly combed greasy hair over the flim port behind his ear.  "Kulagin's not here anyway.  I'm the pipeman."
+Winger hated dealing with sycophants.  Flim trash or neuro-junkie, strung out on scope or just gutter garbage, he knew the type well.  Yang had the same dazed look but he was husky and broad, big in the shoulders.  Winger wanted to reach through the prick's throat and rip out the last unbuzzed piece of cortex he could find, if there was any.
+Instead, he decided to play the game.  
+"Look, pung-yo, you want to take responsibility for Red Hammer losing business, that's your problem.  I can go it alone, build my little empire, and bleed Kulagin dry inside of six months.  You tell your boss that.  If he wants a cut after he's seen what I've got, it'll be too late.  Today's the day to cut and deal.  After today, there is no deal.  If I walk out of here without hearing an offer, I'm competition." Winger's eyes narrowed.  "And I eat competition.  Take us to Paryang, now.”
+Yang considered that for a moment, serving himself some tea from a nearby pot and grunted.  For a few seconds, the normal roiling churn of angel bots grabbing atoms to maintain structure froze.  Yang stood completely still, looking like a poor man’s statue.
+Barnes saw an alert flash on her wristpad.  Jeez, big deco wakes…this guy’s transmitting like the Sun.  She nudged Winger, who saw her pad blink and flash. 
+Somehow, some way, Yang or whatever he was, was communicating in quantum bursts with somebody.
+Probably his bosses, Winger mouthed at Barnes.  
+By now, the angel had returned to normal.  "Only one way anybody sees Kulagin."
+"I'm listening--"
+"Glasseye."
+"What's that?"
+Yang snorted.  "For a businessman, you're pretty thick, aren't you?  I put you out, see?"  Yang pulled out a blisterpac of tablets from an unbuttoned pocket.  "Glasseye.  Neuropyrmidine.  Freezes you like a statue.  Unconscious.  Paralyzed.  Like a sack of rocks.  It's the only way you get to see Kulagin.  The man likes his privacy."
+Winger didn't like the idea.  But he liked the thought of leaving Kolkata with nothing to show for the long trip even less.  He glanced over at Barnes and Singh.  They were following his lead.
+"I guess this is how we get to Paryang.  I suppose we have no choice.  How long?"
+Yang shrugged, pulled out three tablets.  "Works in a minute.  You'll be out for two hours, if you don't go coma.  You wake up and feel like I dropped you into the Ganges River.  But you'll get over it."
+Winger held out his hand.  Yang dropped the tablet in his palm.  He did the same with Barnes and Singh.   The three of them popped the tablets and washed it all down with tea.  It was bitter, brassy in taste.
+"Best sit down here, friends." Yang guided the nanotroopers to a ratty old couch of peeling fabric and uneven legs.  Already, Winger was jazzed, then wobbly and dizzy.  He sat down in a heap, his vision blurring into a tunnel, his heart revving fast, turbocharging before the crash.
+The crash, when it came, was like slipping off a cliff, floating and feathering downward, forever downward.  The last thing he saw was Yang's wavering face, as the pipe man reached out to rifle through his pockets.
+
+The smell of salt air was strong, that and wet grass, leaves, tree smells, cut bamboo, drying fish.  The sensations came in a rush, flooding in, and Johnny Winger enjoyed identifying them one by one, until a sharp guttural voice intruded on his reverie.
+"Wake up, d’yavol.  This is not a pleasure cruise."
+Winger blinked hard and the source of the voice gradually materialized into view.
+Dmitri Kulagin was mostly beef, black-haired, sporting a luxurious black moustache.  He glared down at Winger, handing him something liquid in a cup.
+"Drink."
+Winger hesitated.  Kulagin picked up Winger's hand and physically inserted the cup in it.  "Drink, glupyy.  It cuts the glasseye."
+Winger drank.  In a few minutes, his vision sharpened and the cotton padding in his head seemed to dissolve.  He finished the cup--the liquid had a metallic taste--and realized he was on a boat--a yacht actually, anchored off a small island in an otherwise isolated bay of turquoise water.
+"It's called Ap Chau," Kulagin interrupted, anticipating the question.  "Used to be known as Robinson Island, when the anglos ran things."
+"Quite scenic."  Winger stood up, still trying to clear his head.  The bay was a cool, mist-shrouded enclave, a bowl surrounded by humps of green mountains, shadowy sentinels at night.  It was also a very clever projection, for he had seen the twinkle of pixelated edges when he got up.  They were not in Hong Kong at all.  
+"And easily defended," Kulagin added.  "That's Mirs Bay, or Tai Pang Wen in the local Cantonese dialect.  Lovely place.  Full of sharks."
+"I don't swim.  And you goons have always had strong feelings for Lions Rock, haven’t you?”
+"I suppose…so why do you pester my pipe man?" the Russian muttered.  "Why do you want to see me?"
+Winger accepted mint tea from a white-jacketed steward.  The ‘yacht’ was a four-deck beauty, with polished wood and brass everywhere.  Her life rafts were monogrammed in gold stencil: Orient Star.
+"To make you a fortune."
+Kulagin laughed, an explosive expectoration that wet down everything in range.  "I…?  Ne ponimayu.   A fortune is like a beautiful woman.  Easy to lust after.  Hard to keep.  Why am I interested in you?  Perhaps, I have fortune enough."
+Winger paced the deck railing, carefully noting the stewards hovering nearby…and the black jackets beyond them.  Kulagin's goons--Guangzhou tong, from the looks of them.  The nanotrooper tapped the side of his head.
+"What I know…you also need to know.  My knowledge can make you as rich as the czars, rich beyond words.  Or destroy you and all of Red Hammer, just as easily.  I've come with an offer."
+Kulagin watched this strange man strut about the yacht.  An offer?
+"What can you offer me?"
+Winger had spent a lot of time imagining this very moment.  The words were well practiced, coming out automatically.
+“I can offer you Quantum Corps itself…their tactics, their procedures, their organization, their weapons and technology.”  Just hearing himself say the words made Winger flinch; he was putting his career in serious jeopardy here.
+Kulagin considered that.  “A generous offer, to be sure.  I need proof.  Something to show the Ruling Council.”
+Winger had anticipated that.  He extracted a chip from his pocket and gave it to Kulagin, who examined it as if it were a precious stone, then stuffed it into his own pocket.  
+Winger asked, “My friends…where are they?  I want to know they’re okay.”
+Kulagin was on his way ‘below deck’ in this projection.  He called back from the stairs.  “They’re near.  And they’re safe.  Just make yourself at home.”  Kulagin disappeared, to be replaced by one of the stewards, who offered Winger a platter of drinks and snacks.
+But he didn’t have long to enjoy the amenities, for the projection began to change as soon as he helped himself to a small goblet.  
+The entire surroundings—the yacht, the steward, the misty hills on the horizon, the waves lapping at their hull—pixellated and broke down in a swirl of light and shadow.  Winger flinched.  As his eyes adjusted to the change, he could see new structures forming, familiar structures it seemed.  Rock walls, veined with streaks of ice.  Flickering mists drifting across his vision.  A firepit in the center, with flames crackling in smoky air.  
+It was a cave, similar if not identical to what Winger had seen before, at Mount Kipwezi, at numerous other places.
+Now a form was materializing in front of him.  Slowly, the apparition solidified, gathering atoms to build structure; he was sure it was a nanobotic swarm of some type.  He found himself critiquing the configuration…too slow, he said under his breath, never work in combat, too much fuzziness around the edges.
+Then he saw the priest fully formed, standing on the other side of the firepit, a wizened, almost skeletal face backlit by the shadows from the far wall.
+The rinpoche was not the same one they had encountered in Kolkata, except in general features.  He wore tattered saffron robes and seemed bald on top, with tiny glasses perched at the end of his nose.  An amused smile tugged at the corner of his lips.  
+Must be a common config, Winger surmised.  He decided to force the conversation.
+“Have you considered my offer?”
+The rinpoche now moved to the near side of the firepit, warming his hands over the flames as he did so.  He pushed his glasses back up his nose, squinting quizzically at Winger.
+“You are not alone, I see.”
+Winger didn’t understand.  “I’m sorry…what did you say?  I was asking about my offer.”
+The rinpoche folded his arms.  “In your shoulder there is a small capsule…a friend, no doubt?  Someone you rely on a great deal?”
+Winger froze.  Somehow, the priest had detected the embedded ANAD.  Better not use the coupler now, he quickly decided. 
+He decided to try the bold approach, though he didn’t feel particularly bold.  “What is this place?”
+As if in reply, the rinpoche offered this.  “Your intelligence experts have called me many things…Configuration Zero, the Old Ones, the enemy, the nemesis from the Great Beyond, the Ruling Council…yes, many names.”
+Winger stared hard at the figure.  “You’re Config Zero?  You’re the head of the cartel?”
+Now the rinpoche seemed to grow slightly, as if he were gaining height and bulk right before Winger’s eyes.  A subtle effect, but noticeable…maybe a tactic to intimidate?
+“You and I have met before…many times.  Many places.  And yes, I am what you seek, Johnny Winger.”
+The realization that a single entity—if he could be called that—from who knew where-- was in charge of Red Hammer was hard for Winger to swallow.  Q2 had long maintained files on many cartel operatives, including the Ruling Council: Kulagin, whom he had just talked to, Souvranamh, Dao, Escorial and there were others.  Were they all a single person, a single entity…this entity?
+“I made an offer,” Winger said.  “You have something of mine and I want it back.  You’re holding a small bot…I call him Doc…that’s my offer.  Give me Doc and my partners who came with me…and I’ll give you Quantum Corps…on a platter, if you’d like.”
+The rinpoche considered that.  “A generous offer.  Your partners are on their way as I speak.  As for your friend Doc, I’m afraid that must wait.”
+“Why should I wait?”
+Now the rinpoche looked like a stern schoolmaster.  His eyes scrunched up into tiny blips.  Winger noticed a faint, almost invisible wave wash across the priest’s face and neck…so he was an angel of some type.  A para-human swarm entity, configured to resemble a human being, in this case a Buddhist priest.  
+“Analysis, friend.  We are analyzing what you have brought us.  In time, all of this, you included, will be taken up into the mother swarm.  Your bodies will be broken down into their constituent atoms and re-integrated with the Central Entity.  This is the Imperative…what we call the Prime Key.  You already know these things, Johnny Winger.  The basic organizing influence in the universe is life. Life involves utilizing a flow of energy to draw order from chaos and build internal complexity with an accumulation of information. Living beings thus are anti-entropic, or negentropic, entities. The principle of negentropism is, in a manner of speaking, the "natural law" applicable to all living beings located anywhere in the universe, regardless of their size, shape, biochemistry, sentience, or culture.”
+Winger decided he didn’t like the sound of any of this.  “And my offer…what of it?”
+Now the rinpoche seemed to be speaking a well-rehearsed speech, almost like some kind of programmed output.  “Your offer is a generous one.  It is also quite irrelevant.  Earth was seeded by my progenitors billions of years ago.  But the evolutionary track which was laid down on Earth was interrupted or disrupted and evolution took a different course.  Multi-cellular single-configuration organisms took over.  Earth was to have been populated by swarms of intelligent, re-configurable virus-like entities.  Instead, today it’s populated by human beings.  Man is a mistake. 
+“We have come to correct this mistake.  The Imperative demands this.”
+Sometime later, when he thought about the details of this very moment, Johnny Winger could not truly say what spurred him into action.  Maybe it seeing the welcome faces of Mighty Mite Barnes and Taj Singh, materializing right out of the cave walls, startled themselves, shaken, not sure what was going on, but glad to see their commander.  Maybe it was what the rinpoche had said.  Maybe it was that even as he spoke, the rinpoche was spalling off a stream of bots from his hands which drifted slowly but steadily toward Winger.
+Nobody’s taking this crew up into some big swarm if I can help it, he told himself.  He made a quick tapping gesture on his shoulder, a gesture well understood by the other nanotroopers.  It was code for launch…launch embedded ANADs now!  Get your bots going before this bastard eats us for lunch.
+Winger snapped open his coupler link and got his own embedded ANAD initialized.  “ANAD, configure emergency launch…config C-1, max rate reps…all effectors to state one and prime disrupters!”
+***ANAD initializing now…my disrupters are primed…effectors going to assault state one…open the door, and let me at ‘em***
+In the moments that followed, Barnes and Singh did likewise, popping their own embeds out of shoulder capsules and setting the ensuing swarms to assault the thing that had been speaking to them from the firepit as the rinpoche was even then breaking down from human-like appearance and forming up a massive fist of a swarm, swollen and pulsing, magenta and orange and glowing red-yellow, as it grabbed atoms like a brickmason on steroids and swelled to encompass the entire cave.
+The two swarms engaged with a flash and sizzle of light, all in silence, the line of engagement whipping through the air like a snake on fire.  Winger decided to get down with ANAD and drive the assault himself.  He knew this ANAD was a barebones assembler and didn’t have the smarts or the capabilities of earlier versions.  Same for Singh and Barnes.
+“I’m going small…cover me!”
+“Will do, Skipper!” Barnes called back.  She was still unsteady from the sudden transport into the cave from the cell where she and Singh had been kept, but the pop and flash of nanocombat got her brain unscrambled and she waded into the enemy swarm with enthusiasm.
+It was a molecular battlefield unlike any they had ever encountered before. 
+That’s when she first saw the enemy.
+Long-range scan wasn’t that helpful.  She could tell from the acoustics that the bots that made up Configuration Zero were arrayed as inverted pyramids, joined at their apexes.  A ring of effectors and propulsors wrapped around the equator of the bots, like a girdle with a dozen arms and hands.  Atom groups hung off the main structure like bunches of grapes, cleaving, folding, extending and retracting at blazing speed.
+The swarm had materialized like a malevolent fog and was already turning in her direction.  Barnes realized that one titanic collision was about to occur but she had to cover the Major, while he went small with his own ANAD.
+Hope my guys are ready for the big dance.
+The final distance was closed in less than five minutes.  Barnes waded into the fight with bond disrupters sizzling.
+Fighting bots in the land of atoms was all about leverage.  Kind of like ballroom dancing, with fists, Barnes had once remarked to Winger.  
+The first bot came up and Barnes gave it a taste of her bond disrupters.  The electron discharge snapped off a few effectors and sent the thing spinning off into the distance.  But no sooner had she done that than a squadron of them fell on her and she found herself engulfed in  no time.
+Barnes had learned a thing or two about her effectors in the months since her last encounter with bad bots.  The secret was to keep your propulsors churning, keeping driving forward, keep your energy up.  If she did that, she found she could slip out of almost any grapple and brain a bot with whatever effector was free.  She particularly liked her carbene grabbers and she had developed a dance step she liked to call the kiss and clobber…she’d let herself be grappled, momentarily shut off her propulsors and almost relax.  When the bad guy had retracted and moved in for the kill, she did a quick left-right spin, fired up her propulsors and slashed right across the bot’s mid-section—where most of them had fewer effectors—knocking the bejeezus out of the thing and pulling free to pinch and slash some more.
+It worked every time.  Barnes had in the meantime gone to max replication and the melee was underway.  All up and down the line of engagement, like a collision of bird flocks, the swarms engaged…twisting, slashing, grabbing, zapping.  Slowly, using her new maneuvers, Barnes was able to push back and contain the enemy swarms.
+“It’s working, Major!” she exulted over her coupler link back to Winger.  “It’s working!  These bozos are getting smacked and spanked like you wouldn’t believe!”
+Johnny Winger’s voice was distant but reassuring.  “I believe it …I believe it…I told you it would work, Mite.  Just keep after ‘em…I’m reading mass fluctuations at the margins…that means your guys are holding their own.  Try your enzymatic knife when you get in close.”
+So she did.  Everything she tried worked.  Maybe the enemy bots were slow.  Maybe their configs were all wrong.  Whatever it was, Mighty Mite Barnes found she was winning a battle she’d never dreamed she would have to fight.  This wasn’t half bad, this living like an atom.  You had to watch your momentum and things stuck to each other like glue.  Van der Waals and Brownian motions were a bitch, but it was the same for the enemy.  
+Leverage and momentum, that was the key.
+Then she heard a strangled cry from Taj Singh.
+The Bengali trooper had come up out of nano view and was fighting off an enveloping arm of Config Zero bots, swirling around his head and shoulders.
+“I can’t hold structure…I’m losing ANAD!”  
+On Singh’s corneal viewer, lights and alarms flashed red.
+
+***Hydrogen abstractors FAIL***
+***Pyridine probes FAIL***
+***Carbene grabbers FAIL***
+***Propulsors 1 and 2 OFFLINE***
+
+The swelling arms of the enemy swarm reached out and collapsed around Singh’s head.
+“Arrrggghhh!   Get ‘em off me--!!”
+Barnes was the first to react, Winger right behind her.  The troopers waded into the midst of the swarm, flailing and swatting and waving at the bots.  Winger wished to the heavens he had a HERF pistol but their captors had made sure they were clean on the ride up to Paryang.  Only their own embedded ANADs would give them a chance.
+“Skipper, I’m losing function too now…what the hell’s happening?”
+Winger had seen the same thing.  “This bastard’s faster than the replication algorithms we have…he can out rep us, out maneuver us, out grab us and out punch us—“
+“I had ‘em on the run,” Barnes complained.  “I was on top of the situation—“
+“Config change, Mite…that’s what it is.  This Bug King can change configs on a whim…just like that.”
+Slow but steadily, the Configuration Zero swarm was moving in, swelling, expanding, parrying every move they made, every tactic they could think of.
+Winger tried Barnes’ kiss and clobber, the hokey-pokey, any tactic he could think of, but the result was the same: Config Zero was just too fast and too agile to stop.  The chamber of the cave was becoming a suffocating tomb for both of them…and Taj was lost.
+The Bugs had already made atom fluff of the Bengali trooper.  Winger knew he’d remember Taj’s screams in his earpiece for a long, long time.  Through the blinding flash of nanomech hell, he could see the miniature hurricane that was Taj Singh, now fully enveloped and cocooned in thickening mist.  It was like a tornado of bots had descended on the trooper and consumed his  body, starting with the head.
+He didn’t want to look any more.  There was nothing more they could do for Taj now.
+Hope Lord Shiva has mercy on you, buddy…we’ve got our own hell to fight.
+Now it was clear that Config Zero was moving in Barnes’ direction.
+“Wish to hell we had HERF!” she cried.  “I could make quick work of this jellyfish—“
+“Go small, Mite…get back to your ANAD…that’s the only way you’re going to be able to fight them off!”
+She did as Winger said and went ‘over the waterfall’ but it was like watching a tsunami heading right for you…trillions of bots maneuvering for the kill and her own ANAD seemed powerless.  When the first FAIL alarms sounded, she figured she was done for…
+“Skipper…Skipper, I think this is it…!”
+Winger had been scouting around for Doc as he battled Config Zero.  “Come on, Doc…come on, where are you?”  He pinged on every coupler channel he could find…nothing.  Static and garbage, until…until…wait a minute….
+***…ounding dense configs ahead…is that you, Base…Doc broadcasting… all channels, Doc signaling in the clear…any station, any station…***
+“Doc…is that you…where the hell are you?”
+***Configuration Doc receiving…Base, I’ve got your signal…very faint…keep transmitting this channel…I will try to home on your signal***
+Winger continued talking, all the while grappling and tussling with every enemy bot he could find.  He toggled off a few different configs, tried new things, added a grabber here, a probe and effector there, whipped and spun and danced like a dervish, but without effect, so far as he could see. 
+Barnes’s voice was weakening.  Already, she was on the floor, writhing and kicking, fully enveloped in a bot cloud…she was holding her own, using every tactic in the book, cycling in and out of nano view, but it was only a matter of time.
+An idea that Johnny Winger had once entertained late at night, lying in his bed, with an early  version of ANAD came back to him.  It was crazy.  It was suicidal.  But it might be the only way to save himself and Barnes.   
+“Doc…Doc, remember when I talked with ANAD 1.0 about being assimilated?  Just as a tactical move, you understand…jeez, my own memory’s kind of shot on this.  Do you have a record of that log entry?  I uploaded all those logs to you a long time ago.”
+***…analyzing interrogative statement, Base…scanning primary memory now…seeking…seeking…perhaps this is it…?***
+
+Interactions Log
+File No. 155790.0
+C.F.A.A. (DocII)
+Interaction Targets:  1. Winger, Major J. A.
+Interaction Mode:  Acoustic, voice synthetic V-22
+Date: 06.22.49
+Start Time:  087561
+End Time: 110234
+Final Output File (text analysis):
+
+<<Subject: Configuration: Winger, J>>
+<<Config Winger, J has expressed renewed interest in assimilation techniques, in accordance with original concepts of Symbiosis Project.  Primary method is detailed in report file appended to this Log entry: Symbiosis of Human and ANAD Systems Using Nanoscale Disassembly and Reconstitution, 7 January 2045, Dr. Irwin Frost, Autonomous Systems Laboratory, Northgate University.   This report file was first reviewed by Config Winger during time interval 097440 - 097558.
+<<PLAY audio file: Voice Recording: “I’ve been thinking a lot about this, Doc… …you disassembling me into constituent atoms and molecules, then reconstructing me according to a new template.  But the thing is, see, that I would die.  I wouldn’t be me.  I’d be somebody… or something else.  I kind of like being me, whatever that means.
+‘But I can’t help wondering…maybe this is the way to go.  There are so many angels and botswarms among us now.  You can’t go anywhere, meet anyone, do anything, without running into them.  We’ve let them take over…Config Zero was right…the Prime Key has been activated.  Evolution’s taken a new turn and nobody knows where it’s taking us now.
+‘And that’s scary.
+‘I haven’t talked to anybody about this yet.  I need to do that…it wouldn’t be fair to go through assimilation and not tell somebody…maybe my family…I’m pretty sure they’d notice something different.
+‘Doc, I’m pretty sure I want to do this.  Let me talk with General Kincade, maybe somebody at the Infirmary can help too.  Create a procedure with vids and all so I can show them what’s involved.  Maybe we can do this together.
+‘I just need somebody to convince me I’d be doing the right thing.’
+<<END Audio File.  Procedure 1023381 downloaded.  Video stream generated.  Assimilation config driver enabled and primed.  Analysis continues>>
+
+End Output File
+
+After listening to Doc’s recording, interrupted by strangled screams from Mighty Mite Barnes, Johnny Winger knew what he had to do.  The way forward was suddenly clear; he’d been avoiding it for months now, but Config Zero and the reality of what Red Hammer had become and what Paryang was all about made it inevitable.
+There was really no other way, no other decision.
+“Doc, I hope you’ll forgive me…”
+Winger knew they needed help, ideas, something, anything.  Doc Frost may have an idea. ANAD should still have the basic program in memory.  His old mentor usually could be counted on for logical suggestions.  He tapped a button on his wristpad,  pinching off a small element from the ANAD swarm.  He managed to drag Barnes out of her scrum and got her to her feet—she was pale and unsteady—but still in one piece.  While he and Barnes steadied themselves, hiding behind at outcrop of rock, and took stock of the situation, a small sparkling mist issued from the perimeter of the battling bots.  In moments, the mist had formed the faint outlines of a face—it was Doc Frost’s face—in the blinding glare of the light, the face was hard to see, but Winger knew it was there.
+“Doc, we need help…that thing replaces bots as fast as we fry ‘em.  We’ve got no HERF guns, nothing really…any ideas?”
+***Johnny, the entity is a formation of nanobotic elements, density greater than 10exp15 elements per cubic centimeter…such density has never been encountered before by this system.  I don’t see how normal operations are even possible at that level of concentration…perhaps you could grab a few elements for analysis?***
+Winger almost laughed at that.  “Not bloody likely, Doc…not in that inferno.  It keeps expanding…”
+***Analyzing all known tactical scenarios now…perhaps if you loosened enough rock along the seams of the cave ceiling…you could bury or distort the formation, at last for a short time…I have no other options at this time, Johnny…sorry…***
+The Doc Frost face faded momentarily and was lost in the glare.  Winger wondered if ANAD…or Doc II, would even work properly in such close proximity to Config Zero.  There had been issues with ANAD reliability during missions before, when operating near the Spheres.  
+Winger pressed the CAPTURE button on his wristpad and the image of Doc Frost faded to nothing, as the bots drifted away and dispersed.  At that same moment, Barnes’ voice erupted over the crewnet.
+“Major…look!  It’s changing…it’s--!”
+The sun-like core of the Config Zero swarm had stopped expanding and dimmed slightly, but more importantly, a portion of the orb the size of a head had separated and was drifting freely toward them.  The ball of light pulsed and throbbed and roiled like a miniature star as it settled onto a small ledge below the cave opening.  Winger had to remind himself they were probably not in a real cave. 
+“What the ---?”
+Even as they watched, the small lightball was changing before their eyes, dimming fast, swelling and stretching, like a flaming sheet unfolding.  It unrolled itself like a blanket on fire.  Now, images began to appear on the ‘blanket’, as if it were a screen.  Images unspooled at high speed, colliding and mixing in a chaotic flicker.  Soon enough, the images began to stabilize.
+Johnny Winger was stunned to see a passable impression of old Doc Frost, hanging in mid-air, framed by a backdrop of a screen burning around the edges.
+“What is it?” Barnes said.  
+“Some kind of simulation,” Winger told him.  “It must have grabbed some of files ANAD used to project Doc Frost…and modified them.”
+Now the Doc Frost thing was talking, its mouth and lips were moving, as if a film strip were playing.  In the backdrop, colliding images appeared and disappeared in dizzying profusion….desert sandstorms, fires burning out of control, volcanic eruptions, asteroids impacting a surface, earthquakes, landslides, tsunamis.  A litany of disaster.
+The voice, when it came, was a scratchy, out of synch rendition of Doc Frost, recognizable but thick, slurred, reverberating with echoes and overtones.  
+Winger and Barnes strained to hear….
+“…when the Central Entity arrives…this I have known for many years, Johnny…ever since I extracted the viral genome at Engebbe and inserted it into ANAD—“
+Winger felt a chill go down his back.  “Somehow Config Zero’s created a likeness of Doc Frost…it’s using that to communicate….”
+“Looks like a history class I had in school,” Barnes muttered.  “That’s pretty much how I remember it, too…all jumbled up and confusing, dates and places and names.”
+“You may be more right than you think.  Listen—“
+Frost narrated, not a history, but a plan.  Winger realized that Config Zero was illustrating what was to come.  It was all there, the knowledge of the Old Ones and their plan, embedded in the genome of every ANAD system created since the first one.  Frost told them that it taken years for him to realize that, years of decrypting and analysis, guesses and backtracking, before he had put the whole story together….
+It was called the Imperative.  And it was driven by a massive algorithm known as the Prime Key.
+The first phase was a purge, purging Earth of all non-Prime Key lifeforms… all life and living systems.  The preferred way would be to disassemble all lifeforms into their constituent atoms and molecules.  A form of mass Assimilation, starting with deconstruction. This was the rationale behind Symborg and the philosophy of Assimilationism, created, aided and abetted by Config Zero.
+Once this purge was finished, the next step would be re-engineering the Earth’s surface to be more compatible with swarm-based life...the oceans would be eliminated and all the Earth’s surface ‘locked’ into a geologically stable state, providing maximum surface area for swarm activity and growth.  Also, the stable point temperature of the Earth would be raised…an enforced climatic change similar to what Humans were doing now on the Earth, unwittingly helping the Old Ones along.  This would provide a consistent environment conducive to swarm growth and activity.  The Earth would become, in effect, an incubator or giant Petri dish, to incubate this new kind of life.  
+Coincident with geoengineering the Earth’s surface, new forms of life, initially similar to early ANAD, similar to ancient viruses, would be seeded and allowed to evolve at the maximum permissible rate consistent with these environmental changes.  This would help bring Earth life up to the development level of the Mother Swarm, in terms of architecture, processing capability, memory, quantum comm links, and overall programming.  
+The final phase was Integration.  Re-evolved Earth life forms would be fully absorbed into the Mother Swarm.  Once this process was done, the Earth and all planetary objects in the Solar System would be disassembled to provide feedstock for the Mother Swarm, to continue its advance across the galaxy.  In other words, the Petri dish would be destroyed and the incubator shut down.  The Imperative drove the Mother Swarm onward.  
+“…Johnny, all this was there from the beginning.  I just couldn’t read it.  The whole story was embedded in that genome.  This strain of virus came from the Old Ones, they seeded Earth with it.  And I used it to add to ANAD’s capabilities…every ANAD system since then has had this story…but we just didn’t know it….”
+Now the Doc Frost image seemed to lift away from the burning sheet and take on three dimensions, becoming an even more realistic likeness of the ANAD creator.  Framed by the glow from the core of Config Zero behind it, the simulacrum of Doc Frost offered a faint smile, its face only slightly blurred and out of synch.  Frost was saying something else….
+“…the time has come, Johnny.  It’s time to decide.  I’ve shown you the future.  I’ve shown you what must be.  It’s time to be part of it…time to be assimilated….”
+Frost went on to describe assimilation as if it were the most natural thing, just an extension of all that had already happened.  
+Barnes wanted no part of the idea.  “Count me out, sir.  I like my body the way it is.  I’m not going into no booth and becoming atom fluff, no sirrreee.”   She started backing out of the cavern, backing up the slope, stumbling slightly as he did so.  Rocks and gravel cascaded down behind him.   
+Winger stayed put.  Was this a one-way story or could he have a conversation with this nightmare?  
+“I don’t know, Doc.  You’re starting to sound like the wackos you see on vids...  ‘Deconstruction is the future…it’s cool to be a multi-config entity, you can go anywhere, be anything, you can’t die.’  I’m not so sure….”
+Barnes halted her climb.  “Major, we need to get out of here.  If that thing blows, we’ll be trapped.  Or incinerated.  We can’t fight it.”
+Frost was still talking, now answering Winger, though he knew it was really an algorithm inside Config Zero.  Or something like that.  
+“…all these things are true, Johnny…but the greater truth is something you’ve always known…you and I have discussed this before…it’s the nature of Life itself….we’re all nothing but atoms and molecules…your own body is nothing but a swarm of cells, organized into systems and collectives you call organs…the Old Ones are no different, just a greater collective, a collective that spans time and space on a scale you can’t really conceive….
+“I always figured the Old Ones were just something we imagined, something we created.  Sort of a new god, to fit our times.”
+Now the Frost image settled down and assumed an almost grandfatherly look, right down to the wrinkles and the crow’s feet.  It wasn’t the Doc Frost he had known in the past.  This was an older Doc Frost, much older, as if Config Zero were aging the simulation to better correspond with some visceral impression in the back of Winger’s mind.  
+“…let me explain the Old Ones to you, Johnny….first, they are very real…you must accept that…they’re not some imaginary creation of billions of lonely and troubled minds, as some  theologians have said… the basic element of the Old Ones is what you have always called a nanobot.  An autonomous, nanoscale assembler/disassembler of incredible sophistication and complexity.  
+“Nobody knows how the Old Ones came to be, not even the Old Ones themselves.  As an organized superorganism of bots approximately half a light-year in extent, the Old Ones have existed for a substantial fraction of the age of the Universe.  Some scientists have estimated 6 to 8 billion years old.  
+“The Old Ones were instrumental in seeding Earth with self-replicating molecules that eventually evolved into living organisms, although the evolutionary track went awry.
+“Make no mistake, Johnny, the Old Ones are a true superswarm of vast proportions.  In size and extent and connection density, it exceeds the complexity of all the human minds that have ever lived on Earth combined.  It is a thinking sentience, whose true environment is interstellar space.  
+“The Old Ones have no known head or leadership group or body.  However, the term Central Entity has been used by Config Zero to refer to the Old Ones.  Also, the term Mother Swarm has also been used.  
+“Nanobotic elements of the Old Ones engage in some specialization to ensure that the swarm survives and the Central Entity is maintained.  Bots can specialize in such tasks as logical processing, communication, maintenance, archiving and memory, internal transport, navigation, world-seeding, orientation, etc.  
+“Part of the Old Ones swarm is organized as a vast logic array or processor, capable of quantum computation on a stupendous scale.  Effectively, this could be considered the Central Entity, perhaps even a galactic scale CPU.   But the truth is that the Old Ones are a true collective entity whose behavior evolves from relatively simple rules applied to a vast congregation.  Most sentience and observable behavior emanating from the Old Ones is emergent from the complexity and scale of the nanobotic connections.  
+“It’s not too farfetched to consider the Old Ones as a sort of galactic brain, although it certainly doesn’t encompass the entire galaxy.  
+“But the important thing is this: the Old Ones have an Imperative of Life which compels them to grow and expand the swarm.  Ultimately, they want to unite all world-based instances of swarm life which they have seeded into a giant, galaxy-spanning swarm or hive mind (like a neural network or computational cloud).  To the Old Ones, this is the Imperative of Life itself.  The Imperative of Life is that life absorbs chaos from the Universe and adds or builds structure or order.  Life is anti-entropic.  
+“In order to get their heads around the idea of the Old Ones, some descriptors our scientists and Assimilationist media have used have been: galactic brain, interstellar neural network, computational cloud, galactic internet, and universal web.  The basic organizing principle or topology of the Old Ones isn’t important now.  
+“The general physical dimensions of the Old Ones swarm have been estimated to vary anywhere from a few billion kilometers in breadth to about half a light year.  Cosmologists say that very few organized structures in the Universe are that big.  Astronomers point to some nebula, gas and dust clouds, even black holes as objects of that dimension or larger.  Some of our cosmologists may question whether the Old Ones are truly alive in a traditional sense.  Even our biologists could say the proven existence of the Old Ones stretches the definition of life and sentience nearly to the breaking point.  
+“The Old Ones can manipulate quantum states of the subscale fine structure of space itself to communicate and affect matter at great distances. The Red Hammer cartel is only one of many instruments they have been using to achieve their purposes.
+“So you see that the future is fixed and determined, Johnny.  It’s time for you to be part of that future.”
+Winger looked behind…Barnes was still there, clinging to a rock outcrop, fingers poised over her wristpad.  She fidgeted, motioning for Winger to come on, her hands extended out to help.
+The truth was that Winger felt his whole life had been leading to this very moment.  That made sense, didn’t it?  That could happen, couldn’t it?   For over a year now, he had battled with and against ANAD bots.  Now the thing wanted him to become one, or at least become a swarm of bots.  Maybe Doc Frost was right…maybe this was the future.  Maybe this was his future.  His Mom was gone.  His Dad was gone.  Brad and Joanna had their own lives.  The North Bar Pass Ranch was gone.  What did he have to go back to?
+“Sergeant,” he called up to Barnes, “get out of here. Take Doc with you.  I’ve got to face this thing.”
+Barnes looked incredulous.  “Major, don’t be crazy.  We can blast this thing.  We can beat this thing.  Give me your hand—“
+But Winger knew the decision was here and the time was now.  “No, Barnes, get your ass out of here.  Tell General Kincade and all the guys in 1st Nano, this is personal.  It’s something I have to do.”
+“Major, no one expects you to be a hero.  You can’t fight off that cloud of bugs by yourself…let us help.  Live to fight another day…”
+Winger had made up his mind, sort of.  “Barnes, get lost!  That’s an order!”  He looked back at Mighty Mite.  For a brief moment, they glared at each other: Barnes…ready to get on with the mission, young, full of tactics and courage and Winger…worn down now, wiser but resigned to fate, facing the hardest decision of his life.
+Barnes backpedaled and hauled herself toward a nearby cave branch, her face glowing red and blue-white from Config Zero’s glow.  “Have it your way, Major.  But I’m not going anywhere until you come too.”
+Winger shrugged, then turned to face Config Zero, the Doc Frost image fading fast.  Soon, only the blinding brilliant orb hung in the air in front of him.
+Time to have a chat with Doc.  The Doc II swarm was still embedded somewhere in the enemy swarm. Winger had jeopardized his career and his life and the lives of others to come to Paryang and rescue the bot.  It was nuts, when you thought about it.  Winger decided to open a comm channel.  He cocked his head just so, and the connection was made.
+“Doc, for once in my life, I don’t know what to do.”
+***Johnny, the entity is generating decoherence waves at a high rate…a quantum displacement event may be imminent…recommending you evacuate the cave if possible and achieve minimum safe distance of one thousand meters***
+“Doc, I can’t do that.  I came back for you.  This thing wants to assimilate me, deconstruct me.  You saw the imagery same as me.  Maybe that’s the best way to fight this bastard.  Go small and go inside, fight from inside.  What do you think?”
+***Major, we have had two thousand four hundred and one exchanges on the subject of single versus multiple configuration entities.  Multi-config has many advantages…would you like me to enumerate them?***
+“No, that’s okay.  I just don’t know if I want to do this.  For over a year, I’ve been fighting Bugs.  Now, maybe it’s time to become one.  I guess I need some encouragement, some rationale that says this is the right thing to do.”
+***Perhaps your concerns relate to a fear that your essence, your unique identifying molecular patterns, will be lost…that you will cease to be you, but rather will be a small part of something much greater.  I can cite many articles, papers and theses dealing with the psychology and neural substrates of these fears, if you would like***
+“Doc, you just said something…my unique patterns…is it possible to be deconstructed and still somehow retain those patterns?  Could I be a cloud of Bugs and still be me?”
+Now it was Doc II’s turn to ponder.  The comm channel was silent and Winger wondered if the connection had been lost.  Maybe Config Zero had detected and shutoff the link.  
+“Doc--?”
+***Your question is in processing at this time…please wait for the analysis…the question was studied as part of a research project by Doctor Irwin Frost from 12 June to 3 August, 2047, at the Autonomous Systems Laboratory.  Evaluating archival references, referencing paper 47-105-1 “Incidence of Long-lived Engrammatic Trace Patterns in Neural Tissue.”  From the Conclusions paragraph…’…unique molecular configurations can be maintained if—‘***
+“Doc, give it to me in plain English, please.”  He eyed the glowing sphere, which seemed to be again slowly expanding, drifting toward him.  Winger backed himself up the incline a few meters and reached for his non-existent HERF carbine, more out of instinct than anything else.  
+***Summarizing the conclusions of this and related papers, the answer to your question is a qualified yes…Dr. Ryne Falkland demonstrated that a unique neural pattern impressed on a physical substrate of tissue can be maintained by imposing a buffering field…I will show you the vid of his presentation to UNIFORCE on 10 August 2048… ‘it’s something I call a ‘memory field.’  Kind of a new config pattern emitter and buffer.  Plus we’ve tweaked the algorithms.  The whole idea is to perform a normal disassembly, then the resulting atomic debris is held in a special containment field that keeps the relevant atoms in close proximity. The field maintains a ’memory’ of the original configuration.  This memory field is a completely new design, in which all the original atoms and molecules and their bond energies and geometries are stored and used to re-construct the original***
+Winger watched the vid unfold on his eyepiece.  By the time it was over, he had made up his mind.  “So it is possible.  Doc, I want to be deconstructed.  I want you to do it.  And I want you to try this technique Falkland talks about.”
+***Major, I am contained inside a protected, encrypted section of the Config Zero swarm…I may have truncated abilities and, there are inherent risks in applying this memory field.   I must check my files and determine that I have the correct modules to execute this procedure.  If I have these files, the risk factor is still quite high…estimating probability of success at about forty-five percent.  I may not be able to re-construct you with a high level of fidelity***
+“I hear what you’re saying, Doc.”  The Config Zero sphere was now only a few meters away, its roiling surface flicking tongues of fire at him, but all of it in silence, save for a growing buzz in his ears.  “Doc, I have to do this.  I’m going to enter the Config Zero swarm, try to find you.  When I’m close to your position…if I get there and survive…execute disassembly operation…execute memory field procedure.  Make me a cloud of bots, Doc—and hurry up, will you?  I don’t want this bastard to swallow me first.  One way or another, I’ll get you out of there.”
+He sucked in his breath, counted to five, and dove headfirst into the hurricane that was Config Zero.
+***Executing configuration C-2 breakdown now…spinning up all effectors…bond disrupters primed…memory field enabled…here goes, Major…wish me luck…***
+Winger had only thoughts of his Mom and Dad as he let Config Zero swarm over his body.  In seconds, he was fully enveloped and he could already hear and feel the sting and the high keening buzz as the bots chewed into the outer layers of his clothes and skin.
+“I hope to hell this doesn’t hurt too much,” he said to himself.  
+The Doc II swarm then executed the diversion maneuver it had been programmed with from the days of its first algorithm loading. 
+The entire process would take about five minutes.  Just as the final phase of dematerializing was done, the fiery sphere of Config Zero swelled outward and swept up the incline, consuming every remaining atom that had once been Johnny Winger.
+Doc II managed to exit his encrypted containment field and maneuvered toward the remnants of Johnny Winger.   The bot executed the algorithm that would grab Johnny Winger, what was left of him, and hold the residual atoms firmly in place.
+Now, only the memory field remained.  The Doc II swarm compressed the field and hid it in a small file labeled ‘Configuration Buffer Status Check,’ adding a few extra bytes to a seemingly innocuous file, hoping that Config Zero would never notice the extra bytes.  
+All that had once been Johnny Winger was now contained in this file.
+And Doc II knew that somehow, some way, this file would have to be maintained, if there was ever to be any chance of defeating Config Zero.  
+Strong configuration fields tore and buffeted Doc II as it began to be fully re-absorbed into the greater swarm of Config Zero.  Bonds and links were broken down, atoms were rearranged and new geometries were formed as new patterns and configs were quickly imposed.  
+But Doc II knew a few tricks of his own.  
+And Mighty Mite Barnes had just returned to the chamber herself. 
+
+TO BE CONTINUED
+
+About the Author
+
+Philip Bosshardt is a native of Atlanta, Georgia.  He works for a large company that makes products everyone uses…just check out the drinks aisle at your grocery store. He’s been happily married for 25 years.   He’s also a Georgia Tech graduate in Industrial Engineering.  He loves water sports in any form and swims 3-4 miles a week in anything resembling water.  He and his wife have no children.  They do, however, have one terribly spoiled Keeshond dog named Kelsey.
+For technical and background details on his series Tales of the Quantum Corps, visit his blog at http://qcorpstimes.blogspot.com.  For details on other books in this series, visit his website at http://philbosshardt.wix.com/philip-bosshardt or learn about other books by Philip Bosshardt by visiting www.smashwords.com. 
+Download the next exciting episode of Quantum Troopers from www.smashwords.com.  It’s called “Paryang Monastery.” Available on March 13, 2017. 
+To get a peek at Philip Bosshardt’s upcoming work, recent reviews, excerpts and general updates on the writing life, visit his blog The Word Shed at: http://thewdshed.blogspot.com.

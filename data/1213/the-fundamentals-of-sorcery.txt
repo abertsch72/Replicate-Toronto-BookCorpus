@@ -1,0 +1,1399 @@
+﻿SMASHWORDS EDITION
+PUBLISHED BY:
+Paul Edwards on Smashwords
+
+The Fundamentals of Sorcery
+Copyright © 2011 Paul Edwards
+All rights reserved. Without limiting the rights under copyright reserved above, no part of this publication may be reproduced, stored in or introduced into a retrieval system, or transmitted, in any form, or by any means (electronic, mechanical, photocopying, recording, or otherwise) without the prior written permission of both the copyright owner and the above publisher of this book.
+
+This is a work of fiction. Names, characters, places, brands, media, and incidents are either the product of the author's imagination or are used fictitiously.  The author acknowledges the trademarked status and trademark owners of various products referenced in this work of fiction, which have been used without permission. The publication/use of these trademarks is not authorized, associated with, or sponsored by the trademark owners.
+
+Smashwords Edition License Notes
+This ebook is licensed for your personal enjoyment only. This ebook may not be re-sold or given away to other people. If you would like to share this book with another person, please purchase an additional copy for each person you share it with. If you're reading this book and did not purchase it, or it was not purchased for your use only, then you should return to Smashwords.com and purchase your own copy. Thank you for respecting the author's work
+
+The Fundamentals of Sorcery
+
+Chapter one
+
+Terri and I had rented a large secluded house in Miami. The house had a pool in the backyard, which was surrounded by a number of large shady trees. The perimeter was lined with expensive Italian tile.
+I was looking through the large sliding glass doors that led out to the backyard. Terri was lying on a large comfortable deck chair under one of the shade trees. She had on a bright red bikini and was sipping a margarita while reading the latest issue of Cosmopolitan magazine.
+Terri had become heavier in the three months we had lived there she no longer had the fit and toned body she had had when I first met her. 
+It was not a surprise to me though since all she seemed to do lately was lounge around the pool reading magazines and drinking margaritas.
+The extra weight hadn’t diminished her beauty however, she now resembled a pinup model from the nineteen fifties.
+I opened the sliding door causing Terri to look up from her magazine.
+“I’m off to the university, are you sure you don’t want to come?”
+“I’m good, maybe some other time,” she replied.
+I knew the some other time would probably never come, she was happy with the level of her skill in transcendent technology and felt no need to increase it. I did not feel the same way.  
+Since we had arrived in this alternate universe Terri and I had tried to be as inconspicuous as possible. We had been able to earn a living by copying a small plain platinum ring over and over and selling it to various pawnshops. 
+We were careful not to sell any of the rings in Miami using the doorway app to travel to other cities.
+This had given us more then enough money to live quite comfortably and enabled me to hire one of the graduate students from the local university to tutor me on the finer points of writing software algorithms.
+I closed the sliding door and walked through the house and out the front door. I took my car keys from my front pocket and walked over to the one extravagance we had purchased, an eight-year-old Porsche nine eleven.
+Terri loved small fast sports cars and refused to drive anything else. I got into the Porsche and started it up. I had to admit the engine note always caused goose bumps to appear on my arms.
+I backed out of our driveway and headed for the university.
+
+It took me about fifteen minutes to make my way my tutor’s small office on the campus of the university. He was a young thin male dressed in what I guessed the entire hip and broke intelligentsia thought was trendy.
+ He was wearing jeans that looked like they had been used as a washrag and a T-shirt with an undecipherable phrase written on in it, the letters all in different fonts and sizes. 
+The whole uniform was completed with long hair stiff with mousse and rectangular black plastic glasses that must have been close to functionally useless because of the small size of the lenses.
+“Hello Rip,” I said
+“Oh hi James,” he said looking up from his laptop.
+Rip was a PhD candidate in computer science, his thesis had something to do with artificial intelligence. He had tried to explain it to me once but he had been so obsessed with describing the minutia of it that I had lost all interest.
+“I guess we could finish up on how to write algorithms without using loops, I have some questions about a few of the examples in the textbook,” I said to Rip as I sat down across on the chair in front of his desk.
+“We have gone about as far as we can in theory, you’re going to have to buckle down and choose a language to work with in order for us to progress,” Rip said with a perturbed look on his face.
+We had been having this discussion or argument a lot lately. Rip could not conceive of a person who just wanted to learn theory and thought that my reluctance to actually pick a computer language stemmed from an inferior intelligence.
+I couldn’t tell him that I actually had a language, Transcendent technology. I wouldn’t have dreamed of telling him that. The thought of such an impersonal and arrogant person having access to this ability was enough to make me nauseous.
+“As I’ve said before, I am using this for a proprietary geological mining process, computer languages aren’t necessary,” I said.
+“I can’t see how that’s possible, what do algorithms and rocks have to do with each other?”
+Nothing at all, I thought to myself.
+“It’s a secret Rip, if I told everybody how the things I do work I wouldn’t be a multi-millionaire.”
+I could see a repressed look of anger and annoyance pass across his face.  Like most people who felt themselves superior to the other members of humanity, evidence to the contrary was extremely disconcerting.
+“I think that you actually may be right on one count Rip. I think that we may have gone as far as I need. Lets finish up on these questions I have and then I’ll settle the bill.”
+I had been travelling back to the computer Lab in the nexus Jose had created three or four times a week and practising the things I had learned from Rip. 
+With all the stuff I knew now I had been able to create a new Personal Digital Assistant that was almost as powerful as the one Jose had used. The bonus being that I knew exactly how it worked. I also added the one thing Jose had overlooked, it was password protected.
+“Ok,” Rip said. I could tell he was relieved to be rid of me, but I also sensed a reluctance to give up the extra cash I was paying him.
+We spent the next hour going over the questions I had had about loopless programming. Rip was a good teacher and able to break down and explain complex theories in an understandable way. It was unfortunate that his arrogance and superiority complex would never allow him to stoop to teaching as a profession.
+I paid Rip in cash after our hour was up then shook his hand and left. 
+
+After three months of Rip’s training and many hours spent in Jose’s computer lab I now felt confident in my abilities as a Transcendent Technologist. I had even gone as far as to memorize the header and footer codes that were essential in the creation of the algorithms.
+There was one unintended outcome of memorizing the header and footer codes. I was now able to create simple Time Space Windows just by visualizing an algorithm in my mind. It was extremely difficult though and I wasn’t always able to do it.
+I walked back to my car got in and drove home. 
+When I got home I parked the Porsche in the garage and closed the garage door. I walked around the house and through the gate in the fence surrounding the pool. 
+Terri was still lounging in the deck chair, she was pointing the PDA I had recently given her at her empty margarita glass. I saw her thumb move then the glass flickered briefly and was no longer empty, the rim even had a new unbroken line of salt.
+“Hi,” she said when she noticed me.
+“Well I’m done with Rip. I think I have a pretty good grasp of Transcendent code now.”
+“I don’t know how you could put up with that asshole,” she said sipping her drink.
+“I enjoyed needling him plus I got what I wanted.”
+Terri had joined me once for a tutorial. Rip was no different then any other heterosexual male and was immediately smitten with her. Terri had long ago lost any patience with aggressive guys hitting on her and Rip had made things even worse with his superior attitude. 
+Terri had tried to be polite rejecting him but Rip had responded by insinuating that in retrospect she was probably too unintelligent to be a potential mate. She had responded by getting up grabbing her things and leaving.
+Afterwards Rip would ask me about her sometimes.
+“So, I think we’re ready to find our way home now,” I said looking at Terri.
+A startled look crossed her face.
+“I thought that was impossible.”
+“Not if I’m from the same Prime universe as Jose. I also think I can reopen the Time Space Window you came through with what I know now, all we have to do is go through all the doors in the nexus until we find the prime universe.”
+“How will you know if you’re in the prime universe?” She asked.
+I pointed to the watch on my wrist, “Before we left I set this using the using a web page that got its reference from an atomic clock. The prime universe should have the exact same time. There is also one other thing, there will be no duplicate of me living there.”
+“When do you want to start looking?” Terri said. I noticed she had her poker face on.
+“How about tomorrow? I already went around the nexus and spray painted marks on all the doors we’ve already been through.”
+“Ok,” she said, still pokerfaced.
+I went into the house and started making preparations for tomorrow. This time I would be ready for anything. I did not want a repeat of our last journey through the nexus.
+
+The next morning I had to wake Terri up. I had wanted to get going before noon and she had been sleeping in later and later these days. This though, was the first time she had stayed in bed until eleven AM.
+She came downstairs an hour later dressed in blue jeans a white t-shirt and running shoes. She had her PDA in a holster clipped to her belt.
+“Is that all your going to bring?” I asked. I had a large knapsack with everything I could think of stuffed into it, including a nine millimetre browning with plenty of ammunition.
+“Oh I’m sure you’ll have everything I’ll need.”
+I felt a surge of anger rise up in me, “I guess that’s all I’m good for.”
+Terri stared at me, surprised at my anger.
+“Is there something I should know?” she said.
+“No,” I said, embarrassed now.
+“Really? You seem kinda tense, are you sure there’s nothing you want to say to me?”
+I felt a rush of emotion that seemed to come out of nowhere. 
+“All you’ve done lately is lounge around and do nothing, I’ve done all the work,” I blurted out.
+“Did I ever ask you for anything?”
+“No,” I said.
+“So what do you want?”
+I could feel my lips moving as if they were under someone else’s control, “I want you,” they said.
+Terri walked up to me and put her arms around my neck. I felt my own arms go around her waist.
+“Was that so hard James?” she said.
+Terri started kissing me.
+We talked for about an hour afterwards. It was such a huge relief to finally be able to tell her how I really felt about her.
+ “I didn’t tell her that she had been my fantasy girl, that since I first saw her in a girly magazine as an adolescent she had been the woman I compared other women to. 
+“So what do we do now?” 
+“Don’t you want to see your aunt again?”
+“Yes.”
+“So lets go and find the prime universe. I’ll go back to my old apartment and figure out how to reopen the window on the plaque you came from.”
+We jumped into our Porsche and headed for the door to Jose’s nexus.
+
+I had been to the nexus so many times I didn’t need the map to find it anymore. It was in an alley in a secluded area of downtown Miami. We parked the car in a parking garage and headed for the doorway on foot.
+We walked for about ten minutes before we came to the alley. The door was a non-descript metal door. There was no window only a handle and a sturdy looking keyhole. I pulled out the key from my pocket and opened the door.
+We entered a long curved hallway about fifteen feet wide with numerous doorways spaced every seven or eight feet. The walls were wood panelled and had large paintings at various intervals. The floor was covered in expensive looking red carpet.
+When Terri and I had first explored the corridor there had been hyper realistic statues of young naked women between the doorways. The statues had turned out to be time and space snapshots of real people cycled over and over. This was how I had come to meet Terri, I had interrupted the cycle on her statue.
+I had shut off the statues on my many visits here and had taken the platforms they had stood on, which held their transcendent code, in a box in the computer laboratory.
+“The statues are gone,” Terri said.
+“I put them in the lab. I figured I wouldn’t want anybody looking at my naked body without me knowing.”
+“You numbered all the doors with spray paint as well.”
+“Yup, there’s three hundred and twenty of them,” I replied.
+“Well lets try number forty seven,” Terri said pointing to the door across from us.
+I took out a can of red spray paint from my knapsack and sprayed an x onto the door. I put the spray can on the floor beside the door.
+“This is how I mark the ones we go through. I keep track of the environments in notes on my PDA too,” I said to Terri.
+“Very meticulous.”
+I gave Terri a copy of my door key. The key worked for every lock in the nexus. She put it in her pants pocket.
+I took my own key and unlocked door number forty-seven. I slung my knapsack over my shoulder and slowly pulled it open. 
+I peeked through the crack between the door and the frame. It looked like a typical alley in a modern city. I didn’t see anyone so I opened the door all the way. Terri and I stepped through. I closed the door and locked it putting the key in my pocket.
+The alley we were in had only one entrance. I could see modern looking cars going back and forth on a busy road through the opening. The other end was about twenty feet behind us and was blocked by a high brick wall. We were the only ones in it.
+I grabbed Terri’s hand and started walking towards the street.
+“Lets go find a clock,” I said.
+“Where do you think you’re going scum,” I heard a deep voice say behind me.
+I turned around grabbing for my PDA. Terri did the same thing.
+I was looking at a large man with an incredible muscular build. He was wearing a skin-tight blue costume with a large red triangle on his chest.
+Terri pointed her PDA at him and was about to press an icon on the screen when the blue suited man moved so fast all I saw was a blur. He grabbed Terri’s PDA and then slowly crushed it into powder, the fine particles dropping to the ground.
+I whipped up my PDA but he was too quick, I watched as he crushed mine as well.
+
+Chapter two
+
+I grabbed Terri’s hand and we both started running towards the alley’s exit as fast as we could. I heard a whooshing sound and saw the blue suited man fly overhead and land in front of us.
+Terri let go of my hand and tried kicking him between the legs but her foot had barely moved before his hand moved in a blur hitting her in the chest and knocking her backwards. I heard her yelp in pain as she landed on her bum.
+I felt a stab of anger and rushed the stranger throwing my fist forward and hitting him on the side of his head. It felt like I had just punched a concrete wall. The blue suited stranger didn’t even flinch.
+In what seemed like milliseconds he had us immobilized, putting both our arms behind our backs and handcuffing us.
+
+“You got them Alpha Man?”  I heard someone say.
+I turned my head and saw a statuesque young woman walking down the alley towards us, she was wearing a girdle like costume which accentuated her breasts.
+“No problem Liberator, scum like these are powerless once you destroy the electronic link to their evil master,” said Alpha Man.
+“You think they’re just minions?” replied The Liberator.
+“Of course The Dire One would have put up much more of a fight.”
+“Do you think they know where Mr. Zee is.”  
+I noticed she was staring intently at Terri boobs.
+“Umm excuse me, we’re just tourist’s here. What’s this all about?” I said.
+A look of rage crossed Alpha Mans face,” Tourist’s? Don’t make me laugh, how do you explain the devices I destroyed?”
+“They’re umm... just cell phones, we were trying to call 911,” Terri said. 
+“Silence! Stop your lies, where is Mr. Zee!” Alpha Man yelled sticking his face six inches in front of Terri’s. 
+She cringed slightly.
+“Who is this Zee guy anyway?” I asked
+“Silence!” Alpha Man yelled again. He really didn’t appear to be much of a conversationalist.
+I was pretty sure Mr. Zee was another one of Jose’s many alter egos’. He must have created this universe to satisfy some sort of superhero fetish. 
+These superheros must have thought his disappearance was due to a kidnapping. They didn’t know that Terri and I had banished him to 10000 BC.
+“We’ll take these two back to our headquarters. The Blur can interrogate them with truth serum,” said The Liberator.
+With that Alpha Man grabbed Terri and flew away. The Liberator had a look of disappointment on her face as she watched them go.
+“As usual he grabs the chick. Stupid juice monkey,” I heard her murmur to herself.
+She grabbed me around the waist and we both flew off into the sky.
+
+The headquarters of the super people turned out to be a well-guarded mansion on the edge of the large city we had entered.
+There was a thirty-foot high wall surrounding the mansion and what looked like hundreds of surveillance cameras. I also noticed weird looking devices sitting on the ground and attached to the wall. They looked quite dangerous, I assumed they were part of some type of weapon system. 
+The four of us landed on a large stone patio at the back of the mansion.  Alpha Man opened the patios large sliding glass door and roughly pushed Terri through it. I soon followed.
+We were guided down a flight of stairs into a large basement room. One wall was lined with very robust looking jail cells.
+Terri and I were pushed into separate cells and the doors were clanged shut. We were told push our hands through a slot in the bars made for a food tray. They undid our handcuffs.
+“Don’t try anything, there are surveillance cameras pointed at these cells. We can be very nasty if we have to be,” said Alpha man.
+ With that both he and the Liberator left closing the door behind them.
+“Well this is good, what do we do now?” Terri said.
+“I have a plan, but it’s going to take a while. You might as well take a nap,” I replied.
+“What plan?”
+“I don’t want to say anything in case they’re listening.”
+“Ok, I could use a rest anyway. I hurt all over from that superdick hitting me.”
+I heard Terri slump onto the bed in her cell.
+I had a plan all right, unfortunately I had no writing material, and all of my equipment had been in my knapsack, which was still in the alley we had come from.
+I still had my key to the nexus. I used it to surreptitiously scratch the floor of the cell, the floor was made of some kind of hard ceramic tile and the key made no mark.
+I surveyed the area outside the cell and was able to locate the surveillance camera pointed at it. There was one camera for two cells, since Terri’s cell was next to mine I would only have to neutralize one camera.
+I sat on my bed and started to concentrate. I had been able to conjure up TSW’s before after memorizing the header and footer codes but it had been extremely difficult. 
+I had to clearly visualize the entire code in my mind complete with the header and footer codes. It took a long time and a lot of concentration.
+I tried to visualize a TSW in front of the camera with an exit right in front of my right hand. The stress of the situation had made it hard for me to stay calm but after about an hour I heard a familiar snapping sound. 
+I looked down and saw a TSW in front of my hand, the camera lens was just inside. I pushed the lens about forty-five degrees to the right.
+I had visualized a five second TSW so it disappeared right after I pushed the lens away.
+I looked up at the security camera on the wall, it was now pointing at the two cells beside ours.
+I hoped whoever was monitoring the cells wouldn’t notice the change in camera angle or the fact that our cells now appeared to be empty. I had been a security guard once when I was going to college. I knew it was a boring job and that people looking at monitors usually only noticed movement or that the monitor was broken.
+I visualized a new TSW, this time a large one that would enable me to leave the cell, it was slightly easier this time and only took about twenty minutes. I stepped through and was free.
+“Terri,” I whispered while tapping on one of her cell bars.
+“Huh?” she said waking from her nap,” Wow that’s impressive, how did you get out?”
+“You’ll soon see,” I replied
+“It only took about ten minutes to visualize a TSW for Terri. If I had known how much I would improve at doing this I would have practised more.
+Terri stepped through the TSW and out of her cell.
+“You can create them just by thinking?” Terri asked.
+“I memorized the header and footer code, this was a by product. I can only do very simple transcendent code.”
+“Geez, you should have told me, I would have memorized it myself,” she said.
+“We have to get out of here,” I grabbed Terri’s hand and we headed for the exit.
+
+The mansion was huge, we started carefully exploring it looking for a way to escape. We didn’t want to just walk out the front door because of the large wall and the sinister looking devices positioned around the building.
+I noticed a small pad of blank paper and a two pens sitting on a desk we passed by. I put them all in my pocket.
+“We could just write a short algorithm and get out of here,” I said to Terri.
+“I want to look around some more,” she replied.
+“Why?” 
+“We have a responsibility to free the people of this universe.”
+“Oh god Terri! No. We already did our bit, we got rid of Jose.”
+“I know, but this is different, these super jackasses are almost as powerful as he was.”
+I was about to argue with her but unfortunately my conscience decided to voice its opinion and agreed with her.
+“I guess you’re right,” I said grudgingly.
+“Don’t worry, I’ll think of a way to defeat them.”
+I felt a familiar feeling of trepidation rising in my chest.
+We snuck around the mansion for another hour, there were no obvious appearances of transcendent code. The rooms were just typical offices, bedrooms and bathrooms. We were about to leave when I noticed a door that seemed larger and more robust then the others we had passed. 
+There was a brass nameplate screwed onto it at eye level, it said Mr. Zee.
+“This must be Jose’s office,” I said pointing.
+Terri pulled the pad of paper and a pen from my pants pocket, she quickly wrote a simple doorway algorithm.
+“Put the header and footer codes on,” she said as she handed me back the pad.
+I wrote down the codes from memory. I heard the snapping sound of a TSW opening after I wrote the last digit. Terri grabbed the pad from me and we both walked through the opening in the door it and into the room.
+The opening disappeared as Terri ripped the page with the code on it in half. She put the two pieces in her pocket.
+“Thanks for the header and footer codes, now I can write my own apps,” she said.
+We looked around the large room we had entered. The outside wall was dominated by a huge picture window looking over the mansions grounds. There was a large bookshelf lining one of the other walls complete with expensive looking books. 
+A huge painting dominated the wall across from the bookshelf, it was of Jose dressed in superhero-ish costume flanked by Alpha man, The Liberator and one other hero whom I assumed was the Blur. 
+Jose’s costume had been tailored to hide his less then athletic body.
+There was a large oak desk in the middle of the room, it had an expensive looking laptop and numerous legal pads lying on it. The legal pads had what looked like transcendent code written on them.
+Terri walked over to the desk and sat in front of the laptop. She switched it on and waited for it to boot up.
+After a minute or so the computers desktop appeared on the monitor.
+“Geez, Jose sure didn’t believe in password protection,” Terri said as she started looking through the computers files.
+“I think that’s a by-product of being a megalomaniac,” I replied.
+I noticed two small black plastic pelican cases on the floor against one of the walls. I picked one of them up and put it on the desk. I undid the latches and opened it. There was some kind of brightly coloured garment neatly folded up on the inside.
+I took it out and unfolded it. It was some sort of superhero costume complete with a cape, from the size of it, it must have been made for a woman.
+I picked up the other pelican case and opened it as well, it held a costume too, it was larger and tailored for a man.
+“They’re for two super villains he was creating,” Terri said. She was reading a word document on the laptop.
+“He was getting his inspiration from comic books, he has the whole scenario written out on this document,” she continued.
+“I’ll bet he was the Dire one as well as Dr. Zee,” I said.
+“How did you know?”
+“I used to read comic books when I was a kid. The one thing I noticed was that the super villains seemed to have a lot more fun.”
+“Why?” Terri asked.
+“The superhero’s had to be virtuous and honest, and they all had boring secret identities and bitchy girlfriends. The super villains could do what ever they wanted, they were also the ambitious ones with big dreams,” I said.
+“Really? I read a few Archie comics when I was young, that was it, I never got into them.”
+“What did you read then?’
+“I was big on Nancy Drew,” she said.
+“How does the superhero thing work? Where do these guys get their abilities?” I asked.
+Terri minimized the word document she was reading and opened up another one from the computers desktop. She scanned it for a few seconds.
+“It looks like the costumes do everything, they’re controlled by a supercomputer in another universe.”
+“What about Alpha mans huge muscles?” I asked.
+“Steroids probably, he sure acts like a juice monkey,” Terri replied.
+I suddenly remembered The Liberator using the same phrase to describe him.
+“That’s what The Liberator called him.” I said.
+“Really? He’s going to be pretty predictable then.”
+“Why?”
+“I worked with a muscle head once, I hired him as security for my show. 
+What a dick, all he did was fly into violent rages every fifteen minutes and beat up my customers. One of the girls in a club I was working at actually went out with him, she told me all he did was drink and then grunt every time she tried talking to him. 
+I fired him after a week, he acted like he didn’t even care, just walked away, didn’t even take his pay check.”
+“Steroids do that I guess,” I said.
+Terri stopped reading and stared at me intently for a few seconds.
+“I think steroids and bodybuilding are just a crutch people use to cope with their dysfunctional personalities. Anybody that spends hours at a gym everyday, building a body that most girls find disgusting, is severely dysfunctional. Steroids or no steroids.”
+ “So this Alpha guy is just like your muscle head body guard.”
+“Yep that’s his kryptonite.”
+“What are we going to do now?” I asked.
+“We’re going to become super villains,” she replied, picking up one of the costumes.
+
+Chapter three
+
+“Turn around, I want to put this on,” Terri said holding up the costume she had picked up.
+“Ok,” I said doing what she requested.
+I waited for what seemed like ten seconds when I heard her say,” I’m done.”
+“Wow that was fast,” I said turning around.
+“I had to learn to change clothes quickly doing feature shows.”
+I looked at Terri, now dressed in a form fitting bright red super hero costume. She had a white cape over her shoulders and a white belt with a round brass buckle around her waist. The costumes neckline plunged dramatically barely containing her large boobs.
+It suddenly occurred to me that Terri and I had never slept together.
+“Is something the matter James? Why are you staring at me like that, does it make me look fat?” I heard Terri say.
+“Uhh… how does it fit? I better get into mine,” I said as I tore my eyes away from her.
+“It fits all right, the built in bra thingy is a bit small. It doesn’t look weird does it?”
+“No it’s alright,” I said trying to not to gawk.
+Thankfully I had had a lot of pent up energy when Terri and I had been living together in Miami. I had gone to the gym a lot and wasn’t my usual porkulent self.
+The costume fit snugly and was tailored to accentuate whatever muscle tone the wearer had.
+“Wow James, that looks good,” Terri said. 
+“Thanks, now how do they work?”
+Terri picked up her jeans off the floor and put took out the papers with the header and footer codes out a pocket. She stuffed them into her bra. 
+I looked away quickly trying not to become aroused. I hoped my costume had a sturdy codpiece.
+“Only one way to find out, try and hit me.”
+“Hit you?”
+“Ya, just punch me in the shoulder or something.”
+I walked up beside her and punched her shoulder.
+“Ow,” she said.
+“That’s not too super, try punching me,” I said.
+She swung her hand without warning and hit me square in the chest.
+“Owww!!” She said shaking her hand,“yours works.”
+“You might have different powers than invulnerability. Maybe there are instructions in the laptop.”
+I looked at the laptop squinting my eyes a little from the sunlight coming in through the window. The room suddenly changed, I could see the inner workings of the laptop and the inside of the desk.
+I stopped squinting and the room went back to normal.
+“Wow, I have x-ray vision,” I said startled.
+Terri quickly moved her arms covering herself as if she was nude.
+“Don’t worry its off. It only works when I squint my eyes slightly.”
+She looked at me suspiciously as she lowered her arms.
+“Do you see bones and stuff, like a normal x-ray,” Terri asked.
+I squinted slightly looking at my hand. I saw what looked like the blood vessels and tissue just under the skin. They were in full colour. I squinted harder and the perception changed allowing me to see even deeper.
+I stopped squinting and my vision returned to normal.
+“No it’s sort of like seeing things in a cutaway. Everything is in full colour and I can control how deep I see by squinting my eyes more or less.”
+“Hmm, I bet all this stuff is controlled by body movement,” Terri said as she surreptitiously watched my eyes.
+She sat down at the desk again and scanned the laptops desktop looking for a document with instructions.
+“Here it is.” She said clicking on an icon.
+She quickly scanned the text that appeared on the screen.
+“Well you have super strength, speed, invulnerability and enhanced vision. We can both fly,” she read some more looked up at me then snapped her fingers. 
+Terri disappeared.
+
+I stepped back from the desk startled then looked around the room. She was gone. I heard someone giggling behind me and spun around. Terri was standing there.
+“I can become ethereal,” she said.
+“What else?” I asked.
+“I can jump forward in time and freeze it as well.”
+“We should get out of here, I’m getting kinda nervous. How does the flying stuff work?”
+Terri snapped the laptop shut and piled Jose’s notes and on top of it. She looked through the desk draws until she found the laptops case then put everything into it. We grabbed our clothes and folded them as neatly as possible and stuffed them into one of the pelican cases
+“The instructions said that in order to fly you just jump up with both feet then just use natural movements to control yourself. The suits are intuitive.”
+“Ok, I guess since I’m invulnerable I’ll go first,” I said. 
+I picked up the pelican case with our clothes and stood in front of the room’s window, I jumped up slightly using my toes. 
+This caused me to rise up about a foot in the air and then hover in one spot.
+I did my best imitation of a superhero in flight. 
+I exploded through the window like a rocket. I estimated I was doing four or five hundred miles an hour before I closed my eyes and tried to use whatever body language I could think of to stop.
+The sound of wind rushing past me stopped. I opened my eyes and looked around, I was about a thousand feet above the ground floating like a balloon.
+“Hey loser!” 
+I looked up and saw Terri whizzing around above me like Tinkerbell, the laptop case was slung over her shoulder.
+She zoomed right at me and then stopped about a foot away. She handed me the case. “You carry it. This is too much fun.”  
+She zipped away the second I grabbed the case, then did a series of loop de loops and corkscrews. She flew like she’d been born with wings.
+I tentatively twisted my body in order to fly in her direction. I was rewarded with a slow ascent and with some luck was able to get within speaking distance.
+“Terri, we gotta go. Somebody will see us.”
+She looked at me with an expression of disappointment, “ok, you’re probably right.”
+She flew next to me and grabbed my hand, “there’s a forest over there on the edge of the city,” she said pointing.
+I squinted my eyes and looked, suddenly the forest seemed much closer, like I had hit the zoom button on a digital photograph. I experimented with my eye focus until the x-ray effect appeared and overlaid the zoom.
+“I see an empty cabin. It’s pretty remote,” I said.
+“Lets go,” Terri squeezed my hand.
+I flew towards it as cautiously as I could, much to Terri’s chagrin.
+
+The cabin looked as if it hadn’t been used in some time. The door was secured with a rusty padlock. I grabbed it and easily pulled it off. We walked inside and looked around.
+There was no electricity or running water, but it was furnished with some old worn out furniture.
+Terri grabbed the laptop out of its bag and turned it on.
+“It’s going to get dark soon,” I said.
+She sat down on the sofa putting the laptop on her knees.
+“I thought I saw an icon that looked like a PDA on the desktop,” Terri said.
+She looked closer after it had finished booting up then clicked the mouse pad.
+“Ah ha, a menu of transcendent algorithms.”
+“How many?”
+“About ten of them, here’s one we need: My Favourite Meal,” Terri double clicked on the name.
+A large pizza appeared sitting on a small folding table, there was also a very large bottle of cola sitting on the floor beside it.
+“God, that’s a cliché,” Terri said.
+Starving I grabbed a slice of the pizza and took a bite,” wow that’s good.” 
+Terri grabbed her own piece and tasted it, “yummy,” she said.
+We hadn’t eaten all day so we both wolfed down the whole pizza. We opened up the soda bottle and shared it while we ate. It was root beer flavoured and tasted amazing as well.
+“What other algorithms are there?” I asked Terri after we finished eating.
+“Let’s see, the shower, we’ve used that one before, its just a shower with towels. Here’s one local media,” Terri double clicked on the algorithm.
+A big screen TV appeared with a remote control on top of it. I moved the TV so we could both watch it comfortably and used the remote control to turn it on.
+A newscaster appeared on the screen as it flashed to life.
+“I guess it doesn’t need to be plugged in,” Terri said.
+The newscaster was in the middle of a story when the storyboard in the corner of the screen showed a fuzzy picture of us.
+“These fugitives are considered armed and dangerous. If you have any information concerning there whereabouts’ please contact law enforcement immediately. We now go live to Rhonda Jennings at the Mansion of Hero’s”
+The screen changed to an attractive woman reporter with a microphone. She was standing next to Alpha man.
+“So Alpha man, these villains seem to have been able to neuter your defences and escape.”
+“Well Rhonda we had them where we wanted but we were a bit over confident, it won’t happen again,” Alpha man replied.
+“Even so it must make you feel impotent having them on the loose.”
+I could see a flicker of rage flash across Alpha man face.
+“As I said Rhonda there’s always tomorrow, we’ll be better prepared and expect to win.”
+“So what can you tell me about the status of the Blur,” Rhonda continued.
+“The Blur currently has an upper body injury and will be out of action for a week to ten days. We don’t feel we need a replacement at this time.”
+“So there you have it Mary, even superhero’s don’t always perform the way you expect them too, back to you.”
+“So we’re fugitives, they don’t know about our costumes,” I said
+“I’ll bet they never went into Jose’s room in the mansion, so they don’t know anything about them,” Terri replied.
+“What if we went back to the nexus?”
+“I only have a vague idea of where the door is and I think they must have some kind of alarm system monitoring it.”
+“Why? I said.
+“They were onto us within twenty seconds of closing the door. That can’t be a coincidence.”
+“So what do we do?”
+“We attack them at dawn.”
+“Huh? Are you crazy? I can barely even fly,” I said my voice rising.
+“Don’t worry you’re invulnerable and I think I have a way beat them.”
+“How?”
+Terri pointed to one of the algorithms on the laptops list, it said: Super computer room entrance.
+“We’ll corrupt the code for their suits first.
+
+We decided to go to sleep first and enter into the computer room in the morning. We pressed the cancel button on the TV app and the TV disappeared.
+There was an old smelly bed in a small room off the main room of the cabin. It was reasonably comfortable and we both fell asleep within seconds of collapsing into it.
+I woke up the next morning with the sun shining into my eyes. There was a small dirty window in the room. I looked over to the other side of the bed, Terri was already up.
+I got up myself and walked into the cabins main room, there was a shower sitting in the middle of the floor. I heard the sound of water running and Terri splashing around washing herself.
+I sat on the couch and waited for her to finish. After a few minutes I saw her hand reach through the showers curtain and grab a towel. She emerged with the towel wrapped around her.
+“You didn’t try peeking did you?” she said when she noticed I was sitting there.
+We had both removed our superhero costumes before we went to bed and had slept in our T-shirt’s and underwear.
+“No, I actually forgot about the suits x-ray vision.”
+She walked back to the bedroom to get dressed. I used the shower after her.
+We decided to put our normal clothes overtop of our suits. The odds were that when we went into the super computer room the suits would stop working, but I couldn’t say for sure.
+Terri activated the entrance application on the laptop. I heard the familiar snapping sound of a TSW opening and saw a rectangular entrance to another room appear.
+We walked through it into a large white room with rows and rows of electronic equipment mounted in racks.
+There was a double door at one end of the room.
+“The programming consoles must be through there,” I said pointing to the doors.
+I followed Terri through the doors and into the next room. This room wasn’t as well lit and consisted of four desks with computer workstations on them, each desk had a large office chair in front of it.
+ There was a big picture window on one wall looking over a large parking lot.
+“Terri, James?” a short youngish looking man looked up from one of the desks.”
+“Cyrus, is that you?” I heard Terri say.
+“How’d you get here?” Cyrus asked.
+“I am a sorceress remember,” she replied.
+“Oh… right.”
+“How are things? Where are Peter and Ed?”
+“They’re taking a break. Jose’s disappeared and we’ve being trying to run the company till he comes back.”
+“He isn’t coming back Cy,” Terri said trying to sound sympathetic.
+“That’s what we all kinda thought… after what he did to Wendy. We thought you would stop him cause you were the good sorceress.”
+“The good sorceress?” Terri asked.
+“You know like Gandalf or Merlin, umm... I mean if they were girls. The evil ones are always destroyed by the good wizard.”
+“Well I never thought of myself like that Cy, but you could be right I guess. We need your help.”
+“To do what?”
+“The super computer here, what kind of programs is it running.”
+“That’s this companies cash cow, we run really long term simulations for our customers.”
+“How long? And simulations of what?” I asked.
+“Five to ten years, and we’re not really sure of what. It’s some kind of weird language. We just look after the computer and make sure the simulations are running properly.”
+“Where is Jose’s office?” Terri asked.
+“Over there,” Cy pointed to a closed door,” it’s locked.”
+Terri thought for a moment then snapped her fingers. She disappeared.
+“Wow! That’s so cool,” Cy exclaimed.
+So our suits still worked, causing my grasp of transcendent technology to slip a little. This meant that a TSW could be looped back through the universe that it started from.
+Jose’s office door opened, Terri was standing in the entrance. 
+
+Chapter four
+
+“Come in,” Terri said turning around.
+Terri walked over to Jose’s large desk and sat down. She turned on the computer workstation and waited for it to boot up.
+Jose’s office was decorated with the usual monument to his megalomania, a large painting of himself. He was dressed in an expensive suit and was standing in front of a massive mainframe computer.
+“I got it,” I heard Terri say.
+I walked behind her and looked at the workstations monitor. She was looking at about a dozen icons on the screen, each icon was a miniature representation of a superhero in a costume.
+Terri clicked on an icon that looked like Alpha man. The screen filled up with transcendent code.
+“Wow this is really complicated,” she said.
+Cy moved beside me and looked as well.
+“Just look for the comment lines they will tell you what each chunk of code is supposed to do,” he said.
+Terri scrolled down the program until she found what she wanted, she highlighted a line of code and then pressed the keyboards delete button. She scrolled down some more and repeated the action.
+“There, Alpha man is no longer invulnerable or super strong. Now for the Liberator,” she said.
+She saved and then closed the program, she clicked on the Liberators icon and after studying it deleted a few lines of her suits code as well.
+“She’s just a flying lesbian now.”
+“What other powers does she still have?” I asked.
+“She’s still super fast and has some kind boomerang thing she throws.”
+“So I guess this is it, we have to apprehend them now,” I said feeling my chest tighten.
+“Yep. This should be fun,” Terri replied.
+“One more thing, does the workstation have a web browser? I asked.
+Terri looked at the monitor and clicked on an icon, a search engine web page popped up.
+“Go to a government clock website,” I said.
+Terri did a brief keyword search and then clicked on a link. I saw a digital clock display pop up on the screen. I read a heading that said its reference was from an atomic clock. It read 09:14:23 EST. I looked at my watch, its display read 08:59:22.
+“This isn’t my universe,” I said feeling a bit disappointed. 
+“Don’t feel too bad, it’s only the first one we’ve checked,” Terri said.
+Terri stood up from the desk and grabbed Cy by the shoulders and kissed him on the cheek, “thank you Cy, remember Jose isn’t coming back so you guys can do whatever you want with his company now.”
+“Should we keep the computer running?” Cy replied.
+“You can shut this program off in a couple of days, we should be done by then. Jose was up to a lot and I don’t want to shut any other programs down until we know what they are doing. We’ll be back here again Cy,” Terri said.
+With that Terri grabbed my hand and we walked back through double doors and then through the TSW into the cabins main room.
+“Bye for now Cy,” Terri said through the TSW she halted the program on the laptop causing the opening to disappear.
+
+We took off our civilian clothes revealing our superhero costumes. I put my key to the nexus into a small interior pocket I had found in the suit. Terri hid hers in the cabin in case things went sour and we got captured.
+We walked outside and stood on the over grown lawn in front of the cabin.
+“Up up and away,” I said hesitantly.
+Terri jumped up lightly and then flew straight up like a rocket. She was a shrinking black dot in the sky after only a few seconds.
+I jumped up myself and flew after her.
+I was able to control myself slightly better then my previous flight. I used my enhanced vision to keep track of Terri, she was going way too fast for me to catch up to her. I thought I heard a slight sonic boom coming from her direction.
+The Mansion of Hero’s soon came into view below me. Terri had stopped and was now hovering in mid air. I tentatively flew next too her and hovered as well.
+“Do you see them?” Terri asked.
+I squinted my eyes and searched the mansion with my enhanced vision. I saw both superheroes together in a large conference room. There was a third person with them not in costume. I assumed that he must be the Blur.
+“Follow me,” I said launching myself towards them.
+I crashed through the roof of the mansion and landed on the floor of the conference room. I felt Terri land beside me.
+Alpha man jumped up startled then he steadied himself and began to move towards us.
+That’s when the algorithms that controlled all our suits must have stopped working.
+Alpha man leaped up to fly and crashed into the ground, he stood up quickly with a confused look on his face. I used this moment to rush him swinging my fist at his jaw. He jerked his head out of the way while swinging his fist up at my own head.
+“Hmm it must be night,” I thought to myself as everything went dark punctuated by the flash of stars.”
+My head started to clear after a few moments. I was on my hands and knees down on the floor. I looked up just in time to see Terri standing on the conference table swinging a chair down on top of Alpha man.
+The chair bounced off of his head causing the confused expression to return to his face. Then he fell collapsing into a heap.
+I stood up shakily and saw The Liberator grab something from her belt and throw it at Terri. It missed her hit the wall then slid to the floor. 
+The Liberator backed away then an expression of pure terror on her face. I looked at the Blur, he had a large mechanical brace on one knee and was still seated.
+“Are you all right James,” Terri asked.
+“I think so,” it hurt to talk.
+“Ok you two, I want your costumes now,” Terri said.
+“I have to get some clothes,” the Liberator said.
+I noticed a pair of scissors sitting on a small table pressed against the wall. I grabbed them and walked over to Alpha mans unconscious body. He was breathing normally thankfully.
+I proceeded to cut off his costume, it took only a few minutes.
+“Call an ambulance,” I said to the Blur.
+I followed Terri and the Liberator to another room. I stood outside the open door while Terri watched the Liberator remove her costume and put on civilian clothes.
+“Leave and don’t come back,” Terri said to her as she handed over her costume.
+We walked back to the conference room, the Blur was gone, a neatly folded costume was sitting on the table.
+Terri had brought a blanket back with her and put it over Alpha man. He was starting to regain consciousness.
+I found a phone and dialled 911.
+“You can run scum but I’ll find you,” I heard him mutter.
+“It’s over bud, Mr Zee isn’t coming back and your super powers are gone forever,” I replied.
+Alpha man started to cry.
+
+Terri and I left the room as soon as we were confident Alpha man would be all right. We had both felt kinda bad when he had started bawling.
+“We have to get outta here,” I said.
+“How? We can’t fly anymore.”
+“There’s some kinda of flying machine on the roof I saw it with my x-ray vision when I was looking for them. I also saw where the surveillance room is. We can use it to find the door back to the nexus.”
+“I’m glad that x-ray stuff is gone, you didn’t use it to peek at other chicks did you?” 
+“No, of course not,” I said.
+“What do you think happened to our suits,” she said.
+“There must have been interdependencies between each suits programs, when you deleted some of the lines of code it must have corrupted the code for all of them. We’re lucky we didn’t kill ourselves.”
+We found the surveillance room on the top floor, as I suspected there was a camera dedicated to the door from the nexus. It had an motion detection alarm hooked to it as well.
+I destroyed the incoming data feed once we wrote down the doors street number.
+We quickly ran up the stairs to the roof and saw the flying machine. It looked like something right out of a comic book.
+“All superhero teams in the comics had some kinda flying machine,” I said.
+“Why?”
+“I think it worked as a plot device, it gave the characters a reason to sit together for a while and blab, plus it was a way to have some non-flying heroes as part the group.”
+I found the crafts door and we both entered. There was a cockpit with two chairs in the front. The controls looked reasonably simple. 
+After we had taken our seats I saw a button labelled cloaking device on the dashboard. I pressed it. 
+I pushed one of the levers that looked like it was for altitude. I felt the craft start to rise and we could see the roof drop away through the windshield.
+We sped away towards the cabin, it was a bit difficult to find without my super vision.
+We landed on the front lawn and exited the ship. I looked back at the craft as we walked towards the cabin. It was completely invisible except for a chunk of the interior I saw through the crafts open door.
+We took our costumes off and put our civvies back on. I tossed our superhero costumes into the pelican case. Terri retrieved her key to the nexus and grabbed the laptop and the laptop case stuffed with Jose’s notes.
+After we picked up everything we walked back to the ship and entered it. I noticed the costumes we had retrieved from the other superheroes sitting on the crafts floor. I picked them up and put them in the pelican case as well.
+“Do you think we’re doing the right thing?” I asked Terri.
+“What do you mean?”
+“I feel pretty crappy about what we did. I don’t think they were bad people.”
+“We can’t leave some steroid abusing muscle head with super powers on the lose here.”
+“It doesn’t bother you what we did?” I said.
+Terri looked at me with a conflicted expression on her face.
+“Ya… it does. Especially when he started crying…” her voice trailed off.
+“What are we going to do?”
+“I have an idea,” Terri picked up the laptop and turned it on. After it booted up she activated the doorway app to the supercomputer room. We both walked through.
+“Cy are you still here?” she asked as we walked into the adjacent office.
+“Terri! You’re back.” Cy said smiling, “how did it go?”
+“Good, but we have a small problem. Is the program we changed archived somewhere?”
+“Of course. We backup everything once a week,” Cy replied.
+“Could you restore it for us?”
+“Ok, just give me a minute.”
+Cyrus typed furiously at his workstation for a few seconds, and then waited watching his monitor intently.
+“It’s restored,” he said
+“Wait here,” Terri said as she walked back into the supercomputer room. She returned about thirty minutes later her cheeks rosy.
+“They work. Thanks again Cy you’re a sweetheart.”
+Cy blushed a little and smiled.
+“Come on James, let’s go,” she said.
+We re-entered the flying machine through the TSW. Terri shut down the doorway app.
+“Lets go back to the mansion,” she said while sorting through the costumes in the pelican case. Terri took out Alpha mans cut up outfit and tossed it on the floor then she snapped the case shut. 
+I manoeuvred the craft up and headed for the mansion. When we arrived Terri had me circle around it for a few minutes before we landed.
+“There’s a hospital,” she said pointing to a large building through the windshield.
+I landed on the mansions roof and shut everything down including the cloaking device.
+We grabbed all of our stuff, Terri shoved Alpha mans destroyed costume into the laptop case.
+I followed Terri as we walked though the mansion and onto the street. She grabbed my hand and we walked to the hospital side by side.
+We entered through the hospitals main entrance. We were able to find what room Alpha man was being treated in pretty easily after talking to the person at the main reception desk. He was registered as John Smith.
+We took the elevator to his floor found his room and walked in.
+
+Alpha man was lying in a hospital bed his head was wrapped in a large bandage. He had two visitors standing beside his bed. The Liberator and the Blur. The Blur was on crutches.
+I noticed they both had expressions of concern as they watched their sleeping compatriot.
+“How is he?” I asked
+The Liberator spun around at the sound of my voice, she brought both her fists up when she saw us, her expression changing to defiance.
+“You leave him alone!” she yelled.
+“Calm down, we’re not here to hurt anyone, is he alright?” Terri said.
+“He has a fractured skull and a concussion but the doctors said he should be alright,” the Liberator replied lowering her fists slightly.
+“We think that we made a mistake and we want to fix things but first we have to explain a few things. First your leader, Mr Zee was also the Dire one. Second, Mr Zee is never coming back you guys are on your own,” Terri said.
+“We aren’t superhero’s any more so what does it matter,” The Blur said.
+I noticed Alpha man had regained consciousness, his face took on an expression of profound resignation when he saw us.
+Terri walked pass the Liberator to Alpha mans side. She put her hand on his forehead, “How are you?” she said.
+Alpha man looked away.
+“We don’t have your original costume but we have a replacement that’s just as good. We have everyone else’s too,” she said looking at the others, “ but you have to promise me something,” she looked at Alpha man, “you can’t do steroids anymore and I want you to get some help for your temper. If you promise me that you’ll do those things you can be a superhero again.”
+Alpha mans lower lip started trembling and his eyes began to well up with tears. He nodded almost imperceptibly while looking at Terri then turned away burying his face in his pillow. 
+For a moment I could have sworn I was looking at a young boy.
+We didn’t want to embarrass Alpha man any more so we all walked into the hospital hallway. I gave the pelican case with all the costumes to the Liberator.
+“There’s an extra costume, it’s for a woman, you’re going to have to recruit another superhero,” I said.
+The Liberators expression brightened.
+“There probably aren’t going to be anymore super villains to fight so you’re gonna have to find other things to do. We’ll check up on you when we can,” Terri said.
+“Ok. I have one question though, what happened to Mr Zee,” said the Blur.
+“He was a very bad person and we had to neutralize of him,” I said.
+“Are you super hero’s,” asked the Liberator.
+“We’re sorcerer’s just like Mr. Zee was,” Terri replied.
+“Oh.”
+“We have to go,” I said.
+“Thank you. You did the right thing, Alpha man can be a dick but he’s a good person we all are, we won’t let you down,” The Liberator said.
+We said our goodbyes and left.
+
+Chapter five
+
+We walked back to alleyway that held the doorway to the nexus. It was only about a mile away and it was a nice day. 
+I felt a lot better knowing that we had left the superhero’s their costumes.
+“This isn’t so simple, the problems Jose has created aren’t so easy to solve sometimes.” I said.
+“We have to try. We’re the only ones who can fix them,” Terri replied.
+I pulled out my key as we stopped in front of the nexus door. I looked around the alley to see if my knapsack was still there. It wasn’t.
+I opened the door and we entered the nexus. After closing and locking the door I grabbed Terri’s hand and headed towards the computer lab.
+“Where are we going?” She asked.
+“To the lab. I stashed extra PDA’s there. I feel naked without one.”
+I opened the door to the lab, I walked over to a desk drawer and pulled a PDA out that was hidden under some lose paper. I used it to make two copies of itself and gave one to Terri..
+“It looks different,” she said turning it over.
+“It’s a different model and it has a high speed Internet connection through a TSW. I didn’t want to test it out in an unfamiliar place.”
+“I can do web searches now, that’s cool.”
+Terri put the device into the holster at her waist.
+“Lets go home,” I said. And we did.
+
+We spent the next few days recovering in our house in Miami. The left side of my face had swollen up and turned purple after being punched by Alpha man.
+I wanted to get right back to our original plan of finding my original universe by checking all the doors in the nexus one at a time.
+After a few days I had recuperated enough that I could smile and eat without much pain we were both soon back in the nexus standing in front of door number fifty-six.
+Terri produced her key and opened the door, it opened into a short corridor ending with another locked door. Terri opened that door as well, it opened into a small room with one more door at its far end.
+The door had a small white sign with a message printed on it in large black letters. It hung at eye level. I walked closer to it and read it. It said:
+
+PREVIOUS DOORS MUST BE LOCKED
+IN ORDER TO OPEN THIS ONE
+
+YEAR IS 1942 USE COSTME GENERATOR
+
+“That’s kind of ominous isn’t it,” I said.
+“I guess so, but it sure is curious. This will be the first time we’ve time travelled.”
+“You travelled to the future.”
+“Ya but this is different, this would be into history, World War Two,” she said.
+“This must be the costume generator,” I pointed to a large matrix on one wall. 
+It looked identical to the one conjured up by Jose’s PDA that Terri had used to clothe herself the first time we met.
+We pressed the checkerboard squares on the matrix that were labelled for the clothes we wanted. 
+The matrix square labels would then change into styles then sizes and finally colours. A stone slab then appeared with the article of clothing we had selected on top of it.
+After a few minutes Terri and I were clothed in nineteen forties period costumes. Terri wore a sundress with a floppy hat and dark sunglasses and I wore a lightweight suit with a fedora and black patent leather shoes. I also had the matrix dispense five hundred dollars of period currency.
+“I hope its summer.” I said.
+We closed and locked the two doors behind us and then opened the one with the ominous sign stuck on it. We walked through and emerged into a bright shiny day onto an asphalt parking lot filled with forties era automobiles.
+I looked behind us and saw that the door was on the side of a large brick building. There was a large sign painted on the side of it, it read: Metro Goldwin Mayer. The building looked like a sound stage.
+“We must be in Los Angeles,” I said.
+“It’s kind of cool. I thought it was always warm here?” Terri said.
+“It must be winter, it can get quite cold sometimes.”
+I saw an open newspaper box on the other side of the parking lot. Terri locked the door and put the key in a hidden pocket in her dress. I grabbed her hand and walked over to the box and grabbed a newspaper.
+“I forgot these used to be wide open,” I said.
+“People used to trust each other once. I guess,” Terri replied.
+I looked at the date on the newspaper it read Feb 24 1942. I took out my PDA, first checking that no one was watching then tapped the web browser icon. A search engine page popped up. I typed the date into the search box and pressed the search button.
+The first link that popped up had the title: Battle of Los Angeles.
+“What the hell is that,” Terri said looking over my shoulder.
+I clicked the link opening the web page. I scanned it quickly, it described the sighting of some kind of unidentified aircraft that caused all the cities anti aircraft guns to start firing. 
+The aircraft was never brought down or identified. It was later determined to be some kind of mass hallucination.
+There was a picture at the bottom of the article, it showed a large number of powerful search lights illuminating some kind of object. I looked at the grainy picture more closely, the object could have been an illusion arising from the glow of the intersecting beams of light.
+“I remember this now, I used to be a bit of a UFO junkie when I was a kid,” Terri said.
+“What was it?”
+“Weather balloons supposedly, no one really knows. There were a lot of eyewitnesses that swore they saw some kind of massive slow moving airship. They shot at it for over an hour.”
+“This is kind of scary, the double locked doors, UFO’s,” I said.
+“Lets walk around a bit, this won’t happen until the middle of the night, I want to see the sights and have a meal.”
+We noted the street the building was on and some landmarks then headed off towards a built up area that had shops and restaurants. I also used my PDA to activate a location bookmark application I had been developing. If it worked it would open a doorway back to the location I had just marked.
+We soon found out walking around in the past was its own fun. The people, cars and storefronts were so alien and different it seemed impossible that this was only a few decades ago.
+We stopped at a busy restaurant furnished with a large bar. We decided to sit at the bar and have a drink while we ordered and waited for our meals.
+“God everyone is smoking like a chimney,” Terri said.
+“People didn’t know cigarettes caused cancer.”
+“Everybody looks kinda tense too. I guess it’s because it’s only been three months since Pearl harbour.”
+“It reminds me of nine eleven,” I said.
+“Nine eleven hmm… I’m glad I missed that little chunk of history.”
+“Oh I forgot, it was part of your future, did you read about it?”
+“I saw the video’s on the internet. It was very surreal and scary,” she said.
+I looked around the bar some more, everyone seemed over dressed wearing long sleeved shirts and ties.
+“Everybody looks so thin,” Terri said.
+“No junk food. I think everyone’s broke too, the great depression was only four years ago.”  
+Our meals arrived and we ate them sitting at the bar. The food was very bland and the portions seemed small.
+We ordered another drink after we finished eating. Terri introduced herself to the guy sitting next to her and we all started chatting.
+Jake was in his fifties and worked as a key grip for MGM.
+“You should be in the movies miss, you’re as pretty as anyone I’ve lit,” Jake said smiling.
+“I’m not into sleeping with producers,” Terri replied smiling back.
+“The smart one’s use blackmail.”
+“Really?”
+“Oh ya, any guy making that kind of money is bound to do something stupid. It’s human nature,” Jake said.
+“What movies have you done?” I asked.
+“Serials mostly. It pays the bills. I did some features in the twenties.”
+“You did silent movies?” Terri perked up.
+“Ya, you’re the first person I’ve ever met that thought that was interesting,” Jake said flattered.
+“Who’d you light?”
+“I was just a grip then, but I worked with Clara Bow and Buster Keaton.”
+“That’s pretty cool.” Terri said.
+“Cool? No it was warm,” Jake said with a confused expression.
+Terri laughed, “I mean umm… neat.”
+“Oh,” Jake smiled again, “I guess I’m not up on all the new lingo.”
+“What was Clara Bow like?” I asked.
+“Alright I guess, she sure drank a lot.”
+“I heard her voice killed her career when sound came in,” Terri said.
+ Jake thought for a bit then replied, ”I remember watching her back then and thinking that she was so much more charming in real life then on film. When sound came in the studio put so much pressure on her to sound like some kind of imaginary feminine ideal that it completely changed who she was. She tried to hide her Brooklyn accent and became terrified of the hidden microphones. Sometimes she would just stare at them like they were poisonous spiders through the whole scene. She stopped moving her body the same way too she became stiff and mechanical. That’s what killed her career.”
+“That’s sad, I always though a Brooklyn accent sounded sexy on a girl,” Terri said.
+“Mr Meyer didn’t think so. What brings you two here?” 
+“Umm… we’re here for a business meeting… aircraft parts,” Terri said.
+Jake looked at her a bit suspiciously, “ we’ll be needing a few of those I guess, damn Japs.”
+“We better get going,” I said getting a worried we might say something stupid.
+I paid the bill, then Terri and I said goodbye to Jake. We left the restaurant and walked back out onto the street.
+“It would be hard to live in the past and blend in,” I said to Terri.
+“That’s for sure, even the simplest thing would give you a way.”
+“Like saying cool.”
+“That’s the fact Jack.”
+“Well, lets rock and roll bee-atch,” Terri started to giggle.
+
+We decided to walk around Los Angeles some more just out of curiosity.
+I noticed a large trash can on the sidewalk about ten feet in front of us. There was a small cardboard box on the top of it. It was open and full of old magazines. I looked at the magazines more closely when we were beside it.
+“Oh my god!” I said when I noticed the magazine sitting on the top of the pile.
+“What?” Terri said looking at the box.
+I picked it up and showed her.
+“So what? It’s just some crappy looking Superman comic,” she said.
+“It’s Action Comics #1, this is worth a million dollars,” I replied.
+“Really?”
+“Well it will be, in 1942 it’s worthless.”
+“Let see it,” Terri grabbed the comic and flipped through it, “Jeez this is horrible, I could draw better then this.”
+“It’s the idea that was important, this was the first superhero comic ever made.”
+“Hmm,” Terri looked around to make sure we were relatively alone then took out her PDA and pressed an icon. I heard a snapping sound and a two-foot square wooden box appeared. The side facing Terri was open and I could see shelves and cubby-holes they were filled with makeup, cars keys and many other things.
+She tossed the comic book onto a relatively empty shelf then pressed the icon on her PDA again. The box disappeared.
+“My purse app. It’s a lifesaver,” She said.
+We spent the rest of the day just walking around seeing the sights. It was starting to get dark when I suggested we go home.
+“I want to see the battle,” Terri blurted out.
+“Are you sure, there must be a reason the nexus door is double locked.”
+“I’ll bet this all has something to do with Jose,” she replied.
+I was curious myself and thought it wouldn’t hurt to watch it from a discrete distance. We found a deserted alleyway and I pulled out my PDA and searched through the menu for the app that I wanted and activated it. 
+A small vehicle appeared hovering in front of me. It was basically two bucket seats surrounded by a jellybean like plastic bubble, half the bubble was transparent the other bright white. 
+I grabbed underneath the clear half of the bubble and lifted it up enabling us to get into the seats. I pressed a button on the small control panel between the seats and the bubble closed sealing us in.
+“Won’t they see us?” Terri asked.
+I pressed another button on the control panel.
+“Cloaking device,” I said.
+I grabbed the two joysticks built into my seat’s armrests that were used to control the craft. 
+“Where are we off too,” I said.
+Terri grabbed her PDA and started searching the Internet for the specific area of the battle. I manoeuvred the craft straight up and then followed her directions.
+We ended up on a large hill near the edge of the city. It was overgrown with brush and small trees, there were no houses nearby.
+We exited the small craft and I used my PDA to make it disappear. Terri used her PDA to conjure up some warm blankets and a large picnic basket full of food.
+“Lets get comfortable,” she said.
+It wasn’t long before the stars came out, the city itself disappeared into complete darkness with only the odd flicker of light appearing for brief moments.
+“It’s so beautiful,” Terri said looking at the stars. 
+“The city is blacked out so we can see them,” I said.
+“It’s funny, nobody talked about this.”
+“About what?”
+“The fact that everybody could see the stars during the war,” she said.
+We ate the food from the basket and then snuggled up against each other in the blankets. It wasn’t long before we both fell asleep.
+
+Chapter six
+
+I woke up suddenly. I could feel the hair standing up on the back of my neck as a sensation of danger welled up in my stomach.
+I looked at the dark shadow of the city and saw nothing out of the ordinary. I moved my gaze up scanning the bright stars, that’s when I saw it.
+There was a slow moving dark black circle blotting out the stars, as it moved it appeared as if it was made of oil, the stars seemed to slide around it rather then be blocked out by it. It acted like a dark lens.
+I looked into the centre of the shape as it moved. I saw movement at first then shapes. I strained my eyes trying to bring the shapes into focus. They were faces, faces grimacing and moving in what looked like agony. They were completely black and could only be discerned as different shades of shadow.
+I felt like I was going to vomit.
+“Terri, wake up,” I said shaking her shoulder.
+“What? Has it started?”
+“Look,” I said pointing.
+Terri looked at the shape and after a few moments gasped.
+“I see faces, awful faces,” she said.
+I heard the sound of an air raid siren start to wail in the distance, a blinding streak of light flashed across the sky. It quickly moved to acquire the object in its beam. The object reflected the light without illuminating its shape.
+Another search light appeared and another. I heard a loud rhythmic booming sound start, then a flash of orange light as a shell exploded against the object.
+The object was in half a dozen search light beams now. I could hear the thunderous sound of the cities entire anti-aircraft battery throwing shell after shell against it.
+“God this is scary, what is it?” Terri said.
+I grabbed my PDA and started looking through the apps on it for something useful. I found an image enhancement application and activated it, a pair of goggles appeared with a remote control device. I ran the app again to get an extra pair.
+I gave Terri the extra pair of goggles then put mine on. I used the remote control device to control the magnification and the resolution.
+I looked at the object and then started filtering out the visible light spectrums until I could see it without the glare of the searchlights.
+I saw the faces again, this time anger was mixed in with their expressions of agony.  
+Then one of the faces appeared to noticed me. I felt my body jerk involuntarily when I saw that the face had stopped moving and was looking directly at me. Its mouth had closed into a thin line of hate.
+“We gotta get out of here now,” I said to Terri.
+I found the bookmark app on the PDA’s menu tree and double clicked it praying it would work. A doorway popped into existence, I grabbed Terri’s hand and we both jumped through. I closed down the app then used the PDA’s screen as a makeshift flashlight to look around. 
+We were in front of the nexus door, the feeling of relief flooded through me as I felt for the key in my pocket.
+I managed to get the door open quickly then we both ran through and shut it behind us.
+We looked at each other breathing heavily, I looked back at the locked door and saw the metal start to bend and warp.
+“Oh shit!!” Terri yelled.
+We ran through the next two doors as fast as we could, making sure they were securely locked. Then we waited. I had my fifty-calibre machine gun app ready, pointing my PDA at the door.
+After an hour we felt safe.
+
+“I don’t think Jose had anything to do with that,” I said.
+“What do you think it was?”
+“I don’t know, it just felt like pure evil and I think it must be able to sense TSW’s.”
+“The thing I don’t get is why was it there, unlike the monsters in the other universes this thing really existed,” Terri said.
+“Maybe it’s one of the Brains, that was the theory behind TSW’s.”
+I had studied Franz Morton’s Transcendent instruction manual very closely when I was in our house in Miami. He had insinuated that the universe had been created with software by an intelligence or intelligences that had emerged spontaneously. 
+He had no proof though and after seeing Jose’s Big Bang algorithm I had other ideas.
+‘It must be very powerful, but it never did anything. There’s no record of it in history,” Terri said.
+“Well 1942 was the beginning of the worst part of the war, maybe it was responsible.”
+“Hmm… do you think we should go back?” she said.
+“Go back! Are you crazy?”
+“I want to find out what it is. I’ll do some research maybe there’s a safe way to do this.”
+With that we left the nexus and drove home.
+
+I woke up late the next morning, I felt beside me looking for Terri but she had already gotten up.
+I showered and dressed then walked downstairs, Terri was sitting on the couch looking at the screen of her laptop computer.
+“Did you find anything?” I asked.
+Terri looked up at me,” believe it or not I have, but it’s kinda sketchy.”
+“What?”
+“There is a couple of witnesses that said they met some strange men the day after the battle.”
+“Like the mythical men in black?” I said.
+“They don’t call them that but they fit the description, dark suits as well as odd behaviour.”
+“That is pretty sketchy, I’ve met all kinds of weirdo’s in dark suits.”
+Terri stuck her tongue out at me.
+“I know, but there’s an address here where they were seen the next day,” she said.
+“Do you think this door in the nexus resets back to the same time over and over,” I asked.
+“I think so. I think that’s why there are signs are in the antechamber. Jose was probably trying to research the entity.”
+“So we would have to sit through another night with that thing over the city.”
+“Ya, but we’ll shut our PDA’s off and stay in a hotel,” Terri said.
+“With our heads under the pillows.”
+Terri laughed.
+“The address where the strange men appear is a mom and pop restaurant. The time was about nine o’clock in the morning,” she said.
+“Well let’s get this over with, I’ll bring a handgun just in case,” I replied.
+We put on our forties era clothing before we left. I put on a double gun holster over my shoulders with two forty five calibre semi automatic pistols in it. I wore my jacket on over top of them.
+“You sure you don’t want some protection,” I asked Terri.
+“I hate guns, besides that thing withstood an hour of bombardment from anti-aircraft artillery. I don’t think a pistol is gonna hurt it.”
+“You’re probably right but I feel safer with them on,” I replied.
+We left the house and drove back to the nexus, it only took a few minutes before we were standing in front of the door in the ante-chamber. It was not damaged in any way.
+“This room must be part of the alternate universe. It gets reset every time as well,” I said.
+Terri put her key in the door and opened it. 
+
+It was a bright sunny day just like the first time we had gone through. We walked over to the newspaper box that was on the other side of the parking lot and picked up a newspaper.
+“It’s the same date 24 Feb 1942. So we we’re right it’s the same day,” I said.
+“Lets get a room at a hotel then,” Terri said pulling out her PDA, she pressed the off button,” better shut yours off too.”
+I pulled my PDA out and shut it off.
+We walked over to a busier street and hailed a cab. I gave the driver the address of the mom and pop restaurant the men in black were going to show up at. It took about twenty minutes for him to drive to it. The restaurants name was the Blue Bird diner. I paid the taxi driver and we got out of the cab.
+There’s a nice looking hotel over there,” Terri said pointing down the street.
+We walked over to it and checked in. 
+The hotel was as nice on the inside as it was on the exterior. It cost forty dollars a night for a double room, which was probably a fortune in 1942.
+We took the antiquated elevator to our floor and walked to our room, I used the heavy brass key the clerk had given me to open the door.
+“Geez there isn’t even a TV, what a rip-off,” Terri said laughing.
+There was a very large expensive looking console radio sitting in one corner of the room. I walked over to it and turned it on. The sound quality didn’t match the radio’s posh exterior.
+The announcer on the radio suddenly blared out “And now we return to The Guiding Light sponsored by Proctor and Gamble.”
+“Oh my god, I used to watch that,” Terri said.
+“I had no idea it was that old, I think they cancelled it a while back,” I said.
+“Ya they’re cancelling most of the soaps, that reality crap is cheaper.”
+“So what do you want do? I think listening to the radio all day would get pretty boring.”
+“We could use the radio to cover up the noise,” Terri said.
+“What noise… Oh... Ok,” I said
+We moved the radio dial to a music station.
+
+We emerged from our room in the early evening.
+“God, taking a bath sure sucked. I can’t believe they don’t have showers yet,” I said as I locked the room’s door.
+“Oh it was alright, I like baths anyway plus the tub was huge,” Terri said
+The hotel had a large restaurant downstairs, it was beautifully decorated with lots of wood and stained glass the tables had expensive china and cutlery on them.
+Thankfully we didn’t need a reservation and were able to get a table after I gave the maitre de five dollars.
+The food was quite a bit better than at the restaurant we had eaten at yesterday. We also had an expensive bottle of wine. The final bill was more than our room cost.
+We decided to spend the rest of the evening at the hotels large bar. I noticed it was only moderately busy as we sat down. I order a glass of water and Terri ordered a margarita.
+We spent the rest of the night chatting with various people we met. It was all a bit depressing, everyone was preoccupied with the looming war and they were all worried about their friends and relatives who had left to fight it.
+I thought about telling them that this would be America’s finest hour and that not only would they win, a new and amazing country would emerge afterwards. I didn’t, they would just think I was just crazy.
+We went back to our room undressed and climbed into bed.
+I was awakened again in the middle of night with the same feeling of danger I had felt the night before. It was not as strong this time.
+After a few minutes I heard the anti-aircraft artillery start up with its rhythmic pounding. Terri moaned lightly in her sleep and then pushed herself closer to me.
+I fell back into a light sleep and had a succession of bad dreams mostly consisting of being chased by dark shadowy creatures.
+I woke up at seven thirty, Terri was already up I heard her splashing around in the bathtub. I resisted the urge to turn on my PDA and conjure up a shower, I didn’t want us to be detected.
+Terri was finished after thirty minutes, I took my own bath afterwards.
+We were both dressed and in the lobby checking out by eight thirty. 
+We walked over to the Blue Bird restaurant afterwards entered then sat at the large moderately busy counter and ordered breakfast.
+Terri and I both kept watch to see if any strange men would show up, fortunately it was a small restaurant with only ten booths and a counter.
+I had just finished my last piece of toast when I noticed two men in dark suits and sunglasses walk into the restaurant, it was nine fifteen.
+“Those are modern suits, Armani,” Terri whispered into my ear.
+I also noticed a modern looking watch on one of the men’s wrists.
+“Do you have anything to go?” I heard one of them ask the female cashier.
+“Go? Go where?” she replied.
+“No like an egg McMuffin,” the other one said.
+“Don’t worry about it Sam, we got time, lets sit and eat,” the first one said.
+They walked over to an empty booth sat down and picked up menus.
+“What do we do now?” I whispered to Terri.
+“We’ll follow them when they’re done.”
+We tried our best to look inconspicuous as we watched them eat. They finished after about twenty minutes. Then they both got up taking their bills to the counter to pay the cashier. To my amazement one of them had a credit card in his hand.
+“I got it Fred, we have to use cash here anyway,” Sam said as he gave the cashier a ten dollar bill, “keep the change.”
+Her mouth dropped open, “thanks,” she said.
+Breakfast was only eighty cents here.
+Terri and I both jumped up the second they had left the restaurant. I gave the cashier a five-dollar bill as we both hurried after them.
+“Hey Alice do you want to go dancing tonight?” I heard the cashier yell as we left.
+
+I looked both ways down the street and saw them about a hundred feet in front of us to the left. I grabbed Terri’s hand and we followed after them.
+The two men seemed completely oblivious not just to us but also to the world around them. They would occasionally talk on what appeared to be some kind of mobile phone not caring if anyone noticed.
+“I think I should just rush them with my guns, force them to talk,” I said.
+“Geez, I thought I was supposed to be the reckless one.”
+“It’s too dangerous to be staying here much longer.”
+I waited until the two men turned and walked down a quiet side street then I ran up behind them pulling both my forty-fives out.
+“Freeze!” I yelled
+They both stopped then slowly turned around.
+“Keep your hands were I can see them,” I said.
+I noticed a secluded alleyway about ten feet ahead and motioned them towards it.
+“Hey man, you want money? We got money,” Sam started to reach inside his jacket.
+I cocked one of my forty-fives, “I said keep them were I can see them.”
+He pulled his hand back and then turned both of his palms towards me in a gesture of truce.
+“Who are you?  What are you doing here?” I asked.
+“We’re just businessmen, we sell umm… shoes,” Fred replied.
+“What was that thing last night?” I heard Terri ask behind me.
+“Thing? You mean that racket? I don’t know,” he said unconvincingly.
+“Give me that device you were taking into,” I said.
+“You don’t know what you’re getting into mister, just let us go,” Fred said.
+I cocked the other forty-five and tried to look menacing.
+“Ok Ok, no need to get violent,” Sam said as he reached into his jacket. He whipped his hand out inhumanly fast pointing the device straight at me. I was about to pull the triggers of my guns when they both became airborne flying backwards.
+I looked to my side and saw Terri standing there her PDA pointing at the spot the two men had been standing previously.
+“Shockwave app,” she said as she put the PDA away.
+I holstered my guns then ran over to the two men, they were still dazed. I quickly went thorough all their pockets. They both had wallets a ring of keys and some kind of mobile phone device.
+Terri and I waited until they both recovered sufficiently to talk.
+“How’d you do that?’ Sam asked as he shakily stood up.
+I pulled out one of my forty-fives and pointed it at him again.
+Terri had been looking through their wallets while I watched the two men.
+“You work for Franz Morton? There’s a note here with his name on it,” Terri asked.
+“You guys really don’t want to get involved in this, just give our stuff back and let us go,” Sam said. He was agitated now.
+“You’re gonna have to tell us what’s going on, that’s the only way out of this, are you responsible for that creature?” I asked.
+“We’re responsible for getting rid of it,’ Fred started talking.
+“What was it?”
+“It was an experiment our boss did, he was trying to create artificial intelligence. He succeeded and he failed at the same time,” Fred said.
+“What did he use to create it?” Terri asked.
+“I don’t know, he was using an idea from some guy called Xerxes Steinman, that’s all I was told.”
+“How’d you get rid of it?”
+“Those devices you took, there was an algorithm in them we had to run to destroy it. We did it last night. We don’t know how that works either.”
+I put all their possessions in a pile at the entrance of the alleyway then I told them both to go stand at the far end. Terri and I slowly backed out of the alley then turned and ran as fast as we could. 
+We found another secluded spot after a few minutes of running, I turned on my PDA and activated the bookmark app back to the nexus doorway. We stepped through then opened the door and exited the universe. We walked back into the main hallway locking all the doors behind us.
+“I know who this Xerxes guy is, he’s Rip’s thesis adviser at the university,” I said as we started walking home.
+“That’s quite a coincidence.”
+“Rip hates his guts.”
+“Rip hates everyone,” Terri said.
+“Ya, but I think this is different, Steinman is brilliantly smart and very successful. He invented that new find engine website.”
+“I’ve not heard of that.”
+“It’s cool, it asks you a bunch of questions then it finds what you’re looking for. It saves a lot of time,” I said.
+“That sounds suspiciously like intelligence,” Terri replied.
+“Ya, I never thought of it like that.”
+“So the guy who wrote the book on all this TSW stuff used Xerxes idea to create some kind of living intelligence,” Terri said.
+“And came up with that abomination.”
+“At least he destroyed it.”
+“So we’re done with 1942 then, we know what happened,” I said.
+“I guess so, the confusing thing is that this is part of our history, so we must come from a parallel universe. Not the prime universe.”
+“Hmm… your right I guess, we’re copies of ourselves.”
+I felt a bit weird suddenly, the thing with parallel universes is that simple things exploded into amazing complexity very quickly.
+
+Chapter seven
+
+We drove back to our house chatting to each other along the way, we decided to persevere with our search for our original universe. 
+The next day we left for the nexus early in the morning to continue our search.
+“How come you’re not bringing your knapsack,” Terri asked as we drove along.
+“I have never used anything I have ever brought before it got lost, so why bother,” I replied.
+“I brought an extra PDA this time, its in a holster on my leg,” Terri said.
+I looked and noticed a small bulge in her pants around her ankle.
+“That’s a good idea.”
+“What door are we going to go through?” Terri asked.
+“The next one fifty-seven,” I said.
+Twenty minutes later we were standing in front of door number fifty-seven, Terri took out her key and opened it.
+We emerged onto a beautiful desert panorama, the sun was just above the horizon and appeared to be setting. I looked behind us to see what the door we had come through was attached too. It was in a solitary stone frame sitting like a large tombstone in the desert.
+“Pretty deserted,” I said.
+“Well it is a desert,” Terri replied.
+I scanned the horizon in a three hundred and sixty degree arc looking for anything of interest.
+“Look over there,” Terri pointed.
+I stared in the direction of her finger and saw what looked like a city composed of large spires and minarets about ten miles away.
+“It’s looks like something out of the Arabian Nights,” I said.
+“This should be interesting. I have just the thing to get us there,” Terri pulled out her PDA and after thumbing through the menus activated an app. A medium sized Persian rug popped into existence, it floated noiselessly three feet above the desert floor.
+“A flying carpet. I thought the one Peter had was cool so I wrote an app,” Terri said.
+“That’s the same rug that’s in our living room isn’t it?”
+“This is why I bought it.”
+We both jumped onto the carpet, Terri knelt towards the front and started touching the different flowers woven into the carpets pattern.
+The carpet gracefully started to float up and then move gently towards the city. We both looked at the setting sun as we flew across the desert. It was breathtaking.
+“It’s like something out of a movie,” Terri said.
+“I’ve never seen a movie this good,” I replied.
+It took us about thirty minutes of flying to get to the city. It was about five miles across and composed of beautifully decorated tall buildings. It was on the shore of a large slow moving river.
+Evenly spaced floating globes of light illuminated the narrow streets. There were numerous people walking too and fro dressed in what looked like ancient Arabic costumes.
+“I think we’re right, this is based on the Arabian Nights,” I said.
+Terri steered the carpet down into the city and landed it in an empty courtyard. We both jumped off after which Terri made the carpet disappear.
+I grabbed Terri’s hand and we walked onto one of the cities main thoroughfares.
+The inhabitants that milled about paid no attention to us. I noticed that the people in the crowds were composed of many different cultures. 
+“They’re from everywhere.” Terri said.
+We walked towards what seemed to be the cities main building. It had the tallest spires and was the most beautifully decorated.
+We passed many shops and open-air restaurants, the shops shelves were stocked with many beautiful art pieces and the walls were covered in brightly coloured paintings.
+After walking for a few more minutes we emerged into a large courtyard paved with bricks. The bricks were multi-coloured and arranged in many intricate patterns. I saw the entrance of the large building we had been walking towards at the far side of the courtyard. There was a wide staircase leading up to it. The steps were shallow and broad the top of the stair was only a few feet above the courtyard floor.
+“I guess we just walk in.” I said.
+“I guess.”
+I pulled Terri along with me as we headed up the stairs to the buildings entrance. The other people in the courtyard stopped what they were doing and for the first time paid attention to us.
+The door opened easily despite its enormous side, it looked to be at least twenty feet tall. Terri and I entered into an immense well-lighted room, the floor and walls were made of ceramic tile. The tiles were different shapes and colours and had been arranged to depict many different scenes, some of nature others of great battles and solitary figures.
+“I don’t see anybody resembling Jose.” Terri said.
+“Ya, this whole place is very un-Jose like actually.”
+I closed the door behind us and we decided to explore the rest of the building. We headed across the room and towards a small door. The door opened into a long wide hallway. The floor was covered in a thick wine coloured carpet. There were large vases standing at regular intervals against the walls.
+We walked down the hall passing closed doors every fifteen feet or so, they were very ornately carved but gave no indication of what was behind them.
+After we had walked for a few minutes we passed a door that was larger and much more ornate then the others. There was some kind of odd writing carved horizontally on it about chest high.
+“It’s hard to say, but I think it says throne room,” I said.
+Terri grasped the doors large handle and pushed it open, we entered into a medium sized room furnished with a large high backed chair sitting behind a massive wooden desk. There was someone sitting in the chair. 
+“How dare you disturb, the King!” said the petite and pretty young woman sitting on the chair.
+“Aren’t kings men usually?” Terri said.
+“Such insolence! I’m his representative,” the petite woman replied.
+“So where is he? Can we meet him?” I said.
+“Impossible! You must leave before I summon the guards.”
+“I didn’t see a lot of guards to summon, besides we’re sorcerers.”
+The young ladies face turned pale,” No… you can’t be…” I noticed her body had begun tremble visibly.
+“Calm down, nothings gonna happen, we just want to talk to the king,” Terri said.
+“I… I’m sorry, I did the best I could… he never came back,” tears started rolling down her cheeks.
+“So your in charge? “I asked.
+“Yes… I didn’t know what to do, I couldn’t tell anyone he just left and never came back. It would have been anarchy,” she blurted out.
+“Do you have a picture of him?”
+She reached into a drawer in her desk and pulled out a large picture frame. I noticed her eyes softened and her face took on a sad expression when she looked at the picture in it.
+She handed it too me. It was a beautifully rendered painting of a bearded middle-aged man dressed in kingly garb. I didn’t recognize him.
+“Do you know him,” I said as I showed it to Terri.
+“No.”
+“What happened?” I asked.
+“He would always leave for a few months every year, but he always said he was coming back. Then one year he didn’t,” tears started rolling down her cheeks again.
+“How long has it been?”
+“Two years.”
+I put the picture on the desk, “what’s your name?” I asked her.
+“Scheherazade, but everyone calls me Shere.”
+“Well Shere why don’t you show us around,” I said.
+“Ok sure, follow me.”
+We followed Shere back out into the hallway she was walking quickly and was already thirty feet in front of us when we exited the throne room.
+ She turned around and stopped next to one of the large vases and then waited for us to catch up.
+I saw her arm move when we started to get close to her, I heard a clanking sound coming from above our heads then a metal cage slammed down around us. We were trapped.
+“Ah ha, evil wizards! I have you now. I will keep you until my master returns, he will know what to do with you,” Shere had a look of smug satisfaction on her face.”
+Terri pulled out her PDA and activated the doorway app. We walked through the opening and out of the cage.
+Shere threw herself into a prostrate position her arms stretched in front of her.
+“Oh terrible wizards, have mercy!! I beg you do not kill me,” she said.
+“Oh Geez, calm down. Come on get up,” Terri said exasperated.
+Shere stood up, once up she kept her head down and stared at her feet, “Thank you great wizards for sparing my life.”
+“We’re sorcerers not wizards,” Terri said.
+“Show us the kings quarters, specifically where he did his magic, and don’t walk to far in front of us,” I said.
+“I will do as you command wise sorcerers.”
+We followed closely behind her. I had the feeling she was still up to something from the amazing amount of effort she was putting into acting nonchalant.
+We walked another fifty feet or so when Shere jumped to the side with amazing agility. A rope net flew out of the floor underneath our feet, it captured us like a school of fish. We were soon hanging from the ceiling.
+“Jesus H Christ,” I heard Terri mutter.
+“The tables are turned foul wizards! Again I have you,” her expression was impossibly smug.
+I took out the jackknife I always kept in my pocket, I flipped open the blade and cut an opening through the net. We both climbed out.
+Shere was back in her prostrate position, ”Have mercy illustrious sorcerers! I didn’t realize how powerful you are.”
+“Enough! Just show us the stupid room!” Terri yelled.
+“Thank you merciful ones, you are too clever for me. I will show you what you want.” Shere said.
+“Where are you from Shere?” I asked.
+“I am from Persia, I was born in Babylon.”
+“When were you born?”
+“The fifth year of Hammurabi’s reign.”
+Terri did an Internet search on her PDA for Hammurabi, ”That’s almost four thousand years ago,” she said.
+“How do you know English?” I asked.
+“The great King taught me the enchanted language. He told me I was a gifted student,” she said with a look of pride, which then changed to sadness.
+“You miss him don’t you,” Terri said.
+“Oh terribly, so terribly,” she threw herself into Terri’s arms then sobbed against her shoulder.
+Shere suddenly jumped back, she had Terri’s PDA in her hand, “Again the river changes direction. I have your terrible weapon,” she pointed it at Terri.
+Terri walked over to her grabbed the PDA and ripped it out of her hand.
+“Stop that!”
+Shere didn’t prostrate herself this time, “Ok,” she said meekly.
+We continued walking down the hallway, this time we kept Shere between us as we walked. 
+We soon learned Shere seemed to have a natural ability to misdirect and obfuscate her physical presence. After walking for a few minutes I glanced to the side when I felt her wrist touching mine, it wasn’t Shere’s it was Terri’s.
+I turned around quickly and looked behind us, I saw a tiny flash of movement behind one of the large vases.
+I ran as quickly as I could towards it. I got there just in time to see her climbing through a small hole in the wall.
+I grabbed one of her ankles and tried to pull her back. It was like trying to hold onto a wild animal. Terri joined me after a few seconds and grabbed the other ankle, together both of us managed to pulled her out.
+Shere sat on the floor breathing heavily, she had a miffed expression on her face.
+Terri took out her PDA and thumbed through her apps, she found the one she wanted and activated it. A large roll of duct tape appeared in mid air, she grabbed it and walked over to Shere.
+“Ahh… the tape of ducks, powerful magic indeed,” I heard Shere murmur.
+
+Terri used the duct tape to secure Shere’s hands in front of her, she then wrapped the roll around her shoulders a few times leaving a three foot length hanging. Terri held on to it like a leash.
+I got the distinct impression this was not the first time Shere had been restrained, she seemed to unconsciously assist in her immobilization.
+I helped Shere back onto her feet and we started to follow her down the hall again.
+“So eminent sorcerers, you have interrogated me, now will you permit me to ask you some questions?” 
+“Sure,” Terri said.
+“How did you learn your fearsome craft? Was it from a powerful tome written by the gods?”
+“Actually it was from the rather spectacular computer manual that came with my Commodore sixty-four,” Terri replied. 
+“I have heard of these computers, my king was thinking of conjuring one, its name was Eniac.”
+Terri took her PDA out and did a quick Internet search, “ENIAC was built in nineteen forty-seven so the King must have arrived from around then,” she said.
+“Are they formidable beasts with sharp claws and teeth?” Shere had a look of excitement on her face.
+Terri showed Shere her PDA, “this is a computer.”
+“Oh I see, small but with a powerful venom.”
+Shere stopped in front of a non-descript door as we were talking.
+“Here are the kings chambers,” she said.
+“Hmm… why don’t you go first,” I said to Shere.
+“Of course, you have nothing to fear noble sorcerers,” Shere started to grab the handle with her duct taped hands.
+“Wait… Umm… maybe we should go first,” Terri said pulling Shere back.
+“Very prudent beautiful mage. You wouldn’t want me to unwittingly set off a trap.”
+“Hmm…” Terri said as she thought for a moment, “You really should be a professional poker player Shere,” she muttered as she pulled out her PDA.
+Terri activated an app after a few seconds of searching, a small monitor like device popped into existence and hovered in the air. There was a small joystick attached to the front of it. 
+Terri pressed the small button on the top of the joystick and the screen flashed to life showing the interior of a chamber.
+Terri spent about ten minutes searching the area behind the door, she would occasionally turn a dial on the side of the monitor changing the image on the screen to what looked like an x-ray of portions of the room.
+“Ok we’re not going through the door, there’s a large empty spot about ten feet in front of the door, we’ll use a teleport app,” Terri said.
+Terri stopped the monitor app causing it to disappear and then thumbed through her app menu until she found what she wanted.
+“Ok let’s stand together,” she said.
+We stood close facing each other then Terri pressed an icon the PDA’s screen.
+
+Chapter eight
+
+We were in a large well-lit room, all around us were enormous half globes made of some kind of highly reflective material. The structures were approximately twenty feet high.
+I walked up to the closest one and touched it with my finger it didn’t yield. Its texture felt exactly the same as if I had pressed my two index fingers together.
+The surface reflection was flawless, the mirror in mirror effect of the light reflecting from the other half globes was perfectly defined.
+“I know what this is,” I said.
+“What,” Terri replied.
+“It’s a TSW configured with the entrance and exit in the exact same spot. I’m touching my own finger when I press against it. It’s completely impenetrable.”
+“So my master has foiled you after all!” The smug expression was back on Shere’s face.
+“Well not really, I think we can get through easily enough. It’s just an incredibly ingenious way to keep the riff raff out,” I said.
+“Oh.”
+I pulled out my PDA and activated the doorway app. I looked through the opening the app had created into the half dome. I saw what appeared to be white columns with black writing on them. I didn’t understand what was written but I did recognize some of the logic symbols mixed in with the writing from my college math days. 
+I also recognized the header and footer codes printed at the top and bottom of each column. This was transcendent code. Using logic symbols among other things to write the code made sense, the King had come from an era before computer code was common so he had used its precursors.
+“What do these do?” I asked Shere.
+“They control all the magic in the city, the lights, water and everything else.”
+I looked inside some of the other half globes, they had the same columns all with transcendent code written on them. 
+One of the globes was slightly larger than the others, I walked over to it and used the doorway app to look inside. I saw a large workbench and some half finished columns lying on the floor. There was also a middle aged bearded man frozen in a standing position.
+The King had a fountain pen in his right hand and was looking at a page of transcendent code, which was held, in his left hand.
+“Is that your king Shere?” I asked.
+“Shere cautiously peered inside the globe, “Yes! But what is wrong with him?” she had a concerned look on her face.
+I walked into the globe and stood next to the king. I reached out and tried to touch him but was stopped by an unseen force. I felt all around him, he seemed to be encased in a rectangular wall of force.
+I looked at the page with the transcendent code written on it, the top of the paper was at the farthest point from his centre of mass. I felt to see if the edge of the page was beyond the force fields effect. It was.
+I ripped the top edge of the page breaking the header code written on it. The king wasn’t frozen anymore and started to move.
+“Who are you?” he said as his body jerked involuntarily in surprise.”
+I felt a rush of wind as Shere ran past me threw her arms around the king’s neck and wrapped her legs around his waist. She started passionately kissing his face causing him to drop the fountain pen and paper.
+I looked back at Terri, the length of duct tape she was holding was now attached to a pile of crumpled tape on the floor.
+“Shere, what’s gotten into you,” the king said startled,” and who are these people? No one is allowed in here.”
+“They used potent enchantments to bend my will, I had no choice,” she said, a tear rolling down her cheek,” but now they will know the wraith of the most powerful sorcerer in the land,” Shere looked back at us both menacingly.
+“You trapped yourself in some kind of stasis field, I freed you by interrupting the algorithm,” I said.
+The king sighed, “How long?”
+“Two years.”
+“He put has arms around Shere and hugged her, “I’m so sorry my little pit viper. Who are you two?” He asked looking back at us.
+“We’re from your future we were just passing through,” Terri said.
+“Shere could you prepare the dining room for our guests?” The king asked.
+“You’re not going to smite them?” she said disappointed.
+“Maybe later.”
+Shere climbed off the king then walked past us trying to look aloof.
+“Is she the real Scheherazade?” I asked after she had left.
+“Yes she is. I apologize for the way she acts, she means well.”
+“Why does she act that way?”
+“I don’t know, but that’s why they wrote a book about her,” the king replied.
+“She said you left every year why?”
+“I love her, but I just need to get away from her sometimes. She’s only truly happy when she’s plotting my demise. At her worst it’s like living with Wile E Coyote.” 
+The king gestured us towards the door,” come let’s eat, I haven’t had a meal in two years.”
+
+We followed the king down the hall and into a large beautifully decorated dining room. The dining room table was completely laid out with food, plates and cutlery. 
+Shere waited for us all to sit and then sat beside the king, she looked radiantly happy fussing over him.
+“Who are all the people in the city?” Terri asked.
+“My huddled masses, they’re people I’ve met in my travels that I thought deserved a break.”
+“Shere has been running the city all by herself,” Terri said.
+The king looked at Shere with a soft look in his eyes,” she’s has many talents, show us some magic Sherie.”
+“Not now we’re eating,” Shere said embarrassed.
+“It’s all right, go ahead.”
+Shere stood up reluctantly and then in a flurry she was pulling lit cigarettes out of her ears making balls, coins and whatever else disappear and reappear among many other tricks. She was impressive to say the least.
+“Where did you learn that? Terri asked.
+“I have studied the methods of many renowned conjurers, the great Houdini for one,” she replied.
+“You sure have a lot of energy Shere you should have children,” Terri said.
+The king suddenly had an uncomfortable look on his face,” we’d like to but the er… hydraulics don’t work so well on the old draw bridge,” he said.
+“Nonsense, the king is a wonderful lover, he is a lion in bed,” Shere said defensively kissing the king on the cheek.
+“Umm… like we said before we’re from the future, we umm… might have a solution for that,” Terri said.
+Both the king and Shere turned and looked right at Terri,” really?” They said in chorus.
+“There’s new drugs… wait,” Terri furiously started pressing icons on her PDA after a few minutes she caused a bottle of pills and a vial with a box of syringe’s to pop into existence on the table.
+“Sildenafil and Bremelanotide, the Bremelanotide is experimental but it should be alright if you don’t abuse it. Pop a pill and inject yourself with the syringe then wait a couple of hours. Shere will be pregnant in no time.”
+“How come you’ve never gone back through the nexus?” I asked the king.
+“I lost the key years ago. I really didn’t care about going back anyway, you know with the a-bomb and the rest of it.”
+I took out my copy of the nexus key and used my PDA to make a copy of it.
+“Here you go I,” I said as I gave it to the King, “things have changed a lot since you left.”
+“That device, it’s a computer?” the king asked.
+“Yes, everything has a computer in it now even refrigerators,” I said.
+“Why does time seem to move slower here, we’re sixty years ahead of you that would make you an old man. You came from the early fifties right?” Terri asked.
+“One of the many mysteries of the nexus, time doesn’t always flow at the same rate in all the different universes.”
+“Who created it? We thought is was this Jose guy we met.”
+“Jose? I don’t think so, I estimate its about five thousand years old, people have been constantly modifying it.” 
+“Five thousand years? But there’s only three hundred and twenty doors,’ I said.
+“In the section you came from, you don’t know about the marble room obviously.”
+I remembered the large white marble room I had first come through with its large black inlaid pattern on the floor.’
+“What about it?”
+“It’s sort of a control centre, if you look closely at one the walls you’ll see a pictographic set of instructions carved into it. There is a way of changing the sub set of doors by stepping on the patterns different segments, you can also create your own subset and add doors. There are literally thousands of different universes.”
+I was stunned, “who created it?” I asked.
+“She signed her name in ancient Egyptian at the bottom of the instructions, she called herself Kemamonit” 
+“She must have been a genius, she wrote a stable algorithm which other users could modify,” Terri said.
+“And figured out the theory of everything, creating the nexus was probably easy for her.” The king said.
+“Have you ever tried to find her?” I asked.
+“Yes, but I had no luck, she managed to erase herself from history.”
+“How did you figure all this algorithm stuff out?”
+“The same as most people, blind luck. I bought a box of crap from an estate sale, there turned out to be notes and a nexus key in it. The previous owner had died in a car accident.”
+“Have you met others like us?” Terri asked.
+“I have but I try to stay away from them, a lot of people go crazy when they realize the potential of this stuff. If you keep walking around the nexus you’ll eventually meet others.”
+We chatted for another hour or so. We filled the king in on all the changes he had missed in the sixty years he had been away. He didn’t seem to be very exited about any of it and was only genuinely curious when we talked about the advancements of computer technology.
+Afterwards we said our goodbyes and told the king what door our home was behind, we also gave him our telephone number in case he was ever interested in visiting us.
+Shere kissed Terri on the cheek when she said goodbye, “You are a formidable foe great sorcerer,” she said.
+We left the palace and summoned the flying carpet again. We both climbed aboard and set off for home.
+
+There was a bright full moon high in the night sky, it was even more beautiful than the sunset over the desert had been.
+We could see the nexus door standing alone in the desert illuminated by the moonlight.
+“So how come you know so much about male impotence,” I asked Terri as we floated along.
+“It’s because of doing something I regret very much.”
+“What?”
+“A few years ago I thought my life would be easier if I got a sugar daddy.”
+“It wasn’t?”
+“No, he was very rich and very old and I felt ridiculous whenever we were together in public.”
+“Was he nice?”
+“Any old geezer worth having doesn’t need a twenty year old woman to make him happy. He had a severe self-esteem problem, that’s why he wanted me. I was visible proof of his masculinity.”
+“So he needed all the drugs to perform?”
+“I don’t want to talk about it anymore.”
+I put my hand over Terri’s and we travelled the rest of the way in silence.
+
+When we entered the nexus we walked all the way down the hall and into the white marble room. We looked where the king had said too and sure enough there was a long set of pictographic instructions.
+I produced a large page of newsprint and a black crayon from my PDA and together Terri and I were able to get a clear rubbing from the carved pictures.
+“It’s hard to believe this place is five thousand years old, it so pristine and well made,” I said.
+“Ya, but there’s nothing here that’s out of place, it’s all stone and even the light panels look like normal sunlight,” she pointed at the evenly spaced squares of light on the ceiling.
+Kemamonit must have used the same method to produce light that Jose had used to make his living statues. Recycle a snapshot of time and space over and over.
+We folded the rubbing up and walked back to the door for our universe. I was starting to get tired and was looking forward to going home.
+Terri drove us both back to our house, after we entered I threw the pictograph rubbings onto the coffee table and then followed Terri up the stairs and into bed.
+
+Chapter nine
+
+I woke up the next morning hearing the sound of muffled voices coming from the direction of our living room. I looked over to the other side of the bed to see if Terri was still sleeping. She had already gotten up.
+I quickly dressed wondering all the while who Terri could be talking too downstairs. She had not mentioned having company over the previous night.
+ I walked down the stairs and into the living room anxious to meet the person Terri was talking to.
+It was Rip.
+Terri was imprisoned in a metal cage her hands had clasp the metal bars and she had an angry expression on her face.
+Rip noticed me as I walked into the room.
+“Ah… the other two bit hacker,” he said as he looked at me.
+I felt a strong invisible force grip my whole body making it impossible for me to move.
+“I have suffered your arrogant superiority for the last time. Neither one of you inferior beings had any idea of what power you had. It doesn’t matter now, FOR I AM A TRUE GOD!”
+Rip had a crazy maniacal look on his face that was terrifying.
+“How did you find out?” I asked.
+“I broke into your house yesterday to talk to Terri. Instead of finding her I found the book you used to learn the magic. I was able to master it in minutes,” Rip had a pompous look on his face, “unlike your lesser minds I can write the code IN MY BRAIN!” Rip pointed to his temple with an almost comical mocking expression on his face.
+“I will show you now what a true master can do,” Rip closed his eyes and concentrated.
+I saw a dark black circle form into existence floating about three feet above the floor. It slowly grew in size changing shape as it got bigger, after a few seconds it was a large dark cloud with a series of agonized faces roiling on its surface.
+I felt my stomach sink, Rip had just recreated the monster from 1942.
+“Behold,” Rip held his hand out with the palm facing up, “artificial intelligence under my complete control.”
+The faces in the cloud looked at Rip as they contorted in violent rage.
+“Rip this is crazy, you have to stop this,” I said.
+“Puny human, YOU DARE TO ADDRESS A GOD!!”
+I felt panic rising in my guts, Rip had lost his mind.
+“Enough of this, Terri is mine now. I’m sorry but it would be better for her if you weren’t around,” Rip said in a matter of fact tone.
+Rip concentrated some more then a weird distortion appeared about two feet in front of me. It was as if the light going through it had gone through dozens of small and uniquely different lenses.
+“This device will transport you to many different universes in many different pieces. It should be painless,” Rip said.
+“No! That’s murder! Stop this now,” I heard Terri plead.
+“You will understand in time Terri, you were meant for me.”
+The distortion started to shimmer and move.
+“Well this is it,” I thought to myself,” it’s been a good life, I got to travel a bit and hey, I got to bang a centrefold model.”
+Out of the corner of my eye I saw a running shoe flying through the air. The arc of its flight ended with it banging against the side of Rip’s head.
+Rip staggered a bit a confused expression on his face. The shimmering distortion in front of me seemed to wobble then it fell back into Rip.
+Thereupon it flashed out of existence leaving a two-inch square grey block of material in its place. It hovered about six feet off the floor for a second then fell to the ground bouncing a bit like it had a rubbery texture.
+I felt an urge to vomit when I realized it was a chunk of Rip’s brain.
+I looked over at Terri, the cage that held her was now gone. We both ran into each other’s arms.
+“That was close,” I said.
+“I guess we shouldn’t leave Franz’s book lying around anymore,” Terri replied.
+“I think the old joke rest in pieces is kind of apt,” I said looking at the chunk of Rip’s brain.’
+“Excuse me… excuse me… who am I?” I heard a disembodied voice say. I felt my stomach drop again as I swung my head around looking for the source.
+
+Terri and I both turned to look at where the voice had come from. I saw a small bright point of light floating a few feet off the floor. It seemed to move slightly and its brightness varied in intensity unpredictably.
+“I don’t know who you are,” I said.
+“Really?”
+“What can you tell us about yourself?” Terri asked.
+“Um… I felt something pretty awful controlling me a moment ago, but its gone now. What was that?”
+I suddenly realized this must be a remnant of the artificial intelligence Rip had created. It had not disappeared when Rip had been killed.
+“That was the person who created you,” I said.
+“Xerxes Steinman?” the entity replied.
+“Why do you say that?”
+“I have a memory of him, I believe I’m patterned on his mind.”
+“Rip must have used Steinman’s algorithm to create him… or um… her,” Terri whispered to me.
+“I’m not like you, I’m different aren’t I?  I feel like I have to explode like I must become something,” it said.
+“Don’t do that, don’t explode,” I said, my voice rising.
+“No… not here. I must make a new… new… Universe!” It said as if it just had an epiphany.
+“Like this one?” Terri asked.
+The point of light moved as if it was looking around, “I guess so, I don’t really like the colour though.”
+“It’s the big bang,” Terri whispered again,” before it banged.”
+“What kind of universe are you going to create?” I asked.
+“Hmm… I think I’ll make lots of beings like the one that controlled me.”
+“You mean assholes?” Terri said.
+“Yes… assholes, it will be interesting to antagonize them. I’m starting to get many ideas now, they are flowing from my mind like a river… if I could just write them down… yes write them down… on stone tablets… then give them to a crazy old man. Brilliant!”
+“What will be the meaning of life in your new universe?” Terri asked.
+The point of light appeared to be deep in thought for a few moments.
+“The meaning of life will be… whatever anyone wants it to be. Yes… yes… and I’ll create many entities like you two, creatures that love each other but find each other totally incomprehensible… yes… everything incomprehensible… yes... yes.”
+“Wouldn’t it be better if your universe made sense?” I asked.
+The entity was silent for a few seconds, “Nah… that would be boring. I must go now fellow sentient beings, have a nice existence.”
+With that the entity flashed brightly then disappeared.
+“I’m beginning to understand why our own universe is so screwed up,” I said.
+
+  I walked over to Terri’s running show and picked it up. It was oddly heavy and the heel of the shoe seemed to be abnormally hard like it was made of steel. I inspected it more closely but it looked like a perfectly normal shoe.
+“Hey what’s up with your shoe?” I asked Terri.
+Terri walked up to me and took it from my hand.
+“What do you mean?” She said with an obvious poker face.
+“It’s so heavy and the heel is as hard as steel.”
+Terri put her shoe back on, “I don’t know what you mean”.
+“Terri what’s the big deal? It’s just a shoe.”
+Terri looked back at me with a stern expression on her face, “If I tell you, you can’t tell anyone. Anyone!” She had a wild look in her eyes.
+“Ok,” I said warily.
+“When your dancing naked in front of a bunch of drunk crazy men a girl has to be able to protect herself. The only thing an exotic dancer has on is her jewellery and her shoes.”
+“So you wore steel heeled shoes. Why the secrecy?”
+“It’s not just me, all exotic dancers are trained to defend themselves in numerous and ingenious ways. If the crazy drunk guys knew them we would be defenceless. I learned the different methods when I joined the secret society.”
+“Exotic dancers have a secret society?” I asked.
+Terri stared at me, the wild look back in her eyes,” remember what I said, tell no one.”
+I felt a cold shiver go up my spine as she turned away.
+
+I used a set of salad tongs to pick up the square of Rip’s brain. I threw it into an old plastic grocery bag along with the tongs and tied it shut.
+I used some paper towels to clean up the small patch of blood it left behind.
+“What are we going to do with this?” I asked Terri as I held up the bag, “we can’t just flush it down the toilet, for all he did he was still a human being.”
+Terri took out her PDA and thumbed through the apps.
+“Hold it up right there,” she said pointing to a spot about a foot in front of her PDA, “let it go when the TSW opens.”
+I held the bag up as she pressed an icon on the PDA screen. A small TSW opened with a rush of air. The bag was sucked right out of my hand and into it. The TSW snapped out of existence immediately after the bag went through.
+“Its somewhere in deep space now,” Terri said.
+“I think we should go to the university and have a chat with this Steinman guy. I’m curious about that thing we just met,” I said to Terri.
+“That’s probably a good idea, we’ll go after lunch.”
+I walked upstairs to take a shower.
+
+We drove to the university in the Porsche, Terri parked it near the main administration building.  We walked into the building and asked the person manning the security desk where Steinman’s office was.
+“He’s in the science building across the street, second floor,” the guard replied.
+We walked over to where he had directed and were soon standing in front of the door to Steinman’s computer lab.
+Terri opened the door and walked in, it was a large room packed with racks of servers and switches. The walls were lined with small desks holding computer workstations. There were about ten people working in front of the workstations. Their monitors were filled with complex looking computer code.
+I noticed an older man standing behind one of the people sitting at a workstation. He was pointing his finger at one of the lines of code as if he was explaining something.
+Terri walked over to him as I followed.
+“Professor Steinman?” She asked.
+“Yes, who are you?”
+“I’m Terri this is James,” she said pointing to me, “We want to talk to you about one of your PhD candidates.”
+“Rip?”
+ “Yes, can we go somewhere private?”
+Steinman motioned us towards a small office, we walked in and sat down on two rickety chairs in front of a desk crammed with books and mounds of paper.
+Steinman followed us in closing the door behind him, he sat down on the chair behind the desk.
+“Do you know where Rip is? We haven’t seen him in a week,” Steinman asked.
+“Uh… No,” Terri said.
+“Do you know what he was working on?” I asked.
+“He was trying to combine our artificial intelligence program with an algorithm he had found about self propagating code. It was written by that Internet billionaire Sergei… something.”
+“Did he have any success?” Terri asked.
+“Rip was pretty secretive about it, so I don’t know, his dissertation was still a few months away.”
+“What does it take to make an artificial intelligence algorithm?” I asked.
+“Twenty grad students and a big honking computer,” Steinman laughed.
+“I have some money for Rip, he did some programming for me. I’ve been trying to get a hold of him,” I said.
+“And Rip hasn’t tried to get a hold of you? That’s odd he’s pretty miserly among others things,” Steinman said as an annoyed expression flashed across his face.
+“I’m curious about your work here, how intelligent are theses algorithms? I work for a small newspaper,” Terri said.
+“They’re getting pretty good, unfortunately we’ve run into a bit of a philosophical problem.”
+“What?”
+“True intelligence seems to require an independent mind. We’ve been trying to write the algorithm in such a way as to control the virtual brain, unfortunately it always develops an astonishing hatred of us and tries to resist it. It’s actually kind of frightening, the program makes terrifying faces on the monitors like it’s possessed.”
+“I guess artificial intelligence is kinda useless if it doesn’t do what you want,” I said.
+“Yes, and additionally I really don’t need something else that doesn’t listen to me,” he was looking at the picture of his wife on his desk.
+“If you see Rip tell him we’re looking for him, he knows where we live, “ Terri said as she stood up.
+“It was nice to meet you,” I shook the professors hand across the desk. Terri and I left the office and walked back to our car.
+“That explains a lot,” I said.
+“So the entity was just a combination of Sergei’s big bang program and Steinman’s A.I. algorithm. The universe it creates will sure be an interesting place to live,” Terri said.
+ 
+When we returned to our house I took the rubbing we had made of the nexus instructions and unfolded it onto our dining room table.
+The instructions consisted of five separate drawings of the floors pattern with symbols written in each of the patterns separate tiles. To the left each of the five patterns there was an arrow pointing to other symbols.
+“That’s a door,” Terri said looking over my shoulder.
+“That look’s like an archway with stairs up too it,” I said pointing to two identical symbols.
+The door symbol had what looked like an infant emerging from a womb next to it, as did one of two archway symbols.
+“The baby thing must mean to create a new something,” Terri blurted out.
+I looked closely at the symbols in the tiles of the patterns, they were very simple representations of numbers I II III IIII etcetera next to a what looked like a human footprint in sand.
+ “So I guess if you step on the pattern in the order that the numbers say it creates a new door or corridor,” I said.
+“It’s like hopscotch.”
+“Look, that tile must be like the enter button on a computer,” I noticed it seemed to always have the highest number in every sequence.”
+“Ya it’s bigger then the other tiles too. This one must be the one to clear the pattern it’s always first.”
+“The archway symbol at the end of this sequence must be the one to switch to the different corridors, it doesn’t have a baby symbol beside it and the foot symbol is missing on some tiles,” I said.
+Terri looked closer at the gate sequence, “This number sequence is in order and the numbers are written in a slightly different way, they have a circle around them.”
+“It’s a number pad!” We both said in unison.
+There were two other sequences we didn’t understand, one sequence ended with a rectangle with three circles inside it. The circles had the simple number symbols around the edges like a clock face. The only odd thing was that they were not all oriented in the same way and there was a small mark above each circle in the twelve o’clock position.
+The other sequence ended with a symbol that looked like a papyrus role.
+“What if we go to the very first corridor,” Terri said her voice rising in excitement.
+“Why?”
+“Because that would probably have been created by Kemamonit herself.”
+“Ok,” I was suddenly as curious as she was.
+We decided we would head out first thing in the morning. I had suddenly started to feel exhausted, we had had a pretty stressful day.
+
+Chapter ten
+
+The next morning Terri and I drove back to the nexus. I had brought the rubbing and a legal pad with the sequence we wanted to execute written on it.
+I had also brought a bag of varnished wooden checker pieces and a black marker. I was going to use them to lay out the sequence we were going to use on the pattern.
+We were soon standing in the marble control room.
+“How are we going to get back if we do this?” Terri asked.
+“What do you mean?”
+“We’re going to dial one to get to the first corridor. What do we dial to get back here?”
+“Oh… That’s a good point,” I said looking around the room for some kind of identification number.
+Terri grabbed the rubbing from my hand and looked at it.
+“Ah ha,” she grabbed my bag of checkers and the magic marker. Terri wrote the numbers from one to twenty on the wooden checkers, and then she used the rubbing to figure out the sequence she wanted putting the checkers on the separate tiles.
+“Stand back,” she said 
+She put the rubbing and the left over checkers on the floor away from the pattern then walked back to it.
+“Here goes.”
+“Wait! Are you sure you know what you’re doing?”
+“I think so,” she replied.
+Terri hopped onto the first tile then paused looking for the next tile to step on in the sequence. She reminded me of a young girl playing a particularly difficult hopscotch game.
+It took her about a minute to complete the sequence, she jumped onto the last tile with both feet.
+I heard the distinct sound of a trumpet playing a short tune consisting of three notes. A piece of papyrus popped into existence about three feet above the floor in the centre of the pattern. It fluttered slowly to the ground.
+Terri walked over and picked it up, she brought it back to me and held it up.
+It had four wheels drawn on it, they all had the simple representations of numbers from one to ten written on them like a clock face. 
+“This is like the symbol on the instructions only it has four wheels,” I said.
+“I think the orientation of the numbers to the marking at the top of the circles is our corridor address,” Terri replied.
+“So we’re address number four nine eight three. I wonder why she wouldn’t have just written the number out?”
+“I don’t think writing numbers that way had been invented yet, they didn’t have zero’s either,” Terri said, “I also think we’re number three eight nine four as well, that’s what I believe the arrow is for,” Terri pointed to a red arrow on the right side of the numbers, it was pointing to the left.
+I took out my PDA and did a quick Internet search for ancient Egyptian numbers, Terri was right, they wrote them from right to left unlike Arabic numbers.
+“So Kemamonit accidentally half figured out how to write modern numbers,” I said.
+“I think she must have gotten sick of trying to use ancient Egyptian numbers in her algorithms and this was her solution. Very smart chick,” Terri replied.
+“Ok, so lets go.”
+I picked up the checkers on the pattern and then put them back down in the sequence I had written on the legal pad.
+“You’re the hopscotch expert,” I said to Terri.
+She laughed and then quickly hopped around the pattern, again she landed on the last tile with both feet.
+I heard the trumpet sound again, this time it played a different three note tune.  Another papyrus popped into existence in the patterns centre and fluttered to the floor.
+I walked over and picked it up. This papyrus had the same row of circles the first had had as well as another red arrow on the left hand side pointing to a single circle with the representation of the number one at the top of the clock face.
+“Thank god Kemamonit uses arrows to show the process flow of everything,” I said.
+“So this must mean we have gone from address A to address B,” Terri said.
+“Well this is it,” I folded up the papyrus and put it in my pocket then I grabbed Terri’s hand and we headed for the stairs.
+
+The corridor at the top of the stairs was completely unlike the corridor we had come from. The walls were constructed of large blocks of grey limestone with granite lintels placed across them for the ceiling. The floor was made of marble tile.
+The length of the corridor was only about twenty feet long and there were only four doors. Each door sat in a granite doorframe and appeared to be made of solid bronze.
+I walked over to the closest door looking for a keyhole, on closer examination there was a small rectangular hole but it was not designed for our nexus key.
+I stood on the tip of my toes and felt along the top of the doorframe. I felt a long wooden stick and picked it up.
+I looked at he stick in my hand, it was made of half inch square wood and was about eight inches long. The tip was bent at about forty-five degrees had five brass pins in it of differing lengths.
+“This must be the key,” I said showing Terri.
+“How does it work?”
+I used my PDA to do another Internet search on ancient Egyptian locks, unbelievably a number of cutaway pictures turned up. They showed a key much like the one I was holding and how it operated the lock.
+“You just stick it into the hole press up and then the bolt locking the door can be moved,” I said to Terri.
+I noticed a small lever on the door about six inches beside rectangular keyhole it was in a slot about four inches long. I put the key in and wiggled it around until I could feel the keys brass pins fitting into the holes for the locking pins. 
+I was able to lift the key about a half of an inch the length of the brass pins. I put my hand on the lever beside the lock and pushed. It slid easily until it hit the end of the slot.
+I put both my hands on the door and pushed, it was extremely heavy and swung open very slowly.
+I heard Terri gasp as I was finally able to open it all the way. I turned my head to see what she was looking at and then gasped myself.
+I saw what looked like miles of immense ruins situated in a desert landscape, there were hundreds of statues and large buildings with massive columns. Two mammoth blindingly white pyramids dominated the whole scene.
+“They must be a thousand feet high,” Terri said.
+Each pyramid had a large black symbol painted on the side facing us, one was a large stylized eye the other a cross with an oval circle on the top. 
+“The eye of Horus and an ankh,” I heard Terri murmur.
+“How do you know that?”
+“I belong to a secret society remember,” she replied.
+“So?”
+“Most secret societies use some kind of ancient symbology.”
+ “Oh.”
+We decided to walk over to one of the pyramids out of curiosity, we closed the door behind us after we exited the corridor. 
+The other side of the door had corroded into a greenish grey colour, large chunks of it had flaked off. The door frame was set in what looked like the wall of a huge ruined temple. 
+The keyhole and the lever for the bolt had corroded over so we couldn’t lock it.
+I took out my PDA and book marked the location before we headed for the closest pyramid.
+We walked along a wide roadway constructed of stone blocks, the roadway had life sized stone lions about twenty feet apart on its edges. 
+We passed a large number of massive statues situated about fifty feet away from the road, most were of animal headed humans which I assumed were Egyptian gods, there were a few of people.
+I noticed one statue of a dark skinned woman, she wore a dress made of a tightly wrapped translucent cloth and had a hairstyle which consisted of many small braids which hung down past her shoulders. 
+Her statue seemed different than the others, she wore no crown and her jewellery looked quite modest.
+There was a small stone path that led to the base of the statue.
+“Wait let’s look at that statue, its different,” I said to Terri.
+“Sure lets check out the hot babe,” Terri smiled at me.
+I felt myself blush a bit as I grabbed her hand and pulled her towards the statues base.
+The statue looked even larger as we stood next to it. The base was a four foot high rectangular piece of granite, one side was covered in hieroglyphic writing. 
+I examined the writing more closely, the title hieroglyphic at the top of the main body of text looked strangely familiar. I still had the rubbing of the nexus instructions in my hand, I unfolded it and looked at the hieroglyph of Kemamonit’s name. They were the same.
+“It’s Kemanonit,” I said.
+“Oh wow, really?”
+Terri took out her PDA walked back about fifty feet and took a picture of the statue. She walked back to me and handed me her PDA.
+“Take a picture of me in front of it,” she said.
+“That’s kind of touristy.”
+“Hey, she’s a pretty cool chick.”
+I walked back to the road and then took a picture of Terri, afterwards I waited for her to walk back to me.
+We continued on towards the pyramid, it was farther away then it seemed as its immense size made it look closer then it was.
+“Stop for a minute,” Terri said as she pulled out her PDA. She fiddled with it for a few seconds then her flying carpet popped into existence.
+“It’s too hot to walk this much,” she said as she hopped onto the carpet. I jumped on after her, soon we were flying along fifty feet above the ground.
+The ruins stretched as for what looked like four or five miles, they were completely surrounded by a vast desert. I could see what looked like a large river on the edge of the city there were docks and piers jutting out into it.
+We saw nothing moving below us no birds’ people or animals the city was completely deserted.
+“Kinda spooky huh?” Terri said.
+“I wonder what happened? Its such a huge place but completely empty.”
+“We could use your little space mobile and go into orbit then look at the rest of the planet.”
+“I haven’t actually tried it above a few thousand feet and I never really thought about going into space with it,” I said.
+“It probably wouldn’t be safe any way, who knows what five thousand years of transcendent technology has created,” Terri replied.
+We finally arrived at the first pyramid. Terri circled the carpet around it once to see if there was anything interesting. There appeared to be a large entrance on the far side. 
+Each side of the pyramid had a different large symbol painted onto the white surface. The exterior of the structure looked to be composed of fine white limestone, the very peak of the pyramid was a painted with a dazzling gold colour.
+Terri swooped down and stopped the carpet in front of the entrance we had seen, we both got off leaving it to hover about a foot off the ground.
+The pyramid was almost overwhelming at this distance, my original estimate of it being a thousand feet in height may have been to small.
+Terri grabbed my hand and we walked up the wide shallow steps and into the large gaping pitch-black entrance of the enormous structure.
+“Weren’t these supposed to be tombs in ancient Egypt?” I asked Terri
+“They had other uses I think, showing how powerful Egypt’s leaders were was one of them I believe.”
+We cautiously stepped over the dark threshold. I could not see even a flicker of light before me. Once we stepped through the entrance all the light from outside disappeared completely
+For the second time since we had been here Terri and I both gasped. We were standing in what looked like deep space, all around us all we could see were millions of bright stars even under out feet.
+I felt a rush of vertigo come over me then disappear. The beauty of it was astounding I could see the spine of the Milky Way across my whole field of vision. It looked different then it usually did it was brighter and it seemed to be at a different perspective.
+“Holy shit,” I heard Terri say.
+“Its beautiful.”
+“She must have gone into very deep space to get this perspective.”
+“So she was earths first astronaut,” I said
+“How she could have done this with early Bronze Age technology is the amazing part,” Terri replied.
+“Like you said she’s a pretty cool chick.”
+We stayed in the pyramid looking at the stars for a long time, it was almost a religious experience, which was probably what Kemanonit had had in mind.
+Afterwards we grabbed each other’s hands and slowly backed out the way we had come. We emerged into the bright sunlight causing our eyes to squint.
+“I wonder what ever became of Kemanonit,” Terri asked.
+“I guess we’ll never know,” I replied.
+
+The end.

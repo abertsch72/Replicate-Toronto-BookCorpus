@@ -1,0 +1,978 @@
+﻿Quantum Troopers
+Episode 2: Nog School
+Published by Philip Bosshardt at Smashwords
+Copyright 2016 Philip Bosshardt
+Smashwords Edition, License Notes
+
+This ebook is licensed for your personal enjoyment only.  This ebook may not be re-sold or given away to other people. If you would like to share this book with another person, please purchase an additional copy for each recipient.  If you’re reading this book and did not purchase it, or it was purchased for your use only, then please return to Smashwords.com and purchase your own copy.  Thank you for respecting the hard work of this author.
+
+A few words about this series….
+
+1.Quantum Troopers is a series of 15,000- 20,000 word episodes detailing the adventures of Johnny Winger and his experiences as a nanotrooper with the United Nations Quantum Corps.
+2.Each episode will be about 40-50 pages, approximately 20,000 words in length.
+3.A new episode will be available and uploaded every 3 weeks.
+4.There will be 22 episodes.  The story will be completely serialized in about 14 months.
+5.Each episode is a stand-alone story but will advance the greater theme and plot of the story arc.  
+6.The main plotline: U.N. Quantum Corps must defeat the criminal cartel Red Hammer’s efforts to steal or disable their new nanorobotic ANAD systems. 
+7.Uploads will  be made to www.smashwords.com on approximately the schedule below:
+
+Episode #	Title					Approximate Upload Date
+1		‘Atomgrabbers’			1-14-16
+2		‘Nog School’				2-8-16
+3		‘Deeno and Mighty Mite’		2-29-16
+4		‘ANAD’				3-21-16
+5		‘Table Top Mountain’			4-11-16
+6		‘I, Lieutenant John Winger…’	5-2-16
+7		‘Hong Chui’				5-23-16
+8		‘Doc Frost’				6-13-16
+9		‘Demonios of Via Verde’		7-5-16
+10		‘The Big Bang’			7-25-16
+11		‘Engebbe’				8-15-16
+12		‘The Symbiosis Project’		9-5-16
+13		‘Small is All!’				9-26-16
+14		‘’The Serengeti Factor’		10-17-16
+15		‘A Black Hole’			11-7-16
+16		‘ANAD on Ice’			11-29-16
+17		‘Lions Rock’				12-19-16
+18		‘Geoplanes’				1-9-17
+19		‘Mount Kipwezi’			1-30-17
+20		‘Doc II’				2-20-17
+21		‘Paryang Monastery’			3-13-17
+22		‘Epilogue’				4-3-17
+
+“Primate Ops”
+
+Table Top Mountain, Idaho
+September 15, 2048
+8:45 a.m.
+
+The official name of the course was ANAD Operations and Maneuvers in Live Subjects.  Everybody at Table Top called it “Primate Ops”.  When Johnny Winger entered Containment Chamber C4, he soon saw why.
+He was there with seven other cadets, newly admitted.  Standing right next him was Deeno D’Nunzio, the trash-talking New York muscle gal, who was never at a loss for words.
+“Jesus, Mary and Joseph…” D’Nunzio muttered.  Two instructors, Lieutenant Burke and Lieutenant Walz welcomed the cadets inside with malevolent smiles.
+Containment C4 was built like a submarine hull, with thick plated walls, doors two feet thick, seals, locks and heavy gauge paraphernalia mounted everywhere.  The place fairly screamed strong…as in standing up to a hurricane strong.  
+Four gurneys were spotted around C4, each one surrounded by mobile consoles on wheels, all of them draped with thick ganglia of wires, hoses, tubes and cables.  Strapped to each gurney was a single macaque monkey, macaca Sylvanus to be official, as Lieutenant Burke told them.  The monkeys seemed identical: each one a small, four foot light brown simian with a thatch of white fur on its stomach and chest.  Each macaque was fully anesthetized, completely motionless, well-restrained and its head was enveloped in a grid-like cage of thin wire, with tracking antennas mounted on the grid.
+Lieutenant Burke—Deeno was already labeling him Lieutenant Quirk, behind his back—assembled the cadets for the setup briefing. 
+“The purpose of this exercise is the following: to perform a normal insertion of an ANAD master into a live subject, conduct routine navigation and basic operations, hunt down and render safe an OPFOR bot we’ve planted inside…this will be a kind of ‘denatured’, barebones ANAD analog, capture the bot, extract, safe and contain said bot and withdraw your own ANAD master.  There is a time limit of one hour.  Plus—“ here Burke smiled that mirthless smile that was so endearing—“Lieutenant Walz and I have planted a few surprises inside your live subjects…just to keep things interesting.”
+“Excuse me, sir--” piped up Oscar M’bela, the cadet from Cameroon, who always sported trinkets and cowry shells in his pockets, spirit things he could fondle and commune with at all hours of the day and night.  Deeno called him ‘Witchy’.  Deeno had names for everybody. “—why are we doing inserts and extractions and ops in a live subject?”
+“Well, Cadet M’Bela,” Burke leaned forward to spy the name on Witchy’s nameplate, “because sometimes the battlefield for your ANAD ops won’t be some far away jungle or forest or the South Pole or the bottom of the ocean.  Sometimes, you’ll have to go inside actual people, while they’re alive and kicking and probably trying to strangle you.  The enemy could be inside someone’s noggin….or their heart or lymph nodes.  Every atomgrabber has to know this stuff.  It could save your life someday.”
+The cadets looked dubious, so Burke made the pairing assignments and checked his wristpad.  “Okay, boys and girls, it’s now 0845 hours.  At 0945 hours, I’m pulling the plug.  Your ANADs are already in containment, ticking over, ready to rock and roll.  Go to it!”
+Winger and D’Nunzio had been assigned as Team Alpha.  Deeno seemed hurt by Winger’s less than enthusiastic face.
+“What’s the matter, Wings.  Can’t handle a little ol’ New York gal?”
+Rather than trade insults, Winger said simply, “Check all parameters, will you?  Is our little guy ready for launch?
+"Config complete, my master.  ANAD reports ready in all respects."
+"Launch ANAD," Winger gave the order.
+Silently, the ANAD master infiltrated the subject monkey’s epidermal layer right at its neck line, just above its shoulders, parting lipid molecules, burrowing through the outer tissues, heading for the nearest capillary network, powering itself down toward the carotid artery itself, the fast track to the brain, on picowatt propulsors.
+Winger and D’Nunzio watched an acoustic image on the sounder screen.
+All around them, the other teams were doing the same.
+“Look at that sucker go,” someone said.
+“Kick ass, my little friend,” M’Bela muttered.  
+ANAD slipped through the carotid wall in good order, parting a dark curtain puckered with spheres and polygons.  Johnny Winger shifted his eyepiece with a nod, overlaying a tactical map on the image.  
+"Probing now," Deeno announced.  She was manning the console, tracking ANAD wherever it was inside the body of the macaque.
+Winger shook his head.  He was itching to engage, locate the OPFOR bots and grab the cookies before anything nasty popped.  "To hell with recon…let's just punch through and get our butts up to the limbic cortex and see what's happening there.  All replicants responding?"
+"Normal signals, Wings."
+Winger piloted ANAD through a bog of hemoglobins, swollen sacs of oxygenated blood born on infinitesimal currents toward the macaque's brain.  Long tendrils of plasma proteins undulated in the currents with the ANAD swarm.  Winger steered for the center of the arterial highway, driving ANAD ever deeper, aiming for a narrow declivity in the distance.
+Several minutes passed, as ANAD coursed its way closer and closer to the blood-brain barrier.  On his eyepiece, Winger saw a split screen.  One side showed the acoustic image from ANAD's sounding.  The other side showed the grid position inside the monkey's arterial network, a moving dot of light inching its way toward the cranium.  
+"Lipid ducts ahead," D’Nunzio told him. 
+Winger saw them at the same time.  "Endothelial cells in the brain capillaries.  We're almost in.  The blood brain barrier's right there.  One of the tightest squeezes in the whole body.  Only two ways in: squeeze between the lipid cell walls.  Or hitchhike on another molecule of the right type."
+  He checked ANAD's config status and sent a command to add another length to his forward grapplers.  "Better leverage.  I've seen that kind of twisted peptide chain before.  Pulse through here--?"  
+Deeno nodded, satisfied.  "Minimum permeability, looks like.  Give her a shot."  She indicated a seam between throbbing cell walls.
+ANAD and its swarm went through the duct in no time, revving its propulsors in heavy plasma.
+A dotted line to the tegmentum appeared on the grid image.
+"Neuron city," Winger breathed.  "That's where we want to go."
+The cloudy pulp of the tegmentum loomed ahead, crisscrossed with spidery stitching of dendrites and axon fibers.  
+"Looks like the Black Forest," Deeno muttered.
+"In we go," Winger said.   He took brief note of Lieutenant Burke hovering off his right shoulder.  In the background, the training officer uttered a barely muted Hmmmm.
+Winger was impatient.  He decided to do a little scouting around.  
+A few minutes later, the dark mass of the tegmentum materialized into view.  The pulpy mass beat in cytoplasmic fluid to some inner rhythm.
+"That's our target, Wings.  Dead ahead--" Deeno could scarcely contain herself.  This had been easy, almost too easy--
+"Closing…eight thousand microns…" Winger breathed.  "I'm aiming for that cliff between the lobes, okay?  After transit, send the rep command.  I don’t want to get caught short if I run into bad guys."
+D’Nunzio acknowledged, manning the template controls.  "Replication starts just after transit."
+ANAD grabbed a phosphor group and pulled it aside, then squirted through into the tegmentum.  At once, the imager was filled with long whippy chains of molecules.
+"Axons--the place is thick with them--" said D’Nunzio.
+"Exactly," Winger said.  He tweaked a stick controller, sending ANAD hurtling toward the fibers.  
+"Sounding pressure change," Winger said.  Hello?  What the hell was that?  "We may have company…Deeno, ready defenses."
+The assault convulsed out of the axon forest in a frothy blur.  An army of OPFOR assemblers fell on ANAD with little warning.
+"Mechs!"
+"I see 'em!"  Johnny Winger cut ANAD's speed in half; instinctively, he lunged for the config controls.  "Make a cage…effectors out max!"
+"I'm sending it!" D’Nunzio shouted.  On a side panel of the console, she punched out commands to reconfigure ANAD, with a shield of fullerene arms, bristling like a porcupine.  
+Behind them, Lieutenant Burke nodded quietly.  Just like you learned in class, guys….
+"That should do the trick."  Winger had replayed the big bang episode they’d dealt with during the Atomgrabbers’ Qualifying Test a few months ago in his mind, over and over again, looking for some way of defeating enemy mechs like this.  He'd wargamed possibilities and talked tactics with M’Bela, D’Nunzio, Tallant and others.  Come on, baby…come to the dance now….come dance with your Mama….
+A single command to ANAD would multiply the swarm in seconds.  He was probing by feel alone, eyes fixed on the imager, his fingers twitching over the keyboard, eager to grab a stick but not just yet.  He forced himself to be still, let the situation evolve.  Behind him, Lieutenant Burke smiled in spite of himself.  Code and stick men were all alike.  Trigger-happy by nature.
+Come closer to my web….only a little bit closer…I've got a big surprise for you buggers this time….
+ANAD had to win this round.  This time, Winger knew he’d be ready.  
+Like Sun Tzu said, know the enemy and know yourself; then you shall not fear even a hundred battles.
+Like a dog sniffing fear, Johnny Winger chose that very moment to trigger the ANAD attack.
+"Replicate now!" he yelled.  
+Deeno toggled the rep switch and the imager screen careened and shook with the ferocity of a trillion trillion assemblers grabbing atoms.  
+Three meters away, moving toward battle on picowatt propulsors, ANAD received the instruction.  The entire operation took only a few seconds.  In that time, the rep cycle was executed one quadrillion times.
+***  Sever perimeter covalent bonds***
+*** Unfold lattice atom chains***
+***Re-position carbon groups***
+***Extract valence electron and attach to last carbon group***
+***Assemble hydrogen group at attached valence electron***
+***Position carbon group at hydrogen atom***
+***Increment counter for next carbon group***
+The swarm of ANAD mechs closed with the OPFOR master bot swarm and flung themselves against the enemy.
+Newly armed, ANAD seized a phosphor group on the nearest mech's effector and twisted atoms until the bonds broke.  Liberating thousands of electron volts, the disrupter zapped the enemy mech and shattered its outer shell, ripping off probes left and right.  The enemy shuddered and spun with the pulse, then re-engaged to fight off another bond snap.  It was a maneuver Winger had practiced a dozen times in the sim tank at Table Top.
+Throughout the monkey's tegmentum, trillions of ANAD replicants duplicated the same tactic.
+"Take that!" Winger was exultant, twisting his sticks left and right.  His fingers flew over the controls, managing config, pulling more molecules to add shielding, all the while fighting off thrusts and slashes from the enemy mechs.  
+The cytoplasm churned and frothed with furious combat.
+Yet unseen by anyone, indeed completely unprogrammed by Lieutenant Burke and the trainers, a small force of OPFOR mechs had detached from the main formation.  Detected but not noticed, the force exited the ventral tegmentum and beat its way at flank speed toward the optic nerve of the monkey’s brain, a bundle of fibers in its visual cortex near the front of its brain.  Passing the Nodes of Ranvier, the force silently cruised outward along the fiber bundle, steadily closing on the inner membranes of the macaque's eyeball.  
+It was the quickest way for any mech to exit the brain.
+Winger and D’Nunzio stared at the speckling blooms of light winking on and off…the imager captured the sound and fury of nanomech battle deep inside the monkey's immobilized skull and converted the acoustic waves to visual.  It was like watching some mad kaleidoscope of swirling dots, washed with brilliant daubs of color.
+"Like a thousand battles of Verdun," Winger said.   He’d read about great battles for an essay in a History course, just last week.  "All in a space the size of a walnut.  Incredible--"
+"Reading high heat signature," D’Nunzio reported.  "Vascular grid's registering something like a hundred thousand picojoules, and rising."
+Winger acknowledged the figure.  "This fellow's out like a slab of stone and he's emitting like a supernova."  He refreshed the imager with more data.  "Quick count, Deeno…look at that, will you?  ANAD's pulsing the plasma and the density's dropping."
+D’Nunzio saw the data.  "Fewer mechs, maybe?  Or a tissue leak?"
+"Hard to say at the moment.  Maybe ANAD's holding its own.  Sure wish we could get an image--"
+"When the dust settles, Cadet Winger."  Lieutenant Burke peered in, watching the same density readings Winger had pointed out.  Sure enough, the numbers were falling.  The original spike signaling the first thrashing moments of battle had now leveled off--all replications were done and the monkey's brain was thick with nanowarriors swarming to the melee--yet the density was steadily dropping.
+Burke frowned.  That wasn’t in the scenario.  What the hell--
+And still unnoticed, the small detached force of OPFOR mechs had reached its objective.  Slowing to transit the narrowing tube of interstitial fluid, the force passed through the lachrymal duct at the corner of the monkey's eye and surfaced like a fleet of miniature subs through the corneal film to the outer surface of the eyeball.  There they floated for a few seconds, until the replication order came.
+A few dozen centimeters below the small fleet, uncounted trillions of OPFOR mechs had been cleaved and slashed into atoms before the enemy master had managed to stabilize the battlefront.  Then, for several minutes afterward, ANAD and OPFOR stalked each other relentlessly, drifting on brief propulsor bursts, sounding the fluid swamp with acoustic jolts, then listening, always listening, in a deadly game of hide and seek.  Both forces were exposed, both had suffered massive losses of replicants.  Each sought refuge in the dendritic jungle of the monkey's ventral tegmentum.  One misstep, one maneuver too far could be fatal.  A billion billion times smaller than their submarine ancestors, who had prowled the oceans like predators stalking prey, OPFOR and ANAD drifted silently across a cranial sea, scant microns from each other, hidden yet ever alert, waiting for that one chance to close and dismember the enemy forever.
+Johnny Winger had somehow managed to massage the imager enough to fine tune its resolution.  A few adjustments made, he coaxed a grainy image of the cranial plasma and axon fibers crisscrossing the terrain.  Then he started hunting again.
+"Deeno, I've got the strangest feeling," he admitted.  "Like I'm dueling with a very keen intelligence here—something not quite expected--"
+Lieutenant Burke admitted the same thing, to himself.  He wondered, maybe, just maybe, if the exercise ought to be stopped here but he was curious to see what this Winger fellow would do when faced with the unexpected…scuttlebutt around Table Top said Winger had some kind of preternatural feel for these things.  
+The hunt went on for several minutes.  Taking a fix from the vascular grid, Winger navigated the monkey's Islet of Duchin and cruised in expanding circles through jungles of thick axons, stopping from time to time to listen, occasionally sounding the debris for telltale pulses.
+It was damned frustrating but Winger tried not to show it.  He'd tried several tactics to find out what OPFOR was doing to the limbic system, but this swarm was smarter and more aggressive than he expected, seemingly always one step ahead of ANAD.  When Winger tried to outmaneuver, the enemy swarm countered.  Every maneuver seemed to be anticipated; it was quickly evident that this bugger was programmed to defend itself and wouldn't give up control of its host without a fight.  And to make matters worse, he'd been unable to grab an enemy mech for analysis.  The exercise rules called for ANAD to capture the master bot and Winger intended to do just that.  
+"Nothing, Deeno," he said.  "It's like he's just disappeared."
+"Maybe ANAD already bagged his target."
+Winger figured that to be unlikely.  "Anything else on the vascular grid?"
+It was Lieutenant Burke who saw the pressure spike from the monkey’s eye, a fraction of a second before the swarm ballooned into the room.
+"Ah…Mr. Winger, something seems to be--"
+"LOOK OUT--!!"  Deeno's scream filled the examining room.
+No one was quite sure when the first effects of the attack were felt.  The debriefs later seemed to converge on the two cadets of Team Bravo, Mighty Mite Barnes and Hoyt Gibbs, both of them working hard to tweak their own ANAD's templates for the next phase of the engagement.  
+Both training officers Burke and Walz noticed it right away; a shrill keening high-freq tone, almost beyond human hearing, yet irritating in a vaguely unsettling way.  Both wore hypervests, partial rigs that provided some protection, and their sensors registered the attack right away.  Barnes’ panicked distress call from the corner of the room as the nanomechs bored into her rig and arms would linger in everybody's memory for a long time.  Winger’s engineer, Deeno D'Nunzio, reported a different effect--just as panicky--when she found she couldn't squirm away along the floor as fast as she wanted to…by then, the OPFOR swarm was thick enough to form a barely visible fog, almost a blanket, muffling the training theater with exponentially thickening mist.  It was something you could barely see but every sensor and caution alarm was going off all over the place and you sure as hell could feel the resistance to movement.  
+"Mass assault swarm!" somebody yelled over the crewnet.  It was Dana Tallant's voice.  She was already on one knee, swatting madly at the whizzing, spinning cloud of assembler mechs that had engulfed her.
+"Bond breakers!" yelled another cadet, An Nguyen.  He had been wrestling a containment pod into position beside his gurney when the eruption came.  
+"They've gone airborne!"  Johnny Winger recognized the scenario, too late.  They'd wargamed it enough times at Table Top.  "Fall back…fall back!  Lieutenant, maybe we should go to TACREP 1!"
+Burke and Walz were cycling the chamber doors, but emergency inhibits had already locked them down.  Now, if they could just get the beam injectors powered up--
+Tactical Response One was already loaded in the consoles.  Burke gave the okay and Winger pressed a few buttons on his wrist keypad and pushed through the thick spongy mist, struggling hard to make it to the injector console and help the Lieutenant.
+They didn't have long to act.  TACREP called for the affected unit to do an emergency opposed-force setup of the ANAD system.  Retrieve the master, get containment going, re-establish comm links, and counter-program like hell to beat back the assault before it consumed everything.  And this was supposed to be a training exercise.
+Something had gone horribly wrong. 
+"Re-config IC!" Winger yelled.  He worked with several others to get Nguyen to the perimeter of the chamber, away from the worst of the swarm. 
+"Re-configging--done now!" D’Nunzio called out.  "She's ready to go."  Nguyen was okay for the moment, Winger noted.  Ditto the other cadets, and Lieutenant Walz.  The brunt of the swarm was forming on the other side of the room.
+Winger hunkered down on the floor, covering himself as best he could, to punch out commands on his keypad.  Beneath his knees, the floor itself writhed and hummed like a thing alive.  He could feel the high-freq vibration through his field boot.  It wouldn't be long before he'd have to ditch the IC and retreat the hell out of there.
+If they could clear the inhibits and unlock the doors before the electron beam injectors went off.  
+Winger flailed at the swarm with one hand while he punched buttons:  Comm link to SELECT…Program to FBS--Fly-by-Stick.  Launch would be opposed insertion.  Active defense…ISR Mode.  That stood for Intelligence-Surveillance-Reconnaissance.
+At last, he was done.
+"ANAD master fully re-configged!" called out D’Nunzio.  "Primed to go, Wings!"
+"Launch all groups!" Winger shouted.  "Airborne counternano.”
+D’Nunzio and Winger coordinated the insertion, while Burke hustled the other cadets away from the affected gurney.  They'd be secure enough for the time being.  Walz was down, being nursed by Barnes and another cadet. 
+ANAD was ready.  With a whoosh of compressed air, the bot master ejected itself into the air, right into the midst of the enemy swarm.
+"Full imager?" D’Nunzio yelled back.
+"Do it!" Winger commanded.  "But run active defense first--it's programmed.  We've got to give these critters something else to chew on--besides us!"
+“Mr. Winger—“ it was Lieutenant Burke, “—fallback to the door…the injectors will be going off any second now…that’s an order!”
+But Winger wasn’t listening.  Instead, he was concentrating on driving ANAD right for the master bot of the airborne swarm.
+A thermal bloom nearly shorted out Winger's eyepiece as the ANAD swarm defaulted to maximum-rate replication.  Active defense Alpha was a set program they had run scores of times at Table Top Mountain.  It called for the ANAD swarm to replicate basic structure at the fastest possible rate, then seek and destroy all non-self devices it could detect.  ANAD's assembly speed was set at the best possible rate for fighting through van der Waals forces and cleaving atom bonds.
+"Got an image, Wings!" D’Nunzio struggled to see her eyepiece through the dust churned up by the furious enemy swarm.  "I'm porting it to the net now…EMs are shaky…interference from the enemy, looks like."
+Eyepieces were useless.  The thermal bloom and dust exploded into a ball of fire, as ANAD swelled rapidly in an enveloping cloud, engaging the airborne OPFOR swarm in a set piece battle of ionizing electrons and atom groups.  The white-hot heat expanded like a small nova, almost pulsating as the front lines churned back and forth; ANAD's exponential armies rallying to the assault, tangling with uncounted trillions of enemy mechs.
+Winger ported the image straight to his eyepiece.  Deeno was right; as the image settled in, it looked like a churning, frothy mess.  The air grew thick and black with molecular debris.
+"Need to grab one of these critters," Winger muttered to himself. The exercise called for the cadets to grab a sample of the enemy.  He pressed a few keys--noting the pressure of the enemy assault against his skin and helmet seemed to have lessened a bit--he took direct Fly-by-Stick control of a small platoon of replicants.  If I can just surround one…damn…like trying to corral a herd of bees.
+He used the twin control sticks on the panel to zero in on a detached group of mechs, scooting away from the main axis of attack, swirling near a corner of the room.  What the hell were they up to?  Were they under remote control?  Was there some controller miles away joysticking this swarm through the assault?  There was no way to tell.
+Winger dove his ANADs at the group and executed a perfect entrapment maneuver, neatly bracketing the swarm in a classic octahedral lattice.  The mechs pressed outward, buzzing angrily, trying to break out of the lattice, probing for weak spots, but Winger had quickly reinforced his scout group with extra ANADs.
+"Gotcha!" he exulted.  Now they'd have something to take back to the lab and show off to Burke and Walz and all the other cadets.
+But his triumph was short-lived.  Even as he commanded the ANAD lattice to propel itself back toward containment, shepherding the trapped mechs, fending off steady probes of the bond breakers, one of the enemy devices separated itself from the main body.  In the imager view, Winger stared in horror as the nanomech suddenly shed all its outer atom group armament in a puff of molecular debris and executed a daring fold/collapse, imploding in on itself in a flurry of segment cleavage and destruction.  Whirling on picowatt propulsors like a mad dervish, a blurry core of atoms exploded out of the sleet of fragments and rocketed through the lattice like a bullet.  In a fraction of a second, it was through the lattice and gone, off the field of view.
+Johnny Winger could only shake his head at the maneuver.  They'd wargamed tactical escapes from all kinds of capture maneuvers but nothing like this.  It didn't even seem possible.
+Ten to one that was the master replicant, he told himself.  Programmed to evade capture anyway it could, or commit atomic 'suicide' if it couldn’t.  He couldn't help but wonder if he wasn't jousting with an unseen human controller somewhere nearby.
+Lieutenant Burke managed to contact someone outside, ordering the beam injectors to be disabled before they went off automatically and fried everything inside the chamber.  He slumped against the wall, eyed the nearest injector array and wiped sweat from his forehead.
+“That was too close…” he muttered.  He made sure the other cadets were huddled against the heavy door, then went back to Winger and D’Nunzio.
+The skirmish continued for another five minutes, but Burke could tell the ANADs were steadily losing the battle.  Group by group, the ANADs were steadily and surely overwhelmed by sheer numbers.  He began to notice increasing resistance to movement again, a clear indication the rogue mechs had re-established themselves inside the containment room.  Soon the high-freq whine became audible again.
+"Lieutenant, Deeno, I can't hold them back!"
+D’Nunzio, five feet away and nearer the door, had already lost all servos in her hypervest.  She lay on her side, virtually helpless, still fingering her own wristpad, pecking out counter-attacks against the stiffening mech resistance.
+"I've lost servo power myself!  Help me up--"
+Johnny Winger clawed his way around the bed, where their anaesthetized monkey lay pale and still, enveloped in a gray swirling mass, and went to his buddy's side.  He wrestled her up to a kneeling position.
+"--Jesus, it's like water polo…trying to move an arm's almost impossible--"
+Burke could see the situation was getting hopeless.  "Just mindless replication.  They're going to smother us, if they don't eat us first—we’ve got to get everybody out of here, then blast this place with electron sleet!”
+D’Nunzio was tapping keys without effect on her wristpad.  "I'm not linked to ANAD--"
+"--I lost him," Winger admitted.  "I was trying to snag a master…thought I had him but he slipped out…damnedest thing I ever saw--"
+D’Nunzio finally gave up on her wristpad and concentrated on standing up.  
+Winger helped her get upright.  "This is no good—Deeno, Lieutenant, I can't hack fast enough to counter-attack.  This stuff is unbelievable…somebody's really juiced up the rep rate.  If it's an ANAD, they've really been tinkering under the hood."
+"There's nothing left to do, Mr. Winger…we've got to get out of here…soon as these containment doors cycle open.’
+Just then, the door seals hissed and heavy motors drove the doors slowly open.  They had to get out fast, before the OPFOR swarm moved.  “Training detachment…fall back!  Fall back at once!  Outside now, on the double!"
+They slogged, crawled and limped toward the door, through spongy mist a few paces and then made another call.  When all cadets had exited and counted off, Burke ordered the containment chamber to be sealed again.
+The corridor outside was thick with hypersuited troopers.  A Sergeant Betters was in command.  Betters stabbed a button on a wall panel and the heavy doors swung shut in ponderous slow motion.  From inside, the enemy swarm was already on the move, drifting steadily toward them like a slow-motion miniature thunderstorm.  
+Betters took charge as soon as everyone was clear.  "French, Guyson, front and center!  Fire short bursts of RF!  See if you can clear us a bubble or a zone around this hall!  I'm not sure we’re totally clear here…I don’t want even an atom outside containment!  And make it quick…we’ve got injured …infested!  We’ve got to get them out of here.”
+Seconds later, the drone of a HERF pulse gun blasted through the corridors surrounding Containment Chamber C4.  A faint breeze of momentarily stunned nanomechs clattered against Winger's hypervest.  A few bots had escaped…there could always be more.  When the second pulse shook the building and Winger felt the thermal of high-frequency RF wash over them, he willed himself into motion, half carrying, half-dragging Dana Tallant down the corridor.  
+"Fall back now!  To the street, outside…everybody--on the double…DPS, give 'em another shot!"
+Another drone-snap of radio energy and another wave of heat.  Winger slogged through the mist, kicking and pummeling blindly, pulling his load with him. 
+At last, blinded and disoriented, he stumbled through the corridors and the chaos of the lobby, making it through the security doors and stumbling, falling, headlong with his load into the grass outside.
+"One more pulse, DPS!” Betters yelled.  “Max power…leave it on and let it burn out!  And get your tails in gear, folks!  Get away from the building!  We’re gonna MOB the whole place!”
+Maybe it'll just burn itself out, Winger hoped, though he knew deep down inside that could never happen.
+A half dozen crewtracs had assembled outside Containment, snorting and huffing in the morning sunlight.  Corpsmen and more troopers flooded into the area as cadets helped load injured into the vehicles.  
+Struggling, whining, overheating and shuddering from the thunderclaps of collapsing HERF fields, the crewtracs rumbled off into the foggy morning sky, skidding off the pavement at each sharp turn, as they spiraled around Commissary Road toward the north end of the mesa, toward the Infirmary…finally rounding the first of the lifter pads and turning south and west and slowly but surely putting distance between themselves and the nanomech cloud.  Johnny Winger eyed the crewtrac driver warily through the sighthole as he fought to keep control of the vehicle on the narrow winding road between buildings.  Only when the buffeting and the sonic pulses and the high keening wail of nanomech hell finally died off, did he finally begin to relax.
+He spied Lieutenant Burke resting against the wall of the crew compartment, hanging on as they veered and swerved toward the Infirmary.
+Their eyes met.  Burke offered a wan smile.  “Mr. Winger, this was one hell of a training exercise.  I can’t wait to hear the debrief.  That was a hell of a job you did back there…you saved more than one life.”
+Winger nodded.  “Thank you, sir…I did what I could, sir.”  He began to wonder if every training day at nog school would be like this one.  
+
+“Haleyville”
+
+Haleyville, Idaho
+September 16, 2048
+9:30 p.m.
+
+When all the investigations about the accident at Containment C4 were done, and all the debriefs were concluded and all the finger-pointing and head-scratching and yelling was over, Major Jurgen Kraft figured his cadets could use a little liberty time.  He gave them one night…”curfew’s at 0400 hours,” and then turned them loose on the world. 
+Like Table Top cadets from time immemorial, they all headed to Haleyville.  Not that there was much else to do up in the high country of Idaho’s Sawtooth Range.
+The bar at the Custer Inn was the target and Winger, D’Nunzio, Barnes, Nguyen, M’bela and anybody else with two legs and half a brain all headed straight for the place as if they were missiles homing on an enemy garrison.
+Custer Inn was a faintly shabby, log and shingle mountain lodge of a hotel, nestled in the piney brow of a small turnout valley off the main road, a mile or so before Highway 7 broadened into Main Street, which was lined with gift shops, bait and tackle joints and hiking suppliers.  The pale blue glow of a parasailing shop, closed for the evening, threw enough light across the road, so the cadets found the turnoff readily enough.  
+One after another, turbos, cabcars and anything else with wheels sped down the decline toward the parking lot, and came to a stop in the shadows.  Through the windows, the bar and restaurant shone with boozy conviviality, laughter and saloon music spilling out through the front doors.  
+Like a single body with multiple heads, the cadets of 1st Nano went inside.
+Inside of ten minutes, the lies and tall tales had already begun.
+“I’m just no good at book-learning,” Johnny Winger told everybody.  “Got to get my hands on something to really understand it.”
+D’Nunzio belched loud and long, holding her own with the others.  “Well stay away from me, trooper.  No telling where those hands have been!”
+Guffaws and laughs.  Then more belches.
+Moby M’bela sucked at the lip of a beer bottle.  “I’m not buying what came out of those investigations this morning, are you?  I mean: did you hear what they said?  ‘Glitches in the processor kernel of the OPFOR master bot.  Bad code.  Unanticipated second-order interactions.’  Cow patties…it was some kind of sabotage, pure and simple.  Has to be.”
+Barnes piped up.  “So who’s the saboteur?  We don’t have Nathan Caden around; the brass made quick work of him.”
+Winger shrugged.  “I don’t know.  The way that bot reacted made me think there was someone else around, maybe nearby, driving.  It showed way more smarts than your average garden-variety ANAD bot.  Unless Ironpants Kraft’s got something cooking up his sleeve we don’t know about.”
+D’Nunzio shrugged.  “Well, I heard from one guy in my Molecular Ops class that a couple of Northgate University vans were parked over behind the Containment building.”
+“Really?” said Barnes.  Mighty Mite flexed a bicep; she did that reflexively, almost incessantly.  The buffalo tats danced and stampeded.  She’d even opted for something that looked like a dust cloud, like the buffs were kicking up dirt as they bore down on you.  Barnes was hugely proud of it and enjoyed showing it off.  “Isn’t that where ANAD was born?”
+“Yeah,” said Winger.  “Autonomous Systems Lab.  If there are Northgate types skulking around the mountain, who knows what they’ll spring on us.”
+Twenty feet away from the bar, a table in the corner was occupied by three gruff looking men, all buzzcuts and broad shoulders.  One of them had a thick black moustache and pile-driver arms.  Moustache was amused at Barnes showing off her biceps, got up and sauntered over to the bar.  He was followed momentarily by the other two.
+Moustache leaned over the bar.  “Excuse me, lads, but ya’ll look like Cub Scouts from the Mountain.  Newbies, I’m guessing.”  
+M’bela was forever polite and formal.  “That’s right…cadets of 1st Nano.  On liberty from Table Top.”
+Moustache chuckled at the earnest reply.  “Well, cadet—“ he squinted at the name plate “—Mabley or whatever your name is, us real troopers don’t much like Cub Scouts crashing our fun in this bar.  The kids’ table’s out back…want me to show you the way?”
+M’bela started to answer,  but D’Nunzio cut him off.  “Moby…allow me.  Say, listen Backhoe…why’nt you go back to your grubby little table and see if you can finish that bottle of pisswater you’re drinking.  Leave the real stuff to atomgrabbers.”  She gave Moustache her best don’t mess with me New York glare.
+Now that riled up Moustache pretty good.  He stood up straight, hefted up his belt and nodded.  “Name’s Suvorov, Ms. Fancypants.”  He indicated the other two, now hovering around the end of the bar, sniffing a fight.  “This is Sergeant Hu.  And this beast is Corporal Felder.  We call him Hulk.  Quantum Corps Central Command, II EuroMed Battalion, out of Balzano, Italy.  I’m thinking this little pissant bar’s not quite big enough for your mouth and our chiseled and sculpted bodies.  I’d say make like a tree and get lost!”
+Johnny Winger was at the other end of the bar.  He put his mug down and stood up.  So did Nguyen.  The two of them went down to the other end.  
+“What say we take this love fest outside, gentlemen.  Name’s Winger, as in I’ve heard all I need to hear from your scrawny little cat’s mouth.  And hey, Suvorov…what’s that growing on your lips, some kind of fungus?”
+“Eeeeyyeeew!” needled Barnes.
+That was all it took for the bell to sound.  Suvorov swung first.  Or maybe it was Winger.  Possibly Nguyen butted heads with Hu.  It was hard to tell.  Someone’s fists went flying.  Someone else’s head went spinning.  Then there were knees.  More fists.  Some shoving and kicking.  And one hell of a lot of swearing.
+“You motherfu—!“
+“Come back here, Tweedletoes…I ain’t through with you yet.”
+The melee quickly developed into a free-for-all ruckus , a full-fledged brawl with tables and bottles and mounted bear heads flying off the walls.  It wasn’t long before other patrons decided to wade in and join the fun too.
+How long the fracas went on, Johnny Winger couldn’t say.  When he found himself dragged off Corporal Felder, arms and feet flying and restrained by three burly Quantum Corps police officers, he finally relented and let them cram him into a crewtrac that had magically appeared in the parking lot.  
+The bartender had gotten on the phone seconds after the bell sounded.  QP was on site in less than five minutes.  Fortunately, only egos were bruised, though there would be some black eyes, one busted nose and an assortment of scrapes, cuts, lacerations and contusions. 
+The ride back to Table Top was made in stony silence.  
+Winger wound up in a holding cell in the base stockade, a small concrete building off the northwest corner of the Barracks.  He had company up and down the hall: D’Nunzio, Barnes, M’bela and the rest were all there too.
+Nobody said a word.
+Winger spent an uncomfortable night on a bunk hard as the concrete walls.  Two guards came for him the next morning—after a cold breakfast of burned toast and watery oatmeal—and escorted him to a small hearing room inside the Barracks.  He wasn’t restrained, but he saw that both guards were sporting MOB canisters.  They could have draped him with the mesh in seconds if he’d tried to make a break for it.  He didn’t.
+Major Kraft and another officer sat at a sparsely furnished table in the hearing room.  Winger stood at attention until he was gruffly ordered to be seated.
+Kraft introduced Captain Starnes, the base JAG officer.  
+“The purpose of this hearing is to examine the facts of the little disturbance you were involved in last night, Cadet Winger, and to determine appropriate punishment.  Anything you want to say before we get started?”
+Winger had a cold feeling in the pit of his stomach.  Here’s where my promising career in Quantum Corps is tragically cut short…Dad, I’m so sorry….  He was already trying out excuses for when they booted him off the mountain.  It was going to be a long ride back to Colorado.
+“Sir, I take full responsibility for what happened at the Custer Inn.  I showed incredibly bad judgment, unbefitting an officer candidate in Quantum Corps.  I should have refrained from my poor remarks and, er…physical response to being provoked by those UNIFORCE--“
+Kraft cut him short.  “Okay, Winger, we get it.  You’re sorry and all that.  What gives you the right to…”  Kraft chewed on the end of his vast moustache.  “Oh…never mind.  We’ve already got statements from the other cadets involved.  You know this gives 1st Nano a black eye…it’s not the kind of image we want the public to have of our atomgrabbers.”
+“No, sir.  I’m sorry, sir.”
+Starnes pressed a button on his wristpad.  A vid of the whole altercation was quickly projected on the table…a miniature 3-D scrum from beginning to end.  Kraft stifled a smile while Starnes glared grimly back at Winger.  “We have the whole thing right here…the bartender made a vid and we got a copy.  From what I can see, you and your people pretty much started the whole thing.”
+“But, sir--,” Winger complained, “those UNIFORCE goons…er, sorry, sir…troopers…made disparaging comments about the cadets, even about the Corps.  They were EuroMed…not atomgrabbers at all.  I felt, sir—“ here, Winger looked down, “—I felt that I should take the opportunity to stand up for our platoon, our Corps and its hardworking cadets.  Sir.”
+Kraft couldn’t contain a low chuckle.  “Winger, you sound like a recruiting vid.  We know from Captain Starnes’ vid here exactly what was said and by whom.  In my book, both sides have a lot to answer for.”
+“Sir, will I be charged here?  Am I facing a court-martial?  I really wanted to make the Corps a career…sir, to have it cut short after an incident like this…well, sir…it would be embarrassing.  It would be terrible….”
+Kraft nodded.  “I see…next, I suppose you’ll tell me you just how well you’ve learned your lesson…and how this will never happen again and how you have the highest regard for fellow troopers in UNIFORCE and would never question their loyalty, their courage or professionalism…all of which you did last night….and at quite a high volume, I might add.”  To emphasize the point, Starnes upped the volume on the projection and the little holographic troopers screamed epithets at each other across the holographic table.  
+“Oh, yes, sir…absolutely, sir.  That was exactly what I was going to say, sir.”  Winger looked up and saw Kraft glaring back at him.  
+“Cadet Winger, your involvement in this incident is regrettable.  You have not conducted yourself in a manner consistent with the ideals of Quantum Corps, and by your actions, you’ve brought disgust, scorn, ridicule and contempt on me, your fellow troopers, this facility and the Corps in general.  Not to mention several thousand dollars in damages to the Custer Inn bar and surroundings…reparations for which will be deducted from your bare salary starting immediately.  Ten demerits for unacceptable behavior are assigned and you are hereby restricted to base and to quarters for a month, outside of attending necessary classes, labs and authorized functions as directed by me personally.  Do you have anything you want to say?”
+Winger was watching Captain Starnes, who clearly had greater punishments in mind.  The JAG officer started to turn to Kraft, but the Major held up a hand.  “I know what the charges are, Captain.  I’m exercising my authority as battalion commander to reduce the charges.  The original charge was felonious assault on a fellow soldier.  I’ve set the charges at disorderly conduct, a lesser charge.  You will spend three more days in the stockade and then the conditions I laid out will apply: restricted to base and quarters for a month.  Is there anything else you want to add to these proceedings, Cadet Winger?”
+Winger could hardly believe his ears.  Reduced charges.  He wasn’t going to be kicked off the mountain after all…no long bike ride back to the ranch.  Winger contained the barest hint of a smile and refrained from leaning over to shake Kraft’s hands…or hug the Major.  That would have been a bad move.
+Starnes started to say something, but Kraft beat him to it.  “Captain, thanks for your services this morning.  If you will put your signature on the charges and the sentencing forms, we can end this hearing and all get back to work . I’ve got a cadet corps to get up to speed.  Dismissed!”
+Starnes sat still for a second, a response on his lips, then thought better of it.  You didn’t question Ironpants Kraft when his mind was made up.  And you knew his mind was made up when the Black Forest moustache stood out ramrod straight at both ends. 
+The JAG officer cut off the projection, and gathered up his disks and papers.  He saluted Kraft smartly.  
+“Major—“ 
+Then Starnes spun on his heels and made tracks, exiting the hearing room in a flutter.
+Kraft turned back to Winger.  
+“Sir, I don’t know how to thank you…I mean, sir…it’s just that…well, sir, it won’t happen again…I’ve learned my lesson.  I want to make the Corps a career…I realize—“
+Kraft held up a hand.  “Cadet Winger, save it, okay… that will be all.   Report back to the stockade immediately.  You’ve still got three days incarceration to serve.”
+Winger saluted the smartest salute he could.  He was about to about-face and march himself out of the hearing room, but Kraft had more.
+“Son, the reason I overruled Captain Starnes and the JAG recommendations is real simple.”
+“Yes, sir—“
+“That brawl you and your cronies got into last night showed me something about you, something important.”
+“Sir?”
+Kraft steepled his hands on top of the table.  “That incident showed me you really do have some ‘fight’ inside of you…that was something I needed to know.  Maybe not in this exact way, but it served a greater purpose.  Cadet Winger, serve your time and get on with your training.  Now I know you’re not just another loopy geek with soft muscles and a soft head.”  Kraft lowered his voice.  “We need fighters in 1st Nano.  Atomgrabbers, certainly.  But I want a fighter first.  You showed me that, son.”
+Winger didn’t know whether to kiss the Major or shake his hand.  He settled for another snappy salute.
+“Yes, sir.”
+“Dismissed.”
+Johnny Winger marched himself off to the stockade.  
+
+“The Swarm Chamber”
+
+Table Top Mountain
+September 23, 2048
+7:00 a.m.
+
+“Gentlemen, welcome to the Swarm Chamber.”  Lieutenant Heydrick opened the hatch to a cave-like compartment built almost like a submarine hull.  
+Deeno D’Nunzio, Johnny Winger and Moby M’bela filed in, a little reluctantly.  All were clad only in standard-issue cadet fatigues and tunics.  Heydrick pointed to a narrow bench along one side.
+“Sit there.  Keep some space between yourselves too.  We want the bugs to get a good bite out of each of you.”
+D’Nunzio said, “Are we really getting swarmed in here?  Live bots.  The whole works.’
+Heydrick had a malevolent grin.  “The whole works, cadet.  Everything you’ve heard about this little house of horrors is true.  And it’s even worse than that.”
+Winger made himself comfortable.  “I’ve heard we’re supposed to really feel what it’s like to be swarmed.”
+Heydrick said, “You heard correctly.  Paratroopers practice their craft by jumping out of airplanes.  Navy divers practice their jobs by getting wet and going underwater.  Atomgrabbers work with tiny bots.  Lots of bots.  The purpose of this little exercise is to make sure you understand what you’re dealing with…by going into the very mouth of the beast.  By getting slammed with a full-bore big bang…that’s what we call maximum-rate replication.  Only when you know how that feels and looks will you really appreciate what you’re doing.”
+Swell, Winger thought to himself.  Just swell.  
+Heydrick went to each trooper and examined each one in the face, checking that they’re weren’t sick, sporting some kind of infection, fully alert and awake and understood what they were about to experience.  He asked basic questions: what’s your name, where are you from, how many fingers am I holding up, where are you now?
+Anybody who answered wrong would be immediately disqualified from the Swarm Chamber and washed out of nog school.
+Winger and the others had heard all the horror stories about the exercise.  “It’s like being stung by a gazillion bees.”  “It’s like being smothered in your aunt’s favorite blanket, the one she left in the attic for twenty years.”  “It’s like falling into a scalding vat of acid naked.”  Or Winger’s favorite: “It’s like running through a line of tornadoes with sacks of nails flying right into your face.”
+Every trooper dreaded the Swarm Chamber.  The stories were legend.  They got more colorful and more graphic and more grotesque every year.  It was like when you were five and loved to see the bloodiest, goriest horror slasher movie your parents would let you.  Maybe worse than that.
+Heydrick checked some instruments on a small panel near the door.  He spoke quietly into a lapel mic.  “Subjects in the green.  All parameters normal.  O2 levels nominal. “
+Someone’s voice crackled over his earbud and Winger thought he heard the words beam injectors.  He looked up, studied the ceiling of the chamber.  Yep.  There they were.  Electron beam injectors, dozens of them.  Their projectors looked like the business end of a magpulse carbine, black snouts, focusing rings, magnetic coils around the end.
+Winger knew what those were.  If anything went wrong—Heydrick assured them that such things never happened…almost never, anyway—the injectors would flood the chamber with billions of electron volts of energy, pretty much frying everything inside, bots, cadets, anything with arms and legs and a brain.  He swallowed hard.  
+Heydrick stepped outside the chamber and cycled the hatch shut with a solid thud.  Autobolts engaged in a staccato pattern, securing them inside.  And keeping what was inside from ever getting out.
+D’Nunzio’s voice had a slight quaver to it.  “I heard it’s better to think of pleasant things…keep your mind occupied.  One cadet even told me he sang during the whole ordeal… even taught me the song…want to hear it?”
+“No,” said Winger and M’bela in unison.  Winger noticed that Moby seemed to be manipulating something in his hands.  He would often handle trinkets and charms at stressful moments but such things were verboten inside the Swarm Chamber.  But like a mindless machine, his hands and fingers were rubbing and clenching and kneading anyway, working on nothing but thin air.
+“Subjects…are you ready in there?”
+The three of them answered in the affirmative.  “Yes, sir!  Small is all!”  The atomgrabbers’ rally cry was always barked out at times like this.
+For a few minutes, nothing seemed to be happening.  Johnny Winger looked about the chamber, trying to locate the ports from which the bots would issue.  Heydrick had given them strict instructions to stay put, stay on the bench as long as they could.  But he soon spotted what he thought were the launch orifices…a line of tiny openings in one corner.  
+Will they come from above or below, he wondered?  Did it even matter?
+It was Deeno who gave the word.  “Ouch!” she muttered, slapping at her arms and shoulders, as if mosquitoes had suddenly enveloped her.  “Ouch--!”  She writhed and squirmed, pinching and slapping at her face and neck.
+“This is it!” M’bela yelled.
+That’s when they saw the first puffs of a phosphorescent fog, issuing from a corner just above the hatch.  
+At first, the fog seemed almost invisible.  It was there…no… I imagined it.  Nope, there it is.  The air itself sparkled and the sparkling grew brighter, more numerous, like a trillion fireflies setting out on a journey.  
+It has a certain beauty, Winger imagined himself saying.  But these fireflies had teeth. Not to mention effectors, propulsors and they could replicate like the bejeezus too.
+The three atomgrabbers stirred uneasily.
+D’Nunzio muttered.  “Wish to hell I had a HERF gun about now.  I’d make mashed potatoes out of these buggers.  Fry ‘em up good.”
+M’bela had stopped his hand motions and was staring wide-eyed at the swelling cloud of mechs.  The air was growing foggier by the moment.  M’bela swatted at something and you could see a track where his hand had swished through the fog.  The bots were getting that thick.
+“Ouch!’ D’Nunzio slapped her cheeks again.  “That hurts…get off me, you freaks!”
+Winger felt something lightly brush against his face.  He was determined he wasn’t going to lose it, like they’d already seen several times that morning.  More than one cadet had pressed the “Kill” button they all held in their hands, screaming to stop the test and be let out.  On one occasion, once the hatch had been cycled open, the crazed cadet had burst through the technicians and fled the chamber, screaming and flailing at the top of his lungs.
+Winger, D’Nunzio and M’Bela had made a pact at the mess hall that morning over scrambled eggs and toast.
+All together, in or out.  If one gave up, the others would too.  But together, they would be strong.  
+Winger felt fingers nudging his hand.  It was Deeno.  She didn’t look at him but he could see the thousand-yard stare in her eyes.  Her lips were a tight line; her whole body tensed up tighter than a bow string.
+He squeezed back.  You can do it, Deeno.  We can both do this.
+The bots were already thickening inside the chamber and soon enough, the fog became an impenetrable soup, backlit with the fires of atomic  bonds being broken, atoms being slammed together as the bots built structure and mass and replicated in exponential overdrive.
+The next few minutes were excruciating.  It was like having a swarm of bees stinging every square inch of your face and neck and hands and arms.  Each individual bite wasn’t so bad; but in the aggregate, the swarm assault was like running headlong into a hailstorm or a tornado of nails.  
+Almost without thinking, Winger found himself hyperventilating.  “The anticipation is worse than the assault; focus on small things,” Lieutenant Heydrick had told them, in the pre-test briefing that morning.  “Focus on your favorite food…your favorite show or vacation…some pleasant memory…the last time you got laid—“
+Hey, Deeno almost blurted out.  This is a family house of horrors, isn’t it?
+The air had thickened so much it was getting hard to breathe.  Winger gave up Deeno’s hand and stopped wondering about M’bela, who was beginning to writhe and squirm next to him.  Instead, he tried focusing on the day his Mom and Dad had been in that car crash, Diablo Canyon outside of Colorado Springs.
+That had been a nightmare…the word from Principal Costner at Net School…the turbo ride up the highway…blasting along well over any sane speed limit…seeing his Dad inside the bioshield…his mother already dead…signing the papers to transport her to the funeral home….
+Winger realized he was holding his breath, as if withholding oxygen from his brain would make all that go away.  He’d heard that the Corps was working with law enforcement on a new technique of using ANAD in memory tracing, using the bots to penetrate a brain and sniff out highways of glutamate concentrations, re-building recent memory tracks that had been laid down.  Jeez, if they can do that, he thought, maybe ANAD can erase memories as well…like the day his Mom and Dad had been in that car crash.
+If I can get through that, I can get through this.  
+Winger became dimly aware that Moby M’bela was no longer sitting next to him.  It was impossible to see more than a few inches…somewhere in the buzzing, flickering murk that was the swarm, M’Bela had gotten up.  Winger heard a faint banging and realized it was Moby at the hatch, banging to get out.  Over the high-pitched shrill keening of the swarm, he could hear Moby’s voice.
+“Let me out…I want out…open the hatch…I want OUT NOW….!”
+Winger thought to get up and pull M’bela back to his seat but he couldn’t stand…the air was thick and gelatinous and now the stinging biting pinching of the bots really hurt like hell.  He swatted and rubbed at his face, then remembered something Heydrick had told them.
+“Just remember small is all, cadets.  Small is all.  When you’re in the middle of a swarm, get as small as you can, minimize your surface area, cover your faces and make like a baby.  Fetal, tucked in tight, curled up like a ball of twine…that’s what you want to do.”
+Winger decided now was the time to get small.  He rolled over on the bench and shrunk himself down to as tight a little ball as he could.  He was vaguely aware of Deeno doing the same thing next to him.  They bumped and Deeno went sprawling right off the bench, landing hard with an oomph onto the floor.
+Sorry, girl, Winger said.  But he knew she wouldn’t hear that.
+Scrunched up into a tucked position, his head buried in his knees, Winger imagined he could feel the bots slicing into his skin…he could feel it, he could hear them shrieking, he imagined rivulets of blood oozing down onto his back.  Or was that sweat?  Or something else?
+He screwed his eyes as tightly shut as he could and he could feel his face and neck crawling with a gazillion little feet—actually, effectors and grabbers and enzymatic knives and pyridine probes and flagellar thrusters and all kinds of effectors grabbing at him.  To keep from thinking about the stinging and the pain, he tried focusing on what he could recollect about how ANADs were constructed…there was a diamondoid base and outer casing, with picowatt thrusters at the base.  You built the bot up as a series of nested cylinders, right up into the main casing and actuator mast, then there was spherical processor and control module on top like a pumpkin’s head, studded with sensor ports.  The whole thing was draped with effectors up and down.  
+Just when he was about to scream out loud and stab the kill switch he was still clutching tightly in his hand, he thought—maybe he was imagining it—that the pressure of the swarm had begun to lessen.   At first he wasn’t sure, but the stinging had begun to subside, he was sure of that.
+Just as he begun to puzzle about the swarm, a bright flashing red light flooded the chamber and horns and warning klaxons blared at full volume.  Now, he was sure the bots had slackened off and the air was suddenly thick with some kind of bot rain…they were dying, fried by something, tinkling onto the floor of the chamber.
+What the hell?
+As the fog cleared, he saw M’bela on his knees at the hatch.  He was clawing at the hatch edges, trying to get out.
+“Pleeeease….pleeeease…let me out…!”
+“Moby—“ Winger and D’Nunzio said at the same time.  They went to M’Bela.  “Moby…get up…did you hit the kill switch?”
+The switch lay on the floor.  It too was flashing red.  Moby had already pressed the button, which meant he had had enough and the test had to be stopped.
+That was why the swarm was slacking off.
+“Moby…you didn’t…remember: all together, in or out?”
+Winger helped the Cameroonian cadet up to his feet, just as the last of the swarm dissipated.  The big bang had been stopped early and the bots swept out of the chamber by vacuum.  Winger felt his ears pop as the hatch swung open.  Bright lights flooded into the chamber.
+Faces appeared in the door.  One was Heydrick.  Other technicians poured into the chamber. 
+M’bela spied the outside light of the control room and tore himself from Winger’s grasp.  He fled the swarm chamber screaming and flailing, pushing everyone aside.  In seconds, he was gone.  
+Winger and D’Nunzio looked at each other.  Heydrick was grim as the techs helped the cadets outside.  Both received a quick scan for residual bots, then a tall glass of iced tea.  They both downed their glasses in one gulp.
+“I had to stop the test,” Heydrick told them.  “Regulations…any time a kill switch is pressed, everything stops.  Doesn’t matter who pressed it, although I see it was Cadet M’Bela.”
+D’Nunzio stretched, picked mech debris from her sleeves, brushed her hair out of her eyes.  “Does this mean we failed?  I never pressed anything.”  She handed her switch to Heydrick.  Winger did the same.
+“It means you’ll have to be re-tested, unless Major Kraft decides otherwise.”
+“Oh that’s just swell…I can’t wait to go through that again.”
+
+Nobody ever saw Oscar “Moby” M’Bela again.  Scuttlebutt had it that Moby had disqualified himself from nog school completely and left Table Top.  Winger and D’Nunzio were philosophical about the loss.
+They swapped thoughts over beers at The Grabber, a club for cadet officer candidates just behind the Barracks.  
+“Moby was a good man,” Winger decided.  “I don’t know what happened.  Maybe he just freaked…it happens.  You don’t know how you’ll respond to being swarmed until you go through it.  He had talents…he would have made a good atomgrabber.”
+“Yeah,” said D’Nunzio, “But at least Ironpants gave us a pass.  We did ninety percent of a swarm chamber anyway.  So it’s over and thank God for that.”
+“One step closer to graduation.  What’s next, Deeno?  Something quiet and sedate, I hope.”
+D’Nunzio consulted her eyepiece, scrolling down through the courses, the curriculum to come.  “Class time for a few weeks, looks like.  Languages, Math, something called Molecular Engineering…more SODS time.  Quantum Systems, Containment 101, DPS…I think we’ll be on the mountain for a while…no more fighting off bugs and bots.  This gal needs some quiet time.”
+“Hey, look what the cat dragged in—“Winger spied Mighty Mite Barnes just entering the club.  The diminutive cadet acknowledged them, grabbed her own beer and came over.
+“Too bad about Moby washing out,” Barnes took a seat and slurped at the beer, wiping suds off her lips.  “He’ll miss out on all the fun day after tomorrow.”
+Winger and D’Nunzio both looked puzzled.  “What’s up day after tomorrow?  Curriculum agenda says class time…” Winger checked his list “—in fact, it says right here: NanoTactics and Molecular Ops.”
+Barnes grinned mischievously.  “Look closer at the fine print, boys and girls.  The curriculum says class and lab time.  ‘Practical application of concepts will be demonstrated.’  You know what that means?”
+“What?”
+Barnes snorted.  “Another day up at Hunt Valley.  Wargame time again.  Live-fire tactical exercise…just got the word from Lieutenant Wormy outside.  We got a briefing tomorrow morning at 0600 hours…up at O/MP.”  The O/MP building was for ordnance and mission preparation.    “Full kit too…tin cans, weapons, live bots, the works.  Wormy called it Operation Slammer.  Two squads: the Devils and the Spiders.  We’ll get the scenarios and rules of engagement tomorrow.”
+“Tin cans…hypersuits…must be serious.”  Winger was still learning what buttons to push and what not to push on the boosted exoskeletons.  
+Deeno slumped over the table with a morose sigh, staring down at the dregs of her beer.  She swirled the suds with her finger, and licked them off.  “Crap.  And I was hoping for a quiet day in the classroom, someplace I could catch a few zzz’s.”
+Barnes commiserated.  “No rest for the weary.”
+“Say…who’s that studmuffin?” D’Nunzio looked up in time to spot a tall, rangy, Asian cadet entering the club.  The new cadet glided over to the bar and ordered something tall and frosty.  He was erect, with an angular face and short black hair, one lock of which hung down over his right eye.  His arms were built like pistons and the bulges in his T-shirt and tunic, open at the collar, spoke MUCHO GYM TIME in capital letters.  
+D’Nunzio’s lips made a lascivious curl.  “Well, well, well…welcome to my wet dream, young man.”  She started to get up, but Barnes pulled her back down into her seat.
+“Oh, that’s Joseph Ng…just transferred in from Singapore…Eastern Command.  Word is he’s tight with Ironpants…some kind of special ops guy, I heard.  Black missions and so forth.”
+But D’Nunzio wouldn’t be restrained any longer.  She cast off Mighty Mite’s hands and got herself standing, a little wobbly from too many adult beverages.  
+“I think I’ve got just the mission in mind for this cat.”  She went over to the bar.
+
+“Pixellated in Hunt Valley”
+
+North of Table Top Mountain
+September 25, 2048
+9:00 a.m.
+
+Johnny Winger found himself assigned to a unit called Spider Squad.  He thought it sounded like something he had made up as a five-year old, playing cowboys and Indians and alien invaders with kids from other ranches and farms near the North Bar Pass.  But then at least he wasn’t part of Devil Squad.  That one was headed up by Dana Tallant, the opponent Opfor for Operation Slammer.  Devil Squad would defend.  Spider Squad would assault.  The objective was Valleyville, the inevitable and ersatz village that had been attacked and defended countless times over the years at Hunt Valley.  Looking like a Hollywood backlot set of fake buildings and streets, the ‘Ville was set to host yet another exercise in tactical nano-ops, this time to use newly juiced-up ANAD systems to conduct a set-piece assault on a fixed, well-defended position.
+And this time, the Solnet/Omnivision people were sending a reporter to cover “how we train our troops,” as Major Kraft had informed them the day before.
+Swell. 
+Johnny Winger would command 1st Nano.  An Nguyen would run the Interface Controls as IC1.  Containment would be handled by Joe McReady as CEC1.  Deeno D’Nunzio and Colleen Barnes would run comms and serve as quantum engineers for the squad.  Their ratings were called CQE1 and CQE2.  And the newbie from Eastern Command, Joe Ng, would function as squad DPS1 along with Edward Ivanchik as DPS2.  That meant Defense and Protective Systems.  
+Joe was a hunk and Deeno could hardly take her eyes off him.  The others found Ng a little different, a little off, but nobody could quite put their finger on it.  “It’s an Asian thing,” Nguyen decided.  
+They had ridden a lifter up to Hunt Valley and put down in an LZ carved out of snow and ice on the south slopes of the Valley, overlooking a switchback trail that led down to the village.  After dismounting, Winger’s neck hairs started bristling right away.  They had long served him as an antenna for trouble.  He didn’t plan on giving Dana Tallant and the pukes of Devil Squad the luxury of an ambush.  They needed eyes and ears right away.
+“Joe, get Superfly up now…I don’t trust those Devils worth a rat’s ass…they’ll drop on us out of nowhere if I know Dana’s way of thinking.”
+Ng extracted the microdrone and spun up its props with a flick of his wrist.  He did a passable imitation of a fastball toss and Fly was chittering away on its four whirling props in no time.
+“Fly’s away, CC1.  I’m porting all channels to the crewnet.  We should be getting vid momentarily.”
+“Any indications around us?”
+Ng checked his sensor net.  “Nothing on EMs.  Thermals are background.  Acoustics showing background.  Nothing indicating nano in the immediate vicinity.”
+Winger nodded.  “Okay, move out.  Tactical One, squad order.  Ivanchik, you’re point on this leg.  Keep your eyes open.  If I know Tallant, she’s got something particularly nasty up her sleeves.”
+“Especially since you waxed her ass in the qualifying test, huh, Skipper?”  That was Deeno. She chuckled mischievously.  
+Winger knew Tallant would have it in for Spider Squad to get back for being bested in an especially creative way during the Atomgrabber’s Qualifying  Test several months before.  They would have to be particularly alert on approach to the Ville.
+Ivanchik had his HERF carbine out and powered up with a full charge.  He led them down a series of narrow trails that switched back and forth down the southern slope of the mountain.  It was cloudy, with a threat of snow in the forecast.  Gun-metal gray skies hung low and swollen, ready to dump their contents on the squad at any moment.
+They reached flat ground and straight away, Ng reported activity dead ahead.
+“Fly’s got something, sir.  Showing rising thermals…may be some bond breaking up ahead…I make the distance at about fifty meters.’
+Winger found a small hillock and pulled himself up, adjusting his eyepiece for long-range.  “I see a cabin.  Some sheds.   Piles of lumber and scrap.  Broken pallets lying around.”
+“Could be the structures,” Ng agreed.  “Or maybe the dirt around them.  Maybe we should launch ANAD?”
+“I say we hose it down first,” Mighty Mite Barnes offered.  “Fry the ground before we move on.”
+Winger wanted to do just that but the rules of engagement were clear.  “We’re supposed to be looking for a small group of hostages.  And minimizing collateral damage to infrastructure.  We’ll move in, but keep your HERFs and mag weapons spooled up.”  Winger had long ago decided you’d better follow Ironpants’ orders to the letter, if you wanted to live a long, healthy life in the Corps. 
+Spider Squad eased their way forward, step by step, with Ng and Winger keeping a close eye on everything Superfly was telling them.  
+The Solnet reporter brought up the rear.
+The first time Solnet reporter Mei Li saw the town was through the ornithopter vidstream coming in over her wristpad…it looked like something from a mid-20th century monster flick on the tiny screen, like Transylvania and dense fog and Dracula country.  She knew it was all fake but at least somebody had a sense of imagination.  She shivered in spite of herself and walked faster along the narrow rutted road to catch up with squad commander Cadet Sergeant Johnny Winger.
+“Dronecam, maintain overhead perspective, wide-angle, and follow me.”  Mei Li hustled after Winger, turning to make sure the pigeon-sized ornithopter obeyed.  The drone healed about and settled into a steady forward drift, its microwings churning and chittering three meters above her.   On her wristpad, Li watched the vid feed coming from its cameras.  Should be a good intro, nice and dramatic, she told herself.  Edit can add sound effects later.
+“Recording now…this is Mei Li of Solnet Omnivision, on the outskirts of the town of Valleyville.  I’m embedded with Spider Squad, 1st Nanospace Platoon of the Quantum Corps, on a live-fire tactical exercise in the hills of northern Idaho.  We’re investigating the small town of Valleyville, basically a training set for these kinds of exercises. As a part of this exercise, there are ‘Intelligence’ reports from Q2 of swarm activity in the area.  Spider Squad has orders to investigate.  Sergeant…if you don’t mind…a moment, please….”
+Winger scowled and slowed down while the dronecam wheeled about and hovered a few meters over their heads.  He flinched, swatted at the device like a fly.  “Keep it short—“  He had to put up with this airhead reporter mainly because Battalion, in the form of Major Jurgen Kraft, said he had to.
+“Sergeant,” Mei Li walked alongside.  “Why is Spider Squad checking out this village?  What are you hoping to accomplish here?”
+Winger took a deep breath, explaining the scenario in exaggerated slowness, the way you would with a five-year old.  “We thought the place was abandoned but Corporal Ivanchik---Moustache over there—and a few others said they saw lights, some kind of activity, in the town.  We called it in, checked with Battalion.  The brass said check it out.  So…we’re checking it out.”
+“And your objective here, Sergeant, is--?”
+“To seize the town, secure the town and its perimeter, rescue any hostages, clear any swarms we find and hold this territory until relieved by Normals moving down from the northwest.”
+Winger abruptly raised a hand, calling a halt to the march.  He motioned several troopers over.   “Nguyen, you and D’Nunzio and Barnes, form a detail!   Recon this street, down to the clocktower.  Keep your eyes open, guys…Q2 says this is Normal territory but we’ve had bug reports too.”
+“Right, Sarge—“ said Nguyen.  As they trotted off, a pair of Superfly drones wheeled about overhead, blowing past the dronecam, and headed into town for a top-eye view of what the detail faced.  
+D‘Nunzio had the viewer on her wristpad, along with a small joystick.  She sent commands to the birds, forming them up into a diamond recon pattern.
+Valleyville, as constructed for Operation Slammer, was little more than a village: a few stucco buildings, some with thatched roofs, a few barns on the outskirts, and a clocktower looming over the tiny piazza in the center of town.  The street they were entering was a dirt path, a few sheds and ramshackle wooden buildings spotted along its edges.
+Mei Li spotted Corporal Ivanchik nearby, one of the HERF gunners.  She decided Edit would love to have some footage from the regular troops.  She went over and motioned for the dronecam to follow.  It chirped and hummed, taking up a position nearby, wide-angle shots first.  
+“Corporal, if I may—“
+Ivanchik was munching on a foodbar.  He smiled faintly at the reporter’s approach.  “Want a bar…I got lots of ‘em…tastes like sawdust, this one—“
+“No thanks, Corporal…for our viewers, this is Corporal Edward Invanchik…your comrades call you Moustache?”
+Ivanchik fondled his thick black lip forest.  “You like it?…I work on it everyday.   Sarge says it ain’t regulation, but he never does anything about it.”
+“Corporal, you are a HERF gunner…tell us about that—“
+Ivanchik hoisted his weapon up, stroking the generator casing below the barrel.  “Sweetness?  Yeah, me and Sweetness…we’ve wasted a few bugs over the last few months.  I do my job real well…High Energy Radio Frequency…this one’s a Mark 4…I done a few mods myself.  You want your bugs fried or extra crispy…me and Sweetness can do it anyway you like it—“
+Mei Li was about to ask another question, but the wristpad on Ivanchik’s arm chirped and beeped…incoming data.  It was a video feed from the recon detail…Moustache held up his other hand while he studied the results.
+Winger came over too.  They pondered the results…vid from the drones, EM signatures, thermal emissions.  The imagery showed townsfolk going about their business.  
+“Looks like a bunch of Normals to me,” Moustache was saying.  “Don’t see any spikes or transients like bots put out—“
+“I’m not so sure—“ Sergeant Winger rubbed at some itchy stubble on his chin.  “Damn Bugs are getting more and more clever.  Hell, they look like you and me now…”
+“Sarge, even Bugs are nanobotic assemblers…to look like you and me, or anything else but a loose swarm, they gotta break  atoms…and that gives off heat.  You see any heat spikes--?”
+“I don’t like it,” said Lubitsky, another trooper who had joined them.  “Bastards can look like cow patties and half the time, we’d never know.”
+Winger squinted at his own wristpad, pondering Battalion’s rules of engagement.  “I’m doing this by the book.  Plus, we got orders.  Saddle up, boys and girls…we’re going into Valleyville.”
+It was just after dusk.  The main street and the town square, the little oblong piazza with the clocktower, were dark and mostly deserted.  A furtive glance came from windows along the road, apartments and houses, where curtains were drawn tight.  Lights flickered and shadows shifted in the alleys between the buildings.  From somewhere in the distance, cats screeched.  Then it started to rain, a steady drizzle drumming on the tin roofs all around them.
+Barnes and Ng took point.  One with a coilgun carbine at the ready, the other armed with HERF, the two troopers crept silently down the street, keeping away from lights that could silhouette them in the dark.  Overhead, ornithopter drones and Superfly bots did top cover, spying out anything that moved, anything that gave off heat or light.
+Mei Li followed with her own drone.  Winger snapped, “Keep that damn thing down low—below tree level—I want my guys to get a clean sniff of what’s out there.”  The Solnet reporter 
+complied, ordering the autocam ornithopter to half-hover a few meters behind her, sending a vid stream of Spider Squad’s approach into the town.
+Only a few townsfolk were out on the streets.  Spider Squad stayed mostly to one side.  The civilians paid them no attention.  The troopers knew that the civvies were bots, most of them.  The rest were locals, volunteers, paid by the Corps to participate in the training exercises.  They took their jobs very seriously.
+An eerie, unnerving calm pervaded the center of the town.  The steady drizzle muffled their steps.  
+Mei Li decided to narrate their approach.  She could edit for continuity later.
+“We’re entering Valleyville now…all the troopers of Spider Squad are on knife edge.  For the moment—“  She stopped when shouts erupted from up ahead.
+“Bugs!”
+“Bots at three o’clock…down that alley--!!”
+Everyone took off running, leaving Mei Li behind.  She broke into a trot and the drone whirred after her.  
+Down a dark alley, someone thought they had seen swarms.  Later, during the after-action debrief, Trooper Barnes, with Ivanchik and Lubitsky, insisted on it.  “It was a cloud of bots, sure as I’m sitting here, moving across the alley.”
+“You’re sure it wasn’t just smoke…” Winger probed.  “I smelled cooking fires, like chicken or something…maybe that’s what you saw—“
+But at the time it happened, nobody checked to see if the apparition was swarm or Normal.
+HERF rounds erupted and staccato coilgun fire stitched across the sides of the buildings.  In seconds, the alley was a ball of flame and falling debris, a great smoking heap of rubble.  Again and again, troopers poured fire into the alley.  They had become immune to the difference between Normals and ANAD bots.  Trigger-happy too, and Mei Li noted that in her voiceover.  If it even remotely looked like a swarm, it was attacked with unrelenting ferocity.
+You just couldn’t be too careful.  Even if it was an exercise.  Especially if it was an exercise.
+After the dust had settled, nobody went down the alley to investigate. Winger ordered Spider Squad on into the center of the town.
+Mei Li paused, to take a sip of Quikshot from her canteen and wolf down a foodbar.  She circled the small statue of some forgotten dignitary in the middle of the piazza, while Spider Squad gathered around their wristpads, watching video feed from their drones, up and down nearby streets.  
+“…Corporal Ivanchik told me this evening about another exercise they had recently run at the wargame range.  The town had been set up to resemble a tiny mountain hamlet in northern alpine Italy.  They called it Magdelena.  Spider Squad had been there a few weeks ago.  The Corporal said Magdalena was like a lot of small towns the Squad had encountered in their never-ending field training—“  here she pasted in the sound bite from Ivanchik….
+“Yeah, sure…we wiped the place out.  I mean completely too.  HERF’ed and coilgunned it down to burning rubble and flies.  And real flies too, not ANAD bots.  We made sure of that.  It’s like Lubitsky said…we had to destroy the town to save it.  Place was infested, swarms everywhere—“
+Mei Li paused her voiceover.  She ran the last few seconds again.  She was sure she had heard that before, somewhere, in another time and place.  
+Winger decided to form up another recon detail, this time with humans and drones together.  “We got to be sure…sweep this hellhole from one end to another.  Lubitsky, you go with Invanchik and Ng down that sector…Barnes, you and Nguyen and D’Nunzio take that one--
+“  He sectioned off the remainder of the village into sweep sectors.   “You see anything, anything at all, smash the bejeezus out of it.  Battalion says this is a free-fire zone.  Fry the bastards like popcorn, if you have to.”  
+Ten minutes later, one of the details came back, completely spooked, insisting to Winger that the whole place was one big swarm nursery, that they were everywhere, behind every corner.
+Nguyen, the Vietnamese cadet, was out of breath.  “They’re inside… behind the doors…  we could see the swarms—faces… parts of faces…in the windows—“
+Barnes added, “Even the barns…they were kind of fuzzy, kind of shimmering…like a swarm trying to hold structure…”
+Ng said, “Sarge, we need to deploy ANAD…deploy now!  Get the master out and replicating…so we’ll be ready—“
+Winger knew Ng was probably right.  But he didn’t like taking ideas from a newbie. His eyes narrowed.  “What did Superfly say?”
+Mighty Mite Barnes shrugged.  “I don’t know…we didn’t stick around, Sarge—“
+Winger ordered a full drone scan of the sector.  A herd of ornithopters wheeled about overhead to sniff out thermal emissions, atom debris, electromagnetic disturbances, anything out of the ordinary.  The aerial bots swooped low, then careened higher to overfly the area. 
+Mei Li approached the gathering.  “Something, Sergeant?”
+Winger said, “I don’t know.  I got a bad feeling about this place…too quiet.   We’ll let Superfly tell us what’s going on.”  The rest of Spider Squad assembled at the intersection, near the clocktower.  
+Mei Li looked about the piazza, signaling her dronecam to get some establishing shots.  Valleyville was eerily quiet.  A stray cat.  A few birds.  A statue in the center.  All the shop windows were closed, lights down low.  It was just nicely dark.  In real villages set in this part of alpine Italy, early evening strollers and café dwellers would have been out congregating at this hour.
+Valleyville didn’t seem to have any cafes.
+“Nothing, Sarge.”  D’Nunzio was studying her wristpad, getting scan data back from Superfly.  “Nada…no heat flux, nothing acoustic…nothing.  It’s weird.”
+“Too weird,” someone said.
+Winger rubbed at his chin stubble.  “I got my orders.  Battalion says clear swarms from the area and hold the town, then we move in for the hostages, if there are any.”  He looked around at his men, knew how fatigued and jittery they were.  He was on edge himself. He didn’t want to screw this up, incur Ironpants’ wrath anymore.  “We can’t take any chances.  With Devil Squad somewhere out there, we know what the Bugs can do. This whole place could be a setup.  I’m ordering a Level 1 assault.”
+Ivanchik brightened.  “Level 1…you mean…the works?”
+Winger nodded.  “Every building is to be completely leveled.  All residents—if there are any left in this mudpile—are to be turned out.  Everyone leaves town…no exceptions…send ‘em out by the northern roads…keep the southern and western roads clear for Normals…we’re supposed to be relieved in twenty-four hours.  Once the place is properly sanitized, I’ll launch ANAD, rep a few gazillion bots and we’ll sweep the whole area. I don’t want any surprises today.”
+Mei Li and her dronecam had captured everything on vid.  “Excuse me, Sergeant…didn’t Corporal D’Nunzio just say there was no evidence of swarm activity in the area.  Yet you’re still going to destroy the village—I don’t—“
+Winger was unmoved.  “They’re here, Ms. Li.  I can feel it.  So can my men.  You’ve seen the vids, you know what the Bugs can do.  No, we’re playing this one by the book.  Level everything and set up a defense perimeter.  Any bugs that are still loose, we zap ‘em right then and there, right to eternity.”
+As Mei Li made another posting to the Net, Winger gave the order.  The Solnet correspondent made sure the dronecam got good vid of everything.
+“It wasn’t long before the village of Valleyville was engulfed in flames…all the thatched roof buildings, the old stone churches, the shops and cafes, even the statue in the piazza crumbled into dust under a withering barrage of HERF and particle beam fire…there were a few residents and they ran through the streets in their pajamas and robes, terrified, screaming…it was all frighteningly real and convincing, as it was meant to be.  The troopers of Spider Squad were like bots themselves, going from one street to the next, systematically pulverizing every structure they found…making sure as they moved on that nothing was left standing…nothing that a swarm could masquerade as…
+“It didn’t matter if the swarms, or “Bugs’ as the troopers called them, were in Valleyville or not.  What mattered was that Spider Squad believed they were there.  In vids this reporter had seen prior to the exercise, the enemy had been able to masquerade as civilians, barns, abandoned cars, even trees and bushes.   Nothing could be trusted.  Since nothing could be trusted, everything had to be destroyed.  
+“Now, Valleyville is a burned-out rubble pile.  The residents, those that survived, have fled north, along the highway to places beyond the mountains, so I was told.  And the troops of Spider Squad have set up camp outside the rubble, to await their relief.
+“Their mission has been accomplished.  There’s nothing left standing that the Bugs could emulate or infest.  Spider Squad has done what was required of them.  
+“The last step of the sanitizing process was for Sergeant Winger to launch his own ANAD master bot.  This device would then replicate itself into a swarm and the swarm would be driven throughout the streets of the town to sweep out any residual enemy bots.
+“The troopers called it ‘polishing the floors’, as if they were a heavily armed and somewhat paranoid cleaning crew.  
+“When the ANAD master bot was launched from its containment capsule by Corporal McReady, and began replicating, it looked like a miniature thunderstorm, a faint, flickering fog growing up and out, spreading like some Biblical plague across the grounds.
+“That’s when something incredible, something completely unscripted happened…Corporal Joseph Ng himself began to deconstruct into something similar…a glowing fog of twinkling lights like fireflies—“
+Mei Li halted her voiceover in mid-sentence.  All hell had broken loose outside Valleyville.  In panic and confusion, troopers were firing HERF and coilguns wildly, trying to beat back the growing swarm that had once been Ng.  The main body of the ANAD swarm was already maneuvering toward the center of the piazza.  The thing—swarm—plague—whatever—that had minutes before been Joe Ng was a smaller formation, but faster.  It sped on its own propulsors across the grass and dirt, sending up little dust devils as it chased after ANAD.
+Winger, momentarily startled, ordered a full-bore volley, everything the squad had.  “Light ‘em up!  Hose the place down!”
+Someone dragged Mei Li to the ground.  It was D’Nunzio.  “Keep your ass down, ma’am!  Those bugs could turn on us in no time!”
+Mei Li stopped her voiceover.  Overhead, the dronecam orbited in a safety pattern, awaiting instructions.  Its vid footage would prove invaluable in after-action debriefs in the days ahead. 
+
+Jurgen Kraft leveled an even gaze at Johnny Winger across his desk.  “Well, Mr. Winger, this is becoming a regular occurrence with you.  Once again, you’ve managed to stretch the Rules of Engagement…and my orders…in a tactical exercise.  As far as Operation Slammer was concerned, I believe the ROE called for you and Spider Squad to reconnoiter the town, secure the town, rescue any hostages and avoid collateral damage to existing infrastructure, to the maximum extent possible.”
+Johnny Winger looked down glumly.  Here it comes now…my exit papers.  
+“Yes, sir.”
+Kraft didn’t blink.  The vein on his forehead quivered red like a thing alive.  And his huge moustache looked like it was making fists at Winger.
+“So your interpretation of the commander’s intent and tactical directives is to obliterate the objective into a smoking ruin, run all the residents out of town half-naked, ignore the possibility of any hostages, and only then sanitize the objective with properly configured ANAD swarms?”
+Winger finally looked up and tried to meet Kraft’s fierce glare.  He offered up a brief explanation of why Spider Squad did what it did.  Under the withering look of old Ironpants, it sounded pretty lame even as it came out of his mouth.  
+Kraft was undeterred.
+“Cadet Winger, in this business, sound tactical judgment is essential.  So is following orders.  This is not some game we’re playing up here.  Follow orders and live.  Disobey and die.  It’s that simple.  Winger, you continue to confound everything I thought I knew about you—“
+“Sir, we were about to conduct the sanitizing ANAD sweep when Cadet Ng…uh, well, sir, kind of…sort of disappeared…pixelated…sir.”
+Kraft sighed and rested his elbows on his desktop.  He nearly knocked his commandpad off when he did.  “Yes, son, I’m well aware of the reports.  Q2’s investigating now.  The word I’m getting is that Mr. Ng was not quite what he seemed.  I think the term Q2 used was ‘para-human nanobotic formation,’ or some such.  Some people are even calling them ‘angels’…there’s been intel on the boards for over a year that Red Hammer can do this…configure a swarm to so closely resemble a human being as to be indistinguishable.  For our sakes, I hope to hell this is somebody’s wet dream and not actual intel.”
+“So Q2 believes this was Red Hammer, sir?”  That made Winger feel marginally better.
+Kraft nodded.  “Affirmative.  They’re reporting that Mr. Ng, or whatever the hell he was, was in fact a spy, saboteur, agent-provocateur, you name it.  The real problem is that your ANAD bot has turned up missing; likely that’s what Ng was after.  Q2 believes Mr. Ng was sent by Red Hammer to capture just such an ANAD master and use it to improve their own ANAD-style systems.  Or develop counter-measures for ours.  Reverse engineering and all that.  To put it bluntly, Mr. Winger, your CQE was duped.  He never recovered anything…a few replicants, a dud, a blank copy.  And now Red Hammer probably has one of latest and greatest ANAD masters.”
+Winger was stunned.  “Sir, does Q2 have any leads…on where Ng might have taken ANAD?”
+Kraft looked like he was about to explode.  “Mr. Winger, that is no longer your concern.  As a matter of fact, that leads me to why you’re here—“
+“Sir?”
+“Ever hear of Mali?”
+Winger scrunched up his face…glad the conversation—it wasn’t really a conversation…more a dressing down disguised as an after-action debriefing.  “Somewhere in Africa, sir?”
+“You asked where Ng went with ANAD.  We’re getting reports out of Quantum Corps Central Command, Balzano, Italy, as well as UNIFORCE in Paris, of a growing epidemic of HNRIV in Africa and around the Med…ever hear of that?”
+Winger thought.  He had seen something recently on the Solnet about a rising outbreak of some new disease.  “A little, I think, sir.  HNRIV?”
+“Human Neuro-Receptor Inhibiting Virus.  Only the eggheads at CDC and World Health think it’s not exactly a virus.  They captured some samples…it’s part organism, part mechanism.  A programmable virus…like ANAD, in some ways.  Addiction on demand—“ here Kraft was scanning some notes on his commandpad—“somehow it worms its way into your brain and  inhibits dopamine re-uptake in nerve cells, nerve cells in the limbic cortex and the mesoencephalic brain stem, specifically the ventral tegmentum."
+"I’m not sure I understand, sir—“
+"Neither did I.  In plain English…that's the area of the brain that generates pleasurable stimuli…the same area that addictive substances work on.  Cocaine, jazz, twist, whatever…they all work the same way.  Keep neurochemicals like dopamine from being re-used after every nerve impulse and you flood the nerve tissue with good times.  Keep the nerve cells stoked with dopamine and pretty soon you got one hell of a lot of happy customers.  It’s a bot with virus properties, Winger, and its exploding out of west Africa.  Central Command…specifically 2nd Nano is overwhelmed.  They don’t have the personnel or the expertise with ANAD we have here.  They’ve asked for help.  Our help.  I have tasking from UNSAC in Paris to furnish that help.”
+Now Winger was intrigued, grateful for any way to get back in the Major’s good graces.  “How can we help, sir?  We’re just nogs.  Not even full atomgrabbers.”
+Kraft sniffed.  “Don’t I know that.  But orders are orders.  Winger, I’m forming a small detachment.  Call it Detachment Alpha.  The whole op has been tagged Atom Hammer by UNSAC. You’re heading up Alpha…a team of seven.  Look, I know you’re not up to speed yet, Winger.  You’ve got a problem with following orders.  But you are resourceful…and energetic…and committed.  Even I can see that.  Alpha is detailed to 2nd Nano for a month.  Your contact will be a Lieutenant Delforza out of Balzano.”
+“What’s the mission, sir?”  Already, Winger was working out details in the back of his mind.
+“Work with 2nd Nano…Delforza’s boys—to locate, penetrate and render harmless a suspected Red Hammer base outside of Bamako, Mali…Q2 thinks there may be a lab there where HNRIV’s being developed, programmed and evolved.  Hell, your ANAD master may even be there.  Get over there, Winger, and smoke those bastards out.  HNRIV’s nasty and it’s got to be stopped in its tracks.”
+“Sir, what about personnel?  Equipment, transport, that sort of thing.  And ROE, too, sir.”  He thought he’d better add that in, since Kraft had a low tolerance for freelancing by atomgrabbers.
+“You’ll have a hyperjet on the runway day after tomorrow, 0700 hours.  You’ve got one day—here, I’ll squirt the workups, ROE, personnel and equipment draw, TOE, everything, to your wristpad—“ he pecked at his commandpad and Winger’s wrist chirped with the received data a moment later.  “You’ll have one day to pull it all together.  Meet with your team.  Go over the op orders.  Answer their questions and get your equipment and weapons and ANAD systems and your ass in gear.  You’re flying to Africa day after tomorrow.”
+“Yes, sir—“
+“Oh, and Winger—“
+“Yes, sir?”
+Here Kraft had a pained look, like he was about to cry.  The Big Moustache was twitching like a bird about to take off from his face.  “Do us all a favor.  Read the op orders and the ROE.  And try to stick to them, okay?  I don’t want any static from UNSAC or 2nd Nano about our guys turning into loose cannons.  I realize this is highly irregular, sending nogs to do an atomgrabber’s job.  But HNRIV’s a bad bug and you’ve shown me a level of grit and tactical resourcefulness—if I may use that term—that ‘s just what the situation requires.  Get over there and make us proud, son.”
+Winger stood up and saluted.  “I won’t let you…or the Battalion…down, sir.  You can count on me, sir.”
+“That’ll be all.  Dismissed!”
+Winger saluted again and wheeled about.  As he headed out of the Ops building, he bundled up against a chill wind sweeping across Table Top off the snow-covered summits of the Buffalo Range nearby.  Snow clouds scudded by low and swollen.  
+He fairly sprinted across the grassy quad toward the Cadet Barracks, a million things on his mind.
+Detailed to 2nd Nano.  A real, live op.  Africa.  Mali.  Programmable viruses.  Bastard ANADs.  Johnny Winger’s mind swam with thoughts and ideas, swirling around like the snow that was even now beginning to fall…not unusual for the Buffalo Range even in September.  
+He heard a loud roar off to his left and spied the sleek lines of a UNIFORCE hyperjet touching down on Runway 32 left, kissing the tarmac with a screech and a puff of smoke.  
+Probably our ride to Mali, he surmised.   He was looking forward to the suborbital hop day after tomorrow.  Africa in two hours.  You couldn’t beat that.  
+Then Major Kraft’s words rang like a gong in the back of his mind: Do us all a favor.  Read the op orders and the ROE.  And try to stick to them, okay?  
+Winger smiled in spite of the Major’s stern warning.  “Sure beats the hell out of shoveling hay on a ranch.”  He bundled up tighter and pushed through the doors into the Barracks.
+
+“Banikaiyan, Mali”
+Bamako, Mali
+September 28, 2048
+6:45 p.m.
+
+From a hundred kilometers altitude, west Africa looked like a gigantic sandbox, a dun-colored mass punctuated with orange and brown hills, surrounded by the blue-green arc of the Atlantic Ocean and a green ribbon that his wristpad map called the Niger River, snaking its way across the desert.  Roaring down through re-entry aboard hyperjet Charioteer, Mali’s capital city of Bamako was a collection of low-rise adobe and mudbrick structures, interspersed with a few grandiose monuments and a smattering of taller buildings.  Several bridges spanned the Niger and the whole city seemed clumped around the riverbanks like a fungus on the clear, pristine sands of the nearby Sahara.
+Lieutenant Delforza was there to greet Detachment Alpha as they deplaned on the tarmac at Bamak-Senou International Airport.  Delforza was Italian—you could tell that from a distance—black wedge of hair on top, completely non-reg by Table Top standards, hawk nose, sharp blue eyes and hands that wouldn’t stop moving and gesturing.  
+Winger saluted smartly.  “Detachment Alpha on the ground, Lieutenant.  Reporting for duty, sir.” 
+Delforza was already shepherding them toward a convoy of Quantum Corps and Malian Army crewtracs and lifters parked a few dozen meters away.  
+“Intel believes Red Hammer’s got a lab and small base up at Banikaiyan, about thirty minutes north of here.  Come on…I’ll fill you in as we go.”
+The convoy headed north from the airport, along RN1, passing the Grand Mosque and the National Museum, before crossing the river at the Pont des Martyrs.  A left jog put them onto RN13, stuck briefly in heavy sotrama traffic, with hundreds of taxi vans honking and swerving through narrow streets, then out past Kambila into the desert hills north of the city.  They passed isolated stands of kapok and baobab trees and approached the mudbrick village of Banikaiyan, nestled in a narrow valley between volcanic hillocks.  
+Here Delforza brought the convoy to a halt.
+“We’re changing into unmarked vehicles here,” he explained.  He pointed out a porthole of the crewtrac to a trio of gaily colored sotrama vans, parked along a dirt lane just outside the village.  “This is a covert, direct-action operation and our mission is to penetrate the suspected Red Hammer compound—we think it’s buried under those hills north of the village, up where you see that old Berber trading fort—and collect all the intel we can, put this facility out of commission, MOB any personnel that obstruct us and then exfiltrate.”
+Winger studied the view out of the porthole.  “Why all the subterfuge, Lieutenant?”
+Delforza smiled grimly.  “We know from local sources that Red Hammer’s cozy with local Tuareg warlords…the amghar, they’re called—and the Malian Army isn’t much better.  These soldiers escorting us from the airport are probably informers, letting Red Hammer know just where we are at all times.  I’ve worked out a little mission for our escorts so they won’t know we’ve departed in those civilian vans.  So…we do the mission and get the hell out of here.  And that tasking comes directly from UNSAC himself.  Word is he and the Secretary-General don’t want trouble with the General Assembly.  HNRIV is the problem and we think Banikaiyan is one of the nerve centers.”
+Winger looked over the small crew from 2nd Nano.  “Maybe we ought to get to know each other before we go in…even if it’s just ANAD doing the op.  You have any experience with solid-phase transit ops?”
+Delforza said, “Does anybody?”
+Winger decided to tell the Italian officer the truth about Detachment Alpha.  “Lieutenant, in the interest of full disclosure, this Detachment isn’t made up of standard atomgrabbers…actually, sir, did Major Kraft inform you we’re all just cadets in nog school at Table Top?”
+The Lieutenant was distracted by other matters.  “I think Kraft mentioned something about it.  But it doesn’t matter.  Your outfit has the only experience with working ANAD swarms through solid rock.”
+Winger swallowed.  “We’ve studied the theory, Lieutenant.  We’ve wargamed it.  Did some classes and studies—“
+Delforza interrupted.  “You’re here.  That’s what matters. “ He peered out at the convoy.  “Now to get rid of our escort---they’re all Red Hammer informers.  Or worse—“  He climbed out of the crewtrac, had a few words with a Malian Army sergeant, who gestured back angrily, then rounded up his men.  They climbed into their jeeps and sped off into the village.  Delforza climbed back inside.
+“I just sent Sergeant Dikesi on a little recon sweep of Banikaiyan.  That’ll take him a while and more importantly, it’ll get these clowns out of our hair.  Soon as they disappear, we move our gear into those sotrama vans.  They’re right from the streets of Bamako.  Nobody will look twice at us.”
+“What’s our destination, Lieutenant?” Winger asked.
+Delforza pointed out the porthole to a distant hill.  “See that old Berber fort up there?  It’s called La Maghreb.  Intel and surveillance ops in this area have shown us that something’s underground, below that fort, inside the hill.  Some kind of Red Hammer facility, we think and it’s tied to HNRIV signatures.  Q2 says the emissions, the acoustics, EM background in the area is all consistent with known HNRIV samples.  Red Hammer’s doing something here and it involves HNRIV.  We’ve got to find out what it is and put a stop to it.  If we don’t, we could have a local pandemic on our hands.”
+Winger, Barnes, D’Nunzio and the rest of the Detachment helped Delforza’s people move all their gear.  The process took less than ten minutes.  
+Second Nano DPS Corporal Valery Laval drove one van, which was painted bright pastel colors in flashes and swoops.  Hoyt Gibbs, Detachment Alpha IC1, the interface specialist, drove the other van, following Laval.
+They skirted the outside of the village, crossed over a tributary of the Niger River, squeezed down several narrow alleys and lanes between low-rise adobe and sandstone huts and then worked their way up a narrow, rutted, dirt path to a landing just below the fort.  There was little traffic along the way.  Only once, did the convoy have to pause for a small caravan of camels and goats gingerly making their way down the rocky slopes of the mountain.  
+To enhance the illusion, several men got out and opened the engine hood of the lead van, gesturing and pointing at some problem inside.
+For the light early evening traffic along the Banikaiyan Road, the trucks seemed nothing more than a small convoy of delivery vans, whose drivers were engaged in animated conversation, doubtless troubleshooting some mechanical problem along the side of the road.  No one paid any attention to the incident.  High above the road, in the craggy ramparts of the Banikaiyan Mountain, La Maghreb could be seen, its crenelated towers and parapets tucked into the folds and crevices of the ancient hills.  The fort was dark and seemingly unoccupied.
+Two hours later, no one noticed the pair of vans was still parked below the fort.
+"Launch ANAD," Johnny Winger commanded.  1st Nano's TinyTown was secreted inside the second van.  The launch tube extended from the containment pod through the floor of the van into a small six-inch hole that had been drilled into the hard limestone cliff alongside the road.  
+There was an audible swoosh as the vacuum system pulsed and discharged the small swarm with the ANAD master into the ground.  The drone-snap of the discharge was followed by a momentary rumble as the horde transited the surface of the cliff and flew down the borehole they had drilled shortly before.
+An Nguyen, serving as Detachment Alpha’s containment specialist CEC1, softly muttered a hex on their enemies as he secured TinyTown for ANAD's return.  "Master away, Lieutenant."
+"ANAD reports transiting….ready in all respects, sir," said Hoyt Gibbs, almost at the same time.
+Winger studied the IC panel.  "Very well…this is going to be ticklish for a while.  Time to reach the end of the borehole?"
+Gibby checked ANAD's progress, a few other gauges.  "About twenty minutes, Wings.  After that, he's on his own."
+Winger knew that.  He was making a huge gamble, but it seemed the only way.  The plan was to locate any underground Red Hammer facility, then insert a small recon swarm inside the compound, and do a little snooping.  They had to find out how the HNRIV airborne swarms were being controlled.  They had to find a way to break that control link.  The evidence pointed to Banikaiyan as a key node, if not the control center.  Until 1st Nano could locate and take on Red Hammer directly, Banikaiyan would have to be the soft underbelly.
+"If we can get inside and find out how they run those swarms, how they program and control the bastards," Winger told Delforza, "we can put 'em out of business.  Or at least, shut down operations from here.  If we don't find those links, a lot of people are going to become addicts.  We've got to get in there, somehow, and pull the plug."
+The trick was, Winger had told them, locating and getting inside the compound. It was a cinch, even though no outward evidence existed, that the place was crawling with nano--barriers and screens and filters and hunter-killer swarms, ready to make quick work of any intruders.  
+Now, Quantum Corps had come calling without an invitation and the real target was intelligence: just what level of activity was going on at Banikaiyan?  Had the Human Neuro-Receptor Inhibiting Virus been intentionally designed to create remote-controlled addictions in its patients?  Who or what was in control of this man-made plague?
+Johnny Winger had worked out a penetration strategy with Delforza and the rest of the Detachment.  It might just work.  They hoped it would work.
+It had to work.
+"More than likely," Mighty Mite Barnes had offered, "the compound is secured floor to ceiling with nanomech screens.  If I were designing a security system, I'd tune my mechs to blanket the seals and locks, the doors and windows, and set up an airborne barrier overhead, just in case any intruders tried to slip in that way."
+"What about coming in from below?" Gibby had asked.
+"Below--how do you mean?"
+Gibby stood next to Winger at the sim tank, watching simulated hordes of mechs flow over the diorama of Banikaiyan Mountain.  "I mean from underground.  Look, we know the place is tight from all angles up top.  But there's a chance Red Hammer’s got little or no nanomech barrier protecting an underground approach."
+"You're talking…through the mountain?" Winger had asked.
+Gibby ran his fist through the hologram of the sim tank.  "Right through the rock, sir.  We assemble a small group of replicants outside, bore a hole, and let 'em filter into the rock of the mountainside.  Make their way toward the complex.  At the right time, we rep a larger swarm and start filtering in from below…I'll bet you good money they're not configged to detect or react from an underground penetration.  Maybe we can 'stream' ANAD in…you know, a few mechs at a time--and not even be noticed.  Config ourselves as dust motes, or gnats or something innocent like that.  Once we're in, we form up into recon swarms and go about our business."
+Winger shook his head.  It was a truly crackpot idea.  "It might just work."
+Barnes was skeptical.  "It's a tactical nightmare.  How the hell do we communicate with ANAD--through solid rock?  How does he navigate?  We're talking big density problems here…pressure and temperature alone might even keep us from replicating.  Nobody's ever tried to run a real assembler underground, not at any depth."
+Gibby smiled his best little maverick smile.  "Exactly.  I know that.  You know that.  Probably Red Hammer knows that.  Nobody will expect it.  Nobody'll be looking for a nano breach from below ground."
+Winger had gotten a warm, cuddly feeling about the idea.  "It'll take some work.  But I like it."
+Delforza and Winger studied the imager screen on the interface control panel, both silently willing an image, something, to show up.  The sims had predicted intermittent comm.  The limestone cliff they had bored into was dense rock, structurally tight crystalline lattices of silicon and calcium and iron and half a dozen over things, with little room even for nanoscale bots to maneuver.  Getting through the rock plates, let alone sending an acoustic or EM signal back, was dicey, and there were even bets around the Detachment on when comms would drop out altogether.
+When it did, if it did, ANAD would be completely on his own, until he breached the floor seals of the Red Hammer compound.  
+"Getting something--" Gibby announced.  He tweaked a dial, boosted the gain, and waved his hands around the imager, imploring a signal to come back--"--come on, baby…come on…give me a peek, just one little peek--"
+Gradually, the imager settled down to a dark, staticky, grainy picture--of what?  Winger squinted, leaned forward.  The view slowly materialized--a dense, regular lattice of throbbing, quivering spheres.
+"Crystalline structures," Gibby reported.  "Looks like calcium.  Maybe carbons—
+Winger was mesmerized by the perfect geometry.  "Oxygens too, Sergeant."  He pointed to long rows of tiny darkened blobs, marching off into the distance like a fence.  "A cubical lattice, just like the micrographs.  A crystalline solid--"
+"Limestone's mostly calcium anyway, with some oxygens and carbons mixed in.  Interlocking crystals--it's beautiful."
+"And damned hard to navigate.  Like a jungle…this stuff's so dense, ANAD's speed is way down.  Enable the voice link--"
+Gibby tapped a few keys.  "--to Hub…ANAD to Hub…ANAD is inside, pushing through some zone of crystalline cubes--"  the voice was almost a whine, an impatient six-year old.  "--very thick structure…getting jostled a bit…the atoms here are highly charged--probably covalent bonds…lots of electrons being swapped around--"
+Winger opened the voice link.  "ANAD, this is Hub…can you go any faster?  We're behind the mission timeline."
+There was a pause and the imager view jostled a bit.  "Negative, Hub.   ANAD at twenty percent propulsor…packing too tight here…high specific gravity…got many walls of lattice ahead…have to navigate each one…van der Waals forces are tricky--"
+"How deep is he?" Winger asked.  
+Gibby checked the sounding return from the borehole.  "Forty meters now…we should level off and turn northeast.  The Red Hammer compound appears to be on a bearing of 072 degrees, judging from returns."
+Winger studied the grid layout of the mountain, a 3-D projection of the limestone cliffs of Banikaiyan Mountain, with the presumed location of the lab sited in.  ANAD's projected path was also laid in, a dotted line to the subsurface foundations of the structure…at least what Q2 had been able to determine from local and overhead surveillance. 
+"I agree.  ANAD…steer right to heading 072 degrees.   Maintain depth if you can.  And increase propulsor power to forty percent."
+Sounding showed ANAD had complied.  The child's voice crackled over the speaker.  "Steering right to 072…sedimentary layers getting smaller…almost no voids now…pressure rising, temperature too…ANAD safing outer effectors…can't squeeze between calciums otherwise…commands sent to all daughters--"
+"Good idea," Winger muttered.  He hadn't thought of that.  ANAD had retracted its outer layer of effectors, stowing them for the journey.  That should reduce interference with the ionic forces buffeting the tiny swarm.  "He's learning, Gibby…"
+"Learning fast, sir.  Like a precocious child--"
+"--propulsor power increased to forty percent…ANAD recommends safing effectors to stage one--density increases ahead--"
+"He's right," Gibby saw.  "Must be a concentration of heavier rock."  
+ANAD had asked permission to retract all effectors inside its body, leaving only its structural shell exposed.  
+"Permission granted--" Winger sent.  
+Gibby and Winger studied the soundings, following the progress of the swarm as it wound its way laboriously through denser rock, climbing slightly to negotiate a nearly impenetrable outcrop of black-streaked breccia.  On the imager, the acoustic return revealed a solid wall of atoms, pressed together like layers of a pie.  The image buffeted and quivered in a maelstrom of atomic forces and Brownian motion.
+"Like swimming in molasses," said Deeno D'Nunzio.  She was behind the IC panel, biting her fingernails.
+"Molasses mixed with chunks of rubber," said Mighty Mite Barnes.  She wasn't sure how well ANAD would perform filtering through the interstices of solid rock.  Time would tell. 
+"Just squeezing through--" added Nguyen.  
+"Distance to the compound?" Winger asked.
+Gibby did some quick checking.  "About a hundred meters now, Skipper.  ANAD's turned to an east by northeast tangent, skirting that dense outcrop.  He's in some kind of clastic rock now…zone of sandstone and shale, mostly.  Easier going."
+Winger nodded.  ANAD had made the maneuver on his own, determining from onboard sounding the density ahead, and made an adjustment.  
+"ANAD, this is Hub…report status--"
+There was a slight delay, then the child's voice came back, muffled and scratchy, sounding tinny through the speaker.  "ANAD at forty percent propulsor…density dropped off a third…ANAD cruising through brecciated shale…larger lattice, atom forces reduced--"
+The traverse through the innards of Banikaiyan Mountain took another hour.  Winger thought: this is nothing like the classroom studies we’ve been doing at nog school.  He ordered the assembler to rise closer to the surface, and, after an uneasy delay, ANAD complied.  Comm was getting difficult, as had been expected.  Propulsor power was raised to fifty percent.  Just shy of 2200 hours, ANAD reported his position.
+"ANAD to Hub…ANAD detecting foundation materials ahead…distance 7 x 10 exp 12 micrometers…slowing to twenty percent…daughter swarm re-grouping for penetration--"
+Delforza pumped his fist exultantly.  “That’s it…right where Q2 said it would be.  There is something there.”
+Winger and Gibby had already seen the acoustic image darken again, indicating denser material ahead.  
+"ANAD…all stop…" Winger commanded.  "Hold your position--"
+"What's up, Skipper?" Gibby looked up, puzzled.
+Winger pursed his lips.  "Just thinking, that's all.  ANAD needs to look for a seam in the foundation.  And he'd better probe for any guards too.  I don't expect a barrier of nano, but we'd better be sure.  No sense waking everybody up if we don't have to."  
+Gibby was tuning the acoustic sounder, sampling reflected echoes from the subsurface structures a kilometer above the convoy of vans.  "Mmmm…don't see any breaks in the thing…nothing like a seam, Lieutenant.  If ANAD has to filter himself through the foundation--"
+"--I know, I know.  It'll take forever."  Winger glared at Nguyen, then Deeno and Barnes, seeking answers.  "We may have no choice though."
+"He'll have to get real small to squeeze through this," Gibby reported.  "Look--" he pointed to a pattern of echoes on the screen.  "Sounder says minimum lattice size is around seventy nanometers.  That's about the size of ANAD's outer shell."
+"Pulling in effectors may not be enough," Winger understood the dilemma.  "I hate to do a quantum collapse now…it's risky and we might not get all the structure back…before we're detected.  ANAD could traverse even that solid a material if he chopped off all effectors and folded in to his processor dot."
+"But would he be able to find enough atoms of the right type, fast enough, on the other side?" asked Deeno.  "It's dicey."
+"And all the atom-grabbing would surely get somebody's attention," Nguyen added.
+Winger had made up his mind.  "We're going in like we are, even if it slows us down.  ANAD'll just have to squeeze through.  I'd better let him know.  Hub to ANAD, report status--"
+The voice was hollow, as if deep inside a tunnel, which in effect it was.  "ANAD to Hub…ANAD group stable…stationkeeping seven minutes from foundation outer surface…ANAD embedded in chalk stratum now…effectors partially extended…feels much better--"
+Johnny Winger's eyebrows went up at ANAD's last statement.  Wonder what the little guy's feeling--"Hub to ANAD, config down to outer shell…fold in all effectors.  Transit the foundation structure in this config."
+The message went through the link.  Comm was spotty through the mountain of solid rock.  It took nearly a minute for ANAD to reply.  The signal was weak.
+"ANAD to Hub…config to outer shell…collapsing effectors now, collapsing all outer structures…enzymatic knife, pyridine probes, electron lens…folding in planes…standby, Hub…standby a minute--"
+The tenor of the assembler's voicelink changed.  "What's happening?"  Johnny Winger studied the IC, wondering.
+Gibby was getting frustrated at the pace.  "Lieutenant, we may have to go quantum."
+Winger was still fighting the controls.   "I hope not.  If we have to collapse to squeeze through the foundation of that building, it'll take nearly an hour to grab enough atoms to reconfig on the other side.  Somebody's bound to notice ANAD.  We'd be lucky to get half of ANAD back before they jumped him."
+"Lieutenant, if we can't get those last effectors in, ANAD won't fit through the lattice atoms.  None of the swarm will.  The mission's over--"
+Winger banged his hand on the keypad.  "The mission's not over, dammit!"  He wiped sweat from his eyes, watched the imager screen for a moment.  The dense, dark regularity of crystalline planes dimmed the view, extending to infinity.  An impenetrable woods.  An impassable barrier?
+Not just yet.
+Winger made up his mind.  "We're going quantum, fellas.  There's no other way.  We'll just have to chance it.  Gibby, send the command."
+Gibbs checked config status and sent the instruction.  As a check, he requested voicelink confirmation from ANAD. It came two minutes later.
+"ANAD to Hub…attempting to comply with command…severing outer shell lattices and groups now…breaking all bonds…severing covalent groups…severing poly groups…ending--"
+The voicelink cut out in midsentence.  Gibby reset the link but ANAD was quiet.
+"That does it, Skipper.  No voicelink."
+"Status, Gibby?  What's ANAD doing now?"
+"Unknown, sir.  There's no signal at all.  Either the mountain's too solid for commlink or--"
+"We've lost another master," said Nguyen, glumly.  
+"Maybe not...maybe not…give him time, fellas."  Winger waited impatiently, pacing about the tiny van, rubbing his hands together.  He tried to visualize what the autonomous assembler was doing, more than a kilometer away, a few feet below the foundation underside of the Red Hammer lab.  When Delforza’s look questioned him, he shrugged.  “Now we wait…that’s all we can do.”
+Deep inside the heart of Banikaiyan Mountain, the ANAD master had finally received the command.  Executing the quantum collapse, it rapidly folded its own outer shell inward, imploding in a puff of atom fragments.  Base lattice, effectors, probes and grapplers, even the core shell surrounding its nanoprocessor, went hurtling off into the minute voids of the dense shale layers below the foundation, ricocheting like bullets from one atom cluster to another, a spreading big bang of spinning atom parts.
+Instantly, ANAD disappeared.  To intents and purposes, ANAD had effectively vanished in a cloud of blurry quantum waves.  Only the singular dot of its nanoprocessor, the kernel of the assembler, remained.  The dot was the heart and mind of the assembler.
+Less than an hour later, making its way on quantum wave propulsors, ANAD traversed the foundation structure like a fly in a forest.  Silently, with the barest ripple of probability waves, the kernel of ANAD emerged into a darkened storage vault in the basement of the Red Hammer lab, its nanoprocessor still dogging electron states to bring the nearly invisible device through.
+Unknown to anyone, ANAD had made it.
+For another few minutes, ANAD ran its internal program, replicating structure, grabbing atoms left and right like some frantic brickmason, rebuilding itself from the inside out.  Base, core shell, working grapplers, probes and hooks, atom by atom, cluster by cluster, the master replicant fashioned a new body for itself and, following its stored survival program, finally enabled a commlink and called out for its human handlers.
+The speaker erupted with a staticky crackle.  "--AD to Hub, ANAD to Hub…ANAD is through the foundation…ANAD has replicated to Level 1, standing by inside the target...ANAD senses inert structures nearby...replicating swarm now...replicating swarm to Level 1...ANAD detects no disturbance in range--"
+A great cheer erupted through the van.  Johnny Winger sprang to his feet and enabled voicelink.
+"ANAD, you old goat…good work!  Good work!  Hub to ANAD, where are you?  Can you broadcast a signal we can fix?"
+Moments later, the acoustic return materialized on the display.  "Bingo!" cried Gibby.  Deeno slapped him on the back so hard, he nearly choked.  "Just inside the basement of the complex.  Good old ANAD--"
+Winger waved everyone quiet.  "We're inside and replicating…let's get Q2’s layout of the target up.  I want to see what's what.” 
+A short time later, the ANAD group was fully formed and in position.  
+"ANAD reporting position…sixty two micrometers below first atom planes of target…barrier ahead…detecting barrier ahead--"
+Winger shot to the controls.  "ANAD, start filtering through the floors now!  Penetrate the floor before any mechs engage!"
+He sent the commands to get ANAD inside the solid lattices of the floor, hoping the enemy mechs of the security barrier could never find him in such a tangle.  Even if they do, he reasoned to himself, engaging another swarm wouldn't be easy in close confines like that.  Like trying to turn a horse around in his stall--
+The enemy mechs closed and pressed through the floor tiles of the control room, but ANAD had already dispersed and spread out.  Deep inside the atomic structure of the floor, two armies of nanomechs stalked each other, sliding through tight corridors of crystalline lattices, probing and sounding and listening in the echo chamber for any hint of the other.
+Winger held his breath.
+After a few minutes, he began to relax.  The enemy mechs couldn't detect ANAD.  The assemblers were dispersed too widely.  
+Gibby studied the nav display.  "ANAD approaching upper floor plane…outer lattice."
+Winger was already thinking ahead.  "Once he reaches the floor surface, I want to split the formation.  Two recon swarms, you and me controlling.  Lieutenant—“ he turned to Delforza, “anything from Intel on what might be inside…what we should be looking for?”
+The Italian officer shook his head.  “No, that’s why you’re here.  Q2’s detected residual HNRIV in the area but very dispersed…we think there are HNRIV ops here, but there’s no real proof.  Atom Slammer is supposed to get that proof…and then do something about it.”
+  Winger understood.  “Okay, we’ll go from there.  Let’s configure for all-scan…EM, acoustic, the works.  I want to see what's going on.  Gibby, you take the second swarm and filter out into the rest of the building…see what you can find."
+"Understood."  Gibby pulled up the proper swarm template and got ready to send the command.  
+ANAD's whiny voice crackled through the speakers.  "ANAD to Hub…ANAD at upper plane…twenty percent propulsor…effectors stowed and safed…detecting reduced density ahead…crystal packing density dropping off--"
+"Hub to ANAD," Johnny Winger bent to the voice pickup, "Get ready to replicate and divide.  Recon swarm template.  Configure for max bandwidth…send everything back as fast as you get it!"
+The delay was only a few seconds now…"ANAD to Hub, acknowledging formation command…still detecting slight disturbances in lattice…maneuvering to avoid…that was quite a ride through the mountain--"
+Winger and Gibby looked at each other.  "He sounds just like a kid, Wings."
+"Too much like a kid.  I need him to stay focused."  Winger perused the IC panel.  The imager screen was still dim, shadowy walls and ramparts of crystalline planes still evident, lined up into the distance.  Config status showed ANAD's current setup.  The recon swarm template had been sent.  In moments, ANAD would start grabbing atoms from the top layer of the floor, replicating himself with blazing speed.  When the swarm reached the commanded size, the master would split the formation and begin shaping each group into virtual lenses and detectors, infinitesimal instruments able to capture photons of any energy and funnel the patterns back along the comm link to the vans a kilometer downslope down from La Maghreb.
+With any luck, dividing the swarms and silently capturing photons from inside the complex  wouldn't arouse any Red Hammer defenses.
+"It's just a matter of time before that swarm of mechs under the floor re-groups," Winger muttered.  
+"ANAD'll kick ass," Deeno shot back.  The CQE1 was slouching against the far wall of the van, propped up on the edge of the TinyTown cylinder, much to An Nguyen's disgust.  Firmly, he nudged her away.
+"TinyTown is a delicate environment, Deeno.  Not a sofa bed."
+D'Nunzio growled at him, as both watched Winger and Gibby work the controls.
+Deep inside the compound, an invisible mist of nanoscale mechs rose silently from the floor tiles into the atmosphere of the Red Hammer facility.
+Seconds later, the first visual image, grainy and patchy, jerking with interference, but discernible filled the imager screen.
+"We're in," Winger breathed.  He hardly dared believe their luck.  
+For his part, Gibby steered his own horde through the door seals, briefly pausing at the inner boundary of the security web.  "Forgot about that," he said.  "Hub to ANAD2, disperse and re-enter the floor structure.  Filter along the upper plane until this security web is bypassed."  
+"ANAD2 to Hub…acknowledging…dispersing for solid entry now…I get claustrophobia down there, you know…it's awfully crowded inside those lattices…Brownian motion's a bitch…entering floor upper plane now--" the signal sputtered and died off as the second recon swarm distributed itself inside the floor and laboriously filtered its way forward, bypassing the security web that made a barrier around the control room.  Gibby kept his eyes glued to ANAD's return…any disturbance in the signal could mean trouble.  
+They didn't want to stir up the hornet's nest just yet.
+"DPS1," Winger shouted out, "get Superfly up and running.  I want some kind of perimeter around these vans.  Now that we're inside the beehive, I want protection for the convoy.  Red Hammer may send someone snooping down here."
+Mighty Mite Barnes was in the trailing van, with the rest of the defense and countermeasures gear.  Her voice came back over the commlink.
+"Right away, Wings.  Superfly's already powered up, ready to rock and roll.  You want bots and HERF ready too?"
+"Do it.  But make it quiet.  Let's don't disturb the neighborhood any more than necessary."
+Deeno was keeping an eye on the imager.  "Skipper, ANAD's focusing--"
+The screen was settling down as the nanoscale swarm shaped itself for a few moments into a virtual camera lens, grabbing enough photons to form up a visual image.  Shadowy forms moved about the room, now filled with consoles and flickering video feeds.  A featureless head drifted across the view--someone moving in front of the nearly invisible swarm--and Deeno caught a glimpse of a name patch on a lab coat.
+It read Johansen.
+Johansen was bending over a console, peering at something.  Video screens flashed beyond them, changing displays.  Winger tiled the image, splitting ANAD's take into visual, acoustic, EM and other inputs, gulping data from patterns ANAD made out of the photons he was grabbing.
+"ANAD to Hub…are you receiving?…are you getting any of this?…ANAD scanning now--ANAD detecting signal drop--boosting power--ANAD doesn't know where that drain is coming from…investigating now…"
+"Hub to ANAD…focus in on that video feed to the right…swing boresight right to bearing zero six zero degrees and hold--" Winger worked the gain, trying to get a clearer picture.
+"See something, Skipper?"
+"Maybe--just maybe--" Winger waited a second, then settled back as ANAD focused on the video screen.  The flickering images came into sharper resolution.  
+"What the hell--look, Deeno, is that what I think it is?"
+The video screen bore a clear resemblance to their own IC panel.  As the gain was further boosted--ANAD changing the shape of its virtual lens on the fly--individual graphics on the screen became barely legible--
+Pharmex Video Feed - Comm/Swarm Interface - 
+Gibby squinted, mouthing the words.  "Skipper, that's an interface control setup.  Just like this one--"
+'I know it.  And see that--" he swept his fingers to the far left side of the imager view.  "A map…grid coordinates…what are those lights on the map?"
+Deeno came closer.  "Positions, Lieutenant.  You can see the outline of Africa…there's the Red Sea…there, that's India, isn't it?  Australia, the Persian Gulf--" her finger traced north, then back and forth.  "All Asia, even some of Europe."
+"We're getting audio feed," Deeno told them.  "Listen--"
+Scratchy voices issued from the speaker.
+"--second colony almost on target, Sven…Sicily's clear--we should have--XXXXXXXXX-- to lower them into position--"
+"Very well."  It was Johansen speaking.  His mouth moved in time with the audio.  "Change format now…send the safing command…and bring them to a stop, right over the middle of the island."
+"Let 'em drift down?"
+Johansen's head made a jerky sort of nod.  "More natural that way…mimics real airborne particles…they'll be dispersed…look like a viral infection from natural contaminants."
+The other voice belonged to a stocky, bearded man in the foreground.  "Pharmex…you have control.  Here's the starting vector."  
+On the video screen over their heads, a face floated into view.  The face was speaking.  ANAD re-tuned and compensated to pick up the pressure waves of the new voice…it came from the speaker on the screen.
+"Got it.  I'm ready to re-format the swarm.  Soon as I've got detectable entries on the ground, I'll format for seizures--good old neurobuzz--then dig in and set up shop.  By tonight, we'll have some new customers--"
+Johansen seemed satisfied.  "Go easy at first, Dieter.  A few tickles, give 'em the jazz and make 'em happy.  We'll hose 'em with dopamine tomorrow."
+"Understood.  Salerno will be one hopping town by the end of the week--"
+A faint smile crossed Johansen's face.  "Yeah…that puts another node in Uncle's hands.  We should be about due for another payment too."
+Winger fiddled with the take from ANAD, re-shaping the virtual lens into infrared, acoustic, EM, and other detectors, studying the results as they came in.  A mile away, inside the Red Hammer compound, ANAD complied, re-forming the swarm of nanomechs into different instruments, grabbing photons, pressure waves, anything "Hub" wanted.  
+"Gibby…what about you?  Anything interesting?"
+Gibbs had filtered his own brood of mechs outside the lab and steered them across walls and through seals and locks to a sealed chamber on the other side of what seemed to be a cylindrical complex.  Another security web screened the entrance and Gibby ordered his own recon swarm to disperse and hold position.
+"Indirect stuff.  I'd like to go back across to the Containment building…see what's cooking inside that pod I noticed when ANAD came in."
+"Negative…" Winger vetoed the idea.  "Too much exposure…we'll trip something for sure.  We've been lucky so far."
+"Wings," Deeno said.  "It sure looks like Red Hammer's controlling some kind of airborne swarm through that other lab.”
+"Pretty damning," Winger agreed.  "We've got audio, video and EM intelligence from ANAD all on tape.  That ought to give UNIFORCE enough to make a case, shut this place down for good.  But we still have to stop those links.  We've still got to contain and defeat those swarms."
+"That map seems to be the key," Barnes observed.  "Maybe the colonies' positions are monitored there.  If we can get coordinates and config status--"
+"--we'll know where to strike."  Winger liked the idea.  "Hub to ANAD, re-form for extreme close-up.  Detach a small force…I'm going inside that computer and grab the data right off the drive--"
+"Isn't that risky?" Deeno asked.  "You start mucking around with molecule-sized bits and somebody'll notice for sure."
+"We've got no choice," Winger said.  "This is our best chance to get exact information on the locations of those superswarms."
+Unseen by ANAD, the Red Hammer mechs had emerged from the floor of the lab and dispersed themselves, flitting about the room as so many loose molecules, hiding behind dust motes, errant carbon radicals, anything they could find.  Controlled remotely from an interface controller at the front of the compound, the mechs stalked ANAD relentlessly, tasting a trail of stray photons that the Quantum Corps nanowarrior left each time it signaled back to the vans.  
+For several minutes, as Johnny Winger insinuated a tiny element of ANAD replicants inside the hard drives of the computer, the Red Hammer mechs closed on their target, an infinitesimal predator seeking infinitesimal prey.  Johansen and the rest of the crew seemed completely unaware of the battle about to be joined.
+So was Johnny Winger.
+But the battle never came.  Instead of engaging ANAD, the Red Hammer mechs cruised in hiding on stray air molecules, right to the source of the stray photons and held off at a distance of several billion microns, like a squad of lions waiting to pounce.  Silently, stealthily, one at a time, the mechs seized single ANAD assemblers and throttled them, ripping atoms from atoms, until the assemblers had been dismembered into atomic fluff and set adrift.  Then, with no further command, the mechs re-configured themselves into replicas of the dismembered ANADs and drifted forward, a squadron of Trojan Horses the size of carbon atoms, filling in and reacting as its fellow assemblers did when commanded from the Hub.
+By the time ANAD had finished reading the molecular dots of data on the computer drive, the Red Hammer mechs had thoroughly infiltrated the swarm and insinuated themselves deep and undetected into the very heart of the formation.  
+A kilometer below, completely unaware of what had just happened, Johnny Winger breathed a sigh of relief.  
+"Looks like we're done.  Buddha, you got all that?"
+Nguyen had been running the recorders.  "Every single nanobit of it, Skipper."
+"Very well.  I'm recalling ANAD. Gibby, get your guys ready.  Let's get the hell out of here."
+The exfiltration process lasted several hours.  Winger didn't want to leave any atomic trails for the enemy to follow, so he commanded ANAD to re-configure for transit back through the mountain again.
+“We’ll leave a small force behind and replicate from that, after ANAD departs.  Once the master is secure here, we’ll go big bang and wreck that place but good.”
+ANAD seemed less than thrilled by the prospect.    "ANAD to Hub…ANAD squeezed awfully tight in those lattices…ANAD requests permission to return above ground…more room to maneuver--ANAD gets bounced around by calcium ions in that underground limestone rock--"
+Winger and Gibby looked at each.  "Is he about to be naughty?" Winger asked.
+"I don't know, but you'll have a hell of time spanking this child."
+Winger ordered the assembler, now becoming a bit too autonomous, to transit the mountain.  "Hub to ANAD, return below ground…that's an order.  I don't want to take a chance on triggering a defensive response."
+"Wings--" the voice was Barnes', from the rear van, on the tactical circuit.  "--we may have already triggered something--I'm porting it to your eyepiece on the crewnet--"  She was already tuning the Superfly seeker to a new band.  Static fuzzed the eyepiece and Winger momentarily shutdown the link.  "--I'm reading acoustic disturbance…ground level or a few meters overhead, under ten decibels, but something's definitely there."
+"EM, Mite?  Thermal?"
+"Just tickling Superfly's seeker.  First it's there…then it isn't--"
+Winger had a bad feeling.  His neck hairs were standing up.  And he had just ordered ANAD to return through Banikaiyan Mountain.
+"Hub to ANAD!  Hub to ANAD…belay that last order!  Get the hell out of that building, anyway you can.  Get going right now!"
+Gibby was uneasy, studying the IC.  "What is it, Skipper?"
+"Just a gut feeling…somehow…I don't know how--we've been discovered.  Somebody--or some thing's tipped Red Hammer off--"
+The IC1 was monitoring ANAD on his panel.  "--ANAD's away, sir…just regrouped and exited the outer shell of the structure…airborne and en route bearing zero eight five.  ETA…" he did some quick calculating…"--nine minutes."
+"Max rep," Winger ordered.  "I've got a bad feeling--" He moved over to Gibby's station.
+"Wings--" It was Barnes again.  Her voice was thick.  "--whatever they are--here they come!"
+It was too late to get into their hypersuits.  And there wasn't enough room.  "DPS, bring Superfly in tighter.  Make a screen…head 'em off.  ANAD's still eight minutes away, replicating like crazy.  Maybe we can hold 'em off long enough--" He looked around the van.  "Everybody get down and cover yourself with something NOW!  We may get a breach--"
+Winger worked with Gibby, massaging controls, tapping keys, managing ANAD's approach, making the assembler swarm ready to confront the enemy nano.
+Somehow ANAD been detected.  
+"Come on…come on…come on!--"Winger breathed, willing the swarm to close the distance.  It was a race now: Red Hammer mechs swooping down off the mountain, flowing around the convoy of vans still parked on the side of the road and the ANAD swarm streaking from the compound as fast as their picowatt propulsors could move them.
+"--getting confirmation now!" Gibby yelled.  "ANAD's blowing up--template T-1--coming in hot and hard…less than fifty meters.  Must've picked up a tailwind."  Twenty meters over their heads, drifting in like dust on a faint mountain breeze, ANAD was multiplying, bagging atoms and making replicas, accelerating mass at an exponential rate.
+Gibby was already crouching down in his seat.  "This one's gonna be close--"
+Winger was already helping Deeno and Delforza and his 2nd Nano guys and Nguyen grab some protection, a seat cover, a cushion, cargo webbing--anything.  "Make yourselves small, guys.  Small as you can."
+From below a console, Deeno's black eyes narrowed.  "Just let me at 'em…let me kick some nano ass, sir--"
+"Later---DPS, what's up?"
+D’Nunzio was already tracking the swarm filling in around the convoy.  "Enemy nano, sir!  I was tracking with Superfly, engaging, but they got him.  Shredded the whole force--just like that.  I'm reading about a hundred meters north, toward that cliff we saw driving up, below the fort, bearing two-five-oh degrees, tight formation, closing at about a meter per second.  Can't tell what config yet--"
+Winger did another quick mental calculation…at a meter per second, they had about six minutes to intercept with ANAD.  And hunker down for the assault.
+"DPS," he called out over the circuit.  "Are we probing?  I need some idea of what we're dealing with here."
+Mighty Mite Barnes no longer had aerial imagery from Superfly.  The microflyer swarm had already been shredded by the oncoming enemy force.  Instead, she used the steerable sideband pulser, sweeping electromagnetic fingers around the convoy.  The pulser swept through the cloud of Red Hammer nanomechs and returned a rough structural outlines of the devices.
+"Coming in now.  I'll patch it through to the IC…."  She touched a few icons on her wristpad and the data was squirted over to the lead van.
+Winger studied the signal.  The pulse had come back with a rough image of the enemy force disposition, as well as a few details.   Could be HNRIV…maybe even a clone…but they didn’t have configs to defend against an unknown like HNRIV…he fed the details to the config and started tapping out commands to fill in some gaps in ANAD's structure, modifying his own config on the fly.  Inside of a minute, he'd hacked out a design for ANAD that might do.  It would have to do.  Once the enemy closed on their position, ANAD wouldn't get a second chance.
+"Change config," he told Gibby.  "Do it now!"
+Gibbs sent the command.  Twenty meters over their heads, trillions of ANAD replicants received the same instructions: alter configuration to this design…grab atoms…cleave this group…fold here…build lattice there…the air churned with furious activity.
+Winger knew it was time to ring the bell.  "Disperse the swarm.  Prepare to engage," he said quietly.
+Less than fifty meters away, directly over a sandstone cliff on the front slopes of Banikaiyan Mountain, the hillside was suddenly bathed in an unearthly pale blue light as vast but unseen armies clashed.  The gotterdammerung pulsed like a flickering aurora as the swarms collided head-on.
+The entire battle lasted four minutes.
+From the beginning, Winger and Gibby saw that ANAD had been weakened somehow.  Perhaps it was the trip through the solid rock of the mountain.  Perhaps it was the config Winger had hurriedly hacked out.  Perhaps it was something else.
+Gibbs was the first to report enemy mechs inside their defensive perimeter.
+A small segment of the Red Hammer force had detached and surrounded the lead van, almost as if the mechs were under remote human control.  Gibbs and Winger both felt the air crackle like a million stinging needles had fallen on them.
+"Here they come!" Gibbs yelled.
+"Fold up!" Winger ordered to everyone in the van.  "Make yourself as small as possible!"
+It was a self-defense tactic they had tried with ANAD before but it seldom worked.  Somehow, Red Hammer had found them, caught them unprepared, trying to recover the recon swarm.  Winger squeezed as tightly into the space below the IC panel as he could.  It had been his decision to recover ANAD back through the mountain.  Maintain operational security--that was the rationale.  Now it looked like a terrifically bad decision.  
+Red Hammer had been waiting in the folds and crags of the mountaintop all the time.  He could easily lose the whole unit if ANAD couldn't fight them off.
+Old Ironpants won’t like me losing his ANAD master in the middle of the desert.
+One of Delforza’s men, Corporal Laval’s voice, did the trick.  He screamed in agony as enemy mechs filtered inside the van and fell on his position, forward at the mobile TinyTown bay.
+"arrrggghhh!…HELP--HELP ME!!…THEY'RE BURNING--!"  Laval couldn't take it any longer; he clawed at his face and arms, then burst out of the van, and tore off down the road toward the bridge, arms flailing at invisible tormentors.  He didn't even make it to the other side.  In the mist and the shadows, they heard him stumble…the splash came ten seconds later.  He'd dived from the bridge headfirst, ten meters, into the swirling waters of the Niger River tributary.
+ Winger had had enough.  This was his fault.  He was damned if he'd let the Detachment be chewed up on his watch….
+"DPS!  Mighty Mite…get your HERF guns set up!  Full power…all azimuth…blanket this whole area!"
+"Inside the vans, Wings?"  She was already hustling to get the radio-frequency weapon ready.  "We don't have protective gear…HERF'll fry every living thing to ashes…inside these vans--"
+"Do it!"  Winger knew full well the weapon could permanently damage their hearing, even collapse a man's central nervous system at full power.  But he had no choice.  HERF would shatter the Red Hammer formation too.  They needed some kind of shielding and fast.
+Once HERF was up, they could re-capture ANAD and get the hell out of Dodge.
+Seconds later, Barnes had the HERF gun powered up.  "Weapon is enabled, sir!"
+"Fire!" Winger yelled.  Already, he was feeling tongues of invisible fire, lapping at his neck and head.  "Fire all around!  Full bore!  Let 'em have it!"
+The entire van shook like a giant hand had slapped it, vibrating as the first pulse shot out, squeezing the air with a thunderclap of heat.  A searing wave washed through the interior, as the bubble of radio waves expanded outward, frying and pulverizing everything in its path.
+The first pulse was quickly followed by several more, each discharge hammering the convoy of vans with an invisible fist of energy.  Johnny Winger screamed at the top of his lungs, trying to equalize pressure inside his head.  His eyes and lungs burned.  His skin crawled with fire, then tingled and crackled….
+At best, he figured the HERF gun had bought them a few minutes.
+"Detachment--!" he croaked out.  "Secure the convoy!  Get ANAD back into containment…Let's get the hell out of here!"
+Even as Gibby was steering the ANAD force back toward the van, Nguyen was prepping TinyTown for capture.  He initialized the cylinder, moved the vacuum tube into position by the rear door, while Gibby readied the master assembler for its harrowing trip off the mountain.  Winger had already sent commands for all the remaining replicants to stay engaged with the Red Hammer force, sacrificing themselves so the humans could get away.  Once the battle was over, hardcoding inside their quantum dot brains would send a final order to commit seppuku, and the remains of the force would quickly disassemble themselves into atomic fluff.
+Johnny Winger looked a little pale and wobbly as he crawled to open the doors, hand motioning Nguyen to get ready for a combat insertion.
+What was wrong?  Had the Red Hammer mechs stung the Skipper?  Nguyen started to help, but Winger waved him away.
+"Soon as I yank this door open, you snatch ANAD!  Got that?"  He shook his head…something was wrong…his vision was blurring…his hands twitched uncontrollably--
+Nguyen acknowledged.  "TinyTown's ready, Skipper."
+Winger checked his watch, kept an eye on Gibby at the panel, as he monitored ANAD's progress.  The assembler was fighting its way through a horde of Red Hammer mechs, steadily closing on the convoy from above, hugging its precious intel data close, as war raged outside and above the trucks.  
+Winger followed Gibby's hand motions, mouthing the countdown--
+Three….two….one…"NOW!"
+Winger fought through dimming vision and willed his arms to obey, throwing open the rear doors of the van.  Speeding down from a rocky escarpment, a faint green phosphorescent glow filled the air outside the door.  The green light, partially ionized plasma from the HERF impulse, intensified to a white glow as ANAD battled the last few meters.  The pressure pulse snapped the vacuum tube right out of Nguyen's hands.
+In an instant, the Autonomous Nanoscale Assembler/Disassembler had transited the tube and plunged into the soothing home waters of the TinyTown cylinder.
+Nguyen grabbed the end of the vacuum tube out of the air and stabbed a button, sealing the tank.  "Got him!  ANAD's sealed in and safe."
+With his last ounce of strength, Johnny Winger slammed the doors shut.  "Grab your gear--" he croaked out.  "Get going…exfiltrate like hell!  Get us out of here NOW!"
+Johnny Winger knew, even before he pitched forward and slumped to the van floor, that he'd been swarmed.  Red Hammer mechs had breached the van seals, breached the ANAD barrier Barnes had put up around the convoy, somehow survived the HERF blast, and filtered inside the command vehicle.  
+Delforza was already gone, twitching like a puppet in the front corner.  Now, Winger slumped down beside Gibby's feet.  His nerves had been fried, knives sliced through his head, as the mechs infiltrated his brain, replicating madly, seizing neural circuits in a silent blitzkrieg, stoking dopamine, lighting a fire in the back of his head.  It was like a million Swarm Chambers. 
+"Wings--Cadet Winger--" he voice was muffled…it sounded like Gibby, could have been Deeno--
+Winger bit right through his tongue and his head banged with violent spasms and contortions, as his body clenched and relaxed.  The seizure grew more violent with each wave of pain.  Blood poured out of his mouth and his back arched as the mechs burrowed deeper into his limbic tissue, grabbing axons, an occupying army terrorizing every nerve ending it could find.
+"Skipper's been hit!" 
+ It was Deeno D’Nunzio, scrambling over still-smoking equipment that had been fried by HERF.  "Skipper's been swarmed--!"  She straddled his chest, held his arms back and reached, grabbed, for something, anything, to stuff into his mouth, to keep him from biting through his own tongue.  Finally, her fingers clawed at and found a twisted piece of bracket. 
+"We got more trouble--" Barnes’ voice crackled over the crewnet.  "Vehicles approaching, a whole platoon of 'em, from the east.  My scan's cutting out--but it looks like bad guys!"
+Barnes took charge of the situation, the tough-talking, loud-mouthed human dynamo snapping off orders left and right.
+"Buddha…get us out of here!"  Nguyen squeezed by the fallen commander and made his way to the cockpit.  "We're falling back…fall back to the city.  We got to lose these bastards for good.  Mighty Mite--?"
+"I'm on it--" In the van behind, DPS Colleen “Mighty Mite” Barnes had already powered up a covey of coilgun bots.  She armed the microflyers and, one by one, discharged them from the rooftop port.  "Coilguns enabled and up…I'm setting up a spread shot.  Give me some room, will you?"
+"You got it!" Nguyen called back.  He gunned the engine and the van moved smartly out onto the road, sliding on gravel and dust, as they accelerated down the hill off Banikaiyan Mountain.  In seconds, the entire convoy was at full speed, clattering across a rickety bridge, then descending through a series of harrowing switchbacks toward the twisting, narrow alleys of Bamako some ten kilometers distant.  
+As the trailing truck approached the bridge, Barnes triggered her coilgun bots.  Thirty meters over the bridge, an arc of fire flashed out of the night sky as the bots discharged their pulses.  Lightning ripped the air as millions of volts incinerated the edge of the cliff and the lead vehicles of the attackers.  Rubble streamed onto the road.  The lead vehicle swerved back and forth, erupted into a ball of orange and black flame, and flipped onto its side.  As the chase reached the Pont des Martyrs Bridge, it skidded toward a bridge abutment, flinging wreckage and fuel everywhere, caromed off the tower, and pitched over the cliff into the dark languid waters of the Niger River itself.  
+Behind the inferno, the following vehicles slammed to a halt.
+Just for good measure, Barnes triggered her bots one more time, this time at small building on the other side of the bridge.  A geyser of rock and debris rained down on the hapless pursuers as the discharge ate jagged chunks out of the adobe walls of the structure.  
+Barnes grinned at the viewer image of the carnage she had created.
+"Not bad for a night's work, if I do say so myself."  
+Inside the command vehicle, D’Nunzio told Nguyen to head for the airport.  She bent down with a worried frown to look at Johnny Winger's contorted face.
+"How's he doing?"
+Gibbs held a cold compress to Winger’s sweating forehead.  "Not good.  But he's better off than… him--" Gibby nodded in the direction of the prostrate form of Lieutenant Delforza, crumpled in a heap by the rear door.  Deeno D'Nunzio was alongside, checking vital signs.  There weren't any.
+"Maybe…maybe not," D’Nunzio muttered.  "Anything we can do here?"
+Gibby took a deep breath.  "He's been swarmed, Deeno.  Mechs are inside him, crawling all over his brain.  I don't have the gear--I'd like to-- but we don't--"
+"--don't what?"
+Gibby swallowed hard.  "I want to go inside, try to engage those damn mechs…before it's too late."
+"Inside…you mean with ANAD?"
+Gibby nodded, feeling the flash of heat on Winger's forehead.  His eyelids and fingers still trembled and twitched, silent battles raging back and forth inside his skull.  
+"I don't know exactly what we're dealing with here…but with most swarms, most mechs, there's a period of time, an hour…maybe more, maybe less.  In that time, with what we know about HNRIV--if that's what this is--the mechs are still moving in, still consolidating, still positioning themselves.  I want to do an insert…right now.  Send ANAD in and root 'em out before they replicate too far, before they get established."
+D’Nunzio shrugged.  "So why don't you?"
+"I'm not sure it'll work.  It could kill him.  And, what the hell, I’m just a nog school cadet anyway…what the hell do I know?"  He looked around at a circle of anxious faces: Deeno and Buddha Nguyen.  "And we don't have the right equipment…not here.  Back at the jet, we do."
+"But he can't wait…isn't that true?" Deeno asked.  She ran shaky hands through short black hair.  Her face was bruised from a close escape with the mechs herself.
+"No…" Gibby felt gingerly along the contours of Johnny Winger's skull, trying to imagine the desperate battles raging inside.  "No, he can't."
+They leaned left and right in unison as Nguyen negotiated the narrow streets of outer Bamako.  Behind them, Barnes was driving the trailing van.  Outside, in the soft glow of streetlamps, a film of mist had drifted up from the river, making the streets slick and shiny.  Rows of dun-colored, dusty buildings raced by…they were speeding quickly into the heart of the city, into the bazaar district of the Zone Artisanal, with its jammed stalls, jewelry stands, food carts, camels and donkeys and pennants and flags snapping in early evening breezes.  Traffic was mercifully light, save for knots of mosque goers clustering around several intersections, heading for evening prayers.
+The Quantum Corps convoy swerved and sped through, ignoring all stop signs and traffic lights.  Moments later, a pair of police minis lit up their lights and started off in pursuit.
+"I say we go in," Gibby decided.  
+"It's not your decision," Deeno said.  "Lieutenant Delforza’s in command….or was."  The Italian officer was already dead.   
+Gibby turned to D’Nunzio.  "Look, we can’t argue about this…we don’t have time.  Wings doesn’t have time.  Go up front and switch off driving this rig with Nguyen.  I need him back here."
+A few moments later, the CEC re-appeared alongside the trembling form of Johnny Winger.
+"What's up?"
+Gibby was already over at his interface control, perusing possible configs to use against the enemy mechs inside Winger.  "Prep ANAD for deploy, Buddha.  We're going in…right now."
+"In?  In where?"
+"Inside his brain.  I'm gonna grab me some Red Hammer mechs and fry 'em up for breakfast."
+Ten minutes later, the assembler master was ready.  Gibby sat at the IC panel, and grasped the joystick, flexing his fingers.  "Launch ANAD," he said quietly.  
+The insertion went smoothly enough.  A slug of plasma forced ANAD into Johnny Winger's carotid artery at high pressure.  Gibby got an acoustic pulse seconds later.  A half-hour run on its propulsors brought ANAD to a dense mat of capillary tissues: the blood brain barrier.  
+"So far, so good," Gibby muttered.  Mighty Mite Barnes stood alongside the IC panel, ready to help with anything.  The van swerved slightly as Deeno took another turn through Bamako's narrow, dusty streets.  
+"Reticular lumps," Gibby pointed out on the imager.  "I'm transiting…now--"  With a deft touch on the controls, Gibby squeezed the ANAD master through a cleft in the capillary barrier, shoving aside a curtain of lipid molecules, and entered the bloodstream of the brain.  "We're in…going to half power on propulsors…give me a navigation hack."
+They hadn't had time to put up the tracking grid.  Barnes scanned the Winger’s brain with a low-power quantum flux scope, got a rough fix and gave it to Gibbs.  
+"I'm picking up density at about two hundred microns anterior to the minor mesostriatal projection…right about here--" she fingered an approximate location on a chart the IC was displaying.  "It's probably ANAD."
+Dark viny shapes and dense fiber growth clouded the view.  "--must be approaching a duct…could be projections to the nucleus accumbens."
+"Follow that," Mighty Mite suggested, studying the cortical chart as well.  "Looks like it traces down into the ventral tegmentum.  That's where you want to be--" she stopped in mid-sentence, as the van sped up.  D’Nunzio's voice crackled over the intercom.
+"Sorry about the rough ride, guys but we've got police in pursuit.  I want to lose 'em in the city, before we head to the airport.  Hang on--"
+"Great," said Barnes, rolling her eyes.  "Just great--"
+"I'm heading down this fiber--" Gibby pointed out a sinuous projection from the medial forebrain deeper into the limbic tissues of the midbrain.  "It eventually ends up inside the ventral tegmentum.  Loading templates now--I'm replicating a small force, just in case our buddy's set up an ambush."
+The imager view careened slightly as ANAD maneuvered through heavy fiber mats, swinging first to port, then to starboard, as Gibby drove the assembler deeper into Winger's brain.  His face was pale and dry.  Only minor tremors tickled the ends of his fingers.  He was secured with makeshift straps to a foldout chart table, breathing shallowly.  His lips moved in barely perceptible quivers…he seemed to be trying to say something--
+Neural discharges roiled the image, as flickering projections lit off nerve signals from one synapse to another.  Each discharge set off cascades of other discharges, a lightning display inside the mind.  Maybe a thought, perhaps a dream image, there was no way to know for sure.  ANAD navigated the mind storm carefully, flitting from one branch to another, always careful to sound ahead for non-fiber returns, for density too high, evidence of something other than nerve cells drifting in the dim shadows ahead.
+"Nothing yet--"Barnes said quietly.  She took another reading with the flux scope, and estimated ANAD's position.  "You're about here--" she tapped the point with nervous fingers.  A large irregular patch of nerve fiber bundles lit up on the chart.  "Anterior convergence, it's called.  Kind of like a big train station for axon fibers.  Entorhinal cortex, lateral septum, central amygdala and prefrontal striatum…they're all here.  It's a big switchyard."
+Gibby was barely breathing.  He watched the rep counter carefully.  Not too big a force yet…don't want to give us away.  Deep inside the anguished brain of Johnny Winger, the Autonomous Nanoscale Assembler/Disassembler blazed away at incredible speed, grabbing loose molecules and atom fragments from the plasma and building exact copies of itself like some frantic brickmason.  
+"I'm moving forward…now--" He tweaked the propulsors down to twenty percent, and steered ANAD through the dark undulating forest of fibers, pressing through curtains and showers of dendritic branches, easing forward, slowly forward--
+It was Barnes who saw the first blip on the imager screen.  "Sounding something, Gibby.  You've got a return…something ahead, through that jungle right there--"
+ANAD eased forward, his small brood of replicants hovering and maneuvering in unison nearby.  Sheer translucent mats parted as the assembler steered ahead.  Through the convergence, the density of fiber dropped off and vast, elliptical shapes loomed out of the mist ahead.  
+"Ventral tegmentum," breathed Barnes.  "Six thousand microns ahead…my God…look at them…they're everywhere--"
+Just ahead, dark oblong globes hung from a vaulted ceiling.  Each globe was enveloped with axon fiber, as if confetti and streamers had been strewn about light fixtures in some mad New Year's Eve party.  Flashes and flickers pulsed along the streamers, all converging on the globes, which periodically erupted in a brilliant burst discharge, before sending the signal further along different sets of streamers.  
+And there dimly seen in the shadows, hovering about each globe like so many whaleboats dismembering a prize catch, a fleet of HNRIV mechs scuttled back and forth, steadily insinuating themselves in and among the fibers.  Steadily diverting the discharges and signals, patching in, snipping off, splicing themselves in between the globes to control the direction and strength of each signal.  
+The mechs were slowly but surely seizing control of the entire region.
+Gibby gritted his teeth and pulsed the joystick.  ANAD maneuvered into position.
+"ANAD defenses up and armed…enzymatic knife, electron bond disrupter, grabbers and effectors--"
+Mighty Mite checked the board for the IC1.  "Green and mean, Gibby.  Go get the bastards."
+"I'm engaging…right now."  
+ANAD and the small force of assemblers jetted forward….
+
+A low moan escaped Lieutenant Winger's lips as nightmarish dreams cascaded through his mind.  Deeno D'Nunzio found a wet rag and pressed it to his forehead.  It felt warm, feverish.
+"Hold on, Wings…just hold on," she murmured, bending close to his ear.  "We're coming--"
+"Less than two thousand microns," Mighty Mite Barnes said.
+Gibby pressed the attack.  
+"Now!" Barnes yelled.  "Reconfig now!  Assault One…give 'em a taste of knuckles and fists!"
+Deep inside the limbic system of Johnny Winger, ANAD started gathering and bending atoms furiously as the last few microns were closed.  Even as ANAD fashioned an arsenal of weapons out of its effectors--electron lens, bond disrupters, enzymatic knife--the HNRIV mechs went about their business.  Almost at the point of engagement, a small detail detached itself and flew up to challenge the intruders.
+The result wasn't pretty.
+Newly armed and replicating to outflank the enemy, ANAD's reconfig surprised HNRIV.  The defensive detail stood off momentarily, feinting warily while its pilot tried to figure out what to do next.  
+"You've got him snookered, Gibby," exulted Barnes,
+"Maybe…" Gibbs tweaked his joysticks, maneuvering just out of reach of the enemy.  "I'm going to try and outflank these bastards, go for the main force."  Gibby pulsed ANAD's propulsors, then turned sharply around a clump of axon fibers and bored headlong into the enemy horde, slashing left and right.  
+ANAD slammed into the enemy, seizing a phosphor group on the nearest carbene and twisted atoms until the enemy mech's bond broke.  Liberating thousands of electron volts, the disrupter zapped the mech and shattered its outer shell, ripping off probes left and right.  HNRIV shuddered and spun with the pulse, then re-engaged to fight off another bond snap.  Throughout the ventral tegmentum, trillions of ANAD replicants duplicated the same tactic.
+The cytoplasm churned and frothed with furious combat.
+Slowly, with a few setbacks, methodically, with grim determination, Gibby and Barnes worked their way through the enemy horde, rapidly disassembling, zapping, twisting and snapping mechs left and right.  The assault was essentially over in ten minutes, though HNRIV made several counterattacks.  
+Barnes slapped Gibbs on the shoulder.  "You did it, Gibby!"  You clobbered 'em!"
+"For the moment--" Gibby agreed.  "We've got to make sure, though--do a little recon and root out any last resistance.  If even one mech's left intact--"
+"I know, I know.  But you smashed 'em good…that's the first time."
+"I got lucky.  Wings would have done better."
+It hadn't been easy, but Winger's training regimen for the Detachment had paid off.  Debris and fragments clotted the axon forest; only loose atoms remained.  Gibby cruised through the flotsam, as the imager view jostled and careened with stray electrons roiling the plasma.  Throughout the whole area, HNRIV had been cut to pieces by ANAD's disrupters…and the last-minute config change that Winger had taught them.
+The tactic had worked--finally--but they had to be sure.
+The van swerved once more, then dipped as D’Nunzio cut their speed.  "Airport lights ahead," he announced over the intercom.  "We've managed to ditch the pursuit.  Charioteer's in view.  How's it going back there?"
+Barnes was wetting down Johnny Winger's hot forehead.  "He's been twitching a lot…maybe dreams, micro-spasms--"
+"Back-signaling to some motor circuit, somewhere," Gibbs said.  "Involuntary reflex, most likely.  I've just trying to make sure we don't have any more mechs hiding anywhere…this place is like a jungle.  A million places to lay low."
+D’Nunzio understood.  "If there's even one processor core, the bastards can replicate all over again."
+"Or re-config to something that looks natural…like that dendritic branch over there."  Gibby pointed to a tangle of fibers dimly seen in the murk.  Faint flashes of electrical activity backlit the dense canopy.  He zoomed in for a closer look, navigating ANAD carefully through the dangling projections.  
+"The truth is--" Gibby went on, "HNRIV could config itself to look like any of these structures--a dopamine cluster, a cell vesicle, axon chains, anything--and I'd never know it.  We don't have the time or the resources to recon everywhere."
+"So what do we do?" Barnes asked.  She was peering warily out the van's windows, as Deeno drove them across the rain-slick tarmac of the airport toward the Quantum Corps hyperjet.  "What can we do?"
+Gibby shrugged.  "Wait 'til he comes around.  Watch him closely for a while, see if he's acting normally."
+"Normally?  None of us acts normally these days," Barnes said.  "What the hell is normal?"
+"I'm sure the Major'll want to do a full neural function test back at Table Top.”
+The van jerked to a halt.  Moments later, the rear door slid open.  The 2nd Nano troopers peered in…the ones who were left: Bright, Menendez, Wride.  That’s when they saw Lieutenant Delforza.  They stiffened.
+"Well…what the hell happened?  We left that complex before putting it out of commission.  We didn’t finish the mission.”
+“Your Lieutenant didn’t make it,” D’Nunzio hissed.  She had already covered up the Italian officer’s body with a loose poncho.  “We had to do an insert on Wings here…he was swarmed with HNRIV.”
+“What about the Red Hammer complex…we can’t just leave it.”
+“Oh, I can fix that,” Deeno said.  “We left a small force of replicants…not the master, just barebones bots…inside.  All I have to do is send a signal—“  She nodded to Gibby, who pressed a button on the IC panel “—and the place’ll burn like the inside of  lightning bolt.”
+Though no one could see anything, out past Kuluba Hill on the other side of the Niger River bridge, Banikaiyan Mountain was burning inside.  Deep underground in the bowels of the Red Hammer compound, the remaining ANAD bots received Gibbs’ signal.  The signal instructed the bots to execute a max rate replication program.  Moments later, as the bots slammed atoms and multiplied in exponential overdrive, a small supernova hot ball of light materialized in the basement and began expanding.  In less than an hour, the swarm would occupy every available cubic centimeter of space in the compound, wrecking the facility and obliterating everything inside, including any unsuspecting occupants, and residual HNRIV mechs.  After that, with no more structural support from its outside walls, the Red Hammer facility would implode of its own weight and Banikaiyan Mountain would forcibly reclaim the space it had once occupied.
+Nothing but crushed rubble would remain.
+
+Barnes and Gibbs filled the 2nd Nano troopers in, as the rest of the Detachment began transferring gear to the jet.  Its cargo hold was a cavernous open space, its nose swung wide like a gaping whale, ready to devour anything stuffed inside.
+D’Nunzio bent down to study the tense, pale face of Johnny Winger.  
+The best they could hope for was that Gibby and ANAD had rooted out all the HNRIV mechs.  Still, there was a chance they hadn’t and Winger would have to be kept under close observation.
+When a trooper got infested like that, Major Kraft couldn't just throw him back into the fight.  You had to be sure.
+Detachment Alpha and 2nd Nano spent a few minutes putting together notes for a joint after-action debrief.  Sergeant Adam Bright was now the ranking trooper.
+“We couldn’t have done it without you, guys,” Bright told them.  “Cadets or not, my report will indicate you’re more than ready for action.”
+“And to think we haven’t even graduated yet,” Mighty Mite Barnes sniffed.  “Maybe we can substitute this mission for some of that calculus I can’t figure out.”
+The Quantum Corps hyperjet was airborne and winging its way over the darkened west African desert in less than an hour.  In sick bay, Johnny Winger twitched and mumbled for much of the flight, silently watched by a rotating shift of Gibbs, Barnes, D'Nunzio and Nguyen.  Barnes pressed cool rags to his face and forehead; his skin was clammy though the bedscanner showed no fever.  
+What are you seeing in there, Cadet Winger?  What's happening inside that head?  What nightmares are raging between those watery blue eyes?
+Gibbs and Barnes worked up their own after-action report and, after several hours of rehashing the incident, pronounced themselves satisfied the report reflected what had happened as accurately as they could make it.  Gibby squirted it to Table Top in a burst off the nearest satellite and went aft to the galley to find something cold to drink.  
+It was going to be one of hell of a debrief back at Table Top.
+
+“Graduation Day”
+
+A week later, after another ANAD medbot sweep through the corridors of his brain, and some intensive rehab, Johnny Winger was pronounced fit to go by the medics at Table Top.  He stood proudly at attention in the ranks on a wind-swept early fall day at the base parade ground, Drexler Field.  The sky was blindingly blue and bright, but occasional flurries drifted down of the nearby Buffalo Range and leaves swirled across the manicured lawns as the ceremony proceeded.
+Jamison Winger was in the stands, full to bursting with pride, as his youngest child was ordered out of the ranks and marched smartly front and center to stand before Major Jurgen Kraft and the base commander, General Kincaid.  
+Deeno D’Nunzio, still at attention in the ranks, couldn’t resist a quip to Buddha Nguyen, who stood rigidly at attention right next to her.
+“Jeez, you’d never know the Wingman had bugs in his brain a week ago.  Still a bit unsteady but at least he can walk.”
+Nguyen smirked quietly.  “Takes more than a few Red Hammer mechs to keep a good atomgrabber down.  The Major still can’t believe—“
+“QUIET IN THE RANKS!”  The Cadet Top Sergeant, a real badass named McGuirk, boomed out from the front of the assembled troopers. 
+All eyes focused on Johnny Winger and Major Kraft, at the head of the gathering.
+Winger saluted Ironpants smartly.  Kraft pulled out a small box, black velvet backing inside.  There were two medals lying on the velvet.
+“The first award goes to Cadet John Winger for exceptional courage beyond the call of duty and extraordinary actions pursuant to a mission critical to the security of a valued ally…namely the Republic of Mali.  This is the Legion du Merit, with oak leaf clusters—“  Here, Kraft leaned forward and draped the medal on its chain around Winger’s neck.  
+The two of them saluted.  Applause rippled through the crowd in the stands.
+“The second medal here—“ Kraft withdraw a gold atom pin from the box and held it up, “is an important step in the career of any atomgrabber.  As commanding officer of 1st Nanospace Battalion, I hereby award Cadet John Winger the atom pin and swirls of a 2nd Lieutenant in the United Nations Quantum Corps.  Mr. Winger has successfully completed all requirements and is hereby declared a graduate of nog school and a commissioned officer in this august unit.”  Here, Kraft pinned the atom and swirls on Winger’s chest.
+The two saluted again.
+In the stands behind, Jamison Winger received backslaps and hugs from Johnny’s sister Joanna and his brother Bradley.  
+“Congratulations, sir—“
+“A great day for all—“
+“The little scamp finally did it,” Brad muttered.
+Mr. Winger shushed him.  “That’s enough of that---it’s a proud moment for all of us—“
+As per long-standing custom at Table Top, once all the commissions had been awarded, a small band played a smart victory march, and the troopers paraded before the stands.  At the end of the march, a small tightly controlled swarm of ANAD bots was released from a containment capsule at one end of the field.  The swarm swelled into a visible flickering fog, rising quickly in the gusty air and forming a faint likeness of the Quantum Corps emblem in the sky over the field.  The likeness stayed in position against gusty winds for a few minutes, hovering on its picowatt propulsors, then was commanded to disperse to the mountains.
+Major Kraft came over to shake hands with the newly-minted officers and troopers.  
+“Son, you did something special over at Banikaiyan.  The Malians are grateful.  UNIFORCE is grateful.  And just so you know, the adventure’s just beginning.  Nobody knows where all this is going.  We’re making up the rules as we go along.  But I do know one thing, son: small is all”!
+Winger, Barnes, D’Nunzio and the others were gathered around the Major.
+“Major, what’s our next mission?” Barnes asked.
+Kraft fiddled with his black forest of a moustache.  “There’s scuttlebutt on the wire that you’re going back to Mali, Sergeant.  Nano-forensics on the HNRIV outbreak…and what’s left of that Red Hammer facility.”
+“Ah, Mali—“ said D’Nunzio, as she fingered her new sergeant’s stripes.  “—what’s not to like…flies, fleas, backed-up sewage in the streets…garden spot of the universe.”
+“Yeah,” said Barnes, “that’s where I want to take my next liberty call.”
+Kraft had turned suddenly serious.  “Enjoy home cooking while you can, troopers. You’ll get your wish soon enough.”  He didn’t yet know it, but a new adventure for the atomgrabbers of 1st Nano was even then blowing up in the red desert hills north of Bamako, a mission that would tax the skills and wits of the newest troopers Deeno and Mighty Mite in every way.
+Johnny Winger spied his father striding quickly across the parade grounds, Brad and Joanna right behind.  Jamison Winger had a huge grin on his face.  They came together and embraced long and hard.
+“I just wish Mom could be here,” Johnny muttered softly.  They shook hands firmly, then embraced again.
+“She is, son.  She is.”  Mr. Winger pushed his son back and held him at arm’s length.  “Let me take a look at all that brass on you---“
+“I’m still having trouble believing it,” Joanna said in his ears.  “John Winger, 2nd Lieutenant in the Quantum Corps.”
+Winger was grinning from ear to ear.  He parried a shoulder punch from Brad.  “Beats the hell out of shoveling hay on a ranch, doesn’t it?”
+That brought laughs to everybody.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About the Author
+
+Philip Bosshardt is a native of Atlanta, Georgia.  He works for a large company that makes products everyone uses…just check out the drinks aisle at your grocery store. He’s been happily married for 25 years.   He’s also a Georgia Tech graduate in Industrial Engineering.  He loves water sports in any form and swims 3-4 miles a week in anything resembling water.  He and his wife have no children.  They do, however, have one terribly spoiled Keeshond dog named Kelsey.
+For technical and background details on his series Tales of the Quantum Corps, visit his blog at http://qcorpstimes.blogspot.com.  For details on other books in this series, visit his website at http://philbosshardt.wix.com/philip-bosshardt or learn about other books by Philip Bosshardt by visiting www.smashwords.com. 
+Download the next exciting episode of Quantum Troopers from www.smashwords.com.  It’s called “Deeno and Mighty Mite.”  Available on February 29, 2016. 
+To get a peek at Philip Bosshardt’s upcoming work, recent reviews, excerpts and general updates on the writing life, visit his blog The Word Shed at: http://thewdshed.blogspot.com.

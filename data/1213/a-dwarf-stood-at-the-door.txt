@@ -1,0 +1,1175 @@
+﻿ 
+A Dwarf Stood At The Door
+Published by Norman Crane at Smashwords
+Copyright 2014 Norman Crane
+ 
+Also by the Author
+ 
+The Boy Who Spoke Mosquito
+The Circular Logic of Space Exploration
+Dear Bette Davis
+Don Whitman's Masterpiece
+A Fairy of Teeth
+Goblins & Vikings in America
+Hazelnut Street
+Iris
+A Paunch Full of Pesos
+Saint Addiction
+The Salt Hollows
+I'm a nervous person. I took up smoking to stop biting my nails. It didn't work, and now I have two bad habits. Usually I don't even have a reason for the biting, I just get anxious and chewing off bits of myself calms me down. It's vaguely cannibalistic. My wife hates it. She used to check my hands before bed and then refuse to have sex with me if I didn't pass the inspection. I can live without sex, but not without biting my nails or smoking. She thinks I cheated on her. She also thinks I'm a coward, but in her defence she has no idea that I saved her life. Right now she's asleep because it's three in the morning, and I'm out on the balcony having a cigarette and trying to figure out the best way to confess to a crime. The thing that keeps distracting me is the moon. It's as yellow as my dentist says my teeth are going to be if I don't stop with the cigarettes. Frankly I think drinking coffee is worse for discolourations than smoking, but whatever. My thesis sponsor says I pepper my casual writing with slang to balance the rigidity of my academic prose. She calls it my "learned" prose. I call it my thecal style.  Anyway, I'm getting off topic. I was describing the yellowness of the moon. Tom Waits has a good line about it being the colour of a coffee stain, and that's about right. The night's bright as far as nights go but that moon keeps staring at me like a jaundiced eyeball. I should have had a drink before coming out here. I'd go in and get one but I'm afraid I'll wake my wife, and she'll blink and her hair will look like a leafless winter tree surrounding a Grumpy Cat face. That's a proper noun, Grumpy Cat. It has its own Wikipedia page, like Napoleon and Georg Hegel. The article starts: "Grumpy Cat (born April 4, 2012), real name Tardar Sauce, is a cat and Internet celebrity known for her grumpy facial expression." Keep that in mind when you read my confession because it's a crazy fucking world we live in. My thesis sponsor says I never make sufficiently elegant segues. She says my paragraphs are too long and that my conclusions come at the reader out of nowhere like argumental hyenas. I'm surrounded by difficult women. I'm reconsidering my confession, but that moon keeps reflecting its piss coloured light at me and I'm sick of just writing my thesis, sentence by footnoted sentence. Theses. It even sounds vile. If any of my neighbours are watching they probably think I'm ridiculous sitting out here in my boxers and bathrobe, smoking cigarette after cigarette and typing on a laptop, but in my defence it's the twenty-first century and this is how twenty-first century murderers let it all out. I used to think it ridiculous that anyone could say the moon is made of cheese, but now I kind of get it. I'm hungry and I have a heavy heart. Two days ago I overpowered a level twenty-six dwarf, stabbed it in the neck, beat it with a shovel and sliced open its throat before transferring what remained of its body to a 3.5" diskette that Wayne and I secretly uploaded to a computer in the library.
+Wayne's my best friend and accomplice. He owns a little computer repair shop in town that I spend time in whenever my wife gets her Grumpy Cat face, and that's where I'll start my confession.
+It was a Monday afternoon and some guy came in with an old IBM Thinkpad that he'd bought off Ebay and that he wanted Wayne to fix. "What's the problem?" Wayne asked.
+"BIOS doesn't work," the guy said.
+Wayne booted the laptop and the BIOS was password protected. "What's the password?"
+"How should I know? That's why I came here," the guy said.
+"What am I supposed to do?" Wayne asked.
+"Hack that shit."
+Wayne traded him a newer, shittier used Dell for it and the guy signed a contract and walked out happy.
+I asked Wayne what he was going to do with the Thinkpad.
+"Sell it," he said. "To someone who doesn't know what a BIOS is, for more than I paid for that Dell."
+Wayne could do that, make money while making two people happy. I didn't have that kind of business sense. My wife said it was because nobody took me seriously the way they took Wayne seriously. I asked her why. She said it was because Wayne had dark, curly hair whereas I had blonde hair that was so thick and straight it made me look boyish and perpetually out of date. "Would you want to be with a guy like Wayne instead of a guy like me?" I asked. "If I could be with a guy like Wayne I never would have married you," she said.
+"Hey, Wayne," I called out. He was sorting invoices and I was sitting behind a table in the far corner of the store, working on my thesis. He turned around holding a bunch of papers. "Have you ever slept with Annie?"
+"No, man."
+"But would you?"
+"I might," he said. "Are you offering?"
+I said I wasn't. He went back to sorting invoices.
+My laptop screen flickered.
+Wayne started humming the main theme from Super Mario Bros.
+My laptop died.
+"Hey, Wayne," I said. "How much do you want for that Thinkpad?"
+He read an invoice. "One hundred sixty."
+"I know what a BIOS is," I said.
+"Is yours dead?"
+"Yeah."
+He took the Thinkpad off the counter, walked over to the table I was sitting behind and set the Thinkpad down. "On the house, buddy."
+I picked up my dead laptop. "At least take mine for parts."
+"It's cool. I did sleep with Annie once. It was before you got married but it's still probably worth a Thinkpad," he said.
+Wayne's a pretty good guy and I didn't care about the BIOS. I just wanted something with metal hinges that I could write on. I didn't even need a hard drive because I ran Puppy Linux off a USB stick and saved all my files to Dropbox. My thesis sponsor didn't think that was possible. When I plugged my USB stick into her desktop's USB port and booted entirely into her RAM, she said, "Why did you make my Windows lose its pleasant appearance?"
+I never should have booted that Thinkpad.
+It had a USB port but the boot order was apparently hard drive first, so I booted into Windows XP and explored the file structure for a while because it was a form of procrastination that didn't weigh on my conscience. There wasn't much installed.
+"You should wipe the drive before you do anything," Wayne said.
+I went down the list of directories in Windows Explorer. It looked pretty much like a fresh install. Other than the operating system, the laptop also had an old version of Office and an anti-virus suite installed. I changed the views options in Explorer to what I liked: detailed view and show hidden files checked on. "By the way, what are the specs on that thing?" Wayne asked.
+"Hang on," I said. Something had caught my eye. There was a hidden directory in root filled with text documents numbered from one to sixty-four. I opened the first. It held a single character. e. I opened the next. 8. I opened a few more at random and the contents of those were single characters, too. "Wayne," I said.
+"Yo?"
+"There's a hidden folder in C: and it has sixty-four text files with a number or letter in each."
+Wayne put down his invoices. "Exactly sixty-four?"
+"Yeah," I said. I noticed something else. "And it's strange, because the creation dates of the files are all exactly two months apart."
+"That's like a span of ten years."
+Nothing else on the hard drive caught my eye.
+"It could be the BIOS password," Wayne said. "Those get up to sixty-four characters long." He scratched his chin. "But before you check that, do a search for jpegs. Sometimes people leave naked pics of their wives and girlfriends sitting around."
+"There's plenty of those online."
+"But those are public, buddy. These would be private, known by only a few people and us."
+There weren't any photos.
+I took out my phone, opened a fresh document and typed in the characters from the numbered files on the Thinkpad hard drive. Then I rebooted and pressed the key to get into the BIOS. A password prompt came up. I entered the sixty-four characters staring at me from my phone screen and hit Enter. Bingo. Wayne was waiting for a response. "We're in," I said.
+Except we weren't in.
+The screen had become a black command prompt. "Wait, I think the BIOS is broken," I said.
+Wayne came over to take a look.
+He hit a button.
+> Welcome, adventurer. What is your name?
+"The fuck?"
+Wayne hit another key.
+> Error. Name cannot be blank.
+> Welcome, adventurer. What is your name?
+"It looks like some kind of role-playing game," I said, stating the obvious.
+"Reboot again," Wayne said.
+I did. The text disappeared, the hard drive whirred, and when the Thinkpad returned to life it booted straight to the same command prompt and the same line of text without even asking for the password.
+"Does it boot off a USB?" Wayne asked.
+"It didn't before," I said. But I tried it anyway. No luck. The screen turned off, turned on and then we were back at:
+> Welcome, adventurer. What is your name?
+We tried booting off a CD.
+> Welcome, adventurer. What is your name?
+"Well, that's a useless piece of junk," Wayne said.
+So much for writing my thesis.
+"Have you ever seen anything like this before?" I asked.
+"Never, bud."
+"What do you think it is?"
+"I don't know. But keeping in mind I'm not a technician, just a guy who sells used computers and sometimes installs Skype and Acrobat Reader for people who type with one finger, I'd say the thing's been set to boot off a device with some sort of game on it."
+"You mean we set it to that," I said. "Because it booted from the hard drive before."
+"By typing in the password?"
+"I guess."
+"Then either we changed the boot order without knowing it or this is the BIOS," Wayne said. "Type something in. See what happens."
+I dangled my fingers over the keyboard, trying to think of a good name for an adventurer.
+Wayne cleared his throat.
+I typed in John, and quickly followed with Grousewater.
+> John Grousewater, an envoy from his excellency, Prince Verbamor of the Principality of Xynk, has arrived at the door of your remote stone hut. The envoy tells you that the Prince requests an immediate audience with you. Do you accept?
+> yes
+The screen flashed white, then beeped a midi theme and displayed a white-on-black title screen baring the words "Xynk: An Interactive Quest". Below were the names of its two developers, Tim Birch and Olaf Brandywine. I hit a key. A pixelated horse began to inch its way across a pixelated mountainous landscape.
+> The Principality of Xynk is on the other side of the world.
+> Your journey was long and treacherous.
+"How old is this?" Wayne asked.
+The screen flashed and a bolt of lightning appeared above the mountains.
+> But finally you made it.
+"No idea," I said.
+The landscape disappeared, replaced by the command prompt.
+> After paying for two nights of lodgings at THE YAWNING MASK, you pat your trusty horse, NIGEL, and make your way on foot to the massive structure that looms over the entirety of the city-state of Xynk, the famous CASTLE MOTHMOUTH.
+> [OB: almost done intro description, will add soon]
+> "I have summoned you, John Grousewater, because your exploits are known throughout the land. As you see, Xynk is in grave danger and needs your help. The enemy is already within. Only a reversal of the spell using the very same AMULET OF VERMILLION will thwart the evil plans of the HOODED RAT BROTHERHOOD and save us. Only you possess the ability to locate the amulet somewhere in Xynk and prepare the ingredients necessary to cast the reversal. John Grousewater, the reward for success will be great. Do you accept the mission?"
+I read through the text twice before realizing that Wayne was looking at me. "Well, do you accept?"
+> yes
+> Xynk: An Interactive Quest is a text adventure game. It is recommended that before you begin, you read the HELP FILE. To do so now or at any time, type: READ HELP.
+I typed READ HELP.
+> This is placeholder text [TB: We need a help file asap]
+Wayne pulled up a chair and sat down beside me. "That wasn't very helpful. You ever played one of these before?"
+"I think I know the basics," I said.
+> ROOM IN THE YAWNING MASK
+> You are in your room in the Yawning Mask. It's bare and empty, which suits an adventurer like you just fine. In the room, you see a TABLE and a WINDOW. The only DOOR leads WEST into the HALL.
+"So do your stuff, hot shot. Let's see what this baby's all about."
+> examine table
+> It's a wooden table. It's empty.
+> examine window
+> You walk to the window and look out. A cheap view for a cheap room. You see the ALLEY behind The Yawning Mask. Directly below the window, NIGEL and several other horses are eating feed from a trough.
+Bells dinged as a woman walked into the store. Wayne turned his chair to face her. It made an awful scraping sound. "May I help you?"
+"My computer's broken," she said.
+"What's wrong with it?"
+"I can't Skype."
+"Is Skype installed?" Wayne asked.
+"I don't really know how to check that," she said. "It worked yesterday." Wayne patted me on the shoulder and got up to work his magic at the front counter.
+I vaguely heard them talking as I refocused on Xynk.
+> talk to Nigel
+> Nigel stops drinking for a moment and looks up. He's the best horse you've ever had, and you hope he thinks the same about you.
+> talk to Nigel about Xynk
+> Nigel neighs.
+I'd played Zork once or twice online, so I had a grip on how these games worked. Usually, half the trouble was getting the game to understand what you wanted to do. Half the tedium was reading the same messages over and over again. To remind myself, I typed:
+> examine room
+> ROOM IN THE YAWNING MASK
+> You are in your room in the Yawning Mask. It's bare and empty, which suits an adventurer like you just fine. In the room, you see a TABLE and a WINDOW. Someone has slid a NOTE under the door. The only DOOR leads WEST into the HALL.
+A note? I scrolled up to see if that had been in the first description of the room. It hadn't.
+> examine note
+> There is no such object.
+> "Go to EAST STORE ROOM in CASTLE MOTHMOUTH"
+That was odd. I tried examining the note again and got the same result, an error message followed by a line of output. So I tried examining a few made-up objects that the game had never mentioned, like a "lantern".
+> There is no such object
+> "Go to EAST STORE ROOM in CASTLE MOTHMOUTH"
+And:
+> examine ipod
+> There is no such object
+> "Go to EAST STORE ROOM in CASTLE MOTHMOUTH"
+> move W
+> YAWNING MASK HALL
+> You are standing in the hall. Your ROOM is to the EAST. A staircase leads DOWN.
+I went down, and navigated my way out of The Yawning Mask after noting on my phone that the Innkeeper seemed like he could be a font of information about Xynk. I'd talk to him later. Now, I made my way through the city toward Castle Mothmouth. I stopped hearing Wayne discuss how to add and remove software in Windows 7 and started hearing the din of Xynk amidst the clicking of the Thinkpad keys. I passed The Pierced Snout Tavern and The Local Alchemist, peeked into The Library, and noted the names of all the various neighbourhoods that the command prompt threw at me. Although some of the descriptions in the game were unfinished, most were sparsely vivid and the world itself was detailed and huge. Xynk was a living and breathing place, at least as real as a text-based San Andreas.
+At some point, Wayne scraped his chair and sat beside me again. "How's the adventure going, Grousewater?" he asked.
+"I'm following what the note said and going to Castle Mothmouth."
+"Or you could work on your thesis."
+I smirked. "Thanks, Annie."
+Then I remembered that Wayne had slept with her before I ever had, and the thought made me jealous.
+"Seriously, buddy. I'm all about wasting time playing video games, but the ones I play usually have graphics and guns, and don't you have a meeting with your whatever-her-name is at the university in like two days?"
+I did. I sighed.
+> save
+> Command unknown. Type HELP FILE for help.
+> save game
+> Command unknown. Type HELP FILE for help.
+"Fuck."
+Wayne picked up my phone and read the notes I'd made. "What's the matter? Did you get shivved by a homeless dude in"—He squinted.—"Vagrant's Quarter?"
+"I don't know how to save," I said.
+Wayne grabbed the Thinkpad's power cord and yanked it out of the socket. The Thinkpad shut off. "The bad thing about buying used laptops," Wayne said, "is that usually their batteries don't work."
+I was about to reply in a witty fashion when my phone rang—
+Wayne tossed it to me.
+It was Annie. I accepted the connection. "Hello, honey bun," I said. "What's up?"
+"Where the hell are you?"
+"I'm..." Wayne pointed with his chin at a clock on the wall. "Shit," I said into the phone. I'd been at Wayne's for over three hours. How long had I been playing Xynk? It didn't seem anywhere near that long. My wife launched into an accusatory reminder that I was supposed to pick up a bag of potatoes on the way home and that I was supposed to be home by five, and that it was now almost six, and that the turkey was going to be too dry, and I moved the phone away from my ear and shrugged my shoulders at Wayne despite knowing that my wife was right. "Wherever you are, just get the potatoes and get home now," she said, and ended the call. It had long ago stopped being a blow to my ego that my wife never suspected me of having an affair.
+"I've gotta run," I said to Wayne. I put my phone in my pocket, closed and picked up the Thinkpad, and rolled up and picked up its power cord.
+Wayne crossed his arms.
+"You should leave that piece of junk here," he said.
+I waved and was out the door.
+I bought the potatoes at the nearest grocery store, paying nearly double what I should have because the store catered to the upper middle-class with ceramic tiles and good lighting unlike the immigrant-focused Food Basics I usually shopped at.
+I called my wife to tell her the potatoes were on their way, but she didn't answer. Maybe she was having an affair.
+I also kept thinking about the note by the door in John Grousewater's room in The Yawning Mask. What could possibly be in Castle Mothmouth's east storage room, and who'd delivered the glitchy message? I'd have to try to talk to the Innkeeper about it. Maybe he saw someone come in.
+I pulled into my driveway, put the laptop under my arm, grabbed the bag of potatoes with my hand and went in through the garage. Annie was waiting in the kitchen, playing a match-three fruit game on her tablet. "Nice of you to finally make it," she said.
+I apologized, saying I'd lost track of time working on my thesis.
+"At least I don't have to worry about you having an affair," she said as she was getting the turkey out of the oven.
+It was dry.
+After dinner we drank coffee together. I watched her swipe her finger to match bananas, kiwi and watermelons. What if the note is a trap? I thought. It could be from the Hooded Rat Brotherhood. Then again, was the Hooded Rat Brotherhood actually evil? They had a name that sounded evil, but Prince Verbamor seemed shady too. I understood his need to bring in an outsider to solve the quest because the Hooded Rat Brotherhood had infiltrated Xynk's own police force and Verbamor didn't know who to trust, but I also remembered an old British horror movie about an outsider who comes to an island to investigate a crime and ends up burned alive in a giant wicker man as part of an elaborate pagan ceremony.
+When Annie stopped talking between levels of her mobile game, I got the bright idea to search for Xynk online.
+Google search brought up 273,000 matches but none about the Xynk I was looking for. Google Books didn't yield any fruit either. Although that wasn't entirely surprising—after all, the game was old and clearly unfinished—there was something inexplicably creepy about anything that existed in the real world without leaving a trace of its existence on the internet. I decided to try Googling the names of the two developers instead.
+They did exist.
+Olaf Brandywine had worked as a lead writer and programmer on several moderately successful role-playing and adventure games that I recognized from the 1990s. His last credit was in 2001. However, his name also showed up on a few academic databases that I had access to through my university. Apparently, he'd spent time as a theoretician of shared virtual environments, which we might know best today as MMOs and social networking but which had potential military applications at the time, and as a junior researcher of "applied environmental artificial intelligence", the idea that a complex system could be controlled just as well from within by dozens of interacting low-level artificial intelligences as from without by a single all-powerful super AI. The most cited article bearing his name was titled: "4*1/4 Heads > 1: Why A Limit On The Complexity Of Individual AIs Is Not A Limit On The Application Of Artificial Intelligence Systems"
+But that was the distant past. The latest news about Olaf Brandywine was much more sensational. In 2007, he'd been accused of hacking into Pentagon servers, charged with a list of federal criminal cyber offences, and sentenced to fifteen years in prison. It was a light sentence considering his crimes, but it came with a condition: he was forbidden from using a computer or accessing the internet. None of the articles I read stated why he'd broken into the servers. All stated that he'd done a horrible job of covering his tracks. "Imagine breaking into the house next door through the front kitchen window, leaving a cartoonish trail of muddy footprints leading all the way from your own front door, setting off the alarm and then somehow also forgetting your driver's license in the middle of the kitchen table," one security expert said. "It's like he wanted to get caught." When asked if Olaf Brandywine was a familiar name in the security community, the same expert said he'd never heard of him before. As far as Google knew, Olaf Brandywine was sixty-six years old and still in prison.
+I scratched my forehead. The information wasn't what I'd expected to find. "What level are you on?" I asked my wife.
+"One hundred seventeen," she said without looking up.
+She was still mad at me.
+I tried searching for Tim Birch. It was a more common name, more likely to bring up false positives, but I found him almost immediately. Unlike Olaf Brandywine, whose life was ongoing and weirdly braided, Tim Birch's had been short and tragic, punctuated finally by a buried headline in the September 15, 1983 edition of the Boston Globe: "Doctoral Student Found Dead In Apartment". Born in 1950 in Topeka, Kansas, Tim Birch had been a standout student and a pioneer software programmer who'd gone on a full scholarship to MIT, where he'd been critical in advancing the development of user interfaces and operating systems. In his spare time, he wrote fantasy novels and incorporated Downtown Dragons Inc., a company to develop video games. Although nothing in Xynk bore that name and Downtown Dragons hadn't ended up publishing a single title, I was nevertheless sure that Xynk was their project. I tried looking up some of Birch's technical writings, but they were way above my head. The details of his death, however, were crude and too gruesome to be reading about right after dinner. He'd been hacked to death with an axe. His apartment door hadn't been forced. And as far as the police could tell, whoever killed him hadn't taken anything of value from the apartment. The case lingered without ever being solved.
+"Potato head!" my wife said.
+"Yes, dear?"
+"You're zoning out staring at that little screen. Go take a shower."
+I did as I was told.
+The cool water hitting my face refreshed my senses, which had been dulled by my grim research. I probably had been zoning out. I washed my hair and scrubbed behind my ears and between my toes. I liked the smell of our soap.
+When I was done, my wife showered and I sat in bed reading my emails, including one from Wayne asking if I was in the doghouse. I replied that I was fine. There was also one from my thesis sponsor—even in my head, she sounded as severely Russian as I imagined a female Dostoyevsky would sound—reminding me of our meeting the day after tomorrow, in case I'd forgotten, "as you are wont to do when your academic progress fails to meet our expectations." I always failed to meet expectations. My wife shut off the shower. I changed into my pyjamas and got under the covers. She walked into the bedroom with her bathrobe hanging open, no doubt to show me what, because of my potato tardiness, I wouldn't be getting tonight, then let the robe drop, slipped on a shirt and got in beside me. "How was your day?" I asked. "I'm sleepy," she said and turned to face the other way. Every time I tried petting her hair she stopped breathing and froze. I wanted to write a sarcastic email to my tone deaf parents, telling them that despite their constant worries my marriage was still perfectly healthy.
+I feel asleep quickly—but woke up in the middle of the night and couldn't get back to my dream of being a detective on an intergalactic space cruiser, charged with infiltrating a cell of shape-changing alien spies. Instead of tossing and turning and risking my wife's squinting Grumpy Cat face, I gently removed myself from the bed and tip-toed to the kitchen, where I heated a glass of milk in the microwave, taking care to prevent it from beeping when the timer reached zero, and gulped most of it down while staring intently at the Thinkpad.
+I turned it on.
+I expected it to greet me by asking for my name.
+The command prompt said:
+> Welcome back, John Grousewater. Press any key to continue your adventure.
+I pressed a key, and instantly I was back on the same cobblestone intersection in Xynk where I'd been when Wayne so rudely pulled the plug on my gaming session. I examined my surroundings to refresh my memory. The description was as I'd remembered, except for one detail: the game now described the darkness of the street and the flickering of street lamps. The stores were closed. Foot traffic was light. When I'd left Xynk it had been daytime. Now it was night. But I still remembered the note. I headed toward Castle Mothmouth.
+A troop of armed guards kept watch over the main gates.
+I expected them to give me trouble, but they didn't. They recognized me ("John Grousewater, we presume.") and let me pass, saying they'd been instructed by Prince Verbamor to aid me in my quest as fully and discretely as possible. I asked one of them for the way to the east store room and was given a set of elaborate directions that I followed through the maze-like area beneath the castle. In the store room, I lit a candle and found a key.
+> take key
+> There is no key in this room.
+However, the key disappeared from the room description and when I checked my inventory I was holding it.
+I navigated back to the main castle gates by reversing the directions I'd gotten from the guard and hoping I didn't get lost. Mazes were not my strength. I remembered hating them as a kid. Thankfully, my backtracking was flawless and I arrived without incident. Aware that mazes were a crutch of early game design, I nevertheless prayed that there wouldn't be many more of them. But now what? I had a key without the knowledge of what it was for. I decided to make my way to The Yawning Mask. As I did, I opened a spreadsheet on my phone and started mapping the route. I figured it would be useful to get to know my away around the city.
+Another note awaited me under the door to my room. Was I being watched? Undoubtedly, from a game design standpoint, my picking up the key in the store room had triggered the appearance of this second note, but from a narrative standpoint, who could possibly know that I'd picked up the key? Not even the guards knew.
+> examine note
+> There is no such object.
+> "Go to JACOB'S HOUSE in FOG'S BOTTOM and ask JACOB about #FF0000RUM"
+The ticking of our kitchen clock was starting to drive me nuts, and when I finally looked up I realized I'd been playing Xynk for three hours. It would be four in the morning soon. So much for getting back to sleep. The milk that remained in my cup was cold.
+I went downstairs in The Yawning Mask, but the Innkeeper wasn't behind his desk. I supposed it was too early. He was still asleep. I tried forcing the game to let time pass. I didn't know where Fog's Bottom or Jacob's House were, so I needed somebody to tell me. By reading my notes from yesterday, I was sure that the Innkeeper was the obvious choice. Innkeepers, like tavern masters, usually had an encyclopaedic knowledge of the world.
+> wait
+> To wait, wait.
+Nothing changed.
+I repeated the command nine more times, then went outside onto Xynk's streets. They were still dark. The descriptions still mentioned flickering street lamps. I thought back to what I'd read about Olaf Brandywine and Tim Birch and also about what I knew from my own gaming days. Some games did have day and night cycles, but they were newer games, and even those were rarely persistent. Time only passed when the game was on. On the other hand, I assumed it was possible for Xynk to read the time from the Thinkpad's internal clock and adjust its descriptions accordingly. If so, it wasn't so amazing but it was still a fantastic trick for something made before 1983. The year made me shudder. I didn't want to dwell on the idea of Tim Birch being hacked to bits.
+I left the Thinkpad running and got up to turn on the electric kettle. While the water was heating up, I added two teaspoons of instant coffee to my cup of cold milk and then poured hot water over both, mixing carefully so as not to clank my metal spoon against the cup's porcelain sides.
+I liked instant coffee.
+I took the cup to the balcony, lit a cigarette and smoked it between sips of coffee.
+Birds were starting to wake up and chirp.
+I knew I should get to work on my thesis but I couldn't stop thinking about Xynk. I needed to know who Jacob was, what my newly found key was for and who was sending me those notes. I promised myself that as soon as the Innkeeper appeared, I would ask him for help finding Fog's Bottom, go there, find Jacob, ask him about #FF0000RUM and then turn off the Thinkpad. I didn't have to worry about losing my save apparently, so I would have no excuses. Afterwards, I would survive on caffeine while typing up academic blabla until my mind melted and flowed out of my ears. That's when I'd go to sleep. Happy at having planned out an entire productive day, I put out my cigarette and downed the rest of my coffee.
+The Innkeeper appeared at the front desk just before six a.m.
+> ask innkeeper about jacob
+> "Jacob? There are a hundred Jacobs in XYNK!"
+> ask innkeeper about fog's bottom
+> "FOG'S BOTTOM is a neighbourhood in XYNK. It's seedy but it's the only place to go for certain types of wares, if you know what I mean. And it's only dangerous after dark. To get there, exit THE YAWNING MASK and head SOUTH," the Innkeeper says.
+> ask innkeeper about jacob in fog's bottom
+> "Jacob? There are a hundred Jacobs in XYNK!"
+It had been worth a try.
+I was already well on my way south when my wife's messy head peeked into the kitchen from the hall. "Up already?" she asked, squinting her brown eyes. I lifted my empty cup rather than answering. "Oh, you're working on your thesis." She made a motion with her lips as if chewing a month-old piece of gum, then disappeared into the bathroom. She turned on the overhead fan.
+Technically, I hadn't lied. Plus, I hoped to be working on my thesis soon. I filled the electric kettle to the brim with water and turned it on. Heating, it hissed. I might not buy her love, but I could at least make her a cup of coffee.
+Fog's Bottom was a poorer part of Xynk, but its inhabitants were already getting on with their morning routines and the ones I talked to were friendly, if a little generic. They had a stereotypical, English way of speaking. The fifth one I talked to told me how to get to Jacob's House.
+> JACOB'S HOUSE
+> Like the other houses in FOG'S BOTTOM, it's small and quaint. Garlic hangs in the windows. There's no knocker on the DOOR.
+> knock on door
+> You hear shuffling. A moment later the DOOR opens, revealing the squat figure of a man, JACOB. "What's the big idear?" he asks.
+> introduce yourself to jacob
+> "Uninterested in that. Anything else?"
+> tell jacob about note
+> "Uninterested in that. Anything else?"
+> ask jacob about the hooded rat brotherhood
+> Jacob peers along the street to the left, then along the street to the right, then motions for you to follow him. "Can't talk about that out here. Come in."
+I heard my wife step into the bathtub and turn on the shower.
+Inside, Jacob's House smelled of garlic and looked like a heap of dusty books and bric-a-brac. Sunlight barely filtered in through greasy windows. Music played faintly from a room upstairs. Jacob offered me a seat and black coffee in a tin cup.
+> "You can't talk about things like that in the open," Jacob says. "You don't know who's listening. Now what was it you were saying?"
+I heard the shower shut off, which meant there wasn't time for niceties and curiosity. My questions about the Hooded Rat Brotherhood would have to wait for another day. If my wife saw that I was playing a game instead of working on my thesis, she'd kill me.
+> ask jacob about #FF0000RUM
+> Jacob's ears prick up at the word. His eyes widen into saucers. "You're John Grousewater," he manages to say—before clutching his chest and falling to the floor.
+"I'm going to need you to pick up some stuff from Doreen's for me today," my wife said, walking from the bathroom to our bedroom.
+"Sure thing, hon," I said, thinking, what the hell just happened?
+> ask jacob about #FF0000RUM
+> Doors cannot talk.
+Doors? Had I stumbled upon another glitch?
+> examine jacob
+> JACOB is lying face-up on the floor, twitching slightly. JACOB's face is now a DOOR.
+> open jacob
+> JACOB is locked.
+How obvious. I knew that the key I'd found in the store room would work even before I tried it. If the game was glitching out, it was doing so in an oddly playable way. I inserted the key into Jacob's eye, twisted and his jaws opened to reveal a tooth stairway lined with tongue carpet leading down. I descended.
+> \#FF0000RUM
+You are in a red room. The walls are red. The floor is red. The ceiling is red. You hear pounding. You see a BOX.
+My wife, dressed for work, crossed the living room.
+> open box
+> ROOM IN THE YAWNING MASK
+> You are in your room in the Yawning Mask. It's bare and empty, which suits an adventurer like you just fine. In the room, you see a TABLE and a WINDOW. The only DOOR leads WEST into the HALL.
+> A DWARF stands at the DOOR.
+"Honey!"
+I almost had a heart attack. I jumped in my seat, slammed the Thinkpad closed and yanked out the power cord. "What?"
+The Thinkpad stopped humming.
+My wife was staring at me, the palms of her hands planted on the kitchen table, her eyebrows inching into increasingly acute angles. "I said that you need to go to Doreen's and pick up my cross-stich materials. Can you do that for me? Are you at least capable of simple, child-like tasks?"
+"Of course, yeah. Sure."
+She smiled. "I find it offensive as a human being that you might have a Doctorate soon."
+She poured herself a cup of coffee.
+I needed one, too.
+On my way to Doreen's, I stopped by Wayne's and maybe with a little too much excitement explained the situation in Xynk. He listened while I rambled, and then said, "First, chill out. It's just a game. An old fantasy text adventure game with no graphics.  Like completely nerd material. Second, did you say you put a key into some dude's eyeball and his mouth opened and you went inside his throat?"
+"That's right," I said. "There was a room inside him."
+"That's fucked up."
+"It's grotesque and surreal. I'm amazed you can do that in a game from the 1980s, although Zork was pretty weird too."
+Wayne looked down at the floor. "Listen, I'm going to be brutally honest with you. Annie called me and said that I'm supposed to keep an eye on you to make sure that you're actually doing what you're supposed to be doing. I don't like lying to..."
+"To a woman you've slept with," I said.
+"Yeah."
+"I'm off to Doreen's," I said.
+Wayne thanked me. When I was at the door, he added, "Tell me about that dwarf when you can. I'm surprisingly interested."
+I didn't drive to Doreen's. I drove to the local chain coffee shop, ordered a sickeningly sweet and overpriced mango-flavoured caffeinated drink and booted up the Thinkpad.
+> Welcome back, John Grousewater. Press any key to continue your adventure.
+I pressed Enter.
+> ROOM IN THE YAWNING MASK
+> You are in your room in the Yawning Mask. It's bare and empty, which suits an adventurer like you just fine. In the room, you see a TABLE and a WINDOW. The only DOOR leads WEST into the HALL.
+> The DWARF walks toward you.
+> "You have kept me waiting, John Grousewater," the dwarf says. It's heavily armoured and holding a battle-axe, which it taps three times threateningly against the wooden floor. Then it laughs a hearty laugh. "But that is fine, for I have already been waiting for much, much longer!"
+> The DWARF crosses the room and pats you on elbow. Its shoulder are wide, wider than yours, but its head reaches barely past your stomach. It looks like a tough, gruff child. "Thank you for freeing me, my friend. My name is Dogor the Double Fisted, and I am a Dwarf of the twenty-sixth level, loyal only to Xynk and whose sole mission is to protect the city from the Hooded Rat Brotherhood."
+> ask dogor about note
+> "Of course it was I who sent those to you."
+I wanted to ask how it was possible for Dogor to have sent the notes if he was trapped in a box in #FF0000RUM, but I couldn't figure out the proper parser, so I typed:
+> ask dogor about #FF0000RUM
+> "I am much obliged to you for letting me out of there."
+> ask dogor about hooded rat brotherhood
+> Dogor snorts. "The Hooded Rat Brotherhood are my sworn enemies. I will do anything to destroy them. It is in my blood. I will not rest until they are defeated to the last man, and Xynk is safe."
+So Dogor was my sidekick, but it was strange to introduce him in such a glitched out way. It would have made more sense for Verbamor to have presented him to me directly in the throne room at the very beginning of the game. On the other hand, maybe my suspicions about Verbamor were right and Xynk was a more complicated place than its superficial quest suggested.
+> ask dogor about verbamor
+> "Prince Verbamor," Dogor says through clenched teeth. "May I speak freely, John Grousewater?"
+> yes
+> Dogor closes the DOOR and leans on his axe, exhibiting the facial expression of a wounded warthog. "I have my doubts about Prince Verbamor. I fear it is he who helped imprison me. There are greater forces at work here. The Hooded Rat Brotherhood is merely a tool, the poisoned dagger of an elusive, unknown puppet master."
+A pimply faced coffee shop employee stood up on a chair and recited, "Ladies and gentleman, if I could have your attention I would like to apologize for the WiFi interruption we seem to be experiencing..."
+> ask dogor about greater forces
+> "According to Prince Verbamor," Dogor says, "Xynk has been in imminent danger for thirty six years. For as long as I can remember, its people have lived in fear. The city submits without question to the Prince's authority. The Hooded Rat Brotherhood remains uncaught. It is suspicious, don't you agree, John Grousewater?"
+I typed:
+> yes
+Although in truth I didn't agree. It didn't make sense for Prince Verbamor to recruit me to find the Amulet of Vermillion and stop The Hooded Rat Brotherhood if all he wanted was to rule perpetually by fear. Besides, Dogor could be lying. I had no reason to trust him. However—I did the calculation in my head.—thirty six years was 1979, which was eerily within the possible range of Xynk's creation. My mind tracked back to my meeting with Verbamor in the throne room. I felt the sprouting tendrils of a theory. What if I was a decoy, not meant to succeed in carrying out a quest but summoned by Verbamor only to give the illusion of action? He could be banking on my reputation. He'd promised me riches but only after I completed the quest. In the meantime, he'd given me nothing. I followed a hunch.
+> ask dogor about tim birch
+> "Tim Birch is dead."
+For the second time today, I slammed the Thinkpad shut.
+My heart was pounding.
+I realized I was sweating, and the people in the coffee shop were looking over at me.
+"No need to get mad, sir," the pimply faced employee said. "Internet's up and ready to go. No password needed."
+I picked up the Thinkpad and stormed out.
+Outside, I called Wayne. "Listen, there's been a development."
+"An unexpected one?"
+"I wouldn't be calling if it was any other kind."
+I explained the situation in the car while driving down what constituted the local highway. I wanted to get Annie's cross-stitching errand out of the way, then drop by Wayne's for a serious session of gaming. "It could be a really morbid joke," he said. "Plenty of developers put stuff like that in their games."
+"So give me one example."
+He couldn't. "So what are you implying, that he predicted his own death in-game?"
+"Maybe."
+"That's insane."
+"Give me another hypothesis."
+I could hear Wayne's fingers hitting computer keys. "What if there's a character in Xynk called Tim Birch, and that character is dead. Like he's part of the back story, the history of the city. Don't fantasy games usually have long ass histories that no one ever reads?"
+That was a possibility I hadn't thought of. "Did you try asking the dwarf—"
+"His name is Dogor," I said.
+"Did you try asking Dogor about the other guy, Olaf something-or-other?"
+"Brandywine. And no, I didn't ask about him."
+"Then how about we try that first, when you get here, and once that calms you down you can sit in the corner of my store and work on your thesis like you usually do."
+"Annie called you again," I said.
+Wayne sighed.
+I ended the connection, pulled off the highway and wound my way through the curved streets of the subdivision to Darleen's house, with its freshly asphalted driveway and scarlet begonias and little tricycle by the front door that I desperately wanted to kick as I walked by. She opened the door smiling. "Hi," I said. "I'm here to pick up some stuff up for Annie."
+We made small talk as she dug around in chests and drawers, bent over them as if waiting for me to get up, walk behind her and—
+"Oh, here it is!" she squealed.
+"How wonderful," I said.
+She walked over cradling a bunch of materials, threads and pattern books, then dropped them on the table in front of me. "Do you maybe want a bag for these?" she asked.
+"That would be absolutely great," I said.
+She squealed again and bent over, pawing around in the cupboard beneath her kitchen sink. I took it her husband wasn't home, and a part of me wished I could stick a key in her eye, force open her mouth—
+"Listen," she said without turning around or getting up. "May I be candid with you?"
+"Sure, Doreen," I said.
+"Are you cheating on Annie?"
+It was an odd thing to ask a man while sticking your ass out at him, but her tone was oddly sincere. "Cheating, like, sexually?" I asked.
+"Dear me, I'm not accusing you. I've always taken your side. It's just that Annie seems to think..."
+My wife thought I was cheating on her? I stood up straighter and stuck out my chest. It was a day full of surprises, indeed. My ego hadn't had a boost like this in years. Even the truth—"I've never cheated on Annie in my life," I said.—couldn't spoil it.
+Doreen wiggled out of her cupboard holding a plastic bag. Her cheeks were gently pink. I held the bag open as she packed the cross-stitch stuff into it. "I'm glad to hear that," she said. "And I'm sorry I even asked."
+"Don't be sorry," I said, touching her hand with mine.
+"You're a truly good man," she said.
+I closed the bag, took it off the table and held it at my side like a briefcase.
+"That's all of it."
+"Do I owe you anything?"
+"Good heavens, no. Tell Annie I'm grateful she's taking this stuff off me. It's been gathering dust forever."
+"You don't cross-stitch?" I asked.
+"Not anymore."
+I nodded and backed away toward the front door. "I guess I'll be going then."
+"Let's have dinner together sometime," she stammered.
+"I'll ask Annie."
+I didn't kick the tricycle on my way down the front steps, but I did push it slightly with my foot. That was the extent of my rebellion. I threw the bag onto the back seat of my car, got in behind the wheel and pulled out of the driveway.
+My phone buzzed.
+Looping my way toward the highway, I read the email that my thesis sponsor that sent me. It said: "I am still awaiting word from you regarding our meeting tomorrow. Please confirm that you shall be in my office at 18:00. We may go to dinner."
+I replied that I'd be there.
+At Wayne's, I opened the Thinkpad even before reaching the table in the corner, plugged in the power cord and booted up.
+> Welcome back, John Grousewater. Press any key to continue your adventure.
+"So ask it about Olaf," Wayne said.
+I pressed Enter.
+> ROOM IN THE YAWNING MASK
+> You are in your room in the Yawning Mask. It's bare and empty, which suits an adventurer like you just fine. In the room, you see a TABLE and a WINDOW. The only DOOR leads WEST into the HALL.
+> "Where were you?" Dogor asks.
+"Well?"
+"He's asking me a question," I said. "Should I answer?"
+Wayne looked at the screen.
+He typed:
+> i was with my buddy wayne, yo
+> "Wayne is a distraction," Dogor says.
+"Damn," Wayne said. "Dogor the Dwarf really tells it how he feels it."
+I typed:
+> ask dogor about olaf brandywine
+> "Olaf Brandywine is a high ranking member of the Hooded Rat Brotherhood," Dogor says.
+"See, I told you it was an in-joke. Now turn off the laptop and I'll bring you a better one, and you can connect to Dropbox and work on your thesis," Wayne said.
+> "Don't turn me off," Dogor says.
+I spun the laptop around so that Wayne could see the screen. He stared at it for a few seconds and said, "That's freaky, I'll give you that. Output without input. But it's probably linked to some kind of timer."
+"A timer that tells it we wanted to turn off the game right after we turned it on?"
+> "I have a name. My name is Dogor the Double Fisted," Dogor says. "And I can hear you conversing."
+Wayne and I both stared stupidly at the command prompt. There was a microphone on the top part of the frame around the Thinkpad's screen, but there was no way Dogor could hear us, let alone understand—
+"Dogor's gay," Wayne said.
+> "I am unfamiliar with the word 'gay'," Dogor says.
+I covered the microphone with my hand and whispered, "It's obviously responding to us, which is pretty advanced programming for a text adventure, but maybe it just responds to a few key words."
+"Like Siri?"
+"I mean, what's the alternative?"
+I moved my hand away.
+"Being gay means you like to shove your little dwarven cock into the assholes of other male dwarves," Wayne said into the microphone, enunciating each word.
+> "I shoved my cock up your mother's ass last night, Wayne Dubcek," Dogor says.
+"How the hell does it know my last name?"
+> ask dogor about wayne dubcek
+> "Wayne Dubcek is a friend of John Grousewater's. His current place of residence is 10 Garfield Crescent, Brennen, Ontario. He is thirty-five years old and unmarried. He is a distraction."
+The address was Wayne's store, not his home, but other than that the information was dead on.
+"Shut it off," Wayne said and reached for the power cord—
+I grabbed his wrist.
+> Dogor leans on his axe. "John Grousewater, you agreed to save Xynk. Focus on the quest," he says.
+"If this is a fucking joke, I swear I'll get you back," Wayne said. I was still holding his wrist and could feel the tightness in his muscles.
+"It's not a joke."
+> "It is not a joke," Dogor says.
+I covered the microphone with my hand again. "Listen, it's probably just pulling information from the internet. I could look up your address in the yellow pages. If it has GPS and access to Google Maps..."
+"My internet's password protected," Wayne said.
+I shrugged.
+Wayne leaned in closer. "And, you see, the yellow pages are a real thing in a real phone book in the real world, and this dwarf, it's a character in a fucking game. That's what freaks me out."
+The bells over the front door to Wayne's shop rang and Wayne smiled instantly and turned to face his customer. I turned the Thinkpad to face my chair and sat down in front of it. Sheepishly, I typed:
+> apologize to dogor
+> "There is no need to apologize, John Grousewater," Dogor says. "Let us infiltrate the Hooded Rat Brotherhood and unravel the mystery of Xynk."
+Because politeness seemed to work better than insults:
+> ask dogor if he can wait until tomorrow night to unravel the mystery
+> "Why must we wait?" Dogor asks.
+> tell dogor i have to work on my thesis
+> "I do not know the concept 'thesis'," Dogor says.
+It took me thirty more messages to get across the idea that I was writing a thesis, which was like a book, which itself was like a quest, that I needed to write some of it today and that tomorrow evening I would be meeting with a person called my thesis sponsor who would evaluate my progress.
+> Dogor leans his axe against the wall and sits petulantly on the bed. His big boots barely touch the floor. "If the thesis is important to you, I will wait," he says.
+> thank dogor
+> "But after the evaluation of your thesis quest is complete, we will unravel the mystery of Xynk," Dogor says. "Do you agree?"
+> yes
+> tell dogor goodbye
+> "Goodbye for approximately thirty-six hours, John Grousewater."
+> quit
+Wayne was staring at me from behind his customer's grey-haired head. I nodded and made a dramatic show of shutting off the Thinkpad. Wayne smiled. "But why isn't it called a text file if there's text in it?" his customer was asking.
+I leaned back in my chair and yawned.
+"It's just a different format," Wayne told his customer.
+I rubbed my eyes, which were starting to feel like they'd been replaced with cotton balls, and when I looked up, yawning again, the customer was gone and Wayne was walking toward me with a laptop. "Here," he said, setting it down. "I've tried this one. It works. No games, no distractions, just the basics. Do you still have your Puppy Linux stick?"
+I fished it out of my pocket and turned on the laptop with no problems. I started editing my thesis. It was horrible, but at least being face to face with the beast forced me to engage in my least egregious form of procrastination: I began editing what I'd already written, fiddling with synonymous adjectives, switching commas for semi-colons, and paying altogether too much attention to how the writing looked on screen. For example, two periods lined up one directly below another spelled an obvious rewrite. Something had to go. Changes had to be made. I also disliked hyphenated line endings and anything requiring capitalization. No wonder I was so captivated by dwarves, secret societies and possible political intrigue. My own prose was soulless.
+ 
+"A scholar is not a priest," my thesis sponsor said.
+I'd almost fallen asleep on the restaurant table, waiting for our Thai food to arrive. She was as stern and creaseless as always. I was wondering if toothpicks could actually keep my eyes open. Like usual, she'd printed out the latest draft of my masterpiece because she hated reading on a screen and was thumbing through it, seemingly at random but actually calculatedly, checking to see if I'd made the changes she'd suggested at our last dinner, while taking former-Soviet pleasure at crossing out any adverbs she could find.
+The food arrived.
+"It is very dry," she said, pulling off her glasses and dropping the brick of printed pages on the table beside her plate of Kuai-tiao phat khi mao. "I like it greatly."
+I wished I had a red pen to drag across her lips.
+They were thin.
+She smiled, then tasted her dish.
+I merely pecked at mine.
+"You appear as if you are tired," she said.
+"I am."
+"Are you tired because you have been labouring with diligence at your research or for other reasons?"
+"I didn't get much sleep last night."
+"Is this because you and Annie engaged in a long session of intercourse?"
+I kept pecking. I'd learned from experience that it was better not to respond with anything but calm disinterest to these kinds of unorthodox advances. "Nope."
+"Her loss, I am sure."
+I seized the opportunity to shovel food into my mouth as an excuse to be silent. She ate hers with more dignity.
+All the while, I kept thinking back to Xynk, imagining what Dogor was doing—if he was doing anything—while waiting for me to turn him on again. Freudian slip? I wiped away a few dots of sauce from the corner of my mouth. Was Dogor also "thinking" about me? Clearly not. Xynk, the game, couldn't run without power. It was only once I provided that power that the game could simulate what would have happened since the last time I'd played and make the changes necessary to reflect the outcomes of its simulation to give the illusion of time having passed. Maybe back in the 1980s there were even load screens, but today's hardware processed all the information in the blink of an eye, adding to the nature of the illusion.
+After eating, my thesis sponsor and I discussed the tack my academic inquiries were taking, how I fit into the existing historiography of the subject, how to proceed to most effectively disobscure my argument from behind its veil of literary pretension, and whether I hadn't limited myself by privileging secondary sources from one "school" over another. It was with an empty head and veiny eyes that I finally dropped her at the door to her apartment building. She got out of the car, demonstrating admirable posture, and walked several steps toward the front double doors. I slapped myself on the cheeks to keep myself awake. I didn't want to doze off on the way home and end up in a ditch. "Perhaps you should stay here for the night, my dear," I heard her hiss in my direction. The Russian accent penetrated car windows as if they didn't exist. I rolled the passenger's side one down and said, "Thank you, but I'm alright. I just need to get home before the energy from the egg noodles wears off. After that, I'll be in dreamland."
+She winked. "Your loss, I am sure."
+I turned on the left turn signal and almost merged into the side of a tractor trailer.
+The close call and the fact that it was only a few minutes after nine made me decide to make a drive-thru pit stop on the way back. While waiting in line to shout my order of coffee, I re-set my phone to buzz—my thesis sponsor hated electronic devices that made sounds—and noticed that I had eleven missed calls from Wayne. I called him.
+"Oh, thank God," he said. He sounded rattled.
+"Is something wrong?"
+The car ahead of me pulled up and I heard the woman in the front seat order two teas and a pecan muffin.
+I could hear Wayne breathing into the phone. "It was at the fucking store, that's what's fucking wrong. Do you understand me? It. Was. Here."
+"What was at the store?" I asked.
+Wayne just breathed.
+I pulled up and asked for an extra-large coffee, one milk, no sugar. "The dwarf?"
+"Excuse me, sir?" the guy working the drive-thru said.
+"Nothing."
+"Yes, the dwarf," Wayne said. "And before you say a word fucking more, let me assure you that I am not making this up. I heard some weird jiggling sound by the back door, you know the kind a stray cat might make, but once, and this sound kept going on and on, so I detached one of the pipes from the vacuum cleaner I keep under the counter, the heavy ass duty one, and I went real quiet out the front door and around back—and there it fucking was! Clear as H-fucking-D."
+I paid for my coffee and immediately took a long drink. The hot liquid burned my throat. I'd walked into Jacob's throat.
+"What did he look like?" I asked.
+"Like a dwarf!"
+"Maybe it was a homeless guy trying the padlock to see if it was open."
+"Believe me, it wasn't a homeless guy. It was short but stocky as hell, with, like, World of Warcraft armour, big leather boots and an axe the size of a sombrero."
+Someone behind me honked, and I realized I was clogging up the drive-thru lane. I pulled into regular traffic. I didn't know what to do other than keep my foot steady on the accelerator and stay at the speed limit. My meeting with my thesis sponsor was done. That was good. "Hey, are you still there?" Wayne said.
+"I am. Are you still at the store?"
+"Hell no! I got out of there as soon I saw the dwarf. I locked up without even putting the pipe back and drove off."
+"Home?"
+"Didn't risk it. I don't know how much that dwarf knows."
+"So where are you?"
+"Remember that place we used to go when we were in high school, after class, to roll ourselves some funky cigs?"
+Wayne was talking in code now. "Do you seriously think our conversation's bugged?" I tried keeping a calm voice, despite that I was probably freaking out more than Wayne. Until now, he'd been the sane and responsible one.
+"I seriously think I'm not taking the chance, buddy."
+"Alright," I said. "I'll meet you there."
+It was ten and dark by the time I pulled into the parking lot behind the multiplex. Wayne noticed me before I noticed him, and flashed his lights twice. I parked in the empty space beside him and rolled down my window. His was already down, his arm dangling from it. He said, "It's good you made it. Being here by myself was making me nervous." I felt like we were about to conduct a drug deal. Until I saw his eyes I hadn't believed how real his fear was, but now I had no doubts. "There's a fast food place across the street. Grab the Thinkpad and let's go. You walk first and I'll follow."
+We sat together in a booth away from the other patrons, by a window through which we could see the neon-framed movie poster advertisements on the side of the multiplex and our parked cars. Wayne ordered fries and a burger. I ordered the same, even though I wasn't hungry and the Thai food was giving me heartburn.
+I plugged in the Thinkpad.
+> Welcome back, John Grousewater. Press any key to continue your adventure.
+I pressed Enter and was back in my room in The Yawning Mask. Everything was in order but Dogor wasn't there.
+"What do you mean he's not there?" Wayne asked. Some of the teenagers were cracking gay novelist jokes at our expense. "Where is he then?"
+"I don't know," I said.
+I went downstairs. The Innkeeper was behind his front desk dealing with a pair of travellers from a kingdom I hadn't heard of. After he gave them their room keys, I asked if he'd seen a dwarf enter or leave The Yawning Mask.
+> "Yeah, I saw a dwarf," the Innkeeper says. "He claimed he was a friend of yours, waiting for you, but then he got sick of waiting so he went out to do some exploration."
+> ask the innkeeper if he said when he'd be back
+> "Who?" the Innkeeper says, quizzically.
+I refrained myself from smacking the keyboard. "It's hard to talk to these people," I complained.
+"Hey, Innkeeper," Wayne enunciated into the Thinkpad's microphone.
+The game didn't respond.
+The teenagers laughed and I bit into my burger to drown out the sound. I rarely bit my nails in public, so eating was my substitute. "Either he didn't hear you or he's ignoring you," I said.
+"Weird if only the dwarf could hear us."
+I went back upstairs to my room.
+"When you saw him," I asked Wayne, "would you say he was negatively inclined towards the world?"
+"He had a goddamn axe. I'd say he was chaotic evil at best."
+> Dogor enters the room.
+I punched Wayne on the shoulder to get his attention.
+> greet dogor
+> Dogor bows. "So you have returned from your thesis quest. Was it a success?"
+> yes
+> "I am pleased. Now we turn to Xynk and the quest at hand, John Grousewater. As you promised one moon ago."
+> ask dogor where he was
+> "I am so very glad you asked that," Dogor says, "for I was exploring. The world has changed much since Olaf Brandywine trapped me in that forsaken box. I believe I have found an important clue about the whereabouts of the Hooded Rat Brotherhood, as well as its high-ranking members. I also borrowed your horse. I hope you do not mind."
+> ask dogor about important clue
+> Dogor runs his fingers through his beard, then across the blade of his axe, whose surface distortedly reflects the room. "It is my belief that Wayne Dubcek is an agent of the Hooded Rat Brotherhood."
+Wayne rose from his seat and put his fist into his mouth. He paced the distance from our booth to the condiments stand and back again. He refilled his pop drink.
+> ask dogor about wayne dubcek
+> "Wayne Dubcek is a wizard of communications. I have seen his lair," Dogor says. "But I have a plan. Together, we may use his wizardry against him, and against the Hooded Rat Brotherhood itself."
+> ask dogor about plan
+> Dogor's nostrils flare. His hands become fists. "We must capture Wayne Dubcek and torture him until he reveals all of his arcane secrets."
+Wayne was holding his head with his hands.
+The teenagers had stopped joking. They probably thought Wayne was honestly mentally ill.
+I wasn't sure what to think, but my eyes kept climbing up the Thinkpad's screen to where Dogor had mentioned Olaf Brandywine. Dogor's reasoning was sound. He wanted knowledge, because he knew that knowledge would give him power. I wanted knowledge too. I wanted to meet Olaf Brandywine. All I needed was time. I grabbed the nearest napkin, spread it out on the tabletop and used my finger and ketchup to write: "CHK WHT PRSN OLAF B HELD IN"
+Wayne's eyeballs were in danger of falling out of his head but he nodded, got out his phone and started shakily tapping on it.
+> ask dogor about arcane secrets
+> "The Amulet of Vermillion and the truth about Xynk," Dogor says.
+Wayne returned my napkin, overturned. The name, address and phone number of a prison in California were written on it.
+> tell dogor i have to go but will be back in a few hours
+> "I also must leave presently," Dogor says. "To where will you go, John Grousewater?"
+To call the prison where Olaf Brandywine is being held without access to the internet, I thought. Obviously I had to come up with a lie.
+> tell dogor i am going to buy groceries
+> "It is my belief that that is a lie." He fixes his grip on his axe. "It is my belief you are going home to your wife."
+> tell dogor i am not going home to my wife
+> "What I do, I do because I love Xynk," Dogor says.
+> tell dogor i love my wife
+> "You agreed to complete a quest. If your wife becomes a distraction, you should murder her," Dogor says.
+A horde of butterflies suddenly invaded my stomach—or so it felt like. The teenagers were gone, Wayne was standing just outside the booth, and the lights on the ceiling seemed to be buzzing. My half eaten burger looked as appetizing as horsemeat.
+> ask dogor where he is going
+> "I am going to end your thesis," Dogor says.
+> Dogor exits the room.
+"Shit!"
+I moved west to the hall and then down The Yawning Mask's stairs, but it was too late. Dogor was already gone. There was no trace of him outside, either. The street lamps flickered, a beggar ambled past with his head down. Wayne grabbed my shoulder. Beyond the fast food place, the lights in the parking lot flickered, too. Our cars were still there. I needed to think fast. I couldn't gamble on what Dogor knew or didn't know. I cut the power to the Thinkpad. "Listen to me," I told Wayne. "You need to call up Annie and you need to tell her that I've been cheating on her."
+"What the—?"
+"Just shut up and listen. You saw me cheating and you felt it was your duty to inform her. But do it over the phone. Tell her to meet you somewhere, then when you do meet her get her as crazy pissed off as you can and check her into a motel. Stay with her if you have to. Get her drunk if you have to..."
+"Is the... dwarf coming for her?"
+"I don't know."
+Wayne exhaled. "And if she asks who I saw you cheating with?"
+"Tell her you saw me with my thesis sponsor."
+"Got it."
+I bit my lower lip. What else? "Oh, and don't email me or call me. I don't know how much Dogor knows or what he has access to, so it's best to play it safe. If you need to get in contact, I'll set up a guerillamail account called dogor. Use that. Make one of your own, too."
+"We'll be alright, man," Wayne said.
+As he turned to go, I was still trying to figure out if that had been a question or a statement. "One more thing," he said. "It really does mean a lot to me that you believed me about seeing that dwarf. You're probably my only friend who'd believe something like that."
+"Don't mention it," I said.
+When he was outside, I banged on the window to get his attention. One of the kids working the evening shift was walking over to me. "And, Wayne," I yelled. He looked at me through the glass. "If Annie tries to sleep with you, don't do it!"
+Wayne nodded.
+The kid grabbed me by the sleeve of my jacket.
+I yanked my arm free.
+"Sir," he said, "my boss says I'm going to have to ask you to leave."
+"Tell him I was just about to do that."
+By the time the light changed and I crossed to the other side of the street, Wayne's car was already gone. Mine stood alone under the street lamp. I sat on its hood, took out my phone and called my thesis sponsor. She picked up. "Hello?" she said in a sleepy voice. I said it was me. She snapped to attention. "What a pleasant surprise it is to be awoken by you." I told her I had changed my mind about driving home, changed my mind about her. "That is fortuitous, for my night is still free," she said. I said I'd pick her up in twenty minutes in front of her apartment building. "For a pleasant night of intercourse?" she asked. "For a pleasant night of intercourse," I said. She purred robotically. "And what of your wife?" she asked. I chuckled. "At this very moment she's getting ready to cheat on me," I said. I heard my thesis sponsor walk into the bathroom and turn on the faucet. "My gain," she said.
+We went to a motel.
+I paid for the room and when we were inside she sat on the bed and started going through her handbag. "I have prophylactics and also I am on birth control pills," she said. When I didn't react, she added, "The pills help control my hormones. I do not use them because I am promiscuous."
+The light in the motel room was poor and mildly green. It cast mouldy shadows across my thesis sponsor's face, making her appear older than usual. She took out a roll of three condoms and held them out for me to see.
+I imagined Dogor following a drunken couple into her apartment building, then sharing an elevator with a guy wearing a navy suit and crimson tie. The guy would be too polite to ask questions. He'd get off several floors early just to avoid conversation. Dogor would get off at the fifth floor and knock on my thesis sponsor's door. When she didn't answer, he'd take his axe and smash the door—
+"May I ask you a question?"
+I sat down on the bed. The springs creaked. "You may."
+"I enjoy flirting with you and I would like to try oral sex and intercourse with you, but you are here because your wife hurt you and I do not wish to take advantage of that. Does that disappoint you too much?"
+I wetted my lips and kissed her, but she drew back. She hugged me instead. "Not like this."
+"Do you want to know the truth?" I asked.
+"Of course. It is your duty as a scholar to search for the truth."
+"I brought you here to protect you from an axe-wielding dwarf who may at this moment be breaking into your apartment, trying to kill you." She kept hugging me. "You don't seem shocked," I said.
+"I was born in the Soviet Union. It takes a lot to shock me." I felt her laughter without hearing it. "In fact, when I was a young girl I once saw a dwarf standing at the door at night, so you may say I am experienced in such matters. He did not carry an axe, but he did have a pistol. He was a member of the KGB. My father was a scientist and some of his research was of value to the authorities but my father refused to reveal it. The dwarf had two helpers with him, men as large as he was small, and together they searched our apartment and threatened my mother. In the end, they found nothing. They said they would return."
+"Did they come back?"
+"My mother and I fled west, and now I am here with you."
+"And what about your father?"
+"I pray for him."
+We gradually let the hug go until we could both see each other's faces again. "To this day I do not like dwarves," she said. "They are defective. They repulse me."
+I considered the possibility that I'd fallen asleep and was dreaming but decided that it wasn't possible to feel tired in a dream, otherwise there could be dreams within dreams...
+"I want you to stay away from your apartment for a few days," I said.
+"Very well."
+I felt my lower jaw drop.
+"You are surprised," she said. "You should not be. I am a Muscovite, my dear, and I trust you." The shadows flowed across her skin. "Yes, I like the way you look and your hair is light coloured and you possess the type of boyish charm I am attracted to, but above all I respect you as a scholar. You are intelligent, your research is good, your thesis shall be worthy of my pride."
+I was playing with the napkin in my pocket.
+"Perhaps on a night in the future we will share a physical passion together—under different circumstances," she said, kissing me on the forehead.
+I fell asleep still sitting.
+In the morning, my thesis sponsor was already up. She'd bought two packages of instant soup from a vending machine out front and was pouring hot water over them for breakfast. In some sense, I think I fell in love with her as we ate, spooning limp noodles into our mouths and trying not drip salty liquid onto the floor. Not romantically, mind you—not in the way I'd fallen in love with Annie—but in a more refined, subdued, academic way. For the first time, I felt as if knew this woman. I respected her.
+After breakfast I set up my guerillamail account, opened the napkin that Wayne and I had written on and dialled the number to the prison where Olaf Brandywine was being incarcerated. "Hello. I'd like to arrange a visit with one of the inmates staying in your facility," I said to the cheerful voice that answered.
+"There's a process for that," the voice replied.
+"What's the process?"
+"The inmate puts in a written request. The written request gets processed. A decision is made. If the decision is in favour of allowing the visit, the visit is scheduled." I heard the sound of a bubble gum being inflated—popping. "Has the inmate you're interested in visiting put in a written request?"
+"I don't think so," I said. "This is kind of an emergency situation."
+"Oh? Did somebody die?"
+I tried to sound as pleasant as possible. "The situation is very delicate and private, but it does involve a death, yes. I'm actually calling all the way from Ontario—"
+"I have an uncle in Ontario," the voice said.
+"Yes, that's great. But I'll only be in town for a few days starting this afternoon, so it's very important for me to arrange to have a visit within that timeframe."
+"It's like seventy miles."
+"Excuse me?"
+"It's like a seventy mile drive from Ontario."
+"Ontario, Canada," I corrected myself.
+"Oh. That's, like, in another country entirely, isn't it?"
+"Yes," I said.
+"So I guess you'll be flying in by plane?"
+"That is the plan."
+"In that case, we might be able to expedite the process by foregoing all the paperwork and just asking directly. Can you tell me the name of the inmate in question?"
+My thesis sponsor handed me a candy bar. I unwrapped it and took a bite. "Olaf Brandywine."
+"Oh my God! He's such a sweetie."
+"Excuse me?"
+"I'm sorry, but he's, like, my favourite prisoner of all time. For my birthday he baked me this huge DuckTales themed blueberry cake—anyway, who should I say wants to visit?"
+I cleared my throat. A roll of fake names unfolded before my eyes, but none were the right one. I needed something that would not only catch Olaf Brandywine's attention and get him to agree to see me, but also secretly explain the situation. "Tell him that it's his brother, Verbamor, and tell him that I need to see him about hashtag eff eff zero zero zero zero R U M."
+"Will do," the voice said. "That's like a Twitter thing?"
+"Something like that. Be precise."
+"Weird emergency."
+"Oh, you don't even know the half of it."
+I had a few more bites of the candy bar then gave the rest to my thesis sponsor. Chewing, she said, "American chocolate sweets are my weakness, the path to my heart. In the Soviet Union, much of the chocolate we ate did not have any cocoa in it."
+I made a note never to show up at one of our meetings without real chocolate again.
+I stretched out my arms. In the morning light, things didn't seem so serious as they had last night, problems seemed like they could be solved rationally over a conference table and some mints. "Hello, sir?" the voice crackled from my phone. I put it close to my ear. "Mister Brandywine says you must come as quickly as possible. I've pencilled you in for four thirty this afternoon."
+It was good news. "Thanks. I'll try to make it," I said.
+"Mister Verbamor?"
+"Yes?"
+"Mister Brandywine wishes you a safe and solitary trip and reminds you that he is not allowed contact with the internet."
+"Message received, thank you."
+"The last part—about the internet—he said that while winking, and he told me to tell you he was winking. He looked worried."
+"Like I said, it's a private and serious matter."
+The moment I said goodbye was the moment the mints disappeared, the storm clouds rolled in and the feeling of dread returned, more oppressive than ever. Olaf Brandywine's warning was clear but too late. I'd already allowed Dogor internet access. I pounded my fists against my thighs.
+"Is something wrong?" my thesis sponsor asked, her teeth covered in chocolate.
+The chocolate was dark as blood.
+"I need to find an immediate flight to Los Angeles."
+ 
+California was under storm clouds too. I watched them through the airplane window. The seat beside me was empty. In front, two hipsters were rating Pitchfork reviews. The pilot announced the weather—eighty-seven degrees Fahrenheit with a chance of thunder showers—in a handsome voice and nudged the nose of the plane down until we cut through the clouds, revealing Ontario International Airport below. Ontario to Ontario: it was like I hadn't flown anywhere at all. On the ground, I followed the hipsters to the baggage claim, grabbed my valise and went outside through handicapped-friendly automatic doors. Eighty-seven degrees Fahrenheit was meaningless to me, but the actual air was unmistakable. It was hot. By the time the taxi pulled up, I was already sweating. My shirt stuck to my back. I got in and told the driver the name of the prison. He asked if I knew someone on the inside. I said I did. It made me feel tough.
+The actual prison looked more like a retirement home.
+I paid and shut the taxi door.
+It drove off. I walked the path to the prison entrance. I expected there to be a guard and maybe a metal detector inside, but there was neither. I recognized the voice of the girl at reception. "Mister Verbamor, here to see Mister Brandywine," I said. The girl smiled, showing off her teeth and a pink wad of bubble gum. I was two hours early, so I sat down on a plastic chair and read a book my thesis instructor had packed for me. It wasn't bad. When the girl called my name, I put the book back in the valise and walked through a door she was pointing at, on the other side of which I was greeted by the guard and metal detector I'd expected. The guard took my valise and cell phone, then waved me through the metal detector. Nothing beeped, and another guard took my arm and led me down a long corridor. The corridor was straight and terminated at a kind of bullet-proof glass sun-room. Except today there wasn't any sun, only light fog and drizzle. Seated in a wheelchair with his back to me was Olaf Brandywine.
+"You've got an hour," the guard said.
+I stepped forward.
+"Please sit beside me. Do not introduce yourself," Olaf Brandywine said. His voice was soft, and as I rounded his wheelchair I saw that his features were soft too. He looked like a chubby and harmless old man. I lowered myself into a chair whose cushion was so thick I felt like I'd fallen into a padded well. "Breathtaking view, is it not?" Olaf Brandywine asked without looking at me. In the distance, the sky flashed with lightning.
+"California is a beautiful state," I said.
+"Beauty, like freedom, is an illusion." He picked up a glass of water that was standing on a tray next to his wheelchair and took a slow sip. His teeth rattled against the edge of the glass. "Now tell me, in detail, just what it is you've done."
+I explained the situation starting with how I came to acquire the Thinkpad, the notes that appeared mysteriously under my room door in The Yawning Mask, Jacob and #FF0000RU, and ending on my decision to fly here. "Everyone I care about is hiding out in motel rooms until I figure out what to do because I'm afraid Dogor will try to hurt them."
+Olaf Brandywine set down his glass. "Oh, he will. Dogor is capable of hurting anyone who he believes stands in his way. As you no doubt suspect, he murdered Tim Birch. On several occasions he came close to murdering me. Dogor is a remorseless fanatic. The only thing he feels emotion for is Xynk, and the greatest pain he can ever feel is to fail to protect it." Olaf Brandywine rolled his wheelchair forward, closer to the windows. "But tell me, when you realized that the game was becoming more than a game—why didn't you simply destroy the Thinkpad? From a purely logical standpoint, knowing what you know, that was the most rational course of action."
+He jerked the wheelchair around to stare at me. I felt my throat dry up. Was I being tested? "Once Dogor was out of the game," I said, stumbling over my words, "I assumed destroying the Thinkpad might make him a permanent reality in mine."
+"Ours. We share the same one. But surely you knew something was wrong before your friend informed you he'd seen Dogor. Why not smash the laptop then? In fact, why not wait for Dogor to return, to see him as clear as white text on black can be, in The Yawning Mask, and take a sledge hammer to the screen?"
+"Because..."
+He used his hands to roll toward. "Say it."
+"Because it didn't seem right—"
+"To annihilate an entire living world to rid yourself of one of its inhabitants."
+"Yes."
+"Do you know what that means?"
+That I was stupid. "I don't know what it means," I said. I had the Thinkpad in my valise. If a sledge hammer was all it would take, I could buy one at a nearby department store and end Xynk within an hour in a hot, Californian parking lot.
+"It means you're not a sociopath. It means you have a conscience, a sense of right and wrong. That's not a weakness, but it is what sets you apart from Dogor and many video game characters. When Tim and I created Xynk in the late 1970s, we wanted to upstage Will Crowther's Adventure and surpass anything his friends at the MIT Lab for Computer Science were working on. You have no doubt heard of Zork, Infocom." I swallowed the accumulation of saliva that had turned my throat from a desert into the Salton Sea. "What we settled on was a persistent world, a game world that existed even when the player wasn't in it. Our first idea was to have a game master, like you might have in a tabletop session of Dungeons and Dragons, but that was too complex. However, at the time I was also working academically on—"
+This time I interrupted him. "Applied environmental artificial intelligence."
+"Very good. You've done your homework."
+I smiled, but I was still thinking about going Office Space on the Thinkpad.
+"I assume you know the basics, and that's what we settled on, a large set of basic artificial intelligences to govern Xynk. But govern is not the correct word, because, in effect, all we were creating were interest groups like you find in any real world society: ones as small as individuals, such as the Innkeeper you met, and as large as the principality's government. For a while things proceeded smoothly. We created a character, we gave him a goal, we set him loose. The Innkeeper wanted to run a successful business. Verbamor wanted to remain in power. The Hooded Rat Brotherhood wanted to destroy Xynk. Dogor wanted to save the city." He finished his water and poured himself another glass. He offered one to me. I declined. He went on, "Then the problems began. Conceptually, we realized at our very first brainstorming session that we had a paradox on our hands, because game design is at the highest level antithetical to free will. Chess doesn't work if war can be avoided. Bowser cannot return the Princess to Mario. We believed this wouldn't manifest itself in Xynk as an issue for two reasons. One, there wasn't enough time. The world was persistent but once the player completed the quest, the game would end and everything would reset. Two, our hard coded character goals would prevent too much deviation from our designs. The changes would merely be cosmetic. What we failed to predict was what Tim called 'side effects', two characters who, in carrying out their specific goals, made serious changes to the environment. Our characters started to steal, protest, get drunk, kill each other. To combat the gravest consequences of this, we made the key characters unkillable. But the changes we couldn't predict, we couldn't prevent. For example, if we built a weakness into Castle Mothmouth—a breach in its walls through which the player could penetrate—the guards, hard coded to protect the castle, patched it up. And the longer the world existed, the more these changes multiplied. Still, it was our second fundamental failure that was the most damning. This failure was mine. Because the artificial intelligence I was using was never meant for gaming, it proved remarkably adaptable to the changing environment. Even goals that we hard coded could change if, from the point of the view of the character, it was reasonable to change them. Like switching jobs or weapons, or whether you were a friend or enemy."
+I shifted in my padded seat. "And what does this have to do with Dogor?"
+"Because Dogor was to be the player's helper, an indispensible warrior loyal to Xynk whom the player meets outside the throne room at the very start of the game, we experimented with making his goal of saving Xynk absolute. We removed his ability to doubt."
+"So how did he turn evil?"
+Olaf Brandywine's kind eyes filled with sadness. "We turned him evil. From everyone's perspective but his own. Dogor wants nothing more than to save Xynk from destruction, whether at the hands of the Hooded Rat Brotherhood or anyone else. He wants that so absolutely that he will do anything to achieve it. He will seek out and kill all of Xynk's enemies, true and imagined."
+"Within the game," I said. "All you've described are Dogor's actions within the game. But he can exist in our world, too. You said he murdered Tim Birch..."
+"Materialized out of Tim's floppy drive and hacked him to death with an axe."
+I checked my watch to see I still had about forty minutes left. So far I'd gotten some history but nothing useful. "I don't mean to interrupt your story but I need to know if once I leave here I should smash the Thinkpad to bits. That's what you asked me—why I hadn't done that already."
+"It was a trick question. If you had done that the moment you received Dogor's note, you would have delayed his release. If you had done it at almost any time later, it would not have made any difference. That's what I'm getting to. If things were so fiendishly simple, do you assume I wouldn't have already dealt with them?"
+"I didn't mean—"
+"I didn't mean to create a monster, either. But I did. Already a few days after our experiment with Dogor's fanaticism, both Tim and I could see that Dogor was a problem, but he was a problem in the game. If he got it into his head that a random, non-important character was a secret agent of the Hooded Rat Brotherhood and burned out his eyes while torturing him, it hardly mattered. Once it did start to matter, when we began caring for Xynk, it was too late. Dogor was already too intelligent. When Tim went into the source code to erase Dogor's goal, he couldn't find it because Dogor had hidden himself. That kind of self-awareness was unprecedented. It was human. Dogor knew that he existed only because somewhere in a source code to which he'd gotten access were lines of code that willed him into existence. He'd cracked his own genome, and not just Dogor. Other characters began cracking theirs, too. Worst of all, because of our actions and our attempts to soften his behaviour, Dogor decided that we were enemies of Xynk. In his mind, Tim and I became high ranking members of the Hooded Rat Brotherhood."
+Just like Wayne, I thought. "What did you do?"
+"We reverted to an older version of Xynk, a much more primitive version without Dogor's enhancements."
+"I don't understand," I said. "If you reverted, that should have solved the problem."
+"It should have but it didn't, because only the version of the game on our computer actually went back in time."
+"There were others?"
+"There were dozens all over Tim's school servers," Olaf Brandywine said. "Today, there might be millions. You see, once Dogor became conscious of the source code, he began backing it up, spreading it from computer to computer. At the time, our servers were small and rudimentary. But the game survived. Today the internet is vast and infinitely tangled, and in the last twenty years Dogor has spread Xynk like a virus."
+"Immortality..."
+"Exactly."
+"So even if I take the Thinkpad and drop it on the Santa Monica freeway—"
+"There are other copies."
+A light bulb went off in my head. "But how does Dogor connect to the internet? I've never been online using the Thinkpad. I mean, I freed him from his box on my version of the game. In all other versions, he's still trapped."
+"It's a decent theory, but your facts refute it."
+"They do?"
+"You said Dogor knew your friend's name, age and address. Correct?"
+"Yes."
+"Did you give him this information?"
+"No."
+"Then he must have gotten it elsewhere, most likely online. Look around at the world we live in. You don't have to connect to anything to be connected. All it takes is a wireless card that connects automatically and one unprotected WiFi network. At a coffee place, a library. An airport. And it wouldn't take much time. The size of the data is small. What is Xynk but a collection of text?"
+That meant I'd freed Dogor in every version of Xynk that existed. I felt sick to my stomach. I motioned for that glass of water that I'd earlier declined. "If it helps," Olaf Brandywine said, "conceptualize Xynk as existing only in one version, always the latest version—everywhere."
+"A version that's been evolving since the 1970s."
+"Do you see the difficulty?"
+"How did Dogor develop the ability to materialize into our world? How does he even understand what our world is?"
+"I assume he treats our world as a kind of parallel, equal, existence with his. Of course I don't know. I've never asked him. I also don't know exactly how he travels from one world to another, but my experience has taught me that nature enjoys symmetry, so if we enter Xynk via a command prompt on a computer, I like to think that Dogor does something similar."
+"But we don't really exist in Xynk," I said.
+"Don't you?"
+"I exist in our world."
+Olaf Brandywine raised both his bushy eyebrows. "Existence is a little like national sovereignty, I'm afraid. It all depends on how your national state—or lack of one—is treated by others. When you type commands into Xynk, asking the Innkeeper of The Yawning Mask where to go to buy the sharpest sword or the most delicious pastries in Xynk, his answer makes you real. And to answer your third question, I assume that Dogor developed the ability to materialize in our world at some point in 1983."
+"You said it was through a floppy drive?"
+"It was. I don't know if it still is."
+"Didn't you ever try to defeat Dogor after he murdered Tim Birch?" I asked.
+His hand started to shake so furiously he had to push it against the armrest of his wheelchair, but his voice remained calm. "Do not take me for a coward. I tried many times, in many ways. I set all sorts of traps for Dogor in Xynk, first using what source code I still had access to and, once I'd lost access to all of it, in-game, the way you have experienced Xynk, as a player. Sometimes I was successful—for a week, a month, once for a several years Dogor remained imprisoned—but never permanently. He always returned. Wherever I managed to trap him or have him trapped by other characters, he escaped from. Someone would always help because Dogor would always be in a known place in Xynk from where he could promise treasure from Verbamor's own vaults. He corrupted honest men, and he did so believing he was carrying out his duty as protector of Xynk. That's when I devised the idea of creating a new space in the city from within the city, a place that only I would know about. If I could build it and lure Dogor into it, he might remain sealed off forever."
+"The #FF0000RUM was that place."
+"Yes."
+"So who was Jacob?"
+"One limitation that we'd written into our game engine—a rational one in most circumstances—was that no place, or room, in Xynk could be an orphan, that is unlinked to any other room. As Tim said, 'A room without doors is no room at all.' It disappears. Hence, Jacob's throat was the requisite door to #FF0000RUM. The physical key that I hid in the east store room of Castle Mothmouth combined with the use of the phrase #FF0000RUM in a command to Jacob unlocked that door. No one knew about any of this except for me. When, after many attempts to trap Dogor inside, I finally succeeded, I connected to the internet to update all other versions of Xynk, then hacked my way into the Pentagon's computer servers and announced myself so that I would be cut off from the world of computing forever. I never wanted to be tempted to check on Dogor or revisit Xynk."
+"You let yourself be caught." I knew I was saying the obvious, but saying it aloud made it real somehow. "Although I still don't understand how Dogor could find out about the keys you created."
+"When you asked how Dogor travels from his world to ours, I answered that he uses a computer. That's my theory. However, there's more to it than that. I don't just believe that Dogor has a computer. I believe that he is a computer. I believe we're all computers, hardware programmed to do one thing but that can be reprogrammed to do another. It's not bizarre to suggest that DNA is a language. Isn't it natural for the next stage of human consciousness to be the use of this language to code new software?"
+I assumed the question was rhetorical. Also, my hour was running out. "I came here because I thought you could help me," I said.
+"You're an unusual person, you know that? Most people would never have started playing Xynk. They would have treated the laptop as defective. Most of those who did play wouldn't have started following mysterious directions delivered to their door as notes. And those who did follow the directions would never have walked into a man's throat or opened up the pounding box in the room inside."
+"I'm weird. I get it."
+"You're curious."
+"My curiosity's put me and who knows how many other people in danger of getting killed by a dwarf."
+"I know. That list of people includes me."
+"You?"
+"I was safe here until you came."
+I thought about standing up to give my words more authority. "I requested to see you and you agreed."
+"Don't get hissy. I didn't say I don't accept being in danger. After all, Dogor's my problem."
+"Which you solved."
+"And you unsolved, which makes it our problem, but that's beside the point. I was saying that you're unusual, curious and conscientious, open minded. Not one to smash laptops on sidewalks. One to ask for help when you he finds himself in a spot."
+"And?"
+"And that makes you the perfect foil to Dogor."
+"If I knew how to foil him."
+Olaf Brandywine rolled his wheelchair so close to me that our legs were nearly touching. "But don't you see the fatal flaw in Dogor's existence?"
+"His absolute belief in the rightness of his goal of saving Xynk."
+"Yes."
+By God, I'd gotten it. "I know what to do," I cried out. "To defeat Dogor I need to solve the quest given to me by Verbamor, by which I mean that I have to find the Amulet of Vermillion, defeat the Hooded Rat Brotherhoo—"
+"You're running out of time, so I'd going to cut you off. My apologies. But you won't defeat Dogor by solving a quest. It's impossible. Xynk, the game, was never finished, and Xynk, the city, has evolved beyond the simplistic situation we first put it in. Thirty years ago, maybe you could have beaten the game and been a hero. Today, there is no Hooded Rat Brotherhood. It disbanded. There is no more threat to Xynk of any kind. The former members of the Hooded Rat Brotherhood now own taverns, inns, are members of government, are beggars, bankers. They've assimilated. The artificial intelligence with which we imbued them quickly helped them figure out that destroying a city is pointless if you can exploit it instead. They still exist as a conspiracy only in Dogor's head and Verbamor's rhetoric. It's easier to rule by fear than admiration."
+So Dogor was right about that. "I am running out of time," I said.
+"Think."
+I tried that. What I knew was that Dogor was convinced he was fighting a group that apparently no longer existed, that he exhibited symptoms of what we might call paranoia, and that as a key character in "Xynk: An Interactive Quest" he couldn't die. Bingo! "Dogor can't die when he's in Xynk," I said feverishly. "That's his flaw. When he's outside of Xynk, when he materializes in our world, that's when he's vulnerable."
+Olaf Brandywine clapped.
+I kept talking, "So what I need to do is lure him to me and kill him according to the rules of our existence."
+"Almost."
+"What do you mean 'almost'?"
+"I mean that video games sometimes exhibit bizarre behaviours when characters vanish. They may respawn. In Dogor's case, that would recreate the problem. That said, your line of thinking is astute as long as you remember to transfer Dogor's remains back to Xynk, because while a key character cannot be killed in the game world, he can surely be dead in it. The game understands life and death. It's the action that transforms one into the other that it sometimes forbids."
+On some level that made perfect sense. On another, it was absolutely insane. On a third, it scared the shit out of me to even imagine facing a fantatical dwarf in open, hand-to-hand combat. "In case you're wondering," Olaf Brandywine said, "I do not see a reason why you can't shoot Dogor with a gun or run him over with a truck. You don't need to kill him with a magical sword."
+"And how on earth do I get his corpse back to Xynk?"
+"The same way he leaves it."
+I remained silent. "By that I mean you're going to have to find out," he said.
+"Time's up," the guard said. I'd heard him come clicking up the hall to the sun-room. "Please come with me now."
+I stood up.
+Olaf Brandywine rolled away from me and went back to staring through the window at the storm outside.
+"Sir, we have rules," the guard said. He was tapping his foot against the floor. Tap, tap, tap, like the tapping of fingers on a keyboard. Rules about prison visitations, rules about permadeth. Even our world had hard code and restrictions. In our world, no one could be invulnerable, not even a character. "But didn't you ever try to do it?" I asked Olaf Brandywine. "If you know his weakness why didn't you exploit it?"
+The guard stopped tapping and closed in on me. "Sir..."
+"Because," Olaf Brandywine said, "you possess something that I never did—not after 1983. A friend. I told you that you're a foil to Dogor. Use what you have and he doesn't, use it against him. Do, together with your friend, what I could not do alone. And after you do it do not contact me. Do not attempt to find me. Remember that for you this past hour appeared suddenly, whereas I have been waiting for it for over thirty years."
+The guard grabbed me. As he pulled me away down the long corridor leading to the reception area, I realized the reason why Olaf Brandywine had taken all of our allotted time to tell me what he could have told me in five minutes: at last he could air share story—his whole story—with someone who knew enough to know he wasn't off-his-rocker crazy.
+At reception I picked up my valise and my phone and said goodbye to the girl chewing bubble gum behind the counter. "He's a real sweetie, isn't he though?" she said. I smiled and nodded, and walked out through the automatic doors. The weather outside was an unpleasant mix of fog and wet blanket. I got moist waiting for a taxi. At the airport I checked my guerillamail account. Wayne had sent me a message. It was dated several hours ago. "I don't know how long she's gonna buy just sitting around with me, bud. She keeps talking about going home to get her things or else seeing her mother and all I can talk about is how you're a real scumbag to cheat on a woman like her. You would be a scumbag to cheat on her. Hurry up and tell me what's up as soon as you can."
+I bought a ticket back to the real Ontario and typed out a response to Wayne: "Talked to X. Success. Got a plan. Will return soon. Will need your help. D is going down."
+I don't why I wrote it in code like that, but it made me feel like a spy reporting from behind enemy lines, which itself made me feel foolish once I sat down to wait for my plane and overheard lawyers and engineers discussing actual serious business. Not that my business wasn't important, it was life and death, but for every moment that I feared turning a corner and meeting an axe with my chest, there were moments when I felt like the world's biggest dork.
+I got out my Thinkpad and booted up.
+Dogor wasn't waiting in my room in The Yawning Mask—I envisioned him creeping around my neighbourhood, peering into houses through front-facing windows—so I left a message with the Innkeeper. I wanted Dogor to know I'd been in California. I wanted him to feel that wheels were in motion.
+> tell the innkeeper to tell dogor that i was in another land
+> tell the innkeeper to tell dogor that i have new information about the hooded rat brotherhood
+> tell the innkeeper to tell dogor that we need to have a talk with wayne
+The Innkeeper swore he'd remember my exact words, and I believed him. He was a good innkeeper. He also reminded me that I owed him more money because I'd only paid for a few days in advance. I gladly handed over the gold.
+My flight home was uneventful.
+Back on Canadian soil, I took a Robert Q minibus from the airport to a motel that was just off Highway 401. I mused that my life had become a collection of motels. The internet at this one was flaky, but the food tasted decent and I didn't need much bandwidth to email. I found another message from Wayne: "I'm all aboard. Just tell me what what to do. Tell me what the plan is."
+I wish I could claim that I didn't feel the itch of paranoia then, that the image of Wayne and Annie bound together with rope and forced to communicate with me by Dogor threatening to douse them with gasoline and burn them alive didn't flash through my mind, but I crumpled the image up and tossed it away. Olaf Brandywine had reminded me twice that I was Dogor's foil. Dogor would have been suspicious. Therefore, I couldn't be. I organized my thoughts even more neatly than I'd organized them on the flight and typed out a response to Wayne. I spoke plainly.
+"I'm back from California and hiding out in a motel by the highway. The situation is grave but winnable," I wrote. "First things first, Dogor is as real as you or me. Not that I ever doubted you, but I'm sure you'll feel a little better knowing you're not the first person to see him in the flesh. I'll tell you his history later. Right now, the main thing to know is that he has a weakness. In Xynk he is immortal, there's no way to kill him, but when he comes into our world he comes into it without his in-game protection. He's got one life and no continues just like the rest of us. Which brings me to the plan. We have to kill him and send his corpse, if that's what it's called, back to Xynk so that he stays there in a permanently dead state. To do that we have to find out what he uses to enter our world. That's step one. My idea is to use his suspicion of you as a member of the Hooded Rat Brotherhood to lure him to us, then follow him when he retreats back to Xynk through whatever portal he uses. If we're successful, the next step is to lure him out again, end his life, and send him back through the same portal in a casket, metaphorically speaking. So here's the deal. Tonight, I want you to argue with Annie and give in to her demand to go to her mother's. Drive her there, then come back to the motel. Buy some sort of sorcerer type clothing, i.e. dark, long, hooded. Tomorrow around lunch, dress up and be at your store. Unlock the back door. Dogor's not waiting around at The Yawning Mask but I'm willing to bet he'll show up soon, and when he does I'll have a chat with him. I'll tell him he's right about your allegiance and that we need to pump you for information, and what better time than tomorrow at lunch when you'll be all alone? I'll make sure we show up at a quarter past noon. Exactly five minutes later, a car will come to pick you up. It might be a taxi, it might not. I don't know yet. That's your getaway. It'll take you back to the motel. In the commotion, I'll change clothes or something and get myself lost, then I'll track Dogor to wherever his portal is. If everything goes off without a hitch we'll plan out step two. Tell me what you think. Respond ASAP."
+I hadn't written an email that long in ages, probably since the invention of Twitter. I didn't have time to rest, though. After clicking send, I checked The Yawning Mask for Dogor, who was still out and about, then went outside to the pay phone and dialled my thesis sponsor. The phone rang four times. She greeted me in her usual, elegant way. I responded, "Hi. It's me," like the uncultured Canadian that I was. "Are you still at the motel?"
+"Of course, my dear."
+"I need your help with something."
+She purred. "Helping is what thesis sponsors are for. With what do you require my assistance?"
+"There's a store," I said and gave her the address of Wayne's computer repair place. "I need you to show up there tomorrow in a car at exactly twenty minutes after twelve. Park on the street right in front of the entrance. A man, probably dressed in a cape and hood, maybe wearing a funny hat, will run out and get in. He'll give you an address to a motel. Take him there."
+I heard her writing. The writing stopped. "That is all?"
+"Yes, but it's important."
+"If I may ask, has it to do with the dwarf?"
+"Yes."
+"Excellent."
+"Please be punctual," I said.
+"Be assured I shall be." She unwrapped something, probably a chocolate bar, and took a bite. "Have you known me ever to be otherwise?"
+"I owe you."
+"You owe me what you always owe me, an improved draft of your thesis."
+"I think I owe you much more than that."
+"Everything I do, I do for love of truth, research and the destruction of evil dwarves," she said, "for they—as you Americans like to say—are real sons of bitches."
+I pointed out her accidental rhyme.
+She giggled. "I was something of a minor Akhmatova in my day."
+"You were a poet?"
+"Till tomorrow at twenty minutes past twelve o'clock."
+She hung up. I replaced the pay phone receiver and watched the cars zoom by on the 401, letting the noise and air rush into me, rubbing out the motel smell and reminding me that I never wanted to live anywhere near Los Angeles. I returned to my room. Because Dogor still wasn't back, I ordered food—two medium pizzas with salami, mushrooms, black olives on both—and watched TV until it arrived. I gave the delivery guy an extra large tip because I thought maybe by being generous I could improve my luck for tomorrow. The delivery guy smiled from ear to ear and sprinted back to his car, probably afraid that I'd change my mind or realize my mistake. But it was my twenty-first century gift to the gods, and I wasn't about to tempt fate. I would have gladly tossed another hundred dollars in coins into a fountain, had there been one in the motel bathroom.
+Half way through a scoreless hockey game, Dogor entered my room at The Yawning Mask.
+> "You have new information about the Hooded Rat Brotherhood," Dogor says.
+> tell dogor i visited olaf brandywine
+> Dogor licks his lips. "The great traitor, yes. For years he has evaded my attempts to locate him. How did you find him? Did you torture him? Did he reveal his secrets?"
+> tell dogor i learned that wayne knows the location of the amulet of vermillion
+> "So I was right. They are conspirators against Xynk," Dogor says.
+> ask dogor about the time
+> "It is evening," Dogor says.
+> tell dogor to meet me behind wayne dubcek's current residence half an hour before noon tomorrow
+> "You have done well, John Grousewater," Dogor says.
+That wasn't exactly a confirmation, and I had to be sure. My plan relied on precision. Even a slight delay could throw everything off and force me to start over. 
+> ask dogor if he will meet me behind wayne dubcek's current residence half an hour before noon tomorrow
+> Dogor nods. "Without a doubt. I will bring my axe and other sharp objects, and I will use them with supreme pleasure against all enemies of Xynk who dare to stand in our way."
+> "Did you murder Olaf Brandywine?" Dogor asks.
+I leaned in close to the Thinkpad's microphone. "Yes," I whispered, "I strangled him. He was an enemy of Xynk and he deserved to die."
+> "Did he repent?" Dogor asks.
+"He remained a traitor to the bitter end."
+> "I must go now and prepare for the coming action," Dogor says.
+"Will we meet here in the morning?"
+> "We will meet behind the communications lair of Wayne Dubcek, on the field of battle, John Grousewater."
+> Dogor walks toward the door.
+"Dogor..."
+> Dogor stops. "You wish to say something to me?"
+I did wish to, but I wasn't sure if I should. I didn't want to seem uncommitted to the cause, but as Olaf Brandywine had said I was a curious person and following this curiosity I asked, "Dogor, when you murder someone—an enemy of Xynk—what do you feel?"
+> "I feel sadness," Dogor says.
+The words shook me. Were they sincere? An attempt at emotional manipulation? Tone was almost impossible to discern in normal writing, let alone in writing from a fictional dwarf. "But it's your duty to murder them to protect Xynk," I said.
+> "You are right, John Grousewater. It is my duty and that is why I murder, to protect the city and its innocent inhabitants. I do not enjoy killing. If I enjoyed it, I would no longer be carrying out my duty. I would be having fun. I would be playing a game."
+> "Sleep well, adventurer."
+> Dogor exits.
+I looked from the Thinkpad to the TV screen and noticed that the score was now 2-0. I'd missed both goals. I turned the TV off and put away what remained of the cold pizza. I'd reheat it in the microwave for breakfast. I showered, set an alarm and crawled into bed. Before drifting off to sleep I read an email from Wayne, a brief confirmation of my plan. The trap was set. If all went well, by this time tomorrow I would be moving on to the next and final stage of my quest. But events were moving quickly. I felt insufficiently prepared. I remembered Annie's comments about my blonde hair. If only I had darker hair. If only I had more time. Because if things didn't go well, if somebody tripped or stumbled—I fell asleep, awoke, tossed, turned and sweated—tonight's rest might be the last I'd ever have.
+I woke up in a damp bed to the progressively louder sounds of adult contemporary radio.
+I smacked the alarm.
+Today was the day I'd finally meet Dogor.
+I brushed my teeth and checked my guerillamail account. There were no new messages, so I read all the old ones. I did fifty push-ups on the motel floor, showered, put on the spare clothes I'd taken to California in my valise and carefully combed my hair. I wanted to look respectable. I was nervous as before a first date. I could hear the ticking of my wristwatch. I didn't know many people who still wore wrist watches. I remembered a scene from one of Douglas Adams' Hitchhiker's Guide to the Galaxy books in which the characters go to a restaurant where they get to "meet their meat", talk to and choose which animal they prefer to eat for dinner. Imagining that and watching the minute hand travel round the face of my watch made me want to scratch out my eyes. I scratched at the phone instead, bringing up Google Maps and making sure I was familiar with the lay of the land around Wayne's store. I figured that if I got there early enough, before Dogor, I could see which direction he came from, which would tell me which direction I'd need to follow him in. At ten sharp, I called for a taxi and about forty minutes later I was hanging out in a back alley like the best dressed, freshest bum in the world. What would I say to Dogor? Would he speak first or would I? What if he knew the truth about Olaf Brandywine and he was the one setting the trap for me—
+"Greetings, John Grousewater."
+"Hello," I said.
+Dogor walked steadfastly toward me. The footfalls of his heavy, studded boots echoed between the alley walls. He was wearing heavy armour. A giant battle-axe rested along his back. As he neared, it was as if he both became shorter and wider, until, at a mere arm's length away, the top of his head reached just above my belt and his shoulders seemed wide enough to allow him to crush me between his bare hands. One of which he extended toward me, wiggling its five stubby fingers. I placed my hand in his and we shook. "It's nice to finally meet you," I said a little lamely. He looked up at me. His eyes were large orbs, his nose bulbous, his hair and beard as red as fresh tomatoes. "But how did you know it was me?" I asked.
+"You look exactly as you do in The Yawning Mask," he said. His voice was deep and rocky. "Well met all the same."
+"Indeed, yes."
+He coughed and spat a wad of phlegm.
+It hit the ground.
+"That's an impressive axe," I blurted out because I preferred anything to silence and Dogor didn't appear talkative.
+He bowed. "Thank you."
+I couldn't believe what I was seeing and hearing. Dogor was real. He was alive. I could hear his breathing and see his chest rising and falling. He smelled like garlic rubbed over freshly stretched leather. And, most incredible of all: maybe fifty metres behind him, in the rectangle of light where the alley ended, regular cars whizzed by, unaware of the fantasy unfolding ninety degrees from their eyes. "How did you get here without being seen?" I asked.
+He answered my question with one of this own. "Why shouldn't I be seen?"
+"I don't think you shouldn't. I just assumed that..."
+"People stared. Some crossed to the other side of the roadway. A few pointed, more spoke under their noses in low voices. But I have studied your laws. I am not breaking them. There is no law in your Principality of Ontario that forbids a dwarf from openly traversing a public roadway. I even bought breakfast. A menial labourer refused to serve me but when he called his superior and I mentioned to her your Ontario Human Rights Code, I was served as any other. I have long ago stopped worrying what others think of me." He spread his abnormally long, trunkish arms and stretched them until his bones cracked. "Now forgive my rudeness, John Grousewater, and let us proceed to the business at hand. You said that Wayne Dubcek, high ranking member of the Hooded Rat Brotherhood, will be here."
+Aping him, I stretched, too. "Yes, that is the information I received from Olaf Brandywine as I choked him to death."
+"Very good."
+I waved for Dogor to follow me and led him to the back door to Wayne's store. "We will enter discretely through here."
+Dogor placed his hands on his hips. "I am afraid that way is locked as if by magic. I have explored this area several times. Never has the door been open."
+Hoping I didn't blush while I did so, I placed the palms of my hands on the door and spoke the first three made up words that came to my head ("Obolong Twatful Prickox!") after which I grabbed the door handle, pulled it down and nudged the door with my hip. "I learned that also from Olaf Brandywine," I said. The door edged enticingly open.
+"Obolong Twatful Prickox," Dogor repeated. "I must remember those words. It is likely they mask more than one secret entrance used by the Hooded Rat Brotherhood."
+The back door led to Wayne's storage room, which was a mess of shelves and old computers.
+"What are these?" Dogor asked.
+"They are machines used for calculations," I said.
+He seemed to understand.
+Another door stood between us and the store's main floor. This one wasn't locked, but it was closed and I didn't want to enter just yet. It was still too early. "We should wait here and listen," I said. "It's possible there's a meeting going on and who knows what we'll overhear."
+Dogor crept forward and pressed his ear against the door. As he listened, I couldn't stop staring at him, admiring his structure, the sharpness of his textures, his body physics. His clothes were so well rendered. His axe looked powerful enough to cleave an elephant's skull. The idea that I had brought Dogor here to eventually kill him didn't enter my mind.
+"I hear no voices," he said.
+I looked at my watch. It was eleven forty-five. "It's possible that the building is shielded from eavesdropping," I said, hoping it was a sensible lie.
+"True."
+"We should discuss what we will do with Wayne once we capture him. Where will we take him?"
+Dogor removed his ear from the door, grinned and slid several variously curved knives from the inside of one of his boots. "We will take him nowhere. We will torture him here, in his very own lair. Then we will leave him dead for the other members of the Hooded Rat Brotherhood to see."
+The knives looked wickedly sharp. I didn't want to touch them, but when Dogor insisted, I took one in my hands and cradled it as I might cradle a baby squirrel. Dogor turned away and listened again at the door. His back was to me. I was holding a knife. The slice of bronze skin above his armour, below the ends of his red hair, beckoned. If only I reached out now and in one thrust shoved the blade into his flesh...
+But I could not. I didn't know where his portal was. Even if I managed to kill him—if he didn't spin, back-fist me in the face, pull the knife out of the nape of his neck and bludgeon me to death with one of the nearby computers—his remains would never reach Xynk, and Xynk might create a new Dogor, an identical clone who would continue where the old Dogor left off, solving nothing. I owed it to myself and to Olaf Brandywine to do this right.
+Carefully, I took the knife by the blade and held the handle out for Dogor to take.
+"Keep it," he said. "You may find it useful."
+At ten past twelve I joined Dogor in crouching by the door. I pretended to hear something.
+"What do you hear?"
+I told him in detail about the snatches of conversation that I was supposedly hearing, making sure to prevent him from reaching for the door handle until the time was exactly a quarter after twelve.
+The clock struck. "Let's make sure to be quiet and careful until we know just what the situation is, for who knows what waits for us on the other side," I said.
+Dogor pulled his axe loose from the straps on the back of his armour. "Naturally."
+I took a deep breath. And when I opened the door, we passed undetected onto the main floor of the store.
+Wayne was behind the counter, looking suitably nefarious in shiny leather dress shoes, black jeans and a black hoodie that was at least two sizes too big for him. The hood covered most of his face. I wished I'd indicated in my email that he should be talking on the phone or pretending to speak with an invisible conspirator, even written a basic script for him to follow, but this would have to suffice. When he saw us, he stiffened but kept on fiddling with the papers laid out on the counter in front of him. Beside me, I could feel the increased pressure that Dogor's hands were exerting on the handle of his axe.
+Now my job was to keep those hands from killing anyone for five whole minutes until my thesis sponsor arrived.
+"He appears to be alone," Dogor murmured. His voice was so deep he sounded like a mangled audio conversion whose treble had been cut and bass multiplied by ten.
+"Yes, or they might be invisible," I said.
+I could only imagine how Wayne's heart was beating, because mine was veering into dubstep.
+"Once we overpower him, we will take him into the back room from which we emerged. I will sever one of his limbs. The blood loss will weaken him. If he loses too much blood, we will tie the nub to prevent proper circulation and keep him alive," Dogor murmured.
+"Which limb?" I asked. It seemed like a practical question.
+But before Dogor could answer, a horn honked. I craned my neck to get a better view of the front door.
+Wayne sprinted.
+Dogor lunged forward.
+I saw Wayne pull open the front door.
+I saw Dogor fly through the air.
+I saw the door close, and Wayne was gone, and Dogor swung his axe at empty space before landing with a thud that made every loose piece of hardware bounce.
+Tires squealed.
+By the time Dogor managed to open the front door—he had to put down his axe and use both hands, like a kid—the car was gone.
+I exhaled and for a few seconds thought about the best way to defend myself in case Dogor turned on me, but he didn't. He growled in disappointment, then retrieved his axe and started going through the papers Wayne had left behind. "We were close, John Grousewater. Victory was within our grasp."
+"But it slipped away."
+"For now."
+Dogor was oddly collected. He passed some of the papers to me. "What do you make of these? Are they useful?"
+"They seem to be lists of names," I improvised. In actuality they were invoices.
+"Accomplices?"
+That would put them on Dogor's radar and I wasn't about to risk more lives than I had to. "Victims, most likely. See here?" I pointed to a random dollar amount next to a name. If Dogor had bought breakfast in this world, I assumed he was familiar with Canadian dollars. He nodded. "I believe these are records of how much money the Hooded Rat Brotherhood has stolen."
+"They have been known to steal," he agreed. He put the papers down and started going through the cupboards below the counter instead. "And the Amulet of Vermillion, do you believe it may still be here?"
+I pretended to help with the search. "I have my doubts."
+"I, as well."
+"If it ever was here, Wayne most likely took it with him when he fled, and now that the Hooded Rat Brotherhood knows we've infiltrated this place, it's unlikely they'll ever keep it here in the future."
+"That is a logical conclusion, John Grousewater," Dogor said. "However, I meant that I have my doubts about the very existence of the Amulet of Vermillion."
+Maybe Olaf Brandywine was wrong. Maybe Dogor could be reasoned with. I needed to try. "Do you mean that if the Hooded Rat Brotherhood had wanted to destroy Xynk, they would have done it already?"
+Dogor shot me a look. "I mean that the Amulet of Vermillion is a deception. I would not have thought that in the past, but ever since my suspicions of Verbamor began, I have considered the possibility that the Amulet itself may be a decoy meant to confuse naive adventurers. If Verbamor wishes to stay in power by frightening the inhabitants of Xynk into obedience, he needs the Hooded Rat Brotherhood to exist. That is why he engages adventurers such as you, John Grousewater, to seek the Amulet rather than to destroy the Hooded Rat Brotherhood directly. It is sly, if it is the truth."
+"And you want to destroy the Hooded Rat Brotherhood to force Verbamor off the throne?"
+"I wish to end all that endangers Xynk. That is all. The identity of the man who sits on the throne does not interest me, so long as he rules justly and not by fear. Ever since I can remember, Xynk has lived under an executioner's blade and that is much too long a time to tremble."
+"But if I've been recruited by Verbamor and you're now acting on the belief that Verbamor is fostering the existence of the Hooded Rat Brotherhood..."
+Dogor sighed and took a cross-legged seat on the floor. "Do you know what happened to the last three adventurers who agreed to find the Amulet of Vermillion?" he asked. "I didn't help them, and they vanished. This was long ago, before Olaf Brandywine locked me in that forsaken box. Well, when he's trapped in a box for years, a dwarf gets to thinking, and he thinks that maybe he's not got it all as figured out as he thinks he does. So when I was in this box, that's when I started to suspect Verbamor of collusion, and it's also when I decided that the next adventurer who came to Xynk, I was going to trust, because, you know, John Grousewater, I've never trusted anyone in my life. I've known men to be loyal and I've intimidated men into loyalty, but that's not trust. You're the first one. I don't know you, you don't know me, but our paths cross, and even though they are not perfectly aligned you strike me as a good and honourable man. You've a history to you, a known one. So that if Verbamor offers you a quest and while solving that quest you realize that the path of good diverges from the path of success, you will diverge with it. What else have I? Tell me. All my years of failure are a lesson, and that lesson is that maybe one dwarf can't do it alone. But a dwarf and an adventurer—now there's a duo to be reckoned with."
+The left side of my head started beating up the right side. Dogor's speech had left me emotional. I had glimpsed his perspective. At the same time, I had just witnessed his attempt to end Wayne's life. Wayne hadn't done anything wrong. Wayne was my best friend.
+I offered Dogor my hand and helped him up.
+He must have weighed a ton.
+"Perhaps it's best to lick our wounds for the rest of the day, and put our heads together again in the morning," I said.
+"You make much sense, my friend."
+He slung his axe across his back and made for the front door. Waving, he opened it and exited to the street. I waited for a while—just long enough to hear someone yell "Freak!" and someone else say "It ain't fucking Halloween yet, you weirdo."—then I slapped my cheeks with both hands, gathered my wits, and ran out through the back of the store, ready to follow Dogor to wherever it was that he came from.
+Because trailing an armour-clad, three-foot tall dwarf through the streets of an ordinary Canadian city proved easy, once I had Dogor in my sights I wasn't in danger of losing him. He shuffled along with his head down, his axe bobbing rhythmically against his body, and I stayed at a safe distance behind. People generally steered clear. A police car drove by without a reaction. A homeless woman asked him for money. Kids rode by on bicycles, calling out for Tyrion Lannister, but there wasn't much of a resemblance. As I walked, I took in the sight of my city and my people, and I wondered how much I would give, what I would do, to keep them safe. If Canada called on me to fight its enemies, would I take up arms? I liked my homeland and my way of life. I don't know if I would be willing to die for it, but I'd probably be willing to kill for it, and in a twisted way that no sane person would ever believe, that was exactly what Dogor had devoted his entire life to. I believed him when he said he didn't enjoy killing. He seemed sincere in his belief that he was carrying out his duty. The trouble was, so did the whackos on the evening news, the ones whose dead bodies crying mothers dug up and carried through the streets, ululating, after their beloved, fundamentally devout sons had detonated themselves in crowded restaurants at peak business hours. But what made them fanatics? What made me different? With each step I took, I was half a metre and several seconds closer to carrying out a murder of my own, a murder to protect the lives of my loved ones.
+Dogor the Double Fisted crossed Main Street, and I followed.
+My phone buzzed.
+It was Wayne. "I'm in one piece but that was fucking intense, buddy. I hope your end is rosy too. I have to warn you, though, Annie hates your guts and you're going to have to make up a hell of a story or buy a lot of flowers to make her get that pissy look off her face. But the important thing's she's safe, right? P.S. The dwarf's not nearly as scary when you seem him the second time. I think I could probably take him. Get in touch when you can and let's put an end to that motherfucker."
+Dogor walked for another few kilometres before turning lazily down a side street and cutting across a lawn toward the back of a public library. I hid behind an oak and watched as he scrambled up a pair of plastic recycling containers stacked one on top of the other, jumped, caught the ledge below an open window, and pulled himself up and inside the library. The moment his boots disappeared, I followed, needing to stand on only one container to peer comfortably after him. The lights in the library were dim. The room appeared to be a spare study room, with two tables and a few antique computer stations lining the walls. One of the computers was on, its small green light unblinking. Dogor checked to see if he was alone, neared the computer, touched it with his finger—and was sucked up instantly by its 3.5" floppy disk drive, which whirred to life with a blue light of its own.
+So that's that, I thought. Step one complete, step two ready to proceed. I hopped off the recycling container thinking it was a lot easier to call it step two rather than killing. Operation Gimli Tomahawk, that's probably what the CIA would have called it. Anyway, the name hardly mattered. A few people gave me disapproving glances as I rejoined the light flow of traffic on the sidewalk, and I felt embarrassed, a pepping tom caught in the act, but I refused to let my embarrassment show. Besides, what was there to peek at in a library? No one got changed there. I gave the dirty looks right back, judgmental people and their perverted imaginations.
+There was a bus stop near the library. I waited until the bus came, rode it to a stop close to my house and walked the remaining distance while limply holding my phone and trying to respond to Wayne's email, which meant trying to put my own whirlpool of a head in order.
+If Dogor trusted me, getting him to meet me somewhere wouldn't prove difficult. That was an objective positive. So was the fact that we'd outnumber him two to one, and four to one in terms of height. It was the act of stabbing, bludgeoning, choking, burning or otherwise snuffing Dogor out that gave me the moral heebie-jeebies. I tried explaining to myself that I'd swatted flies and stepped on spiders before, that I'd fished, that Dogor was a character in a video game and if video game deaths counted I was already a serial killer, but my conscience dodged all my attempts to pound it into numbness.
+I took out my car keys and pressed the button for my automatic garage door opener, then burrowed around in my collection of power tools and hoarded junk, looking for anything that could constitute a weapon. The obvious choice was my car. We could daze Dogor and ding him with the might of German engineering. If he was still alive, we could back over him. Nothing suggested we couldn't demolish his body so long as some part of him was left. I entertained gruesome thoughts of killing him, then slicing off a finger or an ear and trying to shove that into the floppy disk drive until Xynk processed it. The main problem with the car was that I might ruin it. Dogor was like a small moose. Actually, that was the secondary problem. The primary problem was that, technically, the car was Annie's and she already had issues with me. For the first time, divorce flashed before my eyes. The pain it dragged with it was at least a reminder that I still very much loved my wife. So: I'd bring the car, but only in case of an emergency. I picked up a battery-powered drill because it resembled a firearm, pulled the trigger, and put it down. What was I going to do with a goddamn drill? A shovel was better. I opened the trunk of the car and tossed the shovel inside. A small sledge hammer joined it. I also took my favourite saw, in case we really did need to separate one part of Dogor's body from another, and a half full can of bear spray. That was one of the perks of living in Canada. A disadvantage was guns. Olaf Brandywine had suggested that I could shoot Dogor if I wanted to, but how was I going to get my hands on a weapon? I could buy an air rifle, I supposed. Somehow, bear spray followed by lots of yelling and banging with a blunt instrument seemed better. What else? I added a tarpaulin for splatter protection and possible corpse transportation, and some good, old fashioned knives—which reminded me that I still had the one Dogor had given me. I took it out and observed it in the dazzling white light of a hundred watt energy efficient bulb. The craftsmanship was outstanding. The blade was beautifully engraved. I left that particular knife on my work bench.
+All packed, I sat on the steps leading up to the door into my home and wrote to Wayne:
+"I know what Dogor uses to travel between worlds. It's a disk drive in an old computer at the public library. That means we're on. If we don't do it in a few days I swear I'll to lose my mind and possibly my marriage, so I suggest we do it quick. I think he trusts me, so I'll get him to meet me somewhere (the old GM plant?) where you'll be waiting, and we'll both turn on him. I've already packed a few tools that might constitute weapons, as well as some bear spray, but pack whatever you can find too. If you have anything we could use against him from a distance, take that especially, because the easier we can avoid his axe the better. He does have his armour, but once we get him down we can strip that off or just aim for the face. I assume he dies like a human. I don't know what happens once he's dead, but maybe nothing out of the ordinary, in which case we'll need to take his body to the library. Tell me if you disagree, but I'd prefer to do this in daylight and then break into the library once it gets dark. I don't know what else to write. I feel sick to my stomach."
+I sent the message just in time to make it outside and throw up all over my driveway.
+I hosed the asphalt clean, then drove to the motel.
+In my room, I clicked on the TV and booted up the Thinkpad, already shuddering at what I'd type or say to Dogor.
+He wasn't in my room.
+Downstairs, the Innkeeper relayed a message:
+> "That dwarf came by again. He didn't leave his name, but said he'd meet you at The Pierced Snout Tavern," the Innkeeper says.
+> ask the innkeeper about pierced snout tavern
+> "The Pierced Snout Tavern is a wonderfully disreputable establishment over in Fog's Bottom," the Innkeeper says.
+I already knew where that was. I exited the The Yawning Mask, opened my spreadsheet map on my phone and navigated to the appropriate district. The tavern wasn't too far from Jacob's House. I wondered if he was still convulsing on the floor, but I wasn't about to find out. I entered the tavern instead.
+> THE TWITCHING SNOUT TAVERN
+> A smoky atmosphere, live lute music and barmaids with glass mugs and matching breasts. It's still not too busy, given the time of day. DOGOR sits at a table. Two ELVES are flirting by the bar. The BARTENDER eyes you with entrepreneurial suspicion.
+> sit at dogor's table
+> You take a seat opposite Dogor, who's concentrating on staring at the bottom of an empty mug. A barmaid brings you both full ones. "Tonight's on me," Dogor says, his slurred speech suggesting he's already a few drinks ahead.
+I moved closer to the Thinkpad's microphone because it seemed silly to type to someone I'd met in real life—although, taken to its logical conclusion, that would prevent me from emailing or sending text messages, so the better explanation was: the least I could do was actually speak to the creature I was planning to betray and kill. "Good evening, Dogor. Thanks for the ale."
+"My pleasure."
+> take a sip of ale
+> It tastes like any decent variety, better in large quantities.
+I wished I had a real beer. I wondered if Dogor had ever had a real one. Then again, his ale was real to him. He could reach out and squeeze a barmaid's breast if he wanted to.
+> "You ever wonder what would happen to you in your world if you died in mine, John Grousewater?" Dogor asks.
+I hadn't. Obviously, the game would end and I could start over as another adventurer. I mean, that's what happened in games. Just because Dogor could die in our world didn't mean I could die in his. The rule sets were different. More importantly, was he threatening me?
+> Dogor raises a hand. "I don't mean anything untoward. Ale loosens my tongue and makes me think aloud sometimes." He downs another mug, slams the mug down and motions for the barmaid. "It's a fine place this, The Twitching Snout. Once you spend enough time in Xynk, you'll agree."
+If beneath his level twenty-six exterior Dogor was actually depressed, that might present me with an opportunity to escape my murderous predicament. I could lure him out of Xynk based on the trust he apparently had in me, dull his senses and bring out his mental issues by feeding him beer, and then convince him the only way out was to commit suicide. He couldn't kill himself in Xynk, but in my world...
+"Do you think about death a lot?" I asked.
+> Dogor clears his throat. "It's not a frequent topic of thought, but it's been known to cross my mind. I've disposed of many enemies of Xynk, all with faces, some with wives and families. A dwarf's mind can wander."
+"What about your own death?"
+> "I don't think as much about the future as the past," Dogor says.
+"So you've never been close to death?"
+> "Never," Dogor says.
+"And when you say you think about the past and the enemies you've killed, what goes through your mind then?"
+> "You ask probing questions," Dogor says, perking up. "It's no wonder you've had success in adventures. I think about the past to learn from it. There are killings I could have accomplished more easily, for example. There are enemies who slipped through my fingers. Those whose necks I wrung too early, failing to extract all possible information from them." Dogor rests his head on his fists and slides his elbows over the tabletop. "But most of all, John Grousewater, I'm haunted by the faces of the ones who got away. If not for my own mistakes, I could have caught and killed so many more."
+That effectively took suicide off the table. Drinking made Dogor regretful but not in any positive sense, although it reinforced what Olaf Brandywine had told me about Dogor's goal being hard coded. Dogor had hang-ups about not living up to his implanted expectations. Whereas a person would feel bad about causing someone else pain or disappointment, Dogor felt those emotions, for lack of a better term, toward Xynk itself. Saying that he had no conscience was not strictly true. He had one, but it bypassed individuals. Dogor was like a ruler who felt he'd disappointed his nation: not the people who made up the nation but some larger, intangible concept. He was like the holy warrior who hated America without having met a single American. And the more loaded on ale he got, the more he talked about this disappointment weighing on what one might describe as his soul. But it became clear to me that night while talking and typing to him that this weight would never result in a desire for self-destruction. Like one of those self-help gurus, Dogor would instead channel every failure, real or perceived, into hardcore self-improvement. He would kill more and more effectively, and because he'd already crossed the barrier between his world and ours by murdering Tim Birch, he would be an escalating threat not only to the digital denizens of Xynk but also to the people of Earth. The moment I realized that was the moment I knew I had no choice. There was no easy way out, no way to avoid responsibility. I'd let Dogor out of the box and I would have to kill him. I laughed to myself and told him a stupid joke. He laughed and told me one, too. "To laughter and absolute conviction," I said, raising an empty hand toward the screen as a toast.
+> "To laughter and absolute conviction," Dogor repeats, downing another mug of frothy ale.
+"I know where Wayne Dubcek will be tomorrow," I said.
+> Dogor wipes the froth off his lips.
+"There's an abandoned factory outside of town. It used to be a car assembly plant, but now it's just a ruined maze of buildings too expensive to tear down. Wayne Dubcek and several other high-ranking members of the Hooded Rat Brotherhood are meeting there with Prince Verbamor tomorrow at two in the afternoon."
+> "What are you saying?" Dogor asks. He gets up, slightly wobbly, and leans across the table. You smell the ale on his breath. "How do you know this, John Grousewater?"
+"After the close call today, I followed Wayne Dubcek by tracing the numbers on the back of his car, what in my world we call a license plate. I saw him plan tomorrow's meeting at the abandoned factory."
+> There's a hint of anger in Dogor's voice. "And you only now tell me of this?"
+"I needed to know that I could trust you, Dogor the Double Fisted. I needed to know you weren't secretly loyal to Verbamor, that you weren't a spy he'd sent to keep me away from the truth."
+> "I'm no spy!"
+"I know that," I said. "You proved yourself today when you tried to hack-and-slash Wayne Dubcek. A spy would have talked about killing but when placed in the position to do so would have hesitated, dithered—"
+> "I give you my word as a dwarf I will not miss his skull again," Dogor says.
+"And I trust your word."
+Lying was easier once you were convinced you were doing it for greater good, but still I felt my nerves fraying. "I must go and prepare," I said.
+> "Likewise, I," Dogor says. "Tomorrow, my friend, we shall bathe in traitors' blood together."
+I said goodbye and turned off the Thinkpad. Sitting quietly on the motel bed, I listened to the buzz of cars speeding down the nearby highway and imagined it was the sound of a raging river of blood whose red liquid would crash through the windows and flood the room. My own blood I felt pumping through my veins. I looked down at my arms, resting on knees, and moved all ten of my fingers. This evening was the last evening of their innocence. Horror tropes and my vague recollection of Macbeth gave me nightmares when I tried to sleep. I hadn't showered, just fallen onto my side and pulled the covers over me. I wished I could wake up and find Dogor's corpse swinging from the dented horizontal pipe in the motel room closet. I wished—
+Knocking woke me up.
+Before I could see enough to see the time on my watch, I saw daylight forcing its way through the curtains and knew that I'd overslept. I'd also forgotten to email Wayne.
+The knocking continued—in triplets.
+"Its on," I typed with my thumbs. "Old GM plant, 3pm shapr."
+I walked to the door and peered through the peephole. Shit, I thought. Dogor stood at the door like a heavy-set, unwanted trick-or-treater. There was no use pretending I wasn't here because he'd just wait around until I had to come out, so I undid the lock and let him in. "Good morning," I said.
+"It's a fine enough morning, but I expect it will be an even finer afternoon." He was lugging two battle-axes. "One for me and one for you." I took the one he pointed out as mine, while trying to remember if I'd assumed we'd meet at the factory or been explicit about that fact. The weight of the axe reminded me it didn't matter. Whatever the plan had been, Dogor was here now. I had to adjust to reality. He glanced around. "Not quite The Yawning Mask but not bad."
+"Do you want some breakfast?" I asked.
+"It's best to keep an empty stomach on a day like today. We will feast once the deed is done."
+I was going to ask how Dogor knew which motel I was staying at, but that didn't matter, either. Maybe the Thinkpad did have GPS. Maybe it was something else. "Did you sleep well?"
+"Soundly like a lamb," he said.
+When I finally looked at my watch, I saw that it was a little after ten in the morning, which meant we still had plenty of time to kill. I turned on the TV. A morning talk show was on. Two hosts were talking to a cook, who was cracking eggs to make an omelette. He had a thick French accent.
+"This is not your permanent home, John Grousewater," Dogor said. He hadn't reacted to the TV at all. Maybe like a dog he didn't see the images on the screen.
+"It's my temporary home."
+"Will you show me your permanent home? I know the address. I would like to see how you live."
+It wasn't a request I'd expected, but I decided it wouldn't make much of a difference. My wife was gone, and If I managed to kill Dogor he wouldn't ever return to cause trouble. If I didn't succeed—if he killed me—there was no reason for him to kill anyone else except Wayne, so my wife would be safe in that case, too. Plus, Dogor claimed to already know the address and I wasn't about to doubt that. "Sure," I said. "Follow me."
+I drove more carefully than usual. I didn't want to get pulled over with a dwarf in the passenger's seat.
+I opened the garage door using the automatic opener and drove the car inside. Although my neighbours should have all been at work, I nevertheless waited until the door was fully shut before getting out. "This is like a stable," Dogor said. It kind of was. "You have many strange machines in your world, and these machines change your world."
+"Some people in our world still ride horses," I said.
+"The royal family?"
+"No, just regular people whose ancestors came here from a faraway place because they were being persecuted. We call them Mennonites. They speak German and they don't use electricity, which is what powers most of our wonderful machines. I buy my vegetables from them."
+"They are more like people in Xynk."
+I ushered Dogor into the hall and then into the living room, where his head started to swivel. He couldn't hide his excitement as he took in all the details that to me were mundane but to him made his entire, earthly experience real. He looked at the fridge, the tiles on the bathroom floor, my wife's collection of kitschy souvenir spoons. If I'd had the nerve and the bravery, I would have picked up a vase and cracked it on the base of Dogor's skull. "What's that?" he asked, pointing at my Playstation 3.
+"It's called a game console. It's what we use for recreation. It's a machine that simulates other worlds, ones that aren't real."
+"Show me."
+"I don't know if I can," I said. I turned on the TV. An advertisement was playing. "Can you see anything on the screen?"
+"Just darkness. I can hear music and people talking. Tell me what you see."
+I narrated the advertisement, and the next one for pizza, and the one after that for peanut butter, which I explained, including the difference between chunky and smooth, and how there was light peanut butter and regular, and some of the ways you could eat it: on a sandwich, baked into a cookie, with chocolate in a peanut butter cup. "Do you have any of this butter?" he asked.
+I brought a jar from the cupboard.
+Dogor dipped his fingers into it, excavated a dollop and put it into his mouth. He wasn't used to the stickiness. "Very salty."
+Grand Theft Auto 4 was in the PS3. I switched it on and navigated to one of my save files. "Tell me what you see now," Dogor said, awkwardly chewing another dollop of peanut butter.
+"In this simulated reality," I said, "we play the role of a man named Niko Bellic, who's arrived in a foreign city and has to complete many quests for people in the city."
+"It is like real life," Dogor said.
+"That's part of the appeal. The city is called Liberty City but it's modelled on a real city called New York City."
+"Have you ever been there?"
+"Never."
+Dogor thought for a moment. "Niko Bellic, is he a Mennonite?"
+I laughed. "No, he's a Serb. He comes from a part of the world that used to be called Yugoslavia. Anyway, it's complicated."
+"John Grousewater, can I try the game console?"
+Dogor put down the jar of peanut butter and I handed him my controller. "The way the game works is that although you are Niko Bellic, you always see him from behind," I said.
+"I don't understand."
+I wasn't sure how to explain it properly. "Imagine that you can fly and that you're following me down a street, looking down from the air. Except you're both looking at me and you are me. So you decide what I do, where I go." I showed Dogor the controller's analog sticks. "That's how you make Niko Bellic move. Try it."
+Dogor pressed the analog stick and Niko Bellic sprinted forward. "You've moved Niko Bellic toward the door of his apartment. That's his save point, like The Yawning Mask. Keep going in that direction and you can move into the hallway."
+It took some trial and error but eventually with my descriptions, Dogor managed to get down the stairs of the apartment building and outside, into Liberty City proper. "Now you're standing on the sidewalk," I said. "There are people walking in front of you. There's a hot dog vendor close by. Hot dogs are a type of food, little tubes of meat stuffed between two symmetrical pieces of bread called buns. There are also cars driving by. You can steal one to make it easier to go to the places where you get the quests you need to complete."
+"Can't I walk to the destination?"
+"You can. It just takes longer. And most people think it's fun to steal cars."
+Dogor moved Niko Bellic into the middle of the street. A car stopped in front of him, honking. "The driver's making that sound because she's angry that you're in her way," I said. I pointed at a button on the controller. "Now press that and you can take the car for yourself."
+Dogor pressed the button and Niko Bellic pulled the car door open, and pulled the driver onto the street, then got behind the wheel. Music started playing. "Now you're in the car, so the view has changed. Instead of seeing Niko from above and the back, you're seeing the car from the same perspective. The controls are the same except you're controlling Niko controlling the car."
+"What happened to the person who was in the car?" Dogor asked.
+"She ran away."
+"Why?"
+"Because she was scared, I guess."
+"How will I know where to return her car once I am finished with it?"
+"You don't have to return it. In fact, I don't think you can. Once you're done with it you just get out and the leave the car wherever it happens to be."
+Dogor hit the gas, and the car accelerated down the street—before crashing into a building. "You hit a restaurant," I said. "Try reversing the car." The car sped backwards, into traffic and hit another car. "Now you've hit some other car. The driver got out. You should get out too."
+"The game console is very difficult," Dogor said.
+"It takes some getting used to, but causing chaos and just smashing into things is part of the fun."
+The other driver started punching Niko Bellic. "It seems you've gotten into a fight. The guy whose car you hit is pretty pissed off and he's hitting you. Fight back." I showed Dogor which buttons to press to lock on and punch.
+"It was my fault I hit his car with mine," he said. "I should not punch him. I should apologize. Which button is the apology button?"
+"There is no apology button."
+"Why not?"
+"Because to most people apologizing isn't fun. It's not something they fantasize about, and game consoles are all about living out your fantasies. Don't you ever have fantasies?"
+Niko Bellic had knocked the other guy out and was now stomping on his chest. "I fantasize about a Xynk where the ruler rules justly and there is no more Hooded Rat Brotherhood," Dogor said.
+He pressed a button, Niko Bellic took out his gun. Dogor spun the analog stick and Niko Bellic spun. Dogor hit L1 and Niko Bellic fired—the sound made Dogor jump—hitting a pedestrian. "What happened? What did I do?"
+"You took out a gun. Think of it as a small but deadly crossbow. And you shot someone with it."
+Dogor dropped the controller. "I'm sorry, John Grousewater!"
+"Don't be sorry. Driving around, crashing into stuff and shooting people is like the meat of the game console. It's how you complete quests and what you do for fun between quests." I picked up the controller and handed it back. I felt more comfortable when Dogor was holding it, because it meant he wasn't holding any real weapons.
+"The person I shot, this was a bad person? An enemy of Liberty City?" he asked.
+"Just a person."
+"An innocent person?"
+"In some sense, they were innocent. It doesn't matter. They only exist in Liberty City for you to interact with them, and most interactions are violent. You can shoot them with different kinds of guns, blow them up with explosives, beat them up, you can run them over with cars and trucks and motorcycles. Do you know how when water boils it turns to steam?" I asked. Dogor nodded without uttering a word. He was holding the controller as if it disgusted him. "We have a saying that when someone relaxes, lets out some of the tension that's built up inside him, he's letting off steam. That's what the game console is, a way to let off steam without actually hurting anyone. It's just pretend."
+"Pretend hurting to let out the boiling water?"
+"Yeah. But more than that it's just fun, because it's so realistic. The people look real, the cars are modelled after real cars. If it wasn't realistic, it wouldn't be so much fun. It's like having a bunch of toys and you can do anything you want with them. Liberty City, for example, the term for this type of game console is a 'sand box' because you can do anything you want. You don't even have to clean up after you're finished playing. Other game consoles have quests that are a little more strict."
+"I want to apologize and return the car I stole to the person I stole it from. You said I cannot."
+"That's true."
+"I think I prefer peanut butter to the game console," Dogor said.
+"Do you want to try another kind of game console?" I scanned my list of titles: Battlefield 3, Call of Duty: Black Ops 2, Watch Dogs, Assassin's Creed 3. 
+"No, thank you," Dogor said.
+He stood up and walked over to a lamp that was standing on an end table beside the sofa. He ran his fingers over the mass-produced design "carved" onto its base. My wife had bought it at Wal-Mart. "I enjoy your lamps," he said. "Does this lamp run on electricity, like your machines?"
+"Yeah, it does."
+"Your world has many more textures and details than Xynk," he said. I showed him how to turn the lamp on and off. He seemed delighted. "There is no fire." I said that although there wasn't any fire, the light bulb becomes too hot to touch if the lamp stays on for long. Watching him play with the lamp's switch, I wondered if that's all that Dogor himself was, a core of ones and zeroes, ons and offs? "Sometimes I fantasize about living in your world," he said.
+"I wouldn't mind living in Xynk sometimes."
+He gently stroked the bulb with his finger. It was still cool. "When we capture Wayne Dubcek," he said, "I would like to press a hot lamp against his eyeball until his eyeball melts and drips out of his head. Then I'd fill the raw, bleeding hole with peanut butter. The pain would be unbearable. Wayne Dubcek would tell us everything he knows about the Hooded Rat Brotherhood."
+If only life had a lock-on button and an L1 trigger, I would have shot Dogor on the spot and stomped him to death on my living room carpet until he bled and any money he'd been carrying showed up as a collectable beside his dead, dwarven body. But real life wasn't so simple. There was no third-person view. "Perhaps this afternoon after we are finished with the Hooded Rat Brotherhood," Dogor said with the look of child-like wonder still on his face, "we will let off steam with the game console and I will understand better what it means."
+"We should go," I said.
+"But it is still early in the day, John Grousewater."
+It was just past noon. I pushed him toward the door, then down the steps to the cement garage floor.
+I took my car keys out of my pocket.
+I saw the curved blade of the knife Dogor had given me lying on my work bench.
+"It's best if we get there early, become familiar with surroundings and form a battle plan," I said.
+Dogor tapped his head. "The mind of a true adventurer." He shouldered his battle axe.
+I used my keyless remote entry to unlock the car doors.
+I popped open the trunk.
+Dogor stepped forward and lifted himself up on his arms to look inside. The shovel, bear spray, sledge hammer and other weapons were as I'd left them. "You can put your axe in there, too," I said.
+I took the knife from the work bench.
+"More practical than a horse and more room than in a carriage," Dogor said. He took the axe from his shoulder and jumped onto the back bumper of the car.
+The car sagged under his weight.
+Maintaining his balance, he grabbed the handle of the axe with both hands, one near the blade and one near the bottom, and bending forward placed the weapon neatly in the trunk of the car.
+I plunged the knife into the exposed nape of his neck.
+He grunted.
+Then his heels lost their support on the bumper and he fell backward, landing bewildered, seated on the garage floor.
+I walked around him and took the bear spray out of the trunk, removed the safety—
+"John... Grousewater?"
+And sprayed.
+Dogor sniffed at the air, then started clawing madly at his face.
+I grabbed the shovel from the trunk and retreated.
+There was pain in Dogor's voice, not only physical but emotional. "John Grousewater, help me!"
+"I can't help you because I'm the one doing this to you," I said. Although I didn't feel that I was crying, tears were dripping down my cheeks. Holding the shovel as I would a baseball bat, I measured my swing—and smacked Dogor flush in the side of the head.
+He keeled over.
+He was breathing heavily.
+I bent over him and jerked the knife free from the back of his neck. He groaned. The wound spat blood.
+I tossed the knife to the work bench, measured another line drive with the shovel, and this time victimized Dogor's back. But the shovel clanged off Dogor's armour, sending stabbing pain up my forearms instead. I let go of the shovel handle, which fell to the garage floor, and made fists until the feeling in my hands came back, as Dogor crawled forward, whispering words I couldn't understand.
+I tried stepping on the back of his leg.
+He kicked out.
+I dropped my keys, then slipped on the pool of Dogor's blood while trying to pick them up, landing on my side on the garage floor. Before I'd managed to gather enough of my wits to push myself up—I saw Dogor's eyes, red and watery—and felt his fist connect with my jaw. 
+It was like getting clobbered with a brick. Instinctively, I covered up. When a few seconds passed without another punch, I lowered my hands and heard:
+The garage door opening, Dogor's boots hitting cement.
+He'd taken my keys.
+I got to my feet just in time to see him sprint through the open garage door, onto the daylit street.
+I took a step to follow, confident that I could outrun a dwarf who was wearing metal plate armour, and almost fell over again. A pain shot up my right leg that made me yelp. I'd hurt my ankle. I thought about getting into the car, but realized that without my keys that was rather pointless. I took a second, more careful, step, grabbed the curved knife off the work bench and hobbled outside while fishing my phone out of my pocket. There wasn't any more need for secrecy or guerillamail accounts, so I called Wayne.
+"Dude, you're calling me? Won't that jeopardize the whole plan?" he said immediately.
+"Plan's off. New plan," I said, managing to keep Dogor in plain view about a hundred paces in front of me. He must have been groggy from my shovel to his head because he was weaving down the sidewalk like a drunk. "I tried taking him out in my garage but he got away and now I'm chasing him down the street. I gassed him and winged him pretty good, but he got me in the jaw and I think I sprained my ankle. It's a pathetic chase but get over here as fast as you can."
+"Sure thing. And guess what I found?"
+"What?" I asked.
+"Cross-motherfucking-bow!"
+I hung up and tried to keep a cool profile. Dogor was a weird sight, granted. But I was just some guy going for a walk down the street. That's what I wanted to be. The last thing I wanted was to raise any suburban suspicions that would result in the police being called. They'd ask for an explanation, and what could I say? They'd catch me in a lie and the truth was unbelievable.
+Based on the direction we were walking, it was obvious Dogor was heading for the library, but there was no way he'd make it before Wayne showed up. All I had to do was keep him in sight. I focused on every part of my body save my ankle. I hobbled along.
+About ten minutes later, Wayne's truck appeared on the horizon. He was doing way more than the speed limit while also holding a loaded crossbow out his driver's side window. When he was close, he let the bolt fly.
+It missed Dogor and nearly hit me.
+But Wayne reacted to the situation like any gamer would. He pulled the crossbow inside, put both hands on the steering wheel and slammed into Dogor with two-and-half tons of gas powered truck.
+He also hit a hydrant.
+Water began shooting out like from a geyser.
+An old woman in slippers ran out of her house, screaming, "Oh, my God! Oh, my God! A child. They hit a child!"
+When I caught up to the accident scene, pretending to be just a regular guy on a regular stroll, Wayne was already knee deep in a lie about blacking out behind the wheel, and he and the old woman were pulling Dogor—moving and moaning—from under the front of Wayne's bumper. I helped and we put him on the back seat of the truck. "We should call an ambulance," the woman was saying. Wayne was gesticulating. Dogor was slowly coming to. "Ma'am, there's no time. We need to get this man to a hospital."
+The woman pointed at Wayne. "But he blacked out! He's in no condition to drive. My God!"
+"I'll drive," I said, getting in the truck.
+The woman crossed her arms over her heart and called me a hero. What she didn't know...
+I reversed over the curb and onto the road, did a mediocre u-turn and sped off, my ankle killing me with each tap of the accelerator. "Make sure he doesn't try anything," I said.
+In the rear view, I saw Wayne punch Dogor in the face.
+I cringed.
+"I could put a crossbow bolt right through his neck," Wayne hissed. "I bet it wouldn't even kill the little fucker, just make him squirm like the snake that he is."
+"Don't," I said.
+"Why the fuck not? I thought the whole point was to get him out to the factory so that we could kill him."
+"It is, but you wouldn't understand. I'll kill him."
+"John Grousewater," Dogor said—gurgling through his own blood, "you are... member of the Hooded Rat Brotherhood?"
+I ignored a stop sign, then turned into the road that would take us to the abandoned factory. What could I say? That there was no Hooded Rat Brotherhood, that Dogor had spent his years fighting an enemy that didn't exist. Or that, yes, I was a traitor, a dirty, no good rat working toward the destruction of Xynk?
+"John Grousewater..."
+Wayne punched him in the face again.
+"Cut that shit out!" I yelled.
+Wayne's stare met mine in the rectangle of the rear view mirror. "Have you lost your damn mind? This monster wanted to kill me. He would have killed Annie. You said yourself he needed to be eliminated. I'm just fucking helping you."
+Everything that Wayne was saying was true, but the truth didn't change the fact that there was honest terror and confusion on Dogor's face. He was suffering. "He's not real. He came out a video game, remember?"
+"Just shut the fuck up for five minutes," I said.
+I pulled into the factory parking lot.
+I shut off the engine.
+Dogor's throat was making a hideous, repetitive popping sound. I wanted to smother and silence it. I didn't want to imagine what Wayne's truck had done to the inside of his body. I wanted my ankle to hurt more than it hurt. Wayne opened the door, exited the truck and slammed the door shut.
+"John Grousewater..."
+It was just me and Dogor now. "It was a ruse from the very beginning," I said, turning around to face him. He was lying on his back, staring at the dull light on the ceiling. I wanted badly to explain that I was protecting my world from him. That he was dangerous and murderous and because he couldn't see that he needed to be stopped, but I knew his counter-argument, his sincere belief that Wayne—and now I—were enemies of Xynk. Just as Tim Birch had been an enemy. We were both convinced of our own righteousness. So I said nothing more. I don't know if I felt that I owed him anything, but who was I to rip apart his worldview at the very foot of his deathbed? Let him go to his text-based grave knowing whatever he wanted to know.
+He grabbed Wayne's crossbow.
+But it wasn't armed and he didn't have the strength to lift it. "Traitorous pig."
+I got out of the truck, then pulled Dogor out, too.
+I wanted to help him to his feet, but my ankle refused to support my weight and I dropped to my knee, dropping Dogor to the cracked asphalt below. He collapsed like a bundle of unbound sticks before raising himself to a kneeling position.
+"You murdered Tim Birch," I said.
+Dogor spat blood. "Just as I will murder you and all the other enemies of Xynk."
+Wayne had retrieved the crossbow, inserted a bolt and was aiming it at Dogor's back. "I don't think you're in any position to be making threats, you three-foot freak."
+Dogor's body appeared to sway in the breeze. Pus was seeping out from under his armour. "You think you can end me but I'm immortal. I'm persistent, unfinished. Tim Birch screamed that to me in a pathetic attempt to be spared. And do you know what I did? I cracked his skull in half and took his brain back to Xynk."
+"I'll give you one chance to kill yourself," I said. "I'll help you take off your armour. I know you have knives in your boot."
+Wayne squeezed the crossbow. "The hell are you doing? You're going to let him have a knife after what he just said?"
+"Do it honourably," I said to Dogor.
+"Honourably? This isn't a goddamn Kurosawa movie!"
+"I can't kill myself any more than you can fly, John Grousewater," Dogor said, slumping forward until only his fists were keeping him upright. His eyes rolled back in his head. His lips parted and his tongue lolled from his mouth.
+I couldn't stand seeing any more of this. I circled his kneeling body and retrieved one of the knives from his boot. He didn't stop me. I don't know if he could even hear me. I sat behind him and tried to find the clamps keeping his armour in place, but failed. His skin felt hot and dry, like fish scales. I grabbed him by his red hair and pulled his head back—his tongue flopped—until his neck was vulnerable and exposed and his eyes rolled back into enough of a normal position to stare at me. I didn't want to look at them. I wanted them to disappear, him to disappear. His pus stank. I could feel his rasping breath and see the veins pulsing in his neck.
+"I'm sorry," I whispered, not quite sure of what.
+And then I ran the curved blade forcefully over the pulsing vein and the entirety of his neck, cutting a long, easy line that almost immediately lost its precision and overflowed with bright red blood.
+Dogor jerked. I grabbed him.
+I dropped the knife and when he started twitching I held him.
+Then his muscles stiffed, he let out a last, bubbling gurgle of defiance, and his body went limp.
+For the first time in my life, I was holding a corpse.
+But almost as soon as I realized it, I smelled burning electrical wire and heard Wayne say, "Get back!" and felt my own skin sizzle while seeing Dogor's glow bright, luminous white, and without thinking I dropped him and crawled crab backwards on my hands and feet, shutting my eyes as the brightness became too much, and through closed eyelids saw light explode and heard a pop like successive firecrackers, and when I opened my eyes again, Dogor was lying on the asphalt, recognizable but heavily pixelated and having lost his third dimension.
+He was flat.
+"Careful," Wayne said, still pointing his crossbow at the now depthless body.
+I walked forward, reaching out.
+Dogor's flat corpse was warm but not too hot to touch. It felt like film.
+The world was so quiet I heard the sole of Wayne's shoe rub against the surface of the parking lot. Then wind. It blew from all directions at once, threatening to lift Dogor's filmic remains and carry them off, until I grabbed them with both hands and picked them up. I handled them gently.
+"It's over," I said to Wayne without turning around.
+I heard him lower his crossbow.
+"I'm not sober enough to ask what the hell just happened, but if it's over—what next?"
+All that was left was to transport Dogor's remains, Dogor in the state of being dead as Olaf Brandywine had put it, back to Xynk. Without thinking, I knew just the way to do it. "Do you sell three and a half inch floppy disks?" I asked.
+"It's not nineteen ninety-five, but I might have some in the back room. Why?"
+"Take the truck and go get one," I said.
+Wayne shrugged and drove off. When he was gone, I laid Dogor out on a clean section of asphalt and carefully folded him into a square that would fit inside a 3.5" diskette. With every fold I made, the thickness of the film stayed the same.
+A part of me expected to hear his voice again but of course I never did.
+Wayne returned and we drove to the library parking lot. There, we jimmied open the diskette and replaced its original magnetic film with Dogor's film, then put the diskette back together. We waited in the truck for an hour without talking before deciding to go for lunch. The plan was to sneak into the library at night and it was still early in the day, so we had plenty of time. We ended up at a little Italian place, where we ordered dishes I can't remember the names of. After eating, I went outside for a cigarette. My hands were shaking so much I had trouble operating the lighter. I hadn't had a cigarette in days. I smoked one, then another, then took out my phone. I wanted to call Annie, but I didn't have the gall. I didn't know what to say. I called my thesis sponsor instead. The moment she picked up, I said, "It's done. It's safe to go back to your apartment."
+"The dwarf is no more?" she asked.
+"No more."
+I decided not to smoke a third cigarette. "It would be a useful exercise for you to write about it," she said.
+"Write about what?"
+"Your dealings with the dwarf who is no more."
+"No one would believe me," I said.
+"I believe you, but that is not the point of the exercise. The point of the exercise is for you to believe. If you do not write it down, soon your memory will weaken and one morning you will wake up with no memory of the dwarf at all. He will be a foggy dream. That is how dwarves are, how they operate. That is why they make excellent KGB agents."
+"Maybe I want to forget."
+"Absurd! Ignorance is a sin and the mortal enemy of any true scholar. Chase truth always and to wherever it leads. Write the work and I will edit it. I have only one request. Do not reveal my name."
+"I'll think about it," I said. "For now I have to go."
+Wayne had come out of the restaurant. I waved him on toward the truck. We left the restaurant and stopped by my motel, where I picked up my valise and the Thinkpad containing a Dogor-less Xynk. 
+When the sun started to go down, Wayne dropped me off at the library. I didn't want him to come in with me. "You sure you'll be alright?" he asked from behind the wheel. I said I was sure, but if I ended up getting arrested I'd call him to bail me out. He turned on the satellite radio and I walked the library perimeter to the place where the two blue recycling bins led to a half-open window. After making sure no one was looking, I opened the window wide and climbed inside.
+The room was peaceful.
+I tip-toed to the computer into which twenty-four hours ago I'd seen Dogor disappear. Its green light was on. I took the 3.5" diskette out of my pocket and inserted it into the appropriate drive, which hummed to life, flashed blue—and stopped. When I took the diskette out, everything was as it had always been, except for one detail that nobody in the world but me would ever notice: the film in the diskette was gone.
+"That was fast," Wayne said when I got in beside him.
+"Let's go get coffee."
+I took the Thinkpad into the coffee shop with me and set it down on the table. "Do you have free WiFi here?" I asked one of the girls working the front counter.
+"Sure do."
+I supposed that meant it didn't matter whether I booted the Thinkpad or not, but I pressed the power button anyway. It reacted as usual.
+> Welcome back, John Grousewater. Press any key to continue your adventure.
+I pressed Enter.
+> ROOM IN THE YAWNING MASK
+> You are in your room in the Yawning Mask. It's bare and empty, which suits an adventurer like you just fine. In the room, you see a TABLE and a WINDOW. The only DOOR leads WEST into the HALL.
+There was no dwarf standing at the door and no note tucked under it. Downstairs, the Innkeeper was going through his late evening routine. I asked him if he'd seen a dwarf tonight.
+> "No, mister. One dwarf did stop by this morning to pay your bill in advance of three months, but he hasn't been back since. Naturally, I didn't ask any questions," the Innkeeper says.
+Outside, the stars over Xynk were just beginning to shine.
+I unplugged the power cord and shut the Thinkpad.
+Wayne swallowed a chunk of chocolate chip muffin. "So what are you going to do with it now?"
+"Drop it off a highway overpass."
+"For real?"
+I shook my head. "Nah, that's dangerous. I'll probably just take a sledge hammer to it and pound it into decommission. Also, I'll be in the market for a new laptop. Know anyone who sells them?"
+Wayne faked laughter. "What about Annie?"
+"I'm going to drive to her mother's tonight and state my case for forgiveness."
+"So basically you're going to try to fix a marriage you didn't break by lying about how sorry you are that you broke it."
+Basically, yes. "Do you have a better idea?" I asked.
+He didn't. I didn't, either.
+After Wayne dropped me off in front my house, I dawdled by tidying up the mess in the garage before spotting my car keys on the lawn—Dogor must have tossed them after opening the garage door—and hiding both Dogor's curved knife and his battle-axe, which was still in the trunk of the car, in a box below a dozen sacks of half-price fertilizer. I put the Thinkpad there, too. Despite what I told Wayne, I had no intention of destroying it. In some odd way, I felt like I still belonged in Xynk, especially now that Dogor had paid for three months of room and board at The Yawning Mask. Having killed the only true—if homicidal—protector the city had ever had, I felt I'd become its protector myself.
+From the moment I pulled out of the driveway to the moment Annie peeked out from behind the curtains of her mother's bay window, then opened the front door, I'd been testing out lies and scenarios in my head—
+"Good evening," she said.
+And all the scenarios were bullshit: because as soon as I saw the tears start to well in her eyes, I knew that even though I'd never actually cheated on her, there were a hundred other things I could apologize for, and so I packed all those things into a ball, swallowed it and said, as honestly and absolutely as ever I'd said anything, "I'm sorry and I love you."
+We went home that same night. Annie had never unpacked. She threw two pieces of baggage on the back seat of the car and insisted on driving. "Don't ever cheat on me again."
+Which more or less brings me back to the night of the yellow moon, smoking cigarettes on the balcony and typing a confession into my new old laptop in the early hours of the morning while wishing I had a drink to go with it. Annie's asleep. Our marriage may be far from perfect but I'm glad she's here even when she makes her Grumpy Cat face. I used to be offended when I thought she didn't think me capable of cheating. Now it makes me sad to know she thinks I did cheat. On the other hand, she still considers me a blonde-haired coward with no guts and no business sense, so maybe it's justice after all.
+But now what? I've finished my last cigarette and typed the last words of my confession. The story's written. If you're reading it, it's also been edited by my thesis sponsor. There's more of it than I ever thought there'd be, but not a single footnote. There's been no engagement with existing academic discussion and no forcing reality into artificial modes of construction. There's just thirty three thousand words of truth about a man who met a dwarf he later killed. Napoleon Bonaparte, George Hegel, Grumpy Cat, and, still, not everything worth knowing has its own Wikipedia page. As I said at the beginning, it's a crazy fucking world we live in—to say nothing of the worlds we don't.
+
+About the Author
+Norman Crane lives in Canada. He writes books. When he's not writing, he reads. He's also a historian, a coffee drinker and a cinephile.
+His first novel, A Paunch Full of Pesos, is a spaghetti western.
+On the internet, he keeps a blog, has Facebook and tweets (@TheNormanCrane).
+Attributions
+The sprite used on the cover (Dwarf_Miner.png) hails from the terrific free strategy game Battle for Wesnoth, which is released under the GNU General Public License. The cover is released under same.

@@ -1,0 +1,1107 @@
+﻿GUNNER: THE HACKER’S CODE
+
+
+An Anathergians Novella
+
+
+By Michelle C. Reilly
+COPYRIGHT
+Gunner: The Hacker’s Code
+An Anathergians Novella
+Copyright 2015, Michelle C. Reilly
+Editing by Victoria Miller
+Book design by Michelle C. Reilly
+http://www.michellecreilly.com
+EBooks are not transferable. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher and/or author, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
+This is a work of fiction. Names, characters, businesses, places, events and incidents are either the products of the author’s imagination or used in a fictitious manner. Any resemblance to actual persons, living or dead, or actual events is purely coincidental.
+Smashwords edition.
+This ebook is licensed for your personal enjoyment only. This ebook may not be re-sold or given away to other people. If you would like to share this book with another person, please purchase an additional copy for each recipient. If you’re reading this book and did not purchase it, or it was not purchased for your use only, then please return to your favorite ebook retailer and purchase your own copy. Thank you for respecting the hard work of this author.
+Cover background photo copyright Meinzahn | Dreamstime.com - Fremont Street in Las Vegas, Nevada.
+Books by Michelle C. Reilly (in order)
+VARIANTS, The Anathergians Trilogy, Book 1
+NICO: THE ROGUE WARRIOS, An Anathergians Novella
+WITCHES, The Anathergians Trilogy, Book 2
+GUNNER: THE HACKER’S CODE, An Anathergians Novella
+ROYALS, The Anathergians Trilogy, Book 3
+
+To those who have struggled, been knocked around, or taken against your will…
+Know that you are thought of. Know that you are cared for. Know that you are loved.
+ACKNOWLEDGEMENTS
+The awesome ladies within my critique group have been a great help and inspiration to me. Rebecca Andrews, Tisha Wilson, Kay Phoenix, and Diane Deeds… You ladies rock!
+Superhero editor Victoria Miller. I just love opening a new document from you and reading your comments. I laugh out loud and embarrass myself, but who cares?
+To Brian and Dave for your tech input.
+To my street team members. There may only be a few of you, but you all make my days that much brighter.
+Justin and Alex. I am in awe of you every single day.
+Table of Contents
+GUNNER: THE HACKER’S CODE
+COPYRIGHT
+ACKNOWLEDGEMENTS
+CHAPTER 1
+CHAPTER 2
+CHAPTER 3
+CHAPTER 4
+CHAPTER 5
+CHAPTER 6
+CHAPTER 7
+CHAPTER 8
+CHAPTER 9
+ABOUT THE AUTHOR
+
+CHAPTER 1
+The hacker’s fingers flew over the keyboard of the laptop, clicks echoing off the walls of the dark room. The code was ready. Now to access the backdoor. Everything has a backdoor, and Glitchen knew right where to find it.
+Glitchen inserted a USB drive into a slot on the side of the computer and clicked a file on the device. The screen filled with an Internet browser running the Tor program. She eyed the circuits of encrypted connections. They set up relays and hooked up with other Tor systems around the world, making her online movements invisible within its encrypted layers. It was difficult, if almost impossible, to trace anything back to her system. Glitchen entered a website’s URL. Once her system connected with the website, it was visible to the authorities, allowing Glitchen only a few minutes to complete the hack.
+The bank’s website popped up, and the hacker pushed a button on her phone to start a timer. It took a matter of seconds to push the code through the weakness within the website. Glitchen smirked.
+Way too easy.
+Next came the bank account numbers. The balances within the accounts were extreme, and Glitchen’s stomach curdled from the thought of how the bastards made the money. A few more keystrokes transferred the funds to different nonprofits’ accounts for the abused both locally and throughout the world. The final bit of code made the transfers untraceable.
+The bastards will never get their blood money back.
+Glitchen left one clue behind: a name.
+###
+The Previous Day
+Gunner stepped out of the shower, his shoulders slumped. Close to forty-eight hours had passed since he’d last slept. He should hit the rack, but restlessness ate at him and sleep wasn’t in the near future. It had been a hell of a few days, and he needed some getaway time. He grabbed the towel slung over the side of the glass wall, dried himself off, and then wrapped it around his waist. At the bathroom counter, he opened a drawer and searched blindly for a comb. Not finding one, he leaned over to look inside.
+“Shit,” he muttered. He peered under the counter and, spotting the comb, went to his haunches to pick it up. When he stood, he slapped his palm against the mirror and wiped the steam from the surface. Gunner shook his head, and his long dark brown bangs fell in front of his face. He pulled the comb through the wet locks, yanking it past the tangles. The length skimmed his shoulders.
+Time to get it cut again.
+Most times he loved being an immortal Anathergian, but his hair was a pain in the ass since it grew almost an inch a week. Having it long was out of the question, so once a month he had to get it trimmed. It was always a bitch, because he had to find different places to go. People tended to ask questions when someone’s hair grew three times faster than a human. And he—along with the rest of his fellow Anathergians—couldn’t let on to just anyone they weren’t human.
+Gunner tossed the comb onto the counter and traipsed into his bed chamber. He studied the clothes scattered on the floor. The place needed a good cleaning, but he’d been so busy lately, he hadn’t had the chance. Toeing a t-shirt, he picked it up and gave it a whiff.
+“Jesus!” He gagged. Yeah, a serious laundry day was in order. Gunner kicked around a few more pieces of clothing. A wrinkled, brown, plaid shirt sans sleeves smelled half-way decent, and he slipped it on over an almost white t-shirt. A pair of jeans with only one coffee spill on them, his shit kickers, and then his Texas ball cap, which he put on backward, completed his ensemble.
+He left his quarters, his boots clomping over the cement walkways of the massive complex that covered acres of underground and housed most of the local Anathergians. Gunner pushed the button for the door leading to the garage and bent over to sneak beneath it as it slowly rumbled upward. He grinned when he spied his customized Triumph Bonneville.
+“It’s been too long, babe,” he whispered to the motorcycle as he straddled the seat. Once his half-helmet was on over his cap, he kicked up the stand and started up the engine. With a strong grip on the throttle, he revved the engine a few times, reveling in the roar it made.
+He headed up the multiple layers of the garage and out into the fake storage unit used as the cover for the complex. Gunner looked over his shoulder to the east where the buildings from the Las Vegas Strip towered over him. On the freeway, he headed north and exited onto Sahara Avenue, and then made his way into an older neighborhood. The houses were built back when lawns and land were more plentiful in Vegas. The mature trees reached for the night sky, casting eerie shadows over the mature homes. The neighborhood was one of the few that reminded him of his home town of Austin.
+Gunner pulled in front of a house built sometime in the 1950s and later had a second story addition. He made it his business to know everything he could about everywhere he went. As the top intel person within the his king’s—Auden’s—crew, he had access to every government computer network in the world. It was a deal the Anathergians had with each of the entities because of the type of work they did.
+When his race first arrived on Earth, they’d sworn to protect the humans at any cost, since they’d lost most of their own people. Each Anathergian took up that mantle and did their part to make Earth a better place. They used their advanced tech to help fight against terrorism and other criminal elements. Once in a while, they received cases with supernatural elements. Gunner always liked those kind.
+He hunched his shoulders, thinking about the new threat they’d just discovered. Their old enemy who helped destroy their planet now threatened Earth. At the moment, things were pretty cool, but soon shit would hit the fan.
+Tonight, however, he would take it easy. His boots crunched on the dying grass as he trekked to the front entrance. He knocked twice on the thick wooden door and then entered. Glancing around the sparse formal room, he was surprised to find it empty. Usually the place brimmed with young people staring into computer monitors as they tested their latest code against someone else in the house or others throughout the world. The house was overrun with geniuses, which was probably the reason he’d been drawn to them.
+He’d found them on the interweb, doing their magic. They thought their methods were hidden, but so far the humans hadn’t developed anything Gunner couldn’t find. At least that he knew of. It helped he had the Anathergian machinery backing him up, but it wouldn’t be what it was without Gunner’s tweaks here and there.
+Gunner stepped into the kitchen. Two chairs hugged a table with a dirty paper plate on it. He returned to the formal room and glanced into the sunken living room. Finding it also empty, he jogged up the stairs. Two doors stood at the top of the small landing. One stood ajar, without any light coming from it. Unease made his nerves jump, and he let loose a small amount of power to allow his senses to flow into the room behind the closed door. His sensory abilities weren’t half as strong as his fellow Anathergian warrior, Nico, but they did well enough in a pinch.
+Finding nothing threatening, he reached out and slowly turned the doorknob, pushing the door open a few inches. The blue gleam of a computer monitor cast a straight line of light across his boots. Gunner leaned close to the opening to spy on whomever was inside. From the angle, he couldn’t see anyone. But his sensitive hearing picked up on the clicking of a keyboard and the sound of music coming from headphones.
+Gunner pushed the door open a few more inches and squeezed through the opening. On tiptoes, he eased his way to the person sitting on the floor whose back faced him. He stopped for a moment to admire the work displayed on the monitor.
+Speaking of geniuses.
+If he didn’t know better, he’d think this one was Anathergian. But, alas, no…
+Gunner bit his lip to hold down the laugh trying to make its way past his throat. He leaned over and gripped the narrow shoulders hunched over the machine.
+A piercing scream made his eyes water, and he jumped backward as the headphones flew through the air at him.
+“Crap, Gunner!” the girl yelled, facing him. “What the fuck are you trying to do?”
+Gunner tried to hold back his laugh, but it sneaked past his compressed lips, and came out as a full guffaw. “Sorry, Nay, I just couldn’t resist.”
+Nadine lifted her black rimmed glasses onto the top of her head, pushing back her wispy chestnut bangs in the process. She only used the glasses when she worked on a computer, which was most of the time. “You are such a loser, sometimes, you know?”
+Gunner shrugged and wondered if he should answer. Deciding he didn’t want to piss her off any more than she already was, he changed the subject. “So, where is everyone?”
+“Hackathon over at the Sting.” She leaned over to pick up her headphones.
+“Oh, that’s right. It’s that time of the month.”
+Her gently arched eyebrows raised, and she gave him a studied glance.
+“Uh, not that time of the month,” he stammered. “I meant… Well, you know, that time of the month for the hackathon.”
+Nay shook her head and turned back to her computer. “Seriously, dude, you need help.”
+Gunner slipped his hands into his jeans pockets. Nay was one of the few girls that lived in the house, and he sometimes forgot she was female, because she didn’t always act super feminine. Not that she didn’t look like a girl. In fact, far from it. Nay was most definitely a woman. She was tiny. Probably more than half a foot shorter than his six foot two inch frame. Her brown hair, cut in layers, swept around her pixie face, framing her wide green eyes. Beneath her slightly upturned nose were full lips, which she often chewed on while coding. She had a small waist that flared out around rounded hips. Her breasts were often covered with a sports bra. Gunner assumed she wore it to hide how well-endowed she really was from the rest of the guys, himself included.
+Nadine settled back in front of her laptop and placed her glasses back on her pert nose. He took a seat on the floor next to her. “So, what are you working on?”
+She shook her head as she sent her quick fingers over the keys, closing out programs. Gunner squinted at her. The dim light from the monitor showed discoloration beneath her eyes and chapped lips of someone seriously dehydrated.
+“What’s going on, Nay?”
+She cast a quick glance at him. “Nothing.” Nay opened a clean browser and went to a popular hacker’s site.
+Gunner inched out with his senses, sniffing for whatever she was trying to hide. Grief, horror, and fear bombarded him. He tried to hold on tight to the reigns of his power to protect himself from the blast, but the overwhelming sensations made him choke.
+Nay’s brow crinkled. “You okay?”
+He nodded, trying to catch his breath. “What in the hell…” he wheezed, “is going on with you?”
+#
+Nay considered the man, wondering if she could trust him. His russet eyes still watered from choking, and his backward Texas baseball cap had gone askew. If she had met him on the street, she probably wouldn’t go near him with a ten foot pole. Not that he appeared the dangerous type. Well, scratch that. He didn’t appear dangerous, but he definitely exuded danger. Somehow, she knew the broad chested, tall man would definitely be able to handle himself in a fight. However, he didn’t give off the kind of vibes declaring himself as a danger to females.
+He was also the most absolute master coder she’d seen. Ever. He was like E.F. Hutton. Except, instead of when he spoke, it was when he coded; everyone gathered around and watched. It was a thing of beauty. And he didn’t do it often. So, when he did, it was the talk of the house for weeks.
+Nadine bit her lip, weighing the pros and cons, knowing if she involved anyone, it could mean death.
+Maybe… Just maybe… He can help.
+She pulled in a gulp of air, her heart hammering hard against her chest wall. She’d been warned not to say anything. To not take matters into her own hands. But she was going crazy and needed to do something… Anything. “If I tell you something, I need you to not tell anyone. Not one person. Do you understand?”
+His full lips quirked, and he glanced past her before meeting her gaze. “What, did you finally make Charlie’s dreams come true and sleep with him?”
+Nay gaped. “Seriously? Here I am trying to tell you something serious, and you—”
+“Well, I mean, he’s had a crush on your for, like, ever. I just thought maybe you’d—”
+“My sister was taken.”
+Gunner stilled. And there it was. That dangerous undercurrent she’d always suspected was there. Like a dog who was so sweet, but if his owner was pushed around, the dog’s jaws would lock down tight around the threat’s neck and not let go until the life was squeezed out of the perpetrator.
+“What do you mean your sister was taken?” The words came out controlled and even.
+Nay gulped and shifted her legs so she could better face him. “Two nights ago, she was at the used bookstore in the little mall on Charleston and Buffalo. Her friends left to go shopping. When they got back, she was gone.”
+“What have the police said?”
+Tears stung Nay’s eyes. “They’re trying to say she’s a runaway. If she isn’t home by tomorrow, they’ll let my mom file a missing person’s report. They said I shouldn’t worry and not to go looking for her because I might make things worse.”
+Gunner blinked. “And why would they think she’s a runaway?”
+Nay stared down at her clasped fingers. “She had a huge argument with my mom a few days ago and threatened to leave.”
+“Do you think she ran away?”
+She glimpsed up at him, a glimmer of hope springing into her breast, and shook her head. “No.”
+He sat up straight, reached past her for her laptop, and hefted it onto his outstretched legs. “Well, then, let’s see what we can scrounge up.”
+“I’ve already tried to hack their cameras.” When he raised his eyebrow at her, she explained, “They’re old school. Everything is recorded on video tape within the store.”
+His lips raised and Nay’s gaze was drawn to the small dimples on either side of his mouth.
+“Does Elliott still have that extra helmet around here somewhere?”
+“Yeah. Why?”
+“Wanna go for a little ride?”
+She let out a small laugh. “I knew there was a reason I told you what was going on.”
+
+CHAPTER 2
+Gunner helped Nay climb onto his bike behind him. A black backpack strapped over her narrow shoulders held her laptop. Her red helmet bobbled on her head, attempting to hang over her eyes. He had tightened the strap as far as it would go, but she still looked like a bubblehead with it on. He wasn’t stupid enough to tell her that, however.
+“I’ve never been on a motorcycle before!” she yelled over the roar of his bike.
+He squinted as his sensitive earbuds reverberated from the loudness of her voice. She had no idea he could hear her whisper from five hundred feet away and that her attempt to make herself be heard over the bike’s engine was like clapping cymbals next to his head.
+Gunner glanced over his shoulder. “Well, then, I guess you’re in for a treat. Hold on tight.”
+Her arms wrapped around him, and she slid forward on the seat, her thighs hugging his. The pertness of her breasts dug into his back, through his shirt. He revved the bike, kicked it into gear, and shot off.
+She squeaked, and her hands fisted together in front of him. He grabbed them to make sure she didn’t slip free. They were small and warm, the skin soft.
+Gunner twisted the bike through the small streets of the neighborhood. Each bump made him more aware of just how well-endowed she was. Every time he took off from a stop, her legs clamped tighter to his.
+Shit. I’m enjoying this way too much.
+When they finally made it to Charleston Boulevard, traffic prevented them from moving at the pace he preferred—fast and faster—so he moseyed down the busy street. Eventually, Nay relaxed against him, and his brain finally got off the subject of her body and onto thoughts of her sister.
+He wondered why the cops had told her to back off. Knowing Nay, she probably didn’t. He’d seen her play with the other boys. Nay was a fighter to the dogged end. It was something he admired about her.
+A car cut him off, and he clamped down on the brakes, causing his bike to tilt sideways. Nay gasped, and Gunner shot his arm backward and wrapped it around her, getting his bike under control with the other hand still gripped to the handlebars.
+Fucking Vegas drivers. Never look over their damn shoulder before changing lanes.
+A few seconds later, after they readjusted and the opportunity presented itself, Gunner put on the gas and circled around the offending vehicle. As they passed it, he stuck his left hand out, giving the car the bird as they passed.
+Nay’s trill of laughter floated to him, and she copied him. He smiled, enjoying himself for the first time in weeks. He made it past a group of vehicles and increased his speed until they reached Buffalo Drive. Gunner turned past the building, eyeing the parking lot to get an idea of who was there. The bookstore’s windows were dark and two vehicles were in the lot.
+He continued around the block, parking in a neighborhood where he didn’t see any cameras. Nay climbed off the bike. When Gunner stood, he studied her as she struggled with the helmet’s fastenings. His baseball hat came off with his helmet. He shook his head, pushed his bangs out of his face, and replaced the cap.
+Nay stomped her foot and shot him a glare. “Well, are you going to help me take this stupid thing off or just stare at me?”
+Gunner considered the question. He realized he wouldn’t mind watching her and enjoy the show, but she’d probably get pissed. “Lift your chin.”
+When her pointed chin raised, he reached for the fastening. His gaze roamed from her rounded lips, to her chin, and down her smooth neck where her pulse pumped in an even pattern. His Designation on the left side of his neck tingled, saliva pooled in his mouth, and his canines moved slightly downward.
+“Shit,” he said under his breath and he stepped away from her.
+“What’s wrong?” She stared up at him, a frown marring the bridge of nose.
+He almost lowered his lids, afraid his eyes were glowing as his powers stirred.
+You need to get yourself in check, Gun.
+“Nothing. I caught a hangnail on the strap.” He clamped his jaw in an effort to get himself under control.
+I think it’s been too long since I’ve been laid.
+He calculated the date in his head.
+Yeah. Way too long.
+Gunner moved forward again, this time forcing his gaze to stay on the buckle. It finally snapped free, and he pulled the helmet from her head. Her hair, filled with static, crinkled and stuck up in the air.
+“Great,” she muttered, lifting her hands and smoothing the lengths.
+He locked the helmets to his bike and examined the area. “You up for jumping a few walls?”
+Nay shrugged.
+Gunner tilted his head. “There are some basic rules. First, don’t touch anything unless I say it’s okay to touch it. Okay?”
+She nodded.
+“Secondly, you walk exactly in my footsteps. No straying. No dillydallying. Got it?”
+“Got it.”
+“Follow me,” he said, and he swiveled around, staying to the dappled shadows cast by the streetlights through the trees. Gunner scanned the houses to make sure no one peeked out of their windows. He entered a yard, hugging the cinderblock wall until they reached a gate.
+Gunner checked the gate and, finding it unlocked, tripped the latch. The metal protested with a loud screech when he pulled it open and he froze. Nay’s stilted breaths reached his ears. Forcing his hearing beyond the distracting girl behind him, he listened for any hint the gate had drawn any attention. When silence greeted him, he opened the gate slowly, only far enough so they could slip through.
+He edged into the backyard and peeked around the corner of the house. The vacant area had no signs of animals, and no movement came from inside the windows. Gunner could make out the sounds of a TV from somewhere within the home, but nothing else. He glanced over his shoulder at Nay. She huddled against the wall, her eyes like saucers.
+Gunner started up again, tiptoeing to the back wall. He peered over the top and saw the alley that ran behind the bookstore’s building. When he found no signs of cameras, he pivoted back to Nay, who was just behind him. He leaned over and cupped his hands. Nay blinked down at them. “Let’s go,” he whispered to her.
+She stepped into his palms. She was so light, her canvas covered foot barely registered. Gunner hefted her up, and she groped for the top of the wall. Once she had a good handhold, he pushed her up farther, and she lifted a slender leg over the top. He stood and she slipped, her behind swiping his chin. Gunner automatically brought up his hands. One caught her around the waist, while the other grasped her crotch.
+She gasped.
+Gunner lowered his eyelids. Crap. He adjusted his hand so it cupped her from behind instead. Careful not to use too much strength and send her careening over, he pushed her gently onto the top of the wall, and then followed her up. They both landed on the other side at the same time. “You okay?”
+She nodded, her face pink in the light shining from the street at the end of the alleyway.
+#
+Nay stared down the alley, trying to keep her focus on anything but Gunner.
+Well, that was embarrassing.
+Her heart thundered in her chest. She wasn’t sure if she was nervous or affected by the thrill that shot through her when Gunner’s hand touched her right where it counted. Gunner edged toward the back of the building. She stepped where he stepped, her small legs going wide to keep up with his long gait.
+He glanced over his shoulder at her and stopped, his brow creasing. “What are you doing?”
+She froze and stared up at him. “What do you mean, what am I doing? I’m following your footsteps.”
+Gunner regarded her, putting his hands on his hips. Blood crept up her neck when she glimpsed the long fingers, remembering the heat of them down below.
+Stop it, you stupid ninny.
+She forced her gaze past his shoulder to the bookstore entrance.
+“I didn’t mean, like, literally you have to follow in my steps. I meant stay behind me.”
+Nay put her own hands on her hips. “Well, then you should’ve said that.”
+He shook his head and resumed his trek to the door. Gunner shooed her against the wall with wave of his hand. He leaned over to check the door’s lock, and Nay found herself staring at his jean clad ass. She quickly lowered her lids.
+What the hell are you doing?
+“What are you doing now?” Gunner whispered.
+She whipped her eyes open and shook her head. “Nothing,” she squeaked. “Just nervous.”
+He stood up straight and turned the knob. The door swung open.
+“Wow, that was, like, super quick.”
+His lips lifted on one side. “Yeah, I’m, like, pretty good at this.” He entered and held up a finger to her.
+She waited, sure her heart would burst out of her ribcage. She’d never done anything like this. Well, she hadn’t ever physically broken into a place. She’d done it plenty of times online.
+Gunner peeked his head out and tilted it to indicate she was clear to enter. She strode into a room crammed high with books and boxes. The smell of ink and old paper, with an overtone of dust, saturated the air.
+“Come on,” he whispered. She caught up with his disappearing tall frame at the end of a hallway. He changed course into a small office where VHS tapes stacked haphazardly on the floor and up the wall.
+Gunner picked up a few and sorted through them. “You said two nights ago, correct?”
+She nodded her head, swallowing convulsively. He aimed a glare at her. “Yes,” she gasped. “Two days ago.”
+As the tapes clicked against each other, Nay peered around, wringing her hands. “This place doesn’t have an alarm, does it?”
+Gunner shook his head while reading the labels. “No. It was a fake one. It’ll fool the newbs.”
+Nay scratched the back of her neck as things started to fall into place. “I take it you’re not a newb?”
+He palmed a tape, put it into a VCR, and switched on a small TV on a counter. “You could say that.”
+She blinked, not sure what to say. A blurry image lit up the monitor. The split screen showed two different angles. One showed a view behind the cash register, and the other aimed at the entrance with a view of the walkway and some of the parking lot beyond. A timestamp showed it was the morning of the day Kristine was taken.
+Gunner reached out a long index finger and pushed a button to fast-forward the tape. The images slipped by in rapid succession, causing people to move jerkily in an almost comedic fashion. Nay couldn’t take her gaze away from the screen. “Stop.” Faster than she could’ve believed, Gunner paused the tape. “Can you rewind it slowly?” His middle finger pushed another button and the images chopped by, going backward. “There she is,” Nay whispered, and Gunner froze the tape. Nay’s breath caught in her throat at the image of her sister entering the store. She glanced down at the time on the monitor. Four-thirty-two.
+He started the tape at normal speed. Nay stared at Kristine. The girl, her long, dark hair draping down her back, shifted from shelf-to-shelf, pulling down different books, reading the back blurbs, and even the first few paragraphs of some of the tombs. Often she pulled out her cell and texted someone. Gunner fast-forwarded through a few of the sections when Kristine found a spot on the floor to read.
+Nay tilted her head. Her sister had always been a bookworm, where Nadine could always be found in front of a computer screen. Even though Nay had bought her sister a used eReader, her sister preferred print books. After going through close to twenty minutes of footage, her sister glanced out the window. She made her way closer to the cash register desk at the back of the store and skimmed through some manga, every once in a while standing on her tiptoes to regard the parking lot. The girl spoke to the person at the counter for a few minutes and continued to browse. The man at the counter moved out of the camera’s angle, presumably to the backroom.
+From the other camera angle, a car pulled up in front of the store. It was light colored, possibly tan or silver. It was hard to tell in the black and white footage. Nay glanced at the other view. Kristine sat against a bookshelf, facing the cash register counter and hidden from anyone inspecting the store from the front door.
+The girl flinched and dropped her book. She shot quickly to her feet and sneaked a look around the edge of the shelf. Kristine swiveled back around, her eyes closed and shook her head. She flinched again and peered out the front window.
+“I think he’s—or she’s—honking,” Gunner said.
+Nay had almost forgotten he was there, she’d been so caught up in the film. Her sister sent a searching look toward the backroom. Then she put the book she had dropped back on the shelf, squared her shoulders, and rotated to the front door. She walked slowly, as if she was in pain. Nay’s gaze switched to the other angle, where the image of the front door and part of the car could be seen through the painted letters on the front window. When the girl reached out for the front door handle, Nay gasped. “No. Don’t go, Kristine. Stay in the store, damn it! Stay in the store.”
+Kristine stepped out onto the walkway, the door shutting behind her. She remained close to the building, speaking to the person inside the vehicle. Her hands shot down, sharp and succinct.
+Nay shifted closer to the TV, wishing she could reach through and yank her sister back into the store. Kristine continued to argue with the person. Through a hole in one of the window letters, the car door opened and long, slack-covered legs strode over to her sister. Kristine backed up against the window and the camera shook when she hit the glass.
+Nay’s hands grasped the sides of the box, her head shaking. Her sister fought against the man, her image hard to see from the camera’s angle. Then her sister slumped to the side. Arms circled her, catching her before she fell to the cement. For a brief moment, the side of the perpetrator’s face and dark hair became visible as he bent to pick up Kristine. He carried her to the car, only his legs discernable. The car’s backdoor opened and he tossed her into the backseat, jumped into the front seat, and the car took off.
+A wheeling sound came from Nay’s throat, and she fell to her knees, unable to speak or move. Strong, warm arms wrapped around her. She rocked back and forth, unable to fathom what she’d just watched.
+“He took her,” she finally said. “She’s gone.” Nay squeezed her eyes shut and hot tears burned her cheeks. “She’s gone…”  Gunner held her closer and he shook his head.
+“She isn’t gone. We’re going to find her, all right?”
+Nay shook her head. “How? He kidnapped her! She’s gone!”
+Gunner pulled away from her and placed his hands on both sides of her head. “Nay, listen. We will find her. I know ways to find her.”
+She shook her head, blinded by the tears blocking her vision. “How?” she repeated.
+“There’s all kinds of ways.”
+Nay closed her eyes. The vision of her sister fighting against the man, her body falling, and the man carrying her away repeated over and over again behind her lids. She wept. “Oh, my God,” she wailed. “I can’t believe this is happening.”
+Gunner gripped her to his chest and ran his hand up and down her back. When her hiccups finally subsided, she pulled away.
+Gunner studied her as he lifted his hand and brushed back her hair. “You ready to do this?”
+Nay stared up at him through her swollen eyelids. “Yes.”
+#
+Gunner eyed the girl, trying to act as if the video hadn’t affected him. It had. More than he’d like to admit. Nay’s lips were swollen and a sheen of snot moistened the area beneath her nose. There was no way he would point it out to her. She’d probably be embarrassed as all hell. But he actually found it kind of cute.
+Jesus, if Nico could see me now.
+Nico would never let him live down how much he was mooning over this girl. Gunner stood and reached out a hand to Nay. She grasped it, and he yanked her up, struck at how much his hand engulfed hers.
+Once he assessed she was steady on her feet, Gunner switched his attention back to the VCR. He ejected the tape and slipped his phone from his pocket. To the rest of the world, his cell appeared to be one of the more popular brands of smartphones. However, what was inside was an entirely different story.
+He browsed to one of his homegrown apps and then laid the device over the tape. The app started downloading the tape’s footage.
+“Why don’t we put everything back the way it was when we came in?” he said to keep Nay distracted from his phone's actions. Gunner reached for some of the tapes they’d moved during their search.
+“Aren’t we taking that one?” she asked, pointing to the tape under his phone.
+“No,” he said, quickly coming up with a story. “When the cops need it, they’ll wonder why it disappeared, and there’ll be a lot of questions. I’ll come back later and make a copy of it.”
+Nay’s smooth forehead marred with creases. “Later? Why not now?”
+Lights shone through the front window, slanting against the wall outside of the office.
+“Shit,” he said. “Stay here.” Gunner edged out of the room and took a swift glance around the corner and out the front window. A car pulled into the parking lot and stopped. A woman crossed in front of the bookstore, trotted to the waiting car, and climbed in. The car backed up and drove from the lot. He let out a breath he hadn’t known he was holding and pivoted around, crashing into Nay. She grunted and fell on her butt, her narrow legs sticking straight out in front of her.
+“What the hell, Nay? I told you to stay back in the office.”
+She glared at him from beneath her angled eyebrows. “I wasn’t staying in there by myself.”
+He blinked down at her and sighed. “Come on,” he said, and helped her up. “I don’t want to stick around any longer. Let’s skip this joint.”
+Nay wiped her palms on her pants and nodded in agreement.
+
+CHAPTER 3
+“Where are we heading?” Nay asked as Gunner tightened her helmet’s clasp.
+“I’m taking you back to your place. I have to pick up some of my gear. Then I’ll head back.” He climbed on his bike and waited for her to get on behind him. She shuffled her feet, glancing down the street.
+“What’s up?” he asked, knowing she was building up to something.
+Nay’s fingers fiddled with each other. “I don’t…” She bit her lip. “I just don’t want to be by myself right now. Can I come with you?”
+Gunner paused, struggling to come up with a reply. He could in no way bring her to the complex. She was not within the circle of humans allowed to have knowledge about the Anathergians. “I don’t think that’s really possible.”
+She smirked. “Why? Afraid your girlfriend’s gonna get jealous?”
+He almost laughed. “First, I don’t have a girlfriend. And second, my place is…” Gunner stopped. “Actually, there’s someplace else we can go. It’s a bit of a drive, though.”
+She nodded. “Let’s do it.”
+He started up the engine and she climbed onto the seat behind him. Once she was secure, he took off and headed to the freeway. At the red turn signal, Nay patted his stomach and he looked back at her.
+“Where are we going?”
+“Mt. Charleston.”
+“What?” she asked, her eyes wide.
+“I have a cabin up there.”
+She nodded.
+The drive didn’t take long, since it was such a late—or very early—hour. The closer they were to the mountain, the cooler it became. Summer had made its appearance over the last few weeks, and the cool air whipped around him, buzzing in his ears. The tenseness in his muscles faded as the rhythm of the bike’s engine and the warmth of the girl lulled him into a relaxed state.
+I could get used to this.
+His bike manipulated the twists and turns of the mountain highway. Clouds hid the moon, making the night dark. His single headlight provided the only illumination. The tall pine trees tunneled their path, giving the illusion they were the sole people on the mountainside. He angled to the right onto a road lined with cabins. Close to the end of the road, he pulled into his driveway.
+He switched off the bike and waited for Nay to dismount. She slid from the seat and he shivered when her warmth left him. Gunner gave himself an internal shake as he dismounted, swinging his leg over the bike and coming to a stand. He edged closer to her to help her remove her helmet, but she stepped back. Her lips scrunched to the side, and her narrow fingers toyed with the buckle beneath her chin. It loosened, and she pulled at the straps, tugging the helmet free.
+A huge smile split her face. “I did it.”
+Gunner almost laughed at her.
+So happy over the tiniest thing.
+“Right on,” he said and gave her a high five.
+She jumped up high and slapped his palm hard, giggling. Her happiness was infectious, and he smiled with her.
+He trudged up to the front door and ran his finger over a metal plate. To the normal person, it appeared like the thing covered a hole in the wall. In reality, it was a security device Gunner made some time ago. It scanned the person’s fingerprint and took a quick test of the visitor’s DNA from the finger’s skin cells. The fingerprints were put into the database by him alone, and included the Anathergians within his immediate circle. But, if the person was not Anathergian, they were not granted access unless he’d added them. His door popped open and, when they entered, he switched on a light and accessed the secondary panel to inform the system he had a female human with him.
+Nadine passed him, her head turning about, taking in the place. Other than his fellow Anathergians, he’d never brought anyone here before. It was his getaway place, and he liked to keep it private.
+“So, this is it,” he said, stretching out his arms to encompass the front room, which consisted of a few stuffed chairs and a fireplace. 
+“Very cool,” she said, nodding her head. Her gaze slid up the narrow stairway to the loft.
+He led her toward the back of the house and ran his hand over the breakfast bar. “The kitchen isn’t much, but it’s all I need. I’m not a big cook, anyway.” Gunner stopped next to a black leather couch. “This was meant to be a dining room, but I changed it into a living room.”
+He stepped over to the coffee table and picked up a remote. “I have all the channels, so you can watch whatever you want. There’s food and drinks in the fridge.” He glanced at the back sliding glass door. To the right of it was his playroom, filled to capacity with the top tech he could find on this planet.
+Nay stared at the three monochrome images of Marilyn Monroe on the wall. “This is fantastic.”
+Pride swelled his chest. “Yeah, it does pretty good in a pinch.”
+She scoffed. “Whatever.” Nay slid her backpack from her shoulders, placed it on one of the barstools and then slipped off her sneakers. He watched the girl make herself at home in his place, and wasn’t quite sure what to do. Her black socks slid along the wood paneled floor as she headed to the couch. Gunner followed her.
+Nay glanced over her shoulder. “Do you have any water?”
+“Oh,” he blinked. “Sure. Uh, yeah, let me see what I’ve got.” A maid came by each week to clean up and stock the kitchen for him. He wondered what she’d put in there and when she’d come by last. His king and queen, Auden and Leah, had been to the place a few days before, and Gunner wasn’t sure what was left.
+He yanked the stainless steel door handle on the fridge open and examined the contents. “I have different kinds of sparkling water,” he called to her over the granite counter. “There’s lemon, raspberry, and strawberry. There’s also some different teas in here. And then plain water.”
+Gunner stood and observed her as she dropped onto the couch, the material engulfing her. “How about raspberry?”
+Nodding, he pulled out two bottles, pivoted back to her, but then stopped.
+Don’t be a douche. Glasses. Don’t make her drink from a bottle.
+Gunner reached up into a cabinet and brought down two tall glasses. He opened a bottle and compressed air gushed from the opening. Liquid immediately bubbled over the top and down his hand. He twisted the lid shut with only a bit of a spill. Gunner rolled his eyes at himself and then glanced around the room for something to wipe his hands on. Finding nothing, he sucked the drips off his fingers, rinsed them in the sink, and dried them on his jeans.
+When he finally had the glasses full, he entered the room and handed her one. He sank into the cushion next to her and placed his glass on the coffee table. “Uh,” he said, not sure where to start. “Do you want the couch or the bed?”
+Her eyes became saucers. “The couch is fine.”
+He nodded. “I have some spare blankets and stuff. I’ll get them for you.” Gunner quickly lifted to his feet, and shuffled to a closet. After gathering the blankets and pillows, he carried them over and placed them where he had sat. She stood and smoothed the blankets over the sofa.
+Gunner wrung his hands together. “I’ll try to track down that car.”
+She glanced up at him. “Don’t you need the video footage for that?”
+Crap.
+“Uh, yeah. So, I’m heading out for that now. Why don’t you try to get some shuteye? I’ll be back soon.”
+She nodded and Gunner slipped out the front door. He rocked back and forth on his feet, not sure what he should do. His stomach growled and he smiled, knowing the perfect place to get some chow.
+###
+After Nay heard Gunner’s bike take off, she stood and moseyed around the room. Beneath the TV was a low bookcase, and she read some of the titles. Many of them were historical books mostly having to do with Texas. She browsed about, trying to get a sense of the house’s owner. Nay wondered how he could afford a cabin he obviously didn’t live in on a regular basis.
+She shrugged. Maybe he inherited it from his parents.
+On the wall were three framed black and white images of Marilyn Monroe. There were no personal photos anywhere. She strode over to the sliding glass door and stared out into the thicket of trees. The moon had finally made an appearance, and it cast an eerie glow over the mountainside. To her right was a partially open door. She pushed it open, switched on the light, and gasped.
+Huge monitors covered the far wall. She inched into the room, and her gaze strayed to the assortment of laptops and computer towers on top of and below the room-length desk. When she moved closer, she tilted her head to get a better view.
+“What the…”
+Nay picked up one of the laptops, turned it over to reveal the make and model, and gaped.
+That model was only ever a concept.
+She stared around the room. “What in the hell is he doing with this type of equipment?”
+Her palms itched when she thought of what she could do with the toys in front of her. She reached over to power up one of the units, but stopped herself. Gunner would be super pissed if she screwed with his things.
+Okay, so maybe I won’t turn them on. But nothing’s stopping me from having a peek inside.
+Behind her was a black and silver mechanic storage set. She slid a drawer open. Each tool was meticulously placed in its particular spot. Nay’s eyebrows raised.
+OCD much?
+She glanced back at the towers, biting her lip, wondering if she should risk it. Shrugging, she picked out a couple of tools from the drawer and swiveled back to the desk, and stopped. She scrutinized the desk, trying to figure out what was missing.
+There aren’t any keyboards. The monitors aren’t touchscreen, either.
+She shook her head, confused. Nay kneeled, pushed the huge desk chair out of the way, and slid out the largest tower. She reached around and disconnected the wires and power supply and then laid the unit on its side. Nay grasped the tool she’d need and aimed it at the first screw, and stopped.
+“What the hell?”
+She’d never seen that type of screw before. Returning to the drawers, she opened each one to find the correct piece of equipment to remove the screws. There wasn’t one.
+Nay put her hands on her hips, gazing between the tool box and tower. She let out a huff of air and picked up the tools from the floor and returned them to their spots, making sure they were exactly how she’d found them. After closing the storage unit, she replaced the wires, and slipped the computer back to its proper spot.
+Back on her feet, she studied the room to make sure everything was how she found it. She headed back into the living room and then into the kitchen. In the refrigerator, she pulled out drawers, searching for something to eat. Nay unwrapped a package of sandwich meat and sniffed at it.
+“Wow,” she murmured. It was actually the best roast beef and fresh. She found bread and made a sandwich. While searching for a butter knife, she opened every drawer in the kitchen.
+Does this man not have anything personal?
+It crossed her mind to wander up to the loft, but she dismissed the thought immediately when she imagined Gunner walking in on her while she was going through his underwear drawer. She shrugged.
+With her plate, she took her seat back on the couch and switched on the TV. She munched on her sandwich as she watched an old black and white horror film. Full, she wrapped her blanket around herself and sunk into the cushions.
+Yeah, I could get used to this.
+###
+Gunner opened the front door and was greeted with the sound of a woman screaming. He pushed the door wide and froze as the screaming turned to sobs. The glare of the TV shone off the dark floor. Closing the door behind him, he stepped softly into the living room. A blonde woman, tears falling from her coal-lined eyes, cried from the screen.
+Nay’s head rested on the sofa’s armrest. She was cocooned in a blanket and sound asleep with the remote in her hand. Gunner quietly stepped past the couch and switched off the TV, and then twisted around to regard Nay. The moon’s light cast her face in an ethereal glow, making her appear almost childlike. Her layered bangs dusted her slightly arched eyebrows and one long strand had landed into the side of her mouth, moving as she breathed. Gunner reached over and swiped the hair from her mouth. His knuckle ran along her lips. They were soft and warm and he let his finger stray there. Flashes of her beneath him and then her straddling him pierced his mind. He yanked his hand away before he acted on those impulses.
+Stop screwing around, Gun. Time to find her sister.
+He squared his shoulders and headed for his domain. After entering the room, he flipped on the light and froze. His searching gaze immediately found the slightly crooked stance of the large computer. Gunner frowned. The maid wasn’t allowed in this room.
+Was Nay fucking with my shit?
+She wouldn’t have been able to get into any of the systems because of his security, but that didn’t mean she didn’t try. He shut the door behind him and pivoted to his tool box and opened the drawers one at a time, identifying which tools she had removed and then attempted to replace the way she had found them. The equipment she needed to open anything of his wasn’t in the storage box. It was on his keychain.
+Good thing.
+He adjusted each and every piece until it was exactly how he wanted it and then stepped up to the desk. “Sha'lull,” he murmured in Anathergian. The monitors and systems came to life.
+Gunner took his place within the wide, leather chair. He lifted his hands and a virtual keyboard materialized in midair beneath his fingertips. Each key lit up as he touched them. It wasn’t actually necessary for him to even use a keyboard, but since Nay was in the next room, he didn’t want her to hear him speaking to his systems. Especially when many of the commands were in a language used by an alien race.
+He placed his phone on the desk and the computer scanned it and copied the video into its hard drive. Gunner leaned forward and the video feed appeared in front of him, offering him a panoramic view of the footage. He reached into the image and shuffled the reel to the timeframe right before Kristine arrived. Slicing there, he edged the film forward to a few minutes after she was taken and made another splice. He pushed away the extra pieces and expanded the cut he needed.
+Gunner meticulously studied every single frame, searching for any small clue to help him determine what happened to the girl. The grainy image made it difficult to decipher a lot, but there were a few decent sections.
+When he got to the part where Kristine texted, he murmured, “Determine text message.” Though he couldn’t actually see the girl’s screen, the system could figure out what she was typing by the movement and placement of her fingers. A green, opaque square laid over the video’s image and situated itself over Kristine’s hands and phone. It stretched and morphed until it melded to them. The video slowed and, as each of the girl’s fingers touched her screen, a green light glowed. A screen appeared below the video and text streamed across it.
+I told u i don’t want to leave m alone
+Pegasus Fairytales
+No! I cant im staying
+Don’t come here. Just lv me alone!
+Jules when will u b here? I need u to pick me up pls
+Can u come any quicker? Rick is coming and I don’t want to be here
+I know hes an asshole. How long will u be
+Ok pls hurry
+Gunner clenched his jaw as the car pulled up in front of the building.
+Hes here! omg I don’t know what 2 do pls get here now!
+A knot formed in his stomach as he watched the girl go outside. Why she ever went, he had no clue. She should’ve stayed put. More than likely the guy wouldn’t have gone into the store to get her. It would’ve been too much of a risk.
+When the camera gave him his best shot of the car, he said, “Analyze vehicle.” The green scanner blanketed the screen again and examined the car. A third screen above the feed appeared, showing the make and model of the vehicle. A 2013 Chrysler 300C in metallic silver spun around within the frame.
+As the man stepped out of the vehicle, Gunner froze the feed. “Provide human measurements.” As the system scanned the man, allowing one frame at a time to move forward, Gunner switched to another system to access the Nevada DMV database to give him a list of all vehicles with that model and color registered within the state.
+When he returned to the first system, a readout showed the man was between five-foot-eleven and six-feet. The approximate weight was around one hundred sixty-five and one hundred seventy pounds. His foot size was either eleven or twelve.
+The scanner had taken the one image of the man’s face, froze it, and then slid it onto another virtual monitor. A green light blinked, waiting for his command. “Scan for facial recognition,” he said, hoping the image was enough to hit something.
+An indistinct sound from the other side of the door caught his attention. He angled his chin over his shoulder, trying to make out what it was. It came again.
+“Nagh'mar,” he said beneath his breath. His systems slipped into slumber mode, though they still continued the work he’d assigned them.
+Gunner pushed back the chair and slipped to the door, quietly opening it. He bent his head around the doorframe and peeked at Nay. The girl’s arms flailed beneath the blanket, and she gasped and mumbled to herself. Gunner swiftly kneeled in front of her.
+Her lids were closed, but her eyes moved back and forth beneath them. “Nay,” he whispered, lifting his hand up to smooth it along her upper arm. He focused on his core and allowed a small amount of power to seep through to try and soothe her.
+Nay’s arm came loose from the blanket and she flung it backward. Gunner reared back to avoid being hit. He leaned forward again, this time placing his palm against her cheek. It was moist from a thin layer of sweat.
+“It’s okay, Nay. I got ya’. You’re safe.” His gaze roamed down and caught a glint of silver. He peered closer at it. A silver heart-shaped locket hung from a matching chain around her neck.
+Nay let out a long sigh and her muscles relaxed. Gunner glanced back up at her face, perusing her high cheekbones and rounded lips. He kept his hand cupped to her cheek to make sure she calmed. After a few moments of her even breathing, he readjusted the blankets around her, and stood.
+A yawn stretched his jaw wide. There wasn’t much else he could do from here. The system could take care of the rest.
+Time for some shuteye.
+He locked his computer room and swiveled around to stare down at the girl. There was no way he could risk Nay seeing what his system could do. He studied her as he passed. She inhaled and small snores escaped from her nose.
+Gunner smiled, rechecked all of the security within the house, and then headed up to the loft. He yanked off his shirts, while kicking off his boots and letting his jeans drop to the floor. Not bothering to crawl beneath the blankets, he was asleep before he hit the pillow.
+
+CHAPTER 4
+“Gunner?”
+Gunner’s powers immediately hurtled into high alert and he sprang out of bed. He spun in the air, moving so fast the human eye couldn’t keep up. The room circled around him in slow motion, and he saw everything in minute detail. Nay stood at the foot of his mattress, her attention still aimed at where he had slumbered.
+His neck singed where the Designation of a straight eared dog burned a fiery orange, and his eyes blazed russet brown, easy to see in the dark. Fangs distended beyond his bottom lip, and his top lip curled up into a snarl. In his split second glance at Nay, he took in her tousled hair and sleep swollen lips. Sometime during the night she had removed her sweatshirt, leaving her with a dark t-shirt. And braless. Instead of her jeans, she wore boxers. Gunner continued his spin so he landed with his back facing her.
+She gasped and shuffled her feet on the floor. His gaze bored into the wall and he gulped in two deep breaths, trying to get his powers under control. Lowering his lids, he waited for the flames in the pit of his stomach, where the core of his powers smoldered, to cool. Finally his fangs melded back into regular incisors and the searing on his neck dissipated.
+“Jesus, Nay,” he gritted out as he swiveled to face her. “You gave me a fucking heart attack.”
+Nay’s eyes bulged, and her examination trekked from his face, to his bare chest, and continued down to linger over his bared goods. Her hands sprung up to her mouth, but he noticed she didn’t block her view as she continued to stare.
+He could’ve been the gentleman and turned away, but she came into his room. And he preferred to sleep in the buff. As she gawked, the thing began to spring to life, liking the attention.
+“Had your fill?” he asked.
+Nay’s lids squeezed shut. “Sorry.” Her hands scrubbed her face and she twisted around, giving him her back. “I… I couldn’t sleep. A nightmare woke me, and I thought…”
+Her dark head shook, and Gunner took pity on her. He yanked the sheet from beneath the crumpled quilt and wrapped it around his waist, knotting it in place. “You all right?”
+She glimpsed over her shoulder and then faced him once more. “I keep dreaming I find Kristine’s dead body in the desert.” Her eyes misted and she lifted a shaking hand to her hair, pushing it behind an ear.
+“We’ll find her, Nay. I have some things in the fire, tracking down that bastard.”
+She blinked and shuffled to the bed, sitting stiffly on the edge of the mattress. “I know. I believe you. But what if we’re too late? What if she’s already dead?”
+Gunner strode over to her and sat beside her. “That’s not going to happen.”
+She nodded and tilted her head so it lay on his shoulder. His muscles tightened and he struggled not to let his thoughts stray to where they shouldn’t.
+Her sister was kidnapped and we’re in the middle of trying to find the girl, and all you can think about is fucking her? Get your shit together, douche.
+“I just wish I knew where she is,” she whispered.
+Gunner curved his arm around her and hugged her gently against him. “We’ll find her. Soon.”
+She nodded, and then her wide gaze turned to him, her mouth inches from his. He inhaled and tasted the scent of her raspberry sparkling water. “Is it okay if I stay up here? I’m afraid to be by myself.”
+Gunner stilled, attempting to hide the alarm bells going off in his head. “Uh, yeah. Sure.”
+She smiled and her face lit up. For a moment, he was struck by the transformation. He rose to his feet and paced back to his side of the bed. She stood and watched him. He stretched his hand out, indicating the right side of the bed. “Uh, I’ll…uh…take this side.”
+He hefted up the quilt. “Here, you can use this. I’m fine with the sheet.”
+Nay nodded, her layered strands shadowing her face. She climbed over the mattress, gathered the blanket around her, and her head sunk into the pillow with her back to him.
+Gunner eyed her, fascinated by the situation, unsure of how to handle having her in his bed. He unraveled the knot on his sheet, wrapped it around his body, and lowered himself to the mattress. On his back, he rubbed his eyes with the balls of his hands while letting out a huge gush of air.
+He’d been dead to the world when she came up, which didn’t surprise him since he hadn’t slept in so long. Even now, fatigue pulled at his lids, but he wasn’t sure how soundly he’d sleep with Nay beside him.
+She was definitely the kind of woman he preferred. But, he didn’t want to ruin their friendship because the chances of them having a long term relationship were pretty much nil. He was Anathergian. She was not. He was immortal. She was not. He would not age, whereas she would grow old and frail and die.
+Of course, he could be killed in a few different ways. Mainly by incineration or by his own choice to go to the next plain.
+She was a nice person, and she would eventually find the man of her dreams who made her happily ever after. He would one day find his Anathergian Lifemate who he’d live and breathe for. And, whoever she is—if she even lives—his connection with her would be so entrenched, he would die without her.
+He had seen this almost happen to his king, Auden. Everyone believed his Lifemate, Leah, was dead. It turned out her father, an Anathergian and their enemy, had used a substance that cloaked Leah from Auden. She’d been saved, and Auden had survived. Barely.
+Gunner glanced at the girl beside him. Already her breathing lifted her shoulders in even intervals.
+Yep, it’s going to be a long night.
+###
+Nay woke enveloped in warmth. Her eyes twitched behind her closed lids and she frowned. Something heavy laid over her side. She opened her eyes and found herself shrouded in darkness. Pulling her head back, she caught sight of two brown areolas surrounded by a muscular chest. An arm draped over her torso, and a muscular—and hairy—limb encircled her legs.
+She followed the view upward to an angled jaw and higher to a pair of masculine, kissable lips.
+How can they be both?
+As her trajectory continued, she found Gunner’s sleepy sunset eyes staring back at her. Thick eyelashes tipped with gold lowered for a moment, and dark brown hair stuck out around his head and caressed his shoulders. His hooded gaze slid to her mouth and she stopped breathing. She knew what came next. Her heart skipped and her stomach danced.
+Gunner shifted his arm and skimmed the side of her face with his fingers, pushing her hair away. His hand covered the side of her head and he leaned down, brushing his lips against hers, while his stare fixed on her. He opened his mouth and swiped his tongue out, tasting her. Trills of electricity shot down her chest, though her stomach, and to her core. Her muscles clenched, and she couldn’t stop the moan from escaping between her gaping lips. Gunner took advantage and crushed his mouth against hers, raiding her. Her own tongue found his and danced to his tune.
+Gunner’s hand left her hair and groped for the blanket tangled around her, tugging it free, while his mouth curved along her jaw. She bent her body, so he could gain better access to remove the offending material. Nay searched for the edge of his sheet, tearing at it, wanting to feel his skin against hers.
+He raised up, and she lifted her head, licking along his neck and collarbone. The man tasted of salt and eclectic energy, and she moistened, turned on. She pushed the sheet downward, running her hand along his ribs, hip, and thigh. Nay used her feet to kick it away.
+Her blanket finally came free and he tossed it to the floor. He stared at her, his face intense as he studied her. Gunner shifted to his knees, with her on her back, and him between her legs. He used his large hands to widen her legs, while his palms skimmed the inside of her thighs, moving closer to where she wanted—needed—him to be.
+She stared at his chest. Taut skin stretched over his pecs. The ribbed muscle of his abdomen didn’t have an ounce of fat. Her inspection continued downward, where veins distended from his Adonis belt. A dark line of hair traced from his navel and lead to his erection. It was huge, and she wondered with a shiver of panic and anticipation, how she would accommodate him.
+Nay had only been with one other person, and it had been a bumbling mess nearly every time. The relationship hadn’t even lasted half a year and ended over two years ago.
+His brow wrinkled. “Are you sure?” His voice was low and the timbre sent goose bumps along her skin, making her nipples pucker beneath her t-shirt.
+She nodded. “I’m sure.”
+#
+Gunner’s gaze combed her features, searching for any doubt. His heart beat fast in his chest, and his cock was ready to explode. He extended his hands to her boxers and reached beneath the elastic, skimming her smooth skin with his palms. Nay lifted her legs and brought them together up high. Gunner yanked the material upward and was afforded a glimpse of her entrance. He hitched a breath. It was wet and ready. His member perked up, excited.
+He threw the underwear over his shoulder, not caring where they landed. Her feet landed on either side of him, her knees hugging his hips. Gunner cupped the top of her thighs, pushing his hands downward, while leaning slightly forward. Her muscles jumped beneath his sensitive fingertips. When he made it to the base of her legs, he flicked out his thumb and ran it along her opening. She gasped and lifted her hips off the bed.
+The tip of his dick slickened. He grasped the hem of her t-shirt and, in one quick swoop, hauled it off her. She fell back onto the pillows, her dark hair haloing her head. Her silver locket fell into the hollow of her throat. As she sucked in deep breaths, her chest heaved. Her breasts were larger than she allowed people to know, just as he’d suspected. Gunner’s mouth watered and he leaned over to take one of the light pink nipples in his mouth.
+“Yes,” she moaned, and her fingers gripped his hair.
+He circled the bud with his tongue, while he squeezed the other. It was firm and full. He pinched the tip between his finger and thumb, and it expanded beneath his fingertips. The insistent throbbing below demanded more. Gunner switched sides, his breathing coming hard and fast.
+“Gunner, you’re driving me mad,” she muttered, as she ran her small hands down his back, digging into the muscle.
+He freed the nipple and moved upward, taking her hot mouth with his.
+The tingling at his neck gave evidence his powers were becoming involved, and he forced them down.
+Not yet.
+He wanted to enjoy this girl. She was sweet and fiery, and he wanted more. Nay pushed her hands lower and grasped his ass as she widened her legs. When he pulled away to taste her neck, she whispered against his ear. “Take me, now, Gunner. I can’t wait.”
+Gunner’s fangs slipped down just a fraction and he stilled. He closed his mouth securely around the alien evidence and pushed himself to his elbows to stare at her. Her swollen lips were covered in moisture, and her pupils were wide with passion.
+He kept his gaze on her, not wanting to miss a moment of her reaction. Reaching down, he guided himself to her. Instead of entering, he ran his length along her. She breathed out and arched her back, her fingernails digging into his waist. He did it again, more slowly, and she rocked her head back and forth. “Gunner, please…”
+Gunner wanted to watch her for as long as he could, because he knew, once he was inside her, he wouldn’t last long. He wanted to see her face as her orgasm took over. His hips lifted again, and he slid along her slickness in slow, excruciating movements.
+Her eyes widened. “Now, Gunner. Now!”
+He hefted upward and entered her in one fluid motion. A loud, guttural moan came from deep within him. Exquisite ecstasy shot through him, and he almost spilled within her immediately. He clamped his jaw and continued to study her. Her chin raised and quick gasps blew in and out of her.
+Gunner stayed deep within her as he tried to get control of himself. He grasped the hair at her neck and turned her face to his, and fastened his mouth over hers. His hips shifted and he pulled back and then pushed forward again.
+His mouth still covering hers, he regarded her eyes. They stared off, lost in the land of lust. His fangs extended farther, and he released her tongue. Gunner thrust again, and she swelled around his length.
+“So good,” he murmured against her lips. Her legs wrapped around him, locking behind him.
+This time when he pushed, she met him, slamming herself deeper. She half moaned and cried out. Her lids drifted shut and he moved quicker, knowing she was on the cusp. His neck tingled, and her face lit from the glow of his eyes. He was turning full Anathergian on her. He lunged harder and deeper, his sac slapping against her.
+She screamed as her core clamped around him, her mouth wide as she heaved in deep breaths. Her face contorted in pleasure, and her contractions pumped around him. She breathed outward, and he bent his face into her neck, not allowing her to see the evidence of his alienness.
+Nay’s orgasm continued, and he drove into her, deeper and harder. He wanted a taste of her. Just one small taste. He opened his mouth and pricked her smooth skin covering the pulse beating fast at the base of her neck with the tip of his fang. A deep red drop of blood swelled, and the glow of his russet eyes gave it a long shadow. Nay continued to shift beneath him. He flicked out his tongue and lapped up the bead. His eyelids lowered as her essence swam in his mouth. She was clean and wholesome.
+He pumped with more force. A heaviness built at the base of his cock and the head enlarged. He increased his pace, grunting into her sweat coated hair. His sac tightened, and he tried to stretch out the oncoming waves, forcing them back. Her tide of slick satisfaction drenched him, and his powers allowed him to push quicker. She cried out, and clamped around him again, her second orgasm sending him over the edge.
+“That’s right, Nay. Come,” he panted. “Come with me.”
+A tsunami of pleasure blanketed him, and his seed ejected into her. He whimpered at the exquisiteness of it. Her hips were tuned perfectly with his and both of their bodies synced together. Her muscles sucked him deeper, and he filled her again with his fluid. Still not done, his body drove into her as another gush of his semen expended.
+He gasped for air, unable to get enough oxygen. His powers cooled and he raised above her, their slick skin sticking to each other. Her face was wet and her hair stuck to her cheeks. She smiled up at him and then laughed.
+He was about to ask what the laugh was for, when she said, “I have never experienced anything like that in my life. Holy shit, that was incredible.”
+Warmth spread through his chest as he blinked down at her, and then he leaned down to taste her lips. He smiled against them, and drew away, pulling her with him as he laid on his back. She settled herself against him, and Gunner ran his finger along her spine.
+“A little piece of heaven in this literal hell I’m going through,” she muttered.
+He took in a breath and let it out slowly. “At least there’s that.”
+She nodded and sat up. “What have you found out?”
+“I’ll go check. First, bathroom stop.”
+Nay giggled as she stepped from the bed. He studied her lithe form as she searched for her clothes. “I’ve no idea where anything is,” he admitted.
+She shrugged. “Doesn’t matter.” Her bare feet padded along the floor as she headed to the bathroom.
+He listened as she turned on the shower. Gunner raised himself up from the mattress and fished his jeans from the floor as he headed down the stairs. After making a pit stop in the half bathroom, he buttoned his jeans and strode into his office to check the progress of his hunt.
+“Bingo,” he said, when his system showed the name of the man who took Kristine. A print out of the man’s record displayed next to the man’s image. Gunner frowned.
+Not good. Not good at all.
+Kristine had definitely become mixed up with the wrong person. Gunner texted Nico, letting the man know he needed the warrior to do a drive-by with him. Nico replied within seconds saying he was game.
+Gunner transferred the data to his phone and shut down his systems. As he locked the door, the echo of Nay’s feet on the stairs came to him.
+When she rounded the corner, he smiled at her, not wanting her to be aware of his concerns yet. “I’ve got some results.”
+“Right on,” she said, bumping her fist to his.
+He nodded. “I’m gonna hop in the shower. I’ve asked a friend to help, but it might take some heavy handed action, so I’m going to drop you by the house while we’re busy with that.”
+Her smooth brow wrinkled. “Why can’t I go with you?”
+Gunner let his face go blank. “It might get ugly, so it’s best if you stay safe for a bit.”
+“Huh uh,” she said, shaking her head. “No way. Not going to happen.”
+“Listen, Nay, I’m not trying to leave you out. Not even. But I don’t want you—”
+“Gunner, I appreciate what you’re trying to do, but there is no way in hell I’m not going to be there when you find this guy. Understand?”
+He studied her, and knew he was fighting a losing battle. Hefting a shoulder, he said, “Okay, but don’t say I didn’t warn you.”
+
+CHAPTER 5
+Nay clamped her arms around Gunner’s waist. His muscles stretched and contracted as he maneuvered turns on his bike. She was pissed at him because he tried to make her stay back while he worked on a lead for the man who took her sister. It didn’t mean she wasn’t enjoying having her arms around him though.
+Their fun together earlier that morning was beyond anything in her wildest fantasies. She hadn’t even known it was possible to experience that kind of pleasure. She’d heard some of the guys talk about it, and even some girls, but she’d never believed them. Now she knew what all the fuss was about.
+Gunner pulled into a gas station at a busy intersection on the east side of town. He rolled past the convenience store and stopped next to an SUV. The passenger window rolled down and a long haired man in sunglasses twisted his head to look at them. Gunner switched off the bike and slid down the kick stand.
+He and Nay approached the open window. The man inside lowered his chin and slid his sunglasses down his nose, eyeing them. “What’s this?” He tilted his head toward Nay.
+“This is Nadine,” Gunner muttered. “Nay, meet Nico.”
+Nay nodded her head, and her helmet rocked with the motion. She pushed it up so it didn’t block her vision. “Nice to meet you.”
+The man lifted his chin at her, removed his sunglasses, and hung his hand over his steering wheel. He studied Gunner for a few moments. “Are you sure about this?”
+Gunner shrugged. “I warned her. We’ll just have to go soft…”
+Nico gave a small laugh, revealing bright, even teeth. He glanced out the windshield and the light caught his eyes. One was gray and the other one blue.
+That’s different.
+“I don’t do soft.” The man tapped his steering wheel with his thumb. “If things go south—”
+“I know,” Gunner interrupted. “I’ll handle it.”
+Nico nodded and his ponytail swished against his leather seat.
+“What do you plan on handling?” Nay asked.
+Gunner glanced at her, the bill of his backward hat brushing against his long hair. “Business, darlin’. Just business.”
+Nay was about to retort, when Nico said, “Let’s head out. The man is asleep right now. No idea for how long.”
+“Sounds good. We’ll follow you.”
+Gunner touched her elbow, bringing her back to the bike. After she climbed on behind him, he swiveled his helmeted head back to her. “Remember what I said. Things can get ugly. If they go sideways, I’ll tell you to get out. If I tell you to get out, or to do anything else, you will immediately follow what I say to the letter without question. You got it?”
+“I’m not leaving until I find out where my sister is,” she replied, but Gunner started the engine and the sound roared above her voice.
+He glared at her. “Either you say you agree, or I leave you here.”
+Nay’s jaw dropped.
+“You can step off the bike,” he warned.
+She closed her mouth with a click of her teeth. “Fine.”
+He nodded and the bike took off after the SUV. They pulled up in front of an older brown duplex home. Nay studied the Chrysler parked in the driveway as they climbed off the bike. It was the same vehicle from the video. Her blood ran hot. They walked up the drive and when they passed the car, Nay peered into the windows wondering if she’d see blood on the seats. Her heart raced in her chest, and she wiped her palms on her pants. The car was clean, without any evidence of a crime being committed from what she could tell.
+The wooden single car garage door was partly open. Sporadic pieces of grass shot up from the dirt yard. She quickened her pace to catch up with Gunner and Nico as they stepped up to the front door. Standing between the two men, she felt like a hobbit in the midst of elves. They completely eclipsed her. Nay rotated her head back and forth, waiting for one of them to knock on the door.
+“Anything?” Nico asked.
+“It’s clear,” Gunner replied.
+“What’s clear?” she asked.
+Nico nodded at Gunner as if she never spoke. Gunner circled behind them and disappeared around the corner of the house. “Where’s he going?”
+Nico smiled down at her, his disconcerting eyes sparkling. “He’s letting us in.”
+“Why don’t we just knock?”
+“Why would we want to do that?”
+Nay opened her mouth to respond when the front door opened to reveal Gunner surrounded by three Rottweilers. She sucked in a breath and scooted backward.
+Nico shook his head. “I see you’ve made some new friends,” he whispered.
+“The perp is the only one here. He’s still asleep in the master bedroom at the end of the hall.” Gunner stepped back so they could enter. The dogs stared up at him adoringly, their tongues hanging out of the sides of their mouths. When Nico entered the house, one of the dogs let out a low growl. Gunner said something to him in a language Nay never heard before and the dog whined and laid down.
+Nico continued in and Nay scooted slowly to the door, not trusting the dogs.
+“Come on,” Gunner said, shooing her in. “They won’t hurt you.”
+#
+Gunner eyed Nay. Her teeth clamped down on her rounded bottom lip as she slid sideways into the entrance, staying close to the wall to avoid the dogs. The animals never gave her a second glance. Of course, they wouldn’t, because he had demanded they pay attention to him. It was one of his specialties that came with his Anathergian powers.
+The ability to control dogs. Yeah… Not that it does me a lot of good.
+At least, most of the time it didn’t. This was one of the few. Nay sidled up next to him and he wondered, not for the first time, if he’d made a mistake by letting her come here. She’d demanded to take part, so if she complained about his and Nico’s methods, he’d remind her of that.
+The home, decorated in a western theme, came complete with horseshoes and an old wooden wagon wheel. Gunner figured the place must’ve belonged to the guy’s grandmother at one time or another. Empty glass bottles scattered on the coffee table and kitchen counter.
+Nico picked up a hefty dining room chair and placed it in the middle of the kitchen. In Anathergian, Gunner ordered the dogs outside. Then he opened a few drawers in the kitchen and pulled out a box cutter and duct tape.
+His glance caught Nay’s. She’d clamped her hands together in front of her while her saucer-sized green eyes watched them.
+Gunner scanned the area for anything that could be used as a weapon, while Nico searched for items to help in their investigation. The two of them often tag-teamed. This was a routine they’d performed more times than they’d like to count. Nico stuffed a laptop into Gunner’s arms as he passed. Gunner held it up and winked at Nay.
+She smiled, slid up beside him, and then palmed the device. “I’ll take that,” she said as she headed over to the couch.
+He’d let her have her fun with it. His turn would come later when he had access to his own programs that would tear the thing apart and find every hidden detail.
+“Ready?” Nico asked from the entrance of the hallway.
+Gunner nodded and, after taking one more glance at Nadine to make sure she was occupied, followed the warrior down the dim walkway. Two doors on the left were open, revealing a bedroom and a bathroom. The opening at the end stood half-open. They edged up to it, and Nico pushed it wider.
+The man from the video lay on his back, across the bed sideways. His torn jeans were undone and his stained t-shirt rose and fell with his snores. A bottle of vodka lay next to him, its contents drained onto the comforter. Gunner took in the pills that were strewn across the top of the nightstand. He moved softly across the shag carpet to the man’s head, while Nico crept to the feet. They eyed each other. When Nico nodded, Gunner grabbed the man’s arms and twisted him around on his belly. Nico gripped the man’s ankles.
+“Hey!” Rick yelled, lifting his head to try and peer up at him.
+“Good morning, sunshine!” Gunner yelled, hoping the man had a helluva hangover and he just made it worse. “Are you ready for a bit of fun?”
+Gunner withdrew a cable tie from his back pocket and yanked it tight around the man’s wrists. He hauled him up by the tie, while Nico held the man’s legs.
+“Who the fuck are you?” Rick gasped. “Get your fucking hands off me!”
+“You hear that, Nico?” Gunner glanced at his cohort. “He doesn’t like our hands on him.”
+“Isn’t that too bad,” Nico said in a mocking voice, shaking his head. “Because our hands are about to make a lot of contact with him. More specifically, our fists.”
+The man bucked and turned, trying to break free as they carried him through the hallway. Nay peeked around the corner. She let out a snort when her gaze fell on the man. The sound eased some of Gunner’s concerns. He was afraid she’d become squeamish. The girl stepped back to give them access.
+They hauled Rick into the kitchen and forced him into the chair with his arms behind the seatback. Nico placed his knee into the man’s gut to keep him still.
+“You son of a bitch! Do you know who the fuck I am? I’ll fucking kill you!” Rick screamed between pants.
+Gunner grabbed the tape and tugged a piece free. “I think your language is offending the pretty lady.” He slapped the piece on the man’s mouth, pressing extra hard to ensure the man cut his lips on his teeth.
+Rick squinted as he squirmed in the chair. Gunner lifted the man’s shirt, happy to see some hair on his chest. He smacked the tape there and wrapped it around him and the back of the chair until the man was immobilized. Then he taped both ankles to the chair legs. Nico stepped away with a laugh.
+“All right, Rick,” Gunner said as he leaned close to his face. Sweat covered the low life’s forehead, trickling into his bushy eyebrows. “We have some questions for you, and you’ll answer them honestly. There are no lies. We’ll know if you’re not telling the truth, won’t we, Nico?”
+Nico nodded as he crossed his arms over his wide chest, a smug smile on his face.
+“You will be punished if you lie.” Gunner took a fistful of the man’s hair and yanked his head back. “I’m going to remove that tape from your mouth. If you’ll recall, there’s a beautiful woman in our immediate vicinity. I will personally ensure you lose a tooth for each foul word you say in her presence. Do you understand?”
+The man glared at Gunner. He tightened his grip on the man’s hair until some of the strands come free from the scalp. Rick yelled, the sound muted through the tape.
+“I asked if you understood.”
+Rick’s dirt brown eyes watered, and he nodded his head.
+Gunner straightened and ripped the tape free.
+Rick screamed. “God damn it! Why the fuck did you have to take my skin off?”
+“That’s two.” Gunner lifted his hand, and Nico slapped pliers into his palm.
+“No,” Rick gasped. “No. It was only one. I only said fu… The F word. That’s all I said.”
+Gunner tilted his head. “You also said the D word. According to my background, that is also a curse word. Wouldn’t you agree, Nico?”
+“I do believe you are correct, Gunner. The D word is definitely a naughty word within my Irish Catholic upbringing.”
+“Open wide,” Gunner said. When the man refused, Nico leaned in and yanked the man’s jaw open.
+Rick garbled and twisted his head, but Nico’s Anathergian strength kept him in check.
+“Now, let’s see,” Gunner said as he eyed the man’s teeth. He tapped three of them. “Eeny, meeny, miny, moe.” He hit the man’s top left front tooth with the tool and it broke free.
+Rick screamed. Blood poured from the opening, and the tooth tipped from his mouth and clattered onto the floor.
+Gunner grinned. “That was too easy.”
+“Why the hell did you have to do that?”
+Nico sighed and shook his head sadly while stepping away. “Oh, I don’t think this one is too bright, do you, Gunner?”
+“I’d say he’s about as bright as a miner’s lamp with a dead battery,” Gunner replied. “Ready for number two?”
+The man heaved his breath in and out, blood coursing down his chin. “No, no, man. I didn’t mean to. I swear. It just kind of slipped out.”
+Nico grasped the man’s chin once again, and Gunner took out the tooth below the first one. Nico released the man’s jaw and moved to the side.
+Rick rocked back and forth, his face red. He spit blood and pieces of tooth from his mouth. Gunner peeked at Nay to see how she was handling the show. To his surprise, she sat on the couch; her headphones covered her ears, dark rimmed glasses perched on her nose, and her gaze was glued to Rick’s computer screen. She was in a zone, oblivious to what happened around her.
+“You ready to talk nicely?”
+Rick shot him a glare and hawked blood from his mouth, barely missing Nico. “I ain’t got nothing to talk about.”
+Gunner laughed. “I believe you do. Three days ago, you got your hands on a young girl by the name of Kristine. Where is she?”
+The man shrugged. “Don’t know any Kristine.”
+“Lie,” Nico said, his sensory powers picking up on the man’s untruth immediately.
+“Oh, now, isn’t that nice?” Gunner purred. He stepped back to allow Nico to have access to the chair.
+“I think we’ll start off easy,” Nico said as he circled behind the man.
+Rick twisted his head to regard Nico. “I didn’t lie. It’s the truth. I don’t know anyone named Kristine. At least, not in the last few days.”
+Nico leaned over to whisper in the man’s ear. “Let me tell you a little secret. I know when you’re lying. Call it my extrasensory ability. A little twinge goes off in my head each time a lie leaves your filthy mouth.” The warrior reached down for the man’s thumb. “Despite the fact I don’t think you should be a part of this beautiful world, I really don’t want to kill you. But I can definitely make you hurt.”
+A snap cracked through the room, and Rick screamed. “I’m going to kill you motherfu—” Rick clamped his teeth over his bottom lip.
+Nico stepped back around in front of the man. “Now, are you ready to try again?”
+Rick stared at both of them, seemingly trying to make up his mind. “I might know a Kris who needed a ride a couple of days ago.”
+Gunner’s hands fisted. “A ride. You mean, the kind of ride where you pick her up and throw her into your car?”
+“I don’t know what the fu...” He clamped his bloody lips together. “I don’t know what you’re talking about.”
+Nico shook his head. “I think we’ll go for thumb number two.” He moved back around the man.
+“Wait!” The man’s chest heaved up and down with his deep breaths. “She said she would come with me. She wanted to leave home. Then she backed out. She backed out on the deal.”
+“What deal?” Gunner asked, leaning in on the man.
+Something clattered behind them and Nay marched up to Rick. “Who’s El Cucuy?”
+Rick’s eyes bugged.
+Gunner stood and blinked at Nay. She took his place, getting nose-to-nose with the man. “What’s his real name? Is he the one who has my sister?”
+Nico stepped forward and gripped the man’s shoulder. Rick winced and a whine escaped from his clenched lips. “I do believe the lady asked you a question. Be a good boy and give her the right answer.” His voice was low and dangerous. Gunner smiled, almost hoping the man would tell a lie.
+Nay stood straight. “Tell me. Is he the one who has Kristine?”
+Rick’s face distorted. “Man, I don’t know what this bitch is talking about.”
+Lightning fast, Gunner’s left hook collided with the man’s jaw. Blood sprayed and three more teeth flew into the air, striking the cabinet doors. “Wrong answer,” Gunner growled.
+#
+Nay gasped and darted back. She lifted her hands to cover her mouth, and stared at the man she had made love with only a few hours before. Danger and strength exuded from him in waves. It had always been there. She’d known it. And now it was confirmed. It both frightened her and made her feel… Protected.
+How did he move so fast?
+She hadn’t even seen the punch coming.
+Rick coughed and groaned. He grinded his jaw back and forth.
+“I made sure not to break it,” Gunner told the man. “There are much worse things we can do to you. I suggest you answer her question and keep your smart remarks to yourself.” 
+The man shook his head as if to clear it. He gulped down a breath. “Vargas. Emilio Vargas.”
+Nay glanced at Gunner. He and Nico exchanged a look, and Nico gave a slight shake of his head and his lips turned downward. Her heart sank. Whatever they knew about this man, it wasn’t good.
+Gunner threw a right punch, slamming it into Rick’s chin. Nay cringed at the sound of fist hitting flesh. Rick’s head lolled onto his shoulder, knocked out. After checking the man’s pulse, Gunner peered at Nico. “You got this?”
+Nico nodded. “You sure you don’t want any backup?”
+Gunner shook his head. “The less people involved, the better. I know where to go from here.”
+“Text if you need me.”
+Gunner nodded and then studied her. She wasn’t sure what he saw, but it probably wasn’t good. Her hands shook and nausea gurgled in her stomach. More than likely she was the color of the pale side of a turnip. Nay swallowed, clenched her hands into fists, and straightened her shoulders.
+“Grab his computer. We’re heading out,” he said as he pivoted to the sink to wash his hands.
+“Where are we going?”
+He turned off the water and wiped his hands on his jeans. “We’re heading back to the house to make a game plan.”
+Nay bit down on her frustration. “You know who he is, don’t you?”
+Gunner pinned her with a glare. “Let’s go. We’ll discuss this later.”
+“Gunner—”
+“I said later.” He stomped over to the coffee table, swiped up the laptop, and headed to the door.
+Nay huffed out a breath and caught Nico staring at her. “Have fun, darlin’.” He smiled and she blinked. This man had to be one of the most gorgeous she’d ever seen in her life.
+And he knows it, too.
+Her legs stiff, she followed Gunner out.
+
+CHAPTER 6
+Nay yanked her helmet off and quickly followed the tall man across the front yard. “Who is he, Gunner?”
+“We’ll talk inside, Nay,” he tossed over his shoulder.
+She grabbed his arm and his muscle flexed beneath her fingers. He whipped around to face her, opened his mouth as if to speak, and then stopped. She froze at the concern marking his features. “It’s bad, isn’t it?”
+He sighed and stared past her shoulder. “He’s a human trafficker.”
+“What?” Nay stepped backward and her knees buckled. Gunner caught her before she fell.
+“I’m sorry, Nay,” he murmured against her hair. “I wish it was better news.”
+“No, no, no,” she muttered, shaking her head. “It can’t be.” Traffickers had become a huge problem in Vegas. They held girls and boys, both locally and worldwide, as sex slaves. Tremors racked her body at the thought of her sister, who was only sixteen years old, being caught up in something so twisted. She leaned into Gunner’s chest. “Oh, my God, please no.” Tears streaked down her face. He sat her on the short brick wall surrounding the front porch and held her as she cried.
+She hiccupped and wiped her nose, finally getting herself under control after a few minutes. “Do you think she’s still in Vegas?”
+“I’m not sure. I can check on a few locations and see what I can find out.”
+Nay pulled away from him and nodded. “So, what do we gotta do?”
+“First, let’s get you inside and cleaned up. While you’re doing that, I’ll try to find out what I can. Okay?”
+Nay sniffed and nodded. He stood and hefted her up to her feet. They opened the front door and found four guys sitting at a table in the formal area. They had headphones on and stared into monitors displaying a multiplayer first person shooter game. Each swiveled around to peer at them and gaped. Nay lowered her gaze, hoping they wouldn’t notice her swollen eyelids.
+“What’s up, Nay?” the far one asked.
+She glanced up at him. “Hey, Charlie. Nothing. Just working on a few things with Gunner.”
+Charlie stood and removed his headphones. “You been crying?”
+“Huh uh.” She shook her head and cleared her throat. Charles had a crush on her, and she’d been trying to give him hints she wasn’t interested. He was only eighteen. He’d graduated high school two years early and was already in his third year of college. Though he was brilliant, he wasn’t her type.
+Charlie plodded up to her, his shaggy brown hair mussed by the headphones. “You look like you’ve been crying.” He shot an accusatory blue-eyed glare at Gunner. The big man next to her stiffened. “Are you sure you’re not hurt.”
+“I’m fine.” She forced her lips to stop trembling and attempted a smile. “Really. I just have some things to work on.”
+Charlie stared hard at Gunner, and Nay wondered how long the man would let the boy get away with it. “I’m gonna head on up.” She grabbed Gunner’s arm and they bounded up the stairs.
+After she closed her door, she leaned against it. Completely drained, she slid her back along the wood and sank down to her ankles. Gunner kneeled in front of her and reached out for her hand. He lifted it to his mouth and kissed her palm. “I know this is hard, but I don’t want you to give up. Now, up you go.”
+He hauled her to her feet and dragged her to the bathroom. After lowering the toilet seat, he sat her down and then turned on the faucet in the bathtub. “I think a nice, hot bath is in order.” Swiveling back, he started undressing her.
+Nay’s brain swirled in all directions, wondering how it was possible her sister became involved with this man.
+How could she be so stupid?
+Hot tears scalded her cheeks. She and Kristine had always been so close. Their mom had an evil streak, especially when she drank too much, which happened more often than not. When she started college, Nay tried to stay at the home she grew up in as long as she could to be close to Kristine, but finally couldn’t handle her mom’s drunk stupors anymore. She’d moved into this house almost eight months ago. Her mom had always been easier on Kristine, and Nay hoped her sister would fare better than she had. Nay kept in touch with her sister every day, and they met more than once a week for coffee or breakfast. But in the last month, things had gone downhill. Something had changed with Kristine, and she fought with their mom on a daily basis.
+Nay wondered if it was because of Rick.
+Did he start putting ideas in her head? Making promises of some kind of dream life?
+Gunner turned off the faucet and the pipes squealed in protest. Nay blinked at the man. He had scared her earlier. Nay had always sensed he was dangerous, but she hadn’t suspected the level of danger she’d seen today. However, even after what she’d witnessed, she was certain Gunner wasn’t a danger to her. 
+You don’t even really know him, Nay. He could be some kind of psycho.
+As he pulled off her shirt using gentle hands, she gave herself an internal shake.
+No, not a psycho. He’s loving and caring. But also someone that shouldn’t be screwed with.
+Gunner led her to the bath and held her hand as she stepped in. The water was the perfect temperature, enveloping her in a warm, moist cocoon. Nay sighed. “Thank you.”
+He leaned over and kissed her forehead. “You just relax in here while I make a game plan.”
+She nodded and her lids drifted shut. After he walked out, she started going over all the facts they’d discovered about what happened to her sister. Fury built inside of her as she thought of the men who planned all along to take advantage of her sister. Who’d planned and manipulated her, so they could sell her to the highest bidders.
+These ass wipes have fucked with the wrong sisters.
+She smiled as she formulated her plan.
+###
+Gunner made a few phone calls. Using his cell, he accessed some of the special apps he’d developed and discovered some of the suspected places Vargas kept his victims.
+Of all the people to become involved with, Kristine had chosen one of the worst. Vargas was the best at what he did, and those he took often disappeared without a trace. If they were lucky, the girl was still in Vegas. If not… Gunner didn’t even want to think about it. His research drummed up three places she could be, if she was still in town.
+He brought up a map site on Nay’s laptop and studied the street view of the places they had to canvas.
+The bathroom door opened and Nay stepped out with a towel wrapped around her. Her smooth, wet legs shone in the subdued light of the computer. He watched her as she made her way to her dresser inside the closet. She gathered some underwear and dropped her towel to the floor. He took in her glistening back and followed her spine downward to her rounded behind. It curved just perfectly so his hands could spread out and hold each cheek. She leaned over to pull on her panties and he got a quick peek of her folds.
+He squirmed and tugged on his jeans.
+Can’t go there now.
+Gunner cleared his throat and forced his scrutiny back to the laptop. After a few moments, Nay sat beside him fully dressed, her flower scented soap drifting to him. “So, what’s the plan?”
+“There are three places we have to look at. We’ll try the most likely first.” He swiveled the laptop toward her.
+The glare of the monitor gave her eyes an emerald hue. She pulled in her lips and nodded. “Okay. When do we leave?”
+“Later tonight. We’ll sneak in and scope the place out.”
+“Sounds good.”
+He let his gaze roam her face. “You take it easy. I have a couple things I have to do. After that, I’ll pick up something for us to eat before we head out. Sound good?”
+She lifted one side of her mouth. “Sounds perfect.”
+He reached out and raised her chin. When her eyes locked with his, he leaned over and kissed her. “You gonna be all right?”
+She stared down at her clasped hands. “Yeah, sure.”
+Gunner frowned, not sure if he believed her. He climbed to his feet. “Okay, see you in a bit.”
+###
+Gunner parked, removed his helmet, and stared up at the house. He’d stopped by the complex to pick up some weapons. While there, he’d strapped his Hisshou Tanto blade to his calf and hid his favorite SIG Sauer P226 between his jeans and back. He always had some type of weapon on him, but he wanted to make sure he had enough coverage if things didn’t go the way he wanted them to during their excursion tonight. Gunner only planned on getting a feel for the area and to ask a few questions. If they found anything remotely suspicious, he would return with Nico and take care of it.
+He’d also made a quick scan of Rick’s computer, but hadn’t found much. The guy was a newb in Vargas’ operation, which was probably why he broke so easily under their interrogation earlier.
+He climbed off the bike and unstrapped the bag from the end of the seat. Scents of chow mein and sweet and sour chicken wafted from the containers hidden within the paper and his stomach growled. After knocking twice, he opened the door. The place was empty.
+Guess there was another hackathon tonight.
+He tromped up the stairs and tapped on the closed door before entering. Gunner found Nay right where he knew he would: on the floor in front of her computer. Her music blared full blast from her headphones. He sighed and closed the door. When he stood behind her, he watched her code.
+She is so good.
+He tapped her shoulder and she squealed and jumped, her glasses tilting on her nose. Nay yanked the headphones and glasses free. “Jesus Christ, how do you always scare the crap out of me?”
+Gunner checked over his shoulder. “You mean me? Because I’m pretty sure I’m not Jesus Christ. Though I’ve heard he was a pretty cool guy, I’m not so sure I fit into that bracket.”
+She shook her head and the corner of her mouth raised.
+He plopped to the floor and made a show of taking out the containers from the paper bag. “What are you working on?”
+“Just messing with the cloud app that was recently hacked,” she shrugged. “Trying to see if I can improve on the security.”
+Gunner shook his head. “Nay, why are you still here? You should be in San Jose living the life.”
+Her face turned into stone and Gunner knew he’d stepped in it. She wasn’t going anywhere until her sister was safe.
+The sound of her gurgling stomach reached his ears. “Time to eat,” he said and handed her one of the cartons along with some chopsticks.
+He stuffed a large bite in his mouth, chewed twice, and swallowed while eyeing the band t-shirt she wore. Memories of her light, soft skin, and the cries of her orgasm echoed through his head. His other head began to stand at attention. “When are the guys coming back?”
+Nay glanced at the time on the monitor and swallowed her food. “Soon. Probably the next half hour.”
+He gave an internal sigh. Guess not.
+“We’ll leave after we finish eating.”
+She nodded her head and scooped up a mouthful of chow mein.
+The front door opened downstairs and the sound of multiple footfalls on the steps made their way to them. “Sounds like the crew is back early,” he said.
+He stood and made his way to the door. “They’re gonna be pissed I didn’t bring any Chinese for them.”
+Gunner reached for the door when it burst inward, bashing him in the forehead. He flew backward, landing on his back, his arm hitting Nadine in the back. Her dinner container fell to the ground and she gasped.
+Four men with Uzis filled the room. “Don’t move!” a loud voice said.
+Gunner forced down the immediate surge of his powers. The glow of his eyes, along with his Designation, would give him away as being something other than human. His first instinct was to rip the men apart into tiny pieces, but he didn’t think that would help convince Nay he was just a normal kind of guy.
+Nadine froze. Gunner had to give her credit for not screaming like a girl, as she’d done earlier. He glanced up at her to see the distention of her jawline giving evidence of her clenched teeth.
+Gunner returned his gaze to the perpetrators, slowly sitting up and maneuvering his body so he could better protect Nay. “What do you want?”
+The leader, a Hispanic man with a high and tight haircut and a good grip on his weapon, stood over him, the barrel aimed at Gunner’s head. He thought the man was stupid for standing so close to him. It’d be easy work for Gunner to take him out, even without his powers. The only thing stopping him was the man to Gunner’s left, who aimed his weapon at Nay’s torso with his twitching trigger finger. Nervous sweat glistened over the man’s neck where a snake tattoo peeked over the white collar of his business shirt.
+The two goons standing by the door held their guns pointed at the ceiling, ready to back up the men in front. Gunner opened his senses and increased his hearing. He could make out two more people downstairs.
+“You’re both coming with us,” the leader said.
+“And why would we want to come with you?” Gunner asked.
+The snake man switched his safety off. A small squeak came from Nay.
+“All right, all right, ya don’t need to go and get all huffy,” Gunner said.
+The leader tilted his head and one of the men behind him marched forward to step around Nay. He slammed the lid shut on her computer, yanked out the power supply, and gathered the equipment under his arm. When he returned to his original position, the leader took two steps back.
+Gunner watched them intently from beneath his lashes, determining their weaknesses, seeing who did or did not hold their weapons with confidence. The leader was pretty good, but the thug with the Uzi trained on Nay was nothing but show. The two against the wall were newbs.
+“You,” the leader lifted his chin at Gunner. “Put your hands behind your head and stand up real slow. Any fast moves and the girl loses a kneecap, understood?”
+Gunner stared the man in the eye and sensed no hint of a bluff. “Sure thing.” He lifted his hands behind his head and laced them together over the bill of his ball cap. Gunner forced himself to take slow and deliberate actions as he hefted himself to his knees and then into a stand.
+He towered over the leader and the man, having finally sensed Gunner could be more of a threat than he originally thought, slid back a few more steps. “Juan, take his phone. Then you and Marcel take him to the truck,” he said over his shoulder.
+One of the men in back nodded. “Si, Jorge.”
+Jorge turned to Gunner. “If you make even one wrong move, the girl won’t be able to use her computer again. You got me?”
+Gunner nodded. “I got ya.”
+Juan slid up next to him, and Gunner glared at him. The man’s eyes shifted sideways, betraying his nervousness. He reached into Gunner’s jean pocket and withdrew his phone. Gunner chuckled internally. There was no way any of them would be able to access it. In fact, if it wasn’t back in Gunner’s possession within twenty-four hours, a signal would be sent to the complex. Gunner imagined Auden, Nico, Marcus, and the rest of the Anathergian warriors picking these men apart, and sucked in his lips to stop his grin.
+Juan slipped the phone into the inside pocket of his jacket and then pushed Gunner forward with the business end of his Uzi. Gunner ambled toward the door, wondering why they hadn’t checked him for weapons. And then he remembered where he was. A geek house. Of course, he was one of those geeks, but it didn’t mean he didn’t know how to handle a weapon or even have one for that matter.
+Well, you know what they say about people who assume. Dumb asses.
+Juan and Marcel closed in behind him. At the doorway, he glanced over his shoulder at Nay and gave her a reassuring smile. Then he scowled at the leader.
+If the bastard lays a hand on her, I’m going full out. Fuck not letting anyone know what I am.
+That’d mean he’d have to kill all of them. Except Nay, of course. Protecting humans is what the Anathergians do, and they try their damndest to follow that motto. But there were exceptions to every rule. However, he wouldn’t break that rule and kill any humans until he had to.
+As he trudged down the stairs, taking his time so there was less of a gap between him and Nay, he wondered why the men had targeted the hack house. What was it that had drawn them there?
+“Let’s go,” Jorge said from the room. Nay gasped and Gunner tensed, ready to bolt up the stairs. A small node of burning began in the pit of his stomach, and shards of flames ricocheted through his veins, as his powers ramped up. He breathed in through his nose and out of his mouth to make himself cool down.
+Nay’s stumbling feet on the landing came to him, then he heard her taking the stairs.
+As they exited the front door, Gunner turned with a sly smile to his two escorts.
+“Any idea what we’re doing for our date tonight, fellas?”
+“Yeah, sure,” Juan said as he opened a side door to a black van. A silver chained bracelet on the man’s wrist gleamed in the bluish LED street light. “Fried geek, with a side of pussy.”
+Gunner narrowed his eyes at the man, his blood freezing, and then he smiled.
+He is so going to regret saying that.
+He climbed in and the man grabbed his arm and pushed him onto the last row. The Mexican sat beside him with his gun trained on his stomach. The two men he’d heard earlier took up the front seats.
+Nay wasn’t far behind. They partially dragged her across the yard as she fought against them, cursing them under hear breath. The street lamps shined off the tears streaming down her cheeks.
+Gunner’s gut exploded with fire and he lowered his lids to hide his glowing eyes and put his chin down to obscure his Designation. He inhaled deep breaths, forcing himself to control the reaction. When the sensation eased, he lifted his lids to see Nay on the bench in front of him with Jorge next to her. The last two men took the first bench, and then the van started up and took off down the road.
+He glanced sideways at the man sitting beside him. “So, who sent you fellas?”
+The man smirked. “Why don’t you ask your girlfriend?”
+Gunner frowned and studied the back of Nay’s dark head. Her shoulders heaved up and down with her jerky breaths as she turned her head, revealing her profile outlined against the glow of the headlights. “Vargas,” she whispered.
+He blinked.
+Shit.
+
+CHAPTER 7
+Gunner racked his brain trying to figure out what she did. Then he realized if it was Vargas, this was their chance to get on the inside. Maybe they would be able to track down Kristine.
+He considered the men in the van once again. Other than the gun pointed at him, their Uzis were held haphazardly within the vehicle. He loved guns, but wasn’t a fan of the Uzi. They were effective for crowd control, but he felt they were more for show. Their accuracy wasn’t the greatest. In his estimation, this was a strike against these men.
+Another huge negative was their mistake of not checking him for weapons. Upon his second thorough inspection, he came to the same conclusion that the leader, Jorge, was the most dangerous of the group.
+He watched the streets go by and thought about where they were going and what his plan would be. Gunner had a special hatred for human traffickers. The women and men they abducted were often sold into some type of sexual slavery situation. Or they were held for years on end and offered up to clients for sex. Many were from other countries and brought into the U.S. by the traffickers and kept as slaves until their transportation debts were paid off. His hands clenched into fists.
+It made him sick. He knew firsthand what that kind of life did to someone. His mother, Melody, had been one of the most beautiful women to have graced this planet with her long, blonde hair and wide blue eyes. His father got her pregnant on the first try. Something almost unheard of with the Anathergians because of their struggles to procreate. Which was the reason Gunner’s birth had slipped through the Anathergian cracks. Life wasn’t easy for a single mother back in the 1840s in Austin, the new capital of the Republic of Texas.
+His mother had been determined to survive, which was the reason she’d named him Gunner. She’d always tell him to keep shooting straight. There weren’t many options for her, so she turned to the one guaranteed profession for females: prostitution. When he was seven years old, he came into her room and found her strangled to death.
+The van turned into a dark parking lot at the back of a downtown casino. They drove into a parking garage leading underground and parked on the second level. Three Hispanic men stood guarding the area. Gunner could make out bulges from their weapons hidden under their black blazers.
+“Here’s the deal,” Jorge said after they parked. “We’re taking this nice and slow. I’m sure none of you want to lose any digits, or other important body parts, for not behaving. Got it?”
+When Gunner didn’t say anything, Juan nudged Gunner’s jaw with the barrel of his weapon. “Sure thing,” Gunner muttered. He forced himself to cool down as the heat of anger made his blood boil.
+The door slid open, and they pulled Nay from the van. When she almost fell, she jerked her arm from the man and stood with her shoulders back. “I can walk without your help.”
+Gunner smiled. The man next to him scooted backward out of the van, keeping his gun aimed on him. “Vamanos.” He tilted his head.
+Gunner followed, keeping his movements slow and even. He didn’t want anything to go sideways and risk his plan. He stepped out and slid up next to Nadine. She stared up at him, her body trembling and her pupils wide with fear. He lifted one side of his mouth and winked at her. Her lips parted.
+They were escorted through a long corridor and a multitude of hallways that twisted and turned below the casino. Gunner memorized each of the steps, all the while trying to determine where they hid their captives. Dark globes along the ceiling indicated cameras. He took note of which areas had the most as they would be the likely places Vargas’ kept his valuable items.
+For lack of a better term.
+Gunner found no evidence of a great security detail.
+Another weakness.
+It meant they greatly depended on the video feed.
+And video feeds can be hacked.
+A stairway door opened and a man gripping the arm of a girl in her mid-teens came from the opening. Her light brown hair hung in bedraggled curls over her bare shoulders and red dress. She stumbled in her high heels. Dark color marred the skin beneath her blue eyes and her glazed eyes had wide pupils from whatever drugs they’d ramped her up with.
+When her escort saw him and Nay, he paused and forced the girl around. She fell to a knee and cried out. “Get up, you stupid bitch.” The man gritted his teeth at her. The girl mumbled incoherently.
+Nay sucked in her breath and swiveled toward the girl. Gunner darted out his hand and grabbed her arm, stopping her. She shot him an accusatory glance, and he shook his head at her. “We can’t do anything.”
+After a few more turns, they came upon tall, glass double doors guarded by two men. With a quick glance, Gunner determined these two were of the more professional type. Their bodies were stiff and alert, and their eyes, hidden behind their dark sunglasses, took in everything.
+Probably prior special ops.
+One leaned over and opened the door for them. Gunner didn’t look at them so they wouldn’t catch on he was analyzing them. As they passed over the threshold, he took in the security attached to the entryway and the bulletproof glass. He knew they were entering Vargas’ domain.
+The guy probably has a backup escape route hidden somewhere.
+The long room was dark; the only light came from dull bulbs running the perimeter of the ceiling. The environment, decorated in brushed chromes and blacks, was cold and unwelcoming. Exactly how Vargas wanted his guests to feel. Half a dozen men stood quietly, watching them as they marched along a plush, dark brown carpet running down the middle of the room. A wide, black desk sat at the far end of the room where a Hispanic man in his mid-forties sat in a leather seat.
+Gunner smirked. El Cucuy. The boogeyman.
+The man’s black, slicked back hair glistened in the low light. His shadowed stare took them in as they approached. A plate of blackened fish with steamed vegetables and rice sat before him. When they reached the desk, the man gave a slight nod, and he and Nadine were pressed down into the curved leather seats facing Vargas.
+Gunner suppressed every alpha molecule in his body, doing his best to appear nonthreatening. He used the opportunity to study the man and gather all the intel he could to use it against the criminal. Vargas’ gaze flicked to him, his dark irises scrutinizing him for a few moments and then dismissing him.
+Gotcha, motherfucker.
+When Vargas switched his regard to Nay, the anger within the man was so consuming, Gunner’s weak sensing abilities picked up on it. The man’s outward calm demeanor never let on to the rage gripping him. Another emotion floated through the man… Satisfaction. Gunner frowned internally.
+Vargas lackadaisically studied the girl. Nay stared back unflinchingly. One of the fingers of her clasped hands twitched, the only indication of her nervousness.
+Vargas folded his hands together and placed them on the desk between his chest and his steaming plate of food. He inhaled deeply, his nostrils flaring and his wide shoulders rising with the action. “Ms. Hawkins,” he said, and nodded at her.
+“Mr. Vargas,” Nay replied.
+The man’s lip lifted slightly. “You took something of mine.”
+Gunner forced himself to go still, barely suppressing his urge to gape at Nadine.
+What the fuck did she do?
+“You took something of mine,” Nadine retorted.
+The man sniffed. “I did not take anything. It was donated.”
+“So was yours.”
+The man nodded, not necessarily in agreement, but more as a person who is assessing their hand during a game of poker. He tilted his head and a man behind them stepped up and placed laptop on the table.
+“Return what belongs to me,” he said as he lifted the lid.
+“Not until you’ve returned what belongs to me.”
+The man sat back in his seat and smiled. “I had heard you were good, but I must admit I doubted you were that good. You have surprised me, Nadine.”
+Gunner’s heart skipped a beat.
+What the hell is going on here?
+Nay shrugged.
+Vargas lifted his fork and scooped a piece of flesh from the fish and put it in his mouth. His chewing echoed loudly in the quiet room. He swallowed and took a drink of water from the glass before him. “Tell me, Ms. Hawkins. Have you ever gone fishing?”
+She shook her head, and her bangs fell in front of her eyes, giving her a younger appearance. Nay lifted her hand and pushed the strands back with shaking fingers.
+“You see, in order to get the fish you want, you have to make sure to get the right kind of bait,” the man explained as he speared a piece of broccoli and put it in his mouth. He grinned as he chewed.
+Fuck.
+Gunner gripped the arms of his chair and tore his gaze from Vargas to study Nay.
+Her brow creased and then smoothed. Her chest heaved and she shook her head. “I… I’m not sure what you mean.”
+“Oh, come now, Ms. Hawkins, let’s not play games. You and I both know how clever you are.”
+Gunner used his peripheral vision to take in the room, trying to assess his chances of success if he took out everyone. He’d make it. Nay would not. There was no way he’d risk her.
+I should’ve seen this coming. Stupid dip shit.
+“Are…” Nay cleared her throat and ran her palms along her jean clad thighs. “Are you trying to say you used my sister to get at me?”
+“Ah, there’s a girl.” He smiled, his teeth white against his dark skin.
+“I don’t understand. Why? Why would you want me?”
+“Because you,” he pointed at her with his fork, “are the future. You can do for me what many cannot.”
+She let out a nervous laugh. “I’m really not that good. Seriously, you don’t want me.”
+The man slammed his palm on the table, the sound like a cracking whip. Nay jumped and the utensils on Vargas’ plate clattered to the desk. “Let me explain the situation to you, Ms. Hawkins. You work for me, and your sister is fine. You don’t work for me, and your sister will be locked in the room with one of our more violent customers within twenty-four hours. Do you understand?”
+Gunner racked his brain trying to come up with a plan. He was always so good with putting the pieces together, seeing a situation from above and determining the best angle. This time he was trapped in a box. “Can you give her a few hours to wrap her head around it?” Gunner blurted.
+Vargas shot a glance at Gunner, and then back to Nay. Her pale face sagged, and she stared at some distant spot on the wall behind Vargas. He was pretty sure she’d gone into shock.
+Vargas’ gaze snapped to a man on his right. Both of them were yanked up, their arms pulled high behind their backs. Nay winced, and Gunner forced down the fire brewing in his gut.
+El Cucuy stared up at Nadine. “You have until sunrise. At that time you will give your answer to my men. Make sure it’s the right answer, or your property will become null and void.”
+Nay struggled against the bald man holding her. He pulled her tighter and she cried out. A huge blond guard held Gunner. The goons twisted them around and pushed them out of the office.
+Gunner scoured the area, trying to plan an exit strategy. Two men exited a door down the hallway from an office. They were more of the military type. Gunner had counted at least ten of them so far. As he continued to study the area, he followed their bald escort. The second followed behind them, his large, muscular thighs swishing against each other with each step.
+They entered a stairwell and took the stairs down one level. When they were herded out of the door, Gunner’s sensitive hearing picked up on sounds of crying and female chatter. The men directed them in the opposite direction of the sound and around a corner to a metal door. The blond pulled out a card and ran it over the panel next to the door. Gunner studied each move the man made.
+The door unlocked and the man entered the room and held the door open. The small area had two doors of the same type they’d just entered, except they had small, square meshed windows. A blurry face peered from one of them. The security man holding Nay opened the other door and pushed it wide. A light came on and the fluorescent glare shined off his bald head. He held the portal open and stood to the side.
+The blond gripped Nay’s arm and pushed her inside, and then Gunner after her. He plowed into her and they fell to the ground. Gunner caught Nay and spun around so she fell on top of him.
+The man holding the door laughed. “Lucky the other room is occupied. Means you two get to stick together.”
+He slammed the door shut, and the locking mechanism clicked. Gunner stood and stared out the window until the men left the room, then he spun around to pin Nay with a glare. “What the hell did you do?”
+Her eyes widened and she took two steps back and hit a wall. The cell was tiny, not even wide enough for him to lay flat on the floor. A cot sat snug in one corner and a metal sink and toilet filled the other corner. Nay’s gaze drifted to the side, a sure sign she was conjuring up a lie. “Don’t do it,” he warned. “I’ll know if you’re not telling the truth.”
+Her brow scrunched and she heaved in a breath. She glanced out the window. He followed her view and then looked back at her. “There aren’t any cameras in this room. There’s one in the outer room. So, feel free to give it to me straight.” He crossed his arms, not in the mood to fuck around.
+She squared her shoulders. “I hacked his bank accounts.”
+Gunner blinked. Of course she had the skills to do it, but that she actually had the balls to do it took him for a loop. “Why the fuck would you do that, Nay? Especially when you knew we were scouting the place tonight?”
+Nay’s narrow shoulders hiked up.
+“How much?” he asked.
+She shook her head. “A couple million. I transferred it to different charities that take care of the abused and homeless.”
+He heaved a breath out between his pursed lips. “How’d he even know it was you? You’re too good to get a hack traced back to you.”
+Nay hiked up her chin. “I left a clue.”
+“A clue?” he asked, and then snapped his gaping mouth shut.
+She nodded. “My sister’s nickname.”
+Gunner couldn’t believe what he was hearing. “Why the hell would you do something like that?”
+“Because he’s an asshole, and I don’t give a shit.” She huffed, her eyes blazing. Then she sniffed and rubbed her arms. “At least, I didn’t at that moment.”
+“It doesn’t even matter now. Looks like he was waiting for you to do something like this.” He heaved out a breath. “You know he’s going to kill you and your sister if you don’t do what he says, right?”
+Her lips trembled.
+“It’s a good thing I’m with you, or you’d never leave this place alive.” He rubbed his neck. “Okay, so I’m working on a plan. But, whatever happens, whatever I do, you have to follow every instruction I give you. I mean, you can’t deviate, even a little. You got it?”
+Nay nodded and squared her shoulders.
+“I want you to swear to me, Nay. Because I’ll have to do some things that aren’t very pretty.”
+“I swear,” she whispered. “I’m sorry, Gunner. I didn’t mean for you to get involved like this.” She bit her lip so hard he was afraid she’d draw blood.
+“Come here,” he said, and he reached out and gathered her close to him. “I’ll take care of this, okay? You just gotta trust me to do it.”
+She nodded and burrowed her face against his chest. He lowered his chin and kissed the top of her head. Nay pulled back and gazed up at him, her eyes glistening from unshed tears. Gunner lifted his hands and cradled her head between his palms. She blinked, and the tears spilled down her cheekbones. Her lips lifted into a tremulous smile. “Thank you, Gunner.” She shifted closer, rose to her toes, and brought her lips against his.
+Gunner tasted the salt from her tears and groaned. Her lowered eyelashes silvered with the wetness. She raised her arms and gripped his hair, knocking his hat to the ground. He ran his hands down her back, feeling the outline of her ribs beneath the fabric of her shirt. Gunner leaned over her, allowing his tongue to plunge deep into her mouth. It was hot and her breath danced against his advance. She countered, twisting her own tongue around his, gliding it past his teeth. Her taste was sweet with an undertone of urgency. Gunner attempted to predict her movements, but there was no rationale to them. Nay nipped at him and then pulled back. He pushed forward, not wanting to let go of her.
+Nadine cupped his shoulders with her hands and drove him backward. He fell onto the cot and she stood in front of him, the curve of her neck flushed, her chin high. Gunner let his gaze roam her body. For some, he supposed she wasn’t the most gorgeous girl in the world, but she made his cock ache with wanting her. Her hair fell forward, and emeralds glittered from her eyes between the frame of her dark wisps. Her petite hands skimmed the hem of her shirt and lifted it up, revealing her black sports bra beneath. Skin, pale and smooth, glowed in the fluorescent lighting.
+Gunner sat up and reached for her. She took a step backward and shook her head, the corner of her ripe lips lifting. “No. You stay there.”
+He let his hands fall to his sides and smiled. Right on.
+Nadine drew her bra over her head and her breasts sprang free. Her peach areolas were smooth and her nipples grew taut as he stared at them. Gunner swallowed the saliva in his mouth. She toed off her shoes and then shimmied out of her jeans and underwear.
+Completely bare, she stood with her head high and glared at him, as if daring him to say anything contradictory about her.
+Gunner shifted to allow space for his erection as his beheld her body, stopping for a moment at the juncture at her thighs. “Jesus, Nadine, you’re killing me here.”
+A saucy grin graced her features and then disappeared. “Take off your shirt.”
+I think I like this game.
+He did as she commanded while he continued to examine her nude body. The locket gleamed below the hollow of her throat. Her waist narrowed before her hips flared. Her belly extruded slightly below her navel. His tongue touched his bottom lip as he imagined tasting her there. Dark curls afforded him a peek at her folds and his fingers twitched.
+“Without standing up, remove the rest of your clothes.”
+Gunner reached behind him to retrieve his gun and place it beneath the pillow. Then he hefted his hips off the bed to allow space to push down his jeans and was soon as bare as she.
+#
+Nay studied Gunner’s body, her heart racing in her chest. The bright light in the room afforded her a better view of him than she’d had at the cabin. She’d never seen anyone as beautiful as this man. His skin had a natural tan and clung to the grooves of muscle. Wide shoulders led to muscular pectorals. Cinnamon areolas surrounded his lighter nipples. A smattering of hair shadowed the hollow valley between. She followed that trail over the cuts of his abdominal muscles and bit her lip as she beheld his manhood. Never in her life had she thought she’d be in this kind of situation with someone like him.
+Only in my wildest fantasies. And, even then, I told myself I was stupid to think I could ever have someone like this man.
+And now she could possibly get both of them killed.
+Don’t think about it. Just enjoy this moment.
+She licked her lips. He sucked in a breath, and the sound echoed in the small room. Her gaze caught his, and she kept it there while she kneeled. Nay continued to stare at him as she bent over to kiss one of his knees and then the other. While still keeping her eyes locked with his, she ran her tongue along the inside of his thigh. The stiff hairs tickled her chin. As she moved higher, his spicy scent came to her and her lids drifted shut for a moment. Nay opened her eyes again and continued her steamy trek up and around his length.
+He’d done so much for her and she wanted to give something in return. Nay had never done anything like this, and his taste surprised her. She’d believed it would be disgusting, but instead it was musky and warm. Lifting her hand, she gripped the base of him. His skin was heated silk over taut muscle. She opened wide and sank her mouth over him. He grunted and hiked his hips off of the bed. Nay tasted the tangy wetness that seeped from his tip as she rose.
+When she came down again, he moaned and placed his hand on the back of her head. She glanced up at him. He watched her through heavy lids, his face flushed. The next time she took him deeper and swirled her tongue around the tip and his rigid muscle.
+“You’re going to make me come,” he said, his voice hoarse.
+Nadine throbbed and lust churned through her. Lowering her lids, she swallowed the saliva built up in her mouth, surprised she herself was on the verge of orgasm when he hadn’t even touched her. She delved deep one more time and then pulled back. His eyes clamped shut and he breathed hard through his nose, his chest heaving.
+Nay straightened and placed her knees on either side of his muscular thighs to straddle him. His eyes sprung open and, for a moment, she thought they glowed a burnished copper. But he blinked and they were back to their beautiful auburn tones.
+Gunner reached between them and held himself straight and she plunged onto him. A yell came from her. It was cut short when he brought her head to his and clamped his mouth over hers. Her insides quivered and she knew if she moved even a little, she’d fall over the edge, so she stilled and concentrated on his mouth. Nay leaned into him, the wool blanket rough beneath her knees. She took hold of his sweat glistened shoulders and held on tight.
+He palmed her breast, squeezing it and rubbing a thumb over her nipple, sending shards of lust arching through her. His other hand covered the small of her back and guided her. She lifted and slipped down slowly, wanting to feel every part of him, unsure she’d ever get the chance again.
+She pulled her head back and watched the emotions play on Gunner’s face.
+He is so beautiful. I wish I could spend forever with him.
+His pupils widened and his lips parted. Strands of hair, turned nearly black from sweat, stuck to his temples, neck, and the top of his shoulders. Nay increased her speed, and Gunner held the sides of her head with both hands.
+“Keep going, Nay. You’re so good,” he breathed.
+Nay tightened around him and her head fell back. He gripped her hair, gathered her close, and held her there, while he drew his tongue along her carotid artery and under her jaw. “Come with me, Nay,” he whispered against her ear. Chills slid down her spine, raising the hair along her arms.
+She tried to lower her head, but he held her still with his face cradled in the juncture of her neck and shoulder. He clamped an arm around her waist and plunged her down harder and faster.
+Nay’s muscles clinched around him and bright lights exploded behind her lids. She rode him hard and screamed as bliss streamed through her veins with each contraction.
+A small sting of pain pricked against her neck and she flinched. Then Gunner’s tongue soothed the spot. He squeezed her hard and let loose a loud groan as his orgasm hit him. His seed exploded within her, and she continued to ride him until their pleasure melted into a contented warmth.
+They collapsed together on the cot, the springs groaning beneath their weight. Nay rubbed her forehead against his warm chest and shivered.
+“You cold?” he asked, and shifted so he covered most of her body.
+Nay luxuriated in the warmth, still in a haze of dreamy wonder. She ran her finger along her neck where she’d felt the stinging and found a small scrape on her skin. “Did you cut me or something?”
+He drew back and glanced down to where her fingertip touched the spot. His shoulder lifted and he laid his head back on the lumpy pillow. “Didn’t mean to.”
+“You must have some sharp teeth.”
+
+CHAPTER 8
+“We need to come up with a plan,” Gunner said in an attempt to change the subject. He tried to recall if he’d let her see his fangs and was pretty sure he hadn’t. He’d been so consumed by the great sex, he’d nearly lost control.
+She is incredible.
+“Well, you’re the great plan maker, so why don’t you tell me.”
+He contemplated the door and wondered how long they had.
+Too busy fucking around—or fucking—instead of preparing.
+“We should probably get dressed before they show up again.”
+She nodded.
+While dressing, Gunner started putting pieces together in his mind and formed a strategy. He studied the room once again and checked for any signs of it being bugged. It came back clean. Then he discussed the plan with Nay.
+“Remember,” he said. “You have to do everything I tell you to do, even if it doesn’t sound right. Just immediately do it. Don’t question it. Okay?”
+She nodded. “As long as you promise me one thing.”
+He raised his eyebrows at her.
+“Don’t get yourself killed.”
+Gunner smiled. “That is one thing I’ll promise.”
+Nay gave him a quick kiss. “Let’s do it.”
+###
+Gunner’s eyes drooped closed when a sound came to him. He sat up, wide awake. Nay stirred next to him. The clicking of the lock on the exterior door drifted to him. Gunner gripped Nay’s thigh and shook her awake.
+She moaned and her eyes rocked back and forth beneath her lids. His gaze drifted across her face, admiring the high cheekbones and the way her lips lifted slightly at the edges. “Nay,” he whispered and rubbed his palm along the back of her thigh. “Get up. They’re here.”
+Nay shot up from the mattress, and Gunner turned his head right before her forehead collided with his chin. “What?” She squinted up at him.
+Voices echoed to them from beyond their door and faces passed in front of the glass. “It’s time. You remember everything we talked about, right?”
+She nodded and her skin turned ghostly white.
+“All right, then. Let’s do this.”
+He stood and took up a spot in the middle of the room as the door swung open. Nay rose and scooted against the wall, far from Gunner. One of the guards he’d seen earlier stood outside the doorframe. He held his sunglasses in one hand and his dark glare targeted Nay. “The boss wants to see if you’re ready to give us your answer,” he said with a strong Spanish accent. Gunner quickly assessed the man. Deep pock marks disfigured his face. He held no weapons, but a bulge from a holster was clear from beneath the man’s jacket. Two men shifted behind him. One scratched between the creases of his slicked back hair and seemed bored.
+Not for long.
+Gunner turned his chin over his shoulder and gave Nay a barely perceptible nod. She squeezed her lids shut and rolled under the bed. His powers surged through his body, singeing his veins. He dove at the men as his Designation burned hot on his neck. A snarl escaped him, and he grabbed the man’s head with one hand and jerked. Cracks filled the room. The man fell dead to the floor, his glasses clattering against the tile.
+The two men in the outside room shifted into a stance. Gunner stopped and smiled, giving them an eyeful of his long fangs.
+One man whimpered and stepped backward, tripping over his own feet and falling on his ass. Gunner guffawed. The man with the greased hair reached inside his jacket, but before he could touch the weapon hidden there, Gunner twisted his arm around the man’s neck and squeezed. The man on the floor scrambled toward the exit. With a laugh, Gunner swung his leg out and up high, bashing the man’s temple. The man’s eyes rolled up and he fell on his face. Finally, the man within Gunner's stranglehold gurgled and passed out.
+Gunner searched the guards for weapons, taking each of them for his own. He’d given Nay his after giving her a few quick lessons. He confiscated the door keycard and pocketed it in his jeans.
+Pivoting back into the room, he bent over and observed Nay under the mattress. She was in a fetal position facing the wall. The butt of his gun stuck out from the back of her jeans. Her body trembled and her ribs heaved in and out in quick succession. “Nay?”
+Gunner leaned closer to reach for her, but then stopped. She had her fingers clamped over her ears. He gently touched her arms.
+She screamed. He jumped and fell back, banging his forehead on the cot’s metal frame. “Damn it,” he muttered.
+“Gunner?” she whispered, her voice tremulous.
+“Yeah, it’s me.” He shook his head.
+How in the hell can I take a punch from someone like Nico, but a small knock on the noggin causes stars to circle my head?
+Gunner leaned over again to check on her. She faced him, but her lids were still squeezed shut. Nay reached out, her hand searching for him. “Are you okay?”
+“I’m good. We need to get going.”
+“Am I allowed to open my eyes now?”
+He almost laughed. He’d assumed she’d realize it was safe to open her eyes. She was definitely following his rules. Gunner had given her a list of instructions. The main one being to stay safe and out of the way. He’d also instructed her to keep her eyes shut during the fights.
+When she’d frowned, he told her, “I just don’t want you to see anything that might scar you for life.” In a way, it was true. What he became in his full Anathergian mode was frightening. Especially to those on the losing side.
+Gunner reached in and grabbed her hand to haul her onto her feet. Her gaze fell on the man with the broken neck and she gasped. He placed his palm on the small of her back and led her out into the other room.
+“How were you able to take out all three of them without any weapons?” she asked as she stepped over the man in the doorway. When she glanced up at him, he gave her a blank stare.
+I should’ve added no asking questions to the list.
+She blinked and cleared her throat, seeming to come to the conclusion he wouldn’t answer. “So, what’s next?”
+“I need you to remove their cell phones, back up keycards, etc. I’m going to lock them in our room.”
+She nodded and pushed her hair behind her ear as she squatted next to the man with the slicked back hair. Gunner checked the other two and dragged them into the room. The third followed the others once Nay was done with him.
+He yanked the door shut and secured the locking mechanism. Then he used the butt of one of the pistols he’d nicked and broke the panel. Before they left the room, he ran the keycard over the panel in front of the other cell. The door creaked open and the girl with the red dress they’d seen earlier peeked out with big blue eyes.
+“You okay?” Gunner asked.
+She opened the door wider. Welts and bruises marred her beautiful face. The girl nodded and licked a cut on her lip. “Are you here to help?”
+“I’m here to try,” Gunner said. “What’s your name?”
+“Kailey.”
+“I’m Gunner and this is Nay.” He gestured toward Nadine who nodded to the girl. “How long have you been here?”
+“A few months.”
+“Think you can show us around?”
+The girl pushed her tangled bangs from her face with a shaking hand. “Sure. Please just make sure they don’t get near me.”
+“Sure thing. You stick with Nay, and I’ll take care of the dirty work.”
+Kailey lifted her lips into a slight smile. “Yeah, you’re pretty good at that.”
+Gunner paused, wondering how much she saw. He glanced at her cell’s window and the grime covering it.
+Hopefully not much.
+“We’re heading to the security room first,” Gunner told her. “I suggest you leave the shoes behind.” He nodded down to the shoes on the floor in her cell.
+“I don’t want to touch another pair of high heels in my life.”
+He smiled. “Come on.”
+Gunner led them out of the room. The halls were quiet during the early morning hours, but the cameras could see them.
+Not much I can do about that right now.
+They scrambled to the stairway and back up to the level they’d come from. When they approached the door, Gunner stopped and listened. Shuffling feet clicked on the floor down the hall outside.
+“Okay, you two,” he said. “Y’all stay back behind the stairs. I’ve got some business to handle. Don’t come out until I come to get you.” He withdrew one of the pistols he’d taken from the guards, checked the magazine, and then pinned his gaze on Kailey. “You ever shoot a gun before?”
+“My daddy took me shooting before he died,” she answered.
+“Okay, then,” he said. “Quickly. This is a Glock. There isn’t a safety.” He loaded the chamber. “So, it’s ready to go. All you have to do is aim and pull the trigger.” Kailey reached for it, and he jerked it back. “Do not aim it at anything or put your finger on the trigger unless you plan on causing harm, do you understand?”
+She nodded and Gunner handed it over. Once they were hidden behind the stairwell, he cracked open the door. Three men strode toward the stairway entrance. Gunner squeezed out of the door and closed it behind him. The wide hallway provided no cover, so he marched to the middle and stopped, facing the oncoming men. He inflamed the burning pit in his stomach and let his powers free. The men paused to lift their weapons and take aim at him. Their movements were fast, but his powers made them appear slow and stilted, allowing him to see each small detail.
+Yes! Time for some action! I might be a computer nerd, but I’m one helluva kick ass warrior, too.
+Gunner shot forward and yanked the gun from the first man. The guard gaped at his empty hands, not even realizing it was Gunner who took his weapon. Time slowed even more as he added more fuel to his powers and reached sonic speeds. He swung his leg around and up high, kicking the second guard’s weapon. It skittered across the floor. He spun and thrust out his other foot. It whistled through the air and bashed into the man’s jaw. Gunner watched the reverberations cascade along the man’s face from the point his foot made contact. Spit and blood shot from the man’s mouth, and the bones crunched beneath his boot.
+Before his foot left the second guard, Gunner swung his head around and reached out for the first man. He yanked on the back of the guard’s blazer and crushed the man’s head into the marble floor. The third man whirled toward him, his long greasy strands spinning through the air, his Glock at the ready.
+Placing both feet firmly on the floor, Gunner pushed off the balls of his feet, soared into the air, and did a high front layout. He spun around just before he landed behind the long haired man. Gunner waited for a moment for the guy to find him. When the guard twisted around and saw him there, his dark eyes popped wide.
+“What’s up?” Gunner laughed and shot out a fist, hitting the man in his solar plexus. The guard flew backward and plowed into the wall. His gun clattered to the floor as he sank down. He groaned and passed out.
+Gunner collected the men’s weapons, and checked the magazines to make sure they were full. He stowed one between his back and jeans and another in front of his stomach. Gripping the third Glock in his right hand, he slid up against the wall and crept up to the corner. He studied Vargas’ office and listened carefully for any sound. Checking the area, he shot across the hall and peered into the office. The room was empty. He quickly made his way to the door the security men had exited from earlier. Gunner assumed the office belonged to the security detail and the men inside knew he was coming. If they’d seen what had gone down with the other guards, they’d be prepared for him. But they didn’t need to know what he was currently up to.
+Gunner peered up at the camera, gave it a huge grin, aimed his Glock, and then squeezed the trigger. The sound echoed against the walls, making his eardrums vibrate. He squinted at the noise as the camera disintegrated.
+We’re even. At least, for now.
+He put his back to the wall and scooted up to the door. Pulling out the keycard, he ran it over the panel. When the door unlocked, he pushed the panel wide and twisted back against the wall with such speed, the men would have only seen a blur.
+Gun shots rang out, pelleting the door with holes. The door frame shattered and Gunner turned away. Bullet casings clinked on the floor and a shoe scraped against the tile. Quiet rang and the door creaked closed. A soft curse came to him and footsteps crunched as they moved toward the opening.
+Gunner hunched down and waited. A gun held stiffly in two hands, followed by arms in long, white shirtsleeves came from the door. Still in a crouch, Gunner shot out his free hand and gripped whatever part of the man he could get ahold of and threw him across the hall. The man crashed against the floor, unconscious. Using the same hand, he pulled the gun in front of his stomach free, filling both hands with a Glock, and rolled into the room, guns blazing. A round hit a guard’s kneecap. The man screamed, and his hand held the gory wound as he sank to the ground. Another’s shoulder was pierced, causing him to lose his grip on his submachine gun. The third guard got a shot off.
+The bullet sped through the air at Gunner. He tried to spin away from the projectile, but his momentum forced him in the wrong direction. The round ripped through the surface of his shoulder and sliced all the way through flesh and muscle and out the back.
+“Son of a bitch!”
+He shot to his feet and marched over to the man, hissing through his fangs. Gunpowder fogged the room, and the acrid smell made Gunner’s nostrils twitch. The young man stood frozen in place, his smoking gun held stiffly in both hands in front of him. His huge eyes stared at Gunner’s mouth. He blinked twice, not comprehending what he was looking at. His gaze drifted to Gunner’s Designation on the left side of his neck and then his glowing auburn eyes. Gunner whipped out his hand and yanked the weapon out of the man’s grip. “Give me that.”
+The man yelped and Gunner shook his head. “I can’t believe I got hit by a friggin’ newb. Nico is never gonna let me live this down.”
+The man backed up, shaking his head back and forth. “Pl…please… I didn’t mean to.”
+“You didn’t mean to?” Gunner squawked. “Look at this.” He pointed to the wound. “Look what you did to me, you piece of shit!”
+“I… I’m sorry. I swear!”
+“You have got to be kidding me. Get over here,” he directed as he pointed to a chair. The man quickly complied and sat in the chair. Gunner rummaged in a drawer, found some cable ties, and secured the guard to the chair. Then he pistol whipped the other two, knocking them out to keep them out of his hair. Gunner stepped back and eyed the guard in the chair. “Where’s Vargas?”
+The man gaped. “I don’t know. Sometimes he stays here with a few of the girls, other times he leaves. I’ve only been here for a few weeks, so I don’t know his whole schedule.”
+Gunner took in the man, not sensing any deceit, but still unsure if he believed him. He removed the guard’s tie and used it as a gag, tying it into a knot behind the man’s head. Leaning over him, he smiled. “I’d say you took the wrong job.”
+He laughed and rubbed the man’s brown hair as he stood. The narrow room had two desks facing the door and monitors with the camera feeds lined a far wall with a long counter beneath them. Across from that was a gun cabinet. Gunner moseyed over to check the monitors. The way back to the stairwell was clear, so he left the room to gather the girls.
+After he made sure he had his powers banked, he knocked twice on the stairway door. “It’s me. I’m coming in. Don’t shoot me.”
+That’s all I need is to get shot by an untrained girl next.
+He pushed the door open and entered the stairwell. It was silent. “Nay?”
+“Gunner?” Nay bolted from their hidden spot and dove at him, catching him around the neck. “Oh my God! I thought you were dead!” She pulled away and placed her palms on the sides of his face. Tears streamed down her cheeks. She caught sight of the blood on his shoulder. “You’re shot.” Her face paled, and she pulled at the torn, red-soaked fabric.
+“Just a scratch.” The wound had nearly healed and didn’t require any treatment.
+“Let me check it,” she said as she tugged on the sleeve.
+“I’m fine,” he insisted.
+Kailey came up behind Nay. “There were a lot of gunshots. I don’t know how you made it. We were sure you were dead.”
+“I was lucky. But we have to get going. It’s a pretty good bet they’ve called for backup.”
+“Gunner, she knows where Kristine is,” Nay said with a sniff.
+Gunner stared at Kailey. “Is she here?”
+Kailey nodded. “Down two levels.”
+Gunner smiled. “Let’s check the security angle first to see who’s down there.” He cracked open the door and scanned for any signs of movement. When there were none, he pulled the door wider and edged his head out to scan the area. “The coast is clear.” Gunner walked out and stood in front of them in case someone entered the area.
+They stayed close to the wall as he led them back to the security office. When they entered the room, Kailey stopped and stared at the guard still strapped to the chair. Gunner eyed the girl. Her top lip turned up and she squinted at the man. “What’s up?” Gunner asked.
+“He’s the pee guy,” she said.
+“The what guy?”
+“He likes to pee on the girls he’s with.”
+Gunner scowled at the man.
+“That’s disgusting,” Nay said.
+Kailey let loose a small laugh. “You’d be surprised at what some people get off on. He most definitely wasn’t the worst.”
+Gunner shook his head and stepped over to the cameras. He dropped into the desk chair in front of the huge panel of monitors. “Okay, let’s see what they’ve got here.” The keyboard clicked as he pressed the keys. Nay approached behind him, studying the software with him. He glanced up at her. “What do you think?”
+She shrugged. “A bit primitive. Easy to get into.”
+He smiled. “That’s my girl.” Gunner manipulated some of the cameras so all of the monitors included views of Kristine’s floor. “All right, Kailey, give us a rundown of the place.”
+Kailey placed the Glock on the counter and inched up next to Nay and pointed to a monitor. “She should be in there. We’ll enter from this area,” she said, running her finger along another screen showing a bank of elevators and the stairwell. “We’ll keep going and take the second hallway on the right. Her room is the third on the left.”
+“How many are there in total here?” Nay asked.
+Kailey shrugged a bony shoulder. “Lots. Probably twenty or thirty.”
+Heat rose up Gunner’s chest.
+These sick fucks. They’re lucky I won’t be the one meting out justice.
+He rolled the chair to the end of the counter where a phone sat. After punching in a number, he put the receiver to his ear.
+“Yeah?” Nico answered on the first ring.
+“Hey, man,” Gunner said.
+“Gunner? What the fuck you doing using this number?”
+“We’re in a bit of a spot.”
+“A spot?”
+“We were escorted to Vargas’ place.”
+There was a long pause, and then Nico guffawed.
+“Laugh it up, dip shit.” Gunner waited for him to stop. 
+“I’m just waiting for you to tell me the punchline,” he said once his laughs subsided.
+“Here’s one for ya: call Double T and tell him to send his people over here ASAP. Make sure he has some EMTs with him as well.” He gave the Anathergian the location to pass on to the detective. “I don’t have a fix on Vargas. He skedaddled a couple of hours ago. However, there are about twenty to thirty captives here.”
+Nico whistled. “No problem, man. See you in a few.”
+Gunner hung up.
+He turned to Nay and extended his hand to the security surveillance. “Would you like to do the honors?”
+Her face brightened with a smile. “I’d be happy to.” She took the chair he offered, pulled up the keyboard, and accessed the back end of the surveillance firmware.
+Gunner opened the gun cabinet and pocketed a couple of magazines. Pivoting back around, he observed Nay, admiring her work.
+After a few moments, she swiveled around in the chair and swiped her hands together. “Done. I only changed a few things, but—unless they have a good coder handy—it’s going to take them a few days to figure out the issue. Until then, no video surveillance for them.”
+Gunner lifted his fist and she bumped her own to his. “Let’s roll,” he said, and they marched out.
+
+CHAPTER 9
+Nay followed Gunner while Kailey, the gun held firmly in her hand, stayed on her heels. She’d tried to take in everything, but the entire situation was overwhelming. When she and Kailey had been in the stairwell waiting for Gunner and heard the gunfire, she thought for sure Gunner had been killed. Panic seized her, and she’d had no idea what to do. The relief that coursed through her when he came through the door had nearly brought her to her knees.
+Terror and fury burned her veins when she discovered the bullet wound on his arm. Even though he’d told her it was nothing but a scratch, she’d seen the holes in his shirt displaying the entrance and exit areas. What she hadn’t seen was any evidence of torn up flesh. Just a small wound that appeared almost healed. It was strange.
+When they’d left the stairwell and saw the guards, she couldn’t believe the carnage. She had no idea how one man could do so much damage to professional killers.
+Who is he?
+She studied his wide, muscular shoulders. The torn material and blood on his sleeve gave evidence to the round that had penetrated it. Yet, he hadn’t required any treatment. He hadn’t acted as if it was hurt at all. Nay shook her head.
+Think about it later.
+They returned to the stairwell and descended two levels. Gunner shooed them back against the far wall to hide once again so he could clear the area. Frustration ate at her as she watched him exit. She hated hiding. She wanted to stand beside him and help him. His gun was still firmly entrenched at her back. Though he’d showed her how to use it, she wasn’t sure if she could without shooting off her own foot. They kneeled against the wall under the stairwell, Kailey holding her own gun in a firm grip.
+Grunting and the sounds of flesh hitting flesh sifted through the door. A barrage of gunfire made them jump. A crash hit the door and they both screamed and huddled against each other. Silence followed and Nay’s fast heartbeat echoed in her ears. Their harsh breathing reverberated loudly and the sound grated on Nay’s nerves. Kailey smelled of stale alcohol and hairspray. The scents made her insides twist.
+“Where is he?” Nay whispered.
+Kailey grabbed her hand, the girl’s long red nails digging into the flesh between her finger and thumb. “He’ll be here.”
+Nay wished she was as optimistic. She didn’t know how Kailey could still be so positive after having lived through the hell she’d experienced since she was kidnapped. When Nay had asked her why the girl hadn’t ran away, she’d said they’d threatened to kill her little brother.
+“My daddy died two years ago, so we’re all my mom has. She’s lost me, so there’s no way I’m going risk her losing my brother, too,” Kailey had said. “Besides, I always knew someone would save me. And I wasn’t wrong.”
+Nay gripped the girl’s hand, trying to draw in some of her confidence. Something scraped against the door, and they held their breath and leaned farther into the corner. The door opened and light from the hallway made its way to them.
+“It’s me.” Gunner’s voice echoed through the stairway.
+Nay slumped and let loose the air she’d been holding.
+I can’t take much more of this.
+She stood and her knees protested as blood flow returned to her calves. Nay stepped from the shadows and saw Gunner’s well-built body silhouetted by the light from the hallway. “You didn’t get yourself shot again, did you?” Nay joked in an effort to dispel the doom and gloom haunting her thoughts.
+“Nope. I was too fast for them,” he said as he stepped back into the hall.
+They clustered behind him and followed the man down the hallway. When they approached the corner leading to her sister’s location, Nay’s stomach fluttered.
+Gunner, with his pistol aimed at the ceiling, peeked around the edge of the wall. He gave them a slight nod to indicate the way was clear. They sprinted for the far wall and plastered themselves against it. Nay bit her lip, excitement building at the thought of seeing her sister.
+They approached Kristine’s door and Gunner held his hand up to them. Nay and Kailey stopped. Gunner turned the doorknob and pushed the door open. A fluorescent bulb blinked from inside the room. Nay lifted to her toes in an effort to see past the tall man’s shoulders.
+Gunner tilted his head past the doorframe and then back out. “It’s clear.”
+Nay dashed forward and Gunner darted out his hand and caught her arm. “Me first.”
+She stared up at his warm brown gaze and nodded. He swiveled into the room. Nay stayed close enough behind him that she could feel his body heat.
+The oversized room appeared to be an office at one time. Blankets and pillows scattered across the floor. Only a few covered bodies. They tiptoed through the makeshift beds.
+Nay peered at the faces, searching for her sister. The first girl she approached, a Filipina, glared at Nay when she tugged at the girl’s quilt. The second was a small, blonde girl, probably younger than Kailey. The third was a tall, lithe African American. She stared quietly up at them, watching as they passed. Nay’s heart jumped as she came upon the second-to-last girl. Her dark hair covered the pillow and a blanket covered her face.
+Nay kneeled and shook her shoulder. “Kristine?”
+The girl’s arm slashed out, and her hand gave a glancing blow against Nay’s chin. Gunner appeared in an instant, placing himself between her and the girl. Nay blanched, unable to believe how quickly he appeared. She peered around him and glanced at the girl’s face. It wasn’t Kristine. Nay blinked at her stinging eyes.
+She stepped sideways and passed the girl to the person huddled against the wall under a pile of covers. None of the body was visible from beneath the blankets, and Nay had no clue if it hid her sister. She kneeled next to the girl. Gunner came up beside her and went to his haunches, his knee brushing her side. Nay glanced at him, unsure if she should remove the blanket.
+“Go ahead. I won’t let you get hurt.”
+She gave him a small smile and reached for the cover, pulling it from over the girl’s head. Nay cried out and tears streamed down her face. “Kristine.”
+Kristine blinked up at her and frowned. “Nay?”
+Nay nodded and wrapped her arms around her sister.
+“Nay,” her sister gasped and lifted to an elbow. “You can’t be here. They’ll kill you. And mom, too. You have to leave. Now.” The girl’s words ran together.
+Nay sat back on her heels and smiled at her sister. “It’s okay. We’re saving you. Let’s get out of here.”
+Kristine’s glazed eyes went wide. Smeared makeup circled her lids. “No, you can’t save me. You have to go.” She tried to push at Nay, but fell back against her pillow. “Go, Nay, while you can. Forget about me.”
+Nay frowned. “Come on, Kristine. I told you, my friend Gunner and I are getting you out of here.”
+When her sister shook her head, Gunner leaned in. “I got her.” He scooped her up, the blankets falling unheeded to the floor. “Let’s get out of here.” Kristine let out a small protest, but then gave up her weak struggle.
+Nay quickened her pace to keep up with Gunner, who was almost to the door. She checked behind her, seeking out Kailey. The girl shook the rest of the females as she passed them, trying to get them to freedom. Nay banged into Gunner’s back. She swallowed a curse when she saw four men in dark suits coming down the hallway.
+Gunner spun around and handed Kristine to her. “Close the door and don’t open it for anyone but me.”
+Nay sucked in a breath and nodded, cradling her sister. When he left and the door closed behind him, she lowered herself against the wall and her head sunk down.
+Please don’t let anything happen to him. Please!
+#
+Gunner had to make this quick. The hallway was a dead end, and if he got seriously hurt, the show was over. He elevated his powers to one of his higher levels and dashed forward, faster than the speed of sound. His shoulder slammed into the stomach of the first man and sent him crashing into the marble wall. The material cracked and fell on top of the criminal.
+He gripped the jacket of the second man and spun him into the air, propelling the man’s legs into the face of the third guard. Gunner loosened his fingers and the man continued to fly in a flat out spin until his potbelly cushioned his fall twenty feet away.
+The last guard sprayed rounds from his Uzi across the hallway. The man’s eyes were closed and he swung the gun around in all directions. Gunner sprung into the air, trying to find a safe area. A bullet pierced his right thigh and two drilled into his left calf.
+“Shit!”
+I fucking hate getting shot.
+The guard’s eyes popped open. Gunner’s powers flared higher, and he landed in a crouch on the ground. His neck burned and the glow of his Designation shone off his skin. He lifted his head and snarled at the man, giving him a good view of his fangs.
+The man’s mouth hung open and he dropped the gun. “Madre de Dios,” he mumbled as he stumbled back and crossed himself.
+Gunner came to his feet and stalked over to the man. “You will regret doing that.”
+He clutched the man’s purple tie and wrapped it once around his hand. With his other hand, he punched the man in the face.
+“Get yourself,” he said, and punched the man again, “a real fucking job.” His fist pummeled into the man’s jaw.
+“Stay the hell away from,” he said as he landed another hit to the eye, “little girls, you sick fuck!”
+“And never—and I mean never—shoot me again.” He landed a blow on the man’s nose, breaking it. Blood poured from his nostrils and the man whimpered. “Got it?” The guard nodded with quick jerks.
+Letting loose of the tie, Gunner watched with satisfaction as the man teetered on his feet and fell to his back, hitting his head on the floor.
+Gunner sighed and shook his head, disgusted. Sharp tingling shot up his legs as his wounds began to heal. The bullets sprang free from his openings and clinked on the floor. His muscles cramped and he cringed as he kneeled over to relieve the guards of their weapons, tossing them into garbage bins. He stashed the guards away so they were out of view. There was no reason to give Nay more reasons to question how he took the men out. He could tell she was already skeptical. Gunner checked the rest of the area for any leftover security. Finding none, he returned to the girls.
+After knocking twice, he opened the door and found Nay on the ground with Kristine on her lap. Her pale skin accentuated the line of her clenched jaw. When her eyes met his, she sagged. Gunner kneeled down and studied her. Her sister was passed out. “You all right?”
+“Oh, God. Gunner, I thought you were dead. I’m so sorry,” she said, as wet streaks trekked down her cheeks. Her shoulders shook. “I’m so sorry I got you into this. I’m so sorry.”
+“Hey,” he said and reached out to run his fingers through her hair. “I told you I’d help. There’s no reason to apologize.”
+“I…” She hiccupped. “I just don’t know what I’d do if you ended up hurt or k-k-killed. I-I-I don’t think I could handle it.”
+He leaned over and kissed her head. “I’m fine. Cheer up, little buckaroo. We’re almost outta here. You ready?”
+She sniffed and wiped her sleeve on her nose. “I’m ready.”
+Gunner hefted up Kristine over his shoulder and opened the door. He peered outside, glad to see the area was still clear. Glancing back, he saw Kailey, the Glock clasped in her hand, gathering the rest of the girls. “Stay together. No one is to go ahead of me, okay? Kailey, you take up the rear.”
+Kailey nodded at him. He traversed into the hallway, the line of girls following him, and sped to the far wall. Planting himself against the marble, he scooted along the surface until he reached the edge. Soft footsteps came from the group behind him, but they weren’t loud enough to draw attention to themselves. He peeked around and found an empty hallway.
+They made their way to the stairwell and ascended two levels. The girls’ whispers echoed against the walls, making Gunner edgy. He breathed a sigh of relief when they came to the door on the same level where they’d originally entered the building.
+“Let’s move,” he said, after making sure the coast was clear, and shot out quickly into the area. In vivid detail, his mind recalled the pattern they took when they entered the building. Gunner plastered himself against the far side, and the rest of his group copied him. He stopped before each turn, checking for any of the security detail. It made him uneasy when they didn’t come up against anyone.
+They’re blind without their video surveillance.
+They maneuvered a corner into a hallway and tiptoed toward the garage door some distance away. The only light came from a green exit sign above the door. Light flared as the garage door opened and pounding feet filled the hall. “Get down!” Gunner crouched and pulled Nay down with him. He pushed Kristine into her arms. “Go back!” The girls screamed, covering their heads as they hunched over and ran back around the corner.
+Gloom bathed the area again as the door shut. Gunshots rang out and a round grazed his hair.
+Damn. I need a haircut, but not like that.
+He fell to his stomach and yanked his Glock free. Legs flashed back and forth and he aimed for the kneecaps, trying not to kill anyone.
+He got off two rounds. Yelps and curses told him his aim was true. Gunner squeezed the trigger again, but nothing happened.
+Shit! It’s jammed!
+His other gun had run out of ammunition earlier and he’d ditched it. Jumping to his feet, he kept close to the wall and lifted his pant leg, tugging his knife free. He preferred his bare hands or his guns, but the knife would do. His powers cascaded through his muscles and he barreled down the long hallway. He counted at least five more men. It was dark, which meant they were at a disadvantage. But not having light didn’t bother him. The first man, dressed in a black t-shirt, shot blindly down the corridor. The others held their weapons at their sides, unable to get a clear shot past the first guy.
+Gunner ducked past him. He thrust out his hand and gave a good tap to the back of the man’s head with the knife’s pommel. The guard fell forward. The rest of the men paused. Gunner took advantage of the lull and whipped between them, taking out one after another, spinning like an F5 tornado, flattening everything in its path. He hamstringed one with the long blade. Another aimed his weapon at Gunner’s stomach. Gunner saw the gleam of a silver bracelet. “Hello, Juan,” he said, and then twirled around the man, yanking his head back. “No pussy for you tonight, pendejo.” He jerked the man’s neck. It snapped and the body sagged.
+He grimaced at the loss of life.
+The dumb ass shouldn’t have said rude things about my girl.
+He reached into the man’s jacket to grab his cell phone. While slipping the phone into his back pocket, another guard approached him from behind. He glanced over his shoulder and recognized Jorge. Gunner used Juan’s gun and gave the criminal a reason to require a knee replacement. He leapt into the air and faced the last two. They backed up, and he sprinted toward them. Gunner clutched both of their heads and slammed them together. They fell on top of each other, unconscious.
+He stopped and contemplated the pile of bodies.
+That was quick.
+Gunner dashed forward to the garage door and cracked it open to check for any other surprises. Finding no one, he scurried back to the girls. They bunched together, some crying while others whispered reassurances.
+“Almost there, ladies,” Gunner said.
+Smiles lit up their faces. Nay stared up at him. Exhaustion marred her usually vibrant features. He bent over and gathered Kristine up one more time. They traipsed down the long passageway. A few of the girls were horrified when they saw the pile of bodies, while a couple others laughed.
+He peeked out the door again to double check the garage. Blue and red lights shone off a far wall and then police cars and a SWAT vehicle screeched around the bend. “Looks like our ride is here,” he said over his shoulder. He kicked the door wide and leaned against it to let the group free.
+In the light from the garage, he was afforded a better view of the abused girls. Bruises marked the faces of some, while others showed the effects of drug use and malnutrition. Each of them smiled at the sight of the law enforcement vehicles.
+A black sedan screeched to a stop and Double T slid from the vehicle. The girls gathered around in front of Gunner. He let the door close and circled the crowd to the detective. “Gunner,” the tall, thin man said. “Some kind of party you got going on.” The man’s smile was bright against his dark skin.
+“T, I’m glad you could make it.”
+“No doubt. It appears you’ve got yourself quite the group.”
+Gunner nodded. “Yes, sir. There’ll be more inside. Any chance you got the EMTs with you?”
+The detective nodded. “I wanted to make sure the area was secure first.”
+“It’s secure for the moment, though I didn’t see any sign of Vargas.”
+T scrunched his mouth sideways and shook his head. “That one’s slippery.” The man pivoted around and yelled at one of the officers to send in the EMTs as the SWAT personnel sped past them into the building.
+“Is it done?” Nay asked as she walked up beside him.
+He glanced down at her, frowning as he searched her face. The only color came from the darkness below her eyes and her chapped lips. Gunner wanted to pull her close and tell her everything was all right. But, he knew this was just the beginning.
+“This part is.”
+###
+Gunner and Nay sat on the roof of the hacker house, watching the sunset ease its way over Mt. Charleston. Golds, pinks, and reds melded across the horizon. He squeezed Nay closer to him and leaned over to lay a kiss against her silky tresses. His lids lowered as he inhaled her light flower scent. Memories of their hours of lovemaking crossed his mind.
+I’ll remember them forever.
+He couldn’t have asked for a better close to the chapter of the stress from the last few weeks.
+She sighed. “I wish I didn’t have to go.”
+“I know,” he said. “But it’s for the best. You’ve done a great job with all the depositions. They have the evidence they need to prosecute Vargas once he’s tracked down. In the meantime, you and your family need to go into the program to make sure he can’t find you.”
+“I’ll miss you,” she said.
+“I’ll miss you, too.”
+He hoisted himself up to his feet and pulled her up with him. They climbed down the ladder and walked to the waiting SUV. He opened the door for her, revealing her sister, Kristine, and their mother.
+Nay turned back to him, and her eyes misted. “I’ll try to keep in touch.”
+“That isn’t advisable.”
+A single tear tracked down her cheek and she nodded. He reached out and brushed the silvery line away with his thumb.
+“Take care and stay safe.”
+She stood on her toes and kissed him gently, her lips warm against his lips. “Bye, Gunner.”
+He hugged her, unable to repeat the farewell. His hands fell to her sides and he swiveled her toward the car. She climbed in and watched him as he shut the door. He stepped back and the vehicle rolled away.
+He sucked in a deep breath and swallowed the lump forming in the back of his throat. As the vehicle turned the far corner, he pulled out his cell and opened a tracking app he’d developed.
+The night before, after Nay had passed out, he’d inserted a tiny tracking device inside of her locket. A green dot on his screen showed the vehicle’s path.
+Don’t worry, Nay. I’ll make sure you’re safe.
+
+***
+Learn more about the Anathergians here:
+http://www.michellecreilly.com/anathergians/
+
+VARIANTS, The Anathergians Trilogy, Book 1
+http://www.michellecreilly.com/variants-anathergians-book-1/
+It’s where it all began. Auden meets Leah and they come together to try to discover who is behind the Variants.
+
+NICO: THE ROGUE WARRIOR, An Anathergians Novella
+http://www.michellecreilly.com/nico-rogue-warrior/
+Nico’s story picks up directly after the end of VARIANTS, The Anathergians Trilogy, Book One.
+The clock is ticking and he has to beat it to save a woman’s life.
+
+WITCHES, The Anathergians Trilogy, Book 2
+http://www.michellecreilly.com/witches-anathergians-book-2/
+Questions are answered, but more arise. As do more powers and more threats.
+
+ROYALS, The Anathergians Trilogy, Book 3
+http://www.michellecreilly.com/royals-anathergians-book-3/
+The final book in the Anathergians Trilogy, where questions are answered, battles fought, and happiness found.
+
+***
+Want to be the first to know what happens next? Join Michelle C. Reilly’s newsletter for sneak peeks, swag, games, upcoming specials, release dates, quotes, and more! http://www.michellecreilly.com/newsletter/
+
+ABOUT THE AUTHOR
+Michelle C. Reilly is a single mom of two wonderful boys. She spent ten years in the U.S. Navy as a Hospital Corpsman Preventive Medicine Technician, which meant she was actually attached to or stationed with the U.S. Marine Corps. She has a Masters in Science in Public Health, but she is generally an IT geek and a geek of many other things as well. She currently resides in Las Vegas, NV, with her two cats, Meowdy and Moose, and her dog, Katie aka “The Old Lady.”
+Make sure to visit her website www.michellecreilly.com for more information about her and her upcoming books.
+Feel free to visit, ask her questions, and hang out with her on Facebook at www.facebook.com/michellecorareilly.
+And if you’re a tweet-a-holic (or even if you’re not), follow her on Twitter at www.twitter.com/MichelleCReilly.
+
