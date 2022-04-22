@@ -1,0 +1,951 @@
+﻿Quantum Troopers
+Episode 7:  Hong Chui
+Published by Philip Bosshardt at Smashwords
+Copyright 2016 Philip Bosshardt
+Smashwords Edition, License Notes
+
+This ebook is licensed for your personal enjoyment only.  This ebook may not be re-sold or given away to other people. If you would like to share this book with another person, please purchase an additional copy for each recipient.  If you’re reading this book and did not purchase it, or it was purchased for your use only, then please return to Smashwords.com and purchase your own copy.  Thank you for respecting the hard work of this author.
+
+A few words about this series….
+
+1.Quantum Troopers is a series of 15,000- 20,000 word episodes detailing the adventures of Johnny Winger and his experiences with the United Nations Quantum Corps.
+2.Each episode will be about 40-50 pages, approximately 20,000 words in length.
+3.A new episode will be available and uploaded every 3 weeks.
+4.There will be 22 episodes.  The story will be completely serialized in about 14 months.
+5.Each episode is a stand-alone story but will advance the greater theme and plot of the story arc.  
+6.The main plotline: U.N. Quantum Corps must defeat the criminal cartel Red Hammer’s efforts to steal or disable their new nanorobotic ANAD systems. 
+7.Uploads will  be made to www.smashwords.com on approximately the schedule below:
+
+Episode #	Title					Approximate Upload Date
+1		‘Atomgrabbers’			1-14-16
+2		‘Nog School’				2-8-16
+3		‘Deeno and Mighty Mite’		2-29-16
+4		‘ANAD’				3-21-16
+5		‘Table Top Mountain’			4-11-16
+6		‘I, Lieutenant John Winger…’	5-2-16
+7		‘Hong Chui’				5-23-16
+8		‘Doc Frost’				6-13-16
+9		‘Demonios of Via Verde’		7-5-16
+10		‘The Big Bang’			7-25-16
+11		‘Engebbe’				8-15-16
+12		‘The Symbiosis Project’		9-5-16
+13		‘Small is All!’				9-26-16
+14		‘’The HNRIV Factor’			10-17-16
+15		‘A Black Hole’			11-7-16
+16		‘ANAD on Ice’			11-29-16
+17		‘Lions Rock’				12-19-16
+18		‘Geoplanes’				1-9-17
+19		‘Mount Kipwezi’			1-30-17
+20		‘Doc II’				2-20-17
+21		‘Paryang Monastery’			3-13-17
+22		‘Epilogue’				4-3-17
+
+Chapter 1
+“Escape from Kipwezi”
+
+Mount Kipwezi, Kenya
+November 8, 2048
+19:30 hours
+
+The hot waves of rf boomed around the cavern, loosening spouts of rock and ice, which shattered and cascaded down from the ceilings and walls.  Reaves, Barnes, Winger and the rest of the Detachment ducked, covering themselves as rubble rained down on them.
+Ahead, the Symborg swarm had been shredded, disintegrated.  Loose bots twinkled in the dust, while Barnes pumped another few rounds of HERF fire into their enemy.
+“Fallback!” Winger yelled over the crewnet.  He stabbed a preset button on his wristpad: Romeo Tango Bravo.  “Fallback to the entrance!”
+Return to Base.  The signal went out to the whole Detachment.
+Behind them, the HERF rounds had shredded the swarms that had started to engulf them.  Winger felt for his shoulder capsule.  The port felt loose; he wasn’t sure whether ANAD had ever exited the capsule.
+No time to worry about that now.
+Winger ducked and crawled, as he backtracked out of the cavern, feeling with his feet and hands to stay on course, back up the shallow decline they had followed in.  They passed steaming pools of water, slick ice patches, all the while working their way back out the way they had come in.
+“Jesus H. Christ!’ muttered Nguyen, as he whirled around with his magpulse carbine, ready to let loose on anything that moved.  “Look at that!”
+The pools and rock landings were thick with half-formed angel swarms, some legless, some without arms.  Disembodied heads and parts of heads drifted like phantasmagoric nightmares through the dust.
+“That’s me!” cried out D’Nunzio.  They passed a small knot of swarm globs, all of them bearing an uncanny resemblance to Deeno, all of them like half-eaten funhouse mirror distortions of the real thing.  
+Deeno pumped a few rounds into the cloud and the swarms were quickly shattered and dispersed.  
+Barnes shuddered, stumbling right behind her fellow troopers.  “Gives me the creeps…what the hell is this place?”
+“A bad dream,” decided Nguyen, as he crept alongside.
+Detachment Alpha moved up and up, toward the cave entrance, feeling their way along, following a drifting mist of bots that wavered in and out of view. They ascended several levels, re-crossed the rock bridge across a deep chasm and maneuvered through more tunnels.  Lighting was still created by a faint mist, a pulsing, flickering light that cast deep shadows on the gnarled veins of rock lining the cave.  The floor was slick, patches of ice everywhere.  Soon enough, they came to the narrow opening, barely waist high.  
+“Hold your fire!” Winger commanded.  “Get your boost going!  We’ll drop back to the ground that way!”
+“Look!” a voice cried out.  More swarms had followed them.  As the light flickered and wavered, Winger saw the swarms were still angels, this time replicas of UNSAC himself, Jiang Hao Bei…dozens of them, some half-finished, some nearly complete.  It was like staring back into an infinity of mirrors.
+Winger wanted to unleash a barrage from his HERF rifle and scatter the bugs to hell and back but he resisted the impulse.  Another round might well seal the cave and trap some of his own troopers.
+“Light off!” he yelled.
+One by one, the troopers of Detachment Alpha lit off their suit thrusters and leaped out into the air, flaring in the darkness as their boost lowered them several thousand meters, through fog and smoke, down to the ground below.  
+Winger went last.  “Sure hope ANAD’s okay”, he muttered to himself.  Truth was, he wasn’t even sure the little trooper will still in containment, or that he was even functional.  Somehow, Symborg had been able to command the capsule port open.  There was no telling what else he might have done to ANAD.
+Winger stabbed a button on his wristpad and took a leap into the air.  It was cold and windy but the boost guided him unerringly to the ground.  Strong hands steadied him as he landed.
+The troopers gathered around, a few of them eyeing the blood-red glow from the top of Kipwezi uneasily.
+“What’s next, Skipper?”
+“Okay, here’s the deal.  We’re going to recon the perimeter of this big rock for the next few hours.  Out to one kilometer radius from the foot of the mountain.  We’ve still got QPODs to plant.  Q2 wants intel on Symborg, where he goes and what he does.  Target coordinates for planting Q-PODs are about halfway around, the other side of the mountain.  Kipwezi’s an active volcano…ya’ll can see that for yourselves, so watch your step.  The geos say she won’t blow anytime in the next forty-eight hours, but she burps a lot…kind of like you guys at the canteen.  So we keep Superfly up and keep sniffing, telltale gases, seismic shudders, that sort of thing.  Procedure in a big blow is this: light off your suit boost and punch in ESCAPE 3…that’s been pre-programmed to lift you out of here in a hurry.    Just make sure you’re configured for quick launch at all times.  Any questions?”
+There were none.
+The Detachment went about their task with grim efficiency, always keeping a close eye on Kipwezi and any swarms that might be gathering.  D’Nunzio and Reaves tested the environment every few minutes; nothing could be trusted when a bush, a rock, a dead jackal carcass could be a cloud of bugs ginned up to resemble normal stuff.  But they got nothing back…no thermals indicating atomic bonds breaking, no electromagnetic signatures, no acoustics.  Only Kipwezi rumbling and spewing ash overhead kept them on their toes.
+“I’m wondering where our guys are?” asked Mighty Mite Barnes, of no one in particular.  They had planted two of the three QPOD devices—the things looked for quantum effects indicative of large ANAD-style swarms.  “Glance, Webb, all those guys.  I saw angels of ‘em up in that cave…but nothing I’d trust in bed.”
+D’Nunzio was measuring distance to the installation point for the third QPOD.  Overhead, they could hear the faint chittering of Superfly, sniffing the air for anything approaching.
+“Who knows?  They may have already been assimilated…or whatever you want to call it.  This whole place gives me the creeps.  Here, help me with this gadget—“
+They placed the final QPOD and checked the instrument.  An Nguyen bent down to make some adjustments, then uttered a hmmmm that caught everyone’s attention.
+“What’s up, Buddha?  Thing not working right?”
+Nguyen fiddled with the box-shaped device for a moment.  “No, I think it is…it’s showing a spike in decoherence wakes right now.  And it’s not in test mode.”
+Winger came up.  “Got something, trooper?”
+Nguyen shrugged.  “I don’t know, sir .  I dropped QPOD 3 out of test mode, but it’s still showing deco activity close by…something’s snapping spacetime around here like a wet rag.”
+Winger looked up at the summit of Kipwezi.  It hadn’t changed.  The wreath of fog still glowed crimson and amber, backlit from within by the active caldera of the volcano.  Plumes of smoke vented into the dark night sky.
+“Maybe Symborg’s still around,” he surmised.  
+Nguyen fiddled with the QPOD.  “Whatever this source is, it seems to be moving, shifting.  Best I can make out, the source is diffuse but the centroid is on an easterly heading, roughly zero eight degrees—that way—“ he pointed off toward the rolling hills of the Serengeti plain, now dark but for the sporadic lights of villages and cooking fires.  The first purple of dawn was already smudging the horizon.
+Winger gave that some thought.  “It could be Symborg—“
+It was Tsukota, the Detachment’s quantum engineer rating, who had an idea.  “Lieutenant, there’s a spare QPOD back in the lifter.  If Buddha could get it powered up and calibrated, we could follow this source.”
+Winger agreed.  “Do it.  Detachment, fall back to the lifter…on the double!”
+They were onboard in a matter of minutes.  Winger told Menendez, the lifter jockey from Balzano, Italy, to get airborne and wait for directions.
+“We’ve got a trace reading on one of the QPODs and we’re going to follow it,” he explained.
+Menendez piloted the lifter back toward the reddish glow of Kipwezi.
+“Got it!” Nguyen exulted, pumping a fist in the air.  “Still pretty diffuse, but it has to be the same source.”
+“Heading?”
+Nguyen fiddled with the device, aiming its detector element in different directions.  “I’d say still east…maybe about two thousand meters altitude…anything visual?”
+Winger looked out the portholes as did other troopers.  A ring of crimson smoke still circled the summit of the volcano.  Other than a light mist, which seemed to be only a light mist, the sky seemed clear.
+“Nothing.”
+Menendez yelled back from the cockpit.  “What heading, Lieutenant?”
+“East.  Buddha’ll give you any changes.  For now…we follow.  If it is Symborg, maybe he’ll lead us to something important.  I’ll call this in to Major Kraft, make sure he knows what we’re up to.”  Winger got on the encrypted satlink and made the connection.
+They cruised on an easterly heading for many minutes.
+“Feet wet, Skipper,” Menendez announced.  
+Below them, the surf line of the Indian Ocean coast passed by.  They headed out over the ocean.  Menendez eyed their fuel gauge a bit uneasily.  
+Reaves was seated next to Winger in her webseat.  “Lieutenant, what happened with ANAD back there in that cave?  You never launched…we could’ve battered those bugs good with ANAD properly configged.”
+Winger felt absent-mindedly for the shoulder capsule.  “Somehow, ANAD started coming out…this port was coming open and I never commanded anything.  I wasn’t sure I could control him…I’d better see if he’s still inside.  ANAD, Base to ANAD…do you copy?  Base to ANAD, respond and report status….”
+Winger blinked and cocked his head, as Doc Frost had taught him, to make sure the coupler was engaged.
+Presently, a staticky fritz came back.
+***ANAD enabled…reporting ready in all respects…Base, what took you so long?  I thought this link was dead***
+Winger gave his troopers a smile.  “It’s him.  ANAD, all systems functioning normally?  Everything in the green?”
+***All copacetic, Base…there was a new link I detected…ANAD assumed it was a tactical response to the situation…detected new command string on this link***
+That made Winger sit up.  “A new link?  I never enabled a new link.  What kind of command string?”
+***Different format command string…something new…decryption required multiple processor cycles…command was to power up propulsors and exit containment***
+Winger said, “ANAD, that wasn’t me.  Somehow, Symborg or whatever that bag of bugs was got into your config manager and main processor…run diagnostic self-checks now…full suite.”
+ANAD complied.  Winger watched the results scrolling on the tiny screen on his wristpad.  To see better, he ported the display to his eye viewer:
+
+Core memory—OK
+Buffers—OK
+Config translator—OK
+Power cells—OK
+Propulsors—OK
+Sensors—OK
+Actuators—OK
+
+Winger studied the results of the self-check.  “Nothing out of the ordinary.  ANAD, looks like you’re ready to rock and roll.”
+***ANAD has the greatest enthusiasm for our mission…executing commands in support of Corps objectives maximizes satisfaction vectors…neural net weighting converges most efficiently with your voice frequencies and harmonics***
+It wasn’t so much what he said as the way he said it that gave Winger pause.  He decided he’d better be careful using ANAD in tactical situations until the Detachment could get back to Table Top and the little trooper could undergo a full-bore diagnostic inside of containment.
+It was just possible that Symborg had corrupted ANAD in ways hard to detect and in ways the self-check couldn’t flag.
+Hell, Winger thought, with all the angels around, I might not even have a real ANAD inside this capsule.
+He didn’t want to think very hard about that.
+
+The lifter flew on across the ocean for several hours, still following the massive decoherence wake disturbance that had left Mount Kipwezi.  
+Winger and Nguyen studied the QPOD indications.  
+“You’re sure this is the same thing we saw at Kipwezi?”
+Nguyen shrugged.  “Sure as I can be, Skipper.  The heading’s varied some, but not by much.  If he stays on this heading, he’ll cross into India in about twenty hours, somewhere south of Mumbai.  You know how deco is…first, it’s there, then it isn’t.  But the general intensity’s been pretty consistent. I’d say what we’re tracking now is the same thing we tracked over Kipwezi, within the limits of QPOD.”
+Winger glared out the porthole.  The sun had come up over the central Indian Ocean now and the lifter was slightly more than fifteen hundred kilometers northeast of the Seychelles.   Already clouds were thickening to the southeast, as a morning storm front came boiling up from the tropics.  
+“Menendez, what’s our fuel status?”
+The lifter jockey’s voice was clearly strained with worry.  “Less than an hour at this power setting, Lieutenant.  In about ten minutes, we’ll be bingo for diverting to the Seychelles.  After that—“
+He didn’t have to say it.  Beyond the islands was nothing but ocean.  And the lifter didn’t have the fuel to make the Indian coastline. 
+“Where’s that bastard going?” Winger asked, of no one in particular.  “We’ve got a good track on what we think is the master bot of Symborg.  But we have to break off or we’ll be swimming with the tuna in less than an hour.  Damn frustrating—“
+It was ANAD who had the idea.
+***ANAD to Base…let me replicate a small surveillance element…drop this element into the center of the deco wake disturbance.  ANAD can be tracked by satlink***
+At first Winger was a little reluctant, but he little choice.  ANAD was right.  They wouldn’t be losing the master bot.  But there was still a risk.  If the disturbance was Symborg, dropping a piece of ANAD in his midst could well mean divulging or exposing critical technology and sensitive data to Symborg and his Red Hammer handlers.  
+It was a risk they would have to take.
+Menendez accelerated and dropped down to put the lifter right above where Nguyen’s QPOD said the center of the disturbance was located.  Outside the portholes, nobody could see anything.  Winger launched ANAD and commanded a small replication cycle…a few gazillion bots.  He quickly hacked out a basic config for surveillance, tracking and comms back to Table Top.   A faint sparkling mist, barely visible, filled the cabin, hovering near the cargo tracks and handholds along the cargo bay ceiling. 
+Then, the lifter’s side hatch was popped and the faint stream that was the ANAD swarm was quickly sucked out into the slipstream.  
+Winger commanded the master bot back into containment in his capsule.  But ANAD seemed reluctant.
+***ANAD to Base…recommend keeping ANAD in loose formation outside containment…comms from daughter replicants can be better received and decrypted in loose config***
+Winger knew it couldn’t be allowed.  “No dice, ANAD…we’ll be landing soon in a non-allied country.  Seychelles is officially neutral…can’t take a chance on you getting lost when we de-plane.”  Plus, the thought had occurred to him that ANAD just might be slightly damaged and unable or incapable of responding to commands properly.  No, better to keep the little guy in his cocoon.
+***Hub, ANAD operates most efficiently in loose configuration…processor operation is optimized…effectors and actuators primed for action…requesting permission to delay containment until all functions can be fully checked***
+Winger had to smile at that.  ANAD sometimes sounded like a five-year old.  And what five-year old didn’t balk when told it was bedtime?
+“ANAD…configure for containment…return to base immediately…that’s an order.”
+The faint mist flared for a moment, as if the bot were angrily breaking even more atomic bonds, then slowly issued and drifted back toward Winger’s shoulder capsule.
+Menendez’ voice came over the speaker.  “Fuel is bingo, Lieutenant.  We’re at no-go position in five minutes—“
+“Copy that,” Winger replied.  “Get a vector to Mahe International.  Best speed to Delta Victor, Divert Site One.”  He turned to Nguyen, who had his eyes practically glued to the QPOD panel.  “Any sign of the surveillance element?”
+Nguyen took a deep breath and nodded.  “Affirmative, Skipper.  I was worried for a moment.  But from the deco signature, I’d say ANAD’s little gang is right now being absorbed into the bigger swarm…deco wakes have spiked just like I thought they would.  And…we’ve got a good track.”
+“I’ll let Table Top know, so the satellites can follow Symborg to wherever he’s headed.  For now, we need fuel.  And some provisions.”
+“I can taste the mangos already,” boasted Deeno D’Nunzio.  
+The lifter wheeled about and headed south, toward the turquoise atolls of Mahe Island and the blazing white capital city of Victoria.
+
+Chapter 2
+“Kolkata”
+
+Kolkata, India
+November 11, 2048
+09:30 hours
+
+The hyperjet Mercury burst out of the cloud bank on her descent to Netaji Subhash Chandra Bose Airport at Kolkata and Johnny Winger stared out the porthole at the hazy Ganges delta below.   Columns of smoke from thousands of cooking fires added to the thick haze.  Rice paddies interspersed with the crude huts of the traditional Bengali mawzas stretched to the horizon, like an infinite chessboard.
+“That haze isn’t just smoke,” Lieutenant Elbert Fordham muttered.  The Quantum Corps liaison officer from Singapore base had joined Winger in the forward cabin.  “A lot of that stuff is loose nanobotic debris…assembler fluff from all the fabs.  The stuff is out of control.”
+Winger nodded.  “So I’ve heard.  You can’t contain it?”
+Fordham snorted.  “Not when a hundred million fabs are going off night and day.  Containment laws mean nothing here.  People are desperate.  The black market in unlicensed, souped-up fabs and matter engines is exploding.”
+“Red Hammer,” Winger said.  “I’ve read the reports.  They sell the fabs cheap and charge a fortune for the cores and drivers.  Same old method they’ve always used.  Get ‘em hooked first, then gouge ‘em for the goods afterward.”
+Fordham agreed, as Mercury settled down to a bumpy landing on the tarmac of Runway 16 Left and roared down to taxi speed.
+“The market here is huge.  People have nothing, barely enough rice to eat, hardly any shelter, rags for clothes.  They spent every rupee on fabs and software, hoping to strike it rich.  It’s like Aladdin’s Lamp, if you’ll pardon my using another culture.  You can’t make food—still no fabs for organic stuff, but they’ve got everything else: fancy clothes, cars, personal bots, every kind of gadget you can think of...Kolkata’s like a bazaar gone crazy.  There must be hundreds of millions of fabs here…the air’s so hot because of all the assembler activity.  If it isn’t bolted down and screened by bots, everything becomes raw feedstock.  The buggers’ll eat the clothes right off your back.”
+Winger was gathering up his gear to disembark.  “And the local authorities…they can’t shut ‘em down?”
+Fordham followed Winger aft to the ramp.  The rest of Alpha Detachment was gathered around the door, already suited up.
+“The locals are the worst,” Fordham explained.  “Bought off or intimidated by the cartel or other players in the game.  We get some help from the National Police or maybe the West Bengal cops…ah, there’s Tranh now, with a few of them.”
+Winger came down Mercury’s side ramp, followed by Fordham.  The rest of the Detachment assumed a loose parade formation as they disembarked.
+A Vietnamese officer in the khaki and blue of a local Quantum Corps officer stepped forward.  He saluted Winger and Fordham smartly.
+“Lieutenant Nguyen Tranh, sir.  My E-team is on duty in town at this moment.”  He indicated a burly black African second in command.  “This is Sergeant Lumumba.  He’s my chief.  E-team West Bengal is ready for inspection, sir!”
+Johnny Winger spotted other officers nearby.  Tranh introduced them.
+“Captain Jawaharlal Singh, at your service, sir.  The West Bengal Provincial Armed Constabulary is ready for patrol duty.”
+Singh was a lanky and swarthy officer with a luxurious black moustache, erect and full of military bearing.  He saluted Winger and added, “West Bengal is pleased to host the famous troopers of the Quantum Corps.  My men will escort you into the city.”
+Winger returned the salute.  “Captain, what’s the situation here?  Intel says the whole region’s thick with nano…in fact, satellites tracked a quantum disturbance we were chasing all the way from Africa…it could be Symborg himself.  QC’s executing a Level Three quarantine for Kolkata itself.”
+A trio of black lifters hovered just over the ramp, waiting for them.  “Come,” said Singh.  “My ships will take your people and gear into the city.  Do you require assistance in—“  Singh stopped in mid-sentence as one of the Quantum Corps officers behind Winger began to ‘de-materialize.’
+It was ANAD.  Against all regulations, Winger had allowed part of the swarm to stay loose and it had assumed a para-human config upon disembarking…standard procedure for parade formations.  Now, at Winger’s signal to fall out and collect their gear, the swarm had changed config to a more natural state and was busily re-forming into an amorphous fog of twinkling lights.
+“—ah, I see you have the assembler formation I had heard about…this must be the famous ANAD combat element.”  Singh marveled at the speed of the config change.  “I only wish our own constabulary bots were so disciplined.  Here in Bengal, nanobotic mechanisms are like smoke…everywhere, uncontained…” he shrugged, “it is the Bengali way, I’m afraid…beyond anyone’s control.  By the grace of Vishnu…we are overwhelmed.”  Singh glanced over at Tranh, whose face was hard and skeptical, warily keeping an eye on the undulating ANAD swarm.
+Tranh stiffened.  “Your detachment is present and accounted for?”
+Winger nodded in the affirmative.  “Alpha Detachment is ready to deploy.  Detachment—“ he called over the crewnet, “rig for Tactical One…opposed entry. Nguyen, you have the decoherence wake coordinates?”
+Corporal Nguyen said, “Affirmative, sir.  Locked in and ready.”
+ “Very well…unlock your weapons.  ANAD…configure State One.  Let’s go—“
+They headed off to the lifters.  Moments later, the black spidery vehicles were winging their way eastward in formation over the misty Hooghly River, heading for the heart of Kolkata.
+Seen from the air, the great Indian metropolis was not particularly impressive.  A sea of dun-colored low rise buildings was punctuated by TV towers and the occasional high-rise building, split by the muddy ribbon of the river.  Several patches of green—city parks and the Maidan race track, Singh explained—gave some color to an otherwise dreary urban landscape.
+Crossing the river at several hundred meters altitude, the formation of lifters banked left over the ornate Victoria Memorial and chopped speed, settling toward a grassy sward just east of the Shalimar Road bridge.  The small park was surrounded by mawzas and shanties of every size and shape, crowding in on the green field like waves of wreckage washing ashore.  
+“Howrah Heights,” Singh informed them.  The lifters hovered momentarily while soldiers from the Provincial Constabulary shooed off beggars and pickpockets and secured the field.  After a cordon had been set up, the lifters touched down.  The Constabulary quickly dispersed.  They had little protective gear and couldn’t operate long in such a nano-heavy environment.
+“Fall out!” Winger ordered over the crewnet.  “Tactical One and keep your eyes and ears open.”
+“Skipper—“ it was Sheila Reaves, DPS tech for the Detachment.  “Superfly’s already deployed…I’m already getting thermals and atomic fluff big time.  Intense nanobotic activity all around us—“
+Tranh explained.  “The air’s thick with nano here.  All the fabs around.  I’d recommend a level one barrier around the landing zone…at least until you get all your gear set up.”
+Winger needed no further urging.  He cocked his head and got his own embedded ANAD master bot on the coupler.
+“ANAD, config state four.  I need a screen to hold off these fabricator bugs that are flooding the area.  Synchronize with us and hold a perimeter—“he estimated the size of the landing zone at about a half a square kilometer—“two hundred meters radius from this position.”
+***ANAD acknowledges.  Preparing to launch--***
+Winger felt the sting of the launch and watched the swelling fog of replicating bots billow out of the lifter ramp, spilling out onto the grass and mixing with the uncontained ANAD that was also deploying.  The fog swelled rapidly in size, twinkling and fluorescing as it stripped atoms from the air and built up structure.  In a few minutes, the entire park was surrounded by a barrier of nanobotic mechs, sparkling and winking in the humid morning air.  And all along the periphery of the clearing, ANAD engaged the uncontained fab bots.  Crackles of light and seams of distorted air highlighted the engagement points.
+“ANAD’s letting ‘em have it!” Mighty Mite Barnes observed through a lifter porthole.  “Right in the chops!”
+“Like riot control, only at atomic scales,” Tranh agreed.  “My E-team just doesn’t have the resources to contain all this…it’s out of control.”
+Winger could see the problem.  “Years ago, we would have deployed in hypersuits for protection.  Now we have an embedded ANAD swarm.  We carry our own barriers with us.”  To his Detachment, Winger ordered. “Okay, troops…. we’re going in hot—“
+One by one, the nano-troopers disembarked with their gear.  Reaves, Barnes, Simonet, D’Nunzio, Villa and the rest exited by the aft lifter ramp, each shielded by ANAD ‘bubbles’ and loaded up the crewtracs for a little jaunt deeper into the city.
+At the same time, Tranh had ordered a squad of local Quantum Corps techs to rendezvous with Alpha Detachment at the landing zone.  In ten minutes, the two crewtracs were loaded and Tranh’s squad appeared at the edge of the clearing.
+“Give ‘em the pass codes,” Winger ordered.  Reaves gave Tranh the current day’s home config.  The techs took that and ‘tuned’ their own barrier nanobots to be able to penetrate the ANAD barrier without opposition.  Inside the shield, the two units linked up.
+Lieutenant Fordham recognized the squad leader.  He was a burly African non-com.
+“Sergeant Kano, glad to see you’re on this gig.  What’s the situation?”
+Kano shook hands all around, warily eyeing the ANAD swarm pulsating in the background.  Even as the African sergeant gave his report, ANAD re-configged into a ghostly, vaguely para-human form.
+“Red Squad’s detailed to cover the Howrath district, Major.  My squad’s been under fire practically the whole time.  We’ve got loose fabricator bots replicating uncontained all over the place—“ Kano gestured toward the trusswork towers of the distant bridge—“the concentration is highest around that bridge.  There used to be a bazaar there but some wise guy bought a fab in and unzipped the core right on the spot—no containment or anything.  Pretty soon, all the doodads inside were going berserk…like a big bang.  They were disassembling the bridge when we showed up…my guys had to work fast with everything we had, to disperse the swarm.”  Kano shrugged.  “It’s like mashing a balloon…squash it here and it just shows up somewhere else.  We counter-banged until we got on top of the situation—but the bridge...” Kano shook his head.  
+Johnny Winger was intrigued about the fab design.  “Sergeant, did you get any samples?  I’d like to see what config these mechs are using…what type of design.”
+Kano recognized Winger and his unit as Quantum Corps, 1st Nano.  “Glad you’re here, Lieutenant.  We need all the help we can get…to answer your question, sir, we haven’t had time to get any samples.  Contain and disperse…that’s all we can do with what we have.”	
+“Sergeant,” Fordham explained, “First Nano is here to help us but they’ve got another mission too.”  He briefly explained the quantum interference that seemed to be emanating from a source in the city.  “UNIFORCE is concerned about the magnitude of the interference; it could be this Symborg bugger.  Maybe there’s a Red Hammer safe house.  It’s scrambling every quantum coupler circuit this side of Cairo.  Something big is pumping out decoherence waves all over the planet and Paris wants to find the source.”
+Kano shook his head.  “We can’t use our couplers at all but I thought it was just a temporary effect, Lieutenant.  And you think the source is here?”
+Winger called up the locating algorithm and beamed it over to Kano’s crewnet.  In seconds, Red Squad had the same intel as Winger’s Alpha Detachment.
+Kano scanned his eyepiece.  Another tech standing next to him—his name patch read PERVEZ—spoke up.
+“Sarge…we know where this is…over by the Rabindra lakes.  Probably that temple complex…what was the name?”
+Kano remembered.  “Bugger…you’re right!  Shavindra…something or other.  We did a containment op near there just last week.  Regular bot blizzard, it was.”
+Winger brought up a Kolkata city map on his own eyepiece.  He queried his wrist computer and soon enough, the Hindu temple compound of Shavindra was highlighted, with a shortest route already plotted.
+“If this place is one of the stronger loci of deco waves, that can only mean one thing: some kind of big time quantum signaling is going on there. Maybe Symborg and his cronies are holed up there.  A Hindu temple might make the perfect cover. That’s where my Detachment needs to be.”
+Winger ordered the Detachment to board their crewtracs.  He offered Kano a lift but the sergeant declined.
+“I have to relieve a detail I posted at the Howrath Bridge.  They’ve been trying to contain swarms for the last twenty-four hours straight…it’s an epidemic over there.”
+“I can detail some of my people,” Winger decided.  “Turbo, Spite, go along with Kano.”  Sergeants Adnan Fatah and Ray Spivey came over.  “Then catch up with us at this Shavindra temple when the situation’s stabilized.”
+“Yes, sir,” both nanotroopers saluted.  The two of them hustled off with Kano’s men, exiting the defensive barrier in a flash of light, then hopping aboard a semi-trac for the quick ride to Howrath.
+“Load up!” Winger ordered.  The rest of the Detachment swung their gear aboard the two crewtracs.  The huge snorting vehicles were dual-tracked, with articulating arms front and rear to manipulate or hoist heavy objects.  Powered up, each vehicle shimmered in the hazy morning sunlight as its ANAD shield formed a twinkling, flickering defensive barrier around itself, like a huge, pulsating carapace of bots.
+The crewtracs rumbled off, through the barrier ANAD screen, which sparkled as they passed by, and then turned right, onto crowded Hanagar Street, heading east for Shavindra and the great temple complex.  
+Hanagar Street was thick with traffic, choked with pedestrians and rickshas, pedicabs and jitneys.  Down narrow lanes branching off to the sides, dense smoke and fab swarms added to the humid haze of a late summer morning.  The crewtrac drivers maneuvered gingerly through the throngs, honking at the wizened old wallahs as they pulled their rickshas in every direction, heedless of the traffic.
+Major Fordham studied the scene through a porthole.  “In Kolkata, some things never change.”
+The Shavindra temple compound was west of the city center, set in a tree-lined park called Bhattan.  From the Hanagar Street roundabout, the ornate stepped pyramids of the main temple poked above the trees, a brooding presence in the early morning mists.  Traffic thinned out as the crewtracs navigated the circle and accelerated out along the Varanasi Road connector.
+Johnny Winger had been studying a layout diagram of the temple on his eyepiece when the crewnet voice circuit crackled to life.
+“Skipper—“  it was the lead DPS tech, Sheila Reaves—“I’ve got high-freq decoherence waves slamming away…all around us.  Working on a fix now…but whatever it is, it’s big.”
+Winger saw the same pattern on his eyepiece…Reaves had ported the readings to the crewnet.  Whatever it was, the source was undoubtedly nearby.  Something was shaking and snapping spacetime like a wet rag, sending out massive waves of collapsing probability states.
+“Try to get a fix on it, Sheila.  And start recording.  I want Table Top to see this too.”
+“Lots of thermals too,” added Taj Singh.  Singh was the Detachment’s second Defense and Protective Systems specialist, a rookie atomgrabber fresh out of nog school.  “All bands…EM, acoustic, whatever it is, it’s intense.  Reading big nano ahead.”
+Winger trained the crewtrac scope on the ornate spires—the gopuram—of the huge temple.  Elaborate carvings of lions’ heads and fanciful creatures leered back at him.  The visual shimmered in the morning haze and it wasn’t humidity that caused the shimmer.
+“Barrier bots,” the atomgrabber muttered.  Not entirely unexpected.  The entire temple compound was shielded by a screen of nanobots, with enough density to haze the air around the compound.  “Work us in as close as you can,” he told Sergeant Victor Klimuk, who was up front driving the crewtrac.  “ANAD…config state one…prepare for opposed entry.”
+At Winger’s command, the loose swarm of ANAD bots that had been riding the crewtrac in the back corner of the crew compartment began changing shape, losing its para-human form as the assemblers re-distributed themselves and configured for the combat insertion that Winger had commanded.
+The crewtracs eased through a huge iron gate adorned with serpents’ heads and tiger paws in stone, and stopped a few meters away from the shimmering barrier that shielded the temple.  Through the translucent shield, crackling with bursts of light, the Sacred Pond of the Lillies reflected morning sunlight from an inner courtyard.  A stone relief of Lord Shiva rose from the pond and a slender spire brooded over a frozen gathering of spirits, also in stone.  Beyond the water, a colonnaded portico surrounded the courtyard.  Inside, the Hall of a Thousand Pillars was dark, save for clots and denser swarms of bots moving along the colonnade.
+“We’re going in at Tactical One,” Winger decided.  “Be ready to engage.  Coilguns and HERF batteries…prepare to barrage on my command.  We’ll shock ‘em with rf and see if we can burrow inside while they’re chewing on that.”
+Alpha Detachment dismounted from the crewtracs and scurried into position for the assault.
+“DPS…give me your best bearing to those decoherence waves.  Are we in the vicinity?”
+Sheila Reaves studied the readouts on her eyepiece, moving laterally around the colonnade to get a better angle.  “Dead ahead, Skipper.  Whatever’s slamming quantum states is inside…Jeez, it’s like an earthquake.”
+“Maximum barrage,” Winger ordered.  He was hunkered down in the shadow of a grinning sculpture of Shiva, propped up against one of the deity’s legs.  “GO…GO…GO!”
+The air burned with multiple thunderclaps as Alpha Detachment opened up.  The High-Energy Radio Frequency bursts rhythmically pounded the temple barrier.  At the same moment, a barrage of coilgun fire swept across the inner courtyard and pond, sending geysers of stone chips and dust everywhere.
+Nanoscale assembler bots shrieked as waves of HERF thundered across the courtyard, ripping the barrier to shreds.  The clatter of fried bots tinkling onto the stone pavement could be heard between coilgun rounds.
+“MOVE OUT!” Winger yelled.  Each nanotrooper surged ahead through the shredded remains of the barrier.  Bursts of light, like fireflies flickering on a summer night, tickled all along the edges of the barrier.
+The Detachment moved as one across the courtyard, through a line of columns and toward the massive oak doors of a large chamber—the Hall of a Thousand Pillars—Winger’s eyepiece annotated on his viewer.  Winger switched views to check on ANAD and see how the assembler formation was doing.
+ANAD had replicated like crazy and was busily engaging the nanobots of the temple barrier, even as the rest of the Detachment zeroed in on the fix Reaves had given them.  Winger wanted to see what kind of bots ANAD was dealing with.
+The momentary disorientation when switching to nanoscale passed quickly enough and Winger soon had a view like flying through a sleet storm.  Shadowy shapes—polygons, tetrahedrals, dodecahedrons—flitted by as he settled into the view.  Moments later, the image resolved to a clearer view of the battlefield.
+The ANAD bots were advancing on full propulsor along a ragged line.  At the point of the advance, several replicants had already engaged the enemy.  Winger tweaked the gain to get a better image.
+The barrier bots were all effectors, whirling and slashing as they blocked ANAD’s path.  Bursts of light erupted like firecrackers going off as ANAD tore at the enemy’s appendages, liberating thousands of electron volts with each slash.
+Debris and loose atomic fluff thickened into a sort of fog, reflecting acoustics everywhere.  The image fritzed and careened as the combat intensified.
+Use your enzymatic knife, ANAD, Winger muttered.  The tiny assembler had been slashing with his bond disrupters but it was like hacking through thick vine in a dense forest.  The enzymatic knife was a broader area weapon.  It would slice through the churning melee easily.
+***ANAD engaging…*** came the report back on the quantum circuit.  ***Enemy bots are multi-effector config…pyridines and carbene grabbers mostly…no bond weapons yet…ANAD is reconfigging now…altering outer effectors to enzymatic***
+Good man, Winger agreed.  ANAD…whoever or whatever was in command—had come to the same conclusion.  The enzymatic knife would make quick work of those carbenes.
+Winger kept a close eye on the nanoscale combat, while he crept along the colonnade toward the oak doors.  Beyond his eyepiece view of ANAD’s engagement, he saw other troopers converging on the same point.  Reaves, Barnes, D’Nunzio, Tsukota, Singh…one by one, the Detachment appeared.
+“Blow those doors!” Winger ordered.  The DPS techs leveled a coilgun barrage at the sturdy wooden doors.  They dissolved in a fiery blossom of red flame and black smoke.
+First in was Singh, sweeping his sector with a coilgun.
+“Clear left!” he shouted.  Right behind Singh came Calderon and Victor Klimuk, pouring into the dimly lit chamber right on Singh’s heels.
+“Clear center sector!”  That was the Russian Klimuk, crouching forward.
+“Clear right sector!” yelled Calderon.
+The rest of the Detachment, following Reaves’ last fix on the quantum interference, burst in.
+Reaves studied her nav screen.  “Just got one big decoherence pulse on the scope, Skipper…dead ahead…about two hundred meters!”
+In the dim, fire-lit shadows of the great Hall of a Thousand Pillars, the decoherence wave front had a most startling effect.  It was like an invisible scythe slashing through the grid of columns, sweeping from left to right.  One by one, an invisible front swept toward them, expanding outward in all directions.  The passage of the front could be detected visually, as row after row of columns wavered, then dematerialized for a few seconds, finally re-appearing again after the probability waves had passed.
+And in the split second the deco wave passed each row of pillars, the row unfolded like an origami sheet into a shadowy infinity of columns, marching off in every direction.  The effect of collapsing probability states lasted less than a second, but the image was visual proof of the massive quantum disturbance nearby.
+For Johnny Winger, it brought back unwelcome memories of the original sphere, buried now under the rubble of the Engebbe dig site, and the cave-in that had nearly cost him and Reaves their lives.
+His memory was jolted apart when a stitch of beamfire flashed out of one corner of the Great Hall.  Winger took a sizzling round across his right arm but the ANAD shield blunted most of the energy.  A brief sting was all that was left.  Winger hit the ground.
+More beamfire erupted from the shadows, slicing through several of the ornate gold-plated columns.  Rubble and dust soon choked the air.
+“Ozzie!” Winger called out to Sergeant Hiro Tsukota.  “You and Mighty Mite move left!  Flank ‘em that way!”  Winger jabbed a finger at Singh and Reaves, crouching behind a nearby column.  “You two…the other way!”  The Defense techs scooted off into the dim recesses opposite.
+Standard tactics dictated a double envelopment when confronting an entrenched defensive position.  Screw the manual!  Winger waited through several more bursts of enemy fire before the four nanotroopers signaled they were in position.
+Whoever they are, he thought, they’re well armed.  Probably not temple priests either.  Laser carbines and beam rifles could make life tough for the unprepared squad.  But this was no ordinary squad.
+Winger got on the coupler channel to ANAD.  
+“ANAD…I want to flush those nasties out.  Execute config seven…clampdown NOW!”
+Configuration Seven was an assault maneuver they’d practiced many times out at the Hunt Valley range near Table Top.  The tactic required a forward movement by the swarm, followed by a big bang-style replication to overwhelm the enemy’s position and literally suffocate the daylights out of him.  When the enemy was flushed, choking and gasping and screaming for air, from his redoubt, he became easy pickings for the Detachment’s sharpshooters.
+The only real defense was to counterswarm and throw up a shield before the clampdown got started.  
+Winger watched as the swarm billowed out through the columns, replicating madly, densifying the atmosphere as each assembler grabbed atoms and built structure.  Through the thickening and flickering fog of bots, the garish faces of unknown gods and demons leered back at them from columns illuminated by the glow.
+Soon enough, the enemy felt the first effects.  Screams and groans tumbled out of the shadows.
+Seconds later, the first gunmen emerged, choking and flailing into the dim light.  Two enemy soldiers ran blindly among the columns, staggering until they collapsed, thrashing, under the weight of the swarm.
+“MOB’em!” Winger ordered.  “And spray that whole corner…flush ‘em all out!”
+Taj Singh unhooked a canister of MOB bots and fired a few rounds at the hapless soldiers.  The Mobility Obstruction Barrier mechs quickly formed an impenetrable web over the enemy.  They gasped and clawed for air and flailed wildly, as the barrier drove them inexorably down to the floor.
+“Skipper—“ it was Reaves.  “Deco waves all over the place…dead ahead…bearing one five oh.  That corner of the hall—“
+Winger had seen the wave front at the same moment, rippling through the pillars, even as Reaves’ gear had detected it.
+“Whatever’s causing this disturbance…it’s just beyond this chamber.  Detachment…converge on Sheila’s last fix.  And let’s get a perimeter guard up around this chamber…in case we have more visitors.”
+The nanotroopers eased forward toward the far corner of the great hall.  Serpent’s heads and mythical beasts glared at them from each pillar as they converged.
+“Place gives me the creeps,” muttered Mighty Mite Barnes as she crept cautiously forward.
+“Yeah…” agreed Tsukota.  “A nightmare in stone…even in my worst dreams, I never saw shit like this.”
+More decoherence pulses slammed the hall and the pillars ahead wavered in and out of view like heat waves on a highway.
+“Contacts?” Winger inquired.
+Reaves and Singh scanned the vicinity.  “Nothing living on this side,” Reaves came back.
+“All bands clear,” Singh concurred.  “I’m getting high thermals on the other side of this wall ahead…may be nano…”
+The Detachment came to a massive door, almost a gate in itself, carved from solid oak, with elaborate figures of Hindu gods and goddesses covering every square centimeter.  The DPS techs examined the door closely.  Singh put out a finger experimentally.  The door gave slightly to the touch, then a small wave rippled outward from his touch.  The door quivered and gave off a faint flickering glow.
+“I thought so,” said the DPS tech.  “Barrier nano…look at the details of the config.  Even up close, you can’t tell visually.”
+“How come I’m not getting any thermals?” Reaves asked.  She scanned the door with her imager.  “Reads just like background…no spikes in any band.  What is this stuff…voodoo?”
+Winger touched the door himself.  “Your background’s screwed up, Sheila.  The imager looks for spikes.  But the background level of atomic activity is elevated…all over Kolkata.  It’s the fabs.  Matter engines going off all over the place…we’ll have to re-calibrate to pick up unusual activity.  Make a note.”
+“Can we breach it?” asked Klimuk.
+“We’ll have to try a config and see what works,” Winger decided.  “The programming and design of these barrier bots is so good, it looks like solid oak.  I’ve got a feeling it’s pretty adaptive, too.  ANAD, front and center—“
+The rest of the Detachment parted as a pulsating mist poured through the columns and assembled itself into a vague para-human form.  Just faintly visible in the dim light of the hall, the swarm had assumed a shape resembling a medieval English longbowman, complete with quiver and arrows.  Winger was mildly annoyed but didn’t make a scene about it.  Sometimes, uncontained ANADs had a warped understanding of human history and values.  
+***Swarm reports ready in all respects, Lieutenant…what is the nature of the mission?***
+“Swarm master, I want you to scan this structure and assume a configuration to breach it.  Config is pretty sophisticated but do what you can.”
+***Swarm will comply…scanning now…***
+Winger stepped back and motioned the others back too, as the swarm surged forward.  In seconds, the massive door was blanketed in a thick, flickering mist.  Small light bursts rippled up and down the length of the door, as the two swarms engaged.  
+Reaves followed ANAD’s progress with her imager.  “Skipper, looks like he’s going to something octahedral, unusual grabbers…haven’t seen anything like those before—“  
+Winger studied the image himself.  But before he could say anything, the door flared to a white-hot light, too bright to look directly at, then came a piercing shriek as the massive structure super-nova’ed into incandescence.  The fierce light strobed and throbbed like a living thing for a few moments, then faded, not completely, but to a hot translucent membrane.
+Inside the antechamber beyond, the scene resembled a view from underwater.
+The air was thick with nanobots, clotted like clouds and clumps and myriad other shapes, floating and swimming as if they were a thousand meters undersea.  Lightning and flashes erupted in a chaotic symphony, spotted through the dense medium that filled the room.  A few humans, or at least, human-forms, moved languidly about their business, attending to a large device in the center.  
+Jeez, it’s just like Kipwezi, Winger thought.  Not this crap again--
+As Winger scanned the room with his own imager, a massive decoherence wave erupted from the device, momentarily washing out everything, so that only a milky white glow was visible.  For a brief, almost imperceptible instant, the glow collapsed into a careening kaleidoscope of images, like a slide show gone mad, as an infinite parade of probability states swept outward.  A great tidal wave of all possibilities collided into each other right before them.  
+The wavefront passed by in less than a second but in that single second, Alpha Detachment disappeared from view and was instantly re-assembled into a facsimile of its previous state.  Johnny Winger blinked hard and saw Reaves, Tsukota, Singh—all of them wink out, then split apart into pinwheels upon pinwheels of themselves, carved into ever smaller slices that whipped by too fast for the eye to comprehend.  
+Then it was gone and Winger shook his head, feeling his arms and legs, as if to reassure himself that he was still there.  He saw the others doing the same.
+The curtain of roaring silence lifted and he heard someone saying—“…the hell was that?”  It was Klimuk, shaking himself like an animal startled from a deep sleep.
+Winger got his senses back and realized that they were staring face to face with the very source of the quantum disturbances.
+He signaled for ANAD to execute the breaching, but there was no response…nothing from the swarm at all.  The door was still there, open or not, he couldn’t tell, but translucent enough for them to see through.  
+Inside, at the very center where the entanglement wave had emerged, Johnny Winger squinted and could make out the faint contours of some kind of platform.  He remembered the small sphere at Engebbe but this was bigger, different.
+About the height of an average man, four tetrahedral legs supported the small platform.  Atop the platform, a quartet of spheres was mounted.  Each sphere was studded with scores of small projections and protuberances, so that the spheres resembled puckered lemons.  The whole thing resembled a big basket of fruit gone bad.
+“ANAD…prepare to breach the barrier.  Assault configuration—“  but there was nothing.  No swarm, no signal.  “Victor…have you got ‘em?”
+Sergeant Klimuk pecked at keys on his wristpad, trying to get a fix on the swarm.  “That last pulse must have dispersed them, Skipper.  Or altered config.  I’ve got nothing.”
+I’ve got to get in there, Winger told himself.  The doorway was still shielded; a quick touch produced a needle-sharp sting to his fingers and an angry ripple in the barrier bot shield.
+“What about the HERF, Major?”  It was Reaves.  “Fry ‘em with rf, then big-bang our way in.  Always worked in the war games before.”
+Winger had to admit she was right.  “Charge up the batteries, Sheila.  But once we slam ‘em, I’m driving ANAD myself.”
+Reaves and Singh brought up the radio frequency pulse weapons and sighted them in on the door.
+“ANAD,” Winger told the swarm, “go to Config One and give me control of the master.  I’m piloting this assault.”
+***Base…altering configuration to state number one…is this a good idea, Base?  These barrier bots are all effectors…they replicate fast.  At close quarters, ANAD may not be able to counter in time.  More data is needed--***
+“No time, ANAD.  I know what I’m doing.  Sheila, on my mark—“
+“Charging now, Skipper.”  Reaves and Singh initialized the charging sequence.  The HERF guns hummed with barely contained energy.
+Winger toggled into pilot mode on his own wristpad and let the nanoscale world of atoms and molecules and Brownian motion wash over him.  It was like careening out of control down a waterfall, but the sensation subsided in a few seconds.
+No doubt about it, combat at the scale of atoms was a different ball game.  Every atomgrabber had his own routine for preparing for the transition from one world to another.
+“Now…Sheila!  Hit ‘em now!  Hit ‘em hard and fast.”
+The HERF batteries discharged.
+The first image he had was that of plowing through heavy surf on some spray-washed beach in a stiff wind.  But after months of grabbing atoms and diving in and out of ANAD’s world, Johnny Winger knew how to adjust quickly.
+He tweaked his propulsors and jetted ahead, fighting currents and bumping through the cascade of molecules that sleeted past him.
+Let’s get full effectors out, he decided.  This latest ANAD had extensible fullerene ‘hooks’ for better grasping plus a stiffer diamondoid base with more reactive bond ends…the better to stick to whatever he wanted to examine.  The Lab’s engineers had really been tinkering under the hood and Winger was glad of it.  
+The ANAD master responded like a champ, deploying grabbers, extractors, hydrogen probes and bond disrupters quickly.  Now bristling with his full complement of tools and weapons, he sounded ahead to get his bearings.
+Through the heavy ‘rain’ of jostling molecules, still recovering from the HERF blast, Winger sensed unusual structures ahead.  A thermal bloom of assembler activity lit up his viewer and he cut propulsors to reconnoiter the target.
+Could be more defensive bots, he surmised.  There was no telling what tricks Symborg had up its sleeve.  It was reasonable to expect a tighter screen around the big device in the center of the room.  He shifted his approach heading, trying to hide behind a clump of oxygens, then scooted past a gust of phosphorus molecules as he tacked against the prevailing current.  I’ll put the scope on ‘em.
+Dead ahead, an array of assembler bots had formed a defense line and was quickly closing the gap.  Winger swallowed hard as the first acoustic image of the mechs settled into view.
+Each assembler was shaped like a squat barbell, with top and bottom spheres of pulsating molecule groups bristling with effectors of every conceivable shape and type.  The connecting columns were themselves multi-stranded chains of peptides, able to extend and contract the whole structure with lightning speed.  The barbells rotated in unison, whirling like tiny motors.  Whiplike propulsors churned at either end, lending the bot matchless maneuverability.
+Fantastic engineering, Winger realized.  Quantum Corps had nothing like it.  But before he could probe further for more details, the entire defensive line had whipped forward, almost as a single unit, and enveloped ANAD and its replicant swarm without warning.
+Before Winger could even react, he got warnings left and right on his coupler circuit:
+
+***Carbene effectors disabled***
+***Hydrogen abstractors disabled***
+***Port propulsor disabled***
+
+“I’m losing control!”  he told himself.  ANAD’s response was sluggish and he soon realized why.
+All along the line of engagement, the enemy bots had unraveled their multi-stranded peptides and wrapped themselves tightly around each ANAD assembler, hugging the assemblers with arms of collapsing molecules.
+Soon the entire line was a tangled snare of peptide chains, like balls of twine hopelessly knotted together.
+Time to get ANAD some help, Winger decided.  He opened another coupler channel.
+“ANAD master to Detachment…Reaves, Singh…anybody…get the replicant swarms going!  Get into pilot mode and get down here with me…”
+He did what he could, trying every trick he could think of…first was to fire off the bond disrupters…see if I can zap these buggers off me…
+He salvoed ANAD’s full array of disrupters, lighting up the tangle of thrashing molecule chains…again and again.  Each jolt tore through tight covalent bonds in the enemy’s peptide chains, liberating thousands of electron volts but to no effect.  If anything, the chains re-assembled even tighter, slowly crushing each ANAD assembler.
+Winger gritted his teeth.  If at first you don’t succeed…  Next tactic was to try and slash his way out…he rammed his pyridine probes to full out, quickly re-configging the buckyball ends to something a little more deadly…an undulating knots of really reactive oxygens.  With his new ‘swords’ thus in place, he revved ANAD’s propulsors to get some spin going, and tried slashing and cutting and flailing his way through the seaweed-like chains of enemy peptides.
+The effect was even worse.  Each time an enemy bot had its chain severed, it replicated a new one before Winger could maneuver ANAD through the opening.  It was like hacking through a jungle thick with vine, only the vine grew back faster than you could cut it back.
+Winger was getting frustrated.  He thought briefly about executing a quantum collapse, but that was a desperation tactic, a retreat and besides, they had to know what the hell they were dealing with here inside Shavindra.  If Symborg were here--
+He’d save the quantum maneuver for later, if he needed it.
+Still thrashing and hacking at the enemy bots, Winger caught a glimpse of some thermals on his scope…familiar blooms growing fast.  
+It was the cavalry.
+His coupler circuit crackled.  “Skipper, it’s Reaves, with Mighty Mite and Deeno on my flanks.  We’re on max propulsor…sensing you’re stuck inside all that garbage up ahead—“
+Winger was glad for the help.  He knew perfectly well that the real nanotroopers were crouching near him on the floor of the temple inner chamber, while the ANAD swarms approaching were being remotely piloted.  But all the same, it was like having his Detachment right with him even on this godforsaken molecular battlefield.
+“Reaves, you and Deeno see if you can out replicate these buggers…big-bang if you have to.  Barnes, close from your side and try to draw off some of this swarm.”
+As the battlefield churned and heated up with max ANAD replication, Mighty Mite Barnes closed the distance, piloting her own ANAD swarm like a miniscule battalion, wading right into the middle of the fray.
+“I’m going bang,” Reaves told him.  She triggered off a max rate replication with her own swarm, churning the air with furious atom-grabbing.  Deeno D’Nunzio did the same.  Soon, the air around the chamber burned supernova hot as assemblers copied themselves and built structure like frantic brickmasons.
+I hope this works, Winger thought.  He was running out of tactical options fast.
+The tactic was a basic ANAD operation: try to out-replicate the enemy and overwhelm him with sheer mass.  With any luck, the Shavindra bots would soon find themselves smothered and unable to react fast enough to ANAD’s exponential attack.
+Winger tried flexing his effectors and detected a slight loosening.
+Maybe if I just fold up my outer pyridines…retract the buckyball ends…I can—
+He tried it and was able to squirm free of the enemy bots’ grasp.  Spinning up propulsors, he shot free of captivity…only to run into another knot of mechs.  Winger flexed and thrashed his effectors but it was no use.
+Shavindra bots were more maneuverable, quicker than ANAD.
+“Sheila…it’s not working…I’m stuck in a bog of mechs here….”
+“That’s not all, Skipper.  I’ve got big thermals nearby and they’re not nano.  Take a look on your viewer.”
+Winger switched away from ANAD mode and squinted at the view on his eyepiece.  Through the flickering fog of nanoscale combat, he made out the outlines of the generator platform, still winking in and out of view with rhythmic pulses.  Beyond the platform, faintly visible, were shadowy forms, moving forms.
+Winger realized they had more company in the chamber, human company.
+“Let’s try to grab one of those techs, Sheila.  You got any MOB canisters left?”
+“Affirmative, Skipper.”  The DPS tech scuttled along the chamber floor around the left side of the quantum generator platform, to get a better angle.  Sergeant Victor Klimuk shadowed her moves, to give covering fire.
+A new pulse erupted from the generator, deafening the chamber.  As the decoherence waves radiated outward, every structure in their path winked out of view, smeared like rain on a windshield, before the passing probability waves collapsed into material stability again.
+“Here goes—“ Reaves muttered.  She aimed the MOB launcher at a cluster of technicians and fired off several rounds.  Instantly, the burst of nanomechs engulfed the enemy and slammed them to the chamber floor.
+“Got ‘em!” Klimuk pumped a fist.  “I’ll grab that short one in front…cover me!”
+Klimuk managed to seize a struggling technician and drag him back toward their position.  The MOB barrier was already squeezing hard and the tech’s screams and gasps were muted by the suffocating blanket of mechs steadily contracting, pinning him down into the cocoon.
+He offered no resistance as Klimuk and Reaves secured the prisoner and half-dragged, half-carried him back toward the chamber door.
+Winger dove back into the fray that still threatened ANAD.  All about the chamber, a dense fog had settled in, a fog of exponentially replicating assemblers locked in combat.  The fog flickered and crackled with trillions of volts of ruptured bonds as the mechs battled from one end of the chamber to another.
+ANAD was still in a straitjacket, enveloped in enemy bots.  Winger spun propulsors and flexed effectors but it was no use.  Despite his own increasing mass, ANAD seemed trapped.
+“ANAD, I can’t out-maneuver these buggers.  And we can’t out-bang ‘em into submission.  They counter everything I come up with.”
+***ANAD recommends withdrawal, Base.  Losing primary effector control…disrupters ineffective.  Enzymatic knife and pyridine probes no longer operable.  Replication failing…ANAD is being overwhelmed--***
+Johnny Winger didn’t want to fall back on the quantum collapse—no good atomgrabber ever did—but he was rapidly losing control of his own swarm.
+“Detachment, report in…status of swarm engagement.  Can you hold out or outflank these bots?”
+Kip Detrick came back first.  “Lieutenant, my part of ANAD’s about shot.  This bugger’s all over me…I can’t maneuver, can’t rep fast enough—“
+“Me too, Skipper.”  It was Sheila Reaves.  “Effectors jammed…my core processor’s maxed out just trying to run the replication.  Master’s shutting down…I’m about to be pulverized.”
+Then came Taj’s voice, a little more strained than usual for the Punjabi DPS tech.  “Lieutenant Winger, my swarm disintegrates right in front of me.  Whatever these bots are, they’re meaner and faster than my guys.”
+That settles it, Winger thought.  We can’t fight these bastards with what we’ve got.  It galled him to admit that, but the safety of the Detachment was always paramount.  And that included the integrity of the ANAD master assembler.
+The quantum wave generator would have to wait. Symborg, if he was here, would have to wait.  “Secure the prisoner,” he ordered.  “Let’s disengage and get the hell out of here before we’re eaten alive.  Retract swarms to personal defense mode.  Anybody have a chance to corral one of these bots, grab it.  Table Top’s eggheads will want something to analyze.”  And Major Kraft would definitely want something to explain why we couldn’t shutdown this facility, he muttered to himself.
+The flickering fog began to subside as the two nanoscale armies separated.  The remnants of the ANAD swarms were designed to commit atomic seppuku before they could be overrun.  Only the ANAD master would be recovered.
+One by one, the nanotroopers regained their positions.  The enemy bots pulled back too, perhaps sensing the engagement was over.  That surprised Winger, who had figured Shavindra would continue the attack.  Whoever or whatever was controlling the swarm had enough tactical smarts to save itself for another day.
+Reaves lifted a coilgun and sighted it at the platform.  “Skipper, I could blast that mother to kingdom come with one good shot.  I’ve still got a few rounds left.  Give the word, sir and I’ll make that generator atom fluff.”
+“Disengage, soldier.  Remember, Sheila…it’s a quantum device.  What you’re blasting might only be one of many states the machine could be in.  You could blast this one and a thousand more could collapse into being in other places.  We’ve got to be smart about this.”  He remembered dueling with Red Hammer’s sphere at the Engebbe dig site a few weeks before.  It too was a quantum machine…you could never be sure of what you had hit.
+“Fall back to the big room!”  Winger ordered.
+In ragged order, the Detachment pulled back to the Hall of a Thousand Pillars, regained their loose gear and exited the temple.  Outside in bright, humid sunshine, Winger counted off the troops, while the crewtracs loaded up equipment and took the temple technician into custody.
+“Turbo’s still at the bridge,” said Mighty Mite Barnes.  “Spite too, with that squad of local cops.”
+Winger remembered.  “Get them on tacnet.  See what’s shaking…maybe we can give them a hand.”  He was already composing his after-action report in his mind…ANAD swarms engaged protective nanobotic disassemblers at the Shavindra temple complex outside Kolkata…got our asses kicked but good and were unable to fully penetrate far enough to disable the quantum generator at the center of the temple…Strong suspicion that Symborg was running the generator…maybe even was the generator.  Detachment suffered minor casualties but combat conditions around the temple made continuing the engagement risky…too many matter engines going off all over the city…fabs out of control…the whole place was chaos….
+Winger stopped, realizing Barnes had been talking to him.  “Yeah, Mite…what is it?”
+Barnes seemed to understand…the Detachment was exhausted.  “Sorry, sir…you look like hell, begging the Lieutenant’s pardon.  I was saying Kano’s bringing Turbo and Spite over in their crewtrac.  Kano’s gotten on top of the problem at Howrath bridge.  He says ‘thanks’ for the support.  They can mop up the rest of the loose fab bots in this district.”
+“Good,” Winger said.  “Thanks.”  Now at least he had something positive for the after-action report.  Major Kraft liked positive.
+“We going back to Table Top, Skipper?” Barnes wiped sweaty black wisps of hair from her forehead.   She safed her coilgun and slung it over her shoulder.
+Winger was still mentally fighting the Shavindra bots with ANAD.  “There has to be a way to get past those bots.  What am I forgetting?”
+“Maybe it’s in the processor,” she suggested.  “Those buggers were all effectors, fast as lightning.  Maybe ANAD needs to be souped up to deal with these characters.”
+“Probably,” Winger agreed.   He watched the loadout of the crewtracs for a few moments, ticking off everything and everyone going aboard.  He didn’t want to leave any Quantum Corps stuff lying around for unscrupulous fab pirates to grab and make use of.  
+“Here comes Turbo and Spite,” someone said.  
+From the ornate lion’s head gates to the temple, a snorting crewtrac clanked and rumbled up toward them.  Sergeants Adnan Fatah and Ray Spivey dismounted and came up, saluting Winger.  They gave him a quick rundown of the BioShield operation.  When they were done, Winger ordered the crewtracs buttoned up for the drive to Chandra Bose field.  
+“Move out!” he ordered from his commander’s station inside the lead vehicle.  And step on it.  We’ve got to get in touch with Table Top and figure out why the hell we can’t crack these barrier bots.  That generator’s an important node in something and we’ve got to shut it down soon.”
+
+Inside hyperjet Mercury, Winger took the call from Major Kraft.  The vid on his wristpad showed he was in an office, though not his own.  It turned out to be Major Lofton’s office…the Q2 intel shop.  
+Winger explained what had happened at the Shavindra temple, squirting the details of his after-action report to Table Top.
+“I don’t know what that platform was, Major,” he replied, to Kraft’s obvious question.  “It was a quantum device for sure, maybe a signaling device.  Maybe a communications node—“
+Lofton cut in.  “We’ve had intel that Red Hammer has some newfangled way of sending encrypted comms, sort of like the coupler.”
+“Maybe it’s a monitoring station, for surveillance,” Kraft suggested.  “And your CQEs tracked the decoherence waves from Kenya to Kolkata, to that temple?”
+Winger replied, “Affirmative, sir.  Best fix put the source at that location.  But then we lost the track.  Symborg’s trail seems to have gone cold.  That platform, whatever it is, is snapping spacetime like there’s no tomorrow, putting out deco waves that scrambled everything else.  Maybe Symborg was somehow absorbed into that thing.”
+Kraft studied Winger’s report.  “Your guys got their asses kicked at that temple, Winger.  What the hell happened?”
+Winger knew Kraft chewed on failed ops like an old cigar.  “I don’t understand it, sir.  I think our ANAD may be corrupted.  It started at Kipwezi, when we first ran into Symborg.  ANAD started to launch, uncommanded.  I had no control.  Then at the temple, the same thing.  I’d hack out a config and send it and ANAD would do something else.  Either we’ve got a bad bot or—“
+Lofton cut in.  “Or Red Hammer’s got a way of bollixing up your comms.  I don’t like this quantum crap…too dicey.  Too hard to control.  You both might be interested to know something else is happening in your neighborhood, up by the Nepal-China border.”
+Kraft had seen the boards at that morning’s briefing from Q2.  “Red Hammer’s got something big up there, not just in Kolkata.  Looks like they’re trying to protect it from prying eyes.”
+Winger had seen nothing.  “What’s going on?”
+Lofton did a quick summary of the briefing, sanitizing it for Winger’s lower-level clearance.  “Routine UNIFORCE recon, satellite and sniffer birds, just poking around, following some decoherence wakes, just like you.  But someone fired on both, laser barrage, from just inside the border with China.  Damaged the satellite.  Vaporized a couple of birds.  UNIFORCE brought some killsats over the area, but geolocation put the source inside Chinese territory, Tibet, in fact.  Whatever’s up there, it’s important enough to be well-defended.  Kraft, can you detach a recon force from Winger’s group and get up there, take a look-see?”
+Kraft nodded.  “Winger, pick three of your best.  I still want to keep some eyes in Kolkata.  Best evidence is Symborg ‘s holed up somewhere in that city.  If he shows up again, we’re going to do our damnedest to smoke him out.  I’ve got a mission proposal before UNIFORCE to tag him, insert some corrupt malware into his master bot.  Plus the Lab has some wacko gadget called a swarm inhibitor…keeps the bastard from even replicating.  As soon as I get tasking and we locate that bag of bugs, we move.”
+Thinking of his new orders, Winger asked, “Have I got a target in Nepal…some kind of coordinates, details on what I’m reconning, sir?”
+“We’ll squirt it to you within the hour.  Along with the rules of engagement.  This is ticklish, Winger.  Red Hammer’s in tight with elements of the Peoples’ Liberation Army.  We don’t know how far their tentacles reach.  You’ve got to have a light footprint around the border….I don’t want anything that could blow up in our face.  Is that understood?”
+Winger said, “Yes, sir…it’s just that we need a fully functional ANAD and I’m not sure how far we can trust the one we have.”
+Kraft growled back.  “That’s your call, Lieutenant.  Use ANAD where you’re comfortable and it doesn’t compromise the mission.  Otherwise, you may have to get your hands dirty and do this the old-fashioned way, like a good soldier. That’ll be all.”
+Kraft and Lofton signed off and Winger’s wristpad went dark.
+Swell.  Now I’ve got two missions, Nepal borderlands and Kolkata, with a small detachment and a suspect ANAD.  He stepped out of the crewtrac to round up the Detachment.  
+I guess that’s why they say no guts, no glory.
+
+Chapter 3
+“Katmandu”
+
+Katmandu, Nepal
+November 12, 2048
+0530 hours
+
+UNISPACE tracking had put the approximate location of the ground laser source that had fired on sniffer drones at somewhere just inside the borderlands of Nepal and the People's Republic of China.   A joint mission had been proposed by UNIFORCE, with support from Quantum Corps and the UN's ground force, known as UNICORPS, to the Secretary-General. The mission: locate and eliminate the source of the incident.  You couldn't very well have UNIFORCE patrol ships being fired on by every thug and malcontent with a laser, could you?
+There was just one small problem.  Tracking and intelligence had put the predicted location of the laser inside Chinese territory.  
+Signal intercepts, deco wake analysis and file intelligence from previous Quantum Corps missions had long pointed to the cloud-shrouded mountain valleys of the Gangdise Shan range north of the border with Nepal as a likely main operating base for Red Hammer.  Tracking had traced the laser bursts to this very area.  The problem was that China had long forbidden any UN operations in its territory or airspace.  And Red Hammer was known, from reliable sources, to have a hell of a lot of claws inside China's People's Liberation Army.
+So the S-G had approved a combined mission, with reservations, to eliminate the laser source.  The fact that Red Hammer was involved was just butter on the bread.  There was now irrefutable evidence the criminal cartel was up to its ears in the Symborg phenomenon.  UNIFORCE had seen a chance to take a shot at the heart of Red Hammer's power and maybe break the back of Symborg’s popularity at its source, all on the pretense of protecting spacecraft and sniffers from unlawful attack.
+Quantum Corps was tasked with providing a reconswarm and nanodefense for the air/ground task force put together by UNICORPS.  A command post had been set up in the ruins of a crumbling monastery on the outskirts of Katmandu, a short half-hour lifter trip to the Rabga Pass, Mount Everest and the rugged and forbidding terrain beyond.
+They made the six- hundred kilometer trip up to Katmandu in less than an hour.
+Nepal was a rugged, cloud-shrouded land of steep ravines, snow-covered mountains and dingy, mud and stone towns, perched on narrow cliffs that wound through the misty valleys.  Katmandu was the largest city.
+Forty kilometers north of the city, the Tashkung monastery was an abandoned crumbling stone fortress snugged up against a steep hillside.  Narrow paths and stairways had been hewn right out of the rock face of the mountain.  Herds of llama poked through the ruins.  Monks in saffron robes prowled the dusty corridors of the monastery, seeking enlightenment.
+The government had given UNIFORCE permission to occupy the place.  It was only a few kilometers from the border with China and the peaks of the Tashkung Hills afforded a clear line of sight all the way north to the Tibetan plateau and the tortured folds of the Gangdise Shan.
+It was here, according to UNIFORCE intelligence, that the source of the laser attack on the sniffers would be found.   And it was also here, in the estimates of many analysts, that Red Hammer maintained its primary base of operations.  
+With just the right kind of probe across the border, it was thought, the criminal cartel could be provoked into revealing itself, giving up the location of the base.  And if Red Hammer's base could be located, UNIFORCE would finally have a target to shoot at.  Once located and fixed, the head of the monster could finally be cut off.
+Johnny Winger and Quantum Corps would be the bait.
+"Launch ANAD!" Winger commanded.  The mobile TinyTown had been hoisted to the top of the Tashkung hills and secured.  Below and to the north, a cottony sea of clouds stretched to the horizon, broken only by scatterings of mountain peaks, huge bergs of rock and snow dimpling the cloud layer.  The shadows of Mount Everest and K-2 lay across the cloud tops like giants' hands, ready to crush all interlopers.  
+"ANAD's away, Lieutenant," said Moby M'Bela.  The powdery snow at the summit of Tashkung swirled in tornadoes of sleet and ice, as the winds roared across the mountaintop.  "Tight formation…I'm keeping him low to the ground to stay out of the wind."
+"Can he navigate to the north in this gale?"
+Gibby was already on the IC panel, watching ANAD's status.  "He can if he stays close enough to the terrain.  It'll be a bumpy ride and we may lose a few daughters.  I've laid out a course that tacks to the prevailing wind.  He'll be at the border in about two hours, if all goes well."
+"Status?"
+"ANAD reports ready in all respects, sir."
+"Very well.  When he's closer to the border, give me a visual.  Replicate more daughters if you have to.  I want a good look at what we're going into."
+"Understood."  Gibby pulled up the template for ANAD's virtual lens.  At the right time, he'd fire off the command and the assembler would detach a portion of its force to form up a photon "bucket", able to image the terrain and sky ahead and send the imagery back in visible wavelengths.
+ANAD traversed the mountaintops of the Tashkung in good order and announced its position with characteristic verve.
+"ANAD to Hub…closing on last waypoint…two hundred thousand microns and closing…ready to go in…let me at 'em!"
+Gibby smiled and looked up at Winger.  Both nanowarriors were already bundled in full hypersuit gear.  A nanoshield had been erected over the encampment and snow was already rising along its nearly invisible sides, forming irregular mounds that seemed to hang in mid-air along the perimeter.  
+"ANAD's itching to get at 'em, Lieutenant.  Can I give permission?"
+Winger studied the battle plan on his helmet eyepiece.  UNIFORCE had a squadron of lifters on the way, hugging the ground in a nap-of-the-earth penetration into Chinese airspace.  "I've got to wait for word from the UNIFORCE commander.  Once his lifters are in position, give ANAD the go."
+"Hub to ANAD, hold position this side of the last waypoint…repeat, this side of the last waypoint."
+"ANAD to Hub…acknowledging--"
+"Let's have a visual check, Gibby.  That'll give him something to do."
+Gibby sent the command and moments later, the first grainy images from ANAD's position jerked onto the imager screen.  Twelve kilometers north of their position, a small portion of the ANAD force had formed itself into a virtual lens, sucking up photons of reflected light from the surrounding terrain.
+It was a forbidding view indeed…a sere and desolate scabland of steep chasms and frozen white mountains.
+Winger and Gibby studied the imagery for a few moments.  Slight adjustments made the view clearer, as ANAD reconfigged the 'lens' to gather different parts of the spectrum.
+"Looks like some weather up north," Gibby noted.  He pointed to the darkening mass forming over the tops of distant peaks.  "Must be a front…I don't recall anything from the met report, though--"
+Johnny Winger eyed the approaching weather 'front' with growing apprehension.  The detachment had trained all its gear on the phenomenon several minutes ago, sounding the swollen storm clouds with acoustic, EM, infrared and radar.  Sergeant Sheila Reaves confirmed Winger's worst fears.
+"That ain't no regulation storm front, Lieutenant."
+Winger scanned the DPS imagery.  "Nanomech swarm, by the looks of it.  They haven't even bothered to disguise it."
+"I sure hope ANAD's up to snuff, Lieutenant.  If he isn't--"
+"--we’ll be dust.  Sergeant, let's get moving."  
+Reaves exited the nanoshield of the encampment and hunkered down against the driving, windblown sleet blasting across the top of the Tashkung.  She checked the HERF guns for registration--they were all trained across the mountaintops, ready to fry anything foolish enough to stray into firing range.  For good measure, she and Buddha Nguyen powered up a squadron of coilgun bots, torqueing their motors on with a quick wrist snap.  Both Defense and Protective Systems techs launched a handful of the bots, watching as the tiny ornithopters buzzed away from the summit of the mountain, struggling in the teeth of the driving wind, but steadily gaining altitude.  When fired, each bot could discharge a few million volts worth of energy a distance of half a mile, neatly complimenting the HERF guns against point targets.  
+The two DPS techs scampered back inside the shield.
+For another two hours, the small squad at the summit of Tashkung watched with growing uneasiness as the Red Hammer 'weather front' boiled and swept southward.  The rolling thunder of a massive nanomech swarm had rolled across the arid, windy steppe country of southern Tibet, systematically laying waste to small villages, nomadic ordu and fleeing battalions of yert (tent) horsemen and shepherds, an unstoppable, polymorphic, programmable horde of intelligent pseudo-virus assembler devices.  
+Winger fidgeted inside the nanoshield, while snowdrifts piled higher and higher against the invisible walls.  
+"Where the hell is UNIFORCE?" he asked.  Red Hammer's going to engage us before the lifter teams are in position.  Somehow, we've already been detected. This was supposed to be a recon mission but someone didn’t get the word. 
+Winger's plan was simple enough, in theory.  Once commanded to engage the enemy, ANAD would replicate fast, trying to achieve a critical mass, to be able to deal with Red Hammer's numbers from a position of equal strength.  When the rep phase was done, the ANAD force would be split into two and reconfigure.  After a lot of tactical discussions, Johnny Winger and Deeno D’Nunzio had agreed on the camouflage: one ANAD formation would re-assemble itself to assume the molecular form of a dust cloud, a common enough occurrence in the high desert of Tibet.  The second formation would reconfigure into something resembling a swarm of cyclorrhodophe subtens…better known as flies.  
+Winger and D’Nunzio had worked out the templates in a marathon session a few nights before.  Now the test would come.  Dust and flies--two of the most common elements of the arid steppe country.
+Would Red Hammer be fooled long enough for ANAD to infiltrate?
+The third phase was the attack.  This had to be coordinated with the UNIFORCE penetration.   If all went well, the Red Hammer swarm would gently absorb a harmless cloud of dust and flies, only to find, when the final command was sent, that it had swallowed the Devil itself.  Rapidly reconfigging into full assault state, ANAD would close with the Red Hammer mechs and shred the swarm to pieces.
+That, at least, was the plan.
+Johnny Winger got in touch with the UNIFORCE commander.  His name was Major Ghali.
+"We've got enemy mechs closing fast on our position," Winger advised the Major, over the tacnet.  "Somehow, they detected us…I don’t know how.  We'll be engaging any moment now."
+Ghali's voice crackled back through his helmet earphones.  "My force is in readiness, Lieutenant.  Hold your position…and keep these mechs off my back.  My lifters are airborne at this time.  I'm launching strike forces now."
+Strike forces…jeez, so much for covert entry. 
+Even before he secured himself for the coming onslaught, Winger heard Gibby shout over the keening wind.
+"Lieutenant…look!"
+The wintry horizon was suddenly bathed in an eerie lavender glow, as pillars of light stabbed down from the clouds.  Thunder rolled across the mountains as the beam weapons ripped the air apart.
+"Killsats!"  Winger squinted at the sight, momentarily taking his eyes off the ANAD imager.  "They must have found a target…Ghali said they were firing now!"
+Both men watched mesmerized as shimmering columns of directed energy beams swept back and forth across the crests of the mountains, vaporizing anything in the path of the beams.  Strobe flashes lit up the underside of the clouds with a pearly evanescence, stitching a weave of death across the valleys and hills.  
+At the same time, red-orange bursts of explosions blossomed on the horizon.  A rippling eruption of flame and smoke danced across the mountaintops, as UNIFORCE missiles homed in on their targets.  Overhead, through breaks in the thick clouds, Winger caught glimpses of the lifters and their unmanned killbot drones swooping over the plateau beyond, wheeling about like vultures for another dive onto a target.
+UNIFORCE had unleashed the full fury of its assault weapons, air and space, against Red Hammer.  The recon mission Lofton and Kraft had discussed had just turned hot. 
+Now it was up to Quantum Corps to cover their asses.
+"Distance to swarm?" Winger asked.
+DPS1 Sheila Reaves was back inside the nanoshield, slaving HERF guns and coilgun bots to new coordinates.  She tapped furiously at her wrist keypad, probing the oncoming swarm with electromagnetic fingers.  "Two kilometers, Lieutenant.  Closing fast…five meters per second."
+Winger felt his neck hairs tingle.  Combat did that to people, even when the enemy was a billion times smaller than a human being.
+"Detachment…button up your suits!  We're going to get swarmed--"
+"--thirty seconds to first contact--"
+Now was the time.  He felt it.
+"ANAD…engage now!"
+Gibby hands flew over the IC panel.  "ANAD's away…reps look good.  I've got a good signal…valid signal!"  The IC hunched over his panel, eyes flicking from one display to the next, checking parameters.  No mistakes now.  "Dispersal proceeding--"
+"Command rep template, IC!"  Winger didn't like the looks of the approaching storm; already, the harsh mountain sunlight had dimmed noticeably.  "Send it!"  He well knew that several kilometers behind and to their west, UNIFORCE had a staging base on the outskirts of Katmandu.  If the enemy mechs broke through…or flanked them—
+       Gibby complied and transmitted the Lieutenant's orders.
+ANAD signaled back:  "ANAD to Hub…yiipppeee!  ANAD at max propulsor…closing fast--"
+Winger ignored the outburst.  ANAD was like a small child, just let out of his room to play.  Only this playground was for keeps.
+"Detachment to defilade positions!  Get your hypersuits buttoned up, guys!"  Winger sealed his own enclosure, checked to make sure the others were doing likewise, and trotted on servo-powered legs to the trench and bunker system they had carved out of the ice and snow atop the Tashkung hill.  He let the exoskeleton do the work; kneeling, then flattening him into the concealed furrow.  All systems chimed off their status tones as he let the servos half-bury him in the snow.
+Just in case Red Hammer broke through and the nanoshield didn't hold.
+Less than half a mile away, the snow and ice roiled in steaming clouds as Red Hammer swept relentlessly toward them.
+Tense seconds ticked by.  It was all timing, Winger had always warned them.  All timing--now!
+"Rep cycle done!" the IC's voice was thick with tension.
+"Split the force!" Winger came back.  "And send the camouflage templates.  We don't have a lot of time!"
+A half kilometer away, even as more killsat beams stabbed down from the clouds, geysering up huge BOOMS! on the horizon, ripping the air with particle beam thunder, unseen by human eyes, ANAD and its brood of nearly a quadrillion replicants swirled into separate formations and dispersed even further, quickly assuming the 'dust and flies' configuration they had coded.  As the darkening cloud bore down on the encampment, Winger swallowed hard, tasted the coppery tang of fear in the back of his mouth, and counted down the seconds.
+"Activate!  Activate templates NOW!"
+Winger squeezed his eyes shut as the wind howled overhead, buffeting his hypersuit.  Snow and sleet flew in stinging sheets, building to a shrill whir, then a new tone sounded amidst the keening whine of the wind…a high-frequency chirrriiinnnggg like a high-speed drill that Winger had long ago learned to fear.
+Through the dim blur of swirling snow, Winger saw the shimmering bubble of the nanoshield collapse in an instant, shredded into atomic fluff by the onrushing mechs.  It had been Gibby's idea to use the bubble as a decoy, and to bury themselves outside the shield, allowing themselves to be enveloped by the swarm.  
+"It might just give us a few extra seconds," the IC had explained.
+Winger gritted his teeth, reminding himself to report Sergeant Gibbs for a special commendation if they ever got back to Table Top.
+His suit servos told the truth; enemy mechs were already hard at work attached to the suit's outer laminate armor, busily disassembling its latticework shell of atoms.
+Winger knew the assault would come to this.  It was all part of the decoy operation--pull the swarm away from the UNIFORCE base and give Ghali and his men a chance to take out the Red Hammer targets.  Sucker the enemy mechs in close and then--somehow, they had to tough it out, wait and pray, wait for just the right moment…it's all about timing, it's all about timing…
+Now was the time.
+"IC1!"  Winger forced out.  He could feel the mechs whirring away at the shell, digging in, sharp razors whirling for his skin--"IC1…NOW! Attack config!…give it to 'em, right in the chops!"
+And he thought he heard through his headset, over the shrill blast of the wind and the snow and the high-freq whine of the assault, the chipper yelping of ANAD itself:
+"Yahoooo!"
+Johnny Winger decided to chance a move and help Gibby out.  Even as he gouged a path through the shifting snow, he felt his suit servos go.  Suddenly the hypersuit weighed its full quarter ton and Winger clawed blindly for traction, trying to drag himself along on muscle power alone.  Pulling and clawing, he finally managed to reach the IC1's position.  Gibby was himself half-buried in blowing snow.  
+"Tactical report?"
+Gibbs whirred inside his own hypersuit; already, his own servos were grinding down.  "Re-config's proceeding…I'm sounding now…looks like quite a battle."
+"Any indication the enemy's split up?  Anybody heading for the UNIFORCE camp?"
+Gibby's helmet wobbled.  "No, sir…seems like the whole force is concentrated here!"
+"Good!"  
+Red Hammer roared over them, pressing down with the weight of a tidal wave.  Above, beside, and all around them, unseen armies clashed and fought, as ANAD re-formed from its camouflaged redoubt and tore into the Red Hammer mechs.
+On the IC panel, which Gibby had linked into their helmet eyepieces, soundings told the story.  Second by second, the camp was being steadily consumed yet ANAD cleaved and slashed and wrecked enemy mechs in uncounted millions.  Still the swarm rolled on as each master dueled with the other, throwing everything they had into the maelstrom.
+It was a classic war of attrition, slaughter and mayhem, a thousand Verduns played out on a battlefront scarcely a hundred yards wide.  ANAD replicants cleaved Red Hammer mechs atom from atom, exploding tight bonds, wreaking valence, wresting carbenes and radicals and ester groups from the enemy's grasp, all at blazing speed, hollowing out the enemy swarm from the inside out.
+Yet even as ANAD re-configured and closed for battle, Red Hammer's speed blunted the worst effects.
+"It's like trying to squash a balloon, Lieutenant!"  Gibbs was reading off mass density and pressure flux from the center of the battle swarm.  "Mash it here and it pops back there!  I can't seem to out-replicate…we're getting out-numbered and out-slugged everywhere--!"
+Winger switched to remote data feed and let Gibby's IC controls talk to his own helmet eyepiece.  He swore, scanning the figures; icons representing the ever-shifting battle throbbed and flickered.  Gibbs was right.
+Something was slowing ANAD down, mucking up the rep cycle, clogging the responsiveness of the assembler to commands.
+"Let me try--" Winger pressed close to the controller's remote drive and took direct command of ANAD from his own wristpad.  That violated every tactic they had ever agreed on in wargames and sims; no one, not even Johnny Winger, could 'fly' ANAD through a combat action like this.  It was all supposed to be coded and stored beforehand…the templates, the script of actions ANAD would follow.  No human could react fast enough to deal with such a fast-changing tactical situation.
+Trouble was, it wasn't working.
+Thirty meters away, half buried in a snowdrift, DPS1 Sheila Reaves saw a flicker of something on her own helmet eyepiece.
+"Hello---?" she muttered to herself.  When the Detachment had encamped a few hours before and she and Buddha Nguyen had left the nanoshield to set up the HERF guns, Reaves had taken it upon herself to launch a small flight of Superfly drones, recalibrated drones, overhead.  The drones would be a last ditch tripwire, in case any Red Hammer mechs tried leaving the perimeter of the camp, in case enemy mechs leaked westward and south, toward the UNIFORCE base they were tasked to protect. 
+Now, Superfly was talking to her, dribbling bits and pieces of a signal from something it had just detected.
+A Red Hammer element leaving the scene of the crime?  A small squad of nanomechs sneaking through?
+Reaves blinked and stared again at the signal.  "It's inside…close by--"  And the signature was all wrong.  It seemed like Red Hammer…but then again it didn't.  And it was intermittent…something was blocking the return.  A concentration of ANAD, maybe?  Snowdrifts piling up?  An outcropping of rock?
+Curious, Reaves finagled her hands around to where she could reach her wristpad, careful to stay hunkered down, making herself small, as the mech war shrieked overhead.  She tapped on her wristpad, measuring signal strength in several directions, letting the chip compute an intersect.  There…the thing chirped in her headset.  Now…she had a fix.  She maneuvered her body around inside her heavy hypersuit, until she could get an eye on the coordinates---
+---and was stunned…though maybe she shouldn't have been.  
+The chip had fixed the source of the Superfly return at the exact coordinates occupied by Corporal An Nguyen.  Twenty-two meters away, bearing two-zero-niner degrees.  ‘Buddha’ Nguyen was hunkered down, no heavy swarm anywhere near him at all, yet Superfly was reading something, getting some kind of return, shifted a little, muffled, but there nonetheless.
+Sheila Reaves squinted hard through her helmet, but the snow and the swarm made vision difficult.
+Somehow, she had to let Lieutenant Winger know about this.
+Winger knew he had to find a way to save the assault.  His own hypersuit was starting to lose integrity...he could hear the high-freq vibrations as mechs bore into the shell layers…something had to be done…and fast.
+What was it he'd always told them back at Table Top: it's all about the timing.  You've got to kind of feel your way through--
+"Easy for you to say, kiddo--" Winger forced out.  Breathing fast, in shallow breaths, forcing his mind to ignore the whirring saw blade millimeters from his spine, he bore in on the imager in his eyepiece and seized control of the thing from Gibby, ripping the ANAD master free of a swarming, smothering, suffocating assault.
+"--get small, baby…get real small--"
+With a quick flick of the config driver on his wristpad, he pulled ANAD free of engagement and folded down carbene effectors left and right.  Then he thumbed a new command through the pad's coupler: fold here, cleave at this group, invert plane and spin…do the hokey-pokey and you shake it all about…a full combat reduction fold.  Everywhere at the same time, ANAD and its daughters collapsed like a crumpled napkin and spun their way out of entrapment, scooting off on max propulsor power.
+"ANAD to Hub…whew…thanks, Boss…whatever that was…it came just in time…ANAD's just glad to be out of that mess--"
+"Don't get too comfortable, little guy--" Winger gritted out.  "I've got an idea--"
+He tweaked the assembler, trimmed it for speed and flew out of the hurricane as fast as ANAD's propulsors would churn.
+"Got to re-group," he muttered to himself.  "Got to fall back and re-config...if I can…countercode and hold another line…."
+"ANAD to Hub…we need to re-think this strategy…come at this a different way…enemy mechs are too fast, too fast--"
+"I'm working on it, buster…don't wet your pants, just hang on--"
+The crescendo deepened above him as Red Hammer’s numbers began to take effect.  ANAD was right—the enemy was too fast.  Or was ANAD too slow?
+Already, Winger's hypersuit had seized; servos were gone and life support was dicey.  They'd have to get the hell out and soon if the Detachment were to be saved.  And get a warning off to Ghali and the UNIFORCE base.
+There just has to be a way--what's wrong with this program?  Frustrated, Winger wanted to scream.  Red Hammer was the same technology…hell, it was practically an ANAD clone.  How the hell could it outduel ANAD every time--
+Red FAIL lights lit up his eyepiece, a Christmas tree of death, as replicants winked out, their processors completely disassembled by Red Hammer.  Winger swore under his breath, tapping out commands on the wristpad.  
+They were losing the battle and he knew it.  Every second's delay brought more FAIL icons to his eyepiece.  Worse, ANAD knew it too.  His plaintive voice grew more and more panicked.
+"ANAD to Hub…can't hold structure!  I'm reconfiguring…emergency truncation…shutting down peripheral systems!"
+"Johnny Winger--" he muttered to himself.  "it isn't working---this is not going to work--"  He fumbled with the command stream--trying another--trying to drown out ANAD's desperate cries--countermanding the replicant's efforts to save itself--add effectors here…a fullerene hook there…swivel this group…cleave and stick an ester here.  Winger's fingers flew over the keypad.   Try anything…try everything--
+"ANAD losing signal strength…losing  fine…motor…control--losing…attitude--losing…orientation…propulsors…losing…sensory--molec-u-l-a-r--a-n-a-l-y-s-i-s--"
+ANAD was weakening right before his eyes.
+Adrift overhead in a tornado of nanomechs, ANAD hunkered down and fought off wave after wave of attacks.  Winger's commands came through but ANAD's processor buffered the string and diverted everything to self-defense.  In the very center of the onslaught, ANAD had two choices: fight to live or accept commands, divert defenses and die while executing the CC1's commands.
+ANAD chose to live.
+It took only a few more seconds for Winger to realize the situation was hopeless.  The book said tactical retreat was in order.  But Winger didn't go by the book.  He wasn't ready to give up on ANAD just yet…not while they still had HERF guns and coilgun bots and an ounce of grit left in them.  He staggered to his feet, under the full weight of the hypersuit, and spied Deeno D’Nunzio doing the same, a distant twenty meters away, dim but faintly visible through the snow and the swarm.  No servo-assist; muscles and willpower got the Lieutenant upright.  He had to make sure at least the rest of the Detachment could still get away.  He wasn't putting them through another Lion's Rock again.
+The high-freq whine had changed tone.  Must be through the laminates, he thought.  Another six mil of hardcoat shell and it's my skin…
+"Fall back!  Fall back now!"  Winger fought off the cloud of mechs now thick enough to blot out the fierce Himalayan sun, clawed frantically at his helmet faceplate.  "Detachment…listen up!  Cease fire and withdraw!  Fall back to the lifter…leave your gear--"
+Deeno’s voice was weak and out of breath.  "What about you, Lieutenant?  We can't just--"
+"Get going!" Winger forced out.  "I'll be right behind you…I've got to set up a perimeter…something to contain these buggers…then get to the HERF guns--"
+"ANAD weakening…inner--l-a-t-t-i-c-e--a-t-o-m----"
+Through the luminescent speckling of exponentiating mechs in front of his face, Winger caught glimpses of their encampment, now a chewed-up wasteland of wrecked equipment.  The Red Hammer horde had expanded across the phase line the Detachment had set up at the crest of the Tashkung hills and billowed out to better than five kilometers in diameter.
+We can't stop it!  Winger realized.  Somehow, Kraft’s recon mission had stirred up a hornet’s nest…Red Hammer was protecting something big just over the border.  They had to be.  He tripped over a mound in the snow, got up and with a start, realized it was a carcass.  Marc Seurat…the CEC2, or what was left of him.  Seurat had replaced Joe McReady.  "Barnes, Reaves, Nguyen, everybody…fall back now!"  
+Reaves' thick voice came through his headset.  "Uh, Lieutenant…there's something you should see here…something strange--"
+Winger staggered through blowing snow to Reaves' position.  The DPS showed him the strange soundings from Superfly.
+"It's kind of there, then, it isn't there," she explained.  "Superfly's sounding some kind of nano around here.  Small swarm…almost a point source."
+Winger saw the returns on her wristpad display.  "Location, Sergeant?"
+She indicated An Nguyen, now slogging his way downslope toward the lifter.  Nguyen was helping M'Bela lug the TinyTown unit through the snowdrifts.  M'Bela was waving at his invisible assailants, trying to bat them away.  Nguyen seemed unaffected.
+"Superfly's sounding some kind of intermittent nano, sir.  It's real screwy.  First, you see it.  Then you don't.  And it's not this crap buzzing around us, either."
+Winger and Reaves bent over, squinting through the murk at her wristpad.  What the hell was going on?  Did Nguyen have some kind of experimental, non-reg device on him? 
+Winger was instantly suspicious.  When they got back to the lifter, if they got back--
+"I'll speak with him," Winger decided.  "Get your ass in gear…and make sure HERF's ready to blow."
+"Cocked and loaded, sir."
+Winger followed her downslope, slipping and sliding across icy patches, hurrying as fast as his deadweight hypersuit would let him.  
+"Very well, DPS…when we get everybody back inside the lifter, I'll give the word."
+For the beleaguered warriors of 1st Nano, that moment never came.  The swarm fell upon the camp with a ferocity never experienced before.  One moment, the nanotroopers had been slogging and slashing their way down the hill toward the ledge where the black arthropod shape of the lifter was dimly visible in the haze.  The next moment, Red Hammer seemed to swarm ever tighter, thickening the freezing air with a spongy mist, making hard to move, even to breathe.
+"ARRRGGGHHH!" someone called out over the crewnet.  "--my eyes….my face--!!"
+Johnny Winger could see they'd never make the lifter.  "Forget the gear!" he shouted over the circuit.  All around him, hypersuited soldiers had fallen or stumbled, dotting the blowing snowscape with carcasses.  One man seemed unaffected, dragging a pallet of gear on, seemingly impervious to the assault.  Winger gritted his teeth, wincing…imagining the first nicks of the mechs coming through the shell of his suit.   "Form up around me if you can!  Come ON, you assholes!  DPS…give 'em a kick of HERF…fry the buggers NOW!"
+Seconds later, the drone-snap of the HERF pulse gun blasted across the crest of the Tashkung.  A thick breeze of momentarily stunned nanomechs clattered against Winger's hypersuit.  When the second pulse shook the ground and he felt the thermal of high-frequency RF wash over them, Winger willed his aching muscles to go.
+"Now, troops…NOW!  Gogogogogogo…!"
+But the only place he went was straight down.  
+A deafening roar rolled across the escarpment as the HERF pulse loosened thousands of tons of snow and ice.  Picking up speed, an entire face of the Tashkung came free in torrential sheets of ice and the very ground slipped out from under his feet.  Winger felt his stomach slam into his mouth as the avalanche split a seam of snow and ice nearly a quarter kilometer long.
+The western shank of Tashkung fell free and plummeted downward, a thickening, roaring cascade that swept everything before it.
+The last thing Johnny Winger saw was a tiny crevice…a black oval in the whiteness of the world.  It was a cave, yawning up at him as the force of the spill hammered him down the mountainside.
+With every ounce of strength he had left, he twisted and lunged for the opening, snagging something--he wasn't sure what, perhaps a rock shelf--and pirouetted head over heels, slamming himself upside down and back first against the face of Tashkung.  The maneuver was crazy, it defied the laws of physics and common sense.  And it worked.
+He plunged headfirst into the gaping mouth of the cave and landed hard, breathless, and still reeling, with the roar of the ice wave just centimeters from his face.  The cave vibrated with the force of avalanche and Winger heaved in great gulps of air, then slumped face first, still in his hypersuit, his helmet faceplate fogged over completely,  spiraling down--down--down, into unconsciousness.
+
+He came to and heard an eerie whistling howl ringing in his head.  Groggy, stiff and sore, he de-helmeted and sucked in cold air, then remembered what had happened.  The whistle was the buffeting of wind gusts across the mouth of the cave.  Somehow, incredibly, he had fallen into a narrow fissure protected by an overhang.  The ledge above the entrance had held throughout the avalanche.  Outside, night had come to the Himalayas, and a frigid blast of air greeted him as he stuck his head out.
+No mechs.  No swarm.  No mindless horde of Red Hammer assemblers eating away at him.
+At least, we got rid of them, he told himself.
+But he spoke too soon.  
+A faint buzz emanated from his helmet headset.  With a start, he realized it might be D’Nunzio, Gibbs, or Reaves or someone else.  Where were they all?  Had any survived?
+He poked his head back into the helmet, squinted and strained to hear the faint voice whispering.
+"ANAD to Hub…ANAD to Hub…is anybody there?  ANAD to Hub…broadcasting on tactical channel two…broadcasting in the clear…ANAD to--"
+A more joyous sound, he'd never heard.
+"ANAD, you old scumbag…where the hell are you?"
+The timbre of the assembler's synthetic voice changed slightly, as if it were truly pleased to hear a response.
+"ANAD to Hub…is that you, Lieutenant?"
+"Damn straight, it's me.  CC1 in the flesh--" he groaned as he rolled over.  Might be something broken back there--he felt a stabbing pain in his legs.  "ANAD, what's your position--?"
+There was a short pause.  Then, even as Winger winced, feeling along the suit juncture at his waist ring, wondering what might be broken and what could be salvaged, he heard a distant whine--a high-freq whine--and froze.  
+Were they coming back?  Another swarm--coming back to finish him off?
+The whine grew louder and right over his head, dust began to fall from the roof of the fissure.  The whine pitched even higher and, before he knew it, a small hole had opened up in the rock.  The whine subsided slightly and a shimmering haze exited the hole, before dispersing into the air.
+"ANAD to Hub…reporting for duty, sir--"
+In spite of a fiery stab of pain in his hip, Johnny Winger laughed out loud.
+ANAD and his brood--what was left of them after being chewed up in battle--had gone small--sloughed off everything but his outer shell--and transited into the mountain itself.  Winger learned the little assembler had laboriously penetrated the innards of Tashkung, occasionally rising toward the surface every so often--probing for friendlies, listening and sounding for Red Hammer, then diving back down and slipping through the rock plates a little further.
+"Awfully lonesome down there, Lieutenant--this place is different from the last one…crystalline planes are easier to navigate.  Not as many loose radicals and electrons, knocking me around--"
+"Glad to hear it--" Winger eased his helmet off again, but kept it close enough to hear ANAD's synthetic voice.  "Where is everybody?  What happened to the swarm?"
+ANAD had a few answers.
+"Enemy swarm has retreated and re-grouped…near the border.  After the shock wave…it was stunned.  Had to re-assemble.  New swarm forming three point five kilometers northeast of this position…bearing zero seven five degrees…forming at ground level.  Swarm being re-constituted…ANAD has not engaged new swarm…ANAD--"
+Something in its voice--what was it? a quaver of fear, maybe?--caught Winger's attention.
+"Hub to ANAD…what is it?  You were saying--"
+He felt a warm tickle on the back of his neck, almost as if the assembler swarm were a dog licking him, seeking human contact, tasting him--
+"ANAD not fully functional, Hub…format conflicts…version faults…cannot execute all commands…I--ANAD…not whole--"
+Not whole.  Then, Winger remembered.  The interface controls had seemed sluggish.  The whole cycle of replication seemed out of whack.  
+Suddenly, it came to him.  Winger sat up straight, yelping as his bruised ribs and hip complained.  "It's your program, ANAD.  It has to be.  Version faults.  Format conflicts."
+He thought for a moment.  "ANAD, report program status.  List parameters.  All configs and registers."  He cycled his wristpad display, and watched as ANAD returned a complete listing of his CPU status, dumping the contents of the quantum computer.
+Winger's forehead wrinkled and he clucked at the scrolling data.  "This is crap.  What is this?"  Nothing made any sense.  His suspicions piqued, he dug a little deeper, then with a dawning realization, he understand what had happened.
+Somebody had dumped the current control system and substituted an older version.  ANAD was running on some kind of jalopy software.  And Winger was pretty sure he knew who was behind it.
+"ANAD," he said, "we've got to get you whole and functional again.  We've got a mission and the enemy's still out there.  And you've got to help me find the rest of the Detachment too."
+"ANAD…not whole…version faults--"
+"Yeah, yeah, I know that.  I can fix that."  It had never been done before, even in sims.  Doc Frost had theorized about it.  But no one really believed it could be done.
+Johnny Winger was about to try.  The only way he'd be able to get a functioning ANAD, with all the effectors and capabilities the assembler had been designed for, was to dump the brains of the device and drive ANAD himself.  One to one.  No software.  No buffers.  No control system.  Just Lieutenant Johnny Winger in direct control of the assembler's systems, navigating like a hot rod driver through the quantum world of atoms and radicals and fuzzy electron clouds.  
+Doc Frost would probably faint if he knew about this.
+He decided to spell the news out straight.  ANAD was supposed to have the cognitive capacity of a small child.  Think of him as a five-year old, Doc Frost always said.  Just about ready for his first day at school--
+Okay, Winger thought.  School is about to be in session.  For both of us.  He dragged himself to the front of the cave, peered out.  Black humps of distant mountains loomed on the horizon.  Slowly, carefully, he laid out his plan to ANAD, over the voice circuit.
+There was a momentary pause.  He imagined ANAD mulling the idea over inside his nanometric brain.  Then:
+"ANAD to Hub…are you sure you really want to do this?"
+Winger took a deep breath.  "ANAD, trust me…this'll work.  And I don't have time to explain it or argue about it."
+ANAD made no more complaints but Winger knew the little assembler couldn't be pleased.  The control software enabled human beings--astronomically larger entities than nanoscale devices--to pilot the assemblers through the subatomic world without smashing everything to pieces.  Driving an ANAD without the command buffer would be like doing brain surgery with kitchen utensils.
+But Johnny Winger could think of no other way to fight ANAD against the Red Hammer mechs.
+He went to work on his wristpad, changing programs, setting up the keypad and control bud to operate the assembler directly, porting ANAD's soundings directly to his helmet eyepiece.  Then he commanded ANAD to dump its program.
+"ANAD to Hub…I think…this isn't such a great idea…could we talk about this, Hub--?"
+"Later," Winger muttered.  He confirmed the action through his wrist keypad and it was done.  Though the cave was in near darkness, a faint iridescent shimmer hovered near the roof, the remnants of ANAD and its remaining replicants.  There was no discernible change in appearance after the assembler's buffer had been dumped.
+"Well--" he flexed his fingers, lightly tapped the control bud on his wristpad, "--here goes."  Now was the time to test his work.
+The first rule of atomgrabbing was to relax.  Winger sniffed at that…the rulemakers never imagined a nanowarrior would be stuck in a freezing cave in the Himalayas in a damaged hypersuit, trying this kind of stunt.  He fixed his helmet squarely, let the imager view come to his eyepiece.  When his eyes had adjusted, he saw that he was floating in a sleet storm of polygons and spheres and elongated elastic bands…sparks and arcs zapped the edges of the view--electrons let loose from bondage with their parent atoms.  
+"Feels jumpier than I remember--" he muttered.  He touched, then nudged the control bud on his wristpad. 
+"ANAD to Hub…hey, watch it--!"
+ The imager view careened crazily and he started a dizzying spin. "Sorry about that."   It took several minutes to get the thing stabilized.  "Jesus, the slightest touch and I'm out of trim."  It had been months since his last turn in the simulator, getting the feel for forces and motions at such infinitesimal scale.  Everywhere he turned, van der Waals forces slapped him like ocean waves.  Radicals and ion clusters came drifting by--little lightning bolts that discharged if they got too close, adding to the spin.
+"I'll try to dock with something."  That was the true test of an atomgrabber.  Could he use the assembler's effectors to snag something or park ANAD on the front porch of a molecule, without shattering the thing to pieces, or getting bounced off?  "Hey--that looks like a candidate--maybe a--"
+"Calcite molecule--" ANAD reported.  "Spalled off the walls of this cave.  Watch out for the oxygens…valence is near maxed out.  The wrong touch and--"
+"Yeah, yeah, I get the picture," Winger answered.  Nothing like a back seat driver the size of an atom.  "What say we scope this bugger out for a parking place?"
+"I don't know…this isn't such a--remember, those are covalent bonds---"
+But Winger ignored him.  "Oh--!"  Winger drove ANAD forward, then grunted sheepishly.  The calcite's carbonate 'fingers' flicked ANAD away.  He'd approached on a poor vector and got bounced off by stiff bond forces.  "Sorry, pal--I'll just--" He grimaced, trying to regain control, clumsily manipulating the tiny control bud on his wrist.  "That's weird--molecule just up and spun me around…what gives?  Usually, you can just barrel on in and squat between electrons."
+"Ummm…ANAD to Hub…I meant to remind you about that.  Remember AUTO-BOND?  Before the software, you could do that…fly right in close and probe for a soft spot."
+"Yeah, I remember that."
+"Well now, Hub, you don't have AUTO-BOND anymore.  No way to figure resistance and equilibrium on the fly.  You gotta do the math yourself."
+Winger shook his head.  This would take some getting used to.  Math had never been his strong point.
+Bit by bit, over the next hour, Johnny Winger gained some sense of what it would take to 'fly' ANAD manually.  He was surprised how much he'd forgotten.  Auto-controls had taken a lot of the feel away from the average atomgrabber.  You had to be on your toes to keep up with the Brownian motion, the ionic crackles and sticky radicals and turbulence in this world.   He wasn't fully comfortable with the feel of the control bud; it was touchy and sensitive and his fingers missed the finer control of the interface panel.  But it would have to do.
+He tried probing the medium with ANAD's sensors, tasting pH, concentration gradient, pressure.  For kicks, he toggled the rep 'pickle', one cycle, just to see what a basic replication was like.  In the blink of an eye, the image jostled slightly.
+And that's when he heard Deeno D’Nunzio's husky voice crackle over his headset.
+"CC1, this is CQE1, calling on any channel…come back--"
+Winger practically choked when he heard a live human voice.  “Sergeant D’Nunzio, you old witch!  Where the hell are you?"
+"CQE1--receiving you loud and clear.  I'm down here--at the base of the mountain.  Where are you?"
+It took nearly an hour for what was left of 1st Nano to re-group.  In a narrow, ice and snow-clogged ravine at the foot of Tashkung, near the shattered wreckage of the lifter, Johnny Winger counted off his troops.  D’Nunzio was there, looking scratched and beat up but alive.  Gibby, Moby, Mighty Mite and Reaves.  Seurat had been killed, shredded by Red Hammer at the summit, then buried in the avalanche that followed.  Ozzie Tsukota was there and Buddha Nguyen, looking pale and drawn.  
+"We thought you were buried," D’Nunzio told him.  They picked through the carcass of the liftjet, pulling out pieces and scraps of gear they could still use.
+Winger explained what had happened.  Then he told her about ANAD.
+"I'm sure that's the answer, Deeno.  Somehow, his control system's corrupted.  Buggy version or old copy--it doesn't matter.  I dumped it.  Now I can fly ANAD myself, with no buffer.  Just me and the atoms--the old-fashioned way."
+Gibby was skeptical.  A dark bruise covered half his face and he winced as nanoderm patches were applied.  "Good way to crash an assembler, if you ask me, Lieutenant.  Humans are too big, too clumsy.  It's like flying a jetscooter in a china shop.  Everything winds up smashed to bits."
+"We've been following some interesting feeds on our eyepieces," D’Nunzio told him.  "Looks like a small element of Superfly got separated.  Wound up too far over the border…I guess it got behind the Red Hammer swarm and somehow survived."
+"What kind of feed?"
+"Visual, mostly.  Some infrared, EM too.  Take a look--" She stabbed a few buttons on her wristpad and the imagery materialized in front of Winger's eyes.
+It took a few moments for his eyes to discern anything, but gradually man-made structures became visible among the shadowy humps of the mountains.  By the map, they were well inside China, near a tiny hamlet called Gyirong.  The town was a small patch of low stone buildings cradled in a steep ravine of severe mountains.  Just outside the town, Superfly found the laser site.
+As Reaves manipulated the imagery, the destruction of the UNIFORCE attack became apparent.  Several beam projectors had been toppled off their mounts, crashing off to one side of a control building.  Fuel storage spheres lined one side of the installation; their domes burst open like cracked eggs.  At one end of the kilometer square installation, a small power plant lay in smoking ruins.  Debris and wreckage lay strewn about the snowdrifts.  There was no outward sign of human life.
+"Red Hammer's laserworks," Reaves narrated, as Superfly cruised overhead, panning back and forth.  
+"Any sign of activity?"
+"None human--" Reaves admitted.  She showed Winger the Superfly control pad.  "But he's picking up something--signature looks like an unusual concentration of nanomech debris.  Could be remnants of the laser but I doubt it.  There's enough atomic fluff here to make me think a Red Hammer swarm--or something like it--is still in the area.  Lieutenant--" Reaves's eyes met his--"I have a hunch this may be the mother lode."
+Winger was thinking the same thing.  "Red Hammer's main base…" he completed her thought.  "If that's true--if there's even a chance that's true, we've got a hell of an opportunity.  Where's UNIFORCE now?"
+"Sorry to report, Lieutenant--" it was Buddha Nguyen, "UNIFORCE was attacked by the swarm.  Ghali and several commanders are dead.  They have pulled back, all the way back to Katmandu…to the airfield.  To regroup."
+Oscar M’Bela added, "They’re in no position to counterattack."
+"Which is exactly what we should do," Winger said.  "Now, while we've got them reeling.  We've poked a stick in the hornet's nest, troops.  But all that does is make them mad.  Now, we have to knock down the nest and stomp it into the ground."
+"I'm with you, sir," Reaves said.  "But how?"
+Winger's eyes narrowed.  He stared back up the towering snow covered flanks of Tashkung.  Dawn was just breaking in the eastern valleys and the mountain summit seemed to glow with orange radiance.  "We have to go in.  Fight them, swarm to swarm.  Flush 'em out and take 'em on in their own backyard."
+"Inside China?" M’Bela asked.  "We don't have a mandate for that."
+"No," said Winger.  "But maybe we can get one."  The tactical need was there.  If they could assault Red Hammer at its own base, they could disrupt the cartel's operations for a long time, possibly even break the last control link between the cartel and its growing superswarms, even maybe Symborg.  It seemed worth a little diplomatic scuffle with the Chinese.
+Winger got on the vidlink back to Table Top.  "This we gotta call in."  
+After a few minutes, Major Jurgen Kraft's harried face materialized on Winger's wristpad screen.
+"What the hell happened there?" Kraft stormed.  "UNISPACE put the laser out of commission.  You were supposed to coordinate with Ghali and the UNIFORCE team.  I just heard Ghali's dead and the blue hats are licking their wounds.  This was supposed to be a recon mission.”
+"My fault, sir," Winger said.  "Red Hammer launched a swarm from across the border and we couldn't contain them.  They flanked us, got behind us and assaulted Ghali's men.  It was a rout."  Winger swallowed hard, remembering how close it had been for 1st Nano.  "We took some casualties too, sir.  But we've re-grouped."
+"Send me the brief."
+"Major, our DPS is in contact with remnant Superfly that somehow strayed into Chinese territory.  It's scouting the laser site now."
+Kraft held up a hand.  "I know, I know.  We've got satellite imagery of the whole place.  Killsats made a big smoking hole in the ground.  That's why I can't understand what happened to UNIFORCE.  After the sats fried the installation, there should have been time to mount the assault."
+"Major, the swarm was on us too fast…like they were expecting us, and knew our position almost exactly."  He stopped short of voicing his real suspicion, about Corporal Nguyen.  Not on a vidlink circuit.  That he'd have to encrypt.  "And Superfly's still detecting nano at the site, sir, at least signature of assembler swarms--localized hot spots, atomic debris, evidence of activity, sir.  I think he may have located Red Hammer's main base."
+Kraft was skeptical.  "At the laser site…that's ridiculous.  Why would Red Hammer locate a key base in plain sight like that?"
+"The installation's in plain sight, but there are mountains and gorges and canyons and ravines all around the town, Major.   It's just a hunch, but--well, sir, if we could send ANAD in, configged as a reconswarm, even underground, we might get lucky.  I'm convinced Red Hammer's thick in this area…there's something big nearby.  Otherwise, why protect it with a laser?"
+Kraft conceded the point, but had a warning.  "You are not to cross the border with anything bigger than an atom.  Is that understood, Lieutenant?  China's already touchy about border incursions, nano or otherwise.  I'll talk to CINCQUANT…see if I can get permission for small operation.  The Chinese don't like anybody snooping around their borders.  And they've got clout with the UN…a lot of clout.  Clear?"
+Winger nodded glumly.  "Yes, sir."
+"Get 1st Nano shipshape again, Lieutenant.  I've already ordered reinforcements sent up from Singapore Base.  You may have to exfiltrate and come back home for now.  You have permission to plan and sim a small reconswarm but that's all.  Not a single atom across that border unless I give the word.  Understood?"
+"Yes, sir."
+Kraft signed off.  Winger stared at his wrist for a long moment, wondering.  It was foolish to disobey direct orders.  That's how you got court-martialed.  Or worse.  Still, by sheer chance, Superfly had strayed across the border and nobody had too much heartburn about that.  At least, not yet. 
+He could config ANAD for an underground approach, like they'd done to Red Hammer in Mali.  But he knew ANAD struggled traveling through dense matter like rock and the recon would take a long time to unfold because of that.
+He headed off to help the others salvage what they could from the lifter wreckage, still mulling over the possibilities.
+An hour later, the bad news came in.  Kraft paged Winger and gave it to him straight.  Permission for an operation against Red Hammer inside Chinese territory was denied, by order of the Secretary-General.  Winger could tell Kraft didn't like it either.  
+"It's politics, Lieutenant.  My hands are tied.  The Chinese know what happened last night and they're furious.  They raised a hell of a stink with UNIFORCE.  'No interference in local affairs,' or something like that.  S-G just put out the word to everybody."
+Winger was disappointed, but not surprised.  "The Chinese are covering for Red Hammer.  The cartel's got sticky fingers in high places."
+"So it would seem.  But like any good soldier, we obey orders and do as we're told.  We'll have to get at Red Hammer another way."
+Winger strolled away from the lifter wreckage, out of hearing distance of the others.  The entire unit was busily sifting and sorting gear from the smashed liftjet, shuffling through knee-deep snowdrifts like polar explorers.  Overhead, the morning sun was hard and bright.  And the Singapore contingent was due overhead any minute.
+Kraft signed off and Winger informed the Detachment they'd be going back to Table Top, after a brief detour at Singapore base.  
+"We've got to find another way to attack Red Hammer," he told them.  "We can't get China's permission to recon or assault what may be their main base."  He didn't bother hiding his disgust with the order.
+The Detachment went back to work.  Moments later, the camouflaged waverider shape of a Quantum Corps lifter appeared alongside Tashkung mountain, descending on her jets toward a tiny clearing on the ledge.  Winger watched as the pilots negotiated the downdrafts and crosswinds, nestling the ungainly bird in a deft series of maneuvers, right on the edge of the precipice.
+He went looking for Sheila Reaves and found the DPS tech at the rear of the wrecked lifter, pawing through scorched and smashed gear, sorting what was salvageable from what was to be destroyed.
+"Reaves, have you got any Superfly in the immediate vicinity?"
+The DPS sergeant pointed to a display waterfalling along the top of her wristpad.  "Got a few birds up top, Lieutenant."  She pointed skyward, toward what looked like a circling formation of mountain hawks, soaring on thermals a thousand meters above them.  "Just to be safe."
+"Good.  You getting anything…anything…around this site, that is?"
+He inclined his head in the direction of Corporal An Nguyen.
+Reaves immediately understood and shook her head.  "No, sir.  The returns I saw before have vanished.  No nanobarrier.  No halo.  Nothing.  The Detachment is clean and green, so far as 'Fly can detect."
+"Curious," Winger muttered.  "Very curious."  He trotted off.  "Thanks, Reaves."
+He was about to pay a little visit to Nguyen when his wristpad chirped again.  Incoming message.  This time it was Major Lofton, back at Table Top.  The intel chief appeared worried on the tiny screen.
+“Just got word from sources in Kolkata, Lieutenant.  Get back to the city, on the double.  Our target’s surfaced again, or is about to.”
+“Symborg, sir?”
+“The very one.  The Church of Assimilation is hosting a rally in the center of town—some place called Maidan.  Race course, near the river.  It’s on for eight tonight.”
+“Any specifics, Major?”
+Lofton nodded.  “I’m squirting you new tasking right now.  It’s called Operation PINCH.  Use your ANAD system to grab a few bots out of Symborg…the swarm that is Symborg.  Bring ‘em back here.  We’ve got some propeller heads in the Lab who think they can devise a replication blocker…a sort of swarm inhibitor.  If it works, we can mess up Symborg but good, make it impossible for him to function as a swarm angel, as any kind of coherent entity.  But we need sample bots.”
+Winger had about a million questions but Lofton’s orders had already pinged his wristpad and all he could do was acknowledge and sign off.
+“On our way, sir—“
+He trotted over to the encampment to let the rest of the Detachment in on the good news.
+
+The replacement lifter took off, after the wrecked craft had been stripped of everything valuable.  According to regs, anything as big as a lifter couldn't be left behind in one piece, so close to the enemy's position.  Winger ordered a quick ANAD launch, then replicated the assembler to fashion a small horde of choppers.  Once the master was back inside TinyTown, Winger programmed the chopper swarm to make quick work of the lifter wreckage.  
+As the new lifter rose from the ice ledge in a cloud of steam and snow, the wreckage was rapidly consumed in a fury of nanomech disassembly.  Inside of an hour, the whole crash site would be a melted slagheap of atomic debris.  The choppers were programmed to commit seppuku when they were done, effectively disassembling themselves into fluff.
+The lifter turned south, heading for Kolkata.
+
+Chapter 4
+“The Sting”
+
+Kolkata, India
+November 14, 2048
+2230 hours
+
+“Superfly’s up and operating, sir.”  Sergeant Sheila Reaves worked the controls of the entomopter and steered the tiny flyer toward the growing crowd spilling out of Eden Gardens, pushing and surging along Shihpur Avenue toward a stage up on the edge of the Maidan Race Course.  “Got good imagery now…looks like the crowd’s getting restless.  Jeez, what a mob.”
+	 The rally was set to begin promptly at 8 pm and the fanfare had already started.  On the main stage, Bengali dancers jittered and juked to a hard-driving drum beat, while off to one side, the Assimilator booths were already working overtime, sucking up a long queue of volunteers, disassembling the poor souls into atom fluff.	
+	Lieutenant Johnny Winger studied the console he had set up on the bed in their rented room at the Milamani Hotel.  PINCH ONE was showing clean and green, ready to launch.  MAGIC ONE too, for the diversionary effort that hopefully would make the grab easier to pull off.  Getting close to Symborg was going to be dicey.  It would take the combined efforts of the whole Detachment, including the angels Table Top had developed.  That and a little luck wouldn’t hurt either.
+	“Let’s do it,” Winger decided.  He checked the time.  Quarter to eight…if practice held true to form, Symborg would finally show up about 8 pm, after some warm-up acts, some speeches and testimonials, and whole lot of very loud music.  That would give them time to get PINCH ONE and MAGIC ONE deployed, on station and ready to assemble.  The angels had come from Table Top in separate containment capsules and their CQE, Master Sergeant Hiro Tsukota, now set the capsules to launch the bot masters and deploy the swarms.
+	The bots would make their way on internal propulsors across open ground—smoking, trash-strewn, rat-infested ground—for that’s what the Hooghly River front was west of the race course, toward the stage.  The plan was to assemble the angels from loose bots in the chaos of Symborg’s first appearance, when all eyes and all attention were on the great robotic messiah.  Winger had trained his Detachment hard for just this moment.  When Symborg showed up and the shrieking and the fainting and the breast-beating began, PINCH ONE would quietly replicate and materialize in human form out of some smoldering trash heap nearby, like a genie from a bottle, and along with his comrade angels, would squirm and wriggle his way forward and approach the stage.
+	And if all went well, an angel named Kgani, closely resembling a bullet-headed seven-year old boy, would leap onto the stage with hundreds of others and surround Symborg in a massive love embrace.
+	Only this embrace would come away with pieces of Symborg that the eggheads at Table Top could examine.  And Red Hammer would be none the wiser.
+	That, at least, was the plan.  
+    “PINCH ONE away,” said Reaves.  “PINCH TWO through FOUR spooling up.”
+	From the outside patio of the hotel suite, a faint mist drifted off into the smoky twilight over Kolkata.  The first swarm was quickly lost to view and Reaves studied her control board, reading off system status, speed and heading.  “PINCH ONE reports ready in all respects.  On course for Maidan…heading two five five, one-quarter propulsor.  PINCH TWO, THREE and FOUR ready to launch, sir.”
+	Winger gave the order.  “Launch now, Sergeant.”
+	The remaining PINCH bots were quickly ejected into the air and drifted away from the hotel.
+	Winger turned to Deeno D’Nunzio.  “MAGIC ONE ready, Deeno?”
+	“Straining at his leash, sir.  Program laid in, course downloaded.  All systems green.”
+	“Launch MAGIC,” Winger told her.  
+	In seconds, the final bot and swarm were away.  Now it was up to Superfly to follow the plotted courses of the five swarms.
+	“Q2’s studied the protocols and practices of every Symborg and Assimilationist rally that’s happened over the last few months,” Winger muttered to no one in particular.  They were all back inside the hotel, following the feed from Superfly.  Overlaid on a map of Kolkata and the Maidan race track, Superfly projected the position and course of each swarm as it maneuvered toward its target.  It wasn’t uncommon for hordes of followers to try to rush the stage and touch Symborg as their ecstasy overcame them.  Winger was counting on that happening again.  
+
+ Winger planned to use this as ‘cover’ to insinuate his little angels into the people flow and get as close as possible to Symborg.  One possible obstacle: Symborg always had a strong-arm security detail around the stage and Q2 was certain that some of them were angels themselves.  They were there to protect Symborg from too much contact with the public. But PINCH ONE, a.k.a. Kgani, was a capable little angel and could morph into all kinds of objects, shapes and structures.  In the end, some in Q2 thought the grab might only be possible with Kgani morphing into a fly or mosquito.
+Even from the Superfly vid feed, the scale of the crowd stunned the troopers.  
+“Jesus H. Christ, that’s a horde,” said Corporal Mighty Mite Barnes.  “Will you look at that?”
+“Some estimates put these rallies at nearly two million people,” Winger reminded them.  Indeed, the crowd surged and sloshed along alleyways and side streets as it swelled and strained against barriers and police cordons, pushing ever closer toward the main stage at the western end of the district, not far from a rail station astride the Yonpur Railway.  The crowd seethed and pulsed like a thing alive.  Even from the Superfly feed, it was apparent that Bengali police and the local constables were just barely in control of things.  
+“MAGIC ONE four minutes out from Assimilator booths,” reported D’Nunzio.  Her fingers flew over the control board, bringing up telemetry on bot status.  “I’m going to slow-rate rep now…a little bang to get things started.”
+“Very well,” Winger said.  “Proceed with the diversion.  And keep your fingers crossed.”
+D’Nunzio steered MAGIC ONE toward the line of Assimilator booths surrounding the main stage.  Overhead, the Superfly entomopter gave a view of the massive crowd, boiling and surging forward, pressing against the police cordon like waves against a beach.  Smoke from small fires had been set at key intersections, and the winds twisted the smoke columns into braided ropes reaching into the sky.
+Already long queues of volunteers had lined up in front of the booths.  Superfly dropped down to get a closer look at the Assimilator setup.  There were dozens of booths, each manned by a technician and an intake specialist, who took down the name and vitals of each volunteer as they approached the booth.  Once the preliminaries had been done, the tech assisted the volunteer into the booth and whoosh, nothing but atom fluff.  
+A steady stream of faint mist issued out of each booth, as the deconstruct bot swarms worked overtime, disassembling each volunteer and sending them right into oblivion…or as Symborg termed it: “unity with the Mother Swarm.”
+“Three dozen miniature Auschwitzes…that’s what it is,” said Winger.  “I’m glad we’re starting the diversion here.  Deeno, what’s our distance?”
+D’Nunzio examined her board, triangulated with Superfly’s sensors.  “I make it less than fifty meters to the first booth, Lieutenant.”
+“Execute phase two now.”
+D’Nunzio sent the signal and the MAGIC ONE swarm went into big bang overdrive, swelling into a larger swarm, which would soon be lost in the crush of the crowd and the smoky fires nearby.  “Max rate rep…now ninety percent.  Maneuvering for first assault—“
+The plan was to drop MAGIC ONE into several booths located a few dozen meters away from the main stage.  The swarm of nanobotic mechs would insinuate themselves into the booths and work to bollix up the disassembler swarms, engaging the interior bots in a free-for-all that would slow down and scramble the assimilators, and bring a halt to the mass suicides that were so much a part of every Assimilationist rally.  
+
+“…now closing on target, less than ten meters…get me a Superfly close-up, Sheila…I want to see what the first engagement looks like…picking up EM spikes now—“
+The botswarms of MAGIC ONE swooped down on the booths, invisible to everyone, and penetrated inside.  Moments later, Superfly caught an image of one booth bursting into flame, dense white smoke billowing out the top.
+The crowd recoiled from the fire, like an ocean wave reflecting off a seawall, and soon chaos had enveloped the whole area.  As MAGIC ONE descended and penetrated other booths, more fires started and soon an entire line of booths was affected.  Spectators, technicians and volunteers scrambled away in panic.
+Winger watched it all on the Superfly vid with a growing sense of satisfaction.  “I’d say this diversion’s working like a charm.  PINCH status?”
+Sergeant Moby M’Bela studied his own board.  “All PINCH elements on course, altitude eighty meters, heading two six five…we’re closing on those matatus parked by the rail line…there’s a tree stand right in the middle…perfect cover.  Those drivers are all half strung out on khat anyway…we’ll look like a horde of flies just flew in.  Permission to set down?”
+“Permission granted…execute Phase Two.”
+Indeed, as M’Bela predicted, the approach of the PINCH swarms did resemble a horde of flies or mosquitos.  Superfly captured the scene: the taxi drivers waved and swatted at something invisible descending on their small opening from the sky.  They scattered and left the opening unattended for a few moments.  In those moments, PINCH One alighted and, on command from M’Bela, began assembly ops.  
+Moments later, Kgani, as a para-human angel resembling a lanky, 7-yr old boy with a buzzcut and unusually long arms and legs…intentionally designed that way by UNQC engineers to make the ‘swipe’ of Symborg bots…slowly materialized.   Kgani would be the first of four angels Quantum Corps had devised for this snatch and grab mission.  
+“PINCH One at full config,” M’Bela.  “Ops underway on PINCH Two through Four.”
+Reaves steered Superfly closer to the taxi stand.  For all intents and purposes, the view showed a few kids kicking cans around.  The taxi drivers slowly worked their way back to the opening, gesturing and shouting at the kids.  By the time the drivers had returned and begun passing around bottles of changaa to drink, the kids had moved off…four of them, lanky, teenagers and younger.  They headed into the crowd and worked their way against massive throngs of people, navigating toward the main stage alongside the race track.
+Reaves steered Superfly to follow.  “All elements in position, Skipper.  Moving on the target now.”
+Winger wanted to know about the angels themselves.   Deeno, Moby….what about configs?”
+“All clean and green,” the two troopers replied in unison.  “PINCH elements at full config.  Grabbers operating normally.  Now…they just have to get to the site.”
+Winger studied the vid from Superfly.  “Easier said than done….”   The Detachment had hacked into the comm feed from Kolkata Police and Winger listened to that for a few moments.  “They’re estimating nearly two million coming to this rally. I didn’t know two million could cram into this hellhole.”
+D’Nunzio kept a close eye on PINCH One, leading the approach.  “It would be easier to slog through solid rock, Lieutenant.  At least, the structure’s regular.”
+
+Bit by bit, Kgani and the others squirmed and squeezed and ducked and crawled their way forward, homing on the main stage.  The crowd thickened as they closed on the pavilion that covered the stage.
+“Something’s happening,” Reaves reported.  She steered Superfly to a higher altitude, letting the entomopter orbit a few hundred meters overhead.  Something had roiled the crowd, stirred the pot, and thousands began surging forward, straining, pushing, screaming.
+“It’s him,” Winger realized.  “Take a look…the Messiah comes.”
+Indeed, Symborg had appeared on the stage, as if by magic.  Winger realized it was likely that Symborg had initially deconstructed himself into a swarm and made his way to the stage that way, only to materialize into human form in some kind of dramatic fashion, like a genie.  The slender man-swarm had now taken center stage and spotlights shone down in stark cylinders of light, while the music had fallen off to a steady rhythmic drumbeat.
+“PEOPLE OF KOLKATA…I HAVE COME TO BE WITH YOU….”  The loudspeakers reverberated and squealed with his voice and his words were like applying heat to a vast pot of water.  The crowd boiled and steamed, stirred and frothed, moving always forward, pressing and crashing against the barriers and the police cordon like waves.  
+“….WE MUST LOVE ONE ANOTHER…WE ARE ALL ONE WITH THE MOTHER SWARM….”  
+With that, Symborg spread his arms wide and held out his hands to the ring of children arrayed before the stage.  It was the signal they had been waiting for.  The children screamed and began climbing up, some tossed onto the stage by adoring parents, through openings held by Security forces, streaming onto the stage to embrace the One Who Calls.  In moments, Symborg was surrounded by several hundred children, all of whom pressed in on the robotic messiah and stretched out to touch him.
+Embedded in the middle of the love fest was Kgani and the snatch and grab force of PINCH units.
+“Moving into position,” D’Nunzio reported.  
+Now, Superfly flew lower and lower, feeding vid of the chaos that had enveloped the stage.  Pinpointed on the vid, Kgani’s position was marked, as well as the other PINCH units. 
+“Seven meters and closing,” D’Nunzio went on.  “We’re working our way through the crowd…ducking, bobbing, weaving…like walking through an ocean.”
+Winger’s lips tightened.  The moment of truth was fast approaching.  “Deeno, make sure containment’s ready.”
+“Grabbers are primed, position one,” D’Nunzio reported.  “Less than two meters—“
+The snatch, when it occurred, was almost invisible, even on Superfly’s vid.  Kgani was shoved by the force of the crowd right up against the robotic messiah and his grabbers fired, snagging a handful of Symborg in the process.  From the vid, Symborg showed no reaction.  He was already being grabbed and groped and pushed and pinched by dozens of other kids.  
+“Got it!” D’Nunzio exulted.  “Got it!  Securing the sample.  PINCH Three is close too…I’m going for it.  Extra samples can’t hurt.”
+Stage Security had been distracted by the fires and chaos around the Assimilator booths nearby.  None of the security agents saw anything.  None reacted.  D’Nunzio steered PINCH Three into contact and secured more samples of Symborg bots.  
+“Pull ‘em out, Deeno,” Winger ordered.  “We got what we came for.  Let’s get the hell out of there…before the whole place blows up.”
+
+“Moving out,” D’Nunzio reported.  Superfly confirmed the maneuver.  Kgani and the others now began working their way offstage, climbing down on the shoulders of some beaming parents trying to retrieve their own children.  In moments, the four angels were on the ground, slithering and crawling and sliding through the crowd, working their way back toward the taxi stand.  
+Among them, Kgani and the angel known as PINCH Three carried a sample of Symborg tightly contained in their grabbers.  D’Nunzio studied their status on her board, made sure the samples were in proper containment.
+Back at the taxi stand, Kgani ran headlong into a pair of grungy-looking matatu drivers, leaning against a tree, both chewing khat and sharing a flask of something.  
+“Get lost, kutu…this is our tree…move along….”
+Superfly hovered a few meters over the taxi stand and provided vid of the whole scene.
+D’Nunzio swore.  “I don’t want to go small with them watching everything.  Lieutenant, permission to engage…get rid of these dirtbags?”
+Winger studied the scene.  Kgani needed to get back to base with his prize.  Quantum Corps needed those bots pinched from Symborg.  
+“Permission granted.  Make these slugs disappear but do it quick.”
+“With pleasure, sir.”  D’Nunzio’s fingers flew over the keyboard on her console.  She dialed up a config for speed-disassembly and sent it.  The Kgani-angel received the command immediately, the Superfly vid showing the result.
+Where once had stood a lanky seven-year old Bengali boy, there now materialized a small faint glowing fog, swelling outward and upward from the boy’s feet into the air.  The matatu drivers backed off immediately and one of them ran for his taxi, leaping into the open cab in one motion, trying desperately to get the thing started.
+The other driver wasn’t so lucky.  The Kgani-angel had fully morphed into a tight pulsating swarm, like an angry horde of bees and it fell upon the driver with full fury.  The fog thickened and the light strobed and flickered as nanomech hell swept the taxi stand clean.  
+When it was all over, there wasn’t even any ash.  The driver was gone, now so much atom fluff.
+“Obstruction removed, sir,” D’Nunzio reported with satisfaction.
+“Okay,” Winger checked the time.  “Recall the bots…get ‘em back into containment so we can get out of here.  I don’t like the looks of that crowd.”
+Winger sent the command and ten minutes later, the balcony outside their hotel room was enveloped in a faint mist as the swarms returned to base.  Reaves and Gibbs gathered the swarms into containment and made sure the bots were secure and stable.
+Now it was time for the Detachment to vanish.  
+Extracted by lifter from the hotel roof, the Detachment made its way to an isolated runway at Netaji Subhas Chandra Bose Airport, where a hyperjet was waiting.  They boarded and once again, checked containment of the Symborg pinch.  
+“A lot of people are waiting on these pods,” Winger told the hyperjet crew.
+Table Top was a 2-hour suborbital hop, rocketing across the top of the atmosphere, some eight thousand miles.  Most of the trip, Winger and his troopers dozed in the cargo hold…Reaves and D’Nunzio both curled up against the containment pods secured by webbing along one wall.  It was only when the snow-covered mesa that was Table Top came into view that Winger finally began to relax.  The mission was almost over.
+
+The hyperjet set down on the north lift pad and the pods were conveyed under heavy guard to the domed containment center south of the barracks and the Ops building.  Winger followed Reaves, D’Nunzio, Barnes and M’Bela to the vault, checked through security and, in short order, found himself staring at an imager screen filled with scaffolding hung with what looked like a bunch of grapes.
+“That’s it?” he asked a nearby tech.  The tech was a big-boned bald guy.  His name plate ready Stefans.
+“Symborg…in the flesh,” Stefans told him.  “We’re doing initial scans, measuring bond energies, basic geometry, just trying to tickle the little guys and see what makes them tick.”
+“Doesn’t look like much.  My Detachment went through hell to grab those samples.”
+Stefans sniffed.  “It’s not the appearance that counts, Lieutenant.  It’s what’s under the hood.  These buggers have all kinds of capabilities we haven’t figured out.”
+Winger was unconvinced.  “I say zap the bejeezus out of him.  HERF the bastard and be done with it.”
+“That’s the trouble with you atomgrabbers,” Stefans came back.  “That’s your answer to every problem…fry the bastards.  Has it occurred to you that what you’re seeing here, what we’re dealing with here is a direct offshoot of Red Hammer itself?  We can zap it all day long but if we don’t get the master, it just regenerates.”
+“Doesn’t matter,” Winger said.  “It’s still a cloud of bugs.”
+“Our mission,” Stefans informed him, “isn’t just to zap the bastard.  We can do that anytime we want.  What we have to do here is find some weakness that we can use to discredit Symborg.  That’s the only way we’ll defeat this Assimilationist crap.  Somehow, some way, we’ve got to find a way to bollix up the master, so the angel’s not so stable, so he starts doing and saying things that don’t make any sense…gum up the comms with Red Hammer and make Symborg into a puppet without strings.  That’s our mission.”
+Winger was already heading out the door.  He had a debriefing with Major Kraft and Major Lofton on vid in ten minutes.  “Sounds like politics and psych-war to me.  Leave me out.”
+Stefans figured soldiers and atomgrabbers were all alike…too many guns and not enough brains.  He went back to his imager controls, probing the bots now in containment with electromagnetic fingers, studying what reactions each little pulse provoked.  He knew Kraft and Lofton expected results and reports.
+If Symborg were to be defeated, they had to find some weakness they could exploit and they had to find it soon.  
+
+U.N. Quantum Corps Base
+Table Top Mountain, 
+Idaho, USA
+November 16, 2048
+
+	It was Luis Principal, quantum engineer at Table Top, who had the idea first.
+	For several days, engineers and technicians had been studying the captured remnant bots collected from Symborg with a fierce determination to find something…anything…they could use to interfere with the swarm’s config engine, something they could use to discredit the robotic celebrity and slow the spread of Assimilationism.  UNIFORCE Labs in Paris had concocted something they were calling a disentangler, but the device was still unproven in tactical situations and there were only a few experimental setups.   If it worked, the disentangler might screw up Symborg’s link with Red Hammer.  But Symborg himself would remain.  
+	And besides, whoever said the geniuses at UNIFORCE had a monopoly on good ideas.  
+	“Somehow, we need some kind of Trojan horse,” Principal theorized one afternoon at the commissary adjacent to Containment, slurping a coffee with a few colleagues.  “Our own immune system has the answer, if we just ask the right question.  Think about it:  how does an antigen work?  It’s a molecule that induces a response from the immune system.  But there are viruses, like HIV, that work against this…they block the response by fooling or infecting the immune system.  They interfere with antigens.  We can do the same thing with Symborg.”
+	“Luis—“ said Khalid Shaheen, an engineer with the Containment lab, “you’ve had too much of that coffee…it’s fried what’s left of your brain.”
+	“No really, I’ve been thinking…come with me to the Lab…I’ll show you what I’ve been working on.”
+	Principal showed Shaheen and several others the basics of a new device he’d spent the afternoon cobbling together, something he called a fold-blocker.  
+	“I took a basic histo-compatibility antigen design and just sort of tweaked it.  Look here—“ he showed the gathering a design on his tablet screen.  “Add these groups here, move these, get rid of these—“ Principal highlighted the steps he had taken.  “Pretty soon, you’ve got something that can block the replication cycle of any nanobotic device…it can’t fold along these cleavage lines.”
+	Principal watched as the techs took turns re-designing his design, but in the end nobody could find anything wrong with it, any reason why it wouldn’t work.
+	“All we have to do is insert this device into the master assembler of any swarm and, once it’s attached here, the bugger can’t replicate anymore.  Presto, end of swarm.”
+	“It’s just like a Trojan horse,” somebody observed.
+
+	Over the next day and a half, the techs of 1st Nano took turns trying to find ways to get around Principal’s Trojan horse, but nobody could.  They practiced with the device in sims and wargames until everyone was satisfied it was tactically do-able, that they had a viable technique and a viable device to run a field op with.
+	Then Principal took the idea to Major Kraft himself.
+	Kraft listened and watched the sims and animations, studied the designs and the game results, and finally asked one question.  
+	“How soon can you make this gizmo field-ready?”
+
+	The next few days saw Table Top buzzing with activity.  A new mission had to be tasked and a new detachment formed to take the fold-blocker and make the insertion.  The question was: where exactly was the real Symborg master?  Kraft gave that question to Lofton and Q2, the intelligence shop at the base.
+	“Most appearances by Symborg are made with copies of the bot master,” Kraft told Lofton one afternoon in his office.  Beyond Lofton’s head, the office windows framed a snow-capped Buffalo range several kilometers beyond the mesa that was Table Top.  “Your job, Major, is to find me the location of the master assembler and keep it under surveillance long enough for my detachment to approach and make the insert.  We’ll have one shot at this and it’s got to work.”
+
+	“We’ve got agents, drones and spybots all over the place,” Lofton told him.  “Anywhere Assimilationists gather, we’ve got eyes and ears.  Some places, my guys look like flies.  Other places, my guys look like dust motes, even rain drops.  As soon as we can pin down the precise signature of the master, its EM, acoustic, and thermal signature, we’ll have him cornered.  Give me two days and I can tell you when Symborg farts and burps.”  
+	“Just his location will do, Major.”
+	Kraft dismissed the Q2 chief and sent word for another officer to be shown in.  Presently, a slender, wiry O-2 showed up at Kraft’s door.  The Major waved him in.  
+	“You’re going back to Kolkata, Winger.  This time we’re taking out that scumbag Symborg for good.”
+
+The Hotel Metropol, Kolkata
+November 18, 2048
+1820 hours (U.T.)
+
+	The unmarked van crept slowly down the alley off Baksara Road as crowds streaming toward the Howrah Indoor Stadium began to thicken.  Ahead, less than a block away, were the gothic columns of the Hotel Metropol.  
+	Q Detachment would enter the hotel by the service door behind the hotel, dressed as utility workers.
+	Lieutenant Johnny Winger eyed the vast hordes of people surging westward, toward the stages and the lighting stands and the assimilation booths that defined the grounds of the great rally around the stadium, due to start promptly at seven that night.  
+	All these people…just to see and be near a cloud of robotic mechs.  
+	Winger shook his head and looked back inside, appraising each trooper in his six-man squad. All newbies, he told himself.  Rookie atomgrabbers, fresh out of nog school.  Helms, Lukasc, Jung, Bedard and Livio.   And himself, the c/o.  All hand-picked for this little venture into Indian country.   The Detachment had one and only one mission: locate the master assembler bot that ‘ran’ the Symborg swarm and insert the replication blocker that Table Top labs had developed.  
+	If all went well and the blocker worked as advertised, Symborg—whoever or whatever it was—would be unable to replicate copies of its basic structure.  Unable to maintain integrity.  Unable to appear before throngs of people as some kind of savior or rock star.  
+	With any luck, the scumbag would eventually disperse and fade away.
+	That was the plan and it was up to Winger and Q Detachment to carry it out.
+	“Hotel coming up, Skipper.”  Helms, the Defense Systems tech, hoisted up his HERF carbine and, pressing a few hidden switches, collapsed the weapon down to something the size of an umbrella.  He stroked the barrel lovingly.   “Me and Sweetness here…we’re ready to light ‘em up.  Fried or extra crispy…makes no difference to us.”
+	“Just keep that trigger-happy finger under control, Helms.  We don’t want to be waking up the neighborhood if we don’t have to.”  That was the problem with Defense System Tech Helms, Winger thought to himself.  Anything not labeled Quantum Corps was just like raw meat to be grilled. 
+
+	The van pulled up to the service entrance and Q Detachment disembarked.  Disguised as a utility crew, the troopers got through the security scan and made their way inside.
+	Intel from Q2 placed Symborg and his entourage at the hotel a few hours before the huge rally, which was to be held on a stage in inside Howrah Stadium.  All the troopers were now embedded with ANAD masters, carried in new shoulder capsules.  It was a new step and the kinks were still being worked out.  Winger wasn’t particularly happy that the Detachment hadn’t been given time to work with their new embeds—you didn’t deploy with weapons you weren’t sure about-- but the mission came first and when the brass said go, you went.  Additional weapons and gear, standard issue HERF and mag carbines, were carried in innocent-looking tool boxes.
+	As a unit, the troopers rode a service elevator to the tenth floor.  The door hissed open and right away, a nanobotic security barrier made getting off a hassle.  Lukasc jammed the door open, while Jung launched his own embed.  They didn’t use HERF or mag on the barrier, since the noise would likely wake up the entire hotel.
+	“ANAD launched,” Jung reported.  A faint sparkling mist issued from the trooper’s shoulder capsule.  Immediately, a spider-web of light brightened at the elevator door, as the ANAD master slammed atoms to build out its swarm and engage the barrier bots.
+	The entrance was momentarily bathed in an eerie blue-white glow as the bot swarms collided.  Moments later, the barrier flashed and went dark.
+	They were in.
+	Winger led the way.  According to intel, Symborg was holed up in a suite of rooms around the corner, rooms 1015 through 1018.  Cautiously, Winger crept down the hall, flanked on either side by Jung and Helms.  The rest of the Detachment stayed back, to cover the elevator and make a path for their escape.
+	Winger’s embed carried the replication blocker and would do the basic insert.  The Lieutenant knew that the first order of business would be to establish the exact location of the target, though in this case, the target was a collection of bots that could be dispersed just about anywhere.
+	They reached Room 1015 and found another barrier, pulsating over ornate doors gilded in gold leaf trim.   
+	Don’t want to alert the target, Winger thought.  He called a halt to their approach and the troopers hung back at the other end of the corridor.  
+	“Jung, what’s it look like inside?  Is the target on-site?”
+	Corporal Jung was the other DPS tech.  He scanned through the walls.  “Reading elevated thermals and EMs, Lieutenant.  Probably the target but he may be dispersed.  I’m not seeing any high concentrations of atomic activity.”
+	Winger considered that.  “We expected that.  I don’t want to breach that door barrier.  We’ll wake up the whole place.  Lukasc, is your solid-phase config ready?  My little guys are going to need a little recon.”
+	“Up and operating, Skipper,” said the CQE (Containerization and Quantum Engineering).  “My ANAD embed reports ready in all respects.”
+	“Very well.”  Winger knew they had simmed and wargamed this aspect of the mission several times, though he was still unsatisfied with the Detachment’s performance, but he had kept his mouth shut.  Knowing how tight security was around Symborg, the geniuses at the Corps had decided solid-phase penetration was the way to go…get inside the compound right through the wall.   “Take your position and launch embedded ANAD—“
+
+	Sergeant Lukasc slipped to the front of the squad and squared himself to the wall, pressing a recessed button on his shoulder capsule.  In seconds, a twinkling mist had filtered out and formed a spherical cloud of bots hovering over his head.
+	“ANAD away, Skipper…I need a navigation hack.”
+	“Squirting it now,” called out Bedard.  “Steer left one five zero degrees.”
+	With that, the recon swarm began to shrink and fade slightly, as the bots disappeared into the wall, maneuvering through a crystalline lattice of atoms, squirming between row after row of silicon and oxygen and aluminum molecules.  
+	“Penetrating nicely, Skipper.  I’m going small…try to get a view of what’s happening.”  Lukasc went “over the waterfall” in trooper-speak, letting the master bot feed him an acoustic return on what the swarm was encountering.  “Looks like standard lattice structure…nothing unusual here.  Anticipating lattice boundary in four minutes….we should be inside at that point.”
+	‘Understood.  I’m launching my guys now.”  Winger’s embedded ANAD master carried the replication blocker they were tasked with trying to insert into the Symborg swarm.  
+	But just as he set his own shoulder capsule for launch, something out of the corner of Winger’s eye caught his attention.
+	Sergeant Helms, Q Detachment’s DPS1, was beginning to de-construct, right before their very eyes.
+	It wasn’t possible.  With security at Table Top tighter than a drumhead, with the Physical Security Verification…but there it was.
+	Helms was an angel.  
+	“Watch out…!”
+	“It’s a swarm--!”
+	“He’s breaking down…!”
+	Before the rest of the Detachment could react, the cloud of bots that had once been Sergeant Helms was already disassembling right in front of them. 
+	Lukasc was the first to get it.  The Helms swarm swelled rapidly, filling out the corridor and falling on the CQE like a desert dust storm.  
+	“AAARRRGGGHHH…get it off…get it off me!!”  He was quickly enveloped by the bots.  In seconds, only the top of his head and hands were visible. 	
+	Already Livio and Bedard were unslinging their HERF carbines.  “Fry em!  Light ‘em up!”
+	Barrage after barrage of rf waves boomed and echoed around the hall.  Somewhere behind them, a mirror crashed to the floor, splintering into a million pieces.  
+	It was a trap, Winger realized.  An ambush.  Somehow, some way, in some manner he couldn’t explain, Sergeant Leslie Helms wasn’t Sergeant Leslie Helms, but an angel, and a damn good one at that.  
+	Jesus H. Christ, they’re just like Normals now.  You can’t tell ‘em apart.  	
+	How long the Helms-thing had been part of the Detachment, he couldn’t say. Fresh out of nog school, so his ID said and recommended by Kraft and others.   Not that it mattered.  They were outgunned, outswarmed, and the target for sure would not be hanging around after all the commotion outside its suite.
+	Winger let fly a volley of HERF, shattering the swarm and everything else in the hall.  Doors rattled, walls creaked and debris swirled in the gusts of rf like a miniature gale.  Someone lit off a few mag pulses for good measure.  The magnetic loops slammed into the Helms swarm and fried bots tinkled off the walls and floor like hail stones.  But it came back, reconstituted.  They always did.
+	This isn’t gonna work, Winger realized.  The swarm was expanding like a supernova in slow motion, burning everything, slurping up all the air in the corridor, pressing ever-outward. 
+“FALL BACK!  Fall back…it’s a trap…fallback to the elevator…!!” he yelled over the concussive booms of HERF discharge.  	
+	That was when one arm of the swarm, a limb of bots he hadn’t seen, came at him from behind. It was Corporal Livio who intervened, when he saw the threat.  Livio waved his hands, then dived in front of Winger and was soon smothered and choking, falling heavily to the floor, flailing and swatting and kicking and screaming. 
+     Livio took the attack that had speared out at Winger and paid for it with his life. 
+	In the end, only Johnny Winger managed to get away.
+	The CC1 barely managed to squeeze through the emergency doors at the end of the hall, setting off alarms as he did so.  He half scrambled, half fell down the stairs, flinging his carbine away, as he burst into the alley and leaped aboard the van, still parked in the shadows of the utility entrance.  
+	Blindly, he threw the van into gear and screeched off down the alley, nearly colliding with a crowd surging along Baksara Street toward the rally.  Winger made a screeching, sliding, two-wheel turn onto Shalimar Road, heading for the Hoogley River bridge, flying past knots of people, sideswiping vendor carts, riding up onto the sidewalks at times.  The Tactical Ops center was nearby, holed up in an apartment the Corps had rented for some time, just for Q Detachment’s mission and Winger had to get there, had to let Kraft know what had happened…that they had a spy, a mole inside the 1st Nano.  The whole mission had been compromised.  
+	The friggin’ angels are just like Normals, he kept muttering to himself, as he hunted up one street and down another, looking for the apartment.  You can’t tell ‘em apart…hell, he’d chugged beers with Helms a half dozen times in training for the mission.  They’d played poker together, burped and farted together, played Rocket Commander on their tablets synched together.  	
+	Winger wiped sweat from his eyes and slowed the van down.  It’s got to be around here somewhere.  He felt a prickly crawling feeling all over his neck and back and briefly wondered: did some of the bugs cling to me, did they get aboard?  He tried to get a hold of himself, take deep breaths.  It’s just adrenalin, he told himself.  Just the shakes.  Bugs could do that to people.  
+	There…up ahead…that’s it.  That has to be it.  He slowed the van down outside a three-story brownstone, fronted with immaculate little gardens and landscaping.  A nearby sign read: Victoria Memorial 1 Km.  Got to be the place.  
+	The thing was: you just couldn’t tell anymore.  You didn’t know anymore.  Who could you trust now?  Hell, maybe even his own ANAD was one of them.  How would you know?  Maybe the newsvids were right…recently, there had been talk of setting up containment camps and small-scale sanctuaries for those who couldn’t pass the PSV tests, the ‘normality’ tests, some commentators were calling them.  
+	That’s what Symborg kept hammering on at all the rallies, all the speeches and interviews.  Normals.  Who the hell knew what normal was anymore?  Us versus them.  Bugs against the Normals.  But if Bugs could look like Normals, if they could pass for Normals even on close inspection….
+He needed to contact Doc Frost in the worst way, even more than Kraft and Table Top.  Doc would know what to do, he’d have ideas on how to know who was Normal and who wasn’t.  
+He finally found the alley behind the right building and bumped and careened down the pebble and trash-strewn drive, not knowing that in a few short days, he’d be with Doc Frost himself, the two of them working furiously in a new adventure to modify ANAD to deal with the latest threat from Red Hammer.
+	Winger slammed on the brakes.  He fell out of the van and stumbled up the steps to the back door of the apartment.
+
+End
+
+About the Author
+
+Philip Bosshardt is a native of Atlanta, Georgia.  He works for a large company that makes products everyone uses…just check out the drinks aisle at your grocery store. He’s been happily married for 25 years.   He’s also a Georgia Tech graduate in Industrial Engineering.  He loves water sports in any form and swims 3-4 miles a week in anything resembling water.  He and his wife have no children.  They do, however, have one terribly spoiled Keeshond dog named Kelsey.
+For technical and background details on his series Tales of the Quantum Corps, visit his blog at http://qcorpstimes.blogspot.com.  For details on other books in this series, visit his website at http://philbosshardt.wix.com/philip-bosshardt or learn about other books by Philip Bosshardt by visiting www.smashwords.com. 
+Download the next exciting episode of Quantum Troopers from www.smashwords.com.  It’s called “Doc Frost.”  Available on June 13, 2016. 
+To get a peek at Philip Bosshardt’s upcoming work, recent reviews, excerpts and general updates on the writing life, visit his blog The Word Shed at: http://thewdshed.blogspot.com.

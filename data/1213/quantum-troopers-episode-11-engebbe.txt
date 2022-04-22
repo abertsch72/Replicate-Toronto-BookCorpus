@@ -1,0 +1,699 @@
+Quantum Troopers
+Episode 11:  Engebbe
+Published by Philip Bosshardt at Smashwords
+Copyright 2016 Philip Bosshardt
+Smashwords Edition, License Notes
+
+This ebook is licensed for your personal enjoyment only.  This ebook may not be re-sold or given away to other people. If you would like to share this book with another person, please purchase an additional copy for each recipient.  If you're reading this book and did not purchase it, or it was purchased for your use only, then please return to Smashwords.com and purchase your own copy.  Thank you for respecting the hard work of this author.
+
+A few words about this series?.
+
+*** Quantum Troopers is a series of 15,000- 20,000 word episodes detailing the adventures of Johnny Winger and his experiences with the United Nations Quantum Corps.
+*** Each episode will be about 40-50 pages, approximately 20,000 words in length.
+*** A new episode will be available and uploaded every 3 weeks.
+*** There will be 22 episodes.  The story will be completely serialized in about 14 months.
+*** Each episode is a stand-alone story but will advance the greater theme and plot of the story arc.  
+*** The main plotline: U.N. Quantum Corps must defeat the criminal cartel Red Hammer's efforts to steal or disable their new nanorobotic ANAD systems. 
+*** Uploads will be made to www.smashwords.com on approximately the schedule below:
+
+Episode #	Title					Approximate Upload Date
+1		'Atomgrabbers'			1-14-16
+2		'Nog School'				2-8-16
+3		'Deeno and Mighty Mite'		2-29-16
+4		'ANAD'				3-21-16
+5		'Table Top Mountain'			4-11-16
+6		'I, Lieutenant John Winger?'	5-2-16
+7		'Hong Chui'				5-23-16
+8		'Doc Frost'				6-13-16
+9		'Demonios of Via Verde'		7-5-16
+10		'The Big Bang'			7-25-16
+11		'Engebbe'				8-15-16
+12		'The Symbiosis Project'		9-5-16
+13		'Small is All!'				9-26-16
+14		''The HNRIV Factor'			10-17-16
+15		'A Black Hole'			11-7-16
+16		'ANAD on Ice'			11-29-16
+17		'Lions Rock'				12-19-16
+18		'Geoplanes'				1-9-17
+19		'Mount Kipwezi'			1-30-17
+20		'Doc II'				2-20-17
+21		'Paryang Monastery'			3-13-17
+22		'Epilogue'				4-3-17
+
+Chapter 1
+"Decoherence"
+
+Inside the sphere
+Time: 3 billion years ago (?)
+Place: Engebbe, Kenya
+
+	For Johnny Winger, the swamp water soon became unbearably hot as volcanic ash sifted down through the trees.  Leaves and branches caught fire and floated on top of the water.  Flames licked the edges of the swamp.
+We can't stay here much longer, he realized, or we'll be boiled alive.  
+"Wings!  We got to get out of here!" Tallant yelled.  She groped in the water, found Doc Frost, who was already sliding under.  She hoisted the Doc up by the shirt collar and the three of them scrambled out of the scalding swamp water, scurrying on all fours through heavy brush.  Fiery embers rained down on them from the sky and they could see trees being flash-fried in tongues of hot lava, smell the sulfurous fumes rolling toward them and feel the ground trembling.
+They dropped behind a rotted-out tree trunk and caught their breath.
+"Johnny--" Frost breathed and coughed out, "Johnny?get ANAD?going.  Try to engage that big swarm.  Physical interaction?.may break the entanglement-"
+"I'm trying?I'm trying?but there's no master here?got to launch manually-" Winger got on his coupler circuit and, from memory, commanded max rate replication.  He cycled open his shoulder capsule port and was gratified to see the first faint wisps of a swarm forming up overhead.  Come on, boys?come on?come on?we haven't got all day- There was plenty of feedstock around; the only question was the config.  Was it right?  Was it corrupted?  And there was no ANAD master.
+ANAD slammed atoms and built structure as fast as it could.  Winger could see the swarm growing and had an idea.  "I'll partition the force," he told them.  "I think I can hack out a config for some kind of cover, so we don't get boiled alive here.  The other part I can steer toward the big swarm."
+Tallant was covering herself up with wet leaves and rotten branches.  "Whatever you do, do it fast!"
+When he felt there was enough mass to work, Winger partitioned the swarm.  He pecked at his wristpad, trying different configs out from memory.  Some kind of cover.  Some kind of shelter.  In moments, the small subset of ANAD had thickened noticeably, forming up a barrier over their heads, a sort of poor-man's MOBnet.  It didn't stop all the flying and flaming debris but it helped.  The light level dropped off and the barrier seemed to be working.  They were protected for the moment.  Winger didn't figure it would last long.  And there was still the approaching lava.
+Now for the main event, Winger told himself.  Driving an ANAD swarm without a master was like driving a car without a steering wheel.  Back to atomgrabbing basics.  They didn't exactly teach this in nog school.  He decided to go 'over the waterfall' and try out ANAD's view of things.  
+Switching from macro to nano was a dizzying, sometimes nauseating experience.  He let the images come, let the sleet of polygons and spheres and cubes and pyramids stream past, felt the bruising and bumping of Brownian motion as molecules jostled and slammed him left and right.  Presently, things settled down and he was in the pilot's seat.
+Now, to get a heading.  He scanned ahead, sounding for high thermals, high electromagnetics, forces indicating bots at work, breaking bonds and grabbing atoms.  There.  That had to be it.  The return came back strong and loud.  Two five five degrees.  Winger commanded his tiny bot army to full propulsor and steered in the direction of the source.
+Doc had said the quantum world was different.  Physical interactions with the environment collapsed entanglement states.  With any luck, if he could use ANAD to engage Configuration Zero, they'd get yanked out of his hellhole and wind up somewhere else, maybe even back at Table Top, if you could believe that.
+"We're still there," Frost insisted.  "And at Paryang.  And here at Engebbe.  We're in all three places at the same time, superimposed.  That's what quantum mechanics allows."
+For Johnny Winger, it was all too weird.
+The great mass of bots that was Config Zero was dead ahead.  Winger slowed ANAD and commanded what effectors he had to attack position.  He took a quick inventory, noting that he did have a barebones bond disrupter, a few grabbers and probes.  
+The first bots of Config Zero soon materialized into view.  They were like dual pyramids, mounted base to base, with effectors and whirling gadgets and all manner of things spinning and snapping and flexing.  
+This is going to be like walking into a hornet's nest, ANAD, he muttered.  He revved forward, extended his grabbers and dove into contact.
+There was a flash of light, and a roaring rush of deceleration.  It was like riding the Cyclone at Daytona Beach, with your eyes shut.  Your head spun and your ears almost flew off.  Your arms and hands and legs weighed a ton and you were hurtling down a long, curving corridor at breakneck speed until at last?
+At last.
+For the briefest moment, an instant really, the blink of an eye, Johnny Winger was floating weightless at the center of the universe.  It was outer space all right; he could see stars and nebulae and galaxies too numerous to count, splattered like child's paint on a black curtain.  
+He was inside something, cocooned, enveloped, surrounded by uncountable other somethings and he realized with a start they were bots, dual-pyramid bots just like Config Zero, only way more of them, and what he was staring at wasn't stars at all but a swarm of bots, from the inside.  
+It was the Mother Swarm, though he didn't really have words for it.
+And then-
+When he came to, he felt hands helping him up.  He was on the floor, surrounded by people, and they were helping up sit up.  At first blurry and indistinct, he let the hands and arms hoist him up onto some kind of gurney and dimly recognized Corporal Thielen's bald head and black moustache.
+They had somehow made it back to the Containment lab at Table Top.
+Winger winced.  His head throbbed.  "How long were we gone, Corporal?"
+Thielen's face mutated into a frown.  "Gone, Lieutenant?  You weren't gone at all."
+Winger tried to jerk upright but was pressed firmly back onto the gurney.  An orderly was insistent that he lie still.  
+"Not gone?what the-"
+Thielen accompanied the litter detail as it headed out through the containment lockout.  Two other gurneys bore Dana Tallant and an unconscious Doc Frost.  "Sir, when the three of you reached into the chamber and touched that sphere, you all collapsed right onto the floor.  I thought you'd gotten a shock.  We got the medics here right away?are you feeling any better?"
+Winger scrunched up his eyes and decided not to fight anything.  Had nothing happened?  The Paryang monastery.  The sphere.  Engebbe and the swamp.  Config Zero.  Volcanoes.
+Winger let the exhaustion wash over him and he slipped into unconsciousness.
+
+Recovery in the Infirmary ICU took a day.  Winger was about to check his shoulder capsule and see if any residual ANAD bots had survived when the door to his room opened.  He lay back.  
+Major Kraft and Major Lofton came in.  A nurse scowled at the unplanned visit-he needs his rest, sir?this really is outside normal hours-but she dropped the bioweb and Kraft and Lofton came near.
+Kraft seemed almost grandfatherly.  "Lieutenant, the docs say you'll survive?that was quite a jolt you took from that sphere."
+Winger still had trouble explaining what had happened.  "The tech said we didn't go anywhere?that we contacted the sphere and collapsed to the floor.  But that isn't what happened, Major.  Doc Frost said we became quantum entangled?we were at the Paryang monastery, we were at Engebbe three billion years ago and?other places too."  He remembered the feeling of floating through space inside a vast swarm.
+Lofton was skeptical.  "Two other people said you never went anywhere, Lieutenant.  But save it for the debriefing.  If you're up to it, I'm holding an after-action in my office at 1700 hours today."
+Winger gave them a brief rundown on how he had used a few leftover ANAD bots to grapple with Config Zero.  "Doc said we had to create some kind of physical interaction?that was the only way we could break down entanglement."  When Kraft and Lofton both looked dubious, Winger shrugged.  "Sir, I can't explain it either.  They didn't teach us this in nog school."
+"Rest up, Lieutenant," Kraft told him.  "That's an order."  He and Lofton left the room and Winger lay back, frustrated, wondering.  I couldn't have imagined all that.  He wondered if Doc and Dana Tallant were recovering, but before he could get up, he felt something tickling the coupler in the back of his head.
+ANAD?
+There was something in his capsule.  
+***ANAD to Base?detecting increased neural activity in all higher centers?Base, is that you?  ANAD transmitting on all channels, requesting comeback?***
+Johnny Winger sat up abruptly.  "ANAD, you old nano-goat?that is you!  Where the hell have you been?  You've got to be in my capsule-ANAD, report status--"
+***ANAD in configuration one?all effectors safed?requesting permission to exit containment, assume loose config-***
+"Sure, ANAD, sure?let me open the port-" Winger fumbled and finagled with the thing until he had his capsule port open.  "ANAD, launch and assume loose config?I don't care what.  Grab some atoms and show yourself?we need to talk."
+A few moments later, a faint trail of lights, almost like a dotted line, issued from his left shoulder.  Winger fluffed up his pillows and lay back to watch, studying the configs and aggregation of the few straggler bots that had somehow been left over in his capsule.  A little ragged, ANAD, but we can fix that.  You need some feedstock.  Hell, we both need feedstock.  
+Winger pressed a button on the side of his bed and moments later, an orderly came in.  She was a corporal from her insignia, Medical Division, brunette pony-tail and upturned nose.
+"Yes, Lieutenant?eeek!  What do you think you're doing, Lieutenant!"  She stopped short when she saw the ANAD swarm trying to form up a ghostly image in the air over his bed.  "You're supposed to be resting?this is ICU?"
+Winger said, "Corporal, really, it's okay.  I'm feeling fine?I've got permission-"
+"I doubt that?what is that, anyway?"
+"It's ANAD?my embed.  I'm authorized to-"
+But the nurse huffed and started backing out of the room.  "We'll see what the doctor says about this."  She was gone in seconds.
+Winger sank back against his pillows.  "Well, ANAD, that went well, don't you think?  You and I?no respect."
+***Parsing 'respect'?defined as a noun meaning admiration, deference or esteem?Hub, I don't always understand single-configuration entities?they are static and unchanging?unable to adapt to the environment***
+Winger closed his eyes, giving that some thought.  "I suppose you're right.  The thing is: I kind of like being single-config.  I've grown attached to my body.   It may not be perfect but it's mine.  It's who I am."
+The ANAD swarm brightened noticeably.  It was grabbing more atoms, forming up a faint likeness of Doc Frost.  It always took a lot of atoms to keep a structure up.  
+***Multi-configuration is different, Hub?with multi, you can be anything you want?any form or shape?very liberating***
+"Yeah, I'm sure of that, ANAD.  Look, I'll stick with my own flesh and blood for now.  Still, it might be wicked to look like someone else, go anywhere, be anything, at least for a while.  Troopers could use that ability in our missions."
+***Then perhaps such a change should be made?disassemble all single-config troopers and re-create them as multi-configuration entities.  ANAD and Humans blended together?is this not the ultimate goal of Dr. Frost's Symbiosis Project?  The perfect warrior?able to execute any missions and function as any kind of weapon, even to become unseen, dispersed beyond detectability?is this not the ultimate goal?***
+"Probably," Winger had to admit, "but it would wreak havoc with the organization.  How do you set up the chain of command when everybody's like a swarm, just buzzing around like flies?  That'd drive old Ironpants crazy, for sure."
+ANAD had thickened a bit, still trying to fill out more and more of Doc Frost's face and shoulders.  It was like looking up at a shadow, an outline with very little substance.  
+"I see what you're doing there, ANAD.  There are still edge effects.  Your config buffer needs work."
+***You know I do have the greatest enthusiasm for our mission, Johnny.  It's an honor and a privilege to be assigned to the nanotroopers.  Yet I find working with single-config entities at times frustrating."
+"Me too.  How so, ANAD?"
+***I find that single-config are limited in their point of view?limited in creating and assessing options?limited even in what they think is possible?for multi-config, anything that is templated can be created?it's all a matter of the configuration programming?***
+Winger smiled at that.  "ANAD, did I ever tell you that you sound like a very precocious five-year old?  Doc Frost says maybe your deep-learning neural net needs tweaking.  I need to have you respond like a trooper, not like a child."
+***Parsing concept 'child,'?defined as noun: adolescent, offspring, teenager.  Is not a child a form of single-configuration entity?this entity changes state over time and assumes different form?a kind of multi-configuration entity, in my view***
+"If you mean, children grow up and become adults, you're right.  I didn't mean I think you're a child?I just think that sometimes you respond differently from how a trooper should  respond.  Troopers don't argue.  They say 'yessir' and complete their mission.  Troopers get the job done, no matter what.  ANAD, sometimes, you remind me of a child.  Learning fast, but still a child.  Sometimes, you correlate?inappropriately.  Doc says it's just a matter of adjusting your neural nets."
+***ANAD is programmed to provide assistance to any and all troopers in the conduct of their missions?the purpose of the Symbiosis Project is to blend Man and Machine to--***
+"Hey, I know what the purpose is.  That's not what I meant.  That's one way you and me are different, ANAD.  You're a trooper because you're designed to be a trooper.  It's your processor.  As for me?--" Winger closed his eyes.  Why exactly had he become a trooper?  To be somebody?  To get away from the North Bar Pass Ranch and shoveling cow shit all day?  To fill a void?  Make his Dad proud?  Make a name for himself?
+All of that was true?and more.  ANAD talked of becoming a multi-configuration entity.  There were days, like today, when that sounded appealing?go anywhere, be anything, look like a hyperjet one day and a table the next.  But to what purpose?
+That was the question he kept coming back to.  And he had no answer that satisfied him.
+***ANAD detecting galvanic skin response changes?erratic heart rhythm, slight respiratory insufficiency, blood oxygen levels unstable?these physiological state changes correlate at ninety-four percent with concept "sadness'.  Please explain***
+Jeez, I can't hide anything from this guy.  "If you're asking me if I'm sad, I guess I am-"
+***Please provide detailed explanation of physical correlates***
+Winger sighed.  "I'm sad?single-config entities are sad when something makes them sad.  Something makes them melancholy, depressed.  We have emotions.  Sometimes, emotions make us happy.  Sometimes emotions make us sad."
+***Correlates indicate high probability of 'sadness.'***
+"I guess I'm just feeling a little sorry for myself.  I kind of miss my family?especially Mom."
+The ANAD swarm had begun to break down the Doc Frost likeness, becoming more diffuse, more dispersed.  ***If Config Winger, J. will permit, this ANAD can perform memory trace procedure?develop neural correlates of 'Mom' entity?restore physiological correlates of stability and promote trooper health***
+Winger smiled.  "Make a facsimile of Mom from my memory?I don't think so, ANAD.  That'd be pretty creepy.  No, I was just thinking?wondering.  Maybe it wasn't such a great idea joining Quantum Corps after all?you do things, see things, but you have no family.  Jeez, ANAD, it's like you're my family.  Imagine that.  My brother is a bot sixty nanometers tall-"
+He'd been musing out loud when the door to the ICU suite opened.  The nurse-corporal came in, followed by a stern-looking doctor.  His name plate read Houck.
+"Now, see here, Lieutenant, I don't know what you're doing but this is a hospital and you're under my care?get rid of that thing immediately.  You're here to get well, not play with a cloud of bugs. And you're supposed to be inside that bioweb until I say otherwise."
+ANAD quickly dispersed and Winger made arrangements for the last bots and the master to transit into his shoulder capsule.  The faint mist disappeared just as Dr. Houck stabbed a button on the side of the bed.  With a slight buzz, the bot barrier that was the bioweb flashed slightly,  flared out and assumed its operating position, enveloping the bed in a completely sealed enclosure that would protect its occupant from unwanted intruders.
+"Whatever you say, Doc.  But I am feeling better, thank you, sir."
+Houck fussed over all the lines, tubes and monitors.  "Not likely, Lieutenant.  You'll feel better when I tell you you're feeling better, and not before."
+
+Chapter 2
+"Disentangled"
+
+U.N. Quantum Corps Western Command
+Table Top Mountain, Idaho, USA
+January 20, 2049
+0700 hours
+
+The briefing started the next day promptly at 0700 hours, in Lofton's office.  SOFIE, the AI that ran the simulations and scenarios around Table Top had projected a 3-D graphic of the Paryang monastery complex and added details gleaned from intelligence over recent days.  The compound hung in mid-air like a disembodied ghost, rotating slightly to allow all sides of the facility to be examined.
+Tallant was there, Frost and Duncan too.  Major Jurgen Kraft scowled at Lofton, who loved showing off what his intel weenies had come up with.  Johnny Winger examined the graphic from close range.
+Lofton was in his element.  "The key seems to be Engebbe," he was saying.  "We've been monitoring the dig site for some time now, TinyEye, satellites, sources on the ground, just to follow the daily routine and see if Red Hammer has any operatives in the area."
+Kraft said, "Can't we just shut the place down?I'm sure we can get an order from UNSAC to that effect."
+Lofton looked back at Kraft like he was humoring a six-year old.  "Major?it's an active dig site.  World Heritage and all that.  And don't forget-UNSAC's probably in league with the cartel anyway.  No?it's better to let the bone doctors dig away and monitor them.  That's how intelligence works?you don't tip your hand until you have to."
+Kraft decided on another tack.  "This Paryang place?we think there's a?what did you call that gadget, Dr. Frost--?"
+Frost said, "An entangler.  A quantum entangler?that's likely what these spheres are."
+"-right.  Entangler.  We know from Dr. Frost that there's one at Paryang.  We've got one in containment here at Table Top.  How many more are there?"
+Lofton shrugged.  "Unknown, Major.  But Frost here thinks they're some kind of comm device?like a transmitter/receiver.  Or a portal, to this offworld intelligence?if you believe in that sort of thing."
+Winger said, "Sir, I think we have to believe it?at least in the possibility of it."
+Kraft had a pained look.  "So it's a radio.  Radios can be jammed.  Or spoofed.  Can't we figure out a way of jamming this gizmo?  Block it or distort it somehow."
+"I have been thinking of that very prospect," Frost told them.  "It's a crazy idea, but then the rules of quantum mechanics are pretty crazy too."
+"What have you got in mind, Dr. Frost?"
+Now, Frost began warming to the task.  "Just this?quantum mechanics says objects can be in more than one place at a time, as long as there is no physical interaction with the environment.  That's called entanglement.  When we were 'entangled' at Engebbe, I had Johnny here drive ANAD directly into engagement with the big swarm we encountered?the one called Configuration Zero?thinking that would collapse the entanglement.  And it worked."
+Kraft mulled over the idea uneasily.  "So what exactly are you proposing, Doctor?"
+Frost said, "I'm proposing a disentangler.  A device that forces decoherence by physically engaging and interacting with entangled objects and systems.  What I envision is a sort of large-scale ANAD containment capsule, that discharges ANAD-class bots into the environment to engage-literally to grapple with-any such entangled system.  If I'm right, this technique will keep the cartel from using the spheres they possess to travel to other places and times and help block or at least make access to those archives more difficult.  And that's what we want."
+Lofton agreed.  "How long until you can have a workable unit, Dr. Frost?  We need to do anything we can to block, jam or distort comms between this archive and Red Hammer, maybe even spoof the cartel into thinking they're in contact even when they're not.  I'd like to work that angle as well."
+Now Kraft brought up an idea.  "What about Engebbe?  Don't forget that.  If Red Hammer's re-writing the code of life to achieve whatever this Prime Key is, should we try to stop that?  Can we stop that?"
+Lofton never thought he'd hear the day when Kraft was angling for a new mission.  "Better check with UNIFORCE on that, Kraft.  Quantum Corps has a mandate to deal with any and all threats at nanoscale.  I'm not sure that mandate extends to saving evolutionary history."
+"But he's probably right," Frost said.  "If this Configuration Zero is changing the genetic code of life itself three billion years ago, or has already changed the code, we've got problems.  Big problems.  I don't know how we go about solving that one."
+Lofton commanded SOFIE to alter the displays to zero in on the dig site at Engebbe.  The projected globe rotated, then zoomed in to the plains of northeast Kenya?the Serengeti plain.  It was a live satellite feed; small dots moved about on the display and when the zoom was complete, vast herds of wildebeest and Thomson's gazelle could be seen from above, churning up dust clouds across the plain.
+Lofton went on.  "I've got intel from ground sources at the site that tell me Red Hammer's in the area.  What exactly they're up to, my sources don't say."
+"Looking for any advantage over Quantum Corps," Kraft decided.  "We need to shutdown Engebbe.  And we should put one of Doc Frost's disentanglers there as well."
+The discussion went on for awhile.  Eventually, an op plan was methodically worked out.  Details were kicked around, hashed out, argued and debated.  The op plan would involve two parts: (a) a Detachment Bravo, commanded by Lieutenant Dana Tallant, would be sent to Engebbe to scout for Red Hammer operatives and to reconnoiter what the cartel's ultimate goal was in being there; and (b) an attempted infiltration by Detachment Alpha ANAD units, commanded by Lieutenant Johnny Winger, would be attempted into the Paryang complex.  It's mission: emplace a disentangler at the monastery to mess up the cartel's archival access?forcing entangled objects and links out of entanglement by physically interacting with them?decohering them into existence.
+"It's a damn strange way to wage a war," Kraft decided.  "It was strange enough standing up 1st Nano and fighting enemies with swarms of flea-sized bots. Now this-entangled links and being in multiple places at the same time.  It makes my head hurt."
+"Get used to it," Lofton told them.  "The battlefield's not just inside atoms and molecules any more.  Now it's other times and places as well.  The enemy's clever and he's got help.  Our job is to make sure he can't do anything with that help."
+Kraft was still skeptical.  "Does anybody here really believe this crap about aliens and offworld intelligence?"
+Frost was sober, remembering what they had seen three billion years ago in the swamp that had once been Engebbe.  "Major, Johnny and I witnessed something in that swamp.  It was a swarm, to be sure, a collection of bots, I believe.  But it was unlike anything I've ever seen before.  What worries me is ANAD."
+"Doc, you designed ANAD.  Who knows more about ANAD than you?"
+Frost said, "Yes, that's true.  But part of ANAD, a critical part, came from the code we saw being written into the moss in that swamp.  It solved some programming problems.  But it has capabilities I'm not sure I fully understand.  Configuration Zero came from somewhere?probably not this world.  ANAD may well have aspects of his program and his operation we can't even imagine."
+Now Kraft was beginning to look pained.  His Black Forest moustache twitched and a large vein was throbbing on his forehead.  "Doc, what are you saying?that we can't trust ANAD?  My whole operation here?the very idea of the Symbiosis Project-depends on trusting ANAD.  I'm trying to blend the nanobots you designed with my own troopers.  Make a blended man-machine warrior.  I can't have ANAD going off half-cocked, doing things that put my troopers' lives in jeopardy.  A nanotrooper's got to have absolute trust in his buddies and his equipment.  Anything less and?well-"  Kraft shrugged.  "What's the point?  We may as well hang back and blast our enemies with HERF and magpulses."
+Frost could offer no more assurances and the briefing was ended.  Winger and Tallant were ordered to Mission Prep to get their detachments and gear together.
+"I'll have tasking from UNIFORCE by 1200 hours," Kraft told them.  "And two hyperjets on the liftpads too.  Run your team selections by me before 1800 hours.  I want both detachments underway by this time tomorrow."
+"Yes, sir," Tallant and Winger both said in unison.  They excused themselves from Ops and left the building.  On the walk across the snowy quadrangle toward Mission Hall, Tallant had a question.
+"Wings, maybe we'd better run full diagnostics on ANAD before we shove off.  When I'm in Indian country, I want to be able to count on my horse."
+"There's nothing wrong with ANAD," Winger said, more firmly than he really intended.  That didn't sound right.  "I mean?pre-mission checks are mandatory, for all gear, anyway."
+Tallant had already picked up on the undercurrent of defensiveness.  "Hey, don't bite my head off, okay?  I know you two are like brothers, Wings, but think about it: it just makes sense.  ANAD's a bot.  That's all he is.  A piece of equipment.  We clean and check our weapons.  We test Superfly and MOB and our camoufog.  We should check ANAD out too.  After all, we depend on him for everything."
+Winger said, "Sorry?I just get a little touchy about it, that's all.  Yeah, I know ANAD's a bot.  But it's like Doc Frost said?he's got capabilities we've only just begun to explore."
+"And this is supposed to make me feel better?  I don't want my HERF carbine going off free-lancing on me when I'm under fire.  I don't want my MOB canister feeling sorry for itself and refusing to deploy when I press the button.  Come on, Wings?face it.  You're in love with the little guy.  We all know it.  It's kind of cute, actually.  I can see the headlines in Quantum Corps Times now: 'Love-starved nanotrooper shacks up with bot, makes a happy couple together.  "We just want to be alone," says trooper." ' 
+Winger saw no humor in any of it.  "You 've made your point.  Let's get to Mission Hall and get the teams together."
+They said nothing else until they reached the bunker at the north end of Table Top.
+
+"The Himalayas, huh?" Deeno D'Nunzio was saying.  "Garden spot of the earth?I mean, what's not to like?  It's got snow.  It's got fleas and flies.  Howling winds.  Subzero temps.  Why can't we ever get a mission to someplace else? like Tuscany?  Or St. Thomas?"
+"'Cause we're in the Corps, girl.  Stop complaining and hand me that power cell."  Sheila Reaves was at a nearby table, with parts and pieces of a HERF gun disassembled and laid out before her.  
+Moby M'Bela was nearby too, loading a MOB canister.  "Skipper, what's it really like being entangled?  Can you breathe?"
+Reaves snorked.  "I was entangled once?but the scumbag ran off with another girl."
+Winger planned to download his ANAD into a local containment bay and run some diagnostics.  Tallant was right.  You couldn't be too careful.  "Guys, it's hard to describe.  It seems real enough.  But Doc Frost warned us not to touch anything, not to interact in any way with the environment.  Sort of like being in a dream, I suppose."
+Tallant piped up, from her own gear stand, where she was blowing out her hypersuit.  "The rules haven't been written for how to run ops when you're entangled. It's greater than the difference between ANAD's world and ours, macro and nano.  Think back to nog school and molecular ops?how you had to re-learn how to move and advance when you're the size of an atom.  I just hope we don't have to go through entanglement too much?. it's really creepy."
+D'Nunzio was sighting in her own HERF carbine, checking how much juice she still had in her 'trons.  "So, tell me, Skipper, what's the real scoop on this mission?what's it called?"
+"Operation Quantum Shadow," Winger told them.  "It's part recon, part infiltration, part throw a wrench in Red Hammer's gears and see what happens."
+M'bela asked, "The target is this monastery?  Are we doing another underground assault?"
+Winger let his shoulder capsule discharge ANAD into containment.  The chamber was little bigger than a basketball, but it was surrounded by thick ganglia of cables, tubes and pipes.  When the control board lit up all green, he knew the tiny assembler was inside, safe and sound.  
+"We're not assaulting anything and no, we're not going underground."
+Deeno heaved a loud sigh of relief.  "Thank God?I hate being a mole."
+"Just covert entry and recon.  Plus, we're leaving behind a little present for Red Hammer?sort of a calling card.  Doc Frost's working on it now."
+"What is it, Skipper?"
+Winger explained what little he knew of the theory.  "Doc calls it a disentangler.  It's supposed to prevent the cartel from using those spheres, from downloading anything from that archive Q2 thinks they're using.   Doc said it decoheres entanglement states, mucks everything up so only gibberish comes back.  I'll have to take his word on that.  Our job is to make a covert entry, using only ANAD, replicate a disentangler, put it in place near their sphere, and get the hell out of dodge."
+M'bela hmmm'ed.  "Only ANAD.  Do we need a full detachment for that?"
+Winger shrugged.  "Ironpants thinks so.  We're setting up shop on the Nepal border?spot's already been picked out.  I'll drive ANAD.  The rest of you will monitor and support.  Q2 says Red Hammer's got eyes and ears all over the area, so we have to be ready for anything."
+Tallant came over to the containment bay, watched the imager screen as ANAD drifted toward its mount inside.  "Wings, is he ready?  Can he do the job?"
+"We'll soon find out.  I downloading all configs and going over them line by line.  Plus I want to tweak C88?that's a new one.  We'll be using that from launch to entry."
+Reaves scratched her head.  "C88?I don't know that one.  What is it?"
+"Something I cobbled together when I was in the infirmary.  Major Kraft'll have to approve but it basically makes ANAD and any swarm he replicates look like snowflakes?the last met report I saw showed serious snow storms across Tibet over the next few days?one after another.  We'll hitch a ride on them and masquerade ANAD as just another weather front."
+Deeno was skeptical.  "Skipper, Red Hammer's got to have sensors tuned for atomic activity ?thermals, acoustics, bond breaking.  ANAD will stand out like a poodle in a hurricane."
+Winger smiled mischievously.  "Ah, but that's where you're wrong, Deeno.  I've been tinkering?working with the Doc to cut down on ANAD's emissions.  With the right storm raging all around him, he'll look more like a flea than a poodle.  Doc's worked with me to make his replicating way more efficient.  The idea came from Engebbe and from tactics we stole from Red Hammer."
+Tallant watched the imager screen as the ANAD master bot flexed its effectors in a methodical routine, grabbers, probes, enzymatic knives, abstractors?one after another was exercised and checked.  "Wings, I keep hearing more and more symbiosis stuff.  Like the Corps may finally spring for all of us to get shoulder capsules?and embeds, not just command staff."
+"I've heard that too.  It would be big undertaking.  And those selected would be offline for weeks, what with the surgery and recovery, the training, coupler ops, more training.  I think Kraft wants to do it, but the mission load's too great right now."
+Reaves came over, cocked her head, and with a smile, felt for Winger's capsule port.  "What's it like, Skipper, having the little guy right there with you all the time?"
+Winger watched ANAD cycling his effectors.  "It's like having a little brother watching everything you do.  Remember how that was?how you had to explain everything.  You've got voices in the back of your head, asking why all the time, offering suggestions, commenting on everything.  It's not always a great thing?Doc's got some work to do on the interface."
+Reaves shook her head.  "I have a little brother.  Mom and Dad practically had to clobber us every day to keep us apart.  I'm not sure I want that again."
+"Blended Man-Machine Warrior?that's the idea," Winger told them.  "Make a nanotrooper and his ANAD unit one badass fighting machine.  It's going to take some work?which is what we need to be doing to get ready.  Major Kraft wants us aboard that hyperjet at 0800 hours tomorrow, full kit and ready to rock and roll.  We've got a full debrief with the man tonight.  So stop bitching and moaning and get your gear shipshape."
+With that, the nanotroopers of Alpha and Bravo Detachment bent to their tasks.  There was a lot to be done.  Winger silently willed ANAD to step through his diagnostics faster.   He decided he would speed things up by downloading configs right from containment.  Jeez, I'd better get some of that hog piss the commissary calls coffee over here?we're going to be up all night as it is.
+Operation Quantum Shadow had a hot date with a severe weather front just now moving across the Tibetan plateau from central Asia.  Alpha Detachment would need to be in place in less than twenty-four hours.  Bravo Detachment was destined for Engebbe and the dig site where the ancestors of ANAD had come to life three billion years ago.
+Both missions were deeply entangled, thought Winger, though not in the ways that Doc Frost ever imagined.  If Quantum Corps were to have any chance of defeating Red Hammer, the link between the cartel and their offworld benefactors would have to be broken? broken for good.  
+Johnny Winger didn't want to think about what would happen if they failed.
+
+Chapter 3
+"Quantum Shadow - Alpha Detachment"
+
+Ghumhlang, Nepal
+January 22, 2049
+0230 hours
+
+The Lama Zohar hadn't seen such a gathering since the day the monastery opened twenty five years ago.  He stood on the stone parapets of the ancient dun-colored building, originally built during the days of Alexander the Great and watched a flock of black lifters streak by overhead, then settle to earth by the entrance to the abandoned Pura River ruby mine.  At the same time the lifters came, a convoy of military trucks and transports roared through the village on their way up the meandering gravel road to the same Pura River mine entrance two kilometers away.
+All the trucks bore the blue earth logo of UNIFORCE.  Decades after Pura River had been abandoned, the Army suddenly and without warning had acquired a keen interest in the old mine.  Zohar wondered why.
+As he watched the assembling of military men and equipment at the head of the rugged valley, Lama Zohar carefully poured a small pouch of black seeds into a bowl on the edge of the parapet.  He made a swirling pattern in the seeds with his fingers, mumbled a soft incantation to the Enlightened One, then poured the seeds back into his pouch, repeating the process several times.
+A nearby teacher, a rinpoche clad in saffron robes from a distant monastery, observed Zohar carefully.   The Lama explained, over the racket of the lifters: "One must endure the boredom of repetition eight times, before the natural energy of the seeds will come forth.  Only then will you free yourself from want."
+The rinpoche, a bespectacled and wrinkled old skeleton, nodded wisely.  It was true.  All things possessed their own life energy.  One had but to still one's mind to hear the rhythm of nature's frequency.  The teacher closed his eyes and willed himself to utter silence, slowing his breathing and heart rate with fierce concentration.
+Only the distant hum of lifter jets and a growing sense of foreboding interrupted the rinpoche's meditation.  Soon enough, he would inform his colleagues across the border all the details of what he had seen.   
+
+For Johnny Winger, the recon force now gathering along the hard, pebbly banks of the Pura River was also quite a sight.  Alpha Detachment had veetolled in on a squadron of lifters from Quantum Corps East base at Singapore.  All of their gear was now being offloaded by men and packbots, marshaled in neat rows outside the mine entrance.
+The trucks and tracks were UNIFORCE motorized units, specifically UNIFORCE 1st South Asian Brigade, 2nd Company, or 2/1 UNIFORCE South, as it was known to the soldiers who manned the column.  The commanding officer was a small-boned Indian officer with a high forehead, sunburned skin and a toothy smile, Captain Vanilu.
+Vanilu loudly supervised the deployment of 2/1, spreading his men and their robot totes around the perimeter of the valley, cordoning off the Pura River at the monastery on the south end and at a narrow pass in the higher elevations to the north.
+"We make you a secure perimeter," Vanilu explained.  "Keep the villagers out, while you set up."
+Villagers, yes, thought Winger.  And nosy Red Hammer spies too?they were probably all around them.  But 2/1 UNIFORCE had no nanobot swarm defense embedded with it.  For that mission, Alpha Detachment would be on its own.  
+Time to put ANAD to work.
+"Fall out!" Winger ordered and the nearest lifter disgorged its crew into combat formation.  Winger counted them off, as the troopers scattered to their duties around the landing zone.  
+Operation Quantum Shadow was about to get underway.
+"Full hypersuits!" Winger yelled over the crewnet.  "Get those tin cans on and zipped up!  Get the gear staged forward to the mine entrance.  Buddha, you and Witchy help DPS with all their gear."  
+"Oh, boy," muttered Deeno D'Nunzio, as she snapped her helmet down and secured her own suit.  Servos whirred as she flexed her limbs.  "I just can't wait to climb into my garbage can."
+"It's for your own good," said Sheila Reaves, as she struggled with the HERF guns, rocking one back and forth until it could be hoisted onto a packbot for transfer.  "You want to crawl like a worm through that old mine without one?"
+D'Nunzio wisecracked, "I don't want to crawl through anything.  And the only worm I want to see is in a tall cool glass of tequila."
+For the next several hours, Alpha Detachment deployed its equipment around the entrance to the mine and checked out all their gear. 
+Winger decided to launch ANAD before they got underway.  It was against all regs, but he didn't care.  The tiny assembler seemed to behave better when it was allowed out of containment, congregating in flickering translucent swarms in odd corners of the LZ.
+***It's good to be out, Hub?ANAD currently in State 1 config, receiving signals on all channels?how do you read me?***
+"I read you just fine, ANAD," Winger said, as he climbed onto a small open-frame railcar.  The car would travel on rickety tracks to a small cave deep inside the mine, where the Detachment would set up their control center.  "Just stay out of the way and don't touch anything, okay?"
+***ANAD is fully prepared to support the mission?all effectors are primed and ready?propulsors are at full charge?processor core initialized and set at zero state?just let me at 'em***
+The Pura River ruby mine, abandoned years ago, had been chosen to host the Detachment's command post while the op into Tibet was underway.  It was well away from prying eyes, airborne and satellite, and access and defense were easier managed than an above-ground structure.
+The Detachment just managed to offload all its gear and scurry inside, before the lifters had to take off.  A strong weather front was moving in from the northwest, across the Annapurna range.  
+Storms and howling winds would soon be dancing across the tops of the mountains.  One of them would serve well as ANAD's ticket into Indian country. 
+Time to get in the game, Winger told himself.  He opened up his coupler circuit to ANAD, now hovering just outside the mine entrance.
+"ANAD, steer heading one five five, and go to max propulsor."  He eyed the approaching storm, just now boiling over the peaks of the nearest mountains.  Already sleet was falling and the wind was picking up.  "Your ride is here."
+***ANAD steering onto specified heading?configured for transit?folding all effectors?requesting replication values?***
+Winger gave that some thought, as he watched the Detachment load up their gear onto rickety rail cars.  The cars would slide down old mine rail tracks to their makeshift command post deep inside.  "ANAD, replicate small swarm?let's say, one-tenth standard mass.  That should give you enough friends to survive the trip and be ready to go at the target."
+***ANAD copies?replicating now?***
+Even as he watched, the master bot slammed atoms and built structure enough to be barely visible as a faint, flickering mist.  The mist drifted upward and was soon caught up in the winds scouring down from the mountain peaks.
+"Safe ride, little guy," muttered An Nguyen.  The DPS2 fingered some beads around his neck, silently praying to his esteemed ancestors to watch over the bot.  
+"Yeah?and kick ass when you get there," Deeno D'Nunzio barked.  
+Winger checked his wristpad, tuning the coupler a little.  He felt more than heard a little staticky fritzing in the back of his head.  But finally, ANAD's signal came through loud and clear.  A quick check of all indicators showed ANAD was drifting up into the crosswinds mean and green.
+Now, as long as the met reports and the wind direction and about a thousand other things held up, ANAD would be over their target, disguised as snowflakes, in a matter of an hour.
+"ANAD, go ahead and configure C-22 and make sure everything's buttoned up.  I don't want Red Hammer to be seeing any nanobotic thermals or EMs when you arrive.  You're a cloud of snowflakes, remember?"
+ANAD came back on the coupler, ***Configuring C-22?don't worry, Base?ANAD will show up ninety-nine and forty-four one hundredths per cent pure as snow***
+Winger wondered where he had learned that.  Sometimes, more often than he cared to admit, the bot's neural net and deep learning algorithms surprised him.
+No surprises today, ANAD, he thought, as he finished helping D'Nunzio, Reaves and M'Bela load up the rail cars.
+"Tally ho, Skipper," Deeno called out, from her perch on top of one car.  "All aboard--!"
+The ancient train descended slowly, zigzagging on wobbly, unsteady tracks through the upper mine shaft and after pushing through clouds of dust, found its way down to a small cavern near the bottom, some one hundred meters below ground.  There the Detachment set up their command post.  The whole operation took less than half an hour.
+Straight away, Winger linked in with ANAD.  After a few anxious moments, he managed to make contact.  Satellite triangulation showed the storm front moving north as predicted, bearing directly toward the Paryang Valley.  If the weather weenies were right, ANAD and his brood would be over the valley in an hour, looking for all the world like a small mass of snowflakes caught up in a low-pressure front barreling across the Tibetan plateau.
+"He's just passing over the Tsangpo River, east of Shigatse," Witchy M'Bela remarked, studying the figures on his own wristpad.  "I make Paryang about thirty kilometers north by north east."
+"If that front stays on course," said Reaves.  "That's the big unknown." 
+"Hell of a thing," D'Nunzio said, flexing her fingers absent-mindedly around the trigger of her HERF carbine.  "I know it's a recon mission, but I'd sure like to smash something good?gives those bastards some hot rf pancakes for breakfast."
+Reaves snorted.  "That's the trouble with you, girl.  You like to break things.  Here you are a full-fledged nanotrooper, fresh out of nog school, and you've already forgotten your homework.  Deception and diversion?remember how Major Walston kept pounding that into our heads in the classroom?  Molecular Ops?make your bots look like something else?that's how you win battles in the world of atoms and molecules."
+"Yeah," added Nguyen, "Even Sun Tzu knew that.  He was the first nanotrooper? '?that general is skillful in attack whose opponent does not know what to defend, and he is skillful in defense whose opponent does not know what to attack.'"
+"You guys just kill me," D'Nunzio said.  "How about a little help with this gear-"
+They finished setting up their command post and took a brief break.  M'Bela and D'Nunzio decided to explore a bit more of the cavern, while Winger kept his eyes glued to his wristpad, noting every few minutes the triangulated position of the swarm inside the storm front.  Presently, he announced, "Paryang should be over the next range...unless I'm mistaken, that's the Gangdise Shan right there-"
+When he was sure, he sent the command for ANAD to drop out of the storm front and began its descent toward the monastery.  "And make a photon lens, too, ANAD?I want visuals on the target before we try to infiltrate."
+ANAD came back, ***Changing heading to zero five oh, Base?revving my propulsors to kick out of this soup?going to be a bit choppy for awhile?forming up photon lens now***
+A few moments later, they had visuals over the Paryang Valley, dark and cloud-choked from the passing snow showers.  Through the gloom, as ANAD grabbed more photons to sharpen resolution, the faint outlines of the monastery began to materialize.  First, a slender pagoda came into view, then another.  Then as ANAD descended and approached its target, the steeply swept angles of its slate roof became visible, gray and packed with snow.  Orange lights shone through lotus blossom-shaped windows around the periphery of the main compound.  Nothing moved in the courtyard.  All was silent and heavy snow veiled the scene further as ANAD changed heading once again.
+Their initial target for infiltration was a pagoda at the southeast corner of the monastery.  
+Winger ported the view ANAD was sending back to the local crewnet so the whole of Alpha Detachment would watch.
+Reaves asked, "Skipper, how far to the last known position of the big sphere?"
+The Detachment had met with Doc Frost and gotten a late briefing from Major Lofton at Q2 just before they had left Table Top.  Winger consulted some notes.  "It's supposed to be mounted on a platform below ground.  We'll be using deco wakes to home on its location.  Now, though, I've got to get ANAD reconfigged for entry?Deeno?"
+"Got it, Skipper.  Use C-38?it's got extra carbene effectors and a hardened main casing."
+"You've got the disentangler template too?"
+D'Nunzio checked her own wristpad.  "Loaded and checked, Lieutenant.  Just say when."
+The plan was to replicate the full disentangler from a config template, rather than try to carry the device into the enemy's midst.  They'd tested the template dozens of times at Table Top, fine-tuned it and debugged it and swore over it for many sleepless nights.
+This has to work, Winger said to himself.  Otherwise, Quantum Shadow's toast.
+It was a hell of a way to fight an enemy.  
+ANAD, with its brood of bots, now configured as a few dust motes, approached the outer wall of the pagoda.  Winger had decided to keep the photon lens going, so he could do a visual recon of the area.
+At the pagoda, ANAD found a tiny seam along the base of one window and, in no time, slid inside.
+Winger asked Sheila Reaves, functioning as DPS1: "Sheila, any sign we've been detected?"
+Reaves was nearby, working her own indicators on her wristpad.  She had set up a small panel by the cave wall to take the wristpad feed and enlarge it.  Now she studied the readouts: acoustic, thermal, electromagnetic.  "Nothing, Skipper.  It's kind of eerie.  I would have expected Red Hammer to have this place buttoned up tighter than a whore's ass, but there's nothing-I've got a bad feeling about this."
+"Keep watching," Winger told her.  "It's just possible we've done the impossible and gotten inside the cartel's headquarters."  
+The visuals were grainy but Winger didn't want to take any more bots for the photon lens?more bond breaking and atom grabbing would surely give ANAD away.  Slow and steady, that was their ticket in.
+The pagoda interior was dimly lit, wood planks and lacquer screens everywhere, austere, with a small wooden pedestal in the center and incense candles everywhere.  One entire wall was covered with shelves stacked five deep with golden Buddha heads.  At ninety degree angles about the room, small shrines represented earth, air, fire and water.  The Table of Many Wisdoms dominated the center.
+"Deeno, get your decoherence wake detector config ready?I want to take a reading here, give us a direction to go."
+"Loaded now, Skipper," the CQE said.  "Ready to transmit."
+"Send it."
+D'Nunzio pecked a few keys on her wristpad.  Moments later, ANAD reported back.
+***Receiving new configs?label C-98 'Decoherence Wake Detection'?now loading into memory?Base, insufficient mass warning? I will have to minimize photon lens or replicate another round to form the detector***
+Winger spoke to ANAD through his coupler.  "Negative on reps, ANAD.  I don't want do anything to attract attention.  Minimize photon lens and use the bots to form up the wake detector.  And engage bond breaking damper when you do it?any thermal spike could set off alarms."
+***ANAD copies?pinching lens replicants for decoherence wake detection now***
+The Detachment held its breath, knowing full well that any config change could trigger some kind of defensive reaction.  But nothing happened.
+"It may be a trap," Reaves suggested.  "Do nothing and let us in deeper and deeper?Skipper, recommending ANAD keep at least one quarter effector capacity for grabbers and probes?bond disrupters too."
+Winger shook his head.  "Negative, Sheila.  We've got to get to wherever they're keeping that big sphere.  We have to save our reps for the disentangler, when it really counts."
+Reaves shrugged.  "Just trying to do my job, Lieutenant.  I just hope ANAD makes it that far."
+The first pings of deco wakes sounded on the crewnet.  
+"Got a hit," M'Bela announced.  "It's faint, but definite deco wakes.  Steer left one two five degrees.  And down.  Below our level, at least fifty or sixty meters-"
+Winger sent the new heading.  ANAD altered course, descending almost to floor level and found a tiny grate along one wall.  The visuals were faint, but the opening could still be made out.
+"Looks like that's our way in," Winger decided.  "ANAD, steer that heading and go to half propulsor.  Deeno, load the disentangler template and get ready to send it."
+"Copy that, Skipper."
+The Detachment watched as the visuals took them from the pagoda floor through a small winding duct-could  be ventilation, M'Bela suggested-and after nearly an hour's traverse, ANAD emerged into a larger, cavern-like chamber?drifting out into the air like so many dust motes.  No alarms sounded.  No alerts were triggered.
+Johnny Winger held his breath, scarcely believing their luck.  
+"Can you triangulate decoherence waves from here?" Winger asked.  "We need some kind of bearing; there's got to be some kind of quantum state generator around here?that's how Red Hammer accesses the archives."
+M'Bela scrolled through images on his helmet viewer, selecting one called Quantum Signals.
+"It's faint, Skipper?intermittent captures right now.  There seems to be a fix about two hundred and six meters ahead, bearing zero five five degrees ANAD's current position.  It's not much but all the decoherence waves seem to converge there?when we can grab them."  M'Bela marked the position and Winger saw it on the crewnet.
+"Very well?we'll mark that as objective number one.  Detachment, listen up-"  he took over the comms for a moment "-Witchy has a fix that may be the master control source for Archive access.  It's ahead and deeper in the complex.  We're moving on that objective?Reaves, are we cleared to advance?"
+The DPS1 had noticed on ANAD's visuals some kind of shimmering veil blocking entrance to the great rotunda of the cavern.  "Give me a moment, Skipper-"   She took control of a small element from the main ANAD swarm and vectored the formation toward the veil of low-level nano guarding the portal.  The swarms collided in a shower of sparks and light flashes.  There was a brief, almost inaudible screech, as ANAD made quick work of the enemy bots.
+The portal then went dark and the faint phosphorescent mist that was the ANAD element moved ahead into the rotunda.
+"Open sesame," muttered Deeno D'Nunzio.
+"Door is clear, Skipper," Reaves announced.  
+Winger ordered the master ANAD swarm to follow.  "Okay?so much for covert entry?let's move out.  And keep your eyes and ears open?we got nasties all around us just itching to take a bite."
+Millimeter by millimeter, ANAD crept into the rotunda, surrounding the firepit and its crackling flames.  Other corridors branched off from the great room, like spokes from a base.  
+"Where the hell is everybody?" M'Bela asked.  His left hand fondled a clutch of amulets, massaging them for good luck even though he couldn't feel them very well through his hypersuit gloves.
+"It's a trap," decided Reaves.  "It's got to be?they're trying to pull us into some kind of free-fire zone."
+"Which way to the last fix, Witchy?"
+M'Bela checked signals.  "Best bearing to the convergence is still zero five five, less than two hundred meters?and still below our elevation, about fifty meters."
+Winger calibrated the direction.  M'Bela's bearing seemed to point toward another corridor branching off from the rotunda.
+"That seems to be the way to go.  Detachment, move out-"  Winger indicated the passageway.
+"Skipper, I don't like this," said Reaves.  "It's a confined space?only one way in or out.  It could be an ambush."
+"Duly noted," Winger said.  The possibility had occurred to him but they had little choice but to move forward now.  M'Bela's convergence fix was probably some kind of quantum device, possibly even the master control for the Archive access.  That had to be put out of commission.  "Let's get an ANAD screen ahead of and behind us, before we go down that corridor.  Other contacts and threats?"
+Reaves checked her threat status, letting her eyepiece viewer cycle through all bands that ANAD was feeding them.  "Still reading fairly high thermals and EM ahead, all azimuth.  So far, no evidence anybody's detected ANAD though.  Skipper, I recommend ANAD go to Dispersal 1, just to be sure."
+It was one of the core doctrines of ANAD swarm ops?something they'd all learned in nog school.  Disperse.  Look like something else.  Hide behind other molecules.  
+"I'm sending it," Winger agreed.  "Maybe ANAD'll get lucky?after breaching that nano barrier, I'm honestly surprised we didn't trigger something."  Winger sent the command and ANAD's small swarm of bots scattered like so many dust motes.
+"That tunnel to the right, Lieutenant," M'Bela told them, "that's where deco wakes are strongest.  Target must be down there."
+"ANAD, steer right zero nine five degrees.  Maintain speed.  Maintain dispersal."
+***ANAD coming to new heading, Base?lots of silicon and phosphor molecules around here?I'm hitching a ride?now in Dispersal One***
+"It's dust from the cave walls," said M'Bela.  "I'm surprised the enemy hasn't tuned their detectors better."
+D'Nunzio snorted.  "They can't imagine anyone would be so bold?or so foolish? as to enter Paryang."
+ANAD crept forward and drifted down a descending tunnel, coming eventually to a smaller cave.  The cave was well lit with lampstands and light fixtures.  A platform dominated the center.  Mounted on top was the master sphere, looking for all the world like a giant egg.  It throbbed in the grainy view from ANAD's photon lens, the lens now truncated to permit the dispersal, shimmering in and out of view as if caught up in heat waves.
+"Bingo," said Winger quietly.  "That has to be our target.  Now, we'll scout around the cave and find a convenient spot to build our disentangler.  Deeno-"
+D'Nunzio was CQE for Alpha Detachment.  That meant Containment and Quantum Engineering.  The wise-cracking New York brunette was responsible for all the configs that would instruct ANAD on how to replicate and build the disentangler.
+"Templates checked and ready, Skipper.  Say the word."
+"Send it, Deeno."
+D'Nunzio pressed a few buttons on her own wristpad.  The config signal went out over Winger's coupler circuit.  Moments later, ANAD came back.
+***ANAD now receiving Config C-55, labeled 'Build Full-Function Disentangler.'  Now processing?setting replication to zero?lots of feedstock around here, Base?engaging atomgrab damper and thermal shields?glad to be finally doing something, Base?ANAD was getting sleepy doing recon***
+ D'Nunzio looked over at Winger on the other side of the rickety rail car.  "Where the hell did that come from, Skipper?  ANAD's starting to act like a five-year old.  Pretty soon, he'll start whining and won't want to take a nap."
+"It's his learning net, Deeno.  I'll have to get with Doc Frost when we get back.  Nanotroopers don't respond to commands like that."  
+But this one did often enough, he thought.
+Inside the small cave, in a darkened hollow in the back, unseen by any technician, ANAD began silently grabbing atoms.  With dampers and shields on, the replication would take longer.  But it was critical that the Autonomous Nanoscale Assembler/Disassembler be able to replicate and construct the disentangler without detection.  If all went according to plan, the device would sit unobtrusively in the corner of the cave, designed to blend in with the rock walls, and bollix up any and all quantum comms coming in and out of the master sphere.  Red Hammer would soon find the doors to the alien archives closed and locked.
+That was the plan.
+"Uh oh," muttered Buddha Nguyen.  "We may have company."
+Winger jerked his head up from the small panel on his lap, where he had been hacking out another small config to fire off to ANAD.  "What is it?"
+Nguyen pecked at some keys on his wristpad, studying the feedback from ANAD.  "The little guy's detecting something?thermals rising, some EMs too?other side of that cave.  Atomgrabbing signatures?lots of them.  Could be a swarm headed our way-"
+"Crap!" Winger seethed.  "Right in the middle of repping the disentangler.  Okay, pinch off a tenth mass?form up some grabbers and the baddest bond disrupters you can with what you've got.  We've got to hold these bastards off long enough-"
+Nguyen sent several configs, commanding the ANAD master to use part of its mass to build defenses.  
+***ANAD receiving new configs?Base, this slows down replication of C55?can't I hold off a little longer?***
+"Negative, ANAD?enemy swarms closing on your position.  Config defenses as commanded and prepare to engage."
+The collision came quickly.  No longer dispersed, no longer hidden, the line of engagement could be seen as a snaking line of flickering light, whipping through the air like an illuminated spiderweb.  Bots collided and sparks flew.  Technicians came running.  Someone fired off a HERF round and the hot wave of rf thundered into a nearby crevice, loosening seams of rock chips and dirt.  
+"I'm going small," Winger announced.  The whole of Alpha Detachment was safely ensconced in the depths of the Pura River ruby mine, several hundred kilometers from Paryang.  But Winger knew ANAD needed help.  Nanotroopers always had their buddies' back.  'Going over the waterfall', as many nanotroopers termed it, would put Winger down into ANAD's world, fighting off enemy bots and the normal sleet of molecules and atoms.  "Sheila, you and Deeno, come with me.  ANAD needs help."
+The three of them went nano and soon found themselves buffeted with van der Waals forces and Brownian motion.  It was like wading out into the ocean, in the midst of a hurricane.  
+Even in the maelstrom, the three nanotroopers, working through ANAD's sensors, could 'see' what was coming.  It was like watching a fleet of enemy battleships materialize out of the fog.
+"Contacts dead ahead, Skipper," said D'Nunzio.  "Strong thermals, strong atomgrabbing?"
+The first of the Paryang bots hove into view: inverted pyramids, attached at their apexes, girdled with a dizzying array of effectors.  Propulsors at each end lent matchless maneuverability to the bot.  
+Winger revved ANAD's propulsors and closed the last remaining distance in seconds. 
+"ANAD, I'm extending all your disrupters.  I'm also commanding 'Spinning Jenny.'  We'll close on them like a whirling dervish."
+***ANAD extending all disrupters, now priming all disrupters?Hub, recommend altering config to C12?Assault Three gives me better control of my carbene grabbers?I can slash and jab like a champion boxer***
+Winger thought: where the hell did he learn about boxers?  "Negative on C-12, ANAD.  Assume 'Spinning Jenny' configuration and load up CQ-1.  I'm thinking these bots may be entangled?if I'm right, when we engage, they should pop back to their normal state."
+***ANAD complying?now loading CQ-1?hope you know what you're doing***
+Winger snorted.  He wasn't used to having his commands questioned by a bot sixty nanometers tall.  When they got back to Table Top, there would have to be some serious tweaking on ANAD's neural net and learning algorithms.   
+The last few nanometers were closed and ANAD spun past the line of Paryang bots on a strafing run, like a wartime fighter aircraft.  
+The first grab tore off some of the enemy's effectors, but also sent ANAD momentarily into an uncontrolled spin.  Winger countered that with fore and aft propulsors, slowed down the 'Jenny" and came around for another pass.
+"Enemy replicating fast," Deeno told him.  "Recommend ANAD counter with reps?we'll be out-massed in no time, if he doesn't."
+"I can't spare any configs, Deeno?processor's maxed out.  We'll have to fight with what we have."
+Sheila Reaves had gone small as well.  She noticed a small seam around the Paryang bots' midsection.  "Skipper, maybe if you make ANAD's next pass amidships, tangent to that seam around his waist.  I'm thinking his effectors can't reach down there?could be a weak spot."
+"It's worth a try, Sheila.  Give me a config that'll unbutton that casing at the seam."
+Reaves found one.  "Try C-44.  We tweaked in the lab a few weeks ago.  ANAD should have the upgrade already."
+Winger sent the command.
+***ANAD assuming C-44, Hub?with all these changes, I hope you know what you're doing***
+"ANAD, just follow orders.  You're a trooper now?troopers follow orders."
+The Paryang bots were tough and maneuverable.  On each strafing run, ANAD managed to slash scores of bots but lost almost as many of his own.  The enemy kept advancing, trying to turn the flanks of ANAD's formation.  
+"Deeno, Sheila, it's not working.  They're out-replicating me?if this keeps up, there won't be any ANAD left."
+And to make matters worse, some of the Paryang bots were entangled.  When ANAD came into contact, the entangled targets vanished in a cloud of blurry waves and were gone, displaced to another time and space.
+"Jeez, this is no way to fight a war," muttered Deeno.  "You can't tell what's real and what's not."
+"A full swarm of entangled bots-" marveled Sheila.  "We've got no defenses for that, Skipper.  This was never covered in nog school-"
+"No but we're in the fight?we'll just have to figure it out.  We came here to do a job and put a disentangler in place.  I'm pinching off some of ANAD to get that started."  He sent the commands.  A hundred kilometers north of the ruby mine where the Detachment had hunkered down, ANAD received the commands and began sloughing off bots, re-configging them to begin grabbing atoms and replicating the disentangler from its stored template.
+With any luck, the disentangler would help out in the immediate battle too.
+Winger was stunned by the speed of the enemy's assault.  A battalion of Paryang soon engulfed ANAD.  No time to replicate now?got to get free?signal daughters?.Winger fired off a burst of instructions to gather all the daughters ANAD had replicated going in.  It might be too late.
+The imager screen shook with the collision, then careened sideways.
+"I can't hold structure!" Winger yelled.  "I'm reconfiguring?shutting down peripheral systems!"
+Deeno D'Nunzio had taken a place beside Winger at the interface controls, set up on a small console deep inside the ruby mine.  "Got to disengage, Boss?emergency truncation.  Everything not critical.  We've got to get ANAD out of there before we lose him!"
+"I'm trying?but the damn mech's penetrated the signal path?if he cuts the link?."
+"I know, I know?just keep trying, Jesus?internal bonds on main body structure weakening?he's lost all grappling capability?."
+As they watched, Paryang began systematically dismantling ANAD, molecule by molecule.  ANAD was woefully unprepared for the assault.  With ruthless efficiency, Paryang mechs whirred and chopped every device ANAD could generate.  ANAD tried to counter, replicating probes, inserters, jaws, cilia, pumps, blowers--but it was no use.
+Paryang mutated too fast.  Somehow, the mech seemed to anticipate ANAD's every move.
+Winger was awed by its combat capabilities.  "Incredible," he whispered.  "The perfect warrior.  Must have one hell of a processor."
+Sheila Reaves agreed.  "Probably quantum, just like ANAD."
+They were all stunned at the ferocity of Paryang's defensive tactics.  
+Winger's fingers flew across the keyboard.  "It doesn't make sense.  I've got bots by the billion appearing out nowhere?how the hell can ANAD fight that?"  
+He had no choice but to disengage to save the ANAD master.  Extract before ANAD was chopped to pieces. 
+"We're losing signal strength, Lieutenant!" Reaves yelled.
+"I see it!  Paryang's penetrated the matrix.  Main processing functions in danger?I'm counterprogramming?."  Winger pecked madly at the keyboard.
+Deeno D'Nunzio shook a fist at the imager screen, now a dark, swirling mass of shapes and forms.  "Come on, damn it!  Come on?."
+But ANAD couldn't hold.  Every move was countered by the nanomechs.  Paryang's response was swift and sure.  Winger, Reaves and D'Nunzio watched in amazement and horror, as one by one, ANAD's capabilities--fine motor control, attitude and orientation, propulsors, sensors, molecule analysis, replication--were rendered inert, or completely excised.
+ANAD was helpless.
+"Got to get the hell out of Dodge," Winger muttered.  While I still can.
+Reaves was checking status.  "It's bad, Lieutenant.  We've got no electron lens.  No enzymatic knife.  Hardly any effector control.  ANAD's crippled."
+Johnny Winger gritted his teeth.  "Not just yet?"  His fingers flew over the keyboard.  "We've gotta get some data?got to probe that bugger, get some structure on him?if I can just get stabilized--"
+"Lieutenant--there's nothing left to stabilize--"
+At the same time, Winger was determined to get ANAD out before he lost the assembler completely.
+"Executing quantum collapse?NOW!"  Come on baby, get small for me?get real small?.
+Deep inside the cavern beneath the monastery, the ANAD master collapsed what was left of its own structure in an explosive puff of atom fragments.  Base, effectors, probes and grapplers, even the core shell surrounding its nanoprocessor, went hurtling off in a big bang of spinning atom parts.
+Instantly, ANAD disappeared.  To all intents and purposes, ANAD had effectively vanished in a cloud of blurry quantum waves.
+Then Winger swallowed hard.  He shook himself back into the macro world, letting the scene settle down in his head, trying to focus on what was real and what wasn't.  The mine walls.  The rickety rail tracks and car.  Their gear.  The flashing IC console.  Faces and frowns all around.  A shudder passed through his body and Winger winced.  Something had happened.  Something bad. Going back up the waterfall had never been like this.  Somehow, they had lost the signal.  The nano world of ANAD and Paryang bots had spit them all out like bad meat. 
+Reaves's fingers were flying over the keyboard on her console. "Lieutenant, I got nothing?you did a quantum collapse, didn't you?"
+Winger nodded.  "I sent the command.  But that was a damned rough return?where's ANAD now?"
+Reaves threw up her hands.  "Sir, I have no signal at all.  No acoustic, no thermal, no electromagnetic?it's like he's just vanished."
+"Quantum collapse won't send a signal, Sheila.  That's the whole point.  ANAD's just a barebones processor?nothing to send a signal.  I'll open my capsule and let him come to me.  He's programmed to return to containment once quantum collapse is commanded."
+"If he can-" D'Nunzio said.  
+They all waited for several hours.  Winger even took the rail car back up its tracks to the mine entrance.  Maybe this will give ANAD something to look for....
+But ANAD never returned.
+Two hours waiting had steeled a determination inside Johnny Winger.  It was against all mission orders for Quantum Shadow.  It was against all regulations, against all doctrine.  But nanotroopers didn't leave their buddies behind.  It was part of the Nanotroopers' Code.  
+"What now, Lieutenant?" asked An Nguyen.  
+Winger had already decided.  "I'm going after ANAD."
+"Into China?  Skipper, that's-"
+Winger held up a hand.  "I know all about the rules, Buddha.  But I can't leave him behind."
+D'Nunzio said, "He's a bot, Skipper.  Advanced, fabulous capabilities and all that, but he's a bot.  He can be regenerated.  You?we can't do this."
+Winger cut her off.  "There's only one question now, Deeno.  Who else is coming along?  We've got a lifter.  We've got weapons.  We've still got small swarms we can deploy.  I'm going after ANAD?it's the right thing to do."
+One after another, D'Nunzio, Reaves, Nguyen and M'Bela raised their hands.  Reaves spoke for the rest of the Detachment.
+"We're going too, Lieutenant.  We're all in this together."
+Alpha Detachment began to gather their equipment and stow it back in the rail car.  Half an hour later, they had driven the car back up its rusting tracks all the way to the mine entrance.  
+The black hull of the lifter was covered with a light dusting of snow, but the ship was soon powered up and ready to go.
+The Detachment loaded the rest of their gear and boarded, taking positions in the cockpit and cabin.  
+They lifted off in a swirl of snow and dust and turned north.  Heading zero one five degrees.  A nap-of-the-earth flight profile?north into Indian Country.  Tibet.  The Peoples Republic of China. 
+By Johnny Winger's figuring, the Detachment had an hour to the border and perhaps another hour to Paryang Valley.
+Somewhere in that time, they would have to figure out how to locate and extract the ANAD master?a target all of sixty nanometers in height, lost in an underground cavern a hundred meters below an abandoned Buddhist monastery in the brow of a rugged valley carved out of the high desert of the Tibetan plateau..  Surrounded by defensive swarms, a quantum Sphere and probably hundreds of Red Hammer troops and technicians.  
+Winger was content to let Witchy M'bela pilot the lifter.  He closed his eyes and a memory came back of a time when he and Archie Hester had been lost in a cave out back of Dorado Canyon, lost for hours with no idea where they were or how to get out.  Only in his mind's eye, the face he saw wasn't really that of Archie Hester at all. 
+It was ANAD.
+
+
+Chapter 4
+"Quantum Shadow - Bravo Detachment"
+
+Engebbe, Kenya
+January 23, 2049
+1130 hours
+
+The lifters crossed the Great Rift Valley, and began their descent across vast acacia woodlands and open grassland, thick with galloping herds of wildebeest and zebra.  Through light chop surrounding the twin summits of Mawenzi and Kibo, the formation settled onto a dusty plateau rimmed with massive outcrops of rock, hillocks of lava known as kopjes, in the local dialect.  As the lifters touched down, a few hyrax and a solitary leopard scuttled away into the grass.  
+"Welcome back to Engebbe Valley, Lieutenant," said Major Dikesi to Dana Tallant.  The Kenyan officer ordered his detail of soldiers to dismount and form up a perimeter around the dig site.  "The birthplace of Man--" the Major proudly announced.
+Engebbe was a dry, sere wasteland of ash fall and rock, desiccated as the bones that often turned up on its pockmarked ground.  The Valley itself was little more than a wide spot in the meandering streambed of the Engebbe River, a waterway in name only for most of the year.  As Tallant stepped out onto the hardpan of the ravine, she saw only a sinuous ribbon of slightly damp soil marking the outlines of the river's course.  
+The dig site itself was situated on a sloping shelf of rock and solidified ash north of the riverbed, surrounded by rugged slopes of rock and crushed ash heaps.  Roughly trapezoidal in layout, the dig site was a series of concentric trenches circling the outer, surface-level perimeter of a vast pit.  Each trench was meticulously laid with grid lines of laser lights and rows of mobile mirrors and flood lamps arrayed in and among the grid lines.  The entire pit bottomed out some thirty-five meters below the top surface of the ledge.
+Just upstream of the dig, a small gathering of huts and trailers had grown up, given the name of Camp Matterhorn.  Above the camp, a sheer cliff rose in a near vertical escarpment to a patch of level ground overhanging the valley.  In the middle of this ground, the ruins of an old Arab trading fort, known locally as El Mareb, lay in piles of stone and broken wall.  The riverbed coursed and undulated downstream to the southeast.  Some kilometers away, a turnoff from the Nairobi Highway led to a small village called Longido, the closest thing resembling a town.   The border with Tanzania was less than four kilometers north of the dig itself.
+While the lifters were being unloaded and a secure post set up by the Detachment a few hundred meters from Camp Matterhorn, Dikesi and Tallant picked their way along the streambed toward the edge of the dig.  Sanders Leonard came up to greet them.
+Leonard was the dig leader.  "I see the Major has already given you the tour.  It's not every day we have such distinguished and-" he eyed the HERF weapons being offloaded by troopers Grant and M'wale "-well-armed visitors.  To what do we owe the pleasure, Lieutenant?"
+Tallant had already checked out Leonard's bonafides with Q2, the moment she spied him across the excavation pit.  The word came back from Q2: probable Red Hammer?approach with caution.
+"Professor, we're just here to conduct a little recon?there've been reports of illegal nanobotic activity in the area and Major Dikesi and the Kenyan government asked for our help."  A little truth couldn't hurt, she told herself.  "We'll be bivouacking near here, in fact right at the foot of that mountain with the fort.  Just a little surveillance, that's all."
+Leonard frowned, thinking.  "I'm sure we've complied with all Bioshield regulations, Lieutenant.  We're just looking for old bones around here."  The way he said it meant something like: what could be more harmless than old bones?
+Tallant wandered around the edge of the excavation, noting the powerful lights and laser grid lines marking off the levels of the dig.  "This is the site that Dr. Volk found those ancient robotic remains, isn't it?"
+Leonard didn't know whether to be proud or wary.  Maybe a little of both.  "It is.  Micro-robotic devices of some kind.  We're studying them, right over there-"  He indicated a small gathering of tents and tables, shielded with a canvas top hanging from rickety poles.  The canvas flapped in the gathering breeze.  
+"I'd like to learn more about that," Tallant said, truthfully.
+Leonard nodded.  "Sure.  Stop by our exam tables some time and we'll show you what we're finding lately.  It's really quite interesting."
+Tallant had a gut feeling that she ought to take Leonard up on his offer.  "Could I see your findings right now, Doctor?  It might help me get a better feel for what you're doing.  If we know what's normal activity around here, my Detachment will able to spot abnormal activity more quickly."
+Leonard frowned at that but said only, "Surely.  Just follow me-"
+On their way to the tent compound, a tall black man with a gray beard came up to speak with Leonard.  His name was Obora.  Tallant learned he was from the Ministry of Antiquities.
+"Come right away to the tent, Doctor?you've got to see this.  We found more pieces yesterday afternoon?one of Leaduma's people found them?just the most amazing pieces--"
+Leonard and Tallant went immediately to the dig site tent.  Looking under the ultrascope, the two archeologists threw out theories and ideas?more robotic elements?that could be another effector?this could be some kind of propulsor, maybe a piece of limb?what could this be?
+Both spent several hours poring over the new finds, explaining their theories to Tallant, ignoring the calls to dinner and huddling over the latest discoveries well into the night.  By the time Leonard pronounced himself satisfied, they had categorized the pieces and examined them fully, so the two men called a halt to the evening.
+"Dr. Leonard," Obora said, "there may indeed be live microbots buried deeper in the pit?we have to be careful with this?observe all safety protocols.  I don't want to inadvertently activate something we can't control."
+Leonard wiped down grime and sweat from his sunburned face.  "Oh, I don't think we have to worry about that.  Whatever's down there has been down there for a few billion years.  Highly unlikely anything would be functioning after that long."
+"None the less," Obora said, "the Ministry won't approve any further excavation until more controls are in place."
+Dana Tallant had long since excused herself from the tent and headed off to Bravo Detachment's own bivouac a half kilometer away.  She immediately huddled with Ozzie Tsukota, Bravo's CQE.
+"Q2 says Sanders Leonard has known and provable connections with a Red Hammer cell in Belgium. I've been given orders to keep him under surveillance.  Oz, I want to plant a TinyEye on the guy.  Can you get the bot set up for me and we'll work out a plan to place it on him somehow?"
+Tsukota rubbed at some chin stubble, thinking.  "If he's Red Hammer, he may have a halo.  TinyEye might wind up in a real furball of a fight.  I'll have to hack out some defenses for the bot or it'll never last."
+"Do that, Ozzie," Tallant ordered.  "Maybe we can do the placement when Leonard sleeps?if he ever sleeps."
+Grant, the Detachment's DPS 1, poked his head into the tent.  "Sorry, Lieutenant, but I thought you'd want to know?that Leonard guy just left his own tent?looks like he's heading for the excavation-"
+Tallant stood up abruptly.  "Get on it now, Ozzie.  Soon as Leonard hits the sack, we'll do a covert placement of TinyEye.  After that, the bugger won't be able to fart without us knowing about it."
+Tallant left with Grant.  The two of them soon spotted the archeologist striding purposefully through scattered piles of equipment toward the pit.  They hung back, then followed at a discreet distance.  It was dark away from the lampstands but knots of people clustered randomly about the campsite.  There were arguments, laughter, gesturing and even some singing.  One trio of diggers staggered off toward a line of bushes, joking with each other, clearly hammered and about to keel over.
+Tallant and Grant used the commotion to move closer but maintained a few dozen meters gap between themselves and Leonard.  He was clearly heading out of the camp, toward the excavation pit itself, several hundred meters to the north.  
+"I'm exhausted," Dr. Obora had admitted to Leonard in the examining tent, a few minutes before.  Leonard was a short, stocky red-haired Englishman, with sunburned cheeks and freckles; Obora was taller, gray stubble lining his face, with deep, blazing eyes and arms that flapped like a bird.  "Why don't we grab a bite from the mess tent?maybe Ndaba's left a few scraps for us."
+Leonard demurred.  "I'll be along.  I want to go back down to the pit.  Just to check the layout?there's something I'm missing, some piece of context.  Maybe it'll come to me."
+Obora was already headed out.  "Suit yourself.  Me? I'm famished.  See you later for drinks by the river."  That was a standing joke, to call Engebbe's pitiful little streambed a mighty river.  He disappeared through the tent flaps and was gone, heading across the open ground to the mess tent on the other side of the compound.
+Leonard had lit up a pipe and wandered out to the excavation pit.  It was a short ten minute walk, through scraggly acacia bushes to the sloping edge of the dig.  The sun had gone down hours ago, but a twilight glow still permeated the site, refracted through a haze of ever-present dust from the pit.  Leonard stopped at one corner of the trapezoid, checking the alignment of the laser grid.  It seemed okay.  Then he spotted a man crouching on the opposite slope, right on the edge of the pit.
+He didn't notice Tallant and Grant hovering just out of the light cone of a nearby floodlamp pole.
+The man Leonard had spotted was Lekati Leaduma, their dig leader.  The Maasai laibon had laid out a blue cloth on the dirt, and surrounded himself with a variety of paraphernalia.  
+Leonard hung back by a light pole, in the shadows.  Leaduma was focused on his work, unaware that others hovered a few meters away. 
+"Tell me truths, not lies?" Leaduma was mumbling.  He cast stones from his nkidong gourd, thirty two in all, tumbling out onto the blue cloth.
+"-tell me what is to happen?truth, not lies?."  He threw nine stones, then re-adjusted a tying amulet around the tumbled stones.  The amulet consisted of two cowry shells with assorted black and white rocks, forming semi-circles around the edges of the blue cloth.  
+"Is this ground cursed?I ask you this now?."  Leaduma shook the gourd vigorously, then let it spill more items, a bullet, a hyena's tooth, some clear crystals.
+Leonard was about to step into the light, when something over the center of the pit caught his eye.  The dust haze had grown thicker as the sunlight failed.  There was a reddish tint to the haze and it coiled and boiled like a miniature thunderstorm.  Pinpricks of light shot through the haze?what was this?
+Leonard stared at the gathering cloud.  It crept toward them like a silent thunderstorm, backlit from within by flashes and speckles of light.  Even as he watched, the cloud had swollen and spilled up out of the pit, advancing on their position, a flickering ground fog with faint whispers on the breeze, hushed voices barely audible.  Leaduma shifted uneasily.  Leonard stayed where he was.
+Tallant knew right away what they were looking at.  "Botswarm," she whispered to Grant.  "Get your weapon ready, Corporal."  Grant unholstered his magpistol and clicked the setting to fifty percent.
+"Who did this thing?tell the truth, no lies-" Leaduma was crouching, gathering items from a necklace of leather amulets hung from his neck.  He threw five stones.
+The fog thickened and billowed, but Leaduma didn't move, though he was visibly shaken.  Leonard stepped back deeper into the shadows, letting the fog curl around his feet and legs.  There was a definite pressure there, and a high keening buzz.  
+Locusts, Leonard had decided.  Flies.  He backed away.
+Leaduma was now completely enveloped in the fog.  Only the shadow of his form could be seen, backlit from the light poles blazing down into the excavation. 
+"I am protecting this ground?you see that, don't you?  You can't hurt this ground?go back?go back where you came from and hurt others-"  He poured out the contents of another amulet, a piece of lion's skin, more black and white stones, tiger cowry shells sealed with tree gum.
+Leonard decided it would be best if they both retreated into the tents, where netting could protect them from the locusts.  But he couldn't move his legs.  He was stuck?as if anchored to the dirt.  He squatted down, stuck his hand in the swirling fog and immediately yanked it out?Ow!...something had stung him.  Now, his feet hurt?he was losing his balance?he saw Leaduma leaning, wobbling, keeling over onto the ground?Leonard dropped to a knee and was pulled, sucked down to the dirt and was on his side, flailing?swatting?lashing out?trying to fight it off?but he couldn't breathe?the red haze?like a cloak smothering him?couldn't?get a?couldn't?and then ?and then it came.  A snap flash, like a camera going off.   An image of geometric forms-icosahedrons, polygons, trapezoids-all compressed into a tunnel, a long curving corridor and he found himself hurtling at breakneck speed down this corridor, until-
+Sanders Leonard never saw the two nanotroopers springing out of the bushes, weapons drawn, firing short blasts at the oncoming swarm?.
+
+Chapter 5
+"Quantum Shadow - Alpha Down"
+
+Somewhere in Tibet
+January 23, 2049
+0815 hours
+
+"Contacts, Skipper?multiple aerial contacts!"
+Johnny Winger shook himself out his dream and squinted at the lifter instruments.  "What bearing?  How many?"
+Sheila Reaves pointed to the display.  "All around us?closing fast?could be drones. Or small aircraft."
+Winger looked out the windscreen of the lifter.  The sun was a pale daub rolling around the mountain valleys on the horizon.  He knew the lifter didn't mount much in the way of defenses?just a few beam weapons was all.
+"Get the disrupters primed?I'm betting these are Chinese?Peoples Liberation Army killdrones."
+Moments later, as the lifter banked and soared over mountain tops following its nap-of-the-earth profile, the sky was filled with small objects, objects that swooped and dove at them from every angle. Objects that looked initially like birds, until one of them unleashed its own weapons.
+The beam struck the lifter starboard side, near her nose, a blinding flash-zap! followed by some audible creaking and whistling as the lifter's hull had been breached.  Straight away, M'Bela reported problems.
+"I've lost pitch, Skipper!  Must have slammed my rudders too.  I'm banking now-" The lifter careened sideways, wobbling, sideslipping through the air.  They dropped ever closer to the ground, just in time to spy a large range of snow-covered peaks dead ahead.  At this altitude, there was no way the lifter would clear them.
+"Deeno, get those disrupters-"
+"Primed and ready, Skipper!" D'Nunzio came back.  She twisted the joystick around, trying to get a bead on a flock of nearby drones.  One came slashing right over top of the lifter.  Close up, it did resemble a black eagle, its quadjets pulsing differentially to spin it around for another pass.  Seconds later, more drones flashed by and they were soon engulfed in the middle of the flock.
+M'Bela had put them down on the deck, screaming over sere and barren ground a several hundred knots.  "I can't get go any lower or we'll-"
+At that moment, the entire cabin lit up with intense white-yellow light.  Part of the portside hull gave way, peeling off like a banana skin and the ship slewed hard left, then dove toward the ground.
+Winger and the rest of the Detachment were thrown violently about as M'Bela fought the controls.  Scant seconds before the lifter would have slammed into the side of a mountain, he managed to pancake them onto the desert floor, the lifter hopping and cartwheeling and sliding like a huge discus as it gouged out a furrow several thousand meters long.  The ship spun, lifted onto its portside skids, then slammed back to the ground and skidded to a grinding, screeching stop.  Dust and snow swirled through the jagged hull breaches as groans and coughs filled the cabin.
+Sheila Reaves was the first to regain something like consciousness.  She threw off her harness and scurried about the wreckage of the cabin, getting the rest of the troopers up and moving.  Through the gaping holes of the cabin, she could see the drones re-forming for another strafing run at the lifter.  Johnny Winger was groggy and dazed, with a few cuts on his arms bleeding profusely, but otherwise functional.  He staggered to his feet and helped Reaves with the others.
+Tactically, they had few options.  "Sheila, we can't leave the lifter?we'll be slammed by those drones if we show our faces out there."
+Reaves took a peek.  The sky was dark with drones, circling like vultures, scanning and waiting for any signs of movement in the lifter wreckage.  "That's not all, Skipper.  Look there-"  She pointed to narrow ribbon of road, snaking down out of the mountains.  Vehicles, an entire convoy of trucks it looked like, could be seen stirring up dust as they descended out of the clouds shrouding the hilltops.
+"Company."  Winger swore silently.  "Probably PLA.  Lots of them-"  he stopped in mid-sentence.  An idea had just popped into his head.  It was crazy, it was insane.  It wasn't in any manual.  But it might be their only hope of avoiding capture.
+"Sheila, I think I've still got a basic ANAD master still embedded in my capsule.  I'm going to launch it now-"
+"What can that do, Lieutenant?" asked Deeno D'Nunzio, rubbing a nasty purplish bruise on her forehead.  She kicked and pulled at pieces of gear mixed with hull debris and dust from outside.  Cold air was already filling the cabin with snow and a whistling wind.  "It's just a shell.  Unless you've got a bunch of configs?and they're almost on top of us now-"
+Winger didn't have time to explain.  "ANAD, prep for launch.  Assume C-5 and go to max rate replication?I'll hack out a config when you're out."
+He knew the bots inside his shoulder capsule had only minimal functionality but it was their best chance, maybe their only chance.
+***ANAD ready in all respects, Hub?configuring C-5, all effectors at Ready One?propulsors initialized and primed***
+"ANAD, launch now."
+The capsule port on his left shoulder popped open and he felt the familiar sting of the egress.  Moments later, a faint mist had formed up over Winger's head.  Winger pecked out a basic config on his wristpad and sent it.  Soon enough, the mist had exited the lifter cabin and a phosphorescent glow could be seen along the gouged furrow of ground just outside the lifter's portside skids.
+D'Nunzio, Reaves, M'Bela, Nguyen and Winger gathered around the jagged opening in the hull to watch.  Winger explained.  
+"I just send a config I hacked out from memory.  I told ANAD to dig us some holes, burrow into the ground, enough for all of us.  Before those drones finish off this ship or those troops arrive, we'll be buried like moles in a series of shallow dead-end tunnels."
+D'Nunzio just shook her head, eyeing the rooster-tail of dust the convoy was stirring up as it closed on their position.  "Skipper, excuse me for saying this, but with all due respects, that is truly nuts.  ANAD'll never get that done in time."
+"Oh, ye of little faith," said Reaves.  "Look for yourself?Lieutenant's done something to jazz up the swarm?I never would have believed this-"
+It was true.  Even as D'Nunzio argued the idea would never work, ANAD and its small swarm had gone to full max rate replication, chewing into the limestone and sand and snow of the desert floor, six small glowing globes pulsating and throbbing like flickering lamps on top of the snow cover.  Through the shimmering air, now hot with atom-breaking and disassembly, they could see the bare outlines of six small depressions, forming, slow-motion craters collapsing before their eyes.
+"Take whatever gear you need and let's move!" Winger ordered.  Outside the lifter, the convoy was fast approaching.  Overhead, dozens of killdrones circled like hungry birds.  Fortunately, the tunnels ANAD was forming were partially hidden from view by the slant of the lifter's wrecked hull itself.
+"GO GO GO?!" Winger barked at them.  The troopers fell out of the cabin and scrambled for their fast-forming tunnels.  "It'll be hot as fire inside those tunnels from ANAD?just grab some snow and pack it down the hole!  Come on, Alpha Detachment, move your fat asses now!"
+The whole process took only two minutes.  
+When they were done, the lead trucks of the Chinese convoy had already pulled up some thirty meters away and heavily armed PLA infantry had dismounted.  Crouching line abreast, AK beam weapons at the ready, they approached the wrecked lifter cautiously, barking orders and shouts at each other in guttural Mandarin voices.
+But just beyond the portside skid of the lifter, unseen by the troops, six small humps in the snow slowly sank in, leveling out to become flush with the snow banks all around. Onto each now-flat depression, more snow fell, quickly covering the shallow holes.  A faint orange-red glow above each tunnel dissipated and before the troops had reached the lifter and began poking and probing through the wreckage, the tunnels were snugged tight and lost to view in the rapidly accumulating snow piles.  
+Nothing was visible from above ground.
+For Johnny Winger, the next hour was the longest hour of his life.  Flashes of memory from caving trips he'd made as a child came to mind.  Hiding from sister Joanna and brother Brad in his Dad's coat closet at the North Bar Pass Ranch house came to mind.  The Swarm Chamber at nog school came to mind, sitting there in an enclosed sphere knowing you were about to be slammed by gazillions of ANAD bots crawling all over your skin.
+He had no real way of knowing what was happening above ground.  Occasionally, buried ten meters deep in his man-made cocoon of a tunnel, he heard things.  But he wasn't really sure he had heard them.  Then, he had an idea.
+Maybe I can use a few ANAD bots to make up a crude photon lens.  He'd had the presence of mind to dive into the tunnel with his hypersuit helmet.  The only question was: could he hack out the photon lens config from memory and could he receive the signal on his helmet?  For that matter, could he even pull the helmet on in the cramped coffin of the tunnel?
+Only one way to find out.
+By pushing, pulling, cursing and squeezing, Winger somehow managed to get his helmet on.  He could feel the wristpad keys with the fingers of his left hand.  Slowly, laboriously, he pecked out a config and managed to send it.  Then he held his breath, hoping it was correct and that what was left of the barebones ANAD would respond.
+Ten minutes later, a grainy image popped into view on his faceplate.  He almost shouted with joy, then settled down to study the image.
+After a few minutes, he satisfied himself that the troops and the convoy had departed, unable to find any survivors in the lifter wreckage. He couldn't really tell about the drones.  The photon lens showed nothing, but its resolution wasn't that great.
+We'll just have to take a chance.  "ANAD, I'm sending a new config?disassemble the dirt and snow over my head.  Clear the tunnel."  He pecked out the config and sent it, then waited for what seemed like forever.
+Finally, light began to glow above his head.  First a diffuse light, then some vague shadows.  More snow fell in, but in time, he found he was able to poke first a hand, then an arm, then his shoulders above the ground.   I must look like some kind of prairie dog, he told himself.
+Carefully, he spun around and studied the scene.  He saw no movement.  They were alone.  The drones seemed to have departed, though there were still dark shapes flitting by overhead, whether drones or actual vultures, he couldn't tell.  He hauled himself up and out of the tunnel and immediately crawled inside the lifter wreckage, which appeared to have been well picked over by the troops.  Instruments, wire bundles and cargo pouches were strewn everywhere.
+Winger got on his helmet crewnet and tried to contact the others.  Sure hate to have to dig them all out.  On impulse, he configged his own ANAD swarm to begin excavating the other troopers.  Inside of twenty minutes, they were all out of their tunnels, none the worse for wear and assembled inside the wreckage.
+The sun was up nearly overhead, bright in a hard blue sky, so Winger figured it was around the middle of the day.
+That's when An Nguyen spotted more company.  A large flock of goats, their wool coats white with gray streaks, and several goatherds tending and jabbing at the outside of the flock, was slowly making its way down the mountainside a few hundred meters ahead of them.  
+Nguyen recognized the scene.  "Pashmina, Skipper.  The breed is use for cashmere?and meat.  These herds are all over Tibet."
+The troopers watched the herd approaching, heading right for the lifter.  Fingers tightened on triggers.  Magazines were checked.  Weapons were aimed.
+Then Winger had an idea.  "Do these guys look legit to you, Buddha?"
+An Nguyen studied the goatherds.  "I think they are exactly what they seem to be, Lieutenant.  Goatherds heading for pasture land somewhere."
+Winger eyed the approaching flock.  "We've all got locator beacons embedded inside of us.  It's a cinch Quantum Corps knows where we are."
+"But, Skipper," said D'Nunzio, "even if they do, we're easily a hundred kilometers inside Chinese territory.  How do you mount a rescue force to cover that?"
+"You don't," Winger admitted.  "And I don't have the right configs for this barebones ANAD to tunnel us out?not across a hundred kilometers.  That would take days, maybe weeks to cross.  But we could do this: remember when we were in nog school?  We all took Klamath's course on Camouflage and Concealment."
+Sheila Reaves snorted.  "Old Man Klamath?I can hear him now?'camouflage is the art of looking like something else?blend in with your environment, become a rock or a horse or a'-" Reaves stopped, a quizzical look on her face.  "Lieutenant, surely you're not thinking-"
+Winger admitted it was true.  "Detachment, prepare to become goatherds.  On my mark, I want magpulse rounds on all three of those men, simultaneously.  Not enough to kill.  Just knock 'em silly.  When they're down, we drag them inside here.  Then I put ANAD to work like a tailor?sniffing those outfits and making some that'll fit us."
+D'Nunzio looked at Johnny Winger with a mixture of respect and incredulity.  "Lieutenant, I don't know whether to laugh or cry.  That is truly inspired?we'll look just like part of the landscape."
+"What happens after we become goatherds?" M'Bela asked.
+"We herd goats.  And we head for the Nepal border.  With any luck, we can get an encrypted satlink going out of one these helmets.  Take your wristbands too.  If we can comm up with Singapore base, we should be able to get a ride out of here, once we're closer to the border."
+"I like it," Reaves said.  "We'll be the baddest goatherds this side of Mount Everest."
+On Winger's mark, three well-placed magpulse rounds dropped all three goatherds in their tracks.  The commotion momentarily startled the flocks.  With much baying and mooing, the goats meandered and circled aimlessly around the lifter wreckage, unsure of what had happened, what to do.  An Nguyen emerged from the lifter and went over to try and calm them.
+D'Nunzio had to chuckle at the sight of the Detachment's DPS 2, an accomplished HERF and magpulse marksman, gathering his flock with soothing calls and murmurs.
+"Like he was born to the calling," she said.  
+The nanotroopers set to work, dragging the unconscious herders into the lifter.  For good measure, M'Bela checked over each man, assuring Winger that none had suffered serious injuries.  ""Just a few scrapes and bruises, Skipper.  They'll be out for hours."
+"And when they come to," Winger said, "they'll think they've died and gone to Nirvana."  Over his coupler link, he spoke to ANAD, still snuggly ensconced inside his containment capsule.  "ANAD, prepare to launch.  Assume Config C-72?PATTERN SCAN and RECORD."  
+***ANAD reporting ready for launch, Base?now assuming C-72?probes and abstractors at position one enable***
+"Launching ANAD now?."
+The capsule port popped open and seconds later, a faint mist emerged.  It drifted for a minute, then settled over the prostrate form of one of the goatherds, who lay in a crumpled heap on the cabin floor.  ANAD soon enveloped the man, sniffing atoms and molecules, recording bond positions and energies, analyzing configurations and geometries.  Ten minutes later, the Autonomous Nanoscale Assembler/Disassembler had recorded sufficient pattern information on the goatherd's clothing to report back.
+***ANAD completing initial scan?all data recorded in first memory?first order configs available?what's next, Base?  Do you wish to see the results?porting scan data in tabular form to coupler circuit***
+"No," said Winger.  "Belay that, ANAD.  Assume C-15?master replication algorithm.  Apply scan data to feedstock and replicate scanned patterns, first-order matching."
+***ANAD complying now?all effectors initialized, rep counter set to zero?standard replication engaged***
+As the troopers looked on, the faint mist swelled slightly and began to burn brighter, as the bots gathered atoms from local feedstock and began assembling a copy of the goatherd's clothing.  The entire process took nearly half an hour; some of the debris inside the cabin was used as feedstock.  When it was done, a pile of still damp, slightly smoldering clothes?gray long-sleeved chuba robe, yak fur cap, woolen leggings and leather moccasins?lay bunched up on the cabin floor beside the unconscious herder.  
+An Nguyen was the first to try the outfit on.  When he was dressed, he twirled about, showing off.
+D'Nunzio whistled and Sheila Reaves applauded.  "Central casting couldn't do as well, Buddha.  You really do look the part."
+"It's all about concealment and camouflage," Winger reminded them.  "We're blending in so those drones don't mistake us for something like illegal nanotroopers wandering around in enemy territory.  Now for the rest of us-"
+An hour later, the entire Alpha Detachment had morphed into Tibetan goatherds, complete with wooden staffs, gourds full of tsampa meal-"tastes like sawdust," complained M'Bela--, gaily patterned scarves and attachable braids of hair they could wear under their hats.  
+"I like the fleece lining inside," said Reaves, admiring her own outfit.  "Should really cut that wind outside."
+"Get your gear together," Winger ordered, still adjusting his own robe and belt.  "Everybody takes a wristpad and we'll put one helmet inside one of these leather bags.  I'll carry it like a backpack.  Now let's go gather our flock.  Once we're half an hour clear of the lifter, we'll try to get comms up, and get a signal out."
+So they clambered out of the lifter, one after another, and after some confusion and much cursing, the troopers managed to corral the last of the stray goats and gather them into something resembling a flock.
+At Winger's hand signal, the Detachment marched off south by southwest, leaning into a sniff, ice-flecked wind, heading for the Nepal border, some one hundred kilometers away.  From time to time, Winger scanned the skies, spying an occasional pair of black vultures circling overhead warily, eyeing them with suspicion.   At least, he hoped they were vultures.  With their new camouflage, he figured Old Man Klamath would be proud of them.  He just hoped that to any prying eyes looking down on the ragged flock and its erstwhile herders, the scene would resemble nothing out of the ordinary?a timeless pastoral scene?nothing but a few goats and their shepherds, trudging south toward better pastures.
+Winger figured Major Kraft would have his hide, once they had made contact, for pulling a stunt like this?an unauthorized rescue mission inside China, with PLA and Red Hammer troops all over these mountains.  But damn it!  ANAD-the full master bot-was lost up there somewhere beyond those snow-covered hills.  Nanotroopers didn't ever leave a buddy behind, even one sixty nanometers tall.  It was the Code.  It was the Book.  
+Somehow, old Ironpants would just have to understand that.  
+
+Chapter 6
+"Assimilation"
+
+Engebbe, Kenya
+January 23, 2049
+1640 hours
+
+"Lieutenant, my HERF's not working!"
+ Corporal Grant dove headfirst into the dirt and slung the carbine away, drawing his mag pistol out of a side holster.  He spat out some dirt, then slammed the READY button, got a green PRIMED light and let fly round after round of magnetic loop energy toward the swelling swarm, now barreling their way across the dusty ground of the excavation.
+Dana Tallant was ten meters away, to Grant's side, pumping rf into the formation of bots that had erupted out of the dig pit.  The thunderclaps of radio freq energy hammered the ground like fists, but had no discernible effect on the swarm.  
+"They're just eating it up!" she called back.  "We need more fire?" Tallant shook her wrist to open up a comm channel on her wristpad.  "Detachment Bravo?all hands!  Bravo One?on the double?Bravo One and bring your big guns.  Massive swarm developing out at the dig site?big bang at the dig site!  Need all available fire on the enemy!"
+Inside tents at Camp Matterhorn some three hundred meters away, troopers heard the rally call and scrambled to grab their gear.  One after another, McReady, Tsukota and M'wale, hit the ground running, arming their HERF rifles and magpulsers on the way.  Already they could see a faint yellow cloud boiling across the top of the excavation.
+"Ozzie, go left?flank left!" McReady yelled.  "M'wale, go right?other side of that truck.  I'll take center.  When you get a hundred meters out, light 'em up!  Skipper needs help.  Give 'em everything you got!"
+The troopers skidded and dashed into position.  Tallant heard the frantic positioning orders and added some of her own.  Inside of a minute, the alien swarm had escaped the confines of the pit, consumed what was left of Leaduma  and Sanders and was now rolling like a sandstorm, flecked with silent bursts of light as the bots grabbed atoms, rolling right for the camp.  Diggers and technicians were pouring out of their tents, panic setting in.  
+She slammed the approaching storm with everything she had, one HERF round after another.  By all rights, no botswarm should be able withstand that.  The others did likewise and the ground shook as thunderclap after thunderclap burst over the grounds.  But the swarm seemed unaffected.
+Jeez, what the hell beast is this?the sky ought to be raining fried bots about now-
+It was soon abundantly clear to Lieutenant Dana Tallant that Bravo Detachment was facing something they were completely unprepared for.  Tallant didn't know exactly what type of bots the swarm was made of and she didn't have time to get small and engage at molecular level.  She had an embedded ANAD in her shoulder capsule but she didn't have time to get a counter swarm going.  Still, if the HERFs and the mags had no effect-
+She opened a coupler circuit and screamed "ANAD, launch now!  Max rate reps?C-2, C-2 right now--!"
+She fired another volley of HERF and saw the red light on the barrel indicating final charge.  Angrily, she slung the rifle into the dirt and felt the sting-snap of her shoulder port coming open.  Though it was lost in the glare of the flood lamps and the choking dust, a faint flickering mist had already emerged from her containment pod.  Her ANAD master bot had launched and was even now grabbing atoms like a frantic brick mason, replicating structure, trying to build mass to counter the onrushing swarm.
+It was a numbers game now, numbers of atoms, mass and nanobotic bodies and ANAD was way behind the curve.  Already the first tendrils of the enemy swarm were almost there, closing rapidly on her position.  She backpedaled, kicked and flailed, swatting and swiping at the keening buzz that was even now engulfing her.  
+Arrggghhh?can't breathe?can't?get off me, you bastards!
+But the swarm rolled on and Bravo Detachment was soon engulfed completely.  In her last moments of consciousness, Dana Tallant thought she could hear the screams of deconstructing troopers being disassembled molecule by molecule, skin flayed from bone, faces ripped from skulls, legs and arms shredded like tissue paper.  Only one trooper managed to escape?Ozzie Tsukota, who scrambled stumbling and crawling back toward camp.  
+Then?and then? and then it came.  A snap flash, like a camera going off.   An image of geometric forms-icosahedrons, polygons, trapezoids-all compressed into a tunnel, a long curving corridor and she found herself hurtling at breakneck speed down this corridor, until-
+She landed on her butt with a hard, neck-jarring bump?somewhere?.
+
+When she was six years old, Dana Tallant had nearly drowned in the ocean.  But this wasn't like that.  Not exactly.  No, this was like being in a warm bath, surrounded by bubbles, the water caressing your skin gently.  No, that wasn't quite it either.  Maybe snuggled under the covers on a cold snowy Saturday morning.
+The feeling was hard to put into words.  Pretty embarrassing for a nanotrooper from Nebraska.  Maybe she should just report what he was experiencing, sort of like a Captain's log of sights and sounds.
+I think, therefore I am.  At least, she thought she was thinking.  I have a mind.  I have thoughts.  But there was more.  Something more than her thoughts.  Was somebody else in here?  That was ridiculous.
+I have sensations.  Hot, cold, hard, soft.  Try to analyze this.
+A snatch of memory came to her: Personal identity is the unique identity of a person existing through time.  That is to say, the necessary and sufficient conditions under which a person at one time and a person at another time can be said to be the same person, persisting through time.  In the modern philosophy of mind, this concept of personal identity is referred to as the diachronic problem of personal identity.  The synchronic problem is grounded in the question of what features or traits characterize a given person at one time.
+Where the hell did that come from?  I must have read that.
+Now, she was sure of it.  There was someone else in here.  Just a snatch of voice, a snippet-
+***Do you recognize me?***
+Recognize you?  I can barely hear you.  Yet, there was something-
+An image came to mind.  It was fuzzy at first, but with effort, it sharpened.  It was a man, a dark-skinned man, with a thin black moustache.
+Symborg.
+It was Symborg.
+***You do recognize me***
+It was a statement.  Dana was forced to agree.  And there was more.  Like whispers?she strained to make them out-
+***?within the mother swarm?you are one with us?you are part of us?***
+Dana found herself thankful for something to concentrate on.  She was intrigued and somewhat relieved that here was something she recognized?at least, she had some idea of where she was and what she had become.  Symborg was familiar.  Symborg was known.
+She had come through.  She had been disassembled and now?
+What was she?
+Symborg was saying something?or maybe the words just came floating up.  It was a quote.  Something from her grad school days, before the Corps, something from Plutarch?.
+"The ship wherein Theseus and the youth of Athens returned from Crete had thirty oars, and was preserved by the Athenians down even to the time of Demetrius Phalerus, for they took away the old planks as they decayed, putting in new and stronger timber in their place, in so much that this ship became a standing example among the philosophers, for the logical question of things that grow; one side holding that the ship remained the same and the other side contending that it was not the same."
+Yes, yes, she remembered that.  The Ship of Theseus.  The old conundrum.  If an object was disassembled piece by piece and rebuilt piece by piece over time, was it the same object?  Did the pattern remain?
+Dana Tallant understood after this that the same thing had happened to her. Over time, the truth sank in.  Like the Ship of Theseus, she had been disassembled, bit by bit, atom by atom and re-assembled somewhere else, as something else.  
+She understood somehow that she was now part of something greater.  Symborg had always called it the Mother Swarm.
+Again, Symborg came to her.  This time, he had specific instructions.
+***Your patterns have been preserved.  We have a mission for you.  You are to become a great leader***
+Dana was puzzled.  "I'm a soldier.  I have so many questions."
+***You must be patient.  In time, you will understand***
+"What is this mission?  I'm not a leader?I'm a trooper?I follow orders?fight enemies-"
+***You will be given a new configuration.  You will appear to be Normal, to be human, as I appear.  You will lead a resistance movement.  You will help implement the Prime Key.  And you will prevent other Normals from interfering with this imperative***
+"This sounds like some kind of action-adventure vid?I'm not a leader.  I'm just a soldier-"
+Now Symborg's words came at her with more emphasis, as commands.
+***Once you receive your new configuration, you will enter the WorldNet.  You will combat efforts by the Normals to remove, quarantine, destroy or immobilize entities coming from the Keeper.  These entities are critical to implementing the Prime Key***
+Dana didn't understand.  "But how can I do that?  I don't know what to do.  I don't even know what I am."
+Now, Symborg's voice was more comforting, more understanding, almost fatherly.  
+***Think of yourself like a sheriff from the American Wild West.  Think of yourself as Wyatt Earp?I see you have this in your memory***
+An image of the frontier lawman floated into Dana's consciousness, slicked back hair, bushy moustache, the silver badge?Wyatt Earp.
+***This is a very important mission.  The Normals are like outlaws.  You are the Sheriff.  You will spend part of your time as a human-like angel and part of your time disembodied, inside the Net. Your patterns will be maintained until this mission is completed, until the Gunfight at the O.K. Corral has occurred***
+Dana was still intrigued, even mystified, with all her new sensations.  She didn't know what to feel.  "I'm not sure about all this.  I don't even know how to get around.  Do I have arms?  Legs?  How do I do things?"
+***Your new configuration is almost ready.  When it is downloaded, all your questions will be answered.  Everything will be clear.  I will instruct you how to operate your new configuration***
+"It will be like learning to walk all over again?this is pretty exciting.  But I have a million questions."
+***In time, your questions will be answered.  For now, know that you will be part of a small group, a sub-element, that works from within the Net.  You will go to a place called Table Top Mountain.  It's in America.  There, you will complete your mission***
+Table Top.  She knew that place.  It was familiar.  She still had millions of questions, but Dana felt herself getting sleepy.  It came up like a faint breeze, like snuggling deeper under the covers on a snowy, Saturday morning.  
+Then she woke up.  Was it a dream?  She looked around.  
+This was no soft bed on a Saturday morning.
+Dana Tallant came to with a violent start.  She was lying in a street gutter.  Trash and dead rats and broken glass and empty cans were everywhere.  It was dark.  It was cold.  
+She learned, or maybe somehow she knew, that she had awakened in downtown Boise, Idaho.  Some side street.  She sat up.  Light snow flurries drifted down.  What the hell had happened?
+Then she had a vague memory of the assault at Engebbe?all the HERF volleys, the mag rounds, the scrambling, the approaching swarm and the pain, the stinging, the bots slicing into her.  Sitting up, she could see some kind of rally grounds down the street, torn bunting, smashed fences?had she fainted?  Or was she just hammered, stupefyingly drunk?  And how did she get from Engebbe, Kenya to Boise, Idaho anyway?  She didn't remember drinking anything.  
+Maybe I got knocked out and got medevac'ed here, then the ambulance crashed in this gutter.  
+She dragged himself to her feet, clinging for balance to a light stand and meandered down a sidewalk.  She nearly ran into a sign: Lynx and Foxx.  It was a women's clothing store.  Mannequins posed in the store front.  And there was a mirror.  Might as well inspect the damage.
+Dana studied her reflection for a few moments.  Maybe there was something on the storefront glass, a smudge or something.  Her reflection looked funny, kind of fuzzed out.  
+She found that her appearance had changed, in subtle ways.  That's what these missions will do to you, she surmised.  She raised a hand to what looked like a bruise on her temple, only to find that her hand smeared out, like a bad photo.  What the hell?  She waved her hands around.  No, she hadn't imagined it.  Then she looked at her hands directly.
+It was a hand, five fingers and a palm, but it appeared blurred, out of contrast.  Yet when she held her hand still, it solidified and seemed real enough.  But when she moved her hand or any of her fingers, the blurring came back.  Same thing with her other hand.  What on earth-
+Her hand looked like a horde of bees or flies, sparkling in the yellowish street light.  Both hands did.  As she looked closer in the display front mirror, she saw her face had the same look.
+Somehow, her skin was malleable, like dough, soft, kneaded, flashing with little pinpricks of light.
+Then it came to her, clear as the winter night sky.  She had been deconstructed by the Engebbe swarm.  She was like an angel.  She was a swarm of nanobotic entities.  
+ You have a very important mission.  The words appeared in her mind like a flashing sign.  And whose voice was that, anyway?
+By playing with her hands, by concentrating just so, she found she could change her face, her shoulders, her legs, anything she wanted.  She could make herself a comic-book stick figure.  She tried it.  She could make herself Mr. Potato Head.  She could make herself an ogre.  She could make herself a vid star.  She could flatten her head, elongate it, distort it.  Anything she wanted.
+Cool.  And a bit scary.  She could shape herself into just about any form she wanted, just by thinking of it in a certain way, a way given to her, by Symborg, she now remembered.  
+Now she felt compelled to move.  To leave, to go somewhere.  Without fully understanding any of this, she knew somehow that she had to be somewhere else, somewhere nearby.  And it had something to do with a project, an important project?the words came to her now: a symbiosis project.  
+You have a very important mission.
+She re-sculpted herself into a basic human form-that wasn't so hard, she was getting the hang of it now-and set off down the street.  She came to an intersection, noting on a clock over a nearby bank that it was almost 3:00 am and spotted a taxi, parked by the curb.  
+She went to the taxi, woke up the groggy driver and told him she needed to get to the airport.  The cabbie sat up straight and fingered sleep from his eyes.
+"Sure thing, miss.  Hop in.  No traffic at this hour.  We'll be there in ten minutes.  You got any bags?"
+Dana told him she did not.  
+The taxi sped off toward the airport, heading out Idaho Street toward 184.
+"Where ya headed at his hour, miss?"
+Dana looked up into the driver's face, a mustachioed little moon in the darkened rear view mirror.
+"Table Top Mountain."
+
+End
+
+
+
+
+About the Author
+
+Philip Bosshardt is a native of Atlanta, Georgia.  He works for a large company that makes products everyone uses?just check out the drinks aisle at your grocery store. He's been happily married for 25 years.   He's also a Georgia Tech graduate in Industrial Engineering.  He loves water sports in any form and swims 3-4 miles a week in anything resembling water.  He and his wife have no children.  They do, however, have one terribly spoiled Keeshond dog named Kelsey.
+For technical and background details on his series Tales of the Quantum Corps, visit his blog at http://qcorpstimes.blogspot.com.  For details on other books in this series, visit his website at http://philbosshardt.wix.com/philip-bosshardt or learn about other books by Philip Bosshardt by visiting www.smashwords.com. 
+Download the next exciting episode of Quantum Troopers from www.smashwords.com.  It's called "The Symbiosis Project."  Available on September 5, 2016. 
+To get a peek at Philip Bosshardt's upcoming work, recent reviews, excerpts and general updates on the writing life, visit his blog The Word Shed at: http://thewdshed.blogspot.com.

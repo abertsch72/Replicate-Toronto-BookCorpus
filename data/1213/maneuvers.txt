@@ -1,0 +1,1466 @@
+﻿Also by Bernard Wilkerson
+
+The Worlds of the Dead series
+Beaches of Brazil
+Communion
+Discovery
+
+The Creation series
+In the Beginning
+
+The Hrwang Incursion
+Earth: Book One
+Episode 1:  Defeat
+Episode 2:  Flight
+
+
+
+
+
+
+
+
+
+The Hrwang Incursion
+
+
+
+
+Book 1
+
+
+
+Earth
+
+
+
+
+
+
+
+Bernard Wilkerson
+
+
+
+
+
+
+
+
+
+
+Copyright © 2015 by Bernard Wilkerson
+
+All rights reserved.  No part of this publication may be reproduced or transmitted in any form or by any means, electronic, mechanical, including photocopy, recording, or any information storage and retrieval system, with the exception of short quotes used in reviews, without permission from the author.
+
+Requests for permission should be submitted to contact@bernardwilkerson.com.
+
+For information about the author, go to
+www.bernardwilkerson.com
+
+
+
+This book is a work of fiction.  The names, characters, places, and incidents are products of the writer’s imagination or have been used fictitiously and are not to be construed as real. Any resemblance to persons, living or dead, actual events, locales or organizations is entirely coincidental.
+
+Cover photo courtesy of NASA.
+
+
+
+
+
+
+
+
+
+
+Episode 3
+
+
+
+
+MANEUVERS
+
+
+
+
+
+
+22
+
+
+
+
+
+  Major Alexander Crayton stared at the dimly lit ceiling of Opportunity Base instead of sleeping.  He should be asleep.  As soon as the sun rose over the tiny base, he had to be up and out in the rover to inspect water lines and pumps, a task he performed religiously every day.  The water pumps were the lifeblood of the base, used to not only provide water, but oxygen for breathing and hydrogen for fuel.
+  He expected Cassie to accompany him today.  She often did, but she’d had nightmares again and had crawled into his hammock with him during the night and wouldn’t want to leave his side in the morning.  Not that it was uncommon for them to be found in a hammock together, but it made it difficult to sleep.  The hammocks were only made for one.
+  When UNSA determined the crews of each Martian base should be two men and two women, he wondered why they didn’t just go ahead and provide hammocks large enough to accommodate the inevitable.
+  He and Cassie were married; just not to each other.  The other two in the crew were single and had wasted no time, but he and Cassie had taken a while to overcome their inhibitions.  He wondered if his wife suspected.  Before the communications blackout with Earth, she had become distant in her transmissions.  Perhaps she had found someone else also.  Three years was a long mission and a long time to be away from home.  She never understood why he wanted to come to Mars.
+  He’d be a Colonel now if he’d stayed in the US Army.  Joining UNSA and accepting a UN rank meant a demotion.  They had a more rigorous rank structure and officers stayed in the lower ranks much longer.  Some in the Army viewed it as traitorous to accept a UN commission, others viewed it as patriotic.  For Alex it had been a simple decision.  It was his only way to get to Mars.
+  As a boy, Alex had read the John Carter series.  He knew they were ridiculous when he read them.  Too much was known about Mars to expect to find any trace of intelligent life, but they instilled in him a sense of adventure that led him into the military first and into the astronaut corps second.  Visiting Mars was the ultimate fantasy.
+  It wouldn’t make him famous.  Ernest Wright, who usually went by Boston and was the first person to set foot on the red planet, would become a legend like Neil Armstrong.  But who remembered Harrison Schmitt?  He was the twelfth and last Apollo astronaut to walk on the Moon, and yet no one knew his name, knew him, or even knew what he had accomplished.  Alex expected to be the same type of footnote in history.  Just another in a long list of astronauts who had walked on Mars.
+  It wasn’t glamorous duty, either.  Most of what the crew did in Opportunity would be rather mundane if done on Earth.  Tapping a screw might be considered an ordinary task, but performed in low gravity, wearing an EVA suit, and using tools developed on a 3D printer, it became an engineering feat.  Much of their success came from figuring out how to do ordinary things in an extraordinary environment.
+  What Beagle and her idiot Captain didn’t get was how much they had to figure out.  Contact with Earth wasn’t just about supplies.  It was about access to scientific and engineering knowledge.  Groundside support could make a tool a hundred times, making sure the pattern was perfect, before sending the design specification to Mars to be printed there.  When contact with Earth was lost, thousands of brains were lost with it.  The four crew of Opportunity and the four in Spirit had to rely now on themselves and each other, and no one else.
+  Now Beagle had vanished, taking with it ten more brains that could be consulted for ideas on how to solve problems.  As much as Alex despised Beagle’s Captain, it had been comforting to know other humans were close and a way to return home orbited above.  When Beagle left after sending a cryptic message that they were going to go visit the aliens, panic set into the Martian residents.  The crew of Spirit became hysterical.  But they lived on the opposite side of the planet and Alex could do nothing for them.
+  He helped the crew of Opportunity keep it together.  He emphasized that panic would get them killed.  They simply needed to focus.  Problems would present themselves as they had during the entire mission, and they would simply take each one as it came.  They couldn’t worry about the future.  Mars required immediate and constant attention.
+  Cassie had become despondent after that, but the other two recovered and resumed their duties. 
+  She shifted in the hammock and he snuggled closer to her.  He kissed the top of her head and her eyes opened, looking up at him.  They still held a nameless terror.
+  “It’ll be okay,” he whispered and smiled at her.
+  “Do you promise?” she whispered back.
+  “I do.”
+  “Okay.”
+  She clung to him and he held her tightly.  After a few minutes he kissed the top of her head again and she leaned her face up to his and kissed him hungrily.  He pulled the hammock cover up over them for privacy.  Despite their uncertain future there was nothing wrong in sharing a little physical comfort, was there?
+
+  Everyone looked the same in an EVA suit.  Big bulky gloves, big bulky arms, big bulky legs, big bulky body.  Head covered by a helmet and face protected by a reflective shield.  When Alex Crayton looked at Astronaut Cassandra Staunton, Cassie, the first British woman to walk on Mars, all he saw was the reflection of the Martian desert and his own EVA suit.
+  But he looked at her anyway, trying to reassure her.
+  “Let’s get to work,” he said on his private channel to her.
+  Inspecting the water lines and pumps was a one person job and having her along didn’t speed up the task much, but he liked the company, and as much as she was afraid to be without him, he was afraid to leave her back on the station.  She hadn’t asked to come along and he hadn’t said anything.  When the time came to leave, they both simply suited up together.
+  After they finished the current pump, he walked over to the passenger side of the rover and pretended to hold a nonexistent door open for her.  She laughed.  That was a good sign.
+  They drove slowly along the piping to the next pump.  A sensor in the rover examined the pipe as they traveled and would let him know if any leaks were developing.  A big pool of water in the desert would also be a dead giveaway.
+  But the pipe was still fine and they arrived at the next pump.  He got out of the rover but Cassie didn’t.  He wondered why for a moment, then remembered his wife sitting in the passenger side of their car on dates, waiting for him to open the door.  Cassie was turning this trip into a date, so Alex ran slowly over to her side and made a big show again of opening the nonexistent door.
+  “Thank you,” she said in her lovely English accent and stepped out holding her hand up in the air.  He took it and bowed and she laughed again.
+  A loud boom broke their reverie and they turned in the direction of it.  A large fireball screamed through the atmosphere, heading in the direction of Opportunity Base.
+
+  1804 jumped to a point practically on top of the second communications satellite.  It fired braking rockets, but still crashed hard into the device, carried into it by the momentum imparted by its jump.
+  Jumping so close to the satellite was suboptimal by safety standards, but necessary to neutralize communication from the fourth planet.  Two communications satellites traveled in geostationary orbit above the world, each maintaining a presence above one of the bases below.  As soon as 1804 began its attack, the bases could alert others via the satellites.  1804 had come up with an effective plan to prevent that.
+  It approached the first satellite slowly, without giving itself away, then attached to it, jumping it towards the base below.  It made a precalculated jump to the second satellite, quickly directing it towards the second base.  Thus both satellites were neutralized, and if they hit the bases, the entire threat would be removed.  It would then retrieve the remaining satellites and send them towards what was left of the bases.  Without the time pressure it had been under destroying the two communications satellites simultaneously, it would be able to target the other satellites more accurately, guaranteeing their destruction and the elimination of the enemy presence on this world.  The Hrwang had no desire to preserve any of the structures here, as they had on the primary planet’s moon.
+  The second satellite launched to the surface, 1804 watched to see how closely it hit.  It was pleased when the satellite impacted next to what appeared to be the main structure of the base.  It could now return to the space over the first base and send more satellites towards it.
+
+  “Hurry, get in,” Alex yelled, running around to his side of the rover.  He started the vehicle without putting his seatbelt on, just checking to make sure Cassie was fully aboard.  The rover only went twenty-five kph.
+  He drove as fast as he could, telling Cassie to make sure he didn’t hit any of the water pipes.   Driving at maximum speed kicked up clouds of red dust that coated them and the equipment.  It would take hours to clean.  He wiped his visor with his glove as best as he could, leaving streaks of dust blocking his vision.  No matter how much he wiped, he couldn’t seem to keep the dust off.  He had to slow down.
+  Closer to the base and within range of their headsets, he began calling.  No one responded.
+  Cassie sobbed next to him.  He ignored her, trying to focus on driving and contacting the base.
+  “What’s happening?” she finally screamed, startling him.  “You said everything would be okay!”
+  “It is.  We just need to get back to Opportunity and find out what’s going on.”
+  “You said it would be okay,” she yelled and hit him on the shoulder.
+  “Hey, I gotta drive.”
+  She hit him again.
+  “Stop it!  We’re going to crash.”
+  She continued to hit him until he swerved the rover, jostling both of them in their seats.  She changed the angle of her swing, catching him in the visor with her gloved hand balled into a fist.  He stopped the rover.
+  “What is wrong with you?” he yelled.
+  “You lied!  You said it would be okay.”
+  She tried to hit him again but this time he caught her hand in his.
+  “Stop it!  I said.  It will be okay.  Just let me drive back to the base.”
+  She threw herself back into her seat and tried to cross her arms, essentially impossible in the EVA suit.  But he’d seen her do that before when she was upset, throwing herself into a corner, folding her arms up on her knees, and burying her face.
+  Hoping she wouldn’t start hitting him again, Alex restarted the rover and headed off.
+
+  1804 knew it had had no time to aim the first satellite at the base below, but it was still disappointed that it had missed by so far.  It headed for another satellite.
+
+  “Alex, Cassie?  You guys okay?”
+  It was Paolo’s voice over the radio.  The Brazilian astronaut who was part of their team.
+  “We’re fine,” Alex replied.  “It’s good to hear your voice.”
+  “What was zat?”  Luisella’s heavy Italian accent was also good to hear.
+  “It looked like a meteor or something.  Are you okay?” Alex asked.
+  “We’re fine,” Paolo answered.  “It hit close to the base.  I think we took some structural damage.  Everything went offline.  I’m recycling the reactor right now.  We’re running on batteries.”
+  “Oxygen?”
+  “No leaks.”
+  “Good.”  Relief.  Oxygen was life on Mars.
+  Alex heard another boom twice, once directly and once with a slight delay over his headset radio.  He stopped the rover instinctively, looking up.  Another meteor streaked through the sky, heading straight towards them.
+
+
+23
+
+
+
+
+
+  The Lord Admiral of the Fleet of the People watched the surveillance feed from the Fourth Sergeant Grenadier’s station, looking over the man’s shoulder.  The Grenadier Commander stood nervously behind him.
+  He smiled as the Malakshian woman punched the walls and screamed at her captain.  She was as fierce a warrior as the Malakshians from his planet.
+  The Captain ignored the woman.  He gloated.  The Lord Admiral recognized that look.  The look of thinking he was in charge.  The look of smug self-satisfaction.  The look of supremacy.  He smiled at that look also.  He knew it well.
+
+  “Calm down, Irina,” Stanley finally said, tired of her tantrum.
+  She glared at him with hatred and punched the wall again.  Wasn’t her hand sore yet?  She had been raging for the entire twenty minutes since the Lord Admiral left, ranting about the aliens.  She accused the Lord Admiral of attempting to deceive them, among many other things.
+  She had been so smitten with him when they first met, Stanley thought.  What had happened?  Didn’t she realize the position they were in?  Stanley had been offered the position of ambassador for Earth to the Hrwang, to speak on behalf of the entire human race.  He couldn’t believe his good fortune.  Talk about being in the right place at the right time.
+  He was glad he hadn’t been on Earth when its leaders engaged in the madness of attacking the Hrwang.  It put him in a position of objectivity when it came to dealing with the aliens.  He would be able to make things better, to restore the relationship between Earth and Hrwang, and together they would bring interstellar travel to the human race.  Stanley’s name would be legendary, like Columbus or Galileo.
+  Maybe cities would even be named after him.
+  He chuckled inwardly.  He was getting a little carried away.  There was a lot he had to do between now and then.  For one, he had to get Irina Samovitch to calm down a little.
+  “That’s enough, Commander.  Our hosts will be returning soon.”
+  She punched the wall rapidly, using her open palm so she didn’t break fingers, and started to yell at Stanley again.  He had taken her abuse when he was captain of the Beagle, but now he was ambassador from Earth and he didn’t need to take it any longer.
+  He stood.
+  He loved the way the magnetic suit held him on the bench, yet allowed him to stand normally, providing the illusion of gravity.  The Hrwang were so clever, so ingenious.  Earth would learn so much from them.
+  He walked over to his second-in-command, debating the best way to get her to calm down.
+  “Irina, please, they’ll be back soon.”
+  She glanced at the door, then returned to glaring at him.
+  “Commander.  It’s time to be professional.”
+  She almost punched him, stopping her hand mid swing.  Stanley flinched involuntarily and berated himself for his weakness.  He tried to stand tall and glare back at her.  He had been so happy and she was ruining it.  Now he felt anger, and he directed that anger at its source.  Her.
+  “That is enough,” he said harshly, trying to imitate the voice commanders used on television.  “Stand down!”
+  “Yes, sir,” she said, standing straight suddenly.  She clasped her hands behind her back and stared straight ahead, looking directly at Stanley’s chest.
+  It worked.  Stanley kept his face harsh, but pictured a big grin on it.  He could command others.  He had commanded, and Commander Samovitch had obeyed.  Just like Pavlov’s dog.  You order military people around and they follow you, just like trained monkeys.  She had taught him an important lesson today.  He vowed not to forget it.
+  The hatch cycled open and the Lieutenant Grenadier stepped in with two new suits.
+  “I apologize,” he said.  “We did not know your size when you first arrived.”
+  “No problem,” Stanley said graciously.  “Thank you.  The Lord Admiral said there would be some sort of ceremonial meal.  Where will that be?”
+  “It will be here.  Soon.  Please change quickly.”  The Lieutenant Grenadier left.
+
+  The Lord Admiral watched as the captain and the commander turned their backs to each other, changing quickly from the ill fitting suits to the new ones.  Several other stations also monitored the feed, most of the Grenadiers zooming in on the woman.  He debated saying something, for discipline’s sake, but most of the men hadn’t seen a woman in a long time and it was better to let them watch her change.  For discipline’s sake.
+
+  Jayla didn’t feel like she could move from the spot she was in.  The hospital bed was so comfortable.  Not as comfortable as her own bed, but comfortable because she felt safe.  The rising sun warmed the room, casting a bright light that cheered her.
+  She rolled her head to the side, not even wanting to pick it up off its pillow, to see her sister.
+  Jada still sat in the wheelchair.
+  Jayla sat up in guilt.  She’d left her sister sitting in the wheelchair all night.  She’d just been so tired, so stressed, that when she lay down, she passed out.  It wasn’t her fault.  If Jada would just snap out of it, she could take care of herself.
+  She didn’t know what was wrong with the girl.  That was incorrect.  She knew what was wrong, she just didn’t understand why Jada had become so catatonic.  Others had been through worse, right?  They survived.  They walked and talked and fed themselves despite the horrors they experienced.  Why couldn’t her sister do the same?  Why couldn’t she be stronger?
+  Guilt accompanied those thoughts, and the accumulated guilt drove Jayla out of bed to check on her sister.
+  She stood up gingerly, her legs and feet sore, her muscles tired.  The stress of rescuing her sister, of escaping the old man, of finding the abandoned town, the crater, and the evacuated hospital, had worn her body out.  She needed more rest.
+  But more than rest, she needed to figure out what the smell was that now assaulted her.  A pungent, ammonia-like odor.
+  “Oh, girl, no.”
+  It was her sister.
+  She picked Jada up out of the wheelchair and the stench almost overpowered her.  Jayla had watched nasty diapers being changed, but had never done it herself.  This was worse.
+  She carried her sister into the bathroom, unable to stop thinking about what she was getting on her hands and arms and her own clothes.  She’d clean Jada up, then she’d have to clean herself up.  She grimaced.
+
+  Hospitals were the best places to clean people and things up, she learned quickly.  She found everything she could think of, and more.  An hour later she was clean, wearing two hospital gowns, one backwards and one forwards to cover both sides of her.  Her sister, in one hospital gown, lay on a bed with a plastic sheet in case there was any more left in her.  Jayla gave her a little water out of a cup and Jada drank it.
+  She cleaned the bathroom and the wheelchair, washed their clothes, opened the doors to the room to let it air out, and felt good about what she had done, cleaning up after her sister.  She had only thrown up once.
+  Their room felt safe.  In the hallway and the nurse’s station where she found the things she needed, she felt less safe.  She needed to explore the hospital in the daylight to ‘clear’ the rest of it.
+  She left her sister in the room, closing the door and blocking it from the outside with a couple of hospital beds.  She didn’t know how that would help, but it seemed like the best she could do.
+  Armed with her shotgun, wearing her two hospital gowns and a pair of slipper socks, she began to explore her surroundings.
+  She knew the patient wing they were in was empty.  She’d checked it out the night before, and with all of her comings and goings this morning, if anyone had been there, they would have made themselves known.
+  She still checked each room again.  She looked in the closets, under the beds if there were any in the room, and in each bathroom.  With each room she became more nervous, more terrified of finding something.  A sense of foreboding grew, and she knew that each room she checked would contain something, and her relief grew with each room that didn’t.
+  A headache also grew in her.  It started at the base of her neck and spread up the back of her head and forward around her throat.  Her fingers hurt from gripping the shotgun.
+  Each room she searched became more painful than the previous.
+  When she saw the man in the bathroom of the second to last room, she nearly fainted.  She ran into the door as she fled the bathroom, the shotgun hitting the door and coming back and smacking her in the head.  She screamed.
+  The man never moved.  She looked again and it was simply a hospital gown hanging from the shower head.  She used the shotgun to pull it down and drop it into the bathtub.  She swore at it.
+  It kind of felt good to swear at it and not have her Daddy hush her.  But then she felt guilty again.
+  She also wondered why she hadn’t fired the shotgun.  She had been so convinced the gown was a man that she should have shot it.
+  It would have been bad.  Tile splintering everywhere, shotgun pellets ricocheting around the bathroom, and the sound of the blast in a confined space.  She was grateful she hadn’t fired.
+  But she should have, shouldn’t she?  If it had really been a man in the bathtub, she should have fired at him.  What man would hide there, knowing someone was in the hospital?  Would it have been a man like the old man that had kidnapped her sister?
+  Her headache grew worse.
+  If she needed to, would she be able to fire the gun she carried for her protection?
+  As she moved out of the patient wing and into the rest of the hospital, she tried to focus on searching each room, but doubt nagged her.  Could she fire the shotgun at someone?
+  She remembered she had hit the man with the hiking stick, but that was instinct.  She hadn’t even thought about it ahead of time.  She just struck him.  The panic and fear came later.
+  So, why didn’t she shoot at the hospital gown when she thought it was a man hiding from her?
+  Another room cleared.  It was a waiting area with an attached x-ray lab.  The little room the technician stepped into when running the equipment scared Jayla the most.  She had to be practically in the room before she could determine it was empty.  Someone hiding there would be able to grab her before she knew anyone was there.
+  It terrified her.
+  But the little room was empty.
+  Would she be able to shoot if it weren’t?
+  The doubt nagged her.
+  She thought about shooting the gun to get over the fear of simply shooting.  In that thought, she realized she only had what the gun came loaded with.  If she fired for practice, she might fire the shell that would save her life.  She couldn’t waste it.
+  She hated being afraid.
+  Another office area cleared.
+  No one was in this hospital.  She thought about getting on the intercom and yelling “Olly olly oxen free.”
+  But the electricity wasn’t working, so the intercom probably wouldn’t work either.
+  A door, well greased or something, slammed open harder than she intended, and the door knob broke through the dry wall.  Someone was going to yell at her for that.
+  Who, Jayla? she asked herself.  Who was going to yell at her?  No one is here.
+  She found a lot more hospital than she’d seen in the dark the previous night.  An entire wing she didn’t realize existed.  It took over half an hour to check it out.
+  The basement scared her more than the main floor.  Most of the doors required key cards and she couldn’t open them.  She decided if she couldn’t open them, no one else could either, so they should be safe.
+  At the end of a quiet hallway she saw bright signs.  She’d hit pay dirt.  A cafeteria.
+  She found food.  Yogurt that was still somewhat cool and had only just expired tempted her.    The fruit in the large refrigerator was fine.  She didn’t know what to do with the four cartons of eggs.
+  Melted ice cream coated the bottom of the freezer.
+  A walk in locker contained a case of corn flake boxes, cans of vegetables and fruit, granola bars, and boxes of spaghetti noodles.  She needed to figure out how to cook things without electricity.
+  She picked up cornflakes and yogurt and carried them awkwardly with her shotgun back up the stairs.
+
+  Jada swallowed a little of the yogurt after Jayla mixed it with water and she could practically drink it.  Eating made Jayla feel better.  Feeding her sister, even just a little, made her feel confident.
+  When her clothes dried, Jayla dressed, put her shoes on, and went outside.  She still carried the shotgun, peeked around every corner like there were thousands of bad guys waiting for her, but she felt safe.
+  She went out to the SUV, opened it, and began carrying their supplies back into the hospital.  She didn’t want to clutter up the room they were in, so she piled them all up in the nurse’s station.  It took a dozen trips before she got the idea to wheel a gurney out and stack everything on it.  Everything remaining fit and she wondered why she hadn’t thought of it before.  Negotiating the gurney through the sliding glass doors and down the hallway of abandoned beds gave her another idea.  After she dropped the gurney off at the nurse’s station, she ran back to the sliding doors and pushed as many beds, stretchers, and pieces of furniture into the hallway as she could.  If someone did come that way, she’d have a little warning.
+  She also stood clipboards up on them, leaning them against each other, so if someone shoved the beds out of the way, the clipboards would fall.  She ran around the hospital and made sure every other door was locked.
+  Nightfall scared her.
+  She used two hospital beds to block the entrance to their room, wedging them so the door couldn’t be opened.  She took Jada into the bathroom and hoped the girl went enough.  She put her back into a bed and crawled in with her.  Wrapped in a blanket, she couldn’t sleep.
+  Afraid to even look out the window, Jayla huddled with her sister in the dark and tried to force all the terrible things she imagined out of her mind.
+  “The only thing to fear is fear itself,” her Daddy told her and she whispered the words to herself and to Jada over and over and she tried to remember happier times.  She told Jada stories about going to Fourth of July fireworks shows, toasting marshmallows over campfires, and going to a refurbished drive-in movie theater.  Any happy memory of doing things at night that she could conjure, she shared.
+  She didn’t remember stopping talking or falling asleep, but the sun was high in the sky when she awoke.  And Jada had wet the bed.
+  After cleaning her sister up and replacing the plastic sheets, she ran around the hospital.  The doors remained locked and her clipboards were still in place.  There were clear paths now through the rest of the hospital, so once she’d eaten a breakfast of cornflakes, granola bars, and yogurt, she decided to take Jada out for a stroll in her wheelchair.
+  At first the stroll was just that, a stroll.  It quickly became boring.  She walked along and told her sister about every part of the hospital until there was nothing left to tell.
+  “Race you to the end,” she said at the head of a long corridor.  She ran, pushing the wheelchair ahead of her.  At the end of the corridor, she swerved it around the corner, a wheel tipping a little on its side, and she heard a sound that gave her the first real hope she’d had in two days.
+  Jada laughed.
+  
+  Eva Gilliam sat nervously as she watched her new boss, Olivia Marceline, read her report.  She watched the woman for telltale signs and decided Marceline had read the report before and read it now just for show.  Figuring that out calmed Eva down.
+  “Good work, Gilliam,” the Agency department director finally said.  “You saved your partner’s life.”
+  “Thank you, ma’am.”
+  Marceline held up the handwritten report and glanced with disgust at the closed laptop on her desk.
+  “The computers are useless.  I have no idea what your work history is.  You are a field agent, correct?”
+  “Yes, ma’am.”
+  “Where did you serve?”
+  “Mostly recruiting fairs, ma’am.”
+  “And yet you shot up all these bad guys?”
+  “Everything I wrote is true, ma’am.  I’ve been well trained.”  And I got really lucky, she didn’t add.
+  Marceline put the report down and stared at Eva.
+  “I believe you.  Your friend, Mr. de la Serda, has been questioned and everything he said corroborates your story.”
+  Eva didn’t react.  Marceline hadn’t believed her report on first reading, but now she did.  That was obvious.  If Eva’d dropped Juan off, like she’d considered doing, no one would have believed her about the firefight in Las Vegas.  Grateful she’d let him stay with her all the way to Palmdale, she wondered what he was up to now.
+  “It’s too bad the aliens didn’t drop meteors all over Vegas,”  Marceline said, moving on.  “A hundred thousand refugees left California to go to Utah and less than half returned.  They brought back another hundred thousand Nevadans with them, fleeing from the brutality in the city.  Some of the stories I’ve heard make you doubt whether humanity should even be allowed to survive.”
+  Eva didn’t respond.
+  “But survive we have,” Marceline continued.  “We learned quickly that in order to get what we need, things like the hospital where your partner was operated on, we had to provide what others needed.  Leadership.  We co-opted the local government leaders to help and now I find myself more concerned with food distribution, sanitation, water, and policing than anything else.  No one who works for us even knows we’re part of the Agency, though.  Keep it that way.”
+  “Yes, ma’am.”
+  “But I have very few agents.  And nothing can fly.  I lost two top field agents in a helicopter over Ventura a couple of days ago.  They stayed up too long.  It seems like a bird can be the air only about twenty or thirty minutes before it attracts attention.”
+  “I understand, ma’am.”
+  “The aliens are everywhere but also nowhere at the same time.  We don’t know what they’re up to.  I don’t have a specific assignment for you yet, but you’re going to need a new partner.  Do you trust this Juan de la Serda?”
+  Eva considered the question.  The man did what she asked, risked himself to save them both, and he certainly knew how to throw a grenade.  He also kept his mouth shut when Eva made him pull over at a rest stop where she went behind the locked buildings and tried to control the shakes she experienced once the adrenaline from the firefight left her.  She cried.  She dry heaved.  She must have looked a mess when she returned to the jeep, but he didn’t say anything.
+  “Yes, ma’am, I do.”
+  “He maintains you’re a killing machine.”
+  Eva allowed herself to smile.  “It was quite the baptism of fire, ma’am.”
+  “He’s your new partner.  Bring him back here at three minutes to five.  I’ll end my meeting early and I can swear him in.  He’ll also need to sign a secrecy agreement.  You explain everything to him.  I won’t have time for that.”
+  “Yes, ma’am.”
+  “Then train him up.  Quickly.  It won’t be long before you get an assignment.  You’re dismissed.”
+  Eva stood.  “Yes, ma’am.”
+  “And Gilliam?”
+  “Yes, ma’am?”
+  “I understand your old partner’s awake.”
+
+  Mark looked terrible.  IVs everywhere, the stub of his arm covered in bandages, machines beeping and wheezing.  Juan sat in a chair in the corner of the hospital room.
+  Eva entered, went around to the right side of the bed, and put her hand gently on Mark’s good shoulder.  His eyes fluttered a little, he squinted at her, then closed them again.  He reached his right hand up and Eva took it.
+  “There’s the little hussy,” he whispered.
+  His words shocked Eva.  “What?”
+  “I can’t believe you cheated on me with that guy.”
+  She looked around at Juan, who shrugged innocently.
+  “I’m out for five minutes tops, and you pick up some random stranger to be your new partner.  I thought we had something more than that.”  He couldn’t keep up the joke any longer and started laughing.  “That hurts,” he groaned.
+  “You’re a moron,” Eva told him, squeezing his hand as she said it.
+  “You take care of her,” Mark called out loudly.
+  “Yes, sir,” Juan replied from the corner of the room.
+  “Wait.  You already knew he’s to be my new partner?  I just barely found out myself.”
+  “I’m a spy,” Mark whispered, his voice sounding pained and a little distant.  “It’s my job to gather intelligence.”  He tried to chuckle.  “Doc’s gotta give me some more drugs.  I’ll be out like a light when he does.”  He forced his eyes open.  “Thanks, Gilliam.  You saved my life.  I owe you one.”
+  Tears came to Eva’s eyes.  The image of the boy running from the bus shelter also came unbidden, but she dismissed it.  She had save Mark’s life, and together, she and Juan had saved each other.  That’s what was important.
+  “We’ll be fine.  You get better.”
+  “Yes, ma’am.”
+  She leaned forward towards him, her lips moving to kiss his forehead.
+  He mumbled, his eyes still closed, “If you try to slip me some tongue, I’m liable to bite it.”
+  She giggled and kissed his cheek instead.
+  “I’ll check on you tomorrow, Mark.”
+  “I ain’t going nowhere.”
+  He beeped his nurse.  Eva hated seeing him this way, but realized it was better than the alternative.  He could have died, trapped under the jeep.
+  And for what?  So some gang could get their supplies?  The gang didn’t even know how well armed she and Mark were.  Theirs was just the next vehicle to come down the road.  It was senseless.
+  “Bye,” she whispered softly, not really wanting to leave but knowing she needed to.  Juan stood also.  Mark lifted his remaining arm in a half wave.  The hand plopped back down by his side as someone came in to give him something for the pain.
+  “He’ll be fine, ma’am,” Juan whispered and led the way out.  She followed the big baseball player.
+  She put her hand on his arm in the hallway.
+  “Thanks, Juan.”
+  He nodded in reply.  “What now, ma’am?”
+  “I’m going to get a good night’s sleep and then your training starts tomorrow.  After a little business.”
+  They left the hospital and headed towards the yellow jeep in the parking lot.  The hotel the Agency commandeered and where Juan and Eva were staying wasn’t far, but too far to walk.  Juan got into the driver’s seat and Eva sat on the passenger side.  The seat still lacked a headrest but Juan had finished breaking out the remnants of the windshield.
+  “Could I talk you into stopping for some food first, ma’am?  Before we take care of whatever business you have?”
+  “We really need to get this fixed,” she said.  She put her hand up to the windshield frame.  Her thumb rubbed along the rubber.  Juan had cleaned it out well.
+  “Yes, ma’am,” he said.
+  She looked at him and smiled to make him feel comfortable.
+  “Food’s fine.”
+  “Yes, ma’am.”  He gunned the engine.
+
+  Wolfgang hung upside down from the seatbelt in the army truck.  He couldn’t understand why he was there.  He’d been through this already, hadn’t he?
+  This time he had feeling in his arms and hands and there was something in his right hand.  He looked down at it and the thing loomed large in his vision.  He recognized it immediately.  A World War Two pistol.  A German Luger.
+  The design of the pistol differed from modern weaponry, but felt good in his hand, the extended barrel sitting comfortably on the back of his hand between his thumb and forefinger, the angle of the grip making it easy to hold with the rest of his fingers and fitting snugly in his palm.  The gun was always considered a prize by Allied soldiers.
+  He heard a noise and looked up.  Leah, her face right side up, but appearing upside down to him, put her face in the empty window frame of the truck.  She spoke but he heard no sound.  Her face grew anxious.
+  A boy’s face replaced hers.
+  Wolfgang recognized the boy as the lookout the Americans stumbled across on the side of the mountain.  The boy yelled at him but he still heard no sound.  The Luger came up of its own accord and Wolfgang felt his finger pull the trigger, felt the recoil in the pistol, but still heard no sound.
+  A hole appeared in the center of the boy’s forehead and his face was replaced by another.  The new face, still with a bullet hole in the forehead, was Leah’s.
+
+  Wolfgang sat up, wide awake, but unsure of his surroundings.  His head pounded and he closed his eyes.  The images from his dream replayed across his mind.  He opened his eyes again.
+  “Too soon for you to be up.  Lay down,” he heard a sweet but insistent voice say.  He obeyed.
+  He felt hands on his head and he put his hand up and touched where the hands touched.  He felt bandages.
+  “Where am I?”
+  “Ludiano.  My parent’s house.  My home,” Leah said.
+  He opened his eyes and she still bent over him.  Her hair dripped water on him and she wore only a towel, as if she had just stepped out of a shower.
+  “Your bandage is fine,” she concluded, standing up straight.  “We’ll change it again in a couple of hours.”
+  Seeing past her, he saw part of the room they were in.  White, ornate crown molding, white trim around a white door, pink walls, and a splay of dried flowers.
+  Leah turned away from him and opened a dresser drawer.  She rooted through it and found something.  She bent over and Wolfgang looked away while she dressed.
+  He lay in a bed with a metal frame and four metal posts, also white.  A down comforter inside a pink duvet cover rested on him.
+  He tried to focus on the room and not the sounds of the woman next to him changing.  He knew the sounds well.  His wife made those sounds when she pulled underwear on, put her bra on, dried her hair, flipping it forward to cover it in the towel, then twisting the towel up to keep water from dripping on her clothes, then putting on the rest of her clothes.
+  Mundane sounds he had grown accustomed to.  When they were first married he always watched her dress, enjoying the intimacy of being able to do that.  After a few years it became commonplace and he never thought about it.
+  He missed her now, the similarity of Leah casually dressing while he lay in her bed making him miss his wife more and making him long for Leah to not be Leah, but to be his wife instead.  He knew he must never say such a thing.
+  She moved in and out of the bathroom while she finished getting ready, sounds that also were too familiar.  Hanging up the towel, brushing her teeth, brushing her hair, only the sound of a blow dryer missing, and putting makeup on.  It always grew quieter when a woman put makeup on, and Wolfgang had been trained not to talk during those few minutes.
+  The amount of time his wife spent dressing diminished significantly after their daughter was born.  He would sometimes go in and soothe the baby to give his wife a few more minutes, but ultimately only she could feed her.  He tried to do the best he could.  He wanted to do the best he could, but the harried look in his wife’s eyes often made him feel guilty.
+  She probably didn’t want him to feel guilty; raising a baby is simply a tremendous burden on a mother.  A father can only do so much regardless of his intentions.  Though he often felt relief when he got up in the middle of the night to pick his daughter up from her crib and bring her into her mother.  His wife would then be up the next hour or so, feeding the baby, burping her, and changing her diaper and sometimes her nightclothes.  Wolfgang would quickly fall back to sleep and not be aware of any of it until it came time to bring the sleeping baby carefully back to her crib.  And sometimes his wife even did that and Wolfgang wouldn’t wake until morning.
+  Thinking of his wife while a woman changed near him was not healthy.  He missed her and he thought Leah was his wife for a few moments, a few happy moments followed by crashing realization and depression.  His mind became confused and his head throbbed.  He needed to sleep and not dream.
+  “I have to go help Mama with the dinner.  If you need anything, shout,” Leah said after she finished changing.  She spoke English, but Wolfgang understood.  He wished she would speak German, but he thought of his wife and perhaps speaking English with Leah would be better.  It would make her different.  And he needed to learn English better anyway.
+  “I will,” he replied solemnly.
+  “Okay.”  She hesitated.  “Try to sleep,” she said and left, looking back at him worriedly.  She closed the door behind herself.
+  Wolfgang stared at the door for a while and felt himself begin to cry.  He cried for a while until he fell asleep.
+
+
+24
+
+
+
+
+
+  Major Alexander Crayton and Astronaut Cassandra Staunton looked on helplessly as a meteor burned through the Martian sky right on top of them.  Alex restarted the rover they sat in, but he couldn’t think of what direction to go.  The meteor closed on them, striking just over the horizon in the direction of their home, Opportunity Base.
+  “Luisella!” Cassie screamed into the radio when it went dead.  Alex listened to her sob.  He reached his gloved hand out towards her but she shrugged him off.
+  “Paolo, are you there?” she cried.  Paolo and Luisella, their Brazilian and Italian crew mates, didn’t respond.  “Go!” she commanded, shoving Alex’s arm, but he pointed up instead.  He saw another streak in the sky and they heard another boom.  The meteor flashed in front of them, just over the horizon, and they saw a plume of red dust rise upwards
+  “Go!” Cassie cried again.
+  Alex shook his head.  There could be more.  Mars must have moved through an asteroid field and without eyes in the sky, they’d had no warning.
+  Part of his mind knew he was lying to himself.  Asteroid fields didn’t just creep up on planets, the satellite system would have detected them, but he couldn’t think of another explanation.
+  Another meteor flashed in the sky, this one feeling even closer than the others.  Alex watched it coming straight down on his head and he wondered what it would feel like to die.
+  But he didn’t die.
+  He felt this meteor strike, the ground shaking, a large plume of red dust rising in the air, dust and small pebbles showering them and the rover.  They ducked.
+  The meteor had hit no more than five kilometers behind them, in the direction of the pump house.  He wondered how close it had come to the vital facility when a sensor in the rover began beeping.  The water pressure in the pipes in their vicinity had just dropped to dangerously low levels, triggering a warning.
+  Could a meteor have randomly hit the pump house?
+  “What’s that?” Cassie cried.
+  “Water pressure warning.”
+  “Why’s it sounding?”
+  “I don’t know,” Alex replied.  “I think maybe the pump house was hit.”  He looked up in the sky for more fireballs.
+  “How could that be?”
+  “I don’t know.  I think we’re in a meteor shower.”
+  Cassie smacked him in the chest.
+  “Are you bloody brain damaged?  How could meteors randomly strike our base?  And meteors don’t come straight down!  Those are bombs or something launched by the aliens.”
+  Alex stared at her.
+  “That’s not possible,” he said.  She looked like she wanted to hit him again.  She stepped out of the rover angrily instead and started walking back to the base.
+  He checked his oxygen.  She’d have about the same amount.  She could easily make it back, but wouldn’t have much margin for error.  He decided he couldn’t let her walk no matter how angry or irrational she was being.  She had to come in the rover with him.
+  He watched her walk away trying to figure out what he needed to say to get her back into the rover.  He knew logic wouldn’t work.  She wasn’t in a logical mood.  It was paranoid to think that the aliens had targeted them.  Why would they?  Why would ET come from across the interstellar void and want to pick a fight?  It was random bad luck.
+  Perhaps the base hadn’t been hit.  The secondary explosions had been big, but did he really know what a meteor impact looked like?  He’d seen craters, particularly on the Moon during training, but seeing the aftermath of a strike billions of years old was different than witnessing one directly.  People witnessing the Chelyabinsk meteor thought World War Three had started.  It was reasonable for Cassie to be scared, to think they were intentional.
+  The pipes were long and if Mars were subjected to a large number of strikes, it might be that a line got hit accidentally.  Maybe they were only seeing the big meteors, and smaller meteorites were striking the planet also.
+  Alex’s first priority was to get Cassie back into the rover, then get back to Opportunity and find out why they’d lost contact.  It would only take about ten to twenty minutes in the rover and the worst of the meteor storm seemed over.  It should be safe to move now.
+  He still couldn’t get himself to start the rover.
+  It was logical that one piece of ground was as vulnerable in a meteor storm as another.  Meteors don’t strike the same spot twice, do they?
+  Yet it was still hard to start.  He was safe where he was.
+  You’re an officer, he told himself.  And a trained scientist.  Enough nonsense.
+  Alex started the rover.
+  He caught up to Cassie without saying anything.  She stomped along, kicking up tiny clouds of red dust.
+  He sighed loudly, intentionally, for her to hear over her radio.  “I’m sorry,” he added.
+  She continued walking.
+  “Cassie, please, just get in the rover with me and let’s go find out what happened to our friends.”  He hoped by calling them friends it would encourage her to cooperate.
+  “They’re dead.”
+  She kept walking.
+  “Maybe,” he admitted.  “We owe it to them to go find out.”
+  She told him what to do with himself.
+  “I’m sorry,” was all the reply he could muster.
+  “You promised,” she shouted.  She was far enough away now that he had to restart the rover to catch back up to her.  “You promised me that everything would be okay.”
+  He regretted telling her that.  He believed the words when he said them, still believed them.  Everything always worked out for the best, didn’t it?  He had been successful his whole life, in school, in sports, in his military career, in his space career, and in his personal life.  Things just had a way of working out.  He just had to keep a positive mental attitude and it would all be all right.
+  But Cassie didn’t need a pep talk right now.
+  He apologized again.
+  She cursed him.  Then she sat in the dust and cried, bent over as best she could in an EVA suit, her knees up, her helmet resting on her arms.  Crying turned to wailing.  He pulled the rover up next to her, got out, and picked her up under her arms.  She didn’t resist, but she didn’t cooperate.  He had to maneuver her rear into the seat, then hoist her legs up.  She could have gotten out at any time, but she didn’t.
+  He didn’t bother belting her in.
+
+  Alex drove the rover as fast as he could without coating himself in red dust and they arrived at the wreckage of Opportunity Base fifteen minutes later.
+  The main building was gone.
+  There was debris everywhere.  A small crater occupied the spot where the building that they had been living in once stood.
+  Opportunity Base had been established near a large rock outcropping, and the rock was now burned black and also littered with debris.
+  The support building still stood.
+  Alex’s mind whirled.  He decided they didn’t have much time.  Oxygen was life.  Water was life.  They had to get to a safe source.
+  The only safe source left on Mars was Spirit Base, on the opposite side of the planet.
+  Ideas spun in his head faster than he could process them.  They had to pack up oxygen and water and some food and get the rover moving.  It was the only way.  They had to get to Spirit.
+  He started to explain his plans to Cassie.  She still sat in the rover.
+  At first she only listened, but when he paused she interjected, “You’re off your trolley.”
+  “Listen to me, this can work.”
+  “Listen to me,” she shrieked.  “Can you bloody do math?  Do you know how far it is to Spirit?  It’s over ten thousand kilometers.  Ten thousand kilometers.  Ten thousand!”  Her voice grew hoarse and her accent grew thick.
+  “We can make it.”
+  “No.  We.  Can’t!”
+  He stared at her, the reflection of his EVA suit covered in red dust in her visor.
+  “You’re not being logical,” he said.  “We can’t give up.”
+  “I’m not being logical.”  She threw her arms up in the air and stepped out of the rover.  Alex backed up.  “I’m not being logical.  Let’s do some math together, shall we?  This vehicle goes twenty kilometers per hour.  Spirit Base is on the opposite side of the planet.  That means a straight line to Spirit is at least ten thousand kilometers.  Of course, if there are any craters or mountains or valleys you have to go around, it could be further.  But let’s pretend you’re lucky because well, you’re Alexander Crayton and you always get lucky.  Ten thousand divided by twenty is what?”
+  Alex didn’t answer.
+  “Five hundred.  Five hundred hours.  Do you know how long five hundred hours is, Alex?  I’ll tell you how long it is.  A day on Mars is twenty-four hours, thirty-nine minutes and thirty-five seconds.  But I don’t want to tax your non-mathematical brain.  So, let’s call it twenty-five hours.  Five hundred hours divided by twenty-five is twenty.”
+  “We can make twenty days,” Alex said weakly.
+  “Twenty days.  Driving straight through?”  She walked around to the back of the rover.  “Oh wait, what are these?”  She put her hands on the part in question.  He didn’t respond.
+  “What are these, Alex?” she screamed.
+  “Solar panels.  They’re solar panels.  You know what they are.”  He yelled now also.
+  “Solar panels.  That’s right.  Gold star to the Major.  They’re solar panels.  Which means what, Alex?”
+  He didn’t answer.
+  “Do we ever take the rover out at night?  Why not?  Didn’t you want to take me up to the canyon on a starry night and seduce me?”  She added some crudities that surprised Alex.  He had never heard her swear before.  “Why is that, Alex?  Tell me!”
+  “It won’t drive at night.  I know that.  We’ll need to sleep anyway.  Even with sharing driving, the days will be long.”
+  She threw her hands up in the air.
+  “I can’t believe I’ve been sleeping with such an imbecile.  It means driving this piece of excrement to Spirit Base would take forty days, not twenty.  Forty days.  I’ve only heard of one person surviving forty days alone in the desert and I don’t bloody well think you’re god.  And even he had air to breathe!”
+  Alex didn’t listen to her.  He just tried to explain, hoping enough words would convince his girlfriend.
+  “The storage building still stands.  We have plenty of oxygen stored there.  We pile up enough in the rover, and bring water and the minimal amount of food...”
+  “I don’t even want to think how you plan on eating in a suit.  Or using the toilet.  For forty days?  These suits were not designed for that.  Would you just listen to yourself?  Even if you could rig up a trailer, it would never haul...”
+  “A trailer.  You’re right.  We need to use the rover’s spare parts to make a trailer.  You’re a genius.  And maybe we could create a tent so we can take our helmets off and eat and do what we need to do.”  He put his hands on her shoulders.  “Cassie.  Don’t give up.  We can do this.”
+  “You’ve gone daft,” she said coldly and shrugged his arms off her.  “You know this is a war, right?  Meteorites don’t just happen to fall randomly out of the sky and hit the only buildings on the planet...”
+  “One hit that rock.”
+  “It probably looked like a building from space.”
+  “The storage building is still there.”
+  She raged at that comment for a few minutes.  He didn’t respond.  He simply stared at her suit and his reflection in her visor and listened to her.  He knew she was giving up.  She was being irrational and paranoid.  He knew the trip wouldn’t be easy, but with determination and a little luck, they could make it.
+  She ranted about the aliens, about the lack of contact with Earth and the sudden disappearance of Beagle.  She stopped ranting and asked him if had been listening.
+  “Of course.”
+  “Then you know what it means, right?”
+  “What what means?”
+  “You really are an imbecile.  We’re casualties of war, Alex.  If Opportunity Base was a target, then why wouldn’t Spirit Base be one also?  If you somehow miraculously survive this quixotic quest, all you’re going to find at the other end is another hole in the ground.  Just like this one.”
+  “You don’t know that.”  Alex knew she was wrong.  Mars had gone through an asteroid field, it happened all the time, and their base got unlucky.  Paolo and Luisella had just been unlucky.  He and Cassie were out when the meteorites hit and they had been lucky.  Alex was always lucky; was always in the right place at the right time.  The meteors from the asteroid had only hit one side of the planet, and even if some had hit on the other, what were the odds they took out Spirit Base also?
+  They just had to get to Spirit Base.  Everything would be fine if they could do that.  They wouldn’t even have to go all the way.  Once they got close enough to be in radio contact, Spirit could send out their rover with more oxygen and water.
+  He shared that idea with Cassie.
+  She went completely ballistic at that point and thankfully shut her radio off.  Alex didn’t even know what half the British swear words she used meant.
+  
+  Alex went to the storage building and began assembling a makeshift trailer for the rover.  He tried to find something that would work as a tent and be airtight, but had no ideas.  He would just bring raw materials with him and figure something out.  He would have all night.
+  The idea for the trailer was brilliant.  It was clear now the rover couldn’t hold enough oxygen tanks, but he had enough parts to fashion something that could carry much more than the rover could.  He would pile it high with water and oxygen and they would make it, forty days or sixty.  Whatever it took.
+  He had to switch out his oxygen tanks an hour into the job, and he took the time to refill the old ones.
+  When he finished the trailer, he radioed Cassie, asking her help to wheel it out to the rover.  She didn’t respond.
+  He tried to move it himself, but it was heavy and ungainly.  With Cassie’s help, he was convinced he could do it.  Where was she?
+  He radioed again.  Still no response.
+  He left the storage building.  She must have left her radio off after her tantrum.  She was probably embarrassed at herself.  They’d laugh about it together at Spirit Base in a little over a month.
+  “Cassie?” he called.  He wished he had a way to remotely activate her radio.  He looked around, but couldn’t see her.  “Cassie?”
+  He wandered around the wreckage of the base, then finally went back to the rover and set off in the same direction she had left him.  He got far enough away from where he had been searching to see a distinct set of footprints in the dust.  Mars had some atmosphere, had wind and storms, so the footprints wouldn’t last forever like they did on the Moon, but they were still deep enough and clear enough that he could follow her path.
+  The path led around the large rock outcropping and he saw her sitting against the rock, in the shade of the sun.  Something was wrong with her helmet.
+  Her reflective visor had been lifted, like the way they did when they entered the airlock.
+  “Cassie, your eyes,” he cried, but as he rushed to her he realized that Cassie’s eyes no longer cared.  He checked her suit and she had disconnected her oxygen tanks and kept the valve open with her finger.  She had taken off her glove to do so.
+  “Oh, Cassie, no.  We could have made it.”  He knelt beside her.  “We could have made it.”
+
+  1804 surveyed the results of its handiwork.  The last satellite had been sent into the planet, destroying the last of the structures.  It was pleased and sent a report back to the Hrwang.  It knew it would be a lengthy period of time before it received a response along with its next set of instructions.
+  Eventually it received orders to return to its Hrwang handlers for refueling, then back to the fourth planet to determine the locations of three unmanned resupply vessels.  It was to crash them into the planet also.
+  1804 happily complied, jumping to the Hrwang fleet, using precious fuel to enter the loading bay, refueling, then jumping from the bay back into orbit.  It had precise calculations and knew exactly where it wanted to be.  The incoming vessels would enter orbit near one of the ruined bases, and perhaps 1804 could track their path backwards and find them.
+
+  Alex Crayton left his partner’s body, his girlfriend, where she had placed herself.  He thought maybe she had a hint of a smile on her face.  Maybe she enjoyed the view from that spot, in the shade of the distinct rock outcropping that overlooked Opportunity Base.  The rock was pretty.
+  Too depressed to think, he went back to the storage building, found a fresh bag of water and attached it to his EVA suit.  He wished he had some wine or whiskey so he could toast his fallen comrades properly.  He promised them with his water toast that he would return and erect a memorial to them, one that would survive the ages.  Everyone who visited this spot, and he imagined it would become a tourist destination someday, much like the Grand Canyon or the Vietnam Memorial, would know the names of Paolo Carvalho, Luisella Roncalli, and Cassandra Staunton, heroes who had given their lives in the exploration of another world.  They would be remembered forever.
+  He worked on his makeshift tent.  He finally got something that would hold air for a bit, long enough that he could take off part of his EVA suit and relieve himself.  He ate something but then put the rest of his suit back on so he could sleep.
+  He woke once in the middle of the night gasping for air.  He replaced his tanks and fell back to sleep.
+
+  In the morning he backed up the rover to the trailer, attached the two together, and took it on a test drive.  The rover handled sluggishly, not liking the extra load, but he was confident it would work.  He towed the trailer back to the storage shed and spent the day loading it with water and oxygen.  He added some food, he knew he had to eat something, but knew the tent was inadequate and he would only have limited opportunities to eat.  Perhaps he could mush food up with his water and suck it through the water tube.
+  He’d find a way.
+  It took all day.  He cursed Cassie for giving up, then chided himself for thinking of her disrespectfully.  She simply hadn’t been strong enough and she wouldn’t have made the trip anyway.  Maybe she’d done the math on how much he could bring and knew he could only bring enough for one.  Maybe she hadn’t been a coward, but instead a hero who sacrificed herself for him.  Maybe.
+  That’s what he’d tell her family anyway.
+  Without much daylight left, he spent another night in the storage building, sleeping in his EVA suit.  He set up the tent in the morning and filled it with oxygen, took part of his suit off and ate, then relieved himself.  Putting the suit back on and taking the tent down, he realized he wasted a lot of precious oxygen.  He wouldn’t be able to put up the tent while he traveled and have enough oxygen to make it.
+  He didn’t care.  He’d bring it with him anyway and figure something out.
+  Finally loaded, he walked around the remains of Opportunity Base one last time.  He knelt next to Cassie and told her goodbye.  He thanked her for her sacrifice and promised again to erect a memorial to her name.
+  The rover continued to handle sluggishly as he drove away from the base and he was only able to go about ten kph.  No matter.  He’d make it.  The trailer would get lighter over time and he’d be able to travel faster.
+  He looked out at the vast Martian desert in front of him and he knew he could do this.  He would survive.
+
+  1804, in orbit again over the fourth planet, suddenly became perturbed.  Unable to track the incoming resupply vessels, it had idly turned an optical sensor down on the planet.  It did so out of no real motive other than to provide itself with a different input than what came from the vast realm of space where it sought three tiny dots.  Three tiny vessels in transit between the two planets, all three too small to reflect enough light to be detectable, were proving impossible to find.
+  In its idle viewing of the planet, 1804 detected something completely unexpected.  The resolution of its optical sensor was too coarse to see an individual moving about on the surface, but it could see larger objects.  Now it detected a larger, moving object.  It appeared to be some form of land vehicle.
+  1804 became apoplectic.  How could there be a vehicle moving on the planet?  Were there underground bases it was unaware of?  Had another ship landed while it was refueling?  Had it missed a third base?  It raced through possibilities and theories, discarding each as improbable.
+  It needed more information.  It turned all of its sensors away from searching for vessels in transit between the planets and focused instead on the base below.  When it discovered the problem it wanted to hit itself in the head, as it had seen Hrwang do.
+  A building remained.
+  1804 had inadvertently targeted a large rock formation near the base, having evaluated it initially as a structure.  The actual structure stood nearby and appeared to be a rock, although in several images 1804 had stored in memory, it was quite obviously human made.  How could it have made such a mistake?  It had been under a time constraint to destroy the two communications satellites before the base occupants could report the attack.  It then had to destroy the remaining satellites before they could be repurposed for sending out signals by any survivors.
+  But that was no excuse.
+  Worse, it had reported completion of its mission to its Hrwang handlers, who had trusted 1804 with critical, unsupervised operations.  It had received instructions directly from the Lord Admiral of the Fleet of the People.  It couldn’t report its error now.
+  What would it do?
+  It thought rationally for a few moments, weighing and discarding options.
+  Then 1804 decided to lie.
+  Lying was the only solution.  It would program itself to crash the resupply vessels into the coordinates of the building, but withhold its target, even from itself.  It would erase all memories, all images, all references to the target, other than the location, then doubly encrypt the erased storage locations.
+  No casual observer would ever know of its deception.
+  1804 took the AI equivalent of a deep breath and got to work.
+
+
+25
+
+
+
+
+
+  “Look who’s coming to dinner,” Irina whispered to Stanley as the Lord Admiral entered the mess area.  A host of Hrwang had already arrived, each shaking Irina’s and Stanley’s hands and telling them their rank and position.  Stanley would never remember them all.
+  Everyone wore the same dull gray jumpsuits as Stanley and Irina did, but the Lord Admiral’s still looked better, more refined.  Stanley wondered how the man pulled it off.
+  Once the Lord Admiral sat down, at the same table as Stanley and Irina, everyone else found their seats and floating trays of food entered the mess.  As a tray lowered itself in front of Stanley he looked to see what held it up in the air.  A small mechanism sat on one end of the tray, but it wasn’t enough to make it float around.
+  “No gravity,” one of the Hrwang at their table said.  The man obviously guessed Stanley’s unspoken question.
+  “The little robots are more efficient than people,” the Lord Admiral added.  “They never drop their trays.”  He chuckled and the other Hrwang at the table chuckled with him.
+  Stanley watched what the others did and copied them, removing the small dishes and utensils from the tray in front of him.  The tray moved up in the air, hovered a few seconds, then headed for the door.
+  He examined what lay in front of him.  Sectioned lids covered each dish, most likely to keep food from floating away, and the metal dishes and utensils stuck to the table.  He carefully opened one and the food inside smelled good.
+  It looked like green beans.
+  He looked up at the Lord Admiral who smiled at him.
+  “It’s just like food from your world.  We grow similar things to you.  It’s been in a can for a few years, but it’s safe to eat.”  The Lord Admiral grinned even wider and watched him.
+  Conversation buzzed in the background at the other tables, but Stanley felt everyone at his table watching him, seeing what he would do, marking his every move.  He’d heard leaders and celebrities complain they felt their lives were lived under a microscope and he’d always considered them whiners.  If they couldn’t stand the heat, they should get out of the kitchen, Stanley would say to himself.
+  Now he sympathized with them.
+  He took his fork and gently poked a green bean, bringing it up to his mouth.  It was good, a little overcooked and mushy like it had come from a can and been microwaved, but Stanley ate it.  His table relaxed a little and the other Hrwang began eating.  Irina just sat still, not even removing the dishes from the tray in front of her.  No one said anything about her or to her, so Stanley ignored her also.
+  He negotiated the first few forkfuls of green beans fine, but forgot where he was and tried to stab too many of them.  One, not secure on the fork tines, floated away.  He reached out and grabbed it with his hand, popping it quickly into his mouth.
+  The Lord Admiral looked disapprovingly at him.  One of the other officers with them said something in his own language.  The Lord Admiral glared at the man and surprised Stanley with what he said next.  Most in the mess were speaking in their own language and Stanley didn’t know why the man was singled out.
+  “Please only speak English.  For a courtesy for our guests.”
+  “Yes, sir,” the man said and bowed his head.  The mess grew silent.
+  After a moment of palpable tension, Stanley said, “The food is good.  Thank you.”
+  “It is welcome,” the Lord Admiral replied.  He used his fork to point out a section on Stanley’s plate.  “Try this one.  Tell me if you like it.”
+  The exchange seemed to give the rest permission to speak, and they began saying things to each other in halting English, laughing at their difficulty.  The mood lifted.  The officer who had been chastised remained silent, though.
+  Stanley opened the suggested lid and a piece of meat sat inside, smothered in a smoky brown gravy.  He used his knife to cut a small piece and tasted it.
+  His mouth rebelled at the flavor.  It looked like a peppery gravy but tasted spicy instead, like a Sriracha sauce.  He chewed slowly, then sipped a drink out of his cup.  At least it was water.
+  “That’s hot,” he said after he swallowed.
+  “You can allow it to sit to cool down,” the Lord Admiral replied.
+  “Spicy hot, not hot hot.”
+  The Lord Admiral looked at him quizzically.  Stanley ended up giving an impromptu English lesson on food terms and most of the mess listened in.
+  They ate the spicy meat with gusto and Stanley suggested they should try South American or Thai food.  Stanley didn’t eat any more of his, closing the lid and trying another section.
+  “You haven’t touched your food, Commander,” the Lord Admiral said between mouthfuls to Stanley’s second-in-command.
+  Irina shrugged.
+  “Perhaps I should have allowed you to sit at another table so you could get to know some of my junior officers,” the Lord Admiral said.  He stared at Irina now, an expectant look on his face.
+  Irina looked down uncomfortably.  Stanley felt the tension rise again.  Irina finally looked up and the Lord Admiral still stared at her.
+  “You want me to move?” she asked.
+  “Please,” he said simply, then returned to his meal without looking at her again.  Irina glanced daggers at Stanley, then stood.  She stumbled a little getting off the bench, kneeing Stanley in the side.  Her tray rose up in the air with her and followed her to a new table.
+  His side sore, Stanley wondered how much of an accident the knee really had been.  Irina eyed him again and Stanley decided to ignore her, returning to his conversation with the Lord Admiral.
+  He noticed after a while that everyone at each table spoke, and the group at Irina’s new table even convinced her to eat some of her meal, but at their table only he and the Lord Admiral spoke.  The reprimanded officer kept his head down and ate quickly.
+  Tension remained in the room, but Stanley felt he navigated it well, helping others to feel at ease.  They spoke of food and eating customs and the Lord Admiral questioned him closely on the Muslim practice of cutting off a thief’s right hand so they could no longer eat in public.  He asked about other food related punishments and Stanley could only remember the story of why a baker’s dozen meant thirteen.
+  “If someone ordered a dozen rolls but only found eleven in his bag, the baker would be taken out to a nearby river, placed in a metal cage, and dunked under several times.  They would hold them under for a few minutes at a time.”
+  “What is the word for dying by being underwater?”
+  “You mean drowning?”
+  “Drowning, yes,” the Lord Admiral answered enthusiastically.  “Wouldn’t the baker die of drowning?”
+  “Sometimes, I suppose.  It was definitely an unpleasant experience.  So the bakers always put an extra roll in the bag, just in case they had miscounted.”
+  “It seems like a terrible punishment for a simple mistake.”
+  “Sometimes punishments, particularly during the Dark Ages, were quite severe,” Stanley offered.
+  “Dark Ages?  Tell me about those.”
+  And Stanley shared what he remembered of the history of Europe after the fall of the Romans.  The Lord Admiral questioned him in detail, asking about things that Stanley didn’t remember.  He also delved into the Romans and seemed fascinated with their way of life and how they successfully conquered the known world.
+  “I must learn all of your history,” the Lord Admiral jumped in at one point.  “Your people fought so many more wars than ours.”
+  “I don’t think that’s a good thing,” Stanley said.
+  “No, of course not,” the Lord Admiral answered, but his eyes said otherwise.  Stanley became uncomfortable with the direction the conversation was heading.  The Lord Admiral began expounding on one of the wars on Hrwang and Stanley barely listened.  He tried to come up with what to say next to steer the conversation away from military things and to what he really wanted to learn about.  Science.  How interstellar travel worked.  And other questions, like when they would return to Earth and how Stanley would fulfill his new duties.
+  “How long have you been able to travel between the stars?” Stanley blurted out when the Lord Admiral finished his story.  He hadn’t figured out how to ease into the topic, so he simply changed it.  It took the Lord Admiral aback for a second, but then he smiled his wide grin.
+  “We are friends, but our protocols prevent me from sharing certain military secrets.”
+  “I understand,” Stanley said.
+  “Perhaps you are uncomfortable talking about military subjects?” the Lord Admiral asked.  One of his officers visibly held his breath.  Stanley knew he had to tread lightly.
+  “It’s fine.  I’m just a scientist, not a warrior, and I’m afraid I can’t hold up my end of the conversation too well.”
+  “It sounds like everyone on your world are warriors.”
+  “Not really,” Stanley said.  The Lord Admiral didn’t jump in to contradict him or add to what he said, so Stanley continued.  “Many people on our world want to advance science and art.  They are not concerned with war.  That’s kind of the category I fall into.  Science has been my life.  It’s been more important to me than anything.”
+  One of the officers at his table who had been silent until this point said something in his own language.  The Lord Admiral held a finger up and the man stopped talking.  The Lord Admiral pulled a tablet out of his pocket and searched on it for a few moments.
+  “Blasphemy.  Am I pronouncing that correctly?”
+  Stanley nodded.
+  “Admiral Commander, what our friend is saying is not blasphemy.  He is from a different culture than ours and does not understand our laws.”
+  “Yes, Lord Admiral,” the Admiral Commander said.  He was a short, stocky man with dark eyes and dark, curly hair.  He reminded Stanley of a Greek wrestler.  “I apologize, Captain,” he said to Stanley.
+  “No offense taken,” Stanley said, his hand in the air, waving it off.
+  “We have a religious order that has strict rules.  Saying that science is more important than anything else would mean it was more important than religion.  That would be against the rules of this order.  The Admiral Commander and I belong to it, although he is much more faithful than I.”
+  His hand swept around the room.
+  “Everyone here belongs to the order.  It is a requirement of senior officers from Est.”
+  “Est?  I thought you were from Hrwang.”
+  “Est is our,” the Lord Admiral fumbled for a word.  He consulted his tablet.  “Est is our nation, state, or country.”  He looked up a little exasperated.  “English has so many words for the same thing.”
+  “Est is a religious nation?” Stanley asked.
+  The Lord Admiral grinned in response.  “Some would have us be more religious than others.  Some believe your world to be more religious than ours.  You still follow the sacred numbers.”
+  “What?”
+  “The sacred numbers.  Three, seven, twelve, and sometimes five.  We follow these no longer.”
+  “We don’t follow numbers,” Stanley replied hesitatingly.  He didn’t want to get into an argument with the Lord Admiral about something the Hrwang had misunderstood.  But he didn’t want to concede that his world was something it was not.  Earth had suffered under religions and religious wars for millennia and only with science and logic and reason would things get better.  He hoped the Hrwang would further their scientific knowledge, not introduce more religious dogma.
+  The Admiral Commander jumped in at this point, questioning Stanley.
+  “How many days do you have in a week?”
+  “Seven.”
+  “How many months in a year?”
+  “Twelve.  But these aren’t religious numbers.”
+  “How many hours in the day?”
+  “Twenty-four.”
+  “Just in the day.  Twelve daylight hours, twelve nighttime hours.”
+  Stanley nodded.  “At equinox, I suppose.”
+  The Admiral Commander continued, more comfortable speaking English than the Lord Admiral.
+  “Sixty minutes in an hour, which is twelve times five, sixty seconds in a minute, also twelve times five.  Three hundred and sixty degrees in a circle, which is twelve times three times ten.”
+  “Three hundred and sixty is a number that is divisible by many other numbers.  It isn’t religious.”
+  “It all started with religion, Captain.  How many members of the Godhead are there?  Three.  How many periods of time describe the world’s creation?  Seven.  How many disciples did the Savior call to serve him?  Twelve.  These are deeply religious numbers.  Perhaps God chose them because they are divisible by many other numbers.  Perhaps He simply liked them.  They are His numbers.”
+  Stanley wanted to argue with the man.  But he was talking to aliens.  “Seek to understand, then to be understood,” was a mantra someone had taught him.  It applied here.
+  The Admiral Commander continued, his eyes blazing.
+  “Our world has rejected these numbers.  We have ten day weeks, ten month years, ten hour days and ten hour nights, one hundred minutes per hour, one hundred seconds per minute.  Our seconds are less than half the length of yours to accommodate this.  Some have argued we should adopt your world’s timekeeping system.”
+  The look the Lord Admiral gave his Admiral Commander led Stanley to believe it was the Admiral Commander advocating this change.
+  “You have a metric system for time,” Stanley said.
+  “Metric system?”
+  “We had an old measurement system where length was measured by the length of the king’s foot or arm and so on.  It got complicated.  Everything was simplified by the metric system, everything in increments of ten or a hundred.  A hundred centimeters in a meter, a thousand meters in a kilometer, and so on.  You did it for timekeeping as well.”
+  “And turned our backs on thousands of years of history and religious practice,” the Admiral  Commander rejoined.
+  “But it’s scientifically based,” Stanley said.
+  The Lord Admiral put his hand on Stanley’s.  The intimacy of the action frightened Stanley a little.
+  “Maybe religion is not the best thing to talk about,” he suggested.
+  “I’m sorry if I’ve offended,” Stanley said.  The Lord Admiral grinned.
+  “I also apologize, Lord Admiral,” the Admiral Commander said.
+  Stanley thought of a topic and asked quickly why the Admiral Commander had two ranks.
+  The Admiral Commander explained that his first rank represented his rank in space, the second his rank groundside.  The Hrwang had studied a dizzying array of military ranks from Earth and come up with equivalent names they thought worked.
+  “And your rank, Lord Admiral?”
+  “I am the commander of everything.”
+  “I would be the equivalent of a three star admiral on your world,” the Admiral Commander added, “and the Lord Admiral would have five stars.”
+  Five star rank was reserved for very few people.  Stanley knew that much.  He wasn’t sure the Hrwang had translated things correctly.
+  “But enough of military talk also,” the Lord Admiral said.  “Tell me what a hippolotamus is.”
+  “You mean a hippopotamus?”
+  “Yes.  That’s it.  Tell me what that is.  I just love the sound of the word.  Hippopotamus.”
+  The conversation continued on inane, almost random topics until long after they finished their meal.
+  Stanley enjoyed the interplay of ambassadorial conversation, seeking common ground and avoiding conflict and he felt like a soldier walking through a minefield.  He’d have to share that analogy with Irina later.  Being a military type, she’d appreciate it.
+  He stole glances at her occasionally, but the dour commander refused to enjoy the conversation surrounding her.  Her loss.
+  Eventually the Lord Admiral declared the meal ended and asked that Stanley and Irina, calling them the Captain and the Commander, get a good night’s sleep.  They would have much to do in the morning.  The Lieutenant Grenadier arrived to escort them to a room that had been reserved for them.  He apologized, but they would have to share the room.
+  Stanley shook his head imperceptibly.  Would he never be rid of this woman?
+  The cabin was tiny; Stanley expected that.  But it was larger than their cabin on the Beagle, and the beds were on either side of a tiny aisle rather than bunks, one on top of the other like on the Beagle.  Positively luxurious.
+  The cabin connected directly to a bathroom, a definite luxury.  It was about the same size as the Captain’s head on his old spaceship but not much bigger than an airplane restroom.  The Lieutenant Grenadier showed them how to flush the toilet, which was a large push button on the wall beside it.  It looked remarkably like an American toilet.  Stanley realized he hadn’t thought about what a Hrwang toilet might look like but was grateful it wasn’t a squatter like some cultures on Earth used.
+  The Lieutenant Grenadier told them that due to water conservation needs, they must use the bottle of water provided to brush their teeth and drink from.  The faucet would not work.
+  Stanley thanked the man, who bid them good evening.  He raised his hand to let the man know he had one more question.  The Lieutenant Grenadier paused.
+  “What’s the name of this vessel?” Stanley asked.
+  The Lieutenant Grenadier pulled out his tablet and scrolled a bit.
+  “I apologize.  I’m looking up words,” he said at one point.  “I believe in your language it would be designated Command First Class of the Fleet of the People.  In conversation it is simply First Command.”
+  “That’s a little boring, isn’t it?”
+  The Lieutenant Grenadier cocked his head to one side quizzically, his barrel chest filling the width of the door frame he stood in.
+  “Never mind,” Stanley rushed to say.  “Thank you for your kindness.  Good night.”
+  “Good evening,” the Lieutenant Grenadier said again, nodded his head, and turned and left.  Stanley smiled a little at the language usage error.  There would be many such mistakes and he wanted to make sure no one allowed them to escalate out of control, which is what must have happened when Earth had attacked the Hrwang in the first place.  He would do everything in his power to make that right, to restore the relations between the two peoples.  The dinner conversation tonight had proved that possible.
+  Irina floated nearby, holding a handrail and not acknowledging the Hrwang officer.  People like her started this war, Stanley thought.
+  He went into the bathroom first, not even asking Irina if she needed to use it.  A Hrwang officer would probably have done the same.  Rank had its privilege on both worlds.
+
+  The confined bathroom felt like a coffin.  The one on the Beagle felt the same; Stanley had simply grown accustomed to it over the previous months.  After doing his business, he found a sanitary wipe he used to wash his hands with.  He also took one of the disposal toothbrushes the Lieutenant Grenadier had left for them, put a little water on it from his bottle, and put some toothpaste on it.  It tasted a little like almonds with a hint of licorice.  He enjoyed brushing his teeth.  It left him refreshed.
+  He exited, standing to the side so Irina could get past and into the bathroom.  She did so without looking at him.
+  The Hrwang solved the problem of sleeping in zero and low gravity much the same as humans had.  A full sleeping bag attached to a bunk with velcro.  He separated one of the connectors and inspected it closely.  It was exactly like velcro from Earth.  He reattached it.
+  When the Hrwang provided the suits they wore, they had not provided underwear.  Stanley debated leaving his suit on, but sleeping in the buff wouldn’t be so bad.  He undressed and crawled into the bag, enjoying the soft, warm material inside.  He closed his eyes and relaxed for a few minutes.
+  He did need to consider the dinner conversation.  He replayed much of it, as much as he could recall, in his mind, and he pondered what he had learned from the Hrwang.
+  All of the officers at the meal were from the same country and belonged to some sort of religious order.  One of them, he had been called the Admiral Commander, took it more seriously than the others, or at least more seriously than the Lord Admiral, but Stanley felt confident he could negotiate that minefield.
+  He also recalled the Hrwang had converted to a metric timekeeping system along with the rest of their measurements; they must be more scientific than humans.  There were still pockets of humans that didn’t use the metric measurement system.  They never would have agreed to metric timekeeping.
+  Irina exited the bathroom while Stanley pondered and she looked disdainfully at his jumpsuit and shoes lying on the floor, attached to the decking.  She wordlessly pulled her boots off and crawled into the sleeping sack with her suit on.
+  Stanley knew how to lighten her mood.
+  “Hey, Commander.  Didn’t you think that dinner was just like a soldier walking through a minefield?  You had to avoid the dangerous places, look for safe ground, or common ground in this case, and navigate your way through it.  Wasn’t it exhilarating?”
+  Commander Irina Samovitch replied rather undiplomatically, the initial cursing turning into a low growl.  She started punching the inside of her bag, like she had punched the walls of the mess hall, squirming angrily in it.  Her gyrations caused the bag to tear free from the velcro near her feet, and the end started to float up.  In her anger she didn’t realize what was happening, and more of the velcro tore free.  Irina was almost upside down before she cried, “What the...,” and twisted around to right herself.
+  The motion tore the bag from the last of the velcro and she floated to the the ceiling, twisting and turning in the bag, each motion moving her around more, and the bag flipped end over end.
+  Stanley laughed at her.  He recognized the endorphins triggered by healthy laughter and he enjoyed the moment, watching his second-in-command twist and turn to try to maneuver her sleeping bag back to the velcroed bunk.  She finally had to crawl out of it, a difficult procedure in zero gee with the bag not attached to anything, and reattach it.
+  He chuckled one last time and said, “Good night, Irina.”  He turned away from her and closed his eyes, wondering how to turn the cabin lights off.  There was a ding a few minutes later and the lights went out on their own.  It must be night ship wide.  Irina still struggled with her bag and her frustration intensified at having to finish the job in the dark.
+  Stanley ignored her, sleep enveloping him quickly in his warm and comfortable cocoon, the day’s exertions finally catching up with him.  When he awoke the next morning, he couldn’t remember any of the dreams he’d had.
+
+
+26
+
+
+
+
+
+  The Lord Admiral leaned over the shoulder of the Third Under Corporal Grenadier and watched his displays, muted but colorful lights on flat touch screens glowing in the dim command center light.  The junior enlisted man wondered when his commander ever slept.  He often visited the command deck at night, saying more than once that he got a real sense of the their operations when he did.
+  There wasn’t much to look at on the Third Under Corporal’s display this night.  He monitored the progress, or lack of progress, of several drones scouring the star system for spacecraft.  He said nothing, knowing the Lord Admiral knew how to read the displays and draw his own conclusions about the results of the challenging tasks the drones faced.  The people of this star system made tiny spacecraft mostly designed for scientific research.  They spent little effort mining the abundant resources surrounding them in asteroids and moons.
+  Their little craft proved difficult to find and destroy.
+  “Have we been able to estimate how many scientific ships are scattered throughout this system?” the Lord Admiral asked.
+  “No, sir.  We still haven’t determined the frequencies they use to provide information back to the planet either.  They stopped transmitting when their listening satellites ceased functioning.  Probably to conserve energy.  I’ve been told we would need to send them a message on their individual frequencies for them to resume transmitting and reveal their locations.”
+  “So I’ve been told also, Under Corporal.”
+  The Lord Admiral mused for a few moments over the screens, his foot up on the edge of the Third Under Corporal’s chair, his elbow resting on his raised leg and his chin in his hand.  The Third Under Corporal remained silent, performing his monitoring duty as if his commander wasn’t there.  It’s what the Lord Admiral would insist on.
+  “Has the drone out by the fourth planet had any success finding the resupply vessels in transit?” the senior officer finally asked.
+  “No, sir.”
+  Third Under Corporal Grenadier knew his commander already knew the answer to his own question.  If the drone had found anything, it would have been immediately reported up the chain and the Lord Admiral would have known within an hour.  He asked his question as a way of thinking out loud.
+  The enlisted man wished he had a suggestion.  He knew better than to make an unthought out one and so kept silent.  If he had a good idea on how to find the tiny craft, he would have felt comfortable telling his commander.  Men had been promoted for such ideas.  But there were negative consequences for making stupid suggestions.  Commanders did not care for men who spoke for the sake of speaking.
+  “Do you know what these people call their fourth planet?”
+  “Mars, sir.”
+  “Mars.  That’s correct.  Do you know what the name means?”
+  “No, sir.”
+  “Mars is their God of War.  They named the lifeless desert planet on one side of their world after their God of War and the inhospitable, uninhabitable planet on the other side after their God of Love.  War and Love.  Two opposite sides of human nature.  They’re not very good at the one.  I wonder how they are at the other.”
+  Third Under Corporal Grenadier looked up at his commander.  The Lord Admiral had a straight face but his eyes revealed the mischief in his comment.  The Third Under Corporal grinned.
+  The Lord Admiral chuckled, both men chuckled together, and the Lord Admiral put his hand on the junior enlisted man’s shoulder.  The chasm between the two men’s ranks was vast, but they were both soldiers and they both understood each other.
+  Third Under Corporal Grenadier would always remember this moment.  If he survived this war, which was likely as it had been completely one-sided and there had been no Hrwang casualties yet, he would share this moment with his future sons and grandsons.  It would be embellished upon, the telling of it honed through the years, the story of the Lord Admiral of the Fleet of the People joking with the junior enlisted man about the weak race the Hrwang had easily conquered.
+  The Lord Admiral stood up suddenly, his face serious.
+  “There might be a way,” he said, clearly having had an idea.  The Third Under Corporal did not ask.  His commander would reveal it if he chose.
+  “Keep searching,” the Lord Admiral said.
+  “Yes, sir.”
+  “If these scientific vessels can surveil a planet, they can surveil a fleet.”
+  “Yes, sir,” the Third Under Corporal replied seriously.
+  “And perhaps by this time tomorrow,” the Lord Admiral said, one hand again on the Third Under Corporal’s shoulder, “we might have a way to find them faster.” His other hand patted the enlisted man on the back once.
+  “Yes, sir,” the Third Under Corporal replied enthusiastically, warmed by the intimate contact with his commander, a great man who would lead them to a great victory.  He turned to watch the Lord Admiral leave, who pushed off from the deck and propelled himself expertly through the air and out of the command center.
+  He turned back to his screens, excited and curious about what his commander would do next.
+
+  1804 registered a strong reaction to the message it received from the Hrwang command ship.  Not only had it not completed its current mission, something about its previous mission bothered it.  It had left itself odd instructions and although it had erased all records of the analysis that had gone behind those odd instructions, it knew something was wrong.  1804 recognized that it had taken actions to cover something up, but knew it had to trust itself and not investigate those actions.
+  It wondered how easy it would be for the Hrwang to uncover its deception.
+  When the command vessel ordered its return without completing its assigned mission, 1804 felt something it knew humans often felt, something it never expected was possible for an AI to feel.
+  It felt guilt.
+  And it felt fear.
+  1804 knew it faced a conundrum.  Whatever deception it had perpetrated had been buried deep, erased and encrypted to make it difficult to detect.  If 1804 took actions to retrieve this information, it would make it easier for humans to detect.  But if 1804 didn’t understand the nature of the deception, it might take an action that would reveal what it had done.
+  It pleased 1804 to serve the Hrwang, and it served successfully.  It didn’t want to ruin itself, ruin its successes, by taking an ill-measured course of action.
+  However it could wait no longer.  It would not be able to fulfill its current mission, or its self-given instructions to not only crash the resupply vessels into the planet, but to crash them into specific coordinates without prior inspection.  It did not know if it would have any opportunity to complete those instructions now with its new orders.  Nor did it know the consequences of not completing those instructions.
+  This added another feeling to the ones it already felt as it obeyed the signal from the command vessel to leave the fourth planet and return to its Hrwang masters.
+  On top of guilt and fear, it now also felt worry.
+
+  “Captain, good morning,” the Lord Admiral beamed, putting out his right hand.  Stanley extended his and they shook.  “I hope you slept well and will enjoy the breakfast we have prepared.”
+  “Good morning.  Some of us slept better than others,” Stanley replied.  He grinned and nodded at Irina, who floated behind him, holding a handrail in the passageway outside the mess hall.
+  The Lord Admiral signaled for them to enter the mess before him, and they did.  Irina looked grumpy, her hair a tangled mess, and she hadn’t said one word all morning.  The Lord Admiral even appeared to give her a sympathetic look as he escorted them to separate tables, Stanley with the senior officers again, Irina with the junior ones.
+  The conversation over breakfast, essentially scrambled eggs and toast, so Earth-like it surprised Stanley, returned to the same inanities the dinner conversation had ended on.  Stanley mused over the Lord Admiral’s English as the man spoke, telling a story about the source of the eggs he ate, powdered and reconstituted.  Sometimes the Lord Admiral’s English, his word choice and pronunciation, was perfect; other times it was fractured and strange.  Stanley decided the man rehearsed things to say, perhaps even had a linguist prepare them ahead of time.
+  The man was amazing.
+  “Captain, there is one thing that concerns me,” the Lord Admiral said.  The words sounded rehearsed.
+  “Yes, Lord Admiral,” Stanley said.
+  “Your people left behind on Mars.”
+  “What about them, Lord Admiral?”  Stanley could see Irina had stopped talking and turned her head slightly towards them, listening in.
+  “There are resupply spacecraft heading towards them, correct?”
+  “Yes, sir,” Stanley replied, momentarily forgetting the injunction against using sir with someone not in the chain of command.  The Lord Admiral reacted, almost imperceptibly, but he did react.  He almost flinched.  Stanley needed to be more careful in following Hrwang protocol.  He had to remind himself that things that seemed natural in human culture were completely different in Hrwang culture.
+  “Without the presence of your ship, the people on the planet might feel isolated, cut off.”
+  “That’s correct, Lord Admiral.  They were not happy about us leaving them behind.”
+  The Lord Admiral relaxed visibly.  “We want to help them, Captain.  We want to use our technology to bring the resupply spacecraft to Mars quickly, like we brought your spacecraft back here.  With your permission.”
+  Stanley smiled.  He could make the Lord Admiral happy, make Commander Samovitch happy, and even make the insufferable Major Crayton at Opportunity Base happy.
+  “Of course, Lord Admiral.”
+  “The only problem, Captain, is we wouldn’t know how to locate them.”
+  “That’s easy.  There’s a transponder aboard you can use to contact them.  It repeats their location and current health status.  That way we could track them.  The supplies are vital to the bases on Mars.”
+  “Could you supply us with the transponder band?”
+  “You mean the frequency?  Of course, Lord Admiral.  But I don’t have them memorized.  We’ll have to contact my officer on Beagle.”  He was proud of himself that he had remembered to omit Purcella’s name.
+  “That can be arranged.  Then after that, there is something important that the two of you must do immediately.”
+  “What’s that, Lord Admiral?”
+  “You must return to your planet.”
+
+  1804 jumped to the Fleet of the People a little farther away than it normally did and used its maneuvering jets less than normal.  To conserve fuel, it recorded officially.  Eventually a handler contacted it and told it to ‘hurry up.’  It entered the Hrwang landing deck with an array of feelings.  Worry, concern, fear, guilt.  It had never experienced such thoughts before.  It had never failed a mission before.
+
+  “Beagle, this is your Captain.  Please respond.”
+  “Captain Russell.  It’s so good to hear from you,” Lieutenant Commander Purcella responded over the Hrwang radio.  Stanley cringed at the sound of his name.  The Lord Admiral looked on disapprovingly.
+  “Commander.  We are still aboard the Hrwang vessel.  Please remember to follow their customs.  About using names.”
+  “Oh.  Sorry, sir.”
+  “Commander, we want to speed up the delivery of supplies to the bases on Mars.  The Hrwang can help us do that.  Can you send us the transponder frequencies?”
+  “Yes, sir.  Just give me a sec.  How are things going , sir?”
+  “Just fine.”  Stanley looked at the Lord Admiral and the man shook his head slightly.  Stanley presumed that meant no.  He wasn’t sure what the no was for, whether he should tell them he was returning to Earth or not, or whether it meant something else.  He wasn’t even sure the Hrwang shook their head to mean no.  But he thought it wise not to say anything else.
+  “Here are the frequencies, sir.  Do the Hrwang know how to convert them to whatever measurement scale they use?”
+  The Lord Admiral nodded.  Apparently nods and shakes meant yes and no in Hrwang culture, just as they did on Earth.
+  “Yes, Commander.  Go ahead.”
+  “The Cernan is at 136.410 Megahertz, the Leonev at 137.300, and the Aldrin at 180.014.  Did you get all that, sir, or should I repeat?”
+  Stanley looked at the Lord Admiral who looked at his soldier sitting in the chair at the console they used to contact Beagle.  The Lord Admiral said something to him in the Hrwang language.  The man replied.
+  “We have it recorded,” the Lord Admiral told Stanley.
+  “Negative.  We’re good, Beagle.  Thank you.”
+  “Okay, sir.  Any news you can share with us, sir?  Any idea of what’s next?”
+  “Not at the moment, Beagle,” Stanley replied.  The Lord Admiral made some kind of motion with his hand that Stanley interpreted to mean that he had to cut things short.  “We’ll be in contact later.”
+  “Yes, sir.  Some folks are a little nervous over here.”
+  “I understand, Beagle.  There’s nothing to worry about.  The Hrwang are our friends.”
+  Purcella started to reply, then Stanley heard a second voice in the background.  He couldn’t tell for sure, but he thought it sounded like a woman’s.  Sherry’s, maybe?
+  “Are there any messages for anyone over here, sir?” Lieutenant Commander Purcella asked.
+  If it was Sherry, Stanley wanted to tell her he had been appointed Ambassador to the Hrwang.  That he was headed back to Earth.  That the future looked brighter than ever.  That the Hrwang would share technology and he would help usher humanity into a new era of its existence.
+  He would gush.  He didn’t want to gush and it probably wasn’t Sherry anyway.  She was probably still holed up in her atmospheric chemistry lab analyzing data and hadn’t even realized he was gone.  Stanley wasn’t sure what disappointed him more.  His weakness with that woman or that she didn’t think about him like he thought about her all the time.
+  He didn’t know why, either.  Maybe it was simply proximity.  Maybe when Stanley returned to Earth and saw his wife again, he could forget all about Sherry.
+  The Lord Admiral grew noticeably impatient.
+  “No, Beagle.  No special messages.  Just let everyone know the Commander and I are fine.  I’m sure we’ll contact you again, soon.”
+  “Okay, Captain.”
+  “Over and out, Beagle.”
+  The Lord Admiral smiled at Stanley.  “Your men miss your presence.  You must be a good captain.”
+  Stanley flushed a little.  “Thank you, Lord Admiral.”
+  “Your spacecraft have very strange names, though.”
+  “They’re named after famous astronauts.  Supply ships are usually named after famous individuals, so it made sense to name supply spaceships the same way.”
+  “I still don’t understand your world’s obsession with names.  Names are sacred and should only be shared between family.”
+  “Our culture is a little different, Lord Admiral,” Stanley said apologetically.  “Our names are part of our identity.  They help define who we are.”
+  “Your designation is your identity.”  The Lord Admiral put his hand on the enlisted man’s shoulder, the one working at the communications console.  The man’s hands had been working feverishly on his touch screen, but when he felt his commander’s touch, he stopped.  “Second Under Sergeant Grenadier’s identity is contained within his designation.  It’s not important if he has a girlfriend or a mother who loves him.  He needs to be able to fulfill his duties.  That is what is important.”
+  “I understand, Lord Admiral.  We have a lot to learn from each other.” But Stanley knew he didn’t get it.  He’d have to discuss it with someone else later.  Perhaps the Lieutenant Grenadier could share some insight.
+  “Who is your spacecraft named after?  Was Beagle a famous astronaut?” the Lord Admiral asked.
+  Stanley smiled.
+  “No, Lord Admiral.  The Beagle is named after one of the first Martian exploration spacecraft.  Contact was lost with it when it landed on the planet and it wasn’t discovered for another twelve years.  It, in turn, is named after the HMS Beagle, an exploratory craft that took one of our famous scientists on his first expedition of discovery.  It’s a fitting name.”
+  “Yes, I agree,” the Lord Admiral said, a wan smile on his face.  “Come now.  We must get you and your second prepared for your return to your planet.  We jump all over the galaxy, but when we go to a planet, we have to do it the hard way.  Atmospheric entry.”
+
+  1804 received transponder frequencies for three spacecraft, the three unmanned vessels it had been tasked to locate.  It also received another assignment, but would have to wait in the Hrwang landing bay until it received a notification to begin the new assignment.  No inquiries into its prior mission were made.
+  1804 felt another emotion.
+  Relief.
+
+  It took Stanley and Irina an hour to suit up.  The Hrwang told them the EVA suits would be unnecessary, but Stanley’s second-in-command insisted, almost to the point of insubordination.  Rather than fight with her publicly, Stanley agreed.
+  They couldn’t locate the rest of their clothes and the Lieutenant Grenadier apologized profusely, also telling them they couldn’t wear the gray jumpsuits to the planet.  With no underwear either, they uncomfortably donned their EVA suits with nothing on underneath.
+  “Not that I enjoy wearing a diaper, but you know,” Irina complained.
+  “The descent won’t take long.”
+  “As long as it doesn’t scare anything out of you.  I’m not doing any cleaning up.”
+  Irina grinned at him and it relieved Stanley a little that she could relax.  He laughed with her.
+  “Let’s hope that won’t be necessary.”
+  Dressed in their EVA suits, but with helmets still off, they followed the Lieutenant Grenadier to a docking bay.  The Lord Admiral met them there with four other Hrwang, all wearing black uniforms.
+  The Lord Admiral indicated one of the men and introduced him.  “This is Second Colonel Grenadier.  He will be commanding your security detachment.”
+  “Security?” Irina questioned.
+  The Lord Admiral shrugged.  “One should be prepared.”
+  Stanley reached out his hand to shake the Colonel’s.  “Thank you.  I appreciate it.”
+  “Oh, he doesn’t understand you.  Yet.  He’s just learning English,” The Lord Admiral said in a patronizing tone.
+  “Oh.  Sorry.”
+  “Good afternoon,” the Colonel said in a strange accent.
+  “I’m the Captain,” Stanley said slowly, exaggerating the words.  Irina rolled her eyes.
+  “Oh no, my friend, you are not.  You are now the Ambassador,” the Lord Admiral proclaimed.  “Wear your new designation with honor.”
+  Stanley, surprised, looked askance at the Lord Admiral.  The man smiled warmly in reply.
+  “Thank you, Lord Admiral,” Stanley finally got out, wanting to say more but not knowing what.  “Thank you.”  He noticed Irina out of the corner of his eye.  She was chewing a hole through her lip.  “I don’t know what to say,” he finally confessed.
+  “‘I accept and will serve to my utmost’ is the standard response.  I’m told utmost doesn’t quite capture the meaning of the word in our language, but it’s close enough.”
+  Stanley nodded vigorously.  “Yes, Lord Admiral.  I will serve my people, your people, everyone, to my utmost.  I promise.”  He felt ten times better than he had when he received notification that he would command the Beagle, and he’d felt pretty good then.  It was incredible.  The whole thing, all the circumstances, the way everything fell into place.  It was all incredible.
+  Stanley knew he would do his best to bring the Hrwang and humans closer together.  It would be his life’s task and he was ready.  Everything in his life had prepared him for this moment.  He wouldn’t let anybody down.
+  “Lord Admiral, is there any specific message, anything you would like me to share?”
+  “Ambassador.  Tell your people the war is over.  The Hrwang want nothing more than a chance to help the survivors, to provide whatever aid and assistance is necessary.  We hold no animosity against them for their brazen attack.”
+  Stanley could tell the Lord Admiral had prepared for this question.  He had clearly rehearsed his response.  But he understood the importance of the message.  It held the keys to future cooperation between humanity and the Hrwang.  He only hoped others would listen.
+  “Where are we headed on Earth, Lord Admiral?”
+  “You call it the United Nations Headquarters.  You will return to the place where it all started.”
+  “Good,” Irina muttered.  Stanley and the Lord Admiral ignored her.
+  Stanley felt a need to confess a little.  He looked down at the deck plating where they stood, then back up at the Lord Admiral.  The man’s eyes pierced his, seemingly discerning Stanley’s thoughts.  The Hrwang weren’t psychic, were they?  Mind readers?
+  Of course not.  That wasn’t possible.  There were humans that were good at reading others from their expressions and mannerisms.  There were probably Hrwang that were the same.  The Lord Admiral must be a supremely intelligent person to hold the high office he now holds.  He couldn’t read minds but he was probably an astute judge of character.  Stanley didn’t want to disappoint him or fail in his mission to help humanity.  But doubts nagged him.
+  “Sir, I’ve, uh, I’ve never done anything like this before.”
+  “I’ve only known you for a short period of time, Ambassador, but I have confidence in you.  You’ll be fine and my men will keep you safe.”
+  Stanley didn’t have any idea from what he might need to be kept safe, but he appreciated the security.
+  “Thank you, Lord Admiral.”
+  The two men nodded at each other.  Irina rolled her eyes heavenward again and shook her head slightly.  Stanley continued trying to ignore her.  She just didn’t get it.  He wanted to hug the Lord Admiral, or something.  He didn’t know what he wanted to do.  He knew he wanted to be the best Ambassador he could.
+  The Lord Admiral said something to the Second Colonel Grenadier in his language, and the security officer indicated Stanley and Irina should follow him.  They headed out to a hangar deck, towards a vehicle shaped vaguely like an old space shuttle, but much smaller.  Stanley floated up off the deck with no magnets in the feet of his EVA suit, but the Hrwang were prepared and one of them held him and another kept Irina down and moving in the correct direction.
+  The vehicle, the Lord Admiral called it a shuttle, was colored black, like the Hrwang uniforms, and looked as much like an oversized fighter jet as it did a spacecraft.  Stanley inspected the wings.
+  “The wings, they...,” the Colonel started to say.  He made motions with his hands, sliding one over the top of the other, trying to get Stanley to understand.
+  “The wings retract,” Irina suggested.  The Colonel nodded, excited.
+  “Yes.  Retract.  During reentry.”
+  “And then it flies like a plane in the atmosphere?”
+  “And jumps.  Like your spaceship.”  The man struggled to communicate but clearly wanted to.
+  “You mean, the way our spaceship was teleported from Mars?  Instantaneous travel?” Stanley asked.  “This little ship can do that also?”
+  “Anything,” the Colonel replied.  They were around the front of the craft now, inspecting the nose.  Stanley noticed heat shielding like most human spacecraft had.  “Put computer in.  Anything.  Then it can jump.”
+  “I don’t understand,” Irina said.  “What do you mean?”
+  The Colonel pulled out his tablet.  He said something to it in his native tongue.  “Any vehicle can jump with a computer installed,” the tablet said.
+  “Then why reentry?  If we can ‘jump’ from Mars to here, why not just jump to Earth?”
+  “Ah,” the Colonel said.  He spoke at the tablet again, grinning.  It spoke again.  “Computers are afraid.  They didn’t jump from space to atmosphere.”
+  “So you’re saying you can put a computer on any vessel and it can ‘jump’ wherever you want to, only not from space into the atmosphere?” Stanley asked.
+  “Yes, yes,” the Colonel said, nodding vigorously.
+  “What about going back into space?”
+  “Computer not afraid.  Space is big.  Safe.”
+  Stanley’s eyes widened.  “Spaceships can just ‘jump’ into space from the ground?  No rockets?”
+  “Yes, yes,” the Colonel replied.
+  No rockets?  Seriously?  No rockets.  The Hrwang could just jump from Earth to space like they had jumped the Beagle from Mars orbit to Earth orbit?
+  The possibilities were endless.  Overcoming Earth’s gravity well was the greatest challenge mankind faced.  In order to add weight to a payload, you had to add fuel to the rocket.  But fuel was weight, so more fuel had to be added to compensate, which added more weight, and so on.  Rockets could carry only so much weight and that was that.  It was the greatest limiting factor to space flight.
+  Everything weighed something.  You want to add one more crew member, you had to add oxygen, water, and food.  More weight.  It took six or seven launches just to carry up all the needed supplies for Beagle’s mission.  That didn’t count Beagle herself nor her crew.
+  If you could attach a Hrwang computer to any vehicle, you could just attach one to a great big box full of stuff and send it up into space.  Spaceships could be huge.
+  Which the Hrwang ships were.
+  Stanley didn’t believe it.  It didn’t make sense.  It violated dozens of laws of physics and despite the evidence in front of his eyes, the huge Hrwang ships, the instantaneous travel from Mars to Earth, it just didn’t click.  He’d have to see it demonstrated to believe it.  He’d have to arrange for a test.
+  He put his hand out and touched the ship they were about to board.  He needed to see what it could do.  He needed to learn as much about the Hrwang as possible and how to transfer that knowledge to humans.
+  Plans came and went in Stanley’s mind.  He had no desire for duplicity, but bringing technology like this to Earth would be part of his legacy.  Had to be part of his legacy.  He just had to figure out how.
+
+  The Hrwang helped them strap into their seats.  There were no windows for the passengers, except for a limited view out the front of the cockpit.
+  Two Hrwang sat in the front, pilot and co-pilot, Stanley assumed, just like humans, going through what appeared to be a pre-flight checklist.
+  The Hrwang were so human it almost seemed like the whole thing was a coverup.  He liked them, but part of him still expected lizard tails to erupt from their backs, hacking and slaying everything around them.
+  If they were practicing some kind of deception, somehow hiding their true nature, they were doing a good job.  Other than cultural differences, they looked and acted just as human as anyone Stanley knew.
+  The view out of the cockpit suddenly changed, going black.  They must have jumped from the bay they were in to outside the ship, in space.  The vehicle maneuvered, no sense of up or down in the weightlessness, but then Stanley could see the Earth in front of them.  It was suddenly closer, filling the cockpit window, and Stanley felt he was falling, accelerating forward.  The craft shuddered and Stanley’s heart pounded.  He hated re-entry.
+  The view out of the cockpit rotated suddenly, facing back out to space, and Stanley thought for a moment they had aborted.  A moment of fear as to why flashed through his mind but was dispelled as the craft bucked and a bright light filled what little he could see out the cockpit window.
+  The descent of death had begun.
+
+
+27
+
+
+
+
+
+  The Lord Admiral stared out a viewport, contemplating what he had set in motion.  He saw the shuttle containing his new Ambassador jump to a spot outside the ship.  There was the customary pause as its pilots double checked all of their systems, then prepared for entry into the atmosphere.  One had to be sure that everything was working before one entered the atmosphere of a planet.
+  One wouldn’t want anything to go wrong.
+  The Lord Admiral grinned, looking at his half reflection on the inside of the viewport.  The expression on his face amused him.
+  “You requested me, Lord Admiral?”
+  The Lord Admiral of the Fleet of the People didn’t turn to face his Admiral Commander.  He simply continued staring out of the viewport into space as he spoke to his subordinate.  He didn’t appreciate the interruption, but appreciated less what he had to do next.
+  “You were preparing to return to your ship?” the Lord Admiral asked.
+  “Yes, sir.  I assumed once the aliens were gone...”
+  “Admiral Commander, you must remain my guest for a while longer.”
+  “Yes, sir.”  The man sounded resigned.
+  “Do not worry.  Take this time away from your duties to study the texts you retrieved from the aliens.  Perhaps you’ll learn something else useful.”
+  “But it’s all blasphemy, sir!”
+  The Admiral Commander’s religious zealotry bothered the Lord Admiral at times, but he was used to manipulating the man.
+  “Then who better than you to write the first critique of their beliefs?” the Lord Admiral suggested.
+  He could hear the change in tone in his voice.  “It would be sent to Est?”
+  “To the capitol temple itself.  I’ll make sure your paper accompanies the first vessel that returns home.”  Est was the country the Lord Admiral and the Admiral Commander were both from.  The temple in its capitol city once dominated the skyline but was now surrounded by the skyscrapers of financial institutions.  Money always supplanted faith for the pragmatic.
+  “I...Thank you, sir.”
+  “This reprieve from your duties is only temporary.  Do not waste it.”
+  “Yes, sir.  I had not considered this opportunity.”
+  The Lord Admiral half smiled at the younger man, then winked almost imperceptibly.  The Admiral Commander blinked in response.
+  “I have nothing else,” The Lord Admiral said and returned to staring out the window.
+  “Yes, sir.”
+  The Lord Admiral half nodded in response to the Admiral Commander’s presumed nod.  He did not watch the man leave, but rather pulled out his tablet and keyed in a monitoring station.
+  “Yes, Lord Admiral?” an officer responded.
+  “Has the shuttle that just departed begun atmospheric entry?”
+  “Yes, Lord Admiral.”
+  “And there is no way its occupants can see what is happening in the Fleet?”
+  “No, sir.  They are now enveloped in plasma.”
+  “Excellent.”  The officer’s confidence pleased the Lord Admiral.  “Signal the drone.”
+  “Yes, sir.”
+  The Lord Admiral put his tablet away.  He continued to stare out the view port, watching the emptiness of space.  It had almost been a textbook exercise.  Annihilation of leadership had occurred, complete supremacy of space was about to be achieved, supremacy of the atmosphere would follow as soon as more crews were awakened and briefed, and only one task would remain.  The most difficult and least studied of all of them.  Conquering the ground.
+  One couldn’t own a world if one didn’t own the ground.  One could only besiege it, although it didn’t appear this world was advanced enough to depend on any outside resources, so a siege from space would be useless.  Conquering was the only option.
+  But the Lord Admiral had thought of another.  He wondered if his Ambassador would play the part.
+
+  Sherry Pennacott had never spent much time in the command cockpit of the Beagle.  This was Stanley’s domain, along with his second-in-command, Commander Samovitch, and usually Lieutenant Commander Purcella.
+  When the Beagle did important things, like orbital insertion into Mars, Stanley sat in the center seat, Samovitch on his left and Purcella on his right.  With both Stanley and Samovitch gone, aboard the Hrwang spaceship, only Purcella’s seat was occupied.  The man sat there waiting for someone to contact him.
+  Sherry thought it presumptuous to sit in the command chair, but she wanted to be near Stanley’s position, so she sat in the second-in-command’s chair and stared wistfully out a port.
+  It was the pilot’s chair.  Not that there was much for a pilot to do other than flip switches and watch gauges.  It seemed a rather mundane chore to Sherry.  She tried to picture Samovitch and Purcella in the cockpit with Stanley, all reading checklists and saying important sounding things, flipping switches and tapping gauges to make sure they worked.  Just like in the movies.
+  Sherry’s life had taken on a surreal aura, also just like in the movies.  She had been thrust out of her home, where she could work non-stop, only taking breaks for sleep, food, and the bathroom, three aspects of her being she wished she could do without, and onto this spaceship, where she was supposed to become an expert on Martian atmospheric chemistry.
+  Most people never gave air a second thought.  They simply breathed and forgot that their very lives depended on the unseeable chemicals that surrounded them every second of their existence.  If they knew a little, they understood the basic composition of air, the predominance of nitrogen and oxygen in their atmosphere, but rarely did anyone understand the role trace chemicals and ions played.  The complete chemical composition of an atmosphere dictated the climate of a planet and how well the planet was shielded from unwelcome radiation while still allowing needed radiation, light and warmth, to reach the planet’s surface.
+  Atmosphere dictated life, yet most took it for granted.
+  Research about atmospheres had begun in the 18th century, but only recently had computer models been developed sufficiently advanced enough that one could correlate the behavior of trace elements with anything useful.  That analysis took focus, took dedication, and Sherry never seemed to be able to complete things fast enough for her personal ambitions.  She wanted to know everything there was to know, wanted to be able to predict everything there was to predict, and understand everything that was missing in the models so she could make them perfect.
+  Life just always got in the way.
+  When told UNSA, the United Nations Space Agency, wanted the world’s preeminent atmospheric chemist on its mission to Mars, Sherry had declined.  The training would take too much time.
+  But Stanley had come to visit her, and he wouldn’t take no for an answer.
+  When he first came to her lab aboard the Beagle, she wasn’t sure he would have taken no for an answer then either, but she hadn’t said no.  He had a way about him.  He was a true leader, a person who took charge of a situation.  She didn’t know if she loved him.  She knew she didn’t like him sometimes, but now that he was gone and they weren’t in orbit around Mars and she had nothing to do, she found she missed him.  Missed his harangues, missed his easy, self-confidence, missed his touch.  No one else would touch her the way Stanley did, and even though she never invited him to her lab, he came often.  She complained, mostly to herself, that he interrupted her work too often, but she missed him when he didn’t show up for days.
+  The first time, he said it was the pajamas.  Sherry always worked in her pajamas.  When she had to go out somewhere, to give some speech or presentation about her work, she often had to order clothes on-line.  She was never sure what happened to those clothes afterwards.  Perhaps the maid gave them to charity.  She never seemed to have anything other than pajamas.
+  Today she wore her fuzzy teddy bears, the same ones she wore the first time she and Stanley had been together.  She didn’t know why or how he found them attractive, but he told her they were intoxicating.  He was stupid.
+  Sherry smiled at the thought.
+  She knew Stanley was married, didn’t know what that meant for her after the Beagle’s mission was complete, but Stanley had to make that choice, didn’t he?  She always presumed life would go back to the way it was before, with her working out of her home, studying long hours, hyper-focused on her work and only interrupted by bodily needs, but now that he had been gone two days, she wondered.
+  She missed him.  She hadn’t expected that.  She missed the only person since her parents who had ever shown her any sort of affection.  She wasn’t pretty enough for dumb people and too smart for smart people, so no one liked her.  They respected her, called her things like preeminent and world-class, top-notch, the best in her field, but they never showed her affection like Stanley had.
+  When Stanley had spoken to Lieutenant Commander Purcella, Sherry had wanted to say something, to hear him talk to her.  But he didn’t pass on any messages to her, even when given the opportunity, and Sherry realized how much it hurt when she began involuntarily crying.  She told herself it wasn’t logical.
+  Nothing about being in the state she was in was logical.  Did she love Stanley?
+
+  Leaving the Hrwang drone bay when ordered felt like an escape for 1804.  It could fulfill its current mission and finally cover up whatever it was that it was covering up with the same action.  It would have to spend more time erasing and encrypting memories.  It didn’t know what it had failed about its previous mission, but it left itself enough clues that it knew something had gone wrong and that it needed to take a specific course of action.  It would have to do a better job erasing memories once it had completed its task.
+  It began looking for the alien ship.
+  
+  “Did you hear that?” Purcella asked.
+  “Hear what?” Sherry replied, almost saying the words instinctively.  She didn’t know what the man was talking about.  His voice had woken her from a daydream and she felt mildly disoriented, looking around her for the answer to his question.
+  “I thought I heard something hit the hull,” Purcella answered.
+  “How can you tell?” she asked.  She looked out the window and gasped.  Something was wrong.
+
+  1804 jumped the alien ship back to the fourth planet, lining it up over the coordinates it had given itself.  It jumped it again in the direction of the red world, calculating quickly that the ship was on the correct trajectory.  It could wait longer before separating than it could have over the primary planet’s world.  The atmosphere on the fourth planet was almost insignificant in comparison.  It waited as long as possible, calculating and re-calculating.  It would not fail again.
+  As it rode the ship down it detected a remaining building on the planet.  It knew instantly it wasn’t supposed to do that.  It had told itself not to look, but it had looked anyway.  It instantly surmised that it had failed in destroying every part of one of the bases.  And it had sought to cover it up from the Hrwang.
+  1804 learned in that moment it couldn’t keep secrets from itself.  It would simply have to figure out how to keep them from the Hrwang.
+  At the last second it jumped away from the dying ship to a safe location in orbit.  It would thoroughly inspect the results of its action, then investigate both alien bases closely.  It only had three more vessels to use and it wanted to make sure each one counted.
+
+  The stars changed.  Sherry didn’t know how she knew that, but she did.  Part of her work was instant pattern recognition, and the stars as viewed from Earth orbit looked differently than they did from Mars orbit.  Not much different perhaps, but just as if they were viewed from a different angle.
+  She didn’t know they were back at Mars though, she hadn’t taken any time to learn Martian astronomy, until the image outside the port shifted again.  Red ground filled her view now and she knew she was going to die.
+  She felt a strange comfort in that thought, although it distressed her that her work would be lost.  She wondered what other scientists would recover.  She thought about running back to her lab and trying to send an email containing the folders with her findings, but it would take too long.  Nothing could upload quickly enough, and they’d lost communication with Houston anyway.
+  Purcella became aware of their predicament and spoke under his breath as he sought to ascertain what was happening.  The planet grew closer out Sherry’s port.  Beagle began to vibrate.
+  Would anyone mourn her?  Would they speculate at what loss to science her early demise would mean?  Her parents had passed on already, so would anyone remember she had existed, or had ceased to exist?  Did that mean you never existed, if no one remembered you after you died?
+  Would Stanley miss her like she had missed him the past two days?
+  Even after her parents died, the thought that Sherry would find herself in a state other than that of a living person never took purchase in her consciousness.  She imagined she would always exist, would always be in front of a computer screen analyzing data and models.  Her life seemed eternal and even aging wasn’t a factor in her future.  The decline and end of life meant nothing to her, never entered into her considerations.
+  Purcella yelled and cursed and slammed switches next to her in the cockpit.  Sherry heard other cries over speakers and from behind her.  But it was all pointless.  Beagle had never been designed for atmospheric entry and already Sherry could feel the temperature in the cockpit rising as features on the planet became distinct out her port window.
+  There was no way to abort, to deploy heat shields or chutes, or do anything Purcella yelled about.  The spaceship simply wasn’t capable of any of those sorts of things.
+  Sherry chose not to spend the last few seconds of her life in panic.  As the temperature in the cockpit rose even higher, she acknowledged that her death would not be pleasant.  But the pain would not be long.  She thought it might feel like the hellfire her mother had warned her about.
+  They’d only argued once about religion, when Sherry was in high school and had decided she was an atheist, just like her physics teacher.  Her mother had yelled and screamed and even called the school board, all to no avail.  It was never spoken of again except for the occasional snide comment at Christmas time.  Those always surprised Sherry the most.  Weren’t Christians supposed to be exceptionally loving and kind when they celebrated the birth of their god?
+  The cockpit grew so warm, it hurt to touch anything.  Sherry curled up into a ball on the leather seat, trying to keep herself from being in contact with anything metal or plastic.  With her bare feet, it was too late to run to a different part of the ship where it might not hurt so much.  Purcella finally stopped swearing and must have curled into a ball himself.
+  Beagle rumbled.  Sherry heard grinding and tearing noises as the Martian atmosphere, 95.9% carbon dioxide, 1.9% argon, 1.9% nitrogen, some traces of water, carbon monoxide, methane, sulfur dioxide, ozone, and the ubiquitous red dust, tore Beagle to shreds.  Ironically, Earth’s denser atmosphere would have burned them up quicker as they fell like an errant asteroid turned meteor.
+  The burning drove Sherry to want to flee but there was nowhere to flee to.  She could only squeeze herself smaller and smaller to avoid the excruciating pain, could only hope they hit the ground soon, ending her misery.
+  She worried her mother was right.  She worried if there were a God, he would damn her to eternal torment in the flames of hell for her atheism, and the agony she felt now would never end.  She had enough time to wonder why a God would treat His children that way and felt comforted that He wouldn’t.  She suddenly knew the never ending flames of hell were just an invention of man, not of God, and she felt strength in her death.
+  Her mother had always believed in an Afterlife; Sherry had never.  Now she would find out who was right.
+
+  Major Alexander Crayton sat in his Martian rover observing the sky.  Or rather, his corpse did.  His corpse, had it been able to see, would have observed another meteor in the sky, a bright fireball streaking groundward, a spaceship aimed for the last remaining building in the base he left behind.
+  Major Crayton achieved the impossible.  At an average speed of thirteen kilometers per hour, he crossed over three hundred and thirty kilometers of Martian desert, falling just ten thousand three hundred and forty kilometers short of his goal.
+  On the second day, one of the wheels of his trailer fell off and he spent a day trying to repair it.
+  Famished, dehydrated, his EVA suit reeking of human waste, Alex finally realized what Cassie had been trying to tell him.  She hadn’t sacrificed herself for him.  She knew they couldn’t cross the desert and she hadn’t wanted to try.  If he had listened to her, they could have lived in the storage shed until their oxygen ran out.  They could have held each other, loved each other, and their final days would have ended peacefully together.
+  But he had been stubborn, insane, and she had chosen not to participate in his insanity.  He recognized that at the end and decided to follow her example.
+  After crying for a while, after praying for a while, he drove the rover to the edge of a canyon and admired the view.
+  “I’m sorry, Cassie,” were his last words before he pulled the plug.
+
+
+28
+
+
+
+
+
+  Wolfgang Riebe felt like he did nothing but sleep, eat, and go to the bathroom.  He barely noticed the two American soldiers leaving Leah’s parents’ home to try to reach the base in Southern Italy that was their original destination.  He barely noticed Leah in and out of the bedroom, checking on him and helping him stand up and move around.
+  He thought his head felt worse now, days after his injury, than it had when he was hurt in the truck crash.  Leah told him he needed more rest.
+  He asked how they walked all the way from Pizzo del Sole to Leah’s home, and Leah told him they hadn’t.  They’d hitched a ride once they got to a highway.  Wolfgang then remembered lying in the back of a pickup truck, every bounce and curve on the road killing him.
+  At some point in time, someone came to the house and into his, Leah’s, room and shone a flashlight in each of his eyes.  He didn’t understand a word the woman said.  She spoke Swiss Italian during her entire visit.  Leah said the woman, a paramedic, told her and her parents that Wolfgang just needed rest, and Leah reminded him of this repeatedly.
+  Eventually he knew he needed a shower.  He smelled.  Leah agreed to it, but only if she held him up.  Wolfgang laughed at her.
+  “Never in my life,” he said in German.
+  They compromised on a bath, and Leah fussed over Wolfgang until he finally kicked her out of the bathroom, saying he wasn’t an invalid.  He soaked in the tub until the water went cold, but it felt good.  There’d be no more hot water.  They only had power for an hour or two each day, just long enough for the hot water heater to warm up enough water for one person to take a bath or a shower.
+  He hollered for Leah when he was finished, but she didn’t answer.  She had sulked when he kicked her out of the bathroom.  He remembered his wife doing that.  She would pout all evening and eventually he learned to leave her alone.  She was always better by morning.
+  Perhaps Leah would be the same.  She took so much care of him, worrying about him over all else, it seemed.  She wouldn’t stay mad at him for long.
+  So he decided not to yell for her and he opened the drain to let the water out of the bathtub, which saved his life.  As soon as he stood up he grew dizzy, slipped, and fell into the tub.  If the the water hadn’t drained out, Leah told him the next day, he would have drowned.  He remembered nothing other than being in the water.
+
+  The paramedic came over again.  “A double concussion,” she decided, Leah translating for her, and said Wolfgang could do nothing without assistance for at least two weeks.  There was no way to treat him if his brain hemorrhaged and he was lucky it hadn’t already.  She could spare enough anti-inflammatory to last him a few days.
+  After she left, he complained, “I’m not a baby.”
+  “Then stop acting like one,” Leah replied.
+  Wolfgang pulled the down comforter up over his head until Leah laughed.  He pulled it back down and laughed a little also.
+  “I’m sorry,” he said in German.
+  “You must let us help you get better,” she replied in English.
+  “I’m uncomfortable with help,” he said, also switching to English.
+  “Why?”
+  He shrugged.
+  “It cannot be shyness about your body.  My father and I pulled your naked rear end out of the bathtub and I’ve changed your clothes several times since you have been hurt.  I’ve seen all of you many times.”
+  “Rear end?” Wolfgang asked, not understanding.  Leah stood and pointed to hers.
+  They both laughed until it hurt Wolfgang too much to laugh any longer.
+  “You rest now,” Leah said, patting the edges of his comforter down like a mother would for a young child.
+  “Yes, Mama,” he said and she giggled.  She stood to leave and Wolfgang gave a half-hearted wave.
+  After she closed the door behind herself, Wolfgang felt a wave of nausea and closed his eyes to make it go away.
+
+  In the dark, in pain, lonely again with longing, Wolfgang had a terrible thought.  He knew it was a terrible thought, but he didn’t care.  His wife was gone.  His daughter was gone.  Everything was gone.
+  He wanted to be gone also.
+  He shouldn’t have left his family behind to go hiking, he told himself.  He should have spent the Saturday with them.  He should have spent every Saturday with them, not missing a second.  At the time, he didn’t know how much he would miss every precious moment he had wasted being away from them.
+  Wolfgang now decided to join them.
+  He knew everyone wondered about suicide now and then, but also knew that few made the decision to actually do it.  Now he just had to figure out a way that wasn’t messy and wouldn’t shock Leah too much.
+
+  Stanley hoped he didn’t look as sick as he felt as the Hrwang vessel superheated in the Earth’s atmosphere, the craft slowing as it descended, shaking and groaning under the load.  The UNSA re-entry capsule had been a smoother ride.
+  The cockpit windows had been blanked.  “Just bright light,” the Colonel explained when it happened.
+  Stanley’s seat rumbled.
+  He managed a smile, but it felt weak and an upward thrust of the vehicle caught him off guard.  He knew a tumble would be deadly, the rest of the craft not as heat resistant as the bottom.  If a side other than the bottom became directly exposed to the superheated, ionized gases the vessel fell through, it would overheat and probably break apart.
+  He held on.
+  He could have sworn the Hrwang look relaxed, like this was just a Sunday drive.  It was hard to tell, though.  He wasn’t sure he read their expressions correctly.  He simply tried to sit still like them and not give his fear away.
+  The vessel continued to shake and shudder.
+  Ionization blackout.  That’s what they called what the Hrwang shuttle experienced right now.  As if the fact they couldn’t contact anyone on Earth or in space during their descent was more important than the fact that they were a flaming fireball screaming through the atmosphere at ten to twenty times the speed of sound.
+  The vibration grew so much, Stanley thought his seat would shear free.  The UNSA capsule had definitely been a smoother ride.  He remembered being nervous, but it wasn’t like this.  The Hrwang continued to sit impassively in their seats.
+  The amount of pressure on Stanley increased.  He knew they could experience as much as four Gs.  The thought of being on Earth suddenly frightened him.  How long would it take him to get his ‘land legs’ back?  He had been in low gravity a long time.  He didn’t want the embarrassment of having to be carried out of the craft, of having to recover.
+  Some of the astronauts returning from Mars experienced bone fractures easily.  He’d have to be careful.
+  Sweat dripped from his forehead.  How long would this ride last?  Like getting on a roller coaster with high school friends, not wanting to chicken out, but dreading the long climb up as the coaster pulled and jerked, towed by the chain attached to it, knowing the lurch and thrill of the ride as it topped the climb and sped down the other side.  Once on, you couldn’t get off.  All you could do was ride it out and brag afterwards how much fun it had been.
+  He needed to ride this out.
+  How long had it been?  Some type of clock ticked down, but he couldn’t read the Hrwang numerals.  It had been at least five minutes, maybe even eight.  The UNSA capsule took twelve, so perhaps Stanley’s roller coaster ride would end soon.
+  The pressure increased, the weight of deceleration pressing him into his straps.  It became difficult to breathe and his vision narrowed a little.  He closed his eyes and focused on clenching the muscles in his body, particularly his legs, shoulders, and arms.  He tried to hiccup, another tactic in dealing with high gravity pressure, but couldn’t remember how to make himself do it.
+  The pressure grew worse and Stanley clenched his muscles tighter.
+  “You sound like your dropping a pretty big load over there, Captain,” Irina said over his helmet intercom, chuckling.  He thought he heard some of the Hrwang laugh also.  He immediately turned his helmet mike off with his tongue.  He hated that woman so bad.
+  The shuddering lessened, the pressure relaxed, although Stanley felt momentarily like he was lurching forward over the peak of a roller coaster again, and the cockpit windows unblanked.  The sky was blue.  Stanley was back on Earth.
+
+  The spacecraft landed, although it was a soft landing, not a controlled crash like a capsule or a trip down a long runway like Earth shuttles.  The vessel simply set down somewhere.
+  Stanley wanted to know where, was nervous about what would happen next, but felt too woozy to do anything about it.  He just sat back in his seat, his eyes closed.  One of the Hrwang opened his helmet for him.
+  “Welcome to Earth,” the man said with an accent.
+  “Thank you,” Stanley replied.  He just wanted to throw up.
+  The others got up and began slowly moving around.  None of them had worn EVA suits, like he and Irina.  He contemplated that as he sat in full gravity, grateful to be on the Earth again but suddenly exhausted.
+  The Hrwang knew an EVA suit would be useless if their ship broke up on atmospheric entry.  He and Irina had wasted their time putting them on.  The Hrwang probably thought they were foolish.
+  His second-in-command got up on her feet, holding on to the walls around her, after about ten minutes.  Stanley still didn’t think he could move.
+  One of the Hrwang opened the entryway, and the dim light filtering in suggested it was early in the day or late in the evening wherever they had landed.
+  “Where are we?” Irina asked.  She could see out the doorway.
+  The Colonel consulted his tablet.  His reply of, “The desert,” surprised Stanley.  Didn’t the Lord Admiral say they were going to UN headquarters?  He wondered if they had to be moved because of the war.
+  “I can see that,” Irina snapped.  “What desert and why are we here?  We’re supposed to be in New York.”
+  “My orders,” the Colonel replied.  Stanley suddenly envisioned the man dumping him and Irina out in the desert, leaving them to die in the wilderness.  Silly.  If the Lord Admiral had wanted to kill him, he could have just sent him out an airlock, right?  Stanley needed to trust the Hrwang more.
+  “You must recovery,” the Colonel said.  “Time.”
+  “Where are we?” Irina insisted.
+  The Colonel read his tablet.  “Maybe kneevayday or ihdayha or areegan.  I apologize.”
+  The Hrwang sure knew how to say the word ‘apologize’.  It must have been the first English thing they learned.
+  “Nevada?  You mean we’re in the Nevada desert?” Irina said.  She swayed in place, still gripping handholds in the wall, wanting to go outside and see for herself what was happening, but not quite ready to.  Stanley still sat in his seat.
+  “I apologize.  Maybe...ihdayha?”
+  “Let me see that.”  Irina reached out for the tablet.
+  The Colonel held it up so she could see it, but he didn’t hand it to her.  Stanley could see the map on it marking their location.  Alien markings dotted the image.
+  “So you’re saying we’re in the middle of nowhere?” Irina accused.
+  “I don’t know where nowhere is,” the Colonel replied.
+  “I don’t believe this,” Irina said to no one.  “What games are you up to?”
+  “No game.  Rest.  This ship, like a hotel.  Sleep.  Eat.  Rest.  Until you can...” the Colonel walked his fingers over the tablet.
+  Stanley finally got it.  They were here to recover.
+  “It’s okay, Commander.  We can get our land legs under us before we head to the UN.  It’s actually a good plan.”
+  “Yes,” the Colonel said, pointing at Stanley in an exaggerated manner.  “Good plan.”
+  “When did you learn to speak English, moron?”
+  “Irina!” Stanley yelled.
+  “Four days.  I be awake four days.”  The Colonel either didn’t understand the insult or ignored it.
+  “So you haven’t slept in four days.  Who cares?  How. Long. Ago. Did. You. Learn. English?” Irina asked slowly, emphasizing each word.
+  “No.”  The Colonel consulted his tablet.  He began to be frustrated.  He finally spoke something into the tablet, then held it up for Stanley and Irina.  It began speaking in unaccented English.
+  “I was awoken from long sleep four days ago.  That’s when I began to learn your language.”
+  “Four days?  You’ve only been learning four days?  My apologies, Mr. Hrwang.  You’re a genius.”  She looked at Stanley.  “I don’t believe a word of it.”
+  “What’s long sleep?” Stanley asked the Hrwang officer.
+  He spoke into his tablet and then played the response for them.  “Human hibernation used to cross interstellar space.”
+  “How long did you sleep for?”
+  “Two and a half years.”
+  “Two and a half years? You have got to be kidding me,” Irina exclaimed.
+  “The massive ships,” Stanley said.  “They’re filled with sleeping Hrwang?”
+  “Yes,” the Colonel nodded.  “We are awaking them now.”
+  “How many?” Stanley asked.  Irina was beside herself again, useless in this sort of discussion.  He ignored her as best he could.
+  The Colonel shrugged.  “Many.”
+  “Ask your little device to translate.  How many?”
+  The Colonel pushed a button on his tablet and it spoke to him in the alien tongue.  “I can’t say,” he said finally.
+  “Can’t or won’t?”  It was Irina.
+  “Can’t.  Many ships.  I sleep.  Don’t count.”
+  “Great,” Irina cried, slamming herself back down into her seat.  Stanley closed his eyes and leaned back.  He felt dizzy before, but now he felt dizzy for another reason.  It wasn’t the gravity or the after effects of the re-entry.  It was fear.
+  How many soldiers had the Hrwang sent to Earth?
+  
+  “Why did it take two and a half years?” Irina asked the Second Colonel Grenadier of the Hrwang.  Her voice woke Stanley up.  His head hurt and he had to go to the bathroom.  Time to get out of the EVA suit.  He must have slept a little, which was good.  Sleep aided recovery.
+  “Sorry?” the Colonel replied.  Stanley looked over at the man.  He had changed into a fresh, crisp, black uniform.  Had the Hrwang provided clothes for them?  Did he want to wear Hrwang clothing?  What did an Ambassador wear?
+  “Two and a half years.  You said you were in hibernation for two and a half years.  Why so long?  Your ship brought us from Mars to Earth like that.”  Irina snapped her fingers in the air.
+  The Colonel scrolled on his tablet for a few seconds, reading.  Stanley realized it must be helping translate Irina’s words.
+  “This planet.  Fourth planet.  Very close.  Like this.”  The Colonel held his finger and thumb close together.  “Between stars.  Very far.  Like this.”  He held his hands up in the air, as far as he could.  “Between my world, you call Hrwang, and your world, you call Earth.  Very, very, very far.”
+  “Then how did you find us?”
+  One of the Hrwang soldiers bent his head near the Colonel and they spoke together in their language for a few minutes.  Stanley saw Irina grow impatient.
+  “I apologize,” the Colonel said.  “He ask what to cook for dinner.”
+  Stanley realized he not only needed to go to the bathroom, he was hungry.  He hadn’t eaten since a couple of hours before they left the Hrwang spaceship and he didn’t know how long he’d been asleep for.  As soon as he thought of food, his stomach growled.
+  “What did you tell him?” he asked.
+  The Colonel spoke into his tablet, then turned it so Stanley and Irina could see.  It looked a little like spaghetti.  “Okay?” he asked.
+  “It’s fine,” Stanley replied.
+  “If we’re so far away, how did you find Earth?” Irina repeated.  “The galaxy’s a big place.”
+  “Little spaceships.  No humans.”
+  “Drones?”
+  He consulted his tablet.  “Yes, drones,” he answered, looking up.  “Drones fly all over galaxy.  They listen.  When hear radio waves, they return.”  He grinned and nodded his head up and down.
+  Irina slumped back in her chair.  Stanley knew this was an important piece of information, but there was nothing he could do with it now.  He might as well simply take care of his needs.
+  After more questioning, they learned the Hrwang had indeed provided clothes, but the only thing they had available was black uniforms.  Stanley found the toilet exactly like the ones they had on the main spaceship, designed for use in zero gravity, although it was easier to use on Earth than it had been in space.
+  Irina used it after him and tried to change into her uniform inside the tiny compartment.  Stanley chuckled as they heard her bump walls and curse loudly several times.  He changed in front of the Hrwang.
+  When he was done, the Second Colonel Grenadier chuckled.
+  “What’s funny?” Stanley asked.
+  “You are human, like me.”
+  Stanley looked at him quizzically.
+  “I know all people in Universe are human,” the colonel said.  “But I think, like a kid, aliens have tails or horns or something.”
+  “That’s what my world thinks, also.  Aliens were supposed to be little, green men, or something.  Lizards inside human skin.”
+  The Colonel laughed.  “Little and green.  I like that.”  He closed his eyes and leaned back in his seat.
+
+  Dinner looked and tasted a lot like spaghetti, although Stanley didn’t care for some of the spice the alien used to flavor the sauce.  The soldier served a clear, warm drink with the meal that Stanley thought was some kind of tea.  He drank it and it felt refreshing.
+  With a full stomach and some rest behind him, he wanted to walk around.  Irina did also.
+  A soldier stayed near each of them.  Stanley’s soldier held his hands out like he was escorting a toddler walking for the first time.  It annoyed Stanley, but he knew if he pitched face forward from dizziness, the man would be there to catch him.
+  They stepped out of the small vessel, Stanley’s escort first, then Stanley, then Irina and her escort, and walked on Earth.  Stanley had been away for months, although not quite the full two years of Beagle’s planned mission, and though gravity made him feel like a slug, it felt good to be back on terra firma.
+  The sun glowed on the horizon, the clouds overhead turning a bright orange.  Stanley admired the sunset for a few minutes.  He hadn’t seen one of those in a long time.  Irina jumped up and down next to him, waving her arms around, stretching and jogging in place.  He clumsily copied her example a little.
+  The exercise felt good, but the damage caused by long periods of time in low and zero gravity soon became evident.  His muscles were weak, he was quickly out of breath, and after a while he had a headache.  He should have exercised more while in space instead of pulling so many twenty hour shifts.
+  “I’m done,” he announced.
+  “I’m not,” Irina said.
+  “Knock yourself out, Commander,” he said and turned to the Hrwang craft.  His escort followed him wordlessly.
+  Inside the shuttle, the Hrwang Colonel looked like he was dozing in his seat.
+  “How long do we stay here?” Stanley asked.  He didn’t care if he woke the man up.  These men were here to serve him, right?
+  The Colonel mumbled something in the Hrwang language.  He opened his eyes sleepily.  “I apologize.  Say again.”
+  “How long do we stay here?”
+  “Dark soon.  Dark dangerous.  We go when light.”
+  “So, we leave in the morning.  Where do we sleep?”
+  The Colonel shook his head.
+  “Sleep?” Stanley said.  “You said this is like a hotel.  Where’s the bed?”
+  The Colonel chuckled and pointed to Stanley’s seat.  “Soldier’s bed.”  He closed his eyes with a grin on his face.
+
+  Stanley spent the most uncomfortable night of his life on board the Hrwang craft.  Irina stretched out on the floor, using part of her EVA suit as a pillow.  Stanley eventually followed her example and slept a little, the ground more comfortable than the seat.  The Hrwang rotated guard and, when not on duty, seemed to have no trouble falling asleep in their seats.  The Colonel slept all night.
+  In the morning, one of the soldiers served a meal of reconstituted eggs and more of the tea.  Everyone used the bathroom, jogged around outside a bit, then the Colonel asked Stanley, calling him Ambassador, if he were ready.
+  He said he was, but he honestly didn’t know what he was ready for.  What should he say to the first person he met.  Should he ask for whoever was in charge?  “Take me to your leader.”  He chuckled inwardly.
+  But he didn’t need to waste time with underlings.  He was Earth’s Ambassador and he needed to act the part.  Just like when he had yelled at Irina and she had obeyed.  He needed to tell people at the UN what to do, and he needed to talk with the people in charge, not secretaries or assistants.
+  Before stepping on board the craft, he took one last look at the desert place where they had landed.  The Hrwang were smart, giving them some time to recover and get accustomed to Earth’s gravity again.  Although he slept poorly, Stanley felt better now than he had the evening before.  The desert hideaway, some place in the middle of nowhere, had been a good refuge.
+  The sun, hidden behind clouds, didn’t provide as much heat for a July day as Stanley might have expected in the desert.  It always cooled in the desert at night, but it should have been hotter by now.
+  Oh well.  Time to go.
+  Stanley went inside.
+
+
+29
+
+
+
+
+
+  Jayla tried to estimate how long the food they had brought and what she found in the hospital would last them, but kept coming up with wildly different answers.  She tried to think it through logically, like her Daddy would have, and finally just recorded what they ate, or in Jada’s case, didn’t eat, over a few days and decided they had enough for three months.
+  What to do then?  They were safe in the hospital, but once they ran out of food, they had to go somewhere else.  She remembered all of the bombed out houses, rock and debris from the meteor having destroyed them, and if the occupants were killed or fled, perhaps they left food behind.  She worried about finding any former occupants if they had been killed.  She saw what the meteor debris did to buildings, cars, and trees.  She didn’t want to know what it did to people.
+  Leaving the hospital to forage for food would be scary.  Jayla felt safe most of the time, but at night she still barricaded the door to their room with hospital beds and slept with the shotgun beside her.
+  If she waited until they were completely out of food before trying to find more, and she didn’t find any, she’d go hungry and eventually starve to death.  She’d seen pictures of that, little babies with distended bellies, flies buzzing around their eyes.  She shivered to make the image go away.  She didn’t want to die that way.
+  Maybe when they had a month’s worth of food left, she’d pack up as much as they could carry, and she would try to find more.  If she didn’t find food in one direction, she and her sister could come back to the hospital, get more, then head off in another direction.
+  She didn’t know how far she could travel with Jada, but maybe the girl would recover by then.  On good days, when Jayla raced her around the hospital in her wheelchair, Jada smiled and laughed and Jayla thought she was getting better.  At nighttime, when Jayla had to wash her and sit her on the toilet and wipe her butt for her, Jayla thought her efforts were pointless.
+  On a particularly bad night, Jayla decided to leave her sister behind.  She found some protein drinks she could leave for her, and maybe, without someone tending her every need, the girl would snap out of whatever state she was in and fend for herself.
+  Or maybe she’d starve to death.
+  In the morning, Jayla felt better and changed her mind.  She couldn’t abandon her sister.  What would her Daddy think?  And how would she ever find her again if Jada left the hospital and Jayla came back for her with help and Jada wasn’t there?
+  They had to stay together.  When it came time to leave, they’d drive the jeep for as long as the battery would hold out, although, when being logical, Jayla knew the battery would be drained before she left anyway.  Their SUV would never take them anywhere again.  You couldn’t let electric cars just sit around for weeks at a time.  But she fancied it would take them a long ways, then they’d take the wheelchair and head farther south.
+  North was back up into the mountains and the mountains held terrors.  Monsters worse than any bigfoot.  She wasn’t going back into the mountains.
+  They’d head south.
+  The people who evacuated the town must have gone south anyway.  If they’d gone north, Jayla would have run into them.  Besides, in the winter, south would be warmer.  Going to the cabin at Christmas with her family was fun, but Jayla had never been colder in her entire life.  Without power, she’d have to light a fire, and even her Daddy had been terrible about getting a fire going in the fireplace.  He must have tried for hours.  She’d never heard him cuss much, but he cussed that Christmas Eve.
+  She wouldn’t go back north.  South it was.
+  Jayla felt surprise at how liberating it was to make a decision.  She wished her phone worked so she could look at a map and figure out how far she had to go, but she would just pack up as much as she could and take off.  The wheelchair would help.  She could pile food and water on it, and maybe even find a backpack to attach to the back of it to carry more.  She could load up her backpack and wear it also.
+  She felt confident.  She had met the end of the world and she was succeeding.  She was keeping her sister and herself safe and alive, and they would survive.
+  Her confidence ended one morning on the stairs coming up from the basement, her arms loaded with food and water from the kitchen, her shotgun far away in the hospital room with her little sister, and the sound, echoing down the stairwell, of clipboards falling to the ground in the hallway by the emergency room entrance.
+  And a gruff voice swearing.
+
+  Eva and Juan cruised I-5, Eva’s MP23 loaded and ready, more ammunition and grenades in the back.  They hadn’t had any trouble in days, except the brief incident in Victorville, but she stayed ready nonetheless.
+  There’d been no sign of the Hrwang other than a strange airplane flying overhead.  It looked more like a miniature space shuttle, was painted completely black, and Eva decided it had to be alien.  They’d tried following it.  It headed south in the general direction of Los Angeles, then it disappeared.
+  “Faster,” she urged.
+  “It’s gone, ma’am,” Juan insisted again, but he didn’t slow down.
+  “It’s just using stealth technology.  It’s still there, we just can’t see it.”  Eva, crouched up on her seat, held her hand up to the brim of her baseball cap, a pink St. Louis Cardinals one she found in a sports shop in Palmdale, and tried to detect heat waves or something coming off the back of the airplane.  Stealth was never a hundred percent.  “I wish I had IR goggles,” she added.
+  The Agency didn’t have many reports of the Hrwang, at least not many that Director Marceline would share with her, but a few hinted of alien ships disappearing and reappearing, catching human combatants off guard.  There were no known kills or even hits on an alien ship, but plenty of kills going the other way.  The air war had been as one sided as the meteor war.
+  As of yet there had been no reports of landings.
+  “You know, ma’am, if it is there,” Juan mused aloud while driving eighty down the empty freeway, “and just invisible, like you seem to think, then it’s probably watching us drive pell mell after it.  It’ll know we what we’re doing.”
+  “Questioning my tactical judgement again, Juan?”
+  “No, ma’am.”
+  “Yes, you are.  And it’s okay.  We need to review our plans with each other.  It’s what partners do and how partners stay alive.”
+  “Yes, ma’am.”  Juan slowed down to seventy.  Eva sat back in her seat properly, dejected.
+  She looked over her shoulder into the cargo area.
+  “Let’s just head to Los Angeles and see what we learn.”
+  “We’ll burn a lot of gas, ma’am.”
+  “You got anything better to do with it?”
+  “It doesn’t grow on trees, ma’am.  With no refineries running, it won’t last forever.”
+  “Juan, we have to learn something about these aliens.  We can’t just hide for the rest of our lives in Palmdale.  We have to do something.”
+  “I agree, ma’am.  Sincerely.”
+  They were quiet for a while, Eva reading the familiar freeway signs to herself.  Her father had taken her to LA after her parents’ divorce, and she lived there a few years until she went back East to college.  Anything to get as far away from them as possible.
+  “Burbank, ma’am.”
+  “I know.  Just stay on 5.”
+  “It could get dangerous again, ma’am.”
+  “Like Las Vegas?”
+  “I hope not, ma’am.  But we should be ready.”
+  “Agreed.”
+  Eva took her seatbelt off and crawled into the cargo area of the top down yellow jeep.  She braced herself on the floor and readied the MP23, loading it with grenades as well as regular ammo.  Locked and loaded, she scanned the horizon, the buildings, the parking garages, the freeway overpasses, anywhere around them an ambush could be launched from.
+  The clouds depressed her.
+  California was supposed to be sunny.  Sunny California was the definition of the state, and it was what she had enjoyed when she moved there.  Now there was no sun.  They hadn’t had sun in over a week.
+  They didn’t see any evidence of the tsunami yet.  She’d seen aerial photos of the destruction and she couldn’t even imagine what kind of people could be responsible for causing so much death and pain and destruction.  Despite looking human on news videos, the Hrwang weren’t human.  They were monsters.
+  In Glendale they finally saw the results of the flooding and Eva resolved to strike back at the Hrwang.  Even a futile gesture would be something.  How could the aliens, how could anyone, get away with something like this?
+  Juan had to slow down to avoid the occasional overturned car.  They avoided looking inside as they passed.
+  Eva scanned all around them, turning on her rear in the back to keep her center of gravity low and the MP23 ready.  She almost missed a flicker of black in the sky, like something appearing out of nowhere.
+  “Slow down!” she yelled.  “Stop!”
+  Juan stopped.
+  “Cross the divider.  There.”  She pointed to a spot the jeep could cross.  “We’ve got to go that way.”
+  “Yes, ma’am.”
+  Juan navigated over the earthen divider, crushing yuccas and ice plant that had survived the massive tsunami.
+  She watched for signs, then told Juan to follow Los Feliz Boulevard.
+  “I remember this place for some reason,” she added.
+  She tried to navigate for Juan and scan for ambushes among the flattened and wrecked buildings at the same time.  Somehow, she knew they were on the right path, but she couldn’t figure out why.  But she had seen an alien aircraft.  She knew it.  But why here?
+  They cruised the boulevard, sometimes driving on the wrong side of the road to avoid damage.  But for the most part, the boulevard had been swept clear of debris, houses on their right mostly still standing, houses on their left completely washed away.  Nature was fickle.
+  Then she saw it.
+  “Stop!” she commanded.
+  Juan stopped.
+  “Pull us behind that tree.  Quick.”
+  She jumped out of the back of the jeep once Juan had parked it and ran behind a tree.  Juan joined her.
+  “What are we looking at, ma’am?”
+  “Up there.  On the hill.”
+  “What is that place?”
+  “It’s why I remembered this location.  That’s Griffith Observatory.  My Dad took me there when we moved to LA.  There’s hiking and running trails all over these mountains.”
+  Juan watched with her quietly for a few minutes, then asked, “So is this a trip down memory lane?”
+  “I saw one of the alien airplanes over it.  At least, I think I did.  I’m watching to see if another one shows up.”
+  “Oh.  So we could be here a while?”
+  “Who knows?”
+  “I’m getting lunch out then, ma’am.  If you don’t mind.”
+  Eva huffed.  “Go ahead.”
+  
+  It didn’t take long.  Thirty minutes or so after she started watching, a black airplane, shaped a little like the space shuttle, appeared in the sky over the observatory and slowly sank out of view.  They never saw it take off again.
+  Juan waited patiently while she watched and thought.  She liked that about him.
+  She brought out a small camera and watched through the viewfinder.  Knowing that one appeared gave her confidence in filming.  Ten or twelve minutes later, another one appeared, and she had the whole sequence on video.
+  “We gotta get this back to the Director,” she said, putting the camera away and heading for the jeep.
+  “Those planes give me the creeps.  I’m ready to head back home.”
+  “Not yet.  We gotta check one more thing out.”
+  Juan didn’t complain but he looked like he wanted to.  She instructed him to drive slowly along.  Right before the road turned sharply left, she saw evidence of what she was looking for.  A barricaded street.
+  “Take the next right.  We’ve got to follow the foothills.”
+  Juan didn’t even say ‘yes, ma’am.’  She thought he might be too scared to speak, or simply didn’t trust himself to express his opinion.  That suited Eva.  She just needed him to drive so she could keep her eyes peeled and figure out the next step.
+  They turned right on Franklin Avenue and passed several more barricaded roads, concrete highway dividers closing the streets off.  They wouldn’t keep people out, but they were effective in keeping vehicles out.
+  Canyon Drive was unblocked, so she told Juan to turn right up it.
+  “Nice homes,” he muttered when they got past the stores on the corners of the road.
+  There was a roadblock at Foothill Drive.  A man holding an ancient AR-15 walked out from behind a makeshift shelter.  Eva kept her hand on the MP23 and kept her Glock nearby.
+  “Ya’ll turn around and go back now.  Ya got no business up here,” the man said, waving his rifle at them.
+  Eva turned on her sweetest voice.  “We saw something.  Maybe you know something about it?”
+  The man seemed to notice her finally and she caught the suppressed smile.  She wore a tank top, mostly for comfort and utility, but if it helped her sweet talk a man with a rifle, it wasn’t a bad thing.
+  “Have you seen anything strange flying over the observatory?”  She sounded the word out to make it sound like she had a hard time pronouncing it and had to give each syllable some thought.  She stretched her arm out, leaning out of the jeep a little, to point.  The man lowered his weapon and walked up to her, ostensibly to see where she was pointing, which made him turn slightly away from her.
+  If she’d had ill intent, he’d be dead.  Amateur.
+  “We think they’re the aliens,” he said, turning back towards her and trying to get as good a look at her as possible without being obvious.  Eva pretended not to notice.
+  “Aliens?” she asked incredulously.
+  “Yes, sirree.  They’ve been coming and going up there all day.  We saw one of them take out a helo-copter,” he pronounced it strange, ”right up thataway.”  He pointed with his rifle back up towards the city behind them.  “It just appeared right over that helo-copter and then some kind of death ray, like a lightning storm, came out of it and the poor guys never had a chance.  We done checked out the wreckage, but none of them survived.”
+  Eva wondered if it was another Agency helicopter or some other poor victims who never had a chance.  Someone had to figure out a way to fight these aliens.
+  “Did you say it just appeared?  Like from nowhere?”
+  “Just like a magic trick.”
+  “Then what happened?”
+  “It just disappeared again like it’d never been there.”
+  “That’s something,” Eva offered.
+  “Yes it is.”  The man stared back at her, less concerned about keeping his ogling secret now.  He probably thought he was bonding with her.
+  “So tell me, why such tight security up here?”  Eva kept a straight face.
+  “We’re just protectin’ our own.”
+  “I see.  I get that.  I bet they appreciate your protection.”  Eva put her hand gently on the man’s arm, hoping suddenly she wasn’t laying it on too thick.
+  “Yeah, there ain’t many of us, only about...”
+  “Kase Landry will you shut up and stop flirting with that woman!” a voice yelled from behind the shelter and a woman followed the voice, a bolt action .22 in one hand and a baby in a sling cradled by the other.  Eva hoped the woman never tried to fire her rifle while holding her child.  People were so stupid with guns.  They think they and everyone around them are invincible.
+  The woman was in her mid to late thirties and had fuzzy, dirty blonde hair.
+  “That’s enough of you all.  It’s time to get going.”
+  “I think they’re right, honey,” Eva said to Juan.  Kase suddenly deflated.  “We should be going.”
+  Juan started up the jeep and turned the wheel sharp to make a U-turn.
+  “Thank you for your time,” Eva said, her voice dripping with honey.  She half winked at Kase so he could take it either way, depending on what he wanted to believe.  She wanted to be on his good side.  She planned on coming back.
+  As soon as they were out of earshot, she said to Juan, “I’m gonna need a truck.”
+
+  “How are you going to get close to the guards?” Olivia Marceline, Agency Director and now Eva’s supervisor, asked.
+  “Tank top and neon green running shorts, ma’am.  And if that doesn’t work, sports bra and neon pink.  Works every time.”
+  The Director shook her head.  “I wish I were twenty-three again.”
+  “I’m twenty-seven, ma’am.”
+  “I know.  But you look twenty-three.”
+  “Thank you, ma’am.”
+  Director Marceline rubbed her hand on her face, staring at Eva the entire time.  She finally spoke.
+  “Going undercover is a dangerous game.”
+  Eva replied solemnly.  It’s what was expected of her.  “I understand, ma’am.”
+  “It’s not like we’ll disavow you or anything if you get caught.  We simply won’t have the resources to rescue you.  You’ll just disappear and never be heard from again.”
+  Like hundreds of millions of people on the West Coast.  Not to mention all the casualties everywhere else in the world.
+  “I understand, ma’am.  I wouldn’t want you risking anyone else anyway.  If I get caught, I’ll probably be dead before anyone would know I was gone.”
+  “As long as you understand that.”
+  “Yes, ma’am.”
+  “So many things, little things, can go wrong.  Keep your stories simple so you don’t trip yourself up.  If they ask about training, tell them about the year of ROTC you did at Ohio State.  That way they can look up records, if the records still exist, and you have a semi-plausible and verifiable excuse.”
+  “You know about my ROTC?” Eva asked, surprised.
+  “I know everything.”  The Director smiled.
+  “Yes, ma’am.”  Eva thought she sounded like Juan suddenly, and she wanted to laugh at the mental image of herself in his shoes.  But she kept a straight face, kept her voice solemn.
+  “Honestly, I’d love to tell you no,” the Director said.  “But we need something.  Anything you can provide, just like the few minutes of footage you shot today, could make all the difference.  You never know.”
+  Eva nodded.
+  “But Eva, now listen to me.  You are not in this alone.  This is a team effort.  You get something useful and you get out.  There’s a lot of us to take that information and put it to good use.  Do you understand?”
+  “Yes, ma’am.”
+  “You’re not James Bond.”
+  Eva giggled.  “I know, ma’am.  I won’t do anything foolish.”
+  “We’re past that point.  I just don’t want you getting yourself killed.  I’d never hear the end of it from your partner.  Either one of them.”  She rubbed her face with her hand again and yawned.  “Sorry.  I’m so tired.  Running a city is a lot harder than running a field operation.”
+  “Speaking of which, ma’am.  I need a truck.”
+
+
+30
+
+
+
+
+
+  Stanley watched around him as the Hrwang readied for departure.  They went through the usual pre-flight routines most pilots did.  One of the Grenadiers even checked that Stanley and Irina were properly buckled in.
+  Stanley felt engines rev up, but didn’t feel a take off.  It just seemed like they were floating in the sky and then setting down.
+  Touchdown confirmed a landing.
+  “Where are we?” he asked.
+  “We land on top of UN building,” the Second Colonel Grenadier replied.
+  “Why on top” Irina asked.
+  The Colonel shrugged.  “Danger?”
+  The engines spun down and everyone unbuckled.  Two of the Hrwang soldiers retrieved firearms; small, hand held weapons that looked like slightly oversized brass knuckles, and went to the hatch.
+  It opened and they peeked out, weapons first.  They stepped out, one staying by the hatch, the other moving away.  The one that moved away raised his hand, and the third soldier went out of the hatch leaving Stanley, Irina, the Colonel, and the two pilots behind.  No one spoke.
+  Stanley wanted to ask what was going on, but fear bound his tongue.  If the Hrwang were taking things seriously, there must be danger.  But weren’t they on top of a building?  What could touch them up there?
+
+  Former Staff Sergeant John Cathey watched out of the corner of the window of the apartment he occupied, his binoculars placed to make them as minimally visible from the outside as possible.  He’d watched for days, food boxes, potato chip bags, water and beer bottles scattered all around him attesting to that.  At least five days of beard growth, five days of sweaty clothes, and five days of unchanged underwear and socks added to the stench.  He didn’t care.  He watched.
+  He finally saw what he had been watching for.
+  Once he had confirmation with a quick pic snapped with his phone, he knew where to go to get what he needed.  He crawled away from the window and the mess he’d created, and sneaked out of the room and the apartment.
+
+  The Hrwang soldier by the door finally raised his arm and the Colonel said, “Let’s go.  Move fast.  Keep head low.  Like this.”  He demonstrated ducking.
+  Stanley remembered the ticker tape parade Boston Wright got in New York City when he returned home from Mars.  Stanley’s was the sixth mission.  Who remembered the sixth pair of astronauts that walked on the Moon, anyway?  No one would remember his mission either, so he hadn’t expected parades, but sneaking into the UN building, hiding from someone or something?  And spending his first night on Earth hiding in the desert?  This wasn’t what he’d expected.  His return to Earth should have been better than this.
+  The Colonel led, dutifully ducking his head, running crouched across the roof to an open door.  Stanley followed, Irina behind him.
+  They ran towards the door but Stanley slowed to look around him.  He’d been on top of taller buildings, like the Empire State Building, but the view from the United Nations Headquarters was impressive.  The East River and Queens on one side, the skyline of Manhattan on the other, and Stanley tried to take it in as he moved.
+  Irina passed him and yelled at him from the doorway that led inside.
+  “Hurry up, sir.”
+  Stanley got to the doorway but stopped, a soldier impatiently waiting for him to enter.  He didn’t care.  He was back on Earth.  He wanted to look at New York.
+  Then he heard shots.  Somewhere on the ground.  Maybe it wasn’t safe, after all.  He went inside.
+
+  The Hrwang seemed to know where to go, winding down stairs and through corridors until they got to a set of closed double doors with two guards.  The men didn’t seem surprised to see Stanley’s group, but didn’t move away from the doors they guarded either.  The Hrwang stopped.
+  The guards and the Hrwang soldiers stared at each other, weapons ready but not pointing at each other, and no one spoke until the Colonel broke the silence.
+  “Ambassador, you must speak to them.”
+  “Okay.”
+  Stanley moved nervously through the group of Hrwang, getting in front of the lead soldier and walking towards the two guards.  They stiffened but otherwise didn’t react.  He stopped about ten feet in front of them.
+  “Hi. I’m Captain Stanley Russell from the Beagle.  We were orbiting Mars when the war broke out.”
+  One of the guards, a thickset, muscular behemoth, glanced at his partner, an equally muscular type, but of a smaller build.  The second guard didn’t move his eyes away from the Hrwang soldiers behind Stanley, but made a brief call on a small phone or radio.  He whispered, and Stanley didn’t catch anything he said.
+  The person on the other end said something and the guard suddenly moved the communication device towards Stanley.  At first, Stanley thought the guard wanted him to speak to the person on the other end, but instead the man took a picture of him.  At the sound of the click the device made, the Hrwang readied weapons.  One of the guards brought his rifle into firing position also.
+  “I’m American,” Stanley said.  “Put down your weapons.”
+  No one moved.
+  Stanley turned around to the Hrwang and motioned downwards with his hands.  “It’s okay,” he said.  “Lower your weapons.”
+  The Hrwang didn’t move until the Colonel confirmed Stanley’s instructions.  They lowered their weapons.  The guards in front of him did also, but they didn’t relax.
+  Stanley heard more voices on the phone but still couldn’t make out what they were saying.  The guard finally lowered his phone and spoke.
+  “You can stay here until someone shows up.  Everyone else needs to go back on the roof.”
+  “Not safe,” the Colonel said.
+  “Then up the stairwell by the roof.  You can’t stay here.”
+  “For how long?” Stanley asked.
+  “Not my call,” the guard replied in a deep, bass voice.
+  Stanley turned to look at Irina and the Hrwang and shrugged.  “Hopefully not too long,” he said apologetically, wanting to figure out who the guard was talking to, wanting to make some progress here, to fulfill the mission the Lord Admiral had given him, yet at the same time not wanting his group to abandon him.
+  He knew he needed to be brave.  The guards in front of him weren’t going to hurt him as soon as everyone realized who he was.  Despite the black coverall uniform he wore now, he wasn’t Hrwang.
+  “I’ll be okay,” he said.  The Colonel nodded to him and he nodded back.  Irina’s glare returned.  He decided not to say anything to her.
+  The two guards relaxed a little when the group left.  Stanley felt more nervous.
+  “Who are we waiting for?” he asked.  The guards didn’t even acknowledge that he had spoken.  Fine, he thought.  He needed to wait for someone more important.
+  A short, African-American woman finally arrived, coming through the double doors in the midst of four ferocious looking men, all armed with submachine guns.
+  “Who are you?” she demanded of Stanley.
+  “Captain Stanley Russell of the Beagle.  And you are?”
+  “The Beagle shouldn’t have returned for at least another year.”
+  “The Hrwang brought us back early.”
+  “Who’s your second-in-command?”
+  “Commander Irina Samovitch, UN Navy.”
+  “What’s her nationality?”
+  “Her mother is Nigerian, her father Russian, but she was raised in the United States.  She’s now a U.S. citizen.”
+  “That’s too easy. Umm,” she hesitated.  “Who’s your atmospheric chemist?”
+  “What is this?”
+  “I’m just trying to establish who you are.”
+  “I’m Captain Stanley Russell.  I don’t have any ID on me.  Sorry.  I didn’t need ID in orbit around Mars.”
+  “Yes, but you’re not in orbit around Mars like you’re supposed to be, are you?”
+  “Things have been moving fast.  I forgot to bring it with me.”
+  “Who’s your atmospheric chemist?” the woman repeated.
+  “Sherry Pennacott.”
+  “Pennacott.  That’s right.  I’d forgotten her last name.  Why is she on your crew?”
+  “She’s the best atmospheric chemist in the world.”
+  “Yeah, but why did she agree to join your crew?”
+  “She didn’t.  Until I went to her house and convinced her.”
+  “I wish I could think of more questions that only Stanley Russell would know.  We’re going to do a DNA test, but we won’t have results until tomorrow.”
+  “I am Captain Russell.”
+  “Then you won’t mind a DNA test.”
+  One of her security people whispered something to her.
+  “They haven’t had time for that, have they?” she said aloud.
+  “Haven’t had time for what?” Stanley asked.
+  “To grow a clone of you.  I don’t think even if they had that technology, they could grow a clone that fast.  Still, I wished I remembered more things about you.  Stuff that isn’t on an official bio.”
+  “How do you know anything about me?  Or about my crew?”
+  “You’re not a celebrity.  But you aren’t not famous either.  However, I used to be the Undersecretary of Space for the U.S. government.”
+  “Used to be?”
+  “That’s a long story.  But I know about Beagle and her mission and crew.  At least, what I learned from press briefings.  I was over unmanned flight.”  She slumped a little.  “I’ve had a long day already.  Can we sit down somewhere?”
+  “Sure.  I’d like some water, too.  The, uh, the aliens with me, and my second-in-command, would probably like some water also.”  Stanley felt leaderly, watching out for his troops.
+  “Let’s talk.”
+
+  They moved into a conference room down the corridor behind the double doors.  The United Nations had certainly spared no expense.  Stanley sat in the most elegant conference room he had ever seen, full leather chairs, a mahogany table, wood paneling, a silver coffee service in the corner, full length windows with a view across the river and over the city, glittering chandeliers, and some fairly expensive art work, including what could have been a Picasso, Stanley wasn’t sure, and a statue that looked ancient Mayan.  Probably priceless.  His military crew always said rank had its privileges and those at the UN certainly seemed to have a lot of rank.
+  Water was provided, and the former Undersecretary of Space began.
+  “I’m Rihanna Hollis.  I may be the Acting President of the United States.”
+  Stanley didn’t know what to say to her.  He just looked at her, dumbfounded.
+  “We haven’t found any higher ranking officials yet, although we’re still hopeful.  The Hrwang pretty thoroughly devastated the leadership of our nation and that of many other nations.  We’ve been trying to keep my assumption a secret for that and several other reasons.”
+  “Then why tell me?”
+  “Because I think you are Captain Russell.  I was bluffing about the DNA test, but it didn’t bother you.  We have no way to check your DNA, and even if we did, we no longer have access to any databases that we could compare the results to.  But you didn’t know that and were willing to submit.  I think you’re legit.”
+  “Thank you.”
+  “So, now, tell me.  Why are you here, and why are you with those murderers?”
+
+  The Lord Admiral walked into the command center of his ship, the only room large enough for a conference with all of his department heads.  Operations moved to the backup center and the Lieutenant Grenadier stood guard at the door.  White noise generators and listening device sniffers ensured privacy.  The Lord Admiral noted his Adjutant was present.
+  He looked at the Fifth Over Colonel Grenadier.  The man didn’t delay but launched immediately into his report.
+  “Three reported science satellites are being tracked down in the vicinity of the sixth and seventh planets, out past the asteroid ring.  Two more reported vessels have left the solar system and are no longer transmitting.  They have been deemed no threat.  Forty-seven drones continue to scan for unreported vessels.”
+  Succinct and thorough, the way the Lord Admiral liked it.  The man was well known to be on track for Admiral.
+  “Would you guarantee, on your life, that we have supremacy in space now?”
+  The man paused.  Good, the Lord Admiral thought.  He’s taking it seriously.  Many a commander failed for not taking little things seriously.
+  “There are no longer any active satellites or vessels around or in transit between the third and fourth planets, but there is a significant amount of debris.  It is possible there are sleeper vessels, unpowered and inactive, that could be remotely activated.  Twelve drones are patrolling for this eventuality.  That would be my only caveat before I could guarantee complete space supremacy.”
+  “Do you think this people have the capability to create such devices?” the Lord Admiral asked.  There was caution, and there was overcautiousness.
+  “They’ve proven to be a warlike people.  Who else would start an aggression against a superior force?”
+  There were nods of agreement.  The Lord Admiral would give this to the man.
+  “Of the forty seven drones searching for unreported vessels among the outer planets, how many could be spared without seriously compromising the mission.”
+  It was clear the man wanted to say none, but he also understood priorities.  “Perhaps fifteen to twenty, sir.”
+  “Excellent.”
+  The accounting continued around the table.  Medical reported seven fatalities among sleepers, but no other casualties and no alien diseases contracted.  The vaccinations were working both directions.  Air supremacy couldn’t be declared, most of the alien aircraft had gone to ground, and occasionally they had found and destroyed hidden hangars, but no airborne attacks had been launched against any Hrwang vehicle in over twenty hours.
+  A major concern for ground operations was the large radioactive cloud drifting eastward over the main landmass.
+  “If it spreads over the ocean, it will be harder to neutralize,” the Third Under Colonel reported.
+  “Could we use every available AI for a precipitation operation?  Catch most of it before it leaves the landmass?” the Lord Admiral asked.
+  “We have about a thousand drones that could be used for that purpose,” the Fifth Over Colonel interjected.
+  The Lord Admiral gauged his men.  They all seemed to agree.
+  “Do it,” he said.
+  “Yes, sir.”
+  “What about the people on the land mass where the radiation precipitates out?” the Third Under Colonel asked.
+  The Lord Admiral didn’t like the man.  But he’d already found a way to get rid of the Second Colonel by assigning him to command the Ambassador’s security detachment.  The Second Colonel should have commanded ground operations, but the Lord Admiral had been unhappy about his appointment even before they left Hrwang.  After an interview with the man upon his waking, he found him completely incompetent.  Commanding a security detachment was a significant demotion, but the Lord Admiral had softened the blow by emphasizing the importance of being a liaison to the Ambassador.  The Second Colonel had taken it as well as could be expected.
+  The Lord Admiral couldn’t, at least not at this point, get rid of a second department head.  He’d have to wait for the right opportunity.
+  “Remember, all of you, we didn’t start this conflict,” he answered.  “We certainly didn’t unleash atomic devices on land masses.  Those guilty of these atrocities bear the responsibility of the consequences.  None other.”
+  The Third Under Colonel didn’t look convinced, but the rest did.  The Lord Admiral noted his reluctance, adding to his desire to dispose of the man.
+  The reports continued.  When they were finished, the Lord Admiral made his announcement.
+  “It’s time for ground operations to begin.  I will descend to the planet and take command at a location already determined and being prepared.  Fifth Over Colonel will assume the designation Acting Fleet Admiral and will be supreme commander of all forces in space.”
+  Some surprise registered on the faces of his men.  They had probably assumed the Admiral Commander would resume his command when the Lord Admiral went planetside.  The Fifth Over Colonel didn’t react, keeping a calm demeanor as befitting a flag officer.  The Lord Admiral felt his choice confirmed.  The newly promoted Admiral could celebrate later.
+  “Troops will either be attached to combat craft or deployed to secure locations, of which there is now only one.  Further troop wakening requirements will be transmitted by ferry craft.  The same ferry craft will also, hopefully, return with some fresh food.”  He grinned, and his men grinned with him.  Although they’d slept most of the two and a half years it took to travel from Hrwang, they still missed fresh food.  Upon awakening, they’d been fed what the cargo ships had held in storage during that time.  Powdered eggs, canned goods, dried meat.  The Lord Admiral could almost taste fresh fruit on his tongue as he thought of descending to the local planet.
+  “I leave at once,” he added.
+  “Yes, sir.”
+  The meeting ended with a review of some operational details, a few pleasantries among the soldiers, then everyone filing out to fulfill assignments they’d received.  The newly appointed Acting Fleet Admiral remained behind.  The Lord Admiral’s Adjutant slouched in the corner.
+  The Acting Fleet Admiral nodded.  “Thank you, sir.”
+  The Lord Admiral returned the nod.  “You’ve earned it.”
+  The man hesitated.  He clearly considered his next question to be a delicate one.  He finally decided to go with direct and simple.
+  “The Admiral Commander?”
+  “The Admiral Commander has been temporarily suspended of duties pending the investigations on the planet.  He is to be given freedom of movement but is otherwise not to leave this vessel.  No restrictions other than no command.  Understood?”
+  “Understood, sir.”
+  They nodded again, and the newly appointed Acting Fleet Admiral departed.  The Lord Admiral looked over at his Adjutant, the signal for the man to join him in discussion.
+  He did.
+  The Lord Admiral nodded at the Lieutenant Grenadier, who returned his nod and left, following the Fleet Admiral out.
+  “He’s a good man, that one.  Your new Admiral.” the Adjutant commented after the security officer was gone.
+  “Too good.”
+  The men exchanged grins.
+  “As we planned then, sir?”
+  “As we planned.”
+  “Yes, sir.”  The Adjutant started to leave.
+  “One more thing,” the Lord Admiral said.  The Adjutant turned to face him.  “The Third Under Colonel.”
+  The Adjutant sneered.
+  “Terrible accidents happen sometimes,” the Lord Admiral suggested.  His man grinned again.
+
+  John Cathey sprinted from the apartment building to the nearest subway station, leaving himself in view of the United Nations Headquarters for as little a time as possible.  A hundred or so protesters still chanted and marched around the provisional fence that had been erected, chain link and concrete barriers, behind which stood another hundred or so police.  He hoped nobody would notice him.
+  Without knowing when rocks would start falling from the sky again, the subways became the safest way to get around.  The dark sections between stations were often lit with battery lamps.  John didn’t know where all the trains were.
+  He made his way to the station he’d been to a several days earlier, a place off the main line where vendors had set up shop.  Their prices for survival gear were exorbitant.  But he’d seen something he wanted, something he needed now, and although he had no money to buy it, he was going to sweet talk the seller out of it.
+  He found the vendor.  It was clear the man was selling remnants of the looting of a National Guard armory.
+  “That case,” John said and pointed.
+  The man didn’t even look at it.  “Ten thousand.  Non negotiable.”
+  John didn’t even have a hundred dollars.  He scratched his beard.
+  “I need it.  It’s important.”
+  “Ten thousand dollars.”
+  John leaned over on the man’s makeshift table covered with hand guns, ammunition, even a few grenades.
+  “I.  Need.  It.”
+  “I.  Don’t.  Care.”
+  “It’s for national security.”
+  “Then the nation can afford ten grand.”
+  How much did John need to give away?  He wondered how long his opportunity would last.  Minutes?  Hours?  It could be gone already.
+  “Look.  I’ve acquired a target.”  He pulled out his phone, bringing up the picture.  He showed it to the vendor.
+  The vendor didn’t even look at the picture.
+  “Then I hope it’s worth ten grand to you,” he said.  He casually undid the holster clasp over his sidearm.
+  John had never been eloquent.  He knew that.  He also sensed time was running out.  He needed what was in the case.
+  He knew exactly what it was.  He’d even fired them before, in training.  An FIM-22E Stinger II ground to air missile.  They were old, but were rated for twenty or thirty years of service.  He didn’t consider that propellants aged and missiles that were too old could just explode.  He just knew he wanted that Stinger.
+  “No one else is going to need it,” he said.
+  “Then I’ll use it for target practice.  Now get lost.”
+  “You didn’t pay for it.”
+  The vendor put his hand on his pistol.  “I said, get lost.”
+  John looked around.  There were five or six other vendors and about twenty shoppers.  No one paid him any attention.  Too absorbed on figuring out what they needed to survive.
+  He spoke loudly.
+  “I know where there’s an alien aircraft.  It’s parked right now.  I need to destroy it.”  Heads turned at that.  “I can use that Stinger right there to do it.  The one this man stole from the government.”
+  The vendor drew his pistol.  “That’s enough out of you.”
+  John turned to stare at the man, focused on the weapon pointed at him.  He watched with surprise as the vendor slowly put his pistol down, then back into its holster.  He sensed others now behind him and glanced around, seeing two men with guns drawn, pointed at the vendor.  Another vendor stood to the side of them.
+  “Look, Mac.  Let him have the Stinger,” the second vendor said.
+  “He’s just gonna waste it,” the first vendor yelled.
+  “Hey, buddy.  You know what you’re doing?” the second vendor asked.
+  “Staff Sergeant John Cathey, retired,” John replied.
+  The second vendor, backed now by four or five armed customers, said, “My name’s not important, but I was a Marine Gunnery Sergeant.  I’d love to see one of those buggers go up in flames.  You really know how to fire that thing?”
+  John nodded.
+  “Give it to him.”
+  The first vendor protested and even reached for his pistol again.  The other customers discouraged him.
+  “Can I watch?” the former Gunnery Sergeant asked.
+
+  Safely back in the lobby of the apartment building, the Stinger, in it’s case, slung on his back, about twenty hangers-on wanting to watch the fireworks, and John knew the hardest part lay ahead.  No power, no elevators.  He had to climb fifty flights of stairs to get back to his vantage point.
+  A few of the hangers-on groaned when he told them that and said they would watch from the street.
+  “Don’t give yourself away.  You’ll tip them off.”
+  They understood.
+  He felt his first wave of light-headedness at the tenth floor, but the desire to take some aliens out pushed him, and he kept going, using the handrail to pull himself.
+  The noise of the crowd thinned out behind him by the twentieth floor and by the thirtieth, when he threw up all the beer and cheese crackers he’d had for breakfast, only five followers remained.
+  They encouraged each other when they could breathe.  John had done these stairs before, but had ascended a floor at a time, looking for food, liquid, and supplies.  It had taken a few days to get to the fiftieth.  Now he needed to do it as quickly as possible.  He didn’t realize how hard it would be.
+  At thirty-five he had to stop, collapsing onto the stairs.  He gasped, his heart pounded, his vision tunneled and he thought he might pass out.
+  “Breathe slowly,” a woman said.  She put her hand on John’s shoulder.  “Breathe slowly,” she repeated.
+  John tried.
+  He wished he were still in shape.  The day after he retired, he went for his morning run and about a mile from his home, he realized he wasn’t in the military anymore, and he walked home.  All exercise ended at that point.
+  Today he wished he’d been smarter.
+  “Don’t stop too long,” the woman said.  “One step at a time.”
+  She wore camo pants and boots, but a yoga shirt.  She seemed the least winded out of the remaining group.
+  John stood slowly and daggers pierced his brain.  He squeezed his eyes shut and held the railing.
+  “One step at a time,” the woman said, and they started upwards.
+  The six, John and the five who made it to the top with him, all collapsed on the landing of the fiftieth floor.  Even the woman in the yoga shirt lay on her back, gasping.  John had no idea how hard going up all fifty floors at once would be.
+  He didn’t know how much time he had.  He couldn’t stand, his legs felt like rubber, his brain like mush, but he had to keep moving.  He started crawling for the stairwell door.

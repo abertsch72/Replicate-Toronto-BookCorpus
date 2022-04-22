@@ -1,51 +1,14 @@
 #!/bin/bash
-curl https://www.smashwords.com/books/download/455489/6/latest/0/0/thirsty-for-payback-sinful-business-series.txt -o data/1235/thirsty-for-payback-sinful-business-series.txt
-curl https://www.smashwords.com/books/download/772277/6/latest/0/0/dance-with-shadows.txt -o data/1235/dance-with-shadows.txt
-curl https://www.smashwords.com/books/download/206523/6/latest/0/0/almost-north.txt -o data/1235/almost-north.txt
-curl https://www.smashwords.com/books/download/548591/6/latest/0/0/where-the-heart-is-a-bwwm-interracial-pregnancy-romance.txt -o data/1235/where-the-heart-is-a-bwwm-interracial-pregnancy-romance.txt
-curl https://www.smashwords.com/books/download/67404/6/latest/0/0/breaking-free-seal-team-heartbreakers.txt -o data/1235/breaking-free-seal-team-heartbreakers.txt
-curl https://www.smashwords.com/books/download/922354/6/latest/0/0/the-greatest-love-story-never-told.txt -o data/1235/the-greatest-love-story-never-told.txt
-curl https://www.smashwords.com/books/download/102702/6/latest/0/0/a-question-of-love.txt -o data/1235/a-question-of-love.txt
-curl https://www.smashwords.com/books/download/575874/6/latest/0/0/psycho-bitch-a-love-story.txt -o data/1235/psycho-bitch-a-love-story.txt
-curl https://www.smashwords.com/books/download/587175/6/latest/0/0/a-brand-of-christmas.txt -o data/1235/a-brand-of-christmas.txt
-curl https://www.smashwords.com/books/download/941275/6/latest/0/0/other-side-of-love.txt -o data/1235/other-side-of-love.txt
-curl https://www.smashwords.com/books/download/558671/6/latest/0/0/some-day-days.txt -o data/1235/some-day-days.txt
-curl https://www.smashwords.com/books/download/374409/6/latest/0/0/why-do-people-say-i-love-you-when-they-dont-mean-to-do-so.txt -o data/1235/why-do-people-say-i-love-you-when-they-dont-mean-to-do-so.txt
-curl https://www.smashwords.com/books/download/180431/6/latest/0/0/champagne-romance-romance-novel.txt -o data/1235/champagne-romance-romance-novel.txt
-curl https://www.smashwords.com/books/download/424633/6/latest/0/0/learning-to-love-a-story-with-no-title-series-book-three.txt -o data/1235/learning-to-love-a-story-with-no-title-series-book-three.txt
-curl https://www.smashwords.com/books/download/787664/6/latest/0/0/bruised.txt -o data/1235/bruised.txt
-curl https://www.smashwords.com/books/download/147682/6/latest/0/0/each-other.txt -o data/1235/each-other.txt
-curl https://www.smashwords.com/books/download/612809/6/latest/0/0/vivienne-part-2-the-lost-and-found.txt -o data/1235/vivienne-part-2-the-lost-and-found.txt
-curl https://www.smashwords.com/books/download/96006/6/latest/0/0/spiritus-a-paranormal-romance-spiritus-series-book1.txt -o data/1235/spiritus-a-paranormal-romance-spiritus-series-book1.txt
-curl https://www.smashwords.com/books/download/506019/6/latest/0/0/pulchra-and-akaru.txt -o data/1235/pulchra-and-akaru.txt
-curl https://www.smashwords.com/books/download/444037/6/latest/0/0/starlight-destiny.txt -o data/1235/starlight-destiny.txt
-curl https://www.smashwords.com/books/download/1000794/6/latest/0/0/click-fraud-sonic-ping.txt -o data/1235/click-fraud-sonic-ping.txt
-curl https://www.smashwords.com/books/download/359451/6/latest/0/0/the-larsen-sisters-1-my-sisters-wedding.txt -o data/1235/the-larsen-sisters-1-my-sisters-wedding.txt
-curl https://www.smashwords.com/books/download/594754/6/latest/0/0/caffe-latte-love-like-coffee-1.txt -o data/1235/caffe-latte-love-like-coffee-1.txt
-curl https://www.smashwords.com/books/download/415295/6/latest/0/0/koe.txt -o data/1235/koe.txt
-curl https://www.smashwords.com/books/download/40838/6/latest/0/0/friends-the-extended-version.txt -o data/1235/friends-the-extended-version.txt
-curl https://www.smashwords.com/books/download/1001285/6/latest/0/0/the-stone-unturned-a-steam-novel-book-1.txt -o data/1235/the-stone-unturned-a-steam-novel-book-1.txt
-curl https://www.smashwords.com/books/download/1091972/6/latest/0/0/the-chronicles-of-farmland.txt -o data/1235/the-chronicles-of-farmland.txt
-curl https://www.smashwords.com/books/download/112851/6/latest/0/0/revenge-naughty-after-hours-book-1.txt -o data/1235/revenge-naughty-after-hours-book-1.txt
-curl https://www.smashwords.com/books/download/484689/6/latest/0/0/billionaire-season.txt -o data/1235/billionaire-season.txt
-curl https://www.smashwords.com/books/download/125532/6/latest/0/0/until-the-gangaway-tears-us-apart.txt -o data/1235/until-the-gangaway-tears-us-apart.txt
-curl https://www.smashwords.com/books/download/63037/6/latest/0/0/shadowlove-stalkers.txt -o data/1235/shadowlove-stalkers.txt
-curl https://www.smashwords.com/books/download/375614/6/latest/0/0/the-caregiver-book-1-of-the-caregiver-series.txt -o data/1235/the-caregiver-book-1-of-the-caregiver-series.txt
-curl https://www.smashwords.com/books/download/107959/6/latest/0/0/the-lawman.txt -o data/1235/the-lawman.txt
-curl https://www.smashwords.com/books/download/484549/6/latest/0/0/seventh-son.txt -o data/1235/seventh-son.txt
-curl https://www.smashwords.com/books/download/546530/6/latest/0/0/unwanted.txt -o data/1235/unwanted.txt
-curl https://www.smashwords.com/books/download/99865/6/latest/0/0/adelaide-confused.txt -o data/1235/adelaide-confused.txt
-curl https://www.smashwords.com/books/download/689179/6/latest/0/0/cape-cods-figure-in-black.txt -o data/1235/cape-cods-figure-in-black.txt
-curl https://www.smashwords.com/books/download/459432/6/latest/0/0/his-dream-girl-an-angel-outlawed-1.txt -o data/1235/his-dream-girl-an-angel-outlawed-1.txt
-curl https://www.smashwords.com/books/download/76573/6/latest/0/0/my-fierce-highlander.txt -o data/1235/my-fierce-highlander.txt
-curl https://www.smashwords.com/books/download/475241/6/latest/0/0/enemy-of-mine.txt -o data/1235/enemy-of-mine.txt
-curl https://www.smashwords.com/books/download/395187/6/latest/0/0/blood-callings-1-an-erotic-romance-vampire-stories-collectio.txt -o data/1235/blood-callings-1-an-erotic-romance-vampire-stories-collectio.txt
-curl https://www.smashwords.com/books/download/630005/6/latest/0/0/resurrected-promises.txt -o data/1235/resurrected-promises.txt
-curl https://www.smashwords.com/books/download/217439/6/latest/0/0/guess-what-she-did.txt -o data/1235/guess-what-she-did.txt
-curl https://www.smashwords.com/books/download/102432/6/latest/0/0/ashes-of-dearen-book-1.txt -o data/1235/ashes-of-dearen-book-1.txt
-curl https://www.smashwords.com/books/download/518774/6/latest/0/0/thread.txt -o data/1235/thread.txt
-curl https://www.smashwords.com/books/download/388214/6/latest/0/0/the-family-were-born-with.txt -o data/1235/the-family-were-born-with.txt
-curl https://www.smashwords.com/books/download/410775/6/latest/0/0/medusas-reflection-part-of-the-stories-of-ithiria-collection.txt -o data/1235/medusas-reflection-part-of-the-stories-of-ithiria-collection.txt
-curl https://www.smashwords.com/books/download/267165/6/latest/0/0/shattering-zoellas-demons.txt -o data/1235/shattering-zoellas-demons.txt
-curl https://www.smashwords.com/books/download/292872/6/latest/0/0/time-tells-tales-tale-two-love-loss-lust-and-lies.txt -o data/1235/time-tells-tales-tale-two-love-loss-lust-and-lies.txt
-curl https://www.smashwords.com/books/download/214859/6/latest/0/0/lost-memories.txt -o data/1235/lost-memories.txt
+#!/bin/bash
+#!/bin/bash
+#!/bin/bash
+#!/bin/bash
+#!/bin/bash
+#!/bin/bash
+#!/bin/bash
+#!/bin/bash
+#!/bin/bash
+#!/bin/bash
+#!/bin/bash
+#!/bin/bash
+#!/bin/bash

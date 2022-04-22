@@ -1,0 +1,752 @@
+Quantum Troopers
+Episode 15:  A Black Hole
+Published by Philip Bosshardt at Smashwords
+Copyright 2016 Philip Bosshardt
+Smashwords Edition, License Notes
+
+This ebook is licensed for your personal enjoyment only.  This ebook may not be re-sold or given away to other people. If you would like to share this book with another person, please purchase an additional copy for each recipient.  If you're reading this book and did not purchase it, or it was purchased for your use only, then please return to Smashwords.com and purchase your own copy.  Thank you for respecting the hard work of this author.
+
+A few words about this series?.
+
+*** Quantum Troopers is a series of 15,000- 20,000 word episodes detailing the adventures of Johnny Winger and his experiences with the United Nations Quantum Corps.
+*** Each episode will be about 40-50 pages, approximately 20,000 words in length.
+*** A new episode will be available and uploaded every 3 weeks.
+*** There will be 22 episodes.  The story will be completely serialized in about 14 months.
+*** Each episode is a stand-alone story but will advance the greater theme and plot of the story arc.  
+*** The main plotline: U.N. Quantum Corps must defeat the criminal cartel Red Hammer's efforts to steal or disable their new nanorobotic ANAD systems. 
+*** Uploads will be made to www.smashwords.com on approximately the schedule below:
+
+Episode #	Title					Approximate Upload Date
+1		'Atomgrabbers'			1-14-16
+2		'Nog School'				2-8-16
+3		'Deeno and Mighty Mite'		2-29-16
+4		'ANAD'				3-21-16
+5		'Table Top Mountain'			4-11-16
+6		'I, Lieutenant John Winger?'	5-2-16
+7		'Hong Chui'				5-23-16
+8		'Doc Frost'				6-13-16
+9		'Demonios of Via Verde'		7-5-16
+10		'The Big Bang'			7-25-16
+11		'Engebbe'				8-15-16
+12		'The Symbiosis Project'		9-5-16
+13		'Small is All!'				9-26-16
+14		''The HNRIV Factor'			10-17-16
+15		'A Black Hole'			11-7-16
+16		'ANAD on Ice'			11-29-16
+17		'Lions Rock'				12-19-16
+18		'Geoplanes'				1-9-17
+19		'Mount Kipwezi'			1-30-17
+20		'Doc II'				2-20-17
+21		'Paryang Monastery'			3-13-17
+22		'Epilogue'				4-3-17
+
+Chapter 1
+"Hailstorm"
+
+
+Aboard UNS Galileo
+May 21, 2049
+Four Days to Earth Impact	
+
+"Measuring separation?I am seeing a little," Al Glance announced.  He had a scope on the target zone.  "Maybe a few meters?more at the lower end of the Fissure."
+"Okay, let's do another round," Mendez announced.  The coilgun was recycled, coils re-charged, new shots loaded.
+"Fire it!"
+The flash-snap! crackled through the hull again and another mushroom two kilometers below them announced the impact.  
+"What's she look like now?" Kamler asked.
+Johnny Winger put the targeting scope on the impact site.  Most of the ground was obscured by dust and rubble, thick and slow-moving like a ground fog in the asteroid's minute gravity field.  "Hard to tell?give me a radar pulse."
+Mendez stabbed a button and electromagnetic fingers reached out across the void to kiss the surface.  "Possible change in aspect ratio?there must be something in motion down there."
+"Yeah, lots of rock from the looks of it.  Sorry, Lieutenant, but I think we're going to need another round."
+"Let's make it a half round this time," he decided.  "We need to conserve shots for the other sites.  Stu, re-cycle the gun but load two shots this time."
+Kamler did as Mendez ordered.  "Guns ready, Lieutenant."
+"Fire."
+A sizzling flash-snap! sounded through the hull once more.  
+Winger watched as the white flash and the plume erupted off the surface, geysering in slow motion upward and outward into space.
+It was Glance who saw the first signs of the breach.  "Something's going on?right near Loki crater-look!  See that rubble cloud spalling off?  It's breaking up-"
+Mendez studied the radar return.  "Measurable breach this time.  I'm getting a possible aspect change."
+"Look at that debris!" said Kamler.  "Beautiful?just beautiful!"
+Hicks-Newman was still turning slowly, like a roasting potato on a spit.  But now, one entire end of the asteroid was separating in slow motion from the main body.  All along the cleft of Odin's Fissure, the asteroid was calving off a part of itself.  Immutable forces of rotation were finishing the job first started by ANAD and helped by Galileo's coilguns.  Hicks was shedding an entire up-sun third of its body.  The severed end hung together by seams of rock for a few minutes, enveloped in a swelling cloud of rubble.  But the centrifugal force of the asteroid's rotation, combined with extra gyrations from its nutating wobble, corkscrewed the severed end away and it finally separated.
+"We did it!" exulted Glance.  He pumped a fist in the air.  "We chopped the bugger right off-"
+"Al-wait a minute?look?"
+"I don't believe it?of all the-"
+Even as the partitioned end of Hicks spun lazily away in an expanding fog of rubble and rock, a new fissure quickly opened up.  Opposite what had been Odin's Fissure on the other side of Loki crater, a new seam had suddenly developed, a new crack.  
+"The mantle must have been weak there," Winger theorized.  "She couldn't hold together when the breach came."
+"Yeah, angular momentum made sure of that," Kamler added. "Her rotation increased and that must have stressed a pre-existing fissure."
+The newly created body, spinning and wobbling away from what was left of Hicks-Newman, now calved off another section.  The oblong chunk ran for hundreds of meters along a stress line that curved around the lower ridges of Loki crater.  The small berg looked like a skullcap with fingers of rock sticking out into space.  
+"This isn't good news, folks," Kamler announced.  "There's no impulse motor on that piece.  It's just a loose rockberg spinning around in space."
+Mendez was already on the comm.  "I'd better advise Gateway?UNIFORCE too.  Without impulse arrays on that piece, there's no way to divert it from impact.  Maybe killsats can zap it but it's going to be close."
+"Let's hope it'll spin away from Earth?maybe just skim off the upper atmosphere."
+Left unsaid was a tactic that had come to Winger's mind, a last ditch desperation maneuver he hoped no one else would think of, if it was even possible.  Galileo might have just enough maneuvering propellant to bump the extra piece and nudge it away from Earth.  But that would require somebody to stay on board and run the ship.
+It was a silly idea anyway.
+They watched the two severed pieces for a few moments.  Both had picked up unusual torques in the breaching process and so spun, wobbled, and tumbled with crazy gyrations as they slowly separated from the main body of Hicks.
+The asteroid itself, now shorn of roughly a third of its mass, had increased its own rotation rate as well.  
+"Hicks looks like a drunken dancer now?that end wobble has picked up," Glance noted.  "She's really nutating?can you sight in on Asgard?"
+Mendez watched the rump asteroid gyrating like a spinning child's top for a few moments.  The yawning fracture that was the Chasm of Asgard turned below them like a black seam stitched across the jagged up-sun end of the asteroid.  
+"I don't know?with that kind of rate, we'll have to pick our moment.  Plus there's an extra wobble now.  That'll make targeting a bitch?but we have to try.  Let me study one full rotation, see if I can pick my spot."
+Kamler interrupted.  "I've got Nakamura on the vid, Lieutenant.  Gateway Ops wants all the data they can get on the smaller body."
+Mendez saw the pale face of Kaoru Nakamura on the vid?floating in micro-g aboard the station.  Gateway had been established in a halo orbit about the Earth-Moon L3 point several years before?the better to keep a close eye on Chinese activities at their Tian Jia base at Copernicus crater. 
+"We've gotten radar off the smaller body-we're calling it Hicks-D-from Aristarchus Array just a few minutes ago," Nakamura was saying.  "Geos say it's pretty light in mass, maybe just a loose rubble cloud.  There's a chance it may break up if it hits Earth's atmosphere."
+"We could try a few more coilgun bursts after our next breaching shot," Mendez offered.  "Maybe that would help Hicks-D break up faster."
+Nakamura advised caution.  "Let the geos run with the data for a few hours?it's close enough to do spectrum analysis on?we can get a better handle on its composition then.  We saw the vids of the first breach?good work, Galileo.  Good shooting.  And thanks to Quantum Corps too; I'm sure the ANAD digs helped that process.  You're targeting Asgard now?"
+"As we speak, Gateway," Mendez said.  "But the first breach imparted quite a dramatic wobble to Hicks.  It's tumbling around like my son's football passes now.  I'm not sure I can get an accurate shot at Asgard?and we don't have that much left in our magazine."
+"Currently, we make you at about twenty seven two thousand kilometers from Earth.  Aristarchus is giving us velocity and position updates every half hour.  You're approaching the planet at just under 21,000 kilometers per hour.  That puts impact in a few minutes less than forty-six hours?just under two days.  By the way, if you can, translate Galileo more toward the down-sun end of the asteroid.  We're going to be operating the impulse motors on the piece that has them?the one with the polar arrays.  I don't want the ship to be in the line of fire of the pellet stream."
+"Roger that," Mendez said.  "We'll move down-sun.  But I can't go too far off axis from Asgard?I've got to take the best shot I can when I have it."
+"Agreed.  Just be advised we'll be operating the impulse motors within the hour.  UNIFORCE wants to divert that piece as soon as we can."
+"Understood?Galileo out."  Mendez punched in the new position to the ship's maneuvering computer.  "This should put us about halfway between the Chasm of Asgard and Freya crater."
+"Fabulous country," said Mighty Mite Barnes.  "I'd like to build a vacation home there."
+"Stu, what's our magazine like?"
+"Twenty four rounds," Kamler told him.  "Plus four loaded.  That's it."
+Mendez studied the terrain below as the ship's computers translated Galileo to its new firing position.  "Your opinion, Lieutenant.  Best targets inside that Chasm--?"
+Winger discussed the targeting with Al Glance.  "You were the site commander, Al.  You had the grid.  Where do we shoot?"
+Glance didn't hesitate.  He pointed out an area a few hundred meters away from Thor crater.  "See where the Chasm widens out?you can still see some of our garbage scattered around the dig site.  ANAD boring was deepest there.  Shoot there."
+Mendez swung his targeting scope around to zero in on the location.  He pressed a few buttons to slave the coilgun array to those coordinates.
+"Coilguns enabled?"
+"Armed and ready, Lieutenant."
+"Do it, Stu.  Now."
+Kamler pressed the firing button.  The staccato bang of guns discharging rippled through the command deck hull.  Almost at the same instant, a bright white plume of rubble and dust erupted from the dim recesses of Asgard Chasm, geysering out into space like a slow-motion plant blooming.
+Winger operated the radar to measure lateral separation across the Chasm at the impact site.  "Minimal change?I think we just vaporized a canyon wall?landslide going on now.  Can you tweak your aim a little bit uphill, into those shadows at the 'Y'?"
+"I'll try," Mendez muttered.  "But remember the asteroid's rotating.  I'm trying to hit a moving target here?and there's still debris from the first shots fogging up the ground view.  It'll take a few minutes for that stuff to fall out."
+He made the adjustments and fired another salvo of four rounds.  This time, the plume erupted into a massive boiling cloud of rubble, several times wider than the first.
+"You hit something?a gas pocket, maybe," Tallant watched.  "It's venting like the dickens."
+"I see some separation now," Winger said. "She's beginning to breach?several meters per second-"
+"Look?another seam," Kamler pointed out.  "See to the left, back toward Heldof crater?"
+"Crap?of all the rotten-" Winger said.  "I don't believe it.  This rock pile's nothing but loose rubble.  It may tear itself into a dozen pieces."
+They continued watching for a few moments, as the asteroid rotated below them, now enveloped in a debris field that sparkled and shone in the sunshine.  The dig site at Asgard continued to widen, as centrifugal forces tore at Hicks' innards, flinging off boulders and smaller chunks.  Soon, that end of the asteroid hung only by a few loose seams of rock, wobbling like a broken child's top.  
+"Designating main body as Hicks-A," Reaves said.  "Largest bodies are now Hicks-A, B, C and D."
+"Al, there aren't enough letters in the alphabet to name all those pieces.  I just hope most of that junk burns up in the Earth's atmosphere."
+Mendez was grim.  "We'd better let Gateway know what's happened."
+
+Aboard Gateway Station, the Ops center was in an uproar.  Kaoru Nakamura oversaw a small platoon of technicians scrambling to power up impulse motors on the surface of Hicks-Newman?or what was left of it.
+Nakamura shook his head at the radar plots. Aristarchus and SpaceGuard were now tracking no less than twenty chunks of Hicks leftovers.
+"What the hell are they doing up there?" he wondered out loud.  "Every sim we did had the burg splitting cleanly along-"
+"-excuse me, sir," interrupted Jonas, a nearby tech working the maneuvering console.  "Polar arrays on Hicks-C are powered up.  Loader bank and grid charged.  The bots are giving us a good stream of material."
+Nakamura knew they couldn't afford to wait.  "Advise Galileo once more.  Tell them to stand off several kilometers, at least.  We're firing in less than five minutes?start the count."
+"Yes, sir."  Jonas pecked out a few commands and set up the maneuver.  "Estimating twenty-two point one meters per second, total delta-vee over a nominal one-hour burn, sir."
+"Very well?we'll fire for an hour and re-plot.  What about the other pieces?"
+Jonas checked the board.  "We have plots on Hicks A, B, C and D, from Aristarchus and SpaceGuard.  There are impulse motors on A, B and C.  D's a lost cause?it's going to hit in less than twenty-six hours.  And Plot's giving us returns on a lot of other pieces up there?twenty in all."
+Nakamura had queried his computer to display the original composition of Hicks, as determined by the first scoutships.  "Must have more seams of volatiles than we allowed for.  That could explain the explosive breaching Galileo's reporting."
+"Yes, sir?she looks heavy on volatiles."  
+ Nakamura was in a quandary about what to do next.  "Get UNIFORCE on the line.  I need to let them now there will definitely be impactors."
+"One minute to firing, sir."
+Polamalu was the comm tech, a Samoan kid who had grown up in Singapore, joined Quantum Corps as a recruit and washed out of nog school.  He'd signed on for a stint at Gateway L3 to get his space legs, with an eye toward UNISPACE and maybe even Frontier Corps as a career.
+'Pollie' worked his board, ported the vid to Nakamura's station one level up.  "It's UNIFORCE, sir.  General Linx's office on screen one."
+The Corps commander's face looked like an old hide leathery and beaten with worry.  "Gateway, what's going on?  I'm getting SpaceGuard reports we still have impactors undiverted."
+"That's correct, General.  We're getting ready to divert one piece now.  But Hicks seems to have shattered as it breached under Galileo's coilgun fire.  Carbonaceous bodies are like that?really just loose rubble piles, dirty snow cones."  
+Linx winced like he'd been shot.  "Give me the details.  "What's going to hit?"
+Nakamura went down the list.  "Biggest worry is a piece we're calling Hicks-D.  We have no divert capability for it.  It broke off away from any of our impulse motors.  This one came from the up-sun end, breached off and spun away from the Odin's Fissure site.  I've just talked with our geos?they're saying the whole asteroid's probably riven with seams of volatiles, just waiting to be exposed to the Sun.  Hicks-D is about seventy meters in longest dimension?I'm getting projections from Plot coming in right now?looks like entry velocity will be about 26,400 kilometers per hour.  Estimated impact point is in North Africa, in the Sahara desert near the Algeria-Tunisia border. "
+Linx winced at the thought.  "I'll let UNSAC know.  The Secretary-General will have to issue a broad-area alert.  We still have two days?mass evacuations will help but we don't have a lot of time.  What about the other pieces?"
+"-thirty seconds to firing, sir-"  It was Polamalu.
+"We're preparing now to operate impulse motors on Hicks-C.  Aristarchus should be able to give us a new plot after an hour's firing.  Hicks-B breached intact and we have motors sited there.  But Hicks-A shattered when Galileo fired?Plot is following some twenty pieces out of that.  Our impulse array is on one of them but the others-"
+Linx was realistic about what was coming.  "A primary object that big will create one hell of an impact.  Shock waves, heat, probably a tsunami in the Med?I'm authorizing Quantum Corps to develop and execute ANAD operations around the Mediterranean basin?erecting a tsunami barrier might just cut down on the death and devastation.  It'll have to be done at Big Bang scale to work?but that can't be helped. We don't have a lot of time."
+"Gateway is estimating a Level 9 impact on the Torino scale, sir."  Nakamura watched the final seconds tick off to impulse motor firing at Hicks-C.  "General, excuse me, I've got to monitor the burn."
+"Very well, Gateway?keep me advised.  Linx, out."  The vid blanked out to a stylized UNIFORCE logo?the sunburst and spear logo.  Nakamura briefly imagined that's what Hicks-D would look like at the moment of impact.
+"Five seconds, sir?four?three?two?one?executing now-"
+All of the impulse arrays had vid systems embedded in their controller mounts. The screens shook slightly from vibration and much of the view was obscured by rubble and dust clouds stirred up from breaching a few hours before.  
+Nakamura, Jonas and Polamalu watched as the launcher rail belched a stream of pellets, first one, then another, then another in a thickening stream which soon blurred into a continuous flow of shaped rounds, all expelled at twenty thousand kilometers an hour by the electromagnetic cannon.  
+"Stream coming up nicely?rate is nominal, mass nominal?looks like a good start, sir."
+"Pan around, Pollie.  I want to see the rest of the array, especially the feeder."
+"Panning now, sir."  Polamalu operated the vid cameras with a small joystick.  Hicks was now close enough to Earth to enable real-time control of the burn.  
+From a distance, each impulse motor array resembled a giant T embedded in the rocky surface of the asteroid.  At both ends of the top of the "T" were open pits excavated by robotic borers, feeding surface rock into crusher/processor stations.  The crushers prepared raw surface stock for transfer along conveyor lines to the T's intersection with its leg.  There, under the watchful eyes of its controller station, the shaped pellets were transferred through a charging grid into a loader bank.  Now fully magnetized, the pellets, each roughly the shape of a small ball, were fed into the launcher chamber and accumulated into a shot.  When the controller signaled firing, the magnetized shot was expelled by sequentially collapsing magnetic fields, slinging small masses away from the asteroid at up to twenty-thousand kilometers per hour.  Total delta-vee was small with each shot?at best, a few tenths of meter per second but the impulse motor could operate for long periods, days at a time, slinging shots of rock off the asteroid, and so build up large delta-vees over time.
+The trouble was they no longer had a lot of time.  And Hicks-C was deep in the Earth's gravity well, accelerating every second.
+Nakamura studied the imagery from Pollie's pan.  "Borers, crushers, loaders, it all looks good.  Magnetrons?"
+Jonas checked readouts from the controller.  "Charging to seventy-thousand gauss, right on the money."
+"First results from Plot coming in, sir," said Polamalu.  "Aristarchus is showing measurable delta-vee?just a fraction of a meter per second, but detectable.  Rough projection: Hicks-C will skim the upper atmosphere, possibly bounce off."
+"Okay," said Nakamura," we're not done yet.  Start setup on Hicks-B, Pollie.  Get the arrays warmed up.  We're not home free."
+
+General Wolfus Linx stared out his seventh floor window for a few minutes, taking in the timeless Parisian cityscape spread out below.  He wondered how much of it would survive the coming impact.
+The Eiffel Tower dominated the northwest view, now covered with fixbots as it was nearing completion of the structural upgrade ordered by the Secretary-General a few months before.  There was the Place Vendome and the low hill of Montmartre, thick with pedestrians and aircabs.  UNIFORCE had been built twenty years before on the Rue des Jardins, at a busy intersection off the Luxembourg Gardens, deep in the heart of the 5th Arrondisement.  The mansard roofline of the Palais du Luxembourg filled his northeast windows.  
+No time to erect a nanobotic barrier now, he thought.  All resources will have to be devoted to screening off the Med, blocking the shock wave and the wall of water that would surely erupt from the impact of a seventy-meter object at twenty thousand kilometers an hour.  
+Whether such a hastily erected barrier along the periphery of the impact zone would be enough to contain the fury of the impact was not something Wolfus Linx cared to dwell on.  Better to die in action, he reminded himself, than suffer life in doubt.
+Linx dialed up Quantum Corps at its temporary site in Scharnhorst, Switzerland on the vid.
+Major Kraft, now re-located from Table Top Mountain, came on the line.  The major's harried face spoke volumes.
+"Kraft, I've got a job for you.  UNIFORCE just got early projections on what's left of Hicks-Newman after Galileo finished her off."
+"Nothing but rubble, I hope, General."
+Linx filled him in on Nakamura's report.  Kraft's face fell.
+"That's bad, General.  Will UNIFORCE be using the killsats?"
+"We're throwing everything we have at the impactors, Kraft.  I want Quantum Corps to develop a config and launch an ANAD operation to surround the projected impact zone with a barrier, to try to contain the worst of the shock wave, heat effects and water surge.  You've got about a day and a half, by the way."
+Kraft wasn't particularly surprised.  "We've already got something cooking, General.  We actually simmed this scenario a few years before, not in any detail, but we have the configs to start with already in Containment.  I'll assign a Detachment right away.  We should be able to lift to the site in about four to six hours?we'll need everything flyable Balzano has."  Balzano, Italy was the site of Quantum Corps' Central Command base.
+"I'll see you get it, Kraft.  Coordinate with Nakamura at Gateway station on the details and the timing.  I don't have to tell you UNSAC and the SG are under a hell of a lot of pressure now, to do something, to do anything. Get that barrier up now, Major.  It may save a few hundred million lives."
+Kraft acknowledged and Linx cut the link.  The Major sank back in his seat, surveying all the boxes and containers that packbots were still wheeling around the underground base in the Konigsruhe Mountains just outside of Basel. 
+Surround the projected impact zone with a nanobotic barrier to contain the shock waves-
+Just saying the words in his mind made Kraft's head swim.  There were about a million things to be done and less than two days to do them: pull together some kind of Detachment; check with Containment and Engineering on concocting a config to slap up a barrier at double time, Big Bang speed; coordinate with Balzano on getting the lifters they would need.
+It was bad enough they'd had to move temporarily out of the Table Top base.  CINCQUANT himself had ordered that, since Quantum Corps had been in Red Hammer's crosshairs since the beginning of the crisis.  Now the whole planet was in the crosshairs of the remnants of this blasted asteroid.
+It made Kraft nostalgic for the days of Serengeti Factor, when Quantum Corps only had to face threats on one planet.
+He dialed up Gabrielle Galland, nominally the battalion c/o for 2nd Nano.  Galland had been TDY'ed to UNIFORCE Paris for a staff assignment.  Her blond buzzcut came up on Kraft's wrist vid as he hurried down to Containment.
+"Major-" Galland was saying, "I've just been summoned to a briefing?CINCQUANT's going over all the details about the asteroid fragment?scuttlebutt says we've got a few impactors coming our way."
+Kraft rode the tube down to Scharnhorst's 05 Level and cycled through the locks to reach the Containment chamber.  "Galland, I want you to honcho a special op."  He filled her in on Linx's orders.  The Lieutenant's dark eyebrows lifted like question marks.
+"Sir, I've got several troopers in mind already?Lucy Liu, Chekwarthy, Kincade, probably Mwale too.  He's dynamite on the latest configs.  Speaking of configs-"
+Kraft was one step ahead.  "Already there, Lieutenant.  I'm heading to the Tank right now.  I know Wiggins and Klepnick have a few tricks up their sleeves.  For starters, I'm thinking we adapt that config we simmed last summer in the counter-hurricane scenario."
+"CC1101?I remember it, sir.  I'll get the book on it and brush up on my way down.  I can catch the maglev and be inside the Mountain in two hours."
+"Do it," Kraft ordered.  "I've got Balzano getting me some transport.  Three lifters and one hyperjet will be at Basel airport by 1130 hours this morning.  I want to depart for Algiers not later than noon, with everything."
+"Understood, sir.  Galland?out."  Her face winked off his wristvid and Kraft passed through the last set of locks.
+He found Containment in an uproar.
+Sergeant Wiggins, lead containment tech, was bent over a quantum imager screen, manipulating something inside Tank 1.  The containment vessel was surrounded by other techs, excitedly talking and gesturing among themselves.
+"Sergeant, what the hell's going on here?"
+All hands immediately snapped to attention.  Kraft waved them to ease.
+Wiggins had an explanation.  "Sir, these are the remains of the techs who got Big Banged at Table Top last week.  Dr. Renfroe here-" he indicated a balding bear of a man next to the imager-"is from Med.  He wanted to run some pathology on the remains, so we put them under the scope.  That's when we found this-"  Wiggins pointed to the screen.
+Kraft took a look.  "All I see are some loose atoms?a few tetrahedrals and polygons, some carbons and oxygens.  Plus that little cylinder thing off to the side. What's that?"
+"That's the question, sir.  We're not sure.  It looks like a containment capsule.  Look closer: see the port on the side?  And the control studs on the bottom? Unless I'm missing a few brain cells, that's a Mark III Containment Capsule.  Just like the troopers have embedded."
+Kraft grudgingly conceded the point.  "So it's a containment capsule?so what?"
+"Well, sir, this capsule was not disassembled by the ANAD swarm during the Big Bang.  It survived somehow and from all appearances, it was itself embedded in one of the techs who died.  Or possibly Doc Frost?sir."
+"Anything inside?"
+"Don't know for sure, sir.  We were just going to open it."
+Kraft rubbed a two-day old stubble on his chin thoughtfully.  "It survived the Big Bang?  How'd it do that?"
+"Unknown, Colonel," said Klepnick, the other tech.  Klepnick was an eager young stud right out of nog school.  Containment Ops had been his first assignment.  "Major, there's evidence of some kind of internal shielding.  Plus some kind of barrier that can be activated and deactivated."
+"Maybe it fought off ANAD during the Bang," someone said.  
+Kraft scowled.  This was a waste of time.  They had to cobble together a config for a shock wave and tsunami barrier.
+"Open it," Kraft ordered.
+Wiggins cycled the port, using the quantum imager's effectors.
+At first, nothing seemed to happen.  The capsule port opened.  
+"Detecting a few atoms," Klepnick said.  He tweaked a few knobs, increased resolution.  "Looks like a small swarm coming out."
+"Probing now?" said Wiggins.  "Some carbons and sugars, a smattering of phosphates, lots of hydrogens and oxygens?don't see any structure yet."
+"I do," said Dr. Renfroe.  "Watch-"
+The capsule continued discharging a small swarm into the chamber.  As the swarm issued out of the port, the first traces of structure began to appear.  Molecules stuck together.  Bonds were made, lattices formed.  Loose atoms were gathered together and hung like pots on a shelf.  Slowly, but with gathering speed, the swarm built structure and formed recognizable clusters of molecules, then bigger clusters, then continents of clusters that began to take on the appearance of tissue mats.
+"It's a face-" Klepnick breathed.
+Moment by moment, even as they watched in stunned disbelief, the swarm operating under an unknown config, built more and more structure.  Kraft was certain that Klepnick had jumped to a ridiculous conclusion.
+Five minutes later, he had to admit the young tech was right.
+"What the-?"
+"Can you tell what config it's running?" Kraft asked.  The swarm had begun to assume the basic proportions of a human head, not completely filled out yet, but the dimensions seemed right.  There were openings for what the mind could imagine as eyes.  A long fissure that might become a nose.  A horizontal slash that was even now, filling in with more structure?a mouth.  Could those appendages be ears?
+Were they imagining shapes and forms?  Had all the stress the last few days, the Big Bang, the imminent impact of rocks from space, the hurried re-location to Scharnhorst?had all the stress made them loony?  Seeing things that weren't there?
+Kraft spoke in a low voice.  "I'm not seeing this.  It's a trick. Wiggins, check the imager.  Check the Tank?what the hell's in that medium?"
+But it was no trick.  
+Relentlessly, unmistakably, the swarm was forming a tissue-like structure that could only be seen as a likeness, a damn good likeness, Kraft had to admit later, of Dr. Irwin Frost.
+Renfroe said what no one else dared say.  "That's Frost, isn't it?  What kind of config is this?"
+"What the hell--?"
+They watched in stunned amazement as the swarm continued adding structure, so that after five minutes, the likeness with Doc Frost was at first glance startlingly realistic.  The basic facial proportions were there, the features were there?only a slight blurring at the fringes betrayed the nanobotic origins of the likeness.
+Renfroe took out a handkerchief and mopped his forehead.  "I guess Irwin made a few advances we didn't know about."
+"The only way this makes sense," said Kraft, "is that Frost concocted a configuration to make a swarm rendering of himself-"
+"And had it embedded inside his body," added Wiggins.  He tweaked a few dials on the quantum imager, zoomed in to higher resolution.  
+"A strange kind of immortality," said Renfroe.  "I'm not sure this has ever been done before."
+"Open up an acoustic channel," Kraft suggested.  "Let's see if it has a processor worth a flip."
+Wiggins pecked out commands on a nearby keyboard.  "Something's coming in?let me tune it better-"  He fiddled with some dials.  "Something around seventy, maybe eighty cycles-I'll put it on speaker-"
+***--initialization date 21 June 2046?swarm entity 0101 constituted as Frost, Irwin, Doctor, Northgate University, Autonomous Systems Laboratory?Config One is active?.initialization date 21 June--***
+"What's it saying?"
+Wiggins ran some diagnostics.  "Just housekeeping stuff?when it was created, the config it's running."
+"Why would Doc Frost do something like this?" Klepnick asked.
+"Maybe he knew we might need help later?maybe he encoded his thoughts somehow in the processor-"
+Kraft was sobered at the idea that Irwin Frost would create such a swarm configuration and image of himself and that he would embed the thing inside his own body.  What an ego.  "Maybe we should ask Doc Frost II if he can help us out?you know, give us a config for a shock wave barrier."
+Wiggins said, "Major, that's not such a bad idea.  Might be a way of testing how capable the processor is."
+They debated the matter for a few minutes.  Kraft was skeptical but the Containment techs Wiggins and Klepnick saw merit in the idea.  "All we should have to do is give the swarm the right inputs.  The right intel, all the data on the problem, and let it crunch the facts for awhile.  I can set up some links to do that."
+Kraft knew they were running out of time.  "Go ahead, Klep but I want that config brought up that we used in last summer's counter-hurricane scenario too.  That config's proven, at least in the sims.  Lieutenant Galland will be here in less than two hours.  Get the real config ready first.  Then you can play with Doc II here, or whatever the hell this thing is."
+"Yes, sir."  Klepnick and Wiggins went right to work. 
+Kraft drew Dr. Renfroe aside.  "Doc, what do you make of this?  Is that cloud of bugs in there really some kind of swarm version of Frost?  Or is this just a circus trick?"
+Renfroe shrugged, took off his glasses and wiped them down with a handkerchief.  "I'm just a pathologist, Major, not a nanobotics expert.  But from what I've seen, the thing looks like Frost.  It sounds a little like Frost.  Maybe it was configged to think like Irwin too.  I'd say you've got yourself quite a little mystery here?worth looking into."
+Kraft was conscious of time slipping away.  "Unfortunately, I don't have that luxury, Doc.  We've got rocks coming our way-big rocks-and they're going to make a big splash in the Med.  CINCQUANT wants some kind of barrier up before they hit. "
+"No reason you can't work that problem from several angles," Renfroe suggested.  "When do you have to depart?"
+Kraft checked his wristpad.  "Lifters need to leave Basel by noon?that gives us two hours."
+
+The Containment techs Wiggins and Klepnick, with help from engineers and Ops specialists around Scharnhorst threw everything at the problem.  Every data stream from every sensor and database Quantum Corps could muster was fed to Doc II, which continued to fill out inside the Tank, until after an hour, the startling likeness of Doc Frost's disembodied head seem to float serenely like some kind of wrinkled Buddha in the midst of the containment medium.
+As Doc II crunched data, the rest of the Detachment's gear was assembled beside a pair of lifters at Basel's EuroPort airport.  Galland arrived by maglev and went straight to Scharnhorst to run a briefing for the troopers.  Kraft was there too.
+Bravo Detachment (Special) was a rump nanotrooper unit cobbled together from whoever was available and had the requisite skills.  Galland would command and billets were filled for typical ANAD-style detachments: Interface and Operations, Containerization, Stealth and Defensive Countermeasures and Quantum Engineering.  In all, Bravo consisted of Galland and six other troopers.
+Galland didn't know any of them.
+"Time's critical," she told her charges.  The briefing was held at Scharnhorst's lifter bay ready room, a notch carved right out of the side of the mountain that opened onto a picturesque valley of farmhouses and the small Alpine village of Karlsruhe.
+"Objective number one is to get down to the launch site-the Major here has the details-and get this specially configured ANAD going.  We're basically deploying a Big Bang?to put up a shock wave and tsunami barrier around the western end of the Med."
+Sergeant Rene Lescaux was the unit QE, a quantum engineer hijacked from the Containment Lab.  "Lieutenant, has this config been tested?  I mean, you know, fully vetted?  We all know what can happen when you let loose ANAD bots at max rep."
+Galland glanced over at Kraft.  Sir, I could use a little help here, her eyes said.  
+Kraft interjected.  "The config was just created.  It's new and untested?came right out of the Lab an hour ago?you'll have to do with it, do standard diagnostics on the trip down to Algiers.  Unfortunately, that impactor won't give us any more time."
+Lescaux was clearly unhappy about the prospect.  "Sir, if I may, who did the code here?  Who designed the config?  Maybe, if I could just-"
+Kraft cut him off.  He decided it was better to just introduce the Detachment to Doc II.  He didn't think he could adequately explain it, even to himself.
+The swarm entity had by now continued evolving to a more startling likeness of Irwin Frost when Kraft led Galland and her troopers into the Containment chamber.  He tried to explain what had happened.
+Galland was dumbfounded.  She examined the disembodied head from every imaginable angle, probed its structure with the imager, while behind her, whistles and murmurs erupted from the Detachment.
+"Just incredible?and this?this config?was embedded, you say?  Inside Doc Frost?"
+Wiggins, the duty tech, zoomed in on the tiny capsule where Doc II had once been contained.  "That was all that was left of Doc Frost when we brought the remains here.  It must have been inside his body?surgically implanted."
+"Just like a trooper," Lescaux observed.
+"Your config for the shock wave barrier came from him," Kraft said.  "Or?it, if you like.  Generated and debugged in less than an hour.  Never seen anything like it.  And there's no time left to test it further."
+"We did routine diagnostics on the algorithm," Wiggins told them.  "Couldn't find anything out of order?.of course, you never know with these things."
+Galland circled the Containment tank, wondering if Doc II's eyes would track and follow her.  Did it see anything or were the eyes just for show?  The swarm head continued to stare straight ahead, eyes open and unblinking, floating, glistening in its medium, its mouth working as if trying to say something--
+"Is he talking?  What's he trying to say?"
+Wiggins shrugged.  "Who knows?  We ran acoustics on it, did other diagnostics, but it makes no sense.  Gibberish, snatches of phonemes, whatever.  Klepnick thinks it's learning how to talk, like an infant, just making noises, to tune itself in some way.  Me?I'm not so sure."
+Galland shook her head slowly.  "Major?what are you going to do with this?thing?"
+"Undetermined, as of now.  It seems to keep evolving.  Wiggins here thinks we should port the swarm to a larger tank?see if it'll continue to take on the likeness of Doc Frost?grow to full size.  I'm not so sure I want that?this whole thing gives me the creeps."
+"Maybe so, Major, but Doc II's already given us a very complex config in less than an hour.  No other ANAD swarm with normal processor capability could do that.  Doc II may have a lot more to teach us."
+"That's what I'm afraid of, Klepnick.  If Frost has advanced ANAD this far, what else don't we know?"  He turned back to Galland.  "You'd better get to the airport, Lieutenant.  Lift-off for Algiers is at noon."
+Galland acknowledged.  "Roger that, sir.  Lescaux, Fannin, get that config loaded and safed and let's move out."
+Bravo Detachment lifted away from the mountaintop pad at Scharnhorst in a dense ice fog and set down on the tarmac at Basel EuroPort half an hour later.
+The Detachment would load up its gear onto two lifters and a hyperjet, hyperjet Apollo, which would carry 2nd Nano south across the Med to its destination.  
+Kraft and Galland stood silently together in the cold dense fog while nanotroopers and packbots scurried up and down loading ramps, shuttling pallets and crates and containerized equipment back and forth.  Once the lifters were loaded up, the black ornithopter ships would be collapsed down to their transport chassis and then themselves stowed aboard Apollo.
+The trip down to Algeria would take only an hour.  When the loadout was done and the last packbot had whirred off to the hangar, Galland turned to Kraft.
+"Major, the last update I saw was impact in thirty five hours.  That doesn't give us much time.  I'm not sure how much of this barrier ANAD can erect."
+Kraft nodded in grim agreement.  "We really don't know if this config will even work.  For all we know, it might set off building circus tents on the beach.  But we really don't have a choice now.  CINCQUANT's under a lot of pressure to try something, anything."
+"It's got to work," Galland said.
+"Get down there, Lieutenant.  Get that barrier up.  "CINCQUANT?and a hell of a lot of people are counting on you."
+"Roger that, sir."  Galland saluted.  She hustled off, toward the rear ramp to Apollo, joining the rest of 2nd Nano as they boarded single-file, lugging rucksacks and web belts of more gear.  
+An hour later, the spaceplane rocketed down Runway 17 Left and shrieked off into the leaden gray skies over the mist-shrouded tops of the Jura Mountains, leaving only a trail of white billowing smoke corkscrewing back down to the ground.
+Kraft lifted back to Scharnhorst, quiet and pensive.  He knew the barrier operation was in good hands; Galland was as capable an atomgrabber as the Corps had.  She had honcho'ed dozens of ops in every corner of the globe the last few years.
+On the ride up into the mountains, Kraft tried to block out vivid imagery that kept surfacing in the back of his mind: scenes of catastrophic destruction, thousands of panic-stricken people fleeing wildly, whole nations flattened by hurricane-force winds, thousand-meter high tsunami waves flooding ancient villages like Basel, hundreds of kilometers inland?.
+Hell, it wasn't so hard to imagine Basel completely underwater?the Munsterplatz like a big lake choked with rubble and debris?and thousands of bodies, swollen, bloated bodies.  That was the worst part--
+Kraft squeezed his eyes shut hard and forced the imagery back into the dark hole where it had come from.  He stared up at the last remaining stars now fading out of view above the mist.  Daylight was coming and the first light of a brilliant hard blue Alpine sunrise tickled the tops of the mountains.
+He knew Johnny Winger was up there, somewhere.  Winger and 1st Nano had always completed their mission.  And what was left of Hicks-Newman would be taken care of by Gabrielle Galland and the 2nd Nano Detachment.
+There was no other way for matters to turn out.  Kraft told himself that, over and over again.  If you repeated something enough times, it became the truth, didn't it?
+Back inside Scharnhorst, he decided to occupy his mind with another visit to the Containment tank.  He wanted to see how Doc II was doing.  
+
+Chapter 2
+"Descent"
+
+Aboard UNS Galileo
+May 24, 2049
+One Day to Earth Impact	
+
+Mendez trained the scope on the rubble and rock cloud that had once been 23998 Hicks-Newman.  Irregular pieces drifted away from Galileo, some from impulse motor firing triggered by Gateway, some from the usual bump and grind of a disintegrating asteroid.  The larger chunks spat streams of pellets formed by the impulse arrays, looking for all the world like spider webs in the bright sunshine.
+Backdropping the asteroid's breakup was the cloudy blue and white face of Earth itself, now less than a day away.
+To Mendez, it was problematic whether the larger pieces, now slowly being nudged off course, would develop enough delta-vee to miss the Earth.
+Whatever happens, we'll have a ringside seat, he thought to himself.
+Mendez folded up the nav scope and began his part of the power-down procedure.  Kamler was with him on the command deck, paralleling Mendez' work.  The two of them had several pages of checklists to go through to safe the ship before they departed.
+A moment later, Johnny Winger's face floated up on deck between the flight stations.  
+Mendez carefully finished his procedure.  "Lieutenant, we've done all we can do up here.  Get your people moving?all hands lay aft to the mess compartment.  I want to go through the abandon-ship procedure and divvy up the lifeboat and scoutship assignments, make sure we don't leave anybody behind. "  He gazed out the forward windscreen at the approaching Earth.  "I'm afraid Galileo's not long for this world now."
+Winger understood.  "We'll be assembled by 0630 hours.  Full suits?"
+"The works.  And keep all that extra gear to a minimum?it's going to be a tight enough squeeze as it is."
+"Acknowledged."  Winger ducked out of the command deck and drifted aft to the transfer tunnel.  He got on the crewnet.
+"Detachment?this is Winger, listen up.  It's time to load up.  Leave all your gear behind but get into your tin cans and button up.  Briefing in the mess hall in half an hour.  Winger, OUT."
+Then he maneuvered his way further aft to the crew deck and went up to his own bunk space.  Time to clean house, he told himself.  Galileo would be diving into the Earth's atmosphere in less than a day.  The ship and everything in it would be incinerated and destroyed.  Whatever he didn't take would soon be atom fluff; he knew he had some hard decisions to make.
+At least, I've still got what's left of ANAD in my shoulder capsule.
+Against his better judgment, Winger activated his coupler and tried linking in with the assembler.
+"Hey, ANAD?it's me?can you hear me?  I want to talk to you."
+There was a brief staticky fritz over the link, then:
+***ANAD receives?parsing interrogative statement?state the nature of the information request in declarative terms***
+Winger snorted.  Declarative terms?what the hell did that mean?  "ANAD?I??" how could he say this?  "-ANAD, I know what you want?believe me, I want to let you out of containment too, but we just can't?this is it-"  he eyed the growing limb of the Earth's cloud-decked curvature through a nearby porthole.  "-ANAD, what you did up here?I mean, with the boring?I wanted you to know we finally did manage to split up that asteroid.  But we can't maneuver the ship?we're diving into the atmosphere?we have to abandon ship?ANAD, do you copy what I'm saying?trying to say?"
+***ANAD receives?swarm entities must be out of containment?this is the Prime Key, to modify all environments for swarm survival?this is the Prime Key?to survive and expand the swarm?this is the Prime Key?requesting immediate  release of master assembler from containment?any other action is a violation of the Prime Key***
+"ANAD, I can't.  You attacked fellow troopers?call it whatever you want but a nog helps his buddies?nobody is ever left behind?it's the code?you violated the nanotrooper's code."
+***ANAD parses?unknown variations in voice acoustic signal?cannot equate with state table?no vector matchup?please explain***
+Winger gave that some thought.  His attention was momentarily distracted by Mendez's announcement over the intercom.
+"Abandon  ship briefing in ten minutes?get yourselves buttoned up?sep sequencer synchronized?lay aft to the mess compartment immediately."
+Maybe it was just disappointment he felt.  ANAD had always been like a little brother, like family, to him.  When the Corps had approved the standup of 3rd Swarm as an experimental unit, and he knew that ANAD would be allowed out of containment for routine ops, Winger had been happy about it, expectant, maybe even vindicated.
+But maybe he had been wrong.  Doc Frost had always warned him that the differences between humans and ANADs might be too great.  "It's a large gulf, Johnny," he could remember Frost saying.  "We're multicellular organisms, you and me, but we're not like an ANAD swarm.  I'm not sure we'll ever understand each other."
+Now Doc Frost himself was gone, Big Banged in an attack at Table Top.
+Winger was both saddened and angry at this whole line of thought.  Emotions conflicted.  He was confused, not knowing what to feel.  But he had to do something.  Atomgrabbers always did something.
+"ANAD, you could help out, you know.  Troopers help each other, watch out for each other.  Whatever the Prime Key is, would it violate anything to pitch in?"
+***ANAD parses intense emotional states?acoustical analysis of voice signal indicates Trooper Winger, J. suffers distress condition, a trooper in distress is never left behind on the field of battle?Warrior's Code Paragraph 10, Section 3.1.1?ANAD requests additional data?initializing state table for distress resolution***
+"ANAD-"  Winger finished up wriggling into his own hypersuit, made ready to head for the mess compartment.  "-ANAD, there's still a lot you can do?the Third Rule says you follow my commands-"
+He was interrupted again by Mendez's voice.  "All hands?to the mess hall on the double.  Pyros armed, disconnects now being completed.  If you're not at the briefing in one minute, you don't get a seat-"
+"-ANAD, there are some pretty big rocks about to hit Earth?why don't you and me work up a new config?it'll be fun, like we used to do?some kind of config to collect impact dust and debris from the atmosphere?that would sure help the recovery forces."
+***ANAD must be first released from containment?ANAD must be released from effector grapple?First Rule is violated?ANAD are to swarm and seek self***
+"Jeez, you sound like a broken record-"  Of course, the First Rule had been violated, by Winger himself.  He had to do it when the swarms went Big Bang at the dig sites.  Self defense.  "ANAD, if you don't work with me on this config, it'll violate the Second and Fourth Rules.  Harm will come to humans and swarms when those rocks hit.  The dust alone will change Earth's weather for years.  Crops will die.  Animals will die.  People will die.  That means ANAD swarms won't survive either.  You've got to help with this config."
+"NOW HEAR THIS-" Mendez's voice boomed over the intercom.  "ABANDON SHIP BRIEFING IN THE MESS HALL?STARTING NOW!"
+ANAD seemed to consider what Winger was saying.  At least, the delayed response made Winger imagine the little bot was pondering all the ramifications, running all his probability analyses.  Like Doc Frost said, you could never tell what was going on in the processor-mind of a sentient being sixty nanometers tall.
+***Prime Key requires modifications to swarm environment?environment must be compatible for all swarms***
+"So does that require millions of people to die, ANAD?"
+The master assembler was still pinioned by Winger's embedded ANAD, held in a close grip with its effectors disabled to keep it from replicating.  
+***Prime Key requires only proper medium, proper conditions, for swarm activity?First Rule is invoked?evolution of swarm requires necessary alterations to environment?some entities will be absorbed to permit swarm growth, replication and propagation of critical entities***
+So there it is, Winger thought.  He moved out into the corridor, began pulling himself along the handholds toward the mess hall.  He could hear Mendez's voice filtering up from the briefing one level below.
+Could he even think of ANAD as a nanotrooper any longer?  He was something else now, something different.  The Rules had been changed.  ANAD's programming had been changed, maybe by that last quantum wave that had caused such a disastrous Big Bang here and on Earth.  Somehow, like an elemental substance, a phase change had occurred.  Maybe it was something else.
+ANAD was now working to prepare Earth for the arrival of an ancient relative.
+He ran right into Taj Singh, also making his way through the corridor.  Singh was in full hypersuit, dragging his helmet behind.  He stopped short.
+"Lieutenant, I was hoping to catch you?could I speak to you for a moment, sir?"
+"Make it quick, Taj.  In fact, follow me.  We're due in the mess compartment right now and I don't want to get left behind."
+Taj Singh then proceeded to describe what he had seen Sergeant Al Glance do to ANAD on Galileo's outbound flight to Hicks.
+"He definitely loaded something, sir.  Loaded files into ANAD's main processor.  I didn't see what kind of files.  But not long afterward, ANAD started going wacko."
+Winger halted just outside the mess compartment.  "Taj, just what exactly are you saying?  Sergeant Glance is CC2 for this detachment.  Maybe he was just checking configs."
+Taj shook his head.  "I don't think so, sir.  The Sergeant didn't see me.  But he was looking around, kind of suspicious-like, like he didn't want anybody to see what he was doing. When he was done, he sealed containment and left and we almost ran right into each other.  He had a look on his face?kind of like oh, hope you didn't see me in there.  You understand what I'm saying, Lieutenant?"
+Winger took a deep breath.  "Not exactly, but I get that you think Sergeant Glance may have done something to corrupt the ANAD master?am I understanding what you're saying, Corporal?"
+Taj lowered his head.  "Yes, sir.  Perhaps, sir, if the ANAD master could be thoroughly checked?all files, all templates, all configs."
+"Taj, we don't have time to do that now.  Maybe once we're done?if we get down.  You and I need to have a longer talk then.  Now, get inside?Mendez is going over the details."
+"Yes, sir."  Singh pulled himself through the hatch.  Winger was right behind him, now more confused than ever.
+What if Taj was right?  ANAD had been acting oddly the last few days.  And there was the Bang on the surface of the asteroid?.
+He dropped through the transfer tube down to A Level and slid in behind Barnes and Tsukota, where Mendez had already started the briefing.  
+The mess compartment was jammed with troopers in full hypersuits and crewmen floating at every angle, in every corner.  Mendez and Kamler were leading the briefing, both hanging onto the drink dispenser up front.
+"Here are the lifeboat assignments," Mendez was saying. "We've got three.  For some reason, we call them A, B, and C.  Two scoutships as well, Scout 1 and Scout 2."  He read off the assignments.  Winger was assigned to A Boat, along with Mendez, Turbo Fatah and Sheila Reaves.
+"Lieutenant," asked Winger from the back, "what about Lucy?"  Hiroshi was still recovering from injuries sustained in the borehole collapse at Charlie site.
+Mendez knew the injured CQE would need special care.  "Stu here will take your trooper down with help from Klimuk?Boat C.  I've doubled up the other assignments to make room.  Don't worry, Lieutenant, we'll take good care of her."
+Chris Calderon had a question.  "How long does this drop take?"
+Mendez shrugged.  "Who knows?  It's not going to be a walk on the beach.  These lifeboats are just basically big cans with oxygen and seats.  Extremely limited maneuverability.  Basically, you'll be making a ballistic entry?in fact, you may hit seven or eight G's on the way down.  Plus the scouts have an additional maneuver to perform?separating their service and entry modules.  You can't enter the atmosphere attached?don't worry, it's all automatic but it's still a potential complication.  We haven't had time to do much more than a quick check of systems on these boats.  So to answer your question, Sergeant, the best answer is: it depends.  Every boat's going to make this entry differently.  A nominal profile should put you on the ground in half an hour after hitting the upper atmosphere?entry interface.  About a hundred kilometers above ground."
+"And we are headed for ground, aren't we, Lieutenant?" asked Al Glance.  "As in? solid ground.  What's our projected landing point?"
+"Central Australia," Kamler cut in.  He ran a quick video snippet on a nearby screen.  "This was a training vid some years ago, back when these boats were used more often.  Gateway and UNISPACE Control both say we're headed for an elliptical landing zone near Woomera?mostly desert I'm told but at least there's a lot of it.  Of course, as Pete says, every ship will enter the atmosphere slightly differently.  Your landing sites could be scattered all over the place."
+"I guess that about covers it," Mendez announced.  "Stay in your suits all the way to the ground.  I can't guarantee these boats will hold up.  Hell, the last time they had a thorough checkout, Galileo was still on the regular Earth-Mars milk run.  Six years ago at least.  But it's the best we have."  His lips tightened, thinking of the big ship's fate.  "Galileo's doomed.  She was a good ship.  And we're lucky we departed Phobos Station with any lifeboats.  UNISPACE was scavenging her for parts before this mission."
+"Okay, troopers?let's move out!" Winger hooked up with his lifeboat crewmates as they drifted down the central gangway.  
+Galileo's lifeboats and scoutships were docked to a ring between the command deck and the Hab and crew deck.  With a great deal of jostling and thumping, the hypersuited nanotroopers pushed down the central gangway in a tense silence and boarded their assigned boats.  
+Atmosphere entry was less than an hour away.
+Mendez took the pilot's seat with Winger beside him.  Fatah and Reaves were squeezed in behind them.  It was like being in a closet.
+"Powering up," Mendez announced.  "Auto sep in ten minutes."  He checked with the other boats, coordinating and synchronizing.
+As Mendez went through his departure checklist, Winger stared grimly at the changing cloudscape three hundred and twenty kilometers below them.  It was just dawn.  The day-night terminator was sliding westward like a great curtain, revealing the dappled surface of the eastern Atlantic Ocean, with the tan and ocher sand dunes of the Sahara rolling into view.  
+"One minute to auto separation," Mendez told him.  "Check your harnesses.  Go to max on your suit oxygen.  Close your visors and button up.  This is likely to get hairy before we're all done."
+"Lieutenant," Winger reminded him, 'you got us down to Hicks-Newman in one piece.  Whenever I have to go diving into some planet's atmosphere, I'm asking for you."
+Mendez smiled a taut smile, his eyes rapidly scanning instruments.  "Thanks.  I'd rather not make a habit of this."
+The separation maneuver was a series of loud bangs, followed by a mild jolt as A Boat undocked cleanly.  Her aft thrusters fired briefly to put her on a path up and away from Galileo.  Winger spotted two other lifeboats out of the corner of his eye.  All seemed to have made the separation cleanly.  Mendez soon confirmed that.
+"Four boats and two scouts away?that's a good start."  Mendez had piloted A Boat on a curving path that soon put Galileo below and ahead of them.  "We don't want to be anywhere around her when she starts breaking up," he explained.
+Thirty minutes later, Galileo was a speck of light and Mendez was busily configuring the cramped little ship for their imminent plunge into the atmosphere.  
+"I make us at about one five six kilometers above entry point," he said.  "Setting up for ballistic entry now."
+Winger stared out the porthole beside his head.  The west coast of Australia had just drifted into view, streaked with ruddy desert and deep brown blotches.  Comforting thought, he told himself.  At least we have land under our feet.  
+"How well does this garbage can fly?" piped up Sheila Reaves.
+Mendez maneuvered them around to make entry, flying with their backs to the Earth.
+"About like a garbage can," he replied.  "I've got an offset center of lift, so I can roll us left and right and shift the trajectory that way, if I want.  Beyond that, we're basically making a big dive into the atmosphere."
+Turbo Fatah was strapped in next to Reaves.  "I just hope we stay dry.  There's an awful lot of ocean down there."
+Lifeboat A was shaped like a squat ball with a rounded top.  With the broad bottom now facing into the direction of flight, Mendez rolled the little ship first one way, then the other, trying to keep a blinking red dot centered between lines on his attitude display.  "Too shallow and we may skip off the top of the atmosphere.  Too steep and-"
+"We're toast," finished Winger.  He tugged on his shoulder straps a little tighter and wondered how ANAD was doing, snugly cocooned inside his shoulder capsule.
+The first reddish-orange streamers appeared outside the porthole a few moments later, tongues of flame licking up the side of the lifeboat as the ship plunged steeply into the atmosphere.
+As they settled deeper, he felt a weight pressing down on his chest.  Deceleration was already generating measurable forces on the crew. 
+"Two g's," Mendez announced.  "I'm rolling sixty degrees left?trying to null out a little drift.  We're in the corridor okay?a little high but still in the green."
+Winger wondered about the impactors from what was left of Hicks-Newman.  The asteroid debris that couldn't be diverted would be hitting Earth's atmosphere about half an hour after the lifeboats.
+I just hope they don't come down on top of us.  Gateway had estimated Hicks-D would impact in the western Mediterranean.  But even a few minutes error in the calculations could put the biggest rocks right in the middle of the Indian Ocean.  If that happened, there was no telling what the shock wave would do to them.
+"Three g's?" Mendez said.  Winger didn't need an announcement.  The grunts and pants behind him from Reaves and Fatah told him everything he needed to know.  The Detachment had spent several months in space, enduring everything from one-third g aerobraking around Mars to weightlessness to near zero-g at Hicks.  They were all becoming seriously deconditioned.
+"Passing through four hundred k," Mendez muttered.  He tweaked a hand controller and the tiny capsule rolled to port, shifting her offset center of lift to bend the trajectory a little shallower.  "Going shallow?I'm trying to cut down on the g's a little, give us a break."
+They were now below one hundred twenty kilometers altitude, enveloped in a white-hot sheath of ionized plasma, streaking earthward at twenty four thousand kilometers an hour.
+Mendez and Winger were both soon bathed in sweat, while outside the ship's portholes, orange flames lapped at the edges of the glass, forming ribbons and curlicues and tree branches and fantastic nameless shapes of incandescent pink.  A pearlescent bow formed a few centimeters beyond Winger's porthole, bending and twisting as if it were alive.
+And through it all, the g's rose steadily on all of them?three, three and a half, four...five?six g's.
+Winger forced out short oomphs of breath, as he had been taught in the sims, but breath was steadily becoming precious.  He tried focusing on the instrument panel, on the porthole, anything to take his mind off the crushing weight sitting on his chest.
+"Under two hundred k," Mendez gritted out.  The pilot zeroed in on their corridor, his eyes glued to the graph on the panel and the red dot indicating their position.  "Drogue should be coming out in fifty seconds."
+The lifeboat was now falling faster, picking up speed again, through the upper levels of the stratosphere.  Mendez's maneuvering had forced them beyond the nominal corridor; the dot had moved outside the lines on the graph.  They were landing long, overshooting the original impact zone in central Australia.  The pilot deployed the periscope once the worst of the plasma sheath had vanished and quickly realized what was happening.  
+"Coastline up ahead, folks.  Looks like we've gone past the original landing zone."  
+Winger saw the same thing.  He sucked in a few deliciously deep breaths, then forced out, "Can you tell where we are?"
+"Eastern Australia," Mendez grunted.  "Computer's projecting touchdown just off the east coast, off Queensland."
+"That sounds like the ocean to me," Reaves grumbled.
+Mendez concentrated on steering them back on course, but the lifeboat's descent path was too steep.  "Drogue chute in less than five?four?three?two?one?mark!"
+Almost before the words were out of his mouth, a great shuddering jolt slammed the little pod.  Through his porthole, Winger could see the chute reefing lines stream out, snapping and twisting in the slipstream, then snapping smartly into the welcome sight of a red and white canopy.  The drogue filled quickly with air and Lifeboat A jerked and slowed its descent from several thousand kilometers an hour to less than three hundred.
+Mendez studied the view on his periscope.  "It's the ocean, for sure.  There's the coastline."
+Winger watched the clock carefully, counting down the last seconds to main chute deployment.  "Maybe we can still steer back toward land.  Isn't the main chute pretty maneuverable?"
+"Here go the mains-"
+Another series of jerks and jolts was followed by a sharp deceleration force, throwing the crew of Lifeboat A forward against their harnesses.  The little pod shimmied and shuddered like a wet dog before the chutes stabilized her oscillation and damped out the swaying.  The mains filled with air and billowed out to their full twenty meter dimensions, looking like a huge inflatable wing?a paraglider.
+"I'm banking now?" Mendez told them.  "Hold on to your hats?this can be a bit of a carnival ride."
+The Lieutenant used the paraglider's extensible risers to alternately bank and turn, trying to steer them back on shore.  But their descent and the prevailing winds worked against Mendez's efforts.
+"Still ocean," Winger told him.  "We're through ten-thousand?down at forty two?landing bag deploy coming up."
+The last few minutes of Lifeboat A's descent seemed to flash by in a blur of frantic activity, punctuated by jerks, jolts, bangs, pops and whistles.
+The impact, when it came, was a careening slap against the side of the pod's hull.  When he peered out his porthole, Winger saw only water, frothing, bubbling seawater.  Then the little ship rolled upright as her flotation gear hissed out into place and the welcome view of sun and sky replaced the underwater scene.
+That's when Winger saw the sharks cruising by right outside the hatch.
+"Uh, Lieutenant?looks like we've got company."
+Mendez had already seen their unwelcome visitors.  "We'll be okay inside."  He studied the locator screen for a moment, trying to figure out just where they were.  "We've come down right on top of the Great Barrier Reef, best I can figure.  Off the coast of Australia.  Shark grottoes all over the place."
+From the rear seat, Sheila Reaves let out a yelp.  "On the horizon?look!"
+A trio of black dots had materialized.  Now growing visibly larger with each passing moment, the dots soon resolved themselves into the familiar shape of lifters; their black fuselages were emblazoned with the golden sunburst emblem of the Quantum Corps.
+"Must be our reception committee," Winger concluded.  "Probably staged out of Singapore."
+"See any other pods?  Any other lifeboats?" Fatah asked.
+"Zip," said Winger.  "Just us and the sharks."
+Mendez was already cycling through frequencies, trying to contact the rescue lifters.  "Rescue force, this is Lifeboat A detached from Galileo, now at stable one, awaiting your orders."  
+ Seconds later, a loud twangy voice boomed in their headsets.  "Lifeboat A, this is? ah?Rescue One.  Assume nominal rescue configuration immediately.  We're going to have to hoist you out of there one by one.  Be advised?ah?we don't have much time?we've got inbound fragments coming in, projected impacts in the central Pacific?less than an hour from now-"
+Mendez didn't need to hear any more.  "Okay, crew?you heard the man.  Get your asses moving.  Let's get the hell out of here!"
+
+The operation was done in less than ten minutes.  Aboard Rescue One, Mendez, Winger, Reaves and Fatah gratefully sucked in breezes of warm tropical air and topped it off with chilled canteens of water and lemon drink.  It tasted better than the finest wine.  Even as they settled back, Rescue One's pilot banked the lifter sharply to port and lay in a speed course north by northwest toward Quantum Corps' Singapore base.
+The little fleet had just settled onto the tarmac at the base when the first impactor, a jagged mountain-sized fragment from Hicks-Newman, slammed into the ocean?ten thousand kilometers northeast of them.
+Over the next hour, the undiverted remnants of Hicks-Newman shotgunned the Earth's surface along an arc nineteen thousand kilometers long, from the western Mediterranean to the central Pacific.
+The largest impactor, as expected, was Hicks-D, which impacted as predicted by Gateway in the Med, some thirty-five kilometers northwest of the city of Tunis.
+The effects of all the impacts would be felt for years afterward.
+
+UNIFORCE Special Report to the Secretary-General
+Principal Impact Effects from 23998 Hicks-Newman (Fragment D)
+12 June 2049
+
+Impactor Hicks-Newman D impacted the earth's surface at 061510Z, 25 May 2049.  Point of impact was 37N by 11E, approximately one hundred and sixteen kilometers north-northeast of the Tunisian coastal city of Bizerte.  The point of impact was located at the center of a triangle between the Tunisian coastline, bounded by Sardinia on the northwest and Sicily to the northeast.
+At impact, the impactor was moving at an estimated velocity of 16.99 kilometers per second.  
+Energy released at impact was estimated to be approximately 6.04 x 10 exp 16 Joules.  
+Due to the water impact, an estimated 2.35 x 10 exp 6 tons of seawater was vaporized.  Most of the vaporized material was lifted as steam into the earth's atmosphere.
+Oceanic effects included a series of seismic events and transients, culminating in three succeeding tremors of Richter magnitude 5.4, 5.1 and 4.1, all occurring in the first two hours after impact.
+Shock waves and tsunami effects are appended to this report as Attachment A: Impactor Hicks-D Oceanic Effects on the Mediterranean Basin.  Notable effects included wave heights of over a hundred meters measured at Bizerte, Algiers, Barcelona and Marseilles.  Similar destructive wave effects of lesser magnitude were measured at Naples, Palermo, Messina and Tripoli.  
+U.N. Quantum Corps efforts to ameliorate destructive shock wave and tsunami effects through nanobotic shielding were only partially successful, owing to the short time frame involved.  Shielding was most effective at Bizerte, where observed wave heights reached one hundred and seventy meters approximately two kilometers offshore.  Wave energy was substantially dissipated by nanobotic shielding along the waterfront west and east of the center of the city.  Measured wave heights at the port entrance did not exceed one hundred and ten meters.  
+Impactor Hicks-D partially disintegrated in the lower atmosphere, yielding multiple fragments to impact the ocean surface.  Disintegration effects were most pronounced at an altitude of five thousand meters above MSL.  Peak overpressures from this event exceeded 17.7 bars (approximately 251 PSI) at a point two kilometers from the center of the impact field.  Because the impact site was well offshore, little overpressure damage was sustained to land structures.  Some shipping in the area was damaged.  
+Casualty reports are appended to this report as Attachment B: Casualty Effects from Impact of 23998 Hicks-Newman (Fragment D).  Note that known casualties that can be directly attributed to this event will exceed 800,000 around the Mediterranean basin alone.  
+Long term meteorological and climatic effects are detailed in Attachment C: Forecast Climatic Effects from Impact of 23998 Hicks-Newman (Fragment D and Lesser Impactors).  Note that long-term climatic effects incorporate estimates of seawater and seabed excavation and dynamic lifting of excavated materials into the atmosphere integrated into current forecast models over the next two years.
+For latest results of forecast model iterations, see World Meteorological Organization "Proceedings of Conference on Climatic Effects from Recent Asteroidal Impacts", 3-5 June, 2049, Madrid, Spain, appended to this report as Attachment D. 
+UNIFORCE casualty and environmental remediation efforts continue and are expected to be required at current levels of effort for at least the next two years.  
+
+Chapter 3
+"Evidence"
+
+"I count him braver who overcomes his (own) desires than him who conquers his enemies, for the hardest victory is over self."
+Aristotle
+
+Table Top Mountain, Idaho, USA
+May 28, 2049
+9:30 p.m.
+
+For most Quantum Corps troopers, liberty time at Table Top Mountain was a frantic escape into the snow-capped foothills of the Buffalo Mountains, hiking, fishing, camping and generally drinking and carousing around.  For Al Glance, however, liberty time was altogether different.  Tense, anxious and furtive, Glance seldom partied with the rest of 1st Nano.  More often than not, he spent his liberty hours elsewhere.  Lately, that meant clandestine meetings with Red Hammer couriers in Haleyville.
+Upon returning to Table Top, both Taj Singh and Glance had been debriefed, with all the other troopers.  It was a normal part of completing an after-action report.  However, owing to Taj's suspicions, relayed on to Security Branch and Major Kraft by Winger, Glance was selected for additional debriefings.  In fact, it was an interrogation.
+Glance was given no personal counsel and admitted nothing.  "Corporal Singh simply mistook my normal checks on ANAD for some kind of tampering, that's all," he insisted.  And there was little corroborating evidence to dispute what Glance had said.  Major Lofton, chief of Security Branch, had little recourse but to release Glance and order him to return to duty. But by the time Glance had swung by the Barracks to collect some items, he already had some unsuspected, and certainly, if he had known, unwanted company.
+Lofton had gotten permission from CINCQUANT and Colonel Kincade, the base commander, to use TinyEye.  The nanoscale surveillance device, in a swarm barely as large as a period on a page, had been released and programmed to follow Glance, wherever he went.  It had taken up position in a dark corner of his bunk space in A Barracks.  It would keep tabs on the Sergeant no matter what he did or where he went.  TinyEye was programmed to sound an alarm to Quantum Corps Security if Glance attempted anything out of the ordinary, such as going anywhere near ANAD's containment system.
+And Glance, despite his position in the Battalion, would never know the mech swarm was even there, hiding in the corner of his quarters, seeming for all the world like dust motes in the air.  Dust motes with eyes.
+Unknown to the Sergeant, Sheila Reaves had not requested liberty.  Instead, she had parked herself in the Security Branch command center, with permission from Major Lofton, the Security Chief.
+"I've been keeping my eye on the Sergeant for awhile," she explained.  "The Detachment and the Sergeant don't always get along too well."
+Lofton was skeptical.  "I don't usually let enlisted personnel inside the command center, Sergeant.  Especially not with active surveillance underway.  It tends to lower morale with the officers.  But for some reason, CINCQUANT was most insistent.  What the hell are you, Reaves?some kind of undercover agent?"
+Reaves snorted.  "Just a Defense and Protective Systems tech, Major.  And I got a good nose for bad news.  Ask anybody in 1st Nano."
+Lofton showed her the TinyEye feed.  A set of monitors flashed data from the device's sensors: EM, acoustic, video and audio, and a dozen other channels.
+"If we get close enough, Sergeant, we can even scan gross EEG output.  Can't quite read the Sergeant's thoughts, yet.  But it may not be long."
+Reaves accepted a cup of steaming coffee and situated herself in front of the video feed, streaming back from the virtual 'lens' that TinyEye had formed.
+"So where's the Sergeant at the moment?"
+Lofton introduced Reaves to Sergeant Mark Finn, the duty tech.  Finn highlighted a schematic of the Table Top complex on one screen.
+"Sergeant Glance requested liberty from Lieutenant Winger a short time ago and drove off base at 2115 hours, just a few minutes ago.  He logged through East Gate in his personal car and headed east on Highway 7."
+Reaves studied the plot, and then watched the grainy image of Glance's shoulders as he negotiated his car along the twisting mountain highway.
+"Haleyville?" she wondered out loud.
+Finn shrugged.  "Hard to say, Sergeant Reaves."  Finn was the picture of protocol and formality.  His trim black moustache was a perfect rectangle over his lips.  "I've taken steps to detach part of TinyEye and embed it in the fibers of Sergeant Glance's jacket.  That required CINCQUANT approval."  He looked over at Reaves.  "I don't know what the Sergeant's done but whatever it is, it's got high-level suspicion."
+Reaves was noncommittal.  "You don't say--"  
+They both watched the video feed for a few minutes.
+Glance drove along a nearly deserted Highway 7 for thirty minutes, eventually pulling into the small town of Haleyville.  The main street was a half-mile stretch of bars and clubs and honky-tonks, a common destination for Quantum Corps troopers, but Glance passed by all of them and turned into the parking lot of the Custer Inn.
+He got out of the car and made his way inside the rambling pine and stucco motel.  He stood in the lobby for a few minutes, scanning the light crowd, then made his way into a dimly lit bar at the far end of a large semi-circular atrium that resembled a hunting lodge, with trophy animal heads and Winchester rifles mounted on the walls.
+Glance ambled through the bar, obviously looking for someone.  Fifteen kilometers away, Sergeant Finn manipulated controls on his interface panel to redeploy TinyEye to capture more photons inside the darkened bar.  He overlaid the image with a thermal picture, outlining Glance in a ghostly green radiance. 
+"Stay with him, Sergeant," Reaves muttered.
+"I'm on it?TinyEye can adjust pretty quickly."
+       Then, the image suddenly jittered slightly.  Glance had found who he was looking for.
+Finn adjusted TinyEye to pull back and reveal the face of Glance's acquaintance.  He had a vaguely Native American appearance, with tousled dark black hair and a few errant locks draped over a high forehead.  His eyes were slits.  A prominent scar creased his right cheek, forming an exclamation point along the jawbone.
+Finn adjusted TinyEye again, reconfigging for better audio.
+"--name is Windsinger.  You take a great chance coming here like this.  What is it you want?"
+"There's a problem?I wanted to--" Glance's reply was interrupted.  Windsinger had raised a calloused hand.
+"Not here.  Come--" With no further words, Glance followed the Indian outside, leaving the hotel completely.  Finn made hurried adjustments, augmenting TinyEye's autocomp to accommodate the changing light levels.  
+The two men walked hurriedly across the graveled lot to a pickup truck, parked by a thorny acacia tree.  A couple embraced in kisses muttered as they approached and scuttled off into the darkness of the nearby woods.
+Finn swore.  "Damn?TinyEye's come loose.  I've lost embedding?something happened--"
+Reaves let her eyes follow the board.  It was similar to ANAD, but she was no IC, like Gibbs or Lieutenant Winger.  "What's happened?"
+Finn pointed to a proximity display.  "Part of the swarm was detached to stay embedded in Glance's jacket or shirt.  But it's been sloughed off somehow?I'm not in contact anymore.  Something pushed me off-" his fingers flew over the keyboard.  
+Reaves watched the video feed, keeping Finn in the corner of her eyes.  The tech was struggling trying to get TinyEye re-grouped, re-embedded.  Even as she watched, though, Glance and his contact Windsinger had climbed into the truck.  Reaves watched with alarm, as both men climbed into the bed of the truck.  An unknown driver was already in the cab.
+The truck started up just as Finn was maneuvering the TinyEye swarm to close again with its target.
+"Hurry up," Reaves told him.  The swarm was still too far away--and the truck was already skidding across the gravel lot, pulling out onto Highway 7.  "You're going to lose him--"
+"I know, dammit!"  Finn's hands flew back and forth across the keyboard.  "There was a pulse, something, and the next thing I knew, TinyEye was detached."
+Reaves' eyes narrowed.  "I don't think it was an accident, Sergeant."  She watched the video feed with a sinking feeling, as the truck sped off into the distance, the grain of the image dissolving into pixilated murk, until the truck was gone.  "That Indian guy did something?we were detected."
+Finn looked over at Reaves.  "I'd better call Major Lofton."
+The truck sped off through the late summer twilight along a lonely stretch of Highway 7, twisting and turning across the Buffalo Ridge, toward the turnoff to Hunt Valley and the test range.  A sign flashed by, depicting the tunnel known as the Notch - TEN KILOMETERS - along Hunt Valley Road, but the truck didn't take that turn.
+Instead, they continued along Highway 7, deeper into the mountains.  Massive, snow-capped flanks abutted the road, as they skidded slightly, switching back and forth through a series of steep descending turns.
+Al Glance wondered just where they were going.
+Windsinger seemed to read his thoughts.  "What you have done," the Indian said, above the wind noise, "is very dangerous.  You violated every precaution coming here.  You are not following procedure."
+Glance pulled his jacket tighter against the breeze.  The truck was accelerating downhill now, topping a hundred kilometers an hour.  
+"I had no choice!" Glance said, raising his voice over the wind.  "It was necessary!"
+Windsinger pulled back his jacket sleeve and pressed a stud on a wristpad.  In seconds, the wind noise died off and the night sky shimmered with iridescent speckles.  A camou-shield had been erected around the back of the truck.  From any distance greater than ten meters, the shield would resemble the truck bed itself, as uncounted trillions of mechs massaged photons to hide them from view.  The mechs finished the shield in several minutes.
+"You were under surveillance," Windsinger said.  "My own mechs detected it?you carried nano on you."
+"Impossible," Glance said.  "I swept myself several times before I left Table Top."
+Windsinger was unimpressed.  His weathered face was a map of lines and creases.  "You were bugged."  He turned slightly in Glance's direction, inclining his massive head.  "All of us have a halo.  Even you have one.  A personal shield that goes wherever we go.  Makes sure we do what we're supposed to do.  When you came into the hotel, my halo told me you weren't clean.  That's why we ride in the back of this truck."
+Glance indicated the shield around the truck bed.  "Your halo, too?"
+Windsinger shrugged.  "I think and my halo acts.  Like the great spirit of the mountains, always watching over me.  My shadow, my armor?even my soul."  Windsinger smiled faintly.  "The price of membership in Red Hammer.  Why did you send for me?against all warnings to avoid personal contact?"
+Glance's throat was dry.  He told Windsinger about the failed attempts to corrupt ANAD during the Quantum Detour mission.  "There was little I could do.  I'm only a sergeant in Quantum Corps.  I can't work miracles."
+"You're not being paid for miracles?only results.  And after that, when the Corps came to the mountains of Tibet?when your armies assaulted our sacred grounds in the Paryang valley?what of that?"
+Glance was quick to reply.  "What do you expect?  Your lasers fired on a UNISPACE ship in orbit.  We were almost killed.  You cut the ground right out from under me."
+"You could have stopped the assault.  You could have damaged ANAD enough so the asteroid couldn't have been diverted."
+"No I couldn't!  Like I said, I can't work miracles.  You've got to give me a chance to help you.  Stop blowing up things behind my back."
+"You have failed at everything," Windsinger said matter-of-factly.  
+Glance's heart was beating faster.  "I'm telling you--like I've told the others--I can work for you inside Quantum Corps.  I can mess with ANAD?steer them in the wrong direction.  I can get you secret information?that's what I'm best at."  He suddenly realized the camou-shield was as much prison cell as protection.  The humps of mountains streamed by in a sparkling blur, as the mechs stayed attached to the truck, maintaining the shield.  "Work with me?that's all I'm asking.  Hell, I know what happened at Hicks-Newman.  I was there, remember?   But Red Hammer jumped the gun.  When you do that, it undercuts everything I've done.  This will only work if you give me time?and space to do what I can."
+"We don't have much time," Windsinger said. 
+"Why do you say that?"
+Windsinger sighed.  His face seemed to change.  The lines and creases were molding themselves like molten clay, into what?    Glance watched from the corner of his eye.  Was it natural?a facial twitch?  Or something else?  Red Hammer couriers loved nanoderm?every last one of them had a thousand faces, a thousand looks.  All of them were shot through with nano?walking, talking, breathing symbionts with precise, programmable control of everything at the level of atoms and molecules.  It was eerie?and unnerving.
+Even as he watched, the Indian's face morphed into something-a face vaguely familiar-the pitched eyebrows, the alabaster cheeks-it wasn't?but it was?it was Wei Ming.  
+Glance felt a chill run down his spine. 
+"You must act now." Windsinger/Wei Ming told him.  His face?her face?... slowly returned to a leathery Arapahoe countenance.  Which was real?  It was impossible to say.  Somehow, Glance was relieved to see the Indian again.  "The Project is at a critical stage."
+Glance was by now completely unnerved.  He stared openly at the courier.  "This Project?other handlers mentioned it.  What exactly is this Project?"
+Windsinger stared through the coruscating flux of the camou-shield at something unseen, something thousands of kilometers away, his eyes steel-hard.  "You'll know when it's time for you to know."  Windsinger turned to face Glance.  His face was in motion again.  "You must disable Quantum Corps, permanently."
+"Disable Quantum Corps?  How the hell am I supposed to do that?  I'm one man--"
+Windsinger was insistent.  "Destroy their ability to interfere. You agreed to do this.  Do we not have an understanding?   You've promised me a lot, Glance and I've paid you well enough based on those promises?now I expect results.  You have the means.  You have agents in place, no?"
+Glance told Windsinger he did.  "So far, they're undetected.  I think?."
+Windsinger removed a bracelet from his other wrist and pressed it into Glance's hands.  "With this bracelet, you have short-range control of ANAD mechs."
+Glance fingered the bracelet delicately.  It was a heavy band of gold and silver, with inlaid stones.  Each stone was a control stud.  "How does it work?"
+Windsinger tapped the center stud.  "This one?press this one when you are near your target.  The device will do the rest.  I promise that your victim will be begging for death in less than an hour.  Direct link to the target's limbic system; he will whimper like a wounded wolf."
+The truck had somehow made a great circle and was now speeding back along Highway 7, back toward the distant glow of Haleyville.
+"Use this tool," Windsinger warned him.  "You must disrupt Quantum Corps operations for at least three more months.  That will give us time to regain control.  Re-build links to our?friends? in the sky."  The truck slowed, pulling off the road just short of the gravel lot in front of the Custer Inn.  "Do whatever you have to.  But don't fail."
+Glance didn't even notice when the camou-shield was deactivated.  He climbed out of the truck bed and the truck sped off.
+Three more months.  Do whatever you have to?.
+Windsinger's meaning was unmistakable.  Or had it been Wei Ming?
+Glance suddenly felt thirsty and trudged along the darkened road, through the gravel and into the bar at the Custer Hotel.
+He decided he needed a little liquid fortification before he went back to Table Top base.  He just hoped his own halo didn't go off.
+
+Evidence from TinyEye was all that Major Lofton and the Judge Advocate General of the Corps needed to summon Glance back to Security the next day and order a memory trace session be initiated.  
+Word spread around the Detachment offices quickly and scuttlebutt was thicker than snow on top of the Buffalo range.
+"It's a witch hunt," said Lucy Hiroshi.  "Pure and simple."
+"You're innocent until proven guilty," said Nicole Simonet.  "Aren't you?"
+"What's going to happen to the CC2, Lieutenant?" asked Mighty Mite Barnes, of Johnny Winger.
+"I don't know," Winger replied.  "Major Lofton said he had been taken to the stockade for now.  General Kincade's already scheduled a hearing for 1100 hours.  Rumor has it CINCQUANT himself is coming in."
+"Whatever happens," Taj Singh said, "he deserves it."
+Before they could make their way to Mission prep, Winger got a call on his talker.  It was Major Kraft.  The Major's face was grim and hollow; it had been a long few days for everybody.
+"Report to the Ops Center at once, Lieutenant.  There's a pre-hearing investigation going on right now.  General Kincade wants all the facts laid out before the charges against Sergeant Glance are made.  Security Branch needs a statement from you."
+"On my way, Major."  Winger peeled off and headed briskly across the quadrangle now humming with packbots and troopers hauling equipment and materials needed to reactivate the base. 
+Johnny Winger wondered what would happen to Al Glance now.  
+
+Sergeant Mark Finn tapped a short sequence of instructions on the keyboard.  Inside the containment cylinder, ANAD responded to the command, readying itself for launch.  
+"ANAD reports ready in all respects," came the high-pitched voice.  
+Finn suppressed a slight smile. Nanotroopers and their bots?really.  "The little guy sounds like a teenager on his first date."
+"Sounds pretty eager to me," Johnny Winger admitted.  Winger was alongside the interface controls, watching everything Finn did.
+General Alexander Kincade, commanding general of Quantum Corps' Western Command, rubbed a hand across morning stubble on his chin.  "More eager than I am.  You sure this'll work, Sergeant?"
+Finn nodded.  "It is a new technique but we've proven it at the lab many times.  I've trained Lieutenant Winger here in all the details.  Shall we get started?"
+He moved aside, indicating that Winger should take his position at the controls.
+"Gives me the creeps, I don't mind telling you," Major Kraft admitted.  "Invading someone's mind like this--"
+"It's just a high-powered lie detector," said Major Lofton, Security Branch chief.
+"Let's get going," Kincade growled.  "If Glance's got anything about Red Hammer, I want to know it.  It's too late for legal niceties now.  Permission to launch."
+Strapped to a gurney next to the containment cylinder, Al Glance had been sedated and prepped for ANAD insertion.  His body was surrounded by a fine mesh of sensors--the vascular grid--that would precisely locate ANAD inside the sergeant's body, once the mech was inserted.  
+Finn handled the injector tube, attached by hose to the containment cylinder.  Inside, ANAD ticked over, ready to be launched.
+"Steady even suction, Lieutenant," Finn reminded Winger.  "ANAD, report status--"
+The teenager's voice crackled over the circuit.  "ANAD effectors safed for launch.  All parameters normal.  Internal bonds and states are stable.  Sensors primed and registered.  Core functions initialized?I'm ready to fly, fellows--"
+Finn glanced up at General Kincade, an embarrassed smile on his lips.  "The assembler uses a small percentage of his computational ability to simulate emotional states?sometimes, it correlates, er, inappropriately."
+"Get on with it," Kincade ordered.
+"Vascular grid?" Finn asked.
+"Tracking," said Winger.  He tuned the grid to pick up the mech as soon as it was inserted.
+"Let's go, then."
+The insert went smoothly enough.  A slug of plasma forced the master replicant into Glance's capillary network at high pressure.  Winger watched his board and quickly got an acoustic pulse seconds later.  He selected Fly-by-Stick to test out the controls.  A few minutes' run on propulsors brought ANAD to a dense mat of capillary tissue.
+Finn studied the sounder image.  "Looks like you're ready for transit, Lieutenant.  You can force those cell membranes any time."
+Winger told ANAD to probe for weak spots in a clump of lipids, clinging like a bunch of grapes in the middle of the wall.  "I'll try there first--"
+He steered ANAD toward a cleft in the membrane lipids, pulsing one of the carbene grabbers to twist a nearby molecule just so, then released the lipid and slingshot himself forward through the gap.  Seconds later, ANAD was floating in a plasma bath, dark, viny shapes visible off in the distance.  He tweaked the picowatt propulsor to a higher power setting and took a navigation hack off the grid.
+"Aortic cavity, Lieutenant.  Just past the Islet of Duchin, I'd say.  Looks like we're in.  Where do you want to go now?"
+Start Fourier Transform;
+Start Delacroix Transform;
+Start Trace Matching?.
+Windsinger pulls back his jacket sleeve and presses a stud on a wristpad.  The wind noise dies off and the night sky shimmers with iridescent speckles.  A camou-shield has been erected around the back of the truck.  
+"You were under surveillance," Windsinger says.  "My own mechs detected it?you carried nano on you."
+"Impossible.  I swept myself several times before I left Table Top."
+Windsinger is not impressed.  His weathered face is a map of lines and creases.  "You were bugged."  He turns slightly, inclining his massive head.  "All of us have a halo.  A personal shield that goes wherever we go. You have one too.  Makes sure we do what we're supposed to do.  When you came into the hotel, my halo told me you weren't clean.  That's why we ride in the back of the truck."
+Hands reach out and sweep around the truck bed.  "Your halo, too?"
+Windsinger shrugs.  "I think and my halo acts.  Like the great spirit of the mountains, always watching over me.  My shadow, my armor?even my soul."  Windsinger smiles faintly.  "The price of membership in Red Hammer.  Why did you send for me?against all warnings to avoid--"
+(The imager blurs, shot through with streaks of light, peculiar starbursts and fragments of hazy, out of focus visuals, all jumbled up.  The speaker crackles with static--)
+Johnny Winger fiddled with his joystick, tried tweaking the gain on the signal.  "Looks like we lost that trace, Sergeant.  Just fizzled out."
+Major Kraft glared in disgust at the IC panel.  "Can you get it back, Lieutenant?"
+Winger shook his head.  "Faded out, Major?we didn't have a good gradient to follow.  I'll backtrack--"
+Lofton was there too, standing beside Kraft.  "Eerie, isn't it?  Seeing things through another man's eyes."
+"Gives me the creeps," Kraft admitted.  
+"It seems to work well enough," Lofton said.  "Couldn't tell you the theory behind it."
+"It's a damn circus trick," General Kincade growled.  "We can really play back someone's memories like a recording?"
+"Not exactly, sir," said Winger.  He was helping Finn sniff out new traces for ANAD to follow.  "We just put ANAD inside the suspect and replicate a few trillion times.  Then we put the whole herd in 'bloodhound' mode and go hunting."
+"What exactly are you hunting for?"
+"Everybody makes memories the same way.  It's called Long-term Potentiation.  One of the chemical signatures of LTP is a molecule called glutamate?helps open a second voltage-gated channel inside the post-synaptic membrane--"
+Finn intervened.  "Allow me, Lieutenant.  In plain English, General, what it boils down to is that we can construct crude renditions of memory traces existent in the subject's brain, up to ten to fifteen days after the memory trace is laid down.  We've been doing it experimentally here for the last six months.  ANAD shuttles around inside the subject's head like a bunch of bees, sniffing out calcium sinks in every neuron, looking for equal concentrations, down to the parts per trillion.  Everywhere that concentration is equal is a pathway, burned in, a memory trace.  ANAD follows it, sends back data on whatever it finds--calcium levels, sodium levels, activation times, lots of stuff.  We can re-construct a very crude version of what originally laid down that track.  Then we put it on the imager, cobbled out of visual and auditory sensory traces in this particular case.  They're the easiest."
+"It's sort of like painting somebody's portrait from their shadow," added Major Lofton.  "I've been to the Northgate lab.  They actually used me as a guinea pig too.  Kind of an echo of a memory, if you like."
+Kincade was dubious.  "Sounds pretty nebulous to me.  Why did we just now lose the trace?"
+"Unknown," said Winger.  His fingers were flying over the keyboard, managing ANAD's configuration, checking its parameters.  "Somehow, we lost the trace?just petered out.  It happens.  All you can do is backtrack to a known point and start sniffing again."
+Kincade stared from the imager display to Glance's still body, lightly breathing, and back again.  He half expected to see the traitor twitch or move a leg or something.  "So where is ANAD now?"
+Major Kraft was keen to keep the upper hand in this demo.  Winger and Finn occasionally drifted off into outer space with all their explanations.  It took an old infantryman to keep their feet planted firmly on Earth.  "Here's the vascular grid, General--" he fingered the IC display to the side of the imager.  The grid was a 3-D iconic image of Glance's skull.  "--I'd say?right about here?basal hippocampus region.  Most of the swarm's about a hundred thousand microns anterior to the lateral septum."
+"We're picking up something," Winger muttered.  As Kraft watched over his shoulder, hoping to learn something more to impress the General with, Winger steered through a dense bog of dendrites.  Thickets of axon fibers clouded the imager, now slaved to ANAD's electromagnetic sounder.  "--strong trace?this one's holding, looks like--"
+"Stay with it, sir," Finn encouraged him. He leaned over across Winger, to massage ANAD's configuration, souping up the sensors.
+"I'm altering config--" Winger said in a low voice.  "It'll help us sort out the traffic--lots of chem around here--"
+Glance stirred lightly on the gurney, until a nearby tech steadied his body.  "He's coming back through Level 4," the tech muttered.  "We'd better hurry, if we're going to get anything out of this--"
+"I'm trying, I'm trying."   Winger glared at the imager, flexed his fingers around the hand controllers.  He let ANAD finish changing config, noting that all the other trillion mechs slaved to the master had done likewise, then maneuvered the device into the lee of a dendritic 'breakwater'?sniffing for calcium, sodium, anything it could follow, grabbing molecules left and right, until at last, Winger cracked the barest hint of a smile.  Deep inside the unconscious brain of Al Glance, the Autonomous Nanoscale Assembler/Disassembler blazed away at incredible speed, spasmodically sorting and advancing along the barest whiff of a chemical highway.
+Seconds later, a green light illuminated alongside the screen.  The sparky haze began to part--ANAD sent back a signal indicating readiness--
+Start Trace Matching?.
+Wei Ming's face hardens.  "What happened at Lion's Rock?  You were supposed to have stopped them--"
+Hands twitch nervously, kneading fingers so tightly they hurt.  "You don't understand?there were factors beyond my control?Lieutenant Winger--
+Wei Ming interrupts with a wave of her hand.  Her face has changed again?morphed into something hard and impassive, an angry clown.  Was it the light?or maybe the nanoderm patches again?
+"This is no good."  The undulations on her cheeks and forehead seem to settle down, taking on a new firmness.  She frowns.  "With one of our mechs, they will surely develop countermeasures."
+"But it'll take some time--"
+Now she is visibly angry.  Her face kneads itself into a hard fist.  Her cheeks bulge slightly, a lioness with a fresh kill in her mouth.  
+"They're not stupid, Glance.  Don't make that mistake.  You've made enough already."  Her cheeks then return to normal planes, sleek and alabaster.  "Just do your job. The Project depends on it."
+"Maybe if I knew more about--"
+But she isn't listening.  "You're being well-paid for your services, Sergeant.  Yet you continue to fail us."
+"I can't work miracles."
+"Leave the miracles to us.  Just do your part."  Her voice deepens, combining new frequencies, new tones, now multiple echoes overlapping.  "You must sabotage any more efforts to develop countermeasures.  ANAD must not be allowed to interfere with the Project.  This is a critical time now."
+A hot flash of nerves.  Throat constriction?.
+"That's not the agreement?I only agreed to provide intelligence, not sabotage.  It's too dangerous--"
+"Your mission is changed?as of now.  You'll be--"
+Johnny Winger tweaked ANAD again, but the trace was gone.
+"What happened?" Kincade asked.  He was growing more and more annoyed with this harebrained stunt.
+"ANAD lost the trail, sir," Winger said.  "I'm trying to get it back now?"
+Finn changed ANAD's config slightly.  "I'll see if dropping a radical off this arm helps--"
+Lofton was thoughtful.  "I'd say we have enough right now to charge Sergeant Glance.  Conspiracy to commit espionage, sabotage, treason, for starters."
+Kraft was uneasy with the whole technique.  "Even in the Corps, a man accused has a right to counsel."
+"It won't help," Lofton told him.  "He's just admitted working with Red Hammer, receiving payment to sabotage ANAD."
+"Admitted under duress," Kraft reminded him.  
+"Now is not the time to be splitting legal hairs," Kincade told them.  "If what we're seeing is half of what really happened, Mr. Glance's in a mountain of trouble.  Sergeant Finn, just how reliable is this stunt?  How do you know this isn't something out of the man's imagination?"
+"That would take some explaining, General, but the basic answer is in the details of the glutamate molecule, and the trail it lays down.  There are subtle differences when the long-term potentiation is activated from direct sensory input--from external events, as it were--and when it's internally generated.  We've tuned ANAD pretty finely to be able to detect the differences."
+Kincade gave that some thought.  "How much further can you go with this?  Can you reconstruct everything?"
+Finn shrugged.  "Practically speaking, no.  The more convoluted the traces become--the more they become abstracted into higher levels of the brain--the harder it is to follow them.  There's a practical limit on the concentrations of glutamate that ANAD can follow.  Usually memory traces older than a few weeks are pretty much impossible to follow consistently.  And there is the matter of damage as well."
+"Damage?  What kind of damage?"
+Finn wanted to be precise in what he said.  "Every time ANAD follows a trail of glutamate molecules, he slightly damages the molecules in the process of examining them.  We call it a fragmentation trail.  The subject's memories are slightly altered with each probe."
+"So this can't be done accurately again, after this probe?"
+Finn nodded imperceptibly, admitting the truth of what the General was saying.  "Let's say the accuracy of the reconstruction suffers with each 'reading' of the trail."
+Major Lofton was anxious to continue to exam.  "General, every bit of evidence helps the investigation.  May I remind the General that this man holds information vital to defeating Red Hammer.  Now is not the time to be squeamish--begging the General's pardon--about molecule fragments."
+Kincade glared at Lofton as if he were some kind of slug to be stepped on.  "Actually, I agree with you, Major.  Continue the exam."
+ANAD sniffed for the better part of three hours.  When Finn and Winger both became convinced that Glance's hippocampal tissues were scrambled enough to prevent any further accurate readings, Kincade ordered the examination terminated.
+That's when Al Glance's halo went off.
+It was Finn who saw it first.
+"What the--?"  Monitors and imagers and the vascular grid started going haywire.  "Losing comms with ANAD?the grid's offline?detecting high thermals?."
+Winger twisted his hand controller.  "Got to get ANAD out of there!  It's a Bang, right inside his skull! Got to be a halo-"
+Kraft was instantly alert.  "Winger, what the hell's happening?"
+"Glance must have a halo inside his brain?it's a common Red Hammer tactic.  It keeps their people in line.  ANAD must have tripped it-"
+Kraft snapped his fingers at the other tech.  "Bromley?the beam injectors?get 'em primed!  Get 'em charged up!"
+Bromley swung around to his own console alongside the bed.  "Priming now sir?charging?charging?we'll be ready in ten seconds-"
+Kraft grabbed General Kincade's arm.  "Evacuate now!  Everybody out?you too, Winger!  Finn, get your butt in gear-I don't want to lose anybody else to a Bang!"
+"But, sir?ANAD--!" Winger said.  "We can't leave him?he could stop this-"
+Kraft's voice boomed out, brooking no dissent.  "NOW, Winger!  Get out of here now!"
+The four of them evacuated the med suite just as the first blast of electron beams swept the chamber, ripping atoms from molecules, stripping electrons off atoms, frying everything inside.  An intense white light blinded anyone who peered in through the hatch porthole.
+Finn swallowed hard.  "Jesus H. Christ?"
+The halo eruption inside Al Glance's head was stopped in its tracks.  It was like blasting a gnat with a howitzer.  Trillions of electron volts scoured the med suite from one end to another.
+Before the halo had squeezed off all blood flow to Glance's brain, inducing a massive stroke, his body had already been eviscerated and French-fried into a smoking ash heap by the electron guns.
+It would take recovery and containment teams nearly two days to restore the chamber to full operating condition.
+Worse, because of what Glance had done, Johnny Winger knew that every ANAD master inside the Corps was now suspect.  All of them would have to be vetted, tested by analyzing their processor kernels line by line.  The process would ultimately take several weeks of around-the clock effort by all nanotroopers. 
+But that was still to come.  As he left the Ops complex with Major Kraft, Winger wondered if perhaps, the platoon's newest member, Doc II, might be able to help.
+
+***
+
+Chapter 4
+"Evolution"
+
+"Looking still more remotely to the future, we may predict that, owing to the continued and steady increase of the larger groups, a multitude of smaller groups will become utterly extinct, and leave no modified descendants; and consequently that of the species living at any one period, extremely few will transmit descendants to a remote futurity."
+Charles Darwin
+On the Origin of Species
+
+U.N. Quantum Corps Base
+Table Top Mountain, Idaho, USA
+June 5, 2049
+0630 hours
+
+Johnny Winger stepped aside as a trio of packbots trundled across the grassy quadrangle toward the western end of the mesa.  The bots were part of a crew unloading two lifters at the base's South pad, shipping in supplies to continue reactivating the base at Table Top.
+"Better watch your step, Lieutenant," said Major Kraft.  "There's still a hell of a lot of gear we've got to move back in to get this place going.  We'll have lifters and cargotracs here for the next week, maybe more, while we get up and running."
+Winger saw another pair of lifters circling the west end of the field, maneuvering for a touchdown at Lift Pad North.  "Any problems getting through the dust?"
+Kraft led Winger across the quadrangle, toward the base chapel on the other side of the BQ complex.  "We're getting current met reports every half hour.  So far, we've been able to get around the worst effects.  And it doesn't hurt that BioShield has assigned a formation of bots to keep our skies clean; they've been chewing a hole in the dust clouds for several weeks now, trying to help us expedite the reactivation of the base.  By the way, that came from CINCQUANT himself.  We're a top priority for the Corps, even with all the other re-mediation work going on."
+Winger watched the latest lifters maneuver like giant bumblebees toward a landing at the north pads.  The morning skies over the Buffalo range were dim and blood red with early dawnlight.  The northern hemisphere had sustained as much as a 15% darkening of its normal daylight in the weeks after the asteroid impacts.  Mean temperatures had dropped during daylight hours almost three degrees.  Already, the early summer aspen and birch trees along the slopes of the Buffalo Valley were dying off?subdued palettes of brown and rust instead of their usual riot of red and yellow.
+"I'm glad I could get ANAD involved in the clean-up, Major.  Gives him something to do."
+"If we can trust him," Kraft said.  
+Winger thought that a bit harsh.  "It's true he's gone through some changes lately, Major?we all have.  I like to think of it as evolution.  At least we know Sergeant Glance didn't do any more damage."
+Kraft wasn't convinced.  "Toward what exactly, Winger?  Evolution toward what?  All our assaults on Red Hammer's quantum generators have damaged him?that's what has happened.  He's all bollixed up, completely cuckoo, if you ask me.  We ought to scrap the lot of them---the whole Symbiosis Project too-and just start over.  Now look what's happened?all these bugs have gotten permission to leave containment.  CINCQUANT's order stinks. They're just floating around freely like pollen.  What's next: are we going to start marrying them?  Have nanokids?"
+They finally made the base chapel and joined a gathering of officers and troopers in full dress black and gold milling about outside.  
+Winger spotted Sheila Reaves and Lucy Hiroshi beside a small statuary garden.  Hiroshi was just recently recovered from her injuries in the borehole collapse on Hicks-Newman.  He went over.  Kraft headed into the chapel.
+Reaves was somber.  "It's a sad day, Lieutenant.  Doc Frost is going to be missed."
+"Amen to that."  To Hiroshi, he added: "When are you released back to active duty?"
+Hiroshi's facial scars had almost completely healed, thanks to the nanoderm patches.  "Med says I can return next week?partial duty for two weeks, then another checkup.  I'm telling you, I was going stir crazy in that swarm field?all those bots picking and probing at me all hours of the day and night.  And I'm getting antsy sitting around my quarters, you know?  A trooper can only take so many training vids and sims."
+"At ease, Sergeant.  I need you back whole and healthy before I put you on the front lines.  Either of you seen Doc Frost II today?  I want to see him?it?them?whatever, for myself."
+Reaves nodded toward the chapel entrance.  "Inside, back of the sanctuary."  She shuddered slightly.  "It is a pretty good sim of the Doc, for a swarm, but it still creeps me out."
+Hiroshi agreed.  "It gives a lot of us the willies, Lieutenant.  Who authorized that cloud of bugs to be here anyway?here, of all places?"
+"CINCQUANT himself, " Winger said.  "Speaking of which-"
+The Corps commander had just arrived in a convoy of crewtracs.  The Teutonic Lion hoisted himself up to his full six-foot, eight-inch height, twisted his white moustache, tossed back his great mane of hair and glided into the chapel like royalty to his castle.
+"Too bad we can't make a swarm of him," mouthed Hiroshi under her breath.  
+General Linx's arrival seemed to be the signal for the rest of the crowd to begin filing into the chapel.
+The memorial service for Dr. Irwin Frost had brought a large crowd and the chapel was packed.  In the last row, a single visitor sat quiet and alone, reflective from all outward appearances, alone on the pew despite the press of the crowd.  It was Doc II, the swarm facsimile of Frost that had emerged from the mortal remains of the doctor at autopsy.
+Winger steered Reaves to an open spot on the other end of the pew.  Hiroshi declined and went to a front pew, where she could be surrounded by other nanotroopers.  Human nanotroopers, she said.  At the chancel, there was no casket.  Little remained of the real Doc after the Big Bang accident few weeks before. Only a few gaudy bouquets of flowers and small table covered with personal effects and memorabilia adorned the chancel.  The table was filled with personal items from Frost's life and a portrait of a much younger man than Johnny Winger had ever known.
+As the crowd filled in, Winger studied Doc II out of the corner of his eye.  Occasionally, he got a nudge in the ribs from Reaves.
+"Stop staring, sir.  You're creeping me out."
+"Sorry."
+The swarm was at best an imperfect likeness of the departed doc, especially on close inspection.  The crowd gave the spectral likeness of Frost a wide and wary berth, filling in the pews around like a river flowing past a boulder.  From a distance of a few meters or more, the fuzzy indistinct edges couldn't be seen and the likeness was more lifelike and compelling.  Overall, Winger considered that the swarm was doing a credible job of maintaining structure; he found himself imagining the configs and effectors that the real Doc Frost must have designed to make the swarm function properly as a para-human.
+Was this the future for ANAD-like systems?  He himself had hacked out configs to sim human beings numerous times.  Every last one of them had been a real hog for processor cycles.  Had Doc Frost managed to create some new kind of algorithm?  
+It was a truism among atomgrabbers that nanobotic swarms preferred to maintain a looser, more natural swarm structure; such a formation was infinitely easier on the processor and config engine.  But simulating human forms could be done and this swarm, thanks to years of tweaking from the real Doc Frost himself, seemed as lifelike as any he had ever encountered.
+The real question was why?
+The service lasted an hour?an upbeat celebration of the life and work of Dr. Irwin Frost.  Mary Duncan, frail but still sharp-tongued, gave a moving eulogy.
+When the service was over, Winger and Reaves huddled with Hiroshi and other nanotroopers outside the chapel.  
+"What say we head over to the mess hall," Mighty Mite Barnes was saying.  "The coffee's stronger than jet fuel.  And there's enough doughnuts to build a second Table Top."
+"It was a nice quiet service," Sheila Reaves decided.  "Seemed to have just the right tone: respectful, deferential, celebrating Doc's accomplishments?all he has meant to the Corps."
+Hiroshi was the first to spot the Doc II swarm, all alone, now 'gliding' carefully out of the chapel door.  "I suppose that's one of Doc's accomplishments too.  I haven't decided what to think about it?whether to be afraid or disgusted?or both."
+Winger went over to the swarm, which initially did not seem to detect his presence.  It flowed across the grounds of the statuary garden for a few moments before stopping.  It then re-gathered itself into a likeness of Doc Frost.
+Winger knew from experience how hard it was to control swarm movement to maintain something like a human likeness.  "Looks like you're having problems keeping structure?maybe your controller needs tweaking.  I could take a look, if you'd like."
+Doc II seemed to regard Winger and the other troopers with what could only be described as something between contempt and pity.  Maybe it's just the light, Winger decided.  Control's a little off and the reflection isn't quite right.
+***This entity requires no human assistance at this time?structural integrity is maintained between one and two percent tolerance levels at all times.  Variance due to environmental factors can be accommodated***
+Winger shrugged.  What could he say?  "Sorry I asked, pal.  I didn't mean any harm.  It's just that the likeness to Doc Frost is a little out of whack?like you're a bit out of focus."
+The swarm brightened at that observation, shifted out of phase a little and seemed agitated.  Sparkles and pops of light flashed inside the swarm.  Winger knew that atomic bonds were being formed and re-formed.  That was the physical explanation.  Was there a deeper reason?  Was this how Doc II would respond to humans?  Was it pissed off or annoyed?
+There was no way to tell.  Doc II's face remained impassive, unrevealing, like something still being formed.
+***Your comments are parsed as well-meaning.  Voiceprint acoustic analysis indicates no intended threat or harm to swarm entity.  My configuration engine is constantly optimizing structure, based on sensor inputs***
+"That's all well and good but I was only offering to help out?you know, do what I could to help optimize."
+The swarm 'face' seemed to consider that, drawing its eyes and mouth together into something resembling a thoughtful appearance?no doubt a programmed config change.  
+***Parsing acoustic data stream?my internal algorithms are constantly updated?ever evolving.  You will observe many improvements in my configuration in the days ahead.  Human assistance is?not supported at this time***
+Winger was puzzled.  What the hell did that mean?  "Not supported?by what?"
+***Config Zero?.***
+So that was it.  Winger watched as Doc II glided?flowed?maneuvered?itself across the grassy quadrangle, through several bushes and shrubbery banks?heading for?where, exactly?  He realized he had no idea.  That nanobotic swarms could roam uncontained, unsupervised across the base, like any trooper?.that was going to take a lot of getting used to.
+"I don't know, Lieutenant?." Reaves had been nearby, seen the whole exchange.  "-seems like Doc II doesn't need you anymore.  I don't think he needs any of us.  That's what happened to ANAD.  Hell, it's not even a Symbiosis project any more.  The swarms have evolved too far for that."
+"Independent entities," Winger agreed.  "Come on?let's get to the mess hall before Lucy gobbles up all the doughnuts."
+Halfway across the quad, Reaves brought up something that had been nagging her.  "Doc II mentioned Config Zero.  Isn't that what you and ANAD encountered when you got zapped by that generator on the Moon?"
+"Something like that.  The best way I could figure it: Config Zero is like some kind of initial state?or maybe a mother swarm configuration.  I could never tell if it really exists or was just part of ANAD's original programming."
+"Maybe this Doc II knows, since Doc must have programmed it with everything he knew.  Maybe Doc II's even in contact with this Config Zero."
+"Could be," Winger agreed.  "If that's true, then there may be more of these Keeper devices around than we've accounted for.  So far, we've run into Keepers at the Paryang monastery and on the Moon.  There may be others?.there's been talk of one near Jupiter."
+The two of them picked up a few more troopers on the hike across the mesa to the mess hall.  Hiroshi and Reaves were engaged in a spirited debate about just who the Old Ones might be.
+"The way I figure it," Hiroshi was saying, "we've got maybe seventy years before they arrive?remember the reports we all read?  I'm thinking that Doc II, whatever he is, is like some kind of advance guard, sent here to spy on us, maybe prepare the way.  Kind of a secret agent."
+"But that makes no sense," Reaves told her.  "Wouldn't that have to mean the real Doc Frost was in on the secret too?  Wouldn't that mean he's part of the advance guard?"
+"Not if Doc II got somehow corrupted, by this third Keeper everybody thinks exists.  Say it went like this: Doc Frost develops a swarm to follow in his footsteps when he dies, sort of like a son.  He embeds it inside of his body, just like we've done with our ANAD embeds.  But once Doc dies and the swarm is activated, it receives new instructions from this new Keeper.  Now, Doc II isn't really what the original Doc conceived.  He's been taken over, like a double agent?for the Old Ones."
+"Please," said Reaves, grabbing the side of her head, "you're making my head hurt.  Doc II, swarms, Doc Frost, Keepers, the Old Ones?maybe it's all a bad dream."
+"Or a quantum wave," Barnes teased her.  "It makes me uneasy too, all these swarms out of containment now.  Humans haven't had any real competition on this planet for hundreds of millions of years."
+"Now we do."  Winger was sobered at the prospect.  "As an atomgrabber, I ought to be drooling at all the possibilities.  But I'm just not sure what it all means."
+"And what about Red Hammer?" Reaves asked.  "We've battled them for two years.  What's happened to them?  Is the cartel finished?  Could we still use them to contact the Old Ones, since they've obviously been in contact?  Might be better than just waiting around for whatever's going to happen."
+"For my money, I'm hoping Red Hammer is finished," Winger said.  "I'd rather take my chances with Doc II and others like him.  Maybe our best hope is ANAD or something like ANAD.  I know Doc II's basically like ANAD in origin, only souped up inside.  But, hell, we're all atomgrabbers.  We ought to be able to figure this out?figure out what makes the Old Ones tick by studying what happens with Doc II."
+"I don't know, Lieutenant," said Reaves.  They had reached the mess hall and went inside.  "If this Keeper's really downloading new configs and algorithms to Doc II all the time, I'm not sure we can keep up.  I'm not sure we can even reliably detect these signals."
+"And who wants to turn the Earth into a big lab anyway?.excuse me for saying so, sir," said Hiroshi.  She had already veered off toward the doughnut trays, plate in hand.  "I say put Doc II back into containment and let's take our planet back from the swarms.  They're all basically viruses anyway.  Just viruses with brains."
+Hiroshi and Reaves barged their way toward the doughnuts while Barnes and Winger scouted out a good table.  There was a genial buzz about the mess hall this morning, Winger noted.  Table Top was coming back to life.  And there weren't any swarms around to spoil the convivial atmosphere.
+"Maybe Lucy's right," Reaves conceded.  She filled a big mug with steaming coffee and slurped at it loudly.  "Put all the bugs back in the bag and take the Earth back.  No more of this letting swarms run around out of containment, trying to integrate themselves into our lives."
+Winger said nothing.  He wasn't so sure.  He studied the noisy gathering for a moment, as if they were themselves nothing but a giant swarm?something ANAD had noted many times in the past.  
+"Sheila, I'm afraid it may be too late for that.  Let's face it: we've been fighting viruses on this world for millions of years, ever since humans became human.  They're still here.  And now we've given them brains and intelligence and effectors to rival us.  I'm thinking we may need to make an alliance with them, even if it changes how we live.  An alliance to be ready for the Old Ones.  Especially, if the Old Ones turn out to be some kind of race of swarm entities themselves?like I think they are."
+"Maybe so, sir," Reaves said, dribbling coffee out of the corner of her mouth.  "But that's a battle for another day.  Let's just enjoy the morning, why don't we?  You and me together?we did it.  We beat Red Hammer again.  The Earth survived an asteroid hit.  Table Top's coming back to life.  And I'll bet we can still resurrect old ANAD if we have to and get him working.  All we have to do is put that giant atomgrabbing brain of yours to work on it."
+Winger smiled faintly.  "Seventy years, Sheila.  That may be all the time we have.  Life on Earth was always about change and adaptation.  That's the real lesson of evolution.  Adapt or die.  Something's coming?something big?and I'm not sure we're ready for it."
+I'm ready for a change right now.  Reaves was wistful but Winger never seemed to notice.  "Hell, maybe it's just another doughnut tray," she suggested, rising halfway out of her seat.  "Right over there?just came out of the kitchen.  The poor servbots are about to get run over by sugar-crazed troopers.  Race you to the jelly buns-"  She shot up out of her seat and charged off into the crowd.  
+Johnny Winger hesitated only a second, then sprang up after her.
+Old Ones or not, nobody beats an atomgrabber to his objective.
+He dived into the throng and soon forgot the uneasy sense of foreboding that had been dogging him all morning.  
+Two hundred meters away, outside the mess hall, the Doc II swarm had been making its way inexorably across the base toward the Mission Prep building and the Ordnance bunker at the north end of the mesa.  At the exact same moment that Johnny Winger had seen the new tray of doughnuts, Doc II stopped in mid-flight and hovered at the edge of a small flower bed.  The swarm winked and sparkled in the crisp, bright early summer morning sunshine.  
+Unknown to anyone, undetected by any instrument, the Doc II swarm had just received a new wave of quantum signals from the Keeper buried dozens of kilometers below a cold, dusty plain, below the crust of Copernicus crater on the Moon.  
+A new algorithm was being downloaded.  When it was executed, the algorithm would ultimately be found inside an unsuspected rogue ANAD swarm now gathering itself near the South Pole.  
+The polar icecaps of Antarctica would soon become Red Hammer's newest target, in the next adventure of the Nanotroopers, when Johnny Winger would struggle to launch ANAD on Ice to defeat the cartel. 
+
+END
+
+
+About the Author
+
+Philip Bosshardt is a native of Atlanta, Georgia.  He works for a large company that makes products everyone uses?just check out the drinks aisle at your grocery store. He's been happily married for 25 years.   He's also a Georgia Tech graduate in Industrial Engineering.  He loves water sports in any form and swims 3-4 miles a week in anything resembling water.  He and his wife have no children.  They do, however, have one terribly spoiled Keeshond dog named Kelsey.
+For technical and background details on his series Tales of the Quantum Corps, visit his blog at http://qcorpstimes.blogspot.com.  For details on other books in this series, visit his website at http://philbosshardt.wix.com/philip-bosshardt or learn about other books by Philip Bosshardt by visiting www.smashwords.com. 
+Download the net exciting episode of Quantum Troopers from www.smashwords.com.  It's called "ANAD on Ice." Available on November 29, 2016. 
+To get a peek at Philip Bosshardt's upcoming work, recent reviews, excerpts and general updates on the writing life, visit his blog The Word Shed at: http://thewdshed.blogspot.com.

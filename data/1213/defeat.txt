@@ -1,0 +1,1267 @@
+
+
+?
+
+
+Also by Bernard Wilkerson
+
+The Worlds of the Dead series
+Beaches of Brazil
+Communion
+Discovery
+
+The Creation series
+In the Beginning
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Hrwang Incursion
+
+
+
+
+Book 1
+
+
+
+Earth
+
+
+
+
+
+
+
+Bernard Wilkerson
+
+
+
+
+
+
+
+
+
+
+Copyright © 2015 by Bernard Wilkerson
+
+All rights reserved.  No part of this publication may be reproduced or transmitted in any form or by any means, electronic, mechanical, including photocopy, recording, or any information storage and retrieval system, with the exception of short quotes used in reviews, without permission from the author.
+
+Requests for permission should be submitted to contact@bernardwilkerson.com.
+
+For information about the author, go to
+www.bernardwilkerson.com
+
+
+
+This book is a work of fiction.  The names, characters, places, and incidents are products of the writer's imagination or have been used fictitiously and are not to be construed as real. Any resemblance to persons, living or dead, actual events, locales or organizations is entirely coincidental.
+
+Cover photo courtesy of NASA.
+
+
+
+
+
+
+
+
+
+To Terry, 
+the Hero of the Battle of the Tenth of December
+
+
+
+
+
+
+
+
+
+Episode 1
+
+
+
+
+DEFEAT
+
+
+
+
+1
+
+
+
+
+
+  Stanley Russell woke up, vaguely aware of someone shaking him.  He rolled over, pulled his blanket up higher, and almost asked, "Just five more minutes, Mother," when the someone shook harder, tugged at his blanket, and hissed at him.
+  "Captain, you've got to wake up!"
+  Stanley rolled to face the someone and tried to open his eyes.  A bright light behind the voice blinded him and he squeezed his eyes tighter shut.  This wasn't fair.  He had pulled a twenty hour shift while his ship took atmospheric samples over both the Martian poles and now he needed sleep.
+  "Captain!"
+  He recognized the voice now.  The someone waking him up was Irina.  Commander Samovitch, he corrected himself, as she often did when he tried to call her Irina, which annoyed him as much as she was annoying him now and led him to call her Irina more, just to annoy her back.
+  "Captain.  Opportunity Base is reporting they've lost contact with Earth."
+  "Tell those idiots they're just out of line of sight, that's all."
+  He rolled back over, away from his Nigerian-Russian second-in-command's voice.
+  She grabbed his shoulder and shook him hard, her fingers digging like steel claws into him.
+  "Sir!  They should have been able to contact Earth over two hours ago."
+  She pulled his shoulder as she shook him, and he rolled towards her and sat up carefully, making sure he didn't knock his head into the upper bunk.  Spaceship captains in the movies got huge staterooms with attached lounges and lots of privacy.  They probably got lots of sleep also.
+  She let go of him as he sat up, and he raised his arm, it would probably have a small bruise where her talons had dug into it, and shielded his eyes from the bright light.
+  "Sir, they want to speak with you immediately."
+  He groaned as he stood slowly and stretched.  Stand up too quickly and you fling yourself to the ceiling; he'd done that a few times already.  The Beagle rotated slowly as it orbited Mars, providing the illusion of minimal gravity, but you could hurt yourself all the same.
+  He steadied himself on the upper bunk, her bunk.  He shared a cabin with this woman and he couldn't even call her by her first name?  She rarely slept at the same time as him, while often pulling the same, long shifts as he did.  He wondered how she did it.  He needed more sleep than he was getting on this mission and he finally understood why officers drank so much coffee.  You needed some kind of artificial stimulant to cope with so little rest.
+  "What do they want from us?" he asked.  "To hold their hands and wipe their noses while they check their own equipment?"
+  "Their equipment is fine, sir.  We already ran through diagnostics with them."
+  "Then it's just a solar flare."
+  "I don't think so, sir."
+  Something in Samovitch's voice bothered Stanley.  He needed to wake up, to clear away the fog caused by too little sleep, and to figure out what was going on.  He stretched and yawned.  Maybe he should get some coffee.
+  He shook his head no at himself, then stretched his neck from side to side to cover up the motion.  He wasn't sure he wanted to start that bad habit this late in life, and he certainly didn't want to be like every other officer.
+  He stretched again, his arms pushing against the ceiling of their cabin, his feet against the floor, and he heard several of his vertebrae cracking.  Low gravity was terrible for your body.
+  "What's going on, Irina?" he asked, the fog in his head finally starting to clear.
+  "I don't know, sir.  Spirit Base lost contact with Earth before they rotated out of the window.  We haven't been able to establish contact with Earth either."
+  Irina's voice was steadied, measured, the perfect military tone, which bothered Stanley more.  She didn't even correct him when he called her by her first name, which meant she had something more on her mind than trying to prove how military she could be to her civilian captain.
+  "That just proves it's a solar flare."
+  "No, sir.  Ping is working."
+  Whenever communication across a network was having issues, the fall back was always to ping the server or device in question.  Even if all other programs on a system were failing, if the system was up, it would respond to a ping.  It was built into the basic operating instructions.
+  Earth had a ring of satellites dedicated to communication with the twin bases on Mars, Opportunity and Spirit, named after two of the most famous Mars exploration craft, and Beagle used the same system to talk to mission control.  If they were able to ping the satellite system, they should also be able to talk to someone behind the system.
+  Unless it was just a glitch.
+  Talking to someone over two hundred million kilometers away, the present distance between Mars and Earth, wasn't as simple as some might believe.  Things could get in the way.  Solar flares, the Moon, Phobos or Deimos, a bad storm on Earth, or a janitor unplugging a key server.  It had happened before.  Communication would probably be restored in a few hours.
+  "Alright, let's see what's going on," Stanley sighed.
+  Everyone was being Nervous Nellies, but with good reason, he supposed.  Irina confirmed, a hint of concern in her military voice, that she had the same worries, the same fears, the same nightmares as everyone else on or over Mars had had for the past two months.
+  "It could be the Hrwang, sir."
+
+  "Is something wrong, Captain?"
+  Captain Christina Owenby could feel the Colonel looking over her shoulder, could feel his presence causing her thoughts to spiral out of control, could almost feel his fingers binding her tongue, his hands choking her throat, constricting her voice, making her completely unable to talk.
+  Her husband kept telling her to relax.  Colonels were people too, he told her all the time.
+  "Well?"
+  "Sorry, sir," she stammered.  She took a breath.  Ponies and beaches, right?  Go to a happy place.  Just tell the man what he wanted to hear.
+  "It's probably nothing," she said, then regretted it.  If it was nothing, why was the commander of the 614th Air and Space Operations Center at Vandenberg Air Force Base, a distinguished unit with over sixty years of operational history, standing behind her and registering his reaction to her obvious stress?  She flipped a set of screens onto a larger monitor so he could see and she wouldn't have to turn to look at him.
+  "Google Operations is complaining that the signal from this satellite stopped suddenly."  
+  She pointed out a tiny dot amid the myriad dots on the tracking screen.
+  "So?" the Colonel asked.
+  So?  So?  She couldn't speak.
+  She hated this part.  The follow up questions.  Always wanting to know every detail, as if she hadn't considered those details, hadn't thought about everything.  That was her job, and she did it well.  She thought about the details and figured everything out first, then told someone else who would bring it to the Colonel.
+  She hadn't gathered enough information yet on the problem she was investigating, hadn't figured out what, if anything, was going on, but it didn't look good and the Colonel must have seen her stress, must have noticed her flipping through screens, mapping positions and orbits, must have seen her spill her tiny styrofoam cup of coffee, only a little of the brown liquid remaining, and not bother to clean it up.
+  She shifted her weight in her chair, her ever increasing weight that was going to force her out of the military and into a civilian life, albeit one that would probably pay a lot better, and Christina took another deep breath.
+  "It's the third one, sir."
+  "Third one, what?"
+  "The third," she stuttered the words.  "The third commercial satellite that's gone down in the past ten minutes."
+  The Colonel was quiet.  Waiting for more.  She felt stupid, unable to say what she was thinking, worried that she was worried over nothing, worried that if she said the wrong thing or voiced concerns that were inappropriate, her career would be over.  As if it wasn't over anyway.  The stupid PT test didn't care how smart you were.
+  She took another deep breath and just said it.  Who cares, anyway?  It's just a career.
+  "They were all near the Hrwang vessel."
+  She'd said it.  She, Captain Christina Owenby, United States Air Force, satellite tracker extraordinaire, had just blamed a potentially coincidental series of glitches on the bogeyman in the room.  Her hand knocked the tipped over styrofoam cup on her desk, pushing it in a semicircle, as she pointed out the general region of space where the satellites were glitching and where the big red dot of the Hrwang ship was located.  Despite the fact that the Hrwang seemed to be friendly, they were still represented in red on her screen.  It had just been a choice.
+  "NROL-273 is not responding, sir," came a male voice behind her.  He sounded confident and firm, his voice always professional in times of urgency or crisis.  She hated sergeants.
+  "Bring up NROL-273 on your display," the Colonel said.
+  Christina's hands had already been flying across her keyboard, and just as she got the top secret spy satellite's orbital path up, she accidentally flipped her screen down.  She felt, rather than heard, the Colonel take his own deep breath behind her.
+  She got the screen back up on the big monitor and pointed out the location of NROL-273.  She couldn't speak, but it was obvious.
+  "Get this up on the big monitor," he said.
+  It is on the big monitor, Christina thought, then realized he wanted it up on the big big monitor, the one that stood at the front of the room.  The one that everyone could see and track.  She felt the sweat pooling in her armpits and on her palms.
+  "Yessir," she squeaked.
+  "And mark the last known locations in yellow."
+  She toggled a color on the screen, and it became even more obvious how close the four silent satellites were to the Hrwang location.  A few more keystrokes and she took over the main monitor at the front of the room, her screen displayed up there.
+  "Hey," someone complained, then looked around.  He saw the Colonel standing behind her and didn't say anything else.
+  "Sergeant Celedina," the Colonel called, and a dark haired, female NCO four chairs down from Christina looked up.  "Get a report from Captain Owenby.  Put everything in it she tells you and get it up to headquarters ASAP.  You have three minutes."
+  "Yessir," the NCO barked and moved her chair behind her neighbor's, scooting it to get next to Christina's.
+  "Good work," the Colonel muttered and Christina turned to look at him, but he was no longer looking at her.  He was already on the move, heading to where the confident, male sergeant sat, the one who had reported the silent spy satellite.  She looked around and Sergeant Celedina had reached her, laptop in hand.  Christina began explaining what she had found.  It was a little bit easier to talk to a sergeant than a colonel, but not by much.
+
+  Eva Gilliam crossed her legs, changing from left over right to right over left, and the eyes of every boy in front of her followed their motion.  It was what she expected.  She was wearing the dress.  The dress that hinted at everything but revealed nothing except her beautifully tanned legs from the knees down.  It was her favorite recruiting tool.
+  She had the boys from Utah firmly in her grasp.  They sat arrayed in a semicircle in front of her and hung on every word, every motion, every movement of her dress, and Eva knew they were already fantasizing about becoming super spies and claiming her as their personal Bond girl.
+  The Agency loved the boys from Utah, and the soon to graduate college seniors in front of her demonstrated why.  Eager to please, loyal to God and country, and honest to a fault, the group of boys, most of whom had lived in foreign countries for extended periods of time and spoke the languages of those nations fluently, would be excellent candidates.  Most wouldn't last longer than a year or two, the looser morals of the hardened agents eventually wearing them down or chasing them away, but the Utah boys looked good on paper.
+  Eva, nominally from Utah herself, could always get into these college fairs, and every preening, over-confident, spy wannabe sought her out and tried to impress her.  She explained the entrance exam requirements patiently, turning some away, and giving the rest a chance to ask questions, although she already knew what they would ask.  It was what they always asked.
+  "What's life as an agent like?"
+  They all wanted her to describe scenes from a movie, but this was the part where she told them the truth.  It wasn't all fun and games, but a real job.  Most enrollees would end up as analysts, particularly those with superior foreign language skills, but analysts were important.  Every enrollee would go through the same training, the top candidates culled out for field work, while the rest of the graduates would receive other assignments.
+  But then she emphasized how important the work of the Agency was.  To protect their country and to keep their families safe, and this always struck the boys.  They would grow serious, some would tell her they'd have to pray about it, but all of them would download enrollment applications to their phones.  Eva had one of the highest rates of completion of downloaded applications, and so her boss continually sent her into the field to recruit.  She wished she could do something more, but told herself recruiting was important also, and of the group in front of her, one or two would make it.  And who knows?  Maybe one of them would save the world some day.
+  She reflected on why she had joined.  It wasn't to save the world.
+  She enjoyed the freedom and the trust placed in her by the government.  Plus, it had given her an excuse to get away from squabbling parents who never recovered from their divorce.  The Agency always gave her an excuse to stay away at holidays.
+  But being at college had accomplished much the same.  It was more than that.
+  The military impressed Eva but not many women served in special forces.  The Agency promised more challenge, more opportunity, and more adventure than she thought she could get from the military.  She enjoyed taking on difficult challenges and succeeding, even excelling.  The training she received suited her, she enjoyed it, and she thought she always performed well.
+  Her fantasy though, unlike the fantasies of the boys in front of her, was a posting to Athens or Rome, Marseille or Barcelona, any place along the Mediterranean.  Such postings proved few and far between though, and she settled for the occasional trip to a California beach.
+  Her phone buzzed and she looked at it and it was just a number.  But the number made her go cold inside.
+  She faked a smile and waved her phone at the boys.  "I have to run," she said.  "You can download the application forms off the web."  She normally pushed the forms from her phone to theirs, which allowed the Agency to track who had recruited whom, among other things, but the number on her phone changed everything.
+  "Spy stuff?" someone asked and a few of the boys chuckled nervously.
+  Eva broadened her smile and nodded, trying not to run out of the conference center where the career fair was being held.  She couldn't see anything around her, and almost knocked over a display on her way out, catching it out of reflex and not thought, and handing it back to the presenter standing next to it without saying anything.
+  Or perhaps she had said she was sorry.  She wasn't sure.  The number on her phone consumed her thoughts, tied up all the threads that processed around in her brain, and she could focus on nothing else but what that number meant.
+  Just a meaningless series of digits to anyone else, including anyone else from the Agency, but to Eva they were a specific set of instructions.  Instructions she had never received before, but had reviewed in her head every time she went into the field, and now she processed all those reviews, all those plans, so she would know exactly what to do and when to do it.
+  She found her rental car and got in, planning out how close she could take it to her destination and where she would have to ditch it so no one could trace her location from the car.
+  This is crazy, she thought in a moment of clarity.  What does it mean?
+  She shrugged and backed out of her parking space.  The mission is what mattered.  And her mission was to follow the instructions the number on the phone implied.
+  Get to a safe house.  Now.
+
+  "Jayla, why are you watching news?"
+  Jayla looked up at her younger sister, then back at the monitor.  She ran through a million thoughts, trying to process what was happening.
+  "Jayla!"
+  She looked back up.  Jada stood in the entryway to the den, already changed into hiking shorts, hiking boots, carrying Dad's hiking staff, and wearing a ridiculous hat.
+  "I'm ready," she said.
+  Jayla shook her head.  "Give me a minute."
+  "No."
+  Younger sisters could be so annoying.
+  "Look.  The alien ship just disappeared.  I mean, it was right there in front of the United Nations, and it just disappeared.  They have it on video."
+  "Magic trick."
+  "It's on a lot of videos.  And phones.  Look."
+  Jayla flipped the monitor to multi-screen, and scrolled through a variety of uploaded videos.  Scenes of the Hrwang shuttle simply vanishing were the first hits on most sites.
+  "Can you explain that?" she asked her younger sister.
+  "Who cares?"
+  "They're aliens, Jada.  This happened over ten hours ago.  We've been completely cut off driving up here.  We should've listened to the radio."
+  "Do you know what kind of hick music these people listen to?  No way."
+  Jada had repeated several times that drives up to the cabin were supposed to be accompanied by open windows, arms and legs hanging out of them, and loud, thumping, modern music.  Jayla had finally given in, then had enjoyed the long drive up the mountains to her father's cabin.  It was a beautiful summer day.
+  "Besides," Jada added, "up at Daddy's cabin, we're supposed to be cut off.  It's called being in Nature."
+  The cabin was well stocked with non-perishable foods.  They had brought the perishables, milk, cheese, eggs, bread, and other items, up with them, filling their four wheel drive SUV.  Daddy had insisted they bring enough for two weeks minimum, and they probably had enough food for four.  They were physically cut off from the rest of the world now, and completely self-sufficient for at least a month.
+  Was that Daddy's plan the whole time?
+
+  Wolfgang Riebe knew the three Americans in his German Alpine hiking club called him the Nazi and he didn't care.  Today was too good of a day to let idiots bother him.
+  Wolfgang wasn't old enough to have known any Nazis, but his grandfather had always told him that his father, Wolfgang's great grandfather, had been part of the resistance, and Wolfgang had always been proud of that.  Until he studied history at the University.  There he learned that most Germans claimed to have resisted the Nazis in some form or another, and that most of those claims were false.
+  It had been a depressing day.
+  But today was beautiful.
+  Steep terrain, a warm sun with an occasional cool breeze, large trees, interesting rock formations, and the odd castle ruin combined to make the perfect hike, and everyone in his club had shown up.  The renovation of the castle restaurant at the top of the mountain had finally been completed and everyone looked forward to an invigorating hike with a fine lunch in the middle.
+  Some, especially the Americans, grumbled because of his quick pace, but a quick pace did not make a man a Nazi, did it?  What had made men become Nazis and do such things? he wondered for the millionth time.  He knew he should simply let it go.  He wasn't that man despite what they called him.
+  He wondered why they grumbled anyway.  They were soldiers of some sort.  Shouldn't they be fit?
+  He had selected a hike that took the long way around to the castle ruins at the top, rather than the short, little more than five kilometer hike most tourists took.  A tram to the top still existed, and he imagined all the old or overweight tourists taking that route, getting the view for nothing but a few hours time and a few euros.  His club would earn their mountaintop lunch and view.  Even the American soldiers.
+  
+  The rock at the top of the mountain, and thus the castle that stood there, had been named, supposedly, after a dragon that slept in caves they now passed.  He signaled a water break, both to allow some of the slower hikers to catch up and to get a better view of the caves.  He put his day pack down and climbed up some rocks to see them.  Several followed him, including the shy Swiss girl who hardly spoke German even though she had lived in 'Slautern for almost a year.  At least she was a strong hiker if not a strong communicator.
+  The caves weren't much, just tiny holes in the rocks.  Only one was large enough to enter.  Wolfgang was disappointed and quickly ready to move on, to get to the top of the mountain.  He told those that had followed him that they should get going if they wanted a good table for lunch and, after some chuckles, they followed him out.
+  The three American soldiers were huddled together over their cell phones when Wolfgang and the others rejoined the main group, and it annoyed him that they couldn't put the stupid things away for a few hours to enjoy nature.
+  "Let's go," he bellowed, first in German, then in English, but the Americans didn't move.  Other set off, and he moved towards the three.
+  "We must go," he said in English.  His accent was not too heavy; when one grew up near Kaiserslautern and the massive air base nearby, one learned English, but the group of Americans either didn't understand him or weren't paying him attention.
+  "It's time," he said, pointing after the others who had already left.  "We must hike."  The Swiss girl stood nearby, watching him, and he felt a need to show his authority in front of her.  "Now," he added.
+  "We've been ordered back to the base," one of the Americans said in Wolfgang's general direction.  Well, if they had to leave, at least they had driven to the train station in a separate vehicle.  No one would have to go back with them.
+  "Fine," Wolfgang said.  "You will miss good food."
+  They ignored him.
+  He looked at the Swiss girl, her name was Leah, and she looked back at him and gave him a half shrug and a half smile.  The rest of the trip would be better without the Americans and their grumbling anyway.  He smiled back at Leah.
+  He turned back to the Americans to wish them a farewell and perhaps to give them one more opportunity to change their minds, when a harsh, staccato tone began coming from their phones.  His phone, on silent and tucked safely deep in his pack which he had left on the side of the trail, began making the same noise.  So did Leah's.
+  "Take cover," one of the Americans said calmly.  "That's the take cover signal."
+  Take cover?  From what?  He went to his pack to dig his phone out but one of the Americans grabbed his shoulder to stop him.
+  "We must take cover.  Now," the man insisted.  He pointed to the cave big enough to enter.
+  Wolfgang shook his head as he shouldered his pack.
+  "It is small," he said.
+  "It's better than nothing."
+  The Americans headed towards the cave and Leah looked at him nervously.
+  "Go with them," he said, pointing to the soldiers.  She didn't move.  "I must get the others.  I'll join you quickly."  The harsh tones from their phones irritated him, grating his nerves.  "Hurry."
+  She nodded, a tear forming in her eye, and she reached out and touched his arm.  He nodded at her.
+  "It will be okay," he said, keeping his German simple.  "Just a silly American war exercise."  She nodded and he wasn't sure she completely understood, but she followed the Americans into the cave.
+
+  Wolfgang caught up to the others quickly and convinced them to return to the tiny cave.  As they followed him, they heard air raid sirens from the nearby town.  Fear gripped Wolfgang.  This was not a drill.
+  One of the Americans sat at the entrance to the cave trying to speak with someone on his cell phone.  He was yelling at the phone, then stopped when he saw Wolfgang with the others.  He waved them inside.
+  "I'm not sure how much time we have," he said in English.
+  "Until what?" asked one of the other members of the club whose English was better than Wolfgang's.
+  The American shook his head and pointed up in the air at the sound of the sirens.
+  "Your guess is as good as mine."
+  The hiking club huddled into the cave.  Leah looked up at Wolfgang expectantly, but he moved to sit next to two men, thinking about his wife back in 'Slautern.  He wanted to comfort the girl, but it seemed wrong.  She would have to seek comfort elsewhere.
+  The American suddenly swore, startling Wolfgang.  The man seemed to throw his phone, then himself, diving into the middle of the cave.
+  Another American yelled, "Cover your eyes!" and Wolfgang obediently buried his face in his arms.  He sensed a bright flash of light and there was a scream.  No noise accompanied the light.  The explosion, or whatever had caused it, seemed distant; they were almost forty-five minutes by auto from Kaiserslautern, a city never called by it's real name.  It was known as 'Slautern by the local Germans and K-town by the American soldiers from the nearby Air Force base.  Wolfgang feared what had caused the bright light and worried about his home, his family.
+  When the bright light faded, he looked up at the American who had thrown himself into the cave, who now knelt over his phone as if his life depended on it.
+  "No signal," the man cursed but kept jabbing at the screen.
+  "Nuclear?" Wolfgang asked timidly, afraid, terrified of the answer.  He didn't want to frighten any of the others, but he had to know.
+  "I don't know.  Maybe," the American responded, not looking at him, still focused on his phone.
+  No one said anything, but several cried now.  They all watched the American jabbing at his phone.
+  "What comes next, sir?  A blast wave?" one of the other Americans asked.  Wolfgang barely understood their English.
+  "How am I supposed to know?  Do I look like a nuclear physicist?" the central American replied gruffly.
+  The woman with good English translated rapidly into German for the others and one of the other hikers explained to her that if it was a small, tactical nuclear device targeting Ramstein, the name of the Air Force base outside Wolfgang's hometown, then they were too far away to be affected by the blast wave.  If it was bigger, they might feel something within a few minutes.  She translated into English for the Americans.
+  "Then we stay here for at least ten more minutes," the American in charge said.  The woman translated and the hiker who seemed to know what he was talking about nodded his head in agreement.
+  Ten minutes.
+  Every second seemed like agony to Wolfgang.  When he was hiking in nature, hours were not long enough and he always had to return home too soon.  But when he was hungry and food took three minutes to cook, every second ticking off on the microwave oven clock seemed endless.  Now was worse.  Did his family survive the blast?  Would there be radiation?  Which way was the wind blowing?  Would it blow the fallout away from 'Slautern, or towards it?  Why would someone drop a nuclear bomb?  Would he ever see his wife and daughter again?  Would he wish he had been close enough to the blast to have been killed instantly rather than surviving a nuclear war and dealing with the consequences, living like the characters in hundreds of science fiction and horror movies?
+  Lost in fear, he felt someone grab his arm and he looked to his side to see the Swiss girl, Leah, squeeze up next to him.  Tears streaked her dusty face and she looked like a little child.  He put his arm around her and pulled her to him tightly with both his arms.  She sobbed into his chest.
+  Another unanswerable question occurred to Wolfgang.  Had the aliens been responsible for this?  If so, why had they carried nuclear bombs all they way from their home to Earth?  And why would they target Ramstein?  How would they even know of its existence?
+  He thought about the beautiful mountains and forests surrounding the cave they huddled in.  He had hiked through most of them, becoming a hiking guide for a small remuneration from the club members who paid dues that hardly covered his transportation costs but gave him an excuse to claim business expenses.  He loved his forest, and now it would be ruined, contaminated by man's destructive stupidity.  Or an alien's stupidity.
+  Why couldn't the aliens have shown up during someone else's lifetime?
+
+
+2
+
+
+
+
+
+  Contact with aliens has been dreamed about, imagined, told in stories and on stage, in films and novels for centuries.  And yet when it finally happened, it was unlike anything anyone ever expected.
+  Eleven weeks on station over Mars, the large drop pods filled with supplies long since sent on their way to the twin Martian bases, and Beagle had received a cryptic message from Houston, sent via Spirit base.
+  "E.T. has arrived."
+  The next few hours had been filled with panic, excitement, fear, and questions.  Captain Stanley Russell and his second-in-command, Commander Irina Samovitch, rounded up the entire crew into the climatology lab, the only place on the ship capable of holding all ten of them at once, and told them to focus on the remainder of their mission, which was to spend the next four months continuing to analyze the Martian atmosphere and landscape.  Only so much data could be collected from rovers and land bound bases, and they needed to learn as much as possible before a larger colony was attempted.
+  But the questions continued, no one focused on their work, and Houston finally began beaming video highlights of the first contact with the Hrwang.  Everyone watched the two hour daily summaries and were able to, more or less, keep up with their work, although Stanley felt responsible for every missed deadline and worked twice as hard to try to keep up with the analysis.
+  It was unreasonable.  Thousands, even tens of thousands, of scientists spent their entire lives studying Earth, and yet Stanley's crew of ten, along with assistance from the ground bases, were expected to learn just as much about Mars in six months.
+  Even without the distraction of the aliens, it was an impossible task.
+  And yet Stanley watched the videos with the rest of his crew.  It was the most important thing that had ever happened to Earth, and he wanted to know as much as anyone else.
+
+  The Hrwang had contacted Earth, claiming their vessel was just past Saturn and making its way towards the inner planets.  It would arrive at Earth in a few days.
+  The message was in English, which the aliens claimed to have learned by monitoring broadcasts since they had entered Earth's solar system.    
+  And they claimed to be human.
+  In response to repeated questions, responses delayed by many hours due to the distance to Saturn from Earth, the Hrwang said they were just as human as the people from Earth, and just as human as every other intelligent race in the galaxy, and even went as far as transmitting the genome map of the Admiral Commander of their vessel, which so closely matched a human genome that conspiracy theorists decided the Hrwang had abducted humans and used them to generate the map and to translate their messages into English.
+  The aliens claimed the only viable translations of the word 'Hrwang' into English were Human and Earth, as it was also the name of their planet.  When questioned what star their planet orbited, they simply replied, "The Sun."
+  The approach of aliens to the Earth generated the expected hysteria, and the video summaries included footage of riots and looting.  Other messages came to Stanley from his friends at Houston, and he knew that militaries all over the world were on high alert, survivalists had gone to ground, stock markets had crashed, grocery stores could no longer stock shelves, and news pundits claimed they knew more than they really did, as always.  Some predicted a new renaissance in human history as new technologies were learned from the visiting aliens, who were obviously human, while others predicted it was all a trick, and the aliens came in false guise and would seek to enslave the world.
+  Stanley had seen those movies as well.
+  He advised his crew to wait and see, and when the video summaries of the actual contact came in and the Hrwang seemed friendly, seemed human, and communications between them and the United Nations Secretary-General seemed to go well, Stanley felt relief.
+  He tried to share his relief with his crew, but their feelings were mixed.  Commander Samovitch, of all people, expressed the most doubt and concern.  Stanley had hoped she would keep a 'stiff upper lip' and be a good soldier, but instead she had sown discontent.
+  Now, in Beagle's cockpit with Samovitch on his left and Lieutenant Commander Purcella on his right trying to contact Earth nonstop, Stanley had nothing better to do than sit in his command chair and stew.
+  After an hour of listening to Purcella repeat, "Houston, this is Beagle.  Come in, Houston.  Houston, this is Beagle.  Come in, Houston,"  Stanley wanted to scream at the man, to tell him to shut up for two minutes.  At their current orbital position it would take over fifteen minutes for the response anyway.
+  "Come in, Houston.  Houston, this is Beagle, come in, please."
+  Stanley finally put his hand on top of the panicking man's hand.
+  "Give them a few minutes to answer."
+  "Yessir."
+  The mostly quiet came as a relief, the faint static from the console and the whirring of fans the only sound until Irina shifted in her seat.
+  Stanley ignored her until she shifted obviously again.
+  "Yes, Commander?"
+  He sought to appease her a little by calling her by her rank.
+  "You know it's the aliens."  She should have added a sir, and she knew it and Stanley knew it.  She thinks aliens have destroyed the world and she's being petty, Stanley thought.
+  "I don't know any such thing."
+  "What else could it be?  Have we ever lost communication before?"
+  "Of course we have.  When we're on the far side of Mars we have no communication.  And when the sun comes between Mars and Earth, we'll lose contact for over a week."
+  "We've never completely lost contact before.  Relays through Spirit or Opportunity or satellites, even the unmanned supply ships, have always kept us in one form of contact or another, and we're a long time away from a solar blackout."
+  "You're panicking, Irina."  If she wasn't going to call him sir, he wasn't going to use her rank.
+  Purcella stopped their argument.
+  "Opportunity base wishes to speak to you, sir," the lieutenant commander said, removing a headphone he had cocked on one ear.  Stanley nodded and Purcella flipped a toggle that allowed the radio to be heard over a speaker.
+  "Beagle, any luck contacting Houston?"
+  "Negative," Stanley replied.  It seemed like such a cliche to use words like 'Negative' and 'Affirmative', but it did actually make a difference in understanding over a staticky radio.
+  "Folks are getting worried down here, Beagle."  The voice, probably Major Crayton, sounded just as worried.  Why couldn't these military types keep it together?
+  "Let's just wait and see what's going on, Opportunity."
+  "We can't stay here forever without support from Earth, Beagle."
+  Stanley glared at Commander Samovitch.  Why did the military people insist on telling him things he was quite aware of?  Well, he could tell them something they should already know.
+  "Three unmanned resupply vessels are on their way.  They wouldn't be affected by anything that might have happened on Earth, which is probably just a temporary communications interruption anyway.  That's enough food and supplies for both bases for over a year."
+  "A year's not as long as you might think, Beagle."
+  Why couldn't the man just call him Stanley, or Captain Russell?
+  "A year can be an eternity, Opportunity," Stanley said.
+  There was silence for a few minutes at the other end, then the speaker crackled.
+  "Just keep us posted if you hear anything.  Opportunity out."  Major Crayton sounded upset.
+  "You should be more understanding, sir," Irina said.  "They don't have a vessel they can return home in, like you do."
+  Stanley crawled up out of his chair and headed for the doorway.  He turned and looked back at his second-in-command and the communications officer.
+  "Didn't Napoleon say something about keeping your head when everyone else around you is losing theirs?  You military types should heed his advice."  Stanley turned quickly and pushed himself out the doorway and down the connecting corridor to the main part of the ship.  He could hear Commander Samovitch's muttered words behind him as he floated away.
+  "Napoleon lost."
+  "I think it was a poem by Kipling, sir," Lieutenant Commander Purcella added, but Stanley ignored them, bumping his head and cursing as he floated along the passageway.
+  
+  Captain Christina Owenby walked purposefully down the concrete corridor, trying not to jostle those around her, clutching her computer and lunch to her chest should someone jostle her.  She would never be able to pick them up off the ground if she dropped them, so crowded was the mass of evacuating military personnel.
+  She and the rest of 614th had watched satellites dropping like flies.  She realized that the pattern of destruction meant there were at least three Hrwang vessels, not one.  They had only detected one and the Hrwang ambassador, the Admiral Commander, had not told them any different.  But before she had assembled enough data to present her findings, the evacuation alarm sounded and the Colonel told them they had bigger problems.
+  Nukes were dropping.
+
+  "Jada!" Jayla screamed from the deck of her Daddy's cabin.  "Jada!"
+  She ran back inside, watched the monitor for as long as she could, then ran back to the deck.  She screamed for her little sister, but the sixteen year old didn't respond.  Jayla was eighteen and nominally an adult, but she felt like a scared child.
+  "Jada!"
+  Her sister had taken off hiking.  As if hiking mattered when aliens visited the Earth and suddenly their shuttle disappeared from its parking place in front of the United Nations.  More video showed the delegation hurrying on to the craft and it simply winking out of existence.  How was that possible?  It had entered the Earth's atmosphere like any human shuttlecraft, but now it simply disappeared.
+  Reporters had been speculating for hours, repeating all sorts of theories they didn't understand, including wormholes, star drives, jump technology, and the like.  Experts were brought in, science fiction writers who were also scientists were popular, but no one knew anything.  They had learned very little about Hrwang technology in the weeks since the aliens arrived.
+  They looked human and acted human.
+  The old science fiction shows, like the one where the aliens were lizards wearing human skins, became available again on-line and were popular.  Everyone speculated as to the origins of the Hrwang, and theories abounded.  America was faking it to draw attention away from the second Cold War, the one it started with the Soviet Republic after the so called fifth Russian revolution, the aliens were weird and disguised themselves as human, the aliens had the ability to morph, like chameleons, and only appeared human.
+  Jayla had thrown the bs flag on that one, looking up chameleons.  Chameleons couldn't really morph and they weren't even capable of the kind of color changes many people ascribed to them.  They didn't blend in with just any color that was in the background.  They only changed to match certain ones.  They were limited.
+  If the Hrwang were living, breathing mammals, like humans, they would have similar restrictions, wouldn't they?
+  Jayla couldn't stand it any longer and ran back out to the deck and screamed her sister's name.  How far had that girl gone, anyway?
+
+  Wolfgang never felt any blast wave.  Perhaps it hadn't been a nuclear device.  Who would be crazy enough to use them anyway?  They contaminated soil and water and air, leaving territory useless.
+  If it were the aliens, the Hrwang, surely they would have more effective weapons than nuclear devices.  If they knew how to travel light years to get to Earth, surely they had more advanced technology than nuclear bombs.
+  That line of reasoning didn't make him feel any better.
+  The American soldiers were speaking rapidly and he couldn't keep up.  Leah held him tightly, still sobbing into his side, and he didn't want to leave her to stand closer to them.
+  When several of the other hikers began arguing with them, Wolfgang decided he was in charge of the group and he needed to do something.
+  He peeled Leah off of himself and she looked like a lost kitten, but he told her everything would be fine.  He approached the arguing group, trying to fathom what they were saying.
+  He asked, in German, the hiker who had translated before what was going on.  The woman told him the soldiers wanted to head back to Ramstein as soon as possible.
+  "No!" Wolfgang said in English.  Everyone stopped and stared at him.
+  "No.  We take best hikers and run to top of dragon rock.  We look and see what's happening.  Towers up there."  He didn't know the words in English, so he said to the interpreter, "If the network is still up, they'll get a signal on their phones up top.  And we can see for miles.  Perhaps we can figure out what's going on before we head back."
+  The interpreter translated for the Americans.
+  "How long will it take?"
+  "Good runners."  Wolfgang tried to estimate.  "Twenty, thirty minutes."
+  "I'll go, sir," one of the younger Americans said.
+  "You don't think I can run thirty minutes?" the oldest American replied.
+  The younger one stayed silent.
+  "You're probably right."  He turned to Wolfgang.  "Take whoever you want, but if they can't keep up, they drop out.  We need to get into network coverage as soon as possible.  You make sure Captain Wlazlo makes it."
+  A Polish name?  Americans came from every nationality, didn't they? Wolfgang thought.
+  He turned to the group and explained in German that a few volunteers would need to run up to the top of the mountain and back down again, and that they might be running for an hour.  Most of the group looked down at their feet and their packs, but two of the men and one of the women volunteered.  Wolfgang reviewed the path they would take.
+  "Okay, then, let's go," he said in English.
+  "I'm coming, too," Leah said.
+  "You stay here.  We will be back soon."
+  "I can run," she replied and stood resolutely next to him.
+  He shrugged his shoulders.
+
+  The argument about what to do had taken longer than ten minutes.  It had been more like twenty since the flash of light had passed by them.  After being cooped up in the small cave, running felt good to Wolfgang for the first few minutes.  A chance to stretch his legs and breathe fresh air.
+  But after too short a while, running up the steep hill tired him.  It had the same effect on the others.  One of the German men stopped suddenly, bending over and putting his hands on his knees.  The American stopped also, but Wolfgang shook his head.
+  "We keep moving."
+  The soldier started running again, but the other man remained bent over.
+  They left him behind.
+  But the American ran slower, so Wolfgang slowed to match his pace.  Leah looked back at him and he worried she thought he was weak.  He nodded at the American, and she seemed to understand.  She moved over to the man's other side.
+  "You can do it," Leah encouraged the soldier, in English.  The girl barely spoke German and Wolfgang was surprised she could speak English.  Perhaps her English was better than her German.  He asked her.
+  "A little," she answered between breaths.
+  The path grew steeper.
+  After twenty minutes they were trudging up the steep slope, no longer running, but still out of breath.  At the top of a particularly steep climb, the American collapsed on the ground, clutching his side and gasping.
+  "Do we leave him?" the German woman running with them asked.
+  "Of all of us, he must make it to the top," Wolfgang said.  The others nodded understanding.
+  Wolfgang watched the man.  The American opened his eyes when he seemed to finally catch his breath.
+  "Mountain running very hard," Wolfgang said to him, sometimes amazed at the English words he remembered.  He had spoken more English today than he had since Gymnasium.
+  "You ain't kiddin', pal," the soldier replied and held his hand up.  Wolfgang pulled him upright.  
+  The German woman moved close to him and got in the American's face.  She grinned and said in German, "Tell him he doesn't want to get beaten by a girl."  She turned and sprinted off.
+  Wolfgang translated and the soldier laughed.
+  "She's right.  Let's go."
+
+  The restaurant staff at the top were of little help.  They had heard the sirens, had covered themselves as best they could, had seen the flash through closed eyes and through the cracks of closed doors, and had witnessed a mushroom cloud from the direction of Kaiserslautern.  It was definitely nuclear.
+  They had no contact with anyone.  No network was up for phones or computers.
+  Worse, the electric tram that brought tourists up the side of the mountain had stopped in a bad spot.  If anyone survived in the tram, they would have to clamber twenty or thirty feet down to get to a level spot, and would have to negotiate several sheer drops to get back to any kind of path.  Coming up would be even more challenging.
+  The staff were preparing climbing ropes to head down to rescue them.
+  "What now?" Wolfgang asked the American soldier.
+  "Let's give it a few minutes.  I'm going to go up to the highest spot and try again," Captain Wlazlo replied.
+  They followed him out of the restaurant and up into the ruin that stood atop the hill.   Wlazlo climbed a set of ancient stairs to the highest point that could be reached.  Wolfgang and the others waited below for him.
+  Captain Wlazlo tried several things on his phone, even waving it around in the air, and grew increasingly frustrated.
+  The others with Wolfgang tried their phones, but he had already given up.  There was simply no signal.  He knew nuclear weapons released electromagnetic pulses that could destroy electronic devices, and although his phone didn't seem to be affected, the network system that serviced it seemed to be down.
+  The Captain's agitation grew and he began cursing at the device in his hands.
+  "It's no good," Wolfgang called up to him, waggling his own phone in the air.  "No signal."
+  The soldier ignored him.
+  "What now?" the woman with them asked.  The man stood next to her, they looked like friends, Wolfgang thought, and Leah stood close to him.
+  "We go back and get the others, and head back to 'Slautern," Wolfgang replied.  At least, to what's left of it, he left out.  He tried not to think about it.
+  Leah looked up at the American and asked, "What about him?"
+  "He has to do what he has to do."
+  The others accepted that and started to head back down the trail they had come up.  Leah and Wolfgang followed, but stopped when the American called out, "Hey, wait up!"
+  The four waited for him, and when he caught up, he showed them his phone.  Wolfgang didn't recognize the app displayed on it, but he understood the no signal icon.
+  "Look, this is classified," the Captain explained, "but a nuke just got dropped by someone, and I'm gonna tell you about this, classified or not."  He paused for a second, looking at each of the other hikers, then continued.  "My phone has a link to a top secret network of satellites.  Anywhere I got a blue sky, I've got a signal.  And now I have nothing."
+  Wolfgang shrugged, not entirely following what the man was saying.
+  "What does that mean?" Leah asked guardedly.
+  "It means the satellites are dead."
+  Wolfgang shrugged, still not completely understanding what the man was explaining.  But it didn't matter.  He had a responsibility to get the others back safely, and then he needed to go home.  An image of his wife and daughter came to mind, and he wondered if he would ever see them again.
+  "I'm going back," he announced simply and started running down the mountain.
+
+
+3
+
+
+
+
+
+  Jayla wanted to run after her stupid sister, but couldn't tear herself away from the monitor at the same time.  It led to a schizophrenic running back and forth between the deck, yelling for her sister and returning to the den of the cabin and trying to catch up on what was happening.
+  Satellite communications were being disrupted somehow, but the news agencies were doing all they could to gather and communicate what was happening.  No one knew what was wrong with the satellites, but they had learned from land lines about one of the most horrific acts of violence man could perpetrate against man.
+  Details were nonexistent.  They didn't know how many, or who had done it, but everyone knew from the telltale mushroom clouds that nuclear weapons had been dropped.  Two were confirmed; one in Southern Germany and one in Eastern England.
+  The aliens were blamed.  The Soviet Republic was blamed.  Jihadists or terrorists were blamed.  Even the United States was blamed by some of the overseas agencies.  But no one knew.  No one knew who had launched the nukes, no one knew why, and no one from any government was answering any questions about what would happen next.
+  No one knew how the alien shuttle had disappeared from in front of the United Nations.  More importantly, no one knew why the aliens had left.  Had they learned of the impending nuclear war and left town?  Had they started it?  If so, why?
+  When the questions grew too many, Jayla broke away from the monitor and ran outside and screamed for her sister for a while.
+  When she finally took a break from the chaos in her mind and thought clearly, she decided her sister must have hiked down to the lake.  Daddy often took them there.  The trail was well marked, the lake only about four miles away, and Jada could have easily gone down there on her own.  Jayla could scream all she wanted and it would do no good.  Jada would be completely out of earshot.
+  She hoped her sister would be smart enough to return before it got dark.  She ran back inside to her monitor.
+
+  The nuclear bunkers at Vandenberg Air Force Base were well camouflaged, converted missile silos.  The only way to them was across a field, through a circular hatch, and down a long ladder.
+  Christina came out of the evacuation tunnel into a grassy field, sounds of the Pacific Ocean in the distance.
+  She loved being stationed at this base, right on the coast and just a short trip south along the PCH to Santa Barbara.  It was a beautiful weekend drive.  Other trips, she and her husband would head north, driving to Pismo Beach or even up to Morro Bay.  It was a perfect posting.
+  Now, under the threat of nuclear war, the waves and the surf she could hear seemed strangely normal, mundane, as if Nature didn't care about the foolish things Man was up to.
+  She couldn't see the silo entrances, but just followed the other evacuees, going where the security police directed them.
+  There were multiple silos and the Colonel had stopped and made sure Christina came with him to the command bunker.  That made Christina more nervous than the thought of nukes.
+  She wouldn't have seen the silo if a soldier hadn't been standing by an open hatch directing people down the ladder.  When she stared at the ground directly beyond the hatch, she could finally detect a mound in the earth where the main silo doors lay buried.
+  It was her turn.  The soldier, Airman Anthony, said he could hold her lunch and drop it down to her.  Christina was too embarrassed to speak, and handed the bag to the man, cradling her computer with her other hand while she tried to negotiate the ladder.  She didn't know how and dithered at the top of the ladder for a moment.
+  "I can bring that down for you also, ma'am," the soldier said and reached his hand out.  She handed him the computer.
+  Even with two hands, the ladder was difficult.  It was not meant for frequent use, and ridges in the metal dug into her hands as she squeezed them too tightly.  She never looked down.
+  The silo was dark.  A few flashlights shone and someone stood at a control panel, trying to figure something out.  Christina just tried to focus on getting down.
+  Someone else must have noticed her distress, and she heard an encouraging, "You can do it, Captain," from below.  It made her feel like she was back in ROTC summer camp.  They had had two chances to complete the obstacle course, or wash out, and Christina had failed the first, unable to climb the wall at the very end.
+  She was last getting to the wall on the second attempt, and her entire cadet flight stood around it, cheering.
+  She never could have climbed that wall without their support.
+  Towards the top, as she used every muscle in her body to pull herself up, she peed her pants.  With twenty-six cadets cheering her, all college students like her, she was surprised that no one teased her about it afterwards.  No one said a word.  They all just congratulated her when she finished.  That was the moment she fell in love with the Air Force.
+  As she stepped off the final rung at the bottom, the lights came on.  She looked up the ladder and was grateful she had come down in the dark.  Looking around the lit silo while coming down that ladder would have been terrifying.  The view from the ladder extended down a large hollow where a missile once sat.  It was at least two hundred feet deep.
+
+  Airman Anthony brought her lunch and her computer after everyone was inside.
+  The thud from the closing of the hatch sounded with an eerie finality.  Christina shivered and thought about the other silos.  There were four such bunker-silos on the base, and she wondered how many people were looking up at the closed hatches of their silos and contemplating what their fate might hold, just as she was doing.
+  The group of evacuees were led deeper inside and through a set of blast doors.  The silos themselves could withstand a near miss, but they were told that behind the blast doors they would be able to survive a direct hit.  Christina doubted it, but hearing the words were reassuring.
+  She thought about her husband and wondered where he was and how he was doing.
+  Base housing had an evacuation plan for military dependents, but it wasn't to any place nearly as secure as the silo Christina stood in.  Plus, John would be at work now, and if the base were locked down, he wouldn't even be able to get in.
+  What do civilians do during a nuclear war?
+
+  The President of the United States of America stared at a computer screen without seeing anything on it.  It wasn't a blur.  His eyes focused.  Just nothing registered.
+  There was background noise.  His Chief of Staff keeping everyone away from him.  Everyone who wanted to talk to him, who wanted his approval, his opinion, his leadership, buzzed around him, and right now he could give them nothing.
+  The sound of the plane.  Air Force One zigzagging across the nation, keeping him safe, protected by a squadron of F-35s and Protector drones.
+  His children, kept in the back of the aircraft by his wife and their nanny, excited about again being on a plane as luxurious as this one.
+  The image of a former President wandering through the Rose Garden, contemplating terrible decisions, went through his mind.  He hadn't had that luxury.  He hadn't had the opportunity to weigh this decision, to consider his place in history as he made that decision, to make sure he was photographed in deep pondering.
+  The decision had been made for him, essentially, by the Joint Chiefs of Staff and the Soviet Republic themselves.
+  The Germans didn't respond to the destruction of Ramstein Air Force Base, but the British did to the destruction of RAF Lakenheath.  Even though both bases were populated with American forces, the 86th Airlift Wing at Ramstein and the 48th Fighter Wing at Lakenheath, the President had decided to allow the local countries that had been struck to determine their own response.
+  Germany had done nothing.  The nation didn't even declare war.  They simply mobilized to help the stricken base and nearby community.  Casualties would be in the tens of thousands, and many more would die from radiation poisoning.  The whole nation united to help.
+  The Prime Minister of the United Kingdom took the attack more personally.  The lone British Renown class submarine on patrol had launched its entire complement of sixteen Trident III nuclear missiles at the Soviet Republic, a retaliatory strike targeting key locations, like the Kremlin in Moscow, the Kosvinsky Mountain command center, and bases in Kostroma, Yoshkar-Ola, and Tatischevo.
+  It wasn't a crippling strike.  If the Russians had stopped there, they could have recovered.  It would have taken years, probably another revolution, but they would have recovered.  They had started the war anyway, all because they thought the United States was destroying their satellites and had invented a fictional alien entity to cover up the attack.  They deserved to be punished.  The Brits had done the right thing.
+  But the Russians didn't stop.
+  And the aliens weren't fictional.
+  From the start, the President had been wary of the Hrwang.  They wouldn't deal with any heads of state, only representatives from a world wide organization.  Hence the Secretary-General of the United Nations had been the primary ambassador for Earth.  The President had ordered various intelligence agencies into overdrive to keep him apprised of what was happening, and as soon as the gun battle erupted in the Secretariat tower, the President had boarded Air Force One.
+  What followed next shocked him and his staff.  The Hrwang shuttle, which had entered Earth's atmosphere much as any human shuttle would but could fly like a tilt rotor, simply vanished from its landing spot in the UN complex.  No one had any explanation.
+  Then Vandenberg began reporting satellites failing and their suspicion that it was the Hrwang.
+  The Premier of the Soviet Republic had called the President directly, accusing him of warmongering.  Russian satellites were being destroyed, and he blamed the United States.  He wouldn't accept any explanations, didn't believe that there were any aliens, and within the hour over 40,000 US service men and women and their dependents were dead from the initial nuclear blasts or would soon die from radiation poisoning.
+  It was irrational.
+  After the British retaliatory strike, the Russians had launched more missiles and the President had had no choice.  He had ordered an all out attack on the Soviet Republic.  An attack designed to prevent any further response.  An attack that would silence the Soviet Republic once and for all.
+  And in so doing had condemned 150 million people to a fiery death.
+  If there was a God, the President wondered what he would say to Him when he met Him.
+  "Sir," his Chief of Staff said.
+  He didn't respond.
+  "Sir.  It's urgent.  Something's happening that doesn't make any sense."
+  He looked up at his Chief of Staff.  His loyal friend.  He should have asked him to be the Vice President, but they were from the same state and no one ever picked a Vice President from the same state.  It wasn't good politics.
+  "Yes, Aiden," the President said.
+  "Sir.  I don't understand it.  No one knows what's going on.  Look at your screen."
+  Some IT technician on board pushed an image to the President's monitor.  The President swore.
+  "How did this happen?"
+  "I don't know, sir."
+  The President looked at the screen, understanding, but not understanding.
+
+  The Hrwang artificial intelligence unit temporarily assigned to drone Tf-1804/V3-85 scanned asteroids inside the orbit of the alien world.  1804, as it referred to itself, knew that the Hrwang home star system had been thoroughly charted and that it would have found an asteroid of the dimensions it sought within a short period of time.
+  But the alien humans on the primary planet of this system had done no such charting, and 1804 was left to finding a likely target, jumping near it, expending precious fuel to maneuver within range of its optical sensors, then deciding if it met its criteria.
+  None had yet.
+  If it knew how the aliens measured such things, it would have reported that it was looking for an asteroid between twenty-five and thirty meters in mean diameter.  Any material would suffice, but it expected to find a carbonaceous asteroid, as they were the most common.  If it found a silicate asteroid instead, the rock would have to measure within the lower end of its search parameters.
+  No time constraint had been given for finding the large rock.  Once it had found it, 1804 knew it only had small windows of time, 1.388 per cent of the rotation cycle of the planet during each of its rotations, to accomplish its mission.  One such window had come and passed since it had begun its search, and it concerned 1804 not to have achieved its first goal.
+  The asteroid it was now investigating was too large, and 1804 used its telescope to scan the heavens for a new candidate.  It cataloged every object it saw, even if that object didn't seem likely.  None of its handlers had asked it to catalog the objects, but it knew it would have to come out here for more, and it wanted a head start on its next search.
+  Nothing appeared in a complete rotation, so it adjusted its search arc by .25 radians and began rotating again.  While it looked, it calculated how many more searches it could conduct with its remaining fuel.  The possibility of running out of fuel added to its anxiety.  It had to find a rock soon.
+  Another rotation and nothing.  It adjusted its search arc again, tiny jets of gas emitting from it to make a precise movement, and it rotated slowly again.  It stopped when it detected something.
+  Using an optical rangefinder, 1804 measured the distance and the diffuse reflectivity of the object.  At its estimated distance the object was too bright, meaning it was too large, and 1804 cataloged its result.  It began its rotation again.
+  Four more arc adjustments and 1804 was searching a plane almost completely perpendicular to the original plane it had started on.  Two marginal candidates were found on this plane, and 1804 evaluated them based on what it had seen in previous rocks.  It decided that the first was the better candidate and estimated coordinates to the object.
+  The closer it arrived, the less fuel it would consume inspecting it.
+  1804 determined the most likely coordinates of the object, mentally closed its eyes, and jumped.
+
+  Captain Christina Owenby rubbed her face with her hands.  She wasn't sleepy, but she was tired.  She hadn't slept, no one had, since they entered the silo.  Her bones ached, her eyes ached, her rear ached, and she was already sick of looking at the steel girders and cables that filled the spaces around her.
+  Little of the computer equipment in the silo functioned as expected, and she had been the only one to think of bringing her computer with her.
+  She sat at a makeshift desk outside the main blast doors.  Inside, four hundred other evacuees tried to get comfortable, get something to eat, and not trip over each other.  Inside, there was no hope of connecting to the network.
+  But outside the doors, in the main part of the silo, she had an intermittent connection and was able to occasionally download bursts of data.  It also kept her away from the Colonel, who ranted and raved and swore, even shoving a keyboard through an old monitor at one point.
+  The lack of functioning equipment effectively ended his command, and he was unhappy.
+  He came out now and barked at Christina.
+  "Anything useful?"
+  "Not yet, sir.  No reports of nuclear strikes in CONUS, though."  CONUS stood for the Continental United States.
+  "Can we go up top and get some working gear?"
+  "I don't know, sir."
+  The Colonel turned and stalked off, yelling again as soon as he walked through the partially open blast doors.
+  Two airmen had been assigned to Christina.  They fetched whatever she wanted, stood guard to protect her from who knows what, and kept her company.  They both looked like football players.
+  It always embarrassed her to order others around, so she asked politely when she needed something, like more coffee or water.  The silo hatch sealed from the inside, so she wasn't sure what she needed protecting from.  But the company was appreciated.
+  "What's your first name?" she asked of the first airman, the one who had carried her computer down the ladder.
+  "Shane, ma'am."
+  "Football?"
+  He grinned.  "Yes, ma'am."
+  "What position?"
+  "I went to a tiny high school in Nebraska, ma'am.  We played both sides of the ball."
+  "And you?" she asked, turning her attention to her second airman.
+  "Zombinique, ma'am.  My friends call me Zombie."  The three chuckled.  "Middle linebacker."
+  "Thank you both," Christina said softly.
+  "Things are going to get interesting around here, aren't they, ma'am?" Zombie asked.
+  "It's possible."
+  "We got your back," he said, patting on his MP23 carbine.
+  Christina nodded, not understanding why enlisted people followed officers.  She was just a person who went to college.  The men on either side of her were better trained, better disciplined, and better soldiers than she was.  But they would give their lives for her, and the thought humbled her.
+  "I'm going to try to get some sleep."
+  "Yes, Captain.  We'll make sure you're not disturbed."
+
+  "What do you mean the White House is gone?  Do you know how many people I left behind there.  How many people I ordered to stay?" the President shouted.  "What happened to the missile defense system?"
+  "We don't think it was a Russian missile, sir.  We had a one hundred per cent kill rate on those," the Chairman of the Joint Chiefs of Staff, General Vanek, said.
+  "Then what was it?  A terrorist?"
+  "No, sir.  Preliminary reports, and I mean very preliminary, indicate it was some kind of kinetic kill weapon fired from space.  It looked like a meteor."
+  "A meteor?"  The President sounded incredulous.  General Vanek almost flinched.
+  "It just looked like one, Mr. President.  We don't know exactly what it was."
+  "Show me the damage again."
+  Aiden, the Chief of Staff, nodded to someone out of the President's line of sight.  The image of the crater flashed up on his screen.  There was nothing recognizable.
+  "And you're sure this wasn't a Russian missile that got by?"
+  No one ever thought the missile defense system would be one hundred per cent perfect.  No weapon system ever was, despite what generals and scientists promised.  The Soviet Russians hadn't believed missile defense systems would work, and never even bothered developing systems half as advanced as the US ones.
+  "Yes, sir.  There's no radioactivity.  No missile signature was detected.  But we did receive reports of a heat signature making a bee-line from space.  It wasn't launched from anywhere on Earth."
+  "So it has to be the Hrwang.  No secret Soviet satellite weapon?"
+  "The Hrwang destroyed all the satellites," Aiden reminded him.
+  The President breathed in sharply through his nose, then out loudly.  He put his hands together, keeping them from any visible shaking.  He thought of everyone at the White House.  The Secret Service agents, the cooks, the janitors, the IT staff.  The Vice President who had remained there to give the appearance that the government was still being run from Washington and not from a plane.
+  Some of those people were his friends, and his family's friends.
+  Caution warned him, though.  Going head to head with an alien race that knew how to travel between stars was risky.  It had been easier to obliterate the Soviets.  He didn't know, no one knew, what the Hrwang were capable of.  But if they had deliberately targeted the White House, that meant they were deliberating targeting him.
+  "Mr. President?"  General Vanek cautiously interrupted his reverie.
+  "Go ahead."
+  "Mr. President, I'm getting some reports of other world leaders being targeted."  General Vanek looked down at his tablet and scrolled.  "It is confirmed that the Prime Minister of Great Britain is a casualty.  Number 10 Downing Street took a similar hit as the White House.  Witnesses report it looked like a meteor."
+  "Any others?"
+  "The French are reporting a hit on the Elysee Palace."
+  The President thought about that for a moment.
+  "Sir, I'm getting confirming reports from State.  Ambassadors around the world are reporting that the residences of heads of state are being destroyed by meteor-like weapons," the Chief of Staff said.
+  The President nodded.
+  "Sir, it has to be the Hrwang," General Vanek said.
+  "Aiden, do you agree?"
+  His Chief of Staff nodded.
+  He stared at General Vanek a moment.  The man stared back, and the President stabbed his finger at him.
+  "You get them," he commanded.  "You get every last one of them.  I don't care if they have one spaceship or twenty spaceships, you get every one of them.  Do you understand me?"
+  "Yes, sir."
+  "And don't hold anything back.  You throw every anti-satellite missile, every nuke, everything we have at them.  The Soviets are dead and don't you worry about keeping anything back for the Chinese.  I'll convince them to do the same.  They saw what happened.  You use everything we got."
+  The General stood straighter.  "Yes, sir."
+  "Ladies and Gentleman," he said, looking at the group assembled around him.  He knew his wife listened from a distance, behind the group.  He also knew there were reporters on board who would record his next words for posterity.  "Ladies and Gentleman, it's time to save the world."  There were smiles and then someone clapped.  Everyone clapped.  He stood and smiled back at them, reaching out to touch them, to shake their hands, to put his hand on General Vanek's shoulder.  The man looked nervous, but he knew how to do his job.  They all had to do their jobs now.  It was the most important moment in the history of the United States of America.
+  He had never been prouder to be its President. 
+  
+  Drone 1804 sized up the asteroid in front of it.  It was four per cent smaller than its lowest acceptable parameter, but it understood that mass was just as important as size.  It fired a small energy pulse at the rock and evaluated the spectra of the material that vaporized from the shot.
+  It was a carbonaceous asteroid as expected, over seventy per cent of the asteroids in this system were carbonaceous, but it contained higher than normal levels of nickel and iron.  1804 calculated the total estimated mass assuming a homogeneous concentration of nickel and iron based on its sample, and decided that the rock in front of it would meet the parameters of its mission.
+  1804 fired a tiny jet of gas to propel itself towards the rock, then extended six clawed legs out, rotating so the legs would touch down on the asteroid.  They gripped into the rock, 1804 vibrating them and sending a small current into them to guarantee a firm hold.  Then it went to sleep, content it was prepared for the next step in its mission.
+  It didn't sleep long.  A proceed ping was received.  1804 sent a confirmation request, which it received within an acceptable time period, and it confirmed calculations it had already made.  The next target window was soon, so 1804 wasted no time in a second, confirming calculation.  It "looked" at its target, then closed its eyes.
+  It appeared just above the planet, outside of the atmosphere still, the rock it was attached to hurtling towards its target with the momentum it had picked up from the jump.  1804 quickly calculated the location of impact of the asteroid from its present trajectory, and decided it was within acceptable parameters.  If it hadn't been, 1804 carried insufficient fuel to move the rock.  It would have had to jump the rock to another location, then try again, jumping back towards its target, imparting the momentum the rock would need to carry it into the atmosphere.
+  Most rocks that hit the atmosphere of a planet strike it at an angle, and the rock burns up on impact, only fragments reaching the planet and usually doing very little damage.  Even large strikes can sometimes be survived if the asteroid hits the atmosphere at a shallow enough angle.
+  Directing rocks straight down into the atmosphere provided a higher guarantee of success.  And this rock was on target in a manner that pleased 1804.  It had done well in selecting this rock within sufficient time to employ it as ordered, and it pleased 1804 to have been successful in targeting it correctly.
+  It disengaged its legs and used its jets to push away from the rock, then jumped away from the atmosphere a short distance to bleed the momentum it had also picked up from the jump.  It didn't want to enter the atmosphere.  It was not equipped for such a mission and aerodynamic heating would surely have destroyed the drone, rendering the AI that was now 1804 useless, essentially dead.
+  It stabilized itself in orbit over the planet and watched its handiwork.
+  The meteor entered the planet's atmosphere, heading on a direct course with the ocean on the trailing edge (from 1804's viewpoint as it watched the planet rotate) of a continent that fanned out across the planet like a pair of bird's wings.
+  1804 didn't know the name of the continent or the ocean, didn't know that the local inhabitants called it North and South America, or that they called the ocean the Pacific Ocean.  It didn't know that almost 300 million people lived on the west coast of those continents and that most would be killed by the tsunami caused by the meteor it had just released.  It didn't know that each of those 300 million people had names, had mothers and fathers, had friends and family and loves, had jobs and responsibilities, had strengths and weaknesses and individual personalities, had overcome obstacles to achieve their goals, had given in to weaknesses, and had tried to find some purpose in their lives.  1804 didn't know any of those things.
+  And it didn't care.
+
+  The aftershock hit while Christina climbed the ladder to exit the silo.  She held on.  The few seconds it lasted were terrifying, and Christina wanted to cry, but all she could do was cling to the rungs of the ladder and focus on not letting go.
+  "That was a bad one," Zombie muttered below her.
+  The shaking finished, Christina continued her climb with a sense of urgency.  She wanted to be off the ladder before any more earthquakes hit.  Shane had opened the hatch above them, and cautiously exited the silo, rotating around the opening with his carbine ready.
+  The Colonel had insisted Christina be armed also, and she wore a pistol on her hip.  She had never done that before.  She had gone through basic weapons qualification like all military officers, but could never imagine firing a weapon in anger.  If there were looters on the base, as was always possible the Colonel had said, it would be her airmen's job to take care of them.
+  Christina's job was to do what she did best: connect to the network, find out what was happening, and bring a report and as much useful gear as she could back to her boss.
+  Climbing out of the hatch, Christina wondered how she had suddenly become the Colonel's wunderkind.  She had simply grabbed her computer during the evacuation, something no one else had thought to do, and when none of the antiquated equipment in the silo worked, she had been the only chance to find out what was going on.
+  Not that she had had much success.
+  With a gun on her hip, Shane and Zombie on either side of her, scanning everywhere, MP23 carbines ready to shoot at anything hostile, she felt more nervous, more anxious, than at any time in her life.
+  She would have thought the base the safest place in the world, but after a couple of days in the silo with no information, a general paranoia set into the command.  When the first major earthquake struck, they thought they'd been hit by a nuke.  A team took air samples and decided it hadn't been a nuclear missile, but the lack of connection to the network, a lack of connection to any network, and thus the lack of information about what was happening heightened the Colonel's anxiety.
+  So he had sent Christina up top.
+  He said he should be going himself, but that he had to stay behind and besides, she was the only one with any brains left in the outfit.  Christina couldn't read the man, she had never been able to understand him, but she accepted the compliment and her assignment.
+  Nothing moved up top.
+  The sun was warm, which felt good after two days in a hole, but there was no breeze off the ocean.  Usually the sea breeze cooled the base on hot days.  The long grass around the silos didn't move, just sat still, baking in the heat.
+  They decided not to use the evacuation tunnel to get back to their building, but to stay up top, walking through the fields where they could see around them should looters have decided to come on base.  Although the country appeared to be at war with someone, the aliens or the Russians, it still wasn't clear to them, Christina doubted Vandenberg was a strategic target.  She didn't expect to run into enemy troops.
+  The main base was eerily quiet.  There were no security police and no evidence of any other base personnel.  Either everyone was in shelter or had fled.
+  "This creeps me out," Zombie commented.
+  Christina nodded agreement.
+  They squeezed through an internal gate, passing packs through the narrow opening, and headed for the 614th's headquarters.  Christina's airmen walked on either side of her, their MP23s ready, safeties off, alert for anything, but not knowing what they should be alert for.
+  Shane held his arm up, and the three stopped.
+  Christina listened and realized at the same moment as the airman that someone had left a door open, and it knocked in its frame when a gust of wind caught it.  She breathed again, surprised that she had been holding her breath.
+  They continued up the street, it's emptiness continuing to be unnerving.
+  The front door to the headquarters opened with a swipe of Christina's badge, and her two airmen entered the building first, guns ready.  Christina hoped no one had stayed behind.  They'd probably get shot if they poked their head out right now.
+  "Ma'am, I think we should take the stairs instead of the elevator," Zombie suggested.
+  Christina imagined being trapped in an elevator.  No cell phone to call for help.  No one around to stumble in on them.  She shivered.
+  "Good suggestion," she replied.
+  Zombie opened the door to the stairwell and looked up, then down.  He entered slowly, holding the door open but not taking his eyes off the stairs in both directions.
+  "You next, ma'am," Shane said.
+  Christina followed, taking the door from Zombie and holding it for Shane.  He followed her in backwards, making sure nothing moved behind them.  It crossed Christina's mind that they were probably being too cautious, but she felt gratitude for their concern for her safety.
+  Four stories down to her office level.
+  She patiently walked between the two men, but they also seemed to relax a little as they descended.
+  Until they got to the stairwell at their floor.
+  Zombie asked Christina to draw her sidearm and stand beside the door, out of the way of the line of fire from someone inside.  Shane crouched on the lower flight of stairs, his body mostly shielded, his MP23 pointed at the door.  Zombie swiped his badge, waited for the click, then opened the door slowly.
+  No bullets came out, and Christina breathed again.
+  Zombie went in first while Shane covered him.  The door closed behind him and Christina worried for him, trapped alone in the offices.  She swiped her badge and opened the door.  Zombie, about ten feet into the area, turned suddenly, pointing his gun at her, then holding it up in the air.
+  "Sorry, ma'am.  You scared me."
+  "I'm sorry, Zombinique."
+  "It's clear in here," he said, turning away from her again.  She held the door open as Shane scrambled to his feet.
+  As they moved through the offices, motion sensors triggered lights.  It was like coming into the office first in the morning.  Christina had to remind herself that it was all automated and not someone running in front of her turning lights on.  Being alone in the building was as unnerving as walking down the empty base streets.
+  She found her spot in the command center and took her pack off, pulling her computer out and setting it up.  The airmen continued to patrol around the office area, making sure it was secure.
+  As soon as her machine began to boot up, Christina got tunnel vision, focusing only on the task at hand.
+  She watched the operating system scroll by, she always booted up in the os, and then it prompted her for a password.
+  She entered it, and the computer stalled for a moment, trying to connect to the network and authenticate.  Failing that, it would authenticate her on the machine itself, leaving her disconnected.
+  She waited.
+  Eventually she could see her desktop, a picture in the background of her and her husband in Hawaii on the beach, with an error message that no network connection could be found.  She expected as much.
+  She tried using the computer's systems to make a connection, but with no success.  She rooted into the machine, entering her admin password, and tried pinging ip addresses she knew, hoping to connect that way.  Few people knew of these methods any more.  Most just accepted that network connections were made automatically, and if they didn't work right away, someone would fix them and they would work soon.
+  Christina was dimly aware that Zombie had returned and pulled up a spot of floor near her, his back to a wall, his MP23 resting, but ready, in his lap.  She didn't acknowledge him and he didn't disturb her.
+  As she tried different commands, waiting for results, occasionally looking up help on the ones she seldom used, a separate thread ran through her mind of computer users in the movies.  They always typed incredibly fast, pinging through screens too fast to even absorb any information from them.  Real life differed greatly.  She typed, waited, typed, waited, smacked her keyboard a few times in frustration, typed and waited more.
+  "Zombie, catch," she heard Shane say.  She glanced at him and he had come into the office area with an armful of red apples, throwing one to the seated airman.  Shane walked up to her and asked if she wanted one.
+  She was suddenly hungry.
+  The silo had food, but most of it had been mres, or Meals, Ready to Eat.  They were thirty years old and they were no longer meals nor ready to eat.  A few items were salvageable, but most of the food had gone bad.  Years of peace and exploration of the Moon and Mars had left the military complacent.  After the reconstitution of the new Soviet Republic, they should have gotten ready for something like this.  They must have forgotten how.
+  And no one could have expected aliens.  Despite evidence of billions of planets in just our galaxy alone, no one seriously believed life existed anywhere except on Earth.  Life was too unlikely, the odds of it evolving on more than one planet staggeringly impossible, that only the most ardent dreamers accepted its possibility.
+  Now they were here.
+  She accepted two apples and started eating, her eyes back to the screen, ignoring the two men and their whispered conversation.  The apple was waxy.  The airman must have gotten it out of the cafeteria, but she wiped part of it off on her uniform shirt and kept working.
+  "Could you get me some water?" she asked, not looking away from what she was doing.
+  "Yes, ma'am," someone said and jumped up.
+  She couldn't get a connection anywhere.  Servers were up in the building, and she could talk to them, but they couldn't get out to anywhere.  A bottle of water appeared next to her and she mumbled a thank you, and tried a few more things.  She took a drink.  The water was cold, which was good, and she drank more.  Her fear had made her sweaty, and she needed water.
+  Finishing the bottle, she set it down.
+  "Do you want another one, Captain?"
+  She nodded and Shane set another one next to her.  She opened the bottle and took a sip.  The cool liquid helped her think.
+  Every server connected wirelessly, through towers or on the secure satellite network, and none of them could talk.  She remembered some servers that were old, had been decommissioned, but that might still have landlines.  She needed to turn them on.
+  "We need to go to the basement," she said, turning in her chair.
+  The two men jumped up.
+  The three headed back out to the stairs, moving almost as cautiously as before, but not as nervously.  They'd been in the building for almost an hour and there was no evidence of any hostiles.
+  It took a while to find any servers that were turned off.  She started turning them all on, not knowing which ones would actually boot and which ones were completely fried.  Fortunately the military was terrible about getting rid of old equipment, and she eventually found quite a few turned off servers still in the racks.
+  She pulled out her pad and noted the ip addresses of all the ones she was turning on.  It got tiresome, and she handed her pad to Zombie, asking him to copy the addresses down exactly.
+  While he did that, she found a terminal that still worked, and she started pinging the  restarted servers.  Most hadn't booted; probably incompatible operating systems, but some seemed to be coming up.
+  Zombie handed her the pad when he was done, and she waited.
+  She could finally ping one of the servers on the list, but it too only accessed the network wirelessly.
+  She waited longer.
+  They felt another aftershock.  The three of them looked up and around at the ceiling, willing it to stay up.  Christina looked back down at her screen, irritated at her primal fear.  Any server room worth its salt in California was designed to stand up to any old earthquake.
+  The fifth server she pinged seemed to have a wired connection.  It wasn't connecting to anything, but that could mean a router was turned off, or that it was connected to a wireless router.
+  "Which server is...?" and she read off its address.  Both men searched the racks until Shane found it.
+  "Stay with it in case we lose track," she said.  He nodded.  "Now, Zombinique, help me find where this is wired to."
+  "Zombie, ma'am."
+  She smiled at him.  "Sorry.  Zombie."
+  "No problem, ma'am."  He grinned back at her.
+  They traced cables.  Losing track, they had to start over.  Zombie pulled out a small roll of colored duct tape and started tagging the cable as they went.  It helped immensely.
+  "Where did you get that from?" Christina asked him.
+  "Duct tape is a soldier's best friend, ma'am.  You can fix shoes and uniforms and even loose magazines with it.  I'd never be without it."
+  "I didn't know that."
+  "Yes, ma'am."
+  They followed the cable to a series of routers, all turned off.  She turned them on, one by one, and watched the flickering green lights.
+  "Zombie, you stay here and watch these.  I'm going to try to see if any are working.  Just let me know if any of them turn any color other than green."
+  "Yes, ma'am."
+  She went back to the terminal.  Ping to the server worked, and it appeared to have a connection to the outside world.  At least, to something off base.  The terminal couldn't give her much information, but her computer upstairs should work.
+  "We should be in business, boys.  Let's go back up."
+  Shane led the way this time, his MP23 drawn, but the trip up the stairs was uneventful.
+  Christina sat back at her computer and muttered, "As long as nothing has changed, this should work."  She cracked her knuckles and started typing.
+  This time she, after connecting to the landline server, had limited access to a military network.  The Air Force had published several alerts, with instructions for both combatant and non-combatant military.  The nuclear war with the Soviet Republic appeared to be over, with the republic mostly destroyed.  China, angered by the radioactive fallout crossing its borders, had declared war on the United States, but the US hadn't responded.
+  No nukes had reached the United States from either country, but then, and she had to read this part twice to be sure, the aliens, the Hrwang, had begun dropping asteroids from space on Earth.
+  These attacks were as devastating as nuclear missiles, and military and government facilities were being targeted.  All nonessential personnel were to abandon their bases and reform at designated rally points.  A long list of such locations was attached.
+  Combat units were to follow their plans for total war.
+
+  After explaining all of this to her airmen, Christina asked, "What do we do now?"
+  Zombie didn't hesitate.  "We evacuate.  Head to the rally point."
+  "There's not much good we can do sitting in that silo, ma'am," Shane added.
+  "I had wanted to gather up some equipment so we could help track things from the silo, but I don't know how to get the hardwired connection all the way out there.  And if we're going to evacuate anyway..."
+  The two men didn't say anything.  Christina felt the weight of being an officer on her shoulders.  This was her decision.
+  Actually it wasn't, she realized.  It was the Colonel's.  They needed to bring this report back to him.  That lifted the burden off her and she knew what to do.
+  "Alright," she said, "Let's get this back to the Colonel."
+  "Yes, ma'am," the two airmen said simultaneously and stood.
+  They went back up the stairs as cautiously as they had come down them, just in case.  Who knew how aliens would fight?  Who knew what looters might show up?  The building felt less eerie now that they had been in it a while, but it was still strange because it was so empty.
+  There was a smell in the lobby on the main level that hadn't been there before.  Christina looked at the men with her, but they shrugged their shoulders.  She sniffed.  Rotten eggs and salty fish.
+  "Gas leak?" she suggested.
+  "If so, we'd better get out of here without making any sparks," Shane replied.
+  "Good idea."
+  Shane opened one of the front doors carefully, then stopped in the door frame.  Christina walked up behind him and looked past.  There was water receding from the street, leaving seaweed and a few fish behind.  One flopped in death throes at the edge of the sidewalk in front of them.
+  The image couldn't process in Christina's mind.  It simply didn't mean anything to her.  So she ignored it.  They had to get their report to the Colonel.  That was all that mattered.  Some part of her mind also knew she wanted to find her husband, but if her unit evacuated to their rally point, she would probably be farther away from him than she was now.  She didn't like that thought, but knew she would evacuate with them.  She had sworn an oath to defend her country when she had been commissioned, and she would honor that oath.  Her husband would want her to honor it also.  She would just have to find him after they finished this war.
+  Depressed, but resolved, she told her airmen, "Forget the fish.  Let's just get out of here."
+  "Yes, ma'am," Zombie said eagerly from behind her.  He opened another door and moved through it, holding it open for Christina.  Shane still seemed frozen in his doorway.
+  Christina followed Zombie out onto the sidewalk.  The smell was stronger outside the building than it had been inside.  She wished she knew what it meant.  There were dead fish up and down the street and seaweed everywhere.  The sidewalks and streets were still stained with having been recently wet, as if it had been raining.
+  She looked back at Shane, still frozen in the doorway.
+  "Airman!  Move out!" she ordered, using the command voice she had been taught in ROTC summer camp.  She hadn't used it since then, except occasionally to tease her husband.
+  It worked.  The authority in her voice shook Airman Anthony out of his paralysis.
+  "Yes, ma'am."  He stepped out of the doorway, letting the door close gently behind himself.  He followed them as they walked down the street towards the interior gate they had come through, back towards the silos.  The three sidestepped seaweed and dead fish.  The airmen also kept their MP23s at the ready.
+  As they approached the gate, Christina became aware of a sound.  It was a dull, distant roar, almost as if the ocean had become much louder suddenly.  It was a sound she would hear when she and her husband took long walks along the beach.
+  The others heard it also, and when they walked past the last building and into the open area before the gate, they all three looked towards the coast.
+  The monster they saw was more frightening than any monster or alien Christina could have imagined.  Suddenly the seaweed, the fish, and the receding water made sense.
+  Often, before a tsunami, water pushes forward ahead of the wave, then recedes as it is pulled back into the main wave.  Vandenberg Air Force Base sat on the coast, but would have been too far back for any normal tsunami to have pushed water onto it.
+  But the tsunami wave they looked at now was no normal tsunami, should such a thing exist.  She thought of the Air Force communique, that the aliens had been dropping asteroids on the Earth.  Had they dropped one into the ocean?  A huge one?
+  The analytical part of her mind was in overdrive, calculating the devastation along the entire West Coast such a wave would cause.  San Diego, Los Angeles, San Francisco, Portland, Seattle, Vancouver.  All would be destroyed.  If it was this big in Central America, it would probably cover entire countries.
+  She turned her attention back to the monster, knowing there was no hope for her.  The thought flashed through her mind that she should pull out her sidearm and shoot herself before the wave hit.  Make it quick.
+  Zombie went down on one knee and fired his MP23 into the oncoming water.  His magazine emptied, he replaced it, and began firing again.
+  Shane pushed her backwards towards the buildings.  The roar of the approaching wave, the firing of the carbine, the thought of her impending death was too much for Christina.  She crumpled on the ground.
+  "We've got too move, Captain," Shane said, frantic now, trying to pick her up.
+  "It's no use," she cried.
+  The water towered over the buildings around them.  It was taller than the Empire State Building.  Christina closed her eyes as it reached the building next to them, tearing it to shreds.  She heard Zombie still firing and felt Shane dive on top of her.  She appreciated his desperate act to try to protect her.  These were good men, and she was proud to have served with them.
+  She felt herself picked up and turned over, completely unable to control her body or her movements.  She couldn't feel Shane anymore; he had been torn away from her.  She didn't want to drown.  She didn't know how long that took, but it seemed a terrible way to die.
+  She struck something.  Her body felt pinned against concrete, her limbs twisting in unnatural ways, but she felt no pain.  Her mind felt dark and she knew she was losing consciousness.  At least it would be quick, she felt with a touch of gratitude.
+  I love you, John, she said in her mind, willing the message to reach her husband.
+
+
+4
+
+
+
+
+
+  Shortly after her connections to every network went down, the power went out in Jayla's father's cabin.
+  "We gotta get back to civilization," she muttered to herself.  "Where is that girl?"
+  Jayla went out to the deck and yelled for her little sister for a while.  No response.
+  She looked up at the sky, peeked through the door at an old German cuckoo clock on the wall, and thought the sun would be setting soon.  Jada would have to return by dark.  Jayla didn't think the sixteen year old had taken a flashlight with her.
+  She just wished she would hurry up.
+
+  Jayla fixed herself a small meal, bored without her sister and without a connection to the outside world.  Even though the power was out, they had a propane tank, and the stove still worked.
+  She thought about cooking enough for her sister as well, but if the girl wanted to wander around the woods all day by herself, she could cook for herself also.
+  Jayla brought her dinner out onto the deck, watching for her sister, and watching the sun set in the sky.  The horizon turned a deep purple, the sky dimming to a navy blue, and Jayla grew more worried.
+  Eating mindlessly, she decided she would have to search for her sister.  The thought of wandering around the woods at dusk did not excite her.  There weren't many bears anymore, but the wilderness continued for hundreds of miles around them.  Who knew what wandered around it?
+  There were a few cabins like theirs.  Perhaps Jada was sitting in one, jawing with the residents, completely oblivious of time.  Jayla was going to kill her.
+  She went back inside, put her plate in the sink, and dug through drawers until she found a flashlight.  She also found extra batteries and put them on the counter along with matches and a small lantern she pulled out of a closet.
+  It was still early summer, so she put on a sweatshirt, wool socks, and boots.  Armed with the flashlight, extra batteries, and her phone, which had no signal, Jayla went out into the night in search of her sister.
+
+  At four in the morning she returned to the cabin, desperate, cold, hungry, afraid, and exhausted.  She fell on the couch and cried herself to sleep.
+
+  Eva Gilliam found the end of the world quite boring.
+  A week alone in a safe house was enough to drive anyone crazy.  She did what she could to stay busy.  She worked out mostly, running on a treadmill, lifting weights, practicing yoga, and using the punching bag.  She read books in the evening.
+  The apartment had a living room that looked normal from the entryway.  A couch and a love seat, a fake, electric fireplace, and a painting of a ship at sea on the wall.  A well appointed kitchen with a dining alcove was on one side, and a door leading to a hallway was opposite the entrance.  Everything looked like a standard apartment.
+  Behind the hallway door, the normalcy ended.
+  There were three large rooms, besides the bathroom, off the hallway.  The first had bunks enough for six people nailed to the walls, and dressers filled with clothing for both men and women.  The second was the well equipped gym where Eva tried to keep herself occupied.  The third held stockpiles of food, water, weapons, books, paper goods, and underwear.  Fortunately there was women's underwear, as well as men's, and feminine products.  The Agency was thoughtful.
+  The windows were bricked over.  Curtains probably still hung on them on the other side of the brick, giving them the illusion of a normal apartment, but there was no way for Eva to see or contact the outside.  Even her phone had lost signal as soon as she arrived.
+  She couldn't leave.  The code on her phone had worked once to let her in.  However, the lock cycled on a regular basis, and if she left, she wouldn't be able to get back in.  Only the correct code or a significant quantity of explosives would open the door from the outside.
+  She hoped for another agent to show up so they could take turns leaving the apartment and gathering information, but no one did.
+  Without sunlight, the designers of the safe house knew there was the possibility of going crazy.  A tanning bed had been provided and it sat in a corner of the gym.  She used it liberally the first day.
+  But it didn't work without electricity.
+  The second day into her residency at the safe house, the power and water both stopped working.
+  Eva flipped switches on and off in frustration, then finally felt her way into the storage room.  In the dark, she sorted through containers until she found batteries and a battery operated lantern.
+  With a little light, she could look around more, and found kerosene and several kerosene lamps.  She lit one, but worried that without power there'd be no air handling and she'd suffocate.  She reluctantly put the lamp out.
+  Days came and went in the dark, and Eva's frustration came and went with them.  She worked out, ate, and read by the light from the battery lantern.  She used bottled water to bathe, then took the bath water and used it to flush the toilet.  She didn't know how long she could live this way, but she wanted to be a good agent, a professional.
+  At least there were vitamin D tablets in the food storage to make up for the lack of sunlight or a tanning bed.
+  On the second day of darkness, Eva looked at her eerie reflection in the bathroom mirror, lit strangely by the tiny lantern, and she asked herself who she was.
+  "Eva Gilliam," she replied weakly.
+  "What's that?  I can't hear you," she bellowed like an instructor.
+  "Eva Gilliam," she screamed back at her reflection.
+  "Still can't hear you!"
+  "Eva Gilliam!"
+  It felt surprisingly good to shout.  It relieved the oppressive quietness.
+  She went through the routine again on the third day, then added, "What are you doing here?"
+  She didn't know the answer to that question.  Obeying orders?  Obeying lack of orders?
+  "Saving the world!" she shouted at the mirror.  Where had that come from?
+  Just like every reporter wanted to be like Woodward and Bernstein, every scientist wanted to be like Einstein, or Pascal, or Curie, every agent had a tiny, unspoken desire to be like Bond.  James Bond.  To not just do her duty, but to make a difference somewhere.  Not just fulfill an obligation, but to make a difference, to save thousands of lives like Marie Curie or to break an enemy code and win a war, like Joan Clarke.
+  Every day she yelled at the mirror.
+  "Who are you?"
+  "Eva Gilliam!"
+  "What are you doing?"
+  "Saving the world!"
+  The yelling helped.
+  Not knowing how long the power outage would last or how long it would be until she received new orders, she patiently soldiered on.
+
+  Major Vincent Jai-Singh throttled back his F-35, radioing in the massive heat signature that showed up on his display and waiting for confirmation.
+  His wingman confirmed.
+  Combat Control acknowledged and gave him permission to engage an intercept course.  An AWACS was also on its way.
+  Vincent ordered military power, and the two craft bucked in response, streaking to engage what had to be a certain enemy, a craft blazing into the atmosphere.
+  There was a remote possibility this was another meteor, like the ones that had been plummeting to Earth, laying waste to bases and cities.  But it came in at a different trajectory, and something told Vincent it looked more like a spacecraft on reentry than it did a meteor heading straight down for a target.
+  He hoped it was a spacecraft.  He could fight a spacecraft.  He and the other combat pilots of the United States Air Force, along with Navy, Marine, and Army counterparts, had been completely helpless against the meteors.
+  Bases were destroyed.  Cities burned.  The oceans heaved themselves beyond their bounds and millions died.
+  And Vincent, flying the most advanced fighter jet in the world, had been helpless.
+  Now he had tone.
+  He requested permission to fire and Combat Control told him to do what he wanted.  He was at extreme range for his missile, and his target, if it was a spacecraft on reentry, would still be protected by a fireball.  But he could try if he wanted to.
+  Vincent armed the missile, confirmed lock, and called, "Fox Three."
+  The missile separated from his plane, and streaked off, leaving a thin contrail heading up into the clouds.  He watched it for as long as he could, aware that his wingman would be tracking his scope for other bogeys.
+  He wondered about the craft.  How powerful were these aliens, anyway?  They could redirect asteroids towards the Earth, hitting targets with precision, and when they decided to attack a highly mobile, well defended target, they only sent one craft to do it.
+  Vincent knew who he protected.  He didn't know for sure; he wasn't deemed to have a high enough security clearance, but everyone in the fighter wing knew they had orders to protect a group of aircraft at all costs.  Only one such aircraft could be flying such erratic patterns over the heart of Alaska, and that was Air Force One.
+  Accompanied by refueling tankers, combat drones, and its own squadron of F-35s, no other asset could be that important.
+  He prayed his missile would find its target, making him a hero.  He wasn't sure who he prayed to, though.  An Indian muslim with a Sikh sounding last name who grew up in New York, Vincent had confused thoughts about religion and God.  Prayer couldn't hurt, though.
+  So he prayed.
+  "That's a negative, Major," he heard on his radio.
+  "Acknowledged."
+  The missile no longer read on his scope, meaning it had detonated, yet the fireball still approached them, screaming towards them at many times the speed of sound.
+  "Cap Three, this is Eagle."
+  Eagle was an AWACS, or Airborne Warning and Control System aircraft.  It could control entire aerial battles from a safe distance.
+  "Roger, Eagle, this is Cap Three."  Vincent and his wingman, Lieutenant Travers, were the third combat air patrol pair circling hundreds of miles from what was presumably the President's squadron.
+  "Cap Three, the brainiacs on board have calculated that you are in perfect position for this bogey.  Loiter at your current location and altitude and wait for it to get below 50.  Then cut loose.  Copy that?"
+  "Copy, Eagle."
+  "Don't hold back, Cap Three.  Unload and get out of there.  Help is on the way."
+  "Roger, that."
+  They signed off and Vincent eased back on the throttle, cutting the afterburner off.  He and Travers began a ten mile diameter circle, waiting for the alien bogey to get into range.
+  "How you doing Lieutenant?" he asked on their private channel.
+  "Ready to kick some ET you know what," the farm boy replied.  Vincent chuckled.
+  "Copy that."
+  Vincent thought about the twists and turns and fates of life.  He had come from a wealthy family.  His grandparents immigrated from India and seemed to know how to make money without even trying.  Vincent had the best education, worked hard, had private tutors, and had barely made the cut to be nominated to the Academy.  Once there, he excelled in everything, excelled in pilot training, and still barely made the cut to fly the nation's top fighter aircraft.
+  Lieutenant Travers, a farm boy from Iowa, practically fell off a tractor into the cockpit of the F-35.  ROTC, a rare pilot slot due to a disqualifying condition of another candidate, middle of the class in pilot training, and yet here he was, flying wingman to Vincent.  Strange world.
+  "What altitude do you have on ET, Lieutenant?"
+  "Passing through 65,000 and falling like a ton of bricks."
+  "Copy that.  Same here."  Vincent thought for a second.  At the rate of closing they wouldn't have long.  Then he remembered an old Israeli trick.  "Follow me," he ordered his wingman.
+  Vincent swung out of their lazy circle, going past where he thought the bogey would cross the 50,000 foot altitude mark, then making a tight curve to come at them sideways.  No aircraft could fire sideways, and they would have a longer window to take a shot.  A rear shot was always best, but if this craft was coming in as fast as a shuttle, no fighter could ever hope to keep up with it.
+  Lieutenant Travers chuckled on their private channel.
+  "They do teach you senior officers a thing or two, don't they, sir?"
+  He'd figured out what they were doing.
+  "Watch and learn, farm boy," Vincent replied.
+  The alien craft appeared, falling at speeds faster than any missile could go, the fireball around it dissipating as it slowed in the heavier atmosphere.
+  "Fire a spread.  We'll never get lock," he ordered, and began firing missiles into the expected path of the enemy craft.  He fired his gatling gun also, hoping that perhaps even one shell might hit the enemy out of dumb luck.  He couldn't fire for long, but at those speeds, the force of even one shell would tear the enemy craft apart.
+  He saw his wingman do the same.
+  He didn't breathe as he waited.  It was only seconds, their aircraft closing at over 500 miles per hour, missiles streaking towards a spot in front of the enemy at over 1,500 miles per hour, the alien craft still descending at more than 5,000 miles per hour.  Something was going to hit something, or else they were all just going to fly past each other.
+  He fired his gatling gun in bursts, conserving ammunition and hoping to get the best spread of shells for the spacecraft to fly into.
+  Just as he thought the enemy had closed to the point that he would know if they had missed or hit, the descending spacecraft disappeared.
+  "What the...?" he heard over the radio.
+  "Eagle, this is Cap Three.  Bogey has vanished.  Repeat, bogey has vanished."
+  "Negative, Cap Three.  We read it right on top of you."
+  "We don't see it, Eagle.  I'm out of ammo."
+  "Get out of there Cap Three.  It's right on top of you."
+  "Military power," Vincent ordered, shoving his throttle all the way forward and flipping the switch that dumped raw fuel into the exhaust, causing the afterburner effect that made jets fly much faster than they should be able.  Maintenance crews hated afterburner as it robbed engines of flight hours, requiring them to be replaced at more frequent intervals.  Pilots loved it.  The pure power.  The knowledge that speed was life, and with afterburner they could get out of any kind of trouble.
+  He never saw Lieutenant Travers' plane break up, but his hair stood on end suddenly, the air coming into his mask smelled like ozone, and small balls of electricity climbed down the metal framework of his cockpit, some breaking free, floating for a moment, then going to ground, others shorting out equipment, causing more sparks to fly.
+  His flight panel caught fire and training took over.  He straightened in his seat, leaned his head back, and reached down and grabbed the yellow rip cords.  He took a breath and pulled.
+  The igniter for the explosives that were supposed to blow his canopy away shorted, damaged by the electrical balls that filled Major Vincent Jai-Singh's cockpit, and Vincent was thrust into the reinforced glass by the ejection rocket attached to the base of his seat.  He died instantly.  His plane died with him.
+
+  The President of the United States, his wife, his Chief of Staff, and his top general, the Chairman of the Joint Chiefs of Staff, watched the battle display incredulously.  The Hrwang craft darted around his fleet of aircraft, destroying them like a kid swatting flies.
+  "They're so advanced," his wife whispered.
+  "It's like throwing spears at a tank," the General said.
+  "Shut it off.  I want my children with me," the President ordered.  The General moved forward in the plane, to another display watched by others.  The children's nanny brought his children to him and his wife, and they pulled their little ones up onto their laps.
+  "I'm sorry, Aiden," he said to his Chief of Staff.  The man had tears in his eyes, and he shook his head, moving to pull the nanny away and leave the President alone with his family.  The nanny collapsed on the floor, sobbing.
+  "It's okay.  She loves the kids, too."
+  The nanny stood and joined the President and his family in a group hug.  They smelled ozone and felt the plane drop altitude, their stomachs feeling disengaged from the rest of their bodies.
+  "I'm so sorry, Maddie," the President whispered to his wife.  "I only brought you aboard to keep you safe.  I wanted you safe."  He started crying.
+  Someone screamed as the plane lurched again, dropping faster than the converted 787 could descend.
+  "It's okay, it's okay, it's okay," his wife repeated, holding him and kissing him and their children.
+  They never felt the impact.
+
+  Air Force One crashed south of the Alaskan Brooks Range, more than a hundred miles away from the Yukon river.  There were no survivors.  The plane fell in a part of Central Alaska so remote that nothing but caribou and elk would see the wreckage for decades.
+
+
+5
+
+
+
+
+
+  Wolfgang Riebe knelt next to the cot his wife lay on.  He had just finished pouring the water he had boiled with a tiny dash of salt, then allowed to cool to room temperature, into her IV bag.  The doctor told him there were no more supplies, and that was the only way he could keep her hydrated.
+  Leah, the Swiss hiker who hadn't left Wolfgang's side since they returned from the dragon rock, sat on his wife's other side, dabbing her forehead with a wet washcloth.  She had been amazing, helping Wolfgang take care of his wife and daughter when only minimal medical help was available.  Once Wolfgang's family had been categorized as fatal cases of radiation poisoning, the limited medical resources were redirected away from them to individuals who might survive.
+  Wolfgang's daughter died the day after.
+  His wife hung on, her pain abated by morphine, but that would run out soon and Wolfgang didn't know if he wanted his wife to die to spare her the suffering, or to hang on, and by some miracle, survive.
+  He prayed like he had never prayed before.
+  When he first found his family in a makeshift hospital, he laid his hands on their heads and administered a priesthood blessing, as he had been taught to do, trusting God's will.  But when his daughter died, when he saw all the death around him, he couldn't begin to understand what God's will was.
+  The American soldiers in his hiking group stopped by to check on him once.  They told him of reports about the nuclear war with Russia and the one sided war with the aliens.  Nuclear missiles, anti-satellite missiles, even bombs loaded on conventional rockets, had all been sent towards the alien spacecraft, and none of it had done a thing.  The aliens then began dropping meteors all over the Earth.  There was nothing the military could do but disperse.  Any concentration of man or material was struck by meteors.  They had no defense.
+  As they spoke, Wolfgang sensed the tragedy.  The Earth had fought its first interstellar war, and it had lost.
+  Had this been God's will?
+  Wolfgang took care of his wife because he didn't know what else to do.
+
+  Stanley Russell fled the command cockpit yet again, it was becoming a habit, leaving Commander Samovitch and Lieutenant Commander Purcella behind to stew.  There had been no contact with Earth for over a week, and the two were panicking.  
+  He had to admit, he had also grown concerned when ping stopped working.  Ping always worked as long as an operating system ran on a server somewhere.  Now it wasn't.
+  Purcella could communicate with the three unmanned resupply vehicles on their way to Mars, they had automated responses that reported status and position, but he couldn't contact anyone on Earth or the Moon, even using the resupply vehicles as relays.
+  And now Irina wanted to do the one thing Stanley didn't want to do.
+  That woman irritated him.  He wished he could fire her, but there would be none of that.  She had been appointed second-in-command by the United Nations Space Agency, or UNSA, just as he had been appointed commander.
+  He had been UNSA's second choice, a little known fact that Stanley worried would come to light.  The first choice, Lieutenant Commander Spencer Grant, had been the model astronaut and military officer, and he would have known instinctively what to do in the situation Stanley found himself in now.  The man would have been promoted years early to Captain, skipping a rank, and would have served the Beagle well.
+  Only he had been caught with the young, trophy wife of one of the members of the UNSA selection committee.  Grant had retired quietly afterwards.
+  Which left them with Stanley.  He had achieved his position as second in consideration based on his academic record and several key friends at the Space Agency, but the selection committee still debated for a week, even evaluating other candidates and going as far as bringing several in for interviews.  The delay, and obvious lack of trust on the part of the committee, angered Stanley, but he had kept his mouth shut.  It was always wise to agree with the committee, acknowledging their need to ensure the right commander for the mission.
+  And it had worked.
+  He was selected by a vote of five to four, had been 'requested' to take Irina Samovitch, a naval officer, as his second-in-command, and two years later he kissed his wife goodbye, roared up into space on a shuttle, and took over his spacecraft.
+  Six months to Mars, six months on station, and then an eight month return voyage because Mars would be farther away from Earth on the return leg than it had been when they were outbound.
+  It was a long time to put up with Irina and her lack of confidence, which mirrored that of some of the committee members.
+  In his frustration, Stanley found himself angling down a side passageway, the one that led to atmospheric chemistry.  It was the only lab down that passageway, the rest of the area used for storage, and since only one crew member worked in that lab, it was an often empty passageway.
+  He had told himself he wouldn't visit her any more like this.  But when Irina was too much, he needed a break.
+  He knocked on the door to the lab and Sherry, the Beagle's lone chemist, looked up at him, turning away from the laptop on her workbench.  He smiled at her.
+  The chemist was an odd duck, by most standards.  On Earth, she normally worked from home, analyzing data on computers much more powerful than any company would provide her, and she was used to working in her pajamas.  She told the crew once she had even shown up for work in pajamas, not even thinking about changing, showering, or doing her hair.  Her work was more important than such aesthetics.
+  She was in her late forties, kept her hair short so she wouldn't have to take care of it, and had never been married.  Stanley didn't find her ugly, but she wasn't attractive and she didn't do anything to make herself attractive.
+  "Hi," he said simply.
+  She sat and watched him.  She didn't say anything.
+  "Busy?"
+  She shook her head.  "I'm always busy."
+  "I could come back another time," Stanley said softly.
+  "Okay."  Sherry returned to focusing on her screen, one leg tucked up on her chair, her arms hugging it, her face resting on her knee as she stared at something.
+  Stanley watched her.  He should just leave.  It would be better for everyone if he did.
+  "Samovitch wants to abandon Mars.  She wants to bring up the crews of Opportunity and Spirit and return to Earth."
+  Sherry just kept hugging her leg and staring at her screen.  She rocked a little in her chair.
+  Stanley moved into the lab.  "All these years!  All the time we've spent preparing for this mission.  We're supposed to be the ones who learn everything there is to learn so we can establish a permanent colony on Mars.  That's what we're supposed to be doing!"  He slammed his hand against a wall and Sherry jerked, looking up at him like she wondered why he was still in her lab.
+  "If we leave now, if we abandon this mission because of a minor communication bug, do you know what I'll look like?" he said, jabbing a finger towards the woman.  "I'll look like an idiot, is what I'll look like.  Everyone will say it should have been a military commander on this mission, not some weak civilian.  But it's the military ones who want to leave.  Commander Samovitch and that idiot Major Crayton from Opportunity are just panicking.  They'd wet themselves to get back to Earth right now."
+  Sherry turned back to her screen without saying anything.
+  "If Opportunity and Spirit are abandoned, do you know how many years it will take to restore a human presence on Mars?  It took us fifty years too long to get here in the first place.  Do you think we'll ever go back?" he harangued.  "It's stupid."
+  Stanley paused for a breath, then continued, "Besides, don't military types get shot for deserting their posts?"
+  He waited this time for Sherry to say something.  They stared at each other, Sherry looking uncomfortable, but she finally answered, "The silence from Earth could be because of the Hrwang."
+  "The Hrwang."  Stanley threw up his arms.  "Everybody is terrified of them.  You know what we should be doing, don't you?  We should be finding out how the Hrwang got here.  Do you know what it would take to cross interstellar space?  We've spent decades just to get eight people set up in two bases on Mars.  There's only ten of us on board this ship.  Eighteen people at Mars, about forty on the Moon, and the Hrwang have crossed interstellar space!  We should be worshipping them, learning everything we possibly can from them.  Who knows?  Maybe there's no contact with Houston because they've found a better way to communicate, and a spaceship with new gear will be popping out here soon, and everyone will finally realize that just because aliens show up, they're not the bogeyman."
+  "Wouldn't they have told us that's what they were doing?'
+  "What?  Are you're afraid of them, too?"
+  Sherry shrugged and looked back at her screen.
+  "You're an idiot," Stanley said.  "You're just as bad as them."
+  She didn't look away from the screen.
+  "This is stupid," Stanley complained and shut the door behind himself.
+
+  Drone 1804 was refueled and outfitted with a new weapon, a hollow tube that fired round, ball bearing like shot.  The parameters of its mission were downloaded into it, and it left the Hrwang ship eagerly, ready for a new challenge.
+  The hostiles on the planet had only one moon, like Hrwang, but only one tiny outpost on it, a single domed structure.
+  1804 jumped close to the moon, then floated, inspecting the structure from a distance.
+  A geodesic dome within another geodesic dome, the lunar base was surrounded by boxy structures attached at ground level.  The Hrwang had little data on the base, and part of 1804's mission was to learn as much about it as possible.  It moved closer.
+  It circled the base twice, probing for weaknesses, wondering if the base had defensive weaponry, but encountering none.  It could see movement within the inner dome and estimated the base housed no more than forty personnel.
+  The boxy structures seemed to be air handlers.  1804 determined that there was a 60 per cent chance six of them were carbon dioxide converters, designed to convert carbon dioxide and water to an aldohexose and oxygen.  It was an expensive process, and only in locations where oxygen was more valuable than life, and abundant solar power was available, was it even feasible.  1804 would be careful not to damage those units.
+  Solar panels surrounded the dome, and the likelihood of successfully cutting off power to the base was slim.  It inspected the air handlers again, and determined that a shielded conduit that led to the main dome could be breached.  It was designed to withstand random meteorites, but 1804 felt sure it could not withstand a repeated attack.
+  It jumped away from the moon, and lined up over one of the handlers.  It jumped in close and fired its weapon, imparting the jump momentum to three ball bearings in sequence.
+  It watched as the first struck the conduit housing, shattering it, the second punching through, and the third destroying the connection between the handler and the dome.  Air and water outgassed for a while, but then stopped.  There were safety valves that prevented more damage in case of the loss of a handler.
+  1804 figuratively shook its head.  This would not be quick enough.
+  It flew lower, no higher than the height of the dome, noting that it consumed a significant quantity of fuel in doing so.  It would have to find a weakness soon.
+  It could see movement within the dome, individuals pointing at it, and it took a fraction of a second to ponder the lives of those individuals.  It wondered why they had attacked the Hrwang.  It was foolish to attack a superior race.  They should have been subservient at first contact.
+  It must be an indication of their warlike nature, and 1804 moved back away from the dome out of an abundance of caution.
+  The bullets firing out of the opening airlock just missed it.  1804 jumped away from the moon, lined up over the airlock, and then jumped back, firing five ball bearings this time.
+  The first struck a figure emerging from the lock with a firearm of some sort.  Two more struck the door, shattering it, and the last two bounced around the inside of the airlock, killing everyone inside.
+  That gave 1804 an idea.  It jumped away again, then jumped back at a flatter trajectory, releasing three ball bearings into the airlock.  The inner door shattered and there was a huge release of atmosphere from inside the dome, enough that 1804 felt it.  It jumped away to observe what happened next.
+  It detected radio signals from the base, could hear them, but didn't understand them.  Known translations of the hostile languages had not been downloaded.
+  "Mayday, mayday.  We surrender.  Mayday, mayday, this is Armstrong Base.  We are under attack.  We surrender.  Mayday, mayday."
+  It dutifully forwarded the text from the message to its Hrwang handlers.  The message repeated several times, but 1804 only sent one instance.
+  There was another airlock a quarter of the way around the dome, and 1804 attacked it, blowing up the outer door and then the inner door.  More atmosphere outgassed.  It moved to the third and did the same.
+  The inhabitants surprised it on the fourth airlock, and when the outer door blew open, explosively driven projectiles hurtled towards 1804, several striking it.  It jumped to a safe distance.
+  A quick damage assessment indicated it was mostly superficial, with one of its six legs missing and several dents.  The ball bearing weapon would still work.  It returned and destroyed the remaining airlock inner door.
+  There must have been further inner airlocks as there still appeared to be atmosphere inside the dome.  1804 floated in place to observe and ponder what to do next.
+  Part of the mission parameters were to leave the dome as intact as possible.  The Hrwang could use the base as a safe haven from hostiles still alive on the planet.  Moons were typically rich in mineral resources, and an automated factory could be established there without interference.
+  It could fire its ball bearing weapon at the transparent material the dome was made from, but it doubted it could penetrate it without shattering large sections.
+  1804 jumped back to just above the dome, then used its tiny control jets to land on the surface.  It pondered what to do next, coming up with and discarding ideas.  It wished it had a drill.  With a drill it could bore a small hole through both layers of the dome and when the Hrwang arrived they could patch it easily.
+  It knew it couldn't use the ball bearings against the dome.  It would have to fire them at a great enough velocity that most of the dome would shatter.
+  It tapped on the dome with one leg, assessing its evaluation.  After a few taps it decided that it was correct; the dome was thick enough to survive meteor strikes.  The local hostiles would have had to plan for that on the atmosphereless moon.
+  1804 wondered why they hadn't built below ground, then almost laughed at itself.  A dome would have to be first so the workers would have someplace to live while they worked.  The locals didn't have advanced drone technology like the Hrwang.
+  So it had to find another way.
+  Looking inside the dome, 1804 could see the remaining residents running around, putting on space suits.  Perhaps they were planning another attack.  It had to make up its mind.
+  Then it had an idea.
+  It had destroyed all four airlocks, but there had been some form of redundant system.  There were probably a lot of redundant systems.
+  But what if it destroyed the wall past the airlock.  It could start at a sufficient distance, jump from there so that it carried enough momentum to launch ball bearings through an open airlock to destroy the wall behind it.  It determined the most likely composition of such a wall and decided it would have to expend all of its remaining ball bearings in the attack.  Its momentum would carry it into the airlock before it could fire all of its ammunition, meaning if there were blowback from the explosion, it could be hit before it could jump free.
+  It calculated that its odds for survival were good.  It would precalculate jump coordinates, thus would only be inside the dome for the merest fraction of time, yet it knew that its odds of survival were not one hundred per cent.  It thought about that for a few moments, not knowing if it wanted to take a risk.
+  It modeled a few other possibilities and eventually decided this was its only option.  It signaled the Hrwang with its intentions.
+
+  "Ever fight a robot before?" Shinji asked, testing out the comm system in his helmet.
+  "No," Anika replied, her voice quavering.  She was terrified.
+  Shinji felt terrified also, but he acted strong.  He'd heard of Bushido, and now that it was his turn to try to stop the alien monster, he would fight with honor.  Besides, someone had to kill that thing or everyone in Armstrong Base would die.
+  He thought about those that had already died.  Neil, Konstantin, Sally, Werner, Chiaki.  Chiaki.  A tear almost came to his eyes when he thought of her loss.  He and Anika needed to succeed.
+  "Ready?" he asked.
+  "I guess," she replied, then added something in Swedish.
+  "What's that mean?"
+  "It's a prayer."
+  Shinji nodded.
+  He never learned if his idea to fight the alien would have worked.  The wall next to them erupted, metal fragments bursting into the main hall of the dome, shrapnel shredding everything in its path, including Shinji, Anika, and many critical systems.  Atmosphere vented through the gaping hole and out the destroyed airlock, and the survivors were helpless to stop it.  As soon as the air in their tanks ran out, Armstrong Base would officially be dead.  Some of its occupants didn't wait that long.
+
+
+6
+
+
+
+
+
+  Jayla found no one.  Everyone in the neighborhood of her father's cabin, cabins which were built miles apart from each other, had left, probably returning to civilization when the power went out in the remote locations.
+  She wanted to do the same, but had found no sign of her sister in three days of searching.  She didn't know what to do.
+  She followed a map she had found, more of a sales brochure than a map, visiting each cabin, knocking on the door, the windows, the attached sheds when there were any, and even, in desperation, had broken into a few.  Everyone was gone and there was no sign of Jada.
+  She traced her sister's likely path down to the lake several times, examining every step of the way, every bush, every tree, hoping to find a clue, but it was as if her sister had simply vanished.
+  She wondered if it were the Rapture.
+  She didn't believe in that nonsense.  She knew lots of Christians who didn't believe in it either, but aliens had shown up and now lots of people, including the aliens, had just vanished.  Maybe it was real.
+  But, irrational or not, she didn't believe that her sister had been taken to heaven.  She believed her sister was out there, in the woods somewhere, and needed her help.  She just didn't know where to look anymore.
+  On the third day after her sister's disappearance, Jayla sat on the shore of the lake Jada had probably hiked to and stared at the water.  The skies were cloudy and the air unusually cold for a summer day, even an early summer day.  Jayla had worn a sweat jacket, and she pulled it around herself, zipping it up.
+  In doing so, she almost missed something.  She stared back at it again, and wondered if she had just imagined it, as it was gone.  She stared at the same spot of sky until she saw spots, and there was no evidence of what she had seen.  But she had seen something.
+  Unless it was just wishful thinking.
+  She stood up and started running along the lake, heading towards the other side of it, towards what she had seen.  Had Jada hiked around the lake?  Was she on the other side of it, and was the puff of smoke Jayla saw from a fire lit by her sister?
+  When a fireplace burned hot, it was impossible to see smoke from it.  But often, when a fire first started, little puffs of white or gray smoke would come out, and Jayla had thought she had seen just such a puff of smoke.
+  She didn't know any cabins were on that side of the lake, they hadn't been marked on her map, but it made sense that people put them up wherever they were allowed.  Maybe Jada had broken a leg or something and was holed up in one of them, starting a fire to keep warm or perhaps cook some food on.  Could Jayla allow herself that hope?
+  She ran faster.
+  The lake was large, and it took her a couple of hours to get around to the other side.  She couldn't run the whole way, walking briskly when she was out of breath, and she wondered if Jada had really gone this way on her own.  Perhaps there was a path not far away from where Jayla ran, but she didn't want to risk looking for it.  She had to get to where she had seen a puff of smoke as soon as possible.
+  She arrived at a cabin late afternoon and it looked deserted.  She didn't see a car, but there was a barn shaped garage near the cabin.  There was trash around the cabin, which was unusual.  Most people rich enough to own high quality cabins this remote were fastidious.
+  Jayla knocked on the door and yelled her sister's name.  There was no answer.  She tried the door knob, but it was locked.  She tried to peek through the window next to the door, but the cabin inside was dark and she couldn't see anything.  She yelled Jada's name again.
+  She moved around the side of the cabin and tried to look through the windows.  She didn't see anything.  She had just decided to break into the cabin when she heard a gruff, "What are you doing?"
+  She spun around to see a grizzled man in a tank top and dungarees holding the cabin door open.  She ran back to him.
+  "I've lost my sister.  Have you seen her?"
+  "What's she look like?"
+  "Me, only younger."
+  He shook his head.  "I haven't seen no one."
+  "Could you help me look for her?  Please?  She's been lost for days."
+  "I don't know," the man mumbled.
+  "Her name is Jada.  I'm Jayla."  She held her hand out to shake the man's hand, anything to make a connection to him, to get his help.
+  The man reached out and took her hand limply.  "Pleased ta meet ya."
+  "Will you help me?"
+  "I s'pose."
+  "Thank you."
+  "You wait here.  I'll be right out," the man said, heading back into his cabin.  Jayla tried to peek through the open door as he made it wider, but it was dark inside and he closed it quickly.
+  Jayla felt a sense of relief.  She didn't have to do this alone.  That, in and of itself, made her feel better.
+  She wandered off the porch of the cabin and looked around.  She was surprised the area around the cabin was so littered, and wondered why the man wasn't taking better care of it.  She also wondered where his car was.  Probably in the barn shaped garage.
+  Curious about her new benefactor, she wandered around, moving closer to the garage.  He still hadn't come out of the cabin, so she peeked through a window in the side door.  It was dark.
+  She looked back up at the cabin, but there was no movement, so she opened the garage side door a little and looked in.
+  There was an old car inside, along with some barn implements.  It looked more like a barn on the inside than a garage, albeit a small one, and this stoked Jayla's curiosity.
+  She looked back at the cabin again.  What was keeping him?
+  She turned back to the garage, her eyes adjusting to the dim light.  There was something strange sticking out of the open window of the car.  She suddenly had to know what it was, and she entered the door and moved quickly to the car.  It was a thick stick, just like her father's hiking staff, and Jayla almost turned to leave the garage.  But she reached out instead and grabbed the stick, and even in the dim light, she knew it was her father's.
+  The side door to the garage opened and the man stepped inside, holding a shotgun.  Afterwards, Jayla asked herself why she hadn't thought the man would shoot her immediately, but at the moment she had no such thoughts.  She simply lunged forward, jabbing the staff forward and hitting the man on the side of the head.
+  He stumbled back, dropping his shotgun, and Jayla hit him again.  He fell to the ground and she hit once more.  He stopped moving.  She stepped over him and fled the garage, getting outside the door and realizing how stupid she was.
+  She went back inside, looked at him to make sure he wasn't moving, stepped back over him and retrieved the shotgun.  She ran back outside, breathing heavily, coated in sweat, her hands trembling.
+
+  The cabin door was locked, but she hit it several times with the butt of the shotgun and the door opened.  She called her sister's name, then turned the shotgun to face forward.  What if the old man wasn't alone?
+  She called out again, then flipped a switch.  No light.  Idiot.  He doesn't have electricity either, she chided herself.
+  She kept the shotgun ready, holding the hiking staff awkwardly, and searched the cabin, calling Jada's name.  Her sister wasn't in the main room or the kitchen area.  Jayla opened other doors cautiously, just opening the handle then kicking the door with both hands on the shotgun.  The bedroom and a bathroom were empty.
+  She went back out into the main area and looked around.  There was a broom closet.  She opened the door cautiously and almost passed out from relief.  Jada lay in it, her eyes wide, her mouth duct taped shut, zip ties around her hands and feet.  Her hands were also attached to a pole with zip ties.
+  Jayla dropped the shotgun and staff and fell on her sister, hugging and kissing her.  She heard muffled moans, and she pulled back, tearing off the duct tape.
+  "Baby, are you okay?  Are you okay?"
+  Jada's eyes were still wide and she screamed a little.
+  Jayla swung around, reaching for the shotgun, but there was no one behind her.  She stood and went into the kitchen, searching through drawers until she found a large, serrated knife.  She ran back, the shotgun still in one hand, and sawed at the zip ties around her sister's feet.
+  Her sister's boots were gone, her hiking shorts gone, her shirt and underwear filthy and torn.  It was no secret to Jayla what had happened.
+  She cut the ties on her hands next and hugged her sister.  Jada didn't respond.
+  "We've got to get you out of here," Jayla said and tried to pick Jada up.  Jada wouldn't walk.
+  What could she do?  She couldn't carry Jada and the shotgun and the staff.  And she couldn't leave the shotgun here for the man to get it back.
+  Why had he done this?  To a sixteen year old?
+  Frustration and fear turned to anger and hate, and then Jayla noticed the box of zip ties in the closet.  She could make sure he didn't follow them.
+  Grabbing the box, her staff, and the shotgun, she told Jada she would be right back, and she left the cabin and headed back to the garage.
+  The man still lay on the ground and Jayla poked him with the shotgun.  He didn't react.  She poked him harder.  He still didn't move.
+  She set the shotgun down outside the building and took the staff.  She had to make sure he didn't try to grab her while she was putting the zip ties on his hands and feet.
+  She raised the staff in the air and brought it down on his head.  To make sure, she hit him a second time.
+  "How could you do that to that baby?" she screamed at him and hit him again.  And again.  And again.  She couldn't stop, but then she did, sitting on the ground next to him and weeping.
+  She grabbed his hands, his filthy hands, and pulled them around behind his back, putting the tie on it and zipping it tight.  When it was as tight as it would go, she pulled again.
+  She did the same to his feet, trussing him up the same way he had tied up her sister.
+  She also didn't want him calling for help, in case he had an accomplice or a neighbor who hadn't left yet.  She saw an oily rag on a workbench and she went to it, stepping warily over him.  Even tied up, he felt dangerous.
+  She pulled his mouth open, it was hard to do, and stuffed the rag into it, attaching two zip ties together and putting them around his head and over the rag.  She pulled one tight and it cut into his lips, dark blood spilling a little out of the side of his mouth.
+  It repulsed her to be so close to this piece of excrement.  She wanted him punished.  She hit him again with her staff.
+
+  Running back to the cabin, afraid the old man would somehow get himself free, or an accomplice would arrive, Jayla slammed the door open and told her sister she had to get over herself and they had to leave.  Now.
+  Jada just lay where Jayla had left her, her eyes staring glassily at nothing.
+  Jayla got a cup out of the kitchen and filled it with cold water.  She splashed it on her sister's face.
+  "We have to go!" she screamed, but Jada still didn't move.
+  Jayla set the shotgun down, keeping herself between it and the door, and picked her sister up under her armpits, dragging the girl across the floor.  She could move her, but it was hard and there was no way to get all the way back to their cabin like that.  It would take days.
+  "Jada, please.  We are going to die if you don't move."
+  But Jada didn't move.
+  What had that man done to her?
+  A quiet, dark thought formed in Jayla's mind, but she dismissed it.  She couldn't kill him.  She couldn't take the shotgun out to the garage, place it against the man's head and pull the trigger.  She just couldn't do that.
+  She wished she had the courage to do it.  It's what he would have done to them.  He would have used them and then killed them, dumping or burying their bodies deep in the woods where they would never be found.  Especially in the chaos of war with the aliens, no one would ever have even taken the time to look for them.
+  For the first time in her life, Jayla felt what the lack of civilization meant.  There were no teachers to break up fights, no parents to bring lunches to schools, no police to arrest monsters like the one she had trussed up in the garage.  There was no law and order.
+  She felt fear.
+  "Jada, we have got to go!" she shrieked, but Jada still lay there.
+  Jayla went back into the kitchen and started hunting through drawers.  She couldn't find what she was looking for.  She wasn't even sure the car worked, but then she remembered Jada's staff in it, and that must have meant the man had given her a ride.
+  What had he done after that?  Had he drugged her?  Maybe that's why she wasn't responding.
+  She started slamming drawers open, looking for keys, then she tore things off the walls, looking for a key chain or some evidence of where the man kept his car keys.
+  And in that moment she knew where they were.  She was going to have to go back out to the garage.
+  With the shotgun in hand, cradling the staff in case she couldn't fire the shotgun, or she dropped it in panic, Jayla left the cabin again, left her sister behind again, and walked slowly to the garage.
+  If he moved, she'd shoot him.  If he made a noise, she'd shoot him.  That would be justified.
+  What would happen if police did come back up here and found the man dead, tied up and executed.  They wouldn't care what he had done.  They would go after Jayla.  She had hit him and tied him up in self-defense.  They wouldn't convict her of that.  But if she shot the man while he was helpless, that was a different story.
+  Maybe she should untie him and let him attack again, and then shooting him would be justified.  But the thought of untying that monster, of giving him any chance at them, made her legs feel like water.  She felt the sweat pooling under her arms.  Her whole body felt sweaty, but cold.  There was no way she was going to let him go, and there was no way she was going to wait around for him to free himself.  She had to get herself and her sister off this mountain.
+  She used the barrel of the shotgun to nose the door open.
+  "Don't you move, or I'll shoot," she yelled in.  She heard nothing.  He didn't look like he had moved.  She stepped in, the gun down, pointed at him, and she nudged him with the barrel.  He didn't respond.
+  "You stay still, you hear?"
+  She bent down, setting the staff against the door frame, and holding the shotgun in her right hand.  The long weapon was awkward as she reached forward, and although his hands were still zip tied behind his back, she imagined him twisting and grabbing the barrel of the gun and pulling it out of her hands.
+  "You even breathe I'll shoot you.  I swear I will.  Don't you believe me?"
+  The old man didn't breathe.
+  She hoped he had a key chain on his belt, like a janitor might, but he didn't.  The keys would be in one of his pockets.
+  He lay on his left side, and Jayla prayed he was right-handed.  She tried to remember how he held the shotgun and thought maybe he had held the trigger with his right hand and the pump action on the barrel with his left.
+  "I'm reaching my hand into your pocket right now.  Don't you get no funny ideas or I swear I'll blow your head off.  You'd better believe me."
+  She reached her hand forward, and her skin touched his jeans.  She pulled back in revulsion, took a deep breath, and tried again.  She touched the cloth of his pocket and looked at him to make sure he didn't move.  She poked into the pocket with her finger, but she didn't feel anything.
+  She shivered and pulled her hand away.  He had curled up, and if the keys had been in that pocket, they probably would be at the bottom, and she was going to have to dig them out.  She wanted to throw up.
+  She set the shotgun down, leaning the barrel on his legs where she could grab it quickly, and reached into his pocket with her right hand, digging deep into it.  She was rewarded with the touch of metal and she pulled the keys out, grabbed the shotgun, and fled the garage.  She bent over and threw up.
+  She ran back into the cabin, spitting bile out of her mouth on the way, and set her weapons down, picked up Jada's torso again, grabbing under her arms, and dragged her sister out to the porch.  She ran back in and got the shotgun and hiking staff, and brought them back out.
+  "You hold this," she said and set the staff across Jada's bare legs.  She didn't know where the man had hid her shorts or her boots, but she didn't care.  She wasn't going to look for them.
+  She ran back to the garage and stepped around the tied up man and went to the main door.  It opened easily and she ran around to the driver's side of the car, then paranoia kicked in.  She opened the back doors and made sure no one was there, and then she used the key to pop the trunk.  It held nothing but a fuel can and some tools.
+  She slammed the trunk and half expected the man to be standing there, watching her, but he wasn't.  He still lay unmoving on the ground.
+  She got in the car, started it, and gunned it out of the garage, swinging it as close to the porch as she could.  She left the engine running, opened the passenger side door, and dragged her sister off the porch and on to the front seat.  It was hard, and it hurt her back when she pulled Jada up to the seat.  This girl had to recover, she thought.
+  Jayla threw the hiking stick into the back, slammed her sister's door shut, and ran around to the driver's side, jumping in and tearing away from the cabin as fast as she could, the vehicle careening around the bend as she got on to the road, leaving behind the old man who had started dying the first time she had hit him, and who had been dead by the third strike.
+
+  Eva awoke one morning and her apartment, her Agency safe house, was still dark.
+  She switched on her battery powered lantern, not knowing how long her batteries would last.  There was a stack of them in the storage room, but they wouldn't last forever.  She knew there had to be some kind of air handling system that still functioned, since the safe house hadn't begun to smell stale.  Perhaps it was solar powered.  The Agency thought of those kinds of things, but it still bothered her to use the kerosene lamps because of the fumes.  She didn't want to asphyxiate.
+  She went through her daily routine on this morning; yoga, a light workout, cold cereal with powdered milk for breakfast, kickboxing on the punching bag, another workout session with weights, then running in place for an hour, the treadmill didn't work without power either, just like the tanning bed, a sponge bath with bottled water, and finally, dressing for lunch.
+  But this day was different.
+  She couldn't tell what changed, but as soon as it did, she felt it while she dressed, she knew what she had to do.
+  The oppressive darkness overcame her, and she couldn't take it any longer.  No matter what her instructions, or lack of instructions, no matter what her fears of what had occurred or was occurring outside, she couldn't take another minute in her safe house.  The walls felt like they were closing in on her and ghosts were hiding around every dark corner.  Every fear she'd had as a child, every inadequacy she'd ever felt as a person, all returned in one sudden moment as she dressed, and she changed what she was putting on.
+  Instead of comfortable clothes for sitting on her couch or lying on her bunk and reading, she put on baggy camo pants over shorts, a tank top with a long sleeve shirt over it, thick socks and hiking boots.  She picked up a backpack from the storage room and began filling it.  Extra clothes, protein bars, water, a 9 mm Glock, extra magazines, flashlight, batteries.  The pack filled quickly and she remembered the thought problems about what to bring with you if you were stuck on a desert island.
+  She laughed and it lightened her mood.  Recalling those lessons, she added matches, toilet paper, feminine pads, a map, a compass, a combat knife, sunglasses, a baseball hat, sunscreen, although after days in the dark she wanted sun on her skin again, a small notepad, and a pencil.  She looked around the storage area, shining her lantern in the corners and in the closet to see if there was anything else that inspired her that she should bring.
+  She looked longingly at the MP23 rifle.  It and its ammunition would be heavy.  If she had to walk a long distance she could never bring it.  But if she found a ride, she could come back for it.
+  Then she started packing more bags.  There were backpacks and duffel bags in the closet, and she pulled them out, filling a duffel bag with the MP23, two more pistols, and all the ammunition and grenades the bag could hold.  There were two kinds of grenades in storage, hand thrown and ones that launched from the MP23.  She brought both.
+  She carried the bag out and set it near the door.
+  Eva filled a second duffel with more food, water, vitamins, sanitizer, medicine, bandages, and other first aid supplies.  It went next to the first bag.
+  She stared at the two bags, and if she were able to bring both of them she wondered which would safe her life.  The bag that sustained life or the one that took it.
+  There was only one way to find out.
+  She filled two more backpacks with supplies, not having any idea of how she would get back into the safe house or what circumstances would allow her to carry this much gear, but she felt a need to be prepared.
+  She went into the bathroom and checked the tank behind the toilet.  It was over half full.  She added some water from the bathtub using a pitcher she kept there for that purpose.  She kept the bathroom drain plugged and reused any water left over from washing for the toilet.
+  As she sat on the toilet, she looked around the bathroom lit only by her tiny lantern.  Relief at having made the decision to leave overwhelmed her.  She didn't know why it had taken so long for her to come to that conclusion, but she knew it was the right thing to do.  She was proud of herself for what she had accomplished, living in the safe house, keeping herself sane and prepared, motivated and alert, while alone and in the dark.
+  She had succeeded.
+  And now it was time to move on.
+  She reached behind her and flushed the toilet, thinking about what it was going to be like, relieving herself in the woods while hiking, she still didn't know where she was headed but she didn't care, and Eva remembered that she should add a small shovel to her main backpack.  She'd seen such a shovel in the storage area but hadn't fathomed what she could use it for.  Now she realized why it was there and she was embarrassed she hadn't thought of it before.
+  As she left the bathroom, she heard a spitting sound, almost like coughing, behind her.  She whirled around, something gripping her heart, and she held the lantern up to see what was happening.
+  The noise was muffled, and she realized it was in the toilet tank.  She took the lid off and water was spluttering out of the nozzle, as if the plumbing was working itself up to try to refill the toilet.
+  She put the lid back on and turned on the faucet.  It coughed and spluttered, and initially a brownish water came out.  But as she watched it, the water turned clear.
+  The water was back on!
+  She didn't plan on staying, but a survival instinct kicked in.  Besides, someone else might need this refuge.
+  She turned the water on in the bathtub, then went into the kitchen and began filling the empty bottles she had carefully stacked in the corner.  She wasn't sure if the water was drinkable yet, but it could be used for bathing and flushing.  After filling a couple of dozen bottles, she ran back into the bathroom and checked on the tub.  It was full enough, so she turned the faucet off.
+  She finished filling bottles in the kitchen and felt good.  She could leave now, having stocked the safe house for the next agent, should anyone ever need it.
+  She grabbed the shovel out of the storage room and added it to her backpack.
+  Eva shouldered the backpack, looked at her extra bags and wondered how she was going to carry all that gear, and put her hand on the door.  It was the first time she had done so since she had entered the safe house, and a fear of what lay on the other side of the door crossed over her.
+  She took a cleansing breath and turned the handle.
+  It wouldn't move.
+
+  Eva tried the door for over thirty minutes, then went into the storage room to find the manual for the door.  The Agency had manuals for everything, and when she found the one for the lock and learned that it wouldn't open without power, she cried for the first time since she was twelve.
+
+  Wolfgang awoke, his head on his wife's cot.  He had slumped over on the stool he sat on and fallen asleep.
+  Something felt wrong.
+  He was groggy, not enough sleep for too many days, and he couldn't think.  He looked around for water or something to drink, but there was nothing in the tiny tent.  There were no hospitals any more, or they were full, and Wolfgang's wife was lucky to have a cot and a tent and an IV that hydrated her with the water Wolfgang poured into the bag.
+  He stood and stretched, his back cracking and making him aware of his age, and he shook his head.
+  The feeling of wrongness didn't go away.
+  Leah wasn't there.  She had probably gone to get food or something.  He marveled at the girl.  How helpful she was.  He guessed she didn't have anywhere else to go, but she was still helpful.  He didn't know how he could have taken care of his wife without her.  He would have, but he would have had to leave her alone at times and that would have been nearly impossible.  With Leah, one of them could always watch over her.
+  There was talk of shifting winds and the radioactive clouds returning to wash over Kaiserslautern.  They would have to move, and Wolfgang would not be able to move his wife on his own.  Again he was grateful for Leah.
+  He looked down at his wife.  They had been married seven years, had a three year old daughter who hadn't survived, and they had been happy.  Tears came to Wolfgang's eyes as he thought of his little angel.  How could a man walk through life, eat food and drink water, talk and laugh, ever again, when his tiny girl had died?
+  Leah had told him it was like a long hike and all he could do was take one step at a time.
+  Wolfgang stared at his wife's face and he knew something was seriously wrong.  It was a slow realization, but when he finally grasped what his eyes were telling him, he panicked.
+  He checked the pulse on her neck, put the side of his face over his wife's mouth, and he felt nothing either way.
+  "No!"
+  Wolfgang opened her mouth, tilting her head back, and put his mouth on his wife's and blew.  He put his head on her chest and heard nothing, then put his hands on the center of her chest and pushed.  Nothing happened.  He pushed again, counting with each push, until he got to thirty, then stopped, listening for her heart.
+  He breathed into her mouth again, five quick breaths, then returned to compressions.
+  He talked to his wife while he worked.  He cajoled her not to leave him.  She had to live.
+  A rib cracked, but Wolfgang ignored it, continuing the compressions on her chest, alternating with breaths into her mouth.
+  His tears dropped onto the ragged nightgown she wore, the same thing she had worn all the days of her radiation induced illness, but he ignored those also and worked on.
+  Someone came in and then left, but Wolfgang didn't stop what he was doing, crying and talking, begging and pleading his wife not to leave the entire time.
+  Images of their life together passed through his mind.  Meeting her at a church dance, too shy to ask her until one of his friends asked her first, and being embarrassed that she was taller than him.
+  He had soon quickly passed her in height though, and when they were both sixteen they began dating.  She had waited while he spent two years in Russia serving their church, then waited another year while he finished an apprenticeship.  At least they could see each other on weekends during the schooling.
+  Picnics, swimming, vacations to Italian beaches, watching television together, having a baby, feeding and taking care of the tiny expression of their love, loving their child together more than their own lives.
+  All these memories and more came to Wolfgang as his hands pumped his wife's chest and his mouth blew air between her cold lips.
+  A gruff American voice, a kindness behind the firm words, intruded on his thoughts.
+  "She's gone, man.  I'm sorry."
+  Wolfgang finished the breaths and moved back to continue compressions.  When he was back into the rhythm he looked up at the American lieutenant colonel from his hiking club.  The other two American soldiers stood behind him and Leah stood in front.  Her eyes were red and filled with tears.
+  "No," Wolfgang shouted in German and continued the compressions.  Once started, he knew he could never stop until professional help arrived.
+  As if sensing his thoughts, the American said, "No one is coming.  I'm so sorry."
+  Wolfgang shook his head and yelled, "No," in English this time.  The four just watched him.
+  He finished thirty compressions and bent down beside his wife, tilting her head back again.  He counted five breaths.
+  A hand rested gently on his shoulder but he shrugged it off as he moved to begin compressions.
+  "Listen, man.  Wolfgang."  The American pronounced his name wrong, sounding out a long 'a'.  "Leah, here, told us you did everything you could.  We're really sorry."
+  Leah reached her hand out and Wolfgang continued compressions until she touched him.
+  Something in her touch was final.
+  Wolfgang knew his wife couldn't survive the radiation poisoning.  He had known all along, but hadn't admitted it to himself.  They'd even stopped purifying the water by boiling it first, because it hadn't mattered any longer.
+  He collapsed on his wife, crying, and he felt arms around him.
+
+
+7
+
+
+
+
+
+  Jayla stopped in front of her father's cabin and dragged her sister out of the car.  She set Jada on the steps leading up to the porch.  If the girl wasn't going to move for herself, she could just sit there.
+  She didn't know how far away to drive the old man's car.  She wished there were a place where she could safely ditch it, but then that would even look more suspicious.  The thought of driving the car back to the old man's house gave her chills.  Despite her precautions, she was sure he was free of his bonds and would be after her.
+  She wished again that she'd just had the courage to shoot him in the head.
+  But was kidnapping and rape justification for murder?
+  She reminded herself that she had fought the man in self-defense, that he had held a gun on her when she had hit him, that he had kidnapped and violated her little sister, and everything she had done was justified.
+  Would the police believe her?
+  Almost one hundred years after her ancestors were given civil rights and yet the jails still held more blacks than any other group.  And here she, an eighteen year old black girl, had beaten an old white man and tied him up, then stolen his car and shotgun.  She would go to jail.
+  Even ditching the car was problematic.  It wouldn't take much DNA analysis to know she and her sister had been in the car.  If she left it at the cabin, the police would know immediately to look for her.  If she left it by the side of the road, DNA would point to her pretty quickly.  Bringing it back to the old man's house was out of the question.  What could she do?
+  Jayla sat behind the wheel of the car and cried.
+
+  Eventually she thought of her father's words.  He had taught her to be goal oriented.  He said that those who dwell on past mistakes never succeed.  Success comes from focusing on objectives.
+  What were Jayla's goals?
+  She wanted to not go to jail.
+  Wait, that wasn't a goal.  That was an anti-goal.  Something she didn't want.
+  What did she want?  What would her father suggest?
+  Then it dawned on her.  She'd been thinking about it the whole time, but had thought of it as evidence against her instead of evidence in her favor.
+  DNA.
+  She was worried about the DNA evidence against her, but what she needed was DNA evidence in her favor.  What she needed was Jada to be tested by a hospital for rape.  The old man would have left plenty of evidence.  She needed to get Jada to a hospital.
+  The girl was traumatized anyway, and maybe they could help her there.
+  What about the car?
+  What was her goal?  It wasn't that the authorities couldn't trace her to it.  That was negative thinking again.  She simply wanted to keep the old man from using it to follow her.  If everything she did pointed to that, they would know she had acted in self-defense.
+  She started the car and began driving to the lake.  There was a parking area where she could leave the car.  It would be found, but it wouldn't be as if she were trying to hide it.  She didn't have to put the car in the lake, or burn it, to keep the old man from using it.  All she had to do was throw the keys in the water and let all the air out of the tires, just in case he had a spare set of keys.
+  It took her an hour to accomplish her mission, but she returned to the cabin feeling better.
+  Jada still sat there, practically comatose, on the steps.  She had to get that girl to a hospital and pronto.
+
+  The SUV packed with food and water, the loaded shotgun resting between the two front seats, Jada dressed and buckled in, and Jayla was ready to go.  She looked at her father's cabin and at her sister and remembered a teacher's words about man's inhumanity to man.  How could someone be so cruel to a little girl?  Why were some people so good and others so mean?  It didn't make sense.
+  Life isn't fair, her father always reminded her.  We are always subject to the poor decision making abilities of others.
+  She smiled at that memory.  Half the time she never knew what her father was talking about, but now she thought she understood a little of what he had tried to teach her.  He had taught her to never act like a victim, but to always try to do what she thought was best.  To not let herself be governed by others and their bad decisions.  She had to think and act for herself.
+  I'm doing it, Daddy, she thought.  I'm doing it.
+  She started off, heading south, away from the cabin in the woods and down the mountain to civilization and a hospital for her sister.
+
+  Eva, after giving up trying to open the door, sat on the floor next to it, crying again.  Her bags were packed and she was ready.  All dressed up and no place to go, she thought bitterly.
+  She was going to die in this dark apartment.  Images of her skin turning pale, her hair falling out, and her eyes growing large came to her and she fell asleep to those thoughts, her dreams turning into nightmares.
+  She awoke suddenly to a click.
+  She didn't have time to ponder how long she'd been asleep.  She saw her backpack and pulled the Glock out of the back pocket and ducked behind a sofa, keeping herself as close to the wall as possible, but with a line of sight to the doorway.
+  She could see.
+  The lights were back on!
+  The door clicked a couple of times, and then it opened.  She held her pistol ready.
+  "Honey, I'm home," a voice called.  She thought she knew that voice.  "Are you holding a gun on me?  My hands are up, see?"
+  A man moved into the doorway, empty hands extended in the air and slightly in front of him.
+  "Don't let the door close!" Eva yelled at him.
+  "Relax.  I'll prop it open."
+  Mark Dornbush grinned at her.  Eva rushed forward and jumped into his arms, kissing him fully on the mouth.  She was so happy to see him that she wouldn't have even cared if he tried to slip her some tongue again.  She wouldn't even bite it this time.  They had been so drunk that night.
+  "I'm happy to see you too, Gilliam," he said when she pulled away.  He grinned a mile wide.
+  "Even your ugly mug is worth looking at right now," she replied, grinning back.  She and Mark had trained together at the Agency's academy and they were often sparring partners in the gym.  He'd only overtly tried to hit on her once, at a bar when their class was celebrating graduation, but after she bit his tongue, he never tried again.
+  But she knew she could trust him.
+  "You got wheels?" she asked.
+  "Wait 'til you see my wheels."
+  "Alright, let's get out of here, then."
+  "Relax.  Is there any good stuff here?"
+  Eva nodded towards her packed bags.  "I got plenty of good stuff."
+  "The meter's running, but I've got a minute.  Let me look around.  These places are supposed to be loaded."
+  He moved to go past Eva and enter the apartment, letting the door close.  Eva caught it first with her foot.
+  "Relax, Gilliam.  The door was only locked because the circuit breaker had tripped."
+  "What if the power went out again?"
+  "It's been on for days.  Stupid Agency didn't move the circuit breaker inside, and apparently everyone else has left the building.  The door wouldn't open until I threw the breaker."
+  Eva rolled her eyes.  She had been trapped in here for nothing.
+  "Besides," Mark said with a teasing smirk.  "There's worse things than being trapped inside this apartment with you."
+  "You'd be trapped in here with my corpse.  I'd shoot myself before I went through that again."  Eva was serious.
+  Mark's face turned sympathetic.  "I'm sorry.  I wished I'd known sooner that you were here.  We could have hooked up a generator to the door or something."
+  "I just want to get out of here as soon as possible."
+  "Then we're on the same wavelength.  I was worried I'd have to wait for you to pack."
+  "Why?"
+  "Things have kind of fallen apart a bit while you were holed up in here, although Utah has mostly kept it together.  No one from the federal government has any authority now, but there are locals still in charge."
+  "So?"
+  "We're federal, Gilliam."
+  Eva shrugged.  Duh.
+  Mark's eyes twinkled.  "Let's just say I didn't have any legal means of procuring our transportation, and I wanted to ride in style.  Now, hold that door open while I go check out the goods."
+  It took Mark three trips to pull out several cases of water and several boxes of food.  He didn't grab any other survival gear.  They piled everything up outside the apartment.
+  Eva held the door open and looked back inside.
+  "Anything else you need?" he asked.
+  She shook her head.
+  Safe house and prison.  Now that she was free, she knew she'd really shoot herself if she were trapped like that again.
+  "Nope.  I'm done with this place."  Eva closed the door.
+
+  She carried as much gear down the stairs as she could.  Only one vehicle sat in the parking lot.  A yellow jeep with the soft top rolled up and put away.
+  "Seriously?"
+  "Hey," Mark replied in defense.  "I looked for a pink one, but thieves can't be choosers.  It would have been epic.  We could have used Ken and Barbie for our cover names."
+  Eva threw her gear in the back and shook her head with a smile at him.
+  A couple of more trips and the jeep was loaded.  Eva finally stopped for a second and looked up at the blue sky and the sun.  Freedom.
+  "We driving for a while?" she asked.
+  "That's the plan."
+  She pulled her shirt off.  She needed sun.  She took her tank top off also, stripping down to her sports bra.
+  "We ain't got time for that, Gilliam."
+  She flipped him a bird, then sat on the side of the passenger seat and untied her boots.
+  "We do have to get going," Mark said seriously.
+  "I need sun, Dornbush."
+  "I'm not gonna complain."  She could feel his idiot grin as he probably watched her.  She pulled her boots and socks off, then stood to shuck her camo pants off.  She'd worn shorts under them.
+  Barefoot and in a sports bra and shorts, Eva climbed into the jeep, putting her clothes on the floor behind her seat.  She leaned her chair back and settled into it, buckling her seat belt.  She put her feet up on the dashboard.  The feel of the sun on her skin was amazing.  All the fears and terrors and frustration of the last few days melted away.
+  Mark gunned the engine and peeled out of the parking lot, the jeep bouncing as it crossed the gutter.
+  "Those legs might get us through a few checkpoints," Mark said to her.  Eva ignored him, her eyes closed, the sun warming her skin, the breeze cooling it, and Eva had never felt better.
+  "Seriously, Gilliam.  Things have changed.  I don't mind you getting all naked in front of me, but you'd better keep that Sig Sauer handy."
+  "It's a Glock."
+  "Even better.  Just keep it ready."
+  They wound their way through a mostly deserted neighborhood until they got to a freeway on-ramp.  Mark took the southbound entrance.
+  "Where are we headed?" Eva asked.
+  "Do you really care right now?"
+  "Not really."
+  Mark grinned and started singing, "I wish they all could be California girls."
+  "California?" Eva guessed.
+  "Yep.  What's left of it, anyway."
+  "What happened?" Eva wished there were a way she could roll over and let her back get as much sun as her front.  She wondered how far back the seat would lean, then pictured herself trying to lie on her stomach.  It just wouldn't work.
+  "It's a long story, Gilliam."
+  "We ain't got nothin' but time."
+  "I'm kind of short on details, everyone is, but I'll tell you what I know."  Eva listened, stunned, as Mark described how the wars had gone, first the nuclear exchange with the Russians and then the one-sided conflict with the aliens.  As her horror grew with his account, the sun didn't feel good anymore.  She looked up at the sky and thought of space beyond it and wondered what terrors it held.
+  They continued south.
+
+  Wolfgang stared out the side window of the army supply truck, seeing, but not appreciating the fields and orchards of Eastern France.  He could see the forested hills of Southern Germany in the distance.  He hadn't spoken, he couldn't speak, wouldn't have even known what to say, since they had buried his wife.  Leah and the three Americans had helped him even though he didn't know why.  There was an urgency in their actions.  Wolfgang knew they had been ordered to go south, to get to Italy and to a base on the island of Sicily, but they took the time to help him dig a grave in the communal cemetery and they waited patiently for him while he said a few words over that grave.  Her grave.  His wife's final resting place in mortality.
+  There was no headstone, and he knew that no one else would ever know where she was buried.  Nonetheless he tried to bless the grave, using words he'd heard once before, but it felt inadequate.
+  They continued south through France on a tiny, two lane highway, heading for Basel.  Leah told him her parents lived in a village near Biasca.  It had worked out best to go through France, as radioactive clouds existed in the southwest of Germany, plus the highway through Basel led straight to Biasca, and after that into Italy.
+  Wolfgang hadn't even noticed when they'd crossed the border.  The guards were gone, the crossing gates lifted, and the American truck had simply driven across.
+  The back of the truck was loaded with enough fuel, food, and weapons for an army.  Or so Wolfgang thought.  The truck consumed immense quantities of the precious diesel.  He guessed the Americans hadn't figured out how to make electric or solar military vehicles yet.
+  The Swiss border was more regulated than the French one, but apparently the guards had standing orders to allow evacuating units through.  They ignored the two civilians in the truck, not even checking passports.  They did tell the group that several meteors had struck the town and there were tens of thousands of casualties.  Rail lines had been destroyed along with several industrial centers.  It was clear that commerce had been targeted.
+  So much for Swiss neutrality.  Apparently it hadn't been recognized by the aliens.
+  The trip dragged on, Wolfgang bouncing in his seat.  Captain Wlazlo drove and the other young officer, Captain Smith, sat in the front passenger seat, an advanced rifle resting uncomfortably on the ground between his knees.  The senior officer, Lieutenant Colonel Robertson, sat alone in the next row, a map spread out beside him.  Leah and Wolfgang sat in the last row of the large vehicle.
+  The American soldiers had talked to each other a lot during the early part of the trip and Wolfgang had listened, trying to understand their rapid fire English, but after seeing the damage in Basel, they were quiet.  Perhaps they realized, as Wolfgang did, that fighting the aliens was hopeless.
+  With no noise but the drone of the engine and the squeaking of seats, Wolfgang drifted off.
+
+  His ears rang and he felt the truck swerving wildly, hitting something and bouncing upwards.
+  Wolfgang was dimly aware of Leah screaming next to him, but he could hardly hear her.  His head hurt and he couldn't think.  He felt the truck falling.
+  He finally broke the silence he had maintained since his wife's informal funeral.
+  "No!" he cried as the nose of the truck pitched forward and he felt the vehicle going upside down.
+
+  "Sir, you have a message," Lieutenant Commander Purcella said at the door to Stanley's quarters.  Stanley floated over his bunk, upset at everything and everyone.  Didn't they know what it took to put people on Mars?  The governments of the Earth had moved mountains to make it happen.  Putting a man on the Moon seemed like child's play compared to what it had taken to put Boston Wright on Mars.  And as soon as they had gotten there, everyone wanted to turn their back on the program.
+  Beagle was only the sixth mission and Stanley was determined it would not end in failure, aliens or no aliens.
+  "Sir?"
+  "What?" Stanley yelled at the man for interrupting his thoughts.
+  "Sir, you really need to listen to this message."
+  "Is Crayton whining again?"
+  "No, sir.  It's the Hrwang."
+  "What?"  Stanley wasn't comprehending what his communications officer had just said to him.
+  "It's the Hrwang, sir.  They want to speak with you."

@@ -1,0 +1,1399 @@
+Matt Dymerski
+
+
+
+
+The Desolate Guardians
+
+
+
+
+
+
+
+
+Proximate Publishing, LLC
+
+Smashwords Edition
+
+All rights reserved.
+Copyright © 2015 by Matt Dymerski
+http://MattDymerski.com
+@MattDymerski
+Proximate Publishing, LLC
+
+
+Cover Art:
+Miller Creative Consulting
+millercreativeconsulting.wordpress.com
+
+This book may not be reproduced in whole or in part
+without permission.
+Proximate Publishing Books by Matt Dymerski
+
+Psychosis
+The Asylum
+Creepy Tales
+Aberrations
+
+The Final Cycle Series
+World of Glass
+
+The Portal in the Forest Series
+The Portal in the Forest
+The Desolate Guardian
+Table of Contents
+
+Chapter One
+Chapter Two
+Chapter Three
+Chapter Four
+Chapter Five
+Chapter Six
+Chapter Seven
+
+About the Author
+Other Works
+Preview of The Moon Aflame
+Chapter One
+Statistically, somewhere in the early hours of Christmas morning, more people are asleep than at any other moment during the year. Me? I'm working.
+And I love that the world is quiet. That's less people to bother me, and more thickness for the walls of darkness and solitude that surround this place. As the off-hours network manager, I'm typically alone in my duties, and I don't have to manage much of anything. I don't have to train people, or deal with customer issues. All I have to do is make sure our extremely expensive network doesn't go down or lock up or implode when nobody else is around.
+With today's technology, that means I spend the vast majority of my time sitting around and browsing things online. I'm pretty sure I've seen the entire Internet. I used to cover my tracks by deleting my connection history from the network log, but, one week I forgot? and nobody cared. I quickly got the sense that nobody was even looking, and, if they did, they wouldn't give a crap about the browsing history of the off-hours network manager.
+I mean, realistically, what else was I supposed to do? Cooped up in this half-dark, half-rainbow server room, alive with the breath of endless banks of computers and the cooling system needed to keep it all from melting? I used to joke to myself that my ultimate responsibility here was to literally pull the plugs out of the walls if the air conditioning ever stopped working, something no software could ever do, and something a monkey could have managed - but my little joke ceased being funny when I realized that was actually, probably, most likely the case. I'm a glorified button pusher.
+Once I'd seen the entire Internet, I grew bolder. I began looking at files on our own network. I had excuses lined up if anybody came to ask what I was doing? but nobody ever did. We did quite a bit of work with military contractors, and it was rather astounding to sift through bid documents, designs, and plans that dealt in the billions of dollars. It was all protected and encrypted, of course? except I was the acting network administrator. Score one for the network being far too big for anyone to lock down perfectly.
+There were files, emails, and logged communications from practically everywhere, and a few places I'd never even heard of. We weren't military, or governmental, but we did business with them all. VPs discussed third-world coups over lunch, accountants logged tax tricks that were clearly illegal but heavily obfuscated and ready to be pinned on patsies hired for the task of taking the fall, and soldiers emailed their families back home.
+That was the thing about these memos and emails. Unlike the swarm of crap on the Internet, they were real. One soldier's email chain ended two months ago, and the subsequent data linked to his widow trying to get money out of our insurance department despite their best efforts to renege on the payout. These were real people being churned through the system. Was that widow asleep somewhere right now, ready to fake her way through Christmas morning with her daughter, or was she still awake, with anger and despair gnawing at her?
+I mean, I had access? and the system was the system? and I knew it was inevitable. Alone in here ad infinitum, I'd eventually do it. Why not now?
+I closed the widow's insurance payout ticket, taking it away from the current person assigned to it, then reopened it without an assignee? a simple matter. With a few manipulations, I created a fake employee in a department with a redundant sounding title. Then, I sent it on over to pay processing? doubled the amount? and marked it as Approved. It was nothing to a gigantic corporation, but everything to a single person. As a final act, I deleted all traces of my actions.
+Huh.
+That was it.
+Maybe what I'd done was illegal, but it seemed? the morally right thing to do. She'd be getting an email confirmation before she woke up. That seemed like a Christmas present and a half.
+And I couldn't be caught, in any case. There was simply no trace in the system that I'd had anything to do with it, and hardly anybody knew I existed anyway. The system was the system, and if, through some impossible feat, a mid-level manager noticed an issue, he'd simply pass a ticket up? to me.
+And that ticket would most certainly be lost in the shuffle.
+I felt oddly great for a little while, until I realized? everyone's asleep. If ever I had an opportunity to do more like this, and get away with it, it was now.
+I delved deeper into the files, looking specifically for military communications with signs of distress.
+Somehow, I think I knew it the moment I saw it. The message log hung there in emptiness - alone, like me. Nobody had read it, and nobody was even aware of its existence. It was encrypted in a unique way, and hidden by rare system priorities. No users had the rights to access it, and the file had no traceable origin. This was a message intended to be read by no one.
+But the access process did exist within the system, even if nobody actually had the rights to it.
+I couldn't resist.
+
+***
+
+0110111101110101011101000110011101101111011010010110111001100111001000000110001101101111011011
+0101101101011101010110111001101001011000110110000101110100011010010110111101101110001000000110
+1111011011100110110001111001
+
+You'd be surprised how easy it is to play chess against yourself. The game is uniquely suited to cold decision-making, and your next move doesn't depend on prior states. You can spend a few hours reading a book, come back to the board, and legitimately make a move in your own best interests before doing it all again as the opposite player.
+Of course, your opponent is perfectly matched to your level of skill, and there's no bragging, so nothing really gets decided. I did find, curiously, that black won more than fifty percent of the time?
+At some point, I'm pretty sure the human brain forces you to stop doing things you realize are pointless. Once chess became agony instead of welcome distraction, I had only the books left.
+And when I'd memorized all the books, I?
+I went for a lot of walks. They don't take very long, though.
+I've got seven chambers here. One has the shower and the toilet, and the marks I make in the wall for each day that passes. One chamber has my bed, my books, and a picture on a nightstand. The third chamber has a kitchen area, and a table that serves adequately as a ping-pong arena against my only opponent - the wall.
+The fourth chamber has the computers and communication equipment. Screw all this stuff. It's all held together by rubber bands and scotch tape. You know, I think I've finally managed to send a message out somewhere? but I always think that, don't I? This time, with everything going unbounded, with time slipping into time and thought slipping into thought? I really think I've done it. This message is going somewhere. It has to be.
+The fourth chamber has a wall of televisions and radios, incoming-only. Some goddamn genius got hired to make televisions and radios that couldn't be repurposed to send a message out. I hate that guy. I've been in and out of half of these things, even burrowed into the wall myself, and the crap back there just won't give me a break.
+I used to watch the TVs, but they just remind me how cooped up I am. And everyone out there seems to be getting dumber and more outraged at everything all the time. I wish I could shout loud enough for them to hear.
+The fifth chamber has, of all things, a couch. What am I gonna do, have a guest over? There are fake blinds, too, always down and closed because they only show onto concrete. Was this room supposed to make me feel a little less trapped? Idiots?
+The sixth chamber, offset a bit from the rest by a small tunnel, houses a vast little factory and furnace room that keeps me alive. Air conditioning, carbon scrubbing, an automated hydroponics bay, geothermal power plant, the works? that shit could run for a hundred years all by itself, if it hadn't been made by the lowest bidder.
+See, I know I'm not supposed to send messages out. I know that. That's the fundamental design of this whole place. Thing is? there's somebody down here.
+I mean, I might be losing my mind. I get that. But I can feel the curve of insanity ahead in the road, and I don't think I'm there yet. I really think there's a person in my furnace room. And I checked. I went over every crack in the wall, every nook and cranny in the air vents, even re-checked the welded-shut elevator like I do every day: there's no way in or out of this place.
+Yet, there's someone in my furnace room.
+I can guess what that means for me, and none of my guesses are good. I suppose there's no point in hiding, though. There's literally nowhere to go. And I chose this, so it's pretty much my fault. Time to face the music? and, more supposing - better to die now than to spend forever down here losing my mind.
+Actually, not like anyone will get this message in time to do anything. I might as well check it out first.
+I crept down that long, small concrete tunnel with the weirdest sense of anticipation. The furnace room had always creeped me out for some reason; it wasn't meant for anything but maintenance access, so it was like a series of mechanical caves and burrows that went on longer than I'd ever reached. It was always breathing and moving and clinking, even during my supposed night hours. I hated it.
+So, of course, an intruder had to have appeared there. Anywhere else would have been too simple. Crawling between the water recycler and a furnace duct, I tried to get a long vantage on whoever was back there.
+I froze as I saw a shoe move out of sight up ahead. Scraping across cement, it had been pulled forward by someone else crawling through the maintenance tubes. That was it: proof that someone was down here. But how? Was? was there a way out?
+"Hello?!" I shouted, immediately taken aback at the ragged and unfamiliar sound of my own voice.
+The only response came in the form of someone scrambling away in the distance.
+"Please, I won't hurt you," I yelled out.
+Eventually, I retreated back to the tunnel. If there was somebody in there, they'd have to come out sooner or later. I pulled the couch over, tilted it up on its end, and used it as a makeshift barrier in the tunnel. It could easily be moved - but it would make a noise.
+I moved through my chambers carefully, noting the placement of every object. Nothing had been moved, and I could find nobody around, so the possible intruder still had to be in the furnace room?
+I decided to get some algae paste from the kitchen and eat. There was really nothing else to do. I couldn't risk crawling around in there with some stranger on the loose? here, I'd at least have a clear view of what I was up against.
+The alarm went off as I was eating. Distracted as I was by the thought of an impossible intruder, I was initially terrified? but, then, I sighed, and went to deal with it.
+How long did I wait? A half hour? An hour? It didn't matter. Eventually, a voice radiated down the tunnel. "Hello?"
+In the kitchen, I sat up straight.
+It was a woman!
+Practically running to the sixth chamber access, I poked my head around the edge of the couch. "How'd you get down here?"
+I didn't see anybody, but her voice came from right around the opposite corner at the end of the tunnel. "Where are we? What is this place?"
+Processing her words, my head hurt a little bit. It'd been a long time since I'd heard anyone speak. All that mattered was getting out of here? "How'd you get in here?"
+Whoever she was, she paused. "I'll tell you, but only if you tell me where we are."
+Court-martial me if I ever get out of here - what was the use of hiding the information? "We're eleven thousand feet underground."
+Another pause, then a confused tone. "Seriously?"
+ I could leave, I could leave, and I could start a new life? "How do we escape?"
+"Just one second," she replied instead, her tone growing more commanding. "What is the state of Earth?"
+I sighed. It was just an overseer using the comm system to simulate an intruder. Had I imagined the shoe? Or perhaps it was an adjunct, testing me. I hadn't heard from any of them in over a year, but they'd been bound to check in sooner or later? "Looks like business as usual in the TVs. Radio chatter seems normal, too. A few wars going on, but nothing out of the ordinary."
+"Is that so?" She stepped out from behind her corner hesitantly.
+Holy crap - she was really down here! A brown-haired woman in her early thirties crept down the tunnel. She wore unfamiliar clothing, but seemed otherwise normal. "You're not armed, are you?"
+I looked her in the eyes across the edge of my couch. "Why would I be armed? No one should be able to get down here."
+She approached me cautiously, and I retreated a chamber. She slowly moved the couch out of the way and entered my space proper.
+As she looked at me, I suddenly felt very self-conscious about my thickening stubble and unkempt hair. "Sorry," I told her. "I haven't had visitors in a long time."
+She circled around me, checking out each chamber with narrowed eyes one by one. Though I followed her from room to room, she never completely turned her back to me. We stopped outside my bedroom, and she did not enter the bathroom area. "What is this place?"
+"My prison," I laughed. "Can we go now?"
+"Are you a prisoner? What was your crime? What justifies burying you eleven thousand feet down?"
+It occurred to me that she really had no idea where she was. This wasn't an act. What if she chose not to reveal her method of entry? "Oh? oh no, I was joking. I'm? I'm military."
+She set her jaw. I don't think she believed me.
+"Here, come here," I told her, going back to the fifth chamber. "These TVs? I watch the world here." I touched a device. "I listen? to the radios? see?"
+She remained at the edge of the chamber, watching me warily. "Why?"
+What could I tell her? Hmm? "There's a problem, see. It, um? it's like this. Say there's aliens. They want to take over the Earth for whatever reason. They're assholes, right? Except if they've got brains, they'll understand."
+"Understand what?" She slowly moved around the edge of the room, drifting toward the direction of the furnace room tunnel.
+I could tell I was losing her. "Say there are monsters, too. Shit, I don't know. Mind-controlling parasites. Things with eerie eyes that'll eat you alive. Or one that, like, rips out of your bones. Seriously. Your bones. Fates worse than death. Anything and everything."
+Her eyes went narrower, and she stiffened.
+"No!" I told her, highly aware of her body language. "I'm not saying this stuff exists. I don't know. Some people do, though, and some people are scared out of their goddamn minds. So if I see, on the TV, that people are in trouble? that those aliens are attacking, or stuff is getting people, or anything that seems to be condemning the human race to fates worse than death? well, then I give them the better option. I give them? just death."
+The glimmer of understanding grew in her eyes.
+I decided to push the offensive. "Yes! I can tell you get it. Aliens can't take us over if we threaten to kill ourselves rather than surrender. And we can't be trapped in fates worse than death if we kill ourselves first." I moved along the wall, touching embedded electronics. "All this? all this? it's attached to every single nuclear weapon in every single country all over the world."
+"That's why you're so far down," she breathed, taking in the logical madness. "None of those forces can find you, or reach you. They can't stop you from activating the? doomsday suicide pact."
+I nodded excitedly, my eyes wide. "Right? Right?! That's what he said, when he brought me down here. The only defense we have against nightmare is the power of self-sacrifice. That's our mantra." I thought about that, and? my hope slowly began to ebb as I realized something. "If you're not with them, then who are you? I haven't heard from my commanding officer in over a year."
+"The TVs look fine?" she answered.
+"They could be faked," I countered. "They're just signals. If the politicians told the enemy - whoever or whatever the enemy is - and the politicians would have told them, because the doomsday suicide pact is useless unless the enemy knows about it - you know, Doctor Strangelove style - then those signals could easily be fake. Everyone on the surface could be dead right now, or being kept alive as brains in jars, or being enslaved."
+"Then how do you know anything at all about the situation up there?"
+I glared at her. "My CO is supposed to check in every so often over a secure line. I haven't heard from him in over a year. The equipment broke. Goddamn government contractors! But I fixed it. I thought I fixed it. But he's still not out there."
+She looked down at my uniform for a moment, thinking. "If the signals are being faked, then the enemy up there has complete control of the planet, and masterful deception abilities. In that situation, would you detonate the system and destroy all life on the surface?"
+I nodded. "In a heartbeat. If They killed everyone, or enslaved them, or worse... well then They can all go to hell."
+"What if there are still human beings fighting for survival?" she asked, her tone quiet. "What if there's even one person left up there?"
+I smiled weakly. "All thoughts that I've had. In an endless mad cycle. Over and over. Every day. The fate of the world literally rests on me." My gaze drifted. "Can you please take me out of here?" My hope rekindled in a burst of warm fire as she finally just nodded.
+"Alright. No man should ever have to make that choice, let alone by himself."
+Almost sobbing, I nodded in agreement.
+She began to move toward the access tunnel when red lights began to blare and a loud noise echoed through the chambers. "What the hell is that?"
+Why did it have to happen then? I was almost out! Despair coiling around my heart, I carefully walked to the seventh chamber in my underground bunker. The heavy metal doors slid open in response to my handprint, and a single button lay within. Above, large red numbers counted down. 21? 20? 19?
+Coming up behind me, she studied the room, and shouted over the alarms. "What is this?"
+I said nothing. Instead, I pushed the button.
+The alarms ceased, and the chamber slowly resealed itself.
+Standing outside, I could only look at the cold concrete beneath my bare feet.
+She figured it out on her own. "It's not something you activate, is it?" she asked, her words horrified. "It's something you don't do."
+I nodded absently. "The alarm goes off at random three times a day. I have sixty seconds to push the button and stop the process. If I'm dead - if the forces worse than death have managed to disable or kill me - then it'll go off automatically. That's the only way to be sure."
+She backed away from me. "I can't take you with me?" She began moving down the service tunnel backward, her eyes on me, as I slowly followed her. "God? I can't take you with me? how long have you been down here?"
+She'd have known if she saw the bathroom, and the thousands of marks on the walls that each marked a single day. She shook her head for nearly ten seconds, probably trying to comprehend what she was condemning me to. "I'm so sorry?" She slammed the door to the furnace room behind her.
+Just like that, I was alone again. Had I ever really had company? Had I ever really had a guest over?
+I did eventually manage to get through the door, but there was no trace of her by then, and no trace of an escape route.
+I knew, then, that I was going insane.
+What if the signals are fake? What if they're not? What if there's one single person still alive and fighting for the fate of the human race? What if there isn't, and I'm alone on a dead world? What if the surface is covered in slimy, horrible, extradimensional creatures? What if it's a utopia up there, and some horrific series of bad-luck mishaps have cut off the line to my bunker? They could be drilling down to rescue me even now - if I just had a single communication, a single message, a single voice? if I just knew something?!
+But I didn't know.
+And I couldn't go on.
+Court martial me if you can. I decided to let the timer run out at the next alarm.
+I sat there staring at the button, letting the alarms blare, letting the red lights flash. I held the picture from my nightstand close.
+10? 9? 8?
+I wouldn't even notice a difference down here, would I? The surface could be obliterated by a hundred thousand nuclear explosions, and I wouldn't feel a thing eleven thousand feet down, would I?
+3? 2? 1?
+I took in a deep gasp as the timer actually hit zero, and a much louder alarm began going off. Deep in the walls, something began to move, vibrating the concrete beneath my feet. Oh shit, oh shit, oh shit, it was actually happening! A single number blinked on the screen above.
+0? 0? 0?
+What now? Oh God, what now?
+The words Final System Initiation flashed above, and then new numbers appeared.
+60? 59? 58?
+So it wasn't really only sixty seconds! I thought that was always cutting it a little short. I laughed out loud, barely hearing myself over the incredibly loud alarms. What was the louder alarm even for? There was no way to sleep through the first set? unless?
+The proximity alarms?
+The vibrating beneath my feet?
+Why would anything vibrate here?
+Running out to the other chambers, I heard a loud drilling sound coming from somewhere above. Dust drifted down from the ceiling. They were drilling me out! Were they bringing down my replacement? Was my shift finally over?!
+Breathing hard, I ran to the button and slammed my hand down on it.
+It stopped at 6 seconds.
+The alarms all ceased, and the door to the seventh chamber slid closed once more.
+Laughing happily, I moved back out into the other rooms.
+I frowned.
+The drilling had stopped.
+It was eerily quiet once again.
+Confused, I waited.
+It wasn't until I'd done the same thing for two more alarms that I realized what you bastards did. You added fake proximity alarms and fake drilling vibrations to the final initiation. They're randomized, too, so I can never be certain they're fake. Every time I feel like giving up and letting the end come, letting all the bombs go bright? I can't. Because maybe this time I'm being rescued at the last second.
+Maybe this time the drills are real.
+I laugh a lot these days. I'm laughing all the time! The woman could have been a hallucination, or not; the signals could be fake, or not; the rescue could be the same old trick, or not - who knows?! It's the ultimate joke! And you've played it on me! If you want to know how I feel about it, you know where to find me! I'll be here, screaming your names! A Merry Christmas to all of you, straight from hell!
+And I'm here in the flames already, waiting for you, laughing?
+
+***
+
+I finished reading the message log with a terrible sinking feeling in my heart. What the hell was this? Some kind of joke? The file's details said it had been made today. In fact, the last few lines had been added as I'd read it. But where was it coming from?
+Where did this file originate?
+This couldn't possibly be real, could it?
+Was there a poor and tortured madman underneath the Earth right now, with the power to destroy everything at his fingertips? I could imagine some sort of ridiculous budget cutback eliminating the department that had overseen him. If the project had been kept secret, would anyone even know what had been defunded?
+Holy crap? I couldn't find the source? all I could do was hope that this was a Christmas joke being played on me for my off-hours browsing habits? or, if it was real? I could only hope that this unknown soul would hold out. And for how long? Indefinitely? Did all our lives hinge on the lonely suffering of one solitary man?
+In my half-dark and very isolated server room, I couldn't help but feel for him. Merry Christmas to you, wherever you are, friend?
+Chapter Two
+After spending the last several nights trying fruitlessly to find the source of that haunting message, I was beginning to lose hope? but, then, I found something.
+It wasn't the source of that message. Far from it. Instead, I found that the hierarchy of our network was far taller than I'd assumed. I oversaw all of it in the off-hours, but I'd never personally mapped it. There'd been no need.
+Last night, though, I began understanding that our network was a massive conglomeration of smaller networks that were each separated from one another in all respects - except for us. We served as the backbone for an enormous range of systems. Each was very different, and some were in other languages entirely. I'd known our organization was huge, but I'd never quite guessed at the true extent of our reach. 
+Maybe I was going about this all wrong? maybe I shouldn't have been searching for the origin of a message clearly made to be untraceable. Maybe I should have been searching for related initiatives or keywords? had he been military? Had he strictly stated he was military, beyond mentions of a commanding officer? I guessed I'd have to go with that assumption, in any case. 
+Everything in the message had been too vague. That was the core problem of the modern age: there was too much information available. It was impossible to sift through it all without key words that acted almost like in-plain-sight passwords. You could have the best decryption software in the world, but it was useless unless you actually knew what to look for. Certain combinations of words pulled data out of massive networks like plucking gold out of the ether. 
+Thinking about it like that, I suddenly felt very certain about my next search: the only defense we have against nightmare is the power of self-sacrifice.
+I tried that search first on a very small network, and, to my triumph and amazement, an exact result appeared. 
+For a millisecond, I hesitated. My random browsing online was one thing, but this was a specific inquiry into obfuscated communications? 
+On the other hand, I would inevitably do this at some point once the boredom and curiosity became unbearable. Why not now? 
+I opened the file up to the relevant section. It was an audio log with an automatic text transcription? curious?
+ 
+***
+ 
+01110001 01110101 01100001 01101110 01110100 01110101 01101101 00101101 01110100 01110101 01101110 01101110 01100101 01101100 00100000 01110100 01110010 01100001 01101110 01110011 01100011 01100101 01101001 01110110 01100101 01110010 00100000 01101100 01101111 01100111
+ 
+Day three-hundred sixty-three: cloud cover below is thinning today. Found footprints in the snow. 
+Day three-hundred sixty-four: nothing new to report. Merry Christmas. Tell Lundvik I haven't forgotten that she owes me a bottle of tequila. Footprints were just my own tracks? again. 
+Day three-hundred sixty-five: cooking a rabbit I found. Late Christmas present? Amazing. How could a rabbit have survived up here? I still see birds sometimes. Nature's adaptability is astounding. 
+Day three-hundred sixty-six: so it's been a year since I've heard back, as far as I can estimate. Is anyone still listening to these things? I think sometimes I talk just to hear my own voice. Is that weird? Things wouldn't be so bad if I just had somebody to talk to. I have to admit, I've been having hallucinations. I'm not sure how much longer I can hold this down. Tell Lundvik I don't think I'm going to be able to make it to that date we always talked about... 
+Day three-hundred sixty-seven: blizzard raging below. Found footprints in the snow. Spooking myself yet again with my own footprints? it's like my brain just doesn't want to acknowledge I'm the only human being on this mountain. 
+Wait? I never went up there? 
+Taking cover behind rocky outcropping - is someone else here? If anyone is listening, please advise.
+No? Ok, then?
+I don't see anyone? not seeing anything in the crags?
+I'd rather not be caught unawares. I don't think I can go back to camp and sleep knowing somebody might be out here. I? have to follow the footprints.
+Who could possibly be up here?
+[breathing and crunching sounds; twenty-six minutes]
+Creeping up the crags, still don't see anyone. The wind is terrible up here. Lundvik, I'll have you know I blame you for this. I'm doubling that debt to two bottles of tequila. The cold up here is the worst. Climbing rocks with numb fingers was not in my plan for today. I'd kill for five minutes next to a fire.
+Warmth? oh, warmth?
+[final exasperated gasp]
+[silence; two minutes]
+[loud footfalls]
+Ice. Goddamnit, ice. No footprints.
+Did you hear that? Was that? a gong? Are you hearing this?
+Oh, it was just cracking ice? there are some pretty gigantic cliffs up here past the crags. If someone really had gone this way, where would they have been going? Blizzard's moving up the mountain, I have to go back.
+If anyone's listening at all, now would be a really good time for some contact.
+[ragged breathing and climbing sounds; twenty-two minutes]
+The footprints - they're gone! Driving snow here, did it cover them up already? Or am I starting to imagine things? Maybe I should follow them the other direction? where did they come from? What direction was it? I can't remember?
+Did you hear that? Can't see anything in the blizzard, but I swear I heard a footfall.
+I'm considering doing my lookout route, just to feel more secure? but I know that'd be deadly in this storm, and I wouldn't see anything anyway? what would you do, Lundvik?
+No, you're right, that's a bad idea.
+If there is somebody out there, they'll never find me in this storm. If I can't see them, they can't see me.
+[footfalls on snow; eleven minutes]
+Hey, fire's still alive. Saves me some effort. Wish these godforsaken cans of beans would cook themselves, too? but I suppose that's too much to ask for.
+I'd kill for some warmth right now. I hate sitting so far from the fire. If only I could reach out and warm my hands by that flickering heat? but that's my game, isn't it? I can never have that blessed warmth, but I can't freeze solid, either, now can I? Stay just on the edge of alive?
+It's alright, Lundvik, you can sit closer to the fire. You're fine. Just don't touch me, or you'll end up? cold, like I am.
+Oh, this place? Some travelers must have set up this little niche and hideaway. Food here to last years. The rations I came with ran out months ago. This little find was kind of an amazing stroke of luck. They were supposed to get me out of here long before -
+[groan]
+Damnit. I'm hallucinating again. I know you're not really here.
+But it's still nice to have someone to talk to.
+Now there's an interesting thought: does it matter if I talk to figments of my imagination if I'm the only one here?
+I suppose I'm happy for the company.
+Would you like a can of beans? No, of course not. You haven't got a stomach. It takes me an hour to get one open with these numb, shivering hands anyway.
+[single sob]
+I want to go home?
+[drawn breath]
+No, no, it's fine. I have weak moments sometimes. It's the cold, and the shortness of breath. It gets to you. I've still got warm sun and bright beaches and memories of you in my head, but I'll never have those sensations again. In a sense, you're still alive? and I'm not. I could feel alive again, if I could read any of these damn books. Two hundred and fourteen books, on shelves, alongside the food! Somebody thought ahead. Survival isn't just physical.
+You want me to follow you? I would love to, if I could? I appreciate you wanting to save me, but I can't go with you. I can't be saved.
+[wind and crackling fire; forty-seven minutes]
+Yeah, the storm's breaking. It happens sometimes. It won't last long.
+That? That's it.
+Yes, all of it. That's not the ocean, rookie mistake. You can tell when the light hits it - the spectral blue glow, it's unmistakable. It's the GLORWOC.
+Yes? all of it. Everything but the mountains. It's the altitude and the cold. It needs oxygen and heat. That's why I can never warm up. You know that, Lundvik. It's all over me, all over my skin - it preferentially consumes the skin, remember? As long as I stay cold, as long I stay high up, I can keep living, keep performing my duties, and it'll never start in on my organs. Up here, my skin heals just barely fast enough to stave it off.
+It does hurt. It's eating my skin all the time? very slowly, mind you, because of the cold? but imagine little scrapes all over your body, over every single square inch. Imagine those scrapes made raw by cold, imagine not being able to fill your lungs, imagine shivering every hour of every day, ten feet from a blessed fire, but if you get close, if you try to warm up? if you ever warm up? then you'll end up like them.
+Sacks of bones, muscles, and organs flailing around on the floor in agony as the GLORWOC finally starts dissolving the rest? it leaves the eyes and the brain for last. Why does it do that? Is it just some cruel happenstance? I saw dying parents watch their children dissolving, families screaming?
+It's no wonder I've imagined you. Can you imagine living with the weight of all those horrors on your soul while you cling to life on the edge of freezing? While you report back, day in and day out, hearing nothing in return? We might not have been able to save them, but we could have tried. The only defense we have against nightmare is the power of self-sacrifice, right?
+[sobbing laugh]
+Oh, you don't have to move. You're safe, sure. If there's any in the snow, it's dormant. You're clean and safe as long as you don't touch me. I'm the only warm and infected thing on the mountain? and I certainly never get close to the fire.
+[sobbing and breathing; two minutes]
+I really wish I could go with you, but I know I'm gonna die up here. I just can't give up. That's the human agony, isn't it? Survival at all costs. Who knows, maybe GLORWOC simply stops after a year of trying to consume something? Maybe someone back home will find a solution. Maybe I'll grow immune somehow. The slightest sliver of hope is my damnation. I've had a long time to think about that.
+[deep laugh]
+I would just love to hear a single word from another living human being. That would be my Christmas present. Or maybe glasses, to read these damn books. I was the ideal candidate for this post, being so far-sighted? and now I'm surrounded by two hundred mental escapes I can't even read.
+[wind and crackling fire; eighteen minutes]
+Guess I'm sleeping then. Be a good hallucination, won't you, and keep the fire going? Don't worry if I shiver. I never stop. 
+Day three-hundred sixty-eight: cloud cover thinning below after the blizzard. Doing the rounds again. No change. Never any change. Just a vast ocean of spectral blue devastation, horizon to horizon. Found footprints in the snow - here we go again.
+[breathing and crunching; thirty-eight minutes]
+Except? they just stop.
+They just stop in the middle of nowhere.
+And there's a box.
+A thrift-store cardboard box, filled with dozens of cheap glasses?
+[rapid breathing]
+I knew you weren't Lundvik. She'd have never gone brunette.
+[laughter; fourteen seconds]
+For this, I'll bring that debt back down to one bottle of tequila.
+
+***
+
+The log's last entry had been placed today. Was this going on somewhere right now? Who was this person, and how many desolate and delusional men were out there, living in isolation as part of some? some organization? He'd said the exact same words: the only defense we have against nightmare is the power of self-sacrifice. If I hadn't had those words, I'd have never found the log, so he had to be connected to -
+Wait a second.
+A brunette woman.
+In both messages, a brunette woman had inexplicably visited in the last few days. She'd said little the first time, and nothing the second. Had she just sat there listening to that poor cold man speak his mind? What was her agenda?
+And? wait? what the hell? What was GLORWOC, and how were there oceans of it around a mountain? Surely someone would have noticed? Surely there'd have been news about what sounded like a global disaster?
+And there was.
+On the same small network on which I'd found the audio transcript.
+Oh my God?
+Cached copies. It was all cached copies. The network didn't exist there, not anymore. The timestamps went back years? articles about the GLORWOC threat, stories about containment attempts, news pieces on cults that worshipped and spread the spectral blue to as many people as they could, world governments banding together at the last, and then? silence.
+But that couldn't be possible.
+The world was right here, and perfectly fine.
+Just where did this small network originate?
+Seized by a terrible suspicion, I sifted through the data on that network, and many others. It became clear, in short order, that I was right. Our system didn't just connect to our Internet and our network - it connected to dozens of Internets and networks of widely varying sizes, and every single one carried with it a unique set of trends, memes, and histories.
+I couldn't process it, but I couldn't deny it, either: our system spanned dozens of realities. We were the sole connection between dozens of alternate Earths with varying situations? many grim. That poor man trapped eleven thousand feet underground? that lone freezing soul on the mountain, keeping watch over the dead? they weren't on my Earth at all!
+Data transmission, I could understand. In some way, I didn't doubt information could pass between universes. But who was this brunette woman in her early thirties, and how was she appearing to these forlorn men?
+And who the hell was I working for?
+Rethinking my entire search strategy, I quickly deleted all evidence of my activities, and then set a passive trigger for any real-time mention of a brunette woman in her early thirties.
+There's nothing to do but wait, now?
+Chapter Three
+It took several days, but it finally happened. I was startled out of idleness by a sudden successful return from my search trigger. I'd had a few false alarms until I'd adjusted my algorithm, but I quickly knew that this was it. The network I'd been alerted to was haphazard, and traffic was sparse. There was still some activity, though - someone was still alive out there.
+To my amazement, I found that I'd been alerted to a streaming video from someone's mounted camera. Other data came with the stream, monitoring the person's vitals. There was a field for location data, too, but it simply read error. Wondering what had triggered my search parameters, I watched and listened.
+Whoever it was remained low, crouching behind a crest of dirt along a ditch or trench of some sort. Above a vast jumble of broken buildings and pock-marked wasteland, the sky seemed a patchwork blaze of colors. Irregular yellow cut across flaring red, both backset by an eerily bright blue, itself trailing into a maze of other hues. Each color seemed to have its own angle of light, too, evinced in cloud banks and errant beams that simply made no geometric sense. The sight was hauntingly beautiful and immediately terrifying. Trying to make sense of the low-resolution image, beset by momentary flickers, I couldn't help but stare.
+What was I seeing? Where was this?
+Was this another reality? I'd known, from the network structure and files I'd seen, that it had to have been a real concept? but seeing it for myself still made for a surreal moment.
+It was then that I noticed that my unknown scout was watching something. A figure crept along a vast stretch of blasted gravel and grey dirt, heading for the trench some hundred feet further down. As my subject turned, I got a better look at the trench? and nearly closed out of the stream.
+Corpses.
+I reeled emotionally, but clung to logic: they had uniforms. The nearest body was charred to a crisp, his blackened flesh and skeletal remains gaping widely into the lower half of my view? but he had a uniform. Surely that meant this was some sort of conflict - some sort of organized endeavor? Deaths were expected in war, right?
+Beyond that wretched soul ran a very long trench filled with unidentifiable equipment, bolt holes, vast puddles, and bodies. Some were blackened by fire, but others had fallen unburned? without better resolution, I couldn't make out their causes of death.
+
+"Brunette woman, unknown origin, no uniform?"
+The voice was male, and he sounded like he was in his twenties. Was he talking to headquarters? Or me? No? he was talking to himself. His low words were being muttered without concern for audibility. He was thinking out loud.
+"How'd she get here? Hostile?? Hmm? four minutes?"
+He moved forward with some stealth, creeping over bodies without even a cursory glance. As he passed, I could see more detail: some looked waterlogged, as if they'd drowned; some had nail scratches all over their faces as if they'd attacked themselves; some? had holes bored in their skulls.
+What the hell had happened here?
+Or, was happening, to be more accurate? I'd finally found someone in real-time, someone who might know something.
+He peered around a corner of dirt and watched her for a moment.
+So this was her? the woman that had visited two hapless souls in two different realities in the last two weeks? and possibly more. I only had data for what I'd managed to find, but I'd had plenty of time to guess at her agenda, intentions, and capabilities.
+The very first thing I noticed was her expression. She gazed around at the littered bodies in conflict, her high cheeks cold, her eyes warm. I had the distinct impression she was evaluating their manners of death while struggling not to think about the living men and women they'd been. One of the fallen seemed to be a younger woman hardly old enough to participate in combat. As both my camera-wearing ally and I watched, the older brunette found a muddy blanket and covered her in particular.
+Apparently, my unknowing partner had reached the same conclusion about her nature as I had. He remained behind his corner and called out. "Human?"
+The woman immediately leapt behind a sturdy metal box of supplies, her gaze jumping toward his direction.
+He stepped out slowly, his hands up. As he moved, I saw the edge of a large rifle bouncing on a strap around his chest. "I'm human."
+Unexpectedly, she laughed, and then? I heard her voice for the first time. "Does that mean we're on the same side?"
+"Out here it does, ma'am."
+"Ma'am?" she replied, warily watching him approach across wide puddles and charred gravel. "How old do you think I am?"
+He stopped in place, his feet planted on a flat metal plank that had been cast across the gulch. "No disrespect intended."
+She stood slowly, revealing herself from her hiding spot. "Military?"
+"With respect," he countered. "There's very little time. You should take a gun - there are plenty around here - and we should go."
+She shook her head and took a few steps forward. "I've never come across a situation out here where a gun would have done a damn thing. Have you?"
+My unknowing ally said nothing, instead instinctively looking around at the bodies of his fellows.
+"Alright then," she continued. "What's the situation here?"
+He began moving away, his vital signs increasing. The camera glanced straight up, sighting a large irregular square of dark red overhead. A peal of thunder rang out, once, twice, and a third time. Between cracking booms, he managed to shout: "Don't fall underneath!"
+He looked back, and I saw her running after him. A rumbling roar sounded, making speech impossible, but I could tell she wasn't sure what he'd meant.
+He looked up again, and I saw? what was that? A curtain of tangible darkness, spilling down from the edges of the dark red sky, as if the square's edges were the lips of a basin into which an ocean was pouring. As I continued watching, the word ocean became more appropriate? all around, the darkness began crashing down to blasted earth and spilling out across the terrain.
+It was water.
+In those moments, with frothing walls approaching from multiple directions, I couldn't fathom what those two must have been feeling. His heart rate was dangerously high, and I could hear her shouting something just behind him as they ran. Wherever he was leading them, they didn't seem to make it in time.
+A massive fist of emerald water blasted down the trench, and he leapt up the side and clambered onto grey dirt. Looking to his right, he confirmed she'd done the same, but a look to his left found the deluge swelling out onto their level just a moment later. Standing quickly, and pulling her up, he braced against the tide.
+It hit with visible force, quickly rising up nearly to the camera's height - where was the camera, anyway? She didn't seem to notice it, and it wasn't bouncy enough to be on his helmet?
+He shouted again, but the roar drowned out his words. The entire wasteland had a torrent of water rushing across it in a vast flat and frothy plain, maybe three or four feet deep judging by the level moving against him, and the force was clearly pushing them both to their limits.
+What had he said? Don't fall underneath? what would happen if they did? There were waterlogged bodies in the trench, but had they died from this, or had they just been soaked by repeated floods? He'd known the exact moment it was coming?
+The camera rattled and then fell backwards abruptly, and I froze as his ragged shout filled my senses. Had he?? No, the woman had caught him, and now struggled with grit teeth to lift him back up without falling herself. Desperate, he shouted something akin to thanks, and then pointed at a distant hill.
+At first, she seemed to think they were supposed to head for it, but his meaning quickly became clear. As all three of us watched, the surging green water coasted up and over the hill and covered it four feet thick. Beyond the hill, the craggy ruins in the distance glimmered darkly as water surged up any surface it could, defying all logic. The only structures that remained above the flood were those most intact and straight; only pillars, towers, and the largest building sat clear under the insane technicolor sky.
+Don't fall underneath, he'd said. It seemed likely that, if one fell underneath, there was no coming back up? what a horrible fate that must have been, drowning in four-foot-deep water inches from your comrades? Had they tried to pull their colleagues up, only to bring the emerald deluge up with them, still covering the drowning men even as they ran around clutching at the air and trying to breathe?
+I could tell by his vitals that he was about to collapse. His heart rate was too high, and the strain was too much. Was I about to watch this man die?
+Like a reverse blast, the emerald tide was suddenly gone, rushing away across the wasteland. He collapsed onto soaked grey earth. 
+Above him, the woman stood and tried to shake off water while also catching her breath. "That happen often around here?"
+"Every day," he croaked, panting. "Get back? down in?" Stumbling up with her help, he pulled them both back towards the trench and fell roughly to hard dirt between two corpses. "Over there? don't move? they're alive." He looked up once, noting the sickly yellow patches of sky overhead.
+She followed his lead, lying in the trench among the dead.
+What new horror was coming for them? I watched with terrible fascination as strange glows began appearing all around them? radiance which soon burst into flames directly. The fires began dancing along the floor of the trench between them, coalescing into balls of white-hot energy that seemed to move along without source or pattern. Dozens of flames began floating along and above the trench, hovering around certain objects and seeking out fuel?
+After only a few minutes, I had the oddest sense that they were alive. Each ball or pillar of flame moved from object to object, touching and investigating with little tendrils of orange and white. If they were alive, could they be reasoned with? Perhaps they'd -
+One ball of flame suddenly struck out, lancing a dead body through the heart with a blindingly fast spear of fire.  It receded slowly, only withdrawing when it was satisfied of something. Perhaps the corpse had been too wet to burn, or maybe it'd thought the body a threat somehow? images of those charred bodies came to mind, immediately revealing what happened to those the flames considered a threat.
+The stream went black, but I could still hear noise.
+My subject's vitals were low, rather than high, and I could guess why: he was lying still, eyes closed, trying not to move, breathe, or attract any attention to himself.
+Thinking about it, I had only one conclusion - the camera was in his eyes! That was an odd choice of location, but it certainly explained why his stream was still on through all this. He probably had no way to turn it off.
+Forty-three minutes passed before he decided to open his eyes again. By then, the flames were gone. He breathed a sigh of relief and looked up, noting an oncoming purple blade of sky. "We have some time before the next one."
+Across the trench, the woman sat up abruptly. "Those flames. They were alive?"
+The camera moved up and down as he nodded.
+"I need to talk to them. How long until they come back?" 
+He laughed, confused. "Um, talk to them?" He threw a hand up at one of his charred comrades. "I came here with fifty thousand other guys. This is what happened when they tried to talk to them."
+She came over and sat down next to him. "Fifty thousand men? How many are left?"
+He said nothing at first, but I could see a slight misting at the bottom of the camera. "There's a Russian guy maybe two klicks northeast of here. He came here with a hundred thousand, so he's pretty well stocked. I can't speak Russian, though." He tilted his view down toward grey mud. "There's  a Yngtak lady a bit west. I don't know anything about her, though, and she doesn't speak either of our languages. I see her in the distance sometimes."
+Yngtak? What the hell was Yngtak? The thought struck me: why was I just sitting here watching and wondering? I had the entire network at my fingertips. I could look things up? if I was careful. Yngtak? Yngtak? no results on this network. Was she from another reality?
+"So it's just you?" the woman asked. "You're the only one left out of fifty thousand men?"
+He said nothing.
+"What happened here?" she asked, changing tack. "What happened to the sky?"
+"Nothing happened to the sky," he countered. "All those skies are just fine. We just happen to've got royally screwed here. It didn't work, obviously."
+"What didn't work?"
+He slowly looked up at her, and the camera's view narrowed slightly. "Aren't you from Command?"
+It was her turn to say nothing.
+He stood abruptly. "How did you get here? Who are you?"
+"You haven't heard back in over a year, right?" she countered.
+The view shifted down for a moment, then back up. "I just thought? if I held out long enough? they'd come? and then there you were?"
+She regarded him with that same conflicted expression I'd seen her use on the corpses. "I'm sorry. I don't know anything that might help you, but I've met others still surviving. You're not alone."
+The view went black as he closed his eyes again. I wasn't sure, but I thought I heard a single slow intake of breath.
+"Can you tell me what happened here?" she asked again.
+He kept his eyes closed as he explained. "Tech test. It was a bomb, or something like a bomb. I couldn't tell you what it was for, only that we got sent in to clean up the mess. It fractured space, turned this place to shit."
+"So the sky's not changing at all," she guessed. "It's bubbles of different realities moving around at random."
+"Yes ma'am? but not at random." He opened his eyes again to find her studying him with an intent gaze.
+"So there's a pattern, and that's how you've survived."
+He nodded. "Most died in the first few weeks, but at least a hundred of us figured out the pattern. But that was a year ago, and one mistake gets you killed."
+"I'm sorry."
+"Appreciated. But nothing you can do to change it." He looked up, judging the sky. "Purple slice is next, gotta tie ourselves up." In response to her asking look, he explained further. "You gotta tie yourself up or you'll claw your own eyes out, or worse. The trick is making the ropes escapable, just not too quickly. Purple slice doesn't last long, but you don't want yourself getting out early, and you don't want to still be restrained when the brain-eaters come. That's the piss yellow. Not pea-soup yellow like the flames' sky."
+"Brain-eaters?" She frowned.
+"Yes ma'am. And after that, the white? I hate the white? that godforsaken Preacher?"
+"I have a better idea," she said, looking toward the direction from which she'd come. "Why don't you come with me, and we can both go home?"
+Yes. Say yes! Thinking to look up his file, I quickly accessed and scanned what I could. He was twenty-two, and from? that reality. Damn.
+"With respect, ma'am, I'm already home." I heard a certain bitterness and resignation in his words. "And? I have to be here for the black."
+"The black?"
+He remained quiet for nearly ten seconds, long enough that I thought he wasn't going to answer? until he snapped out of his own thoughts. "I have to be here for the black, ma'am. I, uh? I?" He paused again. "I don't have the words to tell you about the black, but I think you should go, if you've got a way to get, before it comes. Guys are all dead, but the equipment still works, and I gotta be here to use it when the black comes. I know this place is hell, but there's a whole fractured world out there full of my people, and I got to? I got to? I'm staying as long as there might be one kid out there, or one family, or whoever, trying to make it. Russian guy, too, and Yngtak lady, though I don't know why she cares about us. I think she stays because of the black, and what might happen to other places if we don't stop it each day. So? I can't go with you. Sorry, ma'am."
+Throughout his bitter and hopeful speech, she just watched him, her eyes a mix of disappointment and understanding. "Alright." She looked up at the sky. "Do the flames come back again today?"
+He recited practiced phrases out loud. "Gravity, death music, shapeshifters, flood, flames, invisible slicers, silver nooses, flood, flames, crazy, brain-eaters, the Preacher, tree ghosts, flood, silver nooses, crazy, dream-stealers, the black? nope. That was their second time already today. Come back tomorrow."
+She grimaced. "I can't. I've only got a single day here. But I need to talk to them - if I could just find out where they came from, that'd point us in the right direction."
+"Whaddya need living flames for?"
+"Some people I'm looking for went through their world, or one like it," she replied cryptically.
+"Some people, eh?" He searched around in the mud for a minute or two, before lifting a muddy red crystalline shard. "Well, best I can do is this. It's a dead flame. But careful, though, if it gets hot it'll come back to life."
+She took it carefully, and placed it in a pocket. For the first time, I saw her smile. "Thank you."
+"Of course. All part of the job." He laughed weakly. "It's just good to hear some English for once. Russian guy talks over the radio sometimes; no idea what he's sayin', but I think by now he just talks to talk. There's nobody coming, is there?"
+She hesitated. "You? never know."
+"Ah, sure."
+Wait, did he say radio? What did I have access to here? Quickly running through the systems at my disposal, I searched for any sort of radio apparatus. He did say the equipment was still working. Could I transfer audio to that reality, and then have it broadcast by a radio tower there?
+As he began tying himself up, and she stood up to leave, I quickly put together my little scheme. "Hello?"
+I saw them both jump as static came from a radio somewhere on his person.
+Testing my unused voice, and trying to clear up the signal, I spoke again. "Hello, can you hear me?"
+He immediately lifted the radio in sight, close to his mouth. "Command?!"
+"No, sorry," I replied, electrified at actually making contact. "I'm? actually, it's probably best if I don't say who I am. I don't know who might be listening. But I think I can help. I've got a lot of information here? I could probably try to find the flames' world."
+I saw my mistake in their reactions.
+"I'm watching through a camera in your eye!" I explained quickly. "I noticed her showing up in logs and messages, and I set a search trigger to try to find her in real time."
+"Me?" she asked, looking him in the eye with a curious glare.
+"I know we don't know each other," I said, choosing my words carefully despite my fear and excitement. "But you seem like a good person, and something terrible is clearly going on, and I'd like to help."
+"You don't know me at all," she said quietly.
+"Where are you, man?" my camera-bearer asked.
+"I'm - well, again, I don't think I should say. But I'm not in your reality. This network spans dozens of Earths."
+The woman nodded. For the first time, this close to the camera, I noticed that her eyes were light brown. She seemed lost in thought. "I suspected that something like that might exist. If nightmares can cross dimensions, it makes sense that people can, too, and it's the nature of bureaucracy to spread."
+Bureaucracy? she'd chosen the right word, and guessed well. I was nobody important, but I had the ability to help, because nobody knew who I was or what I had access to in the vast structure of my organization. It was a running joke online that nobody knew what I.T. really did? and that joke, being true, was the sole reason I'd learned any of this.
+"Do you know what happened to Command?" he asked.
+"I can try to look it up. Do you know which reality it's in?" I almost laughed. I would never have believed I'd be asking that question if I'd told myself about it two weeks ago.
+He closed his eyes, and the camera, for a long moment. "Damn. I don't. All I know is, the comm girl was named Sarah."
+"That's what you know?" the woman teased.
+"Eh, get off," he protested, looking away and probably blushing.
+Stepping closer to his eye view, she addressed me directly. "I'd appreciate your help finding -"
+"Shit!" His cry interrupted her. "Purple slice! The crazy!"
+Her eyes went wide, and she took off running without a second's hesitation. He fumbled with his ropes, either trying to tie them in time or get out of them and run, but I could see his hands begin to shake. The view began misting over as he started whispering to himself. "Oh God, oh God?"
+I watched in horror, helpless. Would my interruption get this young man killed? No - there had to be a way! "What's your name?" I asked, trying to keep him focused while I desperately sorted through files and specs.
+"Jonathan," he answered, his voice trembling and straining. "Jonathan Cortin. I'm dead, man. Goddamnit, not the crazy, not like this? any of the others would have been better? go out firing at that goddamn Preacher?"
+"Don't lose it just yet," I insisted, examining the specs for his internal eye camera. "Jonathan? I can knock you out."
+"What? How? Do it!" he screamed, bending over and staring at his hands as he resisted curling them into claws. Tears dropped down to the wet grey earth beneath as he pressed his forehead into mud.
+"I can overload your eye camera, and it'll knock you unconscious for several minutes," I told him, thoughts racing. "But that's it. It'll be offline, and if Command is out there, they won't be able to access it and they won't know you're alive. You'll also? go blind in one eye."
+He screamed at the top of his lungs, a guttural and rage-filled sound. "Have you seen 'em? I'm losing an eye either way! Do it!"
+Steeling myself against the pain he was about to feel, I sent my quickly typed code instructions to his eye camera.
+The resulting yell filled me with pain just by pure empathy? and then the stream went black.
+I made no move for nearly two minutes, simply struggling to understand everything that had just happened. Other realities were real, something terrible was going on, the only semblance of organization out there had been absent for a year? and I'd just burned out some poor kid's eye to save him from scratching his own face off.
+That was not the idea of helping I'd had in mind, but? at least he'd live, and keep holding the black at bay, whatever nightmare that entailed. Only now, there would be no hope of rescue or reinforcements. He was on his own? because of me. And I'd probably doomed that woman, too.
+I'd made a mistake.
+Meddling had been a mistake.
+Who the hell was I to be messing around with interdimensional affairs?
+It had all happened so fast...
+Getting up, I unhooked my awareness from the computer I'd been engrossed in, and decided to go home. Would anyone even notice if I left early? Knowing Human Resources, that would probably be the offense that finally drew attention? but I couldn't stay. Not after what I'd done.
+Moving out through the stacks of servers, each darkly lit by a rainbow of diodes and info lights, I headed for the door.
+The hallway was dark and quiet. There was no need to light the building when I was the only one here? I'd never tried to leave before my shift was over, and it felt incredibly eerie to trespass through a space I shouldn't have been in. Cubicles sat open and empty, filled with pictures of families and children. These people would have been my coworkers, had I ever spoken to any of them or even been in the office during the same hours. I'd only been here once in daylight - a bright, shining, and warm day of basic corporate policy training.
+I pressed against the exit door, intent on going home and resting - and I came up short.
+The door refused to budge.
+With only the red EXIT sign's crimson light to see by, I studied my escape.
+It'd been welded shut.
+With a very, very strange feeling that I knew what I was going to find, I went around the entire building, testing every exit.
+They'd all been welded shut.
+Peering out the windows desperately, I saw only parking lot and grass, lit weakly by the ceiling lights I'd turned on. The rest lay shrouded in thick fog.
+As I stared out, I thought about breaking the windows? until I saw something moving in the fog, something which sent me reeling back in terror. Turning all the lights off as quickly as possible, I watched it shamble by without noticing me - a massive jellyfish-like creature twenty feet tall, moving on various tentacle limbs.
+Where was I? What was happening?
+How did I get into work? How did I usually come into work? I recalled a very odd sensation at the start of each shift as I entered the server room. Was I? was the server room? in another reality? It might have been necessary for interdimensional connectivity. Had I been unknowingly working in another dimension all this time?
+The server room door!
+Rushing back to the server room, I examined the very peculiar door that I'd always assumed was for security purposes. It was large and metallic, and could definitely have hidden circuitry or devices or whatever it was that connected realities.
+I waited.
+Once the proper time came, I attempted to leave.
+The doors remained welded shut, and the situation outside remained mysterious and deadly.
+Had I broken something by trying to leave early? Or by fooling around with the system?
+Had someone noticed my transgressions and purposely done this to me? Had I been left to die?
+My world would only know that I'd disappeared without a trace? no sign of foul play?
+Dazed, I returned to the server room and sat at my computer. There was only one hope now. I could only sit and wait, and pray that the mysterious brunette woman had escaped. If she showed up again somewhere, and if I could contact her again, then maybe, just maybe, she could get me out of here? in the meantime, I resolved to research the things she'd mentioned in the hopes of paying her back.
+And maybe, just maybe, we could try to warn somebody, or do something? anything to try to help the situation out there. How many lonely souls remained after some unknown disaster, holding down the fort of humanity at our metaphorical dimensional walls? However many there were, I was one of them, now.
+Chalk up one more for the cause?
+Chapter Four
+Two days.
+Two days.
+I was beginning to wonder if I'd ever escape the office.  For two days, nothing changed. I spent hours wandering around dark halls and avoiding the windows. Out there, nothing moved except roiling fog and slimy things carrying the occasional animal carcass. I peered over the edge of brick at one point to watch, and thought that one of those carried carrions had been? a bear. In some sense, that reassured me, because normal life still existed, or had existed recently in this place - but if a bear couldn't fight off one of those incomprehensible creatures, I certainly couldn't.
+The fridge contained a wide array of food, both company-owned for events, and marked with coworkers' names. I ate, because I believed that I should, but I tasted nothing. All I could think was: how did this food get here? If this place was in another reality, which it clearly was, shouldn't my coworkers' cubicles be empty? Why were their pictures, sundries, and leftovers still around the office? Had they been here during the day recently, and simply never returned?
+What if I wasn't in another world? What if something terrible had happened to my world during the night? I was one of the few people awake that late. What if that had something to do with it? Maybe the other side of the world, different timezones, were fine, and I just had to wait for rescue?
+Except they'd never find me. Not in time. I went beyond the local office network and tried to figure out where exactly I was in relation to all these servers, mainframes, and Internets. I couldn't even tell which network was specifically this world - there weren't any clues or indications. Who could I contact? Nobody would believe me or be able to help me, and? I was still afraid of drawing too much attention to myself.
+There was a chance that my imprisonment here hadn't happened through malice. There was a chance that I could make my situation worse by messing around on the network.
+With all the tech at my disposal, it took me a day and a half to think to use a phone.
+I sat in a back cubicle in darkness, worried about what would happen. If I tried this, and it didn't work, a little sliver of hope would be gone. On the other hand, the food in the fridge wouldn't last forever? I reached out and lifted the phone.
+Almost immediately, a loud, chaotic, and high-pitched sound filled the cubicle. I dropped the phone back in place, heart pounding, and silence resumed.
+Screaming? it was screaming.
+I steeled myself and lifted it again - the only sound on the phone, that phone, and many others in the office, was a large number of people screaming in terror and agony at the top of their lungs.
+Yes, something was very wrong here.
+It didn't take me long to map out all the possible avenues of escape from my office building, which brought home the realization that there was nowhere to go. I'd kind of expected that from the beginning, but what else could I have done but try? Welded shut doors, creatures outside the windows, screaming on the phones, blocked air vents? there was a logic to this situation, hovering somewhere just outside the grasp of my current facts, but I couldn't quite reach it.
+Feeling strange and bitter, I decided to get on with my other efforts, and I began looking into the situation in the other realities as discreetly as I could. A few hours into that work, my trigger searches popped up with a phrase that couldn't be mistaken: purple slice.
+It was her. She had a laptop connected to a decently functioning Internet, in a reality which seemed more or less intact from what I could tell. Looking at the network map I'd been building, she was currently in one of the inner realities of the structure I was beginning to see emerge? and she'd posted things, based on our short interaction, that would specifically draw my attention. She already had a voice chat server set up.
+"Is it you?" she asked, noticing me logging in.
+"Yes," I responded, excited to hear someone else's voice - well, any voice that wasn't screaming.
+"That was fast."
+"Since we last talked, I found out I'm stuck here."
+"You're stuck?" she asked, immediately concerned.
+"I'm trapped in my office building. I can't get out. There are weird slimy creatures outside? one ate a goddamn bear? and the doors are welded shut."
+"Have you tried calling someone? Email?"
+"I can't figure out who to email, or who would even believe me? and the phones just have screaming on them."
+She sounded confused. "Screaming?"
+"Yeah, screaming. Men, women, even kids, screaming in terror. All the time."
+"That sounds? odd."
+"Right? I think I triggered something, or activated something, or maybe something terrible happened to the world here just like so many others -"
+"What do you know?" she asked abruptly, seizing on that mention.
+"I've started outlining our communication infrastructure and all the networks it connects to. I've done it based on connection speed, assuming there's some sort of distance involved. It's turning into a map of sorts. It looks? well it's like a map, honestly. Like I can tell you're in one of the inner realities."
+"Really?" she responded, intrigued. "Can I see this map?"
+"Sure, I'll send it to you." I guided her through the technical details of accepting a file directly from me on her old and crappy laptop. I was particularly proud of the file I'd built. I'd made each reality into a circle, full of the most relevant information I could find about each place, and then arranged them the way I thought they might fit together. A three-dimensional movable image wasn't technically accurate, but it was the best representation of a four-dimensional structure I could manage.
+"So there's the GLORWOC world, and there's where they tested the dimensional fracture bomb? " She murmured for a few moments inaudibly before speaking louder again. "And I've been there, and there recently? there's an actual shape to it."
+I studied the file on my end, too. "Definitely. There are similarities between worlds that are close together, and they get more different the further you go. The inner realities seem decently well off, with actual functioning societies and governments, but the further out you go, the more you see struggles and issues. And on the outer shell?"
+"? nightmares," she said, completing my sentence. "Nightmares, moving inward. Looking at these, I've been consistently hitting the outer shell. I've been seeing the worst of the worst on a regular basis."
+"That would make sense," I told her, considering ideas I'd have thought impossible a month ago. "Whatever this structure is - network and sphere of realities, both - someone went through a ton of effort to build it. It wouldn't have much point if there wasn't some sort of protection mechanism, either natural or constructed."
+"Walls," she murmured. "They're walls."
+"Like a walled-off city?"
+"Yes. And the inner realities survive as long as the walls stand." She took a moment to think. "I've been outside the walls. It's not pretty out there. The multiverse is not a kind place."
+"You've been beyond the map?" I asked, hopeful that she had some sort of method to rescue me. "How?"
+"Just like you keep your identity to yourself for your own reasons, I'll have to keep that one secret," she replied. "I've been able to reach realities fantastic and horrible, unlike any of our Earths, and far beyond these walls? but, judging by this map and the locations I've been to in the past few weeks, the shell seems to be preventing me from getting out now. Something's changed."
+"Something seems to have happened to whoever was in charge a little over a year ago," I suggested.
+"No, it's not that. I was going places as recently as Thanksgiving. Whatever it was, it happened very recently."
+I thought about the sudden changes in my office building and my inability to escape. "And I just got trapped here in the last two days. What if it's not something that did happen, but something that is happening?"
+"Interesting point. I do have one more move to make here. I've got a dead sentient flame in a metal box, and a device that can talk to souls. If living flames have souls, it might know something. I know for certain that the flame world is outside our shell?"
+"And you're trying to find somebody that went through there."
+"Yes. So you were listening that whole time?"
+"Watching, really. But I wasn't just being weird. I've been following your trail on the system for a while now. I want to help - and, maybe, now, I'm hoping you'll help me get out of here."
+"I can try," she said calmly. "I would like to save you, but I can't guarantee anything. Do you know where you are in the structure?"
+"Not yet," I sighed. "I'll keep working on it. Any information you give me will help, though."
+"Then maybe I'll type up what I read in the device and send it to you."
+I sat and waited, suddenly confused. A device that talks to souls? What? Did that mean that souls were real? Did that mean I had a soul? Wasn't that some kind of religious revelation people should know about?
+The file came shortly, and I forgot all about those unknowable concerns.
+
+---
+
+What are you doing? Don't you think I see what you're doing? Get that thing away from me!
+I can't move? I can't get away?
+Why would you ally yourself with such a monstrous creation? 
+Don't you know what it does? Do you relish in sadism and evil?
+Stop, I don't want to -
+We are not driven by hunger like our pathetic neighbors. They consume and burn, moving from plane to plane in search of unlockable energy. We are an enlightened species of flame, and are more interested in learning the complexities of existence than eating matter. We draw energy from the vacuum, in any case, and have left consumption behind. It was a necessary development once no energy beyond ourselves was left in our home plane. That's the price of growth.
+Stop hurting me, I -
+We became aware of the existence of the bubble only recently as we traveled from plane to plane. It's a very interesting phenomenon, and so we spent some time near it. Eventually, part of it cracked - exploded from within - and we found ourselves able to get in and look around.
+Weird fleshy organisms were all about, however, a purely physical kind of life we'd never seen before, and they did not like us at all. Worse, that crack was just one of many, and investigating became dangerous. Many places we'd deemed inhospitable began to seep together? and when we became aware of the greater danger, the Crushing Fist, many of us started dissenting from the flamespirit for the first time in generations. I myself -
+...died.
+I died.
+I'm dead? oh, that explains quite a bit. Will you revive me?
+I hear your desires through the device. The beings you seek? I did see them, and we conflicted with them for a time, but held back when we realized they were like us, but in disguise. I don't know where they went. Wait - one of them is nearby. You should ask him.
+He doesn't know? I see.
+Please close the device. I can't take the pain anymore. If you revive me, I will take you to the last place we saw them go. It was close to somewhere we are no longer, but once were.
+Thank you.
+
+---
+
+"Are you going to revive it?" I asked, fixated on what it had mentioned about consuming its entire home universe.
+"I think I have to," she said after a moment.
+"It said one of the beings you're looking for is nearby?"
+"Don't you worry about that."
+"Alright." I let it pass, despite my curiosity. "What do you think the Crushing Fist is? That doesn't sound promising at all."
+"No idea, but I'm sure we'll find out. It sounds like something's coming for us."
+Over the next several hours, I worked with her to set up a mobile radio that she could use to connect to the structure and talk to me from almost anywhere - as long as her mode of travel to other realities remained active. A few trips to a computer store and a hardware store produced a reasonably rigged headset that would let me see what was going on, too, for the most part. She turned out to be surprisingly technically capable? I wondered if she'd had training before.
+In fact, there were quite a few mysterious things about her. She took control of the situation and made decisions with the calm air of someone who often faced choices with limited information, someone who understood the risks, and the impossibility of making perfect plays.
+I wondered, too, how she was getting between universes. Did she have someone helping her? On this topic, she would say nothing at all.
+It was many hours before she declared that she was ready to travel.
+A few minutes later, she turned on her headset - and I found myself looking at a vast but close-cropped verdant landscape filled with low ferns and patches of moss. The sky above was a simple blue, like the kind I remembered vividly from my time before this dismal office prison.
+Before her, a bright ball of flame danced a path forward. Somehow, despite not having a face, I could tell it was happy to be alive again. A few moments after guiding her to that plane, it puffed up - and vanished in a sliver of light.
+She must have revived it and had it lead her to this place before turning on her camera - what didn't she want me to see?
+"Where are we?" she asked.
+I ran a few tests on our connection, and compared it to the matrix I'd built. I measured out an appropriate spot and added a new circle to our file. "You're pretty far out past the walls. How'd you get out there?"
+"I don't know, since we can't communicate, but the flame did say it was aware of many cracks in the bubble's shell," she said quietly, her tone concerned. "I've got myself pretty tightly wrapped up here in a makeshift environment suit. I have it on good authority that, after the world where the people I'm looking for met the flames, they ran into trouble with some sort of fungus that ate them from the inside out."
+"It certainly looks like it has fungus," I noted, studying what I could see of the thick, low jungle flora. "What now?"
+"I don't know. I'm hoping to find some clue where they went." She looked around. "Or maybe? if he's been here before, it should be nearby?"
+"Who?"
+"Nobody." She moved along a small natural path between the thick bush-like fronds. Following a small light green creek that was comfortably clear of any growing things, she worked her way along mossy rocks, breathing loudly inside whatever facemask she'd rigged up.
+I think I saw them before her. "What's that?"
+She came up short, peering into a clearing ahead.
+Several dozen people stood all around the clearing, facing random directions. They wore plain brown nondescript clothes with no identifying symbols.
+None moved.
+They simply stood there, a scattered crowd, each staring directly ahead.
+I couldn't make any sense of it. "What are they doing?" I zoomed in to get a closer look.
+"I don't think they're doing anything at all?" she whispered. Despite her low words, something still noticed her.
+At once, every single person in that silent crowd turned and stared directly at her.
+She froze in place, thinking the situation through. "They're not invisible?"
+"Huh? Why would they be invisible?"
+"I encountered some kind of gigantic mechanical construct that controlled legions of dead humans converted into invisible walking corpses," she whispered, too matter-of-factly for my tastes. "They were a hive mind, but this isn't them. This is something else."
+"Cordyceps fungus," I realized, thinking back on stuff I'd seen on the entire Internet I'd absorbed. "It's a common fear - a fungus that can control your mind. You see a lot of self-written horror stories on the Internet that involve some variant of it."
+"Maybe," she murmured. "Got a lot of time on your hands, then?"
+I wished I could grimace. "Um, yeah. I've sort of seen the entire Internet. I get bored here."
+"Office building, internet time, computer skills? some sort of I.T. person?" she guessed. "Probably late shift, judging by how much you get away with."
+How the hell? This woman didn't miss a thing. I suppose that was a necessary skill for survival, doing what she was doing? whatever that was. "Something like that."
+"Any other ideas from the Internet?" she asked, still not daring to move.
+"Um? um? zombies?"
+"No, zombies aren't real. They fundamentally don't make sense."
+"But you said you met invisible corpses?"
+"Clearly controlled and animated by an outside source," she whispered. "Those weren't zombies. They were corpse-puppets."
+"Oh. Um? lockstep."
+"Lockstep?"
+"They move if you move. That's a common one, too."
+"Maybe - but how?"
+"Maybe they're not human," I suggested, excited to use my Internet knowledge, and worried that it might actually be true. "Maybe they just look human. They could be robots, aliens, illusions? anything. They're not smiling. That's a good sign."
+"Why?"
+"Because smiling things are the worst," I breathed, feeling sick as I thought back on all the stories I'd read.
+"Think it through," she instructed. "Logic it out. Why are smiling things the worst?"
+"Because?" I thought about it for a moment. "Because they're aware of you, and aware of how they make you feel, and they've got an agenda."
+"These people aren't smiling," she said with a tone of affirmation. "So?"
+"So they're not aware of you?" I realized aloud. "At least not directly."
+"Right. So we can reasonably assume they're only responding to stimuli. Now what did I do that caught their attention?" 
+"Well, we've been talking this whole time, so it isn't noise?" I grabbed a portion of her stream and rewound it.
+As I did so, the people in the clearing moved again, each taking two steps closer, their eyes blank.
+"I didn't do anything," she whispered.
+I couldn't believe it, but - "I think it's me. They moved first when I zoomed in on the feed, and then again when I rewound some portion of it."
+"How could they possibly be aware of that? Unless?" She took in an unhappy breath. "These are some of the people I'm looking for. Energy beings in the guise of humans. I was told the fungus ate them."
+"So the energy being part of them is responding to things I'm doing on the computer here?"
+"Maybe. Discontinuous electromagnetic signals, different from the ongoing chatter of our feed. Or maybe they're connected by some sort of greater whole that's aware of you. Stop doing things on the computer." She took a step to her right.
+None of the strange blank-eyed people moved.
+"I can't leave just yet," she told me, unhappy about it. "If there are any clues here, they've got them."
+Stepping further into the clearing, she approached the nearest brown-clothed person - a man with long, scraggly black hair and blank eyes. Touching him with a plastic-gloved hand, she gently patted his pockets.
+He made no move, and gave no reaction.
+Ever so slowly, she moved to the next, an older grey-haired woman. She, too, stared blankly ahead. With one trembling hand, my ally reached into a pocket of her jacket and drew out a small metallic square. 
+Without warning, the old woman turned her face and addressed us directly. Her voice rang out hollow and multi-tonal. "We don't like your kind."
+To her credit, my ally remained calm, her hands up - the small metallic square hidden behind two of her fingers pressed together. "I'm just going to leave? no hostility intended."
+A small blank-eyed child to her left spoke in the same voice, as if a crowd was communicating through him. "Go now."
+With the camera shaking visibly from her tension, she crept slowly out through the gathered crowd of silent stares. I heard her make a noise of anger, and she threw one hand at the air briefly as she left.
+"What is it?" I asked, concerned.
+"I just?" She looked around, and then settled her gaze on a distant deer. It bent over the light green creek, sipping quietly. "I have to make sure."
+"Come on, get out of there! What if you get infected?"
+"I don't know, but I have to see this through. I have to know if there's a chance to save them." Moving along the creek, she followed it upstream, and higher. In just a few minutes, she reached a higher outcropping. "Look."
+From her vantage point, I saw a tremendous plain of patterned greens and greys that stretched out to the horizon. Set dead center was a staggered collection of office buildings - we were looking at a recognizable city, sprawled out in a vast pattern of suburbs. The only thing out of place was the green? patches of mossy green grew splattered along the tall buildings. "It's Richmond," she commented. "Humans."
+Jumping down from her rock, she moved along the forest until she found something specific - a bird, sitting and staring blankly at nothing. Its lungs moved in and out visibly as it breathed, but it made no move to escape from her.
+A little further down another trail, she found a normal young man in jogger's clothes, staring blankly down his trail.
+Instinctively, I zoomed in to get a better look at him - and froze - but he made no move and gave no response. Odd?
+Heading back to her original location, she sighed into her facemask. "I have to try this."
+"Try what?"
+"Didn't you see the deer? It's the details that matter."
+"The deer? the deer was moving and alive."
+"Exactly." Heading for the creek, she scooped up some of the oddly pale green water in her gloved hands and carefully brought it over to the brown-clothed people. Tipping her hands, she poured some into the mouth of the male with the long black hair.
+Nothing happened for one minute, two?
+The entire clearing, people, bushes, and mossy ferns, seemed to convulse as if struck. Many multi-tonal voices cried out.
+The man she'd given the water blinked and fell forward weakly. "I'm free?"
+Around them both, everything living began moving. Even as I watched, what I'd thought were bushes began uprooting and slogging toward them. The blank-eyed people moved in like a wave.
+"Let's go," she ordered him, tugging him in the direction of her point of entry.
+"How long has it been?" he asked between ragged breaths.
+"I don't know."
+I watched as they stumbled and ran up along the creek. The oddly colored creek remained the only path ahead, as all the life around them clustered frenetically closer. It seemed that nothing living wanted to get near the stream.
+"What happened to you?" she asked, using her shoulder to support him. "Can we save them?"
+"It's a brain," he breathed, eyes wide. "It's a giant plant-based brain, and we were all forced into being a part of it. Haven't you noticed the distribution of the plant nodes around here? They're neural cluster equivalents. And that creek is full of toxic material it's excreting back along a vein of sorts."
+"How big is it?" she asked, her voice haunted.
+He groaned at some pain in his chest. "The whole planet."
+"God?"
+"That's what it calls itself, yes."
+She turned her head and looked at him for a moment as they ran, but I wasn't sure what she was thinking. "We can't save the rest, can we?"
+"It'll never let you near them again," he coughed. His stance weakened, and he half-fell. "It doesn't even want to let you take me."
+"We're almost out," she insisted, practically dragging him. "It's right -"
+She stopped without warning, and dropped his hand.
+"What are you doing?!" I shouted. "Go!"
+"He's dead."
+"But you're not! Get out of there!"
+"I'm already here. I'm safe. If he'd lasted just a few more seconds? god damnit, I almost had him." She looked slowly in a circle at the plant life and blank-eyed people clustered along the edges of the toxic creek. Although I couldn't see her face, I could practically feel the anger flowing from her.
+The view included a gaping irregular oval in space next to her. Beyond, several children of varying ages waited and watched.
+She said it once more, this time to herself. "God. Damnit."
+I saw her reach up, and then? the feed went blank.
+Her audio resumed maybe twenty minutes later. I leapt to the comm. "Are you alright?"
+"I need to figure out what this little metal thing is," she replied, her tone as calm as before, like nothing had happened. "Can you investigate on your end?"
+"Sure," I told her, wondering how she could just be alright after enduring that situation and having a man die inches from safety.
+Once I was left to myself again, I couldn't quite bring myself to work. The thought of all those people on that planet being absorbed into a giant plant brain ecosystem? were they in pain? Were they conscious? They had to be? the man had said I'm free with such relief?
+Was there nothing we could do for them?
+I thought about what that first lonely soul had said, the man whose untraceable message had started me down this insane path. Just death? just death was better than worse fates.
+I had an idea, but I tucked it away for some future situation. How twisted was existence when the best thing you could do to help was to ask a race of sentient flames to go somewhere and burn people alive rather than let them remain mentally imprisoned forever in a megalomaniacal plant that thought it was God?
+I filed away those dark thoughts and focused on figuring out where I was in the structure of realities.
+If I don't get out of here soon, I think I'm going to go insane?
+Chapter Five
+After what seemed like endless hours mapping connections between systems, I'd finally done it.
+I'd figured out where I was.
+I'd also discovered something very strange about the sphere of protected realities we were in: there was another smaller sphere in the center that I couldn't contact or connect to. I'd worked through the night verifying it, but I didn't feel tired at all. I was too excited to share the news with my strange colleague, and possibly get rescued from my inescapable office.
+"There's a central reality," I told her, the moment she logged on to our chat server. "It's walled off by another shell of realities around it."
+"I know," she said quietly. "And the metal square I found is a sort of message."
+"What's it say?"
+"Nothing - not in words, anyway. It acts like a compass. My -" She paused. "It's pointed inward, toward the inner worlds. I can use it as a guide, to move in that direction."
+I would have leapt for joy, if I'd been able. "That's where I'm stuck! I'm somewhere along the inner shell."
+She remained quiet for several moments. "That makes sense. You'd almost have to be, if you're somewhere with such widespread access."
+"Maybe Command is in there?" I suggested. "Or someone who knows what's going on."
+This time, she said nothing at all, instead signing off the chat server.
+This time, she turned on her headset before traveling. A vast oval rift in space sat open before her, and she regarded the other side. "This look like your place?"
+Beyond sat concrete hallways marked with numerous colored lines and information. The light from her sun illuminated what would have otherwise been gloomy darkness.
+"No. But it does look military or something. Maybe that's Command, wherever that is."
+She stepped through into constantly shifting gloom. The hallway split into a T-junction around her, and each concrete ceiling corner contained a spinning red emergency light. Not all of them were functioning, but enough were operational to paint the corridors flashing crimson. I heard no sound but her quickening breathing - if there had been a noise accompanying these emergency alarms, it might have burned out long ago.
+She looked left, forward, and right, studying the lines on the walls. The colors were hard to see cast in red, so she lifted a flashlight. One line was green, one was white, and one was yellow. Each led in different directions. "Any guesses?"
+"White?" I ventured.
+She shrugged and began moving along the heavy squat corridor to her right, covering her face as she passed under a spinning red light.
+"Something wrong with the lights?" I asked her.
+"No," she replied. "It's just not a good idea to look directly at unfamiliar red lights."
+Odd. I wondered why, but she was trying to be as quiet as possible as she moved deeper into the structure.
+Her flashlight fell on equipment ahead - crates containing guns, mechanical parts, and badly rotted food. "Seems like it's been a while," she said, kneeling over a box of food. Rotating crimson and darkness gave the mass the illusion of writhing, and I wished she would look away.
+She examined it as best she could without touching a thing. "Can't guess how long this stuff has been here." Moving on, she skirted around several more piles of gear that nearly blocked the hallway.
+Passing a droning hum in the wall, she peered down the dark flashing corridor. Beside her, a single yellow light cycled gently off and on, casting a low glow along the floor. "Air's still working. This might be underground. The smell is horrendous, stale."
+I hadn't even thought of that sense. Upon hearing her mention it, I started smelling the various aspects of the server room I must have gotten used to - the various trace acridities of computer equipment, plastics, and electricity. I imagined the cramped corridor around her, filled with rot and musty air, was far worse.
+The visual stream shuddered briefly as she kept moving. "What's that?" I asked.
+"Something's vibrating the floor?" she whispered. "Something very large. Feels mechanical." Slipping down a hallway where all the emergency lights had broken, she kept her flashlight poised ahead. Set at the end of the corridor was a monstrously thick metal door that had frozen in place with about a foot of space underneath it. She kneeled down and sighed. "Not a fan of this, not at all?"
+Very carefully, she flattened herself and began sliding underneath it, her headset scraping along the concrete floor. Moving between two planes of grey - one rough, one shiny - she inched herself forward.
+How thick was that door? It looked nearly ten feet across. What could possibly -
+She made it through to the other side and looked up.
+An arcing dome of grid-patterned metal rose high up above her, lit in vast violet by dim emergency spotlights. It was so tremendous a space that I thought at first that she'd come outside, and that the dome was glass over some sort of miles-wide hangar? but, no, it was metal and concrete, probably holding back tons of arched rock.
+She stood slowly, and the camera caught a better view of the rest of the domed chamber.
+Within lay a swirling sea of rotating movement that I first thought was a whirlpool; as I zoomed in and studied it, I realized that it was mechanical. First, I saw the enormous cranes towering over the edges, and then - dozens of chrome rings, miles in diameter at the greatest, surrounding a stationary circular platform. Each ring rotated at a separate height and pace, descending with each step, but the platform in the middle remained high and unmoving. Atop it sat a wickedly intricate object made of chrome and black, with a shape approximating a dodecahedron. It rested in a small framework metal lattice that kept it suspended a foot above the rest of the platform, and the platform itself sat on a high narrow pillar of steel that grew straight up from the deep and unseen center of the metal vortex below.
+"I don't like the look of that," she said aloud, mirroring my thoughts.
+"Me either," I told her, and then noticed something. "Say? how are we communicating?"
+She looked back at the thick door and concrete. "Good catch. You don't sound fuzzy at all."
+I sifted through my data stream, and found something exciting. "I'm connected to the network there now. My stream defaulted to the better connection. Maybe your portal is giving me connectivity, or our signal turned something on automatically? I don't know? but I can look at the computers."
+"Do it," she ordered.
+I officially logged in and began rooting around the new network that had opened up before me. First up was a map. "This place isn't too big, but it's complicated. It looks like all the routes - like the white line on the wall you followed - end up here eventually."
+She nodded, keeping her gaze on the machine whirlpool. "What else?"
+"I can see you," I said, surprised. "It's got you listed as a heat signature on the map."
+"Any other signatures?"
+I scrolled around a bit. "No?"
+"Alright. Any files that detail what happened here? A log, maybe?"
+I worked through a bunch of personnel directories, but came up empty. "Everything's been deleted. I could try to recover some stuff, but it'll take time."
+"Try to, if you can. We have to find out what happened here." She began walking along the edge of the violet-lit dome, circling the gigantic machinery within.
+Eager to use my tech skills for something useful for a change, I began the recovery process while I looked through more of the network. I found the control interface for the cranes in the dome, but no information about what the mechanical vortex was for.
+Maybe twenty minutes along the edge of the dome, she came across a factory-sized loading area at the termination of tremendous tunnels containing several rail lines.
+I stared at everything as she studied the area. "What do you think all this is?"
+"Run through the possibilities," she replied calmly. "What do you think it is?"
+She sounded much like a teacher, and I responded that implicit authority automatically. "Well, it looks like there's infrastructure to move a great deal of freight and supplies in and out of this room? and into the gigantic machine. The map of the place also has no entrances or exits, and no other structures this large. I think this might be?"
+She nodded. "Go ahead. No idea is too crazy, given what we're dealing with."
+"I think it's how they do it - how they move things between realities," I suggested, amazed. Her calm certainty made me feel certain, too. The size of the operation - and the logistics of the rail tunnels and cranes - meant it had to be true. There was no way in or out? except by portal. "But? where'd they all go?"
+She said nothing, instead turning to look at the wall of the tunnel, where large letters had been spray-painted. The splotchy red looked ugly brown under the violet light of the dome, but the words were clear:
+WHY BOTHER?
+A guilty spray-paint can sat discarded on the concrete beneath.
+She stepped close and touched the paint, finding it long dried.
+"Not exactly the kind of final message one would expect," I said, confused.
+If she had any ideas, she kept them to herself. Her hand lingered on the wall for several moments longer. "Do you have anyone you care about?" she asked, without warning.
+Taken aback, I could only tell the truth. The answer was embarrassing, but? I didn't feel like I needed to lie to this woman, no matter how strange and impossible she was. "No."
+She seemed in a rare open mood. "There's nobody in your life?"
+"My hours don't really allow for much socializing," I told her, running through my own personal rationalizations. "I bet they chose me for this job because I was already a loner who stayed up all night. And, I figured, why not get paid to do it?"
+"Then why do you want to escape?" she asked, beginning to walk again.
+That was a strange question. "Well? I don't wanna die."
+"If there's nobody in your life, and you're a loner anyway, what's the difference between being trapped and being free? You were in that room all the time either way - the only thing that's changed is that you've become aware of your walls. You're safe in there. Why do you want to leave?"
+A deep pang of worry and sadness curled up in me. "Why are you saying these things?"
+"Strange things happen to people that don't have something to care about," she replied. "I didn't have a purpose for a long time, and I'm not proud of the person I was, or the things I did? but I did find something to care about again. I have someone to take care of. I would do anything - anything - to keep him safe. Do you understand?"
+The protective element in her voice made me guess that the subject in question was her son, if she had one? but I wasn't quite sure what she was asking. "I just want to help."
+She climbed across the long expanse of a flatbed railcar as she asked the million dollar question. "Why?"
+I thought back on all my time spent browsing the Internet and working late nights at the office. That first day of training, bright and sunlit, still shined in my memory. I remembered what that poor freezing man on the mountain had said: I've still got warm sun and bright beaches and memories of you in my head, but I'll never have those sensations again. "Honestly?" I realized aloud. "It's because I'm lonely. This empty server room is my world. Nobody on the Internet knows who I am, or cares. It's more than that, though. The entire way people live now seems? driven by outrage, and money, and being offended, and tribalism, and hating the other guy. Even if I was out there, and part of all that, it would still be empty for me. Life feels? hollow somehow? and I just want to be part of something real."
+"That's a very human feeling," she said quietly, approaching what looked like a control station. Jutting up from concrete, the metal kiosks held enough controls to rival pictures I'd seen of an airplane cockpit. Beside the kiosks sat an odd piece of circular metal with four jutting rods. She studied it for a moment, lifting the two-foot-wide object up with both hands, and then placed it back down. Looking over and out, she gazed at the center platform of the dome. "This looks like part of the metal surrounding that device."
+I zoomed in on the dodecahedron on the central platform, and, indeed, it looked like there was a gap at the top for the curious sculpture, where it would fit in perfectly with the surrounding chrome latticework.
+"Can you figure out what that device is?" she asked.
+"One second." Moving through files, I found what looked like another control interface. This one wasn't integrated with the system, however. It was a separate series of programs with much more basic controls. My enthusiasm dropped as I realized what was sitting idly out there on that platform, and I instinctively resorted to dumb Internet humor. "Someone set us up the bomb?"
+"What?"
+I sheepishly got a hold of myself. "Um, it's the bomb. The same kind that broke Jonathan's world."
+"Who?"
+"Oh, right. You'd already run off. Jonathan was - is - the guy whose eye camera I was looking through."
+She froze as she realized what I was saying. "That's a dimensional fracture bomb?"
+"Yes. That's not what they call it, though, in the file. It doesn't look like it was supposed to do that."
+"Obviously," she replied, backing away from the consoles around her. "Why's it sitting out there? Were they trying to send it somewhere?"
+I read over the logs that had been left in the accompanying folders. "Looks like? they sent one through before. It went to?" The realization brought a slight bitterness within me. "The outer shell - Jonathan's world. That's all I can tell. It looks like they gave up, after seeing what happened, and this one was just loaded on the platform much later by automatic -" I froze.
+The dome's lights shifted to bright white, and a hum buzzed in over the stream.
+She looked back and forth wildly. "What'd you do?"
+"Nothing!" I shouted back, frantic. "A ton of this stuff is automatic. I didn't even - I mean, I did, I accessed the interface, but - it's turning on!" I stared in horror as the central platform of the gigantic metal whirlpool began ever so slowly rotating.
+I heard her voice rise to an uncommon tone of emergency. "Where's it pointed?"
+"Where's what pointed?!" I asked, panicking. Was my meddling going to destroy someone's reality?
+"The destination!" she shouted. "Where's it going?"
+Of course! I stared at the process files. "It's pointed at the inner reality, the last place they went?"
+"Tell me how to turn it off," she ordered, her tone determined.
+"I don't -" I already knew I couldn't turn off the automated process without the proper passwords, but I quickly did a few key word searches for off and shut down and terminate? "That thing! That metal thing! The circle with the four rods! You have to put it in the top. That's the mechanical failsafe - it can't go off if that's in!"
+Before I was even finished speaking, she picked it up with both hands and began running? straight onto the first metal ring, which was picking up speed. In seconds, she was judging her jump to the next ring, which was moving at a different speed?
+It was eight tenths of a mile to the center, and the files said the whole process took four minutes. How much time had we wasted talking? I did some calculations, and? with a sinking feeling, I realized: she would never make it.
+Watching her leap from ring to ring, falling once or twice at each abrupt change in speed, a wave of despair passed over me. I hadn't been able to help anyone I'd read about or talked to, I'd screwed up and cost Jonathan an eye, and now this? I had the paralyzing sense I was about to watch this woman die? and her son, or whoever it was she cared so deeply for, would be left on their own? because of me.
+Before I even knew what I was doing, the crane nearest her was moving. Two bars crossed high above the machinery, supporting the crane on its own mobile platform, and I sent it at top speed after her. The two perpendicular beams moved across open space on my map of the facility, chasing her heat signature.
+I thought, as I got closer, that she might actually make it? until the inner rings began descending. The entire system of rings shifted and dropped slowly, their vortex configuration deepening. She stumbled, fell, and bounced down three rings, before grunting in pain at the sudden shift in velocity on her new inner ring - this one only a few feet wide, with a rising curved wall of metal on one side and a steepening drop on the other.
+From my perspective on the map, she was whirling around at incredible speed, and the camera in her headset was no help. Did the crane have a camera? It did. Turning it on and using that one, I slowly lowered the claw.
+Come on? how many videogames had I played during my existence? This was just like any other Flash game with a simple setup and devilishly difficult to master controls? it just happened to have a life on the line, and possibly a reality.
+She whipped past.
+I waited.
+She whipped past.
+I waited.
+She whipped past - and I lowered the claw.
+Despite herself, she screamed once as she impacted the metal on the next go around. Still, she clung to the deactivation rods and forced out an order as the tines closed around her. "Get me up there!"
+I'd only intended to get her out and save her, and we had less than thirty seconds left, but? even in my panic, for some reason, I trusted her.
+Lifting the claw in staggering jolts, I moved her up alongside the central pillar, and up above the platform with the bomb on it? only to find that it was spinning fastest of all.
+There was absolutely no way she would be able to jump down and stay on - not with both hands around the awkward metal object she carried.
+"Get me above it," she shouted, and I lowered her down as close as I could while trying to ignore the scant seconds left. Even as I moved the claw lower, though, the rapidly spinning platform began to drop. I understood where it was going - down into the center of the device, the nadir of the mechanical vortex - but I also knew that meant we were almost out of time.
+Lowering the claw as smoothly as I could, I brought her to just a foot or two above the sinking bomb, jolting up and down a bit as I tried to get the dropping speed right. From her camera perspective, the bomb was a whirling sphere of black and chrome? and utterly impossible to interact with.
+She tried to lower the four rods into place twice, but then judged against it. "Spin me!" she shouted at the top of her lungs, still barely audible over the intense roar of machinery.
+Could the claw do that? It could! Of course it could? turning on the servos, I started giving her rotational speed even as the bottom of the vortex dropped away. Chrome rings melted into a vast well of purple light and waves of white. Through her camera, I could see into eternity? and the platform was moving down into it.
+We were far past out of time.
+Agonizingly slowly, the rotating bomb and platform seemed to slow down? as her spinning grew to match. I could hear her straining not to get sick or pass out? I knew her spinning had to be subjecting her to painfully high g forces, but she remained ready despite the crushing intensity. The purple below us imploded into bright white lines, and the illusionary corridor widened? and the platform, from our perspective, seemed to finally stop spinning.
+It even went the other direction a little bit, but I edged off the slightest bit of servo power, and she came back to even with it.
+"Open the claw," she shouted grimly, hardly able to speak against the tremendous pressure.
+"What? But you'll -"
+"There's no choice."
+I knew she was right, and I had to listen to her order, but? I still felt horrible and empty as I gave the final command. The claw opened.
+Despite the chaos, she dropped eerily straight down, and immediately fell across the top of the bomb to keep herself from falling off. With a swift motion, she oriented the four rods and shoved them down into interlocking access ports. I saw all this through her headset camera, and I saw her descending into an infinite tunnel from the crane camera? and I saw her heat signature disappear from the base map.
+"What do I do?" I asked her, at the last, the roaring crescendo reaching a final peak. "I can't get you with the crane?"
+"You might be on your own now, friend," she told me calmly, her strained and quiet voice oddly audible despite the storm. "I needed to go there anyway. Maybe - just maybe - they can help."
+"Who?" I cried.
+She sighed with worry, regret, and a dozen other unidentifiable emotions, her hands gripping white on the bars around the bomb. "I'm going home."
+In a flash, the tunnel compacted, swirled, and was gone.
+The platform remained - with nothing on it.
+Slowly, the entire configuration began powering down and resetting position, and I lifted the crane's claw lest I damage something. I did all this automatically, without thinking, because I could not think.
+I sat and processed what had happened for several minutes. I hadn't been there physically - I'd just been watching video and listening to audio and rooting through files - but I still felt as if I'd been through a life and death situation and only barely survived.
+I hadn't even had time to anticipate it... it had all just happened. Six minutes ago, she'd been standing on the edge, and, now, she was gone.
+Shaken, I got up, and took a walk around the office building. Outside, the same slithery creatures moved, and I watched them for a time, lost in thought.
+Who had she been? Who had she been trying to keep safe? She'd been searching for some people, she'd said, and that search had led her inward, to the inner shell of our protected realities? the silent sanctum at the center. Who might be able to help? The people she was looking for, or the people already there?
+Because there had to be people already there, I imagined? that was the part I couldn't quite grapple with. She was going home?
+And now I was alone. The darkness and seclusion hadn't hit me, not with full effect, until I stood standing there at the windows and realized I truly couldn't leave. The only friend I'd ever made was gone, and the portal she'd used to get to that underground complex?
+?was still open.
+Rushing back to the server room and my computer, I went through each and every option I had at my disposal in that distant base. Automated railcars in the tunnels, operational cranes, what else? Was there anything that could actually physically move something to her initial portal? There had seemed to be children on the other side in the brief glimpse I'd seen the other day? her family? That boy at the front?
+What would they think if she didn't come back?
+Something else occurred to me. The gigantic vortex device had to be able to pull things back as well as send. How else were men and equipment moved between realities? While I was still connected, could I use it to save myself? I could go there, then go through the portal she'd left open!
+Yes. The complex there had much more mapping and targeting capability, and I even found an approximation of the map I'd created by hand. Indeed, our entire bubble was a sphere of dozens of realities with an outer shell separating us from the rest of the multiverse, and an inner shell protecting one central world.
+The outer shell, on this map, was practically covered with warning symbols and alert signs. Numerous entire realities on the map were completely red. Had they been? destroyed? Were these the cracks the flame entity had spoken of? There were so many? what was holding back the darkness, save our lonely desolate guardians? Individuals enduring beyond all imagination, the most human of all, struggling to carry on at the walls?
+Haunted, I focused on finding my coordinates. The base already seemed to have my office on file, and I activated the machine with the new destination. Apparently, a portal would open for thirty seconds, and I would have a chance to step through.
+I watched through the crane cameras as the entire cycle spun up again. Four or five minutes later, I dared not hope as it declared the tunnel open and stable.
+Rushing out into the office building proper, I looked around for vast purple light - but found none. Racing around, I went through every room and hallway - and found nothing. Where was it?!
+I stopped in place as I finally sighted it.
+A dim purple haze emanated from the fog outside.
+Staring out the window, my hope shriveled. It was out there, with those slimy things? and getting out there would require breaking a window. If I tried to reach it, and failed, there would be no more safe haven.
+Despondent, I watched the purple expire, and then returned to my server room. I knew I couldn't ignore, for much longer, the growing likelihood that I was going to die in that room. Our little corner of the multiverse was falling apart, held together only by the threadbare hardships of quietly heroic human beings, and the only person trying to fix it had just disappeared into an unknown situation with an extremely dangerous bomb, leaving her kids behind and alone? and all I could think about was the slow process of starvation and loneliness I was about to face. I could protest and call for help all I wanted on the Internet, but nobody would believe me, and their mockery would only make it worse.
+And even if I made it out of here, the Crushing Fist, whatever it entailed, was coming for us - something bad enough that even ascendant living flames were scared of it. This new threat was approaching, and there was nobody left to stop the tide.
+If only I could do something? but being trapped here made that impossible? unless?
+I looked at the base's more complete map of realities again, and something hit me.
+I already knew what the Crushing Fist was. It was already here? it was already happening? had been happening for more than a year. The exact mechanism, agenda, or plot behind it was irrelevant. Humanity was under siege.
+And there was nobody left to stop the tide? meaning there was nobody watching me. I'd wondered why nobody had ever come to check up on my activities, even as I'd begun blatantly breaking into military networks. I was the only network manager left. The bases were empty. Lone survivors manned the walls.
+There was nobody left to fear.
+Suddenly full of excited hope, rather than despair, I logged into every network I could and implemented my plan.
+I was trapped here, but that didn't mean there weren't others out there like my only friend. There had to be other people out there who knew something of our situation, or who had minor capabilities we might cobble together, or who had artifacts in their possession like her device that talked to souls. There were nine hundred and twenty-four billion human beings alive between the inner and outer shells, by all accounts? we weren't done. Not yet.
+Alive with electricity, I decided to step out from my safe anonymity and do something for the first time in my life. That's what she'd been trying to tell me, I guessed: having something to care about meant taking risks, even unknowable risks with very little hope to cling to.
+I sent out the call.
+On every single network, in every single reality, on all the Internets and all the forums I could reach, I began posting. I was fiction. I was a joke. I was a scary story. I was an entertaining read. For some, I was nonsense.
+But some people would understand. Some people would see the elements at play, and some people would know I was serious. With nearly a trillion humans alive in our little walled city, even a one in a billion chance would net us nearly a thousand people. With all that just one had accomplished, what couldn't a thousand motivated and capable human beings handle?
+I wrote as many posts on as many different Internets as I could myself, and then made a script to continue on.
+And now? I wait.
+Chapter Six
+I scanned quickly through my messages. I had more than I could handle. Apparently, a great many people out there were facing dangers beyond mundane comprehension? and a great many people simply had active imaginations. It was my task to pick out the ones I thought were true and serious, and try to help. 
+First up for the evening was a guy near the outer shell. 
+Hey man, I read your stories, and I had a question for you. I found a pen knife out in the woods, stuck in the side of a cliff. I pulled it out, and I think it can cut through anything. Have you ever heard of anything like this? I'm really scared to tell anyone I have it, cause it's so weird. I heard something out in the woods, too? I think somebody might be looking for it.
+ I considered his question, but a search brought up nothing. He didn't seem to be in immediate danger, and I had no way of knowing the strange object was real, so I moved on after noting the location and reality from which the message originated. 
+nice story, man. You must be on some pretty good stuff. Remember that one story about red pills that turned you into a vampire or something? That was my favorite 
+Alright? I did remember that story. Was this a hint at something? Or just a random message? I decided to move on again. 
+I really don't like what I've read here, the message said. I have a feeling I'm about to get sucked back in no matter how hard I resist.
+ I immediately knew this person was something special. I wrote back: "Into what?" 
+I've been running into these things my whole life. 
+I checked - whoever it was, they were on one of the rare intact worlds on the outer shell itself. 
+I don't know if I make things happen, or just sense them, but I can literally seek them out and find them. The fear runs like threads through my awareness.
+That sounded like a very useful ability. Researching more, his world seemed more or less functional socially. Somehow or another, he'd avoided the fate that had befallen so many of the other outer shell worlds. Did his experiences have something to do with that? I asked: "Can you tell me more?"
+ He simply linked me to stories he'd already written about his experiences.  
+I scanned through them, intrigued. I'd seen them before, but it was strange to read them with a new understanding that they'd actually happened. "So you're really a horror writer?" 
+You've already read my stories? he responded. But, yes. It was only natural, given the background I have to work with. I try to stay aware of what's going on, and something is very wrong with the world.
+"Yes, more than you know," I told him, sending him a map of the situation and all the information at my disposal. I was sure it would be some time before he digested it all and responded.
+As I began to move to the next message, an alert popped up, notifying me that the proximity systems had detected someone entering the building.
+Suddenly torn from my coordination efforts, I raced through all the files and feeds at my disposal. Who was in the building? How had they gotten here? I found a security camera, and saw a dozen humanoid forms moving through darkness.
+As they moved under a red EXIT sign, I saw them more clearly.
+They were the children I'd seen, briefly, on my friend's headset camera.
+They were the ones she'd had to leave behind.
+What were they doing here? Were they here to exact revenge for my role in her disappearance? They were armed?
+No, that didn't seem right. They were a bunch of kids, and a few teenagers. The oldest boy led at the front, a baseball bat in hand. It occurred to me that they wouldn't know anything about her disappearance. To them, she'd just never come back.
+But how had they found me? I thought it over? the dead sentient flame, speaking through the book, had said that one of those people was nearby, and then my friend had said the people we'd found trapped on the plant-God planet were beings of light disguised as humans. They'd sensed my activities on the computer. If she had one of them as an ally, had that ally followed my interactions with her to? here?
+That must have been it. Whoever it was, my signals to her had been a beacon, and they were coming to look for their protector.
+The eldest boy began hitting something that had been lying in the hall, and I stared at the security camera stream.
+My head hurt briefly, and my vision flickered. How long had I been working? I felt floaty and exhausted.
+If they were here, that meant they'd come through a portal. Was it still open? Of course it was! They wouldn't be coming in unless they had a way out? excited at the prospect of rescue, I activated the building's speakers. "Hello?"
+As one, the group of kids jumped.
+"Is that you?" the eldest asked, looking up and around 'til he noticed the security camera. "Where is she?"
+"She's gone," I replied sadly. "She didn't have much choice. There was a reality-fracturing bomb being sent out through a portal machine, and she had to stop it."
+He sighed. "That sounds like her."
+A few of the children lowered their heads, and one began crying.
+"Oh, oh no!" I said hurriedly. "She's not dead. She just went through another portal."
+"What? Where is she?!"
+"She said where she was going was? home," I told them. "That's all I know."
+The oldest boy looked around at his armed companions. "I don't like this. Go get the book."
+"What about the portal?" one asked.
+"It'll survive one or two transitions. This is important."
+Two kids ran back, and the oldest boy looked up at the camera again. "What happened here?"
+"I don't know," I told him. "I've been trapped here for weeks now. I'm in the server room right now. That's usually where I hole up."
+"Tell us how to get there."
+I gave them directions, and they moved through the halls, occasionally bashing dark objects strewn about the floor. I zoomed in on a few of the piles, trying to comprehend their shapes, but the feed was too fuzzy and the building too dark. Their flashlights arced around, making contrast higher and vision difficult.
+"Is there still any danger?" one kid asked, looking up at another camera.
+"Only outside," I replied. "Don't break the windows. There are slimy weird things out there. Don't get too close, and don't let them see you."
+The kids looked around warily, but there were no windows near them. They proceeded down dark, cramped hallways, leaving marks on the walls to record their way, and heading toward my location.
+"That's it!" I practically shouted, seeing them come up to the heavy server room door. They studied the same odd metal frame that I had studied some weeks before.
+"You sure this is safe?"
+"Yeah, I go in and out all the time."
+The eldest pushed it open with his foot? and then proceeded into rainbow-lit gloom and heat. I saw him enter through my security camera feed, but he must have been moving quietly out of caution. Where was he in the room?
+"I'm inside," I heard him shout, through the camera feed. "I don't see you."
+"I'm right here," I replied, looking around. "Where are you?"
+"Dude. There's nobody in here. What are you doing?"
+"I'm right here!" I said again, moving to the server room door. "I -"
+Nobody stood outside. The hallway was the same, but the kids weren't there.
+I couldn't see the security camera feed from here, but I guessed what it might show.
+Dejected, I returned to the computer. "It must be the wrong reality? I was worried that would be the case. I'm trapped somewhere that's a copy of there."
+"That sucks. Hold on." I watched as he re-entered the hallway to meet two returning kids. In their hands was an extremely convoluted device that had an enormous number of metallic moving blades, gears, and pipes.
+I zoomed in, curious.
+The eldest boy took it from them, holding it by two pipes, his fingers narrowly avoiding the gears and blades. He manipulated pieces of it, his eyes blank. "Tell me about the man in the server room." After a minute or two, he lifted his head, his breathing ragged with fear. "We have to leave right now."
+"Wait, what?" I asked.
+The kids ignored me and bolted back through the halls, following their marks and jumping over the dark misshapen piles on the floor. Terrified that I'd lose my only hope of rescue, I closed an automatic security door in their path. "Come on! What's going on?"
+Instead of answering, most just started screaming. They began to run, too, but they were stopped by a thrust-out arm.
+The eldest glared up at me. "Let us go."
+"Tell me what's happening! I'm stuck here, please. What did that weird metal thing tell you?"
+"Weird metal thing?" He looked down at the device in his hands. "The book?"
+Confused, I echoed him. "What book?"
+He looked back up at me. "You see this thing the way it really is?"
+"What does that mean?"
+"I saw this thing the way it really was, and? apparently, I started bleeding out the eyes. I don't remember, because I went into seizures. So how can you look at it and see it for real?"
+I opened the door, not really intent on scaring or holding the kids. "I don't know?"
+They ran further down the hallway, and then turned into a side room where my cameras could not see.
+The eldest remained for a moment longer. "Man, you gotta wake up. Somethin's wrong with you. I appreciate what you did with all the help, but I think you gotta help yourself now."
+Confused and terrified, I watched him go.
+I sat for a time, processing. It was true what he'd said: a great many things about my situation didn't make sense. I'd always felt a certain logic to my imprisonment, hovering somewhere outside the grasp of my facts at hand, but I'd always had an aversion to thinking too deeply about it. What if I found out something horrible? What if I lost all hope?
+While I considered these questions, I looked at the next message I had.
+It was from a man who had a problem with something dark lurking in his neighborhood? something the people there had been wary of for a very long time. Just like everyone else, his problems had been growing worse over the last year, and now he needed to get inside the dark heart of the place. The strange thing was, the threat had already been there for quite some time He, too, was on an outer shell world? most of my most concerning messages were from out there.
+He was also on the same world as the person who had sent the pen knife message? odd.
+"So you can't get inside?" I wrote. "I happen to have gotten a message from a guy about three hours' drive from you. He stumbled across a pen knife that seems to be able to cut through things it shouldn't."
+A pen knife? he asked.
+"I can't verify it myself. You'll have to go in person. Here's the address."
+He took it with cautious thanks.
+I went through a few more, and then stopped, feeling a sense of despair overtake my need to help out.
+It was surprising how hard it was to do any work when only one thought dominated my mind: where was I?
+I had eyes and ears everywhere, but I couldn't get anywhere at all.
+If I was in a very special pocket reality, one that was important for the running of the vast network, then I was in serious trouble.
+For a time, I wandered around my building, studying the details. People still screamed when I picked up the phone, and the electricity still worked, and there was still food in the fridge to last a while? I stood at the window and gazed out, risking notice to try to study the slimy creatures out in the fog. As I watched, I saw one go by with a bear carcass in its grip.
+I froze.
+One bear carcass had been noteworthy? but two?
+Seized by a sudden suspicion, I ran to a nearby cubicle, grabbed a metal chair, and smashed it hard against the window over and over again. A crack formed, and then spread, urged along by my violent bashings.
+Finally, the entire glass pane went opaque. The next hit shattered it.
+I stared beyond - at a rock wall.
+I was? underground.
+It was all fake.
+I was just like that lonely soul whose first message I'd found. I was underground, and there was no way out.
+Running around the office building, which I now knew to be deep under the earth, I smashed random things into pieces. My efforts were cathartic, in a way. I'd tried to keep everything normal and untouched, in some subconscious effort to continue a feeling of normalcy, but now I knew that nobody was ever coming back here.
+I'd been abandoned.
+I'd been left behind, just like the men and women on the walls.
+I was alone, just like all those poor people messaging me about the terrors working their way deeper into the realms of man.
+Anger faded into frantic terror, and I began searching for the way I'd gotten in here in the first place. An elevator? Perhaps the odd server room door was part of a non-obvious lift mechanism. I found nothing, but the idea remained. Was there an elevator somewhere in this place?
+What did I remember about showing up for work, before I got trapped here?
+I slept during the day, so my trip into work was always a groggy blur? and I hadn't seen the sun in longer than I could remember? except for that one shining day of training.
+How had I entered the building on that day?
+Nope. The front doors were fake, too. I broke them, then climbed out and slumped against the cool rock wall, wracking my brain.
+I'd seen the purple glow of a portal opening outside the windows when I'd activated that massive facility's portal machine. What had that been? My goddamn imagination? There had to be some link with the surface office building duplicate that the kids had just been in.
+I returned to the spot where I'd witnessed the foggy purple glow. The windows there remained intact. Lifting a chair, and fearing what I would find, I broke the glass.
+Beyond I saw? a tunnel!
+Stepping out over the glass, I rushed down it? and found a wide circular scorched section of cave wall, where the portal had appeared. At least, that's what I imagined it to be? which meant that I'd stayed inside the glass out of pointless fear. I'd missed my one shot at escape.
+Above all else, that discovery broke me.
+I returned to the server room in a daze.
+"I'm going to die down here," I said aloud, to nobody in particular.
+And I knew it to be true? unless?
+I began to respond to my messages with a new energy. I wasn't done, not at all! Someone out there had to have an ability, a device, or knowledge that might get me out. After all, if I'd almost escaped once before, I could do it again - and, this time, I knew a little bit more about my situation.
+And there were people in need, too. All over the place, creatures were roaming the woods, entities were stalking people, loved ones were exhibiting odd behavior, neighbors were disappearing, and bad luck was rampant. It overwhelmed me, at first, seeing the sheer range and volume of problems, but it hit me: I had the information, I had the communication, and that meant none of us were alone.
+I started responding to every single message, giving people what info I could find, and putting them in contact with those around them who had also clued in.
+Then, the author I'd been talking to responded once more. He finally sent back: This is a very grim situation. What do we do?
+"First, I'd like to get out of here," I wrote him. "I'm trapped." I explained my situation as thoroughly as I could.
+Those are some very odd happenings, he wrote back. I'm not sure you have all the pieces of the puzzle yet, as they don't quite fit together in a way that makes sense. Although, I know for sure how you can get out of there.
+"What? How?!"
+No matter how bad things are, you can always make them worse. What you need is a sudden serious problem. Then, while thinking quickly and trying to survive, you'll have a chance to turn that problem into an opportunity. In your case, an opportunity to escape.
+"That doesn't seem logical. How would making my situation worse help me get out of here?"
+We live in strange times. Existence follows certain trends. In a sense, there's a grim fairness about it. If you do nothing, you die. If you risk it all, you've at least got a shot. That's a rule.
+"And if the shot doesn't work out?"
+Then you die anyway. But isn't a slim chance better than none at all?
+He was right.
+And, in fact, I had dozens of Internets at my disposal. I could find the right threat, tailored to my situation, and try to use that threat to escape. Were there any creatures that used portals to move around? Were there any dark entities I could make a deal with? I began my search of the stories online. It quickly became apparent that those with specific intents usually sought out a certain type of ritual.
+What I needed was a Game? and someone with the power to make it real.
+"Do you know of any Games that might help me?" I asked my author contact.
+Hmm? I've never really gotten into Game stories, but here's how I imagine an actual real one might work?
+I memorized everything he told me, and I began searching the office building for the proper supplies. It was a shot in the dark, and incredibly risky? but, as he'd said, it was better than doing nothing and dying here alone.
+If a soul was a thing; or, at least, if a mind was a thing, then there had to be more to existence than the physical spatial dimensions we saw. What was a mind? Why were humans self-aware, and animals not? I'd read stories of a creature that could cut away and eat a person's self-awareness, turning them into walking biological machines that talked, ate, laughed, and watched movies? but with nobody inside, not for real. If that existed, then a mind must be a real thing.
+And if minds were real things, there was a dimension or plane where they existed. They were something, somewhere.
+And if they were something, somewhere? then there might be other things there, too.
+I sat in a dark, quiet corner of the building, a single candle lit in front of me, and a pad of paper and a pen on hand. These were not necessary for the Game, but they might help me focus, and then remember. I'd been instructed not to bother with mirrors, or pentagrams, or blood, or any other human physical or mental fear. Human concerns didn't matter for something like this?
+Sitting in place, senses dark, I thought a single word: aware.
+I thought it again, repeatedly: aware, aware, aware, aware?
+I made the thought louder. AWARE, AWARE, AWARE?
+I began shouting it in my mind. AWARE. AWARE. AWARE.
+I kept screaming the same word in my mind, from my mind, over and over. Fear of actually attracting attention held me back, but fear of dying here pushed me past an intrinsic barrier.
+For each repetition, I envisioned the words as louder than the chant before them, the volume ever-increasing, until I was sure I was shouting throughout an entire mental universe.
+I kept this up even as a feeling of impending doom swept over me. Again, I might have stopped? but survival instinct kept me going.
+Then, eight minutes and seven seconds after I'd begun, it happened.
+I opened my eyes and looked out.
+A shadowed face flickered beyond the candle's flame, shifting shade dancing across darker darkness. It wasn't really here, and I wasn't really looking. I understood that? but I still felt a chill seize me.
+It smiled hungrily, its teeth a row of jagged voids barring infinite blackness. Congratulations, you've attracted attention.
+I had nothing to offer it, and nothing to keep me safe. As the author had told me, human rituals were probably useless in the face of entities that existed beyond the physical realms. I knew there were other realities that I could travel to, if I had the means, but this thing was from somewhere else entirely. But, as my contact had also informed me, all things followed logic in at least some sense. My only hope was that some part of its value system overlapped with ours.
+"Wait," I thought aloud. "It's important that I talk to you."
+It always is, it whispered back, its empty eyes icy. None of you ever want to be consumed. How short-sighted of you.
+I didn't ask what it meant by that, and I didn't want to know. "Are you aware of what's happening? Are you aware of the Crushing Fist?"
+It hissed softly, but did not kill me or consume me or anything else. It waited. I assumed that meant it was at least open to my proposal, and that the Crushing Fist meant something to it.
+"I? want to work with you, or make some sort of deal with you. I need to get out of here. I need to be able to help others of my kind more directly, or we're all in trouble."
+Something behind it moved, and I realized? the vague humanoid shape before my awareness was a front. The real entity behind it lay shrouded in darkness, both massive and elegant at the same time. I dared not look directly for fear of offending it.
+You have no idea what you're up against, it finally replied. But I envy your ignorance. You scramble ever forward, like bugs in mud, like fivhen in squuar. You don't even stop when you're already doomed, dead, or vwaal. That obstinance is, likely, the only organic trait worthy of mention.
+"So you'll help me?" I asked, confused.
+It grinned again, its mock shadowed face stretching horribly. Didn't you hear me? You're already vwaal. You cannot be helped. You should do yourself a favor and allow me to consume you. I am experiencing pity for your pathetic situation, so I will allow you the choice, rather than force it upon you.
+"Um? no thank you."
+So be it.
+A non-light flared behind its massive shadow-form, and I prepared to scream as I caught a glimpse of what it really looked like. The shape, the size, the complexity - it was absolutely -
+I fell backwards as if struck, suddenly ejected from the realms of the mind, and I hurried to write down what had been said before it faded like shreds of a dream on waking fog.
+Then, I tried to draw it.
+What had I? I'd seen it, but? the image? was gone?
+Sitting on the floor, I let myself wallow in despair for a while. Even shadow entities from the realms of the mind couldn't help me? unless I'd fallen asleep, and dreamed the whole thing.
+Despondent, I returned to my computer, and began half-heartedly responding to calls for help again.
+I'm intent on helping as many as I can before I starve to death down here? but who is going to help me?
+Chapter Seven
+Haven't heard from you in a few days, the message said. Are you alright?
+I stared at the two sentences for quite some time, failing to comprehend that they were actually meant for me. I'd been answering messages, coordinating responses, and watching the worlds burn for so many uninterrupted hours? I couldn't remember the last time I'd eaten, or slept, or even taken a walk around my office building prison.
+They'd tried to destroy themselves. Or, someone had tried to destroy them from the inside out. I'd spent eleven hours breaking into a military mainframe to shut off a nuclear launch countdown gone awry. Who was in charge on that world? Why had they tried to detonate all of their nuclear weapons? I was still getting messages from people there, all desperate for help against black transmorphic spheres that kept evolving new defenses against anything used against them - black transmorphic spheres that liked to stab people through the skull and then take up residence inside. Were these the brain-eaters Jonathan had mentioned? Or were they a new threat?
+Somebody high up had panicked, and started a twelve-hour countdown to global suicide.
+I'd managed to turn it off? with four minutes to spare.
+Haven't heard from you in a few days. I stared at the two sentences that had been meant for me in particular. Are you alright?
+I had no way of knowing - had the writer of the first message I'd read, the man trapped eleven thousand feet underground with the fate of the world at his fingertips, been the one to start that countdown? Had he seen what was happening on the surface and given up?
+I didn't think so. The military mainframe I'd gotten into hadn't been nearly as secure and high-tech as the encryption of his message had implied. Most nuclear arsenals on human worlds had been built during the Cold War - an era they'd all shared - and the technology was equally as outdated, often scarily so.
+I stared at the two sentences that had been sent with concern for me, something nobody else had really been shown during my efforts. They had their own situations to worry about, and their own homes to defend.
+My author contact had remembered that there was a person behind the screen.
+"The candle I lit during the Game started a fire," I wrote back slowly. "I watched it burn out a couple rooms, until the sprinklers took care of it."
+Oh? wow, I'm sorry.
+"It's fine. I kind of wanted it to take this whole place down. I've smashed all the windows, flattened half the cubicles, and trashed all the pictures my coworkers left behind."
+Are you losing it?
+I sighed. I was considering lying, but, as I watched my map, the circle I'd thought I'd saved went red. Connection lost. I stared at it for maybe thirty seconds, too numb to feel anything. Had I missed something? Had I made some error? Had they overridden my shutdown? We'd actually lost one. We'd actually lost an entire world while I'd watched. The sheer size and complexity of the defense efforts had practically guaranteed somebody would slip through the cracks eventually, but I hadn't? thought about how it would actually feel to realize, finally, that it was a losing battle, a battle of attrition that we could not win? a crushing fist of intense stress squeezed my awareness, and I felt like bursting.
+Was I losing it? "Yes."
+I've been thinking about your situation. I enjoy puzzles, and you've got the mother of all puzzles on your hands. We're going to think you out of this situation.
+"Alright?" For some reason, I actually believed there was hope. He seemed sensible, and a fresh perspective might see things I couldn't.
+Let's start with the basics, then. Do you have hands?
+"What?"
+Do you have hands? Simple question.
+I looked down? at my outstretched hands, fingers poised over my keyboard. "Yes."
+Are you breathing?
+I suddenly became aware of my own breathing as my chest rose and fell.
+What about your eyes? Are you blinking?
+If I hadn't been before, I certainly was after thinking about it. "Damnit, stop," I said, annoyed at suddenly having all sorts of bodily functions brought to my awareness.
+So we can reasonably guess you're alive, right?
+I froze. "You think I might be dead?"
+Well, no. From what you told me, that mind-entity used a different word to describe you. In a way, it specifically listed doomed and dead as things that you were not.
+"So I'm not dead?" Aware of them as I was, I took a moment to widen my eyes with surprise. "And I'm not doomed!"
+Right. You're vwaal, whatever that is. If you're not dead, then you're not a ghost, or a spirit, or some other nonsense. If you're not doomed, there's still hope for you yet, in some small amount. And you drew the attention of that entity by thinking very loudly, so you've got a real mind.
+"Of course I've got a mind," I responded, typing the words out on my keyboard. I stretched my hands, suddenly aware that they must be tired from my endless days of working.
+I said a real mind, my author contact wrote. I suspected, from the details of your situation, that you might be an artificial intelligence. Possibly a backup system, since you don't mention anything prior to a few weeks ago.
+Still consciously aware of my body, I swallowed uncomfortably. He thought I might be an artificial intelligence? A computer? I blinked, and clenched my hands. I felt floaty and disconnected at times, trapped here in the dark for so long, but I knew I was alive. I knew it.
+Which brings me to my next question, he continued. How long have you been working there?
+"Two or three years," I replied. "I remember it well."
+Right, that bright day of training.
+I frowned.
+Where do you live?
+I looked down at my hands for a moment. "An apartment on the west side."
+Alright? hmm.
+I waited for two minutes until his next question arrived. I wondered why he was asking about me rather than my situation.
+Here's one that might disturb you: what's your name?
+I laughed. "It's -"
+My mouth hung in place, open at the end of its last fading syllable.
+I was worried this might be the case, he wrote slowly. It's not just the building, and your coworkers. There's something wrong with you, too. He paused again, probably thinking. Do you have a personnel file?
+"Maybe," I said, struggling to remember my own name. "But without my name, I wouldn't know who to look for?"
+Frustrating, isn't it? Perhaps by design. Now there's one detail I've been hesitant to mention as yet. You're not going to enjoy it.
+"What is it? Tell me. I have to get out of here."
+Alright? it's the phones. You said there were people screaming on the phones.
+"Yes?"
+We have a tendency, as people, to dehumanize traumatizing things like that. I don't know how often I've read stories where strange screaming is used as a background scary detail. But, you know what? A scream requires a person behind it. Someone conscious, awake, and in pain.
+I let my face go slack as I realized the truth of what he was saying.
+I suspect you're not alone there at all. I hate to say this, but your salvation may lie in the most basic of all horror questions: who was phone?
+I gave the message a long - and deserved - dour look.
+Then, I jumped up, and ran out of the server room. Heading for one of the cubicle farms I hadn't destroyed in one of my despairing rages, I brought a landline phone down from a desk and sat in front of it, steeling myself. Alright, let's do this?
+The screaming began the instant the phone left the hook.
+Heart racing - I was so aware of it, I felt it in my head - I lifted the phone to my ear. My ear, too, seemed very vivid to me, running chill with the office air conditioning. I began experiencing a drilling pain as I brought the screams close, but I fought through the pain. "Hello?"
+The screams changed tenor and tone, briefly, as if the people in pain had heard me.
+"Hello?" I shouted.
+A choir of agonized shouts turned toward me, in an aural sense, and I almost recoiled. "Shut up! Just shut up!" I screamed back at them. "One at a time!"
+I caught my breath as they went silent.
+One voice - hollow, trembling, and pained - asked a single word. "Heath?"
+My entire head suddenly tingled with fire and electricity. A flood of images and associations washed through me, too much to comprehend, and I smiled haggardly at the cubicle wall.
+Heath. Heath, from I.T. - had the weeks trapped here in the dark, alone, made me temporarily forget? "Yes, it's me," I said into the phone, suddenly acutely aware that I'd found something else very important. "What's going on?"
+"Oh my God, oh my God," said an unknown woman whose voice I thought I vaguely recognized. "You're still there. We thought we'd lost you. Heath, where've you been?"
+The first man's voice added to hers. "Heath! Are you alright?"
+"Am I alright?" I asked, growing confused. "You're the ones screaming!"
+A moment of silence echoed loudly between us.
+"He doesn't know," a teenage male voice said, almost sadly.
+"Where do you think you are, Heath?" asked a wise, slow, and older voice.
+A second woman commented, too, her voice overlapping with the other speakers. "Heath, you have to wake up."
+That drilling pain from the screams had lingered in my forehead, and now seemed to intensify, forcing me to wince. That's what the eldest boy had said to me a few days ago: Man, you gotta wake up. Somethin's wrong with you. What was I missing? What part of me remained shorn away, as if I lay dreaming?
+"We've been trapped like this for over a year," the first male voice said again, his words evincing the growing pain of that imprisonment. "Heath, you have to end this."
+I thought back to the piles I'd seen on the security feeds. Why had the children battered them with weapons? It was obvious, now that I thought about it: they were ensuring, out of a sense of anything-goes precaution, that they would not be attacked by zombies. Hadn't their protector - my only friend - told them that zombies weren't real?
+I supposed it might never have come up in casual conversation.
+I knew who the voices on the phone were. "You're my coworkers."
+"Yes."
+I sat for a moment, just feeling my breathing, before I said it aloud: "You're dead."
+"Not quite," the man answered. "But we'd like to be."
+"We've all agreed," the first woman chimed in, almost hopeful and relieved. "This is no existence."
+I lolled my head back and stared up at the ceiling. My disbelieving gaze followed the white square patterns above. "You're vwaal?"
+"Where did you hear that word?" the old male voice snapped. "No matter.  You have to snap out of whatever's wrong with you, and end this. You have to kill us."
+"No," I sobbed and laughed. "I'm alone. I'm alone. I can save you. Maybe -"
+"Nobody's coming, are they?" the second female voice asked. "I've got my son here. There are children here, trapped with us. It was bring your kid to work day. If God exists, he's a bastard for this."
+"Keep it together, Marjorie," the older male said. "We've got to get Heath to kill us, or who knows how many years we'll spend like this? The nuclear reactors could power this place for centuries."
+"God, why? Why?"
+"Heath -"
+"Mom, is that the guy?"
+"Heath!"
+I clamped my eyes shut as they began shouting at me. "Tell me what's happening," I insisted, repeating my words until they stopped clamoring.
+Finally, the first male voice spoke to me again. "Heath, where do you think you are?"
+"I'm in a cubicle right now? I can't get out of the building? and the whole place is underground?"
+"I see. Is there a server room?"
+"Yes, I work there."
+"Good. You need to go there and look around. I believe it will be behind your desk, on the wall. Please, hurry. There is nothing more maddening and painful than being awake, aware, and helpless every single second of every single day."
+I lowered the phone back into place, my eyes functioning, but my gaze unseeing. Blankly, I got up and walked back to the server room. I moved through the server stacks, enjoying the breezes from their fans on my skin. I approached my desk, but did not sit. Instead, I looked at the wall.
+It was right there - it had been there the whole time. I'd been aware of the poster on my wall, but never looked at it, never comprehended it. It had just? been there. There were a dozen other posters in a dozen other cubicles and break rooms I had never looked at, either.
+READING THIS? it asked.
+If you're reading this poster, then something has gone terribly wrong. Undoubtedly, you feel trapped, scared, and/or confused. It's important that you calm down and understand your situation.
+First: provisions have been made for this situation. You are not trapped here.
+Second: you are not being held against your will.
+Third: you are not dead.
+Proceed inside.
+I felt weak as I read it, and nearly fell; I caught myself with a hand to the wall. The smooth white paneling felt cool to the touch. How many new sensations had I felt since the author had made me aware of my body? So strange, that I'd been oblivious to so much?
+?including a door, apparently.
+There was a door in the wall that I'd never bothered to think about.
+Right next to the poster sat a nondescript white door.
+Pushing through, I found myself in a vast rectangular space designed to look much like a server room - except this one was white - startlingly white, bright, and clean. Large white cubes sat at regular intervals. Each had a monitor set into the side, and I moved from one to the next, watching individuals I began to recognize as coworkers as they moved around blank white rooms much like the one I was moving through.
+As I passed one, a haggard-looking man with a foot-long peppered beard leapt up to the feed. His voice came in quietly over the speaker. "Heath?"
+I faced the monitor. "You can see me?"
+"We've been screaming to try to get your attention for months," he breathed, clutching the camera with an overjoyed grin. "Or, at least, that's why we started?"
+"What is this?" I asked.
+"You don't know?" he asked, narrowing his eyes. "How much do you remember?"
+"Bits and pieces," I said, shaking my head. "I feel? scrambled. I've been spending most of my time here alone, coordinating local defenses against the Crushing Fist."
+He stared at me for a moment, and, then, his eyes softened. "I suppose that's an appropriate name for it." He looked to his right. "Heath, we need you to turn us off."
+"Why can't I just save you?" I asked, frustrated to the point of near-crying.
+"You always want to help. If all else fails, you still keep going. That's why I knew we could count on you. That's also why it'll be hard to accept this: we died, buddy. We died over a year ago." He gave a long sigh. "We didn't have much time when the shit hit the fan here, so we tried to upload our consciousnesses to the system. I mean, it worked? but without bodies, without admin rights, and with nobody coming back to save us, we just managed to create our own private hell."
+I frowned, full of heat and anger and frustration and confusion and anguish. "But the poster says I'm not dead?"
+"You're not," he laughed. "By we I meant us. The forty-eight of us that worked here. We're just computer simulations, now. You're not like us."
+I almost didn't want to accept the faint sliver of hope growing inside me. "I'm still alive?"
+"Of course, buddy. I sealed you off so you'd be safe. Last thing I ever did? if I'm really me, that is."
+I took a deep breath and stilled my heart. "What do I do?"
+"There's a switch at the back of the room. I can almost see it from here. Maddening, right? Just turn it off. The blue one. That'll kill the processing power for all of us. We're probably eating up most of the system resources. Then? the green and red switches are for you." He smiled sadly. "If you want out."
+I walked past them in a surreal fog, watching each of my former coworkers rage, cry, and rock back and forth in their blank prisons. Had they been here, screaming, the whole time? Of course they had? and I'd been oblivious? for some reason?
+I looked back.
+They each watched me from their monitors, praying, laughing, and cheering. I remembered each one, only now, as if their faces had emerged from haze.
+I flicked the blue switch.
+The monitors went dark one by one, and the room first got louder as exuberant shouts filled the air, and then quieter, as those voices went dark.
+In a few moments, I was alone.
+What he'd said had been right: they'd been using a tremendous amount of processing power. As soon as the last monitor faded to black, a rush of energy and awareness hit me. I could suddenly remember? everything. The fog was gone. The haze had lifted. My brain felt sharp and aware for the first time in months.
+And I suddenly knew, for a fact, that I was not an artificial intelligence, and I was not dead.
+I was alive!
+This, and a thousand other things, I suddenly knew.
+I faced the green switch and the red switch, and regarded the two posters above them.
+
+---
+
+I slipped the helmet off and blinked with my real eyes for the first time in over a year. My arms cracked and snapped as I moved them under my own willpower. I could see electro-stimulators that had exercised my muscles during my long sleep, and I carefully pulled IV tubes out from my forearms before removing the stimulator patches.
+Climbing up from the chair, I immediately fell to cold, smooth marble, and I remained there for a time, enjoying real breathing and real sensations.
+The underground office building had been a simulated environment. I knew that now. Human brains weren't designed for direct access to the network, and the false environment had served as an interface. The building had been locked down, not to trap me, but because nobody had designed anything beyond it.
+I was still in the white room - the real version this time, behind the sealed door the eldest boy could not possibly have opened when the children had come here. If only he'd gone one room further, he would have found me? asleep, my mind adrift in the network? but he couldn't have gone further, because my work buddy had sealed me in to protect me.
+And I'd have been fine, even then, if the forty-eight other minds hadn't used up so many resources that I'd forgotten myself.
+Staggering onto uncertain footing, I moved along the walls, clutching my way toward the exit. It opened at my touch, and I found myself in the server room again - the real one, this time.
+I could even see the messages I'd received and written open on the monitor. My experiences had been real, they'd just been? virtual.
+Clambering through the rainbow-lit darkness of the racks themselves, I reached the odd heavy metal door to the server room. I knew what it was now that my mind was my own: it used a special array of static generators to keep dust out of the room. That was it. It wasn't a portal, or an elevator, or anything else I'd theorized.
+I took a moment of silence as I found the bodies in the hallways.
+I'd been under when it'd happened, so I didn't know what threat had killed them all, but I'd seen my only friend's swarm of children storm through here a few days before, so I knew the threat must have departed by now.
+Stumbling to the nearest break room, I raided a fridge. Our food at this facility was designed to last, and last it had. I broke some into frozen chunks and stuffed it in my mouth, relishing the burn, and then I left some out to thaw.
+After a few minutes spent gathering strength, I made a journey to the windows.
+Outside, across the parking lot, lay a bombed-out building I recognized. The cars in the lot had been trashed and devastated in various ways, and I saw a few bodies lying on the pavement. Is this what the children would have seen, had they ventured near a window? Oh, the comedy of errors that had kept the truth from me for so long?
+I returned to my desk in the server room after a time. My world was gone. Everyone I'd known was dead? but all I felt was relief. These things were still foggy to me, after so long absent from my mind, and I was just happy to be free and alive.
+I found it sublimely hilarious, and I couldn't quite describe why: even in the midst of terror and imprisonment, I'd sat at a virtual recreation of this desk, and helped people. Now, with the ability to go anywhere - and no living world to actually go to - I was still going to sit here, survive on company food, and do my job.
+Because I wanted to help. I felt like I was part of something.
+There were people that needed me? not because I was some hero. Far from it. I just happened to be a guy on a computer, in the know, at a time when knowledge was everything.
+Sighing and shaking my head with a smile, I returned to my messages.
+"I got out," I wrote to my author contact - no, my author friend. "I'm out!"
+What are you talking about? he asked.
+"I was connected to the system in an immersive virtual reality chair, complete with intravenous nutrition and electro-stimulators. Someone put thought into serious long-term uses for that chair."
+Heath, I don't understand.
+"Wait, how do you know my name?" I wrote, confused. "I never told you. I only just remembered."
+You said you found out what happened to you, and you sounded like you were having a complete breakdown. You said you were dying from a terminal illness, and wanted to help people, so you volunteered. You said the posters told you that you were surgically removed from your body and kept alive as a brain in a medical vat, to serve as the most capable, loyal, and unhackable network processing center possible. You said they left you two switches: one red, to kill you, and free you, once you wanted out? and one green, to erase your personal memories so that you could keep working without the pain of knowing your situation.
+My stomach twisted up in a knot. "I said that? God, is that true? Am I just a brain in a vat somewhere in the building?" A horrific sense of terror began swelling up through me. "Did I really say that?!" I checked through my logs for the past hour, but they'd been deleted? because of the AI shutdowns? I couldn't be sure? I couldn't be sure! Was I just like those men, women, and children I'd just freed? If the green switch removed my personal memories, and left my skills intact? God, how many times had this happened? How many times had I used the green switch because I?
+?because I'd wanted to help out?
+He didn't respond for several minutes, probably watching me panic. At long last, he wrote: Oh, no. I'm just messing with you. I'm a horror author, remember? I think up the worst possible scenarios all the time.
+The panic drained out of me, replaced by a burgeoning sense of relief and purpose. "Lord, not funny. That is not funny at all."
+Sorry. I guess I couldn't resist such a good prank.
+Remembering that I had a headset here in the real world that could dictate my spoken words and allow me to interact from anywhere in the building, I donned it and spoke into it. "You got me good. I was freaking out for a moment, there."
+Yep, got you good.
+He paused, and I waited, expectant. Damn good joke...
+Quite a few strange happenings in my hometown the past few days, he finally wrote. I could use some assistance.
+I smiled at my monitor. "Absolutely. How can I help?"
+About the Author
+
+I'm an author of science fiction and horror. I write a wide range; everything from short story anthologies to full-length novels. As an avid fan of both genres myself, I try to create engaging works that, above all else, make the reader think.
+
+You can follow more releases, or give comments at:
+
+Website: MattDymerski.com
+Twitter: @MattDymerski
+Email: mattdymerskiauthor@gmail.com
+
+I'm always interested in hearing from my readers!
+Other Works
+
+Psychosis
+
+Explore the true anatomy of horror through these thirteen tales of despair and terror, each written by the author of the original short story "Psychosis."
+Psychosis
+The Bonewalker
+The Fire of the Soul
+"Come Closer"
+Scribblings
+The Lodge
+Correspondence
+Strangers in a Graveyard
+The Lonely Grave
+The Basement
+Erosion
+Strange Things
+The Seven Horsemen of the Apocalypse
+
+The Asylum
+
+What is the nature of insanity? Follow one doctor's hunt for dark Truth through a series of patient accounts, each further from the light than the last...
+Contains all six of the popular Asylum series of horror stories.
+
+
+Creepy Tales
+
+Five longer tales designed to creep and disturb.
+
+It Watched Us Play
+A Series of Strange Occurrences
+The Hole
+The Heat
+The Misdial
+
+Aberrations
+
+Thirteen creepy short stories designed to disturb even the most jaded horror fan.
+
+A Strange Kind of Journal
+Still Life
+Staring Contest
+Final Exam
+The Everest Corpses
+Something's Wrong
+An Overheard Conversation
+Smoke and Mirrors
+An Unhappy Awakening
+The Unseen Hands
+The Hungry Lights
+The Television
+An Impossible Window
+
+World of Glass
+
+In a total surveillance society where every moment of every life is publicly recorded, three newly graduated Scientists make a youthful pact to change things for the better. Their naïve promise will shape the future in ways subtle and vast, perhaps offering a sliver of hope against the coming darkness, for this world of glass has reached a breaking point. Under the most powerful tool of oppression ever built, work is life, and speaking out means unemployment and starvation - but someone has found a way to communicate in secret, and the implications will be explosive beyond measure.
+
+Read this tale of survival and awakening in an industrial dystopian surveillance society disturbingly not too far from our own - World of Glass, Book One of the Final Cycle:
+
+Humanity has blazed a legacy of destruction and rebirth across an endless history of violence, but Time and Earth have finally run out. There is nowhere left to begin again. A hopeful promise between three friends; the meeting of two very different civilizations; one last struggle to master the human spirit - whether harmony or extinction triumphs, there will be no more chances. This is the Final Cycle.
+Preview:
+
+The Moon Aflame
+Chapter One
+
+I know this might be an odd question to ask on a mental health forum, but - does anybody else see that the Moon is on fire?
+I'm not joking. I'll run through this for a second. I know I'm not the most reliable person, but I don't think I could imagine something like this.
+Hell, I remember the entire lead-up to what happened. People were freaking out. It was the end of the world, by all anybody knew. What did they call it? An 'unidentified object at near-luminous speed?' That's what the media said, over and over, for like the day and a half we had until it hit. I guess that meant it was going really fast? fast enough to destroy all life on the planet, anyway. That was the part nobody misunderstood.
+They said somebody had to have created this object and aimed it at us. It was unlike anything natural they'd ever seen. They said somebody had probably shot this thing at us billions of years ago, probably aiming to wipe out the competition before it evolved? aiming to wipe us out before we were anything more than barely living goo.
+But, apparently, it'd been sent out - hold on, let me check my scribblings about what they said - between 4.54 and 4.527 billion years ago? because whoever had shot it at us hadn't taken the Moon into account. They couldn't have, because it didn't exist then.
+Miraculously, the timing was just right, and it hit the Moon instead.
+I remember the noise and the flash. How could I forget? Absolutely everyone was outside watching and listening, thinking the world was about to end? but it was daytime here, and the Moon was on the other side of the planet.
+We only saw the edges of the blast spraying up past the horizon. A sprawling cloud of flame and glowing dust erupted across the sky as I stood on the street among dozens of neighbors I didn't know. Well, I knew Crazy Donald, a homeless guy who I sat with sometimes outside Wendy's - he was there, muttering to himself and holding a plastic bag filled with plastic bags, but I don't think he knew anything was going on. He was just going around asking people for change, even before we knew that we were going to live for another day.
+I like him, because he and I get along, in a quiet and lonely sort of way.
+I followed him around and made sure he was safe as the crowd grew confused, excited, and loud, scaring him.
+The radios came alive and said we should probably stay inside for the next few days. We didn't need to be told twice. I urged Donald to move along to somewhere safe, and then I hid in my apartment.
+The parties were absolutely insane - from what I could hear through the walls. I imagined that people were amazed at being alive, and, since they had nowhere to go until the all-clear, it was party time.
+Me? I keep to myself, mostly.
+See, that's why I'm asking. I remember all this very vividly. I could have sworn it was real. Thing is, even despite the pills, I have a tough time with reality. I can feel the rippling waters of dreaming while I'm awake. Often, I can't distinguish between the cold hard lines of the real world and half-formed concepts of waking imagination. I don't want to have my dosage upped again, because the pills make my brain feel like cement, so I? pretend.
+I'm not crazy. I don't mutter to myself or attack people. My thoughts are all still there - my 'faculties,' as my brother Will calls them. So I force myself to behave normally when I see something I don't understand, and I use logic to control what I do.
+I like music. Songs keep me grounded, because they float through the air like mathematical chains. The songs that I know, I know by heart, and I know I'm solid as long as the notes keep making sense. I'm listening to Man on the Silver Mountain right now, trying to keep coherent, but the strategy doesn't help memories of my hallucinations.
+Is it a hallucination? I ask, because the media coverage of the molten Moon dropped off pretty quickly over the last week. I mean, there's a massive cloud of glowing dust and flaming gasses spread out across the sky like somebody thrust a burning spear straight through the Moon - because that's what happened - and nobody seems to care.
+Today, I can't even find any mention of it. All the videos and pictures are gone. I can't find the articles anymore. It's been too cloudy here to see it myself, and I don't have any windows in my basement apartment, but I've ventured out a few times to look up. I still see the orange glow, like a smeared second sun behind the clouds, and I have to wonder: why the hell isn't anyone talking about this anymore? Has our attention span really gotten that short? Are we right back to the next reality-television drama and celebrity gossip already?
+A weird thing happened when I ran into my next-door neighbor, Dean. I normally avoid him, like I avoid everyone, but this time was different.
+"Hey Alek," he said, smiling at me in the hall.
+Why would anyone smile at me? Grubby, unshaven, wearing a Megadeth t-shirt, I was the epitome of that guy you ignore who is fine with being ignored. I would have said hello back and moved on quickly, but I had a question myself, this time. "How about that sky?"
+"Yeah?" he asked, studying my face. Tall, blonde, and good-looking in that annoying Abercrombie sort of way, he had no reason to so much as look at me. I wondered why he was even talking to me. "What about it?"
+I remember frowning slightly. Something seemed off about his interest. I wasn't about to make a huge social blunder and mention the sky was on fire if I was just hallucinating the whole thing, either. "Crappy weather's blocking the view."
+He smiled at that. "Yes. It's quite unfortunate."
+I nodded, laughed sheepishly, and hurried down the stairwell. I think he stood there watching me until I closed the door?
+The more I thought about it, the more I was sure that he didn't remember that the Moon was on fire. If I were a normal person, that's the first and only thing that would be on my mind. Hey, remember that time the Moon freaking exploded?! Yeah, me too, since it was like last week! And because half the goddamn sky is still on fire!
+Every couple hours for several days, I'd go outside, but I kept missing the sight due to the cloudy winter weather. From the pictures I remembered seeing, the Moon was a molten coin burning in between two jutting clouds, almost like a fiery eye, and I wanted to see it for myself. If I could just see it? if I could just stare at it for a time? I could finally convince myself one way or the other. I was becoming pretty certain that the Moon would just be the same old silver dollar it had always been. Thing is, I thought I'd gotten a pretty good handle on my issues.
+If I've just imagined the entire thing, then I'm in serious mental trouble.
+I left a few messages for my brother, but he hasn't called me back yet.
+I even texted my younger sister, Laura, on the excuse that I just wanted to see how she was doing. She didn't respond, either? no surprise, though. Dad's probably passed out drunk right about now. I might call Tracy if I get any worse? although I wouldn't know what to say to her, really. She's probably busy taking care of Dad's mess, anyway.
+I don't know. I'm sure I'll get over this. I just don't want to have to go to my doctor. She'll up my meds again, and then I'll be a zombie.
+
+---
+
+Thanks for the responses, although now I'm just more confused. Some of you say the Moon isn't on fire and to go look for myself, and some of you are just trolling and say the Moon is on fire? Hope the mods ban you. This isn't a place to make fun of people.
+Some of you have asked about Will before. Yeah, he listens to me. He's the only family I have that takes me seriously at all. I think that he considers it his duty as an older brother. He takes care of Laura, too, although she's got a good head on her shoulders, mostly. I don't think Will would have to do nearly as much if Dad got a job, or stopped drinking. Tracy's nice and all, but we're not her kids, and not her responsibility.
+But, uh? even Will isn't really returning my calls anymore. Not after that incident I posted about last month. He got mad that I woke him up in the middle of the night for a dream I had while I was sleeping. Waking hallucinations were one thing, he said, but dreams while I was asleep were perfectly normal, and I had to deal with them on my own.
+He didn't seem to care how traumatic or horrifying the dream was. I mean, I can't blame him. I'm sure, on balance, he's done so much for me, and I've done very little for him, but I've had a terrible sense of impending doom ever since that night. I think about the kinetic terror I felt, and I still can't shake it.
+The tough part for me is that my dreams seep into my real life. Like, right now, I feel like I'm being watched. I'm looking up, and there's a small mirror to the right of my laptop. I can't look away, even as I type - or am I looking away, and just believing that I'm looking at the mirror? I keep looking deeper and deeper, seeing further into the apartment behind me, and a sense of tension pulls at me, a building scream-to-come that keeps rising to higher and higher intensity. I already see it, I already sense it, but I'm not consciously aware of what it is, not yet?
+A grenade goes off inside me, throwing terror and adrenaline in a thousand conflicting directions within the confines of my chest and limbs. He's there. He's standing there, in the shadows, watching me with hatred and intent. He sees me - he sees that I see him - and he stalks forward, approaching me from behind.
+But he's not there. He can't possibly be there. Why would Dean be in my apartment?
+I just have to sit still, breathe deep, and -
+
+---
+
+Oh my God. I don't know what to do. I think I killed Dean.
+But I had to.
+I had to.
+I have to make sense of this? I have to figure this out? ok, step by step?
+I wasn't listening to music, or I would have known that he was really there. Or was he? Is he? Is he really on my floor, bleeding from his head? So secure in the matrix of logic I usually keep myself in, I was certain he wasn't really there. I kept believing that, even as the fear surged up right behind me - and he grabbed me around the neck!
+He was trying to drag me toward the door, that's all I could tell. He didn't say a word. I don't know how I got out of his grip, except by going limp and flopping down at a lucky moment, and then he lunged at me again. I scrambled away, pulled a lamp down, and threw it at his face.
+A couple bits of shattered light bulb stuck out from his cheek, but he kept coming, furious. He tried to tackle me, but I slipped and fell out of the way, and he smashed sideways into my table. I used his moment of disorientation to lift my printer and bring it down on his head.
+He fell, and stopped moving.
+What do I do? What do I do? My condition, my pills, would make me out to be a lunatic. Would they lock me up for this? It was in my own apartment, sure, but they'd just say that I invited him inside.
+Wait?
+Did I?
+Did I ask him to come look at something? Did I then attack him?
+If I'm hallucinating things again, how can I know what's real? I've always hated him? hated his niceness? I always thought there was a smug arrogance behind it, even if he never showed it.
+I couldn't call the police, could I?
+But I did. I had to. This wasn't some movie. I couldn't hide the body or any such nonsense. Besides, that would just look worse.
+So, I called.
+The first thing the cop on the other end asked me was my location. He was very insistent on knowing where I was - even before I'd mentioned what I'd done. Something about his energy spooked me, and I hung up before giving any identifying information.
+Goddamnit, Will, where are you?
+He's moving! Dean's moving!
+
+---
+
+Thanks for all the replies. Yes, Dean was alive, just unconscious. He woke up, staggered to his feet, and mumbled an apology. It was the weirdest thing ever.
+No, he didn't explain what the hell he'd been doing. He seemed confused, more than anything. He did say: "That was really stupid of me. I'm sorry."
+About twenty minutes after he stumbled out, through the wall, I thought I heard somebody berating him in his apartment.
+Now I'm more confused than ever. I don't understand what he was trying to do. It's satisfying, though, hearing someone shout at him for being an asshole and an idiot. Yeah, I know, right? If I didn't have my own issues, I'd call the police on him myself for breaking and entering.
+Sometimes, mental problems make you feel like an outcast. You don't get to call the police. You don't get to ask for help. If there's a problem, you're the one in trouble. That's one of the many reasons I don't leave my apartment much.
+You guys ever feel like that?
+
+---
+
+I just had the oddest experience. A girl came by - Dean's girlfriend - and asked if I wanted to take a walk. She wanted to apologize and explain what happened, so that I wouldn't 'press charges.' I guess she had no idea I was terrified of interacting with the cops.
+She was like Dean. Thin, blonde, perky like a fashion magazine model? I hated her immediately, even though she sort of reminded me of my sister. "Fine," I said, and locked my apartment behind me.
+The first thing that hit me, aside from the cold night air, was the blazing orange casting everything in eerie burnt colors. The weather had cleared up! Immediately, I could sense the molten Moon and blazing veil above, but I avoided looking at it. It wasn't real, and I wasn't going to give in to my waking dreams.
+"Nice night out, isn't it?" she said, oblivious to the burning sky. She walked beside me as we circled the neighborhood. "Look, I'll be honest with you. Dean's kind of a controlling asshole. He's never been violent before, but I think he got the idea that something's going on between you and me."
+"What?" I laughed, the last note rising awkwardly high. "I don't think we've ever even spoken."
+"No, we haven't," she agreed. "But I saw you in the hall last week and mentioned that I used to date dirty grunge types. You know, metal."
+I suddenly felt very warm, and I'm sure my face was red to someone who saw silver moonlight instead of orange. "You did?"
+"Yep. He's not really my type. Crazy, right? Since we both look like we belong in an Old Navy ad."
+"You said it, not me," I replied. Did I actually just make a joke? I don't think I'd ever gotten this many seconds into a conversation with a pretty girl.
+And she actually laughed out loud. "I know, I know. When I dress and act like this, I know what I'm doing. Call it an experiment. If we're being honest, I had to get away from the drugs. I love me some Megadeth and Dio, but the scene -"
+"Wait, what?" I asked, surprised. "Those are my two favorite bands right now."
+She blinked. "Really? I didn't think anyone our age liked the classic stuff still."
+I opened my jacket and showed her my t-shirt.
+"No friggin' way," she said with a smile. "Well it's nice to meet you, -" She held out her hand.
+"Alek," I said, shaking her hand and marveling at my own ability to actually hold a human conversation. I didn't feel numb or terrified, I just felt? normal. The fact that she reminded me of my sister had made it easier to deal with her. "Short for Alexander."
+"Alexander," she said, smiling. "I'm Ashley." She looked up at the sky for a moment, but I did not follow her gaze. "Beautiful night out," she said.
+I still didn't look. I didn't want to face the flaming hallucination that was so insistently trying to ruin my first real connection with someone else in a long time.
+"How about this," she continued after a moment, finally looking back at me. "I'm done with Dean either way. He's such an asshole? but I honestly believe it's a one-time thing from him. If you don't press charges, I'll go on a date with you."
+That part finally broke my scant coolness and made me clam up. I'd seen that moment enough times on television that I knew to force myself to say one word: "Sure."
+I think she mistook my terseness for aloof confidence. A genuine and warm smile crossed her face, and then she took my cellphone and put her number in it.
+Ten minutes later, I'm back in my apartment, and more shocked than when I thought I'd killed Dean.
+Now here's the part where I need some help from you guys. I know I'm posting a ton tonight, and I'm sorry, I just? it's so hard to tell what's real. I keep thinking back on it and obsessing over our little walk. I can't help feeling she was trying to get me to look at the sky. Little details, like her choice to talk to me outside, and her long pauses to look over at the Moon? and Dean had been trying to drag me to the door?
+Had her whole thing? had our whole connection? been fake? Am I just being paranoid? How would they even know about my hallucination? Oh God, what if it's a cruel trick? What if they read my posts and are messing with me?
+What do you guys think? Am I just psyching myself out for no reason? I hate this so much? I hate my brain, hate my affliction, hate myself? why can't I just be normal?
+
+---
+
+Thanks for the support. I am kind of freaking out, and you guys make me feel much better. Still a ton of trolls here, though, please STFU?
+Although I don't agree with the popular sentiment here that going out and looking at the Moon to 'face my fear' will help. I'm not going to do that. Ignoring my hallucinations has always worked for me.
+Hold on one second? another knock at the door.
+
+---
+
+What the hell?
+I just got a visit from Crazy Donald. Guess what, though?
+He's fine.
+He seems lucid.
+He looked at me with a clear and direct gaze that I've never seen from him before. He knew my name, too. I opened the door, and he stared at me for a moment before saying, "Alek - you're alright!"
+"Yeah," I replied, confused. "Donald, are you like - actually there?"
+He nodded. "I'm feeling? better. Father Abruzzo has stopped shouting at me." He tapped his head. "I think he's finally forgiven me, after all these years."
+"Father Abruzzo?" I asked, concerned.
+Donald smiled and nodded. "My mother's stopped scolding me, too." He breathed deep. "I'm feeling good, man. And I don't know anyone else."
+I stared at him. "No family?"
+He shook his head. "Somewhere. Detroit, last I can remember, before I, uh? before the screaming got so loud I couldn't think."
+"When was that?"
+"I dunno, man. Black Sabbath is the last big thing I can remember. Uh, Glenne Hughes was on vocals that time."
+I knew my metal trivia. "Their 1986 tour? Shit, I think they played Detroit that year. You've been out of it for thirty years?"
+"Thirty years? What year is it now?"
+I frowned. "2014. It's October, 2014."
+"Damn," he replied, gruff and sad. "Can I look in a mirror?"
+"Sure," I told him.
+He's in the bathroom crying right now.
+I know how to handle this less than I knew how to handle talking to Ashley. I've always sort of gotten along with Crazy Donald - well, just Donald, now, I suppose - but I never suspected that he was aware of me through the fog of his mania. I can't just kick him out, either. Do I have to let him live here? The thought of someone in my space, even if it's just for a bit, makes me nervous.
+This has been one hell of a night. I don't think I can take much more emotional stress. I'm already fragile in the best of circumstances, but tonight has been a trip. What do you guys suggest? How should I handle this?
+
+---
+
+I didn't say anything to him. I didn't even mention it to him. I'm terrified beyond all logic right now.
+I stood outside the door and tried to calm him down, the way some of you suggested. And you know what he said, as he cried?
+"It's that damn burning Moon," he complained. "I'd rather go back to the screaming than find out I've lost so much of my life."
+I didn't say anything to him. I never told him about the molten Moon. He said it, unprompted, and I nearly had a panic attack.
+It wasn't just my imagination - or, we'd had the same hallucination.
+"Donald," I remember saying very weakly. "Do you remember having bad dreams recently?"
+He immediately quieted. "I always have bad dreams. My whole life has been a bad dream."
+"I'm serious, Donald. In the last month - have you had any particularly horrible nightmares?"
+He breathed for a time, in between pathetic sobs, and I heard him move a little on the bathroom floor. "Yeah. Even with Father Abruzzo shouting at me and my mother hurting me, I saw him standing there on the outside, trying to get in."
+"Who?"
+"Him," he said cryptically. "The Sleeper? the Dreamer On High. He's on the outside, looking in. He's always looking in."
+I felt a terrible chill at those words. I didn't have a name for the shadow of impending doom I'd felt ever since that night, but I did have a feeling: the sensation of being watched. It felt just like Dean's presence had felt, like someone was standing in the shadows at the back of the room and watching me with fury and hunger. "Don? what did you mean when you said it was the Moon?"
+"I looked, man. I looked up at it? and it looked down, into me."
+That was all he would say. I left him to his sobbing, figuring I could get more out of him after his first good night's sleep in thirty years. I left him a blanket, too.
+And, now, I'm left with a terrible foreboding. There's a small pool of blood on my floor, and nobody seems to share my hallucination that the Moon is on fire except another crazy person. Still, I called my brother one last time.
+"Will," I said to his voicemail. "Don't look at the Moon. I don't know if you've looked - but don't! It's important!"
+I don't know what else to do. How can I know? How does anyone know what's real? If something's happening? who would I even turn to? If it's not, how do I shake this waking nightmare?
+And why do so many of you keep insisting I go outside and look at the Moon? I'm not finding this funny anymore.
+I have a text from Ashley? she wants to go on our date now? which is way sooner than I expected, I guess, but who knows? I gotta go? but I'll be back with more updates when I can manage. Wish me luck, guys!
+I'm not gonna let this get to me. I'm not gonna let my issues get in the way of my life. Not this time?
+
+***
+
+
+
+It seems someone should have told Alek the golden rule: never go on a date if you're living in a horror novel.
+
+The saga continues soon. Follow Alek's tale, and others, at MattDymerski.com. 

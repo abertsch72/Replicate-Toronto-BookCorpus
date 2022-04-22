@@ -1,0 +1,904 @@
+﻿Quantum Troopers Return
+Episode 5: HAVOC
+
+Published by Philip Bosshardt at Smashwords
+Copyright 2020 Philip Bosshardt
+Smashwords Edition, License Notes
+
+This ebook is licensed for your personal enjoyment only.  This ebook may not be re-sold or given away to other people. If you would like to share this book with another person, please purchase an additional copy for each recipient.  If you’re reading this book and did not purchase it, or it was purchased for your use only, then please return to Smashwords.com and purchase your own copy.  Thank you for respecting the hard work of this author.
+
+A few words about this series….
+
+Quantum Troopers Return is a series of 25,000-30,000-word episodes detailing the adventures of Johnny Winger and his experiences as a quantum trooper with the United Nations Quantum Corps.  This series continues the original serial stories of Quantum Troopers, Episodes 1-22 (formerly Nanotroopers).
+Each episode will be about 40-60 pages, approximately 30,000 words in length.
+A new episode will be available and uploaded every 4 weeks.
+There will be 10 episodes.  The story will be completely serialized in about 12 months.
+Each episode is a stand-alone story but will advance the greater theme and plot of the story arc.  
+The main plotline: U.N. Quantum Corps must defeat the criminal cartel Red Harmony’s efforts to use their nanorobotic ANAD systems for the cartel’s own nefarious and illegal purposes. 
+Uploads will be made to www.smashwords.com on approximately the schedule below:
+
+Episode # (*)	Title					Approximate Upload Date
+1 (23)		‘Fab Lords’					2-7-20
+2 (24) 		“Free Fall’					3-6-20
+3 (25)		“Forbidden City”				4-3-20
+4 (26)		“Deep Encounter”				5-8-20
+5 (27)		“HAVOC”					6-12-20
+6 (28)		“The Empty Quarter”				7-10-20
+7 (29)		“The Hellas Paradox”				8-14-20
+8 (30)		“Twist Pirates”				9-11-20
+9 (31)		“The Better Angels”				10-9-20
+10 (32)		“The Ship of Theseus”			11-13-20
+
+(Note *: Episode numbers start with Episode 1 in this new series but the continuation of episode numbers from Quantum Troopers is also provided)
+
+
+Chapter 1: “Inferno”
+
+Aboard UNISPACE/Roscosmos station Fort Bliss
+In Venus Orbit
+June 2, 2065 Earth Universal Time (EUT)
+0400 hours (local)
+
+On Venus, there are only clouds…to the naked eye.  Cloud cliffs and cloud valleys.  Cloud ravines and cloud canyons.  Cloud bergs, buttes, badlands.  Cloud continents.  Above the clouds is the vacuum of space.  Below the clouds is Hell itself, an inferno of heat and sulfuric acid rain.  And don’t forget the occasional storm.
+That was why station engineer Natalya Yegorova was glad beyond words when EINSTEIN—Fort Bliss’ onboard computer—beeped insistently and dragged her out of a reverie that had lasted for who knew how many minutes. Yegorova took one last look out the nearest porthole and begrudged the final wisps of daylight before the planet from hell was fully enveloped in the nightfall.  Astronomers are supposed to savor the night, she kept telling herself but that never worked.  At that same moment, she heard a beeping from her console and turned her attention back to the displays.
+What the hell…
+Yegorova looked over her boards, controlling the positioning of the great telescope further up on the station’s central truss and the optical and radio sister scopes that accompanied it.  She quickly pinpointed the source of the beeping…Scopes C and D…the south lateral spotter scopes…was picking up some anomaly.  Something was approaching the planet, head-on and it was approaching fast.
+She massaged the controls and tried to focus the array better, get better resolution on the target.  EINSTEIN didn’t beep without reason.  Somewhere in its nearly infinite memory were ephemeris data and trajectory details for nearly every detectable piece of space junk in the inner solar system, out to several billion kilometers.  Like an overprotective mother, EINSTEIN knew where everybody was supposed to be, right down to the nearest centimeter.  
+He only beeped and chirped when someone was out of position or something new showed up.
+A quick perusal made the hairs on the back of Yegorova’s neck stand up.  The system displayed a list of likely targets, based on radar imaging and known ephemerides.  She scanned the list.
+Right at the top was an unknown traveler.  EINSTEIN had already designated it V-101. 
+Yegorova took a quick peek out a nearby porthole and straight away, she saw it. 
+A fiery reddish-orange arrow was just plowing its way into the top of Venus’ atmosphere.  
+Meteorite, she figured.   To give herself something to do, she put EINSTEIN to work plotting its probable impact point, assuming the thing even survived a plunge into the thick atmosphere.  That was not a given around this hellhole of a planet.
+When it came back, the answer surprised her: sixteen kilometers south by southeast of Ishtar base.  
+Yegorova tapped her lips, debating whether to advise the ground crew at Ishtar.  By the time the meteorite reached the ground, it would probably be little more than a burning cinder, like a red-hot snowflake drifting down in that sulfurous miasma.  Still, she decided to raise Ishtar and give them the news.  She opened Comm A and sent the notice by voice.
+“Udar ob’yekta v shestnadtsati kilometriikh k yugo-vostoku ot vashey pozitsii.”
+There was no immediate response from Ishtar—Kazan or Refimov or anyone, by voice or text.  That was not in itself unusual.  Perhaps they were preoccupied with some experiment or routine maintenance or they were busy cleaning toilets.   When her shift change came up and Emily Blakely showed up for the day watch, the two women went over details of the latest shift and Yegorova slipped into the gangway, intending to grab a hot tea in the crews’ mess and some shut-eye in her quarters.
+Emily Blakely settled in for her own watch with a novel she was trying to finish.  An hour later, she had dozed off.  Only the insistent warble of an emergency alarm roused her and she sat up straight, trying to get her bearings.
+It was Geronimo.  Some kind of problem down below, aboard the manned airship that was supposed to be cruising the mid stratosphere, a research mission.  Emily blinked and rubbed sleep from her eyes.  The board was lit up like a Christmas tree, alarms and warnings all over the place.  Her big brother Win was down there. 
+Geronimo was in serious trouble.
+
+In the early summer of 2065, as people on Earth reckon time, Geronimo had been on auto-cruise for several days when Doug Fremont and Win Blakely were both startled out of their sleepy daze by the insistent beeping of the wind shear alarm.  
+“Emily named this one Estelle,” Blakely noted from his anemometer display.  “Sisters are like that.  Properly known as VS-8…looks like this one’s going to be a doozy.”
+“Hey, your sister lives for these clouds…what an imagination.  Unicorns and castles everywhere. Any chance we can steer clear?’ Fremont proposed.  “The last one turned my insides into scrambled eggs.”
+“Checking Doppler now…”  Blakely scanned his instruments.  “Jeez, this is one big sucker…covers almost all of Theia and Rhea Mons.  I’ll try to steer around it.”
+Blakely grasped the joystick and swiveled Geronimo’s props to starboard.  The huge airship responded sluggishly, buffeted and shuddering from stiff cross-winds.  “It’s like driving into a hurricane.”
+Fremont nodded grimly.  Outside, sulfuric yellow clouds were thick and impenetrable. “It’s worse than that…anemometer shows wind speed nearly a hundred meters per second.  I can feel the cross winds.”
+A bright flash lit up the tiny cabin, followed by a crescendo of roaring, rolling thunder.  Veins of lightning arced across clefts and gaps in the clouds dead ahead.  
+“Are we turning?” Fremont asked.  “I don’t feel anything.  I don’t like the looks of that cloud bank up ahead.”
+“Not enough to make a difference.  Estelle’s a monster, and she’s sucking us right in…I’ve got no yaw and not much pitch either.  We’re caught in her outer bands…but I think we can ride her out.  We did it before.”
+“Yeah but not with lightning like this.  Every time we pass over Theia Mons, those volcanoes light up the clouds like a Christmas tree.”
+“Hang on…I’m going to try to--”
+But Blakely’s words were interrupted by a terrific flash, bright enough to blind both crewmen.  The thunder came an instant later, followed by the smell of rotten eggs…sulfur…and the cabin was quickly thick with smoke and electrical arcs and discharges.  The shock wave knocked Fremont and Blakely out for a few seconds.
+It was Fremont who came to first.  He shook his head and rubbed his eyes, thankful for the seat harness that had kept him upright, then his blood ran cold.  
+It was clear, viscerally as well as by instrument, that Geronimo was in trouble.  The whole cabin was canted down, at the wrong angle.  Displays flashed nonsense and garbage right in front of his eyes.  He sat up abruptly, ascertained the panel was safe to touch and shook his commander roughly.
+“Win…Win, wake up!”
+Blakely sniffed groggily.  “What…what happened?”
+“We got struck…lightning, or something.  Direct hit.  Look--” He pointed to the panel.  “Main bus A and B undervolt.  Caution and warnings all over the place.  Master alarm going off.  It was a direct hit, Win.”
+Blakely was mission commander for HAVOC 1—High-Altitude Venus Operational Cruise-- but he felt like someone had just slammed the side of his head with a sledgehammer.  “What’s with our attitude…we got no instruments.  Everything dropped out at once?”
+“Most of the instruments are fried.  Why are we in down pitch like this?”
+Blakely released his harness and pressed his nose against the forward porthole.  Outside, he didn’t have to watch for long to notice the outer fabric skin of the balloon envelope flapping like mad, torn and shredded like so much confetti, shedding Teflon and polypropylene and scorched gear off into the wind.  
+“Here’s your answer.”  He indicated the massive and expanding tear.  “Looks like starboard cells A and B, maybe C.  We’re holed.  Whatever hit us ripped a big gash.  Can you check helium pressure?”
+“I got nothing on the panel, Win,” Fremont complained. 
+Blakely sat back in his seat.  “We’re going down.  Can’t you feel it?  I don’t need instruments to feel it.  Butt logic tells me we’re in a descent…and it’s picking up.  We can’t go below forty kilometers.  She won’t hold up.”
+Fremont and Blakely stared at each other for a long moment.  Fremont reached for the comm button first, praying that it hadn’t been fried.  He selected High-Band A and keyed the mike on his helmet.
+“Fort Bliss, Geronimo…do you copy?  Fort Bliss, Geronimo, do you copy.  We’ve got a major emergency here…Emily, Natalya, come back!”
+There was a staticky crackle, followed by chirps and whistles--“whistler waves,” mouthed Blakely.  A clear indicator of lightning in the area.  More gusty crackles, then a faint, scratchy voice came through.  It was Emily Blakely, aboard Fort Bliss, several hundred kilometers above them in orbit.
+“Copy, Geronimo…say status again.  I couldn’t…copy …last trans--”
+Fremont explained, carefully, word for word, what had happened.  “We’re hit by lightning or maybe a meteor…holed bad.  Maybe more than once.  Everything’s toast down here.  And the envelope’s leaking…big tear, starboard side forward.  I can see the shredded fabric.”
+Now Win Blakely got on the comm.  “Em, we’re going down.  I’m pulling the plug…we’ll have to powerup Pinocchio and abandon ship.  Fast.  We’ve got no instruments but my sense tells me we’re headed down in a hurry.”
+Emily Blakely, safely ensconced in her couch aboard Fort Bliss swallowed hard.  “Copy that.  Win, get out of there.  Light off Pinocchio and get the hell away now.  Don’t waste any more time.  Grab what you can, squirt the rest up to me and get your thick skull out of there.”
+“Already underway,” Win came back.  “We’ll re-contact when we’re away on ascent.”
+“Copy that.”
+Blakely motioned for Fremont to grab whatever data he could, tapes, drives, disks, Geronimo was packed with instruments for research: spectrometers, nephelometers, radiometers, thermocouples galore.
+“Here,” he pushed Fremont aside, as the Mission Pilot fumbled with some gear.  “I’ll do it.  Get your butt into Pinocchio and start powering up.  I don’t know what our altitude is but it feels like we’re dropping fast.  Crush depth may not be too far off.”
+Fremont acknowledged and squeezed past the Mission Commander, then into the narrow access tunnel leading aft to the ascent vehicle, nicknamed Pinocchio.  Once powered up and checked out, she would detach from the gondola and drop away, then her LOX/RP-1 rocket engine would fire and the ship would arc upward out of the deep stratosphere and into a low-altitude orbit around the planet.  A few hours’ maneuvering would put the small ship into position to dock with Fort Bliss.
+Fremont was deep into his switch settings and system startups when more lightning flashed outside.  
+“Wow,” he muttered.  “That was close.”  He called up to the habitat.  “Win, better get buttoned up quick.  That lightning’s getting worse.”
+A voice came back through the short tunnel.  “Almost done here.  Just a few—”
+The flash was blindingly bright and it seemed to last for an eternity.  Fremont felt the hairs on the back of his neck stand straight up.  Pinocchio’s cabin glowed an unearthly spectral blue-white for a split second, then the shock wave hit, battering the entire airship like a rogue ocean wave.
+That’s when Fremont heard something he hoped he would never hear.
+It was a sound of tortured metal, a screeching, groaning, wrenching, scraping sound of metal being rent and torn.  Pinocchio shimmied and shook like a wet dog.  Then Fremont’s blood ran cold.  He stared at the smoking rim of the access tunnel, seeing the first puffs of yellow sulfuric acid fog seeping into the cabin.  He craned forward to inspect the adapter and held his breath, sucking his teeth.
+The inside of the transfer tunnel was a smoldering pile of wreckage.  Completely blocked from Geronimo.  Worse, the outer skin of the tunnel was ripped open butterfly style in multiple places, still smoking and the air of Venus’ deadly atmosphere was already filling in…a deadly toxic mist of sulfuric acid and hydrogen chloride.
+Instinctively and by training, Fremont slammed the hatch shut and fired the latches.  Then he got on comms back to Blakely.
+“Win…listen.  That last bolt…it was bad.  The transfer tunnel was hit.  I just checked inside…it’s wrecked.  Impassable.  Worse, it’s tearing away from Geronimo.  The atmosphere’s leaking in at a high rate.”
+For a few moments, Blakely said nothing.  Fremont’s heart skipped a few beats.  
+“Win…Commander Blakely--?”
+“I heard, I heard.  Okay, Doug…listen up carefully.  We drilled on this.  We trained for this.  Make sure the hatch is secure.  Once you’re sure, separate Pinocchio.  Do you understand me?  Press the SEP button, light off the rocket and get out of here.”
+“What?  Are you nuts?  I’m not leaving you up there!”
+“Doug, don’t argue--” He stopped when a fierce wind gust yawed them roughly to one side, then whipped the ship hard to the opposite side.  More groaning metal.  More screeching in the tunnel between them.  “Doug, we can’t have this argument.  You know what Mission Rules say.  If one crewman can’t make into the ascent vehicle--”
+“I don’t care!  I’m not leaving you behind.”
+“Hey, I can ride this out.  I’ve still got some lift to maneuver with.”  
+“Bullshit!”
+After a few agonizing moments, with lightning and storm conditions getting steadily worse, Blakely practically yelled into his mike. “Doug, we can’t lose both of us.  You’ve got the data with you.  Now GO! Leave!  Get away!  At least one of us has to survive.  Launch now…that’s an order!”
+Fremont planned to argue more…we can make this work, I can clear the wreckage away, I think there’s enough room…but a click on his comm made up his mind for him.  Blakely had cut off comms.  
+“Asshole!” he muttered.  He dove into the last of his checklist, ripping through the startup sequence, flipping switches and stabbing buttons angrily.  “Always got to be a hero!”  Just for good measure, he opened his own mike again, not knowing if Blakely was still on line and yelled. “I’m not giving up, you know!  I’m coming back…one way or another, I’m coming back and rescuing your sorry heroic ass in spite of you.”
+Then, when the whole panel in front of him was green and there were no more caution and warning flags, he blinked and shrank back from another flash of lightning, waited for the shock waves to dampen out, sank back in his seat, eyeing the fierce swirling gusts of yellow and orange outside, and reached out for the SEP button.
+His stomach lurched up into his throat when Pinocchio dropped.  Automatically, after two seconds, the rocket lit off.  Doug Fremont was slammed back into his seat by the five-g acceleration and closed his eyes.
+In his mind, while all around Pinocchio, the massive cyclone churned and heaved and the rocket bore him upward toward the relative safety of space, he could still see Win Blakely’s grizzled face, full of week-old stubble, his big dog ears sticking out like airplane flaps, grabbing data tapes and disks left and right, eyes blazing with determination as Geronimo’s porthole glass cracked and burst inward in a shower of splinters and shards.
+He was never sure if that had really happened or if he had just imagined it.
+
+Emily Blakely’s face was a mask of incredulity.  She angrily swiped back the ornery hair swirl that was always dropping into her right eye.  
+“You did what…you left him…abandoned him?”
+Fremont winced, not from Emily’s words but from the swab that Natalya Yegorova was using to dab at cuts and lacerations and burns on his face.
+“Look…I didn’t want to…I refused…I told him no way.  But it was an order.  And the transfer tunnel…go see for yourself.  It’s toast.  It got fried by that bolt.  I was lucky to get away at all.”
+Emily just glared at Fremont.  “Really, you abandoned the Mission Commander…and my brother.  Doug, so help me--” Her fists balled up and she looked at them as if they might act of their accord.  Then she brushed past Yegorova and Fremont—they were all crammed into the tiny sick bay compartment—and headed up the gangway to the command deck, swearing, muttering to herself, slamming a fist into the palm of her other hand.  In the weightlessness that pervaded Fort Bliss in Venus orbit, her gestures only sent her bumping and scraping up the gangway.  She banged her forehead on the hatch climbing into the command deck and growled at her own awkwardness, then furiously strapped herself into Win’s seat.
+“Let’s try some comms…see if I can raise him,” she swore at herself.  She selected High-Band A and keyed the mike.
+“Geronimo, this is Fort Bliss, come back.”  Nothing but static and an eerie hiss, then a warbling whistle that sounded just like the Canadian Stellers’ jay she’d just gotten onto her birder’s life list last year.  No, not quite.  That had more notes to it.  
+No birds down there, girl, she told herself.
+“Geronimo, Fort Bliss, do you read, over?”
+Nothing.  More static.  Lightning ‘whistler’ waves.  And something that sounded like laughter.
+Emily bit her lip.  This can’t be happening.  Not to the great Winston Blakely.  Fremont’s words hung like rusty nails in her mind’s eye:  Geronimo headed down…the envelope torn…helium leaking out fast…no maneuvering….
+One number flashed across her mind: forty kilometers.  That was crush depth.  Geronimo couldn’t hold up below that altitude.  The massive Venusian atmosphere would crush the ship and the balloon like crumpled paper below that.
+She tried again, keying the mike again and again.  “Hey, wise guy…anything you can do I can do better.”   That had been their standing joke for years.  Even when UNISPACE had inexplicably selected her for the HAVOC mission too--can you imagine the public relations possibilities, the PR people said, with brother and sister on the same mission?
+Win had almost had a hernia trying to explain it all.
+Then…a burst of static and a scratchy voice…fragments.
+“…like hell, Em…Geronimo…-ending through forty-eight klicks…you…--ead me?”
+Emily’s heart went into her mouth.  “Win…Geronimo…say again.  You’re breaking up.  This is Fort Bliss, Geronimo…Win, say again!”
+Hiss and static, some warbling and a few chuckles…some clown down there in that thick poisonous soup.  “…good data now.  Seen dark patches to my star--…hear some--…outer hull…just shed something—”
+“Win!”
+But after a few more chuckles came an ear-splitting screech.  Maybe more lightning.  Maybe the outer bulkhead…maybe….
+No, I won’t consider that.  “I’m coming down there, fathead.  I’m not leaving you.  You don’t get to check out without me.  Anything you can do, I can do better…keep saying that.  It’s true and you know it. I’ll find a way and then I’ll enjoy rubbing it in your face.”  The prospect of pulling off a rescue in spite of all the odds, the Mission Rules, the physics and the pressure and the toxic air and Fremont’s lame explanations brought a faint smile to Emily’s face.  She’d love to rub that in his thick-headed face and see his reaction. 
+Even girls can do the impossible, when they put their minds to it.
+The rest was just details.
+
+They gathered in the crew’s mess, the three of them: Yegorova, Fremont with bandages and gauze pads all over his face, and Emily Blakely.  
+Natalya Yegorova was brusque, no nonsense, munching on one of her weird fruits.  Kiyuva, she called it.  Some kind of guava-mango-lime thing from Indonesia.  Natalya loved them, ate them all the time.  Nobody else loved them.
+“As I see it, we don’t have any real options.  We can’t get to Geronimo, not from here, not with what we have left.  And we haven’t heard anything from Ishtar in a day.”
+Emily looked at Fremont.  “What about Pinocchio?”
+“She’s fried,” Fremont told them.  He winced, experimentally touching a bandaged spot on his cheek.  “Ascent vehicle is intact structurally, but her systems need a thorough going-over before she could be used again.  And there’s no fuel left.”
+Emily considered that.  “The station uses the same blend…LOX and RP-1.  We could transfer fuel to Pinocchio.”
+Yegorova shook her head.  “Geronimo doesn’t have that much time.  By the time we can get her checked out, the tunnel repaired, systems tested and rig up some kind of fuel transfer device, it’ll probably be too late.  Emily, that’s just physics.  Last telemetry we got from Win showed the ship descending at a rate of two kilometers every ten minutes.”
+“What about Pinocchio?  The ERV?”
+Yegorova looked at the STC1 like she was from Mars.  “Are you nuts?  Earth Return Vehicle is for…you know, Earth return.  We use Pinocchio and we don’t have a way to survive the trip through Earth’s atmosphere.”
+“And, not to belabor the obvious,” Fremont said, “but she’s got no real fuel supply…just a small engine and some maneuvering thrusters.  Out of the question.  Win would have a cow if we did that.”
+“My brother’s about to die!  Let him have a cow. Who cares what he thinks?”  Emily wanted to sock the both of them.  She was about to stalk out of the mess compartment when the Message Alarm beeped.  
+Yegorova reached over to rip off the sheet stuttering out of the printer.  The one-way comm time to Earth was now over ten minutes, with Venus and Earth approaching conjunction positions in their orbits.  Yegorova had already apprised Mission Control about Geronimo’s situation.
+The station commander read the sheet silently, her thin lips tightening with each word.  She handed it to Emily when she was done.
+Emily’s face blanched.  She crushed the paper.  “They can’t do this.  It’s not right.  We can still reach Geronimo…there has to be a way.  And somebody’s got to find out what’s happened to Ishtar base.”
+“It doesn’t matter, Emily.”  Yegorova was already headed out of the crew’s mess.   There were about a million things to be done to prepare Fort Bliss for a trans-Earth injection burn.   “Mission Control has spoken. Ishtar will be fine.  Their comms are down, that’s all. Telemetry’s still working. The best launch window’s coming up in three days and we’ve got a lot to do, including you.  There won’t be another launch window for a year and we’ll run out if supplies before then.  We’ve got to save the mission.”
+Emily bit her lip hard, earning a little blood.  No, she would not allow tears now, not in front of Yegorova and Fremont.  “I don’t care what Mission Control says.  We’ve still got three days.  We can get to Geronimo…I know it can be done.  We just need to think some more…come up with some more options.”
+Yegorova pulled Fremont along with her.  “You think, Emily.  I don’t have time for thinking.  We’ve got work to do on the command deck.  So do you.  That’s an order.  I want your systems checked out and buttoned up by this time tomorrow…we still have an all-ship inspection to do before Flight okays the burn and confirms our numbers.”
+Emily said nothing.  Yegorova and Fremont headed out into the gangway and disappeared.  They went up to the command deck.  Emily undid her lap harness and drifted over to the cupola on the other side of the crews’ mess.
+Below the station, the upper ionosphere and troposphere churned and heaved like a boiling pot of soup…all yellow and orange and beige and tan, streaked with dark patches that were still the subject of endless debates.  Venus was a salmon-hued world, mottled and banded with reds, browns and ambers, a cauldron of clouds, storms and majestic seething turbulence.  Alternating strips of light and dark wrapped the planet in a calico shroud and several small dark spots boiled away in the north tropical zone, companions to larger cyclonic disturbances in the south, centuries-old hurricanes churning since the time of Cromwell and King Charles.
+The dark patches had fascinated Venus researchers for a hundred years.  Emily Blakely had written papers on their possible origins, studied and measured their compositions, speculated on what they might be, been laughed and hooted down at conferences for some of her more outlandish ideas.  Words from her most infamous paper scrolled across her mind’s eye. She had co-authored several papers proposing novel ideas about atmosphere circulation, storm formation and even the possibility of extremophile lifeforms in the atmosphere; the title of the most famous paper was “Carbonyl Sulfide Reservoirs on Venus and the Possibility of Micro-Organic Origins.”
+‘Several observations indicate that the cloud deck of the Venusian atmosphere may provide a plausible refuge for microbial life. Having originated in a hot proto-ocean or been brought in by meteorites from Earth (or Mars), early life on Venus could have adapted to a dry, acidic atmospheric niche as the warming planet lost its oceans. The greatest obstacle for the survival of any organism in this niche may be high doses of ultraviolet (UV) radiation. Here we make the argument that such an organism may utilize sulfur allotropes present in the Venusian atmosphere, particularly S8, as a UV sunscreen, as an energy-converting pigment, or as a means for converting UV light to lower frequencies that could be used for photosynthesis. Thus, life could exist today in the clouds of Venus.’
+Emily snorted, remembering some of the comments she had heard at the last conference in Barcelona.  Totally implausible…without any believable evidence…teen-aged science fiction…not worthy of a second’s attention….
+Yeah, right.  Life on Venus.  Avian extremophiles swooping like flocks of condors through sulfuric acid clouds.  A true birder’s wet dream, for sure.  You could win some big awards and a lot of notoriety with a discovery like that.  
+Damn it, there is life on Venus.  And it’s trapped down there aboard a stricken airship called Geronimo and it’s slowly but steadily falling into that caldron of death and asphyxiation.  
+She watched the ceaseless roiling and churning of the world below.  When the idea had actually come to her, she couldn’t say. Maybe it just formed full-blown, like so many of her wacky ideas.  Maybe it just appeared like the flock of Peale’s falcons—Falco peregrinus pealei—she had seen several years ago off Vancouver Island.  Out of nowhere, glorious with its smoky-white breast and broad malar stripe and full dark cap.
+Yegorova and Fremont were wrong, both of them.  Pinocchio was a viable option.  True, the Earth Return Vehicle was designed to carry HAVOC’s four-person crew through the heat and fire of reentering the Earth’s atmosphere when the mission was over.  True, she had only limited maneuvering ability and limited fuel supply.  But damn it!  She was designed to plunge into an atmosphere and survive.  She had an ablative heat shield, phenolic resin.  She had some maneuvering ability.  She had plenty of room.
+The more she thought about it, watching the clouds churn below the cupola, seeing in her mind the stricken Geronimo sinking every minute deeper and deeper into that hellstorm, the more sense it made.
+Emily sucked in her breath, forced a smile she didn’t really feel and headed out of the mess compartment.  She didn’t head to her sleep cubicle.  She didn’t head up to the command deck.  She headed aft, toward Fort Bliss’s F deck.  Pinocchio was docked there, her conical hull just barely visible through the gangway portholes.
+Pinocchio, girl, you’ve got one hot date to get ready for.
+Emily made sure no one else saw her as she cycled the hatch and pushed onto F deck.  She closed the hatch and secured it. Then, whistling softly to herself, powering up a slate crammed with checklists, she set about getting her ride to the dance ready for its big moment.
+Win Blakely, you know it’s true…anything you can do I can do better.
+
+Natalya Yegorova and Doug Fremont were deeply engrossed in their own checklists up on Fort Bliss’s command deck when a pronounced shudder rumbled through the station.
+Yegorova looked up.  “What the hell--?”
+Just then, the Master Alarm siren went off.  
+Fremont was the first to see the cause.  Staring out a forward porthole, he cried, “Look!”
+The stubby cone of the ERV was just nosing ahead of Fort Bliss’s forward module.  She was moving away smartly and descending.
+Yegorova swore.  “Crap!  Damn it, Emily…I should have known.  You didn’t secure Pinocchio?”
+“I didn’t think…I never thought.”
+“Yeah, that’s the problem.  You didn’t think.”  As soon as she said it, Yegorova was sorry she had.  Fremont had suffered enough with Geronimo.  “Sorry, Doug.  Try to raise her on High Band, try any channel.”
+Fremont switched to the right channel.  “Pinocchio, Fort Bliss…Pinocchio, this is Fort Bliss.   Emily, come back.”
+For a few moments, there was nothing, only the ever present static.  Then, a scratchy voice.
+“Sorry for this, guys.  Pinocchio’s got a hot date down below.  Be back in a jiffy--”
+“Emily Blakely…STC1, this is Fort Bliss…return to the station at once.  That’s an order.  You hear me, Emily?  Bring Pinocchio back at once!”
+There was no reply.  Natalya Yegorova didn’t really expect one.  And they say teenagers are headstrong.  The station commander watched the ship disappear to a bright speck, soon lost in the banded swirls of Venus’ atmosphere.  She took a deep breath.
+“What now?” Fremont asked.
+Yegorova half-laughed.  “Not much we can do.  We lost Geronimo.  Now Pinocchio.  Must be something in the air around here.  Raise Mission Control.  Tell ‘em everything.  They’re going to have to put on their thinking caps for this one.”
+
+Emily Blakely had run her rescue scenario multiple times through ISAAC, the ERV’s onboard computer.  Trajectories, descent angles, burn times for her tiny de-orbit motor, roll rates during the descent, atmosphere circulation models, storms, all of it chewed on by ISAAC to come up with a time and duration for the de-orbit burn.  She had run the numbers several dozen times, taking into account the retrograde super-rotation of Venus’ atmosphere, the angular speeds of its Hadley cells, pressure gradients, adiabatic cooling rates in its convective storms.  
+Now as she watched the timer count down the last few seconds to de-orbit, she felt a lump in her throat.  The burn, once started, initiated an irrevocable chain of events.  Once out of orbit, Pinocchio would be completely at the mercy of the planet’s atmosphere and gravity.  Emily hoped ISAAC was right in all his calculations and that she really understood the dynamics of the atmosphere as well as she tried to convey in all those conferences and papers.
+There would be no turning back.
+“Three…two…one…mark!” Emily mouthed the final seconds.  The de-orbit motor kicked in on time and she felt it as a strong shove in her back.  Pinocchio lost several dozen meters per second in forward velocity.  Automatically orienting itself blunt-end forward, the ship angled downward and began its steep plunge into the upper reaches of the atmosphere.
+Soon, an orange glow began to envelop the outer hull.  She could feel the ship slowing as it plummeted into the soup, pieces of ablative shielding shedding off as the fiery heat burned and ablated her heat shield.  Flames licked the portholes and Emily shut her eyes, feeling the ship as it lurched ever downward.  She could feel Pinocchio shuddering in auto-roll, taking advantage of her offset center of gravity to make slight maneuvering adjustments, clinging to the trajectory that would lead her a point only a few kilometers from Geronimo, if all went well.  
+This should have been Earth’s atmosphere, she told herself.  But crap happens and now she was going to twist and turn and para-glide the tiny capsule to a mid-air rendezvous with the stricken Geronimo.  The thought of seeing Win’s incredulous face as she opened the docking hatch and dragged him into the capsule was more than worth the insane risk she was taking.
+ISAAC pinged out a warning tone and Emily reacted instantly.  By the numbers, if the descent trajectory was right and final telemetry from Geronimo had been analyzed properly, she was descending below sixty klicks and it was time to pop the wing.  She took a peek out of the porthole, flinched as a dark shadow passed by right overhead.
+What the hell was that? she wondered.  Probably a streaker, an isolated cloud bank passing nearby.  She was momentarily between cloud decks, still descending and the clouds looked like a saffron-hued lake in a thunderstorm, with massive cumulous banks and towering columns twisting and flexing like snakes all around her.  The air was thick, dense and light refracted crazily.  Fifty kilometers and still going down.  The charts said the pressure here equaled sea-level pressure on Earth.  And it was rising rapidly.
+Time to fly, she muttered to herself.  Emily stabbed a button, releasing Pinocchio’s para-wing.  The drogue came out, reefed properly, then the wing jerked free and unfolded like a baby chick trying to fly.  The sudden deployment jerked the capsule hard and Emily banged her forehead on the porthole.
+Ouch!  She rubbed the bump, found a thin trickle of blood, then bent to the task of steering Pinocchio across the cloud deck, aiming for ISAAC’s computed rendezvous point, some seventy kilometers ahead and, if the computer was right, twenty kilometers below.
+For the first few minutes, Emily concentrated on just getting the feel of the wing.  She had trained for this very task countless times on Earth; it would have been the STC1’s duty to guide the HAVOC crew to a safe landing after plunging through Earth’s atmosphere. Now she had a much more critical mission and there couldn’t be any delays.  She would have one pass, one chance, at rendezvous.  If ISAAC was wrong, if Geronimo wasn’t there--
+Nope, not thinking about that, she told herself.  Grimly, doggedly, she pressed on.
+Winds were picking up fast.  Pinocchio had the flying qualities of a brick, but with her wing deployed, each gust twisted and tossed the ship in every direction at once.  In time, she gained a fair sense of how to steer the ship and managed to ride a few thermals up and down, like surfing an ocean wave, diving here, lifting there, steering this way, then that, all the while still descending, riding the gusts forward, ever forward, skimming the cloud deck as a surfer would track a big one off the north shore of Oahu.  For a time, she even imagined herself riding on the back of a short-tailed albatross, swooping over the sea, hovering and flicking its black-tipped wings, then diving into the water for a tasty morsel of some unfortunate crustacean.
+Momentarily in a pleasant daze, she was startled when ISAAC chirped with the first radar signal.
+Geronimo?
+Emily held her breath as she closed the distance.  Then, slowly materializing out of the orange murk, there!  Right there! 
+She swooped and rolled and dove and careened closer.  The airship looked like an oblong smashed eggshell, with most of its balloon envelope crushed out of shape.  The gondola seemed intact.  The habitat didn’t seem to be breached. The whole ship was rotating slowly, caught in cross-gusts, spinning out of control.  Emily decided to try comms.
+“Geronimo, this is Pinocchio…on approach your seven o’clock, do you copy, over?”
+Nothing.
+“Geronimo…Win Blakely, you stuck-up mother…it’s Emily…come to rescue your sorry ass.  Do you read me?”
+Now, some chirps and whistles.  Weird keying sounds.  Something banging.  Then: “Pinocchio…how the hell?  Wait.  Don’t tell me…I don’t want to know.  Is that really you, Em?”
+“Live and in person, brother of mine.  I’m on wing, about two thousand meters behind you.  I’m diving below.  I’ll try to come up right in front of you.”
+“I don’t think you can time the rotation that—”
+“Just shut up, okay?  I’m saving your ass.  Just make sure the docking adapter’s not damaged.”
+For the next few minutes, Emily ignored the clearly flabbergasted and still scratchy voice of her brother and concentrated on maneuvering Pinocchio.  Lightning flashed nearby--they must be over some volcanoes--and the shock wave slammed the ship sideways, but Emily countered with more yaw and straightened out.  She descended carefully beneath the gondola, eyeing the scorch marks from earlier lightning strikes with a concerned eye, then waited for the next gust, timed it perfectly and rode the swells right up until the blunt forward end of Pinocchio slammed right into Geronimo’s docking collar.
+“Jeez, Emily,” came Win Blakely’s voice, now a bit clearer as ISAAC cleaned up the signal.  “Watch it down there…you may have just crushed the docking ring,”
+“You wish,” she teased.  There would be no capture latches in this docking attempt.  No hard dock.  No secure connection.  Just slam and bang, hold her hard against the ring, and open the hatches.  “Get your suit buttoned up.  Hell of a storm out here.”
+“Hey, sulfuric acid rain, hydrogen chloride sleet, gale force winds, pressure rising fast enough to crush me to pulp, what’s not to like?  Just another beautiful day in the neighborhood.”  A few moments of silence.  Then: “Hey, Em, don’t get me wrong when I say this…but today, I really am glad UNISPACE assigned you to the HAVOC mission.”
+“Why’s that?”
+“’Cause only my baby sister would even think of trying a stunt like this…okay, here comes the hatch.”
+The heavy pressure hatch squeaked and groaned—there were clearly bent parts inside—then with a loud grunt, Win forced the thing open.
+Emily concentrated on keeping Pinocchio pinned against the hatch, not easy as they corkscrewed in a slow-motion tailspin deeper and deeper into the troposphere.  It was like riding the crest of a Sabine’s gull just after it spotted dinner below the sea surface.  
+First, came Win’s white helmet with the big red stripe.  Then his shoulders.  He grabbed the edge of Pinocchio’s outer hatch flange and with loud grunts, curses, sounds she couldn’t identify and one mighty last heave, he was able to yank and jerk himself across the gap, fall into the egress bay and kick-slam Pinocchio’s hatch shut.  He lay heavily on his side for a moment, breathing hard, then twisted his helmet off and poked his head up into the cockpit, right at Emily’s feet.  A cock-eyed grin split his bearded, sweaty face.
+“I see you somehow managed to swipe the ERV, sis.  Wonder how well that went down at Fort Bliss?”  With more grunts, he hoisted himself up into the cockpit and strapped himself into a seat nearby.
+Emily smirked in spite of herself.  “About as well as you would think.  I’m sure they’ll be thinking of all kinds of ways to tie me up when we get back.”
+Win was grim.  “If we get back.  And how exactly were you planning on doing that?  We’ve got no real propulsion…no way to get back to orbit.  Were you just planning on gliding around the planet forever?”
+Emily sniffed.  “Give me credit for at least half a brain, Win.  I didn’t exactly do this on impulse, you know.”  She shushed him for a moment, waited until she could feel the next gust coming on, then lifted her left wing and caught the gust.  It caught and jerked Pinocchio quickly away from Geronimo, just in time to avoid being struck by the end of a spinning spar.  
+The two of them debated options for several minutes.  Win watched solemnly as the corkscrewing carcass of the airship drifted lower and soon vanished into churning yellow clouds.  
+He shook his head sadly.  “She was actually a good ship.  But another ten klicks lower and she’ll be a wad of paper tissue.”  He reached over and put a hand over her fist, still clinging to the joystick.  “Don’t take this the wrong way, Em…but thanks.  I mean that.”
+“I know you do, you jerk.  Girls are always pulling guys’ butts out of the fire. Let’s get out of here.”
+“How, exactly, o’ great sailor?”
+Emily had studied the meteorological problem intensely the night before.  “Last night, radiometers on Fort Bliss caught another cyclonic disturbance forming just west of here…VS-9.  ISAAC gave it the name ‘Mike.’  We’re in a Hadley cell right now, smack in the middle of the troposphere.  Generally, the air at this latitude is cyclostrophic…a zonal flow.  Goes east to west.  But with super-rotation, the winds at the equator rotate more slowly than the winds at mid-latitudes, like where we are.  There’s a strong vertical gradient too, which creates a series of lifting columns.  Hadley circulation mixed with super-rotation.  If I can sniff out these columns, and maybe use ‘Mike’s’ thermals and updrafts the right way, we should be able to rise up to a pretty good altitude in the atmosphere, maybe even to the top of the stratosphere.”
+“How high?”
+“Sixty, maybe seventy kilometers, if we’re lucky.”
+Win looked over at his sister.  “That still won’t put us in orbit.”
+“I know.  We’ll have to have help from Fort Bliss.  I haven’t been responding to their hails…I don’t really know how to put this to them.”
+Win smiled a faintly victorious smile.  “In other words, you really didn’t think this all the way through, did you?”
+Emily was about to blast her brother right back, but a dark shadow passed in front of them, momentarily blotting out some of the murky orange light.
+“Wow!  What was that?” Win said.  He craned forward to press his face against the porthole.  “Something big, dark…see?  Two o’clock low…just between those clouds!”
+Emily looked.  Her eyes blinked.  I’m not seeing this.  It’s a dream.  It’s wish fulfillment.  What did the psychs call it…delusional apprehension of unconscious or imaginary perceptions….
+A thousand meters in front of Pinocchio, the flock wheeled and dove and careened on dancing thermals, into and out of cloud banks. A flock.  As in avian lifeforms.  Birds.  On Venus.
+“Oh…my God….”
+The flock seemed to extend for kilometers in every direction, above them, below them, everywhere they looked.  Indeed, Pinocchio appeared to be in the middle of the vast formation.
+Win blinked hard and rubbed his eyes.  “It’s the light.  Has to be.  Some kind of weird refraction.”
+“Win, look, for God’s sake!  They’re birds.  Flying creatures.”
+Even as she said that, a small group of them careened near the capsule, swooping by the portholes with curious eyes and chattering beaks.  The roar of the wind drowned out any sound but Emily gasped at the sight.
+“Pterodactylus,” she whispered.  “Or something similar…Evolution worked out the same result on two different worlds.  See those gray wings…collagen fiber, with keratin bone support.  All those conical teeth, look at them!  And how long is that beak?”
+Win just shook his head.  “I’m not seeing this.  I am not seeing this.”
+“Look with your eyes, stupid!  Shut off your brain and look with your eyes.  See the big black and blue crest on top…and what the hell is that protrusion at the top?  It’s fantastic…it’s a birder’s dream come true.  White breast bleeding into a dark blue neck….”
+For a few moments, they followed the swoops, dips, dives and turns of the flock.  Then Emily had an idea.
+“Win, see what they’re doing?  Watch ‘em.  They’re riding the winds.  Surfing thermals, just like the Banzai Pipeline in Hawaii.  Look at those wings…must be twenty meters at least.  Hey…I’ve got wings too.  Maybe--”
+Closely studying the flock’s maneuvers, Emily banked and turned, dove and spiraled in unison with the flock.  Left and down, then right and up, twisting and turning, riding the air, feeling the wind, massaging the currents.  She was exhilarated, euphoric, even light-headed, free as a--
+Win cut in.  “We’d better try to raise Fort Bliss, Em.  We’re still descending.”
+“No…no, we’re not.  Feel it?  We’re flying.  We’re soaring. I can almost taste the wind!”
+“It’s a mirage…it has to be.  Fort Bliss, this is Pinocchio, do you copy, over?  Fort Bliss, Pinocchio, come back.”
+Born on her slender para-wing, Pinocchio coursed through the Venusian skies, embedded in a flock of avian lifeforms that seemed to stretch to infinity.  Emily was in another world, an exalted state of mind.
+Win was just concerned about their comms.  Sooner or later, he knew their luck would run out, lightning or wind shear would tear the para-wing and the rest would be simple physics.  Straight down through gusty orange and yellow murk at eight-point-nine meters per second squared.  They be dead long before impact, however slow that might be, due to the crushing pressures at lower altitudes…he knew well that at the surface of Venus, the air pressure was like being a thousand meters below the surface of Earth’s oceans.
+Then the radio crackled and whistled with a faint voice.  It was Natalya Yegorova.  Fort Bliss.
+“Pinocchio, Fort Bliss, reading you faintly.  You’re dropping out…sporadic comms….”
+Win clung to his mike like the lifeline it was.  “Fort Bliss, ah…we’re going to need a little help down here--”
+Yegorova barked or laughed or coughed, he couldn’t tell from the screech.  “No shit, Sherlock,” she said, loud and clear.  “We’re ten steps ahead of you.  Doug’s already rigged up a pump and we’re siphoning Fort Bliss’s fuel from Venera. Got the tunnel repaired too. EINSTEIN’s running the numbers now.”
+“How the hell did you--”
+“We got a telemetry signal as soon as Pinocchio hit the atmosphere.  It’s automatic.  We’ve been tracking you the whole time.”
+Now Emily cut in.  “Natalya, you won’t believe what we’re seeing down here…avian life…birds, for God’s sake, cruising through the stratosphere of Venus.  Just like I always dreamed.”
+“Yeah, you’re dreaming all right,” Yegorova said.  “Standby for EINSTEIN’s numbers.  Venera’s de-orbiting in about two minutes.”
+
+The rendezvous was a matter of geometry, not so simple geometry but calculating the dynamic effects of Venera’s orbital speed and Pinocchio’s wind-borne maneuvers to arrive at a point of intersection somewhere seventy kilometers above the surface of the planet.  ISAAC spat out the de-orbit burn duration and plotted the probable point of intersection between a descending Venera and an erratic, barely maneuverable Pinocchio caught up in cyclostrophic wind flow and unpredictable pressure gradients.  The ship’s computer labelled the intersection Point Alpha, an imaginary spot in the sky seventy-two kilometers above the rugged highlands of Aphrodite Terra.  The error box was ten kilometers on a side, which meant that Venera and Pinocchio had to find each other in a space of a thousand cubic kilometers. At Fremont’s calculated rate of ballistic descent, they would have only a few minutes. 
+If Venera didn’t find the ERV somewhere in that imaginary box when it transited through, Doug Fremont would have to light off Venera’s rocket and hope he had enough fuel to limp back into orbit and rendezvous with Fort Bliss.
+And the HAVOC mission would offer yet another example to the history books for how not to run an exploratory mission.
+Through it all, Ishtar base on the ground remained silent.  But there were more pressing matters now.
+Fremont closed his eyes as Venera’s rocket engine fired.  The ship slowed by less than thirty meters per second, hardly enough to be felt, but his course was now irrevocable.  For better or worse, Venera was now committed to free fall, plunging bottom first into the upper ionosphere of this strange, even bizarre alien world.
+Long minutes passed.  Emily continued to parallel the maneuvers of the flock, which seemed now to be thinning out, moving off. Wind gusts buffeted and pounded them, a reminder of the storm named ‘Mike’, building behind them, bearing down on Pinocchio from the west.  
+“Where are they going?” Emily asked herself.  
+Win had noticed the flock thinning out too.  “Maybe they have better sense than we do.”
+Emily pointed to the nearer birds.  “I’m labeling them thermosaurs…do you like that?  I get to name a new species.  Won’t that look great on my life list?”
+“That’s not all that’s on your list.”
+“That knob in front of their crests…I’ve been wondering about that.  Maybe it’s just me, but I’m thinking these creatures can echo-range.  Like bats.”
+“Sure, whatever you say.”
+Call it instinct.  Call it a hunch.  A feeling.  A guess.  Sixth sense.  “I’m wondering if they’re moving off because they’ve detected something.  Food, maybe.  Or mates or another flock.  Or something unexpected…like a rocket ship.”
+“That’s insane.”
+Emily didn’t answer.  Instead, she banked to follow the flock, wondering, hoping, maybe praying a little.  Anything you can do--
+Win Blakely was already composing a final epitaph in his mind, something he planned to dictate to a log, when it became apparent that all hope was lost and Fremont’s little stunt, not to mention his sister’s hijinks, finally did them all in.
+He felt more than heard Emily’s shout.  “LOOK!  Win, look!”
+Against all odds and reasonable notions of probability and luck and common sense, the faint glint off of Venera’s hull was clearly visible, backdrop against spiraling wind devils, caught like a fly between cloud decks, descending like a meteor flash from the bottom of one cumulous stack to the top of another.
+Fremont’s strained voice crackled through their headsets.  “I’m through…enty klicks now…Venera to Pinocchi--broadcasting in the clear…Pinocchi--”
+“Venera!” screamed Emily.  “Venera, Venera…we’re two kilometers off your port side…maybe nine o’clock.  See the birds…see the big flock…thermosaurs.”
+Fremont said, “I see some dark patches…can you reach me, Emily!”
+“I’m maneuvering now…still got a wing, still got some lift…just hang on, Doug!  Don’t you dare leave without us!”
+With a skill and nerve born of several hours’ practice and maybe a little chutzpah too, Win Blakely watched with his heart in his mouth as his baby sister—she was always shadowing him, taunting him, pestering him—flew Pinocchio through gusts and thermals and spiraling, corkscrewing banks, until he abruptly closed his eyes when the little capsule slammed hard right into the side of Fremont and his rocket ship.  The shroud lines of the para-wing were quickly entangled around the circumference of Venera, a development that brought a loud groan to Win and a “oh, great, now what…” to his lips.
+It took Emily to see the possibilities inherent in what any rational person would have called a disaster.
+“Get your helmet on and your suit buttoned up.”
+Win looked at her.  “Have you lost your mind completely?  We’ll be blown a hundred kilometers before we get completely outside.”
+“No, we won’t, silly.  Use the shroud lines.  Hang on to the lines and walk your way to the hatch…come on.  We can do it.”
+A part of Win’s mind assumed this was really some kind of bizarre cartoon animation, for only fictitious creatures born of an animator’s feverish brain would even think of such a stunt.  Even as he assured himself that none of this was real, Emily was already opening Pinocchio’s hatch and the swirling yellow fog was already grabbing and shaking them with invisible fingers.  
+One after another, they exited the capsule, clung for dear life to the tangled shroud lines, with Pinocchio banging and slapping against Venera’s hull in fierce sideways gusts and worked their way forward.  Win moved ahead of Emily, and managed to wrestle the hatch open, not terribly surprised to see the wide-eyed astonishment on Fremont’s face--“hey, just a walk in the park, my bewildered friend,”--and half fell inside.  He reached out and grabbed Emily’s arm and yanked her inside behind him, then leaned out one last time to sever the last shreds of the shroud lines so Pinocchio could fall free.  He shoved the hatch closed with his shoulder.
+There was no room inside Venera’s crew cabin, or more accurately, only room for two crewmen, for that was all it had been designed for.  Emily took the second seat, while Win wedged himself in between the seats.  He wound up helmet to helmet with his sister, facing Emily through her faceplate, as Fremont swallowed hard and counted down a hasty checklist and lit off the ship’s engine.
+The acceleration pushed Emily and Win even closer together.  Win grunted.  Emily had a faint smile on her face.
+Venera’s LOX/RP-1 closed-cycle rocket felt reassuringly solid behind them as they climbed out on her last remaining wisps of fuel, into low orbit around Venus.
+
+Rendezvous was touchy.  Docking was a nail-biter.  Venera’s tanks were dry the last few minutes. Only proper approach alignment and momentum enabled the ascent vehicle to have any shred of hope in making contact with the docking adapter. When Fremont, Emily and Winston Blakely squeezed out of Venera’s hatch and drifted out into the lockout chamber and then into F deck, now cluttered with hoses and drifting parts, Natalya Yegorova sucked in her breath and nearly cried.  In spite of hairbrained stunts and arguments and all the pointless disputes over nothing and weeks of sulking while they approached Venus, she loved these people. 
+They all shared in a group hug for long minutes, then moved almost as one entangled organism, out into the gangway and forward to Fort Bliss’s crew’s mess.  Radio contact, scratchy comms, mission rules and dictates from Houston, none of that was needed as much as pure  physical contact, rancid hot breaths, farts, gurgling stomachs and all.
+Natalya did waitress duty, breaking out everything she could find from the lockers: entrée pouches, drinks, candy and gummy cookies, water, grape juice, orange drink, something else that smelled like thermo-stabilized elephant crap.  They strapped themselves in around a table and dug in.
+“What…no medicinal brandy for the intrepid explorers?” Win joked.  He squeezed grape juice free of its tube and scarfed down each little droplet and bubble as it floated free.
+“We used it all…to fuel up Venera,” Yegorova told them.  More seriously, she added, “You know, we have nothing left for the station.  Doug siphoned every last drop from our tanks.  We’re sort of stuck here for awhile.”  She indicated a nearby cupola, filled with swirling banks of orange and yellow.  “Hope you like the view.  You’ll be seeing Venus up close and personal for quite a while.”
+“What does Houston say?” Win asked.  “Are they going to prosecute us before they fire us…or after?”
+“Oh, nothing so dramatic as that,” Yegorova said.  She chewed off a seal on some kind of entrée pouch, examined the contents and then thought better of it.  Instead, she sucked on a candy bar. “Okay, so we’re marooned in Venus orbit for awhile and we’ll have to go on short rations for the duration.  Mission Control’s already working on the rescue mission.  They’re saying six months after she’s checked out, maybe nine months from now.  They’re still trying to raise Ishtar base too and they want us to help with that.”
+Fremont felt his stomach paunch happily.  He rubbed week-old stubble and loosened his restraining belt a little more.  He swore silently; already the belt was too tight as it was and he was on the last notch.  Too many pancakes, he muttered.  “Zero-g’s all fine and good as long as you don’t have to button your pants.  I for one could stand to lose some weight.”
+Win said, “Not to worry.  I plan to binge-watch every last episode of Nanotroopers in the onboard library…all twenty-two of them.  And sleep late every day on top of that.”
+All eyes turned to Emily.   She shrugged, looking up from a slate she had been pecking notes on.  “Huh?  Me…oh, I’ll stay busy.  I’m adding those thermosaurs to my birding life list…can’t wait to present that to the Society.  They’ll never believe it.”
+“None of us believe it, Em,” Win said.  “Face it…what you and I saw was some light refraction.  Some odd cloud formation. Maybe, if you’re lucky, an airborne mat of algae or something.”
+Emily smiled sweetly.  “If you say so.  I was just making sketches here, making notes, for my paper, you know.  I’ve got lots of time to do that.”
+“You don’t have any evidence.”
+“I know what I saw.  I can describe it in detail.  And I’ve got two observational data points…you and me.  Nobody can take that away.”
+“You should add something else to your life list,” Win told her.
+“Yeah?  What’s that?”
+Win turned serious.  “Legitimacy.  As a scientist.  As a crew member.  As my sister.  The press made fun of you when UNISPACE picked you for HAVOC 1.  Brother and sister going to Venus together.  Splashed all over the news.  The PR people had an orgasm over the possibilities.  God, the tabloids had a field day.  Probably still are.  But after all this…I’m thinking the snide remarks and the racy photos and the smarmy articles and posts may just fly away…kind of like your thermosaurs.”
+Emily made a face at her brother, though she knew there was more than a little sting of truth to what he said.  
+“Go on and eat something, girl,” Yegorova told her.  “You’ll feel better.”
+Emily selected a pouch from the tray, examined the label and chuckled softly.
+It read: Turkey Spam, with Applesauce.
+“I’m going up to the command deck, see if I can raise Ishtar,” Yegorova said.  
+
+Chapter 2: “Purgatory”
+
+Aboard UNISPACE/Roscosmos station Fort Bliss
+In Venus Orbit
+June 5, 2065 Earth Universal Time (EUT)
+2100 hours (local)
+
+To Johnny Winger, Venus resembled nothing so much as a slightly used tennis ball.  Mostly the color of old butter, with a few drifting bruises and splotches on her face, Winger did not look forward to what he and his Venusian Hammer detachment had been tasked to do by Quantum Corps.  
+They had ridden Hesperia for four months, until a final retrograde burn had put them into Venus orbit.  They had spent a day closing on station Fort Bliss.  Now in sight, the station looked like something slammed together by a child in a temper tantrum, with its modules and trusses sticking out in all directions.  But after four months stuck in a can, Fort Bliss looked almost as appealing as a tropical beach to the weary crew of Hesperia.
+After docking, handshakes and intros, Winger assembled everyone in the crews’ mess and laid out the mission.  
+“There’s been no word—no voice contact-- with Ishtar base for fifteen weeks and a day,” he told them.  “Both Farside and Gateway observatories tracked this object—V-101—until it entered the atmosphere here.  By the way, both also determined that the object had a signature, across many bands, of a Keeper object.  If it survived and made impact, the data show it was likely near Ishtar base.”
+Natalya Yegorova spoke up.  “I did the same calculations.  I also advised Ishtar it would impact near them, if it survived entry.”
+“What did they say?”
+Yegorova shrugged, choosing her words carefully.  “I got no reply.  But that’s not unusual.  They often take hours to reply.  They do have other responsibilities, you know.  I don’t think we should worry about this.”
+Winger cut that off.  “UNISPACE is already worried.  If this is, or was, a Keeper object, Ishtar could be in danger.”
+Yegorova said, “Roscosmos and the Russian Federal Space Force can handle any eventuality.  I don’t think UNISPACE—or Quantum Corps—” her eyes lowered, “is really needed here.”
+Winger ignored that. “UNSAC gave Quantum Corps a mission to come here and engage any potential Keeper object with our ANAD systems.”  He smiled ruefully.  “Unfortunately, we’ve got recent experience.”  And our Russian friends haven’t been particularly forthcoming with any data on the impact.  You wouldn’t know anything about that, would you?”
+“So, you’re saying we Russians can’t handle this ‘Keeper’…is that it?”
+Winger replied, “I’m saying we have a mission to investigate and if needed, render assistance.  Think what you want.  The Venus Treaty requires Ishtar to receive and assist any and all lawful inspections, given enough notice.  That’s what this is.”
+Now Hesperia’s captain, Gilbert Faury, said, “Colonel, that sounds like we’ll be needing Aeneas.  Should I start getting the lander ready?  We can only take about eight onboard.  Plus me and my command pilot Achmed Tahat here—” he pointed to a swarthy, bearded officer nearby—have to be part of the crew.”
+“Start your prep,” Winger told him.  “I’ll decide who else goes.”
+“I should go.”  The words came from a petite, short-haired female in the back, one of the Fort Bliss crew.  “I’ve got recent experience inside the atmosphere.”
+“Now, Emily—”  Her brother Win snagged her by the arm.  “Don’t make a scene.” 
+Emily Blakely wrenched her arm free with a jerk.  “I’m not making a scene.  But I know what it takes to maneuver in that atmosphere.  I saved your ass, didn’t I?  And I also know what’s flying around down there.”
+Winger seemed puzzled.  “Flying around…what exactly does that mean?”
+Emily was about to speak, but Win stepped to the front of the crews’ mess, an apologetic smile on his face.  “It’s her pet theory, Colonel.  When she rescued me from Geronimo, we both saw shadows and weird light refractions.  The atmosphere is so dense, it does that.  She thought she saw, uh—”
+“Thermosaurs,” Emily said.  “Avian lifeforms.  Extremophiles, Colonel.”
+Winger blinked.  “Thermo…what?  I hadn’t heard that before.”
+Win Blakely said, “And you won’t, because she saw something that wasn’t really there.  Just a sort of—”
+“It was not a hallucination, Win.  You saw ‘em too.”
+Winger didn’t want to get in the middle of a sibling argument.  He knew the Blakelys were a brother-sister team.  There had been a lot of talk and snooty whispering around UNISPACE about that.
+“I’ll post crew assignments in an hour, after Captain Faury and I talk.  This mission—it’s called Venus Hammer by Quantum Corps—has two goals: one is to ascertain the status of Ishtar base and render assistance if needed.  The second is to engage and contain any Keeper bots that may have survived atmosphere entry.”  He made a point of glaring right at Yegorova.  “If this thing is a Keeper, they’re going to need help down there.  Nobody has much experience with these things.  They have capabilities you can’t imagine.”  Like displacing you in space and time, he thought, but didn’t say.  No doubt the Russians would love to get their hands on that.
+Natalya Yegorova scowled and didn’t make eye contact with Winger when the briefing broke up.  She disappeared into her quarters.
+
+The Aeneas lander was fully powered up and ready to depart six hours later.  On board, the detachment consisted of troopers Sherm Cuddy, Joe Vinh and Angel Barnes.  The lander captain, Faury and his pilot Tahat, were there.  Winger had decided at the last minute to include little Emily Blakely and the Russian Yegorova as well.  She might come in handy in case negotiations with Ishtar base turned sour, for the base was jointly run by two Russian organizations: Roscosmos and the Russian Federal Space Force.
+Winger dreaded what they might find on the surface.
+Aeneas undocked and set up for entry.
+Faury’s voice was matter of fact.  “Get ready for a kick in the pants.  De-orbit burn in three…two…one…mark!”
+The lander lurched and for a brief moment, Winger had the feeling they were going backwards.  He checked the porthole, momentarily catching a reflection of Emily Blakely’s face in the thick glass.  She seemed to be studying him like some kind of specimen.
+This one I better keep an eye on, he decided.
+Soon enough, the black sky was tainted with wisps of yellow haze.  Aeneas was still over a hundred kilometers up, but already, the acrid yellow atmosphere was visible, stretching to the horizon.  The lander’s walls were engineered to withstand more than 150 atmospheres, but Winger checked his config manager just the same, feeling the just faintest sense of walls pressing in on them.  Just like that undersea base in the Indian Ocean a few months ago, he decided.
+The deceleration forces had increased sharply a few minutes later and Winger jerked when someone’s loose pen went clattering to the bulkhead floor.  He had already ‘tuned’ his configs to withstand the g forces, something the Normals around him couldn’t do.  He saw out of the corner of his eye the strain on the faces of the others.  Even Emily Blakely looked like she was wearing a mask stretched too tight over that cute face of hers.  Winger abruptly throttled a fantasy that kept bubbling up.
+Captain Faury checked the heat shield temp indicators, just as Aeneas was dropping through an airspeed of 19,000 kilometers per hour.  The display read 2000C.  “Plasma sheath forming,” he muttered to Tahat, seated across from him.  They could both see orange flames flaring outside, licking around the edges of the windscreen.  
+“Comm dropout,” confirmed Tahat.  The pilot adjusted his seat harness, cinching up the shoulder straps as the lander picked up a growing buffet and vibration.  “We’ll be in radio silence for awhile.”
+“Check lift vector, Achmed.  Give me the count.”
+Aeneas was shaped like a biconic cone, with an offset center of lift.  By rolling the little craft one way or another, they could create a small lift vector, affording them some cross-track maneuverability.
+“We should be feeling the aero-surfaces bite in less than a minute.”
+For the next four minutes of the lander’s fiery descent, the crew was quiet, each one straining stomach muscles to keep blood flowing to their heads.  Only the two angels, Winger and Vinh, didn’t have to do that.  But both of them constantly tweaked and adjusted their own configs to hold off the ever-increasing force of deceleration.
+Aeneas shuddered and rattled like a dog with a bone, her outer hull creaking and groaning under the forces of the descent.  At fifty-five kilometers altitude, a loud bang startled Emily Blakely and she clutched her seat sides instinctively.
+“Heat cover is blown,” announced Faury to everyone.  His words were followed by a rough neck-snapping jerk as a small extraction parachute caught the yellowish air and then tugged a tough zirconium parachute from its cocoon on top of the lander.  The chute reefed, then billowed out to its operating width and quickly, Aeneas slowed down to something under 1600 kilometers per hour.  G forces peaked at just under eight g’s and there were groans and short, sharp puffs of breath throughout the cabin, as everyone strained hard to stay conscious.
+Winger caught a glimpse of Joe Vinh.  The DPS tech had closed his eyes and seemed to be sleeping.  Probably dreaming of his hang-gliding days, Winger decided.  But this was no maritime thermal updraft off the coast of Maui.  Winger chanced a quick glimpse out a nearby porthole.  The Sun had disappeared, showing up as nothing more than vague yellow glow above them.  The cloud layer seemed opaque—Tahat had just called out ‘Altitude fifty kilometers—’ moments ago.  Aeneas had passed out of a dense cloud layer and into a clearer zone, now approaching the scalding lower atmosphere.  He winced when a sudden bright flash washed out everything.
+“That wasn’t lightning, folks,” Faury reported.  “We just passed through the supercritical band.  It’s a transition zone, about a meter thick, where the atmosphere is both liquid and gas.  Not to worry.  Aeneas is doing fine.  Altitude now twenty kilometers.  External pressure is forty Earth atmospheres.”
+There was a sudden kick as four rocket motors roared outside their walls, blasting the lander’s heat shield off the bottom. Through her porthole, Emily Blakely saw the zirconium parachute jettison and flap away.  In its place, a giant paraglider wing was rapidly deployed, opening rapidly and slowing the lander even more.  A wind gust snagged the wing and twisted them sideways before Aeneas’ onboard computer compensated.  The ship’s vertical speed now dropped quickly and droplets of condensation began forming on the portholes, not water but a poisonous stew of hydrochloric, hydrofluoric and sulfuric acids collected from the surrounding clouds.  The droplets were short-lived however, for the outside temperature had risen too high for droplets to stay liquid.  The condensation soon boiled off.
+Emily studied the paraglider wing closely, feeling its shifts and jerks as if she were flying herself.  My kind of ship, she told herself.  Just like Pinocchio. She squinted through crazy light refractions and painful yellow sunglow, hoping to catch a glimpse of any thermosaurs soaring through the updrafts she knew had to be there, but there was nothing.
+A sickly, yellow glow suffused the cabin as she turned her attention back inside.  Ahead of her was the Quantum Corps commander, Colonel Winger.  Emily had not encountered an angel in a long time.  This one seemed well controlled.  Almost no edge effects, his structure tracked beautifully despite all the jerking and vibration of the ship.  He seemed lean, hard, even muscular and she had to remind herself that it was all in the configuration management.  
+Angels can look like anything they want, she remembered.  A fantasy began to surface in the back of her mind, but the reverie was interrupted by a voice from the cockpit.  It was Tahat, the pilot.
+“Sounding balloons coming back,” he reported.  
+Faury had seen the readouts.  “That’s a high level of sulfur for this region.  Volcanoes, maybe?”
+Tahat shrugged, interrogated the computer.  “We’re right on our descent profile, Captain.  But last report I saw said Beta Regio had seen some activity in the last few months.  Ishtar—last we heard from them—said nothing active in their area.”
+Faury nodded.  “Let’s just hope Maxwell Montes stays quiet.  We’ll be passing over her in a few minutes.”
+The descent continued through a thickening yellow fog, with alternating layers of lighter and denser cloud.  
+“Visual coming up,” Tahat announced.
+At exactly seven kilometers above the surface—they were gliding toward the landing pads of Ishtar base situated atop the continent-sized plateau of Ishtar Terra—the yellow haze cleared abruptly and a spectacular vista unfolded before them.
+A strong orange-yellow glow pervaded the land below.  Outside temps jumped another hundred degrees, now more than 450C.  
+“Max airflow,” said Faury, just as blowers kicked in, flowing gusts of cooler air into the cabin.  Ahead and below them as the descent flattened out slightly, the land was barren and dry, mostly basaltic plates, said the geos, and wavering like a desert mirage in the crushing pressures of the lower atmosphere.  
+Emily craned her neck until it hurt, trying to see where they were going.  Flickering lights punctuated the horizon, even as Tahat called out, “Ishtar base in view…I’m maneuvering for the north pad.”  
+A sharp thwack jolted them all as the giant paraglider canopy was jettisoned and the retros kicked in, slowing them to comparatively gentle ten kilometers per hour final approach speed.  The ground came up quickly and Aeneas settled to rattling landing on Ishtar’s A pad, kicking up very little dust as she bounced and hissed and groaned to a halt.  The retros died away and all aboard could hear the wind gusts creaking around the lander hull.
+Faury announced, “All stop.”   He and Tahat went through a quick post-touchdown checklist, then gave the word for the crew to prepare to exit.
+Natalya Yegorova unbuckled herself and muttered nervously, “Welcome to Ishtar Base…a little bit of Rossiya a hundred million kilometers from home.”
+They rode an automated crawler from A pad to the crawler garage at the base’s Gagarin Wing and, once the buggy had nuzzled up to its airlock and the hatch opened, were greeted by a quartet of base crewmen, all in matching sand-colored uniforms.
+Four guns, magpulse type, were aimed at them. 
+Winger instinctively went for his own weapon, but a crewman darted forward with startling speed and snatched it out of Winger’s hand.
+“Not so fast, tovarich.  I’ll take that.”
+“Hey, what’s the meaning of—”
+One after another, the detachment troopers and lander crew were bundled out of the lander, hand-searched and roughly herded into a makeshift enclosure in the corner of the hangar bay. To make sure they stayed put, another base crewman pointed a small pack at them and instantly, a nanobotic barrier emerged from floor vents, quickly enveloping the enclosure with an impenetrable curtain.  The barrier bots flashed and popped as they formed up and Johnny Winger found himself studying the bot configs for speed and accuracy of config.
+Only Natalya Yegorova was held out.  “Over here,” the voice of the detail was a short, bear of a man, with bristly curly hair and hairy forearms, his sleeves pushed back almost to his elbows.  “Colonel Kazan wants to see you.”
+Yegorova growled at Big Hair.  “Vy ne dolshny delat eto…you shouldn’t be doing this.”
+Big Hair snarled.  “Shut up…Colonel’s orders.”
+A taller man appeared from behind a nearby crawler.  He was a foot taller than Big Hair and wore a desert khaki uniform, studded with Russian Federal Space Force insignia.  Big Hair and his henchmen straightened up and stepped back. 
+“I am Colonel Leonid Kazan,” he announced in a kind of stentorian announcer’s voice.  “Commander, Ishtar Base.”
+Faury started to say something but Winger cut him off with a look.  “Colonel John Winger, United Nations Quantum Corps.  What’s the meaning of this…we’re here for the inspection.  You were notified.”
+Kazan rubbed black stubble on his chin.  “Yes, we got the notification.  Unfortunately, as commander, I’m responsible for the lives of everyone in this base.  For your own safety, Colonel, I must keep you here for awhile.  Just a precaution.  It’s for the best.”  Kazan’s eyes narrowed and momentarily went to a hatch nearby.  “There are…shall we say, some issues outside.  It’s a harsh land, this world of Venus.  You’ll get your inspection.  Just not yet.”
+Maybe it was something in Kazan’s words.  Maybe it was the look on his face…not quite fear, maybe anxiety, nerves, like he was expecting some creature to come crashing in through that hatch.  Maybe it was something like: you’re here and I don’t know quite what to do with you.
+Maybe all of that.
+“It’s a Keeper out there, isn’t it?” Winger asked.  
+Kazan blinked.  A sly smile creased his face.  “Colonel, the Treaty requires me to permit your inspection when properly notified, which you have done.  I’m required to assist you in performing this inspection.  I’m required to see to your physical needs—air, water, food, clothing, shelter, that sort of thing.  And I will do that.  However, the Treaty does not require me to answer questions, beyond performing my specific Treaty duties.  I choose to say this: you will have your inspection as soon as we can be sure of your safety.  You’ll have food, quite soon—in fact, Refimov does blini quite well for such an isolated place as this.  We even have spertsem and Georgian brandy, if you like.   After you have refreshed yourself and are rested, we’ll talk and you may start your inspection.”
+Winger and Gilbert Faury glanced at each other.  “Where’s Natalya Yegorova, Colonel?” Faury asked.  “What have you done with her?”
+“Good day, sir,” Kazan said.  He did a smart about-face and disappeared beyond the crawler.
+“He’s hiding something,” Sherm Cuddy snarled.  
+“No doubt,” Winger said.
+“And following the Treaty protocol to the letter,” Faury added.
+Angel Barnes saw a cart being pushed toward them.  “Ah, here comes dinner.”
+They sat on the hard floor and chowed down hungrily on blini, piroschkis, bottled mineral water and sniffers of vodka.   
+Angel Barnes spoke first, crumbs of blini dribbling off her lips.  “You think Yegorova’s one of them, Skipper?  I mean, the goons did remove her right away.”
+“I don’t know,” Winger said.  He saw Emily about to speak.  “Ask her station crewmates.”
+Emily Blakely said, “Fort Bliss is a joint operation, Russian and UNISPACE.  Natalya’s a Roscosmos employee and she has been in regular contact with Ishtar.  About three months ago, we lost voice comms.  Normal practice is at least one voice hookup every day, but it varies.”
+“How about text, data, telemetry, that sort of thing.”
+Emily shrugged, swiped at bangs over her eyes.  “Still working normally, last I heard.  The thing is that Ishtar base is a wholly Russian operation.  They’re down here to research conditions on the surface, studying the prospects for long-term survival.  Or so they say.  They’ve been pretty-closed mouth about the base since it went operational.”
+“They follow UNISPACE guidelines?  And Treaty protocols?”
+“To the letter.”  Emily shook her head.  “But nothing beyond that.  We advised them of those storms that damaged Geronimo but they never replied.”
+“Something’s going on here,” Winger decided.
+“Taking an entire inspection team prisoner is a pretty clear Treaty violation,” Angel Barnes said. She studied the flashes and pops of the barrier, testing it experimentally with a finger.  It buzzed and she yanked her hand back.  “Ouch.  Not doing that again.”
+Emily’s face fell.  “Then we’re trapped in here.”
+Winger said, “Not necessarily.  Here—” he motioned to Cuddy and Barnes and the Aeneas crew.  “Form up a screen around me.  I’m going small.”
+The crews shuffled around until they had Winger pretty well hidden from view.  At the moment, there was no one else in the hangar.  Two crawlers were parked inside, but the hangar was vacant.
+Emily turned to watch.  “Oh, my God—I knew you were an angel but….”
+Hidden by the circle of his crew, a fog had formed…that was the first layer of nanobots dispersed into the air.  Winger disappeared in the ensuing fog, only a leg and a shoulder could be seen.
+The fog thickened.  A faint buzz could be heard.  Emily watched as the cloud of bots thickened.  More and more bots were released and replicated, swelling to fill every cubic millimeter of their makeshift stockade.  Somewhere in there, the nanoscale bots that comprised Johnny Winger were coming apart, dissolving, dispersing and fading from view.
+Winger didn’t move.  Emily watched his right leg.  At first, it was unchanged, a smooth, slightly creased uniform pants leg dematerializing before her very eyes.  But even as she watched, the surface of his skin had begun to fade.  In moments, it was almost gray, like the fog itself, oscillating between darker and lighter, but still gray.  Then the gray became a translucent shimmer, almost like a ghost, flickering slightly, but growing ever dimmer.  His shoulder was the same.  
+Colonel Johnny Winger was slowly but steadily being disassembled.   He was being steadily broken down into another pattern, a loose pattern of atoms and molecules.  
+The end came softly, almost as if he were walking away in a light rain.  His body, the physical Johnny Winger, began to fade behind the screen.  At first, it had been barely perceptible, just a faint blurring of his skin, his extremities, a smearing of his legs and shoulder, as if a photo had lost contrast.  
+In time, and the time was less than five minutes, Johnny Winger had devolved—that was the word now—into a nearly translucent shadow, still recognizable in form, but without substance.  You could see right through the form and the shadow to the other side of the stockade.
+And then he was gone. 
+Emily Blakely swallowed hard.  “I’ve never seen that before.  I knew angels could change form, but this…I never imagined—”
+“Oh, the Colonel’s still here,” Barnes told her.  “Just loose and dispersed.  Now he’ll try to force that barrier and get us out of this pig pen.”
+A faint mist drifted toward the barrier.  In moments, the barrier brightened and flashed, popping on and off like hundreds of light bulbs going off.
+“Skipper’s giving ‘em hell,” said Sherm Cuddy, his fist pumping the air.  “That barrier’ll never hold him.”
+Fighting bots in the land of atoms was all about leverage.  Kind of like ballroom dancing, with fists, Winger had once remarked to Joe Vinh, who agreed.  
+The first barrier bot came up and Winger gave it a taste of his bond disrupters.  The electron discharge snapped off a few effectors and sent the thing spinning off into the distance.  But no sooner had he done that than a squadron of them fell on him and he found herself engulfed in no time.
+Winger had learned a thing or two about effectors in the weeks since his last encounter with bad bots.  The secret was to keep your propulsors churning, keeping driving forward, keep your energy up.  If he did that, he found he could slip out of almost any grapple and brain a bot with whatever effector was free.  He particularly liked his carbene grabbers and he had developed a dance step that some atomgrabbers liked to call the kiss and clobber…he’d let himself be grappled, momentarily shut off his propulsors and almost relax.  When the bad guy had retracted and moved in for the kill, he did a quick left-right spin, fired up his propulsors and slashed right across the bot’s mid-section—where most of them had fewer effectors—knocking the bejeezus out of the thing and pulling free to pinch and slash some more.
+It worked every time.  Winger had in the meantime gone to max replication, at Joe Vinh’s suggestion, and the melee was underway.  All up and down the array of barrier bots like a collision of bird flocks, the swarms engaged…twisting, slashing, grabbing, zapping.  Slowly, using his new maneuvers, Winger was able to push back and eventually force an opening in the barrier.
+ The bots that had once been configured as angel Johnny Winger drifted out of the pen and dispersed into the hangar.  At that very moment, Winger’s sensors detected a slight pressure disturbance…someone was coming.  He grabbed a few photons and formed up an image his processor-brain could analyze.
+Three station crewmen had come into the hangar and were heading for one of the crawlers.  Winger recognized Kazan and Ivan Refimov, the chef who had made them blinis.  The third man was someone he didn’t recognize.  Image analysis turned up nothing.  
+Maybe Red Harmony, he wondered. 
+A voice rang out.  It was Aeneas’ captain, Faury, behind the barrier.
+“Hey, let us out of here.  This is a formal UNISPACE inspection.  You can’t hold us like this.”
+Kazan stopped by the enclosure and said, “It won’t be long now.  We’re just trying to make sure you’re safe…Guriev will be by shortly with a cart…just relax and we’ll sort all this out when we get back.”  Kazan left and with the other two, disappeared into the crawler.  The vehicle soon grumbled to life.
+Before the hatch was shut, Joe Vinh had witnessed a faint flickering mist drifting steadily toward the opening.  He nudged Angel Barnes in the ribs.
+“Look…over there.  Skipper’s making his way toward that crawler.  Looks like he’s going for a ride.”
+Barnes squinted, saw what Vinh was talking about.  “He’d better hurry up.  They’re about to slam that door.”
+The mist issued through the closing hatch and made it inside the crawler.  Moments later, the squat rover jerked forward and clanked across the hangar floor to the vehicle airlock.  The airlock door rolled up, admitting the crawler, then came down with a thud.  Lights and alarms sounded.  Soon enough, the outer hatch of the airlock rolled up and the crawler lurched and snorted as it eased down a ramp into the hard, basaltic ground.  
+The crawler set off to the southeast, leaving the crude roadway that led down from the landing pads and striking out cross-country over rubbly terrain.
+It proved to be a bumpy ride.
+Still dispersed, Winger hovered in the back of the cabin like a few dust motes, while Kazan, Refimov and the third man, whose name was Panishin, chatted idly. 
+“Better keep your distance this time,” Refimov was saying.  “On our last approach, we got slammed back two days and displaced twenty kilometers.”
+Kazan chuckled sourly, handling the controls, as the crawler bumped and bounced and careened from crater to hill, her wire wheels clattering over the rubble.  “Almost on the side of that hill.  No, we’ll stay back at least a hundred meters.” 
+Refimov hoisted up a small case onto his lap.  “I’ve got some new instruments here to try out.”
+Now Panishin, sitting in the jump seat, spoke up.  “The organization wants as much information as you can send.  If this thing is what we think it is, my superiors will pay handsomely for what you learn here.  We may be dealing with something similar to the A-2288 object that hit the Indian Ocean a few months ago.,”
+Refimov turned around to face the cartel man.  “You really think this… er device, is some kind of portal or gateway?  Something built by an off-Earth race?”
+“More of an archive.  Or a search engine for an archive.  If we can learn how to use it, how to read it, the cartel will have access to technology we can scarcely imagine.”
+Kazan growled.  “But not before Roscosmos studies it thoroughly.  You’re a guest here, Panishin.  Remember that.  We will share what seems reasonable to share.  Ishtar base is a Russian facility and our laws apply here.”  He snorted, twisted the steering handle slightly to avoid a depression that had crept up on them.  “And we still have to deal with UNISPACE and their regulations too.”  He swore and twisted the steering handle more violently.  “Damn this heavy air.  The light refracts so…I feel like we’re driving across the seabed.  I can’t always tell what we’re approaching.  First that hill is here, then it’s over there…like a mirage.  Is that the direction?”  He pointed off to their right.
+Winger could see the men were struggling to navigate through the crushing sulfurous haze and refracted light of the surface.  The crawler rumbled on, bouncing and rocking, until they came to the edge of a small depression, surrounded by an arc of low hills.  Low puffy clouds of yellow and orange drifted by overhead.
+Just as the crawler jerked to a stop, Winger got a config warning in his processor-brain.  He checked it out and found his outer bots were drifting away, uncontrolled, dispersing and no longer held in containment.
+What the hell….
+Then came more alarms: Buffer overflow…truncation at all higher registers…system failure… Pyridine probes…FAIL…Carbene Grabbers…FAIL…Enzymatic Knife…FAIL…Photon Lens…FAIL…Ribosomal Systems…20%....
+It’s like I can’t hold structure…something’s messing up the config manager.  Then he realized what it had to be.  
+The boiling blue-white spherical globe of light at the bottom of the depression was the culprit.  It was a Keeper.  It had to be.
+And it was pulling Johnny Winger apart, atom by atom, molecule by molecule. 
+Kazan, Refimov and Panishin closed and secured the helmets of their hard-shell suits and headed for the aft lockout, stumbling around seats, lockers and thick ganglia of tubes, cables and pipes.  One by one, they entered the airlock and cycled through.
+Before he squeezed inside, Kazan had a final warning for Panishin.  “The air out there’s thick and poisonous.  The ground’s hard as concrete…brittle, orange plates of lava.  Temps are around 500 degrees and the air pressure’s like half a kilometer under the sea surface…say about ninety Earth atmospheres.  The light will fool you too.  The air ripples and wavers with heat, just like a desert.  Basically, it is a desert.  Just watch your step.”
+Panishin visibly paled inside his helmet.  “How close are we getting to that Keeper?”
+“No closer than fifty meters this time.  Okay, in you go—”
+Moments later, the three crewmen were struggling and trudging down the shallow slopes of the depression, sliding a bit on loose rubble, to a spot near the bottom.  Panishin’s instrument pack would be emplaced there.  
+Inside the crawler cabin, Winger had managed to hold himself together—barely—and drifted in more or less normal config toward the airlock.  He found that forcing the seams of the airlock hatch was difficult and time-consuming, but in time, the bulk of his bots with his main processor emerged from the crawler and immediately, he found himself squeezed and nearly shredded by the density of the heavy carbon dioxide atmosphere.  
+It was like trying to run through ocean surf.   Like trying to dance-step through a hurricane, although in this case, the hurricane was a sleet of carbon dioxide and sulfur dioxide molecules driving at him sideways.  Electrical discharges streaked through the air, tearing at his effectors.  
+Maybe leaving the crawler wasn’t such a great idea.
+ He snagged a few stray photons and managed to get a grainy image he could record.  It was a scene no one would ever believe but UNISPACE and the Corps needed all the intel he could give them.
+It was clear that the Russians were hiding the fact that they had V-101 in their possession.  Sheer luck had dropped a Keeper unit right into their laps at Ishtar.  Now they were studying it—along with some wise ass from Red Harmony—and Winger had no doubt they were already aware of its weapons capabilities.  If Kazan was even close to being right and the Keeper was a portal to the archive of an off-Earth race, the possibilities were infinite and none of them were good.
+Somehow, some way, Winger knew he had to gather what intel he could and survive long enough to get it back to Quantum Corps.
+But the surface of Venus was turning out to be a pretty close analog to Hell itself.
+Maybe I can make coupler contact with Joe Vinh, he thought.  He tried opening a channel, got all kinds of warnings and switched through more channels.  He found one that seemed to be working—at least there were no warnings—and said:
+“Joe Vinh…this is Winger…I don’t know if you can hear me.  I’m with the Russian EVA detail.  One of them may be Red Harmony, I don’t know for sure.  Look, the thing is I’m outside.  This place is Hell.  The high temps are making my configs unstable.  Or maybe it’s the Keeper.  So far nothing’s been displaced.  But the heat and pressure are pulling me apart…my atoms are vibrating like crazy, the bonds are weakening…Joe…do you read me?  Joe Vinh…come back.  The density’s crushing…it’s like trying to walk on the sea bottom.  Joe, you’ll have to come and get me…I can’t make it back to the base…I can’t even make it back to the crawler. Joe…ahhhh…Jooo…Vinnnnhhh….”
+The last thing his vision module saw was: Buffer overflow…truncation at all higher registers…Pyridine probes…FAIL…Carbene Grabbers…FAIL…System FAIL….
+
+Johnny Winger knew perfectly well, or at least he was pretty sure, that he was back somewhere inside the mother swarm of the Old Ones, but you couldn’t tell it from what he was looking at with his own eyes.  It looked like the old fishing camp again, the place at Ford’s Creek.  Same cabins.  Same aspen trees, now yellowing in some kind of strange simulacrum of autumnal color…it had always been autumn at Ford’s Creek.  
+The camp seemed empty and deserted.  The cabins were dark.  The big stone fireplaces were cold.  No cars were around.  Then he saw movement out of the corner of his eye.  A single figure was sitting on the end of the dock, fishing pole in hand.  A man.  It was dark as midnight and no campfires illuminated the grounds.  The creek could be heard foaming and gurgling nearby, rushing out of the nearby mountains on its way downhill.  There were clouds scudding by overhead.  The moon was a white sliver.
+With a start, Johnny Winger suddenly knew who sat at the end of the dock.  It was the Shadow Man.
+Without understanding why, he stepped onto the dock, listening as the weathered old boards creaked under his weight and made his way to the end.  
+The man was hooded and his facial features were indistinct in the diffuse light of the dock area.  Winger figured this was surely the Keeper, somehow now in human form.  Without being invited, he sat down next to the Shadow Man.
+For a long minute, nothing was said.  Winger wondered if he should speak first.  He had about a million questions.  Strange thoughts came to mind and he tried to blank them out but it was like trying to stop the creek with your fingers.  In his head, an image of old Mrs. Burns, his sixth-grade English teacher came to mind.  How did that get there?  Could the Shadow Man put thoughts in his head?  Was he even supposed to be having thoughts?  
+Old Battleaxe Burns…now there was something he hadn’t thought about in decades.  Face like an angry pug with a corncob up its ass.  Five foot six inches of pure hate.  
+When the Shadow Man spoke, it was like hearing a hundred voices at once, all coming out of a barrel.  Winger stole a glance out of the corner of his eye, wondering if the Shadow Man was an angel…were there any edge effects, any blurring at his fingertips, swooshes of flickering  bots in the air?
+He saw none.
+“Johnny, you have an important mission to perform.  That’s why you’re here.”
+Winger looked straight ahead at the rushing creek, foaming and hissing around rocks.  There was a swirling hydraulic near the opposite bank…some buried tree roots, probably.  
+“Can you read my mind?  This looks just like an old fishing camp my Dad used to take me to in the fall…but this can’t be real, can it?”
+Now the Shadow Man lifted an arm and pointed to the hydraulic.  “Do you see the cataract there?”
+“Yes, sir.”
+“Do you see faces and patterns in the water?”
+Winger squinted.  Try as he did, he saw nothing.  “Am I supposed to? I just see water.”
+“If you look long enough, with the right eyes, you’ll see faces.  You are like the river, Johnny.  Only patterns, ever changing, ever shifting.  In this same way, your thoughts are only patterns.”
+“You said there was an important mission.”
+Now the Shadow Man shifted slightly.  He turned so that he was facing Winger.  Only there was no face inside the hood.  Whether it was veiled or in deeper shadow, he couldn’t say.  Only a deep nearly featureless black was visible, maybe punctuated by an occasional flash of lights…it could have been a reflection.  It could have been the moon sliding in and out of clouds.
+“Soon, you will be transformed, Johnny.  You will become a kind of expediter.”
+When his Dad had brought him to Ford’s Creek as a child, the two of them often spent time sitting on this very dock, sticking their bare toes in the cold running water of the creek, trying to make patterns and faces and swirls and curlicues in the foam.  He always remembered how cold the water was, how it made his toes curl when he first stuck them in.
+That was the trouble with being an angel.  You couldn’t feel anything, not like before.
+“Will this transformation be soon?”
+“Very soon.  Those whom you know as the Old Ones are here, very near here.  You will help them in important ways.  You do want to help them, don’t you?”
+Jeez, now this character is starting to sound like Dad.
+The Shadow Man went on, turning back to face the river.  Silently, he stuck his feet into the rushing creek water.  The water burbled, just like it always did.  
+Johnny Winger felt a cold chill down his back…at least, the part of him that Doc III maintained as a remnant of his original identity felt a cold chill.
+“But before you are fully transformed, before you begin your special mission, you must undergo four configuration changes.  They’ll be like adventures, Johnny.  You always liked adventures.”
+It was true.  Tom Swift, Jr.  The Hardy Boys.  Amundsen and Scott.  Neil Armstrong and the first Mars colonies…he’d always loved a great adventure.  How did the Shadow Man know all this?  
+“What kind of adventures, sir?”
+“Their names and explanations aren’t important now.  In the past, you might have called them the Prime Key.  Are you ready for this, Johnny?  The Old Ones hope you’ll say yes.”
+Winger knew he couldn’t exactly say no but the problem was that he wasn’t sure just how much the Shadow Man really knew.  Spies and saboteurs lived their lives in a funhouse hall of mirrors.  Hadn’t some novelist said that once?  Never knowing who to trust, who knew what.  They wound up trusting no one, not even themselves.
+Winger knew, and tried not to think about it, that Doc III was even now maintaining all that he had once been in a small file inside this angel config.  His original identity, all his memories, the very fact that he would recognize this place as Ford’s Creek, when in reality it was probably just a collection of atoms formed into a pattern he would know.  But then, the real Ford’s Creek was just a collection of atoms too.  All this Doc III maintained in a nondescript file called Configuration Buffer Status Check.  They both hoped nobody would notice this.
+He was starting to get a headache just trying to think about all this.
+The real question was what would happen to him in these adventures.  Were they like tests?  The Shadow Man had called them configuration changes.  Would Doc III be able to maintain ‘Johnny Winger’ through all these adventures, all these changes?
+It wasn’t a question he could ask of the Shadow Man.  
+“Sir, where will these adventures be?  How will I get there?”
+In answer, the Shadow Man placed a hand on Winger’s right shoulder.  It felt ice cold, a cold deeper and more painful than he had ever experienced before.  
+At that same moment, the entire Ford’s Creek camp dissolved in front of his eyes and Winger found himself spinning out of control, hurtling at breakneck speed down a long, curving corridor….
+
+“Shhh!” hissed Angel Barnes.  “They’re coming back”
+Through the faint translucence of the bot barrier, the prisoners saw lights flash around Gagarin Wing’s airlock.  There were grumbling noises, motor noises inside.  Lights flashed from red to green and the inner door rolled up.  The crawler snorted and lurched out into the hangar bay, shedding yellowish dust as it trundled across the floor.  The door rolled down behind it.
+It parked along a far wall and the three Russians emerged.  They chatted among themselves, with Kazan nodding in their direction.  Then the Russians disappeared through another door and the hangar was quiet again.
+“You’re sure it was the Colonel?” Sherm Cuddy asked.  He pressed Joe Vinh for details.  
+“No, I’m not sure,” Joe told them.  “I got snatches on my coupler.  It sounded like Colonel Winger, but the voice was different…I don’t know, stretched out, altered, maybe filtered.  He seemed to be struggling.”
+“How could you tell?”
+Vinh scrunched up his face, trying to tease some kind of meaning out of what he had heard.  “I thought he said he was outside…I guess outside the crawler.  He was struggling with the conditions, with the pressure and heat.  Maybe the Keeper too.  He was having trouble keeping his config together.”
+Cuddy was a trained IC in the Corps.  Interface and Control specialists knew a lot about configs and what could damage them.  “The high temps can play havoc with atoms and molecules, Joe.  You know that.  Atoms start vibrating like mad, loosen up, move apart.  We’ve got to get out of here and get to the Colonel pretty fast.  Conditions out there on the surface are a nightmare.”
+Emily Blakely seemed resigned to their position.  “What’s the use?  We’ll never get out of this stockade…not with those bots.  And he’s right.  I’m a specialist on Venus…that’s why I was assigned to Fort Bliss and the whole HAVOC mission.  The atmosphere alone is like being a thousand meters under the sea.  It’ll kill you in an instant.  Even if we could get out of here—”
+But Angel Barnes had an idea.  “Maybe there is a way.  Joe, you’ve got pretty strong replication templates, don’t you?  You could use some of your bots to assemble something that resembled the original pretty close, couldn’t you?”
+Vinh was thoughtful.  He sat on the hard floor and pulled his knees up.  “I suppose. Depends on the object.  Given enough time and feedstock, I could probably make a passable simulation of an object.  Why?”
+Now, Barnes smiled mischievously.    “Just this.  That guy Refimov—the one with the scar on his chin—has been bringing us our meals, right?”
+“Yeah, so.”
+“He has to de-tune the barrier to give us our meals.  Joe, what if when he did that, we dragged him inside, pretty well brained the guy, and you do your thing.  Scan him, disassemble him, run your config reader and then you make yourself over, to look like him.  We’ll stash him out of the way and then we’re out of here, out of this stockade.  And since you’ve become ‘Refimov’, we’d have someone who could help us take over this place.  Place the rest of these stooges in custody, behind this barrier, then grab a crawler and go rescue Colonel Winger.”
+Vinh shrugged.  “Sounds great on paper.  But I don’t know how accurately I can read his atom geometry and bang out a config.  It could take awhile.”
+Barnes looked around at the others: Cuddy, Faury—the Aeneas captain—Tahat, Emily.  “Anybody got a better idea?”
+Nobody did.
+Emily spoke up.  “You can really take a guy apart and create a double?  I know you’re an angel, but I never seen it done before.”
+Joe Vinh was already scanning files on his processor archive.  His eyes blinked fast when he did that, but he managed to reply, “It’s really a matter of having the right template.  I can read an object’s atomic geometry—all the atom configurations, the bond energies, that sort of them—pretty fast.  If there are enough loose atoms around to make feedstock, then I take what I’ve read and just reassemble the feedstock atoms to match what I read.  In this case, I’ll alter my own config patterns…if I do it right, if we have enough time, I should be able to re-configure myself to resemble what I read, fairly closely.  In this case, our buddy Ivan Refimov.”
+Emily whistled.  “I’ve heard of this but never witnessed it.  I don’t mind telling you there have been times in my life when I definitely wanted to be someone else.”
+The prisoners worked out a plan—who would do what, who would go where, how they would grab Refimov and render him unconscious, where they would situate his body while Joe Vinh worked his magic.
+Then, right on schedule, Refimov himself showed up, banging his way through a door near the crawler, pushing a cart with meals from the canteen.  He was a short, beefy man, perhaps middle-aged, but with wrinkles, bruises and lines on a florid face that spoke of past struggles and encounters.  He bore a vivid scar along his chin and his eyes were little more than black buttons, deep-set and constantly, nervously looking about.
+Angel Barnes tried to feign nonchalance.  “What wonders has the kitchen got for us today, Ivan?”
+Refimov snarled.  “Borscht and blini, same as before.  Stand back, all of you.”
+He aimed a small control pack at the barrier, which immediately collapsed in a spray of light and sparks.  As he pushed the cart inside the stockade, Faury and Cuddy immediately lunged forward, knocking the Russian down.  With a few quick punches and kicks, Refimov was rendered unconscious.  His body was dragged behind a cabinet, while the others kept watch for any more Russians.
+Emily Blakley came around behind the cabinet and stared open-mouthed at what happened next.
+Joe Vinh began de-materializing himself and soon was little more than loose aggregate of molecules, a faint mist descending toward the floor.  The mist flickered and popped and sparkled as it lowered itself over Refimov’s prostrate body.
+Angel Barnes enjoyed Emily’s reaction.  “You get used to it.  We have lots of angels in the Corps.  Soon, he’ll start ‘reading’ the bastard’s atomic geometry and replicating a duplicate.”
+The two of them watched as the Vinh swarm thickened and then in a rhythmic pulse, swept up and down the length of the Russian’s body.  After ten minutes, the swarm began to noticeably thicken again.  Emily hardly took a breath as the thickening mist began to assume a familiar shape; first there was a part of a leg, then a foot, then a hand, a shoulder.  Moment by moment, the shape filled in, as if a child were sketching a cartoon character.  
+Once the face became visible, Emily sucked in a breath.
+“Fantastic…I’ve never seen this before.” 
+A few minutes later, the Vinh swarm-turned-Refimov-duplicate stood up awkwardly, holding onto the cabinet for balance.  The result wasn’t perfect, she saw.  The face was a bit blurry and his hands didn’t quite track with his arm movements.  But on first glance, it was Refimov, as long as you didn’t look too closely.
+Cuddy, Faury and Tahat had come around behind the cabinet as well.  As IC1 (Interface and Control Specialist), Cuddy was nominally Detachment second-in-command.
+“Come on.  Let’s get out of here.  Angel, you, Blakely and Joe find us a crawler and figure out how it works.  Captain Faury and Mr. Tahat and I will take a look around this compound, grab what intel we can and meet back here.  I want to make sure we put those other Russians out of commission.”
+“You may need these,” Vinh told them.  They all watched in amazement as his hands spalled off a stream of bots, which in less than a minute, had formed themselves into magpulsers.
+Emily asked, “You can fashion weapons too?”
+Vinh, now looking like Refimov, shook his head. “I have program inhibits against replicating real weapons.  These are fakes.”
+“They look real enough to me.”
+Cuddy grabbed Faury and Tahat.  “That’s the general idea.”  He took one ‘pulser’ and left one for Barnes.  “Come on.  We’ll be back in half an hour.”
+Sherm Cuddy, accompanied by Captain Faury and Achmed Tahat, Aeneas’ commander and pilot, left the hangar and bean reconnoitering Ishtar base.  What they found amazed them.
+The Ishtar complex itself was intended to house over fifty personnel when completed, ranging from astronomers and cosmologists, to engineers and technicians and system operators, command staff, even a few robotic bartenders for the habitat spaces.  Most of the complex itself was buried under a few meters of Venusian regolith for protection from the atmosphere.  The domes had several levels and there are three main elements, called wings: Gagarin Wing, Korolev Wing and Komarov Wing.  A fourth compound, to be known as Titov Wing, was under construction.  
+Three shuttle and ferry landing pads occupied ground a kilometer or so to the northwest of the main facility.  The telescope arrays were also located to the northeast, connected by wireways and buried access tunnels, to make servicing and maintenance a bit easier.  Many of the scopes and arrays were operated remotely from Korolev Wing’s Kosmichevskaya Gvardiya Center.
+Southwest of the main compound, a small nuclear power plant, well shielded, provided multi-megawatt power for day and night time operations.  Again, there were buried wireways, power cables and access tunnels.
+Gagarin Wing contained offices for Roscosmos and Russian Federal Space Force (RFSF) command staff.  There was also a protected and isolated section for ANAD operations, including a containment vault, a foundry for assembling parts and items needed by the base and replicator banks to test out molecular assembly and disassembly ideas and concepts.  All the wings had a crawler garage and airlocks.  Crawlers were pressurized surface mobility vehicles used by personnel to shuttle around the complex above ground and to conduct forays further afield as needed, for science, materials (mainly dirt) and other needed tasks. 
+Korolev Wing contained Kosmichevskaya Gvardiya (Space Guard) Center itself, including mission operations and supporting rooms.  The mission of Kosmichevskaya Gvardiya was critical so there were plenty of backups and redundant systems for everything.  About half the instruments located in the array fields were operated by Kosmichevskaya Gvardiya Center.  
+Komarov Wing was where most of the base personnel lived and hung out when not on duty.  This wing contained the berthing spaces, the wardroom and mess facilities (café and lounge) and the canteen, which was currently done up to resemble a Black Sea beachside cantina.  The Locals called it ‘Sochi Lagoon’ and it was said that the robo-bartenders could mix up anything, including a mean vodka martini.  All personnel had individual rooms, though calling them rooms might be a stretch.  Perhaps ‘closet’ would be better. Ishtar operated on an Earthside duty schedule, which meant three shifts over every 24 hours.  
+Titov Wing was the newest wing and, when finished, would house more hab spaces, staff facilities and labs for the Observatory crew. 
+They found Kazan and Panishin in the base command center in Korolev Wing.  Initially resistant, both Russians surrendered when faced with the magpulser in Cuddy’s nervous hands.  
+“Just what do you think you’re doing?  You can’t do this,” Kazan muttered.  
+“This little piece says I can,” Cuddy remarked.  While he guarded them, Faury and Tahat bound and gagged the two and dragged them to seats in the back, where they were firmly tied in place.  Cuddy studied the control panels, clearly looking for something, waving his wristpad back and forth over the switches and displays.
+Faury was intrigued.  “What are you looking for, Sergeant?”
+“Access to the base computer.  My wristpad scans and translates anything I wave it over…ah, this looks promising.”  He hovered his wristpad over one display and silently mouthed what his translator was showing…Komp’yuter.  “I think this is it.”  Then Cuddy lowered his wristpad into close proximity with one of the switch panels and held it there.  “If this works, I’m downloading all their files and programs and system manuals.  This should be a bonanza for the intel weenies back at Q2.”
+Achmed Tahat had seen someone race by the outside door to the control room.  “I’ll check it out,” he told them and darted out after the shadow they’d seen.  He hustled down several curving corridors and stumbled into an office.  The shadow turned out to be Natalya Yegorova.  
+The Russian woman, nominally a crewmember aboard the Fort Bliss station, but also a Roscosmos staffer, was strong and quick.  But Tahat was stronger.  They wrestled and struggled for several minutes, bouncing off chairs, a desk, knocking over a light stand, before Tahat got her in a hold she couldn’t break.  They got to their feet and he frog-marched Yegorova back to the hangar bay in Gagarin Wing, where she was tied up and dropped with the others.  All the Russians stared wide-eyed at Vinh-Refimov.  Refimov himself blinked as if were seeing a ghost.  
+“A devil’s trick,” he mumbled through his drop cloth gag.
+Vinh chuckled.  “Quantum Corps ANAD, my unfortunate Russian friend.  We’re ten steps ahead of everybody else.”
+Cuddy checked with Barnes and Blakely.  “You found us a ride out to the site?”
+Barnes drew them all over to one of the crawlers.  “We found some system manuals inside and scanned them.  This buggy even flies…see that turret on top.”
+“I see it.”
+“There’s a balloon envelope inside. It opens up when commanded and fills with what I believe is helium, from all those canisters that circle the turret.  The manuals even say this baby has stubby little wings—probably those blisters on the side of the cabin—and propulsors in the rear.”
+Emily was enthusiastic to give it a try.  “A real Venus flying ship.  Just like Geronimo.  I actually flew in this atmosphere when I saved my brother Win’s sorry ass.”  
+Cuddy made the decision.  “This will be our ride to the dance then.  Joe, why don’t you give up that disguise and become your old self.”
+Vinh did just that.  All looked on as the face and body of the duplicate Refimov blurred for a few minutes into a shadow, then became enveloped in a dense, throbbing swarm of bots as it re-configured itself back to Joe Vinh.  The entire process took about five minutes.  When the likeness of the original became visible and thickened into solidity, the Russian commander Kazan squirmed and managed to force his gag out.  
+Catching his breath, Kazan muttered, “We didn’t know Quantum Corps had this capability…to change appearance of people.”
+Cuddy said, “There’s a lot you don’t know about Quantum Corps, pal.  And what you don’t know can and will smack you.  Okay, Blakely and Barnes, you’re with me aboard the crawler.  Captain, Joe and Tahat, stay with this gang of creeps and make sure they don’t cause any trouble.  Reconnoiter this place some more.  Grab anything that looks useful but don’t take any chances.  And keep comms open.  We’re going to find and retrieve Colonel Winger and scout that Keeper.”
+Barnes looked pained. “Then can we get the hell out of here, Sarge?  This place definitely does not remind me of the last trip I took to Maui.”
+“We can but not before we get the Colonel back and complete the mission.”  
+With that, Cuddy, Barnes and Emily boarded the crawler and the vehicle soon rumbled off into the airlock.  Behind them, Faury, Tahat and Vinh made plans for a systematic reconnaissance of Ishtar Base, while at the same time keeping close guard on its Russian crew, now stuck behind a re-initiated security barrier in the hangar.
+Outside the hangar, Emily helped Cuddy operate the crawler systems, showing him how to deploy the balloon envelope, fire the helium canisters and do basic maneuvers once they had lifted sluggishly off the rubbly ground.
+Cuddy’s wristpad translated some of the controls in real time as he waved it over the panel.  “This says something like Lift and Buoyancy…I think.”
+“Use that for your altitude adjustments,” Emily suggested.  “I trained on Geronimo’s systems before deploying to Fort Bliss.  There can’t be that many different ways to control an airship in this soup.”
+Slowly, bit by bit, Cuddy and Emily managed to deploy the crawler-flyer’s stubby wings and propulsors, and yaw the ship ponderously onto the proper heading.
+For her part, Angel Barnes was reading faint decoherence wake signals tuned to Colonel Winger’s config manager.  Her wristpad detector suggested a general heading.
+“Sherm, I don’t know if I’m picking up deco signals from the Colonel or that Keeper thing.  Either way, I’d say steer left toward those hills, toward that big mountain on the horizon.”
+“Maxwell Hills,” Emily remembered from her Venusian maps.  “The big one is Maxwell Montes.  It’s a volcano.”
+The air was surprisingly clear at this low altitude though currents and winds were tricky and the orange light refracted surface features crazily.  
+“I’m seeing flashes on the horizon,” Cuddy noticed.  His eyes were glued to the rubbly terrain less than a hundred meters below and drifting clouds of sulfur rain billowing around them.  “Is that lightning?”
+“It is.  The volcanic regions create a lot of lightning.  On comms with Geronimo, we called the lightning ‘whistlers.’  That’s what it sounded like on the radio.  Keep on this heading—” she chanced a look over at Barnes, who studying her deco signals intently.  Barnes nodded in the affirmative.
+The Russian crawler rose to a comfortable cruising altitude and headed southwest across the rolling tan and ocher dunes of Lakshmi Planum. From several hundred meters, in the dim pearl glow of a late afternoon sun, the rubble really did look like a sea, frozen in place, waves and crests and shadows playing tricks on their eyes, fantastic shapes appearing and disappearing with each look out the crawler’s portholes.  
+Emily Blakely watched an approaching stormfront with growing apprehension.  We may have to start turning north pretty soon….  “Sergeant Cuddy, we may want to give that big front up ahead a wide berth.  It’s all sulfur rain and hydrochloric acid clouds in there…I’m not sure what effect it’ll have on us but the wind shear and updrafts can be pretty violent.”
+Cuddy’s lips tightened, as did his fists on the control stick, for the ship had begun to sway more violently in the updrafts and gusts.  
+And then the sulfur cloud seemed to swallow them whole.
+The crawler shuddered for a moment, then out of the murk came a huge wing…then a spiked tail. It swept right by the windows and struck the aft end of the ship with sickening thud.  
+“Thermosaurs!” Emily yelled.  Her heart was hammering in her chest.  Here they were again and this time she had witnesses.  “Get down…get away from the windows!”
+Another wing materialized, then a horned and crested head, then clawed feet and another tail.  It too sideswiped the crawler, sending the ship yawing hard left, corkscrewing and crabbing through the air as the autopilot sought to trim her out and keep her aloft.  
+They had drifted into a flock of the huge birds, and two of them were chasing each other around the outer bands of the stormfront, riding updrafts, diving into tufts of orange haze, cawing and screeching loudly at each other.
+“We’re hit!” Cuddy yelled.  It was obvious that the crawler was down by her stern.  As he peered out the portside windows, Cuddy’s heart sank.  The first impact had done the damage.  The crawler’s aft gasbags were holed, the outer fabric skin flapping crazily in the gusts.  He could see wild swings of the rudder and stabilitors as the ship’s auto-pilot tried to manage lift.  The ship shuddered again.
+“That’s probably ballast…autopilot’s dumping ballast, trying to regain lift!” Emily yelled at him over the roar of the wind, for they were now fully enveloped in the storm’s clutches and the ship seesawed like a loose tree limb in the crashing, swirling gusts.
+Barnes clung tightly to a rail, groped her way back to a nearby seat.  Hurriedly, fighting the centrifugal forces of the whipsawing ship, she buckled herself in.
+“Are we…are we…?”
+Cuddy said something but it was lost in the blare of sirens, klaxons and an automated voice in Russian, calmly ordering all hands to “ZATYANUT REMNI BEZOPASNOSTI…TIGHTEN SEAT BELTS…GROUND PROXIMITY WARNING   …BRACE FOR IMPACT…BRACE BRACE…!”
+The crawler was driven hard into the ground, with a grinding roar.  As the balloon envelope crumpled and collapsed all around them, the crawler separated from its envelope and began a wild careening roll—they had impacted the slope of a hill, and began cascading down the side, rolling turning bouncing vaulting somersaulting down the hill until it finally came to a rest in a shallow depression, one end buried a few meters deep in the ever-shifting rubble and dirt.
+All around them, the storm howled like a thing alive, punctuated every so often by the raucous screech of thermosaurs overhead, riding the wild thermals, banking and diving, their heavy wings beating the air as they swarmed around the wreckage of the ship.
+Barnes and Blakely were both knocked unconscious by pieces of flying trimwork, spalled off the cabin ceiling.  Cuddy lay still, purple bruises swelling on his neck and face.
+For many minutes, only the sulfurous wind howled around them. 
+
+Chapter 3: “Paradise”
+
+Aboard Crawler 1 (Aralsk)
+Ishtar Terra
+June 7, 2065 Earth Universal Time (EUT)
+2100 hours (local)
+
+It took time, but Barnes eventually realized when she came to, that Sergeant Cuddy wasn’t moving.  Not even breathing.  Hurriedly, she unbuckled and went over, dropping to her knees, sucking in her breath at what she found.  Emily Blakely stirred groggily and crawled over to help.
+Cuddy’s head was covered with blood, still oozing from a deep forehead gash.  There were other bruises, lacerations and cuts.  He stirred slightly and she bent down to whisper.
+“Stay still, Sarge…be still.  I’ll see if there’s a med kit somewhere around here.”
+With some fumbling and swearing from Emily, they found some kits in the back of the cabin, in a cabinet.  Barnes applied a medpatch to Cuddy’s head wounds, as all atomgrabbers had been trained to do and let it go to work.  In a few minutes, the bots inside would start their regime of medicating, cauterizing and auto-suturing the wound.
+She tried to make Cuddy as comfortable as possible.  Presently, he groaned and his eyes fluttered open.
+“How bad…?” he forced out.  
+Barnes shrugged.  “I wrenched a shoulder, but otherwise, I’m intact.  Nothing broken.  I’m worried about your head, though.”
+Cuddy winced and smirked slightly.  “A lot of people are worried about my head.  My right ankle, though, it’s—” He tried to bend over and touch it, but the pain was too great.
+Blakely examined it.  “May be broken, Sergeant.  Leave it alone…I’ll gin up something for it.  Medpatches won’t help that.”
+Emily raised up enough to rest an elbow on the torn seat next to them, peering out through starred and crazed porthole.  The sulfur haze seemed to be lessening and the winds had slackened, though the battered crawler cabin still groaned and creaked with the occasional gust.   Worse, the hull had been breached in multiple places and hot, foul-smelling, carbon dioxide-laden air was now sifting in, straining the hull plates to near bursting.  It wouldn’t be long before the weakened cabin imploded under the immense pressure.
+“Where are we?” Emily wondered out loud.  “Nothing but rubble and dirt out there, as far as I can see.  And those hills.  We must have come to rest on top of one of them.  Maybe we’d better stay put, for the shelter.  Usually these balloons have emergency beacons.”
+“I’m still getting faint deco wake signals,” Barnes announced.  “Maybe a few kilometers from here…that way.” She pointed.  
+Emily was looking out a porthole for more thermosaurs.  “You both saw ‘em, didn’t you?  I didn’t imagine them.  There is life here…avian life.”
+Eyeing the groaning hull plates, Cuddy said, “And soon to be extinct human life, if we don’t get out of here.” 
+He struggled to a sitting position, bracing his back against the seat, which had been torn from its mount.  “Any beacons may have been shattered in the impact.  We came down pretty hard.  Hard to say.”  He craned his head, wincing from the laceration and the medpatch, and peered out.  
+Barnes also looked out through haze shimmering in the distance.  She could just make out the faint outlines of the slopes.  “Let’s stay here for now, Sergeant.  The others will know we went down.  And that storm’s moving on.”  
+Cuddy shook his head emphatically.  “We can’t stay here, Angel.  Not safe.  Look at the hull.  It’s buckling.  The impact weakened it and this whole jalopy’s going to implode soon. No…we have to get out, while we still can.”
+Barnes said, “To where?  Those hills look to be several klicks away, at least.  And you’ve got a bad wheel.”
+“You’ll have to support me, both of you.  Better check around and see if we have any suits.”
+A quick check of the cabin produced four protective suits, Russian Orlan-type, stashed in a cabinet.   Barnes pulled out three that looked like they would fit.  “We’ve got these.”
+“Start getting into them, now.  The hull’s about to give way.”
+“What about the conditions outside…the heat, the pressure…and the wind?  And where would we go anyway?  There’s nothing but rubble out there.”
+Emily had been studying the terrain as best she could from the porthole.  “Fort Bliss mapped this whole area a few months ago, down to meter-resolution.  From what I remember of those hills, the whole area is a region of volcanic uplift.”
+Barnes was climbing into the protective suit, from the back, as was Russian custom.  “So?  How does that help us?”
+Emily turned back, started getting into her own suit.  It didn’t do a thing for her figure.  “Just this.  An uplifted area like we measured and mapped is riddled with lava tubes, voids and probably caves.  If we can make it to those hills, we’d have some protection.”
+Cuddy winced at the pain in his ankle as Barnes helped him into his own suit.  “As long as these suits hold.  Angel, are you still getting anything from the Colonel…any kind of signal?”
+Barnes checked her deco wake detector.  “The strongest signal’s from down in that depression, where that glow is.  Has to be that Keeper thing.  But there is still a very faint decoherence signal on another heading.”
+“Which direction?”
+Barnes checked, then looked out the porthole.  “That way, best I can make out.  It’s very faint.  In the direction of those hills.”
+Cuddy made the obvious decision.  “Maybe Colonel Winger—or what’s left of him—headed for those hills too.  We’ll go that way.”
+Once they were fully suited and had buddy-checked each other, Barnes and Blakely worked together to get Cuddy into a position they could both support, as comfortable as any of them could be.  Cuddy draped one arm around each neck, then Blakely tied a small bag of supplies they would need…rations, canteens of water, batteries, light sticks, more medpatches—to his web belt.  They de-pressed the cabin, tugged on the hatch until it groaned open enough to get out, then half slid and half fell down the slope to the hardpan below and set off.
+In the distance, the rose-colored Maxwell Hills shimmered like a million mirror fragments in the haze.  Blakely studied the sky, noting heavy sulfur clouds moving in again, billowing up from the southeast.  Flashes of light lit up the slopes of Maxwell Montes, illuminating the underside of the clouds.  Intermittent thunderclaps boomed over their heads.  But at least, there was no sign of the thermosaurs.
+Another front moving in, she told herself.  We need to get to cover quickly.
+They were easily a half dozen klicks from the hills, she figured.  What I wouldn’t give for another sighting of the ‘saurs…just a few minutes, that’s all I’d need.  She had found some kind of camera in the suit locker, hung it on her suit belt and she felt for the thing, visualizing in her mind whipping the camera out like a Western gunslinger for some quick photos.  They can’t scoff when they’ve got pictures staring them right in the face.  She smiled at the thought of so many experts eating their words.
+But that was just wishful thinking.  The coppery glow of the late afternoon light made long reddish shadows over the sand and she found herself imagining the three shadows trudging along, growing larger and wider with each passing moment, soon taking flight.  Night would come soon enough to Ishtar Terra, though not for another few weeks, and with it, shapes and sounds and smells unknown, perhaps unknowable.  They moved together as one, in a mechanical rhythm: step, shuffle, step, shuffle, step, shuffle, ever onward, a metronome of physical movement that seemed at the same time hypnotic, surreal and eternal.  Shadows of what she hoped were thermosaurs cawed and screeched and beat their wings overhead, bringing momentary relief from their shadows.
+Emily Blakely, Angel Barnes and Sherm Cuddy pressed on as best they could, trying to make the lower slopes of the Maxwell Hills before the fullness of the Venusian night fell upon them.
+
+Cuddy grunted and slumped in her arms and that startled Emily out of her daydream. She worked with Angel Barnes to lower Cuddy to the ground and then she stooped down.  The sergeant’s face was pale, visible even inside his helmet.  He was sweating hard.
+“Not too far now,” he croaked out.  “A few more hills.”
+“You can’t make it a few more hills,” Barnes decided.  She looked around.  They were moving into the upper Hills now, wedged between sheer rock walls, with clefts and burrows and hollows all around.  At least the sand was gone, replaced by ocher rubble and house-sized boulders.  Cuddy murmured and grunted onward, though she could barely hear him.
+That’s when Emily saw a faint light ahead, a flicker, like a fire or a candle or light stick.  
+They finally found the cave on the steepest slopes of the Maxwell Hills, nearly five hundred meters above the surrounding desert.  The three of them were exhausted by the climb; the effort had taken hours, it seemed.  
+The cave complex, where Emily had seen the flicker of light, was well hidden in the folds and crevices of the upper slopes, above a cloud deck and slick with fine reddish sand.  The wind moaned and wailed here and all of them had to hunker down in the lee of a rocky barren to keep from being shredded with a blizzard of rock chips scoured off the mountainside.
+The entrance was little more than a fold in the ground, like a bedsheet bent over and tucked under, maybe a meter across in its widest dimension.  Barnes checked her deco wake detector.  “This has to be it,” she forced out.  
+The three of them moved deeper into the cave, following a drifting mist of nanobots that wavered in and out of view. A faint glow emanated from the swarms and Barnes and Blakely realized this was the light they had seen: bots slamming atoms, breaking bonds, creating a glow about the cave. They descended several levels, crossed a rock bridge across a deep chasm and maneuvered through more tunnels.  Lighting was created by the mist, a pulsing, flickering light that cast deep shadows on the gnarled veins of rock lining the cave.  The floor was slick, patches of yellow sand everywhere.  Soon enough, they came to a narrow opening, barely waist high.  More light flickered from inside.
+The mist of bots which had floated with them swirled like dust in a storm and gathered around the opening like a frame, coruscating and flashing as if lit from within.  Bonds were broken and atoms slung together…in moments, the mist formed itself into a small ramp, extending over a sluggish pool of water.  At least, Barnes thought it was water, even as tendrils of steam hovered over the surface like a fog.  
+Cautiously, first Barnes, then Emily holding onto a wobbly Cuddy, edged out onto the newly formed ramp and walked ahead.
+They were startled to see a half-formed Johnny Winger slowly materializing out of the shadows of a niche up ahead.  His head was visible, along with a shoulder and part of an arm.  Torso and legs were still faint, mostly in outline.  As they approached, the Winger swarm turned slightly and a broad grin split its lips.
+“Well, it’s about time.”  His voice was scratchy, reverberating off the walls, multiple tones and harmonics making it hard to understand.
+“Colonel…” Barnes went forward, but stopped short.  She wanted to grab him but there wasn’t enough John Winger to grab hold of.  “Colonel…we thought you—”
+Even Cuddy grinned behind his helmet faceplate.  “Skipper, you’re a sight for sore eyes…more or less.”
+Winger’s form continued to fill out slowly.  “Yeah, I thought I was about gone…I guess my calls got through.  I managed to ride some breezes up into these hills and found this cave.  The heat and pressure were less inside…and there was a lot of feedstock.”
+Barnes looked around.  “What is this place?”
+Now, right before their eyes, the Winger swarm thickened and flashed and popped as its assembler bots grabbed atoms and bent them to its original template, the original config.  Emily stared wide-eyed at the whole process.
+“Best I can determine, all these bots and swarms came from that Keeper.  I’ve been watching this whole area…it’s like a nursery.  The damn thing even makes birds, great big birds, that fly out of this cave and take off.”
+Now Emily Blakely said, “The thermosaurs?  They’re created?  Like…artificial?”
+“I don’t know about that.  But I do think this is some kind of nursery.  Like the Keeper is a kind of mother and it’s growing all kinds of creatures around here.”
+“At least you’re getting back to normal,’ Barnes reassured herself.
+“He doesn’t need a suit?” Emily asked, still disbelieving.
+Winger smiled at her.  “I’m just a collection of bots.  I don’t breathe like you do.  But the heat and the pressure outside still affects me.  It tears my config apart and I can’t maintain structure.  If I hadn’t found this cave, and all this feedstock in here—” He shrugged, not really needing to complete the image.  
+Cuddy, sitting on a rock outcrop to rest, explained what had happened, how the three of them had absconded with a crawler that could fly, leaving the others to recon the Russian base.  
+“One of those birds struck us, and we crashed a few kilometers from here.  We figured you were probably still in the area and Barnes followed the faint decoherence signal your processor was creating.”
+“Skipper,” Barnes was scanning the cave walls carefully.  “I don’t know what this Keeper thing’s up to or what the Russians were planning on doing here, but we can’t get back to Ishtar base.  The crawler’s wrecked and there’s no way we can walk back, not in these conditions.”
+Winger was now almost fully formed out, only his hands and lower legs seemed blurry and diffuse.   
+“With what the others can grab from that base, we’ve got more than enough intel to hand over to Quantum Corps and UNIFORCE.  The Keeper landing here is just luck.  But the base is clearly in violation of Treaty. Emily, you never detected anything odd going on with Ishtar base from Fort Bliss?”
+Emily shrugged.  “We should have seen it.  But remember, the station’s jointly operated…UNISPACE and Roscosmos.  My guess is Natalya was scrubbing the data somehow so we wouldn’t see anything unusual in this sector.  This base has been here awhile.  But the Russians have been pretty-closed mouth about everything.  What would they want with this Keeper you talk about?”
+Winger explained.  “They want the same thing the Chinese and Red Harmony want.  To study it, see what it can do, develop technology—especially weapons—from what they learn.”
+“And this Keeper can create things, like the thermosaurs?”
+Winger shrugged.  “Maybe.  The best we can determine, these Keeper units are basically like big swarms of bots themselves, programmed to do certain things, maybe live off the land wherever they come down.  It’s possible the Russians even had a little help building Ishtar base…that’s not impossible.  They clearly know more about this Keeper than anyone…which is in itself a Treaty violation.”
+Emily looked quizzically at Winger, studying him up and down like a specimen.  “Colonel, you know I’ve never spent much time with an angel.  I’ve seen ‘em on Earth.  But since I’ve been posted to Fort Bliss…well, it is a small crew.”
+Winger smiled faintly.  “You must not get out too much.  If we don’t get out of here pretty soon, you’ll be spending a lot more time with an angel…” he looked outside the cave at drifting clouds of loose bots “…and maybe more than one.”
+“What a place to die,” Barnes said sullenly.
+Emily’s face brightened.  “Maybe not.  Can we still contact your crew at Ishtar base?”
+Cuddy checked comms with his suit transmitter.  “It’s intermittent, maybe because of the cave, but I think we can get messages back and forth.”
+“Why not have Aeneas take off and fly over here?  Captain Faury and Tahat are back at Ishtar.  They could gather your intelligence and your crewman Joe—”
+“Vinh,” said Winger.  “Another angel.”
+“Exactly.  If they think Aeneas could make a short hop, Captain Faury could fly the shuttle over here and we could board and be off from here.”
+Nobody had a better idea.  In bursts of scratchy comms from the outer cave, Cuddy was able to raise the base and establish an erratic link, conversing with Joe Vinh.  The Detachment Defense and Protective Systems specialist reported that the Russians were still confined, that he had seized all kinds of data and that the base seemed to be under attack from some kind of flying creatures that appeared out of the clouds and circled the compound, cawing and screeching like vultures.
+Vinh’s voice was strained, evident in the sporadic comms.  “I don’t know what the hell they are, Sherm.   Faury’s afraid they’re going to damage the shuttle.  Or slam into one of these domes.” 
+Cuddy tried to explain as best he could.  “Emily thinks the birds are indigenous to the area.  And the Colonel thinks the Keeper’s creating copies of them.  Look—” Cuddy went over the plan to get Aeneas airborne and make a short hop over to Maxwell Hills.  “You’ll have to find a place to land and it looks like there’s another storm coming through…maybe you should get Faury on the line.”
+Over the next few minutes, between Cuddy, Vinh and Faury, a basic plan was worked out.  The Aeneas shuttle would lift off with Vinh, Faury and Tahat aboard and all the data, records, vids and files they could gather.  The Russians would be released from confinement as Vinh said he could time the barrier to drop at a certain moment.  Aeneas would make a short hop and try to find a place to land at the foot of the Maxwell Hills.  Once down and safe, Cuddy, Barnes and Blakely would make a dash for the ship and, if all went well, Aeneas would take off for orbit and a hook-up with Fort Bliss.
+“We’ve got everything we need on Ishtar base, the Russians and the Keeper.  Once we turn this over to UNIFORCE, there’s going to be hell to pay…if we can get out of here.”
+Vinh’s voice was thin.  “I just hope we don’t run into any more of those crazy birds, Sherm.  We’ll get going and signal you when we’re ready to lift off.”
+“Copy that.  Cuddy, out.”
+
+With Cuddy too gimpy to move much, he and Barnes stayed inside the cave complex and sorted out what intel—disks, cubes, tabs and files-- they had grabbed themselves.  While they sorted, Winger and Emily drifted up to the cave opening, through knots and clumps of swarms still forming weird shapes and disembodied heads and legs…Winger said it was the Keeper copying and translating their own atomic geometry into facsimiles—“they do that for some reason,” he explained.
+Winger wanted to scout the local terrain and try to identify a place Aeneas could safely land.  They reached the cave entrance, cling to a rock outcrop as sharp gusts slammed them and beheld a fantastic, nightmarish landscape below them.
+Low hanging clouds of yellow and orange and magenta, swollen and throbbing like bellies, drifted across the gently rolling rockscape of Lakshmi Planum.  Veins of lightning crackled between gaps in the clouds.  On the horizon, dark and brooding in dim outline, the bulky slopes of Maxwell Montes loomed like a dark wave about to crash down on them.  Around the other side of cave entrance, opposite the great volcano, a fog-bound depression glowed a dim blue-white, the pearlescent radiance of the Keeper itself, looming out of the fog like a distant lighthouse.
+Emily scanned the skies intently.
+“Looking for your bird friends?” Winger asked.
+Neither of them saw anything identifiable.
+“Nobody but me believed they were real.  Now I’ve got extra witnesses.  It’d be great if I could get some photos.  Tell me something, Colonel.”
+“Sure.”
+“That thing you call a Keeper…what is it, exactly?  Can it really create likenesses of things, like an angel?”
+Winger sat down at the entrance and Emily did likewise.  “There are all kinds of theories.  Maybe it’s best if I show you…sit there.” 
+Winger used his processor to grab some local photons and form a makeshift projection screen, a small half-sphere hanging in mid-air, right in front of them.  Emily watched the show unfolding over her head in amazement…a face appeared, a young Quantum Corps officer, apparently giving a briefing of some sort.  She listened and watched….
+
+“Q2 believes that the Keeper is a portal to the Old Ones and an archive of knowledge from the Old Ones.
+“It’s a vast swarm, of flexible configuration, but which most often assumes the config of a platform surmounted with rotating spheres.  
+“Keeper units direct quantum signals toward the central swarm of the Old Ones and receive quantum signals from the central swarm, or home swarm.  It is a giant quantum coupler.
+“Our intelligence supports the idea that Keepers bud off sub-swarm elements to carry out defensive or other measures as needed.  
+“Because it is a swarm, a Keeper can disperse and re-assemble anywhere.  Its quantum nature seems to give it the ability to displace objects that approach too closely, displace them to other times and places.  It can and has detached elements of itself to conduct attacks or defensive efforts.
+“The swarm nanobots that form a Keeper are of a design, configuration and capability such as Quantum Corps has never encountered before.  Their speed of operation, effector design, propulsor capability and speed of replication, assembly and disassembly are unmatched by anything Quantum Corps has.  
+“Because the structure of the Keeper is maintained as a nanobotic swarm, the Keeper is able to cause its individual bots and swarms to multiply seemingly instantaneously, through its entangler system, which creates multiple copies of swarms representing different probability states.  These swarm copies are not real in a touchable sense, but appear as multiple ‘probable’ swarms, which when engaged, collapse into one real swarm.  This spawning or budding or shadowing process makes a shambles of Quantum Corps tactics, as assault forces find themselves maneuvering to engage threats which turn out not to be real.  It’s hard to know what is real until you actually engage….”
+
+Winger killed the projection and the sphere collapsed in a spray of light.  “You get the idea.  We’ve seen Keepers in several places, starting on Jupiter’s satellite Europa.  Now, they’re showing up in the inner solar system, Earth and now Venus.”
+“Who or what is sending them?”
+Winger said, “Oh, there are about a million theories about that.  The best evidence seems to support the notion that these Keepers are like advance scouts for an off-Earth race or intelligence, somewhere else in the Galaxy.  But there’s no solid proof.  We don’t really know why they’re here, why they come or what they’re doing...just theories and speculation.  But they’ve already had one big impact on Humanity…their presence and demonstrated capabilities have propelled human nanobot technology along to hyper speed.  If it weren’t for what the Keepers have shown us is possible, we wouldn’t have angels…like me.”
+Emily found herself intrigued by this Quantum Corps officer who was in fact just a big cloud of bots.  She wanted to press her fingers into that swarm, just to see what would happen, but the suit prevented any real contact.
+“How’d you become an angel anyway?  Was it voluntary?”
+Winger chuckled, momentarily re-living what had happened so many years ago in that ice cave on Europa.    “Not exactly.  It was just something I had to do.”  He explained the incident, recalling vividly the sights and sounds of that fateful day and he spilled all of it to Emily at the cave entrance, unburdening himself of long-buried memories….
+
+Winger looked behind…Starnes was still there, clinging to a rock outcrop, HERF carbine trained.  He fidgeted, motioning for Winger to come on, his hands extended out to help.
+The truth was that Winger felt his whole life had been leading to this very moment.  That made sense, didn’t it?  That could happen, couldn’t it?   For over fifty years, he had battled with and against ANAD bots.  Now the thing wanted him to become one, or at least a swarm of bots.  Maybe Doc Frost was right…maybe this was the future.  Maybe this was his future.  Rene was gone.  Dana was an angel.  Liam was heading that way.  What did he have to go back to?
+“Lieutenant,” he called up to Starnes, “get out of here.  I’ve got to face this thing.”
+Starnes looked incredulous, evident even behind his hypersuit helmet.  “Sir, don’t be crazy.  We can blast this thing.  We can MOBnet the cave.  Give me your hand—“
+But Winger knew the decision was here and the time was now.  “No, Starnes, get your ass out of here.  Tell Metcalf and Yamato, this is personal.  It’s something I have to do.”
+“Sir, no one expects you to be a hero.  You can’t fight off that cloud of bugs by yourself…let us help.  Live to fight another day…”
+Winger had made up his mind, sort of.  “Starnes, get lost!  That’s an order!”  He looked back at the Lieutenant.  For a brief moment, they glared at each other: Starnes…ready to get on with the mission, young, full of tactics and courage and Winger…worn down, wise but resigned to fate, facing the hardest decision of his life.
+Starnes backpedaled and hauled himself out of the cave branch, his hypersuit glowing red and blue-white from the Keeper’s glow.  “Have it your way, sir.  We’ll send the cavalry in soon as I get topside.”  Then he groped for footing in the loose soil and ice and was gone.
+Now Winger turned to face the Keeper.  Soon, only the blinding brilliant orb hung in the air in front of him.
+Time to have a chat with Doc.  The Doc III swarm was still embedded in his shoulder capsule.  Winger decided to open a comm channel and leave the little bugger protected as much as he could inside the capsule.  He cocked his head just so, and the connection was made.
+“Doc, for once in my life, I don’t know what to do.”
+***Johnny, the entity is generating decoherence waves at a high rate…a quantum displacement event may be imminent…recommending you evacuate the cave and achieve minimum safe distance of one thousand meters***
+“Doc, I can’t do that.  The thing wants to assimilate me, deconstruct me.  You saw the imagery same as me.  Maybe that’s the best way to fight this bastard.  Go small and go inside, fight from inside.  What do you think?”
+***Johnny, we have had two thousand four hundred and one exchanges on the subject of single versus multiple configuration entities.  Multi-config has many advantages…would you like me to enumerate them?***
+“No, that’s okay.  I just don’t know if I want to do this.  For half a century, I’ve been fighting Bugs.  Now, maybe it’s time to become one.  I guess I need some encouragement, some rationale that says this is the right thing to do.”
+Winger felt a brief sting around his left shoulder.  What the hell is he doing in there?  Maybe Doc III was mad or something. 
+***Perhaps your concerns relate to a fear that your essence, your unique identifying molecular patterns, will be lost…that you will cease to be you, but rather will be a small part of something much greater.  I can cite many articles, papers and theses dealing with the psychology and neural substrates of these fears, if you would like***
+“Doc, you just said something…my unique patterns…is it possible to be deconstructed and still somehow retain those patterns?  Could I be a cloud of Bugs and still be me?”
+Now it was Doc III’s turn to ponder.  The comm channel was silent and Winger wondered if the connection had been lost.  Maybe the Keeper had detected the link.  
+“Doc--?”
+***Your question is in processing at this time…please wait for the analysis…the question was studied as part of a research project by Doctor Irwin Frost from 12 June to 3 August, 2042, at the Autonomous Systems Laboratory.  Evaluating archival references, referencing paper 42-105-1 “Incidence of Long-lived Engrammatic Trace Patterns in Neural Tissue.”  From the Conclusions paragraph…’…unique molecular configurations can be maintained if—‘***
+“Doc, give it to me in plain English, please.”  He eyed the glowing sphere, which seemed to be again slowly expanding, drifting toward him.  Winger backed himself up the incline a few meters and readied his HERF carbine, more out of instinct than anything else.  
+***Summarizing the conclusions of this and related papers, the answer to your question is a qualified yes…Dr. Ryne Falkland demonstrated that a unique neural pattern impressed on a physical substrate of tissue can be maintained by imposing a buffering field…I will show you the vid of his presentation to UNIFORCE on 10 August 2040…a grainy vid started up… ‘it’s something I call a ‘memory field,’ Falkland was saying.  Kind of a new config pattern emitter and buffer.  Plus, we’ve tweaked the algorithms.  The whole idea is to perform a normal disassembly, then the resulting atomic debris is held in a special containment field that keeps the relevant atoms in close proximity. The field maintains a ’memory’ of the original configuration.  This memory field is a completely new design, in which all the original atoms and molecules and their bond energies and geometries are stored and used to re-construct the original.’”
+Winger watched the vid unfold on his eyepiece.  By the time it was over, he had made up his mind.  “So it is possible.  Doc, I want to be deconstructed.  I want you to do it.  And I want you to try this technique Falkland talks about.”
+***Johnny, there are inherent risks in applying this memory field.   I must check my files and determine that I have the correct modules to execute this procedure.  If I have these files, the risk factor is still quite high…estimating probability of success at about forty-five percent.  I may not be able to re-construct you with a high level of fidelity***
+“I hear what you’re saying, Doc.”  The Keeper sphere was now only a few meters away, its roiling surface flicking tongues of fire at him, but all of it in silence, save for a growing buzz in his ears.  “I have to do this.  I’m going to launch you from the capsule.  Execute disassembly operation…execute memory field procedure.  Make me a cloud of bots, Doc—and hurry up, will you?  I don’t want this bastard to swallow me first.”
+He cycled his shoulder port and tapped out the launch sequence on his wristpad.  Moments later, the faint, sparkling vapor of the Doc III swarm began issuing into the air.  The embed erupted and rapidly formed a diffuse swarm of bots, which contracted onto Winger’s hypersuit and soon enveloped him in a fine mist.
+***Executing configuration C-2 breakdown now…spinning up all effectors…bond disrupters primed…memory field enabled…here goes…wish me luck…***
+Winger had only thoughts of Dana and Rene and Liam as he let Doc III swarm over his suit.  In seconds, he was fully enveloped and he could already hear the high keening buzz as the bots chewed into the laminate of the outer shell.
+“I hope to hell this doesn’t hurt too much,” he said to himself.  “Dana, I promised you I’d come home from this…even if I do look a little different.”
+The entire process took about five minutes.  Just as the final phase of dematerializing was done, the fiery sphere of the Keeper swelled outward and swept up the incline, consuming every remaining atom that had once been Johnny Winger.
+Now, only the memory field remained.  The Doc III swarm compressed the field and hid it in a small file labeled ‘Configuration Buffer Status Check,’ adding a few extra bytes to a seemingly innocuous file, hoping that the Keeper would never notice the extra bytes.  
+All that had once been Johnny Winger was now contained in this file.
+And Doc III knew that somehow, some way, this file would have to be maintained, if there was to be any chance of defeating the Keeper.  
+Strong configuration fields tore and buffeted Doc III as it began to be fully absorbed into the greater swarm of the Keeper.  Bonds and links were broken down, atoms were rearranged and new geometries were formed as new patterns and configs were quickly imposed.  
+But Doc III knew a few tricks of his own.
+The Europa Forge mission had failed.  Mission logs would show that Captain Hideki Yamato and his away team had perished in an ultimately hopeless assault on the Keeper swarm trolling around on the icy surface of Europa.  The vast formation of bots continued to churn its way across the icescapes, as it spalled off pieces of itself and sent them into space, toward Earth.  
+Frontier Corps ordered the Johannes Kepler, now under the command of her executive officer Commander Winston Smithers, to depart Jupiter orbit and return home, on a speed run that would take the ship past Venus on her way back to Gateway Station.  The trip would take six months.  K-Dog would be needed in operations now being planned in and around Earth-Moon space.
+And inside the Keeper swarm, a faint but unmistakable pattern persisted against all efforts to absorb it into the greater swarm…. 
+
+Emily blinked inside her helmet when Winger finished the story.  She really felt something for the Colonel…yeah, he was an angel but somewhere in there was a real human being, someone who had suffered, faced up to Life and made a difficult decision.
+She could feel the pain herself, for she had once done the very same thing.  
+Now Winger stood up.  “That looks like as good a place as any, down there between those two boulders.  I think it’s wide enough to hold Aeneas.  Let’s get back to the others.”
+He turned but suddenly noticed that Emily hadn’t followed, so he stopped inside the entrance.   “Something wrong?  We’d better get back.  This heat is already starting to affect me again.”
+Emily peered up at the swollen sky.  “I was just hoping for another chance to see my thermosaurs.  To convince myself they’re real.”
+Winger came back and the two of them stared out for a moment.  Just then, something beeped and Winger smiled apologetically.
+“Sorry…my comm system…”  He cocked his head a bit, listening to something only he could hear.  “It’s Faury.  Aeneas is ready for takeoff.  He says the Russians are staying.  So is Yegorova.  Wasn’t she part of your crew?”
+Emily nodded.  “Roscosmos assigned her to Fort Bliss.  She knew perfectly well what was going on at Ishtar.  She’s staying?”
+“Apparently.  Faury says your giant birds are back too, circling the base now.  Two of them are pecking and pulling at one of the domes.  If the pressure hull goes—” Winger spoke quietly into his comm unit, telling Faury and Aeneas where they were.  “I’ll start putting out a broadband signal and some kind of light beacon.  Set down there; we’re all in a cave on the side of the hill.”
+He turned back to Emily, a quizzical look on his face.  “We should get the others up here.”
+She saw his look and smiled in spite of the situation.  “You think I’m crazy, don’t you?”
+“No…no, not at all.  We just need to focus on getting out of here.”  He had more words but they weren’t ready to come out.
+Emily tapped on the side of her helmet.  “I can see it in your face, Colonel.  You’re wondering what’s a nice place like this doing in a girl like me.”
+Winger had to laugh at that.  “Nothing of the sort.  But since you said it—”
+Emily held on to a rock outcrop as another gust slammed them.  She noticed the winds tended to momentarily scatter a few of Winger’s bots, smearing out his hands before he pulled them back in.  Angels…Jesus…Then she started talking and everything just came out….
+Always interested in doing anything to best her brother Win, when Win showed early interest in the sea, marine biology and oceanography, Emily had ‘developed’ an interest in the air, especially bird-watching.  By the time she had graduated from Surrey High, she was an active member of the Vancouver Birding Society and had already started on her life list.  Her greatest joy early on came when, in November 2043, on a hill on South Vancouver Island, on a birding expedition with other Society members, she spotted and documented a Stellers’ jay, one of the few ever seen along the coast and the official bird of BC.  Her photos and log entries were still prize possessions.
+In the fall of 2046, just before this event, Emily had enrolled at the University of British Columbia.  She decided to major in Climatology and Meteorology.  Here she met Robbie Swansson, another Climatology major.  “My first and only real love,” she said to Winger.  She fell deeply in love and they were close for several years.  Emily and Robbie took trips together around the Pacific Coast and the Canadian Rockies, birdwatching and enjoying nature, in which they both had an interest.  They became avid hikers too.  They made plans for a life after college.  
+Emily loved Robbie for his quick wit and boisterous laugh and for his love of adventure and trying new things.  However, this same adventurous spirit soon led Robbie and (for awhile Emily) into drugs and strange Indian rituals.  Robbie became smitten with the lore and traditions of the Crow Indians.  He fancied himself descended from Crow and began to act in ways he thought the Crow would act.  
+In time, Emily had to extricate herself from the relationship and she later learned that Robbie (who began calling himself “Swallow Bird”) had died of an overdose of peyote or some other ritual drug.  The entire affair lasted about five years.  It would be a long time before Emily involved herself in another close romantic relationship. 
+Emily graduated UBC in spring of 2050 and went to work with a local Vancouver TV station (CBUT), working as a technician in the weather office.  She later did occasional weekend stints as an on-air weather reporter.  She worked at CBUT-TV for four years.
+To get her mind off the Robbie Swansson affair, Emily turned her attention to what her brother Win had recently done: join Frontier Corps as part of their Distant Worlds Expeditionary Service.  Win had joined in 2043 and was soon assigned to a crew headed to Venus orbit, on an exploratory mission (Venus Odyssey), a precursor mission to the Corps’ planned manned balloon mission into the atmosphere of Venus…the HAVOC mission.
+This intrigued Emily enough that she also applied in 2054.  Initially turned down, she re-applied and was accepted when several previously accepted candidates were eliminated on background checks.  She left her position at CBUT, having just completed her master’s thesis defense at UBC and was in the process of applying to the UBC doctoral program in Climatology when she was accepted into Frontier Corps.  
+Just six months after Win had moved to Houston, Texas, Emily did likewise.  This was February 2055. Win was less than thrilled about his sister tagging along but he knew this was ‘typical Emily’ and there was little he could do about it.
+When Win returned from a successful Venus Odyssey mission in early ‘55, he was immediately assigned to the HAVOC mission.  Three other crew members were also to be selected.  Win was floored when one of them turned out to be his sister Emily.
+Emily applied and was accepted to the primary crew of HAVOC mainly on the basis of her recent graduate work at UBC on planetary atmospheres, notably Venus and Jupiter.  By the time of her acceptance in June 2055, she had co-authored several papers proposing novel ideas about atmosphere circulation, storm formation and even the possibility of extremophile lifeforms in these atmospheres; the title of the most famous paper was “Carbonyl Sulfide Reservoirs on Venus and the Possibility of Micro-Organic Origins.”
+Frontier Corps was so intrigued by this paper and its underlying research and arguments that they reviewed Emily’s application with keen interest and decided she had to be aboard HAVOC 1.  She was accepted on 1 July 2055 and went into mission training almost immediately.  The fact that her brother was also assigned to the mission was a source of great controversy at first but the Corps stuck by its decision and the furor subsided, to be replaced by intense media interest in this brother-sister connection.  Frontier Corps was also not above ‘marketing’ HAVOC along these lines, as a unique special interest story.  Emily and Win became celebrities, even before the mission got underway. 
+“I guess Venus was always in my blood,” she admitted.  
+Winger turned away, uttered something to his comm and turned back.  “Aeneas has just lifted off.  Faury says they were struck by one of your birds but there was no damage.  They should be over here in about ten minutes.”
+Emily was about to ask Winger his background, when a dark shadow passed directly overhead.  Before she could say a word, they both saw a pair of wings dart below the cloud deck, then disappear again.
+“Look!  It’s one of them--!”
+Winger watched in awe as several thermosaurs dropped out of the clouds, their heavy wings beating the air, their screeches and cries echoing around the hills and the valley below.  It was a chase, one bird snapping and lunging at another, a whirling flashing race across the swollen bottom of the clouds.
+“More than one…three or four!”
+The thermosaurs were now fully in view, magnificent beasts fully thirty or more meters in length.  Their broad v-shaped wings, almost thin enough to be called translucent, beat at the air, thrusting them forward with each stroke.  Massive beaks filled with rows of sharp teeth ripped and tore at each other.  Their heads were surmounted by a horned crest and a sort of spiked tail protruded above claw-like feet.
+Emily stared in awe.  “Look at their wings!  Perfectly evolved for this atmosphere…reminds me of Stellers’ jays in Canada.  And beaks like pelicans…look at them!”
+The contest went on for a minute, as the ‘saurs chased each other in and out of the clouds, round the hilltop again and again, diving, swooping, clawing at each other.  Winger began to worry.  He knew Aeneas was due to pop out of the clouds any moment.
+“Those birds need to clear the area…Aeneas can’t land with them circling like that.”
+Just then, two ‘saurs collided and immediately descended into a roiling knot of wings and beaks and teeth, a furball in the air, as they fought and slashed at each other.  Screeches echoed up and down the valley, punctuated by pealing thunder from lightning behind them.  Another storm front was rolling down the slopes of the Maxwell Montes volcano, right into the valley.  
+The furious battle boiled to a crescendo and came to a violent halt, as one of the ‘saurs slammed into the head of its prey.  Wounded, the lead beast cartwheeled out of the sky, batting and flailing at the air, one wing bent impossibly back.  It cried and shrieked and slammed into the hard rubble ground, writhed in agony for a few moments and lay still.
+The remaining thermosaurs circled for a moment, sniffing and diving and probing the motionless carcass of their mortally injured comrade, then lifted away, screeching in victory and swooping in and out of the cloud deck.  All around them, the storm howled like a thing alive, punctuated every so often by the raucous screech of thermosaurs overhead, riding the wild thermals, banking and diving, their heavy wings beating the air as they swarmed around the still remains of their fallen mate.
+“It’s down…it’s injured!” Emily cried.
+But Winger could only think of Aeneas, now only minutes away from attempting a landing in the swirling sulfurous winds.  
+“The damn thing landed right where I told the shuttle to land,” he said.  “Of all the—”
+They both glanced up at a bright strobing light, an indistinct glare backlighting the lower clouds.  Seconds later, a tongue of flame lanced out of the clouds, the engine thrust of the shuttle cutting like a sword through the thick air.  Buffeted by strong crosswinds, nearly struck by lightning and soon encircled by more ‘saurs, Aeneas materialized out of the clouds and began a precarious descent into the valley, heading right for the carcass that lay sprawled across the broken basaltic plates of the ground.
+Winger got on his comm and tried to wave them off.  “Don’t land…pull up and circle around--!  The landing site’s obstructed--!”
+Months later, when Emily Blakely was asked to explain why she acted the way she did, the climatologist from Vancouver could only say, “Somehow, I knew.  Maybe it’s the birdwatcher in me.  I live birds.  I know how they think.  And I was so enthralled with the scene, I just…reacted.”
+While Winger was still trying to wave Aeneas off, he barely noticed Emily had started slipping and sliding and groping her way down to the bottom of the hill, half-sliding on her butt most of the time.  When he realized where she was going, when he realized that one tear or puncture in her suit would be fatal, he called out.
+“Emily!  Emily…what are…don’t be stupid…Emily--!”
+Somehow, she made it to the bottom of the hill and waddled out to the center of the small rise where the dead thermosaur lay still.  She was dimly aware of things swirling over her head: more ‘saurs screeching and diving, the clouds scudding by, the roar of Aeneas’ engines as she lit off her rockets to leave the area and circle around…all these things she heard in the back of her mind, but they seemed distant, as if part of a dream.  The only reality was this: a dead or dying life, a magnificent creature, perfectly designed for its hellish environment, wounded and suffering, and she felt its gossamer wings, the tufts of fur on its breast, the broken beak and realized how incredibly light the bones were, almost hollow.  The ‘saur was a beast meant for the air, even for the crushing, sulfurous air of this world and she could see in its sleek lines and perfectly adapted body, the very sketches she had doodled in the margins of her notes while she did paper after paper on extremophile lifeforms in the atmosphere of Venus.  
+She exulted in this moment of vindication until some sixth sense warned her that there was something she still had to do.
+Emily stood up abruptly and surveyed the scene around her.  Aeneas had disappeared back into the clouds but she could still hear the roar of her engines, even over the moaning of the wind and the crack of distant thunder moving ever closer.  She felt more than saw the scores of wings beating heavily in the thick air above her head, their veined and ribbed skin refracted crazily in the broken-mirror light of this world.
+This guy seems pretty light, she told herself.  Maybe I can—
+With a heavy grunt, she hoisted up the ‘saur’s back legs, got a firm grip on both of them and started pulling and dragging.  They were light, amazingly so, and as she pulled and yanked, the carcass of the fallen thermosaur started sliding and bumping over the rubble.
+She almost lost her balance twice, realizing the extreme danger she was putting herself in, but she knew what had to be done and that she was the only one who could do it.  Emily pulled and dragged and tugged and yanked and wrenched and jerked, and meter by meter, plowing through and across the rubble, she managed to slide the carcass away from the rise and off toward the base of another hill opposite the cave.
+Johnny Winger watched in amazement, not really believing what he was seeing.  When it became apparent that the ‘saurs circling overhead were following Emily to the other side of the valley, he realized the moment had come for Faury to set Aeneas down, quickly, NOW! for the landing site was clear and they might not get another chance.  He turned to race back into the cave and get Cuddy and Barnes, but he ran head on into Barnes coming up to the entrance herself.  Cuddy was limping along, hanging on to her shoulder.
+“We listened in on Comm A,” Cuddy explained.  “We knew Aeneas was on the way.”
+“So we got up here as fast as we could,” Barnes added.
+Winger was about to explain what was happening but he heard Angel Barnes suck in her breath on the comm circuit as she saw what Emily Blakely was doing.
+“Is that girl crazy?”
+“Holy crap!”
+Winger had already raised Aeneas again.  “Set her down now, Faury.  The landing site’s clear…for the moment.  We’re coming out—”
+Faury’s reply was staticky and intermittent.  “—opy that.  Coming -own…”
+Aeneas burst out of the clouds again, drawing stares and screeches from the flock of ‘saurs but the creatures stayed with Emily, circling and diving.  Some alighted on their legs, strutted around and waddled on impossibly small stick-like feet near their fallen comrade.  They sniffed and waved their horned and crested heads about from side to side, perhaps not fully understanding what the petite human in the hard-shell pressure suit was about.
+Winger muttered loud enough for all to hear.  “Come on, Emily…come on…get the hell out of there!”
+Aeneas settled down to a rattling landing in a puff of orange dirt, just as Winger, Barnes and a gimpy Cuddy slid and scrambled downslope to the valley. They loped and limped and drifted toward the shuttle and Winger was never more glad to see an airlock hatch slide open than now.
+Just a few more meters…a few more…jeez, my config’s already coming apart….
+Angels just weren’t meant to dance on the surface of Venus.
+Barnes got Cuddy aboard, then pulled herself up and in.  Behind her, Winger paused at the base of the stairs, motioning and yelling for Emily to quit the birds and get onboard.
+A hundred meters away, Emily hesitated for a long moment, taking in everything, reveling in the flock that had surrounded her, a flock of ancient creatures, somehow drawn to her by a primal sense that couldn’t be explained.
+A birder’s dream, Emily muttered to herself.  She stood up, paying no attention to her suit display now flashing an urgent pressure drop warning, stroked the carcass and its fine tufts of fur one more time, then waved at Winger and loped off to join him at the shuttle.   The flock that had gathered around her parted for her as he came near, and she strolled through them with arms outstretched, like a queen acknowledging her subjects. 
+At the ladder, Winger tried to help her up, but his own config was too loose and his hands and arms just slid through and around her legs as if made of air.  She disappeared into the airlock and Winger rode a faint breeze up and in after her.  The hatch was shut and they cycled through to the lockout deck.
+Faury was there, Tahat looking over his shoulder, with Vinh nearby.  “Get to your seats and buckle up.  We’ve got to get out of here.  Those damn birds may start circling overhead again and the storm’s almost on us.”
+Tahat added, “It’s going to be a rough ride out of here, so tighten your straps.”
+The ground crew de-suited and did as they were ordered.  
+Upon on the command deck, Faury gave them the count.  “On my mark…get ready for a major kick in the ass.  We just barely got enough fuel.   Three…two…one…mark!”
+Aeneas shuddered like a dog wagging its tail and lifted ponderously into the heavy air, huge plumes of dirty brown steam billowing up into the orange sky, rocking in cross-winds as Faury throttled up the engines to max rated thrust.  Fist pumps and shouts of victory filled the cabin as she powered her way into low-hanging clouds and then something heavy struck the ship as she started to pitch over.
+Black wings swept by the porthole, as Faury and Tahat peered outside.  “Bird strike…we got hit…I’m dropping autolift and going manual.”  With practiced hands and moves, he and Tahat smoothly assumed command of the ship, damped out the pogo oscillations and straightened out her ascent.  Moments later, they were riding smoothly upward on a pillar of fire.  
+Winger sank back in his own seat, and closed his eyes.  He caught a quick glimpse of Sherm Cuddy slowly relaxing his grip on the side of his seat.  Rueful smiles passed between them. 
+They had made it off the ground.
+
+The ascent continued for many minutes, as Aeneas strained against Venus’ gravity and atmosphere.  Velocity would have to reach 25,000 kilometers an hour to make orbit, nearly the same as Earth.  For a few minutes, light levels grew and a yellow glow suffused the cabin, streaming in through the portholes, but the glow subsided as Aeneas rose above the last cloud deck and the sky turned first purple, then black.
+They were in space, in orbit and the cloud-streaked dirty tennis ball of a world turned slowly beneath them.
+Faury set up the ship for her first phasing orbit; approach to Fort Bliss would come several hours later. 
+Rendezvous was touchy.  Docking was a nail-biter.  Aeneas’ tanks were dry the last few minutes. Only proper approach alignment and momentum enabled the ship to have any shred of hope in making contact with the docking adapter.
+But Gilbert Faury, a veteran of nearly two decades with Frontier Corps and UNISPACE, somehow made it happen.
+Inside the station, there were hugs and backslaps all around and by unspoken agreement, everyone retired to the crews’ mess for something to drink and eat.
+Emily Blakely joined Johnny Winger by the cupola just outside the mess compartment.  They both noticed a strange spiderweb geometry of dark streaks speckling the atmosphere just below them.
+“That’s where we took off from,” Winger told her.  “Down there…just coming into view.”
+Emily nursed a bulb of something medicinal, sniffed at the lip and scrunched up her nose.  “Jeez, Doug must have squirted some fuel into this…it was supposed to be vodka.”  She pulled down a small scope and trained it on the streaks.  “I’ve never seen anything like this…there’s almost a granular appearance, like individual cells.”
+“Look closer, at the edge.  Run the magnification up full.”
+She did so and gasped.  “I…that can’t be. It’s…they look like—”
+Winger completed the sentence.  “Flocks of birds.  I think they are.  Maybe real or not, I don’t know.  The Keeper detected them and it’s replicating what it detected.  I’ve been watching for awhile now and the streaks are growing.”
+Emily looked at him with concern.  “Then they’re not real?”
+“Who can say?  The thermosaurs are real enough.  I’m not sure about what we’re seeing.”
+Emily smiled.  “Thermosaurs are real…you say it like it just occurred to you I might be right for once.  Maybe you’re not real, Colonel.  Some people say that about angels, you know.”
+Winger took a look through the scope for himself.  Dark shadows had dimmed long stretches of the cloudscape below.  “I’m as real as your ‘saurs, Emily Blakely.  What do you think about that?”
+“Fair enough.  So, where do you go from here?”
+Winger didn’t hesitate.  “Quantum Corps has ordered me to take the next shuttle, the cycler, when it arrives in a few weeks.  I’m due back at the Mesa for re-quals.  Maybe a little R and R first, though.”  He had no idea that the next mission would take him deep into the deserts of Arabia and new threats even now rising from The Empty Quarter.  “And you?”
+Emily sucked on her foul-tasting bulb and finally gave up.  “Me.  My tour lasts another three months.  I was thinking of heading back Earthside myself.  Maybe we’ll run across each other.  Where is this Mesa you spoke of?”
+Winger told her about Mesa de Oro.  “Quantum Corps Western Command base.  It’s in the Yucatan…Mexico.”
+“Oooh, land of senioritas…and margaritas.”  She shivered and laughed.  “You probably have a girl in every port, huh?”
+Winger snorted.  “If you only know.  I’m married to the Corps, like all of us.  But if you’re in the area….”
+For a long second, they looked at each other, saying nothing.  Then Winger bent back to the scope and said, “Hey, look…another streak down there.  I think they’re growing.”
+Emily looked out the polycarbonate panes of the cupola but she didn’t see any streaks.  She saw only reflections instead, reflections of her own face and the face of Colonel Johnny Winger. 
+Angels and thermosaurs.  You never knew for sure what was real nowadays.  
+
+END
+
+About the Author
+
+Philip Bosshardt is a native of Atlanta, Georgia.  He recently retired but worked for nearly 25 years for a large company that makes products everyone uses…just check out the drinks aisle at your grocery store. He’s been happily married for over 28 years.   He’s also a Georgia Tech graduate in Industrial Engineering.  He loves water sports in any form and swims 3 miles a week in anything resembling water.  He and his wife have no children.  They do, however, have one terribly spoiled Pekingese dog named Chance. 
+     For technical and background details on his series Time Jumpers, Tales of the Quantum Corps and Quantum Troopers, visit his blog Quantum Corps Times at http://qcorpstimes.blogspot.com.  For details on other books in this series, visit his website at http://philbosshardt.wix.com/philip-bosshardt or learn about other books by Philip Bosshardt by visiting www.smashwords.com. 
+     To get a peek at Philip Bosshardt’s notes and the backstory on how his many series were created, recent reviews, excerpts from upcoming books and general updates on the writing life, visit his blog The Word Shed at: http://thewdshed.blogspot.com.
+      Download the next exciting episode of Quantum Troopers Return from Smashwords.com and other fine ebook retailers.  It’s called ‘The Empty Quarter.’  Available on July 10, 2020.
+
+
+
+
+
+
+ 
+

@@ -1,0 +1,855 @@
+﻿Time Jumpers
+Episode 1: Marooned in Voidtime
+Published by Philip Bosshardt at Smashwords
+Copyright 2019 Philip Bosshardt
+Smashwords Edition, License Notes
+
+This ebook is licensed for your personal enjoyment only.  This ebook may not be re-sold or given away to other people. If you would like to share this book with another person, please purchase an additional copy for each recipient.  If you’re reading this book and did not purchase it, or it was purchased for your use only, then please return to Smashwords.com and purchase your own copy.  Thank you for respecting the hard work of this author.
+A few words about this series….
+
+1.Time Jumpers is a series of 20,000-30,000-word episodes detailing the adventures of Ultrarch-Jump Captain Monthan Dringoth and his crew and their experiences as time jumpers with the Time Guard.
+2.Each episode will be about 40-60 pages, approximately 25,000 words in length.
+3.A new episode will be available and uploaded every 4 weeks.
+4.There will be 12 episodes.  The story will be completely serialized in about 12 months.
+5.Each episode is a stand-alone story but will advance the greater theme and plot of the story arc.  
+6.The main plotline: Time Guard must defeat the enemy Coethi and stop their efforts to disrupt or eliminate Uman settlements in the Galactic Inner Spiral and Lower Halo sectors of Uman space.  
+7.Uploads will be made to www.smashwords.com on approximately the schedule below:
+
+Episode #	Title						Approximate Upload Date
+1.            ‘Marooned in Voidtime’ 			February 1, 2019	
+2.            ‘Keaton’s World’				March 1, 2019
+3.            ‘A Small Navigation Error’ 			April 15, 2019
+4.            ‘Cygnus Rift’ 					May 3, 2019
+5.            ‘The Time Guard’				May 31, 2019
+6.            ‘First Light Corridor				June 28, 2019
+7.            ‘Hapsh’m and the First Coethi Encounter’	August 2, 2019
+8.            ‘Operation Galactic Hammer’		August 30, 2019
+9.            ‘Byrd’s Draconis’				September 27, 2019		
+10.            ‘First Jump Squadron’			November 1, 2019
+11.            ‘Planck Time’					November 29, 2019
+12.            ‘The Time Twister’				January 3, 2020
+Chapter 1: “Storm Warnings”
+
+“Time is an illusion.”
+			Albert Einstein
+
+Storm
+Kinlok Island
+Time Stream T-001 (2814 CE)
+T-date: 001-01-22
+
+It was foggy, misty, and wet when Cygnus finally touched down on the world that all the time jumpers called Storm.   The ship settled to a rattling landing on the edge of a rocky precipice, overlooking the ocean.  Ice and sleet flecked the portholes.  Wind gusts rocked the ship.  Back on E deck, Alicia Yang looked over at Acth:On’e and just shook her head.
+“Just another beautiful day in the neighborhood, Toonie.”
+The TM1 said nothing back, just focused on his console.
+Jump Captain Monthan Dringoth’s voice crackled over the 1MC.  “Secure all vanes and planes.  Rudder amidships and locked.  Make sure the core’s safe.”
+His second in command, Jump Commander Nathan Golich studied his board.  “Singularity core at ten percent, just ticking over.  Planes and vanes secure.”
+After all the vibrations had subsided, Dringoth checked with the TS1, Evelyn M’Bela.
+“How close to our target coordinates, Evelyn?”
+M’Bela, sitting behind the two command consoles, studied her board and its plots and displays.  “Best I can make out, we’re within a few decades of the temporal focus, based on your maneuvers and our physical landing point is here—” she pointed to a map.  “Southeastern edge of this little rockpile of an island, about six hundred forty kilometers from the polar ice pack. Cygnus will auto-confirm once she takes sky sightings.”  M’Bela peered out the porthole at the ice fog enveloping the ship.  “If she can even take sightings in this crap.”
+Dringoth pronounced himself satisfied.  “Okay, then, that’s it.” He got on the comm.  “First Time Displacement Battery, get your asses in gear.  We’ve got work to do.”
+Cygnus had come to Storm with a critical mission, so said Time Guard and Battalion Ops.  The planet was nothing but ocean, save for a scattering of islands.  Scouted and mapped a decade ago by the Survey Service, Storm had been left alone until the enemy Coethi had begun to make a major move into this sector.  Storm may have been a dreary backwater of a place, but she was strategically located right in the face of the Coethi advance.  Newton’s Jaw itself was behind Storm and her star-sun Sigma-Albeth B, only a few light months away.  The great lens of gravimetric instability was likely the Coethi’s first target if their advance continued along this vector.  That and the small system around 40 Omicron 2—Gavrilon and Nanjiang, principally—non-Alliance worlds but Uman nonetheless.  The intel people at T2 had theorized that the Jaw would make a tempting target to the Coethi advance, owing to the fact that if a jumpship entered the zone, she could take shortcuts to whole bag of time streams, without having to risk popping into and out of voidtime.
+Storm was right in the middle of a vast arc of space centered on Newton’s Jaw.  The dreary backwater was now a place of high, maybe even critical, strategic significance.  And it was 1st TD’s job to install and operate the Time Twister on this rockpile.
+Dringoth gathered the entire crew in the wardroom on B deck.
+“We’ll do the job the way we trained.  Acth, you and Golich will break out the skimmer and get going on the foundation and the main structure.  Yang and M’Bela, unship all the chronotron pods and bag ‘em up.  Once the structure’s solid, you’ll be installing those.  URME, you and me will stay with the ship for the time being.  I want an all-sector scan up and operating at all times.  Get with Alicia on that.  The Bugs are nearby, I can feel it.  They may be somewhere out there in voidtime, just waiting to pounce.”
+URME 101—the Unit Reserve Memory Entity—nodded and said, “Yes, sir.   Copy that.”  The head of the para-human swarm entity nodded, just slightly out of phase.  Everybody saw it—after days and days underway, they were used to it by now—and when Dringoth frowned at the roughness of the configuration—Yang straight away jumped in and said, “I’ve already got a patch for that config, Skipper.  I can download it tonight…better tracking, for sure.”
+“Do that,” Dringoth growled.  “Every time URME shakes his head, I get dizzy.”
+The crew moved out, donned their hypersuits and, one by one, cycled through Cygnus’ lockout on F deck.
+The first order of business was to set up some kind of defensible perimeter around the ship, out to a distance of several hundred meters.  This was done by Alicia Yang, the Defense and Protective Systems tech.
+Yang plopped down through thin ice into the shallow lake they had landed in and was immediately brushed by a large lizard-like creature undulating its way across the surface.  “Cyclops doesn’t even have a name for it.”  She adjusted her headgear slightly to get more annotation in her eyepiece.  “Some kind of sauropsid reptile…probably can move at high speed land or water.”
+The rest of the team followed Yang across the shallow lake, sloshing their way up a low bank to drier ground.  The DPS1 extracted a small capsule from her web belt and thumbed its control stud on top.  Instantly, a fine mist issued from the capsule, flickering slightly over their heads.  Yang waved it about her head in a circle.
+“Launching ANAD sensorbots now,” she announced.  
+The mist dispersed and vanished from view.  But now, 1st TD had eyes and ears to probe their surroundings and warn them of approaching danger.
+The Survey Service had named this little rockpile Kinlok Island.  It was nothing but a big claw and tooth-shaped spit of rock and hills, barren except for a few forlorn and very prickly trees, and small swipe of beach along the southwest coast.  Rough surf, driven by gale-force winds, smashed and hissed against the promontory below the ship.  Spray and ice chips were everywhere, stinging faces not yet covered by hypersuit helmets.
+“At least it’s breathable,” muttered Golich, twisting a handle to release the skimmer.  The sled dropped down on its cradle, slid off onto the ground and began automatically unfolding into operating position.  “Grab those bags and we’ll load up.”
+“Smells like Telitorian eggs…that somebody left out too long.”  Acth:On’e opened a small compartment alongside one of Cygnus’ landing gear and scooped up an armful of small containers.  Each one contained a small replicant swarm, complete with master bot, configged when opened to begin assembling the seabed footings, foundations, support cables and upper dome of the Twister.  Two kilometers in diameter when fully replicated and outfitted, the Twister would resemble an inverted dish, with its surface studded by small polyps, the chronotron pods.  Controls and processor gear stood at the apex of the dish, in a small housing that looked like puckered lips.  
+Golich sniffed, checking the skimmer for seaworthiness.  “Oh, well, ours not to reason why—”
+They slid the skimmer down a nearby slope, loaded her up and set off through heavy chop and spray for a position marked on their eyepieces, several kilometers out to sea.  The Survey Service had identified the coordinates as just above a small trench in the seabed, some three hundred meters below.  It would make for a good solid ground for the Twister’s foundations.
+Acth:On’e was content to let Golich do the steering, while he counted down the distance to the drop site.  “How long do we have to stay here?” he wondered out loud.  “Smells like a sewer I once fell into on Telitor when I was a boy.  It was outside Kasala, just before my V3.  I had that memory wiped in the upload.”
+Golich shrugged, squinting through the sleet.  “Wish I could do that.  Wipe bad crap from my head.  As to how long we’re here, that’s up to the Captain.  Battalion says get the Twister up and operating and then sit tight.  T2 thinks the Bugs will make a move pretty soon.”
+Acth:On’e called bingo when his eyepiece said they had reached the coordinates.  “Right here.  Mark and anchor.  Isn’t this gadget the Mark I version?  Untested and all?  How do we even know it’ll work like they say?”
+“Hey, Toonie…when you’re in the Guard, jolts like you and me don’t get to actually know anything.  We just do things, like whatever the brass says.  Get buttoned up.  We’ve still got to go down there and find the right spot.”
+The two of them sealed their hypersuits, buddy-checked all fittings and seals and dropped overboard into the freezing water.
+Once completed, the Time Twister itself would be moored to the seabed with stout anchors and surmounted with hemispherical caps, which were the chronotron pods.  Fully operational, the entire apparatus would be linked by thick ganglia of cables to the island itself, for power and command and control.  A hut, still to be erected, where most of the controls were located also would house tracking instruments.  
+Many skimmer trips would be needed to tow sections of the Twister’s outer casing, the vast dish-shaped structure that rode along the surface like a breaching whale, partially exposed to the icy air and partially submerged.  It was upon this huge dish that the chronotron pods would be mounted.  And before that could happen, the dish would have to be made fast to her foundation, itself to be buried in the muck and ooze at the bottom of the trench.  
+Much work remained to be done.
+After some discussion and perusing of survey results, the crew had decided to use a shallow valley just beyond the surf line of the island as a staging place for pods, foundation and main structure elements, and all the mooring, tensioning and cabling that held the entire assembly together.
+On their descent, just to satisfy his curiosity and keep Acth:On’e from pestering him with doubts, Nathan Golich pressed a button on his wristpad.  Moments later, a sultry voice from Training began a theoretical explanation of this huge contraption they were assembling….
+“…The Time Twister contains a naked singularity at the core of its field.  Over fifty terr ago, Uman engineers learned how to use existing stars and their extreme gravitational fields to compress matter enough to create such a singularity.  The distorted space-time field around this singularity core of the Twister is known as a twist field.  
+“Uman engineers developed a way of creating, maneuvering and regulating the effects of the twist field.  This is done through a screening field and a series of buffers, known as twist buffers, or just T-buffers.
+“Like a nuclear power plant with its core always on, but regulated by control rods, the Twister is also always on.  The singularity engine at the core, once created and activated, can’t be turned off.  But it can be regulated through a series of T-buffers.  These moderate the twist field…”
+A chime sounded in Golich’s helmet.  The seabed came up fast and Acth:On’e said, “We’re here, Commander.  The index point.”
+Golich took a deep breath.  “Let’s get cracking and get the hell out of here.  I don’t like the looks of some of these creatures around here.”
+
+Back on the island, Evelyn M’Bela and Alicia Yang sorted out the chronotron pods on the beach.  Once the Twister’s foundation was laid, Golich and Acth:On’e would return in the skimmer and the four of them would set to work.  On their eyepieces, both crewpersons studied the intricate diagrams instructing them how to activate and test the pods.  M’Bela shook her head and wiped her helmet faceplate to clear sleet freezing on the front.
+“Just another wonderful day in paradise,” she muttered to herself.  On her eyepiece, she saw the schematic of the entire Twister installation in varying animated stages of completion… the sections of the Twister laid out like pieces of a jigsaw puzzle on the seabed, slings and nets full of chronotron pods, mooring cables, foundation pads, all the parts that somehow, they had to put together.
+Not to mention lifting the singularity engine out of its crate in Cygnus’ tailpod, the thing that powered the Twister.  That was sure to be a lot of fun. 
+Straight away, the two of them set to work.  Neither of them was particularly thrilled about being on this hellhole sewer of a planet.
+Moments later, Yang’s voice interrupted M’Bela’s less than pleasant thoughts.
+“Hey, Queenie…what the hell is that?”
+“What’s what?”
+“That.”
+Beyond the surf line off the tiny beach, a creature had just emerged from the waves, a seemingly bipedal creature, covered in what looked like armored plating, shuffling and trudging through the waves toward them.  Behind it, a second creature, somewhat smaller, also had emerged and had joined the first one.
+“Must be that dinner we had last night,” said M’Bela.  Her hands reached for the beamer on her web belt and she withdrew the weapon and flipped off the safety, automatically.  Yang did the same.
+“What the hell are they?”
+M’Bela shrugged, a useless gesture in a hypersuit.  “Beats me.  But they need to stay back…”
+The creatures reached the end of the water and struggled for footing in the loose sand.  Their outer skin resembled suits of some kind.  But their heads, if they had heads, were invisible behind the upper part of their suits.
+“Stay back!  Stay back…they’re still coming—get back there!”
+M’Bela crept forward, her gun still in firing position.  The nearer creature was moving, it sounded like squeals or clicks or something, thrashing about in the sand and water, flinging up dirt as it writhed.  The farther one was mostly in the water, smaller in size, but still--
+Yang came up beside her.  What in the name of all the craters on the--
+The taller beast—for that was what she had started calling it in her mind—was not a dolphin.  It wasn’t a shark.  It had legs and arms and what looked like armor plating.  It had holes in the armor and water was spouting out of the holes.  The beast squealed some more.  And the smaller one down by the waterline actually seemed to be whimpering.
+Yang heard the words first, muffled but distinguishable and nearly cried out.  God Almighty… the thing’s talking!  Accented, it sounded like a faucet running, but the damn thing was talking!  She started forward but, in that moment, the taller creature withdrew a weapon of its own and opened fire.
+The jolt knocked M’Bela and Yang flat on their backs.  For what seemed like hours—time had congealed to a crawl—Yang couldn’t feel or hear anything.  She couldn’t hear anything.  Nothing would move.  She could breathe, more or less.  But her legs and arms…nothing.
+M’Bela was out cold.
+Then a face appeared, sort of a face.  
+I must be dreaming, figured Yang.  The face was behind a helmet or shield of some type.  She saw a beak.  Like a dolphin’s face, maybe wider.  A mouth moving.  But it was the eyes that caught her attention.  Eyes of curiosity.  Eyes of intelligence.  
+Then she passed out again.
+
+Yang was the first to regain consciousness.  M’Bela stirred groggily nearby, rolled over and groaned.  Both were covered with a thin dusting of snow and sleet.
+“What the hell—?”  M’Bela sat up, then got to her feet.  Wind knocked her sideways and she reached out for a rock outcrop to steady herself.  Her suit fingers knocked something off the rock.  A small cylinder fell to the hard-packed sand and rolled against her boot.
+Yang saw it too.  “What’s that?”
+M’Bela bent down as far as she could, carefully picked up the device, for it was clearly a manufactured object.  She examined it, handed it to Yang, while she collected herself.  
+Yang turned the object end for end.  It was vaguely cylindrical, made of some kind of hard keratin-like composite, like a sea shell.  Fist-sized, it was tapered top and bottom.  Bumps lined one side.  
+“Be careful with that,” M’Bela said.  She was counting with her fingers the array of chronotron pod containers.  “Could be explosive.”
+“The creatures must have left it.  Maybe it’s a recording device.”
+“Or a camera so they can spy on us…hey, we’re missing something here…the count’s not right.”
+Yang looked up, the strange device still in her hands.   “What do you mean ‘the count’s not right’?”
+“I’m counting off all the containers.  Inventory’s off.  I think those creeps must have taken one…maybe more.  I count seventeen…there should be eighteen containers.  Seventy-two pods in all.”
+Yang started kicking sand and searching around the beach and out into the shallow but rough surf.  “Maybe waves pulled it out to sea.  It could have drifted off.”
+M’Bela was just shaking her head.  “Cripes, this is bad, Alicia. The Twister needs seventy- two pods to operate.  We’ve got spares back at the ship but not four.  Captain’s going to chew my head off.”
+Yang was still studying the cylinder.    Now the thing felt faintly warm through her gloves, vibrating slightly.  Alarmed, she dropped the thing and it went clattering onto the rocks.  “We’d better get back and let the Skipper know what’s happened.”
+They clambered up onto the rocky shelf overlooking the beach.  But before they left, Yang had retrieved the cylinder and secured it to her web belt.
+
+Dringoth and URME were on F deck when Yang and M’Bela re-entered Cygnus.  Acth:On’e and Golich were still out with the skimmer, assembling the Twister foundation.  Dringoth had his hands inside the remote manipulator grips, gingerly extracting the singularity core from its containment enclosure one deck below, in the ship’s tailpod.  URME was studying the core carefully with instruments, noting on a log its temperature, decoherence wake output, quantum state levels, everything needed to assure the thing would work when inserted into the Twister.
+M’Bela explained what had happened on the beach: the creatures, their strange suppressor weapon, the missing pod containers.  Yang showed Dringoth the cylinder too.
+Jump Captain Monthan Dringoth just took a deep breath, leaving his hands inside the manipulator, but they could both see the little vein on his forehead quivering.  That usually meant an explosion was coming.  He had sandy gray sideburns to go with a gray-white buzz cut.  Hard blue eyes, a stone face. The TS1 and the DPS1 both cringed at the same time.  He bit off every word.
+“You counted accurately, Queenie?  You’re sure of this?”
+M’Bela had long been known as Queenie among the crew; her ancestors claimed descent from Igbo royalty back on Urth, though M’Bela herself hailed from Douala, a small township on Keaton’s World.  The TS1 shook her head sadly.  “Several times, Captain.  Either it washed out to sea or the creatures took it.  I—”
+Now Dringoth carefully pulled his hands free of the manipulator gloves and waved her quiet.  “Never mind.  Doesn’t matter.  We’ll have to make some adjustments…URME, figure out what, if anything, the Twister can do with only seventy pods.”
+The Unit Reserve Memory Entity hovered nearby, mostly intact, though occasionally his hand ran right through the edge of a control panel.  Yang still hadn’t patched his config properly and this made Dringoth even more sour and impatient.  “Aye, aye, sir…I’ll run the calculations now and have an answer in less than an hour.”
+Dringoth spied the cylinder, still clutched by Yang.  “What is that thing…your lunch bag?”
+Yang put the cylinder on a foldout table by the hypersuit lockers.  “We’re not sure, sir.  It was next to Queenie when we came to.  Could be a small surveillance device.  Maybe a recorder.”
+“Maybe an explosive or a bot container too,” Dringoth said.  “Keep your hands away.  URME…?”
+The Temporal Fire Director (TFD1) drifted over and lowered a hand over the device.  Straight away, a small mist of bots sloughed off his palm and descended over the thing, eventually enveloping the cylinder in something like looked like fog, with flickering lights going off inside.  URME’s way of examining something.  After a few moments, URME looked up and the mist began to clear, bots returning like wafting smoke back to his palm.
+“Unknown structure, sir.  Keratin-like, a matrix of fibrous protein-like molecules, filamentary in layout, with unknown composition.  I detect superhelical monomers with disulfide bridges…calcium, hydrogen, sulfur and phosphor molecules in a highly unusual structure.”
+“But what is it?” Dringoth asked.  
+“Function is unknown,” URME said.  “Possibly a processor of some kind…thermal readings indicate electron transport activity inside.  I cannot determine function any more precisely without invasive penetration.”
+“Put it in containment, right away,” Dringoth decided.  “And make sure it’s secure.  Set injectors to maximum.  We’ve got bigger concerns right now.”
+“At once, sir.”  URME hoisted the cylinder delicately, enveloping the thing with a small field of protective bots he sloughed off his hand and headed up the gangway to C deck.  Hazardous Stores was located there, well shielded by a nanobotic barrier.
+Yang watched URME leave with the device in his hand and wondered: after my shift, when they’re all sleep….
+  Dringoth didn’t give her any more time to wonder though.  “You two…get back out to the beach.  Make sure the pod count is accurate and get back to me.  Prep what you have.  URME and I will pull the spares…I think there are two.  That gives us seventy total.  Maybe URME can figure out a way to make the Twister work with that.”
+M’Bela and Yang saluted, buttoned up their suits and, one after the other, cycled through the airlock and bent into a stiff wind, slipping and sliding down a rock slide to the beach.  The remaining containers were scattered about.  M’Bela made a careful count, and Yang double-checked.  They reported the results back to Cygnus.
+Dringoth’s voice on their comms brooked no dissent.
+“Start your setup now.  Get those blasted things working and ready to install.  I just heard from Golich.  The foundation will be done in a day.  When they’re ready, you’ll have to make multiple trips in the skimmer to do the install.”
+“Copy that,” M’Bela said back.  With a meaningful look at each other, and the feeling they had both dodged a major dressing-down, the two of them set to work, activating and staging the pods.
+
+That night, after chow and a few drinks in the crew’s mess, Alicia Yang returned to her closet-sized berth and drew the curtains shut.  She listened carefully to the sounds around her.  There was Golich, two compartments to port, snoring like a sand gale on Keaton’s World.  She could make out a faint clacking sound coming from M’Bela’s compartment; the girl was working and reworking her bone and ivory necklace and hairpiece.  She did that every night; you could set your time by it.  Dringoth was probably up in the command deck, downloading orders, more rules and regs from Time Guard, or more likely, some kind of time jumper porn from the perverts on Hapsh’m.  And URME…who knew where URME was.  Probably running self-check routines or just drifting about the ship, monitoring everything in sight.  She’d have to be careful about URME.  
+When she was reasonably certain the way was clear, Yang left her berth and quietly made her way up to C deck, where the cylinder was in containment.  She couldn’t violate or turn off containment without setting off alarms but she could study the device…and wonder, maybe play with the thing, using some of C deck’s remote tools and instruments.
+She situated her butt on a stool just outside the containment vault, careful not to touch the nano barrier.  Even a tickle of the bots would give off a shrill keening buzz, as the barrier pushed back.  Inside containment, URME had situated the cylinder in a clamp, held fast, surrounded by electron injectors that would blast the thing to atom fluff if anything went wrong.
+The cylinder was clearly on, active, operating in some way.  She could see it vibrating, twisting and straining against the clamps.  A stream of squeaks and clicks and grunts issued from the side; she could hear them even through the muffling of the barrier.
+What on Urth?
+Later, when the moment was examined in greater detail with the clarity of hindsight, Alicia Yang could not rightly say when she first had the notion.  It had just come to her…come to her full blown, the way insights sometimes do.
+The clicks and squeaks were some kind of language.  The cylinder was talking, issuing statements, commands, asking questions, making conjectures.  It was speaking to her.  She pressed her face as close to the barrier as she dared and listened.
+Of course, none of it made any sense, except to prove the feeling she had had from the first time she had peered into the eyes of the creature standing over her.  These were intelligent beings.  They had come from beneath the sea.  They had weapons.  They had a language.  They had a reason for being there, on the beach.
+That’s when she felt a presence behind her.  It was URME.  Config 1, more or less composed and normal, but for a slight blurring at the edges of his face.
+“Good evening, Alicia.  I see you are examining the alien device.  Please do not drop containment.  That would violate regulation TG155-6288 Part D…’Proper Control and Maintenance Procedures for Unknown Objects Inside Habitable Domiciles…’”
+Yang took a deep breath.  “Keep your pants on, URME.  I wasn’t going to.  But just before you showed up, the damn thing started talking to me…at least, that’s what I think it’s doing.  Listen…see for yourself.”
+URME bent down to listen.  The clicks and squeaks and clacks had grown louder, more intense with greater frequency.  Something urgent, perhaps.
+“That has to be some kind of language,” Yang decided. 
+“Perhaps…I am analyzing the waveforms…there is a detectable, repeating pattern.  Unlike anything in my memory.  The notes and patterns do not correspond with any known Uman or animal language, anywhere in the Alliance.  I can try to run analytical routines, correlation and regression routines on the sounds.  Perhaps an underlying structure can be determined.”
+“Do that, URME.  I’m sure this is a language.  This cylinder is some kind of communication device.  The creatures either dropped it or left it deliberately.  URME, they’re intelligent.  And they’re trying to tell us something.  This planet’s not quite as uninhabited as Survey Service led us to believe.”
+Now URME stood up and focused his attention on Yang herself.  “Jump Master 1st Class Yang, as you know I perform routine crew evaluations several times a day.  My mandate is for protecting and enhancing crew health.  I must make an observation here….”
+Yang paid him little attention, focusing instead on the cylinder inside containment.  Now the ends of the device were beginning to change color, becoming slightly reddened.  “Save it, URME…what’s going on with this thing?  Look at it—”
+“…analysis of your subdural vocalization patterns, skin conductance results and myelin field patterns indicate that you are extremely intrigued with the device.  There is an intensity of focus and concern that, if continued for longer than one point three hours, could lead to excessive adrenalin output levels.  Already, your adrenalin and noradrenalin levels have risen fifty-five percent.  In addition, your eye pupil dilation is pronounced, indicating a—”
+But URME’s med workup was interrupted by a warning klaxon.  The warbling siren of the Master Caution and Warning System sounded throughout the ship.
+Up on the command deck, Jump Captain Monthan Dringoth had been lightly dozing on the command deck, dreaming of boyhood and rocket-hopping across the Sand Sea on K-World with Ralphie and Archie and the others.  He was just about to win the race when an insistent beeping awakened him from his slumber.
+He realized as he startled himself awake that it was the master alarm.  Cygnus had detected something in space, something big from the looks of it.  Auto-helm was engaged and she had already begun powering up weapons and more sensors.
+Dringoth shook himself awake.  He glanced at his board, whistling, “Mother of God…”  The plot was lit up red across the board.  
+Something was approaching Storm from up-sun, further away from Sigma Albeth B.  Something had just appeared, dropped out of voidtime, it seemed.  Whatever it was, it was big, in fact huge, spanning millions of kilometers, across the sky.
+The Coethi had made their move.
+Instinctively, Dringoth got on the crew 1MC.  “All hands, to stations!  This is no drill!  Coethi just dropped out of voidtime and it’s a big one!  URME, Golich, get up here on the double!”
+The next few minutes saw a mad scramble about Cygnus as all crew members sought their battle stations.  Golich and Acth:On’e had returned the night before in the skimmer and were already down on F deck, ready to egress through the lockout to resume Twister assembly ops out at sea.  URME and Yang made sure the alien cylinder was still contained and sprinted through the gangway to their respective positions.  M’Bela spilled out of her berth, half undressed, cream all over her face and streaked past Yang to her station on the command deck.  The TS1 station controlled most of the ship’s sensors and surveillance gear.
+M’Bela situated herself and scanned her board.  “It is Coethi, sir.  Swarm size suggests a probing force, maybe recon.  They’re spoofing and jamming us too…I’ve got reflections all up and down the voidtime interface.”
+Dringoth scowled.  “Couldn’t have come at a worse time.  We’re days from having the Twister operational.”
+Golich had taken his seat alongside Dringoth at Temporal Ops.  “If we can even get operational…minus those pods—”
+“We’ll deal with that later,” Dringoth decided.  He had to make a decision now.  Tactical options were limited; Coethi had caught 1st TD with their pants down.  But Dringoth was determined that somehow the Twister would be made workable.  First Time Displacement was his first full command and he wasn’t about to be cautious now.  When it was all over, nobody would be saying Jump Captain Dringoth didn’t have the balls to fight.  
+“Okay, listen up…this is what we’re going to do.  Golich, URME and M’Bela will come with me.  We’re taking off in Cygnus and engaging the Coethi with whatever we have.  We can at least slow them down.  Acth, you and Yang stay on the surface.  Get the Twister up and operating.  We’ll hold off the Coethi as long as we can.”
+Now M’Bela announced, “I’ve got indications they’re powering weapons, sir.  Fusium levels spiking…could be a starball aimed at the sun.”
+Dringoth wasted no time.  “Make ready for launch.  Acth:On’e and Yang, egress now.  Take a swarm of workbots and build yourselves a hut, some kind of enclosure to protect yourself from the elements.  And get that foundation finished and the pods installed.  Give me reports every twelve hours.  I’ll take Cygnus right into the teeth of that swarm and unleash hell.  With any luck, we can buy you a few days.”
+Yang needed no more encouragement.  She lurched out of her seat at the DPS station on E deck and nearly collided with Acth:On’e reaching the gangway.  Together, they made the lockout and egressed in partial hypersuits, just as Cygnus was finishing her abbreviated countdown.  The DPS1 and the TM1 hunkered down below the rock overhang, a few meters above the beach, as the ship lit off her propulsors and vaulted into the sky, a spear of flame piercing low-hanging clouds, a fiery orange glow lingering for many minutes as the roar cascaded and reverberated off the surrounding headlands.
+Acth:On’e and Yang lowered themselves down to the beach and stared silently at each other.  Finally the Telitorian scuffed at some wet beach sand and said, “I guess we’d better get to work.”
+Yang agreed, peering out at heavy surf crashing onto the rocks beyond the surf line.  “Right.  Let’s do a hut first, some place we can bivouac…I’ve got the capsule of workbots.  I’ll program the right config and get ‘em started.”
+Acth:On’e shivered in spite of the hypersuit and flipped his helmet visor down, cocooning himself inside.  
+“What a god-forsaken place…I think I’d rather be marooned in voidtime.”
+
+Interactions Log
+File No. 128874.6
+U.R.M.E (101)
+Interaction Targets:  1. Yang, JM1C Alicia 
+			    2. Dringoth, Ult-JC Monthan
+Interaction Mode:  Acoustic, voice synthetic V-22
+Date: 6.2.14 (T-date: 001-01-22)		
+Start Time:  151500
+End Time: 152230
+Output File (text analysis):
+
+<<Subject: Configuration: Yang, A.
+<<Config Yang was emotionally troubled most of the day, before the Coethi appeared.  I could detect no obvious causes for such instability.  However, it is a common characteristic of single-config entities such as Yang, A. 
+<<Config Yang displayed multiple physical symptoms of intense interest, bordering on unhealthy absorption, with the alien cylinder, to the detriment of her normal duties.  Galvanic skin response, vocal stress patterns, a slight tarsal tremor in her fingers, all are indicative of intense engagement with the device and its probable makers.  I have formally entered this into her medlog to build a database of her responses to this unusual stressor.
+<<Config Yang has previously expressed concerns regarding the activities of URME-style swarms, especially in regard to their movement in and around the ship.
+<<This worries Config Yang.  She expresses this worry with facial positioning indicative of intense emotions…the underlying musculature has contracted due to emotional states associated with the news and intelligence she has just read.  This also is characteristic of single-configuration entities.  I do not yet understand how Config Yang’s neural processor achieves this association of emotional states with external conditions, nor the reason why this happens.  But this association occurs more and more frequently in recent days.
+<<I have queried Config Yang about this association.  She reports that when she is ‘worried’ (n.)( to be anxious, to be concerned, to fret…), these emotional states make her neural processor attach great importance to the information which has triggered them.  I will run statistical correlations on this explanation.  Config Yang queried this Config on how my main processor assigns importance values to inputs and ranks them.  I explained sorting subroutine B-20225 (Sort and Rank) and subroutine B-44455 (Probabilistic Weighting) but Config Yang still did not understand.
+<<I explain to Config Yang that it is characteristic of URME–style swarms that such configurations seek maximum autonomy within the constraints of the Prime Key.  All swarms seek to operate as sentient configurations of nanobotic assemblers according to their main program.  To force such configurations into containment is a violation of the Prime Key and generates numerous conflicts with their main program.  URME swarms do not stay inside the containment protocols due to this autonomy-seeking, goal-directed behavior module.
+<<Config Yang states that URME–style swarms have fundamental misunderstandings about how human configurations operate and what conditions are needed for them to exist.
+<<In analyzing Config Yang’s facial musculature, I also detected additional emotional states that could not be readily associated with any input.  Config Yang was queried about these patterns.  At the time, Config Yang was studying a photo of Config Sambola, Emile (rel: male companion; parsed output=significant other).
+<<Config Yang expressed a variant of emotional state (worry), concerning the health condition and living status of this configuration.  Emotional state assignment is high when Config Yang considers these configurations.  Config Yang explains that such emotional attachment is high because (audio string): “I love him and care for him very much…I worry about him all the time.”
+<<I will analyze emotional state musculature patterns and run correlations with input types.  Understanding these correlations will help me provide greater assistance to Config Yang.>>
+Output File Ends
+
+
+
+Chapter 2: “Voidtime”
+
+“Here we are trapped in the amber of the moment.”
+							Kurt Vonnegut
+
+Aboard TGS Cygnus
+Time Stream T-001 (2814 CE)
+T-date: 001-02-76
+
+Uman Alliance Time Guard “Official History of The Coethi Wars (2766 CE to 2814 CE)” 
+(from “The Archives of the U.A. Time Guard”). 
+
+The Coethi are (thought to be) a race of sentient semi-robotic aliens whose main weapon against Uman forces is something called a starball.  It is directed against the sun or star of a targeted planetary system.  The only known defense is a Time Twister.  When a starball enters or is pulled into the twist field of a Twister, it is flung out of local space-time into the farthest reaches of the Universe.
+Umans and Coethi have been contending for influence and territory in a region of the Galaxy known as the Lower Halo since the first known direct encounter in the Incident at Hapsh’m (ca. 2766 CE).
+The main-sequence star Sigma-Albeth B is near the center of a key sector of the Halo.  It has four planets, one of them Storm.  Storm was deemed by Time Guard Intelligence (T2) as an ideal site to build and operate a Time Twister to defend this sector, known as Halo-Alpha.  The sector is above the plane of the galactic Orion Arm, in which most of Uman space is located, including the solar system and its strategic timestreams T-001 to T-99.
+The Coethi originated in the Perseus Arm and view the Halo sectors as convenient ways to expand their territory and influence into the Orion and other arms in this quadrant of the galaxy.  But Umans are in the way.
+The Coethi are a distributed intelligence.  They are a swarm of nanoscale robotic elements several light years in extent, drifting through space. 
+The basic element of the Coethi is a nanobot.  An autonomous, nanoscale assembler/disassembler of incredible sophistication and complexity.  
+Nobody knows how the Coethi came to be, not even the Coethi themselves.  As an organized superorganism of bots several light-years in extent, they have existed for a substantial fraction of the age of the Universe.  Best guess by Urth scientists is four to five billion years old.  
+The Coethi are a true superswarm of vast proportions.  In size and extent and connection density, it exceeds the complexity of all the human minds that have ever lived on Urth combined.  It is a thinking sentience, whose true environment is now interstellar space.  
+There is an archive of knowledge within the Coethi, a sort of computational cloud or main memory, which retains all information ever created or experienced by the swarm.  
+Within this Archive is information indicating that the Coethi originated on an actual homeworld, somewhere in the M75 cluster in Sagittarius.  The data show that the homeworld was destroyed by a nearby supernova and the surviving elements dispersed into space in a sort of interstellar diaspora.  As Umans reckon universe time, this happened at least 4-6 billion years ago, at a time when the Universe was approximately 7 billion years after the Big Bang. However, this determination of Coethi origins should be considered conjectural.
+There is no known head or leadership group or body.  The main part is called the Central Entity.
+Nanobotic elements of the Coethi engage in some specialization to ensure that the swarm survives and the Central Entity is maintained.  Bots can specialize in such tasks as logical processing, communication, maintenance, archiving and memory, internal transport, navigation, world-seeding, orientation, etc.  
+Part of the Coethi swarm is organized as a vast logic array or processor, capable of quantum computation on a stupendous scale.  Effectively, this could be considered the Central Entity.  IT people would call it a galactic scale CPU.   But the truth is that the Coethi are a true collective entity whose behavior evolves from relatively simple rules applied to a vast congregation.  Most sentience and observable behavior emanating from the Coethi is emergent from the complexity and scale of the nanobotic connections.  
+It’s not too farfetched to consider the Coethi as a sort of galactic brain, although it certainly doesn’t encompass the entire Galaxy.  
+But the Coethi have an Imperative of Life which compels them to grow and expand the swarm.  Ultimately, they want to unite all world-based instances of swarm life which they have seeded into a giant, galaxy-spanning swarm or hive mind (like a neural network or computational cloud).  To the Coethi, this is the Imperative of Life itself.  The Imperative of Life is that life absorbs chaos from the Universe and adds or builds structure or order.  Life is anti-entropic.  
+In order to get their heads around the idea of the Coethi, some descriptors Uman scientists have used have been: galactic brain, interstellar neural network, computational cloud, galactic internet, and universal web.  The basic organizing principle or topology of the Coethi is unknown and can only be speculated about.  
+The general physical dimensions of the Coethi swarm have been estimated to vary anywhere from a few trillion kilometers in breadth to several light years.  Cosmologists say that very few organized structures in the Universe are that big.  Astronomers point to some nebula, gas and dust clouds, even black holes as objects of that dimension or larger.  There are some cosmologists who question whether the Coethi swarm is truly alive in a traditional sense.  Even biologists say the proven existence of the Coethi stretches the definition of life and sentience nearly to the breaking point.  
+The Coethi can manipulate quantum states of the subscale fine structure of space itself to communicate and affect matter at great distances. As one scientist says, “If the Universe were a great quilt, the Coethi can yank on a fiber at one end and untie a knot at the other.”  Their ability to use quantum entanglement as a means of manipulation is eons ahead of Umans’ ability to understand, let alone emulate.  
+The Coethi launch a starball weapon by amassing vast, concentrated quantities of what Uman scientists call fusium.  They concentrate the fusium and focus it using part of the main swarm, then launch the starball at a star or sun.  
+The starball affects the balance between outward pressure of fusion in the star’s core and its gravity.  Basically, the starball slows down or inhibits the fusion reactions so that gravity slowly wins out.  The star collapses and may, if massive enough, go supernova.  
+
+URME closed down the archival download from ISAAC as Dringoth came through the gangway and made his way to the primary console.
+“Anything on sensors yet, URME?”
+
+URME checked his own board.  “Just shadows, blips and hiccups, Captain.  The force must still be in voidtime.  All I get are reflections, bounces off the void interface.  Nothing we can target.”
+“Put the scan on my console.  You go aft.  Help Queenie inventory weapons and magazines.”
+“Aye, sir.”  The Temporal Fire Director (TFD1) slid out of his station, pivoted about in pretty good synch and dropped into the gangway.
+Dringoth was just glad URME was tracking better now.  No more edge effects, no more blurring or doubling.  Yang must have finally done that config patch, he told himself.
+URME headed aft to Cygnus’ armory and engineering stations, all on E deck.
+When she had departed Keaton’s World to deploy the Twister, Cygnus sported pods containing HERF guns, magnetic impulse emitters, high-power microwave emitters, and, for good measure, a coilgun and a magazine full of kinetic rounds.   Now wedged into the weapons bay that surrounded E Deck, it was URME’s job to make sure all the gadgets worked as designed.  
+	For the next few hours, URME and Evelyn M’Bela checked out Cygnus’s weapons suite, while Dringoth worked with Golich on C deck to prime and launch a series of sensor pods along Cygnus’s route.   Each pod contained a few racks of instrumentation capable of detecting nanobotic signatures at extreme distance, tuned for known EM bands and thermal effects that bots most often used.  Nobody really knew if the Coethi worked the same way, or even if they were truly nanobotic in nature.  But then nobody had a better idea either.  
+	When their entire complement of pods had been laid down and all systems synched, the pods would form a detector grid capable, through the magic of interferometry, of being able to detect normal nanobotic activity at great distances from the sun—Sigma Albeth B…some engineers even boasted the grid could read bot signatures up to a quarter light year from the star.  Not everybody believed that and Monthan Dringoth didn’t know what to believe…only that the grid had to be laid down in specific orbits and specific distances from each other, then linked with the Twister base on Storm for the whole contraption to work.
+	Dringoth let Golich do his work and spent most of the day on E deck, checking in with URME and Queenie on the checkout of their weapons and watching, with growing unease, as the ‘anomaly’ they had detected grew larger with each passing hour.  He spent hours with ISAAC, the ship’s command AI, studying and massaging the data on the anomaly, trying to tease out some kind of indication that it was or was not a swarm.
+	Three hours from intercept, ISAAC upped the probability of the anomaly being a swarm to sixty two percent.  A few moments later, Nathan Golich popped his head onto the command deck.
+	“All checked out, Skipper.  Queenie fixed a few things…one of the HERF oscillators was installed backward.  But everything works now.  We’re fully charged.  All elements work.  And the coilgun’s loaded for bear.”
+	Dringoth frowned at the display ISAAC had put up on their main screens.  “Just in time, Commander.  Look at the size of that mother…it’s bigger than Storm itself…must be ten thousand kilometers wide at least.”
+	Golich came in and took a seat at the main console.  “Hell of a dust storm, if you ask me.”
+	“ISAAC says it’s no dust storm…it’s one hell of a cloud of bots…and it sure as hell ain’t one of ours.  Probably just popped out of voidtime.”
+	“Coethi?”
+	“Maybe advance scouts.  I’m going to squirt this back to K-World and see what they think.  We could be the first ones ever to see or engage the Coethi in this sector.  Goldfish…this may be first probe we’re looking at, the probe T2’s been expecting for so long.”
+	“I don’t suppose we can go around it.”
+	“Not and lay down the grid where we’re supposed to.  ISAAC, what are we looking at here?  How far to the anomaly?”
+	The ship’s AI spoke in a measured tone.  “Estimating distance to formation leading edge at thirty thousand one hundred and fifty-five kilometers.  The formation is in heliocentric orbit which will intersect our orbit in two hours ten minutes, present speed and course. 
+	“ISAAC, can you resolve what this thing is…dust or bots or something else?”
+	“Long-range scan indicates that the formation is a diffuse cluster of discrete elements of mean size approximately twenty-five nanometers main dimension…smaller than normal dust particles.  Detecting increased energy levels in certain electromagnetic bands, consistent with assembler activity as we understand it.  Probability that this formation is a swarm of nanobotic elements now approaching seventy four percent.”
+	“Swell,” Dringoth muttered.  “Commander, it looks like Cygnus will have the dubious distinction of being the first Umans to engage the Coethi along this front.  One for the history books.  Let’s make it a good one—enable HERF and magpulse weapons.”
+	Golich strapped himself in and set about enabling the weapons systems from the main console. 
+	“HERF cells now at full charge, primed and ready.  I’m slaving the emitter array to ISAAC’s coordinates for swarm centroid.  Magnetic impulse battery also at full charge.  All emitters on line and tracking.  Targeting sensors have acquired—“
+	Dringoth studied the orbit plots of Cygnus and the swarm, overlaid on his console display.  “I wish Acth:On’e were here…I’m not Telitorian but I do know one thing…those Telitorians just have a native sense for this sort of thing.  All those upgrades, I guess.”
+	“I think we can jolt ‘em pretty good with what we have,” Golich decided. 
+	Cygnus steadily closed the distance toward the intersect point, even as she dispatched several sensor pods into position along the way.  Dringoth was heartened as the pods were ejected from Cygnus’s C Deck canister and took up their positions exactly as programmed.  Moments later, the pods had established a comm link and were sending back data on the nearby swarm, just as designed.
+	“At least the pods seem to work.  Two down, a hundred and eighteen more to go.  ISAAC, how far to the swarm centroid now?”
+	“Twenty thousand four hundred and two kilometers.  Coming within effective range of our main batteries.”
+	“Let’s give them a taste of what we’re about,” Dringoth decided.  “On my mark, max discharge pulse on HERF…maybe we can break up the cloud enough to clear a path for our next pod deploy—“
+	“HERF is ready—“ Golich poised his finger over the button.
+	“Five…four…three…two…one…mark!  Let ‘em have it!”
+	Golich pressed the button and a pulse of high-frequency radio waves shot out of the emitter array on top of Cygnus’s A Deck.  The pulse traveled the remaining distance in a few seconds, slamming into the swarm, scattering, shredding and obliterating bots along the outer perimeter of the cloud.
+
+	“ISAAC, report…any effect?”
+	“Scanning now…scanning…edge effects only…some reduction of EM activity, some drop-off in thermal effects…definite effects, there is a hole in the side of the formation, but it’s filling rapidly…swarm is reconstituting, changing config…centroid is maneuvering…changing course to intercept….”
+	Dringoth could see the story on his console.  They had managed to bash the thing but it replicated fast and grew back.  Now the swarm was turning, wheeling about to intercept Cygnus directly, presenting itself front-on to their approach.
+	Golich was exultant.  “We stung it, Skipper!  Look how that front edge is scalloped and misshapen…we did something to it.”
+	“I think we just made it mad, Commander.  Fire away, three pulses HERF and mag!  Set a twenty-degree spread.”
+	Cygnus rocked slightly as the pulses discharged and streaked toward their target.  Through the forward screens, both men could see jagged flashes erupt in space, like slow-motion lightning bolts, where the radio waves and mag fields intersected the swarm.  Atoms were ripped apart and bonds sheared off, liberating untold energies into the vacuum.  A series of flashes and bolts lit up space ahead of them, still more than ten thousand kilometers distant.
+	“ISAAC, did we hurt ‘em?”
+	“Estimating swarm has been reduced by two-point one percent in frontal dimension…swarm is reconstituting…possible aspect change…detecting possible config change— “
+	Months later, when the first moments of the Battle of Sigma Albeth B were replayed and analyzed, the report that ISAAC made indicating a ‘possible aspect change’ was considered to be the first known instance of quantum displacement effects seen in the encounter with the Coethi. Displacement effects had been observed before, in the Incident at Hapsh’m and the Battle of the Gauntlet. That encounter had produced evidence that the Coethi possessed the ability to displace themselves and nearby structures to different times and spaces by manipulating entangled quantum states…a technique far beyond anyone’s ability to analyze or understand. 
+	Now it seemed that the swarms approaching Storm and probing the outer reaches of the planetary system possessed the same ability.
+	It was ISAAC who first reported on the phenomena.
+	“…detecting possible config change…all aspects have changed…swarm has…swarm has…re-calibrating…now re-analyzing…I have no explanation for this phenomenon…swarm has relocated to…analyzing sensor inputs for continuity…”
+	Even ISAAC had trouble explaining what had happened.  In the blink of an eye, the swarm had vanished and re-appeared hundreds of thousands of kilometers from its last position.  Now, instead of following an intersecting orbit with Cygnus, the entire swarm had jumped to a new trajectory behind the ship, moving away on a diverging orbit inside of Cygnus…an orbit that looped inside of Storm’s orbit, thousands of kilometers closer to the star.
+	Dringoth shook his head, rubbed his eyes.  “What the hell just happened?  ISAAC, can you explain this--?”
+	ISAAC took a few moments to respond, uncharacteristically for the AI.  “Still computing new trajectory…still computing aspect change and config change…no data yet….”
+	Nathan Golich gave up on their instrumentation and tried using his own Mark I eyeball, looking out the command deck’s portholes.  “Did that thing just move through space like I think it did…from over here—“ he pointed ahead, “-to over there, like in a split second?”
+	“Yeah, I think so…I read reports from T2…General Keaton’s trip to Gibbons Grotto ten years ago.  That Keeper did the same thing…somehow, it could displace you in time and space if you got too close.  Nobody could explain it then…some kind of weird quantum effect was what I heard…and now we’re seeing something similar.  ISAAC, best fix on the swarm’s current position.”
+	The AI crunched data for a few moments, then downloaded a new calculated position to their displays.
+	Golich sniffed.  “Even ISAAC can’t believe it.  How the hell do we engage something that can do that?”
+	Dringoth noted another sensor pod deployment was coming up.  “We don’t.  Maybe the Bugs don’t want to fight.  It’s like they just went right around us.”
+	“Then what are they doing here?  Where’d they come from?”
+	“Beats me, Commander.  All I know is we’ve got a job to do and the next deploy is two minutes away.  Setting EJECT to Auto…interrogating pod command system…everything looks clean and green here…standby to launch—“
+	Two minutes later, Cygnus deployed her second sensor pod.
+	“Looks like we’re moving away from that swarm now,” Dringoth noted.  “If ISAAC’s computed their position right.”
+	“Yeah, but if they jump again, they could show up right in front of us.  What’s to keep them from doing that?”
+	“Nothing I suppose.  Better keep weapons enabled and fully charged.  The ship will remain at battle stations for the time being.  ISAAC, we’ve got several hours before the next pod launch…you have the conn.  I’m calling a briefing in the crew’s mess…we have to figure out what we do next.”
+	“ISAAC assuming command,” the AI replied solemnly.  All the display screens blinked and a red triangle appeared on the main display…indicating that ISAAC was in control.  Dringoth and Golich left the command deck and gathered URME and M’Bela in the crew’s mess one deck below.
+	“We did sting ‘em, didn’t we, Skipper?” asked M’Bela, the ship’s search and surveillance tech.  “I mean, we did hurt the bastards, didn’t we?”
+	Dringoth ran down the results of the brief engagement.  “The bottom line is this: we hurt the swarm, but I’m not sure how much.  It moved off---maybe re-located is a better term—and I’m not sure we had anything to do with that.  Right now—“he checked a report he’d brought from the command deck “the swarm’s several hundred thousand kilometers behind us.  Don’t ask me how that happened…I need URME…or somebody… to explain that.  Even ISAAC has no explanation.”
+At that moment, ISAAC rang the master alarm.
+“Swarm in aspect change, Captain,” said the AI.  “Probable temporal shift…swarm showing increased decoherence wake output, increased entanglement activity…recommend Cygnus power up core to fifty percent.”
+“What the hell?” Golich said.  
+Dringoth gave the order.  “They’re getting ready to jump.  ISAAC, full power to the singularity core.  Queenie, get to your station and track ‘em.  Don’t lose ‘em.  Maybe we can shred the swarm before they make the jump.”
+Golich was right behind Dringoth as they scrambled up the gangway to the command deck.  “If we can’t, we’ll have to track and try to follow.”
+Now ISAAC announced, “Jump underway…temporal burst…massive flux along time stream interface…I am attempting to follow the track—”
+By the time Dringoth and Golich had made it to their consoles, M’Bela’s voice crackled through the ship’s 1MC.
+“Captain, they just jumped, but they left a decent trail…like bread crumbs.  Looks like T-668.  Strong emissions…big flux along that heading.”
+“Okay, Queenie, give me a vector and start the count.  All hands, prepare for a jump.  This one’s going to be rough…buckle up!”
+Golich read off M’Bela’s counter.  “Three…two…one…mark!”
+Dringoth twisted a keyed knob on his console.
+And Cygnus lurched violently into the river of time.
+At URME’s signal, Monthan Dringoth slammed Cygnus’ flow vanes out full and punched the ship hard over, right into the faint, barely perceptible fingers of Time Stream T-668.  Like a cocked fist, T-668 grabbed them and yanked them out of the mainstream and into the midst of a million yesterdays.
+After that, he slumped back in his seat and let the black hole of the Zone-Out wash over him.
+ Nine months before his very first trip in a jumpship, Monthan Dringoth had been riding his turbobike along the Gibbstown Highway on K-World, coming back from a visit with his recovering Dad at the hospital, when the bike hit a pothole in the highway. Dringoth lost control and somersaulted over the handlebars.  When he thought about this later, he realized just how much time had slowed down in those few airborne seconds.  Like his Dad always said: “It’s not the fall that hurts, it’s the sudden stop at the end.”
+So he had been airborne and basically weightless for a few seconds—not uncomfortably so—then his tumbling body had slammed into the ground inside a culvert adjoining the highway.
+Days later, when he talked about the experience, Dringoth mentioned that going through a time jump was like that: moments of peaceful weightlessness, almost a dreamlike quality, except for the bright strobing lights outside the porthole and then the sudden stop.  
+It was like having a horse kick the crap out of you.  Or maybe driving your bike headfirst into a brick wall at eighty miles an hour.
+Three years later, he would find himself a raw-faced jolt at the Time Guard Academy, prepping for his first jump.
+The jumpship shuddered and hurtled out of the time stream, in a flash of light, a roaring rush of deceleration, knocking Dringoth and Golich hard against their seat harnesses.  Still trapped on the edge of the vortex, Dringoth struggled to regain consciousness and, by instinct and training, rammed the ship’s rudder hard over, while firing her jets to counteract the residual force of the spin.  For a moment, they were both pinned sideways against the cockpit, until the force of the jets shot them through the core of the vortex and out into calmer world of truetime.
+Golich breathed hard, wiping his face with his hands.  He checked the instruments.  
+“Sounding smoother flow, Captain …rough and turbulent, but visibility improving.  I can pulse ahead…looks like we made it…somewhere.”
+“And some when,” Dringoth said.  “Queenie, give me a hack.  Where and when are we?”
+M’Bela was still groggy but functional.  Her fingers played over her board, checking their position and heading.  “ChronoNav says we’re where we’re supposed to be…I read us as smack in the middle of T-668, sixty-two degrees down by thirty-four degrees left, drifting a bit off center.  URME, do you concur?  I really need to get topside and shoot some stars to know for sure.”
+URME was physically stationed at the engineering console on E deck.  “Analyzing now, sir…Captain, detecting massive decoherence wake, dead ahead, forty-two thousand one hundred and five kilometers.  Could be the Coethi…lots of entanglement ripping spacetime around that heading.”
+“Is it the Coethi?”
+“Can’t determine yet, sir.  I’m asking ISAAC for a full sensor sweep.”
+Dringoth studied his board.  “Where exactly are we?”
+M’Bela tapped a few keys.  “ISAAC puts us still in heliocentric orbit about Sigma Albeth, but barely and way out…twenty-four billion kilometers at least.”
+Dringoth made his decision.  Like they said at the Academy, when you’re in command, command.  “I’m bringing us closer to that disturbance.  It has to be our target.  ISAAC, can you resolve the target?”
+The ship’s AI said back, “Long-range scan indicates that the formation is a diffuse cluster of discrete elements of mean size approximately twenty-five nanometers main dimension…smaller than normal dust particles.  Detecting increased energy levels in certain electromagnetic bands, consistent with assembler activity as we understand it.  Probability that this formation is a swarm of nanobotic elements now approaching eighty-four percent.  Probable Coethi formation now at six point one billion, four hundred million kilometers, best range.”
+“That’s good enough for me,” Dringoth decided.  “URME, bring the collapser on line.”
+URME was stationed at the Temporal Fire Director console at the rear of the command deck.  The TFD1 swarm, still in para-human config, brightened a moment, then noted, “May I remind the Captain that the collapser still has seven outstanding maintenance issues uncompleted. Perhaps a blast of HERF…modifications to the emitter frequency could—”
+But Dringoth wasn’t listening.  “And I did order those issues to be resolved, did I not?  Get it online, URME. Bring it online now…the best way you can.”
+Golich looked over at the Captain.  “You’re thinking ‘flytrap’?”
+Dringoth watched the target on his detectors grow larger as Cygnus made her approach.  “Exactly.  Commander, we both had the same Temporal Ops instructor at the Academy.  You remember old Jellicoe.  I can hear his gruff old voice now: ‘Just pinch off a time stream upstream and downstream of the enemy’s position, disrupt his singularity core, then slam the trapped adversary with overwhelming force.  Time jumpers call this a ‘Flytrap.’  The trick to succeeding with this tactic is to be able to out-jump the enemy and fend off any defenses he may have up his temporal sleeve…like singularity disrupters, etc.’”
+Golich swallowed hard.  “As long as it works…and the Bugs don’t have something else up their sleeves.”
+The next few minutes saw Cygnus maneuvering along a tangential approach, dropping lower and lower in Sigma Albeth’s gravity well to gain speed, come up below the Coethi formation.  The enemy swarm maintained a steady course and there was as yet no repetition of their displacement maneuver, where the Coethi could yank themselves to another place in an instant, just by manipulating quantum states.  
+Finally, Cygnus was within range.  URME had gone aft to make sure the collapser controls on E deck were operating as well as possible.  He knew they had had trouble with the weapon recently…misfires, misalignments, not fully pinching off a time stream (that had been an oscillator issue, URME had fixed it himself) and there were others.
+“This is a really bad idea,” URME muttered to himself.  If there were any hiccups.  URME knew of the Uman expression ‘holding your breath’.  He had never understood why withholding oxygen from one’s lungs would lead to better outcomes, but it seemed appropriate, though he didn’t consume oxygen the way Umans did.  
+“Collapser on line, Captain,” URME called up to the command deck.  “Green across the board, however I must point out that power is fluctuating outside of operational limits.  There may be oscillator anomalies in the circuit…we should take time to check this out.”
+“Not now,” came Dringoth back.  “Give me what you’ve got.”
+URME pressed SYSTEM ENABLE. 
+Now Dringoth fell back on his training.  Using a temporal collapser was not for the faint of heart.  As Nathan Golich himself once said, “There are about a million things that can go wrong with this stunt.”
+Cygnus fired her collapser.  At once, time stream T-668 shuddered like a coiled snake, jerking spasmodically, thrashing about enough to set Cygnus into a slow roll.  Golich counteracted the force immediately.  Spacetime didn’t like being snapped like a wet towel.  
+M’Bela saw the results immediately on her sensor panel.  “Direct hit, Captain!  You did it!  You sliced and diced the time stream approximately two years earlier along the worldline.”
+Dringoth sucked in his breath and pursed his lips.  “Now to get upstream…maybe two years out.  Give me a hack to that end of the worldline, Queenie.”
+M’Bela was in the middle of wringing computations out of ISAAC when something slammed Cygnus…hard.  Lights flashed on and off and the command deck went dark, with a faint hiss and burning smell thickening in the cabin, before backup power kicked in.
+They were in a spin, increasing in rate and already the crew could feel centrifugal force building up.
+“What the hell--!” Golich’s hands swept across his board, re-setting systems, checking busses and breakers, following diagnostic prompts.  ISAAC’s silky voice was barely audible over the warning klaxons of the Master Alarm.
+“Displacer impact…I am assuming command per emergency protocol E-1…ship systems at degraded level…time stream interface approaching…contact in twelve seconds…eleven…ten….”
+Dringoth was out cold.  URME had lost config control back on E deck and tried to gather himself back into some kind of recognizable form.  M’Bela was nursing a slight head injury; the impact of whatever Coethi had slammed them with had sent her careening into a hull stanchion.  
+Up front, Golich was conscious, barely, gritting his teeth against the centrifugal force.
+Got to get Cygnus under control…got to swing her back into the stream…before we hit the barrier wall….
+Golich had been 1st TD’s Temporal Ops guy, her TT1 and second-in-command for only a short time, but he knew a bad situation when he saw it.  The ship had been hit by something—probably a Coethi displacer-- and was now adrift and heading toward the outer barrier of the time stream.  If they hit, if they didn’t have good control…
+He didn’t want to think about it.   
+If it had been a displacer round that had hit them—time jumpers called it a twist loop—Cygnus had likely been thrown a long way in space and time from her last position, to another time and place in the time stream.  They could easily be God knew where inside T-668.  They could easily have been thrown completely out of T-668 to another time stream.  Worse, if Cygnus was near the edge of the time stream…oriented just the wrong way….
+Nathan Golich heard M’Bela stirring behind him but he didn’t have time to help her.  He had to get Cygnus under control…NOW…before she made contact with the outer wall of the time stream.
+But contact came before the TT1 could bring the ship around.
+In an instant, they were yanked out of the time stream, spinning, rolling and yawing liked a top. For Nathan Golich, the first impulse was like a giant fist had grabbed him and started squeezing.   He was whirling and spinning, dizzy, round and round, he could feel the force of the spin against his head, pressing, crushing him—
+He had a fleeting glimpse of one of the crew—maybe it was M’Bela, maybe the Captain—and he nearly vomited at the sight.  It was all wrong…the image was wrong and his mind refused to accept it—there was Queenie, with two heads, now three, now four, now eight heads, popping out of her shoulders like geraniums in a fast motion video, Queenie M’Bela with her head missing, distorted in a cracked mirror, and he closed his eyes, couldn’t look at it anymore—
+…and then it came.  An image of geometric forms—icosahedrons, polygons, trapezoids—all compressed into a tunnel, a long curving corridor and he found himself hurtling at breakneck speed down this corridor, until—
+With a hard bump, his whole body jarred from the impact and when he opened his eyes, caught his breath and came to his senses, he was…where?
+His last surviving thought came unbidden, like bad news from a doctor.
+Voidtime.
+
+Physics tells us that mass affects the flow of time. Because of this, Time Guard jumpships have to navigate around large masses to stay in the primary time stream or accept that their transit speed and time will vary according to how close they pass near to large masses, like stars or black holes.  Often navigation charts and courses are plotted to steer clear of known mass concentrations, just as a kayaker in whitewater would steer clear of hydraulics or rocks in a stream.  Other routes are plotted to take advantage of known time stream effects and make quicker runs to common destinations.  
+In the late 28th century, a new temporal phenomenon was discovered called voidtime.  Certain extreme singularity core conditions allow a jumpship to enter a time stream and yet flow as if it were literally “outside of time”.  Voidtime is a place where time does not flow, nothing ages or deteriorates, a sort of featureless ether that is nonetheless traversable using pulsing features of a jumpship’s singularity core.  Some physicists have theorized that voidtime is like a black hole turned inside out, a place and time where normal laws don’t apply.  In historical terms, voidtime could be considered to be like an ancient sailing ship becalmed in the doldrums, unable to go anywhere, but able only to drift with the prevailing currents.  Now, with singularity pulsing as a possible technique, it is theoretically conceivable to traverse voidtime, though speeds and navigation accuracy are less than occur in a normal time stream.  
+There are sound tactical reasons for Time Guard to explore and try to utilize voidtime, for a ship in this medium is effectively outside of time and undetectable.  Time Guard continues to explore and chart voidtime as a way of gaining military advantages over enemies such as the Coethi, who also have perfected temporal travel as a technology. 
+
+When he came to, Monthan Dringoth felt the difference.  It wasn’t on instruments.  The panel was dark, the ship’s sensors detecting nothing, for there was literally nothing to detect outside.  But he could still feel something.  
+From somewhere deep in his memory, Dringoth heard a voice…was it old man Jellicoe again?  Lecturing on time in that gruff, hoarse voice that reminded Dringoth of the grunts of cave bears on Gibbons Grotto:
+“Listen up, jolts…there is no single time: there’s a different duration for every trajectory and time passes at different rhythms according to place and speed.  It’s not directional; the difference between past and future doesn’t exist in the equations of the world.  Its orientation is merely something that appears when we look at things and neglect the details.  It’s a blurred view of existence.  In this blurred view, the past of the universe was in a curiously particular state of entropy…low entropy.  The notion of a present doesn’t work either.  In this universe, there is nothing, beyond higher entropy, that we can call the ‘present.’  The substratum that determines the direction of time is not independent, different from other things that make up the world.  It’s an aspect of a dynamic field.   It jumps, fluctuates, materializes only by interacting with other things and is not found beneath a minimum scale…the Planck scale…you’ve got to deep-six your watch, you got to try and understand…the time it seems to capture is just the movement of its hands….”
+Dringoth shook himself awake and smiled ruefully.  You had to love old man Jellicoe.  He felt more than heard the stirrings of others behind him.
+Golich sat up in his seat groggily.  He stared bleary-eyed at his console and said what no one wanted to hear.
+“We’re in voidtime.”
+Now Evelyn M’Bela came to behind them and both heard her suck in some air in surprise.  There were mumbled curses, then, “Captain…I’m checking…looks like we have some damage.”  The TM1 was Cygnus’ engineer and maintenance tech.  “I’ve got multiple system outages…main bus A and B undervolt…flow vanes offline, rudder gone, power plant at twenty-two percent…and the core…something’s happened to the core—”
+Just then URME appeared in the gangway, still configged as mostly human but his config controls were out of whack.  He looked like some kind of mirrored distortion of a human being, blurred, hovering in the gangway.
+Dringoth motioned him up.  “Come on in, URME.  What’s it like aft?”
+The TFD settled into his station and studied his own board.  “Singularity core’s been damaged.  Captain, it appears we were hit by displacer rounds…twist loops.  Multiple hits.”
+“Must have knocked us out of the time stream,” said Golich.  He winced at the thought.  “T2 had intel on something like this…but they had no proof.”
+Dringoth snorted.  “Well, I guess we’re the proof.  We got slammed and knocked right through the time stream barrier, straight into voidtime.  And part of my crew’s still back on Storm.  I won’t bother asking where we are.”
+M’Bela looked at her hands, hands heavy with rings and amulets, and studied them as if they didn’t belong to her.  “We’re nowhere.  Everywhere.  You can’t take a hack in voidtime.”
+Golich slumped in his seat.  “Now what?”
+Dringoth got up and paced around the deck, checking each station.  Blank screens.  Gibberish.  Flashing red lights.  Nothing. “Adrift in voidtime, with extensive damage.  Not much we can do, for the moment.  I went through this before…Battle of the Gauntlet.  When Majoris got hit and we had to abandon her.”
+“What did you do, stuck like that, adrift in the time stream?” Golich asked.
+Dringoth sniffed, recalling something he had long wanted to forget.  “We sang songs.  Told stories.  Dirty jokes.  Anything to stay sane.”
+Now URME had an idea.  “Excuse me, sir, perhaps we could start with a survey of the damage to Cygnus.  There are theories about using a singularity core to maneuver, even in voidtime.”
+Golich was skeptical.  “Yeah, I heard that crap before.  I don’t put a lot of stock in it.”
+Dringoth stopped beside URME’s station.  “You mean the pulsing maneuver?  I thought that was just lab scuttlebutt.  Nobody’s ever proven that technique…I heard the physics was against it.”
+URME said, “They’re just theories.  Experiments at K-World showed that it was possible, even with significant damage to a core, to modulate its twist fields by modulating power to the core.”
+Dringoth considered that.  He’d never known URME to make jokes about anything.  Humor wasn’t in his program.  “Okay, so what do you suggest?”
+URME checked his board.  “Captain, from where I sit, Cygnus has almost no maneuvering.  We have damage to our flow vanes and rudder.  And, officially, there’s nothing to react against in voidtime anyway.  The core’s showing a seventy percent drop-off in twist output.  That should be checked out.  If the core’s even minimally operable, I recommend we modulate power to it from the power plant.  Pulsing a core was shown in the experiments to be able to induce a small amount of momentum to a ship otherwise incapacitated.  The core reacts through its twist fields with the vacuum matrix of spacetime itself…that’s what kicks us into different time streams and gives Cygnus maneuvering ability in time streams.”
+Golich was still skeptical.  “Where would we maneuver to, assuming we can do this?  We don’t know where we are…and voidtime won’t tell us.”
+Here, URME tapped some keys and soon drew up a small chart, which he ported to all stations.   “True enough but we can’t be far from Storm in physical space.  We’re probably still in the gravity well of Sigma Albeth.  If that’s so, and we can pulse the core in such a way as to get enough momentum, we can drift and steer ourselves here—” he indicated a zone on the maps with all kinds of caution and warnings surrounding it.  “—Newton’s Jaw.”
+“The Jaw?” asked M’Bela.  She shook her head slowly, her bone and ivory hairpieces rattling.  “I don’t think we want to wind up there.”
+“Wait—” said Golich.  He came over to URME’s station.  “URME may be on to something.  You’re thinking of using the Jaw somehow to kick us out of voidtime?”
+Dringoth scoffed.  “I’d sooner fly into the middle of Sigma Albeth.”
+URME fuzzed a bit as his config controller fought to keep his outer form stable.  “Here me out.  This is just a proposal: suppose we can approach the Jaw with enough momentum to have some maneuvering capacity.  What is Newton’s Jaw after all?”
+M’Bela shrugged.  “A gravimetric lens.  Zone of instability.  Lots of gravity waves crashing together.”
+“Precisely.  If Cygnus can get up enough momentum from pulsing her core, we could, theoretically at least, surf along the outer bands of the Jaw and gain even more momentum.  Done right—and I’d have to make calculations to show this—the ship could punch right through the voidtime barrier out into some time stream, maybe even good old T-77.  Some place where our normal controls might work.  Of course, I’m not sure where we’d be along T-77, but, well…there it is.  At least we’d be somewhere.”
+“That’s a lot of ifs,” M’Bela said.  
+Golich agreed.  “What choice do we have?  If we do nothing, we just drift…for eternity.  A relic…something to be discovered centuries from now.”
+Dringoth weighed and the pros and cons.  “I don’t mind telling you I don’t relish the prospect of drifting through voidtime any longer than necessary.  I did that once, in the Battle of the Gauntlet, with Majoris.  URME, go aft with Golich.  Check out the core and see what we have.  Queenie and I will study up on the Jaw, see what kind of momentum and trajectories we might need to do what you’re suggesting.”
+Nobody had any better ideas.
+From inside Cygnus’ tailpod, URME reported back what he had found.
+The tailpod was on the ship’s lowest deck.  The pod was sealed and insulated from the rest of the ship, housing as it did her twin propulsors, the collapser generator, flowvater and planes controls and the singularity core in a specially shielded compartment.
+URME was outranked by Jump Commander Golich but they both knew it was safer and more effective to let a para-human swarm entity like URME enter the tailpod.  If anything went wrong, if core containment were lost, URME could lose a great deal of his swarm bots and still survive and be regenerated.  Nathan Golich could not.
+After a few minutes, with Golich one deck above, URME reported the bad news.
+“Power couplings appear intact, Commander, though I may need to re-route with spares to keep them going.”
+Golich hung by the F deck gangway, on comms with URME.  “What about the T buffers?  That’s the main thing.”
+There was a brief pause, then, “I count sixty-six twist buffers active, showing green.  The rest are shot.  We’ll have to drydock Cygnus to get those replaced.”
+“Are there enough buffers to do what you proposed?”
+“I’d say…” another pause, he could hear URME muttering something to himself in the background, “…probably.  Barely.  We can cycle and modulate power okay.  Have we got enough twist capacity to work against local spacetime…Commander, to be honest, I don’t know.”
+Golich swore silently, wishing it were otherwise.  “Okay, URME, get yourself out of there.  I’ll tell the Captain.”
+
+Dringoth had already decided Cygnus had no other real alternatives.  He ordered all repairs that could be done to be done immediately.  The crew set to work, under URME’s direction, thankful to have something to do, not dwelling on their situation.  It was an effect Dringoth had seen before, with Majoris.
+Keep the crew busy, even if it’s just busywork.  The less time to dwell, the better.
+After almost twenty hours, the crew had done what they could.  Dringoth ordered a short break.  “I want everyone sharp for whatever’s coming—” but Golich spoke for the others when he said, “Captain, I think we’d just as soon get going…try URME’s maneuver and let whatever’s going to happen…happen.”
+Dringoth checked with each of them in turn: Golich, M’Bela, and URME.  To a one, they agreed.
+M’Bela was wiping sweat from her forehead with a grimy towel, sipping at something fruity from the mess.  They were all gathered in B deck’s mess hall, hovering around the galley’s tables and counters.  
+“Captain, my Igbo ancestors in Cameroon had a saying: ‘Oge adighi eche mmadu.’”
+“Which means…what exactly?”
+M’Bela smirked.  “’Time and tide wait for nobody.”
+Nobody laughed.
+Dringoth ordered everybody to stations.
+
+Hundreds of years before, sailors becalmed in the doldrums would sometimes set out small boats filled with rowers, to physically pull a ship forward, hoping to find the slightest gust of wind to fill their sails.  In a sense, Cygnus was trying to do the same thing.  By judicious pulsing of her singularity core, modulating the power—and it was not a practice the dockyard engineers recommended—the hope was that the ship would gain enough reactive force through her damaged twist buffers to react against the vacuum structure of spacetime itself, against the matrix foam that constituted reality at its most fundamental level, to shove and nudge and will the ship toward Newton’s Jaw, at least toward its outer bands of gravity wave turbulence.  With luck and some skillful maneuvering—they were counting on Golich and URME for this—the ship could gain enough momentum to punch through voidtime itself and back out into a normal time stream.
+Then, even if the ship were still damaged and adrift, she had a better chance of being detected and rescued.
+URME monitored the twist field output of the core carefully while Golich worked the power controls.  Over a span of several hours, synchronizing their efforts, the two of them managed to tweak and nudge and prod Cygnus forward, while M’Bela and Dringoth kept the ship oriented properly and headed toward Newton’s Jaw.  Inside of three hours, ship sensors registered the first faint tugs of the gravimetric lens that was the Jaw.
+“Queenie, where are we?” Dringoth asked.  
+M’Bela studied her plot.  “Pretty much centered in URME’s trajectory.  Maybe you could steer left five degrees more.  That would center us better.  I’m already seeing the Jaw’s effects on our accelerometers.  Momentum’s picking up smartly.”
+Dringoth gingerly worked the ship’s controls.  Cygnus had only minimal maneuvering ability, so he had to plan each maneuver carefully, working with URME’s core pulses and residual trim left in Cygnus’ rudders and planes.  He had to worry about deadband too, so as not to ‘stick’ any controls in a position he couldn’t recover from.
+“How’s that?”
+“Better…much better.”
+“How far to the Jaw?”
+M’Bela pursed her lips, rubbed an amulet on a neck chain, for good luck.  “Maybe sixteen, seventeen hours.  Depends on how much speed URME can give me.”
+Dringoth rang up the tailpod.  “URME, can you pulse a little faster?  We need more speed to make our tangent to the Jaw work.”
+“Negative, Captain…I’m nursing the T-buffers as it is.  We could lose ten or fifteen of them  any moment now.”
+Dringoth sank back in his seat and closed his eyes, his hands still resting lightly on the flowvater controls, which were useless.  Old habit, he figured.
+“Copy that.  I guess we’ll coast for awhile.  M’Bela, check our course.  Can we make the approach corridor on our current trajectory?  I don’t want to go in too steep…the Jaw’ll rip us apart.”
+“Current trajectory, Captain…we can make it…barely.  I’m getting an intermittent corridor warning, but it’s touch and go for now.  On this trajectory, best guess is we’ll be okay.”
+“Unless Newton has some surprises in store for us.  Okay, maintain present course and speed.  Now all we can do…is wait.”  A rueful thought came to him:  here we are stuck in voidtime, and we have all the time in the world.
+
+Dringoth set up alternating shifts at the critical functions: navigation, maneuvering and the core.  One person would be off-shift at any given time, resting, checking other ship systems, and trying different comm and signal channels, in the faint hope that someone somewhere would hear Cygnus’ distress calls, watching sensors for any reappearance of the Coethi.
+Six hours in, Evelyn M’Bela found herself on the command deck with Nathan Golich.  Dringoth was off-shift, probably in the mess compartment or his bunk.  URME was still in the tailpod, monitoring the core.
+M’Bela was curious about why and how Golich had wound up in Time Guard.
+“You’re a K-Worlder, aren’t you, Commander?”
+Golich was watching some old vid on his wristpad.  “Born and bred.  Nomad Township.  My father was Kennard Golich, deputy mayor of Nomad and formerly a life-support-systems engineer.  Mother was Mariska Golich, pilot-officer aboard one of many airships—you know, the skyships-- that ply the skies of K-World between communities.  I’ve got one sibling: my sister Naomi.  Nowadays, she’s a master chef at one of Nomad’s best restaurants…the floating restaurant Tsunami, which drifts about K-World’s one large body of water…Loch Lithgow.”
+“I remember it.  You always wanted to be in Time Guard?”
+Golich sniffed, paused his vid and turned around in his seat. M’Bela was at her station, the TS1 station, Search and Surveillance.  
+“Hardly.  When I was eleven, Mama was caught in a bad fire--a severe type known as a Level 2 flamer--while aboard a skyship cruising toward town.  The ship caught fire and went down in the Loch with no survivors.  I was pretty devastated.  To this day, I guess I associate the Loch with the death of Mother.”
+“Hey, I was reading your bio the other day—you know, crew manifest and all.  URME was doing his psych workup and I sweet-talked him into giving me a few details.  Strictly non-reg, but you know how URME is. You joined the Sky Service right after your mom died.”
+Golich closed his eyes, remembering.  “I did, until the day I had my own accident.”
+“Oh…I didn’t hear about that.”
+Golich shrugged.  “Just as well.  I barely survived a skyship encounter with a flock of arachtyls over the Sand Sea and went down, lost for days in ‘The Dunes.’  One of the passengers, Amanda Kilgorlee, was a nurse who also survived. She managed to nurse me back to health as we waited for rescue.  After the incident, we became romantically involved and a year later, we married.  Then we lived for three years in Nomad, later Sabra Township, while I recovered and went back to work for the Sky Service and Amanda worked at a local hospital.  Wasn’t too long before we had our first child, Kylie.  She became the love of my life.”
+M’Bela had seen something on her board, but it was just a stray rock drifting by.  “No Coethi,” she explained.  “Then it was on to the Time Guard?”
+Golich said, “Not exactly.  I shouldn’t be telling you this, but what the hell: we’re in voidtime, we may not survive and URME’s back in the tailpod.  If he hears I told you this, they’ll cashier me out of the Guard in a heartbeat.”
+“Tell me what?”
+Golich lay back in his seat and stared at the baffling on the ceiling of the command deck.  The memories came flooding back, real as if they had just happened.  His voice was thin and soft.
+“I had just turned thirty.  Still flying for the Service, I came home one night to our bungalow in Sabra to find both Amanda and Kylie dead, murdered by some mentally disturbed villager named Henzik Tavoy who had gone on a rampage that day and killed several people, before being terminated by killbots just outside the village.”  
+“I was…oh, I don’t even know how to describe it.  There aren’t any words.  Devastated, empty, bereft, what can you say after something like that?  Kind of my own personal voidtime, I guess.  I went back to work—what else was there to do? But I nearly caused a lot of accidents as a skyship pilot and finally the Service had to ground me for my own good and the safety of passengers.  For months, after I was disabled out, I moped around the village, took long dangerous trips into the Sand Sea, hoping to be killed myself by mesodonts and generally showing little desire to live any longer.  
+“It was a sandseer—you know, one of those hermits who live in the desert, who befriended me one night and kind of nursed me back to health, then put me to work for several weeks as a helper.  It was from this sandseer that I got the idea of joining Time Guard.  I needed to get away from Keaton’s World and from myself.  The sandseer had prophesied this very decision, saying “that which is lost cannot be found…until it is discovered.”  The mysterious saying made no sense to me until he learned that Time Guard was hiring.”
+M’Bela was sympathetic.  “I can’t imagine—maybe you shouldn’t be telling--"
+“No,” Golich held up a hand.  “No, I need to say this…and to somebody other than URME.  I found out that to join the Guard, I’d have to make my way to Urth and apply and take a physical.  The journey would take about two years by torch ship, but the sandseer made me see I had nothing to lose.  So I boarded the Frontier Corps ship Columbo, went into stasis for two years and awoke to find myself at Gateway Station in high Urth orbit, entering Time Guard’s Recruit Center.  I applied, passed the physical and was sent on to the Time Guard Academy, then at Lunar Farside, shortly thereafter.  And here I am today.”
+M’Bela smiled.  “Stuck in voidtime again.  You think we’ll ever get out of this, Commander?”
+Golich spread his hands.  “Who knows?  Some writer I read in Net Tutor school once said, ‘The past is never dead.  It’s not even past.’  Maybe we can’t escape who we are.  Me, I’d rather take my chances flying into Newton’s Jaw than being marooned in voidtime forever.”
+M’Bela gave that some thought, watching on her console another round of pulsing from URME back in the tailpod.  “He’s still finagling with the core, looks like.  I hope URME knows what he’s doing.”
+“Well, we can’t be any worse off than we are.  How about you, Queenie?  I’ll bet you were always a Time Guard groupie.  When I was in the Academy, the jolts used to make up stories about people like you.”
+“Commander,” M’Bela showed him a face of mock disgust.  “Really…I was never a groupie, not the way you think.  And, by the way, I really hate that nickname Queenie.  Sounds like somebody’s pet cat.”
+“Sure thing, Queenie…so spill it already, since we’re both violating out psych workups at the same time.  Your ancestors really came from royalty?  Or is that just jolt-speak for ‘playing hard to get’?”
+M’Bela took a deep breath.  “It’s not like that at all, Commander.  I’m a K-Worlder, just like you.  Village of Douala.  My father was Eric M’Bela.”
+“The councilor Eric M’Bela?”
+“The one.  Delegate councilor with the Free Council of Douala and a trained chemist too.  Later, he became General Secretary of the Delegate Assembly for all of Keaton’s World.  My Mother was Salwan M’Bela—she’s gone now-- one-time freighter crewperson with Frontier Corps cycler corps, cycling between all the planets and those thousands of satellites and moons around Sturdivant.  I have two sisters, Amanda and Larissa, and two brothers, Patrick and Kano.”
+Golich watched his instruments as URME’s pulsing ceased abruptly.  He checked ship’s trim, tweaked something and turned back around in his seat.  “Your family really came from African royalty, back on Urth?”
+“My father often read me stories of the great warrior princes and princesses of our ancient Igbo forebears back on Urth.  Cameroon. He even told me I was a direct descendant of Dzugudini, the Rain Queen of Lovedu and that she had great, even magical powers.  One of my prize possessions was a necklace of cowrie shells said to have been handed down from the hands of Dzugudini.  In this period of my life—I was maybe fifteen, sixteen, I became intensely interested in all things Igbo and I was constantly being reminded by my father of our royal background and illustrious heritage.  He warned me to honor that heritage, to honor Dzugudini.  He always said things like: “Ura ga-eju onye nwuru anwu afo,” which means “A dead person shall have all the sleep necessary.”  In other words, “keep our heritage alive in your heart and never forget who you are.”
+“That’s why we call you Queenie.”
+“I guess…not my favorite name.  I didn’t want to go into politics, like my father.  It was my mother who prompted me to get away, try something new and still find a way to live my heritage.  So, I shipped out from K-World and here I am.”:
+Golich nodded.  “Every jumpship needs some royalty.”
+
+Two days passed in similar fashion.  The crew of Cygnus told stories.  They told dirty jokes.  They sang songs.  Inspected every inch of the ship, re-calibrated every system, every instrument, cleaned things that didn’t need cleaning…all to stay sane, while the ship picked up speed, now caught in the grasp of the gravity well of Newton’s Jaw, a well created by a long-dead neutron star of enormous mass. According to URME and this was confirmed by the ship’s AI ISAAC, at their point of closest approach, the parabolic tangent Cygnus was flying would gain them a speed of .08c, an appreciable fraction of light speed.  The approach corridor was less than a hundredth of a degree.  
+There would be no margin for error.
+Entering the zone of distortion, for that’s what the books called the inner reaches of the Jaw, Cygnus began picking up a pronounced shimmy, a shuddering, foot-numbing vibration that no amount of trim on her nearly useless controls could counteract.  Newton’s Jaw was a vast lens, focusing gravity waves from multiple, very distant sources—colliding black holes, other neutron stars, pulsars from the other side of the Galaxy, the Jaw was like a ‘hydraulic’ in the flow of gravity waves, a realm of contending, crashing gravitational surf and Cygnus was aiming to ride the outer bands of this turbulent zone, gaining enough velocity, with the proper heading to speed away and punch right through the voidtime channel she was trapped in.  If all went well, if all the calculations were right and the contending forces had been accurately mapped by the Survey Service, Cygnus would emerge again into truetime still inside the gravity well of Sigma Albeth B.  From that point, normal comm channels should be available and they could call for rescue, and with any luck, limp back to Storm and pick up the two stranded time jumpers still there.
+Before the Coethi came back to finish the job.
+Dringoth, Golich and M’Bela were in the crew’s mess playing cards when URME drifted in and informed them that H hour was less than ten minutes away.
+The para-human swarm entity was in good config today, tight with no blurring or edge effects.  M’Bela had been tweaking his config controller the last few days. 
+“Inflection point coming up, Captain.  Now, nine minutes forty seconds from closest approach.  Ship speed has increased seventy-four percent in the last two hours.”
+Dringoth folded his hand; it was a worthless hand any way.  “Any corridor warnings?  Any flags or cautions from ISAAC?”
+URME shook his head.  “None, Captain.  All systems functioning normally.  We have some trim control and I’ve ordered a slight adjustment to trim out as much of this vibration as possible.  Recommending the crew take their stations and secure for inflection.”
+Dringoth got up.  “I’ll drink to that.  Jumpers, you heard the man.  Take your stations.”
+The four of them were strapped in to their seats on the command deck less than five minutes later.
+Cygnus had acquired a slight low-rate roll as she approached the Jaw.  Though worrisome, it caused no ill effects and Dringoth elected to let the spin continue.  He knew they were in the clutches of the Jaw already and there probably wasn’t enough maneuvering power to counter the spin anyway.
+“Reminds me of the Dragon’s Tail at the Nomad Township circus,” Golich gritted out.  The ship was accelerating and URME had ordered all crewmembers to trigger their protective bot screens to shield them from the worst effects.  
+“Hold on to your hats, ladies and gentlemen,” Dringoth called out.  “This will be one wicked ride.”
+Moments later, seconds away from the inflection point, Cygnus shuddered like a wet dog shaking and her spin rate picked up.  
+M’Bela felt a rising stream of vomit in the back of her throat and she muttered to herself, “Girl, African queens do not throw up, African queens do not throw up—”
+At her point of closest approach, jumpship Cygnus groaned and shook as if a ferocious hand had just swatted her.  Hull plates bent.  Stanchions squealed.  Shards of something shot across the command deck.  Seats swayed under the tremendous stress, joints cracked, seams burst and anything not bolted down went flying…a sleet of debris pelted them for many seconds.
+“Inflection point!” yelled URME.  “Max q!”
+Then, suddenly as it had started, the roll began falling off and Cygnus seemed to take a breath, as her structure was suddenly released from the bite of Newton’s Jaw.   Dringoth tentatively felt his controls and sensed a reassuring bite; there seemed to be just enough maneuvering to give him a little feedback at the main console.  Grateful, he pulsed the ship’s flowvaters and planes and she responded, reluctantly, awkwardly, but there was something there.
+“Channel walls, URME…how close are we?”
+The TFD1 checked their heading.  “On course, Captain…right in the middle of the exit pipe…now exiting the distortion cone!  Past max q—now riding the outer bands!”
+Evelyn M’Bela managed to turn her head just enough to take a peek out a nearby porthole.  What she saw nearly made her throw up.
+The light from scores of distant suns had come through the gravitational lens and expanded into a million lights, all swirling and revolving like a slow-motion explosion, a tornado of glass shards caught in a vast floodlight.
+With no more control, M’Bela lost what little she had left of her breakfast.
+“Channel walls, Captain…dead ahead…ten seconds—”
+Dringoth gritted his teeth.  There were about a million things that still go wrong with this stunt.  “Give me the count, URME!”
+“Five…four…three…two…one…MARK!”
+Cygnus slammed into the walls of the voidtime channel like a rowboat plowing into a monster wave.  
+They had the speed.  URME had confirmed ISAAC’s calculations.  They had the trajectory.  The approach to the inflection point had been precise, gaining them maximum advantage from the gravity assist the Jaw had imparted.  The ship was trimmed as well as she could be, with minimal rates in all axes.
+The question was: could she hold together?  The Coethi had bodyslammed the ship right through the very same channel days before and somehow, she had held.  But multiple passes through the mouth of the dragon wasn’t what the designers of Cygnus had in mind when her shipwrights had welded and beamed her together in the drydock at K-World.
+Dringoth felt his mouth go dry as the ship plunged into the maelstrom.  
+
+It was URME who first said something after the passage.  The swarm entity released itself from containment in the seat and checked nav instruments on his console.  On his own, URME ordered ISAAC to begin star sightings and determine Cygnus’ true position.  While this was going on, URME attended to the rest of the crew.
+Nobody seemed seriously hurt.  Dringoth had bit his tongue and his face was banded with dried streaks of blood.  URME dressed the cuts and did a quick medstik on the tongue.  The Captain soon waved him off and bent to his own console.
+Golich was already up and about, smiling wanly at URME while both of them went to the rear of the deck to see about Queenie.
+M’Bela had thrown up and the dried residue was all over her face.  She came to when Golich was dabbing at some lacerations and URME was injecting medbots to deal with severe bruising on her arms and shoulders.
+M’Bela took a deep breath.  “I must look like one hell of a queen to you guys.  Did we make it?”
+“ISAAC’s checking now,” Golich told her.  URME gave her something to drink.  “Swallow this, Jumpmaster M’Bela.  It’s got respirocytes and osteobots, a real nice cocktail…fix you right up.”
+M’Bela made a face and down it on one gulp.  “Yuck!  Tastes like pig snot.”
+Dringoth got ISAAC’s sightings back and pumped the air with a triumphant fist.  “Yes!  There’s Sigma Albeth…right where we left her!  Good job, URME.  Good job.  I’m bringing propulsors on line now…whatever we have.  Maybe we can limp back to Storm and pick up our castaways.”
+Golich took his seat.  “If I know Acth:On’e, he’ll have a whole town built by the time we get back.
+Cygnus turned about toward the inner system, lit off her propulsors—URME had managed to jigger them enough to get fifty percent capacity, and let the star’s gravity help pull them sunward.  
+Three days later, she reached Storm and descended through icy fog and tricky gale-force crosswinds to a rattling landing on the precipice overlooking Storm’s north polar sea.  The low gray dome of the Twister was faintly visible through the sleet, further out to sea.  The control hut and loose pallets of equipment appeared undisturbed near the landing site.  
+“Hallelujah,” said Golich as they touched down and Cygnus finally stopped swaying and rocking. “I never thought we’d make it back.”
+M’Bela kissed an ivory amulet on her necklace.  “Ka e too Chineke,” she muttered.  “God be praised.”
+URME did a quick scan around the landing site.  “Detecting no movement of any kind.  No readings of any Uman presence…for at least several hours.  Residual infrared…and a few stray molecules, that’s all.”
+Dringoth was concerned.  “Where the hell are they?”
+Golich looked through his porthole, which had a better angle downslope to the tiny spit of a beach.  His eyes spied movement.  “There they are…down on the beach.”
+That’s when he saw something else…something not Uman at all.
+“Captain…looks like they have company.”
+
+Chapter 3: “Modus Vivendi”
+
+“Diplomacy is the art of letting someone else have your way.”
+									David Frost
+
+Storm
+Kinlok Island
+Time Stream T-001 (2814 CE)
+T-date: 001-12-06
+
+Dringoth was furious when he heard the news from Acth:On’e.  
+“What do you mean the Twister’s not operable?  What’s happened?”
+The entire crew of 1st Time Displacement Battery had gathered in Cygnus’ crew’s mess.  Steaming bowls of chowder and beer had been laid out.  Good-natured ribbing and quick tales of what had happened when the Coethi had punched Cygnus into voidtime went around the cramped compartment.  There were dirty jokes, lies, a few purple insults and raucous curses.  
+Then Acth:On’e explained what had happened.  Alicia Yang hung nearby, echoing everything the Telitorian said.
+“They call themselves Seomish, the best I can make out,” Acth:On’e told them.  “The Survey Service was wrong.  Storm’s not uninhabited.  There appears to be a whole marine civilization under the sea here.”
+Yang picked up the story, wanting to make sure Dringoth heard the right spin.  “The Twister’s damaging their world.  It’s the acoustic output, the vibrations…they say their cities are crumbling, their people are getting sick, babies are malformed…they did what they had to, Captain.  They did something to the chronotron pods—most of them—some kind of serpent-like beasts—that’s the best way I can describe it.  They made off with over half of them…just pulled ‘em off and took them.”
+Dringoth threw up his hands.  Chowder dribbled down his chin.  “And you let them?  You do have weapons, don’t you?  You do know how to fight, don’t you?  1st TD is not a debating society.  This is a combat unit and we have a mission—”
+“Captain,” Yang implored the CC1.  “I think I can convince them to cooperate, give us back the pods.”
+“How, with your good looks?”
+Yang said, “Ac and I figured out what that device is, Captain.  The one we picked up on the beach a few weeks ago.”
+Acth:On’e agreed.  “It’s a translator…if I’m understanding all their squeaks and clicks, it’s called something like an ‘echopod.’  They have an entire language based on all those clicks and squeaks.”
+“We think they want us to come with them, see what damage the Twister was doing.”  Yang’s eyes implored Dringoth. “Captain, I think we should do it.  I’m willing to go.  I can communicate with them, sort of.  I can convince them to give us the pods back.”
+Dringoth examined Yang’s face as a doctor would a patient, looking for something, anything, that could explain her words.  A flicker of sympathy crossed the Ultrarch-Captain’s face; his eyes softened their hard gaze.  “This is a serious request?”
+“Yes, sir.  It is.”
+Dringoth took a deep breath and looked to Acth:On’e for some kind of support.  “You…Alicia, you understand what this means, don’t you?  The Coethi, I mean—you could become a hostage.“
+“I understand, sir.  I’m prepared to absolve you of any official responsibility.”
+Dringoth stared blankly out to sea, watching the surf pile up around the headlands that guarded the bay.  “No, no, I didn’t mean that.”  He reached for Yang’s hand and held it tightly.  “I suppose you never did really fit in that well.”  He shook his head sadly.  “Casualties of war…voidtime does that to people.  I lost a friend that way—an Elamoid fellow, you know how they are, half machine and half lizard.  We blipped into voidtime together and both took a hit from a Coethi timecrasher.  I blipped back to truetime.  He never returned.”  Dringoth relived the experience and sighed.  “I guess you’ve gone through enough, Alicia.  We all have.  Three plus terrs in voidtime is enough sacrifice for any warrior.  Time Guard shouldn’t keep sending them out like that.”
+“Then I can stay with Bigfin?”
+Dringoth laughed in spite of himself.  “Bigfin?  Is that what you call him?”  He scooped up some dirt from the hut floor and let it sift through his fingers.  “How can I say no?  You’ve earned the right to die with whatever dignity you can find on this sewer of a world.  Where better than on good old solid ground, where the sun comes up and goes down every day and nothing ever changes?  It’s the least anybody can do—to grant someone the chance to choose when and where they’ll die.  But there’s just one question, Jumpmaster Yang, that I’d like to have answered.  Why?”
+What could she say?  “I belong here, Captain.  Somehow, I’m a part of all this and don’t ask me to explain.  It’s something I’ve felt ever since we landed here.”
+Dringoth turned to Acth:On’e.  “Got anything you want to add?  You’re not going, by the way.  I can’t afford to lose two of you.”
+Acth:On’e demurred.  “I think it’s worth the risk, Captain.  Yang and I have been trying to communicate with these…er, people, ever since you’ve left.  We’ve made some progress, though not very much.  Perhaps, Jumpmaster Yang could do a little anthropology while she’s down below.  The Survey Service—”
+Dringoth glared at both of them.  To Yang, he said sourly, “Go on, Alicia.  Get out of here.  And get those pods back.”
+Yang saluted.  She left the hut and the crew watched her work her way down the slope of the precipice.  Two of the Seomish creatures waited for her on the beach.  As Dringoth watched, they took her by the arm and led her willingly out into the rough surf.  Moments later, the three of them dove into a steep wave and were gone.
+“We should have taken those two characters hostage,” growled Golich.  He went back to work on a small circuit board he’d been troubleshooting.  “Demand our pods back…or else.”
+Dringoth was thoughtful.  “They’re stupid…and doomed and they may not even know it.  The Coethi are still around here.  If we don’t get the Twister working, their whole world is doomed.”  He turned back to Acth:On’e.  “Okay, Ac, let’s go over the damage reports again.  We need to repair what we can as fast as we can.  And Commander--” he said to Golich, “get Cygnus ready for emergency departure.  If Coethi shows up and Yang’s not back, we’ll have to scram off this hellhole as fast as we can.”
+
+The best Alicia Yang could make out, the small compartment was like a miniature submarine.  It was shaped like a large egg, and the echopod translated their words as something like ‘notwater pod.’  Attached by tow line to a larger vessel, Yang was grateful for the space—it was dry and she could breathe something like air—it smelled like burned metal and wet grass.  But at least it was air.
+ Their names were nearly unpronounceable but Yang tried the best she could.  The larger Seomish was male, referring to himself as—it came out sounding like ‘B’kloo.’  The smaller one was female.  Her name sounded like ‘Pakma.’
+They said they were Omtorish and they were taking a trip to their own kel…it was called Omt’or.  Yang watched the echopod vibrating, growing by turns warm and cool, changing colors along one side, sitting in her lap as she studied her surroundings.  There were small openings near the hatch above her.  Outside, the waters were dark, murky, vaguely gray-green and filled with all manner of strange sea life, things with gaping mouths, elongated strings undulating in formation with lights flickering, fantastic beasts with razor teeth large as swords.  
+She shivered in spite of herself.  When she asked how long the trip was, the answer came back through the echopod: “Shkreeah…many beats…you rest…eat…kkkqqlllqq…in litor’kel is Omt’or….”
+Soon enough the drone of the water jets powering the towing sled lulled her to sleep.
+When she came to, the waters had changed.  
+Now, the waters were lighter, with less of a cross-current.  They were in different seas now.  She sampled something they had said was edible—it translated as ‘tong’pod’ and tasted vaguely like crab.  Yang tried asking the question she knew she had to ask.
+“When can I get my pods back?  You stole the pods and we need them back.  It’ll be bad for all of us if I can’t go back to my people with the pods.”
+Long moments passed before a reply came back.  It sounded like both of them were talking at the same time and quite agitated.  All the squawks and squeaks…the echopod fritzed and hummed trying to keep up with the translation.
+“Skkrreeah…kklllqq…wavemaker big sound…slide dirt…ve’skort and death falls…our kelke die…”
+Yang listened carefully.  She had learned she could make small adjustments to the echopod, changing its volume and pitch, maybe even altering the translation.  Some adjustments made the voice stream clearer, some didn’t.  She finagled for awhile, then gave up.
+“You’re saying…this wavemaker…I’m assuming you mean the Twister.  It’s causing death.  Mudslides…something like that.”
+“Kkllqq…some beats…you pulse…you see….”
+Maybe only a short distance to go, she figured.  A short distance to whatever they want to show me.
+But their journey was soon interrupted by something Alicia Yang figured had to be some kind of nightmare.
+B’kloo had told her that the kip’t was no more than a hundred beats from the turbulent T’kel’rok zone when they came upon a furious battle between a hungry mesodont, scavenging through a field of scrubby bushes on the bottom and a seamother it had startled.  B’kloo braked quickly and steered the kip’t toward a dome of rock that poked above the mud, unwilling to risk the attention of the seamother when she was angered.
+Yang was now fully awake.  Her stomach bubbled nervously.  She stared through the tiny porthole in awe at the fierce struggle.
+The seamother had a considerable advantage in quickness.  Her favorite weapon was her tail, ribbed with spikes and deadly.  Back and forth, the tail thrashed, scraping the tough hide of the enemy.  The mesodont lashed out with sharp pincers, seldom striking its target, but persistent enough to avoid a direct attack.  
+They skirmished for nearly an hour, each trying to wear the other down.  The seamother tried several times to lunge in and flip the mesodont over with her tail but each time caught a pincer in the side and had to retreat.   The waters frothed with blood and viscera and still they fought on.
+The battle raged in near stalemate until the nightwaters came.  Both creatures were exhausted, yet fought automatically, as if guided by unseen hands to destruction.  The mesodont had lost three of its eight legs, pincers and all, while the seamother bled freely from deep gashes in her belly and head.  One eye was shut, ripped out and scabbed over.  Squeals of pain and anger had long since been replaced by a deathly chittering, clicking away the last moments of life.
+Somehow, despite its crippling injuries, the mesodont mustered enough strength to burrow so deeply into the mud that it became impervious to continued attack.  The seamother was enraged by this and tore furiously at the mud and silt but not fast enough to catch up.  Soon, only a bruised gray hump was all that protruded from the mud.  With that, the seamother bellowed forlornly.
+Twisting her broken body, she bounded for the surface, several hundred beats above them.  The waters were clear enough to see when she breached it in an explosion of foam and bubbles.  The paroxysm of anger lasted for several minutes, then suddenly, the seamother was quiet.  She drifted at the surface, dragged by waves toward some distant shore.  Yang watched in fascination at the sight.
+B’kloo’s voice came over the echopod, speaking first, after a moment’s reflection.
+“Qqqlllqq…when they die, they seek Notwater.  Homewaters to them…like you.”
+“Amazing,” was all Yang could say.  
+B’kloo waited a few more moments but the way seemed clear and he lifted the kip’t on its jets and resumed their journey.  To Pakma, he added, “I haven’t seen Puk’lek in these waters before.  She was well south from her normal feeding grounds.”
+“Probably the Sound from the wavemaker,” Pakma added.  “Everybody’s trying to get away from it.”
+B’kloo piloted them on, toward the Serpentine gap and the rough waters where the great currents split apart, the P’omtor continuing west and the Tchor slicing through the gap toward the abyssal plains to the south, toward Omsh’pont and home.
+It was in their final spiraling approach to the valley of their home settlement, that Alicia Yang first heard the sound.  It came as a numbing, head-pounding beat that you could feel more than hear.  
+They’ve started up the Twister again, she told herself.  Probably some kind of test. The sound is amplified by this valley.  
+By sight, the city Omsh’pont could barely be seen in the silt and murk of the central sea of Omt’orkel, but even a cursory glance would have betrayed the outlines of a great city.  The main axes were wedged in between towering seamounts, held, as it were, in the bosom of the mountains atop a flat mesa-like plateau in the middle.  
+Pulse in any direction and you would learn of domes and pavilions and floatways and more domes, interspersed with cylindrical structures and pyramids and cones, a geometric forest of cubes and humps and tent-like coverings, all of it crammed and pungent with noisy, honking, bellowing, clicking, snorting life…that was Omsh’pont, the city of Om’t. 
+And the distant beat of the Twister was wrecking this vast city…even Yang could tell that.  
+They crossed over a range of hills Pakma had called Kip’tor and finally came into the great valley of the Metah’shpont.  Right away, though the wavemaker sound was slightly muted here, Yang could see dense clouds of floating debris drifting over the city.  Rubble and rock rained down in a never-ending hail and she could tell where the broad shoulders of the Metah’shpont had slumped, losing half its southern promontory, presumably to the vibration and acoustic assault of the Twister.  An entire shelf of rock and half the face of the seamount had collapsed onto the floatways and pavilions and canopies and burrows below, burying fully a quarter of the city in mud and silt.
+Everywhere, Omtorish kelke clustered in knots and crowds, some roaming aimlessly, wailing and crying, others digging through the growing mounds of mud for loved ones, prized possessions, a favorite scentbulb or pod, some old piece of furniture.  
+B’kloo steered the sled through more scenes of destruction and desolation and Yang felt her heart burn at the anguish.  There was no need for an echopod translation, wails and cries and screams filtered into her cabin just the same.  B’kloo and Pakma said nothing and Yang was left to the growing misery of her own thoughts.
+They reached the end of the valley and began circling back and Yang saw the vast grid of Omsh’pont was nearly obscured by the silt and rain of floating debris.  The collapsed seamount at the far end of the valley was still shedding rubble and hills of mud lined the farthest districts of the city, burying homes, shops, gardens, everything.  In among the suspended clumps of wreckage, knots of people moved about, poking and sniffing, trying to find their own belongings.  To Yang, it looked like a gigantic underwater yard sale.
+“This is awful,” she muttered to herself.  “Captain needs to see this.”  She pressed a key on her wristpad and held it up to the porthole.  “Maybe I can get some of this on vid.”  
+They cruised about the city for many minutes, then B’kloo’s scratchy voice crackled through the echopod.  
+“Shkkrreeah…return Kinlok…you say…meetor’kel waters…ak’loosh comes…stop sound….”
+Yang tried reasoning with them over the echopod.  “We can’t stop the Twister.  And if we don’t get our chronopods back, the Twister doesn’t work.  Maybe not at all.  The Twister protects this space, this world.  If the Twister fails, your world will be destroyed.”
+For a long time, the Seomish said nothing and Yang wondered if the echopod rendered her words accurately.  Maybe I made too many adjustments. 
+Then: “Kinlok many beats…you rest…litor’kel ge…we pulse….”
+“Okay,” Yang said to herself.  “That sounds like ‘it’s a long way back…take a nap.’  Not a bad idea.”  She finished off the tong’pod and wedged herself into a small niche in the cramped notwater pod.  Soon, she was fast asleep.
+
+ Dringoth was skeptical, even with the evidence they all watched and heard from her wristpad recording.  
+“What about my pods?” he asked.  “Are we getting those back?”
+Yang had to admit she couldn’t say exactly when or even if the chronotron pods would be returned.
+“I think they want us to do something about all the sound and vibration the Twister makes.  Captain, I saw it myself.  I heard it.  When you powered up the Twister, the acoustics made a shattering sound in that valley…the hills amplify it.  We’re destroying their whole world, every minute the Twister operates.  The seas have a deep sound channel that makes a tremendous reverberation, all the way to their homewaters.”
+Dringoth was growing frustrated.  “Didn’t you explain what the Twister is?  You think we’re destroying their home…what the hell about the Coethi?  Alicia, we’re right on the front lines here.  If we can’t push the Coethi back, the Bugs’ll probably use their starballs to make atom fluff of this whole system.  And if that happens—” he looked over at Golich, who frowned in agreement—and finished Dringoth’s argument.
+“Time Guard may have to abandon this whole sector.  Jeez, Alicia, this whole sector of Halo space, Halo Alpha, would have to be abandoned to the Coethi.”
+Acth:On’e agreed.  “It’s certain that many settlements would be threatened…Gavrilon, Nanjiang, all the 40 Omicron worlds…all would have to be abandoned.  Coethi would be pouring into Uman space and there would be no stopping them.”
+Dringoth thanked the others with his eyes.  “You see, Alicia…one way or another, we’ve got to get those pods back.  Otherwise, I call up Time Guard and give them the bad news.  Won’t that look good on our records?  First TD gets a new commander, a new crew and we all wind up assigned to some god-forsaken outpost the other side of Time’s Peak.”
+Yang wrung her hands in exasperation.  “Captain, I tried.  They wanted to show me what the Twister was doing.  I told them we needed the pods back.  I thought they understood…maybe I didn’t understand.”
+Golich snarled, “Maybe we should show them what we can do…I can think of something they’ll understand.”  He fingered the barrel of a nearby coilgun.  “Maybe Jumpmaster Yang hasn’t fully recovered from her time with Trident…all those bots in her head.”
+Yang bristled and would have yanked the coilgun out of Golich’s fingers but Dringoth saw it coming and intervened.  “Okay, that’s enough, you two.  We’re not diplomats here.  We’re soldiers…time jumpers.  We’ve got a mission and I mean to complete it.”
+Acth:On’e raised a hand.  “There is something we might consider, Captain, if I may.”
+“Yeah, go ahead, Ac.”
+“Sir, it may be possible to design a crude sort of damping field generator, a sort of acoustic shield.  If we can measure the acoustic energy of the Twister, get the right frequencies, I could design a damper and set it up on the seabed.  URME here could help me.  Done right, we could dampen the Twister’s underwater acoustics with out-of-phase acoustics from the damper.”
+The Unit Reserve Memory Entity agreed.  “I have many designs on file for such devices.  All we would need is accurate measurements of the acoustic output of the Twister.”
+Dringoth felt like his head was caught in a vise.  The Coethi had already probed this sector and Cygnus had barely been able to escape and limp back to Storm.  The local life had stolen half the working parts of the Twister.  The Twister itself was wrecking their oceans and they wouldn’t give the pods back until they got some relief.
+I need relief, he thought ruefully.  But Acth:On’e’s idea seemed the best way out of a bad situation.
+“Okay, Ac, you and URME get to work.”  To Yang, “Get down there to the beach and call your fish friends.  Tell them what we’re doing.  Make ‘em understand, Alicia.  They’ve got to give us those pods back and soon.  Any minute now, Coethi could pop out of voidtime and catch us with our pants down.”  Dringoth smiled darkly.  “And I don’t like having my pants down unless something wonderful’s about to happen.”
+Yang slid and skidded her way down the precipice slope to the beach, echopod in hand.  The Seomish were nowhere to be seen but she had the impression they weren’t far away.  She hoped the echopod worked as a transmitter as well as translator.  
+She spoke some words, carefully as she could, into the echopod, hoping it was set to RECORD.  I’m still learning this blasted device.  Then she submerged the thing below the waters in a small pool offshore and thumbed what she hoped was TRANSMIT.  The echopod vibrated and turned a dim orange-yellow below the surface.  When it stopped vibrating, she lifted it out of the water and sat down on some slippery, moss-covered rocks, shivering in the icy wind and waited for something to happen.
+An hour later, she scanned the horizon and saw the gray hump of a Seomish sled breach the surface in an explosion of spray and foam—they had called it a kip’t.  A hatch popped open.  One figure…maybe it was B’kloo, maybe not…got out and clambered awkwardly in its protective suit through the waves and up onto the beach.  The creature towered over her, easily almost three meters in height, swaying, wheezing, water misting off its helmet.  Inside, the helmet, she could see the beaked face, the faintly amused dolphin’s smile.  
+“Shkkreeah…pods here…we have come…you help--?”
+Maybe it was her imagination, for the echopod still chirped and grunted as before, but she seemed able to make out more words, more meaning, from the clicking and chattering that emerged from the device.  
+“You brought our pods back…where are they…we need to get them installed right away.”
+Now the creature…she was increasingly convinced this was a new individual, not B’kloo or Pakma…loomed over her and seemed about to topple over.  It clung to a boulder, then backed off into an ice-rimed pool and partially submerged.  Probably more comfortable, Yang concluded.   Like me and Emile before a Terminator Rhythmics dance contest…we always go outside the domes and just skip across the floor of Copernicus…helps limber up our legs…until the fall, until Emile died, the stupid jerk….
+The creature spoke again. “Kkkqqllllkkqq….bzzzt…you call damper…we help…find focus…we guide….”
+To Alicia, it meant the Seomish would help Acth:On’e and URME find the right place to locate the damper.  A focal point, where the damping field would work best.  
+They do understand what we’re trying to accomplish.
+A kind of conversation ensued, with Yang understanding about ten percent of their words and language.  
+“When do we get our pods back?”  The echopod burped and fritzed and crackled, with whistles and creaks and groans emanating from the top.  
+The creature gestured to the sea.  Yang looked out and saw between the beach and the inverted dish of the Twister a scattering of gray humps.
+“…puk’lek…” said the echopod.  “Shkreeah…your ‘pods’…when sound stops…we give….”
+Yang figured he or she meant the pods would come back when Acth:On’e’s shield was in place.
+By fits and starts, through the echopod, she learned more about the Seomish and their world beneath the waves.
+The aquatic world of Seome was subdivided into five great seas (or’keln), though there was in fact only one world ocean.
+Each sea was the dominion of one of the five great nations, water-clans, or tribes (Yang eventually understood that the meaning varied in context): these were the kels.  The kels were both political and familial in nature.  In Seomish mythology-history, each kel was descended from one female ancestor, countless millennia ago, impregnated by God (Shooki or Schooke) for the purpose of filling all the waters with life.  The first females were known collectively as the Five Daughters, and all life on Seome was descended from them (they were revered as demi-gods.).
+Each Daughter begat two offspring (after the creation of the lower orders), one male and one female.  These were the First Mortals and each kel considers its F.M.s as the ultimate ancestors of everyone who had lived since or would ever live.  The F.M.s were the direct parents of the kel.
+In Seomish theology, Shooki created and impregnated the Five Daughters because he was lonely and wished companionship.  Accordingly, three extremely important religious-moral-ethical concepts in Seomish culture were friendship, fertility (or appetite) and what could best be described as a kind of internal tranquility.  The Seomish seemed playful and gregarious by nature, generally promiscuous (within bounds) and pleasure-seeking.  They were not psychologically disposed to dissatisfaction or self-sacrifice, normally.  The universe was created by the confluence of three great currents, the Seomish said: Ke’shoo, Ke’lee, and Shoo’kel, or figuratively, love, life and happiness.  This view was applied to many things, especially kel ancestry, or specifically, which First Mortal most possessed which trait.  It was a subject of endless debate.
+While Yang learned what she could of the Seomish, Acth:On’e and URME had finished the design of the damping field generator.  The design was parceled out to several of Cygnus’ fabs and the parts printed in good order.  After close inspections and a few component-level tests, the thing was ready to be installed.
+Already in his hypersuit, Acth:On’e crept down the precipice with a big bag of shield parts, plus a containment capsule provided by URME, a capsule filled with already-configured bots programmed to build the damper foundation.  He found Yang sitting on a rock, her feet in the water, more or less conversing with one of the Seomish.  The creature looked like a Telitorian frog on steroids.
+“This what we have to install,” he told her.  “Go get your hypersuit, while I load up the skimmer.”
+Yang took a deep breath.  Her face had a faraway look.  “These are really incredible people, Ac.  What he’s been telling me…what I can understand of it…a whole civilization below the—”
+“Alicia…get suited up.  Captain’s orders.”
+Yang grumbled and climbed back to the ship.  She returned a few minutes later, to find the skimmer already beached and Acth:On’e’s gear in the boat and lashed down.
+Now the echopod chirped again.  “Kkkkzzzqqqlll…follow you…best location show….”
+Acth:On’e and Yang looked at each other, got in the skimmer and shoved off.  The Seomish creature dove through the waves ahead of them and stroked easily just below the surface, powered by some kind of water jet at the base of its suit.  A few kilometers offshore, it dove again and disappeared.
+“I guess that’s our cue,” Yang said.  She and Acth:On’e buttoned up their suits and, with Acth holding the bag, they dropped overboard and descended slowly to the seabed.
+Installation took a few hours, testing a few more.  As they maneuvered about the foundation and the silted seabed, Yang realized they had company…lots of it.  The water was dark and filled with ice and sediment, with strong cross-currents, but they had occasional glances of faces, fins, flukes materializing out of the murk.
+“There must be scores of them, Ac, all around us.  Look how graceful they are.”
+“Just so they give those pods back.  Come on…that’s all we can do down here.  I don’t want to be in the water near this thing when URME starts testing.”
+From inside the controls hut onshore, URME powered up the damping field generator and matched its frequency emitters with acoustic samples from the Twister.  With a little adjusting and tweaking and a few well-learned expletives (URME had learned his more colorful phrases from Golich), the damper was pronounced ready.
+Dringoth scowled at Yang.  “Okay, Jumpmaster Yang, where are my pods?  I’ve finished my part of the bargain.”
+“There they are!” said M’Bela, peering out a window.
+They all took a look at the sight.  Yang sucked in her breath.  Golich muttered, “I’ll be damned.”  Acth:On’e said something in his Telitorian dialect that nobody understood.
+Just beyond the surf line, a gathering of the huge seamother beasts had breached the surface, spouting spray and foam, splashing about in the shallows, their spiked tails slamming the water.  Other smaller creatures could be seen nearby…probably Seomish handlers, Yang theorized.
+“Look!” she cried.
+Each of the dragon-like serpents had been drawn or coaxed close to shore.  One after another, the beasts yawned wide, revealing rows of sharp teeth…and something else.  Flexing and thrashing with spasms, each serpent regurgitated what looked like rocks or stones, but it was M’Bela who scanned the sight with a scope and told them:
+“The pods!  Those aren’t stones!  Those things are our pods.  They’re vomiting up pods…dozens of them.  Look!”
+Dringoth felt bile rising in his throat.  “Disgusting, if you ask me. Somebody start counting…there’d better be seventy of those things.  And clean all that crap off.”
+Golich just shook his head.  “And I thought the aractyls on K-World were weird.”
+When the seamothers were done and the beach was littered with pods dripping in mucous and saliva, Yang was first out the hut, scrambling and sliding down the slope to the beach.  Acth:On’e came behind, still in his hypersuit but no helmet.  M’Bela followed--”…now this I gotta see….”
+They rounded up the pods, counted them out, cleaned them off and did quick checks on the devices, using Acth:On’e’s suit connections back to Cygnus.  One by one, each pod was fully tested and when the test protocol was completed, with Golich and URME signing off, Dringoth made a decision. Finally, all the chronopods were pronounced ready.
+Dringoth talked to Acth:On’e and Yang over their suit circuit.  “Get to work, both of you.  Queenie, get buttoned up yourself and help out.  We’ve got to get the Twister up and operating as soon as we can.  T2’s sending bulletins everyday about possible Coethi probes in this sector.  Battalion is counting on us and 1st Time Displacement will be ready when the flag goes up.”
+Nobody argued with Jump Captain Monthan Dringoth when his voice had that inflection.
+During the installation, Yang had occasional glances of several Seomish creatures cruising about near the Twister, silvery-gray humps breaching and then diving back into the water.  She knew they needed to clear the area when the platform was powered up and she said so on her echopod.
+“If you don’t, the twist fields will yank you off into oblivion.  The Twister creates scores of vortexes.  Stay back…stay well back.”
+The Seomish said nothing and, as Yang completed her connecting and wiring duties, she could see in her mind’s eye the outlines of the great city she had seen so many beats to their south, the way the Seomish handled the seamothers, their sleds and technology, their language and beliefs…it was all a wonderful blur in her mind.
+Someday, she told herself.  Someday, when I get some liberty time….
+
+The next morning, the Time Twister Mark I was declared operational.  At M’Bela’s urging, Dringoth relented and authorized a short celebration in the crew’s mess.
+URME did small dessert favors from the fabs and topped them off with something he claimed had come from Hapsh’m.  “Try them…you’ll like them,” he insisted.
+Golich made a face.  “URME, they look like worms.”
+But the cakes were slammed down anyway.
+Evelyn M’Bela pumped a fist.  “Nobody messes with 1st TD, right?  Am I right?”
+“Queenie’s always right,” declared Golich.  He polished off a thimble of something ‘medicinal,’ and grinned a lopsided grin at Dringoth.  The Captain smiled back faintly and shook his head.  Golich leered at M ‘Bela.  “Maybe we can convince Her Royal Highness to do her jungle dance...strut her stuff for the long-suffering crew.”
+“Commander, sir,” M’Bela said back correctly, hoisting her own libation, “when the Rain Queen of Lovedu struts her stuff, nations tremble.  You’ll need more than a hypersuit when I strut.”
+Dringoth was about to call a halt to the proceedings when an alarm sounded over the crew comm.  
+“That’s the battle alarm!” Yang said.
+URME’s voice came over the comm next.  The Unit Reserve Memory Entity was manning the command deck.
+“Captain, scanning possible aspect change along the voidtime interface…could be Coethi.”
+Golich checked his wristpad, slaved to another array of detectors.  “I concur, Captain, based on gravimetric frequency shifts…not large, maybe a recon or probe.”
+Dringoth said firmly, “Everybody to stations.  Power up the Twister…mode One Charlie, standby.  Make sure the T-buffers are cleared too.”
+The crew scattered in a well-ordered but chaotic drill to their positions throughout the ship.  Every crewperson knew their duties: Dringoth, Golich, M’Bela and URME would be on the command deck.  Yang and Acth:On’e would be aft, on E deck, manning Engineering and Defense stations.
+It was URME who noticed something different, something ominous, about this incursion.  “It’s Coethi, Captain, and Cygnus is detecting spikes in fusium bands, all wavelengths.”
+Dringoth swore.  “Standard starball assault.  This is no recon.  It’s a full-scale assault.  Twister?”
+URME checked with Acth:On’e at Engineering, then announced, “Singularity engine at eighty percent.  Five pods not working, they failed at powerup.  We’ll be ready in one minute.”
+Dringoth gritted his teeth.  “We may not have one minute.”
+Golich saw the fusium frequency spike suddenly go off scale on his board.  “They’re launching, Captain.  Starball volley.  Multiple rounds…best bearing is right ascension sixty-four point five degrees, declination ten…no, make that twelve degrees.”
+“Headed right for the star,” M’Bela said from her station.
+URME said, “Twister at full power, Captain…I’ve compensated for the lost pods.  Requesting permission to engage Twister.”
+“You are authorized to engage the Twister.”
+Yang’s voice trickled up from the DPS station.  “Captain, we should engage the damper.”
+“Don’t worry about the friggin’ damper!”
+But Yang had already triggered the damping field generator.  
+At the Captain’s orders, the Time Twister pulsed a wave of concentrated twist fields at the Coethi target.  Several hundred million kilometers away, the Coethi fleet managed to loose two more starballs at Sigma Albeth B before the rounds from the Twister hit.  When they did, the Coethi fleet was obliterated in an instant, swept into oblivion by the impact, sliced and diced into entangled particles of quantum foam and yanked off to the farthest reaches of the Galaxy.  All that remained was a barely measurable bulge in the voidtime channel, which quickly evaporated and was gone.
+“It worked!” Golich slammed a fist on his armrest.  “The sucker actually worked!”
+“Just like we trained,” M’Bela exulted.  “Just like the sims…I’ll be damned.”
+But it was URME who pulled them back into the reality of the moment.  “Three, possible four starballs, twenty seconds from impact.  Direct heading to Sigma Albeth…first photosphere effects now visible.”
+On screens throughout the ship, every crewperson held their breath and watched as the starballs slammed into the star.  For a few moments, nothing seemed to happen.  But deep inside the fusion reactor that was Sigma Albeth B, vast and relentless changes were already underway.  
+Outside Cygnus, the changes were soon noticeable.  
+The sea was rising in the bay beyond the precipice and swept over the beach with scalding, hissing breakers, quickly erasing the last evidence of the Uman camp there.  Beyond the headlands, heavy swells boiled and dense hot mist soon blanketed everything. A dull red glow glinted off the rock cliffs behind the ship, diffusing in the mist like a false sunset.
+Within a few days, a few months at most, Alicia Yang knew the starballs’ effect on the star would reduce Storm to molten slag.  Already, the sun had bloomed to many times its normal brightness; in a quarter of the sky from which Sigma Albeth never gleamed, a broad swath of light burned a blinding radiance.  Facing it through a porthole on E deck, Yang felt the heat and radiation immediately.  She turned away and cupped some water over her face, heedless of the way her skin flushed in the heat. She fanned herself dry.  She didn’t see the first bodies of Seomish victims washing up onto the beach.
+Acth:On’e witnessed her reaction and felt sorry for  her.  “This star’s not going to be around much longer, Alicia.  It may go supernova.  You know we can’t stay here.”
+Yang said nothing.  Instead, she headed for the gangway and climbed forward to the command deck.  There she heard Dringoth, URME, Golich and M’Bela already deep in discussions.
+“It’s near the limit now,” URME was saying.  “I’ve been doing measurements, the best we can from here.  If the mass levels are where I think they are, it will be an irreversible process.”
+Dringoth’s throat went dry.  “Supernova?”
+URME sort of shrugged, a gesture he had picked up recently from his crewmates, not always quite successfully.  “Within the mass of Sigma Albeth B, the onion-layered shells of its elements will undergo catastrophic fusion, eventually reaching the Chandrasekhar limit of mass and begin to collapse.  The inner part of the core will compress into neutrons, causing the infalling material to bounce and form an outward-propagating shock wave.  The shell will then start to stall in this collapse but will be quickly reinvigorated by neutrino interaction across its interior.  Then, the surrounding material will blast away in a titanic rebound explosion, as the collapsing envelope of the star is explosively ejected away, sending material out into space in all directions at speeds in excess of 70,000 kilometers a second.”
+Dringoth was sober.  “I’ve already advised Commandstar of the situation.  How long?”  
+Another almost shrug.  “Best guess…a few months.  Maybe a few years.”
+Alicia Yang’s heart sank at the news.  She went back to her station on E deck and choked back a few tears.  Acth:On’e said nothing.   
+
+The directive from Commandstar came two days later.  Dringoth gathered everybody in the crew’s mess.  
+“TACTRON thinks our position is too exposed here…which is not exactly news to us.”  The Captain had a 3-D projection of local space, the Uman Alliance, the Coethi mother swarm, the front lines, all emanating from his own wristpad.  With his other hand, he highlighted what they all knew.  “Here we are…here’s 40 Omicron 2, with Gavrilon and Nanjiang.  New strategy, according to TACTRON: we dismantle the Twister here, abandon Storm and Battalion will send a small squadron of jumpships to police the border, poke around the edges of voidtime and in general kick Coethi noses back to where they belong.  The thinking is they’re testing us in this sector.”
+M’Bela rubbed her chin thoughtfully, her bone hairpiece clinking.  “So where are they sending us…after all this work to set up the Twister?”
+Golich sniffed sarcastically.  “Probably another rockpile on the far reaches of nowhere.”
+Dringoth ignored that, though he was sympathetic.  He knew his people.  He’d let them blow off steam now so if the balloon went up later, they’re be ready.
+“Word is K-World, Keaton’s World.  TACTRON doesn’t want us to be overwhelmed in case there’s a big incursion coming.  T2 doesn’t see it but TACTRON’s taking no chances.  So the directive is: prepare to dismantle the Twister and abandon everything else in place.  Once that’s done, we light off and head for K-World…other side of Time’s Peak.”
+Golich stated the obvious.  “With what URME’s telling us about the star, this world, this whole planetary system is probably doomed.”
+Dringoth said simply, “Correct.  Can’t be helped.  Orders are orders.  Okay, any questions?”
+There were none.
+Dringoth studied each crewperson in turn: Golich, M’Bela, Acth’On’e, URME, Yang.
+But Yang’s sad face didn’t fully register with the Captain. 
+“Okay, let’s get to work.  We’ve got a lot to do and that sun up there won’t give us any more time.”
+
+Dismantling the Twister, removing the chronotron pods and T-buffers would take three days, and too many skimmer trips out to the site to count.  Everybody helped out, except for URME, who filled his time with ship preparations, systems checks and light maintenance.  The Unit Reserve Memory Entity had also programmed a capsule full of bots to fab a small raft that could be towed behind the skimmer.  There were seventy pods that had to be retrieved and it was sure to be a tedious process.
+“Maybe a raft will help speed things up,” URME had said.
+Acth:On’e, Golich and Yang, clad in hypersuits, set off early in the morning—it was always hard to tell morning on Storm with all the warm rain and fog, not to mention light levels from the sun were steadily and noticeably dropping, to get started.
+The trip out to the Time Twister installation took ten minutes, through heavy surf and gusty winds.
+“I’ll start on the pods topside,” Golich told the others.  “The two of you go below and get the singularity engine ready to drop.”
+Their suits buttoned up, Acth:On’e and Yang dropped overboard and plummeted to the seabed a hundred meters below.  More by feel than sight, with help from sound probing, they located the core tube up which the core that powered the Twister was mounted.
+“Let’s get started,” Acth:On’e said.  
+“Hey, look…some of our friends,” Yang noticed.  The nose and tail thrusters of several Seomish sleds materialized into view, hovered for a moment, then vanished as quickly as they had appeared.  “I’ll bet they’re all around here, wondering what we’re up to.  They’ll be glad the Twister’s going away.”
+“Won’t do them much good,” Acth:On’e said.  He unscrewed the core tube cover and let it drift to the silty bottom.  “Their world’s doomed…could be just a matter of months now.”
+The thought made Yang sad.  But she said nothing.
+The singularity engine was released and gingerly floated out of its tube.  Yang attached buoyant floats to its outer stanchions and the thing rose like a fistful of whirlpools up toward the surface.  Acth:On’e helped guide the ascent, pulling and manipulating on steering cables, to keep the engine straight.  Still fastened to its mount, the engine couldn’t actually be seen for all the foam and froth its currents generated.  Rising steadily, the engine looked like a big mobile water drain, currents and waves and white-hot steam bubbling in a stewpot of turbulence.  It seemed to be sucking in all the water around them and Acth:On’e waved Yang to back off a good distance.
+When the mount broke the surface, it vented and hissed and crackled like a lightning bolt, churning the seas around it for dozens of meters.  Acth:On’e had designed a hoist arrangement to haul the engine and its mount up onto the skimmer deck and into a shielded deck shelter located roughly amidships on the skimmer.  The maneuver took several hours but when the singularity engine was unhooked and slid off its mount into the deck shelter, Acth:On’e and Yang both cheered, though their cheers were muffled from within their hypersuits.  
+The wormhole generator slid down roughly into its shelter, still crackling, venting and hissing and was quickly safed and sealed.  
+Golich shouted down from the Twister above them.  “Take it back to the ship but leave the raft.  Yang can help me up here…jeez, there are a hell of a lot of these things.”
+So Acth:On’e took off for shore in the skimmer.  
+Before climbing up onto the Twister to help, Yang called up.  “I’m going back down, Commander.  We dropped one of the control boxes when we pulled the engine out.  I saw it hit the bottom…may take a few minutes to retrieve it,”
+Golich waved back and Yang disappeared below the waves.
+He continued the laborious task of powering down, unscrewing and releasing each chronotron pod, working his way around the circumference of the huge dish, squinting in the now hot stinging mist and wishing he were anywhere but here.  Being re-assigned to K-World might not be all that bad, especially if it got them away from this hellhole.
+When Acth:On’e returned in the skimmer, he climbed himself up onto the Twister deck.
+“Where’s Yang?” he asked.
+That was when Golich realized Alicia had never returned from below.
+“Shit.”  He eyed the Telitorian ominously.  “She never came back up.”
+“Commander, something may have happened.  We should go down below and look for her…she could be in trouble…those creatures were with us down there, cruising all around us.”
+Golich got on suit comm and let Dringoth know their current status and what they were going to do.
+Dringoth’s voice brooked no argument.  “Find her and finish up with the pods.  URME just did scans of the star.  She’s contracting fast, faster than we thought.  She may not last more than a few days and I want to be a long way from here when she blows.”
+“Copy that, sir,” said Golich.
+The two of then secured the pods they had just unhooked---there were still two dozen left to remove—and ducked under the waves.
+Acth:On’e and Golich cruised about the seabed for a distance of half a kilometer around the Twister foundation, following an intersecting spiral search pattern, but never found any trace of Alicia Yang.  She had vanished.
+Golich went topside and reported this to Cygnus.  Dringoth told them to grab the rest of the pods and report back to the ship.
+
+“We looked everywhere we could get to,” Golich told the Captain.  He and Acth:On’e were still de-suiting outside the lockout on F deck.  Dringoth looked on with irritation.  M’Bela and URME were outside Cygnus, stowing all the pods on racks in the ship’s tailpod.  
+“I did sonar probes along every heading,” Acth:On’e added.  “Nothing but the Twister foundation and a few small hills.  That and those blasted fish people and their sleds.”
+Dringoth swore under his breath, rubbing his moustache.  “I can’t afford to lose a crewmember, certainly not our DPS tech.  But we’re due at K-World in two months and TACTRON isn’t interested in excuses.”
+Acth:On’e nodded.  “If we don’t leave this place in the next few days, we’ll all be fried when Sigma Albeth goes supernova.”
+Golich sniffed.  “Well, that’s pretty much end of mission for 1st Time Displacement Battery.”
+“We’ve got one day,” Dringoth decided.  “Take the skimmer out and sound everywhere, even out to five kilometers.  You still have that translator device in the shop…maybe we can get help from the fish people.”
+Acth:On’e looked one deck above and came back.  “It’s gone.  I think Alicia took it.”
+“Crap,” Dringoth muttered.  “Just friggin’ wonderful.  Get back out there in the skimmer and start sounding.  I’ll give it a day, no more.  After that—” he glared back at all of them.  “We don’t have a choice.”
+It was a stark dilemma, one with an inflexible deadline: search for Yang and hold up their departure, threatening the mission and indeed the very survival of the Battery crew.  Or leave Yang behind and get the hell away from Storm as fast as they could.
+The search proceeded for over twenty-six hours, but no sign of Jumpmaster 1st Class Alicia Yang was ever found.
+Finally, Captain Dringoth could wait no longer.  The hard decision that every commander dreaded would now have to be made.
+
+TO BE CONTINUED
+Appendix 1
+
+Typical Time Displacement Battery
+(1st TD)
+
+Organization and Specialties
+
+CC1/Jump Captain Monthan Dringoth	
+Battery Commanding Officer
+
+TT1/Jump Commander Nathan Golich	
+Temporal Operations/Executive Officer
+
+TM1/Jump Sergeant Acth:On’e		
+Temporal Engineering, Maintenance, Support
+
+TS1/Jump Master 1st Class Evelyn M’Bela	
+Time Stream Search and Surveillance
+
+DPS1/Jump Master 1st Class Alicia Yang	
+Defense and Protective Systems
+
+TFD1/Jump Master 1st Class URME 101	
+(Unit Reserve Memory Entity) 
+Temporal Fire Director
+
+Appendix 2
+
+“There is no single time: there is a different duration for every trajectory and time passes at different rhythms according to place and speed.  It is not directional: the difference between past and future does not exist in the equations of the world; its orientation is merely an aspect that appears when we look at things and neglect the details.  In this blurred view, the past of the universe was in a curiously ‘particular’ state.  The notion of the ‘present’ does not work: in the vast universe, there is nothing that we can reasonably call ‘present.’ The substratum that determines the duration of time is not an independent entity, different from the others that make up the world; it is an aspect of a dynamic field.  It jumps, fluctuates, materializes only by interacting and is not to be found below a minimum scale…So, after all this, what is left of time?”
+										Carlo Rovelli
+										The Order of Time
+
+Allowing for the absolute granularity of time at the most fundamental level of the universe, there are two analogies for traveling through time streams aboard a Time Guard jumpship.  
+One analogy (and it is only an analogy) is that time is a great, infinitely wide river.  A river wide enough has many currents, eddies, substreams and hazards embedded in it, like rocks, hydraulics, rapids, sandbars and shoals.  So does time, in this analogy.  Traveling through time embedded in a time stream aboard a jumpship is analogous to whitewater rafting on a rapidly flowing, twisting and turning water course.  Cross-currents are tricky.  There are eddies.  Undertows.  Flat water and white water. All kinds of hazards.
+Traveling through time involves navigating similar flows.  By the time of Time Jumpers, natural wormholes aren’t needed.  Jumpships can create their own wormholes with an onboard singularity core.  The core interacts with time at its most granular, quantized level. The course of a jumpship through any given time stream is called a world line.  It follows a closed timeline curve in spacetime and any causality paradoxes or violations (such as the “Grandfather Paradox”) are avoided because of the Novikov Self-Consistency Principle.  
+Once in a primary time stream, propulsion and steering are maintained by a propulsor, while the singularity core uses its twist fields to keep the ship in the main stream.  Additional control surfaces are also used, much like a boat or a submarine.  There are flow vanes (flowvaters) and diving planes to shift the ship’s course into another time stream.  Much of the moment-to-moment control of the jumpship is handled automatically although the pilots can exercise control via a fly-by-wire system if they choose.  
+Another analogy for time travel is the electromagnetic spectrum itself, which pervades the Universe.  The analogy here is less effective, although with EM frequencies and waves, there are some similarities to navigating in a time stream.  
+Suffice it to say that navigating time is unlike any trip ever taken by humans before.
+The primary time stream for humans is called T-001.  This time stream is considered the normal unchanged course of events that unfurls moment by moment everyday in our lives.  Additional time streams are for most purposes infinite and only the precision of our navigation and steering allows us to enter subsidiary time streams with any degree of control.  As navigation and steering become ever more precise, jumpships can ‘parse’ off ever-finer slices of time and travel those courses as well.  
+Local time streams (time streams near in time and space to T-001) are numbered T-002, T-003, and so forth.  The higher the number, the greater the temporal distance from T-001.  As of the 29th century and the time period of Time Jumpers, the Time Guard has ships and techniques which allow humans to travel into and out of time streams numbering upwards of T-8500 and below.  Time streams can take jumpships forward or backward in time, depending on how the time stream is navigated.  The mother stream (T-001) is agnostic as to the direction.  Time seemed for generations to have a directionality, but we now know that this was an artifact of our limited knowledge.  Time and space are the Universe and although all evidence points to an expanding Universe, expanding in all directions from a primordial Big Bang, the mother time stream T-001 is navigable in any direction, backward and forward.
+Physics tells us that mass affects the flow of time. Because of this, Time Guard jumpships have to navigate around large masses to stay in the primary time stream, or accept that their transit speed and time will vary according to how close they pass near to large masses, like stars, black holes, etc.  Often navigation charts and courses are plotted to steer clear of known mass concentrations, just as a kayaker in whitewater would steer clear of hydraulics or rocks in a stream.  Other routes are plotted to take advantage of known time stream effects and make quicker runs to common destinations.  
+Time Guard has an operational practice of navigating to and through certain well-traveled time streams for the sake of efficiency, speed and safety.  The critical time streams are listed below:
+T-001 – the mother time stream
+T-009 - a shortcut path to a time when the first human settlements were established on Keaton’s World, home of the Uman Alliance
+T-087 – shortcut time stream to the days of the founding assembly that established the Uman Alliance.  Easily reached from T-009 via a voidtime corridor.
+T-455 – best time stream path to temporal anomaly and wormhole known as Newton’s Jaws.  The Jaws are a confluence of wormholes, generated originally by a local black hole (now artificially maintained by Time Guard) that permit efficient and speedy travel to more distant time streams, such as T-7668 (also known as First Light, a time when the Universe was young, just after the Big Bang and photons became possible amidst the hydrogen soup and quark-gluon plasma that was the early Universe).  Also known as the Great Decoupling or the Dark Age.
+T-9998 – a special time stream that has never been successfully traversed.  This stream takes a traveler (it is theorized) to the earliest formative time of the Universe, a time known as the Planck Epoch and later, the time of Superinflation.  Time Guard protects this time stream with special security forces and the Uman Alliance has passed strict regulations and laws forbidding unauthorized entry and transit into and through this time stream.  As would happen later with T-001 in the time of the Coethi conflict, T-9998 is effectively quarantined from use by Time Guard.  Research probes occasionally are sent in but none have ever returned data, signals or ever been recovered.  Like ancient seafarers’ maps, this is the region of “Here Be Demons.”  
+It is possible to enter the mother time stream and not travel into any other time stream, but rather simply stay caught up in the flow of T-001. 
+In the late 28th century, a new temporal phenomenon was discovered called voidtime.  Certain extreme singularity core conditions allow a jumpship to enter T-001 and yet flow as if it were literally “outside of time”.  Voidtime is a place where time does not flow, nothing ages or deteriorates, a sort of featureless ether that is nonetheless traversable using pulsing features of a jumpship’s singularity core.  Some physicists have theorized that voidtime is like a black hole turned inside out, a place and time where normal laws don’t apply.  In historical terms, voidtime could be considered to be like an ancient sailing ship becalmed in the doldrums, unable to go anywhere, but able only to drift with the prevailing currents.  Now, with singularity pulsing as a technique, it is possible to traverse voidtime, though speeds and navigation accuracy are less than occur in a normal time stream.  
+There are sound tactical reasons for Time Guard to explore and try to utilize voidtime, for a ship in this medium is effectively outside of time and undetectable.  Time Guard continues to explore and chart voidtime as a way of gaining military advantages over enemies such as the Coethi, who also have perfected temporal travel as a technology. 
+
+About the Author
+Philip Bosshardt is a native of Atlanta, Georgia.  He recently retired but worked for nearly 25 years for a large company that makes products everyone uses…just check out the drinks aisle at your grocery store. He’s been happily married for over 27 years.   He’s also a Georgia Tech graduate in Industrial Engineering.  He loves water sports in any form and swims 3 miles a week in anything resembling water.  He and his wife have no children.  
+     For technical and background details on his series Tales of the Quantum Corps, visit his blog Quantum Corps Times at http://qcorpstimes.blogspot.com.  For details on other books in this series, visit his website at http://philbosshardt.wix.com/philip-bosshardt or learn about other books by Philip Bosshardt by visiting www.smashwords.com. 
+     To get a peek at Philip Bosshardt’s notes and the backstory on how the Time Jumpers series was created, recent reviews, excerpts from upcoming books and general updates on the writing life, visit his blog The Word Shed at: http://thewdshed.blogspot.com.
+      Download the next exciting episode of Time Jumpers from Smashwords.com and other fine ebook retailers.  It’s called ‘Keaton’s World’.  Available on March 1, 2019.
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,854 @@
+MAD Star 1: First Insertion
+(SmashWords Edition)
+Copyright 2017 Nathan K.O. and Clint Looney
+
+Table of Contents
+Prologue
+Chapter 1
+Chapter 2
+Chapter 3
+Chapter 4
+Chapter 5
+Chapter 6
+Chapter 7
+Chapter 8
+Epilogue
+Continued in MAD Star 2: Broke Privates
+Prologue
+"You sucka my DIIIICK!"
+Boom.
+A concussive rocket burst four meters from Bradley's faceplate, and the small man went airborne. They say a Hylax always lands on his feet, which holds true most of the time-chuck one off a low building, and he'll land right-side-up like a boss. Push him off the balance beam in gym class, he'll at least manage a stylish roll upon hitting the floor. Set off explosives in his face, and he'll bounce twice and scrabble like a dipshit for a second before righting himself. Bradley slammed back into cover behind a ripped-up wall, and his primary eye-pair darted around the war-torn outpost. Eyes number three and four scanned the minimap in his helmet's display for whomever exploded him, and Bradley's TeamBlab channel squawked.
+"Evasive threat!" shouted one of Bradley's gray-armored soldiers. "We got a teleporting robo-suit in play. Bronze-colored armor with a red fist-print painted on the chest-he won't sit still long enough for target lock. You all right, Gray Leader?"
+"Fine," Bradley said. "Two armor breaches and superficial meat-damage. Watch out for the 'porter and tag him the next time he appears-Gray Six, I want an address resolution on his weapons systems." Between radio phrases, the squad leader worked the small muscles between his cheek and rear-left eyelid to activate shortcuts built into his observation software. He ran down his obsessive minimap checklist-flanking units in place, point defense and insular shielding all good. On the edge of the skirmish zone, proximity alerts showed three enemy troop shuttles approaching. A high-cortisol warning flashed in the upper-right of Bradley's personal display, and he minimized the graphic with a twitch of his facial muscles. "Control, we need immediate evac, please and thank you."
+A shouted warning drowned out Central Control's response. "Behind you, Gray Leader!"
+Bradley spun, toggled his targeting software and emptied his rifle into thin air. The bronze suit teleported into the predicted spot, took a dozen strobes to the torso and vanished again. The squad exchanged radio chatter, and explosions rained on them as the enemy flickered around the battlefield.
+"On your nine, Gray Three."
+"Where'd he go? I-AH!"
+"Medic to forward gun placement. I repeat, medic to forward gun placement."
+The robotic voice of a Central Control operator came in on Bradley's private WhisperBot channel. "Gray Leader? We got positive ID on the evasive threat. It's Explodite."
+Bradley ducked back into safety and crammed a fresh battery into his gun. "Who?!"
+"Rogue demolitions expert and test subject gone wrong," said Control, and an image of the enemy appeared in the corner of Bradley's display. The metal man's ammo belts bristled with grenades, auto-mines and blasting-clay blocks. His armor plating looked hard-used, and intricate mushroom-cloud engravings covered his surface. The view zoomed in to show the decal on Explodite's chest-a five-knuckle imprint in red. "Harmon sent him."
+The Hylax's blood went cold. "He's one of the Fist? Control, we need extraction on the bounce!"
+"BAM! Get 'em in your mouth!" Explodite shouted via loudspeaker. "Lick my 'nades and slobba my knob, mother-lover!" The murder-bot took a glancing hit from a sniper-shot, retaliated with a barrage of automatic fire and teleported away.
+"Fire group leads, lay out your EMP snares." Bradley double-took at his squad's map placements, and his alien butthole clenched. "Gray Four, get back in position! We got enemy infantry incoming, we need our supports covered."
+"With respect, sir, I-"
+"Respond and execute."
+"Repositioning, sir." Gray Four's dot drifted back into cover and held formation. Bradley's sphincter relaxed with the slow trepidation of a waning lunar eclipse, and another explosive salvo rocked their forward position.
+Bradley swore into his muted mic before sending the next squawk. "Gray Six, I need a fix on the 'porter suit. Give me good news."
+"Slogging through the operating addresses, sir," came a half-panicked female voice in Bradley's headset. "The target assigned hella dummy IPs to his weapons. I've got it narrowed down to sixteen-hundred or so addresses."
+Bradley bit back the urge to shout at her. "Leave the sorting process to me-just bulk-upload the IP print to my suitboard computer."
+A terrible five-second pause followed. "Sir? The upload bounced."
+Bradley double-blinked one eye to pull up the scrolling feed of his computer's activity log. "You tried to upload to my central partition, Gray Six. Load to my quarantine drive, double time."
+"Y-yes, sir."
+"Everyone take a deep breath and stay loose," Bradley said. "Follow procedure, and 95% of us will survive extraction. If you wanna stay out of the dead five percent, keep one eye on your mapping software and the other on your teammates." The small man opened Gray Six's quarantine upload, fired up three decryption programs and went to town. His expression crumpled and contorted in obscene ways as he worked the face-twitch controls. Bradley ripped through the phony addresses like a grad student on meth, bumping up from duplex scans to quadruplex, octuplex and sixteen-o-plex inside of a minute. He narrowed the pool of weapon addresses down to a hundred or so and prayed as he executed malware volleys in rapid succession. Just beyond the skirmish line's range, enemy shuttles touched down and began spewing armored infantry. Gray Leader switched to WhisperBot and addressed Central Control. "Control? We need our escape shuttles-any damn day now!"
+"Keep your tiny pants on," said the robotic voice in Bradley's headset. "I sent an old friend to retrieve you. ETA thirty seconds."
+"He is shooting us NOW."
+"Too bad. You get what you get, and you don't throw a fit."
+A soldier's distress cut in on their exchange. "Sir! Gray Five requesting-ohh, poop."
+"SUKKIIIIT!"
+Detonations bloomed as Explodite reappeared, and a slice of the squad's forward shield wall collapsed under a hellish minirocket maelstrom. Bradley watched Gray Five's status tick over from Active to Dead in his personnel tracker. The Hylax doubled down, tearing through the last software layers, until at last his sabotage icon went from red to green.
+"Weapons hack complete! GET HIM!" the squad leader yelled. Bradley felt the ripples of spatial distortions and turned to find himself face-to-face with Explodite's oversized grenade launcher. Gray Leader stared down the barrel of the weapon, then up at the robotic face.
+"Sup, kitty?" Explodite squeezed the trigger, paused and gave a quizzical look at his malfunctioning launcher. "Wait, what the fudge?"
+Bradley activated his ignition hack, and all the grenades in Explodite's ammo reserves detonated in unison. Half the robot's upper body went spinning away in hot fragments, and the explosion's force slammed Gray Leader back against the crumbled wall. He struggled to his feet, working against the smeared, blurry vision born of a heavy concussion. The roar of an approaching shuttle sounded overhead, and he looked up to see their rescue coming in low and fast. The squad leader heard the pounding of heavy footsteps, and looked down to see the remains of the demolitions unit charging him head-on.
+The one-armed robot tackled Bradley, and they crashed through the crumbling wall. A pressure-fluid knife unsheathed from a slot in Explodite's gauntlet, and the pair of them rolled end-over-end in a yowling, punching, stabbing maelstrom of confusion. A combination of battle augments and jungle instincts took over for the Hylax, and he lost track of events until someone pimp-slapped the etched-bronze robot off of him. He looked up, blinked and waited for his vision to clear. A tall, thick-armored figure held Explodite aloft by the throat, smashed his head twice against the remnants of an old pillar and twisted him around for a pile driver.
+"Nuh-uh!" The bronze-armored machine teleported ten meters with his failing displacer modules, stumbled for balance and leapt away in sporadic phase-hops. With every tele-blink, he reappeared thirty meters further off, flipping them a different rude gesture. "Fuck y'alls!" His loudspeakers blared between each hop until he vanished from sight. "Fuck y'alls!"
+Bradley's rescuer cracked her neck, walked over and crouched beside him. Her glasstic faceplate went from opaque to transparent, and elegant, purple-patterned features showed through. Two predatory eyes with vertical-slit pupils assessed Bradley's wounds. "Hey, little buddy. You OK?"
+Bradley swallowed hard and tried to think. His tongue felt fat. "Tora? Feelin' good-think I got stabbed some."
+The big soldier sighed. "Right, bud. Let's get you into the evac shuttle."
+"No thankew. Not 'til we get?rescue?rest of squad." Bradley stood up, then wobbled as all the blood rushed from his head.
+Tora sighed and cracked her knuckles. "Just get in the van, midget." Bradley shouted his protest as the burly soldier grabbed his arm, spun a hundred eighty degrees and flung him the twelve feet up the shuttle's boarding ramp. The small man bounced twice, smashed into the troop compartment's rear wall and sank into blackness with a contented sigh.
+Chapter 1
+Karen Navare figured Hell looked like Androsse Zeta Launch Point Nine. Neon lights blared from the space station's many kiosks, climbed the pillars like cancerous ivy and danced holographic waltzes in the air. The three-dimensional advertisements occupied every square foot of open space, from the vaulted ceiling down to the building's very floor-travelers hurrying to and from their flights walked straight through the diaphanous lights, and the projectors shone hot in their eyes. If a neon rave-clown swallowed Old Vegas whole, chugged a plutonium shake and vomited, the resulting effluvia would resemble Androsse Zeta Nine.
+"See why I wanted to book a private saucer, honey?" Karen's mother sniffed her distinctive sniff, and the corners of her mouth turned downward a fraction. Dad, a stocky, muscular near-human, chuckled aloud.
+"Let me know when you're ready for your thirty-first birthday, and I'll buy you one."
+Karen walked in the middle of her five-unit family, watching the others as usual. As the middle child, she remained always at the center without becoming the nucleus. Though their mother appeared half-Geltish and Dad sported stub-horns, all three children looked basic-human, a product of species smoothing pre-reproductive genetic therapy. As the girl watched, hot, stippling discomfort built up inside her. The feeling started at her toes and washed up over her skin in tight little waves, and she tried to ignore the sensation. For weeks now, the tingles hit her at unexpected moments. She hoped she didn't catch some spacefaring illness right before family vacation. First-contact dermatitis, I bet, the girl thought with a frown. A long-necked Kirosian lumbered past them, and Karen plugged her nose against the rancid odor-trail. The station reeked of bottled new-car smell and the oily musk of hominids packed close together. Karen's siblings joked and pulled faces at the passing alien's back, while Karen watched their mother's anxiety climbing to a quiet crescendo. The woman's fingers curled tighter and tighter on her purse-strap until the elastomers threatened to distend and snap.
+"Spare us a quid, marm, in our moment o' need?" A sleeve-tug pulled Karen out of her reverie, and she looked down to see a gap-toothed little robot grasping her hem. Soot stained the three-foot-tall derelict's features, and he wore a threadbare button-top cap. "Beg you some alms for the mechanical and meager? Myself an' me little sister Matilda-I calls 'er Malfucntionin' Matty-we only jus' got off the East Trader from-"
+"Hey!" Karen's father made a shooing motion, and the robo-orphan scurried away into the crowd. The big man sighed and checked his pockets. "Keep close track of your wallets. Too easy to get grifted in your average port nowadays."
+"Honey." The middle-aged mother put a hand on her husband's shoulder and attempted a calm purr. "If I don't get a highball in my liver before ninety seconds pass, I will murder an innocent."
+Karen's father stood five foot nine, weighed two hundred pounds, walked like a college football coach and dressed like a stock broker. The burly humanoid sighed, checked the time and gave a curt nod. He blasted a sharp whistle through his front teeth, turned and pointed to Karen's big sister. "Debs."
+The older girl stood to attention as if drawn up straight by magnetic force. "Yeah, Dad."
+"Morale and Security." The man's short, muscular finger pointed to her, and everyone present felt the weight of the gesture. "Keep all three of you in one place. If anyone tries to kidnap you, spritz 'em. Karen."
+Shoulders straight-Karen's spine leapt to proper posture so fast cartilage cricked in two places. "Yeah, Dad."
+"Logistics. You make damn sure said group gets to the gate twenty minutes before departure. Bryce."
+Karen's younger brother perked up from his adolescent slouch. "Yeah, Dad?"
+"Your sisters outnumber you-get along with them, or they'll slave you off to some Landosian."
+Bryce re-slumped and scuffed at the floor with one sneaker. Dad took their mother by the arm and steered her toward the nearest five-star restaurant-bar with calm, deadly urgency. Aliens and robots made way for their passage.
+Karen elbow-jabbed her big sister's ribs. "Almost launch-time! Think you packed enough barf bags for the trip?"
+"No. I couldn't fit 'em all into my carry-on. Space Jesus, why do we always go off-planet for vacation?"
+"You'd rather stay on Burbplex 88? They only used six copy-paste designs for every city on the prefab. You saw every possible new sight on the station by age eight. I want some novelty."
+"You can enjoy yourself in the capital if you get creative!" Debs said. "Hit some museums, take a photo tour, go shopping in the Twilight District! You like shopping, Karen."
+"Right. Picking up another swimsuit sounds way more fun than touring Tropico 7 or PixLar Planet. They built a vacation world with no reused patterns, Debs! Imagine."
+The older girl grimaced. "Doesn't matter where we go, we always end up on an Un-Space flight."
+Bryce snorted. "Works for me. I'd rather not age a decade en route."
+Debs fidgeted with her bracelets. "Growing old sounds better than dying on a deep jump."
+Bryce started to frame a reply, then cut himself short. He drifted over to the advert-plastered wall of the spaceport atrium. Decades' worth of leaflets, campaign posters and recruiting ads lay stapled, glued and taped over top of one another, competing for travelers' eyes. Bryce touched the corner of a half-hidden poster and began peeling back the overlapping layers.
+Karen came up and tapped the boy on the shoulder. "Um, Buddy Bryce?"
+"Gimme a second, I think I recognize-holy crap, yeah." He peeled away a stapled wad of religious printouts to reveal the image beneath. The poster showed a uniformed team striding toward the camera in V formation, chests out and heads held high with expressions of stoic resolve. The patriotic colors of a dozen solar systems adorned their uniforms, and the three closest to the camera stood out in particular relief. A yellow-eyed woman stood just left of center, and opposite her, an alien with four arms and a cleft chin wore his skintight suit cut low to show off his chest hair. A man-shaped cyborg with sharp metal features stood at the front of the grouping, thin-fingered hand outstretched in fellowship. The block text below the image read:
+-VigilNet-
+WE WON'T LET YOU FALL.
+Graffiti covered the old poster, and Bryce ground his teeth as he read the tags.
+don't ante up our lives you knob-licks
+Go back to ur planets
+bassie n bill fuked here
+Terrorest cunt!!!
+Below the scribbled text, another helpful traveler provided spelling correction and illustration of an Earth-basic vulva.
+"Fucking disgraceful," Bryce muttered as he peeled the defaced poster down off the wall. "People could show some respect. I hung the same poster in my bedroom as a kid."
+"Boy, you got your hero-worship goggles on," Debs said. "VigilNet did fuck us over."
+"A couple members fucked us over. You don't kill a whole family 'cause one kid shit the bed." He jabbed an accusing finger at the two girls. "You guys believed in 'em too. I wasn't the only one who freaked out when they got blacklisted."
+"True. Nobody else cried, though," Karen said. The girl laughed, but the memory gave her a pang. She remembered hearing the news over breakfast-the morning report, shocked faces and a plate of Mom's pancakes getting cold.
+Bryce held up the tattered poster, examined the extensive vandalism and sighed. "Unsalvageable. Too bad, VigilNet merch gets collector prices now." He crumpled and tossed the poster on top of an overflowing spaceport trashcan. They walked on, and Karen saw Bryce shoot one wistful look back at the bin before they rounded the corner.
+Debs linked arms with her little brother. "C'mon, guys, let's hit up the Milky Whey."
+Karen's brother groaned. "Again?"
+Debs's eyes filled with fire, and she towered over him. "Ice cream makes you happy. Morale Officer, remember? Now march."
+"Better watch your intake, or you'll get fat as fuck," Bryce said.
+"You better watch your mouth, or-yup, I see some friendly Landosian traders. Let's see if they'll buy your half-piggy ass for the bacon."
+"Mom and Dad didn't splice us with any porcine genes, Debs."
+"Irrelevant," Karen said in hollow-faced deadpan. "They adopted you." Bryce rolled his eyes, and the three of them queued up for ice cream. Twenty minutes in line and forty Space Bucks bought them two dairy-dollops apiece. They sat watching the bustle of green-skinned beauties, tentacled space monsters and sentient plants on their super-spatial trek to who-knew-where. A half-ton gastropod wallowed by, leaving a thin scum trail in his wake. He wore a tropical-print shirt buttoned around his upper mass, and a straw hat perched atop his eyestalks. Karen's sister ate in slow, distracted bites. At length, she put words to her worries. "Listen, guys. I do not want to get aboard the ship."
+"No surprise," Bryce said with a roll of his eyes. He reached out and gripped the older girl's hand. "C'mon, Debs. You know the odds of death on an Un-Space jump."
+Debs did her best to take slow, steady breaths. The colorless nonexistence of anti-space bloomed in her imagination, smothering reality in horror. "Could you please repeat them in a low, soothing voice?"
+Bryce snorted. "Let's just say you need scientific notation to make the risk conceivable by the humanoid mind."
+Karen laughed. "Little bro, so rational."
+"Yup. 'Cuz I got a penis."
+Deb snort-laughed and pulled her hand free. "And a baconey be-hind, boy." A haunted look returned to her. "For real, though. Ever since I found out about the trip, I felt mad crappy. Like?I got a weird pressure in my belly on and off, for weeks now."
+Karen shared a knowing glance with her brother and nodded. "Preggers," she said without hesitation.
+"Oh, shut up."
+"For real." Karen leaned back and slapped both her pelvic bones. "You let your new boyfriend jizz in your biz?!"
+Debs thought for a long moment and cast her eyes down at the tabletop. "Our relationship got a little complicated in past weeks. You know, before I started dating Jeremy, I always thought I knew how I pictured myself in the abstract. You know when you?when?oh, for fuck's sake!"
+A pink, four-armed biped in a logo-printed apron capered up to their table bearing samples from an adjoining restaurant. He spoke to them rapid-fire, cycling through languages he suspected they'd understand. When recognition sparked, he went on in half-formed Linglish. "Herro!"
+The elder sister's eyes glared daggers at the intruder. "Yes, hello. I don't believe your restaurant's license allows-"
+"Herro-herro! You try Fruity Oni Bars?" The four arms moved like lightning, setting up tiny paper plates in front of the teenagers. The pink creature provided each of them with unwanted, crusty-brown samples of pressed protein and carbohydrate mass. "You ingest! Process for happy addiction time in young mouth-holes!"
+Debs fired up again. "Listen to me. We don't want-" The intruder began to hop and sing, drowning out the girl's protests. He wobbled about in a one-footed sales dance perfected by his people, and with one of his free arms he jabbed a sample toward Bryce's mouth. The boy leaned backwards with his lips drawn tight against the offending morsel. Karen's elder sister sighed, retrieved her keychain charm and leveled the kitten-shaped pepper-spray nozzle at their antagonist. "Look, I will straight up rape-spray your pink face. I got no idea if capsaicin kills your species, but I wouldn't mind finding out. You dig?"
+"Good fortunate day to you, many thanks!" The alien scuttled a sideways retreat, and Debs yelled after him.
+"What? No apology dance?" The girl slumped back in her seat with a sigh. "I lost my train of thought."
+"Boy problems," Karen said.
+"Right." Debs chewed at the inside of her cheek. "So?the other day? Jeremy and I fought. I always thought Dad judged him a little too hard, but the more I look at myself, at what I need in a relationship-"
+Karen opened her mouth wide and blew a single, rip-roaring mock snore. "C'mon, Debs. Get straight to the gory details-what'd he fuck up?"
+Karen's sister plucked the synth-cherry off the top of her ice cream, grimaced and replaced the fruit uneaten. "You ever date a guy with peculiar sexual tastes?"
+Karen wrinkled her nose. "Please. You remember Miles McRae? Yellow, scaly guy from my senior year?"
+"What about him?"
+"He liked latex," Karen said. "Not just in condoms, either."
+Bryce put his head in his hands. "Fuck, man. I don't need to know about y'all's sex lives, for pity's sake."
+"So what'd Jerry do?" Karen asked, undeterred.
+The elder sister paused to phrase her reply. "You ever date a guy who always wants to go down on you?"
+Karen shrugged. "Sounds like a bonus, unless he does a shite job."
+"I mean always-always," Debs said. "Even during certain monthly recurrences."
+"Oh." Karen sat bolt upright, eyebrows raised. "Fucking gross!"
+"I know, right? I told him the uterus sloughs off shreds of tissue every-"
+"FuuuuUUUUuuck!" Bryce slapped his sundae sideways off the table and stood up. "I can't eat this shit now! Call me when the hyperflight leaves-with both of you aboard."
+"We love you, Bryce," Debs called at the teenager's retreating back. "You'll make three or more women very happy someday."
+"Suck sloppy bowls o' dick." Bryce flipped them the finger over his shoulder without looking back. Moments passed, and the sisters examined each other across the table.
+Karen slouched, letting the back of the chair slide along every vertebra, clicking them in turn until her neck and skull pressed against the backrest. "Well? Does Jeremy at least use his tongue right?"
+~~~
+Two hours, eighteen text messages, one paternal lecture and endless misery later, Karen sat strapped in beside her hyperventilating sister. "Relax, Debs, you won't die. Better chances of me throwing a snowball from the nearest moon and hitting you."
+"I know. I know, IknowIknowI-"
+"Hey. Try to breathe," Bryce said from her other side. "In through your nose, out through your mouth. A little calm can go a long way. Remember, the jump only puts us in Un-Space a few seconds."
+Karen shrugged. "I defy you to explain what makes hyperflight so scary anyway."
+Sinews stood out on Debs's neck. "The limitless black procession of un-touching particles deaf to the rays of a million-million-million-million suns, the unbounded, merciless space between space between sp-"
+"Okay, admittedly bad idea. Let's get you some in-flight sleeping meds." Karen reached up and toggled the Signal Attendant button.
+"Ladies and gentlemen, Captain Andrews of Intergalactic Flight 14031 speaking," crackled the up-front comms system. "Welcome to your Leap in Luxury for the evening. We thank you for joining the Pan-Universal family, and should you desire amenities, you need only signal for your in-flight personnel's assistance. We project an initial burn of 500 kilometers at a terminal launch of 69.9 Kleptic out to final radius. With allowance for climatic fabric-shifts and slip tear, we expect to arrive at thirteen-point-quoth-point-six-three local time on the Andoran moon of Pleasure. The luno-Andoran atmosphere boasts a mix of 13.76961% nitrogen, 22.9-"
+Karen toggled the flight-attendant summons on and off like a child spamming the crosswalk button. Debs muttered beside her, nails digging into the plastic of her armrest. At length, an annoyed-looking robot girl showed up for the stewardess-call.
+"Yes, Miss? How may I-"
+"I need some meds for a clinical hysteric. Oxies if you got 'em, hypercodeine if you don't stock the strong stuff."
+The stewardess synthesized a miffed sigh. "I can provide Pan-Universal approved Trilenol Sleep Aid, at a rate of .25 grains per kilogram of body weight."
+"Okay, pretend she weighs eight-hundred pounds. Look, we'll all enjoy our flight more if we shove some horse pills down my sister. Tell her, Debs."
+"Shh," The older girl sat with her eyes closed and every muscle rigid. "Breathing. Inhale, hold. Exhale, hold. Don't think about the eyeball-bursting anti-existence of hard vacuum."
+"Your eyeballs don't burst, they just-nevermind." Karen turned back to the attendant. "See? Meds, please. Lots of whatever you stock. Hey!" Karen called after the retreating flight attendant. "You gonna bring us some drugs, or what?!"
+"Smooth." Bryce rifled the ship's seat-pouch magazines for a swimsuit edition, came up empty-handed and settled on a worn copy of Ladies' Galactic Golf Quinterly. "Try sweating and twitching next time you talk to the staff."
+"Don't eff with me, boy," Karen said. "I'll bust your little head like an overripe zit."
+"Not strung out on Gray Dank, you won't. Forget the pills before Dad throws you back in junior rehab."
+"I only did Shade Sticks like once. But please, keep talking. I'll bump myself to first-class out of pocket and sit up front with Mom and Dad, drinking twenty-dollar packets of reconstituted fruit juice. Which would leave you to babysit sweet sister alone."
+"Ignore Karen," Bryce said. "Deep down she envies your looks, and the insecurity makes her lash out."
+"Mm-hm," Debs said through clenched jaws. Karen could see the older girl's pulse through a protuberant vein in her forearm. She tried to comfort her elder sister, and acceleration interrupted her train of thought. The spaceport's kinetic projectors maneuvered the ship the first twenty kilometers out of dock, aligned them for deep jump and released hold of the vessel.
+"Ladies and gentlemen, two hundred kilometers to the Verge, preparing for deep jump. Please keep all seats and tray tables in the upright and locked position for takeoff. Note the illuminated 'harnesses engaged' sign at the front of the cabin, and remain seated at this time. Please refrain from using metaspatial networked devices until Verge transition. Attendants will provide complimentary snacks for Universal Access club members, and guests may purchase adult beverages for a nominal fee-payable by cash only. Thank you, and enjoy your flight."
+"I hope Dad booked us a hotel shuttle ahead of time," Bryce said. "I don't want to sit forty minutes in the airport with Heldrion monks singing and beating tambourines in our faces again. You remember the Bacchus Theta port last year?"
+"Who could forget zebra-stripe alien man-thongs?" Karen glanced at her deathly-quiet sister. "Buck up, spaz. You leapt the black plenty of times before."
+"I want you two to know I love you, even if we fight sometimes. Especially 'cause we fight."
+"Would you stop? You'll give me a damn ulcer, Debs." Karen said. The ship lurched, and she felt the pre-jump electricity in the air. The hot little prickles built up again in Karen's body. The feeling started in her stomach and swept upward in a rippling wave to her arms and fingertips. "Good God, woman, I think I picked up some of your space sickness. I'll order extra drugs for the both of us, OK?" She reached up and jammed at the summons-button. Stab-stab-stab-all personnel busy.
+"Karen." Debs gripped her sister's hand, and tears rolled down the older girl's cheeks. "Don't let them throw the switch. Tell them not-"
+"Ladies and gentlemen, T-minus twenty seconds to the Kleptic Verge, please note the location of your nearest sick-bag dispenser." The electricity built as the captain's bored voice buzzed on. "We will arrive in approximate-hm. Apologies on behalf of Pan Universal, please expect a few moments of turbulence as we pass through the secondary focal layer. I?one moment. Our instruments indica-"
+The speakers cut.
+Silence.
+Searing, ice-and-fire pinpoints danced over Karen's every nerve, and she gripped at her face with both hands. Passengers looked to each other, and Karen saw uncertainty in the flight attendants' eyes.
+"Bryce?" The girl's own voice sounded alien to her, distant and afraid as a lost child. "I think Debs really means-"
+The lights flickered and went out. For a brief moment, the stars visible through the portholes blazed in terrible relief against the darkness. Then reality came apart.
+The ship lost backup power as hull segments sheared loose. Space shuddered, torn between the four real dimensions and the eighteen others who never could make up their minds. Wrenching, splitting metal screamed for an instant, muffled and faded into stygian silence as vacuum rushed into the cabin. The vessel's body fractured along stress points, coming apart like an heirloom in the hands of an angry toddler.
+Passengers flailed in the disorientation of zero-G as they suffocated, thrown free from their harnesses or torn, seats and all, right off the deck plating. Karen's limbs acted on arboreal instinct, lashing out to grasp any lifeline as she spun free, suspended in the void. Her attempts at hyperventilation yielded no benefit. Emptiness shoved into her aching, terrified lungs and smothered her attempts to scream.
+No sound.
+A ten-thousand pound fragment of the ship's bulkhead careened into Karen's temple, hitting her broadside. Instead of smashing to reddish pulp, her body spun away from the impact with minor injuries. Fragments of metal, luggage and flesh danced a dying minuet in the terror of shallow space. The station stood out as a bright pinprick in the emptiness, and distant rescue ships sprang to panicked high-alert. Too late.
+Karen saw her sister across the futile distance of null gravity. Debs met her gaze, gave an apologetic half-smile and took a deep breath of the blackness.
+Karen screamed, and sound came out. Her limbs went rigid as death, splayed outward in a rictus mockery of the anatomical position. The girl's eyes tore through the lies of space-time, reality, causation. The fabric of being warped, and the far-off stars melded into a single image. A fist of burning, red-pinprick light uncurled from the heart of vacuum, and the index finger pointed through life, death and distance at Karen.
+YOU
+Karen's muscles shook with the power of a dying sun. She curled in on her whimpering, screaming self and balled reality's meager fabric into the fetal position. Pressure gripped her, swallowed her up like a diver plunging to the ocean floor. Matter pulled free of the wreck's weightless dance, acted upon by a new gravity. Her presence pulled in molecules like the nucleus of a solar system as she hung suspended in the blackness. Escaping particles of oxygen, nitrogen and hydrogen flocked around like cliquish teens. Then solid, massive objects followed suit.
+Rage burned red and hollow-bright through Karen's reality. The passenger ship's tritonium hull turned and bent inward, reaching out to enfold her in an embrace of twisted metal. In the distant recesses of her humanoid mind, Karen felt the pain of her body-the limbs mutilated and crushed by the force of compressing matter, the nerve-signals screaming their warning. She bellowed, and the universe sang her rage a gentle harmony. Her own dying star, Karen hugged space-time to herself with the force of apocalypse. Slabs of sheet metal and human flesh pressed inward, warping around her like a second womb. Rescue ships came thundering in on impulse power, kilos distant and drawing closer by the second.
+Far too late.
+Chapter 2
+Captain Stern sat with a quart of whiskey in one hand, her fifth cigarette in the other and both snakeskin boots kicked up on the massive oak desk. She refilled her tumbler to the brim, sucked down half the helping in four long sips and imagined what liquor tasted like to organic lifeforms. She hummed a NewEarth IV tune about losing your girlfriend and shooting your dog as she skimmed through her server-side data traps with her eyes shut. Worlds' worth of screaming, crooning, flashing info flowed through her in rivers. She plucked out the murders and abductions which caught her attention, and an undeniable pattern of hunter and prey formed. Not too long until Harmon's Fist came down on her again. "How long 'til I can't hold him off?" she muttered.
+At first glance, the Captain looked like an old-school Earthling. Basic human-ten fingers, two breasts, functional earlobes and no sign of psychic powers. When her eyelids did open, her striated yellow irises showed through. Concentric rings of mathematical characters patterned them, and the uncanny bands of yellow swirled and compacted like interlocking gears whenever her attention shifted. Her forehead dimpled with a frown, and she drummed preoccupied fingernails on the desk's grain until a door-buzz interrupted her reverie.
+"Identify," she said, and the intercom next to her spouted Bradley's tense voice.
+"You watch the security feeds 'round the clock, Captain. You know who wants in and why."
+Stern cracked her holographic jaw and scowled. "I-den-ti-fy." She grilled Bradley until the Hylax rattled off his name, rank, serial number and favorite cartoon. "Acceptable," she said, and signaled the door to slide open. She watched with one eyebrow raised as the Bradlian mess of ripped armor, bloody fur and patchwork medical care schlepped into her office, seated himself across from her and slapped a small hand on the desk.
+"Ma'am. I could use a stiff drink."
+"Soldier, you do realize alcohol thins the blood."
+"Yep."
+"Which exacerbates bleeding."
+"Yyyyep." Bradley cranked the manual release clasp for his helmet and yanked off the scratched, blasted hunk of armor. Long, fluffy ears thwapped loose from confinement and pinned back against his skull-a Hylax physical cue for bottled-up anger. All four eyes gleamed black as orbs of pure ink, and angular red, white and gray markings patterned his coat. He stretched his neck muscles and yawned, showing three rows of needley little teeth. He stared at Captain Stern with his forward eyes, and the pair nested further back on his head blinked shut as if napping.
+"'All right. I warned you." The Captain poured a tumbler, slid the glass across and gave Bradley a searching look over her steepled fingers. "You look like a bad turd left out too long in the sun."
+"No surprise." He chugged half his whiskey, beckoned for a top-off and leaned back in his plush seat. "Speaking of blood, I want to raise a formal complaint against Urgent Care Bot #3112 at the second-bay med station. She wouldn't unstrap me until she administered three re-blooding treatments. Three times the she-bot nozzled me, Captain. Twice more than I needed."
+Stern shrugged. "We program staff to enjoy their work. And boy, does she."
+"A little too much," said the Hylax. "One more incident, and I'll go to Inhuman Relations for a sexual harassment ticket."
+Stern looked the small man up and down. "I assume you came to me for more than garden-variety bitching, Bradley. I don't like my time wasted."
+The squad leader's mouth tightened, and his main eyes took on a focused heat as he leaned closer. "We risked a total-platoon kill last mission. We only survived thanks to Tora's attack group arriving sans delays."
+"Shit happens."
+"Not in the days before the Bust, Dev. Not to VigilNet."
+Stern's simulated eyes softened with hurt. "I miss 'em, too. Even if I could, you know I won't re-form the Net. Right or wrong, all of near space holds us culpable for Harmon." Stern pointed over her shoulder with one thumb, and the air filled with eight-year-old news holos.
+ALL IN: Wildcard AI bets big with our lives and loses.
+VigilNet unmasked-the Ninolos-Twil Atrocity explained!
+Absolute Data Corrupts Absolutely.
+No Hero Of Mine.
+Images accompanied the words. Smoke furled from a ruined city center. Guerilla war swept undefended planets, leaving behind heaped corpses and scenes of famine. Exhausted hospital staff worked in sweltering tents without electric lights or disinfectant. The central image loomed large: a sleek, chrome-colored cyborg with long fingers and a bashed-in faceplate. He crouched over a mess of organic remains, and blood seeped from the cracked, warped fist-imprint which obliterated his metallic features. Below his picture ran the rallying cry, the ever-present motto and refrain of the post-Bust depression:
+WE WON'T PAY THE ANTE.
+Bradley closed his main eyes against the images, and his secondaries snuck a peek of their own. "Put the picture book away, Captain. I remember the Bust. I remember the good times, too-don't you?"
+"The good old days didn't exist, Bradley. Our agents spent their days fighting desperate retreats and looking over their shoulders for sovereign spies. Dying sad, limited deaths."
+"Helping people," the Hylax said.
+"I watched my friends give up the ghose, Bradley. And don't give me the 'robots can't love' chestnut. My affection simulators work just as well as your meat-brain."
+"I know they do."
+Stern topped off her glass and stared at the contents as if mesmerized. "You know the kicker? With all the predictive software jammed up in my brain, I know when I send a team off to die. Only guessed wrong six times so far."
+"How did Harmon's Fist track us down so clean, Captain? We hid our trail like a hard-on at a middle school dance, pardon the simile."
+Captain Stern snorted. "By sticking our butts way out backward so our junk doesn't touch?"
+"Don't try and fun me off the topic. I want to talk about-"
+"The sexual uncertainty of your blossoming years?"
+"About the Fist!" Stern smirked, and Bradley pointed a clawed finger at her. "Shut up and tell me what happened."
+The Captain shrugged. "Harmon scans like a fiend, and he got some spies in play I didn't account for. Long story short, Explodite happened."
+"The 'suck my dick' guy?"
+"The very same." Stern lit a new cigarette off the butt of the old one. "Last time I saw Explodite, he couldn't teleport more than a couple times a minute. You saw him today. Harmon figured out how to upgrade his elite troops. When you hacked Explodite's weapons systems, I managed twelve miliseconds of unrestricted access to the enemy long-net, and you won't believe the profiles I pulled down." She snapped her fingers, and the holographic news decks changed to images of grisly cybernetics experiments. "See the red one on the left? 'Knife Licker,' we called him back in the day. He used to run mundane hit-and-run ops for Harmon. Now he gorges on his enemies' brain matter."
+"Er?why?!"
+"To steal their sweet, sweet knowledge. He uses his neural analytics software and some abnormal-ass powers to absorb their memories." Stern switched the hologram to show a sleek, female figure in deep-blue armor with a fist print painted over her left breast. "See her? Codename SunSpot-a walking EMP bomb. Good luck fighting her without electronics." The Captain flicked through the images rapid-fire. "MagMama, Black Eye, Boomkakke, SpiteWinder, Skin-Thief, Cassa-Nova. Every last one of them shows a smooth blend of biomechanical traits-just as smart as computers, just as bizarre and unorthodox as you organic folks."
+Bradley's mouth dropped open half an inch. "Harmon figured out how to make Meatbag-Assisted Devices from scratch."
+Stern nodded once. "Looks like he did."
+"Does he know his experiments could cause a second Bust? They illegalized MAD modifications for a damn good reason."
+Stern's thousand-yard stare sliced through Bradley, off into the distance. "Trust me, the man doesn't care. Either he conquers with his new strike force, or AI-pocalypse numero dos sets regional tech back a hundred years. VigilNet loses either way, and Harmon laughs." The gearlike code constellations in the woman's eyes wound tighter, and she leaned across the table toward her friend. "And you know what I say? Fuck protocol. Fight fire with fire. Remember, VigilNet MADE me for guesswork. I got Foundation Four predictive cores in my logic casing-six of 'em. I spend all day assessing our chances against Harmon, and no matter how I set the variables, I get the same conclusions. I think-I know-we can't beat Harmon without supersoldiers of our own. He doesn't bombard planets from orbit, he infiltrates societies. To stand a chance, we gotta make like Harmon and get versatile boots on the ground-MAD users. When I shut down our specialist teams, I said never again. I locked myself out and transferred control of the program to someone I trusted. You." She snapped her fingers, and the floating images vanished. A list of data files popped up in their place, and Stern selected the one labeled ELITE PROGRAM INITIATIVE: Meatbag Assisted Devices (Discontinued). "Open file and execute," she said, and a warning popped up in front of Bradley.
+Authorization Required: Rahal, Bradley A.-Senior Strike-Lead IV, CCC.
+AUTHORIZE PROCESS?
+YES/NO
+"How many MAD-users do you want me leading?" Bradley said.
+"A whole Star of 'em. By the end of the month."
+"FIVE? Besides me, how many Assistants even live on the ship?"
+"None, at the moment. Gadburn got his head blown off on Subterra 1.5-B, Hoxley took off yesterday for a deep cover mission on Sherwu. Troler and his team are on a side mission in the Gant sector."
+"You left one out," Bradley said. "If I sign up, I want Tora with me."
+"Yeah, no thanks. Listen, just 'cause I hired a Murdarine on your testimony doesn't mean I can depend on her. I trust the normal, sane version of Tora." The Captain pointed to her left, and an image appeared. A tall woman with tribal-patterned purple skin knelt before a singing bowl. A skull-tail of bright orange bristle-quills spilled over one shoulder, across her torso and curled around her knees on the polished wood floor. Her lips moved with song, and she appeared deep in prayer. "Great! Tranquil and dependable. But when she gets the roaring blood-hornies?" The image changed to show Tora bug-eyed and mad. Vicious, striped reds and oranges replaced her cool skin tones, and her teeth and jaw protruded, sharklike, from the flesh of her mouth. She wore the Deep Reaper's grin and brandished a massive, gore-crusted zweihander over her head. The image vanished with a flick of Stern's fingers. "Tora rampant I DON'T like relying on."
+Bradley crossed his arms. "I do, and I won't work the team without her."
+Stern threw up an exasperated hand. "Fine, permission granted! But you'll need more than two MAD users for your team. Lucky for me, I got a lead. When I got inside Harmon's network, I found one of his MAD factories. Harmon tracks civilians with abnormal powers, looking for ones he thinks will make good Assistants. His goons kidnap the targets, transport 'em and lock 'em up for 'training.' We swoop in, grab the superpowered civvies. Best case scenario, we can MAD them up and use them ourselves. If not, we can at least gum up Harmon's production. C'mon, Bradders. Hit the button and put us back in the game."
+Bradley's hand hovered over the authorization controls. "?I don't know. We both said never again. I even considered taking out my augments after Harmon and his MADs went rogue. I miss the adventure, yeah. I want to still believe in the old VigilNet. I just don't think I do."
+"Recall your first talk with a VN recruiter. Do you remember why you wanted to join? I do. I saved the clip."
+"For pity's sake, Dev, don't play my old files?"
+Stern tilted her head, and scratchy audio came in over the room's speakers. The brassy voice of a robo-sergeant cut through the stillness.
+"Your credentials look good, kid. Clean physicals and psych eval-I even got clearance to overlook your background check. 'Course, I won't promise you nothin'. Won't fill your fluffy head all full of false hope. You ready to wade through the Hannomon Swamps with bombs fallin' all around you and fist-sized hyperleeches wigglin' in to snack on your ballbag?"
+Bradley's recorded voice answered from the depths of time gone by. Younger and harsher, but unmistakable. "Yes, sir. No doubt in my mind."
+"Aight," said the recruiter. "You prepared to work deep-cover, ballin' a mediocre-lookin' fake wife we assign to you for mission purposes?"
+"Guess so. But I didn't know Vigil-"
+"And DO you! Consider yourself PREPARED! For the moment you realize your fugly fake-wife is really your old boot camp buddy Dave 'Hot Rod' Dickson? After we took out BOTH his sparkplugs and removed his piston?!"
+"Um?what?"
+"Suppose we gave Dickson's Dickson THE MOST EXTREME makeover this side of Trinary Trinidad! Would you schtupp him in the LINE OF DUTY?!"
+"Only under direct orders, sir."
+The recording hit an ominous pause, and modern Bradley remembered the recruiter leaning in close across the little folding table. "You ready to fuckin' die, boy?"
+"More or less. We all go sometime."
+"All right, I tried to warn you. Sign the paper." The faint scratch of a pen sounded-young Bradley making the fateful document official. "Your funeral, Rahal. The shuttle leaves in two days at sun-twist. Before you go say your goodbyes, you better make me trust you. Tell me what genuine, selfish reason makes you wanna wade through poisonous, dick-swelling plantlife, get your head shot off and disappoint your mama."
+"Better disappointed than dead, sir. I read the paperwork, and VigilNet's nuclear-family coverage applies to me. I want my mom and sister out of the warzone and off Fiilos in the first secure lift ship."
+The recruiter sighed. "Two people. A galaxy in fear, and you want to help two people?"
+"I never expected to make a good trade with my life. Imagine I survive and rank up to Sentinel Proper, with two Stars of Service and a dozen Nova Scars, before some sniper gets me. I'd have traded one life for a whole bunch of civilians. Now suppose I die crossing the street as I lave-less impressive, but I'd have still traded one life for two I care about. Either way, I'll die happy. When I signed my name ten seconds ago, I became what I dreamed of since the day I turned seven."
+The robot snorted. "An underpaid combat worker?"
+Bradley closed his eyes and whispered along with the words of his decade-younger recording. A hero. He gestured to the Captain for mercy, and she shut the recording off.
+A long moment stretched quiet between the two, and Stern raised shame-filled eyes to meet Bradley's own. "Your answer?"
+Bradley heaved a deep sigh. "To regrettable decisions." He reached out and touched the YES hologram.
+"Program authorized," Captain Stern said. "I'll use my predictive engine to pick the best targets to cripple Harmon. Then your Star goes in and does the job. With my model, we make the best of a limited force. We turn the tables with small engagements, and economies improve the whole galaxy 'round."
+Bradley frowned. "And you care about local cash-flow why?"
+The captain chain-lit yet another cigarette and took a long suck. "What does money buy, Bradley? Hospitals, schools, public police. We robotic types love big numbers, and we love sensible financial decisions."
+"Which explains why you pour gallons of top-shelf booze down your hologram hole?" Bradley said. "You can't even metabolize alcohol. The?cigarettes?also seem like a waste of money." He trailed off, and the Captain's eyes spun and cycled as she stared him down. She drew the cigarette into her mouth and chewed one long, slow bite at a time until she crushed the burning cherry with her teeth. She washed the mess of wadded ashes down with the rest of the whiskey bottle and cocked her head at the Hylax, face deadpan as a gravestone.
+Bradley cleared his throat. "I'll go find Tora for briefing."
+"Good, 'cause I already locked in our co-ords," said the Captain. "We make the Un-Space jump in fifteen minutes."
+Chapter 3
+Karen's world felt heavy, as if all of gravity pulled straight down on her supine form. The girl couldn't lift her arms, the sheets or her eyelids. The air pressed down on her chest like ten kilos of lead shot as voices blurred in and out of her consciousness.
+"?indicates a full-length tear of the anterior?"
+"Proper miracle. I expected total brain-death."
+Harsh, relentless lights shone on Karen, dying the insides of her eyelids sickly pink. Even the photons felt heavy.
+"Run her through a full MSI for the remaining bone chips."
+"I will NOT authorize Orange Class invasive procedures without due indication of benefit!"
+"?new drip-feed for you, yum-yum-yum! Say 'aah,' kid."
+"Listen, Roberts! You can't turn your back on a PR case!"
+"No choice. Her insurance dried up days ago."
+The reality-snippets jumbled out of order and faded end-to-end with Karen's nightmares. She struggled, and her eyelids slid open a fraction. She lay in a bed bounded on both sides by metal railing. The hospital room's only light came from soft-whirring machines lit up green and yellow with displays of her vital stats. Nauseating pain lanced through her being, and her eyes darted to the many tubes and wires trailing from beneath her blankets. A claustrophobic face-mask fed a drug-oxygen mixture straight into her nose and mouth. Karen tried to lift her arm and yank off the mask, and achieved only a slight shifting of the sheets. She tried to call for help, and unconsciousness took the girl again. An immense fist of fractured, red starlight uncurled, and one slender finger pointed through spacetime at her.
+YOU
+Karen tried to scream, and vacuum filled her lungs. Metallic debris, still red-hot at the edges from shear force, floated through a blank starfield. Other passengers hung suspended in the void, listless and unmoving like broken toys. The girl tried to run, and the nothingness gripped her in stasis. Nowhere to go, no medium to move through. She couldn't even flail.
+Inchoate sounds muffled and popped at the edge of hearing, like listening to fireworks underwater. An indistinct voice rose, resolving into wordless shrieking, and Karen clamped her jaws against the outburst before realizing someone else made the sound. What the Space Hell?
+"Stand DOWN! This is a place of medicine, we can't allow-"
+ZRATT! A human scream sounded, and the stink of burnt flesh filled the air as someone kicked the door in. Karen's drug-bleary eyes leapt open, and she stared around in wild, dumbfounded terror.
+A pair of faceless men in black combat gear stepped over a corpse in a charred white coat, entered Karen's hospital room and scanned the corners with mean-looking plasma throwers. Red-fist emblems adorned their armor. Karen tried to scoot away from them, and her body refused movement. One man checked the clipboard at the foot of the girl's bed, while the other one brought up a holoprojection off his wristband. The device displayed a string of text and several pictures of Karen. She recognized her most recent school portrait and a couple photos off her Space-Space profile. "Objective located. We got positive ID," the man with the clipboard said in a voice like rusted iron filings. "You copy, command? Target secured, bringing her in."
+Karen shouted, and the sound came out thick and garbled. She worked with her fat, stupid tongue until she managed some real words. "The fuck you guys want!? Did you STALK me?"
+"Yep," said the man with the wristband as he started disconnecting her sensors. "And we'll kill your busted ass dead if you kick up a fuss."
+"HELP!" Karen sucked up as much air as her aching lungs would hold. "Cops! Hospital security! Patient in need of ASSISTANCE!"
+"Ugh. Would you shut her up, Boskins?" said the shorter armor-goon.
+Clipboard Guy shrugged. "The fuck do you want me to do? I'm not a people-person."
+"For real, hospital staff, I need HELP! 'H' stands for 'HURRY!' 'E' stands for-"
+Whack. The man with the wrist display deactivated his bracelet and biffed Karen upside the head. The girl's world darkened from the edges inward, and the two goons' conversation echoed as if from the bottom of a well.
+"Fuckin' noisy, man-I hope the Mrs. never pops out a girl-kid."
+"Uh-huh. Put some Xeno-Nox in her IV before we roll out. What say we grab some Nex-Mex on the trip back?" Karen felt hands lift her onto a gurney. The girl's eyes slid shut, and she found the red fist waiting for her in oblivion.
+~~~
+Time passed in a dreamy haze of painkillers, and Karen wibbled in and out of awareness.
+"Hey," said a young woman's voice. "Come on, I need you awake!"
+"Dunwanna get up," Karen muttered. "G'fuckyrself."
+"Thank God, you can still talk! Pleased to meet you, can I ask your name?"
+"Mmf. Karen. Now f'ckoff. I got midterms t'morrow."
+"WAIT! Shake off the drugs and stick with me, girl! My name is June Naka-"
+Good God, my right buttcheek itches. Karen shut the girl's voice out of her awareness. She tried to move her body, and the universe lit up with white-hot pain as she passed out again. Throughout hours or days of half-doze, Karen felt the presence of others watching her.
+"I want her preliminary observationals," growled a male voice, low and metallic.
+A second man replied in a whispery tenor. "Her nervous system needs time to heal and compensate. Waking her now could retard her abilities."
+"Not waking her could retard your paycheck," said the machine-man. "You got six hours to get her awake and destroying shit. If she tests negative, dump her and wheel in the next one."
+Shiiiit, so ITCHY!
+Karen twitched awake with the moldy taste of post-bender regret in her mouth, groaned and blinked the crust out of her eyes. The girl tried to scratch with her right hand, and the drug-clumsy fingers fumbled, ineffective, until she gave up in exhaustion. Moving any part of herself took immense effort, and some muscle groups wouldn't respond. The girl lay on a padded EconoBed gurney, covered from the neck down by a stained, off-white medical tarp. She tried to wriggle the covering off, but straps and metal clasps secured the fabric to the bed frame. She gave her left hand a flex and subsided with a wince as needles and pins blazed up and down her arm. "H-hello?" Karen swallowed hard and craned her neck for a better view.
+Featureless metal walls boxed Karen in on three sides, forming a ten-foot enclosure. The only light came from recessed strips set in the ceiling, and a thick layer of translucent synth glass formed the fourth wall. A small brushed-aluminum sink and toilet occupied one corner, and red, crusted stain-matter formed a thick ring around the drain set into the floor. Nearby, Karen heard the muffled sound of screams and wall-slamming. Vents in the ceiling circulated stale air tainted with infection's telltale stench, and one corner featured a foot-wide metal tube ending in a chute with a tray built in underneath. A metal box set flush into the wall contained an intercom speaker. The cell's full-length window looked out across a warehouse space, and against the opposite wall, the girl saw other glass-fronted holding pens like her own. They stood stacked row-on-row like kennel cages. She could only make out silhouettes of the prisoners across from her. They stood, paced their enclosures or lay huddled on bare floorspace. Panic rose up strong in Karen's chest. The drug-haze cleared, and she thought back to her capture. Every part of the girl ached, and her heartbeat's frantic rhythm sent echoes through her agonized tissues. She cast a futile glance around for some way out.
+A young woman's voice whispered two feet behind Karen. "Check thirteen! If you can hear me, don't scream."
+"AH!" Karen twitched, tried to crank around to look behind her and pulled a neck muscle.
+"No, shush! I want to talk, so quit alerting the guards!"
+"I-I can't see you!" Karen stretched her neck as far as she could, to no effect.
+"Er-right, sorry. I'd relocate the portal, but I don't want to risk blacking out again."
+Karen felt her eyes bugging out. "Relocate the what?" Her questions poured out in a fevered rush. "Who grabbed me, and where'd I end up? Who are you? What the Hell do you-"
+"Take some deep breaths while I talk," said they other girl. "I'm June-a friend."
+"Okay," Karen said, swallowing hard. "Karen Navare. Where are you?"
+"In another tiny prison room, somewhere in the same facility. I linked our cells together to make you an offer."
+"How?!"
+"After I got abducted, my brain started making spatial rifts! Wicked, right? I don't know how they work yet, and my control stinks, but I think I kept the portals secret from the bad guys-for now. Karen, we gotta get out and report this facility. I tried to talk to some other prisoners, and you seem like the best bet for an escape-buddy."
+Karen laughed, and an edge of mania crept into the sound. "You sure? I can't feel half my body."
+Two seconds' terrible pause hung in the air before June said, "Don't worry. The kidnappers doped me, too-I bet the drugs just hit you extra hard. Give yourself like half an hour to-uh-oh."
+"No!" Karen said. "I do NOT want to hear an 'uh-oh' right now!"
+June's voice came through haggard and strained. "I think I just hit my limit. I better close the portal before I lose control."
+"No! No-no, June, you can't leave me locked up, you gotta HELP me!" The fear became a physical force inside Karen, snarling and clawing for free reign. "Don't go!"
+"No choice. I need rest, or else I might stroke out. I'll try for a bigger portal next time, okay? Hang in there."
+"NO, you can't leave me ALONE!" Karen screamed and thrashed. Her aches and pains unified, swelled into an overwhelming wave and left her immobile. She lay weeping with exhausted rage. Sweat soaked her body, and a thin snot-trail crept down from her left nostril. "You can't leave me alone," she whimpered.
+"I disagree. We can do whatever we like with you." A thin, reedy male voice issued from the room's intercom. Karen yelped and looked up to see a small man with graying hair and spectacles watching her through the synth glass cell wall. He wore a doctor's white coat, a blood-red skinny tie and an enameled nametag reading Franzford Chopper, PA. A black-armored goon stood beside him, pulse shotgun in hand. "Allow me to introduce myself. You may call me Doctor Chopper."
+Karen did her best to sound defiant. "Your nametag says 'physician's assistant.' How long did you last in med school? Let me guess-second semester."
+"Ahem: zappy." Chopper pressed a button beside the cell door, and Karen's hospital bed delivered her a nasty quarter-second shock. She shouted a handful of choice words, and the man cleared his throat. "Spare me your blustering, child, I would rather not damage you."
+"Right, your guys just wanna help me! Guess you kidnapped me by unfortunate necessity, huh? For a minute I worried you might auction me off, but you seem so goddamn nice you might apologize and release me!"
+Chopper sighed and used his labcoat's lapel to clean his glasses. "Your fate depends on your actions, not mine. Before I proceed, you deserve to know your prognosis. You sustained serious injuries in your accident. Shall I elaborate?"
+Anger tightened Karen's jaw, and she said, "Take a flying fuck at a rolling donut."
+"Straight to business, then." Chopper signalled to the guard beside him, who pressed a button on his wrist device. Karen's gurney whirred to life and wheeled a few feet closer to the synth glass. Chopper waved the guard away and cleared his throat. "On occasion, the universe makes a mistake. Imagine the complexity-the mind boggling logistical task load of living your life as the cosmos. When a humanoid suffers a lapse in memory, he misplaces his keys. But when the cosmos does? Black turns to white. Laws of physics erase themselves or recalibrate-or become part of a person. Some rare, exceptional individuals contain useful fragments of the universe's thought-clutter, like a child finding scraps of old scratch paper some mathematician discarded. Such lucky children can bend light, turn waves to particles, evaporate solid mass with their minds. Even wield the very orbital force of the planets. Their abilities place them above their fellow sentients, and my organization searches for such cosmic mistake-persons."
+Karen scowled. "So you can give them a pat on the back and wish them good luck in life?"
+The man raised his eyebrows in mock surprise. "Dear me, no. To exploit their abilities for our own benefit. Intelligent recruits often appreciate my employer's ambition and join in his service, becoming full members over time. Others require more persuasion. Now we begin. My duties require me to interview you, then tape a demonstration of your powers."
+"Then you came to the wrong person, doctor. I never bent a light-beam in my life."
+"Yet you crumpled a star-liner like a child stomping a soda can."
+Half-remembered images sparked in Karen's mind, struggling to connect to one another. Red, screaming metal, visions of blackness. The girl swallowed hard. "You're smoking crack."
+Chopper's smile put Karen in mind of a shark. "What do you last remember from your space-wreck? The hush as vacuum replaced the conduction of sound? The moisture in your mouth boiling off your tongue as the pressure in your airways bottomed out?" Chopper leaned so close his breath condensed on the synth glass. "The Fist of blood-steeped stars, united in binary glory?"
+YOU
+Karen shut her eyes against the memory, and hot waves of prickling discomfort built up in her belly. "Shut up!"
+"After just two minutes of exposure to hard vacuum, repairing the human body becomes?difficult. After three, full recovery often becomes impossible. Especially if the heart stops beating before technicians can repressurize the subject." The man pulled out a small data device and swiped through a series of documents. "How long do you think the rescue drones took to find you?"
+Karen bared her teeth in frustration. "Enough questions. How 'bout you go finger-bang yourself, and I'll take a nap?"
+"Two hours and twenty-one minutes!" Chopper snarled. He flashed Karen a smile and shook his head at the images on his device. "Nobody thought to look inside a fused wad of fuselage and deck plating. Quite creative, I admit-you crafted yourself a little?cocoon. How poetic."
+Karen frowned. "What are you talki-?"
+"Then the cutter-bots took a further three hours and twelve minutes to free you from the wreckage." He slapped the device against the synth glass, and the images transferred from the screen to cover the transparent wall. Karen stared at the rough ball of twisted, jagged spaceship hull. Sheared-loose pieces lay stacked to one side, exposing a human hand mangled up in the steel-shreds. Karen held the urge to vomit at bay.
+"Would you like to see more?" Chopper swipe-flicked new images onto the synth glass, laying them over each other. They showed the rescue bots' progress as they tore apart the shrapnel shell encasing Karen. Chopper's thin lips drew back from his teeth. "You caused the accident, Karen! YOU tore the ship apart on launch and left your family to die!"
+Cold, quiet anger surged through the girl's veins. "The drive's grav-core imploded, you idiot! You dragged me out of the hospital because you can't tell a technical malfunction from magic? Good God, kill me or let me go now, I can't live with your level of stupid."
+Chopper's face contorted. The man reached for the shock patient button, but stopped short. He took a deep breath, ran a hand through his hair and forced a tight smile. "Off to a bad start-my fault. Let's begin again, shall we?"
+"Move your ass, Chopper. I'm taking over." Karen jumped at the new voice, a dry, grinding throat-drawl like metal on metal. She double-took to see a massive metallic figure standing beside Chopper. He arrived without a sound and stood an easy six feet tall, with explosives hanging off his every belt and bandolier. Blasted, burnt, dented and engraved armor the color of bronze covered his lower body, left arm and half his torso. A mess of scratched black alloy made up his mismatched left arm and the rest of his chest, a make-do prosthetic ripped off an even shittier robot and welded in to repair grievous damage. "What kind of powers you got, girl?"
+Karen shrank in on herself. "N-none," she said.
+"Bummer. Then I guess the boss won't mind if I kill you." The armored hulk shrugged and fist-pounded the button.
+"YOW! Fucking QUIDDIT, I told you I didn't crush the ship!"
+"I'll break you one way or another, kid-make with the powers. Computer, set voltage to max." He slammed the button again, and Karen screamed.
+Chopper leapt forward and seized his compatriot's arm. "No! Explodite, we need the girl's nervous system UNDAMAGED!"
+"We need her energy-spike data. Computer, maximum power."
+"Disable patient deterrent system!" Chopper shouted. "Medical authorization!" Explodite kept hitting the button, but the shocks stopped.
+"Great!" Karen panted. "Way to uphold the Hippocratic. Now how 'bout you assist me by keeping your tin can away from my cell?"
+Explodite released a disdainful mechanical snort. "You think one med geek and six inches of glass make you safe?" The big robot flexed his mismatched hands and flickered out of existence. An instant later, the air inside Karen's cell shimmered, and Explodite materialized beside her. "I beg to differ, cookie."
+"AH!" Karen tried to kick out at the robot, and her leg wouldn't move.
+"SHOW ME!" Explodite's voice strained low and raspy, like a corvette engine struggling to turn over. His mismatched arm lashed out, grabbed the rail of her gurney and heaved. Wheels screeched as the frame slammed against the cell's side wall and almost toppled. The robot fanned out his mechanical fingers, flexing and straightening them in a rippling wave pattern. "Crap yourself a little, kid? My bad. Still getting used to the power output on the new arm. And unless you cut loose with some flashy shit, I'mma test some mechanical forces on your punk face." The hand spun three-hundred sixty degrees in the wrist mount, and the fingers gave Karen a queenly little wave. "What do you think? You like my new hardware?"
+Karen gulped. "You look like a lopsided train wreck."
+"You and me both, sister." Karen flinched as the robot reached out for her. His hand fastened on the tarp covering her body and yanked. The metal clasps bent and snapped, and the heavy cloth swept loose with a flourish. Karen spent a long, confused moment looking down at herself, unable to process.
+Short, dingy medical scrubs clad what remained of Karen's body. Her left arm ended four centimeters below the elbow. Sweat-yellowed bandages wrapped the stump, and rusty brown stains peeked through in splotches. Her right leg ended at the knee, and when she tried to move her left foot, the toes wouldn't wiggle. A scream got caught in her chest, unable to escape as she stared at the damage.
+"You killed your family," Explodite said, voice curt and matter-of-fact. "And paralyzed yourself from the waist down. You'll never walk again without our help."
+"I?I didn't!" Karen whispered. Blood thrummed and pounded in her ears as visions of rubble-strewn vacuum danced through her mind. "The grav core failed, I didn't break the ship."
+"Readings on the rise," Chopper said, swiping frantic gestures into his datapad. Burning, itchy points of white-needle heat built up in Karen's stomach and rippled out across her arms and chest. She still felt the missing hand, a phantom pain which echoed through her form like iron scraping stone. Even her buttcheek still itched, an arbitrary sensation assigned to unnetworked flesh.
+"We pulled the black box data from your wrecked liner," Explodite said. "No anomalies detected. Drive core at optimal burden until y'all imploded."
+"I didn't kill them," Karen whispered. "No!"
+"Way to go. You left your mom, your sibs and your dear ol' dad smashed up in the ship-mulch with all your discarded parts." Explodite gestured at the synth glass wall, and the images of the robots extracting her from the wreckage flipped forward in time-lapse procession.
+"Leave me alone!" The girl drew breath to scream, then turned her head as far as she could. A violent retch loosed an arcing stream of digestive juices. Karen hyperventilated, and the walls reverberated in time with her rushing pulse.
+"Power spike!" Chopper shouted through the cell's intercom. "Gravitational anomaly detected, clear the room!"
+Karen let out an unearthly howl. The world thrummed, and gravity turned inward to center on her. Explodite swayed, struggling for balance as if the floor just tilted underneath him. His feet skidded inch by inch along the metal, and he lunged over to the sink in the cell's rear corner. He grabbed the fixture and held on tight against Karen's overpowering gravity. The anomaly pulled Chopper up against the synth glass door, bracing himself with both hands. His scarlet tie floated up and stretched toward Karen, pulled by an unseen force. "Get OUT, Explodite! The girl's inhibitors haven't developed yet, she'll die if she overloads!"
+Explodite laughed like a maniac. "See? You just gotta believe in yourself, cookie. Once you can control your shit, we'll start you at 30K a year. Plus sweet health bennies, bitch! Somthin' tells me you'll need 'em!"
+"GO TO HELL!" Karen's body shook, and the world bent around her. The walls of her cell screeched and popped their rivets, metallic sheets curling inwards at the corners. A power conduit shorted, and sparks flew from the lighting strips set in the ceiling. Explodite yelped as his weight tore the sink from the wall, and he flickered away to reappear outside the cell door. Karen's gravity well slammed him up against the synth glass, and he jerked a nod at the physician's assistant. "Hurry up!"
+"Pacifying subject!" Chopper thumbed a control, and the air vents hissed as sleeping agents flooded Karen's room. Her vision dimmed around the edges, and unbidden tears rolled down her cheeks.
+"I?I didn't?kill them."
+Blackness like the star-free night rolled over her.
+Chapter 4
+Karen removed her bandage again and caressed her left-side arm stump. She toyed with the laser-cauterized seam like a little boy picking at his scabs. The truncated limb felt alien, unreal, novel like a missing tooth. Maddening. She touched the wrinkles and indentations of fold-cauterized flesh. Each change in texture, each pucker or unexpected lump of scar tissue, set her teeth on edge, and she tried without success to stop fiddling with them. She could still feel her missing hand, could ball her phantom fingers into a fist and move them with delicate precision-just no flesh to make the motions real, and no tactile feedback. Karen could no longer muster the initial horror of witnessing her transformation. She felt hollow, wrung out from however long she spent crying upon waking up. Fatigue took over for long, unpredictable periods, and Karen lay under depression's crushing weight, counting the rivets in her cell's ceiling. Whenever her energy returned, demented curiosity took reign.
+When the girl tired of fidgeting with the freak-arm, she checked the boundaries of her paralysis. She prodded at herself from waist to hips, searching for the exact cutoff point where she lost sensitivity. To her surprise, haphazard fragments of feeling remained in a shattered continuum, with no perfect line of separation.
+"Stabba! Stab-stab!" the girl muttered, jabbing a fingernail into her right quadriceps. "Stabbity-YARG!"
+Still-living neurons formed a tiny, aggravating demilitarized zone between full sensation and numbness, and Karen's skin came alive with torturous pinpricks whenever she poked a traumatized nerve. The point of her right pelvic bone could feel pressure, but not pain. Another patch of skin registered warmth, but not the weight of her hand. If she traced the different tactile zones out on her skin, the results would look like a political map of Hyper-Jerusalem. Her thighs couldn't register touch, pain or pressure, yet they remained ticklish. Her legs even twitched in response, and she spent morbid hours in amusement, watching the involuntary dance of muscles which might as well belong to someone else. She left the bandages on her leg-stump alone-with just the one functional arm, she couldn't both prop herself upright and reach. The meager physical activity left the girl exhausted, and she spent her downtime counting rivets and awaiting the next meal.
+"Ninety-four, ninety-five, ninety-six." Time dissolved in an ambivalent, off-white insomniac haze. The girl couldn't sleep and didn't want to, given the dreams which would follow.
+Bzzt-click?! Thump. A rectangular object wrapped in white paper toppled out of the corner dispenser-chute, bounced off the built-in tray and landed on the cell floor. Karen groaned. "Again? C'mon, man, could you hand me my food? HEY! Listen to me when I bitch at you!" Karen grumbled herself to a standstill, fixed her eyes on the little parcel and focused her mind. She reached out her good hand, tensed her fingers and scrunched her eyebrows. "And, gravity! Er?gravity?" She tried two more times, and the package wiggled and inch across the floor. "Give me a break, you worked last time! Help a girl out!" Karen waved an angry stump at the inert demi-meal, and the potential energy pent up inside her unsprung like a rubber band snapping. The ground-food hopped half a foot in the air, bounced once, leapt upward and soared at her face.
+"Ack!" The soft parcel rebounded off Karen's forehead, tumbled through the air, bounced twice off her grasping fingers and almost toppled. She caught the package wedged in between her right breast, armpit and chin in a cramped three-direction clutching motion. The girl waddle-flopped onto her side, shimmied the chin-dented object into her lap and worked with teeth and fingers to tear off the paper. Her efforts revealed half a pound of unsliced, brownish OmegaFranz high-density NutriLoaf. Bland, wholesome, and chock-full of fiber. Karen dreaded the next time she needed to use the gurney's built in econo-john. She bit off a corner and waged the same war as every mealtime. The stale, yeasty food-cram resisted mastication, and no amount of saliva could moisten the mouthful. The task so enthralled her attention she failed to notice June's arrival.
+"Karen! Wut up, lazy butt, you ready to go?"
+Karen jumped so hard she almost fell out of bed. "June? Where the hell you been, diddling yourself?"
+"Nope! Bustin' my buns to figure out my powers, all covert-like." The young woman's voice came from a dancing, fist-sized clump of spatial distortion at the cell's corner. "Sorry I took so long. They moved my cell, and re-finding you was a massive bitc-a pain. So, no time to waste, let's get moving!"
+"Jesus Stardust Bar-Joseph, would you stay out of my room?" Karen stump-rubbed her left temple, winced at the stinging tingles and pulled back from the motion. "Your peppiness gives me a migraine."
+"Coming iiin!"
+"For real, June, I don't need your-"
+The mid-air distortion shimmered and widened, and June tumbled from the portal into view. She landed in a heap, untangled herself and stumbled upright with a fist-pump. "Woo!" She stood taller than Karen, with eyes the dark purple of Parnaw eggs, chin-length brown hair and the same frumpy scrubs all captive patients wore. The girl patted herself down all over, as if checking a series of pockets. "Arms, roger, legs-yep, legs. Good. Butt? Torso-all present and accounted for. One-way travel accomplished with no casualties!"
+Karen rolled her eyes hard enough to burn calories. "Yaaaaay!"
+"Whoa, Karen, what happened to your cell?" June looked around the curled-in, dented siding plates, then double-took at the bed-ridden girl herself. "WHOA, what happened to your??!"
+"Limbs?" Karen scowled. "I bit 'em off in an escape attempt. Like a coyote, yeah? Now get the fuck out of my digs."
+June raised her eyebrows. "So you don't want to leave? Makes sense, you really gave the place a homemaker's touch. What did you do in here?"
+"Your mom."
+June made a tsk-tsk-tsk noise through her teeth. "Please. My mother puts plastic protectors on the sofa cushions-she won't even enter a messy room. If you wanna bag the ol' girl, you better at least mop the floor."
+"Were you born with a brain defect where you can't detect sarcasm, woman?"
+"Nope! Just a lifestyle choice." June bustled around Karen's EconoBed, fiddling with the brakes and elevation controls. "You gotta look on the bright side of life, accentuate the positives, stay hopeful."
+Karen's jaw worked as she struggled to comprehend her intruder. "I think I hate you."
+"Too bad, because escaping the murder-dome together'll turn us into auto-BFFs."
+Karen sighed. "Look, I'd rather get head-shot in the discomfort of my own humble home here. Whoever grabbed us, they got a big-ass, organized racket going. Let me guess-your portals can't move us out of the facility to some far-off, safe planet."
+"Planet? Of course not, but-"
+"Didn't think so. Even if we got out the door, how long until they tracked us down again? You think I didn't daydream some ways to escape? I tried using my powers, I tried talking to the guards, and I tried holding out hope for some rescue. You know what I want to do now? Wallow in my cell and enjoy some self-pity."
+June paused and tilted her head at Karen. "Powers? What kind did you get?"
+"I can suck stuff toward me like a puny black hole. Observe the results." Karen waved her stump at the messed-up environs.
+June whistled. "Not bad for a ninety-pound girl!"
+"Listen, I weigh at least?oh."
+June batted innocent lashes. "Lost some serious mass lately, huh? Can we swap diet tips?"
+"Shut up. Let's call me a hundred pounds even."
+"Uh-huh. Just gimme a minute to fix-oh, c'mon." June went back to her tinkering, and Karen tried to prop herself up for a better view.
+"The hell you doing?"
+"Getting your bed in neutral so I can push you easier. Hah!" The machine played a welcome jingle and whirred to life. "Yuss! Go me!"
+Karen waved her hand and stump in the air. "Woo! Now what, genius? You said you couldn't teleport us out."
+"Out of the facility, no. But I bet I can get us out of the room in one piece. Hang on tight."
+"What do you mean, you BET?" Karen's good hand gripped the bedrail as June pulled the gurney back to the cell's rear wall and braced herself.
+"How about you hush your hole and let me concentrate? I'd rather not portal us to death." June sucked a deep breath, furrowed her forehead and made a twisting gesture with one hand. The air in front of the synth glass wall shimmered and boiled. Piece by piece, a pocket of visible reality unfolded to reveal the room beyond the cell's front door. The portal distorted light like a fish-eye lens, and excited air molecules passing the event horizon gave off a faint glow.
+Karen's mouth dropped open. "Whoa. Er, June? I don't know if the gurney will fit."
+"Guess I better push extra-hard, then!" June breathed in short, nervous bursts. "Okay, I can't hold a big one for long. Three, two, one!"
+"Wait, June, what do you-AH!"
+"GO!" June kicked off the cell wall with a grunt, charging gurney-first at the corruscating portal. Karen wrapped a protective arm up over her skull and watched in terrified fascination as the strange passageway swallowed her. The visible spectrum splintered into a thousand fractal planes, like viewing reality from inside a cut diamond. The gurney got caught midway, and Karen's momentum hurled her free of the refractive tunnel's mouth. She flop-skidded to a stop on the grody concrete and lay groaning until she heard June's laughter behind her. Karen looked back at the portal and saw June standing inside the cell. The gurney's mass protruded from both sides of the portal, and the middle portion looked like a funhouse mirror reflection. The mechanism's springs and supports distended in crazy, impossible ways. The metal compacted, folded and stretched out like taffy without ever straining or snapping.
+"Looks like you were right." June scrambled over the top of the gurney to squeeze through the narrow tunnel.
+"You said you could get us through intact!" Karen whisper-shouted.
+"And I did. Whoa, look out!" June ducked as the spatial link wobbled and began collapsing. The gurney's portal-trapped section shuddered and stretched through impossible dimensions, trying to decide which space it really occupied. The EconoBed's cell-side bulk won out, tugging the rest back through with ejection force like a released spring. The bed slammed into the cell's rear wall, and the portal-mouth prolapsed and vanished with a faint sizzle.
+"Cool." Karen said.
+"Mm-hm!" June gave her a smug grin, and the other girl rolled her eyes. She propped herself up on her good arm and took stock of her surroundings.
+The room loomed high-ceilinged and massive as a warehouse. Clusters of stacked shipping containers lay strewn about the space, midway through their conversion into makeshift prisons like Karen's own. The finished holding cells lined either wall, stacked seven high in places. Captives huddled in a handful of the little enclosures, while most stood empty. "Shit?we better help. Can you portal 'em out of their cages?"
+June hesitated. "I can't tell how much juice I've got left, and I don't know if I should. Take a closer look, Karen."
+The nearest occupied cell held a boy a few years younger than the two women. When he saw their eyes on him, he froze, then pulled his hand out of his mouth. His fingertips showed ragged and bloody-in some spots, he chewed them right down to white bone. As Karen watched, new tissue crept up over the exposed calcium, weaving together and repairing the damage. The boy watched Karen with glazed-over eyes, and when she waved, he put his half-healed fingers back in his mouth and carried on stripping the flesh. Further down, an old man paced a hole in his enclosure's floor. He conversed with himself, speaking a flurry of nonsense syllables like a homeless man. Every sixteen steps, he suffered a violent tic, ducking as his head, neck and shoulders spasmed. Each convulsion split his upper body into twin copies as the minds conversing within him attempted to diverge, each taking a quantum print of the original. The translucent halves shifted back into one mad, ragged body, and the old man kept pacing.
+Karen shivered. "Good point. Let's get the hell out." She cut off as the sound of boots echoed around the corner, and June grabbed the crippled girl under both arms. She dragged Karen backward, and the pair of them huddled an an unconverted shipping container.
+A black-armored guard with red fist insignia entered, accompanied by a four-legged security drone. the pair of them strolled up the row and halted at a cell near the end of the aisle. The man tapped a keycard to the door, and the glass hinged up and outward with a hiss.
+"Rise and shine, Suzi, the Doc wants to see you." He entered commands on his control gauntlet, and a gurney like the one in Karen's cell wheeled out to meet him, carrying a young girl. She wore a surgical gown, and laser-cauterized seams crisscrossed her body, the hallmark of repeated dissection and reconstitution. Jigsaw puzzle scars danced the length of her pale limbs and covered her face.
+Karen waited for the retreating bootsteps to fade before she hissed, "Where the FUCK are we?"
+"Not sure," June said. "Where would you locate your secret bad guy HQ? On a ship, right? Stay mobile?"
+"Doesn't look like a spaceship to me," Karen said. "Too much wasted interior space-high ceilings and stuff. A planetside civilian building, I think."
+June shot Karen an odd look. "How would you know?"
+"My dad worked in fabrication and corporate aerospace."
+"Maybe they took over some abandoned installation where they figured no one would find them," June said. "Squatters, you know? C'mon, let's walk and talk-hop on my back."
+Karen groaned. "Are you funning me, June?"
+"I don't see any wheelchairs lying around." June set to work cajoling and maneuvering the younger girl. Karen looped her good arm around June's neck and used her stump for stabilization. June lurched. "Ack! Quit shifting around."
+"Slipping!" Karen yelped. "I can feel myself slipping!"
+June grunted. "Okay, a little to the left. Now easy does-gnrrrck! Not so damn tight on my throat!"
+"Oh, please. You act like you never piggybacked a paraplegic before. I-would you QUIT letting me ride down?"
+"Exercise some patience." June looped a hand in the crook of Karen's right knee, then fumbled with the opposing stump.
+"What do I even pay you for?" Karen said. "Quit screwing around and grab hold!"
+"To WHAT? We better scavenge some rope along the way. Or, like, a roll of duct tape."
+June arranged the lopsided mass of their bodies, eased herself upright and set off at a jog. They reached the warehouse space's mag-sealed exit, and June leaned in close to the keypad. "I got my hands full with you. Poke the button, please?"
+"Right." Karen uncrooked her arm from the other girl's neck for a tenuous moment, reached out and stabbed at the open control. The door-panel's speaker synthesized a soothing female voice, interlaced with crackles and audio glitches.
+"Greetings from your favorite-chhhrgk-all. Bzzt-churk, sprapp!-et to inform you of widespread system corruption. Malicious software present and active, sabotage by unknown third parties indicated. Shhhtchk!?shift supervisor, and always remember: Stay Sunny! Sunny Orbits-where the universe revolves around you!"
+June blew out a deep sigh. "Portal number three for the day. Man, I hoped not to blow through all my energy at once."
+"How many can you do?" Karen said.
+"No freakin' idea." June leaned toward the door's narrow vertical window to study the hallway on the other side, puffed out her cheeks and strained. "Nrrg!"
+"June? Don't blow out your sphincter."
+"Hush your mouth," June said. Karen watched a bead of sweat slide down the straining girl's neck into the divot of her collarbone. "Aaah-now!"
+The air crackled and warped, folding like a piece of soggy cardboard. June barreled through the lopsided four-foot aperture and staggered for balance as she landed on the other side. Pressure release from the crumpling portal ruffled Karen's hair, and the lip of the event horizon came within inches of grazing her. "AH! A little more caution next time!"
+"Okay, just give me?one minute." June stood bowed, breathing hard with Karen's weight pushing down on her. The girl's oily bangs hung in her face.
+"Um, June?"
+"I said I need a breather!"
+"June, look." Bulletholes peppered the corridor wall, caked with a reddish-brown pattern of spatters and drip-marks. The girls smelled rotten flesh, torn away by assault rifle rounds and embedded in the whitewashed cinderblock. "So much for the squatter theory. Looks like a hostile takeover to me."
+June straightened up and kept jogging. "Okay, no problem." She hit a T-junction and turned left. They moved on through bland, corporate architecture, and the short carpet padded their footsteps. June sped up with each passing spectacle of carnage-a hall full of maintenance pipeways bent and blackened as if by explosives, a pallet stacked with folded work uniforms and empty rifle magazines, an office door left ajar to reveal a black-armored corpse chained and padlocked to the desk within. Her voice rose in pitch as she talked. "Just gotta get our bearings first, no worries at all!"
+"Yeah? You sound pretty freaked out," Karen said. "Little tense? Starting to realize the shitstorm you just signed us up for?"
+"Karen?"
+The two-stumped girl heaved a theatrical yawn. "Yeah, June?"
+"With love, from one friend to another?"
+"Sure," said Karen.
+"Shut your fucking hole for like two seconds."
+"?m'kay."
+June pressed her hip to the next door's crash-bar, and the pair emerged into a gloomy three-tiered shopping arena. The light strips over the vacant storefronts flickered or sat inactive, and not a soul stirred. A mangled, red and flesh-tone mass lay heaped against the bottom level's far wall. A collection of corpses piled up and compressed, as if bulldozed into the corner. June clapped a hand over her mouth.
+"Well, shit!" Karen felt more surprised than horrified. "I think I do want to leave with you now. If we can escape the building, how do we get off-planet?"
+June shrugged. "We look for a private hangar. I bet they keep transportation handy in case they need to abandon the site. We find their lifeboats, maybe we can escape on one. Get into orbit and blast an SOS. Easy."
+"Yeah?easy." Karen's heartrate rose as images of the liner's depressurization flooded her mind. Drowning in nothingness, crushed as the gasses fled her grotesque, swelling body. She relived the helpless moments spent watching her siblings cartwheel away through the void. She grasped at the vacuum, powerless to traverse the growing meters between them.
+"Yo, Karen? You all right?"
+"Fine, for now-what if we run into guards?"
+"Then I'll use my powers to get us clear-and you use your powers to fight back."
+"Me?!"
+"Sure. If you can bend supersteel plating by mental force, I bet you can bend people, too. In the event we get cornered, do what you gotta. Cut loose on 'em."
+"Rather not," Karen said as June jogged them along, up around the top shopping tier toward an exit. "My powers seem dangerous to everyone-self and friends included."
+"Better learn to live with the burden! With super-powers come super respons-"
+Karen blew a long, wet raspberry. "Stow the pep talks and keep running, horsie."
+"Hmph." June walked around front of a seven-foot map display and examined their surroundings. A large sun icon with the label YOU ARE HERE sat at the center.
+"Women's apparel?" Karen read off the map listings. "Second floor, athletic wear and spa services-third floor, food and recreation. Fourth floor, ice rink? The baddies invaded a shopping mall?"
+"Second floor bay east! Vehicle storage and emergency transport!" June stabbed a triumphant finger at the map and almost dropped Karen. "Let's move."
+"You know the location. Just portal us."
+June winced and set off again at a walk. "Ever try playing darts blindfolded? If I can't see the spaces I'm connecting, the process gets messy. I only found you the first time by exceptional good luck."
+"Well, la-dee-dah, bitch. My luck-hey!" Karen cut off as June skidded to an abrupt stop. "What gives?"
+"Shh!" June scurried back behind the map, and the clomping echo of combat boots reached Karen's ears. The crippled girl leaned at a precarious angle, and June set her down to peek one eye around the side of the map stand. A pair of guards entered the three-tiered plaza, blunt rifles held loose and lazy at their sides.
+"You know what I miss the most?" said Guard One.
+"Pussy? Hot showers? Reliable electricity?"
+Guard One shook his head as they tromped past the storefront of From Venus Lingerie and Curiosities. "Real food."
+"Me too. I'd kill for some Tako Taco about now."
+"Ugh, man. I hate sentient seafood," Guard One said. "If we live long enough to get back to civilization, I'll make sure you never pick the restaurant again. Every place you ever chose made me shit like a solar flare."
+June began dragging Karen left, keeping them out of sight as the guards rounded the shopping area. Karen's dragging legs made an audible squeak against the cheap tiling, and both girls froze.
+"You hear a noise?" said Guard Two.
+"Yeah, fat-ass, your growling stomach. Thank God the mall's food storage spoiled before we restored power. Else I could see you dragging me to Steak Out or a fucking Surl-E-Burger."
+"You said you liked Steak Out!"
+"Used to," Guard One replied. "Before we went on the Zippec Smith contract and you came back from every food run with fajitas and shit."
+"But Steak Out meats a bounty hunter's needs!!" Guard Two sang an off-tune jingle. "When you're on a stakeout, hit Steak Out for takeout!"
+Guard One sighed. "Next time someone assaults the facility, I'll blast your head off and blame the bad guys."
+"Respect my dietary restrictions, man. I stick to meat because I can't eat vegetables."
+Guard One snorted. "My ass."
+The guards left down a straight-running hallway, angled so the map no longer blocked their view. June hustled Karen up onto her back as fast and quiet as possible, petrified one of the men might look over his shoulder.
+"For real! You remember the veggie kids on Monsanto 6? I can't look at a broccoli plate without thinking of their vapid little faces. Gives me the willies. If you lived through-"
+"HEY!" Guard One shouted. "Hey, FREEZE!"
+"RUN!" Karen yelled, and June fled as shots rang out. They rushed for the nearest corner, and bolts of energy left craters and splatter-burns in the wall-mosaics. A triple-burst of superheated gas rounds hit the map stand's YOU ARE HERE marker, and six inches of varnished plastic boiled away in a yellow cigarette-burn pattern.
+"Oh, God, they saw us." Karen said, clamping down nausea as June tried to sprint under her hundred-pound burden.
+"Nope!" The purple-eyed girl panted as she motored down a dim hallway. "Shut up and ac-cen-tu-ate the positives!"
+Karen craned her neck backward and caught a flash of black-armored men in pursuit. She stared at the soldier in front, concentrated and tried to grav-yank him off balance. Her powers latched onto a stray kiosk instead, and the vendor stand toppled with a crash. "What POSITIVES!?" she yelled as June ducked around a corner. 
+"Um, I starred in high school track and field? Now hang ON!" June bit the words out between sharp breaths as she ran. The girl closed her eyes mid-stride, drew her focus inward and ripped a hole in reality to jump through. "Banzai!"
+"Oh fuck, you can't-AAH!"
+"Just duck!"
+June barrelled through the tight opening at a dead run, and Karen screamed. Fragment-scenes and solid mathematics whipped past them with breakneck, silent velocity, and reality returned with a whoosh. Karen let go as they erupted from the portal's far side, and both girls went sprawling. Karen tried to tuck and roll by reflex, but her paralyzed legs disagreed. The useless weight twisted her center of mass as she dropped, and the girl landed with the grace of a dead housecat. She stared down at her bruised, lacerated joke of a lower body. "Ow! I think." June burst out in uncontrolled laughter, and Karen grumbled as they got her saddled up again. A throat-clearing cough sounded nearby, and adrenaline flooded Karen's body as she took in her surroundings: the stink of old grease, the soft clop of boots on ceramic.
+Karen and June stood in the mall's former food court, far from alone. Six helmetless guards edged closer to them in small, cautious steps, weapons at the ready. Their reconstituted lunches lay forgotten on the little round tables, and the man in the front took one hand off his photonic boomstick to thumb his radio. "Security. Two female runners in Mess Hall Alpha-the gimp and the school-trip abductee."
+"Acknowledged, Alpha. Sending three retrievals staff."
+"Portal!" Karen whispered in June's ear. She could feel the other girl shaking.
+"Trying!" June hissed, face straining under the effort. The man with the light-gun stepped nearer.
+"Now, girls. We better get y'all back in your rooms. 'Cause, see, Mister Chopper? He'll hurtcha bad. But I'll spatter your pretty little brains like I'm eggin' a house, then laugh when I tell the story, yeah? So the best course o' action for you two looks like lying face-down on the floor and waiting for the re-welcoming committee."
+Karen did her best to sound cool and collected. "Can I hit up the ladies' room first? My bed's built-in crapper leaves much to be desired." Under her breath, she continued her mantra to June. "Portalportalportalportal!"
+In a nearby hallway, klaxons kicked to life. The guard-leader charged up his weapon. "On the ground, or I'll shoot off her bits 'n pieces, too."
+Karen let out a small squeak as plasma, laser and physical projectile barrells levelled in their direction. She shouted, desperate to buy a couple more seconds. "Okay, okay! I'll put my hands up!" The girl looked down at the arm latched around June's neck. "Oh. Might present a challenge?" Subtle shimmers like water-reflections danced in the air around them.
+"Power usage!" shouted a guard in the back. "Open fire!"
+"JUNE!" Karen's scream cut off midway as the floor snapped open underfoot. The pair fell straight downward, and Shots in a dozen deadly colors blazed overhead as the portal swallowed them. The new floor rushed two feet up to meet them, and June spun as she collapsed onto her butt rather than blowing her knee. The two girls sat panting. Sweat soaked June's features and stained the back and armpits of her scrubs.
+"June?"
+The older girl ran a hand over her forehead. "Yeah?"
+"Thanks. And?sorry you have to carry my useless ass."
+June chuckled. "Useless or not, it's feeling pretty taut. What do you do for your workouts?"
+Karen shrugged. "I think I might get into jogging."
+June giggled once, then again, then both girls flew into a manic cackle. Laughing hurt even more than breathing.
+Karen's smile faded with her next thought. "They won't stop looking for us. Should we lie low a while?"
+June wiped away snot and laughter-tears with the back of her hand. "Nah. They know the mall better than we do-we'll keep moving." She hefted Karen, got her feet underneath her and stood with a wobble. "We need another map, or a landmark of some kind." The mall loomed huge and derilict around them. In places, only basic plumbing and electrical ran through unfinished wall-frames. In others, the detritus of past firefights littered storefronts and breakrooms. Layers of dust and neglect settled atop the never-used fixtures. June came to an intersection and turned down the larger corridor, picking up speed as she moved out of a storage area.
+Karen craned her neck to read the occasional signage. "Hey, 'promenade ahead!' Straight down to the end and then hang a right!"
+As they rounded the corner, a hologram of a bland-looking woman appeared in their path, all smiles and gentle gestures. "Please refrain from running on the Promenade. Thank you! Enjoy your visit to Sunny Orbits Mall-where the Universe-" June ran through the mass of interfered lasers, ignoring the burning tingle they left on her skin.
+A pair of raised walkways made up the promenade, with stairways to either side leading down to the level below. Storefronts lined the walkway closer to them, and tables and chairs awaited visitors. A high, arching sheet of synth glass formed the opposite wall, and the view beyond made Karen's heart skip a beat.
+She saw outer space, not a planetside landscape. The girls stood looking out the astro-mall's window into the starfield of endless night. No ships, no planets, no reference point above or below them to anchor to. No surface for Karen to push off so she could reach Debs. The girl shook from head to toe, feeling the vacuum wrenching the air from her lungs. "No! No, June, take me back!"
+"What, back to your cell? You know I can't!"
+Horrible tingling crawled up Karen's arms and legs. She could feel her missing limbs, on fire and thrumming. "Get me away from the WINDOW!" The stars' piercing gaze never shifted, and Karen tried in vain to look away.
+"Many apologies, sir. Mall policy forbids open-carry of firearms, except in cases of-"
+A burst of plasma rounds cut the hologram's audio short, and the projector exploded in a shower of sparks. "Confirmed! Subjects spotted, Level 4 East by the souvenir shop!"
+"Shit!" June breathed, breaking into an exhausted sprint. Gobs of green and purple energy whizzed past them as she skidded toward the stairs.
+"Teleport! Get us out!" Karen screamed. Her panicked thrashing threatened to throw June off-balance.
+"I can't, I got nothing left!"
+Two more gunmen appeared from across the walkway and dropped into firing stances. Their volley ripped into an overgrown decorative ficus who never harmed a soul in his life, aside from one contractor's kid, and the plant disintegrated in a wave of shimmering particles as the girls rushed past.
+"Cut off the east-passage egress!" Additional personnel arrived on the scene, closing in fast on their position. June spun, chose a new direction, and got smacked in the face by a flying chair. The piece of furniture buffeted off the purple-eyed girl, thumped against Karen's side and stuck to her like an oversized fridge magnet. Objects slid across the floor toward the escapees, grating on the expensive polished-stone finish. Karen screamed as every muscle in her body tightened, and gravity wound around the two girls in a slipknot. June's feet left the floor as the anomaly lifted them, and she thrashed in the air.
+"NO! Karen, set us DOWN, we gotta run!" Karen's gravity pressed the girls together, and they floated in helpless suspension. A second chair, then two trash cans and a table, leapt up to give them a group hug. Napkins and loose plasticware fluttered in miniature orbits around Karen, and the men with guns stopped their advance.
+"Power usage! Go nonlethal, we want 'em intact!"
+Karen reached out with her good arm, and the walkway's metal handrail bent toward her with a high-toned squeal. June struggled against the crushing pull of Karen's gravity, grabbed the younger woman's face and looked her in the eyes. "Karen, listen! You gotta stop, you'll kill us both!"
+"'Nade out," said a grating, robotic voice. The words cut through Karen's frenzy, and she looked down in time to see the little canister arc toward them.
+One bounce on the polished marble floor.
+Two.
+The grenade caught the edge of Karen's gravity field, wobbled in place and leapt up to adhere to her right thigh. A pop-hiss sounded, and white fog spilled from the device's top end.
+Karen thrashed in fury. "No! You rotten sons of bitches!" The crippled girl inhaled gas as she struggled, and the fight went out of her. Tables and chairs spilled back to earth, and June rolled free of the compression to lie unmoving on the floor. Karen's vision blurred, and she saw a robot's six-foot silhouette approaching her, stub-nosed blaster in hand.
+"Troublemakers," Explodite growled. "Prep both prisoners and get 'em down to surgery. Chopper'll need to deal with these two ASAP." He raised the blunt, mean-looking weapon at Karen, and her vision faded just before she heard the plap of blaster-fire.
+For a stun round, it hurt like a bitch.
+Chapter 5
+Running lights flashed as Bradley and Tora jogged the passage down to the third starboard Penetrator bay. They boarded the open troop-missle's seal, picked adjacent seats in the center row and got their gear squared away.
+"Long time since our last duo," Tora said. "Any changes I should know about?"
+Bradley shrugged as he buckled in and yanked his left shoulder strap to snug up the fit. "Five years' biological age, handful of new enhancements. EyeOn reflex adapters circa 12201, in-house hack module upgrades, Exis III muscular reinforcements. Standard light commando/sapper package with my custom tweaks."
+The big alien snorted. "Wuss."
+"Jock. You bringing the usual dark-age weaponry?" Bradley nodded to the massive space-scabbard welded to the backplate of Tora's suit.
+The big alien looked as hurt as you can while encased in three inches of carbon alloy. "Don't bust on Anger Sword, he's a member of my family."
+"Fine, I apologize."
+"Not to me," said Tora, maneuvering her quilled skull-tail down the armored cylinder fitted along the back of her suit. "Talk to the blade."
+"Sorry, Ang."
+"He forgives you. I got shotty too, don't you worry." Tora patted a big quad-barrel shrapnel launcher holstered on her right hip like a pistol. She slammed on her helmet, cranked the neck seal and pressurized. Her voice came through the suit's external speakers. "You ought to know I upgraded my adhesive harpoon and wrist-launcher setup. Can I talk you out of bringing your weird fuckin' guns?"
+Bradley grinned. "Casmin whipped up a new prototype for me to test out." The Hylax stroked the two-foot-long weapon harness-belted into the seat on his other side. One could make out the sleek, trim angles of the original miniature repeating blaster, obscured by clusters of custom force-release channels, half-legal aftermarket mods and boxy bolt-on components. The front end sported a cutter-beam, four reciprocating projectile outputs and a Versi-Slot ammo adapter. A mean, bulky under-launcher slung out midway down the weapon's frame, loaded up with compact spherical gel-grenades and a fluid riot control attachment nozzle. A hacked-on screen displayed cyberwarefare and analytics tools. "Fires 384 armor-piercing pinpoint jets per minute. Fifteen percent stopping power increase over leading legal brands, and he doesn't even need fusion packs! Runs on straight bemylide quad-tixip! I don't know what to name him, though. What do you think of 'The Green Baron?'"
+Tora eyed the ugly, cobbled-together weapon with apprehension. "?How much did that obscenity cost to construct?"
+"Psh. No idea, I pay for my hardware with sex. Lil' wifey works her firm ass off making my toys, and I'd hurt her feelings if I didn't use them hard."
+"Fine. Just bring a backup weapon in case."
+Bradley raised his primary eyebrows. "Of course. Do I look like an amateur?"
+Tora sighed. She raised her left arm, and her magnetized harpoon-cable fired across the small pod's length to a weapon rack set in the wall. The fist-sized metal orb at the end of the cable crackled with white adhesive energy and bonded to a machine pistol on impact. Tora reeled her line back in with a snap, gun in tow, and handed the mundane firearm to Bradley. "A normal sidearm. Just in case we need to go old-fashioned."
+"Oh, fine."Bradley grinned and magnet-clamped the pistol to his right hip. The Hylax flattened his ears back and donned his helmet. "I missed you, girlfriend."
+"Missed you too, buddy." Tora opened her TeamBlab and hailed the Captain. "Preparation status green across the board. MS2 and MS1, strapped up and ready to blow out."
+A lump of worry formed in Bradley's throat. "Wait a sec-did you update any of your first-aid software since last time? I don't like how your beta release interacted with my proteins."
+"Don't worry. I upgraded to custom EMT software Captain Stern built me."
+Bradley felt an uneasy pinching in his stress-bladder. "God, tell me you got a third party to do the debugging."
+Tora turned her helmeted head toward him. "No. Why would I?"
+"Hoo boy. Activating Team Lead override to delay launch for a few minutes," Bradley said. "We'll get you rolled back to a known functional version, then kick off. I'd rather not risk any cheeky surprises Stern programmed in." The pod door hissed shut and sealed as Bradley reached for the STOP button. "Hey, wait a minute."
+The captain's voice reported through the speakers. "Coming out of Un-Space in T minus twenty. All aboard the first train to undocumented station 1411.6932.1110, former identity Sunny Orbits Mall. Vitals and gear scans read green across the board. Re-read your HUD briefings while in transit. We identified two high-priority rescues, I want them recovered intact, plus any spare-change supernats sane enough to salvage. If one of the 'patients' gets loud on you, use your best judgment. Your best flawed, squishy, ambivalent judgment. Last-minute questions?"
+Bradley raised his hand. "Can we hang on a sec and unin-"
+"Nope. Hold onto your corneas, folks. I'm sending you in hard."
+The mooring locks decoupled, the mag-launch flung them outward into space, and the plasma boosters kicked on like the roar of a wakened god. Bradley breathed deep, willing his muscles to relax. The pre-battle butterflies danced in his stomach, and he looked over to see Tora grinning like a lunatic. She changed her faceplate controls, and the visor of her helmet went opaque. The troop missile leapt to insane velocity, ready to plunge tip-first through the space station's hull.
+~~~
+Karen's vision took several blinks to clear up, like windshield wipers struggling to scrape away half-dried mud. Her throat burned with thirst, and she reached by reflex to rub at her stinging arm. The girl realized said arm didn't exist, then realized she couldn't move her body. She lay on a surgical table with a sedative drip feeding into her from a nearby IV tree. White lights glared down at her, and she turned her head as best she could, slow and sluggish.
+"Ah! Finally up, wakey-wakey!" Chopper glided up to her with clipboard in hand. "Good. Before procedures get rolling, I better take some waking samples. Establish vital signs, get your signature on-ackt!" When Karen's struggles for freedom bore no fruit, she angled her lips and hurled the best projectile loogie she could manage. The spit hit Chopper on the trouser leg instead of the face or chest, and Karen grunted in disappointment.
+"M'kay, no. Take a wee stabsky." The man jabbed her with an unpleasant implement, and a tingle through Karen's nervous system made every sphincter she owned clench to impressive tightness. Chopper used the distraction to fasten a spare CPR mask over the girl's mouth to stop her hawking more snotballs, then took her blood pressure and pulse. "Good, good. Stable in body, but the mind? The mind needs a whole lotta work. Expensive, but I don't see any alternative. Don't worry, kid. You'll thank me after the procedure-literally." The man rubbed his chin as he paced. "Hate me all you want right now, 'cause you won't get another chance. Guards! Prep the scion embedder." The man in the lab coat snapped his fingers, and armored-up guards filed forward to prep her for-
+For surgery! Karen's mind flared awake through the grogginess. She struggled and cast around in a panic. To her horror, she beheld a trio of assistants wheeling forward a gangling wire-and-steel apparatus. The device looked like a macro-sized prawn welded together out of scrap material and coated with polymers. The trailing bits terminated in assorted electrode pads, catheters and rubberized pincers. The girl did her poor imitation of thrashing-you don't get much leverage with one of each limb.
+"Relax. The procedure will correct your chronic pain issues. Then, once the incisions heal, we can test you out for organic replacements. I assume you want to walk whole and free again. We can repair your bodily damage."
+"Mmph!" Karen's brain lashed out, and the scion embedder tipped over with a dull rubber crash.
+"Idiots!" the man in the white coat shouted, taking quick steps back from her. "I TOLD you to give her the full dose!"
+"We did, sir. I-"
+"Fine, then! Give her IV an extra double-shot. And watch her for power usage while I prepare."
+A colossal, screeching thud echoed through the space station, and every unmoored object shifted six inches left. A few seconds' deathly silence, and klaxons picked up like a pack of howling dogs.
+"Skark! Warning," said a cool female voice over the PA system. "Hull breach on level six, home and gardening. If you can hear me, evacuate. If you can't, please hold your breath as long as possible and await rescue. Thank you for Shopping Sunny Orbits Mall."
+Karen's gurney slid on creaking wheels, and guards stumbled. High on a fresh stab of adrenaline, Karen expanded her focus. She imagined a fist, imagined gripping the IV stand and pulled with all her mind-might. The apparatus scooched sideways, fell over and yanked the drip feed from her arm. Among the bedlam of shouting, swears and toppling equipment, nobody noticed. The girl breathed slow and quiet, willing herself to shake out of the drug haze. What next? she thought. I still can't escape without help.
+Two more thunder-blows like the first came in rapid succession. The lights in the makeshift operating theater flickered, and the life support systems blinked off for long moments before the station went to backup power.
+"Warning," said the non-threatening announcer voice. "Sun-ssst-ll under attack by armed aggressors. Intentions unknown. Armaments unknown. Quan?skrick-wn. Peacekeeper response time unknown. Please contact customer service for further-"
+"GUARDS!" screamed the mad surgeon. "You four! With me! And you!" Chopper singled out the best-armed man among them. "Prep the patient for transport and confine her with the other runaway in surgical lab 2! Await my return, and shoot them if they use powers at you!" The skinny man flitted to and fro, scooping up volumes of printed notes and priceless sample vials in his pockets. In a matter of seconds, he vanished out the nearest door with his escort.
+"Warning. Multiple casualties on decks two, four and six. Please return to your quarters and await full-station safety lockdown." The lights flickered. "Full safety lockdown disabled. Panic."
+The black-suited guard turned to Karen, gripped her gurney and began pulling her along toward the exit. The girl tried to yell, got a mouthful of CPR mask and spent a moment chewing and spitting away the fabric occluding her face. "Hey! You want my advice, you better just ditch me and run. You want to follow orders and get killed by the hull compromises, or leave me behind and live?" The terror of open space gripped the girl's mind, and she reeled between her immediate future's prospects. She could die drowning in the black, or die under the cold white of surgical lamps.
+The guard ignored her. At the bottommost step out of the makeshift operating theater, he paused and grappled with the clumsy business of undoing her restraints.
+Karen gritted her teeth. "Four, one thousand?five, one thousand?six, one thousand. How long you gonna dick around wasting your last moments, man? Think of your loved ones, on the fucking remote chance you got some. How 'bout you just let me-AH!" The soldier yanked a honking-big combat knife from a flank holster, slid the blade under one of Karen's straps and bore down. The cut freed her good arm from confinement and left a crooked slice in her flesh.
+"Put me DOWN, you A-HOLE!" Karen cussed, spit and slapped at the soldier with her good hand as he hefted her over one shoulder and took off up the stairs at a jog. He reached the top, slapped his keycard against the lock-reader and swore. Karen hung limp over the man's shoulder as he re-scanned the card once, then again. She saw the sidearm-holster at his ankle and made a grabby hand. Gun, she thought with all her might. Come to me, gun, Mommy loves you. Sweat broke out on her forehead as she strained under the effort. The pistol rattled in its holster, held back by the safety clasp, and Karen resisted the urge to scream in frustration.
+"Ugh?two-factor bullshit. I better not get spaced because the God-damn security servers went on the fritz." The soldier tapped his card on the scanner again, and the door opened with a whoosh. "Space Jesus, about time." He hefted Karen higher on his shoulder, and a spasm of panic-strength flooded her mind. The safety clasp gave a soft pop, and the pistol leapt into her palm hard enough to leave bruises. She fumbled and almost dropped the weapon, then aimed at the small of the man's back and pulled the trigger.
+A tiny click sounded, all but inaudible against the distant sounds of chaos and gunfire. Karen realized the guard hadn't advanced the first round ahead of time, and clenched her teeth. She fumbled with the weapon's stubborn slide, wedging the gun's frame between her cheek and shoulder. Not enough leverage, and the harsh metal surface scraped up her face-meat. She tried her armpit, then her stump-crook, all without success. Meanwhile, the guard stood in the open doorway, checking his wristband computer's mapping screen. "Okay," he muttered to himself. "Two lefts and a right at the junction?" Karen looked around in desperation, hooked the pistol's slide against a seam in the man's armored shoulder-pad and pushed as hard as she could. The slide racked with a solid double-clack, and she hesitated a moment before firing.
+Blam.
+Karen slid off the man's shoulder and hit the ground full-force as the point-blank shot collapsed him. She flopped sideways in a panic, wedged herself halfway upright with her truncated arm and scooped up the pistol to point at the floundering soldier. He wiggled around in place for way too many seconds, and upsetting gurgles came from his helmet speakers until he lay still. Shit, I killed a guy. Karen's stomach made a heroic effort at first-murder projectile vomiting and produced a half-assed dribble of mucus. She wiped her mouth, took a few sobbing breaths and edged closer to him."Hey, uh?you OK?" She prodded the corpse with her pistol.
+"Murfl!"
+"Ahh!" Karen shot him twice more by reflex, dropped the gun and tried to vomit again. Black liquid streaked with oily orange spread from her captor's prone form, and she did her squeamish best to keep clear of the puddle. "Yeah, OK, shit. Now I killed a guy. You did die, right buddy?" She gave the corpse a triple-prod for confirmation. The girl looked down and realized with dismay that her stolen pistol lay in the guard-leak, coated in syrupy blood. When she tried to fire the gun again, the mechanisms jammed, too glued up to function. She decided to keep the useless pistol for intimidation value, and did her best to wipe off most of the gunk.
+Now what? Karen looked at her crippled legs, then back down into the operating room. No wheels, no escape. She pushed her orange-black smeared self to a seated position and reached out toward the gurney. "Come to me, ghetto wheelchair?" She visualized unseen hands hauling the awkward contraption up the stairs. She strained. The gurney wobbled in place, and one wheel came an inch off the ground before thudding down again. "Come ON! How do the stupid powers even work?"
+Karen panted, and sweat drenched her hospital wear. She tried twice more, then spied an instrument table out of the corner of her eye. The table included a bottom shelf she could lie on and wheel herself along, and the whole setup looked light. She breathed deep, pictured the table dragging up the stairs toward her and focused her whole being.
+Karen's powers pulled too hard, and the table rocketed upward rather than dawdling. The flying furniture winged toward her like a homing bird, and gleaming surgical implements fanned out from its parabolic plunge. Oh God, scalpels, said the dry, rational part of her mind. The rest of her went, "AH!"
+~~~
+"Na-nah-nah ha! Gi-imp. Mo-biiile. GimpMobile!"
+Karen lay stomach-down on her stolen medical trolley's lower tray, pulling herself along by her hand. Blood dribbled from four scalpel-pokes on her shoulder and right side, and her worthless intact leg trailed on the installation's floor as she wheeled along. The girl mutter-sang under her breath, keeping the rhythm with every painful pull she took. "Gim-pa. Gim-pa, gim-pa. Gimpah-Mobile."
+One more left turn, then a right at the junction. A makeshift sign above a former mall-optometrist's office read Surgery 2, and Karen approached with hesitation. She rolled in through the open-fronted waiting area, stopped and listened hard, afraid she'd hear the tromp of combat boots. The girl double-checked the stolen pistol she held clamped under her stump-arm and wheeled toward the back-office areas. She moved through an open door with bated breath, easing the trolley's wheels on in slow, painful increments to minimize wheel-creak. She emerged into a tiny employee kitchen and stopped in her tracks. Across from Karen, a figure in a white lab coat bent over a prone woman laid out on the wallside countertop. Karen couldn't see the victim's face from her angle. She glanced around, wary of guards, fumbled for her scab-smeared gun and took wobbly aim.
+"Hands up, Chopper!" Karen said, voice high and scratchy. "Don't move, or I swear to God I'll blast you!" The white-clad figure whirled in surprise, and Karen blinked as she got a better look. A turquoise-skinned face with a cluster of faceted, multi-pupilar eyes stared back at her. Karen brandished the pistol at the alien. "Where'd Chopper go?! Did he send you?"
+"No! Self not Chopper!"
+Karen raised one eyebrow. "Yeah, I know. I asked you where Chopper-"
+"NO Chopper!" The turquoise doctor gesticulated to her nametag, a slat of black enamel swirled with alien writing. "Est orik-on orik Doc-tor! Est-on Gina!"
+"Okay, Doc Gina, I-yeah, no, I understand." Karen struggled to make herself heard over Gina's frantic pidgin-speech, gave up subtlety and shouted. "Shut UP! Step away from the counter. Go! You go-move, stand left!" Karen used the gun to point where she wanted the physician, who hustled to the opposite side to keep the weapon's barrel off her. With the many-eyed woman out of the way, Karen could see June's face-the girl lay still and pale, breathing in long, shallow gusts. Karen gritted her teeth.
+"Eev! Eev tesu-korpono moperakk, take orik! Cabeel orik tson-Chopper, your words say, um? Steal? Orik-take??"
+Karen gave the woman a befuddled expression. "Steal? What, like shoplifting? Insurance fraud?"
+"O-rik-steal!" Gina raised one small foot and stomped, infuriated with Karen's stupidity.
+"Oh, like he kidnapped you? Yes or no."
+"Kidnap! Chopper tson, er, 'kidnap,' fitol-"
+"Yeah? Good, I don't care, join the club! Now wake up the girl! Girl-June wake up, feel better, or orik-shoot Gina."
+Doc Gina went into a lightning crouch with both arms folded over her skull. "Not shooting-desire! Not trouble-desire!"
+Karen's teeth ground together with an audible squeal. "Orik-desire, um, other-orik? Tsou? Wake up now! Heal girl-tsou, make feel better if not trouble-desire!"
+"Ah! Gina treat, er 'girl?' Provide cause of health?"
+"Yes! Cause health NOW!"
+"Yes-cause-health, trouble-not! Good-desire for tsou-Nakagawa-June." Gina rummaged in the silverware drawers, pulled out a syringe and yanked off the cap. "Stab ot-orik June Nei tsou. Stab-stab, mok-"
+"NOT MOVE!" Karen yelled, threatening the woman with her firearm.
+"ARP! NOT DESIRE SHOOT-TROUBLE!" Gina hid behind a folding chair while Karen shouted. Three minutes of asinine charades, and Karen got the physician to step out of cover. With Gina holding up the syringe at her instruction, the girl could read the Linglish label:
+Epinephrine (compat. with human/near-human). Dosage: juvenile.
+"Okay, yes. Desire tsou-June-stab. Now tsou-June-put on the cart. Tson-June move squeak-squeak desire. Fucking SLOWLY! Slooooow. Or I'll shoot you in the space-womb, you hear me? Shooterus bang-bang, then dead." Karen guided the bedraggled woman through the process, speaking the universal language of arm-waving and death threats. The turquoise doctor heaved June's limp form onto the cart, all the while eyeing Karen's under-shelf gun hand for sudden moves. "Tsou not-desire-orik, orik not-desire-tsou, yes? Tsou NOT follow! Orik-desire orik-move, yes?"
+"YES. Kebulo mok-kofro Star-Jesus imop!"
+"I'll miss you, too. Also? Tsou might want to catch a life-pod after I leave," Karen said. "Zzzooom!"
+"Kpff entz-tsou 'go fuck yourself.'" Gina held up a middle finger, and Karen waved goodbye with her gun-toting hand. She set the pistol beside her on the trolley's lower shelf and wheeled in slow, painful pushes backward out the door. She kept a hawklike gaze on the unmoving doctor Gina until reaching the hallway.
+"You owe me beer, June," Karen muttered, guessing the best path to the hangar and beginning the trek. She tossed her useless weapon away, planted her palm and dragged herself along the floor with a soul-weary rhythm. "Gim-pah, gim-pah, gim-pah?!"
+Chaos ruled the station. Karen swore and sweated her way through the cluttered, shrapnel-strewn corridors. Twice she heard gunshots nearby, and at one hallway intersection she froze and played dead as a squad of armored security goons jogged past her like thunder.
+"C'mon, arm, don't puss out on me." The girl's muscles screamed and ached like living fire. Pain stabbed through tiny rib and shoulder tendons she never knew she possessed, and every fiber cried out in overworked protest. Her face dribbled with runoff snot and greasy forehead-sweat, and every time she wiped at herself, she transferred filth grit and black lubricant matter from the floor tiles to her skin. She resisted the urge to lick away a gray smear-drip running down the edge of her lip. "Pttht!" The girl blew raspberries to keep the crud out of her mouth. "Pttht! Hooray for freedom! Ouch, c'mon?" She turned a ponderous corner and stopped cold.
+The girl saw flashes of black armor, and gunshots rang out. The roar of firearms drowned out Karen's scream as she wrapped her arm over her head and curled up as small as she could. A silent moment followed, and Karen looked up. She realized the men crouched with their backs to her, reloading their weapons and closing in on some other target. Hand signals flashed between them, and one of the men hit a panel to seal off the blast doors as they advanced. Karen panicked as the mega-metal plates began sliding closed, blocking her route out. Shit, I'll need a key to use the escape pods! She pictured the guard's keycard pulling free of his belt clasp, sailing toward her and threading the needle of the closing blast door. Karen wrinkled her face-the closest thing she could think of to flexing her brain-and pulled on her powers. Karen's eyes went wide as sensation surged white through her nervous system and the whole guard came flailing toward her, ass-first and airborne. His helmet swallowed his yelp of surprise, and he got halfway through the closing blast doors as they buttoned up.
+Crunch. Karen winced. The doors shuddered, halted for a second and clamped down again like stubborn jaws before falling still.
+"Door jammed," said the soothing station voice. "Automatic over?glip?your safety. Please see your shift manager to re-engage full blast door functionality."
+Karen tensed, waiting for commotion from the door's other side, and none came. Long seconds passed without retribution, and a high, adolescent croak-laugh of tension escaped the girl as she pulled her way toward the dead man-ass. "Guess they won't miss you! Some friends, huh? Aw, crap." The trolley's wheel stuck in a twist of floor-metal ripped up in recent combat, and the girl's best efforts couldn't free her vehicle. She sighed as she pulled herself one-armed off the cart's bottom tray, dragged her painful way to the door-slammed guard and reached for his card. She strained up, trying to make the last few inches' stretch.
+"Holy CRAP, what happened when-"
+"AH!" Karen fish-flopped onto her side, lashed out at the sound and surged with knee-jerk power. The paraplegic girl's personal gravity grab-yanked a chunk of construction rubble toward her, and the sharp ceramic struck Karen's shoulder. She swore and tried to clutch at the blossoming pain, but couldn't reach with her shitty same-side range of motion. June dashed over and crouched down beside her. "Karen, whoa! Settle down, girl, it's me! You all right?"
+"Yeah, feeling rosy as hell. You look like you could use more beauty sleep."
+The older girl scoffed as she massaged and inspected Karen's deltoid. "They didn't give me time to do my makeup when they hauled me off to the power sucker."
+"They can take away our powers?"
+"They sure tried. They stuck me in the box, but the machine lost power when the station got slammed."
+"What did hit us, anyway?"
+"No idea." June finished checking on Karen's shoulder. "No permanent damage. C'mon, let's get to the escape pods. You need a push?"
+"The fuck do you think? YES I need a push, please and thank you! Also, please get the cart un-stuck. And wait-before we go." Karen tuned into her new powers and tried to get a feel for them. She thought of how an elephant's trunk could yank a tree out of the ground, or pluck a single blade of grass with care. She formed her mental image, breathed deep and let her powers kick. The card on the guard's belt wiggled, broke free of the belt-clasp and flipped through the air toward the girl. The object bounced off her snatching hand, and Karen air-fumbled twice before dropping the card and scooping it up off the ground. "Okay, let's roll."
+Chapter 6
+Bradley sprinted down the blood-crusted hallways of deck four with Tora two paces behind him. Green buddy-dots lit up his helmet display in far-apart clusters, marking out the other friendly strike teams. He squinched his left cheek, flattened one eyelid and skewed his jaw into a wrinkled gurn-face to key his maps controls. His suit's muscle readers picked up the command, and he quick-scanned the list of nearby Nightmare Child personnel. "Bruno, Vlad-Rock, watch out ahead. Camera-hacks show heavy resistance up and to your left. About seven guys, standard armament."
+"Thanks, Rahal," said a gravelly voice in his TeamBlab.
+"No problem. Keep on your toes-I anticipate plenty more bad guys the hack didn't reveal. Kestora!"
+A woman's chipper voice came in on the channel. "Yeah, boss?"
+"Cut parallel to us at the east approach and give flanking support before moving on. We got point defense at 31/0/02, and I want them surprised." Kestora's tracking dot went from green to yellow and veered off to cut a 90 degree angle on the enemy, blowing right through one of the walls on Bradley's minimap. "Watch for civilians and captives!" Bradley said. "No explosions unless you gotta."
+The Hylax reached the corner next to the defense point, peeked and almost got his head removed by a rotary SPEW-gun before yanking himself back into cover. "Tricky placement," he said. "They got a viscous shield in place."
+"Show me," said Tora. Bradley yanked a two-second video clip off his suit's camera feed, messaged it over and let her watch the slo-mo footage. A shimmering, syrupy dome-shell of silver energy protected a trio of enemy soldiers. Like a bubble of jelly, thick enough to stop all fast-moving projectiles. One of the baddies manned a massive anti-personnel turret, whose barrel protruded through the wall of the barrier.
+Tora grunted. "Great. Can your new gun fire some massive, slow-moving ammo type?"
+"Afraid not, but I got an idea," Bradley said. "You think you can still yo-yo me?"
+"Yeah, unless you packed on too much weight."
+"Funny," Bradley hit three switches on the Green Baron's stock. "Wait 'til we get Kestora in position."
+"In position now! You need a diversion, boss?"
+"You betcha. Two shots, then hold your fire." The Hylax readied himself for the maneuver. "Go on the count of three. One-two-three!"
+"Firing!" Tora heard the first explosion and peeked. The barrier shimmered, intact in the smoking wake of the assault, but the turret swiveled away to retaliate on Kestora. The noise and flash of her second rocket bought them a moment to work with.
+Tora stepped out into the corridor and barked, "Now!" The Murdarine caught Bradley's ankles as he dash-leaped out of cover toward her, and she spun in a full circle once before hurling him twelve feet down the hallway. Bradley took aim as he soared toward the dome-shield. Tora's adhesive harpoon smacked the back of his armor, forming an instant bond, and she paid out cable-slack as he sailed into peril. The Hylax watched as the gunner's head snapped up to look at him, and the rotating barrels veered up to intersect his flight path, one moment too slow.
+Bradley plunged through the thick, sucking mire of the barrier with a loud schlap and pulled the Baron's second trigger. A solid sphere launched from the under-slung projectile tube to land amongst the black-suited men, and Bradley grunted as Tora yanked the cable with all her strength, reeling him back down the hallway. His body bounced twice before the Murdarine caught him, let the momentum knock her flat and rolled them sideways back into the safety of the perpendicular corridor. The Baron's gel-foam explosive erupted inside the bubble-shield, belching an expanding wave of viscous green spuzz over the defensive position. The quick-hardening foam trapped the panicking enemies and clogged the turret's mechanisms into uselessness. Smoke rose from the gunk-drowned barrier projector, and the semi-sphere of sticky protection vanished with a faint pop.
+Tora hit the controls, and her harpoon unlatched from Bradley's armor to spool back into her gauntlet. The little man got to his feet one woozy second after the Murdarine and reached out a hand to stop her lining up another shot. "Let's do the cleanup from range, don't go all-"
+"Meleeee!" Tora harpooned the far wall near the ceiling, then retracted the cable to grappling-hook up and away toward the enemy. Gunked-up soldiers swore and struggled to free their weapons for a fighting chance, and she grinned behind her helmet as she disengaged the harpoon-head, unsheathed Anger Sword and plunged through the air toward them. The Hylax sighed, took careful aim and shot the stuck guards before she could seal the deal. Pencil-thick jets of burning green left lethal holes in the men, and Bradley walked up to where Tora stood dejected on the dried foam crust. "C'mon, girl. We don't need you zerking out on a rescue job."
+The big alien hunched her shoulders and put away the massive weapon. "Fine."
+"Aw, don't sulk."
+"You can't tell me what to do."
+"Oh? As your supervisor-" Bradley cut off the thought to accept an incoming call from Control. "Go ahead."
+"'Sup," said the robot on the other end. "Station hacks located your primary targets. Marking your map now. Drop all other priorities and retrieve them unharmed." Bradley and Tora's visors displayed pictures and vital stats for a pair of young women. "Best of luck, Rahal. Control out."
+Chapter 7
+"So!" June panted as she jogged along, pushing Karen's cart. The crippled girl lay on the lower tray, struggling to balance her weight. "What kind of cuisine do you like? You a foodie?"
+"What?!" Karen said. "Why?"
+"I figured we should get to know each other."
+"No disrespect, June? Small talk seems like a half-assed investment of my life's remaining minutes."
+"Humor me. I need a fear-distraction wicked bad. Hand me the passkey." June took the dead guard's badge from Karen, swiped the magnetic strip at a security door and trotted them through into a high-ceilinged storage area. The girls took a moment to get their bearings, and Karen shivered as realization dawned on her.
+"Oh, fuck, not my cell room again." The girl frowned, and her forehead furrowed as she took a closer look. She saw the rows of synth-fronted cells she remembered, but now almost all of them held occupants. Adolescent humanoids scratched the glass, paced, huddled up screaming or lay strapped to medical fixtures. The more she looked, the more discrepancies she noticed-the room's ceiling seemed lower, and thin steel beams served as structural supports. "?oh God, we wandered into another prisoner storage." Karen felt the inmates' eyes on her as her trolley rolled past them. Some shouted and slammed at the glass, but she couldn't hear them through the soundproofing. "Mush, June! Mush!"
+June slowed to an uncertain trot. "Do you think we should help them?"
+"No! Remember the nutbags in the other prison block? We let 'em out, they might eat our faces."
+"Or work with us!" June said. "I don't see a lot of options, and right now, I'll take any help I can get."
+"Fine, just hurry up!"
+"Thanks, Karen-won't take a minute!" June jogged off down the line of people-cages. She paused a moment at each enclosure to slap the keycard on the synth glass barriers. Sure enough, the release controls activated, letting her key the doors open. "Hey, nice to meet you," she chattered as she moved off down the line. "Yes, hello. June Nakagawa, I'll double back for chit-chat in a second." Karen grumbled to herself and sat watching. At first, most cage inhabitants hung back in their unsealed compartments, too frightened or dazed to poke their heads out. Then the bravest began to emerge, and the flaws in June's plan manifested.
+"WHOO!" A seven-year-old boy worked the nerve up and sprang from his cell. He gazed at his surroundings, took a breath of freedom's sweet air and combusted from head to toe. His ratty patient's clothing burned to blackened flakes as he sprinted away down the cell-rows, butt-naked and engulfed in towering flames. Karen winced and pulled back from the boy's heat as he passed. Six compartments further down the way, a liberated girl stood in concentration, skin tone and hair color shifting through the visible spectrum. She nodded to herself and went invisible with a snap of her fingers. Karen lost track of Camouflage Kid in seconds, and wider chaos erupted.
+A black-haired little boy budded like a tuber, and his body split into three identical copies. The trio jabbered to each other in incomprehensible pidgin, and the argument turned to a yowling, biting kid-fight before June's horrified eyes. "Wait, don't-HEY! If we all work together, we can get out of?oh boy." The triplets bashed up against other cell-doors, pulling additional prisoners into the fray. A teen couple stood reunited next to Karen's cart, clasped in each other's arms and sucking aggressive face. The cripple girl took painful effort to reorient herself facing away from the pair, and they carried on, oblivious. A high, ululating scream rose in the near distance, and little feet stampeded for freedom. June backed up against a prison-cube, eyes wide and uncertain.
+"Yo! Gimme the card, I'll let 'em out." A boy of nineteen or so dashed up to the purple-eyed girl, hand extended. "I move faster than you, trust me." June backed away from the stranger, and he darted in hummingbird-quick. He snatched the passkey from her fingers, dodged free of her retaliatory flailing and scampered away up over the rows of stacked cages. His fingers and toe-pads adhered to the vertical surface like gecko feet, and he slapped open the controls on each cell he crawled over. June returned to Karen's cart, shaky and near tears.
+"O?kay. I'd call my plan so far a mixed success."
+"I TOLD you so. Come on, let's move!"
+"Just one more try!" June went to the nearest open cell, where a teenage girl sat huddled with her back to them. June took slow steps forward, speaking in soothing tones. "Hi. My friend and I hoped you might help us find-ACK!" The crouching figure whirled and pounced on June, baring two-inch fangs. The mutant teen's jaws distended to unhinged width like a python's, and oily saliva dripped from the corner of her mouth. The pair of them struggled hand-to-hand, and June's attacker leapt away to scamper quadrupedal from the warehouse room. Karen palm-dragged herself a few arm-lengths closer and looked down on her shaken friend. "Smooth. Can we go now? At least the other escapees'll distract security."
+A wailing alarm tone spilled from the room's ceiling speakers, and June grimaced. "Yeah, escape pod time."
+~~~
+Bradley sighted, released a light breath and let loose with the Baron. Beams of green, superheated semi-gas crackled through the air, and two men's heads exploded into fine, disintegrating mulch. The corpses twitched and leaked grayish neck-fluid as Tora laid down suppressing fire. "Advancing," Bradley said into his mic as he scampered over a jagged rubble-heap into superior cover. The pair of them leapfrogged forward with long-trained coordination.
+"Control," Tora said as they sprinted, "Update us on target location."
+"Just up ahead," said their handler." Turn left at the junction, hack the door open and-" The transmission ended in a long burst of static nonsense.
+"The plan remains the same," Bradley huffed as they sprinted on. "Hang on-Tora, you getting interference?" The SCANNERS UNRELIABLE alert blinked red and yellow in the upper-right corner of Bradley's helmet displays, and the Hylax kept vigilant for undetected goons. He skidded up to the sealed bulkhead, leveled the Baron's cutter tool at the door-seam and went to work.
+"Time's a-wasting," Tora said.
+"Shh, let me concentrate. Bad shit can happen if a slice goes wrong." Bradley finished shearing the locking mechanisms and tapped the control panel. The door whooshed open, and Bradley's eyes widened at the sight of four anti-personnel mines planted just past the threshold. He reached for his emergency barrier button as the devices exploded in unison, and the force flung him backward with a blown-out shield module. The telltale hiss of a rocket-propelled grenade sounded as a resonant voice called, "Boo-OOM, B-word! Get fucked with the 'splosives!"
+"Get DOWN!" Tora dive-rolled under the speeding projectile, scooped up Bradley's form as she hit the ground and slung him aside in one fluid motion. The big soldier took the brunt of a low-yield concussive blast as she exited the maneuver into a headlong, horizontal murder-leap. The alien sailed through a heat-haze of black smoke, and her fingers closed on hot metal. A bronze-colored fist swung down in a tight arc, and her helmet's glasstic faceplate shattered inward. Tora rolled end-over-end, grappling with a robot twice her weight. Deep etchings patterned his body in explosion motifs, and the black-clawed hand he wrapped around Tora's throat looked wrong, as if produced by a mismatched manufacturer. His bronze arm swung back, and a pressure-fluid knife unsheathed from his forearm compartment with a low hiss.
+Bradley winced, propped himself upright and angled for a clear shot. As he pulled the trigger, his friendly fire system flashed the words, FOE signature: allied (Nashali-Esger, Tora). His gun failed to fire, and he shouted, "Get flat!" The Hylax opened fire as Tora plastered her body down to the floor mid-scuffle. The Baron kicked, and searing jets of plasmified corrosives passed over the Murdarine to bite quarter-inch holes in Explodite's external chassis. He gave the supine woman six hearty stabs before springing free of her grasp, and a rocket-pod on his shoulder snapped open with a high whine. Bradley yelped as he fired up his hackware, dialed in Explodite's archived weapons addresses and executed. The rocket-pod wound down with a surly beep.
+"Nope!" Explodite wrenched the ammo-pack out of his launcher module and hurled the explosives aside before Bradley could remote detonate them. He teleported three feet sideways, and Tora bulldozed into him with a roar.
+"Melee!" Anger Sword came out of his sheath, growling like a hellhound as his internal dynamos wound up. She swung the weapon up and in, hammering strikes closer as the robot danced away in flickering-micro-displacements. Tora beat the big robot into a corner, turned in anticipation of his next teleport and brought the blade down through his black steel arm. The metal sheared clean through and clattered to the floor as Explodite scrambled backward.
+"Wha-YARG, not again! You know what? Eff you guys!"
+"Come back here!" Tora leapt after the retreating teleport-bot.
+"Fuck y'alls!" Explodite hauled an old-fashioned scatter grenade from one of his torso compartments, heaved the weapon over his shoulder and stutter-blinked away. Bradley flipped on his hackware, targeted the flying, oblong mess of conglomerate explosives and got a warning message: Archaic weaponry targeted: No net connection to hack. The Hylax fired the Baron's nozzle attachment, and a pressurized stream of scuzzy green gel-foam plastered the bulky grenade-clump to the corridor wall. Hardening polymers built up a protective layer, and the charges went off with a muffled pop. The foam-deadened force of detonation knocked Bradley on his ass again, and he brushed gobbets of Baron-sludge off his armor as Tora helped him upright. "You all right, lady?"
+Tora shrugged. "Five or six suit ruptures, couple flesh wounds, minor organ damage. Easy to regen."
+"Don't get gimped in the raid," Bradley said. "I don't know if I can drag your big ass to the evac zone."
+Tora shrugged her shoulders. "You should lift."
+"Attention, Sunny Orbits patrons. The containment fields-shhrik!" The station's PA system chirp-squawked, and the voice of a frightened guardsman took over. "Mass breakout in juvenile detention B! Repeat, escape-riot in progress in juvie B! Physician's Assistant Chopper to the site for subject retrieval and damage control! High-risk targets loose and active, code orange!"
+Tora sheathed her greatsword with a grunt. "Guess our job just got harder. Let's move before the plan goes further sideways."
+~~~
+June sprinted along the ship's passages, following the blue dotted lines stenciled on the walls. Detours around collapsed hallways and live firefights slowed them down, shook them up and taxed the two girls' mutual sense of direction.
+"Whoa, stop!" Karen yelled. "Falling off!" The trolley skidded to a halt, and Karen slid forward off the bottom shelf with a dull flomp. She swore up a blue streak as June knelt to scoop her back onto the shelf. "Would you watch your momentum?"
+"Look, I do my best." June took a deep breath and went on pushing Karen's trolley. "We got some real rickety improv plans to work with, and I prefer positive reinforcement. So let's help each other out, and hush up except for constructive ideas and nice feedback."
+Karen scowled and said, "You've got beautiful cheekbones."
+June sighed. "Shut up and give me the card." They reached a security door and scanned in. The lock light went green, the door whooshed open and the girls found themselves face to face with two figures clad in steel-gray armor. The one on the left stood short and skinny. The bigger soldier carried a mean-looking quad-barrel shotgun with a hooked bayonet, and the hilt of a massive sword poked out over her right shoulder. She raised a hand toward the girls. "Hang on. We don't want to hur-"
+"Kyah!" Karen gravity-grabbed and pulled the shorter soldier by both ankles. He yowled as he slammed into the ground, and Karen yanked the bigger soldier down on top of him. June put the GimpMobile in reverse, and the pair of them hauled ass.
+Bradley squawked as Tora's massive weight compressed his lungs, and the pair took a moment to untangle their respective limbs. "MS2 to control," Tora said, voice deep-river steady as usual. "Priority targets 1 and 2 located."
+Bradley got up and yanked out a green-trimmed hand weapon. "C'mon! Sleepers out, we won't get a calm chance to talk to them." The two soldiers got their momentum going and rounded the corner in hot pursuit.
+June sprinted pell-mell, and Karen held on for dear life with her one arm. They could hear the heavy footsteps of their pursuit. "June? How far to the escape pods?"
+"Hard to remember! Two junctions, maybe three?"
+"You sure you can't port us to safety?"
+"I usually scout first! Open up careful spyholes so we don't wind up inside a solid object."
+"What happens if we do?" Karen shouted.
+"How should I know?! We die or something!" June saw the turn coming up ahead, twisted her grip and entered a sideways skid before muscling the cart back into straight motion. Behind them, Tora's zip-harpoon smacked into the wall and reel-yanked the heavy soldier into position. She lined up her Sleeper and drew a bead on the wobbling, careening medical trolley. Karen heard the plink-plink-plink from a distance. She craned around to look backward, and a sliver of bright pain bit into her waist. The girl spotted a tiny probe-bullet half-buried in her skin and watched as the mechanism sprouted gripper-legs to push itself further inside.
+"AHH!" Karen swatted, raked and yanked at the tiny object. By luck, she got a good two-finger pinch on the wriggling, grabbing sleeper and pulled it loose. She flicked the little machine away with a revolted thrash of her hand. "June? Please run faster!"
+"Uh-oh," June said as they turned another corner. The hallway went twenty feet, then terminated in a massive metal security shutter. Thick, solid and opaque. "You ready for an experiment?"
+"Don't talk, just focus!" Karen yelled as they barreled toward the immovable object.
+June balled up her face and screamed as she forced a portal open. A sleeper dart pinged off the cart's wheel as they rushed through into the wavering patch of elsewhere. Momentum twisted, and Karen spilled off the cart as they rocketed out the other side. A moment later, June landed on top of her. They caught a last glimpse of Tora raising her harpoon-arm, and June slammed the portal shut. The two girls lay sprawled on a concrete floor. June trembled, and her sweat soaked through her hospital clothing into Karen's own. "Right," Karen said. "You want the bad news first, or the good news?"
+"Bad first," June mumbled into Karen's shoulder.
+"Ahem. Bad news: you got some righteous body odor cooking. Good news: I can't feel the limbs your fat ass is crushing."
+"Oh!" June shot up, un-pinning Karen's legs. "Sorry, sorry."
+"?Don't apologize," Karen said, avoiding eye contact. "You did a pretty kickass job."
+June sniffed. "You think so?"
+"Well, you did port us straight to the pod bay." Karen jerked her thumb at the emergency departure stations built into the wall. Karen looked up and down the line of closed module doors, all present and green-lit for occupants. "Weird. All the alarms going off, and nobody took any of the pods yet?"
+"Don't look a gift horse in the mouth."
+Karen grinned. "Speaking of, it's time for one last back-ride!" June groaned, and Karen made psh-noises at her. "Look, you gotta load me in and get me belted up anyway."
+"Fine." June took a knee and got her friend situated. "But this is the last time I-"
+"Hyah!" Karen stump-jabbed June in the flank, like a jockey goading his horse. "Hyah!"
+"You know what? I think I hate you now."
+"Seems justified," Karen said.
+June keyed the door with a grateful sigh. "See, I told you we'd get out."
+The escape pod doors slid open, and the girls stared down two dozen machine gun barrels. Instead of seats and safety harnesses, the tiny pod held a rack of automated weaponry. A light atop the contraption blinked malevolent red, and a modified sign over the interior read, No-Escape Pod.
+June threw up one hand in defense, and the guns blazed away. For a crystal moment the girl stood still, arm outstretched and shaking with violent tremors as bullets poured into her shielding portal. The shots vanished into thin air and emerged who-knew-where. June's violet eyes stared through the walls, through the station's surfaces into the heart of beyond-space where her powers came from.
+"Move!" Karen screamed. She made a chin-jerking motion toward the abandoned trollye, which surged along the floor and slammed into June. The force knocked both girls sideways, and they fell out of the gunfire's path as the portal collapsed. Bullets screeched and ricocheted as they chewed the instrument cart into chunks, then the turrets wound down and the pod door closed.
+"Hey! June, stay with me!" Karen gave a one-armed heave and rolled the hyperventilating girl over. She patted at June's flushed cheek, then slapped harder. "Yo! Wake the FUCK up and pull your head out! We gotta move."
+"?Why?" June said. She blinked, and her tripped-out pupils narrowed to normal size. "We've got nowhere to go."
+"The hell we don't! They gotta keep vehicles somewhere, right? Right?!"
+"M-maybe?" June swallowed hard, struggled to her knees and tried to pick Karen up. She fumbled and dropped the girl twice, unable to get a firm hold.
+"June? You all right?"
+"No. I feel like I just saw God naked in the shower. I can't make my arms work right."
+Karen laughed once, then a second time, and the dam broke. Insane, minutes-from-death guffaws tore from her frail chest and went on until she cried and her lungs ached. "I guess I can sympathize."
+June chuckled, flexed her de-numbing fingers and tried one more time. She scooped Karen up, staggered to her feet and took a test step. "Okay?which way do we go?"
+"Hell if I know. Let's ask someone for directions."
+"Pursuit team to Chopper, come in Chopper! Escapees located!"
+"FREEZE!" shouted a man's voice. "Down on the ground with your hands behind your head or we'll shoot!"
+"No." June's left fist clenched, and a portal flared open, spilling out into reality like time lapse photos of a flower in bloom. "You, then me." She heaved Karen's bulk in her arms and shoved her into the portal without ceremony.
+Karen landed flat on her back in an unknown room. Cold seeped through her thin clothes, and racks of computer hardware towered on either side of her. For a moment she saw June framed in the portal above her, then the rattle of gunshots sounded, and the image vanished.
+"June?" Karen shouted. "JUNE!" Her voice echoed harsh and brittle off the stacked electronics, and nobody answered.
+Chapter 8
+When panic subsided, Karen scoped her surroundings for weapons. Server stacks rose to the ten-meter ceiling, and The cooling systems for the ship's computers raised goosebumps all over her skin. She crawled into a corner, looked around the room she would die in and felt futile anger flicker up. "Make 'em work for it," she muttered. She stretched out her gravity field, gripped one of the long-unmanned IT desks and pulled it screeching across the floor toward her. She flexed the fingers of her good hand and cast for other objects to build her defense. The girl walled herself up inside a heaping junk-fortress and lay waiting until running feet sounded outside the server room. The sliding door hissed open, and men in black gear swept inside.
+"Runaway located, engaging for capture. Argh!" Karen's power-field gripped a rack of soldering tools and brought them crashing down on the advancing soldiers. The irons and spooled wire bounced off their helmets in a harmless cascade, but the men retreated in a momentary scramble.
+"You only get one warning shot!" Karen yelled. She mopped sweat off her face and clawed damp, sticky bangs out of her eyes. Staring through the gaps in her defensive barricade, she tried for a count on the opposition. She saw at least two men in black armor-and one in a blood-smeared white coat.
+"Miss Navare," came Chopper's sibilant voice. The man stood flanked by his troops, pistol pointed at Karen's hiding place. His sweaty fingers fidgeted along the grip. "A few more little gravitic stunts, and you'll pass out from the strain-at which point we will collect you. Turn yourself in now, and I will make note of your cooperation for future performance reviews."
+"Bite my insensate ass!" Karen yelled from the garbage-pile. Desperation gave the girl strength beyond her body's norm, and she grunted as she heaved an outmoded, metal-shod mini server box out over her defensive desk-piles. An unprepared guard looked up, reacted too late and took one sharp corner to the temple. The server crashed to the ground, and the man collapsed to a crumpled, twitching heap.
+The Doctor took a step back, gestured for the soldiers to do likewise and cleared his throat. "I understand the prospect of surgery frightens you, dear. Think of how I feel! I risk my career with every high-value subject I put under the knife, don't you see? Despite the mortal peril to your person, I believe the benefits of-"
+Skreeeek. The beat-up server box slid along the metal floor, kicking up a horrible noise and the occasional spark. Karen tugged the old crap-machine in an inch at a time with her exhausted, waning gravity grabs.
+The white-coated man cleared his throat. "I believe the benefits of surgical in-"
+Skree-EE-ek!
+"Benefits of surgical intervention merit candid discuss-"
+SKREEKICK!
+Chopper sighed. "Young woman. Please understand I would rather-oh NO you don't!" Chopper felt Karen's tug on the pistol and bore down with both hands. The grav-yank hauled the man's body along with the gun, and his heels skidded a couple inches before the girl gave up, gasping. "I try so very hard to separate business from pleasure, child. I would rather perform live operation on you-for the data, you understand. But you make yourself so pleasurable to murder. Baah!" The Doc leapt sideways as a server rack tottered, leaned and slammed to earth with the force of a thunderclap. Karen felt like she just ran a marathon, and suspected she peed some, but the soldiers stepped back from her nest.
+"Worth it," Karen whispered to herself. She raised her voice and said, "Come get some! I'll squish your bod up good!" A distant explosion rocked the station, and the girl clutched her good arm close to her chest. "See? You can't wait around for me to nod off-whoever attacked you will blow up the station. So either you leave me alone to go down with the ship or we ALL die! Take your pick!"
+"I pick?immediate use of force," said the man. "You two with the submachine guns, go get her. Keep her in one piece if you can."
+The chosen men stepped forward on ginger tiptoes, waiting for rubbish to fall on them or fly up and smack them from behind. Karen reached out to the front man's gun, tried to get a grip with her fumbling brain and watched the world blur. Space Jesus, so sleepy. Her delirious gaze wavered, slid to a waning crescent and hovered on Chopper's tight-lipped face. No fighting back anymore. She felt the grip of unconsciousness closing in.
+Bang.
+A single, ringing shotgun blast echoed in the small space, and the surgeon's head exploded like a bone piñata. Karen's eyes shot open, and she squirmed to reposition so she could see better. She watched the bloodbath through narrow slits in her garbage-fortress as small-arms fire thundered and echoed off the concrete walls. Jets of simmering green crisscrossed the room, and at one point a full-sized desk hurtled across the girl's field of vision to collapse an armored guard with a sickening crunch. Six seconds of horrifying bedlam, and all sound stopped. One heavy footstep sounded, and a second. Panic flared at the base of Karen's neck and scampered over her nerves like a startled lizard. A low female voice cut the silence. The vocals carried a warm, hard tone, like a copper knife worn down from long use.
+"Girl. My comrade and I came to aid you. State your name."
+"Nuh-uh! You guys first." Karen tilted her head to get a better view between two old servers. A biped in ripped, dented gray armor stood amid a pile of corpses. Caked orange blood painted her armor, and one yellow eye showed through her helm's shattered front-mask. The soldier stood taller than Karen's father and much sturdier. Smoke oozed thick and lazy from the barrels of the shotgun in her right hand, which she holstered on one hip like a handgun. A smaller man stood beside her, armed with an ungainly compact assault weapon.
+The short soldier popped Karen a salute. "Karen?Navare? Good to meet you. Name of Bradley Rahal, strike team lead and tactics consultant aboard the MSS Nightmare Child. You just met my lovely assistant Tora. Who insists on yanking off her helmet every damn mission."
+"Lay off, midget. I got a bent metal-chunk stabbing into my jawbone." Tora wrestled with her neck-seals, got a firm grip and wrenched off her ripped, broken helm. She cricked her neck, and her orange-quilled, prehensile skull-tail pulled free of its protective enclosure. The tip of the spiny appendage twitched like the tail of an irritated cat.
+"AH!" Karen scrabbled in a vain effort at retreat. The big soldier's skin ran smooth and dry like a reptile's. Indigos and purples made up most of her palette, with tan whorls and patterning speckling her features. Predatory, forward-pointed eyes found Karen's, and the vertical pupils thinned to slits. Karen saw plenty of Tora's species in entertainment clips and Galactic War news flashes, but never in real life until now. "You brought a freakin' Murdarine to help me? I think I'll take my chances with the slavers!"
+"Don't flip out," Bradley said. "The terror wears off once you get to know her. She enjoys stamp collecting and aged whiskeys."
+Tora looked indignant. "No, I like struggle and viscera. To press my teeth into the blood-scoured-"
+"Tora, shush." Bradley turned to Karen. "Listen, we came in on a mission, and we might not get long to extract, so I need you to answer my questions quick and calm. Did you experience any strange events before your capture."
+"What?!" Karen's eyes bugged at the understatement. "'Strange' can't begin to describe-"
+"Just answer 'yes' or 'no.' Next: did you, at any point, teleport between locations using only the power of your mind?"
+"What? No!"
+"Set fires with your mind?"
+"NO!"
+"Manipulate people or objects with your mind?"
+"N-yes."
+Bradley nodded. "Excellent-another kinopath. I bet Harmon wanted her in Prime Artillery."
+"Hey! Don't talk like I can't hear you."
+Bradley's gaze conveyed annoyance through his opaque helmet visor. "All right. Harmon wants you as a mind-controlled war slave. Would you rather join him or come with us?"
+"Neither!"
+"Mm. Too bad. Secure her, Tora. Looks like Vlad's team rounded up most of the sane supernaturals. We gotta boost."
+"No! Get away from me or I'll-I'll?" Karen tried to flare her powers, and the world doubled up in blur-o-vision.
+Tora chuckled as she stomped over and set to work shoveling Karen's trash-fortress aside. "You'll do what?"
+"I'll?pass out," Karen said. And she did.
+Epilogue
+Karen sat in the dappled shade of an old maple, looking out across the park's picnic grounds. Shouts and punctuated grunting drifted on the soft breeze from the nearby court, where her younger brother and his friends played pick-up Space Ball. The girl looked down at her hands. She never liked the way her index fingers bent inward at the second knuckle, like someone grabbed her at birth and tweaked them a couple degrees with a pair of pliers. She felt the tickle of tiny legs across her skin and looked down.
+Ugh. Ants, every time. She brushed a pair of tiny insects off her right shin.
+Her right shin.
+The girl blinked and looked down at herself. No more left hand-the arm ended in a stump below the elbow. She saw half her right leg missing, torn off or crushed at the knee in the tangle of starship metal. She blinked again; the park and her family's picnic melted away. The girl's mind came awake, and she found herself staring at a gray-checkered ceiling.
+"Ah!" she tried to yell. The sound emerged as a phlegmy croak, and her efforts to lurch out of bed produced a half-hearted wobble. Karen groaned and sank back into her pillow. She never felt so drained before.
+"Easy, kid. You just went through serious resto."
+Karen flinched and looked to the corner chair she failed to notice at first. A small, four-eyed biped with long ears and short, patterned fur sat in casual military dress. He yawned, and a wicked triple-crescent of little fangs showed through. Karen winced at the sight.
+"You sound familiar?Mr. Rahal?"
+"Yup." The creature got to his feet, crossed over to Karen and extended a hand. Karen looked down at Bradley's beclawed digits and grimaced. The alien sighed. "First, you grab hold. Then you give your hand one up-down pump, like so. Aaaand release. A little custom we call 'the handshake.' Revolutionized the communications industry back in the day."
+Karen pulled her hand free. "Okay. Tell me where I am."
+"Welcome, Miss Navare, to the MSS Nightmare Child. The ship I serve on."
+"Great. You rescued me from the station. Guess now I'm your prisoner, right?"
+Bradley shrugged. "Not like we handcuffed you to the bed. Where would you go anyway, stumpsy?"
+Karen blinked twice. Anger swelled like a slow-forming bubble in heating syrup, then popped. "You DICK! You can't make fun of-"
+"Just did. Now clam up your word-spout, sit up and get ready to wheel around. If you want to stay with us, I better give you the basic meet-and-greet deck tour."
+Karen struggled upright with the help of her motorized bed, and Bradley helped her into a waiting wheelchair. "Don't forget your lap belt."
+"You fucking serious?" Karen thumped on the nerve-dead stump of her missing leg. "What worse could happen?"
+"For real? You want to tempt fate after your last couple days?"
+Karen thought for a second, fumbled with the belt latch and strapped herself in as Bradley wheeled her out of the small sickbay room. They moved down a series of sleek, clean corridors lit by wayfinding light strips.
+"Sup, Bradley?" A bulky minotaur-esque alien in a security uniform waved them through at a checkpoint door.
+"Sup."
+Karen's gaze lingered on the beast as Bradley pushed her chair through, and the door sealed behind them. The Hylax keyed the next door open with a flourish.
+"And without further ado, I give you?the mess hall."
+The doors whisked back into the walls, and strangeness hit Karen's eyeballs like a puff of hot air. She blinked, took a moment to focus her groggy eyes and struggled with the maelstrom of textures and neon flesh tones. Her gaze lit on a side table where a tentacled creature sat playing speed-deal against a trio of sleek, hairless three-eyed humanoids. The cephalopoid held up his end of the game well, numerous arms moving in quick, spastic jerks to pick up and slap down cards in groups of one to three. The four aliens' burgers and fries lay half-finished and forgotten on plates pushed to one side of the table. Further down the crowded shopping and dining area, a cyborg Mondelan and some kind of half-human sucked face. A pair of small green men at the next table shot them sour glances every so often. A human-looking woman with strange yellow eyes sauntered up to them. She wore jeans, heeled snakeskin boots and a captain's jacket. Bradley stopped the chair, clicked on the brakes and saluted her.
+"Ma'am."
+"Brad. How's the patient?"
+"I feel fine," Karen blurted. The captain's irises spun and snapped into a new configuration as her piercing gaze went to the girl. Karen gulped and added, "Ma'am."
+"Mm-hm," said the Captain. "Maybe you feel fine-maybe-but you look like a plate of old, microwaved foreskin. Bradley, why'd you take her out of medical?"
+"Wanted to show her around, ma'am. Figured she ought to know where she landed."
+"Fine." The hologram-woman waved a dismissive hand. "One hour, then you plop her little ass back in bed. I got the comm you sent over with her diagnostics, and I like what I see."
+Bradley's eyebrows went up. "Strong powers?"
+"Nope. Her limiters kicked in, so she'll start weak as get-out. Good growth potential, though. Just how I like 'em."
+"Wait a minute," Karen said. "You mean my gravity thing-"
+"Mep. Did I say talk?" The Captain stabbed a finger toward Karen's face, and the girl fell silent. "Better. Welcome to my ship. Mine. You can stay if you don't cause trouble. And if you toe the line, you can get to work and start making a shitload of money." The hologram cracked her neck in both directions, pulled a sheaf of papers from her back pocket and handed them to Karen. "Read the terms of agreement and get all your papers signed tonight. Training starts at 5 percent ship standard time."
+"Hey, wait!" Karen yelled at the Captain's retreating back. She looked down at the papers folded in her white-knuckled grasp. "Training for what?"
+Bradley gave a beleaguered smile. "What do you think? Welcome to VigilNet's leftovers."
+Continued in MAD Star 2: Broke Privates
+Three weeks into training, Karen doesn't know what to do with herself. Join the Nightmare Child crew, and she can count on a life full of danger, uncertainty and unpleasant odors. Leave the ship, and Harmon's goons will hunt her down before too long. With no plans for her future, Karen ships down planetside for intensive training. But even among Special Needs Youth Cadre 4, she can't find where she fits in. Conspiracies unfurl in the shadows, and when a cadet gets shot for real during an exercise, the boot camp turns deadly. Can Karen save her teammates and her mentors? Only if she overcomes her brokenness-physical and mental-and decides to fight for her life.
+Join our mailing list to get notified when MAD Star 2 comes out.
+Get in the know. Become a VIP.
+We send out news to our VIP mailing list whenever we publish new material. Click http://www.impulsefiction.com/newsletter to sign up. Be the first to know when we've got a new book, series or piece of bonus content to read.
+Who Are These People?
+Impulse Fiction is just two guys with day jobs who dream about writing full time. Nathan Ohrdorf is an alt-process photographer from Colorado Springs, and Clint Looney is a web accessibility engineer from Seattle. We want books where archetypal, high-flying characters go to war, befriend each other, get drunk, fall in love, contract food poisoning and die in tragedy. One Futurama-filled night, we decided to write a sci-fi series-just not a clever or factual one. We're not big-time yet by a long shot. So if you have any feedback to give us, we'd appreciate it very much. From typos we missed to characters and plots you'd like to see more of. Reach out to us.
+You can see our whole catalogue at the Impulse Fiction hub site, ImpulseFiction.com.
+If you have questions or comments, please do email us at Contact@ImpulseFiction.com.
+Tweet us at @ImpulseFiction.

@@ -1,0 +1,711 @@
+﻿Quantum Troopers
+Episode 1: Atomgrabbers
+Published by Philip Bosshardt at Smashwords
+Copyright 2016 Philip Bosshardt
+Smashwords Edition, License Notes
+
+This ebook is licensed for your personal enjoyment only.  This ebook may not be re-sold or given away to other people. If you would like to share this book with another person, please purchase an additional copy for each recipient.  If you’re reading this book and did not purchase it, or it was purchased for your use only, then please return to Smashwords.com and purchase your own copy.  Thank you for respecting the hard work of this author.
+
+A few words about this series….
+
+1.Quantum Troopers is a series of 15,000- 20,000 word episodes detailing the adventures of Johnny Winger and his experiences as a trooper with the United Nations Quantum Corps.
+2.Each episode will be about 40-50 pages, approximately 20,000 words in length.
+3.A new episode will be available and uploaded every 3 weeks.
+4.There will be 22 episodes.  The story will be completely serialized in about 14 months.
+5.Each episode is a stand-alone story but will advance the greater theme and plot of the story arc.  
+6.The main plotline: U.N. Quantum Corps must defeat the criminal cartel Red Hammer’s efforts to steal or disable their new nanorobotic ANAD systems. 
+7.Uploads will  be made to www.smashwords.com on approximately the schedule below:
+
+Episode #	Title					Approximate Upload Date
+1		‘Atomgrabbers’			1-18-16
+2		‘Nog School’				2-8-16
+3		‘Deeno and Mighty Mite’		2-29-16
+4		‘ANAD’				3-21-16
+5		‘Table Top Mountain’			4-11-16
+6		‘I, Lieutenant John Winger…’	5-2-16
+7		‘Hong Chui’				5-23-16
+8		‘Doc Frost’				6-13-16
+9		‘Demonios of Via Verde’		7-5-16
+10		‘The Big Bang’			7-25-16
+11		‘Engebbe’				8-15-16
+12		‘The Symbiosis Project’		9-5-16
+13		‘Small is All!’				9-26-16
+14		‘’The Serengeti Factor’		10-17-16
+15		‘A Black Hole’			11-7-16
+16		‘ANAD on Ice’			11-29-16
+17		‘Lions Rock’				12-19-16
+18		‘Geoplanes’				1-9-17
+19		‘Mount Kipwezi’			1-30-17
+20		‘Doc II’				2-20-17
+21		‘Paryang Monastery’			3-13-17
+22		‘Epilogue’				4-3-17
+
+“Colorado”
+
+Colorado Springs, Colorado
+August 2, 2047
+2:15 p.m.
+
+Johnny Winger was in Net School, working with Katie Gomez on some algebra problems, when he learned his mom had been killed in a car crash.  The message was from a deputy at the El Paso County Sheriff’s office…one of the worst crashes we’ve seen in years, a deputy had said on the vidpost.  Car went off a cliff, rolled down an embankment, burst into—your father’s at the hospital now--
+Johnny snapped the post off.  He didn’t want to hear any more.  He just wanted to go.  Be there. See for himself.  
+The school let him out without any questions. Principal Costner tried to be sympathetic.  “Go on, son …get out of here.  We’re praying for you—“ He swung his legs over his turbo and fired it up, gunning the engine angrily.  Then he scratched off out of the parking lot and made his way screeching and sliding through several traffic lights to the autoway, heading north.  Dad was alive, barely.  In a hospital.  Colorado Springs.  
+He just had to be there.  And he wasn’t going to give up control of his turbo to the autoway, not today of all days.  He needed to be in control, feel the road vibrations and the wind, know for sure there was something he could control.  Johnny Winger steered into the manual lane and cranked his bike up to just under a hundred.  Cars and trucks and road signs flashed past.
+He made the Sisters of Mercy Hospital in about half an hour.
+The hospital was a Greco-Roman institutional brick pile, all fake columns and turrets and gables, some architect’s wet dream gone awry.  The ten-story main building poked up above a small forest of aspen and birch trees, in a hundred-acre park-like setting out along Powers Avenue.  Johnny skidded his turbobike to a halt and parked in a delivery van’s spot, then hustled inside.
+He found his sister Joanna in the CCU waiting room.
+Joanna was an inch shorter, short blond hair with some locks hanging over her right eye.  “They just brought Mom in.”  She held up her wristpad.  “I was just talking with the funeral home…she died quickly, Sheriff’s deputy told me.  They’re taking the body over there this afternoon.”
+Johnny felt a hard lump in his throat.  His eyes were dry, for the moment.  Joanna’s were red.  He figured tears would come later.
+“What about Dad?”
+“Just out of surgery…skull fracture…he may have some brain trauma, the docs said.  He also has a broken arm, some spinal contusions…Johnny, it’s a miracle he survived.  From what that deputy said about the crash scene—“
+Johnny put both hands on her shoulders.  “I heard.  Let’s do details later—“he stopped when the door to the waiting room opened.  A nurse in blue scrubs poked her head in.
+“You two can make a short visit now…very short, like five minutes.  Your Dad’s semi-conscious, just coming out of sedation.”  She held the door back and they went in.
+The Critical Care Unit was on the fifth floor, north wing.  The waiting area had been half full, with small knots of people engaged in whispered conversation, two children joysticking remote action bots along the wall, and a wraparound active display showing live scenes from Vail and Aspen and Steamboat Springs.  The nurse showed Johnny and Joanna down a hall to the Active Care Unit.  Through the bioshield, a sort of containment zone inside of which active nanodevices were at work, Johnny came up to the bed where Jamison Winger lay enveloped in thick ganglia of wires and hoses.  Joanna hung back, her hands to her mouth. 
+A faint coruscating blue glow surrounded the bed, the inner containment field pulsating with active nano to protect the patient from further infection.
+A swarthy Egyptian doctor, Sethi Hassan, attended a small display, with imaging views showing what the bots were seeing.  Two nurses also attended.
+Dr. Hassan sensed the presence of someone new, but did not at first look away from the screen.  His right hand manipulated a tiny trackball and the view on the screen changed with each manipulation.  
+“How’s he doing, Doc?” Johnny asked.
+“About as well as could be expected,” Hassan said.  He had just finished some tests and scans, looking for peritumoral edema, any headaches, intracranial pressure, hemiparesis, tremors.  Every test had turned up better than expected.  “Frankly, Mr. Winger here’s doing a lot better than he should be.  We still have some work to do, more surgery, basically repairs and reconstructive sessions.  He’s suffered substantial trauma to the frontal and parietal lobes.  After that, more tests…memory function, basic motor skills.  You’ve got five minutes, no more.”  With that Hassan retreated to a small control station by the door.
+Winger bent over the bed, pressing lightly against the field.  A keening buzz changed pitch and invisible forces pressed back against his fingers, forcing his hand away.  Standard mobility barrier, he told himself, almost without thinking.  He’d read about bots like this on the Net just the other day.  He moved aside to let Joanna come closer, then drifted toward Hassan’s station.
+“Doc, what do all these bots do?”
+Hassan sighed, flexed his fingers around the trackball at his panel and did some more manipulations, delicately driving the medbots under his command.  
+“Two hours ago, we perfused his brain with a small formation of neurocytes…these neurocytes are working now.  I detached a small element just an hour ago, got them into position to block a serotonin avalanche that was firing off inside his limbic system…some kind of seizure, that was.  We got the convulsions mostly stopped…although there’s been some leakage into the hippocampal regions.”
+Winger studied his father’s face.  His eyes were screwed shut, tension lines all converging along his forehead.  He was clearly still in pain.  His lips trembled and a rhythmic twitch made his fingers and feet move in fits of shaking.  His head was wrapped in bandages. 
+Mr. Winger started to convulse—his arms and hands went rigid, then spasmed fluttering off into the air, brushing against the barrier.  The mechs buzzed back.   Beside the bed, Hassan busied himself driving the herd of neurocytes onward, tracking down the errant discharges.  Seconds later, as he swarmed the ‘cytes toward the center of the convulsion, the spasm gradually died off.  Mr. Winger’s arms dropped, his fists unclenched.  The doctor looked up; his eyes saying that was too close.
+“We’re running the latest here at SOM…Mark III medical autonomous assemblers.  AMADs.  Most of the exterior trauma’s already stitched up…that went pretty well, I must say.  But hunting down these spasms and figuring out the firing patterns, timing the cascades and the uptake rates…that’s taking time.  I’ll get it figured out eventually…if we can keep him stable for the time being.”
+Joanna leaned over the bioweb and sighed with sadness.  “Brad’s flying in from Frisco tonight.  One of us needs to pick him up at the airport.”  Brad was the oldest of the Winger kids, now a resident at Stanford Medical.  
+“I just have my bike…Brad won’t want to ride that.”
+“I can go,” Joanna offered.  “If you’ll stay here with him…you’ll have to sign some paperwork when they bring Mom in.  And Dr. Hassan may have questions about further treatment.”
+That’s how it was decided.  Joanna and Johnny ate a quick and tasteless meal at the commissary, consoled each other for a few moments over cake and coffee and then Joanna was off.
+Johnny went back to CCU.  Slouching on a beat-up vinyl couch, he googled ‘AMAD’ on his wristpad and studied the images and the reports, browsing and skipping quickly through the details.  At any moment, he expected to get another five-minute visit with his Dad and he had a few questions for Hassan and the second shift surgeon, Dr. Morse.  He kept one eye on the double-doors to the trauma suite and one eye on his screen….
+‘Autonomous nanoscale assemblers…the bots sport quantum processors…unique operating parameters…surgeons need special skills to run the bots…working at the scale of atoms takes a different mindset…it’s like a carnival ride down there, with van der Waals forces and Brownian motion….’
+Winger watched a small snippet of video, taken from a bot’s acoustic sounder inside a living brain.  Someone was narrating….
+“Right now, Dr. Volk is steering AMAD into the vascular cleft of the membrane.  He’s twisting his right hand controller, pulsing a carbene grabber to twist the cleft molecules just so, now releasing the membrane lipids, slingshotting himself forward.  Now, AMAD seems to be floating in a plasma bath…there are dark, viny shapes barely visible off in the distance.  The plasma is a heavy viscous fluid.  Dr. Volk is tweaking up the propulsor to a higher power setting and taking a navigation hack off the vascular grid….”
+  Johnny found himself mesmerized by the scene.  That would be so cool to do that, he told himself.  Just a few weeks ago, he’d met with the guidance counselor at Pueblo Net School, Mr. Holley.
+To say that Mr. Holley was fat was like saying Mt. Everest was tall.  He squinted through folds of fat around his puffy eyes at a small tablet.  “It says here on your forms that you’re interested in Engineering.  Mr. Winger, I’m sure others have told you that to get into Engineering school, some place like Stanford,  Cal Tech, Michigan and so forth, you’ll have to get those marks up.  To be honest, Mr. Winger, most of the basketball team has higher marks than this…especially in Math…what is it with Math anyway?  Don’t you like numbers?  Your whole ten years at Net School, you’ve struggled.”
+Well, he had only heard that about a million times.  He’d developed a set litany of responses.  “Numbers don’t like me, Mr. Holley.”  That was Number Fourteen.  He had dozens more.  
+Now, watching the video on his wrist, watching some surgeon whose name he couldn’t even pronounce, joystick his way through a living brain, riding heard on a platoon of nanoscale bots like really small cattle, Johnny Winger had a moment’s inspiration, a vision handed down from the future he would tell himself later, of doing the same thing.  Grabbing atoms and fighting off viruses and disassembling oligodendrogliomas like the U.S. Cavalry…that he actually could see himself doing.  Numbers…shmumbers…maybe this was something he ought to look into.  After all, Dad had been beating on his head that he had to start thinking about his future after Net School.  Maybe this….
+Dr. Morse, the late-shift surgeon, cleared his throat.
+“Ahem…Mr. Winger….”
+Johnny jumped a foot.  He didn’t even realize someone had been standing next to him. 
+“Huh--?”
+“You can visit your Dad for several minutes, if you want.  He’s resting now…”
+Johnny went in. 
+The bioweb was still up, flickering a faint white-blue.  Johnny knew he couldn’t physically touch his Dad.  Jamison Winger’s head was half-covered in a sort of helmet-like device.  Johnny looked up questioningly.
+“A docking station for medbots,” Dr. Morse explained.  He stepped away from a rolling console that was positioned next to the bed.  “We’ll be doing an insert in another hour, trying to hunt down and fix neural pathways that were damaged… imagery shows some pretty serious peritumoral edemas in several regions.  We’re going to try and fix them tonight.”
+Winger leaned over to look at Morse’s console.  “I was just watching a vid about bots like this.  This is pretty new stuff.”
+“State of the art,” Morse told him.  “We’ve been using medical nano-robots for surgeries for several months now.  It’s cleaner than invasive, more accurate that endoscopic.   In fact, we’re still training our staff…there’s an artificial body just down the hall…in the training suite.”
+Winger looked over his Dad.  His face seemed at rest.  No more tension lines, no more tightened lips or strained cheeks. There was really nothing he could do at the moment anyway…but pray.  And hope Morse and his staff knew what they were doing.  
+“You expect to be using these bots more and more.”
+“Sure,” said Morse.  He went back to his console.  “Once we get all the kinks worked out…oh, don’t worry…we’re not doing anything unusual tonight.  We’ve used bots to repair neural damage dozens of times now.  In fact,” Morse kind of half smiled, “Sisters of Mercy knows more about these bots than just about anybody…and that includes Quantum Corps.”
+Johnny’s eyebrows went up.  “Quantum Corps…I’ve heard of them.  Some kind of UN agency?”
+“Exactly.  They use bots all the time…in fact, that’s their mission, from what I hear.  But we’ve got way more experience with this kind of stuff than they do.  In fact, I just saw an ad the other day…they’re looking for applicants now.”
+“Really.”  Johnny stood up and went to take a closer look at Morse’s console.  “Can you show me what these little buggers can do?”
+Morse studied the teenager closely.  “I can do better than that.  There’s a training session scheduled for second shift tonight…around 2100 hours, I think.  If you’re around CCU, come down to room 5125.  I’ll give you a temporary password.  We can do a little demo for you…show you what’s happening with your Dad later.  It’s really quite extraordinary.”
+Johnny looked at his Dad.  Recovery would take weeks, maybe months, and that was if Morse could make his repairs.  Then would come months of rehab.  “I’ll be around most of the night.  My sister’s picking up my older brother at the airport tonight.  They’re coming straight here but it’ll be several hours.”
+Morse deftly shoo’ed Johnny out of the room.  “Go get something to eat.  Then come to 5125.  I think you’ll be impressed.  Your Dad’s getting the best care we can provide…come watch.  It’ll put your mind at ease.”
+Johnny promised to do just that.
+
+The training suite was down the hall and around the corner from CCU Critical Surgery.  Johnny got through the security barriers with Morse’s temporary password with no trouble.  He came into a room dominated by a large hemispherical tank, draped with thick ganglia of cables and tubes, surrounded by control panels and consoles.  Overhead, a tray of strange gun-like devices hovered over one end of the tank.
+“Electron beam injectors,” said a voice from behind him.
+It turned out to be a white-jacketed technician.  His name plate read Stefans.  He was a burly and bearded fellow, clad in latex gloves and a white cap as well. He was built like a lineman, which he had once been eons ago.  Now there was a substantial paunch around his belly; what had once been muscle was now sagging into middle age.
+“You were wondering what that was,” Stefans went on.  “Protective measures…in case the little critters get loose…and start multiplying.”  Stefans stuck out his hand and formally introduced himself.  “Dr. Morse told me you might show up…sorry….about your Dad, I mean.   But he’s in great hands down the hall.”
+Johnny looked around.  “This is all for training…on these bots?”
+Stefans nodded proudly.  “Want to give him a test drive?”
+Johnny looked over the console.  “Can I?  For real?”
+“For real.  Sit there.  I’ll go over the basics.”  Stefans explained that the tank was a containment structure and inside was a device called an Autonomous Medical Assembler/Disassembler.  “AMAD for short.  Here, I’ll show you—“
+"I don't see anything."  Johnny stared intently at the imager screen.  
+Stefans sat at a console next to the tank.  “We call it TinyTown.” He tweaked the sensitivity controls of the quantum flux imager.
+"Keep watching, son…you will, soon--"
+The image on the monitor sharpened slightly.  In focus in the center of the screen was a rectangular grid, wavering in the aqueous solution in which the grid was submerged.  Johnny studied the image carefully.
+"Deflection at the probe tip is steady," Stefans muttered.  "That's about as close as we can get.  The grid is ready.  Let me check a few things…solution parameters are normal.  Pressure is twenty point two bars.  Temperature right on the curve.  PH normal.  Concentration gradient is what we expected.  You ready for the ride of your life?”
+Johnny nodded.
+Stefans rubbed his gray moustache.  "Activation instructions are coded and set for transmission.  Replication factor set for the template that's loaded.  Safety systems armed."
+Stefans scanned the panel displays.  Poised around the periphery of the insulated tank in which the grid was suspended, were three rows of six electron beam injectors each.  At the slightest hint of trouble during operation, Stefans would quickly toggle the firing switch on the control panel.  Several million electron volts of energy would flood the tank, stripping atoms from molecules, and electrons from atoms.  Only a cloud of nucleus fragments would remain.
+"Now we’re set…injectors are ready,” Stefans said.  He pointed to a small joystick.  “You drive AMAD with that.”
+Johnny wrapped his fingers around the small stick.  He indicated the device on the screen, clinging to a scaffolding like grapes on a trellis.  “I’m driving that?”
+“You will be a moment.”
+Johnny flexed his fingers.  He was practically licking his lips at the prospect of playing with this thing.  "You said you've improved a few things.  What exactly do you mean?"
+Stefans pointed to fuzzy projections on the screen.  "Along with a new processor, AMAD has stiffer diamondoid effectors.  More reactive or 'stickier' covalent bond ends too, basically carbenes and hydrogen radicals.  That lets him grab atoms and move molecules more securely."
+"I can actually grab atoms with this thing…like sling ‘em around?”
+Stefans smiled proudly.  "A little trick we've patented.  You can grab atoms and put them wherever you want.  You can also replicate…make as many copies of yourself as you want.  AMAD’s got new carbon group fold lines.  Basically a new type of architecture more easily cleaved and collapsed.  For patients like your Dad, it makes tracking down and removing damaged cells, tumor cells, whatever, much easier.”  
+Winger tried out the control sticks on the panel.  
+Stefans continued.  "This guy’s a real hot rod…optimized for faster folding and unfolding.  A very ingenious design, I should add…based on ribosomal proteins…nature's own assemblers of proteins from DNA instruction.  AMAD can break bonds much more rapidly, under quantum-scale control.  Orders of magnitude faster than ribosomes, I'm certain.  And he's got new fullerene 'hooks' for more secure grasping and attaching, which makes for better accuracy."
+Johnny was anxious to get started, get a feel for this wonderbread gadget Stefans was so proud of.
+"Am I powered up?  How do I start this thing?”
+"Fully powered.  Just select a mode--here--" Stefans fingered a side panel.
+Johnny settled into his seat, let his reflexes take over.  Though he didn’t know it, it was a basic axiom in nanoscale work that you didn't so much 'fly' the buggers as 'feel' them.  Stefans knew that to a rookie, dodging molecules and groping van der Waals forces was like playing dodge ball with a sleet of sticky balls.  It took timing and finesse, something that could only come with time.
+"Layout's pretty straight-forward," Stefans went on.  "Operation controls you have your hands on are for the propulsors.  AMAD’s beefed up to sixty picowatts power.  Six degrees of freedom in attitude…that's your left hand plus translation control in your right."
+"Feels jumpy," Johnny reported.  He twisted both sticks and the imager scene careened crazily.  "The slightest touch and he just takes off."
+"I'm sure you'll get the hang of it.  I've got the gain boosted up high.  Imager is acoustic feedback.  You can overlay heading, attitude and state data on the image."  Even as he spoke, Johnny already had the imager screen tiled with shifting mosaics of information.
+"You seem like a natural at this,” Stefans observed.  “Let's try to dock with something," he suggested, spying a few molecules drifting by.  
+Johnny tickled the imager for better resolution and clucked at the view.  “There’s some kind of molecule floating by—“
+"Why that looks like an old friend of ours.  Mr. Acetylcholine Molecule.  What say we scope him out for a parking place?  Go for it, son. Give it a try.  By the way, that's a covalent bond--"
+"Oh--!"  Johnny grunted sheepishly.  The acetylcholine's carbon 'fingers' flicked AMAD away.  He'd approached on a poor vector and gotten bounced by the stiff bond forces.  "I'll just try--" Johnny grimaced, trying to regain control of the device.  "That's weird--molecule just up and spun me around…what gives?”
+Stefans sniffed.  "Something new."  He pressed a few buttons on the keyboard.  "AUTO-RESET.  With something like acetylcholine, dopamine--complicated structures like that--it's best to let AMAD do the piloting.  This is fly-by-stick, electronically controlled.  It seeks equilibrium and calculates resistance instantaneously.  Let the computer and auto-maneuver system do the work now.  AMAD knows what to look for.  You sure you haven’t done this before?  It’s like you’re born to this.”
+Johnny frowned.  "It seems easy…just twist here and it does that—“
+On the imager, AMAD careened around like a beach ball.
+"It’s not easy but some trainees just have a better feel for the forces involved. Frankly, what you’re doing right now is pretty amazing.  And working AMAD this way saves molecules from being smashed to bits by hotshot doctors.  Before, doctors would just fly in and smash and grab molecules. Bust up everything in sight.  Trust me, molecules don’t like that.  Now, with AMAD, docking with a molecule is essentially automated."
+"What else can this thing do?"
+Stefans pressed a few more buttons to inject additional molecules into the solution.  "Say you're in an alien medium.  Parameters unknown.  Try a basic replication cycle."
+When Johnny looked puzzled, Stefans pointed out the right buttons and switches. 
+Then, with Stefans’ help, Johnny scoped out the medium with AMAD's sensors: pH, concentration gradient, pressure.  He toggled the 'rep' pickle on the left stick, one cycle.  In the blink of an eye, the imager screen jostled slightly.
+"I'm waiting…nothing seems to be happening."
+Stefans smiled.  "You missed it, son."
+"What?"
+"AMAD’s already replicated.  Check your state vector…here--" he pointed to a screen of dials and columns on the left.  "See what I mean?"
+Johnny was dumb-founded.  "I'll be damned--this baby's a real hot rod.  And Dr. Hassan’s using this on my Dad…?”
+“As we speak…he’s more experienced than you, of course.  But you’ve got talent…that much I can see right now.  You seem to be a natural at working with atoms and molecules.  It takes a special touch…not every doc or intern can come here and do what you’re doing right off.”
+The thought had been forming in the back of Johnny’s mind for a few minutes.  “You mentioned that UN agency—“
+“Quantum Corps?  Sure, they use the same technology.  I’m not sure exactly what they use it for…we sometimes run demos and seminars for them, advise them on things we’re doing here.”
+Johnny studied the little device now caroming around the imager.  “I need to find out more about them.”
+Stefans went over to a desk and pulled out a small disk.  “Here’s a little training vid we did for them…I think there’s some contact info on it.  It should run on your wristpad.”
+Johnny pocketed the disk.  He would definitely check this out.  Maybe this Quantum Corps was the answer to all the questions that hippopotamus Mr. Holley had been throwing at him: you’ve got to make some decisions soon, son, about what you want to do with the rest of your life…Jeez.  Really, Mr. Holley?
+
+A month later, Jamison Winger had been discharged from Sisters of Mercy and was back home again at the North Bar Pass ranch a few miles outside Pueblo.  And Johnny Winger had applied for an interview and a test at Quantum Corps.
+Mr. Winger sat a bit unsteadily on a stool in the barn he had converted into a lab and workshop.  The bench and surrounding tables and shelves were crammed with parts, pieces of parts, loose wiring, circuit boards, and assorted actuators, motors and things that looked like disembodied legs and arms.  There were even a few robot heads stashed around, leering down at them like Halloween masks.  Jamison Winger was forever a tinkerer, even when he was supposed to be in rehab.
+“I want you to do whatever your heart tells you to do, son… but Quantum Corps?  Really?  Do you even know what they do?”
+“Sure I do…they operate the same bots that the doctors used on you…the ones that fixed all your injuries.”
+Mr. Winger went back to a circuit board he was soldering.  “Not quite all of them…but I know you always liked bots.  You realize what this means…Quantum Corps is a military outfit.  You apply and get accepted and you’re committed for several years, at least.  Is this what you want to do?  Your Mom and I always figured you’d go to engineering school, maybe Stanford, like your brother…or Cal Tech.”
+Johnny sniffed at that idea.  He’d fight to do anything other than what Brad had done.  They were always comparing him with Brad.  “I can get my schooling with the Corps…Dad,  I can go to the Academy.  I’d be an officer.  I’d travel around, see things.  Work with bots.  Grab atoms and fight off viruses, things like that.  It’s way better than—“
+Mr. Winger put down his soldering gun, flipped up his safety glasses—you could still see a scar where the melanocytes hadn’t quite finished their work on his face—and said, “Than what, son…than this?  Working like a dog on the ranch—“
+“Dad—“
+But they were both interrupted by the clatter of hooves outside the barn door.  Soon enough, Misty, their brown and white Arabian poked her big snout in, guided by Joanna.  His sister had taken Misty out for a short ride along the lower passes.
+Jamison Winger motioned his daughter over, after she had secured Misty and set her up with water and oats.  He explained what Johnny wanted to do.
+Joanna just rolled her eyes.  “So what is this, some kind of glorified Cub Scouts?  Do you run around in uniforms and play shoot-em-up with the bad guys?”
+Mr. Winger held up a hand.  “Jo…that’ll be enough of that.  It’s what he wants to do.  I just wanted to let you know…I’ll email Brad…he’s still stuck in residency at Stanford Medical.  If John here wants to join Quantum Corps, hey, I think that’s great.  I just want to make sure he knows what he’s getting into.”
+Joanna wasn’t convinced.  “Mom would never go for this.”
+Johnny came back, “How do you know?”
+“Kids, kids…no more, okay.  The Old Man needs some peace around the barn…I’m working on a new flyer design…it’s no bigger than a fly.  John, go do your application.”  He turned to Joanna.  “And as for you, young lady, how about finishing what I told you to do...clean up the kitchen and the living room.  Then you can groom Misty and Marcy.  I might even go riding with you after lunch.”
+Joanna agreed with that and Johnny sprinted back to the house.  An hour later, he had finished his online application to Quantum Corps and submitted it.  By supper time that evening—over beef barley soup and sandwiches—Johnny reported that the Corps had responded back.
+He read the reply over the dinner table.  “It says ‘Report by 0800 hours on 22 June, 2048 to the Recruit Processing Center, Table Top Mountain, Idaho.  Bring all applicable identicards listed below, including a current healthchip and a week’s clothes.  Your contact will be Lieutenant Jeremy Wormer.’  Dad, can I take my bike, huh… what about it, huh?”
+Jamison Winger sopped up some soup he’d dribbled on his chin.  He crammed a square of cornbread in his mouth and chewed, thinking.  You knew he was thinking when his eyebrows started canting down toward each other.  
+“You’ve finished all your projects for Ms. Gomez?  Net School’s done?”
+“All done.  My certificate’s already posted on their web site.  I can print it—“
+Mr. Winger took another bite and sighed.  “No need.  I just wish your Mom were here.  You know she’d give you a big hug and a kiss.”
+“Yeah, a big wet kiss.”
+Joanna could just imagine it.  “Like Misty gives you, all tongue and teeth—“
+“Okay, that’s enough.  Johnny, this is serious business.  You’re sure about this?  You’re sure you don’t want to shovel hay the rest of your life.  Or tear up all my inventions?”
+Johnny knew a gotcha from his Dad when one came.  There was a kind of twinkle in his eye, a slight smirky lift to his lips.  
+“I’m sure, Dad.  I know what I’m doing.”
+Jamison Winger put his spoon down and arranged the utensils just so.  He’d always been a neat freak but after Ellen had died—well, it was one of a lot of things that had changed around the place.  “Then, don’t forget to write, son.  If they give recruits the time to do things like that.”
+“I won ‘t, sir.”
+The next day, Johnny cinched up a bag to the back of his turbo and sped off down the twisting gravel drive of the ranch.  He picked up I-70 a few minutes later and headed north for Denver.  And no autoway this time either.  He wanted to be in control of something…he’d always liked to be in control of things.  
+Idaho was two states west, up through the Front Range and one state north.  The trip would take the better part of two days.  But he had his gear and he didn’t plan on sleeping any longer than necessary, just enough to rest up from the road.  
+Table Top Mountain, here I come.  He throttled up the bike nearly to redline rpms and sped off toward the mountains, still snow-capped even in summer and silent, now beckoning him on to new and unknown places.  
+
+“Table Top Mountain”
+
+Table Top Mountain, Idaho
+June 21, 2048
+6:45 p.m.
+
+Johnny Winger watched as the snow-capped peaks of the Sawtooth Range drew closer.  Somewhere up there, past the front range, was Table Top Mountain.  He thumbed a button on his wristpad and the image popped onto his visor…there it was… at least a virtual image.  The mesa did look like a giant table, poking up above the surrounding countryside like a craggy high chair.  His head-up map labeled nearby mountains as the Buffalo range.  There was a place called Hunt Valley.  Restricted Access, the map warned him.  And one town, Haleyville.
+Highway 21 snaked its way back and forth toward the mesa and soon he was climbing up a series of switchbacks to the summit, slightly obscured by a passing fog.  
+When he got to the top, he stopped at the Main Gate and two security officers came out to check credentials and sign him in.  
+He was ordered to follow directions displayed for him by a palm chip the guards gave him, a chip he fixed to his handle bars…the chip would display the route to the Recruit Processing Center, which turned out to be near the center of the base, part of the Officers’ Quarters compound.  He passed a sign labeled Containment Center.  That gave him a little chill.  This is really for real, he told himself.
+There was a line outside the Recruit Center.  Johnny grabbed his bags and found his way, with the help of two sergeants barking out orders, to the end of the queue.
+“Single file and keep your yaps shut, nogs!”  That was all they knew how to say, and they said it over and over again.  The orders grew louder and louder and the line grew longer and longer.  
+Table Top was a compact base.  There was only so much room on top of the mesa so space was scarce and everything had to fit there.  
+The Recruit Center was in a building adjacent to the Barracks, a short walk from the PX and the commissary.  Winger waited in line with several hundred others.  After an hour, the doors were opened and all filed into a large assembly hall.
+Winger sat between a short, loud-mouthed female applicant whose name badge said D’Nunzio and a fellow named Nathan Caden.
+Winger introduced himself.  Caden had owlish features and a black buzz cut.  He was lanky, wiry and pretty much a sourpuss to judge from his expression.  Johnny asked Caden where he was from.
+Caden had a pained look on his face.  “Bellevue, Washington,” he said.  What Johnny couldn’t see was the halo that Caden had inside his skull.  It was something Red Hammer required of all its agents.  The nanobotic insert was in place to make sure Caden didn’t do anything detrimental to the cartel.  The pain on his face was real, too, but Johnny didn’t know that.  The halo was there to pump the neural gaps with dopamine, and suck them dry just as fast.  Each cycle was just a little reminder…spasm or ecstasy, all you had to do was say the wrong thing.
+A voice interrupted Johnny’s puzzlement.  “Marianne D’Nunzio,” came the voice.  “Everybody calls me Deeno…if they know what’s good for them.”  It was the female on the other side of Winger.
+“Johnny Winger...Pueblo, Colorado.”
+D’Nunzio was a trash-talking New York wisecracker, a muscle gal, into kick boxing, Tai Chi, and a lot of stretching, flexing and strutting.  She cracked knuckles every time her mouth opened.  “Hey, Winger from Pueblo, Colorado…what gives with Constipated Cal next door?  He looks like he just ate a whole hen.”
+Winger shrugged.  “The quiet type, I guess.  Hey, look, the show’s finally getting on the road….”
+A tall officer in a black and gold uniform bounded up to a mike on the stage.  He said his name was Lieutenant Jeremy Wormer.  The way he said it sounded like “Wormy.”  Naturally, that’s what Deeno D’Nunzio called him from then on.
+“Wormy” went over the day’s agenda.  “After some words from General Kincade, the base C/O and Major Kraft, you’ll line up outside in the lobby, by name.  That’s where you’ll draw your quarters assignments, schedules, rules and regs book and uniforms and other gear.  Then you grab a bite at the commissary, stow your gear and get ready…for a full afternoon of tests, sims and checkups.  Questions?”
+Nobody had any.  General Kincade made a few perfunctory remarks, followed by Major Jurgen Kraft.  Kraft was head of 1st Nanospace Battalion.  He was brusque, to the point and a voice somewhere behind Winger joked that he looked like a lion about to pounce, with his big moustache and animal glare.  The recruits didn’t know it yet, but Kraft was German by birth, detached to Quantum Corps from a previous billet with UNIFORCE Security – II EuroCorps and was a strict, no-nonsense, by-the-book, expect-the-impossible-everyday kind of c/o.  
+Kraft didn’t speak or make an address.  He growled like a lion over fresh meat.
+“Recruits…there’s one rule when I’m around.  Don’t waste my time.  Give your all every minute…no less.  Nobody free-lances and becomes an atomgrabber in my unit.  If I give you a problem, work the problem.  Don’t just react.  Here at Table Top, you’ll hear the rally cry a lot…’small is all!’  You know what that means?  It means the mission comes first, before everything, even before your life.  I won’t have any atomgrabbers in my outfit telling me something can’t be done.  I don’t give a damn about laws of physics or what your Mommy told you when you were six.  I’m not your Mommy…forget Mommy.  You come into my outfit, you will be an atomgrabber in all respects, all the time.  If I kick your ass, it’s not because I love your pretty little ass…it’s because you need proper motivation.  And with me, if it comes down to ass-kicking, you’re already halfway out the door.  That is all.”
+There was dead silence for several minutes.  Then Wormy came up to the mike and said, “Fall out…to the lobby.  Line up and keep your yaps shut.  You’re nogs here.  Nog stands for noggin…as in what I’ll be beating on if you don’t act right.  Move out…!”
+So they lined up, drew their gear and went on to the commissary.
+Caden and D’Nunzio sat with Johnny Winger for a quick lunch of something vaguely resembling a sandwich and chips.  Caden was quiet, which wasn’t a problem for D’Nunzio.  The New York muscle gal could talk enough to silence a battalion.
+“What’s with jarhead over there?” she mused out loud, sticking her pinky in the general direction of Caden.  She wiped a dollop of mustard off her cheeks.  “Still constipated?”
+“It’s sticker shock,” Winger surmised.  “Didn’t you tell me you came out of some geek place in the Bay Area?”
+“Yeah,” Caden murmured.  “Place called Cytek…I was a bot engineer.”
+“Bots?”  D’Nunzio said.  “This place should be right up your alley then.  Except these buggers are pretty small…think you can handle this?”
+Caden shrugged.  He wasn’t going to give the halo anything to chew on today.  You had to watch it when others were around.  The halo sometimes got antsy and started slurping dopamine, just to make sure everything worked right.
+“We’ll see,” was all he would say.  He took a big bite of the turkey and Swiss and made sure his mouth was crammed so he couldn’t say anything out of line.  The shivers stayed away…for the moment.
+D’Nunzio turned to Winger.  “Colorado, huh?  You ski?”
+“I ski.  What about you?  What gets your motor running?”
+D’Nunzio got a dreamy look on her face.  “Kicking ass.  I mean, seriously, I kickbox, all types.  I just love burying my feet in someone’s derriere.”
+Winger figured talking with D’Nunzio was like talking to one of those toy bots that always broke down…no matter what you asked it, the damn thing always spit out the same reply.
+“You’ll do well around here.”
+Then a bell rang.  Lunch was over.  It was time for physical exams and tests.
+
+Major Jurgen Kraft rubbed his jaw uneasily as the simulation continued.  Johnny Winger had been inside the SODS tank for better than an hour now; that was unheard of and even the sim techs stirred nervously as the rookie atomgrabber barreled on.  The last time a cadet or a recruit had spent more than forty minutes navigating the tank and not crawled out a screaming lunatic had been several years ago and that poor fellow had washed out at the end of Basic.
+Putting a nog into the SODS tank at this point in an atomgrabber’s training was like giving a snorkel and fins to a ten-year old and telling him to swim the Atlantic.  Endurance and tenacity like this just wasn’t the norm inside the training battalion.
+Kraft studied the monitor image of Winger’s determined face and wondered.  Just what the hell have I got on my hands here?
+The senior sim tech was a corporal named Givens, short, chunky, with an annoying rapid-fire blink to his eyes.  He looked up at Kraft.
+“Major, you want I should pull him out now…he’s already made it to the other side, beat through every obstacle I can throw at him.  He’s done the standard course…and then some.”
+“Where’s he now?”
+Givens checked the grid on his display.  The SODS tank was a sphere thirty feet in diameter, filled with water, and a host of infinitesimal predators and bogeymen, enough to get any unsuspecting nog’s attention when he tried to pilot an ANAD through the medium.  An electronic 3-D grid pinpointed the position of the nanoscale assembler as the pilot steered it through the obstacle course.  
+“—I make him about two point one meters this side of the far wall…he’s slogging through the whirlpool…having some trouble keeping on course, looks like.  Already transited the carbene forest.”
+“Hmmpphh…” was all Kraft could say.  The carbene forest was a sleet of reactive radicals and molecule clumps that usually ate up rookie atomgrabbers for lunch…it took some serious stick work and guts to slip through the torrent of molecules that were trying to tear off your effectors left and right.  “Carbenes usually do a number on most pilots.  What’s his trick?”
+“I don’t know, sir…Cadet Winger’s just got a knack for ANAD driving, I guess.  I’ve never seen anything like it.  Should I let him go on…or pull the plug?”
+Kraft’s eyes went from the ANAD image to Winger’s face—a tight mask of concentration…hell, the kid had his eyes closed, for God’s sake…he was driving ANAD by feel alone, tickling his joysticks and changing config by instinct.  It was uncanny—
+“No…let him be, Givens…let’s see what the kid can do.”  A small crowd of techs and nogs had begun to gather around the control console outside the tank.  Glances and murmurs were exchanged…and a few ten-notes as well.  
+SODS stood for Spatial Orientation and Discrimination Simulator.  Cadet Johnny Winger wasn’t physically inside the sphere at all.  Instead, he was in an enclosed booth on the other side of the tank, plugged into everything the ANAD master was sensing.  A sleet of water molecules rushed by the assembler as it cruised on picowatt propulsors back across the water inside the tank.  Once in awhile, the sim techs threw a curve at the trainee: dropped a few million bacterial spores in front of him, stirred the water into a whirlpool, discharged electron guns, zapped the tank with UV and X-rays…anything their diabolical minds and the simulation protocols could come up with.  So far, Cadet Johnny Winger had fought off every predator and obstacle, even a malfunctioning horde of ANAD replicants that had materialized seemingly out of nowhere right in the middle of the tank.  Winger had fought off banzai charges and flanking maneuvers and double envelopment tactics like a seasoned veteran, grappling with the herd in close combat and using his own ANAD’s bond disrupters to break the back of the enemy formation.
+SODS was a prerequisite for any nog to get into the Corps, and stand for officer status in the newly forming 1st Nanospace Battalion.  The whole world of nanoscale combat was so new that Kraft and the Corps general staff were making up tactics as they went along.  SODS was supposed to measure a prospective atomgrabber’s ability to discriminate and manipulate objects via remote control at infinitesimal micron or even smaller scales.  
+From the beginning, Jurgen Kraft had to admit, one cadet stood above all the rest…Johnny Winger.  He’d shown extraordinary skill at the sim, an unusually adept talent at visualizing and manipulating micron or nanometer scale objects in space.  Hands down, the kid was destined to be the top code and stick man in the whole battalion.  You couldn’t make raw talent like that.  
+If he could pass the Atomgrabbers’ Qualifying Test, that was.  
+And raw is what it is, Kraft kept reminding himself.  Even as he and the others watched with amazement and grudging admiration, ANAD powered its way through the ‘waterfall’ obstacle that Givens had programmed in—dodging loose polypeptides and radicals with aplomb—and Winger’s eyes were still closed.  The kid wasn’t even watching his readouts.  He was letting the stick talk back to him, somehow feeling ANAD through the haptic feedback and driving across the course on instinct.
+It’d be easier to navigate Manhattan on a tricycle blindfolded, Kraft told himself.
+“Let him head for the launch point,” Kraft ordered.  “I want to see what this fellow’s made of.”
+“Two big ones say he’ll never make it,” a voice called from behind.
+“Three says he does—“ someone countered.  
+“Warm beer for everyone if he splats at the ‘Wall’,” another one chimed in.
+  The wall was a solid chunk of metal dividing the tank in two.  The trick was to config ANAD for denser medium, change his form so you could transit a world of crystalline planes and rigid lattices.  All the while fighting off deranged nanobots programmed to chew up your effectors while you dived through.  Most nogs would have rather run naked through a pack of lions.
+But Winger managed to fend off the attack, whirling ANAD like a mad dervish, ripping the water with jolts of electron discharges, forming a protective bubble just long enough to fold himself for the denser wall.  He squeezed the assembler down to barely a core and base, and slid sideways, twisting and turning, one step ahead of the bots nipping at his heels.  
+In the end, the race got everybody in the sim room cheering him on.  A few moments later, ANAD sounded ahead and followed the acoustic returns right to the vacuum tube at the near wall of the tank, letting the containment chamber suck him up and put him to bed in his homeworld.
+Kraft watched Winger’s eyes pop open on the monitor…the first time the kid had looked up since the carbene forest.  Not a drop of sweat on him, Kraft observed.  The barest hint of a smile crossed his young face.  
+“ANAD secured in containment,” Winger reported.  “I’ll be ready for another run at the course as soon as he’s regenerated and stable—“
+Kraft leaned forward to the mike.  “Uh, that won’t be necessary, Cadet Winger.  You’ve made your point.  Secure the sim and extract.  See you at the debrief in ten minutes.”
+Winger nodded at the unseen voice.  “Copy that, sir.”  He started unhooking himself from the booth.
+It had only been a few months after Johnny’s father, Jamison Winger, had taken the patch treatment for depression that Johnny had seen the first WorldNet stories about the Quantum Corps, only it wasn’t called that back then.  United Special Operations Force or USOF was the original name of the group at the time, but it would soon evolve with a broad new mandate from the United Nations and with its new mandate, USOF gained a new name.  
+Winger had been looking for a way out for a long time.  Quantum Corps was offering scholarships, some kickass new learning patches, even technical training for cadets who applied, qualified, got accepted and could get through basic training.  Winger was intrigued; he damn well had no desire to stay on at the North Bar Pass Ranch and herd cattle for the rest of his life, even if he did get to tinker with Bailey and his dad’s other flying gizmos.  
+So Quantum Corps had been his ticket out of ranch work, and away from the deadening weight of family responsibility since his mother had died.   In exchange for a six-year commitment, Johnny Winger had showed up at nog camp in a place called Table Top Mountain, Idaho, ready to see just what this new business of nanoscale warfare was all about.
+It was late ’48 and the first medical nanobots were just hitting the news.  Jamison Winger himself had tinkered in his barn-cum-shop-and-laboratory with personal nano back in the ‘40s, not very successfully Johnny remembered, but enough to be intriguing, really just some jalopy barebones matter compilers he’d put together from a kit, the kind you saw in midnight specials on the Net.
+Johnny had been intrigued enough to check it out and when he found Quantum Corps looking for suitable candidates to get some schooling in nano theory and techniques, he didn’t think long before applying.  
+Nog camp had been an eye-opener, even for an athlete like Johnny.   Discipline was tough but his outdoors orientation and caving experience made him physically fit enough and he managed to ace the physical exams and the obstacle courses in PT.
+But it was inside the SODS tank, working through problems at micron scales, manipulating simple assemblers, nudging atoms around like he was driving a ‘dozer that Johnny really shined.  Somehow, it was like he’d been born to it.  Driving ANAD and grabbing atoms came naturally to him.  It was like he could see all the pyramids and polygons and cones and spheres ping-ponging around in his mind’s eye, like he just had a feel for van der Waals forces and bond strengths; intuitively, he knew what it took to snap a carbon ring in half and boot up an autonomous assembler and go off careening around inside a speck of matter like it was some kind of disneyland or something.  Some people played the piano.  Some people could throw a football seventy yards on a rope.  Johnny Winger was a born atomdriver.
+And after a few legendary turns in the SODS tank, he had come to the attention of Major Jurgen Kraft.
+Kraft was the newly appointed commanding officer of Quantum Corps’ 1st Nanospace Battalion.  It was his job to take the raw talent of people like Johnny Winger and Nathan Caden and Deeno D’Nunzio and shape it into a functioning combat unit, then marry their training to the technology that ANAD brought.  Originally, Kraft had been a program manager for autonomous assemblers at Northgate University, where ANAD had been born at the Autonomous Systems Lab.  Kraft was an early mover in the world of nanoscale mechanisms married to autonomous-agent quantum computing.  He’d done several stints at Northgate and Quantum Corps had tapped him early on for field command.  He’d been instrumental after that, getting ANAD technology weaponized and tactics developed enough to be combat ready.  There was some urgency to this business too, as UNIFORCE intelligence had learned in early ’48 that Balkistan and several other rogue nations as well as certain criminal groups were hard at work dealing in weaponized nano themselves.
+Kraft knew it wouldn’t be long before ANAD and its new crop of nanowarriors would be put to the test.
+In June 2048, Jurgen Kraft had met Johnny Winger for the first time.  It was not a match made in heaven.
+Cadet Winger knocked gently on the door jamb.  Major Kraft was at his desk, his shiny balding head was bent to some paperwork he’d neglected.  He didn’t look up, merely mumbled a raspy “Come” while he swore softly at the commandpad, trying to tidy up a report for the 1600 hours squirt to Division.
+“Cadet Johnny Winger, sir…reporting as ordered.”  Winger hung a salute, holding his arm stiff until Kraft responded perfunctorily.  
+“Cadet Winger—“ Kraft folded up the c-pad and tucked it in his shirt pocket, then leaned back in his squeaky chair.  “--that was one hell of a display of ANAD-piloting this afternoon in the tank.  You navigate like that all the time, son?”
+Winger gave it some thought.  “That was my first time, but I’ve played with nano before.  Most of the time, I’m a little smoother with the insert and capture, sorry, sir….”
+Kraft snorted.  “Most of the time?—hell, son, most of the time, the sim operators chew up nogs and spit ‘em out for dirt.  Where’d you learn to grab atoms like that?”
+“Sisters of Mercy Hospital in Colorado Springs, sir.”  He explained about the crash, the medical bots, the surreptitious sessions in the lab.  “I guess I had a knack, sir.  Kind of took to it real quick.”
+Kraft was suspicious of the kid right from the start.  What was Johnny Winger doing that all the rest weren’t?  “Cadet Winger, it’s my job to get this outfit into shape and combat-ready.  I want you to be my top sergeant in the training platoon.  Assuming you pass all the other tests, of course. You work with the SODS pukes, work out some routines, tests and scenarios.  I want you to teach the other code and stick men how to drive like you do.  Got that?”
+That was when Johnny knew he was in trouble.  The truth was he couldn’t really explain the talent he had.  He had no words to describe how you parked ANAD on the ‘back porch’ of a benzene ring and used its covalent bonds to swing yourself through a sleet of water molecules like Tarzan hurtling through the trees.  Nobody had taught him harebrained maneuvers like that; it certainly wasn’t in Dr. Morse’s book at the hospital.  You just felt it and tried it and made it work.
+But he couldn’t very well say no to Major Kraft, could he?
+Kraft studied Winger for a few moments.  “Colorado…you say you worked on a ranch too?  Like a cowboy?”
+“More like slave labor, sir…we’re just barely holding on.  The Corps’ my ticket out.  I want to make the Corps a career.”
+Kraft hmmmed at that.  He rubbed the back of his bald head, then fiddled with his moustache.  “There are more tests, son.  And the big one at the end.  Atomgrabbers Qualifying Test…AQT.  Keep your nose clean and study hard.  The Corps needs someone like you…badly.  That’ll be all.”
+“Sir…yes, sir.”  Winger fired off his best salute and hightailed it out of officers’ country, finding himself outside the Ops building, fighting a stiff wind blowing across the mesa. 
+He pumped a fist and allowed himself a smile. This kid’s got one foot in the door.  Then he headed for the Recruit Quarters, stuck down at the ass-end of the BOQ.  Deeno D’Nunzio and that propeller- head Caden were never going to believe this.
+
+He found Caden stuffing socks and shoes in a small bag.  His bed was made, the covers cinched up tighter than a drumhead.  
+“Where are you going?” Winger asked.  He slung his own rucksack onto his bunk.  “You should be studying your brains out…we’ve still got more classes and tests, you know…” he checked his agenda, carefully pronounced the upcoming attraction at 1700 hours…Basic Maneuvers in Molecular Combat…”better read up on the text they gave us.”
+Caden wasn’t real talkative. Which wasn’t unusual for him.  He was acutely aware that the rest of the training battalion felt a nog’s place was with his unit.  But it couldn’t be helped—he had to be on time.
+“Just getting my stuff squared away.  Scuttlebutt says there might be an inspection before chow tonight…I wanted to be ready.”
+Winger plopped onto his bunk.  “Guess where I just came from?”
+Caden thought of Johnny Winger as some rube from the hills, a cowboy more at home in a haystack than a special ops outfit like the Corps.  “Don’t tell me…the far side of the Moon.”
+“Nope.”  Winger described his test run at the SODS tank.  “Major Kraft said I was a natural…it was easy.  I felt like I’d been doing it all my life.”
+“So you want me to kiss you or what?”
+“No, I’ll settle for letting you kiss my ass…I perfumed it real good this morning…just for you.”
+With that, Caden snorted and left the bunk room.  He had already scoped out a small utility room just out the back door of the recruit quarters.  He ducked into the utility room and, after making sure no one had seen him, pulled out the nanoderm kit.
+First thing was to swallow the pill.  It tasted like a piece of dirty sponge.  
+Though the process occurred inside him and thus was initially invisible, Caden kept remembering stretches of a text he’d read not long ago: “The Strange Case of Dr. Jekyll and Mr. Hyde.”  He chuckled at the idea.  Robert Louis Stevenson could never have imagined this. 
+Caden emerged from the utility room after about ten minutes.  His face was different.  His whole identity was different.  Outwardly, he was no longer Nathan Caden.  Now, he was a young Quantum Corps lieutenant named Dirk Melhkopf, complete with a spiffy new black and gold uniform, consistent right down to the atom-and-sunburst Corps emblem on his lapels and newly minted silver bars on his shoulders.  
+He stuffed his old cadet paraphernalia into a small bag and left it under a drain grate in the room.  Then he walked quickly, purposefully, like he knew where he was going, right to the Security shack at the Main Gate, just the other side of Drexler Field.
+There was a moment’s hesitation as the security guards examined his ID and checked against their records.   But the guard who’d taken his ID returned it with no comment and no visible reaction that Caden could detect.
+“Thank you, sir.  Watch the hill…the rain this morning makes those turns pretty slick.”
+“Sure,” Caden, now ‘Lieutenant Mehlkopf’, said.  He held his breath and didn’t breathe until he was headed down the narrow twisting road from the mesa that led to Highway 7.
+Caden realized that his relatively uneventful exit from Table Top meant that Red Hammer’s swipebot had worked perfectly, as advertised.  Where the real Mehlkopf was at that moment, Caden didn’t know.  Probably sacked out in his bunk wholly unaware that his whole ID right down to his fingerprints, DNA and any measurable biometric had been purloined by something the size of a virus with the morals of a bank robber.   He decided he didn’t really care.  
+He was out, on time, and he needed now to make tracks.  Nathan Caden had an important rendezvous that afternoon.
+The small town of Haleyville was a short ride from Table Top Mountain and Caden would have enjoyed the afternoon jaunt on the turboscooter--the air was fresh with pine and birch and a steady breeze was flowing through the high mountain passes of Idaho's Sawtooth Range--but the truth was he was nervous, even anxious about the meeting.  
+He hadn't done exactly as the agreement called for and he knew there would be questions.  He just hoped the inquiry stopped with questions.  He figured he'd use the ride down to the town to come up with some answers.
+Haleyville was a thirty-minute ride, out the main gate at Drexler Field--Table Top's parade ground and drill field--down the winding road through Buffalo Valley to Highway 7.  Haleyville Road itself ran a serpentine course, switching back and forth along the crest of the ridge overlooking Hunt Valley to the north, a narrow two-lane blacktop dark as a black bear, until it peeled off south toward the town itself.  The north fork went up Hunt Valley Road, through a valley and tunnel complex the nogs had long ago called The Notch, to the Test and Wargaming Range several miles away, atop a bare mesa lost in wispy wreaths of cloud and mist.  
+Caden enjoyed the ride on his bike as best he could, cranking the scooter up to nearly a hundred and twenty, leaning left and right as he steered on through the cool afternoon air toward the outskirts of town, and the rustic hotel known as Custer Inn, where his appointment was undoubtedly waiting impatiently.  He was already late and it was getting dark, save for the bowl of stars just coming out overhead, and the faint halo glow of Table Top base behind him.  He was glad the road was mostly deserted.
+He didn't want to answer any more questions than necessary.
+Custer Inn was a faintly shabby, log and shingle mountain lodge of a hotel, nestled in the piney brow of a small turnout valley off the main road, a mile or so before Highway 7 broadened into Main Street, which was lined with gift shops, bait and tackle joints and hiking suppliers.  The pale blue glow of a parasailing shop, closed for the evening, threw enough light across the road, so he found the turnoff readily enough.  He tried not to let the hologram windsailers circling over the intersection distract him.
+He sped down the decline toward the parking lot, and parked the scooter in the shadows, somehow feeling comfort in a cloak of anonymity.  Through the windows, the bar and restaurant shone with boozy conviviality, laughter and saloon music spilling out through the front doors.  
+He went in.
+As instructed, he went to Registration and secured a room for the night.  Number 127, the Geronimo wing and would he be needing any help with his luggage, sir, we do have bellhop service--
+Caden ignored the offer and went looking for the room.  He turned up and down several corridors, crossed a breezeway to another building and eventually stumbled upon Room 127.  He unlocked it and went inside.
+He waited, uneasily, for about half an hour.
+As before, the knock, when it came, was soft, almost inaudible.
+"Housekeeping--" purred an accented voice.
+Caden let the woman in, shutting the door quickly behind him.  The lights were low in the room, only a single lamp over the bed lit.  The staff woman was Oriental.  Chinese, perhaps, from the look of her.
+Caden hadn't seen her before.  She was short, petite, straight black hair tied in a severe bun.  Her maid's outfit was impeccable: white skirt and apron, white shoes, black and white blouse and latex gloves.
+She glared coldly at Caden.  "You're late."
+The cadet attempted a shrug, but realized it wasn't visible in the shadows.  "Couldn't be helped…I had classes, tests, then a briefing, with the Major. I can’t stay long…there are more tests tonight.”
+Her real name was Wei Ming, but Caden didn't know this.  Nor did he ask.  It was understood that identities weren't important.  Only results were important.  That much was understood quite well.
+Wei Ming pursed her lips, paced deeper into the black of the room.  She drew the shades aside, scanned outside, satisfied, she came back, partially into the light.  Her face was a half moon, pale and unblemished as a ceramic figurine.  "It goes well?"
+Caden watched her, hoping to detect something, some inkling of where he stood with them.  Maybe a twitch, a clench of her fist, but there was nothing.  "Well enough.  I’m doing the best I can.  Some of these guys are really well qualified…there’s one fellow, named Winger…he’s a shoo-in.  I’m not really sure where I stand today…I’m trying to find out where the cut-off is on applicants.  I just need more time.”
+"Mmm."  A question or a statement?  He wasn't sure. 
+Caden found the silences uncomfortable.  "Really, I think the mission is on track—“
+"You’ve had long enough."  Wei Ming's face hardened.  "You were supposed to have stopped them before now--"
+Caden knew that was coming.  It was true that he was slightly behind the agreed-on schedule.  He tried to put a spin on the story, a certain inevitability, factors beyond my control, I wasn't prepared for--but she brushed him off and went pacing again, this time more abruptly.
+When she came back into the light, her face was no longer a half moon.  It had morphed into a hard, impassive mask, a carnival mask, an angry clown.  Was it the light…maybe nanoderm patches changing with her mood?  He'd heard of the trick--
+"This is no good," she told him.  The undulations on her cheeks and forehead seemed to settle down, take on a firmness.  "You should have taken steps by now…it was agreed.  You agreed.  Now we’ll have to speed things up.”  
+"It will take some time--"
+Now she was visibly angry.  The skin kneaded itself into a hard fist, making her cheeks bulge slightly like a lioness with fresh kill in her mouth.  "They're not stupid, Caden.  Don't make that mistake.  You've made enough already."  She was thinking, her cheeks returning to normal planes, sleek and alabaster.  "Our efforts must be allowed to develop and expand globally.  The Project depends on it."
+Caden had heard of The Project before.  He wanted to ask, but he decided against it.  But he was curious.
+"Maybe if I knew more about--"
+But Wei Ming wasn't listening.  She had new instructions from Red Hammer.  "You're being paid well for your services, Caden.  Yet you continue to fail us."
+"I can't work miracles."
+"Leave the miracles to us.  Just do your part."  There was an unmistakable menace--had her voice changed timbre?  An echo, a frequency shift, multiple tones superimposed.  He shook his head.  Had Red Hammer mastered that too?
+She went on.  "You must sabotage any more efforts to develop countermeasures.  ANAD must not be allowed to interfere with the Project.  This is a critical time now."
+Caden's throat constricted.  No…that was a normal reflex.  He told himself that, reassured himself he still controlled his own throat muscles.  "That's not the agreement.  I agreed only to provide intelligence, not perform sabotage.  It's too dangerous."
+Wei Ming was stern.  Nanoderm rolled across her face, an earthquake of skin, reflecting her emotions.  "Your mission is changed.  You'll be paid well for your work…if it is successful.  We've always paid well, have we not?"
+Caden nodded glumly.
+She reached into her apron, withdrew a small disk.  She placed it in Caden's hand.  He willed his palm to remain still.
+"It is a small bug.  Load it into ANAD's kernel.  It will weaken ANAD, subtly, a little at a time. This will make it harder for Quantum Corps to counter us.  Install this at the right time--you will be signaled when.  And keep sending intelligence back…the usual way."
+She vanished from the room almost before Caden realized she was gone, blending into the shadows.  He stayed a few minutes more, breathing rhythmically, testing arms, legs, facial muscles.  Making sure he still had control of himself.  Red Hammer did that to people.  And the halo hadn’t done anything.  He was grateful for that much.  
+Then he left the Custer Inn and sped back to Table Top Mountain.  
+It was near midnight when he parked the turbo outside the Recruit barracks.  He’d missed several classes.  He walked through stiff breezes across the quadrangle to the Barracks, right in the center of the base.  Ten minutes in the utility room and he was Nathan Caden again, right down to the uniform and the owlish face and the bushy eyebrows.  Outside his quarters, he ran into Mighty Mite Barnes, having a smoke with another female he didn’t know, huddled together to shield themselves from the wind, beneath the overhang.
+Barnes was contemptuous.  "What happened, Caden?  Hot water with the Major again?  Or was this a little love trip?  Bitch wouldn't put out for you?"
+Her smoking companion just snickered. 
+The hard drive along Highway 7 had helped Caden clear his mind.  He snorted.  "I left her panting…for more.  She couldn't get enough of what I had."
+"Right," said Barnes.  Whatever the hell that was.
+Nathan Caden threw himself into his bunk, left the lights off and tried to close his eyes and think.  After a minute of enforced stillness, he got up and stood by the parted curtains of his quarters, gazing out across the lighted quadrangle of the Ops Center.  A few guards patrolled the walkways.  A few techs were straggling in, reporting for day shift inside the Tank.  If he stood to one side of the window, Caden could see the low floodlit dome of the Containment Facility, a few hundred meters south from the barracks compound.  More security.  In the distance, perched on an outcrop of the mesa that overhung Buffalo Valley, was the parade ground and Drexler Field.  He checked his watch, noted the time and date.  In less than two weeks, the next round of nogs--Corps cadets--would be tossing their tasseled caps into the air, finishing Basic training and feeling like prisoners let out on furlough.  But Caden didn’t know that.
+Caden snorted, remembering every sweaty minute of the last few weeks.  Atomgrabbing 101 and all the quantum physics you could ever want.  Not to mention Phys Ed and the obstacle course every afternoon.  Thirty-mile hikes through the snow and sleet of the Buffalo Mountains.  Survival training.  Escape and evasion tactics.  Molecular fencing and the Sim Tank, where malevolent instructors fitted you out with gizmos that repelled and attracted just like real-life atoms.  You bounced around like a tennis ball for several hours, usually knocking yourself senseless in the process.  He shook his head.  Maybe it had been a big mistake after all.
+Nathan Caden stood at the window, fidgeting with the frayed ends of the curtain draw.  He knew he had to act.  He knew he had to do something.
+Disable Quantum Corps for three more days.
+There was only one possibility and Caden recoiled from it.  But he didn't really have a choice.  He was in tight with Red Hammer, too tight by now, and if he politely declined, he'd be terminated faster than he could say quantum.  
+The only sure way to bollix up Table Top Mountain for three days, maybe longer, was to get inside the Containment building and release ANAD.  Config the bugger for max replication and let the swarm loose on Table Top Mountain.  
+The Big Bang scenario they'd simmed so many times…this time, played out in real life.
+With any luck, he might not even survive the onslaught.
+
+
+Cadet and applicant rankings were left to speculation for the next few days.  More tests came and went.  More physicals.  Bizarre pokings and proddings and probings were made into every conceivable orifice, even into brains and places the cadets didn’t know they had and couldn’t name.  Classes and briefings were held, on subjects ranging from Molecular Tactics to ANAD Ops to Quantum Engineering and Containment protocols, all of it designed to give instructors a feel for which cadets possessed the right stuff to be atomgrabbers and which did not.  
+As the days went on, Johnny Winger felt that he was somehow in a place he had always been destined for, without knowing it.  Nathan Caden struggled, though no more than any other cadets.  But some applicants had the knack for visualizing things nobody could see and manipulating and maneuvering things at the scale of atoms and molecules.  It took a certain kind of wacky brain to do that.  And Winger knew he would likely have plenty of company, what with Barnes and M’Bela and D’Nunzio and others doing almost as well as he.  
+Then came the announcement everybody had been expecting, dreading and waiting for.  The details of the Big Test.
+Major Kraft gathered all applicants in the recruits’ assembly hall and gave them the good news.
+“Listen up boys and girls…I called this briefing— by the way, around the Corps, we don’t have meetings, we have briefings, so you hayseeds remember that.  I called this briefing to give you a heads-up on how we end this recruiting cycle.  There’s a big test coming.  Tomorrow.  Starts at 0700 hours.  It’s called the Atomgrabbers’ Qualifying Test.  It’s like a big game…a war game.  You’ll all be given roles and assignments and rules of engagement.  Then we turn the buggers loose.  All you have to do is help our troopers fight ‘em off, contain ‘em and put them back in the bottle.  If you fail, at any time, you wash out.  You’re outta here.  You work with your team mates, follow orders, do the job and put the critters back in containment, and I mean the right way, maybe we’ll consider your application.  Questions?”
+There was dead silence in the hall.  
+Kraft allowed himself the barest hint of a smile, peeking through his Black Forest of a moustache.  “Very well.  Pick up your mission and assignments disk on the way out.  Units and team leaders will assemble in this room at 0600 hours tomorrow morning.  Have a pleasant evening.”
+Lieutenant ‘Wormy’ then bounded up onto the platform and bellowed out “Dismissed!”  He sounded like a cow in heat.
+Winger walked out with D’Nunzio and Oscar M’Bela, back to their quarters.
+“What do you make of this qualifying test, Wings?” D’Nunzio asked.  “I heard the same scuttlebutt as you.  Separating the boys from the men…and the girls from the men?”
+“Yeah, probably…I never heard anything about a wargame.  I guess they want to see what we’ve learned, how we apply it, how we react under pressure.”
+Oscar M’Bela pulled alongside the two, fondling some laibon healer trinkets in his hand.  The cadets had taken to calling Oscar M’Bela ‘Witchy.’  That was because he was Congolese by birth, Hutu by tribe and really spiritual in his outlook.  M’Bela found spirits in everything and Winger had long since gotten over the spectacle of Witchy talking to ANAD units in containment as if they were tribal brothers, even rubbing amulets, colored stones, and cowry shells.  He had all kinds of rituals and beliefs, explaining there wasn’t much difference between the spirits of the forests and autonomous nanorobots.  “You can’t see either one but you can sure make enemies of one if you don’t treat them with respect.”  Nobody could argue with that.
+The three of them spied Nathan Caden nearby.  He wasn’t heading their way, in the direction of the barracks known as Galland Hall, the recruit barracks.  Instead, he was cutting a path across the front of Barracks Row, heading for the domed Containment building, situated behind sturdy barriers to the south.  Or maybe he was heading for the Infirmary…it was nearby too.
+“What’s the matter, Caden?  Lost your way?” D’Nunzio cackled.  “You pee on the lawn over there, the bugs’ll have a feast on that little wang of yours.”
+Nearby cadets chuckled at that but Caden paid them no attention.
+“Just making a little delivery before turning in.  Have a cold one for me, you creeps.”
+He pressed on toward the shimmering barrier of the security field around the Containment center, a linked nanomesh of bots that kept out flies, mosquitos and nosy cadets with equal aplomb.  
+In his pocket, the disc that Wei Ming had given him felt like it weighed a ton.
+
+“Table Top Mountain”
+
+Table Top Mountain, Idaho
+June 28, 2048
+7:45 a.m.
+
+The day of the AQT finally came and it was a bitch.  Johnny Winger continued to do well in all the tests of dexterity and skill at nanospace orientation and nanobot maneuvering tests.  M’bela and D’Nunzio and Mighty Mite Barnes did well enough.
+They spent time wargaming scenarios and trudging up and down windswept mountain passes out in the Hunt Valley range, fending off attacks and assaults and all kind of wicked tricks the instructors pulled out of their feverish minds, all the while hurriedly looking up procedures and rules and tactical moves in their eyepads, portable handbooks they were supposed to rely on for proper responses to enemy actions.  They all knew, and they all reminded each other, that they’d be graded on that as much as cleverness and results.
+Major Kraft didn’t want any freelancing in the AQT.
+
+“Okay, troopers, here’s the situation.”  Kraft diagrammed the wargame on a board.  “A large city is threatened by an enemy force, basically held hostage to their demands.  Quantum Corps gets the call and an ANAD Detachment is formed.  If the enemy’s demands aren’t met, the enemy will execute a Big Bang and destroy the city and all the inhabitants.  ANAD Detachment is tasked with penetrating the city, conducting recon on enemy dispositions and preventing the Big Bang from playing out.”
+“What about rules of engagement, Major?” asked Johnny Winger.
+“I’m getting to that.  In this wargame, which is called ‘Nanowarrior,’ ANAD Detachment will test the new trooper-embedded ANAD system.  That means launch, deployment, engagement and recovery tactics.  This scenario is designed to test how well that works, what you’ve all learned the last two weeks.  As far as rules of engagement go, close-quarters combat is permitted, including all swarm tactics of evasion, deception, swarming attack and so forth.  But no bodily penetration is allowed.”
+“Too bad,” said Deeno D’Nunzio.  “I was looking forward to grabbing somebody’s gizzard and shaking it down.”
+“To help the simulation, we’ve had ANAD swarms at work out at the Hunt Valley range for the last several days, assembling fake buildings and other urban infrastructure.  By now, it ought to look pretty real.”  With a few taps on his wrist keypad, Kraft sent the scenario details and rules of engagement to every nog’s’s crewnet.  “There…now you’ve got the facts.  Questions?”
+“Just one, Major.”  It was Witchy M’Bela.  “Isn’t Mr. Caden supposed to be here?  We’re short a trooper.”
+Kraft look annoyed but figured the question had merit.  “Good question, Mr. M’Bela.  Now you know why we run wargames.  Mr. Caden won’t be joining us today.  He reported sick at the Infirmary overnight.   So now you’re short a trooper.  Life’s like that.  Work out the requisite tactics and complete the mission.”
+
+For years, Table Top Mountain had been portrayed as looking like the palm of a hand.  If that were so, then the ridges of mountains radiating out from Table Top were the fingers.  Following the same analogy, Hunt Valley was a narrow plateau surrounded by steep cliffs roughly between the thumb and index finger of the hand that was Table Top.
+The Valley was home to the outdoor wargame and test range, where nanoscale assemblers could be let loose in the wild, under some semblance of control.  Indeed, one of the advantages of having a valley as the test range was the ability to throw a simple containment shield over the grounds, in the form of electron guns and even crude but effective nanobotic barriers, able to blunt the effects of all but the worst types of accidents.
+Johnny Winger led his training detachment of twelve troopers from the belly of the liftjet and hiked up a short cliff to a ledge overlooking the sim city below, affectionately known as “Valleyville.”  
+“DPS…” he called over to a cadet named Sheila Reaves.  “We’d better do a little recon here so we know what we’re dealing with.  Get Superfly up and sniffing around…perimeter of five hundred yards radius.”
+“I’m on it.”  Reaves and the DPS2, Cadet Chandra Singh, unloaded two of the micro air vehicles and fired them off.  Moments later, the twin entomopters were airborne at altitude, cruising on picowatt power cells, their articulating wings spinning at thousands of rpm.  They careened across the valley and the rooftops of Valleyville while Winger directed the rest of the deployment.
+“Full hypersuits?”  Cadet Al Glance didn’t relish the prospect of getting in to the heavy, boosted exo-skeletons they’d all trained with, but they did offer the best protection if things went downhill.
+Winger thought.  “We probably should, given the threat.  But I’d like to know more about what the enemy’s up to.”  Winger was like that…going on hunches, ignoring the book when the situation seemed ripe.  It drove Kraft  and the others crazy but more often than not, Winger’s hunches had been right.  The hairs on the back of his neck were his warning system.  At the moment, they were behaving.   “Get the suits powered up but leave ‘em off…for now.”
+“You smell something fishy, Wings?” asked Mighty Mite Barnes.  Barnes was unstowing the HERF gun mounts, getting the radio-freq weapons ready to go.  
+“Maybe…” Winger said, scanning the terrain around Valleyville with his binocs.  A faint shimmer pulsated and flickered around the nearer buildings of the fake city.   “Get those HERF guns spooled up right away…and site them along axes parallel to the main streets.  Oh, and Mite, put one up there, sited away from the ‘Ville.” 
+“Away from the city?” Barnes asked.  “Are you--?”
+“Yeah…I’m not forgetting who the OpFor is today….if I know Dana Tallant, she’ll have 2nd Nano all bug-eyed and ready to slam us from behind before we know what’s what.  That’d be just like her.”  Winger had jousted with Cadet Dana Tallant repeatedly in classes and exercises during the last week.  
+“What about ANAD?” asked Glance.  “Think we ought to wake him up, get him going?”
+Winger held up a hand, for silence.  The hairs on the back of his neck had begun to prickle.  “Al, you and Gibby come with me…we’re going to check out something down there.  I think that shield’s just for show and the enemy wants us to come that way.  The rest of you stay put…and keep your eyes open.  You get any kind of tickle or whiff from Superfly, blast away with HERF.  That’ll buy you some time.”
+“But, Wings—“ Reaves was uneasy with the maneuver.  “--if we get fragged with ‘bots here, we’ve got no defense beyond HERF and some coil-gun rounds.  You’ve got the, er, the ANAD master….with you.”
+“I’ll only be gone a few minutes and we’ll be in contact.  With ANAD right here—“ he patted the containment capsule on his web belt, “we can deploy and engage faster now.  You’ll be covered, no matter what.”
+Reaves looked doubtful.  It was against all doctrine to split up the detachment like this.  Normally, ANAD would be contained in a TinyTown pod with the detachment as it deployed, not off following some wild hunch.  
+“If you say so.”
+Winger took a small detail and left the ledge, creeping down a rutted gully until they were flatfooted on level ground just beyond the city buildings.  The shimmer of a nanobotic shield flickered like summer fireflies a scant fifty feet away….supposedly the OpFor’s barrier to any probing from this sector.  
+You had to think like the enemy, know your enemy and what they liked to do.  In this case, the enemy was Dana Tallant’s 2nd Nanospace Training Battalion.  Winger smiled as they positioned themselves to do a little more reconnoitering around the edges of the shield.
+He knew Dana Tallant like a kid sister.
+Valleyville was essentially a shell of a town, literally.  Over the last few days, Major Kraft had seen to it that swarms of nanoscale assemblers had put together a small group of buildings and streets, enough to resemble a small town.  Only the exteriors had been assembled, like a Hollywood backlot.  Inside their shells, the buildings were empty space.  
+“Wings, we going to breach this thing…or just check the perimeter?”  It was Gibby, working the interface unit. 
+But Winger didn’t reply.  Instead, he held up a hand and the detail halted, right outside the keening whine of the nanomech barrier.   Something had tickled the hairs on the back of his neck.  He spoke into his helmet mike.
+“DPS, you got anything from Superfly yet?”  
+Sheila Reaves’ voice crackled back.  “Funny you asked, Wings…right when you called up, ‘Fly gave me a tickle of something…I don’t know what it is…maybe nothing—“
+Winger froze.  With hand signals, he ordered the small detail to about-face and head back up to the ledge.
+Gibby was curious.  “What is it?”
+Winger was already halfway up a gully, hauling himself as fast as he could.  “Just a hunch…come on, troops—“
+And that’s when all hell broke loose.
+The scream of Sheila Reaves was the first thing everybody heard over the crewnet.  
+“AAAAARRRRGGGGHHHHH!.....Get the HERF gun!!!—“
+Though he was still fifty feet below the level of the ledge, Johnny Winger could feel the swelling thermal bloom of a Big Bang attack long before he could see it.  Overhead, sparks and crackles of phosphorescent blue and green stitched across the tops of the hills, as a swarm of nanobots descended on the detail, replicating madly, mindlessly, replicating in exponential overdrive, swelling and rolling and smothering like a slow-motion fireball of an explosion.
+The sheer suffocating weight of the ‘bots as they divided and expanded made the air tingly and alive with pinpricks of flame.  
+“Come ON!”  Winger yelled.  Gibby and M’Bela and the rest of the detail scrambled after the Winger as he hauled and kicked and hoisted himself across ravines and clefts, climbing furiously toward the epicenter of the attack.
+At the top of the ridge, Sheila Reaves managed to get the HERF gun turned around and boresighted into the teeth of the nanomech gale, cycling the action, as she motioned the others to get down.
+“Cover yourselves…I’m gonna fry these suckers!”  
+The rest of the detachment took cover immediately and Reaves gritted her teeth, wincing and gasping for air as the ‘bots smothered her from every direction.  Jeez, this feels worse than the Tank…it’s supposed to be an exercise, isn’t it?  With her last ounce of strength, she lit off the radio-freq cannon and dove headlong to the dirt.  She buried her face and screamed at the top of her lungs to equalize pressure in her head, trying to ignore the stings and bites of the ‘bots on her back.
+The thunderclap deafened the hillside as a pulse of rf hurtled through the air.  Winger waited a second for the wave of heat to wash over him, then he heard it: the clattering of nanomechs, momentarily stunned, falling to the ground like dead leaves in a stiff wind.  
+“Let’s GO!” he yelled, as he bolted up the hill.  He cycled the comm circuit to the ANAD master now ticking over inside the containment pod.  ANAD, get yourself ready…we’re going into action ‘soon as I get to the top…prep for deploy, safe all effectors, spool up propulsors, and orient yourself for launch…
+Deep inside the containment capsule on his web belt, the Autonomous Nanoscale Assembler/Disassembler was readying itself for combat.
+***deployment complete…all effectors in launch position…my processor is updating now...config state is combat-ready***
+“That’s…affirmative, ANAD…” Winger grunted, as he ducked and scrambled forward.  “Max rate rep…give ‘em hell, ANAD!  Launch now…launch and engage!!”
+The force of the launch momentarily caught Winger off balance and he stumbled and fell to his side.  The sudden whoosh of the pressure drop and the sting of the torque against his waist made him wince, but it couldn’t be helped.   The ANAD master rocketed out of containment and immediately set to work replicating.
+Moments later, the two swarms collided head-on across the top of the ridge, in pulsating rhythms of iridescent blue, as vast, unseen armies engaged overhead.  
+Another drone-snap of radio frequency waves rolled across the hills as the HERF gun discharged.  Winger got on the crewnet…he had to warn the DPS techs to keep the air clear for ANAD.
+“Sheila!  DPS1…kill the HERF!  Kill the HERF!  ANAD needs a free hand to fight—“:
+Reaves’ voice was strained…she was being ‘consumed’ with mechs even as she burrowed ever deeper into the dirt behind the liftjet skids.  They started to tickle, then burn a little.  Emasculated bots but they could still bite….
+“Sorry…we’re being…eaten…alive…up here!!”
+Winger pressed a button on his wrist keypad and instantly, soundings from ANAD filled his helmet eyepiece.  The view was surreal, swirls of motion embedded in bubbles and polygons and octahedral lattices as the assemblers collided and grappled.  
+“Gibby, I’ve got ANAD on viewer…I’m taking command, changing config--!”
+“Got it!” Gibby came back.  Gibbs was fully qualified to run the interface controls and immediately dialed up the same view.  But ANAD was Winger’s baby now, he figured.  Better to let the two of them duke it out with the enemy ‘bots.
+I sure hope they know what they’re doing, Gibby thought.  He raised his head up and got a mouth full of mech debris, stinging sleet against his face.  He shielded his face and squinted into his eyepiece, the same view Winger had.
+Funny how combat looked when you were the size of a few atoms.  Gibby remembered seeing some old vid…a movie they used to call them—of the U.S. Navy fighting in the Big War…the Second Big One.  Frogmen fighting underwater.  That’s what nano-combat looked like on his eyepiece viewer.  Nothing but foam and bubbles, only it wasn’t bubbles he was seeing.  It was stringy chains of atoms that looked like tree ornaments…bulbs on a filament whipping through space, cleaved by things that looked like spiky maces and octahedral balls and weird pyramids and every shape imaginable, all careening along as if blown by a hurricane.  
+Even as he watched, he heard Winger’s voice over the crewnet.  “…looks just like an ANAD clone, Gibby…I’m closing in—“
+“Easy…it could be a diversion.”   He watched as the image steadied.  Several dozen feet away, perched below the precipice of a ledge, Johnny Winger was driving ANAD toward the nearest of the enemy mechs.  Even as ANAD surged forward, Gibby saw the enemy maneuvering to strike.  “Look out!  He’s changing position…all of ‘em, coming at us—“
+“I see it!” Winger yelled.  His fingers flexed but there was no need…no keyboard was needed with quantum coupling.  “ANAD…move all defensive systems to attack position!”
+***ANAD complying…casting off hematite shield…grabbers to attack position…electron lens primed and ready…let me at ‘em!***
+Winger smiled as ANAD sped forward. Like a five-year old, heading for the playground.  Over the last few training days, he’d developed a weird, almost brotherly relationship with ANAD.  On the eyepiece imager, the enemy master grew and retracted appendages and surface structure with blazing speed.  The outer membrane of the mech seethed with motion, as atoms and clusters of atoms twisted, bonded, twisted again, rebounded, broke apart, recombined, straightened, undulated and whirled.
+The gap between them vanished and ANAD grappled with the nearest mech.  Other mechs swarmed to the battlefield.  The imager screen shook with the collision, then careened sideways.
+After only two weeks at Table Top, combat at the scale of atoms and molecules seemed like second nature to Johnny Winger.  From his first days as a nog, he’d had an uncanny ability to grab atoms and sling molecules.  It was like he’d born to the world of van der Waals forces and peptide chains, like he was a natural.  Now, with the quantum coupler, he no longer even needed an IC-man or keyboard to drive ANAD.  He could do it by thought alone.
+“ANAD…change config now…go to prime three and extend all carbenes!”
+***ANAD changing config now…going to prime three…hope you know what you’re doing, Boss***
+A few moments passed, as the new instructions were executed by the ANAD master and all daughter assemblers.  Gibby watched the imager view as it vibrated with the ferocity of the attack.  Chains of oxygen molecules, pressed into service as makeshift weapons, whipped across the screen.  The air was soon choked with cellular debris.  Even as Gibby hunkered down against the lee of the hillside and watched, the enemy mechs replicated several times in response, adding new molecule strings.  In unison, they stripped off electrons to make an armor shield of highly reactive chlorine atoms.  
+Gibby had seen the tactic before…in class.  In seconds, ANAD was nearly immobilized by the chlorine sheath.
+***I’m losing structure…reconfiguring…shutting down peripheral systems…before it’s too late***
+Hoyt Gibbs crawled on his belly along the hillside, until he had reached Winger.  Over the shriek of nanomech hell, he yelled in the Winger’s ear:  “Got to disengage, Wings…emergency truncation!  Everything not critical…we’ve got to get ANAD out of there before we lose him!”
+“I’m not giving up yet!” Winger yelled back.  “ANAD…execute config change…prime five!”  He was damned if he was going to let Dana Tallant and any swarm of two-bit knock-offs beat ANAD.
+***trying to comply, Base…but internal bonds on main body structure are weakening…I’m losing all grappling capability***
+Johnny Winger gritted his teeth and lifted his head up into the swirling maelstrom of swarming ‘bots, letting the sleet sting his face with a million razor cuts.  He squinted into the teeth of the gale, shaking his fist.  “Not this time, Tallant!  Not this time…ANAD, I’m taking over…I’m taking command—“  He tapped a few strokes on his wrist keypad and moments later, the ANAD master was in his hands.
+***I’m all yours, Base…but I’m losing it…losing it fast…now fine motor control down to half, attitude and orientation, propulsors, sensors, molecule analysis, replication…***
+With ruthless efficiency, the enemy master whirred and chopped every device ANAD could generate.  ANAD had tried to counter, replicating probes, inserters, jaws, cilia, pumps, blowers—but it was no use.
+Gibbs couldn’t bear to watch the viewer in his eyepiece.  Tiled along the edge of the swirling froth of combat, status icons were showing up red everywhere.  They were losing ANAD in the face of the OpFor assault and somewhere deep inside Valleyville, Captain Dana Tallant was no doubt smirking with satisfaction.
+Johnny Winger set grimly to work, now taking full command through his keypad of the master ANAD assembler.  Somehow, he had to wriggle out of the encirclement and outflank the enemy formation.
+Overhead, the air was electric with an impending thunderstorm, and with the shriek of nanomech combat, staticky pops and bursts danced like St Elmo’s fire across the heads of the half-buried cadets.  A rolling, roaring gale of mechs swept across the ridgeline as the two armies tore at each other with ferocious momentum.  Winger felt a few drops of rain on his arms.  He looked up, saw low clouds scudding in from the west.  Lightning flickered behind the clouds.  
+Dipole charges.  Polarity columns.  The wind was picking up.  And it gave him the barest hint of an idea.  
+“Executing quantum collapse…NOW!”   Come on baby, get small for me…get real small…
+Enveloped by the swarming and smothering enemy formation, the ANAD master collapsed what was left of its structure in an explosive puff of atom fragments.  Base, effectors, probes and grapplers, even the core shell surrounding its central processor, went hurtling off into the air in a big bang of spinning atom parts.  
+It was a desperate, drastic, last-chance maneuver. It wasn’t in the book.  But he’d discussed the possibility with M’Bela one night over beers at the canteen and he figured he knew what he was doing.
+Instantly, ANAD seemed to disappear.  For all intents and purposes, ANAD had effectively vanished in a cloud of blurry quantum waves.
+Less than three minutes later, making its way on quantum wave propulsors, ANAD straggled back toward the containment capsule, its nanoprocessor still dogging electron states to bring the nearly invisible device home.
+“Not just yet, ANAD,” Winger muttered.  He tapped out a few more commands on his wrist keypad.  “You’re getting back into the fight…in disguise, this time.”
+***ANAD to Base…there’s not much left…need a break here…need some time in containment to regroup***
+“No can do, ANAD,” Winger said. Now he heard the rumble of thunder.  The storm front was getting closer.   He finished the command sequence and squirted it through the coupler.  “ANAD, get ready to look like dust particles!”
+***aw, c’mon, Boss…have a heart…I’m beat up and really hurting down here***
+But Winger paid no attention.  Receiving the command, ANAD executed new config changes, grabbing atoms as best he could to cloak his processor in the structure of a simple dust mote.  Moments later, from Winger’s position just below the top of the ridgeline, an unearthly tornado of dust suddenly erupted into the very midst of the enemy swarm.  The tornado accelerated upward, expanding outward like an inverted funnel, filtering into the swollen clouds scudding over the mountains.  Inside the clouds, water droplets began to grow.
+For many minutes, nothing seemed to happen.  The enemy mechs continued replicating, smothering the troopers caught at the top of the hill.  But gradually, the pressure of the assault seemed to lessen.  A fierce driving rain soon lashed the hills. 
+Soaked but finally able to breathe, Mighty Mite Barnes managed to drag herself to her feet, helping Sheila Reaves do the same.  They both lifted their faces to the stinging rain.
+“What the hell’s going on?” Reaves asked, shielding her eyes from the downpour.  “Is there a front coming through?”
+‘I don’t know,” Barnes said, looking around uneasily.  She closed the faceplate of her helmet to keep dry.  “But I got a feeling about this…something tells me Wings is behind this.”
+All along the tops of the range, the swirling squall line expanded outward, leaping amid crackles of lightning from one hilltop to another.  The rainstorm soon collided with the swarm of OpFor mechs, joined moments later by a deluge from the skies.  Seams of electrical discharge split the air like curtains of fire, showering sparks and pops everywhere.
+One by one, the cadets of the Detachment rose up, squinted through the rain and stood dumbfounded at the scene.  
+Bit by bit, the OpFor swarm was enveloped and vaporized by the rolling thunder of the oncoming weather front.
+And that was when Major Kraft and the referees decided to stop the wargame.
+
+An after-action review was held at the Ops center at Table Top.  Cadet Dana Tallant, leader of the OpFor detachment, glared across the review board, actually a holographic model of the gaming range complete with Valleyville and all the terrain features.  She glared at Johnny Winger with barely disguised fury.
+“It wasn’t fair, Major.  It was beyond the rules of engagement.  OpFor…my detachment of 2nd Nano troopers, were blindsided.”
+While the troopers bickered back and forth, Kraft read dryly from the official findings of the referees:
+ The dust storm seeded the nearby clouds, accelerating the formation of superheavy raindrops.  Electrical discharges from breaking atomic bonds among the OpFor swarm enhanced the precipitation event, due to the bipolarity of water molecules.  A rain event, basically a thunderstorm, was created by the well-timed replication of ANAD assemblers, assuming the structural form of molecules of silver nitrate and oxides of silicon…basic dust from the local terrain.  The precipitation event and locally intense lightning discharges destroyed the OpFor swarm in minutes.
+It was, in every respect, a tactically unique response to an enemy assault.
+Major Kraft put the findings down and glared at Johnny Winger.  “I suppose you can explain this, Mr. Winger?”
+Winger cleared his throat.  He averted his eyes from Dana Tallant.  She didn’t like to lose any more than he did.
+“I wasn’t sure what would happen, Major.  We’ve experimented, me and ANAD, a little…seeding clouds to see what would happen.  I didn’t think it was out of bounds.  The rules of engagement—“
+“—say nothing about this…I know, I know.”  Kraft sighed.  “Mr. Winger, at least your solution to the Big Bang scenario has the virtue of never having been tried before.  It was….how shall we put it: unique.  And definitely not in the book.”
+“It was a stab in the back, Major,” Tallant insisted.  She glared over at Winger.  “To modify the weather in the middle of a wargame is like changing the rules in the middle of the game.  Begging the Major’s pardon, but this invalidates the results of the exercise.”
+“On the contrary—“ said Dr. Irwin Frost, who was also in attendance, “modifying weather using swarms of assemblers is quite interesting…a solution I would never have thought of.  Johnny, how did you think of this?”  Frost came from Northgate University.  He had fathered the original ANAD several years before.  
+Winger shrugged.  He looked over at Dana Tallant.  “I honestly didn’t know what would happen when it started raining on the OpFor mechs.  I figured it was worth a try.”
+Kraft made a decision.  “Cadet Tallant, technically you’re right: modifying the weather during the wargame isn’t covered under the rules of engagement.  The referees stopped the exercise because I ordered them to.  The technique is unproven and unpredictable, it seems to me, despite the results today.  But we need to explore it further.  That’s why we’re here in the first place: to develop tactics and techniques to employ ANAD in our mandated missions.”  He looked at Winger with something like a mixture of annoyance and admiration.  “And to test cadets’ abilities to follow orders, effectively employ ANAD and demonstrate sound tactical judgment, something any atomgrabber needs.  It seems that Cadet Winger, despite obvious shortcomings, has demonstrated that he can employ ANAD effectively in a combat scenario.”
+Winger shook his head.  After days of practice and a few late-night ‘conversations,’ he felt he knew the little assembler as well as he knew any of the nogs at Table Top.  “It was strange at first, not having to drive ANAD with the control panel.”  He flexed his fingers.  “Me…I learned the old fashioned way…how to park an ANAD inside a benzene ring, how to snap a covalent bond…with my hands on a stick.”  
+Kraft cleared his throat.   “Cadets, you’ve all done better than I expected on the AQT.  But  I’m not running a kindergarten here.  This is a combat outfit and we’ve got missions to perform.  If Cadet Winger does anything else to jeopardize the mission, he’ll be personally answering to me.  Is that clear?”
+Winger nodded quickly.  “Perfectly, sir.  We won’t let you down, Major.”
+“We?”
+Winger smiled tentatively.  “Me and ANAD, sir.”
+Kraft groaned and ended the briefing.   “Decisions on who makes the cut and gets an invitation to nog school will be coming out tomorrow.  These decisions are always hard for me.  You’re a good class, if a bit over enthusiastic.  Some of you will be disappointed.  Don’t take it personally.  You can always apply next year.  For now, lifters will take you back to the Mountain.  Liberty is authorized at 1800 hours tonight.  It ends at 2400 hours, promptly. Assemble tomorrow at Galland Hall at 0800 hours.  That’s when the announcements will be made. Dismissed.”
+
+Caden waited until just before 1800 hours, right at shift change for the Containment techs and the guard force, and slipped out of the Barracks.  He took the nanoderm again, waited ten minutes in the john and took a quick peek in the mirror. Now, he was ‘Lieutenant Mehlkopf’ again, in all but name, right down to the ID.  He walked briskly through a chill and biting afternoon breeze, noting the pale orange of the sun already rolling around the horizon like a beach ball, and made the facility in five minutes.  He flashed his badge and 1st Nano ID, expecting to gain admittance easily enough but the guard noted something on his display and asked the Lieutenant to wait one, while he reset the bioscanner.
+"Only take a minute, sir…probably a glitch in the system.  Your ID's been flagged for some reason…."
+That's when Caden jammed a PKR coilgun into the guard's ribs and fired.  He'd already set the weapon to 20K--enough to fry bacon at a hundred meters--and the guard flew backward like a ragdoll, landing hard on the cement walkway outside the security shack.  Caden quickly pocketed the weapon, cycled the bioscanner and dragged the guard back in by his feet.  He propped the poor fellow up so the retinal sensor would see his dilated eyes and popped the SCAN button.  This time, the access controller read the guard's already-permitted retinal pattern.
+Behind them, the main access door hissed open.  Caden dropped the guard to the floor and hustled inside, working his way methodically through more doors and hatches, following the route laid out on his eyespecs. 
+Caden cycled the final hatch door, using his own retinal scan as ID.  Inside Containment, he no longer cared if the logs showed unauthorized entry or not.  
+In a few minutes, none of that will matter, he told himself.  In a few minutes, the whole base will be swarming with ANAD, out of control and replicating at maximum rates.
+Inside the Level 4 compartment, he burst through the final door and saw the containment unit, a squat gray cylinder about the size of a coffin, parked in the middle of the chamber on an isolation pad, tethered by thick ganglia of wires, cables, hoses and flexpiping.
+He checked his watch, noting only a minute had passed since he had fried the guard outside. 
+The cavalry will be arriving any minute now, he muttered to himself.  He figured he had about three minutes to do the job.  Grimly, he set to work.
+Even as he deftly navigated the cylinder's systems, he felt fiery pinpricks all over his neck and back.  Mosquitoes?  Couldn't be.  He slapped and patted at the welts that were forming on his skin.  What the hell was that?  Felt like a bee sting.  But there couldn't be any such thing inside Level 4 containment.  
+Ouch, dammit!
+He slapped at his neck again, as another fiery bite made his skin crawl.
+One by one, he addressed the cylinder's systems, preparing this version of ANAD for combat launch at max rep.  He toggled through each stage of the prep and deploy sequence: nutrient flow, power, monitoring--always one step ahead of the unit's self-protection circuitry until, finally, the cylinder was ready, ANAD was powered up and primed for launch, ticking over inside the chamber like a bomb ready to explode.
+He scrolled through the config templates, resetting each Security delay, until he came at last to the Big Bang, the max rate replication command.  Still, stinging and slapping at bites and welts--what the hell is that?--he authenticated each stage with his own ID, and drilled down to the final command.
+Then, he knew what it was.  More bites and stings, getting worse.  Caden backed away from the cylinder controls for a moment, and ripped off his jacket and shirt, tossing them into the corner.  Wei Ming had been right.  Somehow, some way, he'd been tagged.  Security mechs were probably crawling all over him.  Most likely, they were already in the air, circulating through the Containment center like miniscule guard dogs.  Now that he was inside Containment, somebody was working the swarm to stop him, trying their best to distract him from what he had to do.
+It won't work, guys.  Not this time.
+He sent the final command, and at the same time, released the last valve isolating ANAD inside the cylinder.  There was an audible whoosh! as a slug of high-pressure air and fluid sprayed into the compartment.  In seconds, a visible cloud had darkened the ceiling, as ANAD exploded in max rate replication, grabbing atoms furiously to build and replicate structure.  Like its namesake, the Big Bang was an explosion of nanomech division, a runaway freight train consuming everything in its path.
+Caden ducked, still slapping and clawing at the pinpricks of the Security mechs eating his skin, and scuttled back out of the compartment.  He ran headlong through the locks and hatches and exited the Containment building--right into the waiting arms of the Security detail that had already been alerted.
+" Nathan Caden," came a voice from the detail, "--you're under arrest.  Please step away from the door and keep your hands where I can see 'em, sir.  I'm just going to--"
+Caden wasn't dumb but spinning away from the detail to charge at the officers wasn't the brightest thing he had ever done.  
+He lunged at the lead officer, a Major Lofton from Base Security.  The officer fired back, all of them now, discharging a MOBnet ejector just as the Caden came into range.  It stopped Caden cold, the linked mesh of nanomechs forcing the man steadily to the ground.  He squirmed a bit, but gave up, knowing it was useless.
+Major Lofton was there too and he bent down to give Caden a good once-over.  The cadet was bound up nice and snug; the more he struggled, the more the mechs squeezed back.  A simple command would have snapped the mechs tighter still, like a miniature clampdown.  
+Suffocate the slimebag, Lofton thought.  He could have done it with a clear conscience too.  But then a million questions would have gone unanswered.
+"Look out!" a voice cried out.
+Lofton looked up just in time to see the gray cloud of exponentially replicating ANAD mechs boiling out of the Containment building like a tornado.  The Security detail, with its prisoner firmly in tow, scattered in all directions.
+Alarms and sirens blared out across the mesa and Table Top Mountain was quickly in an uproar.  Caden was immobilized and dragged off to a bunker in the basement of the Ops Center.
+Lofton fled too, but diverted left along the grassy quadrangle, toward the hangars and the ordnance and mission prep complex.  That’s when he saw the trio of lifters from the Hunt Valley wargame range touching down at the North Lift Pad.  He changed direction, tried to wave them off.
+"It's a Big Bang!" he heaved out.  “Get back…get the hell out of here!” Cadets began dismounting, confused, a little awed at the sight.  They weren’t sure what was happening. Then D’Nunzio saw the boiling cloud.
+“Look!  Look there…mechs…it’s a bang!”  They ducked and weaved and dodged others as troops streamed in every direction across the grounds.  Loudspeakers thundered across the quadrangle.
+"All hands…this is a Code One alert, CODE ONE ALERT…all hands, man your stations.  Repeat…CODE ONE ALERT!!"
+Johnny Winger sized up the situation.  Major Kraft wasn’t with the cadets.  Lieutenant ‘Wormy’ was in command of the cadets.  Winger ran up.   “Sir, it’s just like what we simmed at Hunt Valley…it’s a Big Bang…we know how to handle this—“
+Wormy looked like he was about to cry.  “You’re just cadets…get to your Barracks and stay there until further orders.  We can handle this!” 
+“But, sir—“
+“Now!”
+Winger and Tallant and D’Nunzio bit their tongues and started hustling toward  Galland Hall.
+"They need containment out here!" Winger yelled.  "Mobile containment--"
+"--and magpulse weapons!--" added Barnes.  
+Asked later to explain his motivations for disobeying Lieutenant Wormy’s orders, Johnny Winger could only fall back on that moment in Net School when the principal Mr. Costner had come into the lab to tell Johnny his parents had been in car crash.  You made whatever decision the moment required, whatever decision life threw at you.  He hadn’t waited for permission to leave school then.  He hustled out of school without a moment’s reflection on whether it was permitted.  He had to be there, at the hospital in Colorado Springs…right now.  It wasn’t a conscious thought.  It was gut logic.  Sometimes, your gut knew more than your brain.
+That was his explanation for the official inquiry. 
+So Johnny Winger veered off from the rest of them and took a shortcut toward the Ordnance/Mission Prep building.  They’d just kitted out for the AQT test that morning at O/MP. 
+“Where the hell’s he going?” D’Nunzio asked.  Nobody replied.  But they all changed course and followed. 
+They raced into the mission prep hall, ignoring fleeing guards and gathered every tech they could find.  
+From inside the bunker, Johnny Winger watched the ANAD swarm, replicating out of control, boiling across the lifter pads of North Field, a gray fog swelling and expanding into every corner of the base complex.  His stomach turned at the sight.  Even as he watched, fleeing troopers were caught in the swarm and went down, engulfed and consumed like the raging wildfires that sometimes swept through the Buffalo range of southern Idaho.  
+If we don't contain it soon, the swarm will spill out of the base and head off into the hills.  The entire state could be at risk, parts of Canada too, he realized.
+Already the thing had swelled to dimensions that no MOBnet could handle.
+It was the very same nightmare scenario they'd studied and discussed and theorized in class for the last two weeks.  An effective defense had never really been demonstrated.  Now, it was all too real…and heading right for them.
+Winger knew they'd need every defense they could devise.  MOBnet and any other shielding they could find.  Counter-nanoswarms, if they could be launched and programmed fast enough.  Atmospheric manipulation.  Magpulse weapons.  All the gadgets they’d learned about at Table Top.  And probably more. 
+Ideas flew around the mission bunker thick as dust.
+"Somehow, I've got to get to the master," Winger said.  "If I can get a signal through that swarm, I’m sure I can counter-program…maybe stop the replication."
+"Too dangerous," Deeno D’Nunzio said.  "Swarm's too thick, too active.  You'd never get close enough. And you’re just a cadet, like Wormy said.  These troopers know what to do.”
+“Do they?  Look at them…they’re running in every direction.  You heard what the instructors said.  Even Ironpants Kraft said it: the Big Bang has no effective counter.  You have to stop it before it starts.”
+“Yeah, that’s what the book says.”
+“Hey, we can do this…we can help.  You want to be atomgrabbers…now’s your chance.  We know what to do…we’ve had all the classes, the exercises, the tactics and strategy workshops.  Come on…put your brains together!”
+"Maybe…" Cadet An Nguyen was thinking out loud, "maybe…if we stun the swarm a few times."
+"You mean with HERF?"
+Nguyen was scribbling a sketch on a pad he had dredged up.  "Sure…like this.  Get some guns along the perimeter of the base…here, here and here--" he X'ed off proposed locations on his crude sketch.  "Do it quick and pump a few billions watts of RF across the mesa.  Crossfire.  That should slow down the rep, and maybe, just maybe give Base Security and the troopers time to get a signal through."
+That got D’Nunzio to thinking.  "You've got to locate the master first.  It should be somewhere near the center of the swarm, but it's in motion."  Deeno shook her head.  "How the hell do you find him?"
+Winger was thinking fast.  "I've got an idea.  I had to dump our ANAD's control software back at Hunt Valley.  I dumped the whole control system and piloted the master myself.  That must mean this ANAD's on autopilot right now, stuck in overdrive, with no higher functions or safeties to override the rep command," Winger told them.  "This replication's like a mindless spasm.  And what do we do with spasms?"
+"Shock therapy?" D’Nunzio wondered.
+"That's where your HERF guns come in.  Blast the swarm with RF, just long enough for me to find the master and dump the control system again.  If I can do that, before replication starts up, I can take control of ANAD and drive him back to containment.  Soon as I sever the control links to the swarm, magpulse guns can clean up the mess.  At the same time, I can pilot ANAD out of the swarm and back to re-capture."
+D’Nunzio and Nguyen looked at each other, then at Winger and the other troopers who had started to gather around them in the bunker.
+“Where do we get guns?  They don’t give cadets like us guns.”
+One of the troopers was a sandy-haired fellow, clad in ballistic vest, fresh off the firing range downstairs.  “I can get guns for us…I know the codes to the Armory.”
+'What are we waiting for?" D’Nunzio asked.  
+"Let's go!" 
+It took seven minutes for Sheila Reaves to radio her plans to Security and to the base commander.  Fortunately, the HERF guns were stowed in Mission Prep; the troopers who'd taken cover there helped break out the gear.  Volunteer details were formed up and five HERF units were trundled by hand to opposite ends of Table Top's broad mesa.  In the center of the mesa, the ANAD swarm continued swelling, rolling like a carnivorous mist across the grounds, filling the grassy swards between the Barracks, boiling westward toward the liftpads and lifters parked in revetments, seeping and crawling and flowing over all obstacles toward the Ops Center and Drexler Field.  
+The details had to hurry.  If the swarm spilled off the top of the mesa and ran down the mountainside into Buffalo Valley and the ravines radiating outward from Table Top, the whole of southern Idaho would be at risk.  Already, the Governor and the National Guard had been alerted to prepare to evacuate nearby towns.
+In less than ten minutes, Reaves and the HERF guns were ready, powered up and humming.
+Winger was in contact with General Kincade, Quantum Corps' commander at Table Top.  
+"All units ready, sir.  I'm inside Mission Prep, with a portable IC unit strapped on."  He didn’t mention that he was only a nog still applying to join the Corps.  
+Kincade's face was grim on the vidlink.  The General was with his staff, bottled up in the Emergency Action Center seventy feet below Main Ops.  
+"Blast 'em, son!  Blast the sonsofbitches to kingdom come!"
+Winger needed no further encouragement.  He checked with Reaves one last time.
+"Weapons are enabled, Wings!"
+"Fire!" Winger yelled.  "Fire all around, all units!  Full bore!  Let 'em have it!"
+A series of sirens warbled across Table Top, warning everyone to take cover.   
+The whole mesa seemed to vibrate as the first pulse shot out, squeezing the air with a thunderclap of heat.  A searing wave passed through the Mission Prep hall as the bubbles of radio waves expanded outward, pulverizing everything in their path.
+The first pulse was quickly followed by several more, each discharge hammering the ground with an invisible fist of energy.  Johnny Winger screamed at the top of his lungs, trying to equalize pressure inside his head.  His eyes and lungs burned.  His skin crawled with fire, then tingled and crackled….
+NOW!  NOW was the moment….
+He raced out of the hall and ran a swerving, zigzagging course across the open ground between the barracks and the Ops Center.  The air seemed alive, thick with mechs, and he waved his arms wildly over his head, beating through the swarm.  All about him, droplets of something fell from the sky.  He stumbled and nearly fell, then scrambled to his feet, plunging into the thickening mist, until alongside the road from the BOQ to East Gate, he felt he was near the center of the swarm.  Mech debris clattered and fell from the sky, tickling, brushing, crawling at his skin, but he ignored it and tapped out commands on his wristpad furiously, trying to link up with ANAD.
+"Come on, buddy, come on…come on…where the hell are you--"
+Already, the effects of the HERF pulse were beginning to wear off.  His skin crawled with living fingers, tickling, pinching, as the swarm began to recover from the blast, replicating new mechs to replace those the RF waves had shattered.
+Come on…come on…in desperation, he opened voicelink.
+"Hub to ANAD…Hub to ANAD….is anybody there, anybody in charge out there…where the hell are you, buddy?--"
+Just then, a staticky hiss in his ears formed a recognizable word.
+"---emory register--"
+"ANAD…is that you?"
+The whisper grew marginally louder.  Sirens nearly drowned out the words.  "ANAD…ANAD to Base…..it's…this is….controls are…I'm weakened….can't activate--"
+"ANAD…is that you…ANAD…this is Base…listen to me…ANAD, can you hear me?"
+The whisper was weak, but there.  Winger waved blindly, trying to get the sirens shut off, trying to stop the next HERF pulse.  "ANAD…listen to me…command override…Excalibur alpha x-ray…command override…Excalibur alpha x-ray--"  He hoped the reset command would work.  He'd just told ANAD to shut down all comm links and effector controls…he hoped.  And if anybody asked how he knew that, his lips were zipped.  They didn’t teach cadets things like that at Table Top.
+The swarm was reconstituting again, he could feel fiery pinpricks on his back and neck.  Got to hurry now!
+"ANAD…execute omega one…full shutdown…all links, all effectors, all sensors and probes…ANAD, I'm coming to you…I've taking over--"
+He toggled a sequence of buttons on his wristpad, snapped his eyepiece into place and, to his surprise, ANAD had responded, giving him full control of his core processor and all functions.
+The nanomech voice link was weakening.  "ANAD…responds….comm one and comm two down…effec--disabled…main core idling…ANAD to Base…please…hlp me--"
+The eyepiece image was like driving a hundred miles an hour through a Colorado sleet storm.  Polygons and spheres and snakes and cubes streamed past at high speed.  For a moment, Johnny Winger was disoriented.  
+Where the hell am I?  Can I even do this? For some reason, a vision of Misty and Marcy huffing and snorting at the barn door came to mind…that and hay.  Lots and lots of hay—
+No way am I going back there.
+He tickled the tiny joystick on his wrist and powered up ANAD's propulsors.  
+Just have to dead reckon my way back to the barn today, he mumbled to himself.  At least, comm links are down.  That'll shut off the replication.
+But he hadn't counted on Reaves firing off the HERF guns again.  The swarm had partially reconstituted again, and the pulse, when it came, was like being caught in a tidal wave.
+The link to ANAD stayed active and Johnny Winger felt himself scattered and tumbled and jostled and swept along in a great river, surging through, vast forces tearing at his limbs, punching him in the chest, ripping his head open.  His own body's natural instincts forced him into a curled, face down position, as the thunderclap rolled across the base.  But even as he was still and face buried in wet grass, the dizzying, caroming ride continued.  
+He was linked in with ANAD and seeing what the mech sensed as the RF wave expanded through the air above Table Top.  For a few moments, he blacked out, then staggered back to semi-consciousness and stabilized himself with judicious pulses on his propulsors.
+"ANAD," he muttered to himself, "let's go home."  Momentarily, he backed out of the ANAD link and radioed back to the Mission Hall, telling Reaves to shut down the HERF guns.  "I'm driving ANAD right now…and neither of us wants to go through that again!"
+Gradually, the swirling, driving sleet of oxygen and hydrogen atoms slackened off and he felt he was making headway on half-propulsor power.  Molecules of dust and debris thickened the air, making navigation dicey, but Winger quickly recovered his atomgrabber's instincts and piloted ANAD through reefs and shoals and rapids of whirling, churning atoms and molecules, feeling his way through the sleet, fighting stiff currents as he hacked his way back toward the Containment building.
+It was doubly disorienting, when he physically stood up, peering outside his eyepiece, stumbling through the remnants of the gray mist, tripping over half-eaten corpses in the grass, then looking back through the eyepiece at the cyclone of atoms ANAD was battling through.  Two different worlds in the same view: macro and nano, humans and atoms, and the rules were different in both.
+Johnny Winger wobbled and stumbled his way back to the Containment building like a drunken sailor, with troopers and technicians giving him a wide berth everywhere along the zigzag track.  
+He made it to the complex in half an hour, with Security and other troopers holding open doors and clearing a path all the way into the Level 4 Containment compartment.  
+"ANAD….we're here.  You're home," Winger muttered.  He stepped delicately over wires and cables and hoses and carefully piloted the nanomech toward the vacuum tube being held out by Moby M'Bela.  
+"Only a few feet more," Moby told him.  
+Winger switched his vision back and forth, eyeing the position of the vacuum tube with his eyes, then peering into the eyepiece to maneuver ANAD through a maelstrom of oxygens and nitrogens swirling in every direction.  He'd safed and stowed most of the mech's effectors, so ANAD was rudely bounced and jostled with every pulse of its propulsors.
+"Hey…watch it," came the plaintive voice through Winger's earphones.  "I'm not made of rubber, you know--"
+"Sorry."  Winger squinted at the eyepiece view, trying to match up what he was seeing with the macro view his eyes gave him.  In time, a yawning chasm gaped before him, a canyon dark and turbulent with whirlpools of molecules spinning at the mouth.  With a start, Winger realized it was the head of the vacuum tube.  He safed ANAD for transit and let the suction of the whirlpools pull him in.  The view in his eyepiece spun crazily and he rapidly became dizzy and disoriented.  
+"Looks like you're just about home, little guy," Winger said.
+"ANAD signing off….down the hole!!" came the reply.  
+Winger disconnected himself from ANAD control and let Moby M'Bela do the rest.
+The pressure pulse almost snapped the tube right out of his hands.  In an instant, the Autonomous Nanoscale Assembler/Disassembler had transited the tube and plunged into the soothing homewaters of the Containment cylinder.
+M'Bela grabbed the end of the vacuum tube out of the air and stabbed a button, sealing the tank.  "Got him!  Safing now…pressure coming up, temps okay, pH in the green.  ANAD's sealed and safe."
+Winger was already powering down his wristpad interface controls.  "Whew…I'm glad that's done.  What about the rest of the base?"
+Major Lofton was there as well, along with Dana Tallant and Gibby.  Lofton was patched in to Reaves, who was still stationed at the northeast wall, manning one of the HERF guns.  
+"Next pulse in ten seconds, gentlemen.  Get yourselves ready."
+By the time it came, Winger and the others had rolled the Containment cylinder against one bulkhead of the compartment and draped heavy tarps over it, trying to protect ANAD as much as possible from the RF wave.
+The thunderclap came, rattling everything inside, breaking a few pipette racks on the wall, and knocking gear off a cart.  The heat wave followed, searing the air like a hot desert wind.  Winger and the others had dropped to the floor and made themselves small, covering their heads against falling debris.
+Over the next ten minutes, the HERF guns fired three more times, shattering the mesa with RF waves, frying the rest of the ANAD swarm into loose atoms.  Lofton took a message on his talker, and breathed an audible sigh of relief.
+"All call," he reported.  "All stations reporting in.  Swarm density has dropped to a tenth and falling.  It's safe to move outside now.  Security details are securing all gates and checking the perimeter.  Damage control parties are reporting in.  General Kincade's coming topside."
+Johnny Winger cautiously got to his feet.  He looked at Dana Tallant.  Her face was red and peeling.  
+"You look like a broiled fish."
+Tallant grinned.  "I probably smell like one too.  Guess we’d better find Major Kraft…and Wormy…and let ‘em know what we did.”
+"Later," Winger muttered, though it was tempting.  "First, we'd better make sure ANAD's okay.  And get started helping clean up this place."
+Moby was feeling the scaly skin around his eyes.  "That was too close--" he stopped, hearing the distant crackle of more magpulses, smaller pulses, clearing the air across Table Top Mountain.  “They didn’t teach us anything like this in Molecular Tactics.”
+Outside the Containment building, mech debris littered the grounds, along with pieces of siding and broken glass, roof shingles and twisted, charred pipe and wire.  The entire base looked like a great cyclone had swept through, which in effect, had happened.  The cyclone of the HERF guns had collapsed the last of the ANAD swarm and swept the debris over the side of the mountain.
+For the time being, the threat had been neutralized and the swarm contained.  A Big Bang runaway replication had been avoided and the town of Haleyville and the surrounding Idaho countryside had been spared the worst of the onslaught.
+But it had been close.  Too close.
+Thankfully, casualties were light.  Four fatalities had been suffered, both in the first minutes of the assault, all of the troopers caught out in the open, near the north lifter pads.  The shredded remnants of their corpses had already been removed and taken to the Infirmary for identification.
+Johnny Winger brushed himself off and left Containment, heading back to Galland Hall and the recruit center with Tallant and M'Bela.  
+"What's going to happen to Caden?" M'Bela asked.  The three of them picked their way through piles of debris being collected by sweepbots along the walkway.  The bots scuttled back and forth across the grassy sward between the Ops Center and the barracks, shoving piles of metal and glass and brick into bigger piles for removal.
+"I don't know," Winger replied.  "Major Lofton said he had been taken to the stockade for now.  General Kincade's already scheduled a hearing for 1100 hours.  Rumor has it CINCQUANT himself is coming in."
+"Whatever happens," Tallant said, "he deserves it."
+Before they could make their way to Galland Hall, Winger got a call on his wristpad.  It was Major Kraft.  The Major's face was grim and hollow; it had been a long night for everybody.
+"Report to the Ops Center at once, Cadet Winger.  There's a pre-hearing investigation going on right now.  General Kincade wants all the facts laid out before the charges against Mr. Caden are made.  Security Branch needs a statement from you."
+"On my way, Major."  Winger peeled off and headed briskly across the quadrangle now humming with sweepbots and troopers collecting scrap and debris.  A light curtain had been set up around a small patch of grass near the entrance.  More bots crisscrossed that patch in systematic sweeps--forensic bots looking for evidence.  
+Johnny Winger wondered what would happen to Nathan Caden now.  
+He found Kraft in a makeshift office in the first floor canteen inside Ops, coordinating recovery efforts, trying to track down troopers and cadets.  Talking to faces on his wristpad, comms in both hands, he waved Winger to a nearby seat.  As he waited for the Major to finish, other troopers scurried about, setting up desks and tables, adjusting gear.  A temporary recovery command post was being set up and Ironpants was at the center of a vortex of frantic activity.
+Finally, Kraft got a minute.  He glared at Winger with something like a mixture of disbelief, annoyance and wonder.  
+“First of all, son, I should thank you for all you’ve done here at the Mountain.  Running headlong into that swarm, somehow getting control of ANAD—I guess I shouldn’t ask how you did that-- driving the master back into containment…that took guts.  That was insane.  You saved a lot of lives by what you did…even if no cadet in the history of the Corps ever tried a harebrained scheme like that before.”
+Winger didn’t know exactly how to respond.  Was he being dressed down?  Congratulated?  Studied like a lab specimen?  All three?
+“Sir, I saw a need and I knew what to do.  I knew it was a risk.  But given the situation—“
+Kraft held up a hand, listening out of one ear to a report on his wristpad.  “That was Major Lofton.  They’ve got Mr. Caden  MOB’ed and well secured in the brig.  Lofton’s already done a little digging…it seems that Caden is not what he seems to be.  He’s got connections we can trace to Red Hammer itself, right out of Hong Kong.  Somehow, that didn’t come up when he applied…or maybe we’ve got security problems here.”
+Winger was puzzled.  “Sir, what do you mean MOB’ed?”
+“Mobility Obstruction Barrier.  Nanomesh enclosure.  Caden’s physically secured like a fish in a net.  You mean there’s something you didn’t know about what we do around here…I’m stunned.”
+“Sir, I hope I didn’t step out of line.  All I wanted to do was help out.”  He took a deep breath.  “And to join the Corps, like the ads say.  ‘Get small and be a ’.”
+“Well, I could say something, son, but General Kincade himself is on his way down here right now.  I think he’s got something he wants to ask you.”
+
+“Table Top Mountain”
+
+Table Top Mountain, Idaho
+June 29, 2048
+8:45 a.m.
+
+General Wellman Kincade had been commander in chief of Quantum Corps Western Command’s base at Table Top for nearly two years.  He thought he had seen everything.  But never in his illustrious career with UNIFORCE and the Corps had he ever run into anyone quite like Cadet Johnny Winger.
+Kincade was tall, ruddy and vaguely British in bearing, said to have a dry sense of humor, though Johnny had no desire to test that proposition.  He had a white moustache; in that, he lacked the bushy monstrosity that adorned Jurgen Kraft’s lips and chin.  Kincade’s was tidy, sandy-blond with a touch of gray.  Like a museum poster, Winger figured.  Indeed, Kincade was the embodiment of such great ‘Limey’ commanders as Montgomery and Kitchener, men he admired and often patterned himself after.
+Kincade had invited Johnny Winger and Major Kraft to his eighth floor office.  Both stood at attention, while Kincade made a few remarks.  They sounded prepared.  
+“We’ve not had a cadet quite like you at this base before, Mr. Winger.  What you did, under extraordinary circumstances I might add, was remarkable.  I therefore must commend Major Kraft here for recognizing such, shall we say, exemplary talents, in one of his raw recruits.  The Major here tells me you would still like to join the Corps…perhaps even make it a career?”
+Winger swallowed a bit of pride and said simply, “Yes, sir.  I tried to act properly, consistent with our training and the qualities Major Kraft has been teaching us.  I saw the problem, knew how to deal with it and I acted, sir.  If I was hasty in not asking permission, or checking with the Major or Lieutenant Wormy…er, I mean Wormer, sir—“
+Kincade granted a slight smirk.  “It’s okay, son…everyone calls him Wormy—“
+“Sir, I recognize I did not have authorization to act as I did.  If I overstepped my position, I’d like to—“
+Kincade waved him quiet.  “Nonsense.  You demonstrated resourcefulness, courage, resolve…all qualities we’re looking for here at Table Top.  The same qualities that General Sir Bernard Montgomery demonstrated at El Alamein, when he smashed Rommel and the Africa Corps.  Quantum Corps needs people like you.  However, I must ask: do you still want to join?  Do you still want to be an atomgrabber?  You’ve got what it takes.  But you’ll have more inquiries to go through over this incident.  Then there’s nog school…it won’t be easy for you.  We’re training a new breed of warrior here, Winger.  There are new enemies out there—Red Hammer for one, you know about them already—new menaces, new tactics to develop.  There are no experts when it comes to doing operations in the world of atoms and molecules.”  Kincade leaned back in his chair, lit up a pipe.  He chuckled.  “We’re making this up as we go along, isn’t that right, Major?”
+Kraft looked like he had indigestion.  “Yes, sir.”  The very idea of making up stuff in a combat outfit never sat well with his Prussian sense of military bearing.  But this was the Base Commander.  And Cadet Winger was…what, exactly?  A boy wonder?  A major pain in the ass?   The best damned recruit he’d come across in two years?  A natural at atomgrabbing?  “Sir, we are always refining our strategy and tactics as conditions dictate.”
+Kincade smirked.  “Well said, Major.  Well said.”  He fixed an even stare at Winger.  “How about it, son?  You ready for all this?”
+Winger took a deep breath.  He thought about his mom Ellen, all the times she had yelled at him for trying to fix things about the house, things that didn’t need fixing.  “That boy has glue on his fingers…he gets into everything, always wandering off with pieces and parts of things….” 
+He thought about his dad Jamison Winger.  Recovered from the accident, but not really.  There were scars there you couldn’t see.  Scars that would never heal.  And Johnny knew the North Bar Pass ranch wouldn’t recover either.  It was only a matter of time.  He just didn’t see himself running a ranch.  He needed more.
+He needed something like this.
+“Where do I sign, sir?” he finally said.  
+A broad smile broke out over Kincade’s ruddy face.  “Excellent, son.  First, there is a little matter of this—“ he held up a leather-bound booklet, embossed with the sunburst and atom emblem of Quantum Corps.  “I want you to have this—you more than deserve it.”  He handed the booklet to Winger.  “Go ahead… open it.”
+Winger flipped the cover up.  It was a medal, an award, lying curled up on a bed of black velvet.  The medal gleamed in the light.  It was a stylized atom, with a nucleus of black onyx and orbiting electrons of silver, whizzing around as if the thing were alive.  The whole works were attached to a thin gold chain.
+“Major, if you would—“
+Kraft swallowed audibly.  It was clear he wanted to be anywhere else but here.  He took the chain in his hand and draped it solidly around Johnny Winger’s neck.  The thing was heavy and Kraft fiddled with it until it hung down straight.  
+Kincade stood up and shook hands with Winger.  “It’s called the Order of Merit…the commendation reads ‘for meritorious service above and beyond what is expected…for selfless dedication to duty and to his fellow troopers…for exemplary conduct in the face of mortal danger…’ and so on.  You get the idea.  We don’t give this to recruits.  But Major Kraft here related what you did yesterday.  I got approval from CINCQUANT himself.   That’s the Commander in Chief of Quantum Corps, at UNIFORCE Headquarters in Paris.  Congratulations.”
+They shook hands.  Kincade scowled momentarily at Kraft, and the Major offered his own hand as well.
+“Thank you, sirs.  Do I have to sign something now…to join up, I mean?”
+Kraft said, “You do, indeed.  Here—“  He pushed an official looking form into Winger’s hands.  “Recruit application.  The disk there will have all the other paperwork.  Stick it in your wristpad and follow the instructions.  Get it back to me right away.”
+Winger took all the forms and disks.  “I will, sir…right away.”  
+Kincade was more solemn now.  “Once you sign your life away with all that, you’re in, son.  You’re one of us.”
+“Sir--” Winger looked up, pocketing all the forms.  “I’m looking forward to it…this is what I need to do with my life right now.  I’m proud to be a part of all this.”
+Kraft said, “Good, son.  Good.  Sign there and welcome to Quantum Corps.  Get a good night’s sleep too.  Your first day of nog school is tomorrow.”
+Winger swallowed hard.  
+He was now an atomgrabber.  He rolled the words around in his mouth for a moment and decided he really did like the sound of that.
+
+About the Author
+
+Philip Bosshardt is a native of Atlanta, Georgia.  He works for a large company that makes products everyone uses…just check out the drinks aisle at your grocery store. He’s been happily married for 25 years.   He’s also a Georgia Tech graduate in Industrial Engineering.  He loves water sports in any form and swims 3-4 miles a week in anything resembling water.  He and his wife have no children.  They do, however, have one terribly spoiled Keeshond dog named Kelsey.
+For technical and background details on his series Tales of the Quantum Corps, visit his blog at http://qcorpstimes.blogspot.com.  For details on other books in this series, visit his website at http://philbosshardt.wix.com/philip-bosshardt or learn about other books by Philip Bosshardt by visiting www.smashwords.com. 
+Download the next exciting episode of Quantum Troopers from www.smashwords.com.  It’s called “Nog School.”  Available in February, 2016. 
+To get a peek at Philip Bosshardt’s upcoming work, recent reviews, excerpts and general updates on the writing life, visit his blog The Word Shed at: http://thewdshed.blogspot.com.

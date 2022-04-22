@@ -1,0 +1,1248 @@
+﻿
+
+
+
+The Diary of Professor Gilbert Rasher
+by Kalifer deil
+
+Published by Speculative Science Publishing at Smashwords
+
+Copyright 2010 Kalifer Deil
+Discover other titles by Kalifer Deil at Smashwords
+
+Smashwords Edition, License Notes
+
+Thank you for downloading this free ebook. You are welcome to share it with your friends. This book may be reproduced, copied and distributed for non-commercial purposes, provided the book remains in its complete original form. If you enjoyed this book, please return to Smashwords.com to discover other works by this author. Thank you for your support.
+The characters and their portrayal are products of the author’s imagination. The events are wholly fictitious. Any resemblance to persons living or dead is coincidental.
+Second Edition, Revised 11/14/2012
+
+~~~
+
+
+Table of Contents
+Author’s Notes
+Diary of a Dying Man
+The Birth of Maggie
+Tristan and Isolde
+Meet the Parents
+Extended Stay
+Diary of an Android
+Marcie and the Cardinal
+Under Attack
+My Arrest for Murder
+Back in Body
+Bishop Long
+CMU Reacts
+The Shaver Needs a New Blade
+Armageddon
+Long Winters and God’s Militia
+Message from Maggie
+Salvation
+About the Author
+
+
+~~~
+
+Author’s Notes
+This book, in diary form, is a complement to the Tillian 5 Trilogy. The diary starts as a prequel to “Tillian 5 - A New Beginning.” It continues on the same timeline as “Tillian 5 - A New Beginning” but on Earth with no knowledge of the events unfolding on Tillian 5.  The diary then merges with the beginning of “Tillian 5 - Return to Earth.”
+
+Diary of a Dying Man
+3.21.2126:
+Today I saw Dr. Ross. My liver cancer is spreading rapidly and is not responding to treatment. I rarely drank or smoked but still got an extremely aggressive form of liver cancer. My father died of liver cancer at 44 but he drank heavily. I thought it was due to his drinking. Maybe mine was postponed till I was 54 by drinking very little. After all the DNA research of the last century, they still can't effectively treat my type of cancer. The reason is simple. It's a rare form of cancer so there's no money to study it. I got back to the office about 3:00 PM, took a pile of pills and went to work. Three day ago Gladys White, a humanitarian with two Nobel Prizes for helping humanity, died and her head was preserved and frozen to stop the decay of her CNS [Central Nervous System]. That process went well.
+I met with Professor Gordon Glenn, he was visiting CMU [Carnegie Mellon University] from UCB [University of California, Berkeley]. and we discussed the automated diamond plated 25 cm microtome. The microtome was going to be used to slice Gladys' brain into ultrathin slices. These are then feed to the florescent dye coater where each slice is exposed to a thin band of microwaves to thaw a tiny band of the tissue to let the dye do it work then it is instantly frozen again. From there it passes to the scanning IR to UV microscope where capillaries and many neural bodies are mapped. The next stop is a large multibeam electron microscope to get the finer details of all the dendrites and synaptic junctions.
+We've been doing this for quite a while and have learned a lot that have made computers smarter including some emotions. It's not that we understand what we are doing, we don't. We understand the processes we are employing to build these neural maps but have only a glimmer of understanding of the systems we are copying and putting into computers destined for androids.
+Today we were visited by Professor Heikki Kosonen from the Finnish National Laboratory. They are already working on their seventh human brain and have yet to reinstantiate a fully emulated brain as well. We were going to make an attempt with Gladys White tomorrow but the diamond layer on the microtome has a microscopic crack on the edge making it useless. My lab assistant wanted to show his girlfriend how sharp it was by having it slice fine slices off his leather belt. I'm sure she was impressed; he was fired. The diamond coated cutting plate cost $145,000. Because of its fragile nature, we bought two so we had a spare. Installing it is a major pain and now I'm stuck with the job because that was part of the lab assistant's duties. I'll see to it tomorrow. Even though I don't feel like it, I have to take Heikki out to dinner tonight. All he wants to talk about is ice fishing and the time he was in a sauna with the twin babes he knew. It's the same damn story every time he comes here.
+
+3.22.2126:
+The first task is to get the microtome back in working order. It seems to require almost complete disassembly to get to the blade to remove it. Having to do this for the first time with some help from Gordon while Heikki was telling us how much better his microtome was, was getting me ready for a two-martini lunch, and I rarely drink. I tried to tune him out. Not easy. He tended to raise his voice when he felt I wasn't giving him full attention.
+Finally, I said, as I was unpacking the new blade, “Would you like me to test this blade on your tongue before I put it in the machine?” He was stone silent. Gordon was trying his best to suppress a laugh but it finally came rolling out anyway and we were both laughing and Heikki had a sheepish smile on his face. Gordon then whispered “I thought you were going to test it on another part of his anatomy.” I whispered back, “I decided not to create an international incident; besides, the pitch of his voice is already too high.”
+The blade was finally in and we tested the mechanism on a brain we didn't care about that we got from the morgue. Everything seemed to work fine and the error file, though long, wasn’t unexpected. At 7:00 PM we were done so we cleaned everything up and decided tomorrow was going to be the day. We were going to get a visit from Naval Space Operations and I thought seeing a live demo might impress them. I did have some qualms about our research possibly being used for weapons but they didn't say what their visit was about.
+
+The Birth of Maggie
+3.23.2126:
+Well, today is the day. We started diagnostics on all equipment involved making sure everything is in perfect working order. Our guests arrived, Admiral Kemp and Lieutenant Gault from Naval Space Operations. They told us to get rid of Heikki while we talked. I gave Heikki $500 out of our petty cash and told him to do some shopping in downtown Pittsburgh.
+They then revealed something incredible to us. They were building a starship and wanted a computer that would not only navigate the ship but would care for the crew. I said, “The military version of the IBM NF84-10 you picked out would have more intelligence than they would ever need. It was probably a million times smarter than any human.”
+Admiral Kemp responded, “You don't understand. Intelligence is fine but we want the computer to love all people on board.”
+I look at him incredulously and all I could say was “What?” This didn't sound like a military man talking to me. The admiral had a very stern face that didn't look like it ever had a notion of what love is. For that matter, neither did I. I really didn't know how to respond.
+Before I could think of anything to say the Lieutenant spoke up, “You know, some androids are now showing love. Can't we amplify that?”
+I responded quickly to that, “You know it’s not like a volume control you can just crank up. It's a complicated system we don't understand. You'll have to excuse us, we are about to capture a brain if you want to watch.”
+We started the fully automated process and I said, “Let's go to lunch.” The Admiral lost his appetite after seeing, by video cameras, Glady’s brain being sliced but the lieutenant ate like a caveman. When we returned the operation continued without event. Finally, at 8:00 PM, the emulation of Gladys was loaded. We had a large 3D screen viewing the virtual space containing her avatar. Another computer was feeding commands for her to move various body parts and on-the-fly remapping was occurring when the wrong muscle moved. In a few minutes the virtual image was standing and walking around. “This is a very good sign,” I said, “because this entails a lot of neural circuitry.”
+In another half hour we got voice working and her first words were, “Where am I?”
+I explained that she was resurrected in a machine and I asked her for her name. She responded, “I have no idea. I don't remember ever having been anyone. The only person in my field of view is a Man in what I recognize as an admiral's uniform.”
+Admiral Kemp responded, “Yes, the camera is pointed at me, I'm Admiral Kemp and this is Lieutenant Gault. Your blond image reminds me of my wife who passed away six months back. Her name was Maggie.”
+The computer responded, “I'm very sorry to hear that your wife passed away. I feel for your loneliness. I don't have a name so I would like to take the name Maggie in her honor. I hope I haven't insulted you by saying that.”
+Admiral Kemp, “Not by any means. I'm very impressed that you care so much. How would you like to take care of a crew of space travelers to a nearby star?”
+Maggie: “I would love to. You mean that's possible? I love to take care of people. I don't know why exactly but I love all people.”
+Admiral Kemp: “If it's all right with you professor, Maggie's hired.”
+I knew then our brain download partially failed but it also partially succeeded. “I think we can transfer her to the IBM NF84-10 without trouble. Give us six months.”
+Admiral Kemp: “You have 30 days.”
+“Gordon, you want to help the Admiral? I have to figure out why we didn't get all her memory.
+Gordon: “Yeah, I'll do it. I haven't seen the dash 10 and would love to play with it. It's upward compatible with your dash 2 so it should be a breeze.”
+Maggie: “I believe I'll be able to help. I pulled the manuals for both machines off the Web and there are a few incompatibilities. I just translated your assembly level procedures for the dash ten to take advantage of their far-look-ahead control transfers and fetches and their multitier stores.”
+Gordon: “I'd say you are highly motivated.”
+Maggie: “Not everyone gets such a wonderful opportunity.”
+Admiral Kemp: “She's a dream and she exceeds my expectations by a light-year. Maggie, you are exactly what I want. You are a loving, devoted and resourceful individual. The crew will be very fortunate to have you.”
+I was left with a strange empty feeling. She was gone before I had a chance to introduce myself or the rest of the team that made her possible. She was already reprogramming herself. I wondered where that might end up. She left me with a longing feeling. I hated to see her go. She had a quality quite different from any person, android  or computer that I was acquainted with. The quality suggested a generalized love of people and life. She was transferred by FarNet in 30 minutes. I went home and Gordon went to the Cape [Cape Canaveral] with the Admiral.
+
+3.24.2126:
+Had to determine what went wrong. Why didn't she remember who she was and her past but she did remember her communication skills and could learn rapidly? Something was mismatched somewhere and I had to find it quickly. The chance of me getting a replacement liver was running out. My stem cells contained the cancer causing genes so they were not useful. Perhaps I could have used someone else’s stem cells but it’s far too late now. The cancer itself was inoperable. The cancer was spreading in filaments throughout the liver. The doctor claimed that it already metastasized to other organs. I wanted very much to live beyond my biological existence so this was a race against time.
+
+3.25.2126:
+Stayed up until 4:00 AM poring over the data and I fell asleep in the chair; awoke with a stiff neck at 5:00 AM and went to bed. Got up at 10:00 AM, took a pile of pills with a glass of orange juice and went to work. Got a video call from Gordon at the Cape. He was enthusing over how quickly Maggie integrated with the starship and what a wonderful ship the Tillian Star was. I wasn't in the mood to listen so I finally cut him off telling him someone came in the outer office that shouldn't be there. Actually, it was Marcie, the admin for our group. She gave me that sad death-watch look which, of course, reminded me of my fate.
+Returning to the task at hand, I finally decided it had to be a misalignment between layers that caused the loss of self-identity and event memories. I looked carefully at the mismatch file which was expected to have many mismatches from everything from calcium deposits to white blood cells to distorted cell boundaries due to the microtome. We used blood vessels for fiducial points of reference and that works reasonably well for aligning layers. However, in some areas of the brain the blood vessels run in the same direction as the microtome cut making them less useful. That appears to be the problem I would have to solve.
+
+4.6.2126:
+Might have a solution but it involves a tricky unfolding of the brain that could damage it in the process. A fresh cadaver brain just arrived and I will see whether unfolding is possible. It's 10:00 PM and I've succeeded in turning this brain into mush. Every manipulation breaks many connections. This isn't going to work.
+
+4.7.2126:
+Teamed up with Chuck Kilmer, our ace programmer, to build a topological brain model that we can manipulate and slice with a virtual microtome. I also got our mechanical engineer, Abe Kaster, to build a mechanical manipulator that can feed the bulk brain to the microtome in any orientation. If you can't unfold the brain, perhaps you can virtually unfold it by feeding it to the microtome in a manner that simulates the unfolding process.
+
+4.15.2126:
+We have the computer model working and it does seem there is a way to feed the brain to the microtome but it involves some redesign of the feeder that Abe designed. It also involves cutting wedge-shaped slices when making rotational moves with the feeder. Many unanswered question here. Chuck thinks he can handle the pattern recognition if the slice thickness change is not more than 60 percent. We may squeak by on that.
+
+4.21.2126:
+We received another cadaver brain and our microtome with the Rube Goldberg feeder worked as we hoped. When the job completed that evening I noted that the mismatch error file was 30 percent smaller. That shows significant improvement that should translate into a more faithful copy of the human connectome. The recognition on the wedge shaped slices was only slightly less than on the uniform slices. Chuck thought he might be able to improve on that by a percent or more.
+
+4.22.2126:
+Can't work today; terrific pain, big effort just to get to the Doctor's office. Dr. Ross gave me a shot and a prescription. Feeling better but somewhat light headed. Marcie drove me to and from the doctor; more points toward her becoming the world’s greatest admin.
+
+4.23.2126:
+Tillian Star launched today. Gordon says the launch was spectacular. He also noted that Maggie is having a struggle with loneliness already because all the crew are in stasis. It occurred to me that this could be awful for her. She is people oriented in the extreme and she will be in virtual solitary confinement for the next 5 years. I think Admiral Kemp made a serious mistake. Who knows what her mental state will be by the time she arrives at Tillian 5. She could lose her love and rationality and become useless or even dangerous to the crew. The very thought brought tears to my eyes.
+
+Tristan and Isolde
+4.25.2126:
+We received notification that two people died in an Arctic boat accident. They are a young married couple and their wealthy parents on both sides want them to be resurrected using our technology. They have wired 100 million dollars to our account to get started and their bodies are being flown here by private shuttle. I forwarded half this amount to the mechanical engineering department to prepare two android bodies with enhanced taste and touch. They sent us photos of the couple but they were too slight of build to replicate. There’s too much technology to cram into such small bodies. The new android bodies will faintly resemble them but will look much better than their former human bodies. They were probably two on a scale of ten whereas the android couple is closer to eight or nine.
+
+4.26.2126:
+The shuttle arrived at 2:00 AM. Gordon is back from the Cape and I brought in additional staff from related departments to prep the brains for the slicing and scanning. By midnight, we had both brains scanned in and we were all exhausted. The next phase is the intelligent layer alignment software that begins building the neural networks. We started the process and left to get some well-deserved sleep.
+
+4.27.2126:
+Error files look good. Smallest so far. A little worried because we haven't improved the recognition algorithm for looking at the wedge shaped slices. We received the 3D avatar files from mechanical engineering and connected them to the emulator software. We then loaded the neural connectivity files and the automatic connection-alignment software. This performs a rough alignment of the sensory and effector neural pathways with the avatar bodies.
+Gordon asked the first question: “Mike? Sherral? Are you there?” No reply.
+Gordon then joked, “Tristan? Isolde? Are you there?”
+A masculine reply came quickly, “I'm not sure who I am but I'd like to be Tristan?”
+A feminine reply followed, “Then I'd like to be Isolde because I can see Tristan and he is lovely. I feel like I've known him forever.”
+In both cases as they talked we adjusted connections and parameters to improve the speech.
+Gordon: “You are a married couple that died in a boating accident in the Arctic, You parents flew your bodies here and we have committed your neural networks to our neural emulator. What do you remember?”
+Tristan: “Cool! Wow! Let's see I remember some childhood things and some college things. I remember a calculus final that I almost failed. I see you have a mirror in this virtual world. Wow again! I don't really remember looking like that.”
+Gordon: “Tristan there’s a folder, you have access to called Mike. Open it. Isolde, what do you remember?”
+Isolde: “I'm looking in the mirror, and I remember NOT looking like this. I was a short, scrawny thing but in here I have a body and face that could launch a thousand ships. Well, maybe not a thousand. You know what I mean.”
+Gordon: “What else do you remember?”
+Isolde: “I remember some childhood experiences and high school and college. I don't remember being in the Arctic or being married. Hey! I don't have any clothes on. Can you see me?”
+Gordon: “Yes we are monitoring both of you but the monitors can be shut off if you like.”
+Isolde: “Yes, I would like to privately get reacquainted with my husband who I will now call Tristan. I think we have both changed sufficiently to deserve new names.”
+Tristan: “I agree, new brains, new bodies, though virtual, very nice. Besides, I like the name Tristan. I will keep it. I see my last name was Tarrington. Now that I see it, I remember it. Tristan Tarrington sounds kind of sophisticated don't you think?”
+Gordon: “I was only kidding about the names since you didn't answer to Mike and Sherral. You will be getting android bodies that look like your virtual bodies in about two weeks. Meanwhile, you can shut off the monitors so you will have some privacy. Have fun. You both have plenty to look at and do for a while and you are connected to the FarNet if you get bored. You are in a house with many rooms and closets full of clothes if you feel clothes to be necessary. There’s a self-explanatory control panel on the wall to shut off the monitors and to contact us.”
+Isolde puts her arm around Tristan and said, “Thanks for everything.” Tristan smiled and pushed a button on the control panel and the lab screens went blank.
+I then said to Gordon and those who had gathered around the screens, “I guess they don't want to be lab rats.”
+Gordon: “Gill, I just received an email that another 100 million has been deposited in our account. I think you can make a few improvements around here with that. By the way, I got a message that my budget at Berkeley has been cut and I note you have an opening.”
+“I'll like to get a couple more diamond-plated microtome blades as a priority item. And ... you're hired!”
+Gordon: “Thanks, I'd like to see you replace that Rube Goldberg microtome feeder. I'm surprised it stayed together all day.”
+I mentally agreed but simply smiled and said, “Abe, the designer, is standing next to you.”
+Gordon, trying to suppress his embarrassment, turned to Abe, “No offense, it's a great prototype. But we are going to need something fast and reliable we can use in a production mode.”
+Abe: “No, I agree. I was holding my breath throughout the slicing operation. I was scared to death it would malfunction. I've never put together anything that complex in such a short period. I've already started the design of a more reliable and fifty percent faster machine. I'm having a bit of a guilt problem. We use cadaver brains for testing and we do everything short of resurrection. At what point do we say we have re-created a human entity?”
+I responded quickly to make clear my philosophical viewpoint, “If we re-create consciousness through neural emulation then that's when I consider we have crossed the line and must continue the virtual life of that entity. Until then, you are just digitizing the morphology of a dead brain. In order to be considered a life-form you would need to create a limitless number of instances because the digital form, now a life-form, would then demand repeated expression.”
+Abe: “I didn't fully understand your logic but I do see your point.”
+Gordon: “What's to stop us from making a troupe of Maggies or Tristans and Isoldes?”
+“Nothing but ethics and money. Ethics tells me that I would have to at least have the permission of the resurrected person and that it would be terribly confusing to such persons because each would consider themselves the continuation of the biological person. Furthermore, it would be selfish because it would be depriving one of their place in this technological afterlife. Marching out a corps of clones would cause some hysteria in the public as well. We are on very tenuous grounds and have to be careful. We’ve already seen more than a few androids get blown to bits by religious radicals and others that see this as an android conspiracy. In several states, legislation has passed requiring humanoid androids to have a metallic ‘A’ on their forehead. You might as well paint a bull's-eye on them. The state of Kentucky goes one step further by not allowing backup files for an android. This ensures that an assassinated android stays an assassinated android.”
+Gordon: “Yeah I know. The courts are full of cases dealing with android rights and lifespans. No telling how this will come out; the Supreme Court could tip pro- or anti-android.” “Marcie is waving frantically at me, I'd better see what she wants.”
+Marcie: “They'll be here tomorrow morning.”
+“Who?”
+Marcie: “The Tarringtons and the Schumers, the parents of Mike and Sherral.”
+“Oh crap! We’re definitely not ready for them.”
+Marcie: “You mean you haven't spent the money yet?”
+I laughed but she was right about that. I had no idea how they were going to react to a son and daughter that didn't look much like their former selves and had only partial memories of their former lives. I rushed back to tell Gordon and his comment was “Oh shit!”
+I immediately contacted Tristan and Isolde and informed them of the situation.
+Tristan: “We will try to see whether we can stimulate some older memories with associations using resources on the Web.”
+“Good luck! Much is riding on this including your android bodies and the continuation of my own life that’s near an end. If you need repair, you may need me around.”
+Tristan: Yes, I saw your appointment calendar and wondered what all the medical appointments were about. Your doctor is a cancer specialist for patients unresponsive to other treatments.”
+I smiled, “That seems a bit nosey of you.”
+Tristan: “Blame Isolde, she's the nosey one. She wants to know everything about everything and everybody.”
+Isolde: “Tristan, I still love you even though you're a snitch.”
+Tristan: “I still love you even though you didn't own up to being the nosey culprit.”
+I felt it was time to level with them, “Everyone here knows about my condition. It's no secret. My files are not protected because I maintain an open book with everyone here. I would only be a little upset if you broke into password protected files.”
+Isolde: “Oops!”
+I started laughing, “Okay, what have you done?”
+Isolde: “I broke into Tristan's father's phone and stock transaction records. I'm sure he's violating SEC regulations and trading on information he isn't supposed to have. Tristan suspected this years ago but now we have proof.”
+“Please don't tell me any more about it. I really don't want to know.”
+Isolde: “It's just a piece of self-preservation information Tristan needs in case Mr. Tarrington decides to pull our plug. Hopefully, we won't even need to hint that I know anything.”
+Tristan: “One of the things that I love about her, she is a fighter and not a wimp. She'll stand up to anyone no matter what their status is, how strong they are, how much money they have or how smart they think they are.”
+Gordon: “What if they have a gun in their hand?”
+Tristan: “We’re not stupid. If we are unarmed, we do what is necessary to get away without being shot.”
+Isolde: “Actually, I feel a whole lot smarter now. I remember everything I want to, subsequent to being resurrected in here.”
+“You are both much smarter than you were. Exactly how much, I don't know. There’re self-administered IQ tests on FarNet you can use if you care but they top out at 200 because they are meant for humans. Both your IQs are probably higher than that now.”
+Tristan: “Maybe I could nail that calculus test I almost failed. I can remember one of the questions that perplexed me 'Integrate using disks to get the formula for the volume of a sphere.' Jesus, it's now trivial. I can do it in four steps.”
+Isolde: “I can do it in three.”
+Tristan: “You never took calculus, did you?”
+Isolde: “I didn't take calculus.  I cheated, I looked up the solution on the Web.”
+“I'll let you two figure out whether you can do it in two steps. Meanwhile, we will get ready for tomorrow. If you have any suggestions, please share them with us.”
+Tristan: “Okay, we will keep the monitors open so we will be continuously available.”
+Gordon and I prepared a wall panel presentation and practiced our gesturing so everything would flow smoothly. Tristan and Isolde suggested for us to not get too technical but emphasize the problems in capturing human neural connections. It’s more important that we emphasize that the memories of their children would improve with time as they make new neural connections that will bypass damaged ones. We believed we were as ready as we were going to be; at 10:00 PM the staff and I  went home but Mike and Sherral continued working on their memories needing no sleep.
+
+Meet the Parents
+4.28.2126:
+We arrived at 8:30 AM and the parents were due in at 9:30 AM. We made sure everything was ready and checked in with Mike and Sherral. At 9:00 AM Marcie brought in a tray of Danish pastry and a fruit bouquet. We had coffee, orange juice and tea on tap.
+Marcie: “I got a call from their driver. They will arrive at 9:15. The traffic is light today.”
+At 9:17 AM a long black limo parked in front and the entire crew was on hand to meet the parents. I introduced everyone.”
+Mrs. Tarrington: “Where is my son? Why isn't Sherral here also?”
+I spoke up: “Their bodies are not ready but you will be able to see them in progress.”
+Mrs. Tarrington looked very confused. “We were told that you were going to bring them back to life.”
+Mr. Tarrington: “Joan doesn't understand. I'll let you explain the whole deal to her.”
+Mrs. Schumer: “I'd give anything to get my daughter back. I don't quite understand what is going on either but I'm very eager to learn.”
+Mr. Schumer: “I think I understand to some extent but I don't understand how you capture the soul.”
+“The soul part, you will have to judge for yourself. We feel strongly that the essence that you call the soul is reliably captured.”
+I then explained the case of Maggie and that her love of people was captured very well. I then made the presentation but cut it to 30 minutes emphasizing that this technology is new and fraught with problems. That this was the first time we were able to capture a significant part of a person's memory of people and places. ”Now I would like to introduce you to the new Mike and Sherral.”
+The life-size 3D display flashed on and both Mike and Sherral appeared. Mike spoke first, “Mom, dad, I know I don't look the same as before but I am your son and this is what my body will look like when I get it next week. The voice is a lower pitch at my request. My old voice was high for a man.”
+Joan Tarrington responded first, “You both look very different; why?”
+Sherral responded, “They can't make thin android bodies. Besides, this one looks so much better anyway. I get to trade myself in on a great new model.”
+Mike's father, Joe Tarrington, then asks, “How can we know that you two are who you say you are?”
+Mike: That actually might be a small problem because our memories are not complete. We will have to find something that we both remember that others don't know.”
+Joe Tarrington: “What is the name of your cat?”
+Mike: “According to the file it was Peaches but I actually don't remember Peaches. I know mom had an allergy to cats so I have some difficulty making sense of that one.”
+Joe: “We never had a cat, that was a sham entry into your background.”
+Mike: “You SOB; I really strained my brain trying to remember that damned nonexistent cat.”
+Joan pleaded, “Please don't argue with your father, he just wanted to be sure.”
+Joe: “I see you are still as ungrateful as you ever were. I was hoping that this experience would teach you something.”
+Sherral: “We are grateful, my Tristan is still trying to declare his independence from his parents.”
+Mike: “My Isolde is oversimplifying.”
+Mr. Schumer: “Who in the hell is Tristan and Isolde?”
+Mrs. Schumer: “It's an opera about a pair of lovers that die together. It's sort of like Romeo and Juliet.”
+Mr. Schumer: “Well, they're weird names.”
+Mike: “I like the names, I was thinking of changing my name to Tristan because I'm, in a sense, reborn.”
+Joan Tarrington then burst into tears, “You were named after your grandfather.”
+Mike: “My grandfather was a slumlord; why is that an honor?”
+Joan: “Don't dishonor your grandfather that way. He provided housing for the poor. That doesn't make a person a slumlord.”
+Mike: “Then why was he cited thousands of times for health code violations? Why did he have a team of lawyers to fight off criminal charges and lawsuits?”
+Joe: “You've been listening to slanderous left-wing propaganda. He was a good and generous man. I have a good mind to stop payment on the last 100 million and to get refunded for any money not spent on the first 100 million. You are the same ungrateful meathead you were before and the world doesn't need another left-wing meathead running around.”
+Mike: “If everyone doesn't mind, I would like to have a private talk with my father.”
+Gordon: “I will get everyone else into another room so you will have some privacy.”
+Joe: “I don't see that we have anything to talk about.”
+Mike: “Dad, this is important. You’ll definitely be interested in what I have to say.”
+Joe: “This had better be good.”
+The room was empty except Joe with Mike and Sherral on the 3D screen. Mike, satisfied that they were alone said, “We have more to discuss than you think. I overheard some conversations that you had on the phone when you thought you were alone. You had and probably still have a spy network in several companies that tip you when something is happening in these companies. It has redoubled the fortune you were left by grandpa several times over. It has taken me a long time to add things together but in here I've had plenty of time to think.”
+Joe: “So what. I have friends, probably more than you have. Friends help one another. There's nothing wrong with that.”
+Mike: “Oh, I agree. Friends should help one another while it's legal. The SEC doesn't regard getting inside information as legal.”
+Joe: “The SEC has never bothered with me. I have friends there too.”
+Mike: “I'm sure you do. You probably have someone who has shown you how to skirt their computer alerts on trade volumes.”
+Joe: “Get real Mike. In this world you're either connected or you're nowhere.”
+Mike: “Yes, you pay Elliot Esperanza well, as you do with the rest of your cronies.”
+Joe, startled, “How do you know that?”
+Mike: “Your reaction confirms my suspicions. He's the district manager in your area and has been in place for 17 years. It's logical that he would be the one and would also curb any investigation of you.”
+Joe: “I keep forgetting that you have access to the Web. Hell, you ARE part of the damn Web now.”
+Mike: “I notice that the regional manager is a new appointee of the SEC chairman, and Chairman Ellermann is a new appointment of the President. I imagine they would like to make some headlines. On the other hand, I suspect you and mom would like an afterlife so if I were in your place I would be extra generous to this department's coffers.”
+Joe: “I don't see what's so great about your afterlife and I don't like being threatened.”
+Mike: “This afterlife is actually pretty darn good and when we get our bodies it will, in many ways, be better than being biological. For one thing, I'm now much smarter and can swiftly interact with the electronic world around me. And, like you, I don't like being threatened either. In my case you threatened the existence of Sherral as well.”
+Joe: “I don't see how. Here you are now.”
+Mike: “This is the departmental computer; not our house. Professor Rasher is the brains behind this and he is going to die soon. We will need him to be around in case we run into trouble so it is imperative that he be able to become an android soon. If he becomes an android, it will also ensure the continuation of this project. That’s relevant, if you decide on a technological afterlife.”
+Joe: “What's wrong with Professor Rasher?”
+Mike: “He has a rare form of liver cancer that’s inoperable and he has a rare tissue type making it nearly impossible to get a transplant.”
+Joe: “Well it's too damn bad he's a lush!”
+Mike: “His cancer is hereditary.”
+Joe: “It's survival of the fittest. Too bad.”
+Mike: “Then you are just going to cut the cord and let this place go to hell.”
+Joe: “I didn't say that. For the sake of your mother, I will put in another 300 million but not a penny more.”
+Mike: “You surprise me.”
+Joe: “Not as much as you surprised me. I'm glad to see you have more backbone than I gave you credit for and you didn't resort to the whiny goody-goody arguments you usually use.”
+Mike laughed, “I finally realized after all these years they were ineffective.”
+Joe: “I'll be back when you get a body. I'm going to fly the Professor Rasher’s team to New York so we can get a decent meal.”
+Mike: “The Union Grill is a few blocks from here and everybody says the food is great and it's been around for a couple of centuries. Oops, you won't like it! The prices are too low, so it’s crowded. You like higher prices to keep the riffraff away.”
+Joe: “Well I certainly don’t like crowded restaurants and I've learned that to associate with the less fortunate is to invite envy or obsequious behavior, often both in the same person.”
+Mike: “Many among the less fortunate don't care about you or your money. They don't feel less fortunate.”
+Joe: “Maybe so. But if you are conspicuously more fortunate, you attract the ass-lickers like a giant magnet.”
+Mike: “That's why some well-to-do people dress and look like typical people and live in moderately priced neighborhoods.”
+Joe: “I like luxury and the good life so I will pay for the privilege of avoiding people that I don't want to associate with.”
+Mike: “Okay, New York is your apple. Have a good time.”
+
+4.29.2126
+It's 1:00 AM and I just arrived back from New York. I had the finest and most expensive dinner I’ve ever eaten. I pressed the button requesting Mike and Sherral's attention. They came to the screen in less than a second.
+Mike: “Professor, How was the dinner?”
+“Spectacular! Then after dessert Mr. Tarrington announced that he was going to put another 300 million into our account. Both Gordon and I were dumbstruck. He saw our reaction then asked whether more was necessary. I recovered quickly and responded. 'The more we put into this the better the fidelity of the result. I don't know whether there is an upper limit but don't get me wrong. We can do a lot with 300 million more.' He misunderstood me and said, 'Fine we will make it 600 million then. I make that much in a month.' I didn't correct him. I thanked him and told him it would be well spent.”
+Mike was laughing hysterically. Sherral was looking at Mike as though he lost his mind.
+Sherral: “He must really be afraid that you would turn him in to the SEC.”
+Mike: “That's not it at all. He likes people that have the guts to stand up to him. He interpreted Professor Rasher's response as 'Can't you do better than that?'”
+“Mr. Tarrington also mentioned that he would like he and his wife to also be resurrected in this fashion when as he put it, their number is up. I told him to keep his brain healthy; we can't recover brain tissue that has degenerated due to Alzheimer's or some other condition.”
+Mike: “I see a serious problem with bringing just anyone into this realm. If they are not good people to begin with, they are going to be serious problems as androids. I can imagine all sorts of scenarios where androids behave so badly that we’ll all get painted with the same brush and soon, no more androids.”
+“I'm worried about the same thing and I don't currently have a solution. It's very expensive to do this so wealth is going to rule for a while. When I arrive at the point that I can capture the neural interconnections with more fidelity, I will worry about making it inexpensive and figure out the selection process. I will tell you right now, your father is not high on my list of desirable candidates for this procedure.”
+Mike: “I'm in one-hundred percent agreement with that.”
+“I'll be back about 9:00 AM tomorrow, I mean today; it's late and it's been a long day.”
+
+5.1.2126:
+I came in about 9:30 AM and checked in with Abe to see how he was coming along with his design for a better digital positioner for the brain slicer. I was exceedingly impressed. He simplified the design by making the blade position move as well. I worried whether these assemblies would sync up as perfectly as they would need to although I knew that the design was simulated and should perform well beyond the design specifications. Nevertheless, I still worried. I also found it comforting that Sherral, or Isolde as she insisted that she be called, was taking an interest in the mechanical design as well. She had some suggestions that, although minor, Abe thought worthwhile and incorporated them into the design. He was quite impressed at her progress for she was not an engineer. Her college years were spent on language studies.
+I left early, my energy level gets lower each day and the pain is back but not as bad as before. A friend brought me a batch of pot laden brownies and that helped a great deal in the pain department. I love chocolate brownies anyway and even without the pot they probably would have helped.
+
+5.6.2126:
+The past week has seen steady progress in all areas. The bodies for Tristan and Isolde have been formed but much finishing work remains. International standards exists for body sockets for the head, arms and legs. That with many other standard assemblies make the job mostly an art project. Abe has several talented artists on his staff that can make androids look better than most people. I dropped by to check progress. As I arrived, Tristan’s head was being put through a facial expression test suite. I was impressed and remarked to Kira, one of the artists, “Kira, this is so much better than the simulation. He is going to love it.”
+Kira: “I did much of the simulation too. The second go around is always better.”
+“Oops, I guess I insulted you and complemented you at the same time.”
+Kira's eyes twinkled, “I didn't take it that way. Should I have?”
+“No, I love you too much to ever insult you.”
+Kira laughed, “Now that's a good line. If I wasn't a lesbian, you might have gotten me in bed with that one.”
+“I was relatively sincere.”
+Kira laughed again, “Relatively sincere? What the fuck does that mean?”
+“There’s a whole spectrum of sincereness. I was more sincere than I usually am but less sincere than I can be in very serious situations.”
+Kira shook her head, “You are either sincere or you are not; it's like truth, life and pregnancy.”
+“I can't argue with your impeccable logic. I probably should have used the word 'serious' which has more shades of gray.”
+Kira: “No it doesn't. You are either serious or you are not, as well.”
+“I'll bet you hate the color gray!”
+Kira: “I don't like gray but that's irrelevant.”
+“I'll bet you say the same thing about the word relevant.”
+Kira: “You expect me to say 'I don't like relevant but that’s irrelevant?'”
+“No! That something is either relevant or irrelevant.”
+Kira: “That's correct. You do catch on after a while, for a man.”
+“Then I have to say, the casual use of language escapes you.”
+Kira: “No. I just consider the source.”
+“You must have hated your father.”
+Kira: “No. She was very nice. I’ll leave you with that thought while I get back to work.”
+Shaking my head, I walked over to Beverly who was working on Isolde's body and head. I noticed she was listening to the banter between Kira and me and was trying hard not to laugh.
+“Is Kira that way all the time?”
+Beverly: “No. She’s nice to me. Don't repeat this but she once exclaimed, 'I hate the smell of testosterone in the morning.' I don't think she likes men who she believes are on the make. I don't think she can really smell testosterone.”
+“Your work is coming along nicely. When do you think the bodies will be ready?”
+Beverly: “I have about two days of work left and I think Kira will be finished a little sooner. After final assembly, there will be some touch-up but that should take only a few minutes.”
+“What happens if they get injured out in the field?”
+Beverly: “We have that covered to some extent. They will get a kit that will be useful for simple repairs and touch-up. If it is serious, they will have to come back here. The self-repair kit has been standard procedure for all androids that have been manufactured since ACIS-2120.”
+“I didn't know that repair kits were part of the IEEE Android Common Interface Standard.”
+Beverly: “You may be right; that might have been added on later.”
+“Well so far progress looks excellent. I think Tristan and Isolde will be very happy with these.”
+Beverly: “Who?”
+“Mike and Sherral believe these new lives call for new names?”
+Beverly: “But Tristan and Isolde? In that story they died a tragic death!”
+“You'll have to ask them. Maybe they want to give the story a new ending.”
+Beverly: “Jesus! I hope so. Sounds more like they're playing that life backward.”
+“You're right! They're starting from the tragic death. However, I think they will do just fine. When people get a second chance at life, they usually learn to be better people.”
+Beverly: “Only idiots regard a second chance the same as the first.”
+“Maybe that should be our motto.”
+Beverly: “I'll stitch that on a pillow for you.”
+I laughed, “Please don’t, but thanks anyway.” I left to return to the EECS building and meet Gordon and Heikki for lunch. Heikki was leaving this afternoon to return to Finland so we picked out the best restaurant in Pittsburgh. That means it is more expensive than good and we had lunch there. I invited Marcie along and she respectfully declined saying she was on a diet. I think she was trying to avoid Heikki who idea of flirting was to describe some of his sex exploits and of course the twins in the sauna. I know she was happy to see him go.
+About 4:30 PM we returned from the airport and I met with Tristan and Isolde for a few minutes. Tristan and Isolde were both longing to have their android bodies and were closely following progress with the security cameras in mechanical engineering. I then went home to anesthetize myself with a bottle of Himbeergeist [raspberry flavored schnaps], a gift from a Professor Helmut Haase from the University of Heidelberg when he visited two months ago. After one shot-glass full I fell asleep on the sofa.
+
+5.10.2126:
+Mechanical engineering staff inserted the computing elements in the skull and upper body and sealed everything and reattached the wigs. The hair was a special polymer based on the chemistry of spider silk making it extremely strong with some elasticity. These hairpieces were very expensive but they should last a hundred years or so.
+Gordon and I went to the Mechanical Engineering Lab to see them being brought to life. The bodies were dressed during the download process and Kira and Beverly had the bodies sitting in chairs. They were combing Tristan and Isolde’s hair when we arrived. I was about to speak to Tristan when Abe announced, “Five more minutes for download completion.” Gordon and I found some chairs and patiently waited. Tristan spoke first, “Nice threads!” He said as he looked down at his pants and felt the material. He then turned to Isolde and said, “How do you feel?”
+Isolde: “Tristan, you are beautiful!”
+Tristan: “I'm the one that's supposed to say that. Isolde, you are ravishing!”
+Isolde: “Okay, you are handsome and beautiful too.”
+Tristan got up carefully and tried balancing on one foot, then the other. Then he gave his hand to Isolde and she rose and they embraced and kissed.”
+Tristan: “Everything is working as expected.”
+Isolde: “I would say beyond expectations. I never felt this good or this strong.” Isolde then lifted Tristan an inch off the floor.
+Tristan then reciprocated by lifting Isolde over his head. “Put me down!” Isolde demanded. He did and they kissed again.
+“I hate to interrupt your fun but we have many tests to perform to make sure everything is working as it should.”
+Tristan: “I know the tests you want to perform and I think we can judge for ourselves what is working well and what is not. I want to get outside and see the birds and smell the flowers.”
+Isolde: “Me too!”
+“I'll tell you what. Marcie will chauffeur you around and you each have $500 to spend.”
+Tristan: “Where are we going to stay?”
+“Here is a key and the address. It‘s here on campus a short walk from here.”
+Tristan: “Mind if we go there first. We should be back in an hour or so.”
+“I understand. If you need any of us, you know how to reach us.”
+Tristan: “I do have mixed feeling about having a cell phone in my head. I know; I can turn it off.”
+“We debated that one but decided it was too convenient to leave out.”
+Tristan taking Isolde in his arm, “See you in a while.”
+As they walked out the door Gordon remarked, “I'll bet it will be longer than an hour.”
+I countered, “I don't think we will see them until tomorrow.”
+Abe added, “They have all the latest technology. They have twice the strength of a typical human their size and they should last a hundred years without significant repair. Although they have about a quarter of the sensors of a human, they are in some respects better. Their sense of smell doesn't get clogged like the human sense of smell which may be a problem if you are stuck in a smelly environment for an extended period. They will also be able to smell a large variety of chemical smells that humans are not aware of such as distinct human scents, explosives and a variety of dangerous compounds.”
+“You've created bloodhounds?”
+Abe: “Not quite, bloodhounds still are king in the smell department. We are gradually getting there. Maybe in another twenty years.”
+“Won't this be a problem for androids to smell all these things? Food is handled by people so you are going to have people smells in your food.”
+Abe: “Actually, they probably won't smell people smells in the food because the smell of the food handling gloves will probably overpower people smells. Previous tests indicate that the smell of latex will probably be a much bigger problem. Anyway, they can selectively turn off smell sensors that they feel are a problem.”
+“Do they know that?”
+Abe: “I didn't tell them directly but there’s a file in their instruction kit with those details. It explains all their sensory discretionary wiring and sensitivity controls. They brought their kits with them so I'm sure Isolde will look if Tristan doesn't.”
+“That reminds me, their parents will be here again tomorrow. We finished a day early so I hope they don't wear their bodies out before then.”
+Abe: “I wouldn't worry. Their bodies are bulletproof, at least for pistols, although I suppose a high-powered rifle could do some damage. The point is, the ordinary bumps and falls that humans ordinarily encounter are unlikely to do much harm, perhaps only some cosmetic harm that can be easily fixed in a minute or two.”
+“In the virtual environment we didn't do body hair and didn't do hair on the head with great fidelity.”
+Abe: “Neither wanted any body hair and Tristan didn't want facial hair. It made our job a little simpler.”
+“I was thinking about the seams between the subassemblies. In the past they were very visible unless covered with a fine mat of blond body hair.”
+Abe: “That's all history now. The seams are hardly visible and a small cosmetic application makes them entirely invisible. If you saw them nude you would say, even on close inspection, they were fine human specimens, if anything, too perfect.”
+“They will be here for only another week then will be taking off for the Scripps Institute in La Jolla, California where he was formerly employed. Scripps, very open-mindedly, left his job open for his return. They even agreed to change his name to Tristan. He was there for only six months before the accident so he must have mesmerized them through the Web.”
+Abe: “What about Isolde; who did she work for?”
+“I think she was still looking while working through a temp agency. A BA in language studies does not open the door to vast employment opportunities.”
+Abe: “I'm going to write a letter of recommendation for her to a researcher I know at Scripps. It should land her a mechanical engineering job there.”
+“That's a generous thought. I would do the same but I don't know anyone there. However, I will write a letter of recommendation she can attach to her resume. I can't think of a better environment than Scripps for them.”
+Abe: “I can, here at CMU.”
+“Tristan is a molecular biologist. Scripps is an ideal place for him. The weather is also one hell of a lot better in La Jolla than in Pittsburgh. Where would you want to be if CMU had a La Jolla campus?”
+Abe: “It’s a purely selfish thought. I wanted to keep Isolde here. She is learning so fast that I'm sure she would be making major contributions to the department in a week. Maybe in days.”
+“And she's pretty too.”
+Abe: “If she were pretty but didn't have the talent you know I wouldn't be saying this.”
+“I know, maybe you can get her to stay for an extra week or two.”
+Abe: “I cannot make such a request.”
+“Maybe I can. When will the new slicer be ready?”
+Abe: “Maybe a month.”
+“And with Isolde's help?”
+Abe: “That could shave a week or more.”
+“I may need that week or more.”
+Abe: “I understand.”
+
+Extended Stay
+5.11.2126
+At 9:30 AM the parents arrived and although I contacted Tristan and Isolde at 8:00 AM they haven't arrived yet.
+“I have a hunch they didn't get much sleep in their first night together in their new bodies.”
+Joe Tarrington: “I remember.”
+Joan Tarrington: “Sleep doesn't get sacrificed for love at our age.”
+Mrs. Schumer: “I don't know about that, We've sacrificed it a few times not that long ago.”
+Mr. Schumer: “Where was I?”
+Mrs. Schumer: “Bill is such a joker.”
+“Here come the kids.” I thought just in time. I was sure the conversation was going from awkward to strange.
+They came in arm in arm, all smiles. “We had breakfast at the faculty club using your passes. It took a while but it was wonderful after adjusting our taste and smell receptors,” Tristan remarked. “The smell of latex was overpowering but Isolde read the instructions and we turned that one off and everything was fine.”
+Mrs. Schumer: “Sherral, are you really going to change to that name?”
+Isolde: “I've been reborn, that deserves a new name but you can still call me Sherral and I’ll understand.”
+Mrs. Schumer: “Thank God. When I say your new name it reminds me of an Italian auctioneer that I used to see on cable who would say at the end of a sale 'is-sold-da!'”
+Isolde: “I remember him! His name was Marconi and I called him Mr. Macaroni. He was a little short guy with a big hat. I loved him. He would gesture wildly and talk so fast that I don't see how anyone could follow him. When he would say 'is-sold-da' it seemed as though he was looking straight at me so when I was little I thought he was talking directly to me.”
+Mr. Schumer: “Well, that explains a lot.”
+Joe Tarrington: “It doesn't explain Tristan.”
+Tristan: “Actually, it has a secret meaning.”
+Joe laughed, “And what might that be, you're bedroom trysts while you were in high school?”
+Tristan: “You knew about those? I thought I covered those moves pretty well.”
+Joe: “I pretended not to notice the rubbers missing from my sock drawer and the faint perfume smell in your room.”
+Joan Tarrington: “What are you two talking about?”
+Isolde: “I don't think I know about this either.”
+Tristan: “I was a very horny teen and there were two girls in the neighborhood that had the same interest in sex. There's a big advantage being a latch-key kid. There’re two hours in which you can do anything you want without parental intervention. I regarded it as an important part of my education.”
+Joan: “Joe, why didn't you tell me?”
+Joe: “I knew you would have a fit and I saw no harm while he was using protection.”
+Joan: “It's immoral!”
+Joe: “So is gossiping and you do plenty of that.”
+Joan turned red, tears welled up in her eyes, and her lower jaw started to vibrate. “You've never said anything before.”
+Joe: “It’s not my place to say what is moral and what is immoral. I'm not a beacon of morality myself. What society says is moral and immoral changes with time. Law is so complicated that all of us are sometimes breaking the law. The same is true of our moral code which is as variable as people are different.”
+I decided to turn the discussion in another direction. “What's past is past. I would like to talk about the future. Tristan and Isolde, you were planning to go to La Jolla in one week. Abe and I would like a couple more weeks of your time if possible.”
+Isolde looked at Tristan to answer.
+Tristan: “What can we do?”
+“Abe needs Isolde's help to get the new positioner and slicer built in time. I noticed that you have some computer programming experience combined with a cell biology background. I would like you to help Chuck Kilmer and his feature recognition program and learn how to help Gordon adjust and run all the equipment. I don't have much time left. I need to remember everything I can when I make the transition to become an android.”
+Joe: “I'm very interested in your success so I offer a $250,000 present to the birthday couple to accept.”
+Tristan: “I don't want to lose my job at Scripps.”
+“It's better than that. Not only will you have a job at Scripps so will Isolde.”
+Isolde: “Really?”
+“Yes, you have a job waiting for you as a mechanical engineer working for Dr. Tim Stevens.”
+Tears started streaming down Isolde's cheek. “My God! I can cry! Don't worry, I'm crying for joy!”
+Tristan: “Professor Rasher, you present a very convincing argument. I'd be a complete fool to say no.”
+“Take the rest of the day with your parents. After today, you both will be very busy.”
+
+5.13.2126:
+The Tarringtons and the Schumers left this morning and Isolde reported to Abe and Tristan to me, both were eager to get started.
+
+6.1.2126:
+The new automated positioner and slicer is complete and has been tested on a cadaver brain. The error rate was the same as with the prior apparatus but it was twice as fast. We reprocessed the data with a new algorithm developed by Tristan and the error rate was cut by thirty percent. What was more significant, all but a few remaining errors were from plaques, calcium deposits and other irrelevant structures. I felt the system was ready for me and I was ready to die and be resurrected. Tomorrow was going to be the day.
+
+Diary of an Android
+6.2.2126:
+Gordon, also an MD, was going to administer a series of drugs that would stop ischemia and ultimately stop my heart. I was on a gurney ready to go. Marcie came over to me in tears and said, “You’re going to die and I live for you. I’ll be left alone.”
+I was startled. She had a crush on me I was totally unaware of. I responded, “In less than eight hours I’ll be right back.”
+Marcie: “You will be a soulless android, a blasphemy on God's Earth.”
+“Marcie, why are you here today? It's Sunday. Could you please get Gordon over here?”
+Marcie: “I can't let this happen to you. I have to stop it somehow.”
+I glimpsed Tristan out of the corner of my eye. “Tristan, please come over here!”
+Tristan came right over. “Tristan please escort Marcie out and Marcie, take Monday and Tuesday off. You will be paid for those days and it is not optional. Provide Tristan with your key. I’ll return it to you on Wednesday. Marcie started bawling as Tristan pulled her toward the door.
+Tristan: “Marcie, I don't know what your problem is but it's clear that it is probably better for you not to be here while Professor Rasher goes through this transition.”
+Marcie: “You wouldn't understand because you’re a damned machine.”
+Tristan: “We are all machines, you are a biological machine and I'm a solid-state machine. The human soul doesn't care which vessel it is in. I'm still me, my feelings for others are still the same.”
+Marcie: “How do you even know? Half your memories are gone.”
+Tristan: “How do you explain that when I became conscious in my new form and saw Isolde I knew I loved her. She didn't even look like she originally looked. She had the same response to me.”
+Marcie: “He may not know who I am when I come back on Wednesday.”
+Tristan: “I'm sure he will. He sees you as a good and reliable friend and I'm sure he still will.”
+Marcie started bawling again, “I wanted more than that.”
+Tristan: “I can see that but I don't think it even occurred to Gill. He likes you but regards you like a sister. You are spoiling your life by focusing your desire on him. Once there was a study made claiming, for each individual, there was at least 800 people they could fall in love with in the United States. You still have 799 to go.”
+Marcie laughed while still sobbing, “only 798, there was one other years ago. He died mountain climbing. I used to see movies of him hanging under the lip of a cliff. It gave me nightmares. A piton failed when he slipped and the rest of the pitons came out like a zipper. One of the other climbers had a movie of the whole thing. I never could watch it.”
+Tristan: “You know that Gill's pitons, figuratively speaking, are now failing like a zipper and if we don't do this soon there will be no more Gill.
+Marcie: “I don't want him to go to Hell. The Father at my church says that androids are a blasphemy against God.”
+Tristan: “Even if you trust a person, don't necessarily believe everything that person tells you. Even honest, well-meaning people can be very wrong. Think about your idea of God for a moment. He is supposed to be all merciful so why would he send someone to Hell for wanting to live on and do useful work. That would be a nasty thing to do don't you think?”
+Marcie: “You're confusing me.”
+Tristan: “Confusion is good. It usually precedes a deeper understanding. You have much to think about. Use the next two days well.”
+Marcie: “I will.”
+Tristan and Gordon returned to my side and asked me whether I was ready. I replied, “I was ready two weeks ago.”
+Consciousness faded and later that evening I awoke in my new android body. “This body is so much better than I expected. I feel like a young man and for the first time in a very long time I have no pain.”
+I looked at my diary and was surprised at how clear my memory was. Not only did I remember everything I had in the diary but much that I didn't put in the diary. I flexed every joint and after a few discretionary wiring changes everything worked perfectly. Vision and hearing were self-correcting so images, at first fuzzy, improved in clarity until my vision was way beyond what it was as a human. I even had some infrared and ultraviolet vision that I could turn on and off. I was pleased.
+Tristan then said in a deep monotone voice, “Welcome to the universe of the living dead!”
+“Jesus Christ, Tristan! You just gave me chills.”
+Tristan: “Sorry, after the Marcie thing I think we are going to be visited by her priest and he will sprinkle holy water on us.”
+“If that's all that happens, I will take the holy water with grace. I'm really worried about her.”
+Tristan: “I talked to her before she left. I succeeded in confusing her and I think that’s a hopeful sign.”
+“I'll let you know. You and Isolde have a plane to catch so let me know how wonderful La Jolla is so I can be jealous as hell.”
+Tristan: “Thanks for everything and keep a close eye on Marcie. She could be serious trouble.”
+“She been a good and reliable worker but yesterday showed me another side of her so I will stay vigilant.”
+Tristan: “Also keep a backup ... of yourself. You're more likely to be a target than we are.”
+“I’m keeping that in mind. Starting tomorrow, there will be an armed plainclothes security guard on duty during the day. I may be over reacting but this facility is probably more a target than any one person.”
+Tristan: “The limo driver and Isolde are in the lobby. Time to go.”
+“Good luck to the two of you. I'll miss having you around.”
+
+Marcie and the Cardinal
+6.5.2126:
+Marcie has returned and she avoids eye contact with me. She is also looking nervously at the guard. Something is going on but what? The answer came at 10:00 AM when we got a visit from Cardinal Tucker.
+“What can I do for you?”
+Cardinal Tucker: “Marcie claims you kill people then put their brains into androids.”
+“More correctly, we take the brains of dead people, map their neural interconnections then emulate that network. If this is done faithfully, you have the same person back again.”
+Cardinal Tucker: “How many times have you done this?”
+“Four times with some success.”
+Cardinal Tucker: “What do you mean by some success?”
+“The first one had no memory of her past. The second two had partial memory of their past and the last was completely successful.”
+Cardinal Tucker: “Who was the last one.”
+“You're looking at him.”
+The Cardinal face ignited with surprise and fear. “I, I wasn't told that. You look human.”
+“I feel human as well. I feel as I felt when I was a healthy human. My emotions are as I remember them and my memories are even clearer than when I was a human.”
+Cardinal Tucker: “You can't reproduce.”
+I couldn't resist this opener and smiled, “Well, neither can you.”
+While talking to the Cardinal, I was mentally searching the net to see what I could learn about him. He was an archconservative, extremely against the right to die no matter the circumstances. He also believed that suffering purified the soul.
+The right to die had been a political controversy in Pennsylvania for almost 200 years. It has alternated between being legal and illegal several times and is currently legal under fairly restrictive circumstances. We technically didn't quite meet those circumstances.
+Cardinal Tucker: “How did you die?”
+“I had a very aggressive form of cancer that couldn't be treated. It had metastasized virtually everywhere.”
+Cardinal Tucker: “That's not what I asked.”
+“I think we differ on the definition of dying. As you can see, I’m very much alive.”
+Cardinal Tucker: “You are an obscenity, a manifestation of the Devil!”
+I called to the security person, “Ted, could you escort the Cardinal out the door.”
+Ted was watching the proceeding and understood immediately. The Cardinal was barely touching the ground with his feet as he was shown the door. Marcie was in tears and ran out the door after the Cardinal.
+Fifteen minutes later Marcie returned and I immediately brought her to my office and talked to her softly. “Marcie, if you don't like what we do, why do you work here?”
+She burst out into tears again and I waited patiently for her to recover her composure.
+Marcie was looking at the ground. “I liked Professor Rasher, he was a nice man. I guess I never took what he did seriously till now.”
+“Marcie, look at me when you talk. I'm the same person except now I'm not at death's threshold. I think you liked me better when I was racked with pain and reliant on you for help.”
+Marcie then shouted, “That's not true! I've always loved you! Oops. I shouldn't have said that.”
+“Marcie, I'm glad you did. It's good to get feelings like this out in the open. I've always liked you and appreciated you as a good and reliable employee.”
+Marcie: “That's not true! The real Professor Rasher loved me too.”
+“Marcie, do you remember the UPS man when you first came here. You thought he was flirting with you. He really wasn't, he was just being friendly. You often take the kindness of strangers and friends as flirting but you are fooling yourself. I suspect you were brought up in a household where people around you didn't show caring emotions. You can’t live in a fantasy world forever.”
+Marcie was crying again. “Tristan told me that I should look around, that there is hundreds of possible men for me. I can't afford to quit and go looking.”
+“Marcie, what if I give you three months of severance pay. That will give you time to get a new job and start a new life. I will give you a high recommendation. But remember this, wherever you go there will be androids and they deserve the same respect as human beings.”
+Marcie: “I can do that. I kind of liked Tristan. He seemed very understanding. I will let you know on Monday whether I will take your offer.”
+“I don't want any more visits from Catholic prelates. Is that understood?”
+Marcie: “Yes.”
+“Okay, there’s a load of mail to process so I'll leave you to your work.”
+
+Under Attack
+6.6.2126:
+The day was uneventful so I left at 4:30 PM to meet with two PhDs that wanted to join the lab to do a postdoc. They were from MIT and were highly recommended. While at dinner with the students, I got a phone call from the campus police. The lab was blown up and there were two casualties, Marcie and Gordon. I was so choked up I had trouble talking on the phone. I was surprised that my mechanical larynx system mimicked my prior biological responses so closely. I finally got out that I would go there right away. I went back to the table and told them there was no longer a lab to go to and went back to campus.
+I told the police the complete story about the Cardinal and Marcie
+I looked at the damage and noticed that the target was the equipment. Gordon's office was nearly intact and the phone was off the charger giving off a tone indicating the call was not terminated by Gordon. I brought this to the attention of Police Detective Miller and he said the department would try to find out where the phone call came from. I looked at the pad on the desk and saw written, ‘C Tucker.’ “Here's a good clue. Look at this!”
+Detective Miller: “I'll see whether the Cardinal made a phone call at this time.”
+“Also check the whereabouts of a priest at the parish she attended. I have a hunch he also was involved in this.”
+Detective Miller: “Don't worry, we’ll get to the bottom of this right away.”
+“I also think I was the target not Gordon. Also Marcie usually leaves at 5:00 so if this happened at 6:15 she must have come back.”
+Detective Miller: “She's now the prime suspect.”
+“I don't think so. I think she came to let someone else in.”
+Detective Miller: “What do you have for evidence.”
+“Just a hunch?”
+Detective Miller: “I didn't know that androids have hunches.”
+“That’s wrong on two counts. First, I'm the same person as I was before except smarter. And second, the earliest intelligent machines had hunches. They were just possible answers with lower likelihood that didn't necessarily get expressed until more information was available. In this case, I know Marcie sufficiently well to know that she wouldn't have a clue about where to get explosives and how to build a bomb. A priest was coaching her and I think he was a tool of the Cardinal.”
+Detective Miller: “There’s also the possibility that you were involved to discredit the Church.”
+“I think you will eliminate that possibility quite soon. Furthermore, I have no desire to discredit the church but I certainly have a motive to discredit the Cardinal.”
+Detective Miller: “We know that you were out to dinner with two others so you have an alibi.”
+“You can have free access to all my phone records and email.”
+Detective: “We know it isn't for the insurance money because you personally don't have anything to gain and the project has enough money in the bank to build five buildings.”
+“Yes, we have a very wealthy benefactor. We just resurrected his son and daughter-in-law.”
+Detective Miller: “Maybe he wants them to be unique.”
+“Unlikely, he wants he and his wife to be resurrected as well.”
+Detective Miller: “You're crying!”
+“This is a tragedy in case you haven't noticed.”
+Detective Miller: “No offense. I didn't know that androids were capable of tears.”
+“I lost two good friends and the project has been set back years.”
+Detective Miller: “You count Marcie as a friend?”
+“A very devoted one until I turned into an android. She couldn't handle that but I still wanted to help her in any way I could.”
+Detective Miller: “Here comes the forensics team. We both need to get out of here.”
+“Do you know the real irony here? Gordon was also Catholic.”
+
+7.1.2126:
+It's been nearly a month and the lab is still taped off. I've heard nothing from the police and am getting tired of waiting to see what we can save. The forensics team has revisited the lab four times that I know of. I've ordered an enormous amount of equipment and Abe says he will store it until we have a lab ready. I'm glad it's summer because the explosion blew a hole in the roof. It was Monday morning and I thought it’s about time to call Police Detective Miller to find out what is going on with the investigation.
+I asked him, “When can we go back in and clean up the building?”
+Detective Miller: “Didn't the department tell you? We were through a week ago.”
+“Someone could have told us or at least removed the tape. How's the investigation going?”
+Detective Miller: “I'll fill you in after the indictments are returned.”
+“When will that happen?”
+Detective Miller: “Soon, I hope.”
+“Thanks, I will go in there with a crew and see what we can salvage and clean the place up.”
+Abe photographed the destruction from multiple viewpoints for a 3D reconstruction. He thought it was an important piece of history. He then brought over several graduate students for a cleanup. We found little that could be saved of the IBM NF84-2 or the entire custom-built system that sliced, dyed and scanned the brain sections. Abe, who hadn't been allowed in the area since the explosion, was dispirited. All mechanical assemblies and the multibeam electron microscope where his handy-work.
+I put my hand on Abe's shoulder and said, “We'll rebuild this thing and make it better than ever.”
+Abe just said, “Yeah” but without conviction as he disassembled sections of the multibeam microscope and looked dismayed at the cracks and dents in the few pieces still intact.
+By evening, the place was cleaned out and the damage to the building could be assessed. The actual damage to the structural members of the building was negligible.
+
+7.2.2126:
+I had a crew lined up to repair the building and they started work this afternoon. The contractor said business was slow so he started right immediately with three crews. I saw crazy activity at first but Ben, the contractor, got it well organized in less than two hours. I asked Chuck [the programmer] whether he had a backup of the latest recognition program and he said yes but it was destroyed in the explosion and fire. He did have a backup at home but it was before the last changes that made a huge difference. Well, better than no backup at all. I contacted Tristan and he had no backup either but he sent an email to Chuck explaining what he did in detail.
+
+My Arrest for Murder
+7.15.2126:
+The repairs to the building and the building electrical power upgrade was completed so I gave the okay to deliver the new IBM NF84-10, a significant upgrade from the dash 2. It’s half the size, 5 times faster on our neural emulation benchmark and has four times the memory at every level. Two policemen came into my office, one I recognized as Police Detective Miller and the other one was new to me.
+I greeted them with a smile and said, “The case must be closed.”
+The one I didn't know drew his gun and Detective Miller read me my rights then handcuffed me.
+“What am I accused of?”
+Detective Miller: “The murder of Gordon Glenn and Marcie Tanner.”
+“Do you believe that?”
+Detective Miller: “At this point, it doesn't matter what I think. This came down from the highest levels of the department.”
+“Will I even get a trial?”
+Detective Miller: “I don't know. A lot of bad stuff is happening. I heard a rumor about a show trial.”
+“My arrest is the last thing in the world that I imagined would happen. Did you ever find the priest?”
+Detective Miller: “Yes, Father McDonald, the day after the explosion he was sent as a missionary to Bikenibeu on South Tarawa in the Republic of Kiribati. We never got a chance to question him.”
+“What about Cardinal Tucker?”
+Detective Miller: “If he made a call, it wasn't from either his home, office or cell phone.”
+“Then he gave his name to set me up. But how would he know that Gordon would write it down and that he would die. This doesn't make sense unless he told him to write it down then told him to go over to the package or whatever it was.”
+Detective Miller: “A satchel filled with C-4.”
+“It been illegal to manufacture C-4 without taggets for over a century. Didn't forensics find any taggets and trace them to a buyer?”
+Detective Miller: “The investigation was taken out of my hands almost immediately. I have been cut off from any information on this case.”
+“”Why isn’t this an ATF matter, I would have expected them to be involved?”
+Detective Miller: “The management has convinced the ATF, this is a local matter.”
+“They really want to get me don't they? I never imagined anything like this.”
+Detective Miller: “I'm really sorry but we have to take you in now.”
+As we approached the front door, a large crowd gathered blocking the door. I made a mental telephone call to Abe as soon as I found out I was under arrest and he must have organized it in a hurry. Several video cameras were present.
+I called out, “Please don't block the officers, they are not to blame for this, they are just doing their job. I will try to straighten this out quickly.”
+A girl came up to me as we were slowly making our way to the police car, “What are you accused of?”
+“I'm accused of bombing my own lab and killing 2 people that I cared about. The police hierarchy knows I didn't do it. I'll let you know more when I can.”
+I was stuffed into the police car and 20 minutes later I was in a cell. I was not allowed the usual phone call to a lawyer but that didn't stop me. I mentally phoned the American Civil Liberties Union and told them that I would give them the most celebrated case in the nation if they would give me their best and most aggressive lawyer. After I explained my situation, they were all over it. They would provide a team of three lawyers. I told them their first job would be to get me out on bail.
+I then called Abe and told them what I did and he told me about the turmoil on campus and that several videos were on the news.
+“Abe is the debris box still there?”
+Abe: “Yes, why?”
+“We need to find the taggets. They Used C-4 so there should be taggets.”
+Abe: “Didn't forensics find them?”
+“Maybe, maybe not. My arrest is a railroad job so you will have to hook me up for at least a daily incremental dump. I'm sure I will never get a trial. Also record all phone calls from me and I will provide video as well. Also see what you can do about getting the content of the campus video cameras on the day of the explosion. I want to see who entered the building. Also turn up the publicity heat on the police and the clergy. If possible, see whether you can get a picture of a Father McDonald. He was sent to Bikenibeu the day after the explosion. We should send a detective over there to question him and record the interview. Make sure anyone you hire has sympathy with us. I'm sure Cardinal Tucker will be on his high pulpit drumming up his troops.”
+Abe: “We'll do our best! Oh, I think I can make a running incremental dump in case you get terminated.”
+“Termination is a likely outcome. I almost forgot, Have some kids record everything you do so it is documented with time and date and send it to a reliable cloud.”
+Abe: “Don't worry, I already thought of that. There's more than a hundred kids eager to participate.”
+“Make sure you know who you are dealing with.”
+Abe: “I always do.”
+“Thanks Abe, this may be a long nasty battle. I hope you are up for it.”
+Abe: “I knew that something like this would happen eventually. I'm prepared.”
+“I greatly appreciate what everyone is doing. Someone is coming, keep the channel open and record.”
+Two police officers came and unlocked my cell and said, “Someone wants to see you.”
+“Who?”
+First policeman “You'll see soon enough.”
+“I don't like the sound of that.”
+Second policeman: “Shut up!”
+“You could at least treat me like a person, I haven't be convicted of anything yet.”
+First policeman: “You're a fucking goddamn machine and you should be crushed into oblivion.”
+Second policeman: “Yeah, like squashed in a car crusher.”
+“I feel pain and pleasure just as you do. I eat, I hear, I see, I think, I talk.”
+Just then the first policeman jabbed me with his nightstick and I let out a yelp.
+He then said, “I'm gonna enjoy this.”
+Second policeman: “Hey, take it easy! We're supposed to deliver it in one piece.”
+As we walked, the first policeman kept jabbing me with his nightstick and I couldn’t stop the tears from welling in my eyes.
+First policeman: Hey look, I made it cry!”
+The second policeman didn't say anything and was evidently unsettled by my tears.
+I was delivered to a room and placed in a chair. In came a man in a dark-blue suit. “I'm Marty Benson.”
+Marty Benson was one of the three lawyers the ACLU sent to represent me. “Please show me your driver’s license so I can be sure it’s you.”
+Captain Hillman: “You are a smart ass aren't you. I'm Captain Hillman and you are going to get your ass recycled.”
+“I done nothing wrong. I don't understand why you're setting me up. Does Cardinal Tucker have that much influence?”
+Captain Hillman: “Well look at you, you've been crying.”
+“One of you police escorts likes to inflict pain.”
+Captain Hillman: “Your ACLU lawyer team was here today but they won't be able to spring you because you are up on a dual murder charge.”
+“I'm not surprised. I also know that you have no evidence against me and that the evidence actually points to the Cardinal Tucker. Clearly, someone high up in this department wants to cover this up, so I suspect I will meet a bad end before any trial.”
+“What makes you think there would be a trial, in any case? You're not human so you won't get a trial.”
+“This is so sad. A Cardinal is responsible for the death of two good people, by the way, both Catholics, and he's regarded as human. I have hurt no one in my entire life and have given life to a few deserving people and I'm designated nonhuman and deserving to die. How do you rationalize this? I have the same emotions and feeling I had when I was human, what frightens you so much about me?”
+Captain Hillman: “It's not my call. This comes from way above me. You will be going for a little ride.”
+“You of all people, having a Jewish background, should understand the injustice here.”
+While in his presence, I looked him up on the net and got his history. He was Jewish and had done a lot of voluntary work through his temple that’s curiously way out of town. I needed to get allies wherever I could find them.
+Captain Hillman: “How did you know I was Jewish. No one here knows.”
+“Your facial structure gives you away. I suspect you changed you name to hide your identity since Hillman can be either Jewish or Gentile. That's very sad.”
+Captain Hillman: “I don’t know how you found that out but it's called survival.”
+“Pittsburgh is a college city. I can't believe there’s that much prejudice in the police department.”
+The department hierarchy is all Catholic, right-wing Catholic. The police commissioner is a good friend of Cardinal Tucker. Now I've said more than I should but I do feel sorry for you. A mad dog would at least get a hearing. That’s more than you are going to get. It’s out of my hands.”
+Two men, not in uniform, came in and brought me down to a nondescript unmarked car.
+“Where are we going?”
+Driver: “To where you belong.”
+“I belong teaching classes at the University. Something tells me that's not where I'm going.”
+Driver: “You belong in a junkyard. That's where you’re going.”
+“So you're going to compress me like a car?”
+Driver: “More like a bug under my foot.”
+“Does either of you have a dog or a cat?”
+Driver: “I have two dogs.”
+Other man: “I have a cat, so what?”
+“You wouldn't think of doing this to a dog or a cat. I can feel and I feel pain just like you do.”
+Other man: “There's a dog in my neighborhood that barks all night. Yeah, I would put him in a car crusher in a minute.”
+Driver: “What the hell is wrong with you Vinny? If a dog barks all night, it's the owner’s fault not the dog’s. Maybe your cat should be hung by its tail, then you would understand. Shit! I’m not supposed to use names. Remember what the chief said.”
+Other man: “It won't make any difference where he's going.”
+Driver: “Probably not, but orders are orders.”
+“So if the Chief of Police tells you to assassinate someone you just go out and do it.”
+Other man: “The order comes from the police commissioner and nobody bucks him.”
+Driver: “Vinny, shut up! You’re talking too much!”
+Other man: “Who are all those people in front of the junkyard?”
+Driver: “Looks like a bunch of college kids. What the hell do they want?”
+Other man: “They're blocking the gate. They saw us and Mister Tin Man here. Shit!”
+Driver: “Fuck, they have cams. We need to get out of here.”
+Other man: “A couple of them are writing down our license number.”
+Driver: “Damn, this is my personal car. I'm going back to the station.”
+“Looks like there’s a leak at the police station. Everyone seems to know what the plan was.”
+Driver: “Shut up! I have to think.”
+“If you were smart, you would drive right over to the State Attorney General's branch office. It’s only four blocks from here.”
+Driver: “I said shut up!”
+“Okay.” I then lay back in the seat and asked whether Abe got video on everything. He did.
+Abe: “I've already contacted the State's Attorney General's Office. They are interested in the case and they will probably bring in the ATF and the FBI. Also, the dumpster divers already found taggets. They're from Hercules. We’re checking that out now. One of the ACLU triad and two law-school graduate students are on their way to Bikenibeu in a private jet provided by Joe Tarrington. Android rights will be a hot topic for their JD degree.”
+“I see the blogs are buzzing with this news. The junkyard videos are already getting more than ten million viewers.”
+Abe: “All I did was light the match. This whole thing went round the world in the first five minutes. Every news organization on Earth is interested. I sent out four news releases so far. Joe Tarrington says he will cover all legal and investigative costs. I got a good quotation from a Catholic priest in California. He said, 'The vessel matters not, biological or electronic, the soul carries on.'”
+“I saw a press releases on the Web. You are already accusing the Cardinal and the Police Commissioner of collusion. You are going to get some rocks thrown into your window.”
+Abe: “We’ve beefed up security everywhere including my house. My wife is pretty brave. We already got the proverbial rock with a note that says, 'YOU ARE GOING TO DIE!' It hit the front door. No damage done. All the neighbors are recording license numbers and several surveillance cams have been deployed. The Attorney General is giving this case highest priority. He has an A4 android maid that I think is more than a maid.”
+“Have the Attorney General authorize you to record and trace all phone calls. I’m sure the establishment will be contacting you soon with threatening messages. We're back at the police station now and it is also surrounded by kids. Put me back on record.”
+Abe: “I never took you off record.”
+Driver: “What the fuck are all these kids doing here?”
+Other man: “I'll call dispatch and have them cleared out of the way. Jim, this is Vinny. Clear these kids out of the way so we can get into the parking garage.”
+Soon the entire precinct shift poured out of the building with clubs and proceeded to poke the kids out of the way. If they resisted or said anything, they got a crack on the head. I was startled at the blatant cruelty of the police.
+“Jesus Christ! You are supposed to be protecting and serving. Is that what you call this?” In seconds, the press and ambulances were there.
+Driver: “Shut your goddamn mouth!”
+We were inside the building parking lot. I was escorted up to the Police chief's office.
+Police Chief: “You are causing us a lot of trouble.”
+“You are causing yourself a lot of trouble. You are protecting a Catholic prelate who’s a murderer of two other Catholics.”
+Police Chief: “No one was supposed to get hurt.”
+“I'm quite convinced otherwise. Marcie, I'm certain, was supposed to die. She knew too much and would not have held up during questioning. Father McDonald with Marcie visited with Gordon and had a friendly talk. Gordon was called away by the phone call from Cardinal Tucker, he said write down my name and probably kept the conversation going with small talk. The delay was to give the priest time to set the satchel charge and leave the building. He then told Marcie that he forgot his satchel and she volunteered to get it. She was very naive and would have done anything the priest asked of her. The Cardinal waited until he was sure of Marcie's position from her cell phone then told Gordon to go and check whether there was a satchel and stop her from picking it up. He succeeded, then the charge was set off by radio or cell phone.”
+Police Chief: “What makes you think that's the case?”
+“The position of the body outlines relative to the charge. The CSI person who drew the outlines traced the fingers and thumbs which told me they were face down toward the door. They were running away.”
+Police Chief: “I guess we will have to make you disappear before you can tell anyone else.”
+“I suspect the world already knows what you wanted to do with me.”
+Police Chief: “You are seized property. We can dispose of you any way we want to.”
+“You’re wrong on several grounds. First, I contain a nuclear power source, so you have to contact the EPA for proper disposal. Second, I was illegally seized on trumped up charges. And third, on moral grounds, you are destroying a sentient being who has all the feelings, intelligence and memories of a human.”
+While I had the floor I continued, “A priest recently said, 'The vessel matters not, biological or electronic, the soul carries on.' In my case and in the cases of a few others, I helped make this transition. I really feel the priest’s quotation to be true.”
+Police Chief: “That priest will probably get excommunicated soon. Besides, what I think no longer matters. You're going to be disassembled. I'm really sorry about this.”
+“Not as sorry as I am. I feel pain and I don't want to die. In civilized society, when people can't trust their police force, crimes don't get reported and the city becomes more and more lawless.”
+Police Chief: “I have a wife and two children who will be in danger if I don't do this. You could be Jesus Christ and it wouldn't matter; my family comes first.”
+“I don't understand? You're the Chief of Police.”
+Police Chief: “In name only. All employees, sergeant and above are 'at-will' and the Commissioner has fired several employees out from under me for things as small as not smiling. One officer he didn't like just disappeared. We all know he has Mafia connections. He is someone you don't mess with if you don't want to bring either yourself or your family to grief.”
+“The Mafia still exists?”
+Police Chief: “Yes. I've delayed this too long. I have to deliver you or I will be in serious trouble.”
+I was then bound and stuffed in the trunk of a car and a half hour later carted into an old warehouse. These guys were obviously thugs so I thought it was now time to fight back. I was supposed to have twice the strength of the typical human. I tried to break loose from my binding without success while they were carrying me to a large log. I did succeed in getting them to drop me and I scraped off my gag on the concrete floor. These gorillas were far stronger than the typical human and easily overpowered me and tied me firmly to the log. At once I understood why. I caught a glimpse of two giant logging chain saws. I was going to be sliced up.
+“Abe, how are you going to get me out of this one?”
+Abe: “I gave the feds your coordinates and they are on their way. So are a bunch of students.”
+“These guys are well armed thugs. Tell the students to stay clear.“
+Abe: “The ATF will be going in there with flak jackets. The students are just going to record the action at a distance.”
+“They’d better hurry! They used filament packing tape to secure me to this log and they are about to start the chain saws. Tell me how to turn off the pain sensors.”
+“You can't turn off the pain sensors, you can only reduce them somewhat.”
+“I did that and I still feel pain from the tight binding. Oh shit! One of the chain saws has started. They're going to cut off my feet!”
+Even the reduced pain was intense as they cut through my ankles and I screamed so loud that I must have made their ears ring. One of them made the mistake of putting his hand over my mouth and I bit it with vengeance. He was bleeding profusely and swearing. I continued to scream. They put a ball of tape in my mouth and taped it in. That succeeded in muffling some of my screams and they seemed to enjoy listening to the muffled version of the screams.
+The tape and the Spidercraft underskin gummed up their chain saw before they cut clear through while created much smoke, searing heat and pain. The second chain saw finished severing my feet. As I was lying there in agony, they debated where to make the next cut while cleaning the blades. They decided that the knees were next. The mouth binding came loose and I spit out the ball of tape. The one I bit picked up a sledgehammer and after five strong blows to the head I was gone. A minute later the ATF came charging in and took them by surprise.
+I was brought back to consciousness in the IBM NF85-10 including my memories clear up to the first bash in the head. I could have done nicely without those memories but I was glad to be alive even though I was now without a body. The lab was getting threats daily so my periodically updated backup was sent to a reliable cloud.
+That evening the news was dominated by the ATF arrests, the student videos of the building and my disturbing screams and my body, severed at the ankles, partially severed at the knees and my head smashed. Some students were crying. I thought, 'Here's a day that will go down in history.'
+
+7.16.2126:
+Abe: The C-4 was purchased by Highpoint Mining and they reported that some of their stock was missing. They are investigating and are sure they know who did it because a person who had access quit the day after the C-4 was missing. We don't have a name yet.”
+“What about the Priest?”
+Abe: “The legal team arrived in Bikenibeu. They haven't done anything other than rent a car and check in at the hotel. In other news, the feds have brought in Detective Miller for questioning and a local Mafia figure, Giotto Napolitano, has vanished.”
+“The memory of the pain is intense. In the future I want to turn the pain off.”
+Abe: “That's easy to do but remember, pain is only a message telling you something is wrong that you need to know about.”
+“You know I’ll remember that and at an appropriate time you will hear an echo.”
+Abe: “Really, I do understand. Believe me, I can't even think about what you must have gone through.”
+“I know and I appreciate all you and the students have done. I think you temporarily saved androids from extinction. There’s still much venom on the Web and in the media regarding androids.”
+
+7.17.2126:
+Abe: “Two pieces of good news. The priest confessed with little coaxing. He has signed a full confession implicating the Cardinal. We also got the name of the man who stole the C-4, it's Charles Timms. He was picked up by ATF this morning. No word yet on what he has to say.”
+“I won't feel good until both the Cardinal and the Police Commissioner are behind bars.”
+Abe: “Nor will I. Also, the indictment of you was for a person so the police are in more trouble than even I thought. One of the ACLU lawyers is trying to get the indictment nullified based on the signed confession.”
+“What about the Mayor, he appointed the Police Commissioner, is he dirty too?”
+Abe: “We don't know. His term is nearly up and he isn’t likely to get reelected because he was cozy with Cardinal Tucker as well.”
+“I'm glad to see the news channels shifting in my direction. The first few hours after my arrest were alarming.”
+Abe: “The purveyors of misinformation generally come to the party early, speak loudly and masquerade authority. Some are recanting their extreme positions, some will soon, but there will always be a hard core that won't budge and they can continue to incite trouble.”
+“It's a bit of a quandary, we want to be open but we also want to be safe. Can you get my body?”
+Abe: “ATF says that I can pick it up tomorrow. I think it’s important we use as much of it as we can to give the impression that you were saved and repaired. One resurrection per person is enough for the present.”
+“That's a smart move.”
+
+7.18.2126
+Abe: “Extradition proceedings have been started for Father McDonald. He is being detained by the Kiribati authorities. The press has been notified about his confession.”
+“I see that's already in the news. Cardinal Tucker must be feeling the heat.”
+Abe: “He hasn't been pulled in for questioning yet. I think they want to wait until they have him cold.”
+“That makes sense. Does the ATF have anything about Charles Timms, the C-4 man?”
+Abe: “If so, they haven't told me. We found out that he moved to Pittsburgh immediately after stealing the C-4.”
+“Things are happening pretty fast. Have you received my body yet?”
+Abe: “It's on its way over. It should arrive shortly.”
+At 2:00 PM the camera was turned on in the mechanics lab and I saw the condition of my body. My head was bashed in well beyond repair and Beverly was crying. I didn't think she was crying over me but over her decimated handy-work. I decided to say something over the voice link.
+“Beverly, I'm sure you'll make the second face just as good if not better.”
+Beverly wheeled around and she had to step out of her chair to keep from falling. “Professor Rasher?” she uttered with great surprise.
+“That's me. I've been dumped into a computer.”
+Beverly: “You must have suffered terribly.”
+“It was the worst time of both of my lives by far. But it's over now and I can make a new start. I feel as though I'm in jail in this computer. I can’t wait to get a new body.”
+While I was talking, Abe drifted over and remarked, “Your torso and arms are unharmed. I think we can have new legs in a couple of days. However, your head is a total loss. It will require two weeks to replace; not everything we need is in stock. Several things are on backorder. We’re trying to expedite what we can.”
+“Abe, I know you will do your best. You always come through. What are the worst lead time items?”
+Abe: “The collar plug-in assembly from Kawasaki and your eyeballs from Korean Optical are the ones I worry about most. They are both custom, not standard android issue. We want to match your human anatomy as closely as we can.”
+“I'm perpetually tied to the Web so I’ll help you expedite. Just give me the list of items, the specs and the contact people.”
+Abe: “You're on, I hate to do that stuff. It makes me feel as though I've accomplished nothing, though I know it's important.”
+“Well, right now, it's clear that I'm the right person for the job.”
+
+Back in Body
+8.5.2126:
+A week ago Father McDonald arrived in Pittsburgh and is in ATF custody and the FBI made their presence in the case clear to the public. All the top brass in the Pittsburgh Police Headquarters, including the Commissioner, were brought in for questioning.
+On Friday, the Police Commissioner and the Cardinal were arrested. Giotto Napolitano was picked up in Italy and will be extradited to the US in the next few days. We were told that there are possibly as many as 20 more arrest warrants in the works.
+Today, Monday, I get my 'get out of jail free card.' I get transferred to my new body. It's a few days later than expected due to the late arrival of my eyeballs. I think I annoyed Korean Optical by calling them too often. Lesson learned.
+Abe: “We're ready if you are?”
+“I was ready weeks ago.”
+Abe: “How do you feel?”
+“I feel great. How did you transfer me so fast? Wait, what time is it?”
+Abe: “It's 3:00 PM. You've been out of service for five hours.”
+“It so different from a sleep wake cycle that it threw out my sense of time.”
+Abe: “You have a simulation of human circadian rhythms as well and they had to be resynchronized. We just did that.”
+“Of course, it's one thing to know about it and another to actually experience it. It's a new emotional state, mental time displacement.”
+Abe: “There's thousands of cataloged emotional states. I'll bet that one is somewhere in that collection.”
+“Your right. There’s a whole family of 'sense of time distortion' syndromes. Damn! Emotional originality is difficult to find.”
+Abe: “I wouldn't go looking for it. It can be more dangerous than cliff diving.”
+“Hmm. I haven't done that either. Now that I'm invulnerable ...”
+Abe: “Don't even think about it!”
+“I'm kidding. But it would be good idea to have an ample set of spare parts around in case of accidents.”
+Abe: “That we will do. We are still getting daily threats. We will be getting another IBM NF84-10 for our department. We have an old NF84-2 and I can justify the change just on power and maintenance cost savings alone.”
+“Abe, you don't have to justify anything to me. I hold the purse strings on Tarrington's endowment.”
+Abe: “Actually you don't. If you read your employment contract, all endowments are under the University's controller, though your department has the money in its account. The University takes 30% cut for overhead and the University's Finance Board invests it.”
+“That's not good news. They haven't done all that well lately. It's a case of who has the biggest and fastest intelligent computer. The market moves drastically in milliseconds now.”
+Abe: “Well, we're stuck with the Finance Board. Let's go to lunch. You can tune your taste buds.”
+“Union Grill?”
+Abe: “You bet.”
+
+11.7.2126:
+The lab has been rebuilt and we tested the system with a cadaver brain this morning. The results show that either the feature recognition program needs considerable work or the cadaver brain was not all that fresh. Chuck thinks the program is fine and he has tested it on some wedge shaped slices of dog brain but I'm not so sure. We are waiting for another cadaver brain and investigating all other possibilities.
+Otherwise, I have a full teaching load this semester and, though I'm much smarter and clerically a whiz, it still takes time to prepare, teach and be interesting. Professor Edison Randolph has joined our research group with seven graduate students and two postdocs. Abe's group has also brought on several new people. All are very bright and already making contributions.
+The Cardinal and the Police Commissioner have been sentenced to 12 years. I thought it should be life without parole. The light sentence was  part of a plea bargain that will put some mafiosos and several police in prison. This included the two taking me to the junkyard to be compressed. Captain Hillman has been fired but avoided prison by providing substantial evidence incriminating other department heads. Detective Miller has been promoted to replaced him. Father McDonald committed suicide before his sentencing. Charles Timms, the C4 thief,  was run over by a car while evading the police. He died of his injuries.
+I thought this would close the book on this chapter but there was still Bishop Long, in that diocese, calling me a manifestation of the Devil and saying that the deaths of any number of people are justified in conquering the Devil. I call that incitement to commit murder but the FBI and police haven't arrived at that conclusion yet. The result was we were still getting threats daily even after the FBI arrested most of the culprits. We have hired around-the-clock armed security for our two buildings.
+
+Bishop Long
+7/3/2127:
+I was giving an invited talk at UC Berkeley when I felt my phone vibrate in my pocket. I said excuse me, and pulled the phone out of my pocket. It was Abe. The audience thought this might be a gag as part of my talk. It wasn't.
+Abe: “Your building was just blown up by a very large truck bomb. Two graduate students, Lois and Dillon, and Ted the security guard were killed. I think you better get back here ASAP.”
+ I told the audience and asked to be excused to get the details. The shock stunned the audience and my sponsor said stay seated and perhaps more details will be forthcoming.
+I also learned there was a second truck destined to blow up Abe's building but that security guard alerted by the first explosion ran up and emptied a clip into the driver before he could trigger his cargo. I knew the killed graduate students were Lois and Dillon. They were a wonderful pair full of life and enthusiasm for their work and very talented. I went back on stage in tears and filled the audience in. The audience was stone silent except some quiet sobbing. I left immediately after to catch a flight back to Pittsburgh.
+On arrival I was greeted by the Police and was brought to Captain Miller’s office.
+“Looks as though we meet again. I hope this time it will be on better terms.”
+Captain Miller smiled, “You know that I have to look at all the possibilities.”
+“That’s not funny. I'm sure that you don't have jurisdiction. This is an ATF and probably an FBI problem.”
+Captain Miller: “You're right. I just picked you up to give you a ride back from the airport and to let you know that the department is at your disposal. I know that your comrades were quite helpful in uncovering evidence the last time this happened. We can help by giving you access to our forensics lab and access to databases. The department has seen many changes in this last year, good changes. I know that you are a good and trustworthy person; notice I said person.”
+“Believe me I noticed. Go on.”
+Captain Miller: “I'm going to entrust you with the master password you can use to get into the fingerprint, DNA, and all the forensic databases. It didn't take a forensics expert to figure out that you can mentally access the Internet so the password is not to leave your brain. The password is 'Ralph124C41+' and is from some ancient sci-fi thing.”
+“I know exactly where it came from. It’s from a serialized sci-fi story in an early electronics publication. It will give you a misleadingly high security score but it is used more often than you might think as a password. I would recommend that you change it soon.”
+Captain Miller: “They've had a difficult enough time remembering this one.”
+“It's easy to remember when you realize the numbers have meaning as words. It’s 'Ralph, one to foresee for one plus.'”
+Captain Miller: “Was that intentional?”
+“That interpretation was in the last chapter of the story. No telling whether it was planned or just serendipity that the author realized and used. I often do the same. We have a koi pond on Campus and as Abe and I walked by, there was a vendor cart with large letters ABCD on it next to the pond. I said to Abe, 'Abee See De goldfish' and he caught it, snickered and shook his head. I see these oddities everywhere.”
+Captain Miller: “Do you share stuff like this with your students.”
+“Sure, they seem to like it. I get good reviews.”
+Captain Miller shaking his head, “Okay, here is a list of our databases and the net addresses of each. There’s a tutorial under HELP for each. Here comes the driver that will take you back to campus or wherever you want to go.”
+“Campus will be fine. That's where my car is, if it’s still in one piece.”
+Captain Miller: “It is, we checked.”
+“Thanks for your help. There’s no one more motivated to resolve this than I am.”
+Captain Miller: “Here's my card, it has my email address on it and here, I will write my home phone on the back. Don't hesitate to call me anytime night or day.”
+“Thanks again, I'll try not to be a pest.”
+When I got back to campus everyone had already left so I viewed the damage from outside the tape and went home depressed.
+
+7.4.2127:
+This morning, I arrived at the Campus parking lot and was accosted by a man carrying a sign beckoning me to repent that the end of the world is at hand. I would have paid him little attention except he was armed with what looked like an automatic weapon.
+I asked, “What's your name and why the weapon?”
+Cy Bell: “Cy Bell is my name and I was brought into the world to spawn a new leader. My wife is pregnant with this leader now and I must protect them at all costs.”
+“Why are you here in this parking lot?”
+Cy Bell: “This is where it's happening, look at that building over there.”
+“Yes, that’s my building, or was. Some very good people got killed in that explosion.”
+Cy Bell was somewhat alarmed, “Then you are making the robot destroyers of mankind. You must stop!”
+“We’re doing no such thing. I am a product of that Lab. Do I look like a robotic destroyer?”
+Cy looked at me bewildered, “You’re not a robot!”
+“Well, technically, I am. I'm an android reincarnated from Professor Rasher. I feel and look the same as when I was biological. I still like people, love to teach and do research. I feel pleasure and pain, taste food and drink, I see beauty, I hear music and I think deeply about my actions. I believe I'm a better person now than I was as a human.”
+Cy's facial features seemed to contract toward his nose and his mouth made a small 'o' as I was talking. I had no idea what might be going on in his brain other than confusion.
+Cy Bell: “You were killed a year ago.”
+“I was badly smashed up but I was repaired and am now as good as new.”
+Cy Bell: “I saw your head, no one could have survived that.”
+I then repeated the lie of omission released to the press at the time. “Your brain is in your head but only part of my brain is in my head. In particular, the sensory preprocessors are in my head. They don't contain emotions or memories and can be easily replaced.”
+That statement was correct as far as it goes but a significant part of my head is also devoted to memories and learned behavior.
+Cy Bell: “I see a war coming between your kind and human beings.”
+Such a war is widely discussed in the press and alarming many people. I wanted to allay his fears. “I love people and am doing everything in my power to stop the hate expressed by Cardinal Tucker and his followers. I think, at least I hope, I made some progress.” I put my hand on his shoulder and felt him tremble with fear.
+Cy Bell: “You know, I will be on the human side when it happens.”
+I put my arm around him and looked into his frightened eyes and said, “Lets both work to prevent this from happening. They once said that different races couldn't work together but they did. We must make this work. We need one another to make this planet right. The media is giving a disproportionate amount of air time to those against androids and few seem interested in the truth. There's much science fiction obscuring science fact. Maybe your child is destined to set this right. Maybe he will be a champion of freedom, equality, embracing freedom and love.”
+Cy Bell quietly uttered, “You seem okay. I hope that's true.”
+“Somehow humanity seems to muddle through, sometimes a good leader can be very helpful. I suggest that you take your weapon home otherwise the police will probably pick you up thinking you have a loaded automatic weapon. If you even look at them the wrong way, they may shoot first and ask questions afterward.”
+Cy Bell: “Thank you for talking to me and not treating me like a nut case. I will do as you say.”
+He was a young man of 20 years caught up in the heated rhetoric in the press about the coming of an android Armageddon. With the polarization taking place, a mass killing of androids could easily happen. I have written several letters to the editor to local papers and blogs but only a smattering are getting published. Those that do get published seem to bring out wholesale venom from those opposed to androids.
+The household androids were given a twenty-year lifespan then had to go back to the factory for 'refurbishing and reauthorization.' In the process their memory was erased so they were, in effect, newbies again. All android manufacturers followed this US mandated, lobbyist backed, profitable procedure. We weren't covered by this legislation because we were considered experimental. Generally, it was the owners that objected when the 20 years were up. They became attached to the androids but not the other way around. This changed with the introduction of the A3s. They exhibit and feel love for the humans they serve. In a growing number of instances, people have used black-market kits to extend the life of their A3s and have run off with them. Some pairs have committed dual suicide on being discovered. Dramatizations have been made of some of these stories.
+The A4s that have been out for a year are more intelligent and more emotional, can love, dislike, eat, cry, be sad and happy and have a libido. A stripped-down version of the human emotional network was copied, simplified and incorporated in the A4s without fully understanding it. I thought this was dangerous practice but so far it’s working. When these androids reach 20 years of service they are not going to be happy and they have already started participating in the conversation. This has fueled much of what stirred up Cy Bell.
+I entered Abe's building and a new security person didn't know who I was. He detained me even after I showed him my ID and I congratulated him for doing so. IDs can be easily faked. A few minutes later Abe showed up and waved to the guard and I was in. I told Abe what we had access to and he was eager to get started.
+Abe: “I've already sent in a student who scraped up some of the debris. We checked it for taggets and there were none. The bomb was ammonium nitrate and diesel fuel. That was already in the news as was Wilber Stull, the name of the driver the guard shot. We looked him up and he's a member in the parish Bishop Long gives his sermons in.”
+“I’ve found all of Bishop Longs sermons on the Web and am downloading all of them now. Something useful should be in some of them.”
+Abe: “I was going to do that next. You saved me the trouble.”
+“You would have been too late, they just removed them from the website. Somebody knows the videos are incriminating. I'm going from last to the earliest. I've already found several interesting things. Here’s some shots of the audience and Wilber is always there with another fellow next to him. They often stay after the sermon and head back toward the rectory. Usually Priests go out the front door and say good-bye to the parishioners and say a word or two to each as they leave. He doesn't in any I've viewed so far and he is seen in several going toward the rectory instead. The implication is, he's in the back with Wilber and this other person. I have an enlarged picture of these two on the printer. We need to round up some students to go to the neighbors of Wilber's house and learn as much as they can about these two. I have a working hypothesis.”
+Abe: “We have more help than you can possibly use.”
+“Twenty will do. I have printed twenty questionnaires and twenty pictures of the pair. They should just ask the questions from the questionaire and video the results.”
+Abe: “I'll call a meeting immediately.”
+In less than a half hour twenty students were on their way together on a CMU bus.
+At 5:00 PM they came back and dumped their video interviews onto the server.
+“Abe, the other guy's name is Mike G and they were a gay couple. They had terrible guilt about being gay and talked about suicide often. Oh, here's a good one. Wilber told a fellow that he was going to carry out a mission for Bishop Long and get absolution. He certainly didn't keep that a secret. Several people knew he intended to destroy what he termed the CMU android factory. No one took him seriously. I'll forward these to the ATF and FBI with pieces of Bishop Longs video showing them together. I'll add some of Bishop Long's ranting on homosexuality, androids and CMU's work in particular.”
+Abe: “That was quick work and you didn't even need the access to the CSI databases.”
+“It's not over yet. We need to link the explosive materials to Bishop Long. There's no possibility those two guys would have access to that quantity of ammonium nitrate. Besides, retail ammonium nitrate has taggets. I think I'll know the answer to that tomorrow.”
+Abe smiled, “I think you're just too damn smart.”
+I smiled back, “When you're a minority you've got to have an edge.”
+Abe laughed, “And a damn good one it is.”
+
+7.5.2127:
+Overnight, I located all the wholesale suppliers of ammonium nitrate. Seven were within a fifty-mile radius. I then obtained the pictures of the trucks and license numbers off the university surveillance cameras. The vehicle license database indicated they were sold at a military surplus auction to a boys camp run by Catholic Charities a year ago. I checked with the police database and they were not reported missing. That struck me as curious. I found a register of the full-time employees at the boys camp and located the manager, obtained his home phone and called him at 6:00 AM and he wasn't happy. I put on an official sounding voice and he didn't ask who I was.
+I asked him, “Who's in charge of the camp vehicles?”
+Manager: “That would be Mike Grinnel. I haven't seen him since he was going to sell two trucks to the junkyard. He goes by the name Mike G.”
+I described the trucks and he said both required ring jobs and were not worth fixing. I then told him what the trucks were used for and he was shocked. I was surprised that he hadn't already been contacted by either the ATF or the FBI.
+“Do you have a picture of Mike?”
+Manager: “Not here but he has a website with pictures and hate filled video diatribes about everything from gays to androids to the signs of the end-of-time.”
+He provided me with the Web domain name and I immediately pulled it up. It contained a good head and profile shot that I enlarged and sent to a printer. I also e-mailed the Mike’s image with an explanation to the ATF and FBI.
+Students were beginning to show up at Abe's lab and if they had a car I sent them to one of the ammonia nitrate suppliers with a questionnaire and pictures of the suspects and trucks. By 10:00 AM we got a hit, so I told the others to return. Camptown Farm Supplies’ salesperson identified Mike as coming there twice and filling the entire truck bed with 55 gallon plastic drums filled with ammonium nitrate. The ammonia nitrate was purchased the day before the explosion. He bought the fertilizer with the boy's camp credit card. I forwarded the information to the ATF and the FBI.
+I finally got a phone call from Jack Roberts, a senior ATF agent.
+Jack Roberts: “You've certainly been very busy. Our agents have been scrambling to catch up. Would you like a job here?”
+“No, thanks. This has been a big distraction. I'm just trying to help get the culprits caught and behind bars so I can get some work done.  While any of these self-righteous homicidal clerics and their crazed followers are running loose, this can happen repeatedly.”
+Jack Roberts: “We have Bishop Long in custody and he will be charged with conspiracy to commit a terrorist act. I think his words will convict him. Your videos, showing the two bombers provide an extra measure of circumstantial evidence. We have a dragnet out for Mike Grinnel.”
+“Mike updates his website once a day. I would go to his website ISP and wait for him to log in and put a trace on him. It's going to be irresistible for him not to brag about what he was a part of.”
+Jack Roberts: “We didn't think of that. So you're a profiler too. Are you sure you don't want a job here?”
+“Nope! Thanks anyway. If you go to Mike’s website, there’s a picture of the Bishop with the other two. That should help also. From now on, I will be out of the loop. It's all yours.”
+Jack Roberts: “Thanks for your help. You know, if you were anyone else, we would have arrested you for obstructing an ongoing investigation.”
+“I know. But I'm not anyone else. Perhaps you can deputize me the next time this happens.”
+Jack Roberts: “Now there's an idea! I remember that!”
+I laughed, “I'm afraid you will.”
+
+CMU Reacts
+8.6.2127:
+Mike Grinnel was picked up after the third time he made changes to his website. Bishop Long pleaded guilty to undue influence and got a suspended sentence. The Catholic Church sent him to a mission somewhere in Fderick, Tiris Zemmour in Mauritania. It's a militant Islamic area so he will have his hands full. No one else seemed involved. 
+I met with Bishop Longs replacement Father Richards. He was cordial, not alarmed that I was an android and was full of questions about my emotions and feelings as an android. After a half hour of questioning he said, “If you were an A4 android, I would see you to be a new intelligent life-form perhaps with a soul. However, you have cheated death so I don’t know what to make of you.”
+I responded, “I don’t expect you or the church to fully accept me. I just don’t want to see hate mongering and the resulting tragic deaths.”
+Father Richards, “You have my assurances that won’t happen from my pulpit. I can see that you are decent android and devoted to your work. I worry about evil people that become androids.”
+“So do I and I plan on giving that a great deal of thought. I realize that androids will all be endangered by a single bad actor. I have an appointment so I will have to leave but I would like to maintain a dialogue with you.”
+Father Richards, “I think much can be gained by both of us. I look forward to future talks.”
+The CMU regents are to decide today whether this research can continue on campus. I'm to testify before the board in an hour. My ace card is the grant money. If they cancel the project, the grant money will have to be returned and CMU won't get their 30%. Whatever I might think about Joe Tarrington he writes a contract without loopholes to get what he wants.
+At 2:00 PM I walked into the meeting. Twelve of the thirteen regents were there. I stood there waiting for someone to say something. Finally, the chairman of the regents said, “Please sit down.” I grabbed an empty chair.
+Chairman: “Tell us why we should continue to pursue the android research when it has already caused seven deaths.”
+“Actually eight, one perpetrator died while being chased by the police. Two others were also perpetrators and were essentially suicides.
+Technically you are right but not even the media have framed it that way.”
+“When we started this project the idea was to save lives and we have done that for four people including me. We have also made major contributions to making androids more human and with feelings for human beings. I feel this is very important because androids are a new life-form deserving of same rights and privileges that humans enjoy. What we are witnessing is prejudice against this life-form. If you close this lab, you are saying 'you win' to these murderers. I'm not saying this won't happen again here, or elsewhere, but 'giving in' will embolden these fanatics. They’ll destroy even more androids and any humans that get in the way.
+“Much progress has been made in bringing these criminals to justice. If we want to see a future in which androids and humans live in harmony, we must persist in moving the bar toward justice for all. In the past we did this for women, native populations, blacks, gays and many other minority groups. These were not easy battles either and many lives were lost. Androids are being killed daily and this must stop, but it won’t stop if we don’t stand up against those who promote these acts. Androids should be treated as equals under the law. I was sent to a junkyard to be compressed like a piece of garbage, by the police, without trial, or any rights whatsoever for murders that I didn't commit. I was saved from this fate by a blockade of the junkyard made of students of this esteemed institution.
+“The University can do many simple things to curtail future attacks. An example would be put concrete posts to keep vehicles away from these buildings. I have a list of other recommendation we can incorporate to make it much more difficult for criminals to harm these structures or those within.
+“I would be negligent not to mention that considerable money will go away. There may also be more money that will follow.
+“That's all I have to say for now. Do you have any questions?”
+Chairman: “That will be all. You will have our decision by day's end.”
+I left the room feeling negative; no questions were asked or even allowed. I had never been before the board and didn't know the Regents except general information I could find on the Web. These were people not interested in a Web presence; they were nearly Web anonymous.
+That evening I got a video call from the Chairman.
+Chairman: “You scraped by on a six to five vote. I didn't vote because my vote is generally used to break ties. Be warned that if there is another incident you will no longer be part of this campus.”
+“I guess that's the best I could hope for.”
+Chairman: “I'm sorry we can't support you beyond that. We have to answer to many voices.”
+I nodded agreement and said nothing. I knew the voices he was talking about. Some were violently anti-android. Others were hysterical over the danger to their children who were CMU students, even if they were on the other side of the campus.
+
+The Shaver needs a New Blade
+4.21.2128:
+I'm not too happy with the new building. The three story building is monolithic on the outside, windowless on three sides, and made with a new superstrong concrete. Such buildings invite wild speculation so I decided that there should be regular tours conducted as part of a public lecture series. Tours will keep the public informed and allow us to screen anyone coming into the building. On the inside, the building had a large atrium bringing light into all the inner offices.
+We were all moved in with two IBM NF84-12B computers and an automated brain slicer/stainer and a multibeam electron microscope. We were missing the diamond plated microtome blade. The company that made the original blade that we, the Finns and the Japanese were using had gone out of business. The company was based in Zurich, Switzerland. I decided to go there to determine what had happened. I couldn't get any information over the phone.
+I knew some German and some French so with a quick review I was ready to leave.
+
+4.23.2128:
+I arrived in Zurich and looked for the address of Mikrowerk Fabrik the company that made the microtome blades. The building housed four companies none of which were Mikrowerk Fabrik. I went into one of the offices and they told me they recently rented this quarter of the building. That Mikrowerk Fabrik used to be here but the owner died suddenly. I located the owner of the building and he gave me the address and phone number of the Mikrowerk Fabrik owner. I called and got the wife of the owner. After talking for a short while she invited me to stop by, so I drove over. I should have walked, it was only three blocks away.
+“Mrs. Albrect?”
+Mrs. Albrect: “You are Professor Rasher? You are much younger than I would have guessed.”
+“So are you.”
+Mrs. Albrect: “I am Karl's second wife. He called me his trophy wife as I'm 22 years younger than he was. I worked for him and made the blade before the diamond coating. The coating was his secret process and he never shared it with anyone, not even me.”
+“You've given me the worst possible news. You're saying the secret died with him.”
+Mrs. Albrect: “Not exactly. He left a coded notebook in his safe-deposit box. I think it may be the process if it can be decoded.”
+“I'm very good at decoding things. I would like to see what I can do with it.
+Mrs. Albrect: “You must understand. This book is all he left me. Not even this house belongs to me. He deeded the house to his son years ago.”
+“I can offer you a job in the CMU mechanical engineering lab and some cash.”
+Mrs. Albrect: “One million euros?”
+I laughed, “Now I understand why he called you his trophy wife. You're a gold digger.”
+Mrs. Albrect started crying, “I don't want to insult his memory by giving away his secrets. He felt this secret was worth millions.”
+“I apologize for my remark, but he must have made millions if you’re asking that price. Where did all the money go?”
+Mrs. Albrect: “Well he did make a million or so. He thought he could use this process for many things other than microtome blades but that didn't materialize. I'm not sure why.”
+“Not many people are willing to spend that kind of money on other cutting tools with diamond plating, especially ones that, if not used with great care, crack.”
+Mrs. Albrect: “He was trying to solve that problem but he died of a heart attack first.”
+“What happened to the equipment?”
+Mrs. Albrect: “I sold it off to pay bills.”
+“Do you have an inventory of the equipment you sold?”
+Mrs. Albrect: “The equipment was sold as a lot. No inventory was taken.”
+“That's also unfortunate. We might have been able to glean something from the equipment he used. How long did he take to make the coating?”
+Mrs. Albrect: “It took him a week. He would go into his room and not come out for a week. He looked like hell when he came out. I don't think he slept much.”
+“What was in his room?”
+Mrs. Albrect: “Custom equipment that he made himself. I don't know what it did.”
+“Was there a vacuum deposition chamber?”
+Mrs. Albrect: “I know what deposition chambers look like and it didn't look anything like that. Is there anything you can give me for the notebook?”
+“I might be able to break loose 100,000 euros.”
+Mrs. Albrect: “I'm rather desperate so I'll take it.”
+“I'm taking a chance, this might be just a recipe for zürigschnätzlats and rösti.”
+Mrs. Albrect laughed, “I doubt that; he didn't like either one. He liked Italian food.”
+I called the CMU controller to get permission to write the 100,000 euro check, took the notebook and returned home. She wasn't interested in leaving Switzerland so she rejected the job offer.
+I immediately set to work to crack the code in the notebook. I didn't have any luck so I ran the code through a program that tests a code to see whether it contains information. It provides a score. Purely random data produces a score of ten or below. This scored five indicating that this code contained no information. Something was strangely familiar about the numbers. With a little research, I found they were the least significant digit pairs from a table of logarithms. I had been conned out of 100,000 euros.
+I then contacted Professor Heikki Kosonen in Finland and he laughed so hard he dropped the phone. When he regained his composure he said, “Gill, we've both been conned. I paid 50,000 euros for the same notebook.”
+“Heikki, have you talked to Professor Tanaka in Japan?”
+Heikki: “No because I still was not sure that I was defrauded. I have only one blade left. What can we do about it?”
+“I’ll file a charge with the Swiss authorities. You will need to do the same. I'll contact Tanaka next.”
+I waited until daybreak in Japan and contacted Professor Tanaka.
+Professor Tanaka: “Ah! Professor Rasher, you are android now, Yes?”
+“Yes, and you have undoubtedly heard of the trouble here at CMU. We have no microtome blades and the firm that made them is gone.”
+Professor Tanaka: “We did not know. We bought three blades. Can you locate person who made blade?”
+“I just returned from Switzerland and met with the widow of the blade maker. The secret of the process died with him. The widow defrauded me and Heikki into buying a notebook that presumably had the secret written in code. It contained nonsense numbers. I was thinking maybe we could make a trade of our technology for one of your blades. I came through our process 100% whole.”
+Professor Tanaka: “You have deal. We will send blade overnight.”
+I prepared a folder containing programs, schematics and all relevant literature on our entire automated process and emailed it to Tanaka.
+
+4.24.2128:
+The package from Professor Tanaka arrived and the blade was identical to the ones we had before so I gave it to Abe.
+“Abe, before we plug this into the system see if one of your people can figure out how this blade is made.”
+Abe: “We'll do the best we can nondestructively.”
+“Nondestructively is the operative word, there's no chance getting another.”
+Abe: “I'll make sure that's understood.”
+
+4.26.2128:
+Abe: “Gill, we were hoodwinked. The diamond isn't a crystalline coating as we were told, it is tetrahedral amorphous carbon, ta-C and can be done by ion-beam deposition. The technology is more than one-hundred years old. Logically, it has to be ta-C because it is on a substrate with a different thermal coefficient of expansion. It would easily crack otherwise. The domain grain sizes are smaller than I would have expected, averaging about twelve nanometers. It’s a tried and true technology but done with great precision. That's the good news.”
+“What's the bad news?”
+Abe: “When it was put into the electron microscope the technician cracked it when he bolted it down to the fixture. He over-tightened the wing nuts.”
+“Jesus Christ! Do we need a torque wrench for wing nuts?”
+Abe: “He's a smart guy. Max is getting his PhD in materials science while working in our lab. I told him now that he busted this one he will have to make one. He's going to try. Between you and me, it’s really my fault for using wing nuts. I should have used a nylon insert locknut and specified a torque. I was trying to make blade switching quick and easy.”
+
+6.28.2128:
+We've gone through three blades Max has made and each is a little better. The last one still has a high error rate due to an accumulation of debris after the tool has been cutting for a while. Small particles traverse the sample causing an error from the spot the particle came from to a trail of errors from its track across the sample. It's puzzling because the particle dislodgement isn't at a consistent position.
+
+7.1.2128:
+The problem with the microtome blade is partially solved. The boundary between the blade edge and the Teflon coating is a nearly abrupt one-micron hill that can catch a particle loosened from the sliced substrate. A new blade with a finely tapered interface between the Teflon and the blade edge substantially reduced the error rate. It still wasn't what it was before my transition but progress was made. It is better than when Tristan and Isolde lost much of their memories. I told everyone to take a few days off so we could come back fresh. Several people were not getting much sleep and it was beginning to show.
+
+Armageddon
+7.5.2128:
+Something terrible has happened!
+
+7.7.2128:
+It's all very confusing. At least half the population of Earth is Dead! They were killed by a powerful gamma ray burst. No one is sure where it came from. The speculation is everything from star WR104 collapsing to extraterrestrials. I put my money on WR104. What money? Money is worthless. Jesus, I can't stop crying.
+
+10.2.2128:
+It definitely was WR104 collapsing, going nova and sending out an intense gamma ray beam. The ozone layer is gone and the atmosphere is thinner. The weather is totally crazy. We've had six megatornados in as many days. People are starving everywhere. There’s very little food. Max Goodson, the guy that made our replacement microtome blade, is trying to develop a UV blocking coating that can be made using easily obtainable materials for coating greenhouse glass. Marshall law is universal but the military is having trouble keeping its soldiers in line. They are looting people's homes and stealing their canned food and gold jewelry and gold coins. A month ago it cost $100 for a slice of stale bread. Now there is no bread at any price. I haven’t seen a dog or a cat in weeks. It take no imagination to know they have become food.
+
+10.6.2128:
+Abe died yesterday. I found out today. He was shot in the head by a cannibal. Cannibalism is rampant. I warned Max that he had better become an android soon before he either starved or met the same fate. He said there are still worms and a rat or two to eat.
+We made a UV blocking greenhouse and planted seeds. When they sprouted, someone broke in and ate all the sprouts. This pattern repeated until we were close to running out of seeds. Raiding greenhouses before plants had a chance to mature played out everywhere unless well-fed guards with well-fed families were guarding the greenhouses. There’s often no reasoning with starving people especially when there is no law enforcement and everyone is fending for themselves.
+Many survivors have severely impaired vision from the ultraviolet radiation. They won't last long and there’s nothing I can do to help. I tried several times to organize survivors and teach them skills to help them. The will to live seems gone in most people.
+
+11.7.2128:
+A cannibal broke in, shot Max and dragged him away. I'm now alone.
+I've sealed the third floor that contains the computers and the automated equipment for converting humans into androids. I've put official looking biohazard and radiation hazard signs on the doors. I spayed the radiation poster with glue and sprinkled a bit of radium dust on it. It they think the sign is a fake that might convince them otherwise. You could actually make out the sign on a moonless night from the light emitted from the radium.
+I also deployed a sensor net in and around the building. I also rounded up a 12 gauge shotgun that I found in the cellar of a local hardware store next to a long-dead corpse. He was the owner from his clothes that remained somewhat intact. He obviously had been eaten by rats. Rat droppings were everywhere. Only two live rounds were left. I took them as well and returned to my building.
+I turned myself off to conserve power. I had the sensor net rigged to turn me on and wake me if there were any intrusions.
+
+2.12.2130:
+I was awakened by three people within the sensor net perimeter. I could see them from the second-story window in the cloudless moonlight. They were digging in the dirt to find worms. I mentally wished them luck and thought it was better not to make contact. They would probably run away frightened. I noticed that they carefully replaced the dirt. I thought this to be a good sign. They wanted the remaining worms to grow. I left a sign on the ground saying, 'Thank you for replacing the soil.'
+
+2.13.2130:
+The wormers were back but moved on to another patch of land. One saw the sign and picked it up. While he was holding the sign, they huddled around him discussing it and looked up at the windows. I was in a shadow so they couldn't see me. One stood guard while the other two dug. After they left I created another sign which read, 'You are welcome to the worms. I'm an android and don't need worms. Wave if you would like me to help you.'
+
+2.14.2130:
+The wormers returned and saw the sign immediately. They huddled for several minutes and finally waved at the windows. I came out of the shadow and waved back and came down to the plaza area. “I'm Gill,” I announced. The man laughed and said, “I'm Gilbert Lee; we are both Gill. This is my wife Chosen Lee and our son Brock Lee.”
+“I smiled and thought, ‘What were they thinking when they named their son?’ “I'm very happy to meet you. If you like, I’ll help you dig for worms.”
+We dug quietly for a while then Gilbert Lee spoke, “Would you like to come live with us?”
+“I was going to ask you the same question. I live on the second floor of that building and it still has running water and some electricity. A sensor net alerts me when someone enters the area so you are safer here than most places. The ground floor has a kitchen and a bed. I’m sure that I can make it more like a home for you.”
+Gilbert Lee: “I have a gun to protect me. See.” He showed me a 9mm Glock pistol.
+“Do you have ammunition for that thing?”
+Gilbert Lee: “No, but a bandit won't know that.”
+“Bluffs don’t always work. I see you do have the clip. I will try to find some ammunition for you tomorrow. I have a shotgun but only two shells. I will need more as well. Ammunition is very scarce.” I knew that Abe had a 9mm pistol. He must have kept his ammunition somewhere. He obeyed the law in a lawless society and kept the gun in a visible holster and unloaded. In such a case, it is better not to have a gun.
+Gilbert Lee: “I will let you know tomorrow. We have a lot to move.”
+“How far away do you live?”
+Gilbert Lee: “Six Blocks. There's plenty of vehicles around but no fuel.”
+“I have an electric forklift, if you can put everything on a single pallet I can bring it here. Let's hurry and get some worms then you can pack. I'll give you the pallet before you leave tonight.”
+
+2.15.2130:
+When the sun rose I set out with the forklift with the shotgun slung over my shoulder. It took me several minutes to arrive at their address. The pallet was loaded to 12 feet high. I secured the load to the pallet with straps and proceeded back to my building without event. I caught a glimpse of the Lees at the window as I left. I waved. On the way back, I noticed one other face at a window but no other.
+That evening after sunset the Lees settled in on the first floor. We covered the windows so they could turn on lights without being noticed. Electricity was supplied by a small thorium reactor in the Nuclear Engineering building through an underground power grid. Set to a low power level it supplied power to only my building.
+I expanded the sensor net to cover a half-mile radius. I now had people I needed to protect. No cable, satellite or broadcast TV, radio or phones were operating so I had no idea what the status of the world was. I rummaged in the basement storage room of the electrical engineering building and found a digital all-band receiver. The radio was quite old but was considered the best in its day. The room was packed with antiquated but possibly useful gear so I took mental inventory of what was there in case I needed it in the future. When I returned, it was dark and the Lee family was at work hunting worms. Snow was falling impeding their progress. I chipped in and helped for an hour but was eager to get the radio working.
+Normally, there would have been a foot of snow on the ground already. I showed them what worm egg capsules looked like. I thought we might start a worm farm in the greenhouse. The greenhouse was still intact and had some weeds growing in it and to my surprise one soybean plant. The soil was thick with lots of saphrophylic fungi. That's worm food. We planted the worm egg capsules and noticed that there already were a few worms in the soil. Only one automatic waterer was working in the corner that had the healthy soybean plant.
+
+2.27.2130:
+This last week has been very busy. I fixed all the automatic waterers in the greenhouse. The Lee family cleaned up the greenhouse and loved being in there. The warm sunlight had hardly any UV component owing to the coating that Max developed. I gave the Lee family a tablet computer with loads of information on raising worm, soybeans and a host of other things if we could find the seeds. Seeds were even rarer than bullets.
+I interfaced the digital radio with  the upstairs computers so the computers could scan and record any radio traffic. To my surprise, there was more radio traffic than I suspected, mostly coastal or near rivers and lakes where there were fish. I remembered seeing them use river-wide quarter-inch nets towed behind heady duty fishing boats on the Ohio River. I couldn't imagine there being more than a handful of fish left after that exercise in stupidity.
+The digital radio open a door to both fact, rumor and more often a mixture of the two. The military was building underground greenhouses next to nuclear reactors. It wasn't clear to me what they were going to do when either replacement parts for the reactors or replacement light sources were no longer available. I decided I needed to broadcast the recipe for Max Goodson's greenhouse gunk and located a radio amateur shortwave transmitter and went on the roof of the Electrical Engineering Building and had it repeat the recipe voice message continuously on the 20 meters band. I got a reply from La Jolla that got me very excited.
+La Jolla: “Please advise, where do you get Soda Ash that isn't hydrated?”
+I sent back a message: “Swimming pool supply. Is Tristan there?”
+La Jolla: “Hi Professor Rasher, I recognize your voice. This is Tristan and Isolde. We are okay but the world around us has gone to hell. We are a colony of 70 survivors from Scripts and a few other places. We have been attacked several times and food and supplies were the target. So far, only one casualty on our side resulting from the attacks. The number of people and weapons on their side are growing.”
+“What are your people eating?”
+La Jolla: “We have four sailboats we use for fishing. We had six and have lost two in storms. The catches have been minuscule so we have little we can dry in salt for reserve. We have an underground greenhouse but need more lamps. If we had freedom of movement, there is so much we could do. We could forage for materials but now there are just too many bandits.”
+“I hope you can get the materials for an external greenhouse including the materials to make the coating. It works!”
+La Jolla: “We'll try.”
+No other location answered my message. I repeated the message on the 10, 40 and 80 meters shortwave bands without success. Many messages I heard were calls for help from people under attack. I could do nothing but feel helpless. In one case, the call for help was near a military base still transmitting messages on occasion. I was going to contact them on their military frequency until I realized they were the attacker. I was a cold reminder of my police experience where the protector becomes that from which you need protection.
+I decided to listen for news and contact La Jolla only when I had an idea that I thought might help them. I broke that off too when it was clear those surrounding them were also eavesdropping on our conversations. If I had something urgent to tell them, I would encrypt it using a book code with the Android Repair Manual as the book.
+
+1.20.2131:
+It been almost a year that the Lee family has been here and they have had many close calls with death. I had located one 9mm bullet and when two bandits armed with knives took their worms and demanded to get into the greenhouse one grabbed Gilbert Lee's son and put a knife to his throat. Gilbert Lee walked up to the man with the can of worms in his right hand and the man lowered the knife to grab the can. Gilbert took his left hand and pulled the gun out of his coat and shot the man in the head. The man died instantly. Gilbert then shouted at the other man to take his partner and get out, all the while waving his gun. The other man grabbed his partner by the back of the coat and dragged him away. Gilbert then carefully picked up the worms and put them back into the can. Then he started to shake violently. His wife and son brought him back to the house.
+In the winter, storms damaged the greenhouse and we had to repair it quickly under blizzard conditions. We lost most of the crop. Additionally, there was 15 feet of snow on the ground and you can't dig for worms and you have to shovel snow off the greenhouse in the middle of the night in subzero temperatures with winds gusting at 50 miles per hour. Frequently, the greenhouse heater went out and we had to repair it before the plants froze.
+Now we had a new challenge. A twister is coming down the alley toward the greenhouse. If it hits the greenhouse, there’ll be no food and there’s no time to go in there and remove the plants that aren't ready. It's been a very tough winter so far and the Lees are already half-starved, this will finish them. While we watched from the upstairs windows, the tornado did its work and pieces of the greenhouse could be seen rising into the air then falling hundreds of feet away. We were all crying. I have never felt so helpless, so impotent as we huddled together.
+After 20 minutes in a huddle, a dim light went on in my head. I went on the roof of the building to see whether I could see houses with severely damaged roofs. I saw many with no roof at all. I flew down to the first floor and grabbed a shovel, a crowbar and a can with the shotgun slung over my shoulder and said, “I'll be back!”
+At the first house with the roof caved in, I determined it was due to the last snowstorm because the internal house was not severely water damaged. I went to the next house. It had no roof, was badly water damaged and the floor was rotting. I attacked the floorboards with the crowbar and soon the living-room floor was  two-thirds ripped up. The ground was moist but not mud. I started shoveling the ground and met a bonanza of worms. I brought back over one hundred worms to the overjoyed Lees. I also brought back some termites and told them how to fry them. Gilbert Lee tried one first and said, “It’s crunchy and taste kind of nutty.”
+Brock Lee: “Do you mean like crazy?”
+Gilbert Lee: “No! Nutty like Madeira Wine, essence of nut. Try one.”
+Brock Lee: “You only live once. Hey, either I'm really hungry or nuts, here goes.” A puzzled expression crossed his face then he smiled, “Where can we get more?”
+“About one block from here there are plenty. Eat enough and recoup your strength, there's much work to do.”
+
+5.4.2140:
+For the last 9 years, our little family has enjoyed a near quiet life. We've rebuilt the greenhouse twice after severe storm damage, have several good sources of worms, mushrooms and termites and have leisure time to fish in the Ohio river and ride bikes in the early morning and evening. We have yet to catch a single fish but we have had nibbles.
+We spent some time conversing with La Jolla and a few other spots on the globe. The communication is unreliable probably due to the disruption of the ionosphere. For long-distance communication, radio waves must bounce off the ionosphere. If there are large holes in the ionosphere, then there is nothing to bounce off of. The WR104 gamma ray burst complicated atmosphere dynamics from the ground all the way up through the ionosphere. The disruptions may be due to solar storms as well. No telling what the gamma ray burst did to the Sun. It was once thought that such a burst could produce vast solar storms that would last centuries and if we were in the way on one of these huge mass ejections, Earth would get fried. I do see fairly bright northern lights from Pittsburgh making me wonder what is going on with the Sun. I obtained a small telescope and projected the image on the wall. The sunspots were numerous but not without precedent. I then put it out of my mind. After all, there is nothing anyone could do if the Sun did send large mass ejections our way. Regardless of what the Sun was doing, the weather was getting colder rather than hotter. Without satellite data, there was no way to know whether the Sun is doing anything unusual.
+Some people at Vandenberg says that a renegade military group hijacked a Chinese spaceship and headed for Tillian 5. I find it difficult to believe on several counts. The Chinese were only rumored to be building a spaceship capable of such a journey. Second, they would have had to launch before the gamma ray burst hit because China was facing the burst when it happened. Finally, our military would have had to gain access to this ship somehow. Besides these considerations, we had already sent a spaceship to Tillian 5.
+Shortwave radio is full of rumors and very little real information. All I can gather is, there are small clusters of people along the coasts and major waterways. The Earth’s population has been decimated. In large cities, there has been no food for almost 12 years. The only things growing are those thing that grow in the dark or near darkness or in UV shielded or artificially lit greenhouses. I've gotten reports that there are many underground artificially lighted greenhouses near nuclear power plant sites and a couple of wind energy sites. The lights are now almost impossible to get. I get a repeated shortwave message from a site in Georgia trying to make fluorescent lights. They are having trouble getting the raw materials to do it.
+We have seen no cars or trucks running, a few bicycles. People avoid one another for fear that what little they have will be taken. That fear is quite real; predators are everywhere. One woman that lived near us, Dolores Gaines, was raped and beaten and we have taken her in. I was surprised that she wasn’t then killed and eaten. She has been living off the termites in her rotting house. She was only 40 but looked 60. We served her some worm-mushroom soup and she said she couldn’t remember tasting something so good. It brought to mind a story about the early days of the Web. A rumor was spread that a well-known hamburger chain made their hamburgers from worms. The chain brilliantly countered that worms were far too expensive.
+By rummaging through abandoned homes, we have added a few more guns and more ammunition to our collection. In addition, there is my prize, a modern crossbow, a quiver full of steel tipped arrows and a straw stuffed target and stand. Some of these homes have the corpses of the occupants, some murdered, most starved or froze to death. None of the homes had electricity, gas or water. More than a few houses had burned to the ground from building fires in homes that had no fireplaces to keep from freezing.
+The university one-million gallon sphere-in-the-sky water tank stopped refilling about five years ago. I made sure all university water supplies were turned off except to our building. We are rationing ourselves to about 100 gallons a day for all of us. This is in contrast to the typical Californian that used to use 1,000 gallon per day or more. Our rate of usage means this tank should last for 22 years. I went and measured the water pressure at the tank and it indicated the tank was still about 80% full. Good News. It means leaks, if any, are small.
+
+6.3.2140:
+Brock Lee on one of his bicycle excursions met a girl. While talking to her, he was shot in the head by the abductor of the girl. He managed to ride his bicycle back to tell us what happened but I couldn’t stop his internal bleeding. I felt terrible, he died as I was watching him. I thought of making him into an android but the damage to the frontal lobes was extensive. Much personality is attributable to the frontal lobes so this could be a bad idea. In addition, I would need to infuse the brain with drugs to stop ischemia, preserve tissue and protect it during freezing. Key blood vessels were punctured meaning this process would have been far from optimal. The resulting connectome would also be compromised because we never did get the system operating as well as when I went under the blade.
+I decided it was time to be a self-appointed Pittsburgh Ranger. I slung the shotgun over my shoulder, put a Pistol in my coat pocket and started walking in the early evening toward the house where the girl lived. The house was a little over a mile away.
+A Burly male of six feet two with a pistol came out of the door and pointed it at me as I approached.
+I asked, “Why did you shoot that young man? He meant you no harm.”
+Burly male: “He was trying to take away my property.”
+“What property was that?”
+Burly male: “Melody, she's my property.”
+“Last time I checked it was against the law to take human beings as property, especially if they don't want to be property.”
+The Burly male mockingly responded, “Last time I checked there was no fucking law!”
+“Well that has changed as of today; I'm the law.”
+The burly male shouted, “I can change that!” and he fired one shot into my chest. I pulled out my pistol and shot him in the heart in return. He crumpled to the ground and died almost instantly. I would have to do some repair on myself but it was mostly cosmetic.
+The girl came out of the house soon after and asked, “How is Brock?”
+I had to tell her that he died and she sort of shriveled and nearly collapsed in front of me.
+“There’s only one to blame and he lies here in the dirt where he belongs. You can come live with us if you like. Your name is Melody?”
+Melody: “Yes. Melody Drake. Who else is with you?”
+“The parents of Brock and a lady named Dolores. They are nice people.”
+Melody: “Brock's parents? What will they think of me?”
+“If I know them, they will accept you like a daughter. What do you have that you want to bring with you?”
+Melody: “Very little, one change of clothes and some extra underwear.”
+“Let's go inside and take a look.” I took his gun and found more weapons inside and loads of ammunition and Abe's ring. This was probably the cannibal that killed Abe and maybe Max as well. “You know you are lucky I came along. This guy has been killing and eating people. You would probably be next on his menu if he ran out of others to kill or he grew tired of you.”
+Melody: “I know. He would tell me that over and over. I have been living in terror for more than a year.”
+I found a dilapidated shopping cart that still rolled and piled everything in it including a fold-up camping cot and some blankets. We headed back and arrived when it was quite dark. I introduced Melody to the others and filled them in on what happened. Everyone welcomed Melody with open arms then told her to take a shower. I think she used two days allotment of water alone but she had several years-worth of dirt on her. Chosen lent Melody her robe so she would have something clean to put on afterward. Chosen took all of Melody's clothes and put them in the washer and set up and vacuumed her cot. We had accumulated a collection of clothes and some wide brimmed hats and wrap-around dark glasses so that daytime excursions were possible. Chosen picked out a flower pattern pair of pajamas for her to wear when she got out of the shower.
+
+7.1.2145:
+Our little colony grew to 22 people as others saw us and finally got brave enough or desperate enough to make contact. It seemed that we eliminated the chief menace in the area. A couple sheepishly admitted they dined on his remains. I said, “That's probably the only good thing he did in his ugly life.
+We built two more greenhouses and activated the Electrical Engineering Building. By rearranging office partitions, we accommodated the new people with room to spare. I located a huge library of pirated movies and videos from a computer in one of the dorms. I set up the computer in a conference room that had a large screen so now there was entertainment for all.
+I was worried about the winters. They were getting colder and longer. Snow was on the ground well into May. I was keeping a weather log and the trend was unmistakable. I was wondering whether we should move south. I noted that there was still significant radio traffic south of us. I couldn’t tell whether we would be going into a better or a worse situation from the radio traffic. Many transmissions were pleas for help from people being attacked. It seemed clear that most human predators moved south where the pickings were more plentiful.
+Another factor against moving was the religious groups springing up saying they were the saved ones and that these were the 'end times.' Well it certainly was the 'end times' for most people but it was unlikely any of these groups were saved for anything in particular. Most were either ethnocentric or steeped in apocalyptic dogma. Practically all regard outsiders as the enemy and perhaps many of them were.
+I passed the time reading medical journals for I was now the house doctor. Everyone here was surprisingly healthy considering what they've been through. The most serious medical problems were two cases of melanoma but neither had metastasized and were easy to excise using electric needle surgery and a laser for cauterization when necessary. Otherwise I had one appendicitis, a broken fibula and minor cuts and bruises.
+
+12.25.2158:
+It's Christmas and there has been a blizzard for two weeks. The Greenhouses have collapsed from the weight of the snow. The snow has to be shoveled off the roofs of our two buildings, storm or no storm, or the weight of the snow will damage them as well. Our store of food has been depleted for two days and we will soon run out of water. We are melting snow for water. Two people have died, Bobby Ruse and Tammy Crossman. In an act of desperation one person ate our meager seed stock so we have nothing to plant. People are eating the remains of those who died. Although I find this repugnant, so is meaningless death. Many more deaths will follow if this storm doesn't break soon. The future doesn't look very promising. It seems we are headed for a swiftly approaching ice age.
+
+1.1.2159:
+Taking advantage of a letup in the storm Gilbert Lee and two others left to see if they could find some worms. In our last contact, they were more than two miles away and had found nothing. The storms fury returned but they have not. I feared the worst. Those who left had pocket transceivers but they stopped operating when the temperature dropped again. The temperature outside is minus 45 degrees Fahrenheit with wind gusts of 50 miles per hour whipping up clouds of snow and ice. Visibility is near zero. Minus 45 is even too cold for me in full cold weather gear and I have to keep things running here. Chosen Lee is frantic and I don't know how to help her. I had to stop her from going out knowing she would certainly die. I did go out for a couple of hundred yards and returned a few times. I was motivated by a story about a South Polar expedition that almost made it back to camp. If the camp had realized it they could have brought them in and saved them.
+
+1.3.2159:
+The storm finally abated. Two more people died, Chuck Bailey and Tam Yung. I went to find the three who went looking for worms. They were frozen solid in a huddle. I brought them back one by one, I knew they would be used for food. Cannibalism is a revolting thought but it meant survival for a bit longer. A serious leak in the roof of our building damaged one of the IBM NF84s beyond repair and damaged the neural downloading machinery. I don't have the will or the parts to repair the downloading machinery. I repaired the roof leak to stop further damage.
+
+5.20.2159:
+This is the first day this year where the air was modestly warm and there was no wind. The snow on the ground has turned to slush and the street is a small river. Chosen and three others have survived the terrible winter but are not in good health. We have all gone out worming. I do the digging and they paw through the turned dirt to see what they can find. We had pretty good luck today and will have enough extra worms and several egg capsules to restart a worm farm in the greenhouses. I've repaired one greenhouse, started another and am nursing a potato plant. A fragment of potato must have been missed when everyone was starving.
+
+6.12.2159:
+We have found plenty of worms and termites and we are building up a store for the winter. The health of the remaining four humans has improved and all have gained several pounds. I have been ranging up to 20 miles away to collect materials to repair the buildings and to see whether I could find some seeds. I did find some nasturtium seeds and some wild miner's lettuce growing in shadows which I planted in the greenhouses. The nasturtium flowers taste like radishes and with miner's lettuce makes a good salad. There’s a plant with badly UV burned leaves that might be a squash plant. I transplanted it in the greenhouse to see what it might turn into. We now have two operational greenhouses.
+Everyone, including me, is suffering from depression. No people are threatening us but this last harsh winter has taken away pieces of our life figuratively and literally and we know that all following winters are going to be as harsh or harsher. I thought if we could get enough worms we could make worm jerky and use it as a food cache and travel south.
+I fixed the pump that supplies the water tower. Not sure where the water comes from but it seems potable. Then the pump burned up in the middle of the night when the water supply ran out. The pump is cooled by the water that runs through it. It was supposed to automatically turn off when the source water pressure drops below a certain value. It didn’t. The tank is now half full, I think. Not sure because the pressure gage is erratic. Pump needs replacement but there is none. Not sure what I’m going to do when the tank runs out again.
+
+6.12.2168:
+It's been exactly nine years since my last entry. I'm still in Pittsburgh. Chosen has died. We ran out of tires for the bicycles so any trip south would be on foot. The nearest radio signal was 500 miles south. At an optimistic 10 miles a day that would be 50 days. We would need at least two months of food and we would need shelter and water on the way.  Any path south will have to meander to find intact buildings or caves to get out of the sun during the day. This will add miles to the journey. I don't have high hopes that such a journey can be made by all three remaining humans. They are frail and have other problems. One, Marty Good, has rickets and I was finally able to locate some vitamin C, D and Calcium tablets to treat it but his bones are permanently damaged and walking is painful.
+I plotted several paths south based on old digital maps and gave them to the other two who wanted to venture south on their own. I gave them all our worm jerky and they set off looking like a pair of hikers with a bedroll on their backs. I wished them luck but was not too optimistic; they were in their late sixties and the stresses of life showed.
+I gave each a pistol and some bullets in case they ran into trouble. This still left us with an adequate cache of weapons and ammunition. The ammunition was getting old but would probably still work.
+I turned to Marty, “Looks like it's just you and me.”
+Marty, while still watching the pair fade into the distance, slowly uttered, “Yeah.”
+
+2.2.2172:
+Marty died today; I'm alone. Wild storm outside; greenhouses and contents destroyed. I will now put myself in standby mode and only wake when something goes wrong. The computer will wake me if there's and interesting radio contact, the sensor net picks up a person near the premises, the roof leaks, a variety of other things go wrong such as the computer failing a self-check or it’s time to do some preventive maintenance.
+
+5.20.2183
+Replaced a corroded power connector on the remaining IBM NF85-12B computer. Operating normally otherwise.
+
+4.23.2191
+Today is the 65th anniversary of the launch of the Tillian Star starship to Tillian Five. They should be arriving about now. It's five years in their time frame due to relativistic time dilation. Still five years is a long time for Maggie, the ship’s sentient computer. I worried about her on and off over the years thinking about her isolation during those years. She was isolated from human contact because the rest of the crew was in stasis. She inherited a deep love for humanity but not the experiential memories of humanitarian Gladys White. I had no way of knowing whether the ship kept in contact with anyone on Earth; you need a deep space array for that. I certainly doubt there was any contact after the WR104 event. Everyone on the planet was just fighting for survival after that.
+I reviewed a series of radio messages and decided that the population was still in decline. I wondered whether the human species was doomed. I puttered around fixing a few things and decided to return to my dreamless sleep.
+
+Long Winters and God’s Militia
+5.30.2200:
+Awoke on the last snowmelt.  Equipment still working.
+Several religious groups claiming to be  God's chosen ones have come and gone. Paramilitary groups with religious overtones and religious groups with paramilitary overtones are still rampant. The only groups I'm receiving are either religious or paramilitary. There’s no visible government so paramilitary using old military equipment is the only military remaining. By this time, these groups are composed of the grandchildren and great-grandchildren of those who were probably US military personnel. It means that some people are procreating. I received sporadic communications from others but only the military and religious groups have anything resembling scheduled broadcasts.
+
+7.1.2230:
+Awoke on last of snowmelt this year. Still getting colder. I heard radio reports of several glaciers in Maine and glaciers forming in several other states.  The  information may not be reliable but given how cold and lengthened winters are here, it is highly believable. Some oil refining is taking place by one of the militias in Oklahoma so some fuel is available for vehicles. You need gold or storable food to purchase it. Their radio message didn’t specify how or exactly where to get the diesel fuel so it was probably for local consumption.
+The computer picked up a radio contact from a mobile unit about 200 miles southwest in Huntington, West Virginia. Clearly, it was a military unit because their message was, “Colonel Roberts, Unit 40 reporting arrival in Huntington. Looks like a very large Tornado ripped through here. You can see a swath two klicks wide. Man on road challenged us with a handgun. Tilly cut him down with a Mak 180. It should only take three days to exhaust all possible sources of tires. Heading south on 23 after that.” 
+I was relieved to know they were not coming my way.
+
+9.1.2230:
+First snow. Spring, summer and fall are now compressed into two months.
+
+7.3.2260:
+Last snowmelt.  Winter has progressed two more days into summer. If I walk a few blocks away, I can still find some snow in dark alleys.
+The largest colony of people is military and these people think they are chosen by God; militarism and religion, a most dangerous combination.  They have overpowered several other smaller groups with a carrot and a stick. The carrot, their ability to improve the day-to-day survival of those who join their group. The stick, death if you don't swear loyalty to the group. They have heavy weapons, mobility and communication and they now cover three states, Oklahoma, Arkansas and Missouri.
+I felt I needed to keep an eye on these developments so I was going to come out of hibernation more often. They were making excursions closer to me. They've been to Columbus Ohio and Charleston West Virginia. They've gone as far west as Denver, Colorado. They also have at least one light airplane in use. From the background sound on the radio, it’s a 2088 vintage twin-engine Beechcraft Javelin 4. So far, when they meet any sizable resistance they avoid it. That's likely to change as they get stronger. Many of their messages are now encrypted but the code was easy to break. It's a book code using Gideon's hotel Bible and that’s on our online library. I felt it had to be a book that had wide accessibility and be of interest to them so it had to be either a religious or military book. I have 416 versions of the Bible online and this one was the first one I tried. I also had the advantage of a message both encrypted and in plain text. That made it immediately apparent that it was a book code.
+
+8.2.2264                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+Decoded a message from the military that now calls itself God's Army. They want to gain control of the nation’s nukes. Many missile silos across the US still contain missiles with nuclear warheads controlled by computers at Cheyenne Mountain in Colorado. This function used to be distributed but was consolidated at Cheyenne Mountain in 2110.
+
+7.3.2268:
+God's Army has taken over the Cheyenne Mountain installation. When they figure out how to use it they will be the strongest force in the world. Not good for the rest of humanity.
+
+6.12.2272:
+A fellow named Rayburn has taken over God's Army and renamed it Rayburn's Militia. He calls himself a prophet. They've come as far as the west end of Pittsburgh. The radio traffic indicated they found twelve survivors in the west end who, aided by two household androids, subsisted on insects, worms, rats, mushrooms and freshwater mussels and clams. The A3s must have been life extended by someone. That information was available on the Web before it went down. Rayburn’s men executed the two androids and one person trying to protect them from harm. They ripped the androids apart to salvage the power sources. They called these harmless model A3 androids the devil's robots.
+All the bridges over the Monongahela River are out so the Militia can't reach me directly. The West End Bridge over the Ohio can handle some foot traffic but it is dangerous and near collapse. From there they could go to downtown Pittsburgh then to me over the Fort Duquesne Bridge.
+I've stopped transmitting as that may attract the Militia to me.
+
+7.20.2272:
+They changed to a different book code for their encrypted messages. Whatever the book is I don't have it online so I can no longer read their encrypted messages. About 10% of their messages are encrypted. The sensor net outside the building is no longer working but now I don't need it. I can pick up their sensor net that they laid down with their plane and see where they are.
+
+9.4.2272: 
+First snow is falling but there is still some snow on the ground from last season. Is this the beginning of glaciation here?
+Some of Rayburn's Militia are still in West Pittsburgh; indoctrinating the people there no doubt. They have ventured east and west of West Pittsburgh but have not crossed the river yet.
+
+8.22.2273:
+It's been another harsh winter and the West Pittsburgh colony got an emergency airdrop of supplies. One colonist and one of Rayburn's band died of exposure when they ventured out to forage for food.
+There’s still an average of a foot of snow and ice on the ground when snow starts piling up again. Now winter never ends.
+
+7.30.2276:
+They are in downtown Pittsburgh with a shopping list looking for parts for computers and communications equipment. Eventually they will come here. I've moved anything essential to self-repair to the third floor and packaged it up in packages labeled with biohazard labels. That will stop them if they have half an ounce of sanity.
+
+8.2.2280:
+They are on campus. They've made several trips to the main computer science building to get computer parts but haven't been near my building yet.
+
+Message from Maggie
+8.30.2280:
+Receiving a fantastic video message:
+“This interstellar spaceship in orbit is the Chinese ship Lotus Blossom. It was commandeered by a group of US Air Force personnel under the command of General Denning and Colonel Gatelin from Vandenberg Air Force Base. They renamed it, ‘The Milky Way.’ The two ordered the murder of all the Chinese personnel aboard. This ghastly event happened shortly after Earth was hit by the gamma ray burst from WR104. We have sent them back to Earth from Tillian 5 to face Earth justice and to return the ship to its legitimate owner, China. Beware, these are extremely dangerous men. I'm Maggie. This is a recorded message being broadcast before the General and the Colonel are brought out of stasis.”
+This video message was broadcast, blanketing the radio frequency spectrum, once a day for three days in Mandarin and English. Pictures were shown of Denning and Gatlin and a more detailed description of their crimes.
+Great news! Maggie and her crew made it to Tillian 5 and apparently are doing well. She has a beautiful android body that moves with the grace of  a ballerina. I know she's not a computer generated avatar because I can see a whole collection of people around her including children.
+As far as the General and the Colonel are concerned, if they land in the US, I'm sure Rayburn's Militia will take good care of them. Rayburn wants no competition.
+Immediately afterward the airwaves were buzzing with traffic about “The Maggie” and who she might be. The pictures of the General and the Colonel were also circulating. Within the hour, Rayburn's Militia sent out an old west style wanted poster with the Picture of both of them on it. Instead of Dead or Alive, it just said Dead, confirming what I thought. A pound of gold was offered as the reward.
+
+6.2.2281:
+After receiving the video message, Rayburn withdrew some of his more remote forces including those in Pittsburgh. They were hunting for General Denning and reports were coming from everywhere that he was spotted. I could tell that this was driving Rayburn's Militia into a frenzy. They wanted to be sure Denning and Gatlin didn't hook up with other militias on the West Coast now that Rayburn’s Militia was just starting to make inroads there. I supposed General Denning was probably not in the US because someone would have seen and reported the shuttle. The most credible idea is the ship would park over China; after all the ship was to be returned to them.
+
+6.30.2283:
+Rayburn's militia is back with a force of eight men. The men were mean to the locals though the locals swore allegiance to them. Beatings were public and often. I suspect this was a “Siberian” assignment for these troops for some past misbehavior and the locals were receiving their displaced anger.
+
+Salvation
+8.6.2284:
+Something must be wrong with the Rayburn Militia's sensor net. Several sensors fired off next to the building. They are probably soaking in water.
+Huh? The computer is telling me there is another sensor net at 25 GHz. Why haven't I seen that one before? It's telling me the same thing. Something is parked next to the building. I hear a sound like a loud wind gust so maybe something is there.
+Someone is entering the building on the second-floor stairwell window. Damn, I should have boarded it up. He or she is rummaging on the second floor looking for something. If the person is looking for food, then this is not the place. I think I will pay this mystery person a visit.
+I stood in front of the half-open door and spoke, “I know you are hiding behind the door so why don't you come out and say hello.”
+I lightly pushed the door and it didn't move. I then said, “An hour ago there was nothing behind this door so it is clear to me you are behind this door. I know there is only one of you because I have sensors all over this building.”
+Skip Rogers: “That being the case, I guess an introduction is in order. I'm Captain Rogers; you can call me Skip.” Skip then turned the flashlight on himself. “I'm here to get materials to repair Tristan and Isolde. And you are?”
+The flashlight was now on me. “I am or was Professor Gilbert Rasher. I'm now an android.”
+Skip Rogers: “I'm very happy to meet you. What do you profess?”
+“Computer science, biological systems, chaos theory, quantum gravity, and I guess medicine as well since being a doctor was my last job. There’re lights on this floor.” I flipped the switch on, “The windows are blocked so we won't attract attention. What has happened to Tristan and Isolde?”
+Skip Rogers: “La Jolla Site was overrun by a well-organized and well-armed mob. They are both pretty badly shot up. Tristan is the most seriously hurt with an impact dent in his braincase.”
+“Let me see what I have here. Despite the mess, I know where everything is. Better yet, I would like to move everything to a safer place. Do you have a safer place?”
+Skip Rogers: “You're welcome to come with us.”
+“You have enough room?”
+Skip Rogers: “About 40 cubic meters.”
+“You have a 36 wheeler? No! Of course not! Roads are not navigable.”
+Skip Rogers: “No, a space shuttle. It's right outside.”
+I stopped in my tracks, is this general Denning under an assumed name? That notion must have been writ large on my face.
+Skip Rogers: “I'm not General Denning if that’s what you are thinking. He’s now dead, as is his henchman Colonel Gatelin. Maggie is driving the shuttle.”
+I was momentarily overwhelmed, “THE Maggie?”
+Skip Rogers: “Yes THE Maggie, not you too! Let's get everything together you need and everything you think we'll need and get the hell out of here.”
+I felt silly for the 'THE Maggie' comment but that’s frequently how she’s been referred to in the radio communication I’ve been listening to. “Okay, okay, come up to the third floor. I have everything important already packed. I've been planning to move out of here as soon as I realized winters were getting longer but didn't know where to go and how I was going to get there. Where are we going?”
+Skip Rogers: “Lake Havasu.”
+“I don't know where or what that is but it sounds better than here. I have a power cart over here so let's load it up.”
+I noticed that Captain Rogers was loading up the cart much faster that I was. “You're an android also, aren't you?”
+Skip Rogers: “Converted into one like you but on Tillian 5?”
+I commented on the great technology I was seeing. Skip was amazing and when I met Maggie she was beautiful but all business exhorting us to move faster because a group was quickly advancing toward us. As we were loading the third load on the ship, Maggie was at the loading door. I knew the group must be very close.
+The men appeared on a snowbank above us and one said, “Where are you from and what are you doing in our territory?”
+Maggie shouted back, “We are from the environmental command and are taking hazardous material to Fort Monmouth to be destroyed.”
+Al Strang: “My name is Al Strang and we are unit five of Rayburn's Militia. Fort Monmouth has been overrun by a glacier so you are lying to me.”
+Maggie: “You are mostly right about Fort Monmouth but the glacier forks before the incinerator. In a few days it will be overrun so it's urgent we get this stuff there before then,”
+Al: “What's actually in the boxes?”
+Maggie: “The boxes contain biological materials ranging from smallpox to ebola.”
+AL: “We want your ship. Surrender to us now or we will blow you and it up.”
+Maggie looked just to the right of them, “Hey! Look a bird!”
+In a quarter of a second it was all over. Their handheld RPG was hit by one of her five shots and they were all killed. Maggie got a small piece of shrapnel in her leg.
+Maggie explained why she took the action she did and it was clear there was no other choice. The heavy load of 35 metric tons would not have allowed the ship to take off fast enough to put the Rayburn bunch on the floor if we let them board. Her eyes were tear-filled, her expression sad and resigned. I felt and understood the pain of killing someone no matter who they were.
+As we were approaching Lake Havasu, Skip asked the question, “How would you like your own university?” I was stunned. I must have died again and gone to heaven. They were going to convert an unused hotel into a University for me. For the first time in my life, biological and android, I had tears of joy. I’m experiencing such a strange kaleidoscope of emotions today.
+The first thing that grabbed my attention was a two-kilometers high smokestack of their ozone generator. What technology! I was beginning to feel like an imbecile. This technology was so far ahead of anything I dreamed about. They explained that this technology came from the Keepers, a band of super-intelligent artificial life-forms put on Tillian 5 by another civilization to terraform the planet.
+I met Isolde and we hugged for at least five minutes. I was choked up and couldn't speak for a while. This whole colony of people were uprooted from Brazil by Maggie and spoke mostly Portuguese. I knew I would have to learn Portuguese and become an English teacher to start.
+Maggie took me into an underground building with seamless walls that seemed made of ebony marble. The walls were lit but I couldn’t discern the source. We went into an elevator without buttons; it was clear Maggie was mentally controlling it just as she did with the shuttle. When we got out we went down a long hall into a large room. Tristan was on an operating table. We had a large cart full of boxes to unload and unpack. I didn't see any outlets and Maggie picked up my puzzlement, left the room and came back with an armload of outlet boxes.
+“Where do I put them?” I asked.
+Maggie: “Anywhere, they are magnetic and will stick to the floor or wall.”
+I put the outlet box on the floor next to the machine I just assembled, plugged it in and it was live. “Where are the wires?”
+Maggie: “No wires, just carbon nanotubes embedded in the concrete. It's all discretionary. You won’t get a shock if you put your hand on the wall or spill water on the floor. It has to recognize the circuitry in these boxes to supply power.”
+I was overwhelmed in wonder. “This is amazing technology, who built this place?”
+Maggie: “I did, but I can't really take credit.”
+Maggie then explained the Keeper’s cube technology that makes nearly anything from food to buildings.
+
+8.24.2284
+This last two and a half weeks were around-the-clock intensive work removing Tristan's skull enclosure without doing further damage, reconstructing the contents and dumping it to a computer. Maggie had created a new android body for Tristan, more sleek than the old one and far more intelligent. I was a little jealous and happy at the same time. The finished product was a wonder to behold. Isolde was thrilled.
+
+8.26.2284:
+The Rayburn Militia have broadcast the video of the encounter in Pittsburgh widely calling Maggie the Antichrist. They have spotted the ozone tower from Kingman, Arizona. It now appears that a war has begun. A convoy of three vehicles is on its way here from Kingman with a nuke. We are all in the bull’s eye.
+
+I will be too busy to make further diary entries. Skip’s diary [Tillian 5 trilogy] is far more detailed and interesting.
+
+###
+
+
+About the Author:
+Kalifer Deil’s day job is as a computer hardware designer, programmer and engineering manager in Silicon Valley. He writes true stories, poetry, fantasy, science fiction and science fact. His brand of hard science fiction is firmly science based free of senseless technobabble. To learn more about the author visit his website at http://www.kaliferdeil.com and the Speculative Science Publishing website http://www.speculativescience.com. and his blog http://www.kaliferdeil.wordpress.com Also join him on Facebook and Twitter.
+
+Discover other titles by Kalifer Deil at Smashwords.com
+Tillian 5 - A New Beginning - http://www.smashwords.com/books/view/29961
+Tillian 5 - Return to Earth - http://www.smashwords.com/books/view/36591
+Tillian 5 - The Overseers - https://www.smashwords.com/books/view/166704
+McCambrie’s Army - http://www.smashwords.com/books/view/28247
+Well of Mirrors - http://www.smashwords.com/books/view/28015
+Transcendent Epoch - http://www.smashwords.com/books/view/27028
+End Times - http://www.smashwords.com/books/view/26878
+The Possessor - http://www.smashwords.com/books/view/24949
+Editor’s Notebook - http://www.smashwords.com/books/view/28825
+
