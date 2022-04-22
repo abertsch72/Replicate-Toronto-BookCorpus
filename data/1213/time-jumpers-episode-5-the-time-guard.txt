@@ -1,0 +1,883 @@
+﻿Time Jumpers
+Episode 5: The Time Guard
+Published by Philip Bosshardt at Smashwords
+Copyright 2019 Philip Bosshardt
+Smashwords Edition, License Notes
+
+This ebook is licensed for your personal enjoyment only.  This ebook may not be re-sold or given away to other people. If you would like to share this book with another person, please purchase an additional copy for each recipient.  If you’re reading this book and did not purchase it, or it was purchased for your use only, then please return to Smashwords.com and purchase your own copy.  Thank you for respecting the hard work of this author.
+
+A few words about this series….
+
+1.Time Jumpers is a series of 20,000-30,000-word episodes detailing the adventures of Ultrarch-Jump Captain Monthan Dringoth and his crew and their experiences as time jumpers with the Time Guard.
+2.Each episode will be about 40-60 pages, approximately 25,000 words in length.
+3.A new episode will be available and uploaded every 4 weeks.
+4.There will be 12 episodes.  The story will be completely serialized in about 12 months.
+5.Each episode is a stand-alone story but will advance the greater theme and plot of the story arc.  
+6.The main plotline: Time Guard must defeat the enemy Coethi and stop their efforts to disrupt or eliminate Uman settlements in the Galactic Inner Spiral and Lower Halo sectors of Uman space.  
+7.Uploads will be made to www.smashwords.com on approximately the schedule below:
+
+Episode #	Title						Approximate Upload Date
+1.            ‘Marooned in Voidtime’ 			February 1, 2019	
+2.            ‘Keaton’s World’				March 1, 2019
+3.            ‘A Small Navigation Error’ 			April 15, 2019
+4.            ‘Cygnus Rift’ 					May 3, 2019
+5.            ‘The Time Guard’				May 31, 2019
+6.            ‘First Light Corridor				June 28, 2019
+7.            ‘Hapsh’m and the First Coethi Encounter’	August 2, 2019
+8.            ‘Operation Galactic Hammer’		August 30, 2019
+9.            ‘Byrd’s Draconis’				September 27, 2019		
+10.            ‘First Jump Squadron’			November 1, 2019
+11.            ‘Planck Time’					November 29, 2019
+12.            ‘The Time Twister’				January 3, 2020
+
+Chapter 1: “T-001”
+
+"It takes a long time to become young.”								
+						Pablo Picasso
+
+Landsdown, Quetta (Landfall)
+Time Guard Base Hawking 
+Time Stream: T-228
+T-date: T-03-22-2815 CE
+
+Nathan Golich was sobered when he learned that the only ship Landfall had available was the non-jumpship freighter Trivandrum, now in synchronous orbit around the world.    
+“Sir, the closest settlement is probably Byrd’s Draconis.  That’s Ross 154…maybe twenty-nine light years.”
+Admiral Munro rubbed what was left of his white hair.  “Trivandrum doesn’t have jump capability.  She’s hyperlight capable but no singularity core…Time Guard doesn’t need escorts or freighters flitting around time streams so much.” 
+Acth:On’e did some quick mental math.  “That’s sixty years, at least, from here.”
+Munro considered that.  “The Guard needs you back with First TD.  But we also need to manage distortions coming out of the Rift…distortions you caused when you tested the Time Twister on Outtawhack.  Now that’s gone…and we’re still picking up the pieces here on Landfall.  Here’s the official report….”
+
+Time Guard Special Report to the Secretary-General
+Principal Impact Effects from Outtawhack (Fragment D)
+Time Stream: T-221
+T-date: T-08-05-2814 CE
+
+Impactor Outtawhack D impacted Landfall’s surface at 061510Z, T-date T-08-05-2814.  Point of impact was 37N by 11E, approximately one hundred and sixteen kilometers north-northeast of the Quetta coastal city of Bizerte.  The point of impact was located at the center of a triangle between the Quettan coastline, bounded by the islands of Coburg on the northwest and Carpentaria to the northeast.
+At impact, the impactor was moving at an estimated velocity of 16.99 kilometers per second.  
+Energy released at impact was estimated to be approximately 6.04 x 10 exp 16 Joules.  
+Due to the water impact, an estimated 2.35 x 10 exp 6 tons of seawater was vaporized.  Most of the vaporized material was lifted as steam into the planet’s atmosphere.
+Oceanic effects included a series of seismic events and transients, culminating in three succeeding tremors of Richter magnitude 5.4, 5.1 and 4.1, all occurring in the first two hours after impact.
+Shock waves and tsunami effects are appended to this report as Attachment A: Impactor Outtawhack-D Oceanic Effects on the Central Ocean Basin.  Notable effects included wave heights of over a hundred meters measured at Bizerte, Marzburg, Quincy and Lasalle.  Similar destructive wave effects of lesser magnitude were measured at McKay, Winston, Leonardville and Landward.
+Time Guard efforts to ameliorate destructive shock wave and tsunami effects through nanobotic shielding were only partially successful, owing to the short time frame involved.  Shielding was most effective at Bizerte, where observed wave heights reached one hundred and seventy meters approximately two kilometers offshore.  Wave energy was substantially dissipated by nanobotic shielding along the waterfront west and east of the center of the city.  Measured wave heights at the port entrance did not exceed one hundred and ten meters.  
+Impactor Outtawhack-D partially disintegrated in the lower atmosphere, yielding multiple fragments to impact the ocean surface.  Disintegration effects were most pronounced at an altitude of five thousand meters above MSL.  Peak overpressures from this event exceeded 17.7 bars (approximately 251 PSI) at a point two kilometers from the center of the impact field.  Because the impact site was well offshore, little overpressure damage was sustained to land structures.  Some shipping in the area was damaged.  
+Casualty reports are appended to this report as Attachment B: Casualty Effects from Impact of Outtawhack (Fragment D).  Note that known casualties that can be directly attributed to this event will exceed 800,000 around the Central and Eastern Ocean basins alone.  
+Long term meteorological and climatic effects are detailed in Attachment C: Forecast Climatic Effects from Impact of Outtawhack (Fragment D and Lesser Impactors).  Note that long-term climatic effects incorporate estimates of seawater and seabed excavation and dynamic lifting of excavated materials into the atmosphere integrated into current forecast models over the next two years.
+For latest results of forecast model iterations, see Landfall Meteorological Organization “Proceedings of Conference on Climatic Effects from Recent Asteroidal Impacts”, T-date T-08-07-2814, Landsdown, Quetta, appended to this report as Attachment D. 
+Time Guard casualty and environmental remediation efforts continue and are expected to be required at current levels of effort for at least the next two years.  
+
+End of Report
+
+“And the hell of it is,” Munro was saying, as the report evaporated from the middle of air, along with vids and footage of the destruction, “it could have been a lot worse.  I’m grateful to the three of you for helping build out a new Time Twister on Pavonis…thankfully, Landfall has a number of satellites that would work.  We lost all of your earlier when the ‘Whack came down.”
+“And my temporal inverter, too, sir,” Acth:On’e reminded everyone.  “The Rift is still burping and belching and we have no way to counter it at the moment.”
+Munro nodded.  “That’s why I asked Jump Lieutenant Sambola to come over from T2 and fill us in on the latest intel we have of Coethi movements.  Lieutenant--?”
+Sambola looked like a bird, with a beak nose and an odd almost-pecking movement of his head.  Evelyn M‘Bela glanced over at Golich and Acth:On’e with an amused glint in her eye.  Golich frowned at her…don’t even think of saying anything.
+Sambola booted up the display pedestal, above which materialized an overview of Uman space around the Gliese 876 system.  His voice reminded Golich of a metal file scraping the floor.
+“No doubt about it…Coethi is probing and maneuvering all along the voidtime frontier this side of Cygnus Rift.  We’re not exactly sure why, but TACTRON has recently computed probabilities of a major Coethi push somewhere in the Rump at greater than ninety percent, given analysis of our intel sources.”
+Munro stroked his chin.  “What’s their target?  Is it the Rift?”
+Sambola said, “Unknown, sir.  The data support no definitive conclusions about that.  It may be that the Coethi intend to stir up the Rift as a screen for a move into the Rump, a move that some inside T2 believe is designed to cut off Rump space from the rest of the Alliance.  Begging the Admiral’s pardon but this part of Uman space is considered by many to the ass-end of the Alliance, with just our system and Ross 154—that’s Byrd’s Draconis—currently inhabited and settled.  Coethi may think the Alliance considers the Rump to be expendable.”
+Munro scoffed at that.  “The Rift is the issue, no doubt about that.  And the Bugs didn’t like a Time Twister being located in the Rump either—that surely complicated their strategy.”
+“That’s why Outtawhack become a target,” Golich said.  “They had to try anything they could to keep us from building another Twister.”
+“Including infiltrating the Guard with an angel,” added M’Bela, thinking of Libra’s captain Felicia Andorra.
+Munro winced at that.  “We’ve tightened up internal security greatly as a result of that, I can assure you.  Commandstar recently blessed what we’ve been doing.”  The Admiral studied the three crew members from 1st Time Displacement Battery.  “Now the question is what to do with you three.”
+“We’d like to get back to 1st TD, Admiral,” Golich admitted.  “And to T-001, if we can.  Our home time stream.”
+“No doubt.  T-228 not to your liking, eh?  I guess I can understand that.  The problem is all our jump ships are committed to sector patrol at the moment.  The only ship we have available is Trivandrum.  And she can’t jump…no singularity core.  They don’t exactly grow on trees around here, you know.”
+“No, sir,” Golich seemed glum.
+Acth:On’e had an idea.  “Admiral, I studied the temporal physics of the Rift pretty closely when I was building the temporal inverter.  I developed a sort of feel for how the Rift works—nothing I can quantify exactly but it gave me an idea.  It may be possible to modify Trivandrum to make a kind of time jump even without a singularity core.”
+“Without a core…that’s impossible.  With Trivandrum, you’re decades at best from Byrd’s Draconis, and that’s the closest settlement.  How can you make a jump without a core?”
+“By using the Rift, sir.”
+Munro looked like he’s just been stung by a vaporclaw, one of Landfall’s worst flying pests.  “The Rift.  You mean flying into the Rift?  I can’t authorize that.  It’s too dangerous.  We don’t even know what created the Rift…or how it works.  It’s an anomaly, the eggheads are still studying it and there are only about eight thousand different theories.”
+“Sir,” Acth:On’e got permission to change displays and quickly brought up a vid of Cygnus Rift, looking for all the world like a foaming cataract in the midst of a vast river, “the Rift is just a tear or a rip in spacetime, that’s all.  The physics is the same as Newton’s Jaw or Time’s Peak, within certain boundaries, that is.  A sort of temporal rapids, that’s all.  And besides, the Coethi may already be using it.”
+Munro turned to Sambola.  “That right, Lieutenant?”
+The T2 officer shrugged.  “It’s a possibility, sir.  We haven’t computed the probabilities.  But it’s definitely a possibility; they were infiltrating that fissure on Gibbons Grotto for centuries and no one knew it.  T2 has no official position, but I wouldn’t discount it.”
+Munro squinted at Acth:On’e closely.  “You’re Telitorian, aren’t you?”
+“Yes, sir…born and bred.  Kasala Township.”
+“Never been there.  I hear it’s like Venus, in the Terran system.”
+Acth:On’e smiled faintly.  “Perhaps, sir.  I’ve never been there.  Our world’s hot, dry and dusty…just the way we like it.”
+“You people believe in mind uploads, don’t you?  What version are you now?”
+“V5, sir.  In my case, that happened around my twenty-fifth birthday, by conventional reckoning.”
+Munro was scanning something in his dataspecs, something only he could see.  “I’m reading your folder now… “…still furious with the infidelity of Margie and my own perceived failings as a pod-father, I elected to not carry forward many shared files from Margie into my fifth upload.  In effect, I wiped many of the files dealing with Margie from my mind and memory.  Not only that, I had learned that Time Guard had accepted my application to recruit school on Keaton’s World.  In a fit of pique and against my mother’s explicit wishes, I ended my contract with Bhaktapur pod and left Telitor, shipping out on a freighter bound for Keaton’s World.  I was due to report to Time Guard’s recruit base for induction and the beginning of boot camp just after my V5 upload….”
+Munro switched his gaze back to Acth:On’e.  “Mind uploads…transhumanist bullcrap, if you ask me.  Okay, Quantum Guard Acth:On’e…what have you got on that uploaded mind of yours.”
+With Munro’s blessing, the Telitorian proceeded to explain his idea, how to modify Trivandrum’s powerplant and controls to allow the ship to be maneuvered and controlled in a passage through the Rift.
+“Sir, the best analogy for traveling through time streams aboard a Time Guard jumpship says that time is a great, infinitely wide river.  A river wide enough has many currents, eddies, substreams and hazards embedded in it, like rocks, hydraulics, rapids, sandbars and shoals.  So does time.  Traveling through time embedded in a time stream aboard a jumpship is analogous to whitewater rafting on a rapidly flowing, twisting and turning water course.  Cross-currents are tricky.  There are eddies.  Undertows.  Flat water and white water. All kinds of hazards.  Cygnus Rift is just such a hazard…we all know that.
+“Normally, traveling through time involves navigating similar flows.  In normal operation, jumpships can create their own wormholes with an onboard singularity core.  But my theory is, if we can pre-map the Rift properly, we can use it as a sort of passageway to other time streams.  Sort of a gigantic singularity core.
+“Once inside, propulsion and steering would be maintained by Trivandrum’s propulsor, while normally, the singularity core uses its twist fields to keep the ship in the main stream.  Trivandrum’s control surfaces would also be used, much like a boat or a submarine.  There are flow vanes and diving planes that should be able to shift the ship’s course into other time streams.  Much of the moment-to-moment control of the jumpship is handled automatically although we pilots can exercise control via a fly-by-wire system if we choose.  And Commander Golich here is one of the best.”
+“Thanks,” Golich muttered.  “I think.”
+“It all depends on how accurately we can map the Rift, down to all her eddies and currents and cross-flows.”
+Admiral Munro just shook his head.  “This is truly insane, you know that, don’t you?  This will have to be bucked up to Division, maybe even Commandstar.  If they give the okay, I’ll see to it you get everything you need.”
+Golich told Acth:On’e later, at Time Guard Base Hawking’s O Club, that was about as good a recommendation as they were likely to get.
+The three crewmembers of 1st TD got to work immediately, helping Acth:On’e.  Left unsaid was the understanding that this crazy harebrained stunt, even if authorized, might kill them in a femtosecond if it didn’t work.
+But it was also their best chance of getting back to T-001 and their Battery mates in anything less than several decades.
+
+For weeks, the stranded crew of 1st TD worked closely with Time Guard Landfall’s Science Division to scan, map and model all the currents, flows, eddies, trickles and rapids of Cygnus Rift.  No one had ever undertaken such an effort before but detailed knowledge of what the Rift was about and how it worked was essential if Acth:On’e’s plan was to have any chance of success.
+One day, working with Nathan Golich inside Trivandrum’s tailpod, checking continuity on inverter circuits according to a protocol devised that very morning by Acth:On’e, Evelyn M’Bela pushed back some braids of hair dangling in her face, wiped sweat away and stared with fatigue at Golich, who was nearby, enveloped in cable and wire bundles.
+“Commander, tell me the truth.  Is there even a remote chance that Acth:On’e’s ideas will work?  I remember what Captain Dringoth and Alicia went through when they dived through Time’s Peak.  I’m not sure I want to repeat that.”
+Golich sat back, pulled wiring off his head and smiled.  “It works in the Lab.  Acth says there’s no way to really test it though.  Just between you and me, I think he’s still upset that his inverter idea didn’t get a proper workout on Outtawhack.  He’s practically camped out in Engineering the last two weeks.”
+“So I’ve seen.  Poor guy.  Maybe we should just drag him out of there and force a little R & R on him.  I hear Gateway’s got a hell of bar for jumpers…Mariners, I think it’s called.”
+“I doubt we’ll ever get that feverish uploaded brain of his focused on anything but this job.”
+M’Bela went back to her continuity checks.  “You’re probably right.  Only he understands this crap anyway.  I certainly don’t.  Telitorians are just different from you and me.”
+Working with Science Division, Acth:On’e had found a way of detecting minute Novikov currents by their infrared spectral signatures, inside the Rift.  
+“These currents are just slightly warmer than other currents around them,” the Telitorian had explained.  “We don’t know the real cause…could be quantum effects.  But it’s detectable.”
+Acth:On’e had developed a series of algorithms to enable Trivandrum to navigate these currents along a closed timeline curve through the local Cauchy horizon and then—hopefully, with a little luck—from there into time stream T-001 via the strongest, tightest worldline at the horizon.
+“Makes my head hurt when he explains it,” M’Bela had once said.  But according to their crewmate, the physics was sound, if untried.
+Acth:On’e had loaded his algorithms, collectively called RiftPilot, into Trivandrum’s shipboard AI, known as OSKAR.  There would be tests and after that, there would inevitably be some tweaks and adjustments.  OSKAR would then execute the RiftPilot algorithms, effectively controlling the ship’s trim, stability, maneuvering and navigation as she transited the Rift.  But before that could happen, Trivandrum’s control surfaces—her flowvaters and planes—would have to be modified.  Her propulsors would have to be upgraded to give greater thrust at the Cauchy horizon and her powerplant souped up to provide more power.  Hundreds of kilos of ship’s stores and racks would have to be removed to provide space and adjust her weight and center of mass.
+“Like turning a cow into a greyhound,” Golich said one day.  “She ain’t much to look at but when the dockyard and Acth:On’e are through with Trivandrum, she’ll run rings around a lot of the Guard’s jumpships.”
+“Except for one thing,” M’Bela pointed out.  “She still can’t jump.”
+The whole process took three weeks of nonstop work at Gateway Station, high in synchronous orbit around Landfall.   When it was done and Trivandrum was declared by the dockmaster to be ready for departure, Admiral Munro ordered the three crewmen of 1st TD to a small departure ceremony at Gateway’s commissary.
+The green of Landfall’s Central Ocean, shrouded in wisps of cloud, rolled by outside the cupola windows below them.
+Munro read an official proclamation from Time Guard Landfall Ops.
+“Whereas the crew of 1st Time Displacement Battery demonstrated selfless dedication to duty above and beyond their orders, and whereas the crew of 1st TD showed unrelenting courage and determination in boring through Outtawhack to prevent or minimize impact destruction from the fragments of that moon, and whereas the crew of 1st TD exhibited unsparing devotion, commitment and staunch perseverance to the mission of Time Guard and the campaign to rid Rump space of our adversaries, the Coethi, as commanding officer of Time Guard Hawking Base here at Landfall, I hereby declare this crew to be forever after full citizens of Landfall and honorary townsmen in every council of the land.  Proudly proclaimed by me, Admiral Stewart Munro and signed this date: T-04-30-2815 and witnessed by all here in attendance.”
+Golich, M’Bela and Acth:On’e then were forced to make speeches, shake hands and receive so many backslaps and punches, that they couldn’t wait to escape to the confines of Trivandrum’s mess deck afterward.
+The ship cleared her moorings and undocked the next day and maneuvered free of Landfall orbit, heading out of the Gliese 876 system toward Cygnus Rift. 
+The trip would take nearly a month on full propulsors.
+
+Much of the time was spent checking all the dockyard modifications to the old freighter for the umpteenth time.  When he wasn’t in Engineering going over the code and details of RiftPilot, running sims and tracking down spurious anomalies from the endless test runs, Acth:On’e was cocooned at the Search and Surveillance station on Trivandrum’s A deck, observing the Rift through ship’s sensors.  
+Two days out from crossing into the Rift’s sphere of influence, the temporal rapids that cartographers had long called Cygnus Rift had begun to acquire a visible structure, looking for all the world like a jagged slice in spacetime itself, a set of wavering lips flexing and contracting and spitting, almost as if the thing were trying to talk to them.  Around the periphery of the Rift, stars bunched up and warped like pinpricks on a bedsheet, while a glow permeated from the center of the mouth, the result Acth:On’e had explained, of worldlines converging and ionizing into white-hot plasma under the incredible temperatures generated.
+M’Bela gulped when she took a long look through one of Acth:On’e’s scopes at the scene.
+“We’re actually diving right into that?”
+“It’ll take some fairly precise navigation, Queenie.  I have to find the strongest infrared signal among the Novikov currents and then correlate that with the worldline convergence angles.  If it’s what I expect, that’s our ticket home…to timestream T-001.”
+“After a ride through hell, you mean.”  M’Bela studied her crewmate.  “I just hope that giant uploaded brain of yours is up for this.  Our lives are in your hands.”
+“And that makes you nervous, huh?”
+“Like jelly and why shouldn’t it?  And how many uploads have you gone through anyway, Master Quantum Guard Acth:On’e?  One wasn’t enough?”
+Acth:On’e shoo’ed her out of the seat and went back to his measurements.  “You K-Worlders know nothing about Telitorians.  Here—study this—” He disconnected a small tab from a jack on the back of his neck.  “Everything you ever wanted to know about me and my world.”
+M’Bela decided to take him up on the offer.  She retreated to the Loadmaster’s console abreast of Search and Surveillance and sat down, pressing the tab into a slot on her wristpad.  Her dataspecs came to life with Acth:On’e’s story….a voice was narrating….
+
+“….Telitor is a planet somewhat similar to Venus: hot, dry, dusty desert, with a very thick CO2 atmosphere and sulfuric acid rain.  Think of it as Venus-lite.  The settlers had embarked on a long-term, multi-generational terraforming effort to improve Telitor’s environment. The colony of Telitor was founded in 2705 CE as a transhumanist colony.  This meant that Telitorians believed in uploading their minds, memories and consciousness to new and improved bodies every five years.  These uploads or transferences were treated and celebrated as something like birthdays, bar mitzvahs, coming of age or rite of passage moments in a Telitorian’s life.  After each upload, each citizen was given a new ID, indicating which version he had uploaded.  For example: Acth:On’e is a V5, indicating he has completed five version uploads or transferences….i.e. he is on his fifth version.
+“MQGD Acth:On’e is a transhuman enlisted man from Telitor (star-sun Delta Recursa).   Acth went through his first Upload (transference) as a young boy, age 5, at Telitor’s Kasala School.  He was born Randolph Gainey in 2789 (U(rth) time), month of Quarternary (written as 2-1/4 C-85) in a small village called Kasala on Telitor.  His father is Acth:Tomay 17 and his mother is Acth:Lilly12.  Acth:On’e has one sibling, an older sister Acth:Luna7.
+“V(ersion)1:  All memories wiped.  None retained into later versions.
+“V2:  Corresponds to ages 6-10 years.  In this period, Acth:On’e developed into a very inquisitive and curious young boy, somewhat single-minded and not overly respectful of adults or authority.  He was prone to wandering off, outside the habitat Kasala and hiking alone or with a few friends into the desert wilderness of Maxwell Regio (named for a region on Venus).  On one particular foray, unknown to his parents, Acth:On’e and close friend Dominus:Marks 2 were stalked and eventually trapped by a small pod of thermosaurs, normally avian creatures who nest and mate in sheltered coves and overhangs in the desert.  Marks was critically injured and On’e had to think fast in keeping his friend alive until they could be rescued.  He was able to do this (it was a close call) but did a lot of growing up in the months and years after this experience.  After this experience, On’e and Marks became even closer friends.
+“V3:  Corresponds to ages 11-15 years.  In this period, Acth:On’e completed initial schooling and tutoring and absorbed new skills and knowledge from his third transference.  Father Acth:Tomay 21 suffered injury at Telitor’s south pole Peary Montes Station, injuries sustained in a fall into an icy crevasse.  Head injury too great to attempt upload or transference and, after painful discussions with family, Acth:Tomay 21 was terminated and all mindfiles downloaded and archived in Kasala in the family archives.  On’e was devastated and spent many weeks perusing the downloaded files.  With permission from his mother and from the City’s Files Administrator, On’e was allowed to select a few of his father’s mindfiles and have then downloaded into his own mind-processor.  He chose two: Acth:Tomay’s childhood memories of the first days of Telitor.  His father was an original settler and came in the First Days aboard the ship We Will Survive to landfall near the current location of Kasala.  These downloaded files sparked an interest in On’e in other places and times.  He spent hours and days reading, researching and augmenting himself with memories and skills from the Public Archives of what it was like to be a First Settler.  Intrigued by the diversity of backgrounds of the First Ones and where they all had originally came from, Acth:On’e resolved, as a young boy, to one day leave Telitor and see the galaxy.  The other mindfile he downloaded was called…”
+
+Evelyn M’Bela pulled the tab from her wristpad and stared at her crewmate for a long time.
+“Jeez, Acth…I’m glad I don’t have such detailed memories of my past.  Mind uploads and wipes, I’m not sure I’d ever want to do that.”
+Acth:On’e didn’t look up.  “It keeps my mind clear for more important things…like navigating this ship.”
+M’Bela stared out a nearby porthole.  The Rift now dominated the view, a great mouth sucking them forward.  Already, she could feel a slight vibration as Trivandrum, now under OSKAR’s control, trimmed out her perturbations and sought the right currents to ride through.
+Golich’s voice rose over all the vibrations and rattling as Trivandrum settled onto a new course.
+“Stations, everybody.  We’re in the terminal approach phase.  Acth, she’s all yours.”  Golich lifted his hands clear of the console to show he was relinquishing control of the ship.
+M’Bela assumed her position opposite Golich at the secondary console.  Acth:On’e stayed put.
+“OSKAR now in full command,” he announced.  “I’m engaging RiftPilot.”
+For better or worse, Trivandrum was now committed to entering the Rift.
+M’Bela fingered some cowrie shell beads around her neck and silently prayed to her esteemed Ibo ancestors.  Chineke, Chineke, please give me strength, give me strength…and please keep me from screwing up too….
+Trivandrum began a slow roll, but OSKAR quickly damped that out.  On his scopes, Acth:On’e watched RiftPilot’s command string carefully, ready to intervene instantly if needed.
+“So far, so good,” he announced.  
+Then all was chaos.
+Evelyn M’Bela was never sure of what she had really seen, as the ship plunged into the Rift.  The vibrations had started out as a low shudder, but quickly picked up to a bone-jarring rattle.  She closed her eyes to slits, gritted her teeth, and chanced a peek…and immediately wished she hadn’t.
+The deck seemed enveloped in some kind of string, grid lines that were at the same time, there and not there.  Like a net was being draped over them and slowly being drawn shut.  Acth had explained the phenomenon days before…”those will be worldlines squeezed closer and closer together, spacetime being contorted and slammed together so fast and so violently that the very quantum fabric of space is forced out….vacuum fluctuations made visible by the extreme conditions inside the Rift….” 
+M’Bela closed her eyes and decided she didn’t want to think about.  Then she felt dizzy, nauseated and she was spinning spinning spinning and she reached out to hold on, to grab something, anything, but there was nothing and after a time, she felt herself falling down a deep infinite hole, a black well with worldlines spinning madly, a mixing bowl of spacetime being stirred and spun and crunched by the Rift and then…
+Then, there was nothing.
+And Time Guard freighter Trivandrum plunged through the Rift, skating and sliding across millennia as if it were a sheet of ice, gyrating wildly, beyond even OSKAR’s ability to control and after a time that could have been a few seconds or a few eons, she finally came to an abrupt halt and the shudders died off, damped and trimmed out by OSKAR as the ship’s AI sought to bring the old freighter under some semblance of control.
+Evelyn M’Bela forced her fingers to relax and un-clutch her bead necklace.  She opened her eyes to slits and chanced a look out the forward windscreen.
+She recognized nothing…nothing at all.
+Where had the Rift thrown them?
+
+Aboard the Michelangelo (UNS-212)
+Sedna Approach Trajectory Waypoint S-1
+Orbit Injection Minus Two Minutes
+December 15, 2110 (U.T.)
+0015 hours (Ship Time)
+
+“Injection burn in two minutes.”  
+Element B’s voice was dry, almost mechanical, as the exec looked over all of Michelangelo’s systems.   In less than two minutes, her plasma torch engines would flare into operation and the great rebuilt cycler ship, often described by the dock jockeys at Phobos Station as a big kebab skewer with rockets, would begin slowing down just enough for the planetesimal Sedna to capture them into orbit.    If all went well, Big Mike would drop speed just enough for the tiny world’s faint gravity to grab them and bend their flight path into a stable orbit.
+Cory Hawley acknowledged the status check.  “Engine status, Lieutenant?   Everything copacetic back there?”
+Lieutenant Dean Kohl was sitting in the Systems seat up on the command deck, right behind Hawley.  His eyes wandered around the board.  “She’s all hot and ready, Skipper.  Temps, pressures, everything’s clean and green back here.”
+“One minute to burn,” came Element B.   Big Mike’s executive officer stole a quick glance at the approaching world through his forward portholes.  “Just coming up on the sunlit side…terminator approaching.”  
+Hawley looked too.  “Looks like something my dog dug up in the backyard…a dirt clod with acne.”
+Indeed, the planetesimal Sedna, at eight billion miles from the Sun on the inner edge of the vast Oort Cloud, was a rocky, coppery red world with battered plains and crumpled mountains, tortured by eons of meteor bombardment into a frozen, desiccated rubble pile of a world, not even a planet by official reckoning.
+Dean Kohl just shook his head.  “A frozen dirt clod, if you ask me.  Amazing there isn’t more ice on the surface.  Something blew it off.  What a great place for Sentinel to set up a network and command post.  Garden spot of the Oort Cloud.”
+“Ten seconds to burn…everybody secure loose items.”
+“B…you sound like my mother…telling me to wear my rain coat when it rains—“ Kohl nonetheless performed the last minute inspection that all Frontier Corps troops knew so well.  
+There was a brief jolt and the ship shuddered as her engines fired.  Big Mike’s central mast bent and swayed momentarily until vernier thrusters could damp out the oscillation.
+“Twang damping,” said Element B.  “Oscillations smoothing out on schedule.”
+“Ride ‘em, cowboy…” Kohl said.  “I’ve got three engines up and operating…thrust is good…pressures are good.  Big Mike’s slamming on the brakes—“
+The burn lasted four minutes.  When it was over, cycler ship Michelangelo had dropped into a stable circular orbit above the 1800-kilometer-wide world, an orbit less than a hundred kilometers over her battered red-brown surface.  Below them, the day-night terminator slid by and full sunlight fell upon her tortured plains and hills…as much light as the Sun could muster from a distance of twelve billion kilometers.  The visual effect was of a planetscape illuminated as if at dusk, filled with shadows and black valleys.
+“Okay, secure the burn,” Hawley commanded.  “Let’s get moving.  Mission briefing in the galley in half an hour.”
+Big Mike’s galley was the largest space aboard ship, located on B deck, just off the central gangway.  Half an hour later, the ship was secured for orbital operations and Hawley assembled his crew for a talk.
+“Okay, here’s the deal--” Hawley told them.  They were all there, Kohl, Element B, Westerlund, Favors, Grant and Ng, Moskowitz and Ernst…the entire twenty-person crew crammed into the galley or clinging to davits and holddowns in the gangway just outside.  “It’s been a long haul but we finally made it to our destination…believe it or now, that dirt clod outside the portholes is what we came for.  It’s not exactly a tropical paradise but it is important.  Here’s why:  CINCSPACE thinks there may be something…an alien swarm or something like that…poking around out here.  We’ve already detected something ourselves co-orbiting with this dirt clod…Element B, what’s the latest on that anomaly?”
+The Exec was situated near one of the tables.  Other crewmen gave the angel a wide berth.  “Twenty hours before the injection burn, we had an anomaly under long-range scan.  The anomaly looked like a dust cloud but it could have been a swarm, or part of a swarm.  Electromagnetic signatures suggested that, anyway.  After the injection burn, I did a sweep of space around Sedna.  No anomaly.  Whatever it was, it may have dispersed.”
+Lieutenant Kohl snorted.  “Well, that’s just friggin’ great, ain’t it?  No idea what this anomaly might have been?”
+Element B shook his head.  Nobody noticed whether his facial features tracked with the gesture.  “There were similarities to swarm formations, but there were differences too…we didn’t get a good track on it.”
+“Well, is it your cousin or something--?” said Roy Favors, one of the Systems Techs.
+“Yeah, did you send greetings or—“
+“That will be enough of that,” Hawley cut in.  “We’ve got a mission and any sniping or whining that interferes with it will be dealt with…by me, personally.  Is that clear?”  Hawley looked around the wardroom, daring anyone to challenge the order.  Nobody did.
+“That’s better,” Hawley went on.  “Like I said, CINCSPACE has assigned us a mission…to deploy a Sentinel network of detectors on and around this dirt clod of a world and in nearby orbits…a network that the Corps can use to keep an eye on things.  Nobody knows what the hell’s going on out here…but we got a real live enemy on Earth named Config Zero and he may have buddies snooping around these parts.  The Sentinel net is just a tripwire.  If Config Zero’s got help coming from deep space, the Corps wants to know about it.  Kohl--?”
+“Here, sir.”  The Propulsions Systems officer was stashed in a corner by the galley’s tiny bar, underneath a hand-lettered sign that read South Seas Bar.  Pre-fabbed miniature palm trees were sprinkled around the area.  
+“You checked out Icarus?”  Icarus was the Sedna lander attached to Big Mike’s central mast between B and C decks.
+“She’s fueled and ready to go, Skipper.  We did an all-up test of every system just a few hours ago, fixed a few bugs and checked her out completely.”
+“Very well.  The landing party will be five people: I’ll command the detail.  I also want Lieutenant Kohl, Sergeant Westerlund, Sergeant Ng and you, Favors.  We need a good Systems tech on the surface to set up the base module and get the Network going.  Landing party will meet me on C deck right after this briefing.  And Element B will be in command while we’re away.”
+“Skipper?”  It was Favors. 
+“What is it?”
+“We taking any weapons with us down there?  I mean, you know…HERF guns.  Mag weapons.  That sort of thing.”
+Hawley understand his concern.  “Nobody knows what’s down there, Roy.  Hell, nobody’s been out this far before.”  He cringed, even as he said that.  He didn’t want to remind the crew of what already had half of them spooked.  “What I mean is this:  yes, we are taking weapons.  It’s possible that anomaly we detected is down there, or part of it.  We take weapons as part of our normal equipment.  But seek and destroy is not our mission.  In other words--don’t go looking for trouble.  Our mission is to deploy the base module and get the Network controls up and operating.  After that checks out, we return to Big Mike and head out from here, seeding this orbit and nearby space with all those dozens of detectors we’re got stashed on C deck.   Once we get all the units deployed and everybody’s talking to everybody, we make a burn and scram back home.  Any further questions?”
+Nobody had any.  But Hawley could feel the unease.  It was thick enough to cut. 
+“Briefing is over.  Get to your duty stations.  Landing party, come with me.  Icarus departs in two hours.”
+
+Hawley and landing team went over their equipment and the mission details while gathered around the racks of detectors stored on C deck.  During the briefing, Element B showed up with final information about their landing site.  
+The swarm angel carried a small disk and used it as a projector.  Angels usually didn’t sport wristpads.  There wasn’t enough ‘skin’ to attach them to.
+“Nominal landing zone is at these coordinates—“ the angel rattled off latitude and longitude figures, then tagged the landing site on a map that he displayed.  “Near the equator, in the middle of a large crater…thirty kilometers wide.  There’s a central hill complex in the middle of the crater.  And some long rilles or cracks in the surface…some kind of mass wasting is the likely cause.  No evidence that Sedna ever experienced any kind of volcanism.”
+“Thanks for Geo 101, Professor…” muttered Favors.  “What’s the ground made of?”
+“Basaltic rock.  And subsurface ice too, most likely.  It’s a low-grav environment, so you can hop for dozens of meters if you aren’t careful.  Ground scan has found several clear areas that seem like good spots for the base module.”
+“We’re coming down a few klicks from those hills,” Hawley added.  “Corps Engineering thinks the peaks may be a great place for a transmitter station.  Funnel all the detector data back to the base module.  Favors, you and Westerlund will scout that…the rest of us will deploy the base and get it set up.  Questions?”
+There were none.
+Several hours later, the landing detail was aboard Icarus and the lander was signaling Big Mike that she was ready to depart.
+Roy Favors and Sheila Westerlund were strapped into their seats in the back, Sammy Ng between them.  Hawley and Kohl were up front, in command.
+Favors smacked his chewing gum loudly, a nervous habit that made everybody roll their eyes.  “This bugger reminds me of a stack of pancakes, folks.”
+“Yeah,” said Westerlund.  “With legs and three sausages on top.  Does everything remind you of food, Favs?”
+“Knock it off back there,” Hawley ordered.  “Okay, Michelangelo…we’re secure and ready.  Give me the count….”
+A few minutes after everybody was through bitching and moaning and had gotten themselves secured and strapped in, Hawley punched up the departure program on the ship’s computer and counted down the last seconds before separation.
+“Five…four…three…two…one…bingo!” 
+There was brief shudder and lurch as Icarus’ thrusters fired to make a positive separation.
+“Icarus away…” he announced.  Hawley and Kohl watched through the forward windscreen as the gaping mouth of Michelangelo’s side-mast docking ring receded into the distance.  From two kilometers off, when Hawley had stopped their motion and re-oriented Icarus for de-orbit, the great cycler ship looked like a massive bird soaring off into the heavens. 
+Kohl counted down the last moments to the initial burn that would start Icarus on her long curving descent to the surface of Sedna.  The limb of the reddish world could barely be seen through the portholes, dim and shadowy.  
+“Ten seconds to PDI,” Kohl announced.  He checked over his console: track, engine status, attitude…everything seemed ready.  “Get ready for a major kick in the ass—“
+The burn, when it came, made Icarus shake and shudder like a wet dog.  Roy Favors felt the acceleration build up rapidly.  After months of microgravity, the ship’s descent felt like an elephant had planted its posterior right on his chest.  He forced a sideways glance at Westerlund in the next seat.
+The trooper was exhaling out in quick, forced breaths, as they had been trained.  She met Favors’ eyes and grunted back.
+“Favs…remind me to…put in…for a…transfer…when we get back….”
+Hawley and Kohl watched the trajectory plot on the board carefully as Icarus began her initial pitchover and slowed noticeably.  The plot showed several lines, indicating nominal and actual course, all converging on an actual window in space, the entry point called High Gate,  where the lander would begin firing her descent engines continuously, maneuvering and navigating across Sedna’s tortured and battered surface as they fell toward the LZ in the middle of Cone Crater…so named by Roy Favors because the formation reminded him of a big ice cream cone. 
+The descent and landing took half an hour.
+“Touchdown…good job, Skipper,” said Dean Kohl.  Icarus settled with a bump onto a mostly level plain pocked with craters and strange blood-red hillocks.  More hills surrounded them.  “Right in the crosshairs.”
+“Okay, boys and girls, let’s get moving,” Hawley unstrapped himself and headed for the lockout in the aft compartment.  
+The first order of business was to use Icarus’ crane and robot arm to lift and deploy the base module.  The cylindrical module had been mounted on top of the three modules that constituted Icarus’ crew compartment and stores modules.  Kohl handled the crane and gently placed the base module on the ground with the arm.  The module treads would eventually be extended and the whole thing driven off to its final deployment site, half a kilometer away.
+Hawley pronounced himself satisfied.  “That went better than expected.  Favors, you and Westerlund get into your gear.  I want that hill surveyed and ground prepped for the transmitter.”
+“Yes, sir,” came both replies.  The two Systems Techs headed for the lockout, located in Icarus’ starboard compartment.
+In the meantime, Kohl and Hawley went back to the command compartment.
+“Dean, let’s do a full scan of the area, all bands.  I don’t want anything creeping up on us out of nowhere.”
+“Amen to that,” Kohl said.  Left unsaid were the words Element B had used to describe the anomaly Big Mike had been tracking on their approach to Sedna:  Whatever it was, it must have dispersed.
+Hawley knew full well that real-life swarms could easily disperse into nothing and re-assemble in no time.   Better to keep their HERF guns charged up and ready, just in case.
+Westerlund and Favors were on the surface of Sedna an hour later.  They were followed in short order by Ng and Kohl, who would head for the base module and get it powered up.
+Sheila Westerlund surveyed the landscape.  “Garden spot of the universe, Favors.  This is where I want to build my vacation cottage.”
+Favors was bounding and hopping around, trying out the low-gravity, like a bloated white kangaroo.  “Yeah, what’s not to like: piles of rubble, craters everywhere, no air and temps colder than a witch’s—“
+“Hey, what’s with that hill?”
+Favors came to a halt a few dozen meters away, kicking up rooster tails of dust.  “What hill?  Our destination’s over there.”
+Westerlund pointed toward the horizon.  “No, where that fog or dust cloud is…that was a hill a second ago.  Now—“
+They both saw the dust cloud.  Westerlund insisted the cloud had been a low hillock just moments before.  Now, a geyser of dust sprayed in slow motion into the vacuum, like a slow-motion flower bursting to life.  
+“Must be an ice pocket or something, sublimating to space.  Come on, let’s go…we ain’t got all day.”
+They turned back to the complex of low hills on the other side of Icarus.  Favors did a sighting with his suitscope.  “I make ‘em at two kilometers from here, give or take a crater or two.  Horizon’s close on this little slagheap of a world.”
+“Hey, I’ll race you, vacuumhead.  Come on—“
+They gathered up their gear and hopped off toward the rounded humps on the horizon.
+
+For the next hour, the area around Icarus was busy with activity, as the landing party went about their work.  Pallets of cargo and gear were unloaded by Sammy Ng, using the robotic crane, and distributed around the landing site, around the perimeter of Icarus. 
+Hawley and Kohl climbed into the base module and powered the cylinder up.  The module came equipped with its own track system and motor, so it could be driven for short distances. 
+Wedged into the tiny cockpit up front, Hawley engaged the clutch and the module—they had taken to calling it Igloo—lurched off to a rumbling crawl across the regolith.
+“What a speed demon this jalopy is…I saw a small rise not far from here when we came down,” he explained.  “Probably make a good site to install this bugger and get it up and operating.”
+Kohl scanned out the side porthole.  “God awful desolate place, if you ask me, Skipper.  The sooner we can get out of here, the better.  I can’t help feeling we’re being watched…by who or what, I don’t know…but I can’t shake that feeling.”
+“Me too,” Hawley admitted.  Igloo bounced and slid and skidded across the dusty surface, riding up and over shallow crater rims and down into crater floors like beating against ocean waves.  “That anomaly we detected on approach makes me nervous.  I’m not sure how much I believe about this Old Ones crap, but it looks like something’s out there and nearby too.  CINCSPACE has reports from Intel that there may be advance scouts in this sector…some of the eggheads think that’s what Devil’s Eye really is…some kind of early recon of our solar system.  Me…I’m not so sure.  But it pays to be cautious.  You loaded those weapons?”
+Hawley fingered a small case at his feet.  “Two HERF carbines right here and I checked the charge before we left.  Plus, two magpulsers in the aft compartment.  Anything shows its friggin’ face around here gets blasted into cheese puffs.”
+They drove on for several kilometers, while Kohl sighted to the horizon, triangulating their position and checking it with the gyros.  Igloo’s motors strained slightly as she began a gentle climb and moments later, Kohl announced, “I think this is the spot, Skipper.  Coordinates match.”
+Igloo braked to a halt and dug herself into the frozen dirt, anchoring herself with small charges that momentarily liquefied the ground and letting her settle lower before the regolith froze again.  The two of them set to work, activating systems. 
+Kohl pulled out one of the carbines.  “I’ll check around outside.  Make sure we’re level and stable.”
+“Good idea…while you’re at it, get that comm pod out and set up too.  We’ll need to check transmission quality…make sure we can handshake with the transmitter Favors and Westerlund are setting up.  See of you can raise them.”
+Kohl exited Igloo’s airlock and went around the rear of Igloo to find the lanyard that dropped the comm pod and its work table.  While he was waiting for the device to spring into position, he used his suitscope to locate the other two troopers, by now three plus kilometers away, heading for the hills south of Icarus.  Soon enough, he spied two white dots hopping like fat kangaroos up the lower slopes of what the maps called Pyramid Hill.   He called up to them.
+“You jokers look like drunken clowns up there…you sure Favors didn’t grab some hooch from the galley on the way out?”
+Word came back from the slopes.  It was Favors.  “Wish’d to hell I had, you bozos.  Sheila and I are making like goats and working our way up this hill…the dirt’s loose, so it’s two steps up and ten steps back.  But we’re getting there—“
+“Yeah,” said Westerlund, already twenty meters ahead, “some of are better goats than others.”
+“Hey watch that boulder—“ Favors said.  A small stream of rocks came tumbling down in a slow-motion landslide.  Favors dodged the worst of it.  He leaned into the climb and scrambled to stay upright in the slide.  “Another one like that and I’ll wind up in a heap at the bottom.  How far’s the peak, anyway?”
+Westerlund stopped to let the other Systems Tech catch up, and to get her breath.  They could use their suit boost, but the regolith was so loose, they might only succeed in setting off another slide. 
+“Looks like another couple hundred meters.  There’s some kind of ravine up ahead, like a big gash in the side of this mountain.  And I don’t know what all those hillocks are…I’ll check ‘em out.”
+All up and down the rise were spotted small humps, rock hills that in another time and place might have looked like anthills.  Knee-high, flat on top, coppery red in the dim shadows, they were hard to distinguish from the shadows themselves.  
+Jesus, they look like they’re moving.  Must be the light--  Westerlund cautiously approached one.  
+“These suckers are just made out of dirt, looks like, Favs.  Must be some kind of charge that holds them together…Cripes, they are moving—“
+She had been about to stick a suit toe into the side of one hump when it exploded right in front of her.  It wasn’t a real explosion and it was in slow-motion, but the entire hump disintegrated before her eyes.  That’s when she realized what the hump was.
+	“Jesus, they’re bots…they’re mechs…coming after me—!“  She flailed wildly, trying to drive the attack off, but it was useless.   She lost her footing in another slide and went down hard on her side, skidding downslope a few meters.  In that moment, the swarm fell upon her.
+“Favs, help….hellllllpppp!!    Aaaarrrggghhh, they’re getting inside…they’re on me--!!”
+Westerlund rolled and kicked but it was too late.  Favors saw what was happening and kicked and clawed his way toward his buddy, but a pair of nearby humps disintegrated and the bots were on top of him before he could reach Westerlund.  He found himself half-buried in regolith, twisting, turning, kicking and scratching, but a shrill squeal in his earphones, inside of his helmet told him the pressure suit had already been punctured…it was just a matter of time now…already the fog was forming…his eyes and ears were bursting….
+In the end, neither Systems Tech had been able to get off any warnings.   As one, the swarms that had formed the humps dotting the hillside broke down and assumed their normal amorphous configuration.  From a distance, the assault would resemble nothing more than a dust devil churning along the hillside, a faint mist glinting in the wan light that passed for daytime on Sedna.  In a few minutes, the mist had dissipated.  For a few moments, nothing remained…nothing but dirt and regolith, craters and tendrils of dust, lifted by errant charges washing across the surface.
+From Icarus, no one noticed what happened next, up on the slopes of Pyramid Hill.   The rest of the landing party was too busy, setting out equipment, starting up the base module Igloo, scratching their heads over recalcitrant equipment that wouldn’t work like it was supposed to.
+From the atomic remnants of Roy Favors and Sheila Westerlund, new facsimiles were slowly but steadily re-assembled.  During the disassembly of the humans, a thorough scan of their atomic geometry and maps of bond energy configurations had been done by the bot master.  This data was used to re-assemble both humans into a nearly perfect simulacrum, an angel entity not unlike Element B or Commander Liu, for that matter.  Down to the last valence electron and nucleus, the two Systems Techs slowly materialized and took form, building form and structure, a hand here, an arm there, a leg, a nose and lips, their hypersuits, even down to the kits and cases they had been hauling up the side of Pyramid Hill. 
+Like a photographic negative slowly being developed, the form and appearance of Roy Favors and Sheila Westerlund came into being.  Soon, enough structure had been assembled for animation to begin.  The forms moved.  A leg twitched.  A hand grasped at nothing.  Bodies lying half buried in the dirt began to shift.   One after the other, the two angels sat up, flexed new arms and legs, then struggled to their feet.
+Even on close inspection, the angels looked just like Favors and Westerlund.  They did not resume their climb up the hill.  Instead, the two angels turned about and worked their way carefully downslope to level ground.  The distance to Icarus base camp was less than two kilometers.  The bot master, now animating Roy Favors, calculated that such a distance could be traversed in less than twenty minutes.
+The two angels set out for Icarus.
+
+Sammy Ng was the first to spot the techs returning to base camp.  “Hey, you two…what the hell happened up there?  I saw that dust cloud hit you…you get the transmitter up…I’m not getting anything…you forget to turn on the thing or what?”
+The two angels walked into the base camp.  Roy Favors…or what Sammy Ng first thought was Roy Favors…attempted to climb the ladder to the crew compartment.  That’s when Ng saw something that made his blood run cold.
+In the debriefings that followed, Sammy Ng could only point to one thing that made him suspect Roy Favors was not what he seemed.  It was a small thing…perhaps electrostatic charges from cosmic particles sweeping across the surface of Sedna…perhaps a configuration control glitch in the Favors angel…perhaps an explosive outburst of sublimating ice from beneath the ground…at any rate, it caught Ng’s eye immediately.
+Roy Favors’ hands went right through the lower rungs of Icarus’ ladder.
+If he hadn’t been looking right at Favors, it was doubtful that Sammy Ng would have ever noticed the anomaly.  But he did see it.
+And the alarm bells went off inside his head.
+
+Nathan Golich studied the two figures kangaroo-hopping across the dusty plateau in the distance.  Acth:On’e’s voice crackled over his suit comm.  He was still aboard Trivandrum, in orbit around this red rockball. 
+“Commander, do you see what I’m seeing…up there on the hill, maybe half a klick from you?”
+“I do, Acth…and I don’t know who or what the hell they are.  Are you sure about this?”
+Acth:On’e was sure.  “I’m reading high EMs, high thermals…all the signatures of bots.  They’re Coethi, Commander…they’ve got to be.”
+“Agreed.”  Golich looked over at M’Bela, hunkered down as best she could in her hypersuit, behind a boulder. “Queenie, let’s try to work ourselves in a little closer.  That whole gang down there could be nothing but bots…that whole camp we’re seeing.”
+“Ours not to reason why…” M’Bela muttered. 
+They approached the lander and camp cautiously, waddling and hopping from boulder to boulder as they slid and skidded downslope through the dust.  After some stumbling and slipping, they found themselves less than thirty meters from the camp.  No one seemed to have noticed their approach, helped no doubt, by the ever-present dust devils whipping across the surface.
+Golich checked his HERF carbine.  Full charge.  He made M’Bela do the same.  Then he carefully sighted through his scope on the nearest Bug.
+Jeez, they look just like us…the bastards are that good.
+Silently, with fingers, he counted down.
+Three…two…one…FIRE!
+“Let ‘em have it, Queenie!  Light ‘em up!”
+Both time jumpers discharged their HERF carbines at the same time.
+
+Chapter 2: Operation Sentinel
+
+"How did it get late so soon?”								
+					Dr. Seuss
+
+Icarus Base
+On the surface of Sedna
+December 15, 2110 (U.T.)
+0425 hours (Ship Time)
+T-date: Unknown
+
+Radio-frequency discharges crackled across the surface for what seemed like an hour, along with stinging loops of magnetic energy, as the Icarus landing party and the time jumpers fired on each other.  Several of the Bug angels were hit—M’Bela pumped a fist when she sent one flying up against the ladder of the little craft they had come from.  
+“Eat that, Bugman!” she yelled.
+But when Golich heard something faint on a seldom-used comm channel, he froze.  A few scratchy words, then static.
+He waved a hand.  “Cease fire, Queenie!  Cease fire, cease fire.  Hold your fire!”
+Hunkered down around the camp, the enemy seemed inclined to do the same thing.  Cautiously, Golich scanned every comm band, then he heard this—
+“…ain’t what we—come on!...move…’at way….”
+Slowly, carefully, one of the Bugs stood up, waving some kind of banner.  
+M’Bela swallowed hard.  “Man, that Bug looks real…looks just like a human.”
+Golich stood up too and waved back.  “It is real, Queenie.  The bastards are human.”
+“Commander, get down…you’re a target!”
+But Golich had already moved out from behind his boulder and skipped across the rubbly plain toward Icarus and the others.  One by one, they rose from their defilade positions and stood warily.
+Cory Hawley and Nathan Golich met half way across the ground.
+By hand gestures, they found a common channel for comms.  It was a channel Time Guard had long ago assigned to emergency beacons, something ancient, even archaic.
+“…’m Hawley, c/o of Icarus.  Who…hell are…you?”
+Golich could see that this was no angel…or Bug.  Hawley, whateverhisname was clearly as human as he was.  
+Somehow the Rift had thrown them into another time stream, or at least another worldline, and this one was from the distant past.
+On the coppery surface of a battered rockberg called Sedna, Frontier Corps troopers from the 22nd century had just encountered UA Time Guard jumpers from the 29th century.
+Golich laughed in spite of himself.  He handwaved for M’Bela to come down to the camp.  For his part, Captain Hawley motioned his own troops to come forward.  After a blizzard of hand gestures and halting snippets of comm chatter, Hawley invited Golich and M’Bela to come aboard Icarus.  Wary and suspicious at first, the jumpers relaxed a little when everybody put down their weapons.  Whatever Hawley’s crew had been up to, they stared at the time jumpers as if they were weird three-headed escapees from a zoo, then grudgingly went back to work.
+Hawley, Golich, M’Bela and Kohl climbed aboard the lander and gathered around a small table in Icarus’ mess compartment.
+Hawley explained something of their mission.  The Frontier Corps troops were there to set up a detector network to provide early warning of the approach of an unknown alien force thought to be nearby. 
+Golich looked at M’Bela.  “They are nearby, Captain.  We call them Coethi.  One of my crewmen detected them soon after we got here.”
+Hawley checked with Kohl.  “Has Element B reported seeing any other ship around here?”
+Kohl checked with Big Mike’s exec and confirmed what Golich was saying.  “Just popped up a few minutes ago, Captain.  Orbiting further away; that’s why Big Mike didn’t see her right away.”
+“She’s the Trivandrum,” Golich told them.  He tried explaining how the freighter had been modified, how she had entered the Cygnus Rift and been thrown into this time stream, this worldline.  How he and M’Bela had boosted down to the surface by themselves; Trivandrum had no lander. It was clear that Hawley was having a hard time buying the tale.
+“Time jumpers…from the 29th century…right.  More likely smugglers or privateers or something.  But for the life of me, what are smugglers doing way out here?”
+“We’re not smugglers,” M’Bela insisted.  
+“And there are Bugs right here on the surface…Acth:On’e saw the signatures.  We thought you were all Bugs…that’s why we opened fire.”
+Just then, Hawley heard a beep from the comm in the galley.  It was Sammy Ng, still down on the surface.  A firefight had erupted just outside the lander.  Voices screamed, and the buzz-crack of HERF discharges came over the circuit.  
+Kohl looked out a nearby porthole.  Jeez, Skipper, they’re in a world of hurt down there!”
+Hawley didn’t wait a second.  “Let’s go!”  The four of them scrambled aft to Icarus’ tiny airlock, cycled through one by one and dropped to the dusty ground outside.
+ “Bots!  Swarm bots!  Right here—Swarm bots and I’m engaging—!“  As fast as his bulky hypersuit permitted, Ng unslung his HERF carbine and charged it up, then let fly a volley of rf at the intruder.  The radio freq waves blasted through the Favors angel and momentarily disrupted its config, scattering atoms and molecules in a spray of light and sparks.  Ng pumped and fired, again and again, trying to destroy that the thing that had walked right into the midst of camp.
+Ng had positioned himself behind what was left of the crates he had been lugging around.  Scrambling and slipping in the dust, knocked sideways with each blast of the HERF gun, Hawley and Kohl managed to make it to Ng’s side.  Hawley told Golich and M’Bela to keep their heads down. They dropped to their knees, their suit servos whirring to stabilize them despite all the scrambling.
+“What the hell--?”
+Ng filled them in.  “I saw Favors and Westerlund coming back.  Didn’t think anything of it…maybe they needed something else from the ship.  When Favors…or whatever the hell that thing is that looks like Favors, starting going up the ladder…” Ng shivered in spite of his hypersuit…”—I could see it wasn’t real…just a swarm…a cloud of bugs.  Jeez, his hands and arms went right through the ladder and it was having a time grasping the ladder…I pulled out my gun and opened up.  Skipper…it’s both of them.  Westerlund and Favors.  The bugs are here!  The bugs got ‘em!”
+“All right, all right, Sammy…keep your pants on.  You did the right thing—“  Hawley chanced a peek over the top of the crate pile.
+The swarms had not been able to re-assemble owing to Ng’s HERF fire.  But the sparkling, flashing light of atoms being grabbed and slammed together told him where the swarms were.  For the moment, both had been scattered into faint dust clouds, like mist floating in the wan daylight of this rockpile of a world.  It was only a matter of time before the swarm master bots pulled enough atoms together to re-build visible structure.
+“Sammy, keep firing!  You, too,” he told Kohl. He turned to Golich and M’Bela.  “And you two as well…blast the sumbitches to kingdom come…you’ve got guns!  Use ‘em! We’ve got to drive them away from that ladder.  They get aboard Icarus and we’re sunk.”  		
+They took turns blasting away at the cloud of bugs, trying to scatter it, trying to drive it away from Icarus.  Kohl boosted himself over twenty meters off to one side, behind one of the ship’s landing legs, to get a better angle.
+Persistence began to pay off a few minutes later, even though Ng’s carbine was running low on charge.
+“It’s working!” Ng cried.  “We’re pushing them back—“
+“Don’t let the master near Icarus!” Golich yelled.
+Hawley agreed, then decided.  “Kohl, three more pulses…then we all make a dash for the ladder—“
+Kohl pumped three more discharges into the swirling, roiling, flickering mass…each time, scattering it a little more…each time, thinning out the mass, making it harder for the master to sling atoms together.  Each pulse shook the landing site like a thunderclap, even though Sedna didn’t have the barest wisp of an atmosphere.  A percussive whump, followed by ground shaking and shuddering like a bucking bronc, then poofs of dust lifted into the sky and rained down on everything and everyone in slow motion.  M’Bela added a few shots of her own.
+“That’s good!” Hawley said.  “That’s good…okay, on my mark, head for that ladder…Sammy, you first, then Kohl, then our guests…then me.  Ready--?”
+“More than ready, Skipper,” Kohl gritted out.
+“Three…two…one…go! Go Sammy….gogogogogogo!”	
+Ng scrambled and scratched his way through the intervening distance and leaped toward the bottom rung of the ladder, just snagging it with his outstretched hands.  He shimmied up the ladder as fast as he suit would let him, giving himself a slight burst of suit boost to help.  In seconds, he had disappeared into Icarus’ lockout chamber.
+“Your turn,” Hawley told Kohl.  “Hold up a sec…I’ll give the bastards another shot of rf—“  He discharged his own rifle and the ground concussion stirred up a gale of dust.  “Now…gogogogo--!”	
+Like Ng before him, Lieutenant Dean Kohl took three leaps and with assisted suit boost, made the ladder in under six seconds.  His legs disappeared into Icarus just as Hawley let fly another round of HERF. 	
+At Hawley’s urging, Golich and M’Bela followed Kohl, scrambling up Icarus’ ladder as fast as they could.
+Now, it’s my turn, Hawley told himself.  He studied the swarms for a moment.  A steady diet of HERF had disrupted their configs and it was taking time to re-assemble the mob.  That they were trying to re-assemble, he could easily tell.  The faint cloud…mist…fog…whatever you wanted to call it…could easily have been mistaken for dust stirred up.  Except for the sparkling and light flashes that popped on and off, almost beyond visibility.  Evidence of some furious atom-slamming, he knew.
+“Okay, you buggers…here goes another dose—“  He let fly another volley of radio freq waves…his last full charge…thunderclapping the landing site with a percussive whump and stirring up a miniature slow-motion gale around the base of Icarus.
+At the very same moment, Hawley leapt out of his cover and streaked as fast as his hypersuit would allow toward the crew ladder.  He was airborne and half-cartwheeling the last few meters but just managed to snag the lowest rung.  Then, he lit off his suit boost and propelled himself up and into the lockout. 
+As he rolled free of the hatch, Ng and Kohl slammed the lockout door closed and Golich dogged it shut tight.
+Hawley was already undoing his helmet and twisting it free of its neck ring.  “Get her powered up for launch, Lieutenant!  Essential systems only…emergency ascent!  Let’s get the hell out of here before those bugs grab onto something and ride up with us.”
+“Already started, Skipper.”  Kohl climbed through a small overhead hatch and disappeared into the command compartment.  Ng helped Hawley with his suit.  Golich and M’Bela found a space one deck below, in the mess compartment, and hung on.
+The crew completed an abbreviated systems check. A last sensor sweep was made of the landing legs and engine bell…no sign of the swarms could be found.   Icarus was humming and ready to fly when Hawley counted down the last few seconds.
+“Three…two…one…mark.  Ignition…!”
+The tiny lander shuddered and leaped off the ground, balanced on the gimballing thrust of her single engine.
+“Pitchover…looks good,” Kohl announced.  “Right on the money…Big Mike…here we come.”
+Hawley thumbed a bead of sweat from his forehead.  It had been close…too close.  “Amen to that.”
+Now climbing up onto the command deck, Golich added, “I just hope we’re not carrying some unwanted passengers.”
+Icarus made her approach and docked with Michelangelo in just under three hours, rocking slightly as the capture latches grabbed hold.
+“Hard dock,” Kohl announced.  “Couldn’t be a sweeter sight in the whole universe.”
+“Fastest rendezvous I ever did,” Sammy Ng decided.
+Hawley had already radioed up the details of what had happened to Element B.
+“Before we open that hatch,” he decided, “we’d better make sure we’re all clean.  Break out the sniffers.  I want to make sure we’re not carrying any bugs into Big Mike.”
+The scans lasted nearly an hour and each crewman was examined from head to toe, as the sniffers looked for anything out of the ordinary: high thermals, EM signals, acoustic pulses, anything indicating abnormal atomic activity.  Nanobots made noise, if you knew what to listen for.
+But the sniffers found nothing.  Hawley scheduled an all-hands briefing in the galley in half an hour.
+By the time the briefing started, Acth:On’e had maneuvered Trivandrum into a rendezvous with Michelangelo and was station-keeping at a distance of three kilometers from the big cycler ship.
+
+“So the damned Bugs are already here,” Hawley was saying, over a mug of coffee. 
+Golich nodded.  “In our time, we call them Coethi…but they’re still Bugs.  We’ve been fighting them on and off for centuries.”
+“Centuries?”  Hawley stared at Golich.  “Then…you really are from the future.  Time travel and all that.”
+Kohl, Ng, Element B…all looked skeptical.  Their doubts grew as Golich described Time Guard and how it had been formed to prevent the Coethi from messing up time streams as humans moved out of the solar system and into deep space.
+M’Bela spoke up.  “I’ve been looking into some early Guard history on my wristpad.  Commander—” she was addressing Golich now, “I think what happened here may be one of those unverified early encounters with the Coethi…probably an early recon probe.  History databases mention things like this…reports and anecdotal accounts of early run-ins with the Bugs, even back to the 22nd century.  We know they came this way millions of years before.  Maybe the Bugs are just paying Man a return visit.”
+Hawley considered that.  “This is the 22nd century…the year is 2110, for your information.  Frontier Corps sent us out here to set up the Sentinel net…a sensor grid to detect incursions coming from the direction of 51 Pegasi.  The astros keep saying something’s out there, something coming this way.  And we’ve got our own Bug problems to deal with.  You’re saying these…what do you call them--?”
+“Coethi.”
+“These Coethi are the same anomaly our scopes have been watching for the last few years?”
+“Very possibly,” Golich admitted.  He studied Big Mike’s executive officer Element B for a moment.  Thinking of Cygnus’ URME, he added, “We’ve even got officers and crewmen just like this one…he’s probably an ancestor of our own URME units.”
+Hawley rubbed days-old stubble on his chin, sipped at his mug.  “I don’t know about all this time jumping and Rift and Time Guard stuff.”
+“Captain,” Evelyn M’Bela said, “Your outfit and this Frontier Corps…they’re like what came before Time Guard.  We’ve been fighting the Bugs for hundreds of years.  From what I’ve been seeing on my wristpad, the history databases say Time Guard evolved out of your outfit.”
+“And you wound up here by mistake?”
+Thinking of Acth:On’e still aboard Trivandrum, Golich was careful.  “Let’s just say it was a small navigation error.  We’re not supposed to be at this point on the T-001 worldline at all.  We just need to find a way to get back home…”
+“…before we mess up this worldline any further,” M’Bela cautioned him.
+“Then your past history,” thought Hawley, “is our future.  The battles you’ve fought…we have yet to fight.  Am I getting this right?”
+“You could put it that way,” Golich said.  “It would be better—for the time line—if we didn’t interact too much from now on.”
+Hawley rubbed his eyes wearily.  “And better for my brain too.  But I still have a mission, Commander…that is your rank, I believe?”
+“Commander Nathan Golich, First Time Displacement Battery.  This is Jumpmaster First Class Evelyn M’Bela, our search and surveillance specialist, rating TS-1.”
+“Sounds legit to me,” Lieutenant Kohl said.
+“Like I was saying, we have a mission to lay down this Sentinel net so we can catch any Bugs or Coethi or whatever they are moving in our direction.  With what you guys seem to know—and that big fat watermelon of a ship you’ve got there—I could use some help.  I’ll have to run this by the Corps, you understand.  But what do you say, Commander: can we join forces?  I think we’re fighting the same enemy.”
+Before Golich could answer, M’Bela cautioned him.  “Causality paradoxes, Commander.  Remember what old man Jellicoe told us at the Academy.  We can’t do things to adversely affect the time stream…or this worldline.  It may keep us from getting back…or worse.”
+Golich sighed and smiled humorlessly at Hawley.  “Jellicoe…one of our favorite instructors, the crusty old coot.  I can hear his voice now—well, never mind that.  Queenie, I guess we need to research this a little, see what we can legally do.  I don’t want the Guard or Commandstar on my neck when we get back…if we get back.”
+M’Bela had been scanning history databases on her wristpad the whole time.  “Already done, Commander.  What I’m seeing is something like a draw in these early encounters with the Bugs.”
+Hawley craned over to catch a glimpse of her wristpad and its displays.  M’Bela abruptly covered her wrist.
+“How do you mean?”
+“It looks like in order not to interfere too much with the worldline—violating one of the causality regulations—we have to let Captain Hawley pretty much run this fight on his own.  The Bug encounters at this point on the worldline are the earliest known and recorded encounters with the Coethi.  History tells me you called them the Old Ones.  The battles have to be a draw, they have to be inconclusive.  The reason is that outcome will force people like Captain Hawley here to return home to work out better systems, better weapons and tactics to defend this solar system later on.  We can only give the Captain very limited help.  If we go further, we run the risk of shifting or branching the worldline…and I’m not sure what that means for us.  Maybe we don’t get back at all.  Maybe the battles with the Bugs still to come turn out differently.  Who knows…maybe there’s never a Time Guard at all.  I wouldn’t want to chance it.”
+Hawley was about to object when an insistent beeping interrupted.  Element B checked ISAAC, Big Mike’s AI.  The swarm brightened noticeably at what he saw on the display.  
+For a long moment, Element B studied returns off the long-range scan they had been running, sweeping space around Sedna for anything that might pose a threat.  “Captain, I don’t like the looks of this—it may be that anomaly again…diffuse signal, spikes in certain EM bands…ISAAC’s saying it could be a swarm…or a dust cloud.”
+“What’s the distance?  What bearing?”
+Element B tapped a few buttons on the screen.  “Thirty-six thousand kilometers to the leading edge…bearing one-one-two…it’s on an intercept course, too.  Heliocentric orbit, so it’s not in orbit around Sedna.”
+Kohl saw it.  “What do you want to do, Skipper?  Our mission is to complete this Sentinel Net and get the hell out of here.”
+“That’s what we’re going to do, Dean…but this thing’s on an intercept course…an intersecting orbit with ours.  I make closest approach in about ten hours, give or take.”
+“We could maneuver around it.  Change orbit.”
+Hawley shrugged.  “We could.  But mission parameters say this is the preferred orbit to lay down the sensor grid.  The base module on Igloo is sited to accommodate sensors in this orbit.  We change that…we’ll have to re-calculate where Igloo goes…maybe not even on Sedna….”
+He studied the long-range scan.  “I can’t tell from this distance what the anomaly is.  But ISAAC’s giving it a forty percent probability of being a swarm of some kind, based on EM spikes and spectrum analysis.  We have to stay in this orbit for now, to get the grid started.  But I want to be ready for anything.  Dean—“
+“Yes, sir?”
+“Big Mike’s no battleship but we do have weapons.  Get a couple of techs up to the weapons bay.  Make sure everything works…if we have to make a fight, I want to be ready.”
+“Maybe there’s something we can do to help,” Golich offered.  Trivandrum had her own minimal weapons suite, but no collapser.  “She’s a converted freighter, but still—”
+“Commander,” M’Bela warned Golich with her eyes.  “The causality regs, remember—”
+“Oh, yeah…right…but we can at least scout for you.  I’ll contact Acth:On’e…he’s a real bloodhound with our sensors.”
+“Do that, Commander,” Hawley said.  “Dean’ll grab Petty and Graebel…they’re both electronics techs.  They were with the ship from day one of conversion.”
+Kohl went aft down Michelangelo’s central gangway and soon found the two techs.  He explained what the Captain wanted.
+Petty complained, “Lieutenant, this ship’s not built for combat.  Hell, she’s nothing but an old cycler, with a paint job and some new parts.  Begging the Lieutenant’s pardon, sir, but isn’t this slightly nuts?”
+“Probably, but it doesn’t matter.  Come with me.” 
+The three of them went back to A deck and climbed through a small access tunnel that surrounded the main compartment. 
+Converted at Phobos Station months before, Sergeant Petty was right.  Michelangelo had once been a cycler ship, flying the Venus-Earth-Mars route for years like an old city bus.  The shipyard had made her ready for deep space ops at Phobos and, as an afterthought and on the specific orders of CINCSPACE, a suite of weapons had been literally bolted on to her forward compartment—A Deck. 	
+When she had departed Phobos Station on the Operation Sentinel mission, Big Mike sported pods containing HERF guns, magnetic impulse emitters, high-power microwave emitters, and, for good measure, a coilgun and a magazine full of kinetic rounds.   Now wedged into the weapons bay that topped A Deck like a rooster’s crest, it was Kohl’s job to make sure all the gadgets worked as designed. 
+For the next few hours, Kohl and his party checked out Big Mike’s weapons suite, with a little help from Evelyn M’Bela, while Hawley worked with comm techs on C deck to prime and launch a series of sensor pods along Michelangelo’s route.   Each pod contained a few racks of instrumentation capable of detecting nanobotic signatures at extreme distance, tuned for known EM bands and thermal effects that bots most often used.  Nobody knew if the Old Ones or the Coethi or whatever they were, worked the same way, or even if they were nanobotic in nature.  But then nobody had a better idea either.
+When their entire complement of pods had been laid down and all systems synched, the pods would form a detector grid capable, through the magic of interferometry, of being able to detect normal nanobotic activity at great distances from the solar system…some engineers even boasted the grid could read bot signatures up to a quarter light year from the Sun.  Not everybody believed that and Cory Hawley didn’t know what to believe…only that the grid had to be laid down in specific orbits and specific distances from each other, then linked with the base module on Sedna for the whole contraption to work.
+Hawley let the techs do their work and spent most of the day on A deck, checking in with Kohl on the checkout of their weapons and watching, with growing unease, as the ‘anomaly’ they had detected grew larger with each passing hour.  He spent hours with ISAAC, the ship’s command AI, studying and massaging the data on the anomaly, trying to tease out some kind of  indication that it was or was not a swarm.  A comm link was set up with Acth:On’e aboard Trivandrum to add to the data.
+Three hours from intercept, ISAAC upped the probability of the anomaly being a swarm to sixty-two percent.  A few moments later, Dean Kohl popped his head onto the command deck.
+“All checked out, Skipper.  Petty and Graebel fixed a few things with Commander Golich’s help…one of the HERF oscillators was installed backward.  But everything works now.  We’re fully charged.  All elements work.  And the coilgun’s loaded for bear.”
+Hawley frowned at the display ISAAC had put up on their main screens.  “Just in time, Lieutenant.  Look at the size of that mother…it’s bigger than Sedna…must be ten thousand kilometers wide at least.”
+Kohl came in and took a seat at the main console.  “Hell of a dust storm, if you ask me.”
+“ISAAC says it’s no dust storm…it’s one hell of a cloud of bots…and it sure as hell ain’t one of ours.  Even Trivandrum confirms that.”
+“The Old Ones?”
+“Maybe advance scouts.  I’m going to squirt this back to Farside and see what they think.  We could be the first ones ever to see or engage the Old Ones.  Dean…this may be Devil’s Eye we’re looking at.”
+“I don’t suppose we can go around it.”
+“Not and lay down the grid where we’re supposed to.  ISAAC, what are we looking at here?  How far to the anomaly?”
+The ship’s AI spoke in a measured tone.  “Estimating distance to formation leading edge at thirty thousand one hundred and fifty-five kilometers.  The formation is in heliocentric orbit which will intersect our orbit in two hours ten minutes, present speed and course.  
+“ISAAC, can you resolve what this thing is…dust or bots or something else?”
+“Long-range scan indicates that the formation is a diffuse cluster of discrete elements of mean size approximately twenty-five nanometers main dimension…smaller than normal dust particles.  Detecting increased energy levels in certain electromagnetic bands, consistent with assembler activity as we understand it.  Probability that this formation is a swarm of nanobotic elements now approaching seventy-four percent.”
+“Swell,” Hawley muttered.  “Dean, it looks like Big Mike will have the dubious distinction of being the first humans to engage the Old Ones.  One for the history books.  I wouldn’t want Commander Golich and his crew to have to relearn their history.  Let’s make it a good one—enable HERF and magpulse weapons.”
+Kohl strapped himself in and set about enabling the weapons systems from the main console. 
+“HERF cells now at full charge, primed and ready.  I’m slaving the emitter array to ISAAC’s coordinates for swarm centroid.  Magnetic impulse battery also at full charge.  All emitters on line and tracking.  Targeting sensors have acquired—“
+Hawley studied the orbit plots of Michelangelo, Trivandrum and the swarm, overlaid on his console display.  “Well, I’m not a Quantum Corps guy but I do know one thing…the best way to fight a swarm is with another swarm.”
+“I think we can jolt ‘em pretty good with what we have,” Kohl decided. 
+Michelangelo, with Trivandrum alongside, steadily closed the distance toward the intersect point, even as she dispatched several sensor pods into position along the way.  Hawley was heartened as the pods were ejected from Big Mike’s C Deck canister and took up their positions exactly as programmed.  Moments later, the pods had established a comm link and were sending back data on the nearby swarm, just as designed.
+“At least the pods seem to work.  Two down, a hundred and eighteen more to go.  ISAAC, how far to the swarm centroid now?”
+“Twenty-thousand four hundred and two kilometers.  Coming within effective range of our main batteries.”
+“Let’s give them a taste of what we’re about,” Hawley decided.  “On my mark, max discharge pulse on HERF…maybe we can break up the cloud enough to clear a path for our next pod deploy—“
+“HERF is ready—“ Kohl poised his finger over the button.  Golich watched, holding his breath, realizing he was likely watching real history in the making.  I’d better not even lift a finger now….
+“Five…four…three…two…one…mark!  Let ‘em have it, Dean!”
+Kohl pressed the button and a pulse of high-frequency radio waves shot out of the emitter array on top of Big Mike’s A Deck.  The pulse traveled the remaining distance in a few seconds, slamming into the swarm, scattering, shredding and obliterating bots along the outer perimeter of the cloud.
+“ISAAC, report…any effect?”
+“Scanning now…scanning…edge effects only…some reduction of EM activity, some drop-off in thermal effects…definite effects, there is a hole in the side of the formation, but it’s filling rapidly…swarm is reconstituting, changing config…centroid is maneuvering…changing course to intercept….”
+Hawley could see the story on his console.  They had managed to bash the thing but it replicated fast and grew back.  Now the swarm was turning, wheeling about to intercept Michelangelo directly, presenting itself front-on to their approach.  
+Golich was exultant.  “You stung it, Captain!  Look how that front edge is scalloped and misshapen…you did something to it.”
+“I think we just made it mad.  Dean, fire away, three pulses HERF and mag!  Set a twenty- degree spread.”
+Michelangelo rocked slightly as the pulses discharged and streaked toward their target.  Through the forward screens, everyone could see jagged flashes erupting in space, like slow-motion lightning bolts, where the radio waves and mag fields intersected the swarm.  Atoms were ripped apart and bonds sheared off, liberating untold energies into the vacuum.  A series of flashes and bolts lit up space ahead of them, still more than ten-thousand kilometers distant.
+“ISAAC, did we hurt ‘em?”
+“Estimating swarm has been reduced by two-point one percent in frontal dimension…swarm is reconstituting…possible aspect change…detecting possible config change—“
+Months later, when the first moments of the Battle of Sedna were replayed and analyzed, the report that ISAAC made indicating a ‘possible aspect change’ was considered to be the first known instance of quantum displacement effects seen in the encounter with what 22nd century humans called the Devil’s Eye phenomena.  Displacements effect had been observed before, in the Jovian Hammer operation some ten years before, when UNISPACE and Quantum Corps units had engaged the Keeper entity submerged in the subsurface ocean of Jupiter’s moon Europa.  
+Now it seemed that the swarms surrounding Sedna and probing the outer reaches of the solar system possessed the same ability.
+For Golich and M’Bela, it was all too familiar.  
+It was ISAAC who first reported on the phenomena.  
+“…detecting possible config change…all aspects have changed…swarm has…swarm has…re-calibrating…now re-analyzing…I have no explanation for this phenomenon…swarm has relocated to…analyzing sensor inputs for continuity…”
+Even ISAAC had trouble explaining what had happened.  In the blink of an eye, the swarm had vanished and re-appeared hundreds of thousands of kilometers from its last position.  Now, instead of following an intersecting orbit with Michelangelo and Trivandrum, the entire swarm had jumped to a new trajectory behind the ships, moving away on a diverging orbit inside of Big Mike…an orbit that looped inside of Sedna’s orbit, thousands of kilometers closer to the Sun.
+Hawley shook his head, rubbed his eyes.  “What the hell just happened?  ISAAC, can you explain this--?”
+ISAAC took a few moments to respond, uncharacteristically for the AI.  “Still computing new trajectory…still computing aspect change and config change…no data yet….”
+Dean Kohl gave up on their instrumentation and tried using his own Mark I eyeball, looking out the command deck’s portholes.  “Did that thing just move through space like I think it did…from over here—“ he pointed ahead, “-to over there, like in a split second?”
+“Yeah, I think so…I read reports from the Jovian Hammer mission…General Winger’s trip to Europa ten years ago.  That Keeper did the same thing…somehow, it could displace you in time and space if you got too close.  Nobody could explain it then…some kind of weird quantum effect was what I heard…and now we’re seeing something similar.”
+“Standard Coethi practice,” Golich admitted.  “We see it all the time…I wasn’t sure if it would happen here.”
+  Hawley was miffed.  “You could have warned us.  ISAAC, best fix on the swarm’s current position.”
+The AI crunched data for a few moments, then downloaded a new calculated position to their displays.  
+Kohl sniffed.  “Even ISAAC can’t believe it.  How the hell do we engage something that can do that?”
+M’Bela’s eyes met Golich.  If only we had a collapser…but she shook her head.  Don’t, Commander…don’t say anything, don’t even think it….
+Hawley noted another sensor pod deployment was coming up.  “We don’t.  Maybe the Bugs don’t want to fight.  It’s like they just went right around us.”
+“Then what are they doing here?  Where’d they come from?”
+“Beats me, Lieutenant.  All I know is we’ve got a job to do and the next deploy is two minutes away.  Setting EJECT to Auto…interrogating pod command system…everything looks clean and green here…standby to launch—“
+Two minutes later, Michelangelo deployed her second sensor pod.
+“Looks like we’re moving away from that swarm now,” Hawley noted.  “If ISAAC’s computed their position right.”
+“Yeah, but if they jump again, they could show up right in front of us.  What’s to keep them from doing that?”
+“Nothing I suppose.  Better keep weapons enabled and fully charged.”  He glared over at Golich.  “Are we following your script, Commander?  Everything okay with the history books?”
+Golich chose to say nothing.  God, he wanted to in the worst way, but Queenie was right.  Time Guard would hang them both if this got out.
+ “The ship will remain at battle stations for the time being,” Hawley decided.  “ISAAC, we’ve got several hours before the next pod launch…you have the conn.  I’m calling an all-hands briefing in the crew’s mess…we have to figure out what we do next.”
+“ISAAC assuming command,” the AI replied solemnly.  All the display screens blinked and a red triangle appeared on the main display…indicating that ISAAC was in control.  Hawley and Kohl left the command deck, Golich and M’Bela followed and everybody gathered into the crew’s mess one deck below.
+“We did sting ‘em, didn’t we, Skipper?” asked Ndinka, the ship’s Congolese chief machinist’s mate.  “I mean, we did hurt the bastards, didn’t we?”
+Hawley ran down the results of the brief engagement.  “The bottom line is this: we hurt the swarm, but I’m not sure how much.  Maybe the Commander here can offer his own insights.  The swarm moved off---maybe re-located is a better term—and I’m not sure we had anything to do with that.  Right now—“ he checked a report he’d brought from the command deck “the swarm’s several hundred thousand kilometers behind us.  Don’t ask me how that happened…I need Element B to explain that.  Even ISAAC has no explanation.”
+Norred, one of the Service techs from C deck, spoke up.  “Skipper, does this mean we’re heading home?”  There was a chorus of ‘yeahs’ and agreements around the galley. 
+“It does not.  We’ve got a mission from UNISPACE to deploy a sensor net out here and we’re going to complete that mission.  We’ve already dropped off two pods…the next one’s coming up in about fifteen hours.  Once the pods are in place and the net’s working, we go home.”
+There was a chorus of groans and curses around the galley.  
+Golich had an idea.  “Captain, why don’t you and your exec come aboard Trivandrum.  We can show you some of what we’ve got.  I’m trying to work out a way to get us back to our own time stream.  Acth:On’e’s there now…maybe we can all come up with some ideas.  We help you, as much as we can and you help us…quid pro quo and all that.”
+M’Bela face blanched.  “Commander, is this wise?  I mean—”
+“I know what you mean, Queenie.  But we’ve got to figure out a way of moving along this worldline back to our own time.  I’m thinking more heads on the problem can’t hurt.”
+“You’re probably right, sir.”
+Hawley was agreeable.  “I’ll leave Lieutenant Kohl and Element B here to run Big Mike.  How do we get over to your ship?”
+
+The trip between Michelangelo and Trivandrum was a matter of hypersuits and boost, the old-fashioned way.
+Once aboard the converted freighter, Hawley was wide-eyed as he surveyed Trivandrum’s tail pod and her propulsor banks.
+“This beats the hell out of Big Mike,” he said.  “What is all this stuff?  Is this how you jump through time?”
+Golich shook his head.  “Trivandrum’s just a freighter.  She can’t do time jumps.  She’s not capable.  These are propulsor units we cobbled together to take us into the Rift.  We had hoped to get back to our own time stream…but there was a…er…a sort of….”
+“You may as well say it,” Acth:On’e said.  “A little navigation error…my fault, he’s trying not to say.  That’s how we wound up here.”
+Hawley poked and probed around the tailpod gear, then followed Evelyn M‘Bela up to F deck and the ship’s powerplant.  “So how do you jump through time…is that even possible?”
+“Possible in our time,” Golich told him.  “And even routine, if you have the right equipment.  It takes a singularity core…that’s the heart of the process.”
+“A what…a singularity…?”
+Acth:On’e explained.  “The singularity core warps spacetime.  It emits a twist field that twists and pinches spacetime enough to pull us across the natural barriers of a time stream into other time streams.  I can explain further, if you’d like.”
+M’Bela had an idea.  “Don’t we all have old man Jellicoe’s lecture on navigating time streams, on our wristpads?  Here, allow me—” She touched a few keys on her pad and immediately a fuzzy image of a white-haired professorial man appeared in a small cloud of 3-d over their heads…Professor Captain Herman Ivan Jellicoe, from Academy days.  Jellicoe was illustrating something next to him with a pointer….
+“…One analogy is that time is a great, infinitely wide river.  A river wide enough has many currents, eddies, substreams and hazards embedded in it, like rocks, hydraulics, rapids, sandbars and shoals.  So does time.  Traveling through time embedded in a time stream aboard a jumpship is analogous to whitewater rafting on a rapidly flowing, twisting and turning water course.  Cross-currents are tricky.  There are eddies.  Undertows.  Flat water and white water. All kinds of hazards.
+“Traveling through time involves navigating similar flows.  A jumpship enters a time stream by creating its own wormhole with an onboard singularity core.  
+“Once in a primary time stream, propulsion and steering are maintained by a propulsor, while the singularity core uses its twist fields to keep the ship in the main stream.  Additional control surfaces are also used, much like a boat or a submarine.  There are flow vanes (flowvaters) and diving planes to shift the ship’s course into another time stream.  Much of the moment-to-moment control of the jumpship is handled automatically although the pilots can exercise control via a fly-by-wire system if they choose.  
+“Suffice it to say that navigating time is unlike any trip ever taken by humans before.
+“The primary time stream for humans is called T-001.  This time stream is considered the normal unchanged course of events that unfurls moment by moment every day in our lives.  Additional time streams are, for most purposes, infinite and only the precision of our navigation and steering allows us to enter subsidiary time streams with any degree of control.  As navigation and steering become ever more precise, jumpships can ‘parse’ off ever-finer slices of time and travel those courses as well.  
+“Local time streams (time streams near in time and space to T-001) are numbered T-002, T-003, and so forth.  The higher the number, the greater the temporal distance from T-001.  Today,  Time Guard has ships and techniques which allow humans to travel into and out of time streams numbering upwards of T-8500 and below.  Time streams can take jumpships forward or backward in time, depending on how the time stream is navigated.  The mother stream (T-001) is agnostic as to the direction.  Time seemed for generations to have a directionality, but we now know that this was an artifact of our limited knowledge.  Time and space are the Universe and although all evidence points to an expanding Universe, expanding in all directions from a primordial Big Bang, the mother time stream T-001 is navigable in any direction, backward and forward.
+“Physics tells us that mass affects the flow of time. Because of this, Time Guard jumpships have to navigate around large masses to stay in the primary time stream, or accept that their transit speed and time will vary according to how close they pass near to large masses, like stars, black holes, etc.  Often navigation charts and courses are plotted to steer clear of known mass concentrations, just as a kayaker in whitewater would steer clear of hydraulics or rocks in a stream.  Other routes are plotted to take advantage of known time stream effects and make quicker runs to common destinations.  
+“Time Guard has an operational practice of navigating to and through certain well-traveled time streams for the sake of efficiency, speed and safety….” 
+M’Bela closed down the display.  “You get the idea, Captain.  But Trivandrum can’t do any of that…she doesn’t have a singularity core.  We’re in this time stream, this worldline, by mistake.”
+Hawley was thoughtful.  “This sounds a lot like some work I heard about, work being done at Farside Labs, on the Moon.  Fellow named Wolfus Linx.  If I remember right, he was experimenting with something called a singularity drive…some kind of hush-hush project sponsored by Frontier Corps…or UNISPACE.”
+Golich was immediately intrigued.  He glanced over at Acth:On’e, who was about to warn them about getting too closely entangled in events of this time stream, but stopped when Golich waved him into silence.  “I’d like to meet this man.”
+Hawley shrugged.  “I’ve got orders to lay down this grid of sensors for Sentinel.  After that, we can head home.  But it’ll take a while, like about fifteen months, last I checked.”
+Golich said, “Why so long?  I’ll bet Trivandrum could make the trip to Urth in a month or so.  Isn’t that right, Acth?”
+Acth:On’e looked pained at the thought but agreed.  “I’d have to run the numbers by OSKAR but offhand, I’d say that’s about right.”
+“Maybe you could come along,” Hawley suggested.  “I’d have to get approval from UNISPACE…new orders, waivers, clearances and all that, you know.”
+Golich studied M’Bela and Acth:On’e.  He knew perfectly well they shouldn’t be doing this…hell, they shouldn’t even be here.  The Rift was supposed to have taken them along the main worldline of T-001 back to K-World.  But they were here.  And maybe this Linx guy knew a way to get them back.  It was a chance they’d have to take.
+“I’d like to do that, Captain.  But I’ve got a better idea on how to go about it.”
+“I’m all ears, Commander.”
+“You come with us, aboard Trivandrum.  Once Acth runs the numbers, I’m betting we can make Urth space in a month, six weeks tops.  Trivandrum’s got decent delta-vee capacity after all the mods we did.  The rest of your crew can follow in your ship.”
+Hawley liked the idea.  “I’ll have to get approval from UNISPACE but I like it.  But, Commander, what about those things you call Bugs out there?  I don’t have specific orders to engage but we should at least recon the bastards, see what they’re up to.  What the hell are these Bugs anyway…you called them Coethi.”
+Golich beckoned Hawley to follow him.  They scampered up the gangway to B deck and ducked into Trivandrum’s wardroom, where Golich ordered up a round of drinks from the fab station.
+“Movie time,” he told Big Mike’s skipper.  “I’ll rack up a vid Time Guard did for public release a few years ago, about the history of the Uman-Coethi conflict.  Make yourself comfortable.”
+M’Bela was right behind them, worming her way past Golich to the fab station.  “Popcorn, anyone?”  The fab was kept busy for the next few minutes, cooking up a variety of snacks and treats.  Acth:On’e excused himself and went forward to the command deck, to work up transit numbers and trajectories at his station, with help from the ship’s AI OSKAR.
+Soon enough, the air over their table was filled with music and spinning Time Guard logos, as they sat back to watch the vid….
+
+“The existence of the Coethi became known to Humans in the 22nd century.  Discovery of a mobile formation of swarm elements moving through the lower Galactic Halo some 65,000 light years from Urth, was detected by Farside Observatory in 2255 and confirmed by observation from Frontier Corps Station T (Titan orbit at Saturn) in 2260.  The nature of the formation was hotly debated for several decades until it became apparent that the formation was on an intercept course with Urth’s solar system and the encounter would happen in the middle of the 28th century (on or about 2770 AD). 
+“The first direct encounter (in Time Stream T-001) between humans and Coethi came with the ‘Incident at Hapsh’m,’ where one detachment mission (Operation Galactic Hammer) saw a small detachment of jumpships return to base and the base came under immediate attack from Coethi scouts who had hidden in the ships (morphed into human-like creatures) and returned with the Umans.  The Time Guard base at Hapsh’m was in a hell of a fight but Jump Master Oscar Keaton was able to rally a small force of mechanics, cooks, armorers, and office staff, including some bots, to counter-attack and destroy the Coethi, though some did escape back into another time stream.  For this effort, Keaton was awarded a Distinguished Valor medal (DVM 3rd class with star clusters) and promoted to Jump Sergeant.  Not long after that, he applied for Time Guard OCS and was admitted on probation (due to academic deficits).  The school was at the Time Guard base on Byrd’s Draconis….”
+
+Throughout the vid, Golich kept an eye on Cory Hawley.  Big Mike’s skipper had his mouth open the whole time.
+
+A day later, Hawley had provisional approval from UNISPACE to bring Golich, M’Bela and Acth:On’e sunward and shepherd them to a restricted arrival at Gateway, in cislunar orbit between Earth and the Moon.  There would be interrogations.  There would be debriefings.  Security checks.  Then more interrogations.  In time, if everything checked out okay and the right approvals were obtained, the time jumpers would be escorted under close security to Farside Labs.  And there, they might have a chance to meet Dr. Wolfus Linx.
+If all went well.
+Hawley sat in Golich’s seat on Trivandrum’s command deck, trying out the feel of the controls, imagining himself in command of such a vessel.  
+“This could really affect my career, you know.  You probably don’t realize what our encounter has meant back home, all the consternation, the meetings, the speeches and puzzled faces.  Careers are going to be made from this…I hope mine is one of them.”
+“I can imagine,” Golich admitted.  He kept a close eye on Hawley’s active little hands, making sure the curious Captain didn’t inadvertently send them off into deep space.  “Acth over there ran the numbers.  He says we can make Urth space in about four weeks, give or take.”
+Hawley was clearly impressed.  “I guess propulsion technology has come a long way by your time, huh?  Big Mike’s different.  She’s like an old city bus rescued from the scrapyard.  Rebuilt cycler, actually.  To get home, we’ll have to do the Jupiter-Venus-Earth gravity assist  tango.  Takes about fifteen months.  Real exciting, too.  Your worst enemy is boredom and keeping your crew sharp enough to avoid killing themselves doing the stupid things that bored crews sometimes do.”
+“Your crew is okay with the arrangements?  I mean, you coming along with us.”
+Hawley showed a brief humorless smile.  “Not really, but they follow orders.  Just going home makes them happier.”
+“When can we depart?”
+Hawley checked his own wristpad.  “You help keep those damned Bugs off my back so I can get the rest of the sensors dropped off and Sentinel net all checked out and then we can get the hell out of here.  We’re all a little uneasy out this far from home cooking.”
+“It’s a deal,” Golich told him.
+
+A week later, Michelangelo had completed her basic mission and verified the sensors and the Sentinel net controls were all talking to each other.  The Bug swarm that had shown up on their front doorstep had mostly vanished, dispersed into nearly undetectable vapors, according to Acth:On’e.  
+“They do have time jump ability,” Golich said.  “At least, in our time they do.”
+“Sure, Commander,” said M’Bela, “the bastards could be halfway to the Lower Halo by now…stirring up trouble somewhere else.”
+“We leave in an hour, Captain,” Golich told Hawley.  “Get your crew squared away and be back aboard Trivandrum by 1830 hours, ship time.  We’ll put you up here on A deck…you can sit next to Queenie there, help her man search and surveillance.  None of us is familiar with the space lanes around here; we’ve never been in Urth space or the mother system before.  It’ll be a treat for all of us.”
+“My treat,” Hawley said.  “Give me an hour.”  He headed aft down the gangway to Trivandrum’s airlock to boost over to Big Mike.  Once he had gone, Acth:On’e just shook his head at Golich.
+“Commander, I hope you know what you’re doing with this.  Messing around in this worldline could be bad for our health…and the whole Alliance too, if we’re not careful.”
+Golich busied himself studying the maneuver schedule and OSKAR’s proposed trajectory sunward.  “Hey, Acth, I hear what you’re saying, okay.  I’m well aware of the risks.  Have you got a better idea, either of you?”
+Neither Acth:On’e nor M’Bela said anything.
+“I didn’t think so.  It’s either meet up with this Linx fellow and get a barebones singularity core ginned up for this rust bucket so we can go home…or we stay here, stuck here forever.  Make your choice.”
+M’Bela and Acth:On’e bent to their consoles, saying nothing.  For his part, Golich ran down the maneuver checklist.
+Hawley was good for his word and was back aboard in fifty minutes.
+A half hour later, just as the window opened, Trivandrum’s propulsor banks flared into life, kicking her onto a steep sunward course that would have the old freighter diving at an ever-increasing speed toward where Urth and her Moon would be in four weeks.
+Golich silently prayed that Acth:On’e’s calculations, checked over by OSKAR, would be better than the ones that had taken them through the Rift.
+He really did want to get back to K-World and their own time.
+
+Chapter 3: Singularity Mark 1
+
+“They say I’m old-fashioned and live in the past, but sometimes I think progress progresses too fast.”
+									Dr. Seuss
+
+Lunar Farside Center,
+Korolev Crater, the Moon 
+January 20, 2111 CE
+11:30 hours
+
+Nathan Golich’s first impression of Dr. Wolfus Linx was of a famous explorer standing at the top of a windswept hill, as if he were a painting, pointing to horizons distant and unseen, his white hair and beard flapping in the breezes in just the sort of way you always saw on bad vids back home. A frontier man, clad in deerskin jacket and buckskin cap, old Winchester in hand, ready for anything.
+Except they were all ensconced in Linx’s lab at the far end of Newton Wing, smack in the middle of the Moon’s backside and surrounded by the towering walls and cliffs of Korolev Crater.   
+Golich found Linx an interesting, even intriguing man, given to sudden outbursts of arcane technical description, smiles at odd times, arms and hands that seemed to have a mind of their own and a way of standing so close to you that you could smell the onion and liver breath of someone who pretty much ate anything put before him.
+Golich was even more intrigued by one of Linx’s engineers.  Her name was Natalya Yasmin.
+Linx gestured at Golich.  “Time leapers?”
+“Time jumpers.”  He explained about the Uman Alliance and the Time Guard.  
+Captain Hawley interjected.  “They came through some kind of rip in spacetime, wound up near Sedna, just as Michelangelo was deploying the Sentinel net.  I didn’t believe it at first either.”
+Linx’s fierce blue eyes blazed.  “I knew it!  I knew it had to be…time travel…it’s possible, isn’t it?  I just knew it!”
+Golich half smiled.  “Yes, sir…we do this regularly…when we can.  Under certain conditions…and within limits, it’s very possible.  We wouldn’t be here otherwise.”
+Linx wanted to know all the details and it was Acth:On’e who gave him a fairly concise description of a typical jumpship, illustrating his talk with 3-d pics projected from his wristpad.  “The jump is powered by a singularity core,” Acth:On’e went on.  “Tuned properly, it can be used to emit a twist field—”
+Now Linx cut in, truly intrigued.  “I’m working on something like this.”
+Hawley said, “That’s why I brought them here, Dr. Linx.  I thought that maybe—”
+Golich said, “We came here by mistake.”  He explained about the Rift.  “Our ship, Trivandrum, isn’t a jumpship.  She can’t do time jumps.  But when Captain Hawley described what you were doing, I thought maybe there was a chance you could help us.”
+“Yes, yes—” Now Linx was rubbing his hands together.  “Yes, of course.  I should like to see this ship of yours.”
+“We’re in orbit now…actually parked at Gateway,” Golich admitted.  “And we’d like to see your work.  You’ve actually built a singularity drive?”
+Linx was already scrambling about his office, gathering up disks and cubes and papers.  “Of course, of course, you must come to the Lab at once.  I want your opinion…there are so many questions.  It’s just a few kilometers from here—” he smiled impishly, a gleam in his eye, “Farside won’t let me operate it here…we built a lab and bunker on the other side of the Korolev Hills…you’ll see.  A short ride in the cat, you’ll see.”
+Golich smiled at Yasmin.  “And your assistant?”
+“Oh, she comes too.  Really, I couldn’t do a thing without Natalya.  Could you see about getting us a ride, dear?”
+Yasmin smiled broadly.  She was a striking brunette, olive skin, cat’s eyes with a few dimples that gave her a slightly bemused look, as if she were harboring a great secret.    “Certainly, Dr. Linx.”  She turned to Golich, who tried not to stare too hard.  “Perhaps the Commander could accompany me, help with some of the gear.”
+“Of course,” Golich mumbled.  “Certainly…lead the way.”
+He tried to keep a professional face as they left Linx’s office.
+
+The ride out to the bunker and lab complex in a lunarcat Yasmin had reserved took about half an hour, the crawler negotiating a series of low hills, while mostly keeping to a narrow roadway of compacted regolith, well lit with lamps and markers to define the path in the undulating, heavily cratered landscape.  Yasmin was the driver.  Golich sat up front with her, barely keeping his eyes on the shadowed terrain.
+Linx’s complex was a trio of small domes, half-buried in the soil, connected by walkways and surrounded by stands of floodlights.  The sun was very low on the horizon, itself a short distance away, burning fiercely through gaps in the crater walls.  Deep pools of shadow made visibility difficult as Yasmin maneuvered the cat to its docking station and shut everything down.
+“You’re a good driver,” Golich complimented her.  “I couldn’t see a thing out there, with the sun so low.”
+“Oh, lots of practice.  We drive down here every day, sometimes several times.  I know every crater and hump along the way.”  She peered out the forward porthole, hmmming at the sun angle.  “Commander, we may get to see Nightfall while we’re here.  Judging from the angle and time and the shadows…” she checked something on her wristpad.  “Maybe an hour, maybe more.  It’s quite a sight.”
+“I’d like that,” Golich told her.  Then he remembered why they had come.  “But first, we should look at Dr. Linx’s drive.”
+“Of course.”
+They all cycled through the airlock and Linx shepherded them inside.  The singularity engine lay in a shielded compartment inside the larger lab module, behind thick transparent walls, a box the size of a small table bolted down to a solid-looking foundation pad, surmounted by horn-shaped projections, enveloped in ganglia of cables and wiring.
+Linx opened up the compartment.  Acth:On’e was especially curious and attentive, as Linx explained how he had originally had the idea.
+“It’s all temporal physics,” he lectured them, launching into a recitation that seemed well practiced.  “I’m sure you know all about this.  I’ve taken Minkowski’s notion of invariant spacetime and expanded on it a little.  Using a rather extreme gravitational force, generated by a monopole I developed for a separate little project, I’ve been able to create a very small singularity, at least intermittently.  I created a few geodesics with my gravitational monopole and manipulated them to where they terminate in a point of infinite density…a singularity.  But the problem is—” he shook his head sadly, “it doesn’t last more than a few seconds.  I haven’t figured out a way of maintaining it indefinitely.”
+Acth:On’e studied the setup, the controls, and Linx’s diagrams, now projected in 3-d in mid-air, a short animation of the intended process.  “You need a buffer, Dr. Linx.  A buffer for your geodesics and a converger to grab them at the right moment and bend them.  It’s a matter of tuning and adjusting.”
+Golich never ceased to be amazed at the Telitorian’s ability to grasp the essence of a thing.  “Acth, could this modified?  Could you make this into a drive we could use with Trivandrum?”
+Acth:On’e shrugged, rubbing his chin.  “Theoretically, Commander.  It would take some work, some tinkering.  I’ll check Trivandrum’s library, see if we have any schematics on board.”
+Linx was beside himself with glee.  “This is just perfect.  I’d want to help, of course, I’ve got lots of ideas…things I’d like to try out.”
+Evelyn M’Bela was chewing idly on one of her necklaces.  “We just want to go home, Doctor.  Back to our own time stream.”
+Thoughts and ideas were tossed about for a few moments.  Golich backed himself out of the more arcane discussions between Linx and Acth:On’e and wandered outside the compartment to a nearby porthole. Nightfall at Korolev Crater came abruptly, too abruptly, he thought.  He stared out the porthole and watched the shadows drop like a black curtain across the face of the crater wall.  Korolev was a massive place, fully four hundred kilometers in diameter, with stairstep rim walls and a small chain of mountains inside.  Like a bull’s eye on a target, the crater lay dead center in the rugged highlands of Farside, forever banished from the sight of Earth.  
+Nathan Golich watched the black creep down the crater walls and ooze across the crater floor like a spreading stain.  Somehow, it seemed depressing…another two weeks of night with only the stars for company.  Cosmic grandeur, my ass, he muttered to himself.  Give me a beach on Loch Lithgow and some native girls and I’ll tell you a thing or two about cosmic grandeur.
+ He watched for a few moments longer, then became conscious of another presence next to him.
+It was Natalya Yasmin.  
+“Nightfall is a special time here at Farside,” she said.  She wrapped her arms around her shoulders, revealing things her jumpsuit had previously hidden.  Golich tried not to notice, unsuccessfully.  “People do crazy things.  Everyone is affected in a different way.”
+“Oh?  How so?”
+Yasmin shrugged.  “Some go wild.  They drink, eat and party like there’s no tomorrow.  Some become depressed.  Some write suicide notes.  Some even go through with it, though not many, thankfully.  There are vid parties that last for days, binges and marathons of all kinds.  Games, tournaments, competitions.  Maybe it’s our way of blowing off steam.  You have that, too, don’t you?  In your Time Guard?”
+“Of a sort.  It’s a little harder on a jumpship, though.  The crews are small.  There are regulations.  Safety considerations.  And there’s always the mission.  But come liberty time—”
+Yasmin turned to face him.  “I’d like to hear more about your jumpships.  And your missions.”
+Golich now turned to face her.  That cat’s smile beguiled him, there and not there, a hint, a shadow, then gone.  Her eyes were black, seemingly unfathomable.   “Perhaps, after we work with Dr. Linx, figure out what’ve got here.  My main goal is to get us home, back to our time stream, in one piece.  And in our lifetime.  You and Dr. Linx seem to have something that can help us.”
+Yasmin laid a soft finger on his arm.  “Meet me tonight.  The Lagoon.”
+“The what?”
+Now her smile became unmistakable. “The Fiji Island Lagoon and Bar.  You’ll find it.  Twenty-two hundred hours.  Bring your crewmates too.  Regale me with stories.  We get stale around here after a six-month tour.”  With that, Yasmin turned about and headed back into the singularity compartment, just in time to see Dr. Linx gesturing animatedly, describing yet another wild idea.
+Golich stared after her.  The Fiji Island Lagoon and Bar.  Well, why the hell not?  Every sailor dreams of running into a native girl at the next liberty port.
+He soon joined her inside the compartment, deliberately ignoring the silent scowl on Acth:On’e’s face.  The Telitorian had seen everything.
+
+The Lagoon was the Fiji Island Lagoon, Farside’s attempt to make its rather spartan canteen down in Kepler Wing a bit homier and cozier. After discussions with Acth:On’e and M’Bela about what they had learned from Linx, Golich decided a drink was now a necessity, so after they had returned to Farside in the cat, he freshened up in the tiny compartment he’d been assigned to, then left Newton Wing and went down a short ramp to the connecting tunnel that led to Kepler Wing, where Farside’s hab spaces and galley were located.  Next to the galley was the canteen, all done up to resemble a South Seas beachside bar, complete with miniature palm trees, thatched roofs and a sign reading Fiji Island Lagoon.  
+Acth:On’e warnings about getting too entangled with this time stream just made him more determined.  Or maybe it was just hormones.  Whatever…he didn’t care. 
+It was just dusk by Farside time but he had heard the robotenders made a mean Samoan daiquiri and he figured it would make decent backstop for the log report he still had to write.  He ordered up a drink, then spotted Natalya Yasmin in a booth in the back.  She was conversing with another female, both of them engaged in heated talk about something.
+He went over.
+Yasmin introduced him to her visitor.  “Kemala Chandra…this is Commander Nathan Golich.  He’s with that strange ship at Gateway…they were helping Big Mike with the Sentinel net, so I heard.”
+Golich shook her hand.
+“Sorry, luv, I was just going,” Chandra informed them.  Already she had sensed something between Golich and Yasmin.  “We had some…uh, business to conduct.  Nattie, I’ll call you tomorrow, okay?  And bring that…package to the ready room in Newton Wing.  I can stow it in my locker before I head out to the Array.”
+Chandra left.  Yasmin explained.  “She works with Astronomy division.  Array tech.  They’re upgrading the South Lateral Array and they’re under a lot of pressure to get it done, yesterday if possible.”  She shrugged, twirled the pink parasol in her drink.  “Some kind of big observing project coming…gamma ray bursters, transients, that sort of thing.  Sit, sit.  I see you’re already well equipped.”  She indicated the Samoan in his hand.
+Golich sat down and took a sip.  “Not bad.  You’ve got a decent bar for such a crude place.”
+Yasmin made a face.  “We don’t think it’s all that crude.  Of course, for someone like you…”  A quizzical look came to her face.  “Are you really from, you know—” she indicated the shadowy lunar landscape beyond the windows.  “—out there.  Another world…what was it called?”
+“Keaton’s World.  We call it K-World.  Check out the constellation Cygnus, the Swan.  Our sun’s Sturdivant 2180, a yellowish star in one of the wings.  I don’t know, maybe forty lightyears from here.  Deneb’s better known…big white supergiant, not too far away.”
+Yasmin twirled the parasol in her drink some more, then sucked on the end.  “Dr. Linx said you’re a time jumper, from the future.  You expect a girl to believe that?  I’ve heard some lines around here, but—”
+Golich nodded.  “Sounds kind of hokey, when you put it that way.  It’s true, though.  We came through something called a rift, wound up here by mistake.”  He looked around the Fiji bar, half-filled with techs, engineers, maintenance supervisors, all in light blue jumpsuits…Farside’s standard-issue work outfit.  “Maybe five hundred years later along the main worldline, if this time stream is really T-001.”
+Yasmin shook her head, curled some strands of her black hair behind her ears, gave him a hard, analytical look.  “Where I’m from, you’d be a djinn, or something out of Arabian Nights.  You’d probably be stoned to death.”
+“And where’s that?”
+Yasmin shrugged, finished off her drink.  “Place called Lebanon.  Used to be.  Beirut, actually.  Until—well, enough about me.  I never met anyone from the future before.  What’s it like, where you’re from?  Better than this place, I hope.”
+It was Golich’s turn to shrug.  She really did have a fetching way of fiddling with her hair.  “I don’t know.  It’s okay, I guess.  I don’t get to see my home town very much…the Guard, you know.  Keeps us on the move.”
+Both of them noticed a small gathering at one of the windows.  Bar patrons were pointing, nodding, chuckling at something.   Golich craned to see what was going on.
+Yasmin was amused at his interest.  “Nightfall, Commander.  It’s just started.  But this isn’t the best place to see it.”
+“Nightfall?”
+“When Farside rotates away from the Sun.  We get two weeks of dark.  Really boring. Depressing, even.  But the way the terminator moves along the ground, makes shadows, makes crazy apparitions, that can be a spectacle.  People see all kinds of things.  Ghosts and monsters.  They get a little crazy.  The best place to see it is out there.”
+“Outside?  Where?”
+That made Yasmin think for a minute. “Probably, top of Korolev Hills.  Maybe five kilometers from here.  It’s not far from Dr. Linx’s lab.”
+“I’d like to see that.  All we get on K-World is sandstorms.”
+Suddenly, Natalya Yasmin found herself mightily intrigued with this unexpected visitor from the future.   “I could take you there.”
+“That would be great.  When?”
+“Now.  I know an EVA master here in Kepler Wing.  He’s owes me a favor.  I could get us two suits and a cat.  We could be there in an hour.”
+Golich smiled at the prospect.  This Natalya Yasmin, assistant engineer to Dr. Wolfus Linx, was a fascinating creature.  He found her strikingly attractive, even exotic.  She had a certain glow about her, he decided.  
+“I’m all in, Natalya.”
+The two of them left and headed upstairs for the airlock, two levels above.
+
+Yasmin truly was an expert lunarcat driver.  She wore her EVA suit fully buttoned up, as did Golich, but both had left their helmets off.  The cat bucked and shimmied like an ornery colt as she took them off-road and up a shallow slope, dodging craters and shadowy depressions.  A rooster-tail of dust followed them.  Soon enough, they had reached the summit of the Korolev Hills, a low scimitar-shaped range of mounds and rounded peaks near the center of the vast Korolev crater.  Yasmin brought them to a halt on a more or less flat promontory, that looked out over the crater floor.  The crags and ravines of the crater walls were in deep and swelling shadow, still several hundred kilometers away.
+They sat back in their seats.  Yasmin turned off all the cabin lights.  Only a blue glow from the instrument panel provided light.  They edged closer to each other.  
+“Watch how the black shadows move up and down the walls.  If you look at it long enough, you may see horses, serpents, ghosts, faces.  Or, if you’re lucky, The Chariots.”
+“The Chariots?”
+“Oh, yeah…see that formation over there, looks like a mouth full of teeth--?”  She moved closer—he could smell her now—was that perfume, mouthwash, the daiquiri, maybe?—“If you catch the light and the shadows right, it looks like a big chariot flying across the top of the crater walls…parents tell their kids about it all the time.  Farside’s version of a fairy tale.”
+Her arm brushed his face and she lost balance momentarily, almost into his lap.  He helped her up, they grinned at each other awkwardly….
+“Um…sorry…thanks.”
+Golich helped her upright.  “Is it okay to get out of these suits?  There’d be more room.”
+Yasmin studied his face as if he were a strange alien species, which he was, in a way.  “It’s against procedure.  Against regulations.”
+The disappointed moue Golich made with his lips made her laugh.  She inclined her head toward the rear cabin.
+“There’s more room in the back.”
+Golich unfastened his belts and harnesses and slipped between the seats, heading toward the cat’s rear compartment.  The lockout was back there, along with supplies, some shelves, a bench and a tool crib.
+After a few moments, Yasmin secured the cat and followed.
+
+They were in complete darkness, when Yasmin plopped herself down in the pilot’s seat, pinned her hair up, got comfortable and started the cat up.  It whirred, clicked and whirred some more, reluctant to start, but finally the motors caught and she breathed a sigh of relief.
+Golich was just coming up from the rear compartment, pulling up his suit pants as he squeezed between the seats.  
+“That didn’t sound so good.  Anything wrong?”
+Yasmin frowned, her eyes narrowing.  She studied her panel.  “Charge’s low.  At least, it started.  We’d better get back pretty quick.  Aisha’s low.  I don’t really want to walk back to Farside…it’s five klicks and kinda rough going.”
+“Aisha?”
+Yasmin smiled.  “My name for this baby.  She’s been good to me…and Dr. Linx, quite a few times.”  She gunned the motors, the cat’s wheels slipped a moment in the dust, then they spun and lurched off the promontory and down slope, the cat’s headlamps casting stark beams into the black haze of dust ahead of them.  “Got to be careful up here.  We fall into a crater or get too close to the edge and we’re cartwheeling through the air a few hundred meters down…except there’s no air.”
+“I trust you, Natalya.”
+“That could be a mistake.  Your life in my hands…you’re pretty trusting for a soldier, Golich.  I could be an enemy, you know.”
+“Yeah, right…my enemies don’t have butts like yours.  Just drive, okay?”
+She was quiet for a few moments, as they careened and bumped and slid their way downslope.  When they had finally reached level ground, Yasmin blurted out, “You really think Dr. Linx’s contraption can help you?  Get back to wherever you’re from.  Most people around here think it’s just a play toy, a kludge the Doctor likes to tinker with.”
+“That’s what we’re going to find out,” Golich decided.  “Acth:On’e thinks his physics is sound.  We may need to do a little more tinkering.  But it may be the only way we have to get back to our worldline.”
+Yasmin tightened her lips, invisible in the dark of the cabin.  “You really have to go back, Golich?  I mean, we could use you around here.”
+He snorted.  “Hey, I’m a time jumper.  I go where the Guard sends me.”
+Approaching the Farside compound, now brilliantly illuminated in floodlamps, Golich spied some large shadows moving awkwardly across their path.  
+“What are those …dinosaurs?”
+Yasmin chuckled.  “Don’t let the operators hear that.  Excavators, heading out to the landing pads.  They’re robotic, linked to each other.  The drivers are all nice and cozy at their control stations, over there in Galileo Wing.  One driver can run three or four at a time.  Maybe five, if they’re good, but that’s really against regs. They’re doing foundation work for some more pads.  Farside’s getting busy.”
+She drove the cat to a spot just outside the glare of Kepler’s floodlamps and parked it momentarily.  A small knot of people in EV suits had just emerged from Kepler’s airlock and stood in a half-circle, watching them.
+“We’re not going to the airlock?”
+Yasmin shook her head.  “Button your suit up, Golich.  I’m dropping you off here.  I want to take Aisha over to Galileo to the maintenance shed.  She was a little buggy on the ride back and she may need a full charge.  I’ll drop her off there and walk back…meet you where all those peopled are standing around.”
+“Got it.”
+The two of them sealed and buddy-checked their suits, then Golich left the cat and emerged into the glare of Kepler’s floodlamps.  He kangaroo-hopped his way over to the knot of people.  
+Dr. Linx was among them.  Acth:On’e and M’Bela were there too, as well a few Golich didn’t know.
+M’Bela glared at him.  “Sightseeing again, Commander?”
+“Yeah, yeah…just discussing the singularity drive, for your information, Queenie.”
+“Yeah, right.  Dr. Linx is taking us back to the lab for a little demo.  Acth here’s done some more fiddling, tweaked the twist emitters a little.”
+Acth:On’e tried to explain.  “The twist fields were interfering with each other.  They’re not strong enough.  I spent last night working with the Doctor to cobble together a kind of twist waveguide to keep them apart, but—”  He stopped when he realized everyone was shifting and moving forward right past him, no longer paying attention.  “What’s--?”
+Beyond the pools of yellow light, a large bulky shape had materialized out of the dark.  It was an excavator, seemingly out of control, careening on its treads right for them. There were pedestrians nearby, one of them—
+“Hey…watch out….!” Someone yelled over the common circuit.  
+Suited figures moved in alarm.  “It’s going to hit her…she doesn’t realize—”
+That’s when Golich realized the runaway excavator was bearing down on Natalya Yasmin herself.  The shadows, the dark, the dust, she didn’t appear to realize it—”
+Golich yelled into his lip mike.  “Natalya!  Yasmin!!!  Move your ass…get off that--!”
+He started up, intending to bound off to push her out of the way.  The excavator was as tall as Kepler dome itself, all arms and claws and forks and treads, crashing through a swirl of dust, bearing right for Yasmin.
+But Acth:On’e suddenly grabbed his arm.  “Commander—”
+Golich tried to twist free.  “Let go!  She doesn’t see it!  Let go--!”
+Acth:On’e squeezed harder, held Golich firmly, got right in his face, helmet to helmet.  “Commander, no!  We can’t interfere.  You already done too much as it is.”
+“What the hell are you saying…I’ve got to—” He tried to jerk away.  The excavator was rumbling ever closer to the pathway.  “Can’t you see?”
+“Commander, listen to me: this must be part of the worldline, the natural flow of events.  If you intervene now, there could be unpredictable effects, effects that could keep us from getting back.  Let it go, Commander…it’s the only way.”
+Heartbroken, frantic, his stomach all knotted up, deep inside Nathan Golich knew the Telitorian was right.  He watched in slow-motion horror, they all did, as Yasmin was knocked aside, then crushed by the runaway excavator.   It barreled across the pathway, bumping right over her prostrate form and seconds later, the shrill alarm of her emergency beacon went off in everyone’s ears, filling the public circuit with a wail that Golich would never forget.
+The excavator trundled off and a minute later, the driver inside Kepler managed to gain control of it and brought the huge vehicle to a stop.  But it was too late.
+They rushed to the pathway, where the prostrate form of Natalya Yasmin lay twisted, and enveloped in a fine mist, as they last of her air vented to the vacuum.  Dust enveloped them as the men dragged her out of the small depression she’d fallen into and someone brought up an emergency litter.  Her body was rolled onto the carrier and she was born back toward Kepler’s airlock. 
+There was dead silence on the circuit.  Only occasional grunts, oomphs, and hard, rattled breathing. What was there to say?
+
+Nathan Golich watched with a cold, detached stare as Acth:On’e and M’Bela finished the installation.  Both of them backed out of Trivandrum’s tailpod on their hands and knees and wiped sweat and dirt from streaked faces.  They clung to nearby stanchions in Gateway’s microgravity.  The ship had been docked at Gateway since returning from the outer system and Dr. Linx’s singularity drive had been brought up on the last shuttle.
+Golich said, “Just tell me one thing: will it work?”
+That brought a wan smile to Acth:On’e’s grimy face.  “It should, at least on paper.  Linx is creating micro-singularities with his gadget.  Pretty remarkable, given the crude technology he’s dealing with.  I ascertained that much.  I cobbled together a sort of converger and some twist emitters to boost the output.”  He shrugged, wiped his hands and face.  “Whether it will be enough to yank us down the worldline…or jump time streams--?”  He shrugged again.  “There’s only one way to find out for sure.”
+M’Bela echoed the sentiment. “I’d love to be able to test this gadget before we try it out…on ourselves.  But—”
+“I get the picture,” Golich said. “We may have one shot at this, at best.  I haven’t had time to check the history vids…I guess this is how singularity engineering got started.  Garage tinkering, they used to call it.”
+Acth:On’e agreed.  “That’s what concerns me, Commander.  We’ve already interfered with this worldline a lot.  If we can jump, are we off the worldline, maybe headed for an altogether unknown time stream?  Have we messed things up enough to make a jump back home impossible?  It’s not just Linx’s drive that worries me.  It’s the navigation.  I’m not sure that we might not have already gone down a different worldline, a different branch.  If this worldline’s really different, there’s no telling where we might wind up.”
+Golich was already headed for the gangway.  “I’ll leave that to you two geniuses to figure out.  My head already hurts, just thinking about it.  I’m going up to the command deck.  Linx is shuttling up to Gateway any moment now.  He wants to see what we’ve done to his baby.  And I don’t have time to give him the deluxe tour of the ship.”
+He disappeared up the gangway.
+M’Bela looked at Acth:On’e.  “He misses that girl, that Natalya Yasmin.  He still thinks he could have saved her from that runaway excavator.”
+Acth:On’e was studying a projected schematic on his dataspecs.  “Queenie, we can’t interfere anymore with this worldline.  Yasmin being killed was probably already determined, set in this worldline.  If Commander Golich had managed to save her, who knows what branch of the time stream we might be on?  My navigation has to start from as close to the primary worldline as possible.  But every time we interfere with events, it shifts us to a different worldline.  It isn’t Linx’s drive that worries me.  It’s what worldline are we on?  Linx’s drive should work fine.  But I can’t guarantee we’ll get back home with it…because I don’t know for sure where we are in this time stream.”
+“Just do your best, Acth,” she said.  “That’s all any of us can do.”
+“Yeah,” muttered Acth:On’e.  He shifted his attention to following something on his schematics.  “Tempus regit.”
+M’Bela left the Telitorian to his schematics and headed up to the command deck.  She found Golich in the left-hand seat, just staring out the porthole.  The modules and nodes and trusswork of Gateway Station were visible outside, and beyond that, the crescent shape of the Moon’s eastern limb, several hundred thousand kilometers away, for Gateway was parked in a halo orbit around the Moon’s L2 Lagrange point.  Beyond the Moon, the half-crescent blue and white of Earth hovered like an impressionistic painting against the black of space.
+M’Bela eased herself into the right-hand seat.  Golich acknowledged her arrival with a faint nod, but didn’t turn to face her.  He had turned out the main deck lighting and A deck was dark, save for the blue glow of instrument panels around them.  
+“Shuttle just docked,” he murmured.  “Probably Linx’s ride.  He’ll be banging on Trivandrum’s door in a few minutes.  I promised him a tour of the ship…why I did that I don’t know.”
+“Because you’re a human being, Commander.  And human beings care.  Sir, with all due respects, if you don’t change that glum face of yours, it’s going to stick like that.  None of us wants an exec that looks so dour.”
+Golich sighed.  “One of your family Ibo sayings, I suppose.”
+M’Bela chuckled.  “Actually, I just made that up.  But here’s one I remember my Mom telling me: Ukpala gbabara n'ikpo okuko na-ala ala mmuo.”
+“And what does that mean?”
+“Something like: a grasshopper who runs into the chicken house winds up in the land of spirits.”
+That made Golich laugh, which was partly her intention.  “You want to talk about it, Commander?”
+“Not really.  I just…I could have saved Natalya.  I should have saved her, pushed her out of the way of that excavator.  That didn’t have to happen.”
+“According to Acth:On’e, it did.  Look, sir, no one’s happy about what happened.  It was bad, what happened.  Real bad.  No one’s saying you couldn’t have saved her.  But Acth:On’e’s right: this was about… should you have acted.  It’s about interfering with the worldline.  Ultimately, it’s about us getting back home.  I just had a long talk with Acth.  You know what worries him the most?”
+“Linx’s drive?”
+“Not even close.  It’s about navigating from this worldline.  He’s not sure he really knows where we are in this worldline.  And if you don’t know where you’re starting from, how can you know where you’re going?”
+“Stop, Queenie, just stop, okay?  You’re giving me a headache.”  Golich leaned back in his seat and closed his eyes.  “I guess I should have never gotten involved with Natalya.  That’s what Acth:On’e said.  Hell, he’s probably right too.  But, jeez, Queenie, you saw her.  You met her.  I just couldn’t—” he didn’t complete the thought.  He didn’t have to.
+M’Bela was sympathetic.  “You don’t have to explain, sir.  We’ve all been through a lot lately…voidtime, flitting across time streams, the Bugs, the Twister, the Rift, being separated from the rest of 1st TD.  I don’t know how we stay sane.  Time Guard should give jumpers some time off, just to get their bearings.  Oh, I know the Bugs keeping probing and attacking.  There’s a war on.  We’re all casualties and all that.  I know that.”
+“What about you, Queenie?  How do you deal with being a time jumper?  Time Guard’s got hundreds of psych bots and therapy algorithms and rehab clinics around the Alliance.  Have you ever done any of that?”
+M’Bela snorted.  “Are you kidding?  I wouldn’t come within a parsec of any of those shrinks and quacks.  Those dirtbags are there so the brass feels good about ‘what we’re doing to support our men and woman in uniform.’  It’s all for show, every bit of it.  We all know that.  Out here in the boonies, we’re on our own, even if we’re orbiting old Urth right smack in the middle of T-001.”  She thought for a moment.  “As for me, I’ve got family issues to deal with.  And I can’t deal with them here.  We’re lightyears and centuries from K-World, but somehow, some way, I’ve got to get some liberty time and get back and confront my own father.”
+As an officer and Jump Commander with 1st TD, Golich was fully aware of M’Bela’s personal file.  “Your father is an important man, isn’t he?  Wasn’t he even General Secretary of the Delegate Council for K-World?”
+“Oh, he’s very important, especially, in his own eyes.  He often read me stories of the great warrior princes and princesses of our ancient Ibo forebears back on Urth.  He told me many times that I was a direct descendant of Dzugudini, the Rain Queen of Lovedu and that I had great, even magical powers.  In fact, one of my prize possessions is this necklace of cowrie shells, handed down right from the hands of Dzugudini herself.  When I was age 15, 16, maybe 17, I became intensely interested in all things Ibo. I was constantly reminded by my father of my royal background and illustrious heritage.  He said I was always to honor that heritage, to honor Dzugudini.  He always said to me: “Ura ga-eju onye nwuru anwu afo,” which means “A dead person shall have all the sleep necessary.”  In other words, “keep our heritage alive in your heart and never forget who you are.”  M’Bela shook her head sadly.  “Now I’m a time jumper, always half a galaxy away.  I’m sure I’m a great disappointment to him.”
+Golich sat up.  A tone had pinged from the instrument panel, indicating someone at the ship’s outer hatch, down on E deck.  “That’ll be Linx, come to see what we’ve done with his baby.”  He turned to M’Bela, as he was floating out of the seat.  “I’ll give him the standard Time Guard dog and pony show, then kick him out.  After that, I’m all for getting the ship powered up and getting the hell out of here.”
+M’Bela followed him to the gangway.  “No words were ever closer to my heart, Commander.  I could use a big, thick, juicy dactyl cutlet with all the trimmings about now.”
+
+Dr. Wolfus Linx was given a quick tour of Trivandrum, less than five minutes, then shepherded into F deck for a look-see at his singularity drive installed, and all the mods Acth:On’e had conjured up.
+He peered into the guts of the core, poked at a few connections, marveled at the converger ‘horn’ Acth had crafted and the Telitorian’s explanation of how it all worked, and pronounced himself more than willing to join the crew and come along.
+“Take me with you, Commander.  I’m sure I could learn a lot about temporal physics and jumpships if I were here with you.  I could keep an eye on the drive, make adjustments, figure out upgrades, and learn just what sort of wonderful things you time jumpers are doing in the future with my drive.”
+Golich was sympathetic but firm.  “That would be against Time Guard regs, I’m afraid, Doctor.  Plus having you onboard when we make the jump would probably throw all Acth’s calculations off.  We might wind up in the middle of a neutron star…or worse.”
+Linx blew that off.  “Nonsense.  You’ve got room here.  I’d love to get a peek at what’s coming.  I’m sure it would give me all kinds of ideas for improvements. And how will I know if my design worked?”
+“If we don’t come back,” Golich informed him, “it worked.”
+“That’s just the point, Doctor,” said Acth:On’e.  “Any ideas we could give you would mess up the time stream for sure.  Every major change we make shifts this worldline to a new one, like a tree endlessly branching. Even telling you that much is bad.  That’s why Time Guard has strict regulations about interference.  I’m sure you know about causality matrixes and the grandfather paradox and all.”  He glanced over at Golich when he said that, but the Commander paid him no attention.  
+Linx said, “I don’t give up so easily, you should know that by now.  If my work is to become so significant, don’t I have a right to know how it’s being used?”
+Golich could see that this line of conversation could only lead to more problems.  With Acth:On’e’s silent encouragement, he offered Linx a chance to go back to the command deck and peruse Trivandrum’s controls and indicators.
+Reluctantly, Linx let himself be led away to the gangway.  Even as he left E deck though, he had already identified a few possible hiding places.  He just wanted, no, he needed first-hand proof of the design.  When the time came, if the chance developed….
+
+Three days later, Golich had secured approval from Gateway Traffic Control for departure.  The plan was to undock and maneuver Trivandrum away from the station and take up a position several thousand kilometers to the Urth side.  From that point, her cobbled-together singularity drive would be powered up and an attempt would be made to jump time streams and send the old freighter hurtling further down the existing T-001 worldline, hopefully to their own time six hundred years in the future.  Acth:On’e had done innumerable runs of the calculations and settings, using OSKAR, the ship’s AI, to check and re-check his work.  Additional mods had been made to the ship’s flow vanes and maneuvering controls, even extra bracing 3-d printed for critical points on her hull, for the freighter had never been designed for time jumping at all.
+They would get one shot at this.  If it didn’t work….
+“We just have to hold this bucket of bolts together a little longer,” Golich said.  “Everybody, take your stations.”
+Trivandrum undocked from Gateway and a few hours later, had maneuvered off to her jump position, midway between old Urth and her Moon.  Both were waning crescents in the stark sunlight of space, a pale blue marble and her rusty, battered tan and ocher satellite.  
+“It was kind of unique coming back to old Urth,” Evelyn M’Bela decided.  “Where it all started, centuries ago…or I guess started about now, considering where we are at the moment.”
+“I’m ready to get out of here,” Golich admitted.  “Acth, you ready back there?”
+Acth:On’e was stationed four decks behind them, on E deck, Engineering, monitoring the drive as he ran down a lengthy checklist of settings.  A few parameters seemed slightly off-scale but he decided there was little he could do about them now.
+This contraption will either work or it won’t, he decided.
+“Ready as I’ll ever be, Commander.” 
+“Then let’s kick this bucket into tomorrow.”
+So much for the stirring pep talk, M’Bela thought sourly.
+“Singularity engine?”
+“On line, twenty percent.”
+“Flow vanes?”
+“Set for launch.”
+“Landing gear?”
+“Retracted and stowed.”
+“All call…go or no go…TT1?”
+M’Bela came back.  “Go.”
+“Navigator-Engineer?”
+“Go here, Skipper.”
+And so it went. The tiny crew of freighter Trivandrum pronounced all systems ready and able.
+“Picking up some vibrations,” M’Bela announced.  Her hands rested lightly on her controls, as Golich was maneuvering the ship to navigate the barrier of crashing time streams ahead of them, whirlpools surrounding a great vortex that the core had already generated. 
+“Engineer, singularity core to fifty percent,” Golich said.
+ “Increasing to fifty percent.  All green here, Skipper.”
+“We’re in a slight roll…fifteen degrees per second,” M’Bela announced.  “Nulling out all other rates.”  She nudged her own joy sticks slightly, bending Trivandrum’s course into the very heart of the main stream.
+The spin had already started.  By the time Trivandrum had entered the main time pool, she would be spinning like a bullet in a rifled gun barrel. 
+“Here we go,” Golich announced.  “Hang on!”
+A strobing light outside picked up and flashed crazily outside their windows. The light seemed to fracture into a billion shards, like a foam and bubble froth lashing the portholes; sounds of hissing and rumbling were soon buried in a crescendo of roaring thunder.  Centrifugal force was now pinning all of them against their seat straps.   
+To Nathan Golich, jumps across time streams always reminded him of whitewater rafting on fast mountain rivers, without the raft.  He’d never surfed the Big Cahunas on the north shore of Loch Lithgow when the desert mistrals fetched up, but he’d done a lot of body surfing off Nomad Township.  
+You stick a toe out this way and zoom off in one direction.  Push a few fingers out that way and you go careening off in another direction.
+Controlling a jumpship in the crashing maelstrom of time was like that, he told himself.  It was all a matter of feel and intuition, some sixth sense telling him to push here, press there, in order to navigate the infinite rapids of time and space inside the wormhole.
+Now, even with a creaky old scow like Trivandrum, much of the steering was automated and he’d reluctantly learned to rely on her onboard systems to do a lot of the work.  But that seemed to take all the fun out of the trip.
+Like a tasty morsel being swallowed by a very big fish, Trivandrum spun and gyrated right down the middle of the gullet that was T-001.
+“Flow vanes to fifty percent!” Golich ordered.  “Singularity to one hundred percent!”  It was the singularity core that generated the entanglement field that kept the ship centered in the throat of the vortex. 
+The inevitable tunnel vision now closed over the crew of Trivandrum…Golich, M’Bela and Acth:On’e…squeezing them hard, narrowing their focus and concentration to ever-smaller thimbles of vision…the normal gray-out that happened toward the end of the transit.
+With his final wisps of thought and consciousness, Golich tweaked the stick one last time, jamming a few fingers into the big wave and in an instant, just at the right moment, just right NOW!, the claws of time stream T-001 yanked them hard and violently.  Like a cocked fist, T-001 grabbed them and yanked them out of the mainstream and into the midst of a million tomorrows, almost like a barely controlled crash and sent them hurtling at breakneck speed down an infinitely curving corridor through a blinding sleet of polygons and tetrahedrals and cubes and then….
+Then…there was nothing.
+
+When Nathan Golich finally came to, he glanced out the porthole on his side of the ship and swore he saw a coppery red sun in the sky.  He blinked, felt a bump on his forehead and looked again.  Still there.  
+Sure looks like Sturdivant, he told himself.  Had they really been so lucky, so fortunate?
+He stirred and groaned and tried to sit up.  M’Bela was sitting slumped sideways in her own seat, mumbling something.  Her eyes opened slowly.  Both of them were growing seasick as Trivandrum spun slowly in an uncontrolled roll.  
+Down in Engineering, Acth:On’e was already on comms.  
+“Check your counters, Commander.  Trivandrum’s showing 5098.10.4…I make that as twenty a.u. from K-World, smack in the middle of the proper time stream.”  
+Golich’s voice sounded firm and Acth:On’e was glad to catch a glimpse of their home sun, revolving past the porthole every few minutes, easily a few hundred million kilometers away.  “Copy that…OSKAR converts that to 2815 C.E., T-date is T-03-22-2815 CE, plus or minus a few years.  Looks like we landed on target.”
+“Or within CEP limits,” Golich studied his board.  “Circular error probable was plus minus two years, I believe.”
+Just then, an insistent beeping interrupted him.  M’Bela saw the alert on her board.  “Hatch Open warning, Commander.  What the hell?  It’s back aft, the tailpod hatch.  If that thing’s loose, or open….”
+“Bad news.  Acth, kill the core, right now!  Something’s going on back in the tailpod…something’s come loose.  If the core’s still emitting twist, we’re cooked.  Queenie, get back there and help him!”
+M’Bela unharnessed and slipped down the gangway as fast as she could move, banging and bumping into the walls as she pulled herself along. 
+Golich peered out his porthole but it was Acth:On’e who had first seen them.
+“I see four…four ships,” he reported.  “Jumpships, Commander!  Time Guard jumpships, coming to check us out.”
+M’Bela scooted past E deck, then the hatch to F deck.  All secure there, she muttered to herself.  
+She came to the hatch leading into the tailpod.  It seemed slightly ajar.
+“Acth, is the core safe?  The hatch to the tailpod is undogged.”
+“Powering down now, Queenie.  Give it two minutes…there are still strong twist fields around that thing.”
+But she didn’t have to wait even two minutes.
+The hatch swung slowly open.  M’Bela gasped, shrank back, then all her instincts and training kicked in.
+She grabbed the arms of Dr. Wolfus Linx, shredded and bleeding, and pulled their stowaway out of the tailpod in one frantic motion.  Once he was outside, she dogged the hatch shut and threw the latch bolts down, spinning the rings again and again to secure them.
+Linx drifted half-conscious off to her side.  His face was lacerated and puffy, and his eyes and lips rimmed with some kind of white powdery residue.  He mumbled something incoherent and M’Bela tried to steady him.  They were weightless and she found it fairly easily to shove the Doctor toward the gangway.  He didn’t resist.
+He needs to get to sick bay right now, she thought.  Just before entering the gangway, she rang up the command deck on the ship’s 1MC.
+“Uh, Commander, this is Queenie.  I’m down here right above the tailpod.  We seem to have a little problem down here.”
+She shuddered to think what effects the presence of Dr. Wolfus Linx would now have on their time stream.
+
+TO BE CONTINUED
+Appendix
+
+How do time jumpers go about their business?  What sort of tactics are effective in combatting enemies in the world of time streams and temporal singularities?  The following list details some of these tactics and maneuvers.
+
+Deception and concealment
+Time jumpers have the ability to make relatively quick time stream changes.  These temporal shifts allow time jumpers to move to positions of greater advantage or leverage, depending on the tactical situation.  For example: moving your jump squad to a temporal position further upstream (i.e. back into the past in the same time stream) could give you the advantage of preventing the enemy from ever appearing, even ever existing. This is the time jumper’s version of the old sailor’s adage of the ‘wind gauge.’ These shifts can provide a ready-made source of deceptive countermeasures for concealment, allowing a typical Time Guard unit to infiltrate and spring a surprise on even the most suspicious adversary.  The Russians once called this tactic maskirovka.  
+
+Feints and Diversions 
+The Chinese general and strategist Sun Tzu claimed that “all war is based on deception.”  Feints and diversions are part of the same toolkit.   Time jumpers use their ability to quickly shift to another time stream or pinch off a time stream with their collapsers to conceal a main axis of assault, or to confuse an adversary as to where the main assault will be.  This is a relatively straightforward task in temporal warfare.  Just send a small force in the direction the enemy is anticipating or the time stream the enemy thinks you’re moving into.  If your intelligence is good, the enemy will react to these moves and weaken himself along another axis.  The ability to jump quickly and show up in unexpected time streams gives time jumpers unbeatable capabilities.
+
+Swarming attack (mass)
+The use of concentrated mass in warfare is one of the simplest and oldest tactics to use.  Just pinch off a time stream up and downstream of the enemy’s position, disrupt his singularity core, then slam the trapped adversary with overwhelming force.  This is like an ambush or an encirclement. Time jumpers call this a ‘Flytrap.’  The trick to succeeding with this tactic is to be able to out-jump the enemy and fend off any defenses he may have up his temporal sleeve…like singularity disrupters, etc.  Although it’s often said that the best way to defeat a time traveling enemy is to trap him in a time stream and defeat him in detail, a time twister gun doesn’t hurt.  With enough blasts of twist, any enemy can be yanked into oblivion, or at least to the other side of the galaxy.
+
+Dispersal
+One of the great advantages of using time jumping in combat is the ability to pulse.  Pulsing means that the normal state of affairs is for the jumpers to be dispersed or scattered to resemble or blend in to the local environment.  With the right signal, the dispersed jumpers can then quickly gather together into whatever configuration or formation is needed, pop out of a time stream and slam the adversary from multiple directions or time streams at once, a sort of temporal swarming attack.  Bees do it.  Birds do it.  And now time jumpers do it too.  
+
+Entrapments and Ambushes
+An ambush is a form of deception.  The point is to draw the adversary into a space where you have the advantage of mass and position.  Ambushes can be ridiculously easy when your time jumpers can come from any direction and time stream.  But all time jumps require vigorous singularity squeezing to maintain the jump, and thus give off acoustic, electromagnetic, atomic and other quantum effects of this activity.  Thus masking your signature and controlling emissions is critical to an ambush.  As Sun Tzu put it: “Let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt.”
+
+Managing Time Jumps
+Time Guard tactics succeed when the proper jumps and shifts can be deployed in a tactically effective manner.  This means the jump ships and sensor and navigation systems have to be up to speed.  It also means the time jumpers that make up a squad have to be well trained from the outset to execute commanded shifts quickly and without error, often under combat conditions.  A lot of this depends on intelligence…what do you know about your adversary?  Good intelligence, good communications and effective jump management…every tactic used by Time Guard has all these elements, in abundance.  
+
+These are just some of the basic tactics and maneuvers used by time jumper formations in Time Guard engagements.  
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+About the Author
+
+Philip Bosshardt is a native of Atlanta, Georgia.  He recently retired but worked for nearly 25 years for a large company that makes products everyone uses…just check out the drinks aisle at your grocery store. He’s been happily married for over 27 years.   He’s also a Georgia Tech graduate in Industrial Engineering.  He loves water sports in any form and swims 3 miles a week in anything resembling water.  He and his wife have no children.  They do, however, have one terribly spoiled Pekingese dog named Chance. 
+     For technical and background details on his series Tales of the Quantum Corps, visit his blog Quantum Corps Times at http://qcorpstimes.blogspot.com.  For details on other books in this series, visit his website at http://philbosshardt.wix.com/philip-bosshardt or learn about other books by Philip Bosshardt by visiting www.smashwords.com. 
+     To get a peek at Philip Bosshardt’s notes and the backstory on how the Time Jumpers series was created, recent reviews, excerpts from upcoming books and general updates on the writing life, visit his blog The Word Shed at: http://thewdshed.blogspot.com.
+      Download the next exciting episode of Time Jumpers from Smashwords.com and other fine ebook retailers.  It’s called ‘First Light Corridor’.  Available on June 28, 2019.
+
+
+
+
+
+
+ 
+

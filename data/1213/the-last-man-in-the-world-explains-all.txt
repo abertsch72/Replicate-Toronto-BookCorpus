@@ -1,0 +1,1234 @@
+﻿The Last Man in the World Explains All, and Other Strange Tales
+By
+D. Krauss
+Smashwords Edition, License Notes:
+This ebook is licensed for your personal enjoyment only. This ebook may not be re-sold or given away to other people. If you would like to share this book with another person, please purchase an additional copy for each recipient. If you’re reading this book and did not purchase it, or it was not purchased for your use only, then please return to Smashwords.com and purchase your own copy. Thank you for respecting the hard work of this author.
+*****
+Published on Smashwords by DOA Enterprises, Inc.
+Copyright 2007, 2012 by DOA Enterprises, Inc.
+This book is a work of fiction and any resemblance to persons, living or dead, or places, events or locales is purely coincidental.  The characters are productions of the author’s imagination and used fictitiously.
+
+Adult Reading Material- graphic violence, language, sexual situations
+
+
+To Alexander Key, and his Forgotten Doors
+
+Table of Contents
+
+Forward
+The Last Man in the World Explains All 
+Ghost Woods
+Invisibility
+Not With a Bang
+Do-Over
+An Unfortunate Choice of Words
+The World Without Souls
+Reparations
+Inherit the Earth
+An Inappropriate Response
+About the Author
+Like These Stories?
+
+FORWARD
+
+Mundane—characteristic of, or relating to, this world. Sometimes.  
+
+back to top
+
+The Last Man in the World Explains All
+
+(original version in Ezine Bewildering Stories, issue 325. http://www.bewilderingstories.com/issue325/last_man.html)
+
+A windblown paper wrapped around my leg while I was walking down Pennsylvania Avenue a few moments ago and, instead of irritably kicking it away, I pulled it off and looked at it. Banner headline: "End Of The World!" And below, the old accusations.
+Let me be clear. It was my fault. All mine. Not Cleveland’s or Marebeth’s or Dante’s, just mine. They, actually, tried to save everyone.
+Dante saw it first. He was always checking my work, even up to the last minute, hoping to catch me out and prove to Marebeth he was the better physicist. Like that would make her drop me or something. Damned irritating and downright laughable, until...:“Jerry,” there was concern in his voice. “I don’t think this is right.”
+“What?” I somewhat asked, more concerned with gauge settings than anything Dante thought.
+“The lithium absorption. I think you may have overextended it.” His eyebrows, two wrestling caterpillars, bunched and roiled in alarm.
+“One minute!” the sergeant reading the countdown shouted.
+“Right,” I’d said. Shut up already, you jealous little jerk.
+Marebeth walked over, her non-existent eyebrows roiling in the same buggy way. She traced the same line on the sheet that Dante had, then gasped, her little porcelain hand flying to her mouth. “Jerry! He’s right!” she looked straight at me and her face went paler, if that was possible.
+“What!?” I completely lost my cool. If Marebeth agreed with Mr. Bad Science, then it was time to panic.
+“Ten seconds!” the sergeant called.
+Cleveland leaped for the bunker door, frantically pulling at the heavy bolt. “Stop the countdown! Stop the countdown!” he shrieked.
+Too late.
+The world went white and hot, a new sun over Bikini. The pressure waves slammed into our bunker and then subsided, and generals and admirals all slapped each others' backs and Alvin called over the intercom: “More megatonnage than expected!”
+Of course. Dante and Marebeth and Cleveland just stared at me. “You’ve killed us all,” she said quietly.
+Not immediately. There was plenty of time to pack up and hide what we knew and act like everything was okay and scurry back to Washington to brief and be briefed and get awards. In between ceremonies and conferences, the four of us watched the weather and demanded plant and animal surveys in ever-widening circles around the atoll.
+“Why are you so worried about that?” an intern laughed one night. I fired him on the spot, and the other interns got back to work, keeping their sniggering little comments to themselves.
+We read the reports and grew quieter, more depressed.
+We stockpiled as much oxygen as we could, in sealed and hidden bunkers we could access as needed. Stop-gap. But it would give me time.
+The others stopped blaming me after five years or so. It just wasn’t helping. At first, I didn't think I was to blame at all, figuring it was something unanticipated, some unforeseen reaction, like maybe an extra neutron. But no. You see, 6 times 6 is 36, not 35. Stupid, stupid, stupid little error. And we all die for it.
+Because when you offer a little more hydrogen than necessary to the gods of fire and death, they greedily accept. And reach for more.
+No one else noticed until the ozone layer began to change. Marebeth developed a plausible "greenhouse gas" story and dropped it here and there. Everyone bought it. Then there was the Amazon die-off, and Dante came up with overharvesting and Bolivian peasants. Everyone bought that, too. But, eventually, too many things showed up in too many places, and someone got suspicious and grew alarmed and called in a few buddies. And figured it out.
+When the first accusations were leveled, Marebeth phoned, her voice as pale as she still was. “Did you hear what they called me?”
+“Yes.” I paused. “Kali.”
+She started to cry. “More time,” I pleaded, “just a little more time.” She hung up.
+As the uproar grew, they went into hiding, leaving behind some documents and formulas that made it look like I was innocent. Oh sure, I got interrogated and was even in prison for a while, but they'd done a good job and I was absolved. When they got caught, they played it out because I needed more time. If I was strung up next to them in front of the U.N. and left there for days while crowds ran by throwing stones and tearing at dangling feet, then it would all be for nothing.
+I attended their execution, of course, to keep up appearances. I stood in the crowd and cheered as they dropped, Marebeth’s eyes searching me out, the blame full in them. Funny she recognized me, since I'd lost a hundred pounds and all my hair. Pretty much like everyone else.
+But that's all ancient history now, one you’ll never know because everything’s, finally, ready. I’m slogging through the blizzard of papers and overturned cars and thin, cyanotic skeletons piled on every corner, no longer squeamish as dried-out birds and maggots crunch under my feet, carrying the last bottle of oxygen, no more than a half hour's worth. That's all the time I need. Or deserve.
+I had to start from scratch, of course. We only had Univacs and the 701 at the beginning, and I had to learn Fortran and experiment with it and rewrite and reapply and wait for better systems and languages. Kilby came along, and Metcalf; then Wozniak and Gates. And the blessedly complex, but easier to write, computer languages.
+It just took a lot of time: forty-six years. 
+No matter. At least, no matter to you. When  the reactor fills the grid with thousands of years of power, you'll be reborn. It will feel seamless. You'll go through your day and work and fight and die and marry and have children, and they'll work and fight and die. It’s actually a simple loop, with so many branches and iterations it will seem like individuality.
+I've programmed some interesting events for you, like a disputed election and an attack on New York and a bizarre couple of wars with Iraq and Iran and a few more bad things here and there. I don't want any of you getting suspicious. Some good things, too, like a manned landing on Mars (coming to you in 2046) and reception of radio signals from Altair.
+You’re going to have a great life. You’re going to have a great world. The memory of what really happened will be gone. As am I. I programmed myself out. I programmed Marebeth and Cleveland and Dante in. They deserve to live. I don’t.
+In about ten minutes, as soon as I enter the vaults beneath the White House and hit two switches, there you’ll be. And minutes later, I won’t be.
+Fitting.
+
+back to top
+
+Ghost Woods
+(originally published in the Ezine Silverthought, August 2007. http://www.silverthought.com/krause01.html)
+
+"Goddamn CSI," Mark snarled.
+Greg, popping gum as usual, shook his head. "It's just a TV show, Mark," he scrutinized a clipboard, "and you're just a crank."
+Mark glared at him. He accepted the crank label but knew, even if Greg-the-punk-ass didn't, how that dumb show had ruined things, convincing half of America the science of crime scene processing was a mere matter of waving arcane and non-existent technology over a general area then, presto! fibers and fragments and prints, oh my. Thanks, Hollywood, thanks a lot.
+Frustrated, he stood at the base of the trail, one foot on the shoulder of the road and the other on the hill where the trail began its climb. People, including the hundred-thousand or so gawkers strung along the road and craning their country-ass necks at him and the uniforms and the taped-off woods and the jostled-together police cars forming a cordon around this portion of the road, would expect CSI-like miracles for this case, as would his bosses. And miracles it would take. How he was going to extract any evidence from a scene where so many goddamn dumbass useless civilians tromped their yokel open-mouthed fat feet, picking their noses and staring at the body of Mr. Smith while the newly widowed Mrs. Smith, still dressed in apron and slippers, screamed and screamed at the top of the trail, he didn't know. The three thousand boot prints left by the goddamn uniforms when they herded the yokels out was just icing.
+"Shitheads," he cursed.
+"Hey," Greg pointed the clipboard at the now sedated Mrs. Smith being bundled into the ambulance. "Take it easy."
+"Yeah, yeah," he waved a hand. His performance reports labeled him 'insensitive,' but that was wrong. He was hypersensitive, to victims and unfairness and incompetence and office politics and butthheads getting promoted and hotshot know-it-alls invading the detective ranks (except for Greg, who was a good guy, even if a punk-ass). Just because his voice carried well at inopportune moments didn't make him insensitive. Did it?
+"You don't see this very often," Greg said.
+"What?"
+Greg gestured at the curiously tented white sheet draped over Mr. Smith. "Arrows. Bows and arrows. Downright medieval."
+"And that tells you what?"
+Greg shrugged. "I dunno. Killer didn't have a gun."
+"Which is odd for a robbery, ain't it? Would you take a bow and arrow seriously?"
+"If someone was pointing it at me, I would."
+"No you wouldn't, not as seriously as you would a gun, not in this day and age."
+"If someone was pointing it at me, I would."
+"Ach," Mark became more irritated, "listen. A bow and arrow is clumsy, hard to conceal, doesn't have a fear factor, has a surprise factor. Your victim is going to be puzzled for a few moments, and you want your victim scared, handing over a wallet, not looking at you like you're some kind of nut."
+"So, what is it, then?"
+"Accident."
+"Accident?"
+"Yeah, accident. Couple of idiot kids with a new no-shit bow and arrow."
+"Right," Greg looked down at the clipboard. "Nobody saw any kids."
+Mark watched a DC camera crew that was trying to move its van past an increasingly red-faced traffic cop. Great, any minute, a freakin' news helicopter will descend, blowing whatever shreds of possible evidence left into the next county. "Nobody ever sees anything," he said.
+Like now. Thirty minutes ago, the crying and increasingly hysterical Mrs. Smith had told him she flew right out the door when their Husky returned alone, terrified, dragging its leash behind. She ran to the tamed suburban wooded path located in the cul-de-sac at the end of their street, not even bothering to change out of her house slippers. She knew, just knew, that her husband was in deep trouble. If the clumsy old fool had merely hurt himself, caught his ankle or broke a toe as he usually did at least once a month, he would have dragged himself home somehow, trying to hide his discomfort until he fell into the living room and made a big show of this week's injury. She'd have laughed and shook her head and railed at him and bandaged or soaked or wrapped whatever it was he had damaged. He would never, ever, have let the dog go. That would be undignified. Mr. Smith was anything but undignified.
+She had slapped down the trail, her heart pounding in fear. She expected the worst but didn't expect what she found. There, just at the angle of the trail's dropoff, where it dumped unceremoniously onto Powhatan Road so that, if you weren't careful, gravity would fling you far too quickly into traffic, Mr. Smith was crumpled against a fallen tree, one of the dozens left by the latest windstorm and which Fairfax County always took its sweet time clearing. It was the arrow, buried in his lower chest and carrying remnants of his heart out the back, which made her scream. Her screams attracted the yokels. The yokels destroyed the crime scene. Perfect.
+Mark had taken careful notes because tiny details solved cases. Mr. Smith always walked the dog as soon as he came home, still dressed in suit and long coat, carrying himself with great import and soberly nodding at the neighbors because this was a Responsibility. He'd always been about Responsibility and Appearances. That amused her. He was bluff and posture but harmless, and why would anyone want to kill such a blustering but sweet, amusing, white haired old man? Mark had kept his face stone and professional and asked her the standard follow up questions about enemies and persons with grudges, but, inwardly, wailed her bewilderment, her sudden and unlooked-for loss. Mark's heart carried hundreds of such tiny wounds, each a murder he'd investigated these past thirty-five years. The two or three unsolved ones still bled.
+Greg shot a measurement with the range finder. "You got us an approach?" Mark asked him.
+"Think so." Greg added a couple of touches and then turned the sketch where Mark could see it. "Straight in." He pointed at a line.
+Mark peered at the drawing. "We could try the other side."
+"Yeah, but this hill is steep. We'll have a better chance of finding something just below the body. Gravity, ya know."
+"Okay." Mark pulled out his Alternate Light Source and hooked it to the generator. "You got the camera?"
+Greg slapped his pocket twice and pulled out his own ALS. Mark took the left side, as usual. They both stepped once and peered and prodded the ground and laid their lights obliquely along the path, searching. Greg slipped a filter in front of his, looking for organics, marked the sketch, nodded, and they stepped again. It took them about thirty minutes to reach the body.
+"Crap," Mark muttered. They hadn't found anything.
+Greg gripped one end of the sheet, nearest the head. He looked at Mark, raising an eyebrow. Mark nodded and Greg gently pulled the sheet off. Mark stared.
+"Mark," Greg said, looking back towards the road. "Kray's here."
+Mark saw the coroner emerging from his telltale black ambulance. "Good," Mark said, "now we can get Mr. Smith on the table."
+"Funny lookin' arrow," Greg observed. 
+*
+"Funny looking arrow," Kray said, peering at it with the aid of a glass and an overhead light. Mark had the surgical mask pressed hard against his face, mouth-breathing the Vaseline he had liberally spread across it. Never Vicks; only amateurs used Vicks. Opened up the passages, defeating the purpose. Vaseline was almost as useless; the horrible, overpowering odor of autopsied guts ramming through and battering Mark's nostrils. God, how he hated that smell—never got used to it.
+"That's what I said," Greg replied, peeling a banana. Mark stared at him. Sometimes he hated his partner.
+"Hm," Kray pursed his lips. "You know, I think this is homemade."
+"Homemade?" Mark sucked in more Vaseline.
+"Yes. It's pretty crude, not quite straight, has lots of marks like it was fashioned with a knife or something. Definitely not commercial."
+"Do people make their own arrows?"
+Kray shrugged. "I suppose. There's kits for it, I'd guess. You get some wood dowels or fiberglass shafts or something and you turn them and burn the feathers. But don't quote me; I'm no expert."
+"So it came from a kit?"
+"No," Kray squinted at the shaft. "Don't think so. This one's far too crude, like somebody picked up a stick in their backyard and fashioned it."
+"Like a kid." Mark gave Greg a significant look.
+"Kid, adult, who knows? Some back-to-nature person, perhaps."
+"Or an Indian," Greg offered as he dug around in his lunch bag.
+Mark raised an eyebrow. An Indian. Or someone who thought he was an Indian. Every once in awhile, Greg proved his worth. Even if he had the decorum of a rhinoceros. Mark looked at Greg's lunch bag and felt ill.
+Kray frowned as he bent closer, "Well, tell ya, whoever made it did a good job. It's pretty strong." He flexed the arrow a bit, moving the shaft around in the wound and causing its tip, protruding out Mr. Smith's back, to rotate. They had opened the table to avoid damaging the arrow during the autopsy, using braces to keep Mr. Smith from sagging. Seemed pointless. He was deflated now, open and empty, deer dressed for the butcher.
+Mark looked away from the empty eyes and empty body. "What makes you say that?"
+"Well, it went right through the chest cavity and heart and out the back, almost three fourths of its length, without breaking. The stone arrowhead's still intact; should have shattered when it hit the chest. Remarkable."
+"So a pretty strong shot."
+"Very strong," Kray stepped back and rummaged around the table. "The bow must have been powerful."
+Powerful. Mark bit at his lower lip and glanced at Greg, who frowned at him. They were both having the same thought. Not a kid.
+"Something else—whoever shot it really knew what he was doing. Look here," Kray pointed his long scalpel at the feathered end of the shaft, all bloodied, "This angle. The bowman was standing well below the victim, at least 120, 130 degrees."
+"You mean," Mark interrupted, "like on the road?"
+"Maybe. At least where the trail started on the shoulder, or a little further out. He was shooting up. And he caught the victim right at the bottom of the rib cage and the arrow went smack through the middle of the heart. I mean, it was an instantaneous kill. Quite a marksman." Kray shook his head in admiration.
+So much for the kid theory. So much for an accident. It looked, instead, like someone was rather peeved with Mr. Smith, someone versed enough in bows and arrows to fashion his own and murder quite expertly with it. Mark sighed. This was going to be a weird one. He hated the weird ones.
+"So, you fellas want the arrow clean, or leave it embedded in some tissue?" Kray had the scalpel poised over Mr. Smith's bottom chest.
+"We're more interested in the arrow as evidence," Mark said. "Clean, if you don't mind."
+"No problem," Kray sliced into Mr. Smith below the shaft, "I'll leave some close tissue because I don't want to nick the wood. Never know, the guy may have signed his work," and he chortled a bit.
+Mark looked away, queasy, seeking more Vaseline as the blade squished and screeched against bone. "Say," Kray said, gesturing at Greg's bag, "do you have another banana?"
+Mark turned and lurched out the door.
+*
+"Detective Sanger?"
+"Yep." Mark hurriedly swallowed the last of the Blimpie and hoped he didn't get mayonnaise on the phone.
+"Lynne Hadastu, State Lab. I'm calling about your murder case? The arrow?"
+"Oh, right, right," Mark sat up and brushed the napkins and crumbs away, reaching for his notepad. "Wow, less than a month. Thanks for calling so quick."
+"Oh, no problem. Murders have priority, especially something as unusual as this. I'm going to send you a written report but I wanted to call you first."
+"Well, I appreciate that. You guys are the best, you know." Never hurt to butter up a labbie.
+"Well, thank you. Can you get us a raise?"
+Mark laughed. "I wish. I wish I could get one. So, what you got?"
+She hesitated and Mark inwardly groaned. Can't be good news. "I wish I could tell you something definitive but, well, this is just plain weird."
+"Tell me about it," Mark sighed.
+"Yeah, don't envy you. But, this arrow, it's funny."
+"That seems to be everyone's opinion."
+"But I mean, it's funny, it's just… funny. Strange."
+The back of Mark's head prickled. "How so?"
+"Let's start with the shaft. It's made of dogwood."
+"Dogwood? Isn't that the Easter tree? Seems a bit sacrilegious."
+She laughed. "Well, not to pagans. But dogwood is also known as arrow wood."
+"Let me guess," Mark said, "because it was used for arrows?"
+"You got it. The tree of choice for Native American fletchers."
+"So, whoever made this arrow is sticking with tradition."
+"Oh, you bet he is." She paused. "The shaft has heat marks and shows signs of an arrow wrench."
+"A what?"
+"An arrow wrench. That's a block of wood with a hole in it slightly bigger than the shaft. You heat the shaft and then bend it in the wrench to straighten it."
+"And that was done to this arrow." Mark stated it, didn't ask. "So, a purist."
+"Definitely, since he used bear grease and real deer sinew, too."
+"Huh?"
+"Yeah." She couldn't help sounding pleased. Labbies loved it when they surprised the investigator. "The grease used to heat the shaft is genuine, honest-to-God bear. The maker also used honest to God real deer sinew to tie on the feathers, which are hawk, by the way, and to support the head, which is real flint."
+"But," Mark was perplexed, "where in the world do you get stuff like that?"
+"Specialty stores, mostly in the Northwest. But these samples didn't come from a store. No preservatives."
+Mark drummed his fingers, thinking furiously. "So, what, is this guy Jeremiah Johnson? Running through the woods of Northern Virginia killing deer and bears and making arrows out of them?"
+"Well, no, we don't think so." She paused.
+"Well, what? Do you have something else?"
+"Sort of."
+He let out a breath. "Fingerprints. You found fingerprints and it's Cochise, right?"
+She laughed. "No, not Cochise. We did find lots of fingerprints but they're not matched."
+"Okay. So?"
+"We tested the DNA of the deer parts." She paused for dramatic effect. "They're from a species that hasn't existed in 300 years."
+"What?"
+"Could be four."
+"I don't get it."
+She sighed in sympathy. "Frankly, we don't either. When we identified the sinew, we got the bright idea we could check the DNA and narrow down what part of Virginia it came from. So we sent it to UVA for typing and they asked us if we were joking with them, that the DNA evolved out 300 years ago."
+"I still don't get it."
+"That species of deer hasn't existed since about 1600. They evolved into modern deer, you know, the kind you hit with your car?"
+"That's nuts," Mark observed. "They must have screwed up the tests. Eggheads."
+Lynn chuckled. "We thought so, too, so we had Tech do it as a backup. Same result."
+Mark blinked. "But, how's that possible?"
+"Don't know."
+"I mean," Mark struggled with his objections, "how, I mean… can there be some old timey deer somewhere? On a farm? Zoo?"
+"Not that anybody who should know seems to know about."
+Mark continued the finger drumming. "All right, so, what? Someone's got a stash of mummified deer somewhere?"
+"Well, maybe not mummified, but some old specimens, definitely."
+"Is that even possible? Does deer sinew even keep that long?"
+He could almost see her shrug. "Under the right conditions, we suppose."
+"And what would those be?"
+"Preserved somewhere. Like a museum storage room."
+"A museum." Mark drew those words out, using the time to think. "Do you all know of any museums with that kind of collection?"
+"No, we checked. We even called the Smithsonian but they weren't aware of anything like that, either."
+Of course. That would be too easy. "How 'bout those dioramas, those displays at the Smithsonian? You know, the stuffed creatures in the glass cases, painted to look like the wild?"
+"The Smith says none of the displays have specimens that old. Neither does New York, Chicago, any of the big museums."
+"But that would be your best guess, right? That the deer parts came out of a museum somewhere?"
+"It's about our only guess. Anything else is just, well…" she hesitated. "Weird," she said, finally.
+Definitely. Something dawned on Mark. "Could it be an original?"
+"An original Indian arrow?"
+"Yeah, made when those deer and beer were running around."
+"You mean, a four-hundred year old arrow?"
+"Yeah." He already felt stupid saying it.
+At least she gave it a few seconds' consideration before she laughed. "No, no way. It's too new. The wood would never have survived that long, much less the sinew and feathers."
+"What if it was petrified?"
+"It's not." She paused. "If you want, we can do a carbon test on it." Her tone conveyed what a waste of time that would be.
+"Hmm," Mark pretended he was considering it. "Nah, no, you're right, that's silly. So, you're sending it back, then?"
+"Yep. Should be there tomorrow, along with the report. If you need anything else, call us." She paused. "Good luck."
+"Yeah. Thanks," and he hung up. Mark stared down at his desk for a long moment before calling out, "Greg!"
+"Yo!" came from way down at the coffee pot, Greg's favorite hang out.
+"Let's go back to the crime scene," he yelled as he stood and grabbed his pistol and coat and the file. Always go back and look. You never know what you'll find.
+*
+"Nothin'," Greg said, kicking at some poison ivy. "Just like the last three times."
+Mark frowned. "Stop that. You'll get the juice all over me."
+"You allergic?"
+"Yes. And so are you, so knock it off." He wanted to think, he wanted to look, and Greg spreading itch poison all over the place was too distracting.
+"So?" Greg pushed away and began kicking at rocks instead.
+"I'm still looking."
+"At what? We've combed this place, the techies combed it, we've gotten all the tracks and fibers from every friggin' idiot who walked through here anytime during the past twenty years." Greg wasn't one to push a case beyond its Solvability Factors.
+Solvability Factors...what crap. Still, other than an arrow made from animals long dead, what did they have?
+"No enemies," Mark said.
+"No."
+"No girlfriend."
+"No."
+"No pissed-off neighbors."
+"No. And no, and no," Greg snapped. "We've asked all those questions."
+"Okay, but now we know about the arrow. We know how weird it is. Now we ask different questions."
+"We could have done that at the office."
+True, Mark acknowledged, but crime scenes kept the ghost of what happened. They were in the right place to glimpse the ghost: on the trail, right about where Mr. Smith had been shot. It was about the same time, too. Mark stared down the hill at the traffic going by.
+"All right," time to start, "the killer used an arrow made out of pretty rare artifacts, or maybe it's an original old arrow, meaning a pretty expensive arrow, to kill Mr. Smith. Why?"
+"It's the only one he had."
+Mark snorted. "Yeah, right, an expert bowman who stocks his quiver with million dollar arrows."
+"It's the only one he had with him."
+Hmm. "So, target of opportunity?"
+"Maybe," Greg said, "He was going by, saw Mr. Smith, decided to let him have it. Test out his skills."
+"Saw him from where?"
+Greg gestured down the hill. "Driving by."
+"How could he see him?"
+"It's early spring. There's no foliage."
+"No, no," Mark waved his hand. "How could he see him from the road? The angle's too steep."
+"Hm." Greg acknowledged that. "Maybe he saw him further down, as he was driving up."
+They both looked down the road, back towards the Daventry entrance, which was lost to sight by the road swell. A car crested the swell, the driver silhouetted in the rear windshield.
+"Okay." Mark felt a little stirring in his stomach. That's why you come back to the scene, Greg. "So, he sees Mr. Smith as he's coming up the hill, decides to stop and shoot. With a very expensive artifact. Why?"
+"Again, only arrow he had."
+"But why is shooting someone more important than keeping the arrow?"
+"Well, maybe he stole it, knew he had to get rid of it. What better way to baffle everyone?"
+"Could have just thrown it in a ditch. Anyone finding it would be clueless."
+"Maybe he needed to make a statement of some kind."
+Mark tapped his chin, watching the cars. "What kind of statement?"
+"Oh, man, I don't know, repression of Indian rights, exploitation by the white man, striking back at authority, take your pick."
+"No," Mark held up a finger. "This is important. Our victim, was he involved in anything exploitative like that? Animal testing, maybe?"
+"He was a unit chief at GSA."
+"Okay, he ordered staplers for the government. The government exploited the Indians…" and let the thought hang.
+Greg shook his head. "No, doesn't work. It's not like he was wearing a sign or something."
+"Yeah, but everybody in Fairfax County works for the government. And the killer would've seen him here every day."
+They both went "hmm." Mr. Smith had walked the dog through the woods on a little-deviating schedule for years.
+"Which means," Mark said softly, "our killer goes by every afternoon. At the same time."
+They both stared at the cars, suddenly alert, peering through the windshields until they passed out of view, looking for guilt, an avoiding turn of the head, nervousness. Like they could see that from here. Mark shook himself.
+"So, Robin Hood drives this route. He's mad, getting madder every time he sees the fat cat white man walking his privileged dog through woods that maybe once belonged to the Indians, maybe his own people, maybe not, maybe just feels some affinity. Snaps, stops, shoots, drives off." Mark folded his arms, pleased with himself.
+Greg nodded. "Could be. After all, this is the Ghost Woods."
+Mark blinked. "What?"
+"Ghost Woods, that's what they call this little patch."
+"Who does?"
+Greg shrugged. "Everyone does. I saw it on the county topo map when I was measuring distances. Ghost Woods."
+"Why, 'cause it's a ghost of what these woods used to be?"
+"No, it's an Indian name. A translation, anyway."
+"Is it?" Mark was feeling even more smug. "That fits."
+"Seems to," Greg nodded.
+Mark smiled. Now he had direction, the right questions, which narrowed the options and developed names and whittled those down until only one name was left, the killer. Yes. Screw you, CSI. This one wouldn't peter out, this one would be solved…
+Mark frowned. He watched the cars go by.
+"You know, Greg," he said, suddenly, "Something really bothers me."
+"What?"
+He pointed at the road. "How many cars have gone by since we got up here?"
+Greg pulled at some bark on a small tree. "Dunno. I haven't been counting."
+"A lot, right?"
+"Yeah, thirty, I'd say."
+"Yeah, thirty, a pretty much continuous stream of cars with a small break here and there, wouldn't you say?"
+"Okay, I'll say that. What's your point?"
+"How," and Mark swept his hand to take in the road, "do you pull over, blocking half the road and pissing off everyone behind you, get out, grab a bow and arrow, shoot someone on the trail above, get back in your car, drive off, and no one sees anything?"
+They were both quiet, watching the cars.
+"Ghosts," Greg said, finally.
+*
+"Doctor Bainbridge?"
+The weedy little man looked up from the table, his slip-on magnifiers bugging his eyes out so all Mark saw were pupils. Cross between a man and a cricket. "Yes?" a weedy voice to match.
+"I'm Detective Sanger." He paused, but nothing stirred in the giant pupils. "I called you last week? About an artifact?"
+The giant eyes blinked in some puzzlement and then Mark saw his brow clear. "Ah, yes, the arrow! So sorry, Detective, I'm very distracted and can't remember from one day to the next what I'm supposed to do." He snapped the magnifiers off his head and his eyes shrank back to normal. Mark smiled.
+"Please, please, here." Bainbridge pulled a stool up to the work table while hustling several cloths off to on one side and pushing several brochures to the other and slam-closed a huge volume of full-sized parchments as he rearranged lamps and spotlights and was, before you knew it, sitting expectantly, blinking at the package Mark carried.
+"Uh…" Mark said.
+"It's quite all right, quite all right, Detective," Bainbridge fluttered a pale hand at him, "I know it's evidence and I must be very careful, can't compromise the integrity, wouldn't want to ruin a case, now."
+"You've done this before?"
+Bainbridge sat back a bit, the fluttering hand resting on his chest. "Yes, on stolen artifacts from time to time. The FBI uses me on their Native American cases."
+"Really? So that's why the Smithsonian referred me to you."
+"Yes, it's become sort of an inside joke. They've started calling me Joe Leaphorn."
+Mark just looked at him.
+"Oh. Sorry. He's a character in some Navajo mysteries. Sorry," and Bainbridge was flustered and both hands fluttered now and it was all Mark could do to keep from laughing out loud. So anxious not to offend.
+"'Fraid I don't read a lot of mysteries, Doctor. Occupational hazard."
+"Ah, yes," Bainbridge's eyes lit up appreciatively. "Yes, I can see that, definitely. The same reason I don't read Westerns."
+"Sure." Mark sort of got it. "Well, then." Mark laid the package down and undid the seals, carefully unfolding the cloth until the arrow lay exposed under the spots.
+Bainbridge stared at it. "My. Oh my." He then lapsed into silence.
+Mark sat quietly, watching him. Bainbridge was all eyes, absorbed by the arrow. The minutes dragged. Mark stood it for a bit and then stared around the workroom. Lots of charts with timelines and colored graphs and pictures tacked haphazardly to cork boards leaning precariously on tables that had open boxes and pottery and feathers and bones scattered across them. Bainbridge must have about ten projects going at once.
+"It is," Bainbridge said suddenly, startling Mark, "absolutely, without a doubt, one of the best reproductions of a Powhatan arrow I have ever seen."
+"Really?" Mark's brows rose.
+"Yes. Exquisite work. May I?" and he reached for the arrow without waiting for permission. The evidence tech in Mark screamed a silent "No!" but all possible prints and DNA and fiber had already been gleaned, so relax.
+"My, oh my," Bainbridge murmured again and Mark swore he caressed the arrow. "Whoever did this really knows his art. See here?" Bainbridge leaned the shaft so close to Mark he had to move back. "The feathers are not glued. They're secured around the front with cording, looks a lot like sinew. Only modern arrows are glued along the whole feather, something most forgers don't know. Forgers tend to impose anachronisms on their work. That's how they're caught."
+"So it's definitely modern work?"
+"Oh, undoubtedly."
+"No way it's an original?"
+"Oh, no. This is a definite forgery."
+"What proves it's a forgery?"
+'Oh, well, that's simple. If this was real, it would have to be over 400 years old."
+"400 years?"
+"Yes, maybe 450. This forgery is pre-Jamestown, before European technology began to influence Native American arts. The pigments are cruder, the scoring more primitive."
+"How do you know it isn't 400 years old?"
+"Well..." Bainbridge smiled, a shy look coming over him. He genuinely didn't want to show how smart he was. Mark found that refreshing. "This is in too exquisite shape to be that old. It would have suffered rot and mold and damage, even if it was carefully preserved. If it had been in any collection, even a private one, I would have heard about it." He held it up, admiring. "I would like to meet the craftsman."
+"So would I. You said this was Powhatan's?"
+"Not Powhatan's, Powhatan."
+Mark cocked his head. "I thought Powhatan was a person."
+Bainbridge dropped back to the smile again. "He was, but only because of a translation error. Powhatan is the nation's name. The chief's name was Wahunsonacock, but the English applied the tribe name to him. There were actually a lot of tribes that belonged to that nation, but we know them collectively as Powhatan."
+"Wasn't he Pocahontas' father?"
+"That's him." The smile remained.
+"So, the Powhatans, they were all around here?"
+"Oh, yes."
+"In Fairfax County?"
+"A branch of them called the Tauxenent."
+"Hmm." Mark thought for a moment. "So, this arrow wouldn't be out of place here."
+"Well, no. The forger is very well steeped in Powhatan lore, has to be, which narrows your suspect list somewhat. To even me," and Bainbridge's smile went from shy to genuine pleasure. Vicarious thrill.
+Mark looked at him. "The arrow was used to murder someone."
+Bainbridge blanched. "What?"
+"And our lab says that's real deer sinew and real bear grease slathered all over it. 400 year old sinew and bear grease, I might add."
+Bainbridge was open mouthed, staring at Mark. "But, that's, that's just…"
+"Impossible?"
+Bainbridge blinked and held the arrow out at arm's length, maybe repulsed by its recent employment, who knew, but still fascinated. "What happened?"
+"A man walking his dog in the woods was shot with it."
+Bainbridge started, turned to Mark with wide eyes. "Where?" he asked, insistent.
+"Uh," Mark recoiled a bit from Bainbridge's sudden press, "in Daventry. In a place they call—"
+"The Ghost Woods," Bainbridge breathed, finishing it. He turned to the arrow and paled, placed it hastily on the table.
+Mark frowned and wondered, for a second, how far up the suspect list he should advance the little dweeb. "How did you know that, doc?" he asked, suspiciously.
+"I heard it on the news," the hands fluttered again, all over the place, "and when I did, I remembered…" he jumped to his feet. "Wait here. There's something I have to show you," and with a pat on Mark's shoulder he whirled, a lab coat tornado, and ran out the room.
+"What the hell?" Mark watched Bainbridge's back disappear around a corner. He whipped out his cell phone and speed-dialed Greg. "Hey. Me. Yeah, still at the Smithsonian. Quick, I want you to run everything on a Doctor Cary Bainbridge…Yeah, that's the spelling… I have no idea what his DOB is… No, I can't get it. Run the DL, for chrissake… Gotta go," and he hung up as Bainbridge's lab coat swirled back into view, entering as he had left, face working, hands fluttering, one of which carried a parchment.
+"Doctor," Mark's voice was a warning.
+"Oh, I'm sorry, I'm so sorry. I don't mean to be so dramatic, but…" He rested his eyes on the arrow again. He stilled, stepping near it, fascination covering his face.
+"Doctor?"
+"Oh, yes. Again, so sorry. See, when I first heard the report about the poor man killed in the Ghost Woods what, a month or so ago? Yes? Well, it jogged a memory, something I read in grad school." He pulled his stool near the arrow and sat over it, the parchment resting against the table. Mark stared at him. "See, Detective, there are a lot of stories from the time of the Jamestown settlement, when the English made first contact with the Native Americans. The Pocahontas story is probably the most famous, but there are a lot more. A lot. I compiled several of them as part of a research project."
+"Doc…"
+"Yes, yes, sorry, this is just so, well, odd. It's just so odd. Anyway, some of the settlers were great chroniclers, John Smith among them, although he wrote most of his stuff years later and there's a lot of doubt about them. How Pocahontas rescued him is thought something he made up, or maybe something Wahunsonacock cooked up ahead of time…"
+"Doc!"
+"Sorry! Sorry! Anyway, an anonymous chronicler recorded a story he heard from a Tauxenent priest down near where Mt. Vernon is today, around that area, anyway, probably at Namassingakent village, although we're not certain."
+Mark glared at him.
+"I know. I'm getting there. Sorry, I am doing this so badly. The story concerned a white demon who'd been in the Plentiful Place, that's what the words translate to, and that a famous warrior had shot the white demon and the demon had disappeared, like smoke."
+"Doc, point?"
+"The Tauxenent renamed the place the Ghost Woods, and made it taboo. No one from the village was allowed to enter it after."
+Mark blinked at him. "You mean, those woods?"
+"Yes, they're the same ones."
+Mark sat back, regarding the fluttery, anxious little man. "Doctor, you are, of course, not seriously suggesting…"
+"There's a picture."
+"Huh?"
+Bainbridge grabbed the parchment and rolled it open, holding the ragged edges down on the table. "The chronicler copied it from a lodge drawing. It's been copied a hundred times since, but, still clear," and Bainbridge gestured with his chin.
+This is nuts, Mark thought, but he stepped around and looked.
+It was a stick figure, like you'd expect from an Indian painting. But there was a little more to it, some parts fleshed out, and it was in color. The stick figure was black, but it had white hair. It was wearing what looked like a long coat with clearly drawn buttons going down the front to what looked like dress shoes on its stick feet. And it held what could only be a leash, which was attached to some wolf-looking dog. An Indian figure was drawn beneath the man, shooting a bow. Up at an angle. And the arrow was sticking out the man's back, through the heart.
+Mark felt a chill go up his spine.
+"In the story," Bainbridge murmured, "the animal on the leash was a wolf. Tell me, was the dog wolf-like, say, a Malamute? Or, a Husky?"
+Mark just looked at him, speechless.
+*
+Wahunsonacock sat, narrow eyed, while the Communer of Spirits, face blackened with charcoal and outlined in red ochre, a call to the Dark Ones, stalked the floor. The Communer gibbered at Opotenaiok, who was on his haunches, stoic, eyes closed, mouth set, the bow of a great feat laid across his knees. Great feat? Wahunsonacock set his lips grimly. That remained to be seen.
+"Do warriors see God?" The Communer sneered at Opotenaiok and the lesser priests murmured because no, warriors didn't, only Seers did and Opotenaiok was no Seer. The Communer made his point—Opotenaiok consorted with devils. That was not a great feat. That was dangerous.
+"I did not say he was God," Opotenaiok spoke quietly against the priests' hissing, "I said he was a man of white skin and white hair, with a strange wolf roped to him, and he appeared from out of a mist on a ridge of the Plentiful Woods, maybe thirteen paces above me. I knew he was not God. But he looked at me with great contempt and I knew he was a great danger. I shot him." At that last, Opotenaiok's eyes snapped open and his war spirit blazed out, striking the Communer, who missed a step in his warding and tumbled back, wary.
+"Enough." Wahunsonacock gestured and the priests ceased their screams and the warriors, who had yelled and moved to Opotenaiok's side, faded back. The Communer regained balance and stared at Opotenaiok, his hatred evident. Wahunsonacock shook his head. This was getting out of hand.
+"Opotenaiok, First Hunter," Wahunsonacock used the honorific to placate the warriors, "no white man, no wolf, no body, was found." That placated the Communer.
+"You would not." Back to the stoicism, the blank look. "Chief of all the Powhatan, the same mist that dropped the white man took the body and the wolf away."
+"It was a demon!" The Communer could not restrain himself. "You have brought them down on us!"
+Uproar, fueled by Opotenaiok's sudden leap to his feet, baring a stone knife. He would kill a Communer here, in the safety of the lodge? Wahunsonacock's eyes widened. Is this the touch of a demon?
+"Enough!" He roared this time, using the power of his voice, and Opotenaiok held the knife out for a moment and then sheathed it. Wahunsonacock glared the Communer back against the wall and Opotenaiok back to his knees. He stood, making himself tall, letting the magic work its influence. "I do not know what our brother saw or what he fought, but no man here can doubt his truth." Murmurs of agreement. "He has proven himself too many times for that."
+He turned to the dissatisfied priests. "But we must be careful of the Other World and the dark spirits there. That one of the People slew one of the Dark makes those woods angry."
+He paused, looking grave, letting them behold the majesty of decision. "This is my ruling. Let Opotenaiok be free of the demon's taint, never to be so considered. Instead, let us celebrate him, for he has performed a great feat. Let songs be sung of it."
+"And let," he thundered, quelling the shouts of triumph from the warriors and cries of rage from the priests, "the Plentiful Woods be taboo. Let our people know that a Pale Spirit walks there with his ravening beast, and that he is the Herald of the Dark."
+There was a shocked silence as the implications became clear. Opotenaiok escaped burning at the priests' hands. Indeed, he was now favored. The priests would have to spend several sunsets placating the spirits to make up for that, always a costly and exhausting business. But the Taxunent were now denied their best hunting ground. When Opotenaiok brought back that bit of unwelcome news, they'd probably strip his First Hunter rights.
+On one side, you gain much. On the other, you lose much.
+And as they realized the balance of it, the priests and warriors let out shouts of approval. The Communer and Opotenaiok quietly accepted the congratulations and songs of their supporters, even as they glanced murder at each other. That would be a future battle. Wahunsonacock supposed he would end up killing one or the other.
+He sat still as the warriors retold the deed and the priests fixed the poem. He would have preferred to go to his palace and excite his wives, but this was now a thing of state. He stifled a yawn.
+"A worthy decision, Chief of all the Powhatan," a voice whispered in his ear.
+Wahunsonacock nodded slightly to the gray man who stood to his right, partly hidden by shadow. "It preserves some peace, Onxe."
+"Yes," the wise one waited a heartbeat, "and what of the white man?"
+"You do not believe he was a demon?"
+"No more than you, my chief."
+Wahunsonacock chuckled. "You read me too well, Onxe. Not one of the black robes, either."
+"No, my chief."
+"But a wizard, a white wizard, and a powerful one to walk our woods with so much impunity."
+"Indeed, Chief, as if our lands were his," Onxe said, gently.
+"My very thought." He paused. "If we credit the stories of the Croatan," and here Oxne chuckled appreciatively, "then the white men will come back from the sea. And if they are already sending their wizards to scout our land…" He left the thought out there.
+"And they are powerful men. Their weapons, their armour, it will be difficult defeating them," Oxne said.
+"We may have to find another way."
+Wahunsonacock would have continued, outlining his idea of attacking the defiant Chesapeakes, who had taken in some of the last white men from Roanoke, but there was a disturbance. Shouts of anger and surprise came from the far end of the hall and followed a whirling flurry of dust and smoke. A small figure ran between the legs of angry warriors who grabbed at it but missed. Wahunsonacock peered through the smoke and then let out an exasperated breath.
+"Matoaka!" he called out, "come here!"
+The little figure dodged a few of the more agile warriors and leaped into his lap, squirming, her lively eyes dancing with devilment. He signaled the priests down and sighed. How many pelts would this violation cost him? He should beat her, he should, but when he looked at her, his heart melted. "Pocahontas," he said too gently. His favorite, obvious to all.
+She looked at him defiantly. "I am not a troublemaker!" she declared, "Girls should be in here, too!" The priests within earshot gasped. Wahunsonacock shook his head. There go another three pelts.
+"So," he said to her, "you want to help with the affairs of state, do you?" and tickled her until she shrieked. He noted that the priests frowned deeper, but the warriors secretly smiled.
+An idea, a small one, just a wren's feather, brushed his mind. He looked at his daughter, so smart, so brave, able to wind men around her fingers. He felt the structure of a plan take shape. He glanced at Oxne, who read his look and raised his brows, anticipating.
+Perhaps there was another way.
+
+
+back to top
+
+Invisibility
+
+“Dad?”
+Carl looked up from the TV. “What is it?”
+“There’s a couple of guys at the front door.” Junior stood next to Carl’s chair, worried.
+“All right,” Carl eased the lounger down and walked through the kitchen and out the back, grabbing the .357 on the way and sticking it in his waistband. He slipped around the side of the house, the purposely overgrown honeysuckle masking his movements until he stood beside the short picket fence bordering the front lawn. He had the porch flanked now and studied the two men standing there. 
+Suits.
+Carl glanced at the street. Dark sedan parked in front, dark windshield, someone at the wheel. Another Suit.
+Okay.
+“Can I help you gentlemen?” Carl called out as he stepped from hiding, his hand easy in his back and not so easy around the grip.
+They both turned, the one closest to Carl blocking the other so Carl’d have them both quickly, should things get out of hand. Perfect. The one closest smiled, appreciative of Carl’s move, and put a restraining hand on his partner, who was trying to move to the lawn and better position. “Mr. Henderson?”
+“Can I help you?” Carl watched him. Obviously, the one in charge. If more than the expected preliminaries were needed, he’d be the one to start it, so stay on him.
+“Well, yes you can, Mr. Henderson,” Smiley strode off the side steps and across the lawn, flipping out creds with one hand and extending the other while, somehow, signaling the gorilla to take up that better position.
+Okay.
+Carl ignored the hand, didn’t ignore the yard gorilla, and glanced quickly at the open creds. “Agent Smith.” Carl read out loud, and then nodded at the gorilla. “I suppose that’s Agent Jones?”
+Smith laughed, the humor ending at his bottom eyelids. “No, his name is Wherry. We’re not THAT stock.” He withdrew the untaken hand and placed it near his coat opening, the mirthless eyes examining the angle of Carl’s hidden arm. Letting Carl know he knew.
+Okay.
+“Hm,” Carl grunted, “and the driver is Agent Careful.”
+Again, a laugh, still no humor, the unpoised hand shaking a finger, “Wary and careful, that’s good, Mr. Henderson. You’re a quick study.” Pause. “Aren’t you?”
+“Can I help you, Agent Smith?”
+“Ah,” Smith nodded, “down to business. I like that. We’re here about your son.”
+Carl stiffened a bit and saw requisite response, Smith’s eyes narrowing and a hand drifting closer to the beltline. “What about him?” Neutral voice, give nothing away.
+Smith appraised, saw no bad intent, and relaxed. A bit. “Well, Mr. Henderson, it seems he may have gotten himself into a little trouble.”
+“What kind of trouble?”
+“The usual, Mr. Henderson,” Smith affected boredom, examining a fingernail with one eye while the other stayed on Carl’s arm. “May I call you 'Carl,' Mr. Henderson?”
+“What kind of trouble?”
+“Ah,” Smith smiled again. A smiler, this one. “Okay, well, it seems your son has run up some rather substantial debt.”
+“He doesn’t have any money.”
+“Precisely, Mr. Henderson!” Smith laughed with real humor this time. “Which is why he’s in debt.”
+“He doesn’t have any money to spend to get into debt, and doesn’t have any cards to run up any debt with.” More precise, that, telling Smith you’ve got the wrong family, so go away.
+Didn’t work. “Kids,” Smith was amused, shaking his head, “you think you’ve got them under control, but they surprise you. Somehow get a card without you knowing it. From someone on campus,” Smith waved a vague hand towards Junior’s school.
+Okay.
+“And next thing you know,” Smith was back on the fingernail, “they’re getting people’s attention with the things they do—buying liquor and big meals at restaurants with lots of their friends and even a stranger or two they just invite along and they start talking and you hear things.” Pause. “Interesting things.”
+Carl said nothing.
+“And next thing you know,” back on Carl now, “my Bureau gets a call. And here we are.”
+Silence.
+Carl waited, expecting any moment for a van to pull up and uniforms to pour out and it would be ugly and loud and quick. But no.
+Preliminaries.
+“So how much does he owe?” Carl stayed on Smith.
+“Oh, I don’t know,” Smith waved a dismissive hand, “not an issue for us. One I’m sure you can take care of yourself. But, other things, now.” Smith blinked once.
+Carl said nothing.
+They stood like that, tableau, maybe a minute, until Smith nodded and smiled and gestured at gorilla and they backed out of the yard and into the sedan, Smith still smiling and still on Carl the whole time. The sedan started and slowly pulled away. Carl gave them another minute and then walked out to the middle of the street, noting the curtains dropping and what cars were where, then walked back inside.
+Junior was sitting at the kitchen table, head in hands. Carl sat opposite him. “Talk,” he said.
+*
+Midnight.
+Carl rolled out of bed and listened. Nothing. Louise kept up the breathing, as trained, throwing off any Bureau-aimed mics. Good. Carl smiled and resisted the urge to pat her rather substantial behind. Giveaway.
+Carl padded down the hall and grabbed the pre-positioned pack. He opened the noiseless second story window, masked by purposely overhanging branches, and dropped into a recess he had dug in the yard for this purpose. Sam the Dog came over and sniffed, no barking, trained, and Carl crouchran beside him to the false fence. Bureau-aimed motion sensors would be fooled. He patted Sam, good dog, and slid out the bottom, rolling into the gutter. He turned on the night vision and studied the side street. No unknown cars. He switched to infrared and studied the park next to the street. Animals only. No people.
+Okay.
+Carl sprinted and vaulted the overgrown fence, dropping down below and unsheathing a knife, should it be necessary. It wasn’t, and he followed a path into the middle. He held the knife ready as forms rose from the undergrowth and moved around him. Once he was satisfied they were, indeed, his neighbors, he relaxed.
+“What happened?” Frank whispered.
+“Stupid kid,” Carl said.
+The forms were motionless, considering. “What’s the damage?” Eddie asked.
+“Substantial. It includes your Chucky, Sam.”
+Sam started, and swore under his breath. “Stupid ass kid. How many friggin’ times…” and Sam went off on Chucky and Junior and the Suits and what life had turned into, the grief in his tone.
+Carl and the rest waited. Sam needed it, because they all knew what had to be done.
+Had to be.
+“You got them tagged?” Carl asked Levy.
+Levy nodded, a motion almost lost in the dark. “The van’s parked in the dead side of Spring Street, where the asphalt’s broken. The relay’s on the next corner over. I count two teams, standard 12 hour shift, but I don’t know where the response is.”
+“Hmm, we’ll need that.”
+“Working on it.”
+Carl nodded. Levy would come through. Had before.
+“You know what you have to do, Carl.” Zachary, silent until now.
+Carl didn’t need to respond. He looked at Sam, who sobbed quietly for a moment. “We know.”
+*
+Junior came downstairs. Cautious. Carl sat at the table watching and frowning. Dammit, the stupid kid didn’t even see him.
+“Where you going?”
+Junior whirled, startled, and saw immediately the disadvantage. Carl seethed. The many times had he'd trained this idiot how to enter a room, and he still gets caught with his pants down. Made what was coming easier.
+“Uh,” Junior fumbled, “I’ve got class.”
+Carl held up a note. ‘Play along’ was written on it. Junior blinked, confused. That was half the problem, right there. Kid just wasn’t fast enough.
+“Well, enjoy it, jackass, ‘cause it’s your last.”
+“Huh?” Junior went slack jawed and Carl didn’t know whether to congratulate his acting or despair over his stupidity.
+“I’m enrolling you in the Army.”
+“Dad!” Junior almost shrieked it and that was acting way too good. The dumbass was actually believing it. Carl gritted his teeth and glared at him and shook the note at him and raged as the idiot babbled, “Dad, no! No! I’ve still got deferment for two years and I’ll get killed over there and you said you’d…”
+“SHUT! UP!” Carl roared and came out of his chair and smashed Junior across the mouth hard, stopping those next condemning words that would mean doors coming off hinges and indiscriminate gunfire and a whole neighborhood packed in vans and disappearing down some dirt road. Carl stroked him three more times, busting the lips and getting a good spray of blood all the time shoving the note into Junior’s eyes. Read it, you flippin’ idiot!
+“Carl!” Louise screamed from the kitchen but Carl didn’t have to show her the note, she knew, and stood there eying the ceiling, trying to locate a new dimple in the plaster or a discoloration and shaking her head no, nothing there. “You’ll kill him!” And they were all three screaming but it was now all acting because Junior had, finally, gotten it and was sitting there trying to put his lips back together while giving Carl a thumbs up. Those two cried about certain combat death and ‘my little baby’ and Carl roared about ‘ungrateful kid’ and ‘serving the State like I did’ and Louise pointed and, yes, there, in the corner, a spider web that did not move.
+He dragged Junior by his shirt to the front door and hurled him onto the lawn. He saw, with satisfaction, Chucky already sprawled on his. “You get your ass home after you resign your class standing.” Carl kicked Junior through the gate hard enough to ensure it wasn’t acting when Junior fell to the pavement. He stalked back inside and went directly to Louise. She had already placed a neutralizer underneath the web. “Talk,” she said.
+*
+Midnight. The same routine, but this time Louise came with him. Not the park, the old railroad cut behind the houses. It was one of six staging areas they rotated for these occasions. They broke into five teams, wives with husbands. 
+“Here,” Levy handed them a jammer and everyone held out watches. “Go, “Carl said, and everyone melted away.
+Louise and Carl ran through the back hedges, stopped at the end and surveyed the van parked there. She tapped him twice on the shoulder and they slipped along the houses, Carl engaging the jammer. At the back of the van, they studied their watches and, at the right moment, both stood, walked around the opposite sides, and shot the driver and passenger with silencers. Carl entered the van and shot the tech before he could hit the transmitter. “Go,” he said into the radio.
+Gunfire, one and two blocks over, quick, intense, then quiet. Carl waited, heard two clicks on the radio, pulled the dead driver into the back, and started the van. Louise got in, and they slid down back alleys the Bureau knew nothing about, all the vans gathered on a trail off the railroad cut.
+“Sam got hit,” Levy came up to the window.
+Carl swore. “Bad?”
+“He’ll live,” Levy shrugged. Carl nodded. “All right.” Levy disappeared back to his van and they started up and drove for about an hour into the Blue Ridge, Carl occasionally flashing his lights to see obstacles. They pulled into a clearing up past the vineyards. Cloudy night, no moon. Good.
+Carl walked over to where Rachel, Sam’s wife, was dressing his side. “You okay?”
+Sam grimaced, “Looks worse than it is, but there’s a lot of blood.” Left unsaid was how much blood had been left at the scene.
+“You know what this means, right?”
+They both looked at him, Rachel’s tears glistening on her cheek. “We know,” Sam said.
+Carl nodded, and he and Louise joined Levy and Zachary and they walked over the ridge to where the Appalachian Trail touched it. Junior and Chucky where standing there with full packs. “Your Dad got shot,” Carl said to Chucky.
+“What?” Chucky yelped and moved to throw off the pack and charge down the ridge but Carl backhanded him down. “Stop it!” he yelled, grabbing Chucky’s lapels and shaking him. “This is what happens! Why you have to stay invisible! Stupid kids!” And he raised a fist to smash Chucky’s nose but Louise was there. “No,” she said, quietly, “no.”
+Carl sobbed and threw Chucky down and stomped off the ridge, furiously waving away Junior’s plaintive “Dad!” and fell to his knees and cried, finally, a long held grief over dead friends, dead dreams and a dead country, breaking him. “My son, my son…”
+Ten years, ten minutes later, Louise’s hand was on his shoulder. He looked up. “They’re gone,” she whispered. He nodded, wiped his face and stood. They stared at each other and fell into each other’s arms, her time to cry now, but, as always, quiet, just for him. “Will he be all right?” she asked.
+Carl thought of distances, things that could go wrong, Junior’s inadequate traveling companion, and whether the contacts in Georgia were actually still there. “Yes,” he lied.
+Rachel and Sam were already gone. They dumped the vans in the Shenandoah, made their way back, stopping by Sam’s house first, then taking their leave of each other in the park. Carl and Louise were back in bed, everything clean, before sunrise.
+The knock on the door came shortly after that, Agent Smiley-Smith, not smiling now, and jackbooted thugs dragging Louise and he out to the interrogation yards. They got past the polygraphs, of course, since they both knew how to beat those, but the pentathol drips were next and Carl steeled himself. Never happened, though. He and Louise were released. 
+“Did they hurt you?” he asked as they walked back home. She waggled a hand but would not look at him and he made another mark in his mental ledger, beside Agent Smith’s name.
+It took them a few days to fix the damage to the house. Sam’s place was bulldozed, a proscription banner placed across the property because of the rebel literature found there (in the bathroom vent where Carl had placed it), and three of Sam’s cousins in the next county were executed. Collateral damage.
+“We okay?” Carl whispered to Zachary a month later in the night-shrouded park. 
+“Yes,” Zach told them, “They got their pound of flesh.”
+There was a pause, and then Levy asked the question they all had: “When?”
+ “Soon." Zach said. "The weapon stashes are almost complete. So, soon, guys. Soon.” 
+They stood a moment, quiet, considering, then all left. Carl didn’t ask about Junior and Chucky. They were ghosts now.
+Invisible.
+back to top
+
+Not with a Bang
+(Original in Ezine OG's Speculative Fiction Magazine #16. http://theopinionguy.com/OG16.pdf)
+
+There was a body in the alley beside the apartment complex. Rosa stood at the top of the porch and regarded it as she puffed her last Viceroy. All she could see were the feet, about mid ankle down, protruding from the alley entrance. Green work pants were bloused over work boots—probably the building super, or one of his assistants. A rat scurried across the boot and up the body. At it, as were probably the neighborhood dogs and cats. She shuddered and wondered if anyone had called. She wasn't going to.
+Rosa unlocked the door and made sure to lock it behind her, although she was practically the only one in the building who did so anymore. There were still a few thugs running around and she preferred they went elsewhere while she was home. The buzzer system had failed about three months ago and the only response she had gotten from the super was “Whadjawanmetodoaboudit?” so, if that was him serving as a rat banquet, good. She pulled at the door to make sure, and looked enviously at the elevator, the “Out of Order” sign now so dust covered only memory deciphered it. She groaned and slumped to the stairs and began the trudge up. It was getting a little harder every day. She wondered how many more weeks until she gave up and just stayed in the lobby. 
+Well, according to the latest figures, about three.
+She opened her door, which she had stopped locking some weeks ago. The neighbors wouldn't come in and any thug making it up this far couldn't do much more than wave a menacing hand. At least, the majority of them. It was the Immunes who truly worried her, but, given their small number and the target-rich environment, she was probably safe.
+Probably.
+She sat on the couch. Plastic faux leather, a gift from Mom ("You’ll need a good couch. Every body should have a good couch.") with 'good' debatable, even though it was cool and long and very comfortable, the plastic notwithstanding. It tended to squeak and form a very slick surface under her back as Mark tried to thrust her through the cushions. Several eons ago, when Mark was her thruster. She patted the seat affectionately. Good ole Couch.
+She stared at the refrigerator across from her, an ancient Amana that wheezed and gasped and piddled the floor like the octogenarian it was. She had inherited it from an upperclassman who had sternly admonished her never to throw it away because It was History— Salk had kept some of his later samples on the shelves. She didn’t believe that story for an instant but the fridge was definitely old enough and a small plate inside could be interpreted to read 'U of Pittsb…', that is, with the proper alcoholic motivation. She had taken it with her from MIT as a symbol of things surviving, things remaining.
+She desperately hoped things remain.
+Rosa took a deep breath and reminded herself how important food was and got a sluggish response from somewhere in her brain. She stood up and forced herself into the kitchen. Good Lord, how long before she stopped eating? Four weeks? No, should be at least three or four months, so her present dragginess was just plain exhaustion. Twelve hour days for weeks on end tended to run you down, without everything else.
+She opened a can of soup and a bag of Hershey’s chocolate chips, gulping handfuls while stirring Campbell’s Chunky Chicken Tortilla in a pot. Glucose rush, kept her moving. She gulped another handful and grimaced as she hit chocolate overload.
+Rosa felt much better after the soup, actually roused some interest in the apartment. Wouldn’t last long, so get to it. She grabbed her vacuum cleaner and made several vicious passes at her rag rug and the baseboards, probably startling the neighbors enough for them to turn and frown. What on earth? Someone vacuuming? Then they’d just shrug and melt back into chairs and glaze at the droning repetition of news or soaps or some anemic comedy. Kids would stare at undone homework, dogs would die of thirst, babies would remain unchanged.
+She sobbed.
+Alright, alright, keep going. She practically tossed the vacuum against the wall and looked around ferociously. Something, do something. 
+Call the Japanese, Mark had said.
+She looked at her watch. 9:00 pm. 9:00 am there. Do it.
+Rosa turned on the webcam and dialed through, holding her breath because, more and more, servers were crashing or sputtering or non-existent and the rerouting one expected was just not happening. Two minutes stretched to five and she felt it, that little spot of lethargy in the base of her spine—oh, let’s just watch TV. 
+No!
+She leaped up, turning the chair over and threatening a similar fate to the laptop and rushed to the counter and poured a handful more of Hershey's chips, spilling half on the floor and crammed them, chewing and swallowing and almost choking herself to death. The spot grew, gray and soft and cottony and the warmth of it started to creep up her back…and stopped. She breathed, downing a glass of water to get the glucose moving a little faster. Snuffling, she stepped back in the living room and saw Dr. Mateo's puzzled face blinking in the screen. "Dr. Arguello?" he said.
+"Yes, RB," she said, plopping in the chair so he could see her and hoping he didn't see her distress. Or the chocolate smears. RB, Rhyme Bud, a joke between them because of the consonance of their names.
+"Are you all right?"
+"Yes, yes, fine…no, I'm not."
+He blinked slowly, the perpetual sadness of his face refueled, reiterated. "I know. I am sorry."
+"We're the ones who are sorry. We should never have asked for the team."
+"It is not your fault."
+Rosa shook her head. "But it is. We knew how fast things were progressing. We knew how dangerous a flight would be."
+"No one got on that plane who did not understand the risks."
+"But we shouldn't have asked, just shouldn't. We played you, knew your honor would make you send them. It is our fault."
+There was silence and Mateo's sadness was a living thing, something she could actually autopsy, strip down to viscera, expose. Look, here it is, what moves sorrow; this is its heart.
+"We would have had to try, anyway," he said softly.
+"I know," she said, just as softly.
+Shared moment. He thought of colleagues, now somewhere deep in the Pacific. She thought of last, lost hope.
+"Do they know what caused it?" she asked.
+"No," he said. "No one has gone to look."
+And there it was, stark, simple, in six words, the best measure of where they all were.
+"I have sent you something," he said.
+"By the plane?" knowing immediately it was a stupid question.
+"No, by Express. Last week," which meant there was a better than even chance it got here. "You have not received it?"
+"I…don’t think so," she racked her brains, "I would have seen something. Mark has said nothing. What is it?"
+"Two things. Both of which you will hate."
+"RB, there’s nothing you could send me I’d hate."
+"The last recorded interview of Dr. Hishiyama?"
+He might as well have reached through the screen and slapped her. She looked over at her desk. There, right on top: Not With A Bang—The Late Implications of General Evolutionary Development in the Human Genome. By Dr. Tohe Hishiyama, Human Genome Project, Japan Branch, University of Tokyo. Published in Science. Fifteen years ago. Laughed at.
+Not anymore.
+"That's…fine." She paused. "Where did you get it?"
+"From his effects."
+She nodded. Hishiyama, following the finest of samurai traditions, had committed seppuku in his office. No assistant to lop off his head so he died in agony, guts spilled across the carpet. Many people thought that fitting.
+"What's the other thing?"
+RB hesitated and she frowned. "What is it, RB?"
+"A…serum."
+"What? What kind of serum?"
+He looked down, an act of apology. "A serum of genetic material, phased."
+"Huh?" for a moment she was speechless. Just a moment. "What did you do?"
+He looked up and she saw the pain, deep, frantic. "We are desperate, Rosa."
+"What did you do, RB?"
+"It is…bonobo."
+Her jaw dropped. "Oh no, no you didn't. You did not do that." She grabbed the sides of the monitor, shaking it a bit, the gray spot on her spine gone for now. "How many died, RB? How many?"
+"All of them." The eternal guilt for others, there, etched deep behind the sadness.
+"Numbers, RB."
+"Six. All of them volunteers," he added, hastily.
+"You asshole!" she screamed that, actually screamed and knew it was the first scream heard in her building, her block, probably the whole city, in the last month. And whoever heard it sat up in fright for a moment, their heart pounding, a mordant adrenalin rush, and then settled back into the couch.
+"What choice do we have, Rosa?" He took her abuse, her curses, without reacting. At all. Not the warrior he once was, screaming back at her, almost hitting her on a few occasions, calling her stupid, throwing her dissertation to the floor. None of that.
+"You asshole." She whispered it. She began to cry. She turned off the monitor, RB's stricken face afterimage.
+*
+"Hey, pretty lady."
+Startled, Rosa turned. That someone on the street had actually spoken to her was surprising enough, but a compliment? Both demanded investigation.
+And she immediately wished she hadn't. Two of them stood there, grinning. Vibrancy pumped through their veins and pulsed their flushed faces, and their eyes were gleaming and open. Alive. So alive.
+Immunes.
+Her heart picked up some beats, fear at least causing some kind of response. But she had drunk only four cups of coffee and ate only one bag of grapes and half again that of chocolate, just enough to get to the office, a block away now. Not enough to deal with this.
+They exchanged looks. They knew. "I wonder," the one who spoke, blond, sallow, hawk-faced, hair falling down to his shoulders, a neck tattoo peeking out of his collar, "if you’d go into the alley here with us." His friend, dark, bloodshot eyes, buzz cut, giggled.
+No, her mind said. Scream, it said. She looked at the passersby walking the Zombie Stroll on either side, some of them stopping behind, waiting. She’d heard tales of people walking up on stalled cars and starving to death, waiting for them to move. She looked where Blondie was pointing. Crying, she turned and entered, the two following.
+"Far enough," Blondie said and she stopped, still crying. One more cup of coffee and she could scream, not that anyone would come, but the Immunes might be surprised enough to move on, look for a better victim. Just one more cup. Her life now turned on that.
+"Turn around," Blondie said.
+They regarded her, the predatory gleam lighting their eyes. "So," Blondie turned to his friend, jovially, "what should we do with this one?"
+Darkling leered, “Let’s do her up the ass.” He giggled again.
+"Hmm," Blondie considered, like he was reading a wine list, "all right. We haven't done that in, oh say, a couple of hours," and they both laughed uproariously. Rosa sobbed as the two pounded each other's backs in hilarity.
+"Okay, pretty lady, why don’t you go ahead and take off your blouse?" Blondie smirked at her.
+She did.
+"Bra."
+She complied.
+"That skirt. And don’t forget the panties."
+She stood there, naked, the breeze goosebumping her, too miserable even to sob.
+“Umm, umm, umm,” Blondie shook his head in admiration while Darkling grinned wider, if that was possible. "You cold, or happy to see us?" Blondie said and they both burst into guffaws again. Rosa resumed crying.
+"Tell you what you do, honey," Blondie said, "why don’t you turn around, lean forward, put both hands on the wall there, and spread your legs for us, okay?"
+For a second, the fear and outrage pounded through and she lifted her head and looked at Blondie whose smile dropped, concern crossing his face, but only for a second. She did as she was told.
+"Very nice," Blondie said to her back and his calloused hand slapped her butt cheek, causing her to wince. She heard zippers going down. She began to cry harder.
+"You're about to feel something I’m sure you’ve never felt before. Twice," Blondie chortled, his shadow growing on the wall before her, "Who knows, it might just wake you up." And they both started laughing again.
+She felt him move closer, his groping hand reaching between her legs, pulling her apart. No, please, no…
+"Motherfuckers!" Mark roared.
+She heard startled yelps and Darkling, "Hey man, get your own!" then whistling of air and the sound of wood on flesh. Someone fell heavily against her, knocking her to her knees, and then dropped to the side. She looked. Blondie, with half his skull gone. She stared, aghast, at the pulsing of blood and brain.
+Whack! She turned. Mark was standing over Darkling, who was bent back on his knees, face bloodied, arm up as ward against the rapidly descending bat Mark wielded. She recognized it. From the 1963 World Series, one used by the Dodgers to beat the Yankees in that incredible four game sweep. One of Mark’s prized office displays. Mark screamed triumph as the velocity increased and the bat parted Darkling’s head down to about mid brow. Blood volcanoed everywhere.
+She whimpered.
+He looked at her, his breath coming hard, his eyes wide and bright and murderous. "Get dressed," he said. She did as she was told.
+*
+"Why?"
+Mark did not look at her. She left the question out there and huddled into the silly afghan he kept on the back of his chair, now grateful for the comfort. She sipped her coffee. "I asked you a question."
+"It's a stupid one."
+"There's a stock response to that, about there never being such a thing, but I guess I need to change it a bit and ask how could you be so stupid?"
+He still held the bat, clean now, and was carefully applying a layer of shellac to it. Without the terrifying events of the last half hour, she would have known immediately he had taken the serum, just based on his current actions. It showed way too much initiative.
+"It wasn't stupid. It was a necessary risk."
+She snorted at that. "Did RB tell you all of his volunteers died?"
+He didn’t answer, his lips compressing. She couldn't tell if that was a yes or no. Didn't matter, the information was imparted. "How do you feel?"
+He looked at her. "Like I did a year ago."
+She sipped more coffee, feeling somewhat more normal. Or what was the new normal: lethargic, prone to letting things go for a day, but still active, still curious. Still human. 
+Unlike Mark. 
+"It's only temporary," she said
+"What makes you say that?"
+"Because it isn't real. It's at best, territoriality, or the murderous intent of pissed off chimps."
+Mark shrugged, "Quacks like a duck. And aren't you personally glad, even if it's nothing more than pissed-off chimpanzee antics?"
+She sank into the afghan, shuddering a bit, feeling Blondie's probing, violating hands again. Worse, her own helplessness. "Yes," she whispered.
+"All right then." He put the bat into the wall case.
+"What made you come look for me?"
+"Territoriality."
+"Shut up. What made you?"
+He locked the case. "When you didn't get here by ten and you didn't answer your phone, I figured something was up."
+"So you decided to come stalking me with a bat."
+He didn’t answer.
+The gray spot was moving up her spine again so she gulped the coffee, ignoring the scald, got up and poured herself another. The gray was slow, probably due to the heightened adrenalin. Not at pre-Slackening levels, of course, but enough to propel her.
+"Alpha male," she said.
+"What?"
+"Classic alpha male. Going out to battle for your mate. And so unlike you," she glared at him because in all their years together as classmates, then lovers, then disastrous spouses, then divorced and, now, wary colleagues, he had never, ever, in that whole tumultuous, depressing, sad, and contentious history, fought for her.
+"Listen, Rosa…"
+"No," she slammed the cup onto the counter, cracking it, startling herself, considered for a moment that fear and attendant adrenalin levels could hold a solution (tried that, remember?). "You listen! Substituting one set of imperatives for another is not a cure. All you've done, all RB has done, is create a short, incompatible bridge over the ATs to the GCs. It's not a cure," she swiped at the cup fragments, "it's a bandaid."
+"But if the bridging effects a behavioral change, then there's a solution."
+"Behavioral change?" she looked at him in astonishment. "Do you want to groom me now?"
+"Ack," an exasperated snort. "I’m not turning into a chimp. But, look, look at me." She refused, keeping her head down. "Rosa," he insisted, "look."
+She did. The flush of his face, the alertness, the pulse in his neck, standing tall and balanced, a set of energy on him, like someone who wanted to go out and do something. 
+Damn him. And damn Mateo.
+"You see it, don't you?"
+"What I see," she toned, "is heightened respiration and pulse, probably heightened body temperature, also. Your heart is racing at a pace it's not supposed to, your blood pounding with pressures it shouldn't, and various foreign hormones are cooking in your brains." She paused. "I see a massive stroke. Or aneurysm."
+"That won’t happen."
+"What did RB's volunteers die of?"
+He did not answer.
+"You cannot make simian DNA compatible with human," she recited.
+"It's all we've got," he replied.
+"You cannot make simian DNA compatible with human."
+"It's not the compatibility. That's not the issue. It's…synthesis,” he made a helpless gesture.
+"What kind of synthesis?"
+He did not answer.
+"Let me guess," she clacked a fingernail against her teeth, "a derivative of some hormone triggers, probably mating, probably fighting. How far off am I?" Still no answer. "So, that. And you think a slight urge to rape and kill is the same as restoration, do you?"
+"I don’t have an urge to rape and kill," he pointed out the window. "They do."
+"No, they don’t," she found another cup and poured the last of the brew. Automatically, she began another pot. "The Immunes aren't following an imperative. They could just as likely build skyscrapers as rape Slacks." She did not add, 'like me.'
+"I know that," he was impatient, "but an artificial imperative could buy us time. It's what we need right now." Mark walked over to the counter and rummaged around some papers that had been there for a week or more but through which she'd had no urge to rummage. RB's package, of course. She slapped herself mentally. Should have looked. He held up a hypodermic with a clear, yellowish liquid inside, "This one's for you."
+"No thanks," she poured the water, "I'll wait to see if you live through the day first. Or night." She paused. "There should be a video in there, too."
+He looked at her and rummaged back through the papers and pulled out a disc. "This?"
+She nodded. "Have you watched it?"
+"No."
+"No urge? No curiosity?" she mocked.
+His face flamed, or was that the ever-increasing blood pressure? "I don’t need to see that doom and gloom crap."
+The first of the coffee began filtering and she took in a deep breath. The Elixer of Life, her Dad used to joke. You don't know how true, Daddy. "You should have watched it before you did something so stupid."
+"Why?"
+"So you wouldn’t do something so stupid."
+He stared at her a moment, then said softly. "What else is there to do?"
+She had no answer.
+*
+He died shortly before five. He was sitting beside her, the both of them running formulas through the system, double check, always double check, when his eyes rolled up and fluttered and he just slid to the floor. The sudden smell of emptied bowels told her it was death and not a fainting spell. She watched him idly for awhile then got up and held the hypodermic for another while. What to do, what to do. After a moment, she flung it towards the sink and heard its satisfying clatter and breakage against the unwashed dishes. The sound prompted a bit of hope and maybe, somehow, a trigger kicked at a dead hormone somewhere on unknown gene stands, the one they couldn’t find, and maybe, just maybe, something was coming back…
+Nah.
+She gulped the cold coffee and didn’t wait for the kick but picked up the DVD and slid it into the machine. It was, obviously, a dub from an old videocam tape (wow, as ancient as her fridge) because there was just too much skipping…
+Interviewer: But, Dr. Hishiyama, surely the evolutionary urge is to progress on to bigger and better things?
+Hishiyama (shaking his head): The evolutionary urge [hmm, said his ‘r’s’, excellent English, doc] has always been to greater comfort, greater luxury. Remember, it was thieves and rapists and murderers that guaranteed the passing of their genes. They replaced a nestful of eggs with their own. They spread their seed among many unwilling women. They stabbed rivals in the back. The gene pool has narrowed, consequently, and the predominant order is one of selfishness.
+Interviewer: But, Doctor, the evidence is contrary. The pyramids, the skyscrapers, government…
+Hishiyama: All designed to bring about a pinnacle of luxury and sloth. You think the TV remote is a great achievement? (Laughter. He smiles) No, there must be consistency. If we accept evolution as our base theory, then you have to accept all of its implications, warts and all…
+(skip)
+Hishiyama: The most frightening thing we've seen since the completion of the Genome Project is a rapid closing of the gaps between coded DNA strands, a shrinking, if you will. We do not know what all the genes are for, and we certainly don’t understand the uncoded areas. But we don’t understand the closing, either.
+Interviewer: But, Doctor, couldn't that be just mistaken observation?
+Hishiyama: (shrug) Maybe. I hope. But, it is disturbing that this coincides with the mapping of the genome. It's like a genetic signal that we have reached the pinnacle and no more effort is necessary…
+She shut it off. That was true, wasn’t it? NASA had discovered that long term radiation exposure of even a relatively short space trip, like to Mars, obviated human flight. Oceanographers and geographers had already mapped the more interesting aspects of the world and what was left was dreary. Archeologists were quibbling over the locations of dead, uninteresting towns. Medicine had pretty much found out all they needed and cures for diseases only led to death by other means. God was dead, and his stubborn adherents were more interested in killing each other than reviving Him. Every story had already been told, so all the books and movies and plays and TV shows were just continuous plagiarism. Sex had been done to death.
+There really wasn’t anything left to do, was there? Except sit on your couch, flip through the channels, and gradually go into the Long Sleep. Sounded good, real good.
+She shook herself and with great, massive effort, stood. She looked at Mark. She looked back at the coffee pot. Still a cup, get it because she had to reach home. There was something she had to look up, just one more thing. Just one.
+She downed it and also ate about five Anacins for the high caffeine content and walked out. Interesting, the spur was an urge to get that book, not the stimulants and maybe, just maybe…
+Nah.
+She zombied home, barely noting the significant drop in pedestrian traffic since this morning. Rapid deterioration, geometric, as Hishiyama had predicted. She didn't even glance at the alley where the two Immunes should be hitting the first good stages of rigor. Let the Immunes bury the Immunes. Given their hyper cravenness, their uber-degenerated chromosomes, they'd probably eat their dead, anyway.
+The meek shall inherit the earth. Ha. Ha. Ha.
+She stood stock still in the middle of her apartment, the gray spot having, somewhere along the walk, crept up her spine and enveloped her brain. Just sit down. Better yet, lay down. Turn on the TV, even if it was just test pattern by now. No, wait, one more thing.
+She found the volume in about a minute, not really forgotten, but not touched in awhile. Modernist poems. Eliot. She read the lines, she smiled, and dropped the book.
+
+back to top
+
+Do-Over
+(original in Ezine Bewildering Stories, issue 301. http://www.bewilderingstories.com/issue301/do-over.html)
+
+“What’s that?” Lewis asked.
+“It’s a time machine,” Krieger responded.
+“Stop it.”
+“No, seriously, it is.” Krieger patted the top of the stainless steel, refrigerator-looking contraption sitting in his basement. “Works pretty good, too.”
+Lewis snorted, “Sure, McFly. A DeLorean, right?”
+Krieger smiled. “Funny, Lewis, really funny. And that’s why I’m giving you the next ride, ’cause you keep me entertained.”
+“What’s the gag?”
+“No gag.” Krieger pulled a switch and a hatch folded down, showing a cramped jump seat. He gestured, “Go ahead.”
+“I’m not getting into that thing.”
+“Yes you are. You keep telling me you screwed up your life and if you had a chance to change things, yadda yadda yadda.” Krieger flourished a hand. “Here ya go.”
+Lewis shook his head. “How stupid do you think I am? I know what you’re doing. You’re filming this. When I come out, it’ll look like prehistoric times or something and there I’ll be, all over YouTube, looking stupid.”
+“Hm.” Krieger put a hand, professor-like, to his chin. “That’s actually not a bad idea. I’ll save it for Dan. But in your case, this is legit.”
+“I said to stop it.”
+“Oh, if you’re worried about paradoxes, don’t. You assume your place in the time stream wherever you come out, so no chance you’ll run into yourself as a baby, like Stewie did in that Family Guy episode. Remember? Funny stuff. Anyway, you just pick up where you would have been, with the extra plus of knowing everything that’s going to happen from that time to this.”
+“Would you just stop? Geez!” Lewis fumbled with a flux capacitor or something like it on Krieger’s workbench. “I’m not falling for it. Besides, I saw that movie, A Sound of Thunder. Something always gets messed up.”
+“Actually, it doesn’t.” Krieger fiddled with a nest of wires snaking out the top. “Things pretty much stay as they are, except for what you personally change.”
+“The Butterfly Effect.”
+“No.” Krieger was scornful. “Not that, either. There’s no Time God of Irony. You just make adjustments to your own life. Like, you know, that party? The one you still, to this day, call the Greatest Night of All Time?"
+"You mean, that life changing adolescent wet dream, the one I kept calling you on the phone about as it progressed, booze and girls and a garage all to ourselves on a cul de sac, and, you, you were doing...what? Oh, that's right, I remember," Dramatic pause. "Studying for a test! A test!" Lewis laughed, slapping his knee. "And I do believe you've done nothing but complain about missing it ever since!"  
+“I say that just to keep up the fiction. In reality, well, what used to be reality, I was there.”
+"Riiight," Lewis rolled his eyes.
+"No, seriously, I was there. Saw you and Melissa." Krieger paused, then winked, "And Suzie Larkin."
+Lewis' eyes bugged out. "What! How could you know about that? I never told you!" 
+"Ha! Didn't have to! I saw it!" Krieger chortled, "Although I understand your reluctance. After all, who wants to get caught with the town pump?"
+"Dan! That bastard!" Lewis hissed, "I'm going to KILL him!"
+"Dan didn't tell me. No one told me. As I said, I was there. But about three years ago, I went back in this thing," Krieger patted the machine, "skipped the party, ended up passing that physics exam I failed the first time around, got into MIT instead of State, where I made some distinct improvements to this baby.” He patted the machine again.
+“You’re killing me here, you know that? So, Mr. Time Traveler, why aren’t you the ruler of the world or something? I mean, why you still living in this crappy house?”
+“Well, see, that’s the thing.” Krieger frowned. “You still are who you are.”
+“The gambling.”
+“Right.”
+“Doofus!” Lewis threw his hands out. “How could you go wrong? You’d have known every football game’s outcome since high school!”
+“Yeah, well, there's other factors. Like, you lay a big bet, you attract unwanted attention. Especially when you win two in a row.” Krieger rubbed the top of his head ruefully. “Anyway, I made enough to get the parts to fix this thing up right.”
+“Fix it up right? What was wrong with it?”
+“You know, prototypes, there’s always something not quite in synch. The first one... mind you, not that I’m admitting anything, but the Kamchatka blast definitely wasn’t a meteor.” Krieger waggled an eyebrow.
+Lewis stared at him. “And you expect me to get inside.”
+“It won’t happen again. I swear.” Krieger blinked at Lewis and once more gestured towards the hatch.
+Lewis started to laugh. “Okay, great, good, I gotta admit, this is one of your best. Like that time you got Andrea believing the blizzard of ’96 resulted from one of your particle experiments.”
+Krieger chuckled. “Yeah, that was a good one. Not so funny when the CIA showed up, but memorable. This, though,” and he flourished a hand, “isn’t a joke. It’s real, so sit down, strap in, hang on, because it’s gonna be the ride of your life.”
+Lewis sighed. “I do not believe a word you’re saying, so any jokiness you hope to extract from this situation is wasted. But I know that if I don’t get in, you’ll hound me for the rest of my life.”
+“True.”
+“Okay, okay.” Reluctantly, Lewis grabbed hold of the door handles and pulled and grunted himself into the chair. “I get it,” he said, “the humor comes from watching me squeeze in.”
+“That was amusing and I thank you but in about five minutes, you’ll be thanking me.”
+“Huh?”
+“Yeah, you should be walking down the basement steps in about five minutes to tell me your adventures.”
+“Right, time travel, but, uh...” Lewis adjusted his cramping neck. “Don’t you mean I’ll be back inside the machine, no sense of having moved at all, and everyone will be purple blobs or something?”
+“Purple blobs? Oh yeah,” Krieger nodded appreciatively, “that William Tenn story. I’m surprised you remember it. But seriously, there won’t be any paradoxes. Just don’t expect a lot. And, no, you won’t come back in the machine. It stays here; just you go.” Krieger fumbled with some things on the outside of the refrigerator and a rather alarming vibration started along Lewis’ seat. “Okay,” he said, nodding, “as soon as I close this, you’re gone.”
+“I do reserve the right to kick your ass later.”
+“Fine.” There was a whoosh of air and the door began moving. “Oh yeah, almost forgot,” Krieger bent down to look at Lewis as the door dropped, “I didn’t own this house in 1973 so, it could be a bit awkward. Just deal with it.”
+“1973?”
+“June 12th, to be exact. The day you met your wife?”
+Gloria, that sorry, soul-stealing harridan. Good day for Krieger to pick. If there was one thing he needed to undo...
+The door closed. Lewis felt like someone stroked him with a sledgehammer. “Ow,” he yelped.
+“Aiiieeee!” someone else said, or, more accurately, screamed, which didn’t help the major migraine Lewis now had.
+“Please, stop that,” he moaned, muffled, because he was face down on an orange plush rug...
+Orange plush rug? What the heck?
+“What are you doing in here?” the shrieker shrieked again, which made Lewis wince and look up from his sprawl and confirm that anyone with that amount of volume and timbre could only be a teenage girl. A cute one: blonde, pedal pushers (pedal pushers?), wearing sandals. Lewis frowned. “Don’t I know you?” he asked.
+“Get OUT! Get OUT you pervert, you junkie, GET OOOUUUUUT!” the shrieking reached crescendos Lewis thought beyond the human voice range, but was punishment secondary to her pulling off a sandal and beating him on the back, which, itself, was trumped by a chihuahua rushing over and grabbing his ankle.
+“Stop it stop it stop it!” Lewis protested and dodged his way up the stairs and down the hallway past the surprised Mr. Larken sitting at his breakfast table with a newspaper spread open, the headlines “Dean to Testify on Watergate.” He glared as Lewis scooted past and ran through the front door, kicking the dog off his foot.
+Lewis screeched to a halt on the sidewalk, gasping, and then turned, bewildered. Mr. Larken? Wasn’t he in a home now? And wasn’t that Suzie Larken, town pump, her astounding talents during the Greatest Night Out Ever seared in his memory? And...Watergate? Lewis blinked. “No way,” he breathed.
+“Duuuuude!” the long-trailed greeting in rich vibrato made Lewis turn. Tree, all six-foot seven of coal-black coolness, Tree, the man, the myth, the current CEO of Calder Securities who resided in a Bahamian condo and a Lear jet, stood there, right there, wearing white polyester pants, a rayon paisley print long-sleeved shirt open to reveal about twenty chains, red platform shoes, and sporting the tenement-hiding Afro he wore in high school. High school. “What’s the haps, Lewis, my man?” and he brought out a twisted fist and proceeded to dap but Lewis got lost.
+“Man, you all right?” Tree peered at him, “You ain’t lookin’ too good.”
+“Tree,” was all Lewis could say.
+“Yeah, man!” Tree stepped back into pose. “The one, the only, soul brother and woman-lover, dancing machine and in between.” He spun on his gigantic heels, then presented himself.
+“Tree,” Lewis gasped, “it’s you.”
+“Do I gotta do that again, man? And what you doin’ rushin’ outta Suzie Poosie’s house all jonesing? She lay some trim on you?” Tree waggled his eyes.
+“No. Never. At least, not yet, depending on what day this is. Hey, Tree, what day IS this?”
+“The first of the rest of your life, my man.”
+“No, yes, right,” Lewis shook himself, “I mean, what’s the actual date?”
+“It’s June 12th.”
+“Okay, great. What year?”
+Tree looked at him suspiciously, “You messin’ with the Tree?”
+“No,” Lewis raised a hand, “swear.”
+“’Cause you mess wid da Tree,” and he stood up straight, “you no longer gonna be.”
+“I’m serious, dude.”
+“Man,” Tree’s eyebrows rose, “you gonna hafta lay some of that superb herb on me. It’s 1973, Lewis, my man.”
+No. Way.
+“Holy Mother of God,” Lewis breathed. He paused, thinking fast, and grabbed Tree’s arm. “Tree! What time is it?”
+“Hey man, lay off the threads!” Tree pulled back and straightened his shirt. “This stuff wrinkles, ya know.” He pulled out a pocket watch, typical Tree. “It’s close on 6, Lewis. Why, you got a date?”
+“Yes!” he shouted, “yes I do. With destiny!” Lewis whirled and ran then stopped and ran the other way while Tree watched, amazed. “Which way to Gino’s?”
+Tree pointed. “Man, you will get me some of that plant, right?”
+“Right,” and Lewis took off. He sped up, amazed at how he flew, how light he felt, how strong. He hit the corner and tore down the street, spotting the red columns of Gino’s in the distance. He accelerated, making it in about three minutes, barely breathing hard. Big difference between 17 and 52, wasn’t there?
+“Hey, man!” Dan shouted at him from the front of the Valiant. “Where you been? We gotta go now!” and gestured furiously at the car.
+“Yeah!” Annie, red-headed little twit, echoed from the other side of the car, standing next to Carol and Tom and Irene, “Starship goes on in 45 minutes!”
+Lewis stared at them and knew he had arrived at the most critical moment of his life. “Just hold on a second, I’m gonna get a shake.” They all groaned and Dan threw up his hands. “Hurry up, dude!”
+He went in and there she was in line, all slim and brunette and shapely, about to order a chocolate milkshake just like he would, one second behind her. His heart pounded. My God, she was gorgeous! No wonder he had started kidding her and got invited out and told Dan to go without him and spent the night and they had a great summer and he married her the next summer, right out of high school, and joined her father’s construction business and spent the rest of his life watching Krieger and Tree and Dan and Irene go off and grow successful and rich while she grew morbidly obese and carping and hateful and ended up taking everything when he stupidly told her about his little honey in the next county.
+No thanks.
+“Chocolate milkshake,” he said, pushing past her.
+“Hey!” she yelped.
+“I’m in a hurry,” he said over his shoulder, grinning.
+“You don’t have to be a jerk about it,” she moued and huffed.
+He took a big, slurping strawful. “So long, Gloria. Have a nice life. Tataaa!” he sang and danced his way out the door and slid into the Valiant next to Annie the twit. “S’go.”
+Starship rocked. Hot Tuna rocked, so did Papa John Creech, well, with the help of the weed Tom brought. But what really helped was the lightness of being, the sense of freedom, the soaring. My God, he was free! Annie the twit had her head on his shoulder and it was midnight and they were tooling back, buzzed, spent, ecstatic.
+“Stop by Krieger’s house,” Lewis said.
+“That dweeb? I haven’t talked to him since he blew us off the other week.” Dan shook his head in disgust.
+Right. The Greatest Night of All Time. So, yes, he and Suzie Poosie had already happened. Okay, getting oriented now so, that means this Kreiger is actually the future Krieger and wouldn't it be a hoot to go see him....hmm. Lewis frowned. No paradoxes, Krieger’d said, but maybe best to leave things alone. “Cool,” he said and pulled Annie the twit closer. What the hell, he was free now.
+Now? Forever, man!
+Six weeks later, he was sitting in Annie the Twit’s living room, terrified. “She’s pregnant.” Annie the Twit’s father loomed over him, ham fists, no neck, strong rumors of mob connections. “You gonna marry her.” He pointed at the red-faced, teary-eyed Twit. “You gonna quit school. You gonna come work for me. Now.”
+Thirty-five years later, Lewis ran down Krieger’s basement steps.
+“Right on time,” Krieger said, looking at his watch.
+Lewis stopped in front of the time machine. “Again,” he said.
+Krieger shrugged. “Suit yourself,” and opened the hatch, “but, hey, don’t talk to me again back there about this, okay?”
+“Yeah, yeah,” Lewis said and squeezed in, a little harder to do now with his little fingers missing, and Krieger closed the hatch. He looked at his watch and, five minutes later, Lewis came stumbling down the stairs. “Again,” he croaked.
+“Lewis,” Krieger shook his head. “Mrs. Crenshaw?”
+“Hey!” Lewis shook a fist at him, “how’d I know her tales of being loaded were lies? You could have warned me, ya know!”
+“Well, it never occurred to me you’d be stupid enough to hit on the coach’s wife. And, besides, I didn’t know about it until you went back. No paradoxes, remember?”
+“I got your paradoxes right here,” Lewis pointed viciously at his own crotch.
+“And a case of mutant crabs, too, if the rumors are true. So, you sure you want to do this again? It’s getting Homer Simpson-ish.”
+“Just send me back,” Lewis said through gritted teeth.
+Five minutes later, Lewis slumped down the stairs. Krieger stared at him. “Good move with the stock picks, I gotta give you that, SEC notwithstanding. But Coach Crenshaw himself?”
+“He’s the one who actually had the money.”
+“Okay.” Lewis pulled the switch and the hatch opened up. “Here ya go.”
+Lewis paused, reached into his jacket and pulled out a ball peen hammer. He advanced on the machine, Krieger watching idly. “No, not this time,” and he reared back for a mighty blow. “As Homer said, ‘close enough’.”
+
+
+back to top
+
+
+An Unfortunate Choice of Words
+(originally "Last Contact" at http://www.bewilderingstories.com/issue356/last_contact.html)
+
+The ship landed in a cornfield about four miles outside of Rantoul, Illinois, making quite a racket. And quite a mess. “Durn Air Force,” Hiram Whittaker, in whose field the ship had landed, said as he surveyed the burnt hectare while calculating the loss in ethanol revenue.
+“Air Force left twenty years ago, Pop.” Curry, his eldest, let loose a tobacco stream at a grasshopper frantically trying to escape the seared stubble. “And besides, that don’t look like any Air Force plane I ever see.”
+“Um,” Hiram conceded, fairly sure the Air Force wasn’t constructing jets that resembled 40-foot, all-copper Hershey’s kisses. Why, they’d be laughed out of the country. “Must be Russians. Go get my shotgun.”
+Curry shrugged, walked off and was back twenty minutes later with the double-barrel, and Sheriff Tose. “Hiram,” Tose watched as Hiram broke the shotgun to check the loads, “what you planning?”
+“They’s trespassing, ain’t they?” Hiram leveled the weapon.
+“That they are,” Tose rocked a bit, eyeing the copper kiss, “but they just might shoot back.”
+Hiram considered that and looked around, but there was no cover, so maybe a sensible man would hold his fire. “All right,” Hiram said, lowering the weapon, “what ya gonna do?”
+Tose made a ‘pfht’ sound. “Don’t know till I take a closer look.” He moved forward.
+“Still pretty hot, Sheriff,” Curry spat another stream.
+Tose put out a flat palm and felt the distant heat. “That’s so. Guess I’d better get the fire truck out.” He went back to his car and, a few minutes later, they heard the whistle off towards town and Curry wondered out loud if he should go to the station and get his equipment.
+“They’se comin’ here, ain’t they?” Hiram said, and that made sense so Curry stayed.
+The volunteers arrived and, at Curry’s direction, put out a few embers thrown by the ship’s arrival and then stood in a semi-circle on the edge of the road staring at the kiss.
+“Whatcha wanna do?” Chief Billy Perkins, who was Chief due more to ownership of three elevators than a steeping in fire science, asked Tose.
+Tose put out another testing palm. “How long before that thing cools down?” he asked Billy, who, by his office, should know.
+“Dunno.”
+“Well, then,” Tose answered, “I dunno, either.”
+You can’t, of course, keep such a thing secret, and the State Police substation heard the excited chatter on the fire net and sent out a car. Trooper Billings took one look at the kiss, said “Damn,” and without consulting Tose, made some calls. Much to Tose’s annoyance, a couple of FBI agents showed up.
+“We’ll take it from here,” Agent Culhanney, straight out of central casting, said with some air of importance.
+Tose snake-eyed him. “Take what?”
+Culhanney gave a self-important laugh as his youthful sidekick Robin, er, Agent Paducah, snake-eyed Tose back. “This,” Culhanney’s gesture took in the kiss.
+Tose spat a wad near Robin’s Florsheims. “Trespassing ain’t a Federal matter.”
+“Listen, old man.” Robin made a belligerent step towards Tose that Culhanney expertly deflected because, after all, that was his role. He passed a significant look over the rather substantial crowd that had grown in the mean time, spurred by calls from the firemen and neighbors, and which included a news crew from Urbana currently focused on the G-men since nothing was happening with the kiss, except the occasional pop as it cooled. Culhanney passed the significance of the glance back to his partner who, being young and FBI, missed it.
+Smiling, Culhanney said, “Excuse us,” grabbed Robin’s coat sleeve, and walked him back to the car.
+“Idjits,” Hiram, who still had the shotgun and a baleful eye towards the kiss, summed.
+“Got that right,” Tose agreed.
+That could be, but Culhanny knew a national security incident and an uncooperative Sheriff when he saw them, and he got on his cell. Twenty minutes later, the Urbana news crew lost its satellite feed just as they were going live with a breaking story that, no doubt, would break them out of this burg. 
+Everyone else lost cells and radios at the same time, although Culhanney was still talking on his. Five minutes later, two helicopters landed in the field across the road and a platoon of Army Guard smartly took position.
+“Who’s in charge here?” the Lieutenant supposedly in charge, asked.
+“I am,” both Tose and Culhanney said at the same time, prompting an immediate three-way argument between the National Guard, the FBI, and the Sheriff’s office over who really was. The success of an individual claim advanced with the vehemence of the claimant and the shifting support of the highly amused crowd. The news crew frantically tried to raise a signal so their hoped-for national audience could participate, but were unable, suspecting rightly the sudden appearance of authority had a lot to do with that.
+Hiram watched all this for a moment, muttered, “Heat be damned,” and, gripping the shotgun in one hand, strode towards the kiss. The Guardsmen looked at each other, trying to figure out whether to shoot him or not. It didn’t appear their Lieutenant had won the argument yet, thereby assuring them immunity, so they held off. By the time the chiefs noticed Hiram and shouted, “Hey!” he was already knocking on the side of the kiss with the butt of the shotgun yelling, “You’re on my property, dangit! Open up in there!”
+A heretofore unnoticed portal slowly rose next to where Hiram pounded, forcing him back as a very nice set of marble-looking stairs, like those at a museum entrance, unfolded and settled against the ground. Moments later, three beings appeared on the landing, surveyed Hiram, who surveyed them back, and walked in unison down to where he stood.
+They were rather nice-looking: tall, green-tinged, hairless; dead ringers for all the large-eyed, big-headed lipless portraits taken from the almost unanimous description provided by generations of UFO abductees. They wore form-fitting black jumpsuits of a material similar to Gortex, and they were so skinny Hiram was sure most of his .00 buck would pass harmlessly by. He had no inclination to test that, though, because the beings were just so innocuous.
+The three stood above Hiram and looked at him and at the crowd and smiled. No fangs, no terror teeth, just disarming nice-guy smiles that relaxed the Guard and the FBI and elicited “Well, I’ll be,” from Tose. The middle one took a step forward, nodded at the crowd with obvious satisfaction, then raised both hands and launched into a declamation consisting of incomprehensible words, buzzes, and what sounded like numbers to the astonished and mystified onlookers. After about five minutes, he (or she, or it, who knows) stopped speaking, bowed slightly, then the three of them wheeled in unison and marched back up the stairs, the portal closing behind them.
+All hell broke loose. The crowd and the Guardsmen all turned among each other shouting, “Whadde say? Whadde say?” prompting a great deal of shoving and falling down. The news crew was shouting at Culhanney to let their signal go through while Robin wrestled them for the camera. Tose wrestled with Culhanney.
+“Durn fools.” Hiram spat his opinion of these shenanigans and turned a baleful eye back on the kiss. “Land on my crop and spout Russian gibberish at me. Idjits.”
+“Weren’t Russian. Weren’t gibberish,” Curry, who had joined his Dad, said.
+“How you know that?”
+“I understood ‘em.”
+“How’d ya do that?”
+Curry pinched a little more Red Man. “Dunno. Just did.”
+Hiram shook his head, “Must be all that durn rap music you listen to.” He walked over to the road and yelled. “Hey! Stop all that fussin’! Curry understood ‘em.”
+Tose disentangled from Culhanney. “That a fact?”
+“Yep.” Curry scratched a fly off his face.
+The crowd exchanged glances. “Well then?” Billy Perkins prompted.
+“Now just wait a second.” Culhanney was incredulous. “You’re not seriously believing this...,” he almost said ‘hayseed’ but quickly realized his situation, “...young man?”
+The crowd’s hostile reaction brought Culhanney and Robin’s hands close to their sidearms. “We sure are,” Tose spoke for the crowd, “we know ’im.” He nodded at Curry.
+“They said,” Curry was absently folding the chew pouch, “they was happy to be here, thrilled to get such a large welcoming committee” —the Guard and firemen beamed at each other — “think this is a historic moment with wonderful opportunities, yadda yadda...”
+“Wait,” Culhanney held up a hand, “they actually said ‘yadda yadda’?”
+“No, I’m just cuttin’ to it. Then they said they gotta make some adjustments so they’ll be busy doing maintenance...” Curry’s voice trailed and he looked embarrassed, “I didn’t quite catch it. Something they called a Stantatac drive.”
+“What’s that?” the suddenly nervous Lieutenant asked.
+“Some kinda force field,” Curry shrugged. “Well, anyways, they said they’d come back out soon and they’d like to meet with world leaders, if we could get ’em here.” Curry bobbed his head, indicating completion, and fumbled around for his car keys as an excited buzz rolled through the crowd. 
+“Oh yeah,” he said suddenly, “almost forgot.” The crowd leaned towards him as he triumphantly produced the keys. “They also said, ‘Praise God.’ Goin’ to town, Pa.” He waved cheerfully to Hiram and trotted off.
+“Well, I’ll be...” Tose’s tone was pleased as he turned, smiling, to Perkins, who was stunned. Regularity of church attendance determined which reaction, smile or stun, settled on each crowd member’s face. 
+Excitement or consternation was determined by the same criteria, except for Culhanney and Robin, who both paled for different reasons. “Election year,” Robin mouthed to Culhanney, and they paled even more. Sidling through the now debating crowd, they scampered to their vehicle. Culhanney made a call.
+A few moments later, the Lieutenant’s radio squawked, startling him. He listened, paled even whiter than Culhanney and Robin, and whirled in a circle, screaming “Move! Move! Get away from here now! Get away!”
+The Guard, not sure why but knowing an emergency when they heard one, began pushing the crowd away from the kiss. Tose grabbed Hiram by the collar and dragged him, fussing, across the road.
+Moments later, three gunships hovered over the tree line and let loose a barrage of Hellfire missiles at the kiss. It might have withstood two or three, but not eight, especially with repairs to that Stantatac drive thing underway. The kiss imploded, the various con-and-counter-cussions from that and the Hellfires knocking the crowd over.
+As the smoke cleared and the fiery debris stopped falling, the crowd regained its feet. “Think you can get away with that?” Tose asked Culhanney.
+Culhanney regarded the camera crew’s disc and hard drive he was holding. “Yes,” he said. He and Robin removed a piece of kiss fuselage from their windshield and drove away. The firemen grabbed their equipment and walked around stamping out fires. The Guard, now with nothing to do, helped them.
+Hiram got to his feet, dusted himself off, and surveyed the ruin of his field, making immediate calculations. He spat a contemptuous wad at the molten slag in the middle of the mess. “Knew they was Russians.”
+
+back to top
+
+The World Without Souls
+(original in Horror House anthology- Ruthless. https://www.goodreads.com/book/show/8148652-ruthless
+
+Stupid civilization ended on July 31, 2013 at noon, Geneva time (6 am here, so I was sleeping) when the director of the Large Hadron Collider announced, "We have proven God does not exist." He beamed. The six or seven equally white-coated, bespectacled and (except for the two frowzy women) bearded geeks flanking him on the facility's steps, also beamed.
+And they had. It was quite elegant, really. See, by isolating the Higgs boson and fooling around with it a bit, they discovered nothingness had this odd tendency to fold. Mind blowing, yes, the idea of nothing that can fold, but it does and out of the folds of nothing came something they called the Light quark (as in Let There Be). And from that came all of us. Not from some guy's rib.
+There were some other things they proved, too, like energy's constant, wasn't, and that energy did, indeed, dissipate. So, on August 15, some other guys did this worldwide thing where they took the formulas from the collider (something along the lines of E = -M, where M is the nothingness times itself with a factor a little over 1 divided by some string left over from one of Einstein's old doodles. Hey, look, the math is baffling but the theory simple, okay?) against several thousand near-death patients and, using the new particles and their tracery proved, once and for all, when we die nothing happens. You just go phfft. 
+Just like the world did.
+Some stupid church people stood up all offended and tried to say things about God beyond the measure of existence and the soul and its travails, blah blah blah, but come on! Proof is proof. On August 31, 2013, in the middle of one of those harangues by one of those Luddittes, some guy got up, walked over and pumped six bullets into Reverend So and So's head. On television, no less. Quite entertaining. I laughed when I saw the replay, before all the power went out.
+A lot of people thought that day marked the end of civilization. Or maybe it was August 15, but, uh uh, July 31, 2013. When you prove God does not exist, everything else is anti-climax.
+Like the next morning, August 1, when Billie Saint McKinney walked into the Fairfax County Courthouse, shot the two guards on duty, calmly entered the divorce court, shot his wife, his oldest daughter, the judge, and the bailiff. He set the old biddy court reporter on fire just for the fun of it and was heading towards his car when some cop shotgunned him. His last words were, "Wot'djew do that fer?"
+See, Billy got it. Billy knew. He's my hero.
+It took a little into September before everyone else got it, and then, whoa. 9/11 taught us brick and steel and mortar could really burn, and, boy, did it. Wall Street actually reached Dresden firestorm proportions and a lot of the droogs got sucked up and incinerated.
+Good. Less competition. 
+Not that I'd go to New York, there's plenty still here in DC, but sometimes people want empires and I don't need the Great Exalted Murray of Brooklyn showing up here and throwing that All Ye who Hear My Words, Tremble! crap around. I mean, I got enough skulls impaled on the lawns around the White House. Yeah, the friggin' White House, cool, huh? But if those Murrays keep showing up, I may have to expand out to the Treasury lawns.
+I am the King of DC, got it?
+Some people don't and, tell ya, I'm getting a little tired of tribes happening by and seeing the skulls and getting all macho and then there I am, in the middle of another damned firefight and then, here I am, running out of pike room. The last time, it was some guy from Leesburg, all decked out in bear skins, believe it or not, and I had him up on the pike and he was groaning and inching his way down and I'm thinking, ya know, I need something else, need to escalate. So, I took his girlfriend (why do these idiots bring their women? Showing off?) out of the basement and strapped her face down in front of him and did her while sawing at her neck with a rusty trowel. Man, that was fun: she bucked and screamed and fought and I loved it. I took her ragged head and stuffed it down the front of Bearskin's pants. He probably didn't appreciate the extra weight, yuk yuk. Some of his minions were hiding out in Lafayette Park, trembling, so I made big movements and yelled a lot, to give them full effect.
+Ya gotta have a legend.
+Achilles knew that. Achilles made sure he'd be sung forever. Oh, not that wimpy Brad Pitt-ass Achilles in that old pussified Troy movie, the real Achilles. I've read The Iliad, probably the only one still alive who has, and that Achilles was not some brooding boy-toy walking around with his lower lip in a pout, no sir. Achilles was a man, a real man, and he eviscerated Trojans and stole their women and stood on piles of bodies with his sword shining hot and his throat hoarse with war.
+Yeah.
+Five thousand years from now, they'll remember me, too. Because, fuck it, they sure ain't gonna remember much else.
+Like, I had this droog, you know, another stupid Murray, and he's all trussed up and cussing and crying because, well, sharpened point of a stake going up your ass, imagine. And he was kinda young and I got curious and I said, "Who's Lincoln?" And he just stops crying and looks at me, so I ask him again, "Who's Lincoln?" And, you know, he's thinking there's some angle so he says, "I knew him, man, I knew him!" I just laughed, I did, and yanked the pike up straight and he screamed, "I knew him!" for the next twelve hours. Got damned irritating after a while.
+'Knew him.' What a moron. I know Lincoln. A legend, took no shit off those southern crackers, kicked their fuckin' asses. Every morning, I get up from his bed and salute. And I salute Roosevelt, too, because that crip was a tough fucker, kicked Hitler's ass, who, himself, was no slouch.
+They'll be saluting me long after everyone's forgot Lincoln and Roosevelt.
+"Brad the Impaler," I'm already hearing it. Hilarious. Still some wags out there and if I catch whoever started that, why, hmm, you know, I just might make him my court jester. Until he pisses me off, then up he goes.
+I have this little game I like to play, where I put two guys on the poles real close together so they're scrambling and clawing at each other, trying to ease the pressure but all they end up doing is sliding down that much faster. It's a hoot. The minions sit around and bet on who's going to poke through first and I do my part, "Whichever of you lasts longer, gets off the pole!" I yell. Lie, of course, but they'll start going at each other like there's no tomorrow. Which, in their case, is true.
+No tomorrow. There is no tomorrow. There is only now.
+You know, some people, some, still push it. There was this group out of Maryland, wore all white sheets and crap and walked around moaning and proclaiming the need to restore order and law and all that junk. I got curious, so I went out to hear them. The guy in charge, some Jesus lookin' freak, came right up to me 'cause I'm pretty disarming. I am. I don't look like anything, which is the trap. I'm small and kinda soft lookin' and I got this real pleasant smile. Girls in bars used to like it. They don't so much anymore.
+Anyways, Jesus walks up lookin' all towards Heaven (ain't there no mo, bud) goin' "My brother, my brother!" and the minions are behind me nudging each other 'cause they know what's going to happen. And I just stand there smiling, looking interested. "These evil times! Join with me, my brother, and bring back the world, its leeks and garlic." And I kinda nod and I put on the soft voice and I ask, "Why?"
+And he blinks and has this beatific smile, "Because, brother, it is the way, it is the way of happiness."
+"Happiness?" I almost laugh. "Whose happiness?"
+"Of us all," and he sweeps his hand so grandly back at the sheep.
+"And what," I say sweeping the hypodermic from my jacket, "is the point of that?" I jammed it in his arm and plunged. Gasoline. Not good for anything else these days and I saw in the Holocaust museum how Mengele used to inject the Jews with it to see what it would do. I like that museum.
+Well, Jesus danced and screamed and made a lot of noise and I just stood there watching while the minions mowed down the sheep. Stupid sheep didn't even have weapons, just love overflowing from their hearts, going to win me over with weeping and joy and hands raised in brotherhood.
+Haven't they been paying attention?
+We kept a few of the sheep for a while, the women, that is. Women are getting a little scarce in these parts. Gettin' to the point you have to go on a full blown expedition to locate a couple, so I amused myself with the windfall. Had one bound on her knees before me with her teeth knocked out and, well, you know what that was for. The minions had a couple and were playing Guess the Sodomite when one of the sheep started screaming, "You animals, you pigs!" and the boys started laughing and playing harder and I said, "Hold on, Myrmidons." I use that word when I want their attention. They have no idea what it means but they stop when I say it because I mean business. The first time I used it, one of 'em said. "I ain't no merman!" and got all righteous with me so I staked him. No problems since.
+"Keep working this," I said to No Teeth. "Bring her here," I said to the minions and they did. Cute, mixed race, light skinned and exotic, all petulant and offended. Oh boy. I kept my face straight and the minions gathered to listen. "What'd you say?" I asked her.
+"You're pigs!" she spat it, just like a 12-year-old girl on the playground at the boys who yelled "Show us your tits!" Ah, memories. "He was a saint!" By this, I guessed she meant Jesus of the Gasoline Blood. "He was going to save us all!"
+"Save us from what?" I had to ask.
+"From all of you," and she was soooo contemptuous. A couple of the minions guffawed but I put on the interested look. See, I've found with these girls that if you play along, they'll think you're some kind of hero or something and get all hopeful and dewy-eyed. Makes the inevitable dismemberment that much more fun. "What do you mean?"
+"This!" and she pointed at No Teeth, who wasn't stupid and was working it rather enthusiastically (I might have to keep her a while). "You rapists. You shit on everything!"
+I tapped No Teeth on the head, "Stop now, darling," and she backed off and assumed a properly subservient position. I leaned forward, looking at Exotic, looking receptive, "Go on."
+"It's like you spit on the freedom we earned," she was making a 12-year-old's gestures, convinced her scorn had some kind of power. Hee hee. "We got out from under the churches and the governments and all the old chains, man. We had a chance, a real one. Nothing in the way, nothing but freedom and love. You guys," more wild hand waving, "destroyed it."
+The minions busted out at that point and I waved them down, making Exotic think she was reaching me, "You mean, Saint was going to lead us to Utopia?"
+"Yes!" Eyes popping out and a real attitude.
+"How?"
+And here she got the dewy eyes and all righteous. "With love."
+At that point I lost it, busted out along with the minions, did a bit of knee slapping, even a little eye wiping. "Okay, okay, I thought that's where you were going." I settled back, the dead smile splitting my face, the one that tells the recipient I'm not the little nice guy I look like. She stepped back, wary, an "oh shit" look on her face. You're right, oh shit.
+"Let me see," I said, throwing up a palm, "if I can explain. Consider this a what, a teachable moment?" I looked around the minions and they all nodded enthusiastically. They loved teachable moments.
+"See, what your saint was intending was exactly what we're all free from. Now, how was this going to happen, this Utopia, this quotes 'love' unquote?" I made the requisite finger movements.
+"Uh, well," she was looking around for an escape path. None. "He would teach us how to love."
+"Ah, I see," I nodded, "so let me ask you, what could he say that hasn't already been said by the Pope or Billy Graham," look of puzzlement there, "or Jesus Himself? Don't answer, don't answer," and I waved down her bubbling words, "I'll save you the trouble. Here's what," I paused dramatically. "Nothing. Absolutely nothing.
+"In fact," and here I raised a teaching finger, "wouldn't have been too long you’d become the Catholic church, you know, ceremonies and punishments and heresies and things like that, to keep everyone in line. I mean, how many of there were you, a thousand, two thousand?" She nodded slightly. "Sheesh," I shook my head sadly. "You probably had fifty or so guys right there who wanted to knock him off and proclaim some new kind of doctrine that was the One Truth and then someone would knock him off and then you'd all be fighting each other. Really, I did you a service. Because," another teaching finger, "you can't have more than ten or twelve in a tribe." I swept a hand at the minions. "More than that, someone gets ambitious. Right fellas?" And they all nodded enthusiastically and slapped hands and one of them, Karl, shouted "Amen, brother!" What a card.
+"See, they're a bunch of happy fellows," she turned to look, genuine fright on her face at all the dead eyes staring back at her, "because they can indulge their true natures. Nothing in the way. Especially," air quotes again, "love." I looked at her and she blanched and her knees started to shake. Oh yes, baby. "You believe in evolution, right?"
+"Yes."
+"So," I bore down on her, "why are you so fucking inconsistent?"
+She furrowed her brow. Arrogant bitch; still gotta assert herself, even when she’s about to get chopped up. "Don't look at me like that!" I roared her back a step or two. "You're fucking inconsistent. All those millions of years, whose genes got passed along, huh, bitch? Whose?" Her knees could no longer support her and she went down. I smiled. "I'll tell you whose. The rapists, the murderers, the ones who stole the eggs out of nests and put in their own and ate," here I clicked my teeth, "the loving and the sweet. Umm umm umm."
+I sat back, steepling my hands. She was panting hard, her eyes wide with terror, but still wanting to say something! You believe that? So I cut her off, "I know, I know, Michelangelo, Titian, the Declaration of Independence, yeah, yeah, yeah. Back before. Back when we thought there was Something Beyoooond," I waggled my fingers and used the spooky voice, which really cracked up the minions, "all that was cool. But," now was the point of the lesson, "there ain't Something Beyond. All there is, is you. And if you're not spending every moment you got here doing everything you feel like doing, building your legend, then you're wasting it." I raised both of my arms Heaven… er, skyward, "Praise Billy."
+"Praise him!" the minions replied and they grabbed Exotic and threw her, screaming, to the ground. Karl decided to go for a little extra shtup while I was going over the options and I let him finish up. "Well?" Sandy asked, big goofy West Virginia gap-toothed grin on his face. 
+"Let's play…" and I stroked my chin as if pondering Life's Mystery, "…Assyrian."
+"Assyrian!" they all cheered and dragged Exotic off, kicking and shrieking, and pounded the stakes and leather-bound her to them, spread eagled. Shame, really, she was nice. The minions played rockpaperscissors and Sandy won. He pulled out his Bowie, tested its edge, and started at the right wrist. That's the rule. The one who can carve off the longest piece of skin without breaking it or causing too much bleeding or killing her, wins. Takes a while, if done right, and my guys were good at it. Sandy might even win, the slow careful way he was proceeding down the forearm.
+I looked at No Teeth. "You wanna get back to it, or do you wanna play Assyrian, too?" She scooted right up and resumed, much more enthusiastic. Nothing focuses the mind like the prospect…ha ha. God, she's good. I think I will keep her. Have kids.
+They're so delicious.
+I sat back and looked at the stars. Even they won't last. The exotic's screams rose to them, a pleasure in God's nostrils? No. Another line in my Legend.
+Praise Billy.
+ 
+back to top
+
+Reparations
+ 
+While Ted Spellman was at work, someone broke into his house and made off with his flatscreen TV, his surround sound, his wife's jewelry (which included several Tsarist Russian pieces), a laptop, all the computer games, some of his nicer jackets, and, for good measure, his Boston terrier, Smugly. Or the little coward ran off, who knew? Perturbed, especially because tonight was Game One of the Stanley Cup, Ted called the police.  
+The officer arrived and took note of the kicked-in door and rifled belongings. "Unauthorized property transference," Officer Grady, according to his name tag, said as he wrote notes. 
+"Pardon?" Ted had never heard of this. 
+Officer Grady looked at him suspiciously, "Did you give the perpetrators permission to kick down your door and remove your property?" 
+Perfectly astonishing question, that, and Ted was perfectly astonished. "Well, no!" 
+The officer nodded, "Then, like I said, unauthorized removal." 
+"You mean 'burglary,' right?" 
+"We don't use that term anymore, sir," Officer Grady said. 
+"Huh?" more astonishment, "since when?"
+"Since everything changed," the officer peeled off a paper, "here's your summons." 
+"What?" the astonishment quickly turned to consternation, "for what?" 
+"You certainly ask a lot of questions. It's your show-cause order." Officer Grady must have noted the birth of another question, because he irritably waved Ted down. "Sir, you have to show the court that your excessive affluence did not induce the perpetrators to conduct an unauthorized removal. If you're successful, then the perpetrators will reimburse you for the damaged door." 
+"Is this some kind of joke?" 
+"We never joke about the law, sir." 
+"You mean," Ted gathered himself, "somebody breaks into my house and steals my property, and I have to prove I didn't cause it?" 
+"I'd be careful with that 'my' pronoun, sir. Your ownership is debatable." 
+It had to be Candid Camera. Ted looked around for Allen Funt, but it was just Grady and him. "I don't understand." 
+The officer sighed, "Some people never get the memo." He turned for his car, "Just show up at court, sir." 
+"But, what about my stuff?" 
+Grady's hand went to his pistol. Ted backed up, hands raised, remembering the issue of 'my.' The officer watched him for a moment, then left. 
+Ted stared after the car. Un-freaking believable. Obviously, he had just met the department's most lunatic cop. Well, deal with that after the insurance. 
+He called them and went through about ten menus, choosing English as the option each time, entered his account number five times, and finally got to Claims. "Your account number, please," the chirpy rep asked. Ted gave it, and then told what happened. 
+"Did you call the police?" she chirped. 
+"Yes, I did, but the officer was some kind of nut job, so I'll have to call them again." 
+"Did you get a summons number and court appearance?" 
+Ted blinked. "What?" 
+"It should be printed on your pink copy, sir. Can you read it to me?" 
+"You mean, this is legit?" 
+"It is, sir. Can you read it?"  
+Ted did. "Thank you, sir," chirpy said, "in the event you are shown non-culpable, we will reimburse the difference between what the liberators..." 
+"Wait," Ted cut in, "liberators? The ones who broke in?" 
+"Yes, sir. As I was saying, if it wasn't proper confiscation, then we will reimburse you the difference between what they offer and the actual repair costs, minus your deductible, of course. Now as for the liberated items," there was a click of keys and then chirpy said, "Sir, I see you have several antique pieces of jewelry?" 
+Finally, something approaching reality, and Ted breathed a little easier, "Yes, my wife inherited them." 
+"It appears, sir, those are proscribed items." 
+Back to unreality. "Proscribed? What are you talking about? They weren't stolen or anything." 
+"Yes, sir, they were stolen from the proletariat, which had to sell its excess labor just to enrich an exploitive capitalist class that did not properly compensate the added value." 
+"Uh, what?" 
+"Because you have such items, we now consider everything else you listed as proscribed, therefore we will not cover any of it." 
+"But!" Ted spluttered, "You have so far!" 
+"Well, sir, things have changed. I'm required to tell you we're also doubling your rates because of the risk you now present for personal injury lawsuits caused by your enticement to unauthorized property transfer. Have a nice day," and she hung up. 
+Ted stared at the phone, checked the number to make sure he had called the right company, which he had, and called back. No one answered. 
+"What the HELL is going on?" Ted asked the front porch, and then dialed his wife's cell phone. She was off visiting her mother, thank God, for more reasons than her missing the burglars, er, liberators. 
+"Marjorie!" he said, when she answered, "you're not going to believe..." 
+"Ted, I can't talk to you," she interrupted. 
+"This is more important than shopping, Marge, so let me tell you..." 
+"No, Ted," her voice was ice, stopping him, "I can't talk to you at all. About anything. Ever. If you call again, I'll have you arrested." 
+"But..." 
+"Things have changed, Ted. Goodbye," and she hung up. 
+"Why, you..." Ted let off a string of rather scorching curses and repeatedly stabbed re-dial, but each time, his call was rejected. When he finally stopped seeing red, he stopped dialing. 
+"Screw you, Margie," he said to the porch, wheeled and marched to his car. All right, the world had gone completely insane over the last twenty minutes, his wife apparently wants a bloody and far overdue divorce, but, by God, he was watching the game tonight. 
+Ted drove to WalMart and picked out a TV and some speakers, nothing too fancy (now that the insurance company had crapped out), a bag of pigskins and a six-pack. "Mess with me," he muttered as he waited for the cashier. 
+"That'll be $8652.72," the cashier toned. "Do you want to put that on your card?" 
+Ted looked behind him to see what other customer she meant. "Sir?" the cashier's ten-pounds-of-mascara lids helped narrow her look and her beaded dreds clicked irritably. 
+"You mean me?" Ted pointed at himself. The increased gum popping was assent. "Eight thou..." Ted couldn't finish it, "for that POS?" Ted indicated the lesser-branded TV. 
+"No," in her we've-got-a-live-one voice, "the TV, sound system and food are $572. The rest is damage tax." 
+"Damage tax?" 
+Beadhead rolled her eyes and smacked her gum up the aisle, apparently some secret cashier language akin to the Xhosa. A bowling ball disguised as a shorthaired human wearing a smock and a nametag reading "Harry, Asst Manager" rolled up. "Is there some problem?" 
+"Yeah," Ted said, "Eight thousand dollars for a five hundred dollar TV?" 
+"And sound system. And beer and whatever," Beadhead added. Ted glowered at her. 
+Harry examined the tape. "Everything is properly tabulated, sir, including the damage tax." 
+"I never heard of a damage tax." 
+Harry clucked annoyance, "You haven't been paying attention. The damage tax covers the historical necessity of equalizing imbalanced outcomes." 
+Ted blinked, "But, why me? I never..." 
+Harry stopped him with a raised hand, "Individual culpability is not at issue, sir, just cumulative effects." 
+Ted could almost feel the steam pouring out of his ears, "If you think I'm going to pay $8000 just to watch the Stanley Cup..." 
+"The playoffs?" Harry blinked at him, "Oh, you don't need the TV, then. They were cancelled." 
+"Cancelled." 
+"Yes, sir. Hockey has been deemed a 'limited interest' activity, too exclusive, so the franchise has been removed." 
+"Since when?" Ted asked and then raised a hand to silence Bowling Ball and Beadhead. "Don't tell me, I already know. 'Since everything changed,'" Ted put air quotes around it. They beamed at him and nodded. 
+Ted shook his head and reached for the TV, "I'll just take this back, then." 
+Beadhead slapped his wrist, "Uh, uh. It's here, you're paying for it." 
+"You can't be serious," Ted said as he reached again. 
+"Actually," Bowling Ball interposed his insurmountable figure, "she is. Under the Sincere Intent clause, we consider your presentation of merchandise an act of contrition only verifiable by a completed transaction. Grab him, boys." 
+Ted whirled but it was too late. A couple of store gorillas had snuck up behind and, at Harry's word, pinned Ted to the conveyor. "Hey!" he yelped as one wrestled out his wallet and ran his Amex through the reader. They let him up and Beadhead handed him the receipt. 
+"I didn't sign it," Ted was smug. 
+"No need," Harry was smugger. "Someone will sign it for you." 
+"Can I have my wallet back?" Ted held out a palm to the gorillas. They looked at him. Beadhead and Bowling Alley looked at him, too. After a moment, Ted left, walletless. 
+His car was not where he left it, but there was a pink notice on the ground thanking him for his voluntary participation in "Wheels for Justice" and noting his continued responsibility for insurance and periodic maintenance. Ted walked home, arriving just after dark. It started to rain. 
+Officer Grady was standing on his porch. "What now?" Ted asked. 
+"You're going to have to leave the property, sir." 
+"Because...?" 
+"...of the Violated Persons Recovery Act." 
+"Going to need an explanation for that one, officer." 
+Grady frowned. "Gender specific victims are granted full custody of previously chatteled wares as compensation for patrimonical oppression." 
+"'Patrimonical oppression,' wow, that's a good one." 
+"Sir," Officer Grady warned as his hand rested on the pistol. 
+"All right, all right," Ted raised his hands and backed out of the gate. The rain increased and it was completely dark except for the feeble streetlight. Ted sat down on the curb. After a minute, he was soaked. After another minute, he took out his cell phone and dialed information, not caring if that induced a $1000 fine for Winners Writing History, or whatever. He was transferred to another number. 
+"Hello?" he said when someone answered, "League of Armed Patriots? Say, are you taking new members?"
+back to top
+
+Inherit the Earth
+(original in EZine Silverthought, May 2011. http://www.silverthought.com/krauss01.html)
+
+Curtis skirted the yurt, eying it warily. It was set back from the road and surrounded by a defensive wall and Curtis could see a wellhead, watering troughs, and hints of outlying buildings. Goat herders, some outpost of a main camp that was, no doubt, further down the Luray Valley. It was noon so the men were out somewhere along the rocky paths but there’d be kids and women and all of them were armed and loud and would not take kindly to his appearance—white guy, slung rifle, clean shaven and wearing a ball cap, therefore infidel, therefore enemy. Jihad was an old fashioned concept, but, out here in the mountains, some of the clans kept old ways and the opportunity to strike in the name of Allah was a rare gift. Curtis just might be somebody’s Christmas.
+He chuckled at that. Christmas, the word alone would guarantee a beheading, that is, if anyone even knew what it meant anymore. He was pretty sure he was one or two of the last people on earth who did. He could march right up to the wall and shout “Merry Christmas!” at the top of his voice and they’d just stare at him. Then shoot him, but not for offending Allah.
+No, just for being Curtis.
+Right on cue, a couple of kids, robes flying, ran jabbering up to the wall, pointing and looking frantically back at the yurt. After all this time, Curtis could pick up only a phrase or two, no head for languages, but he was, obviously, the subject of discussion. Two or three full-burka’d women came out on the platform, rifles ready, jabbering back at the kids and it turned into a jabber fest. Curtis kept to the opposite shoulder, his head down, staying away from his own rifle and it dawned pretty quickly on the women he was no threat. They silenced the kids and it now became a stare fest. Yes, take an eyeful at the broken, gray haired, trudging white man, the last one you’ll ever see. Something to discuss around the goat pull tonight.
+If they’d known him, they’d just shoot. Family honors avenged, dead relatives put to rest. Curtis doubted very much any family he’d decimated years ago in the Hindu Kush had made it over here, but they’d be happy to claim a flimsy kinship if shooting him settled a wandering ghost. But he looked so harmless. Now.
+Not then. Curtis, Lieutenant, trim and deadly in a flight suit, standing on the deck of the USS Ronald Reagan, eying the ancient F-18 with some jaundice. “You sure it’ll fly?”
+The Master Chief spat tobacco (tobacco!) over the side of the carrier, an amazing feat given the distance and wind, then eyed Junior Pilot Curtis with equal jaundicity. “It’ll fly. It’s virgin.”
+“Virgin?”
+“All original parts. Never been rebuilt. Last of its kind. Don’t break it.”
+“You do know I’m going on a bombing run.”
+The Master chewed some deeper cud. “You break it, your next run’s in a Sopwith Camel.”
+Curtis laughed and mounted and fired it up and, oh, so sweet, the speed and maneuverability and perfection of target acquisition and aim, even with unreliable satellites, and he made unnecessary passes over the burning village just to feel the beauty of it, marvel at it. Man, the old days, when an F18 was so common it was cannon fodder and the real pilots, in Granpap’s time, flew 16s and 14s and the Air Force had those wondrous 15s. How many nights he'd yearned to pull one out of a museum and do this! And, here he was. Dream fulfilled.
+“You’re going into fighters,” his instructor at Pensacola had said and Curtis had thrilled. “Spads?” he’d asked. The instructor...Clemmons, yeah, that's the name, had smiled. “No. Jets.” and Curtis almost fainted dead away. Jets! He knew he had the Right Stuff, that rare element of reflex and decision and control that qualified for the fast, maneuverable, heavily armed, propeller driven A1 Spads, the top tier of war craft, which meant he’d be off Houston on border patrol and see plenty of action, but jets! That was like selection for astronaut training, back when there’d been astronauts.
+But it also meant the Third Afghan War.
+The First had been the routing of the Taliban after 9/11, justified, and the Second was due to the nuclear exchange between Taliban-run Islamabad and western ally New Delhi so, also justified, and the Third, well, just because and it was an excellent way to get yourself killed, flying clunky, cannibalized death trap F4’s or, in Curtis’ rare case, treasured F18’s (also cannibalized but with greater care) and it was a worrisome trade-off. “Let’s have a kid,” he’d said, that last night to Becky, as she slipped her fine, white, tight body out of the bed and into her own flight suit (C-130’s, poor girl) because a sense of his own mortality had come upon him. She’d snorted “Get real,” and left and was brought down the next day by a drug lord’s Red Eye, not enough of her to scrape together for a decent burial.
+After eradicating the Taliban hellhole, Curtis had cruised back at supersonic speed, his heart singing, the burning village a screensaver, to find the Reagan heavily engaged with a Chinese fleet that had snuck up the coast (radar so unreliable anymore) and he swooped in and dropped ordnance on Beijing's destroyers and battleships, surprising the bejesus out of Chinese admirals who were pretty sure all those sleek, fast used-to-be-good American jets were rare enough they constituted no more threat. Right Stuff, Mao, Right Stuff...
+There were bells and bleats from across the road and Curtis saw a rather large herd of goats crest a ridge overlooking the encampment. Two young men and an old one, all dressed in robes and carrying long sticks with their rifles slung, ran among the goats, moving them rather casually along the path before they spotted their wives and children lined up and gazing at the slowly trudging Curtis. They froze, then the jabber fest began again, louder as they called across the stone walls to each other and the young men ran up opposite Curtis and yelled “You go! You go!” and Curtis held his hands up placatingly and said, "I am," but they remained fierce. The old man cocked his weathered, leather-creased face and made a sharp command, the young ones shutting up but still looking combative. “Christian?” the old man asked Curtis.
+“Once.”
+The old man nodded. “Would you stay for meal?”
+Curtis stopped, considered. “Lochay?”
+The old man smiled. “Yes, lochay,” and he clapped his hands and repeated the word to the astonished young men who glared at Curtis but what could they do, sanctuary had been invoked and Curtis followed the old man to the yurt and slipped out of his backpack and rifle and allowed the women to wash his feet and dress him in a decent robe. So tired, so hungry, and he didn’t mind being on display tonight, the subject of much Pashtun discussion as he ate that delicious goat stew and the old man held court and gained much prestige for hosting the last of the enemy. The last.
+Curtis had disembarked at San Diego, a shiny new Navy Cross on his chest and thirty days leave granted for that rare thing, an American hero, and he flew commercial to San Francisco. Maybe three or four people on the plane, and absolutely no one in the concourse. Eerie, and Curtis had looked about him nervously as he walked deserted hallways down to baggage, the only persons around a large tribe of obviously related people getting off a flight from Ethiopia and gathering at the check-in to sing and pray their happy deliverance to the New Lands, he supposed. Curtis had ignored their happy smiles and singing and waves at him and collected his bag and walked his empty way to the Hertz counter. Row on row of dusty cars and the one clerk on duty was genuinely surprised when he showed up, surprised and quit pleased.
+“It is good, it is good!” he bobbed his bearded, sub-Saharan African face as he led Curtis up and down the rows while offering incentives and discounts and upgrades. “How long since you’ve had any customers?” Curtis asked. “It has been moons, my young aviator friend, moons, and we are so pleased you have come that I am very happy to offer you this!” A flourished hand and there, a Cadillac CLS. Curtis gasped. “How old is this thing?”
+“Ah, my young heroic friend, it is not old, it is classic, and I will give it to you at a weekly rate normally reserved for those trashy cars,” and he waved a disdaining hand over the TaTas (wonder if the clerk knew how funny that was in English?) that filled the majority of the spaces. “It has been converted for propane, but,” and he gave a conspiratorial wink, “there is a switch under the dash for gasoline and I actually can give you a tankful for a small price,” another wink, “so you can feel the true power of this beauty.”
+Curtis had driven it off the lot and down the streets of empty San Francisco, row after row of boarded stores and townhouses, some sagging on their foundations, all of them depressing. Even more so, the squatters pouring out of a complex as he passed, mobs of brown and black and robed children racing behind him, shouting some desert ululation as their elders lined stoops and laughed and pointed. Then another ghost street, far more ghost streets than there were Moroccan mobs.
+He drove the hills above Tiburon and, as usual, there was Granpap on the porch of his cabin, the eternal pipe in his mouth. How he still found a decent supply of tobacco, Curtis had no idea. Must be friends with the Chief. “Nice NC,” Granpap gestured at Curtis’ uniform.
+“This old thing?” and he sat down and refused a pipe but accepted a glass of moonshine. “Good Gawd,” he choked the death juice down, to Granpap’s chuckle. They watched the sunset then the moon. “Didn’t expect the Chinese to show up,” Curtis finally offered an explanation.
+“Umm,” Granpap tapped a cinder, “they shoulda all been engaged in the north, right? Not bothering with you pissant ‘Muricans and your silly arguments with Islam. Why, they shoulda just left y'all alone, what with fighting the Uighers and all.”
+“Yeah, yeah, yeah,” Curtis waved down the inevitable lecture on strategy and preparation and how things were so much better in Granpap's day. Which they were.
+“So, what now?” Granpap asked.
+“They want me to go on a recruiting tour.”
+Granpap busted a gut on that one. “Recruit who? The Africans? The Bedouins roaming the Valley there?” he pointed down the mountain. “Maybe all the Afghans that are taking over the East Coast.”
+“There’s still some Americans left.”
+Granpap snorted. “White people who still believe in God and Country, that you mean?”
+“Well, yeah.”
+“Good luck with that. Good luck finding any white people, period. Might go look in the Appalachians. The hillbillies are still having kids.”
+Birth rates. It all came down to birth rates and Curtis didn’t feel like another boring diatribe on his Duty to Population. “You could have had more yourself, old man.”
+“Yeah, if I’d been a cheatin’ man. But Granmomma had all those girl problems. Lucky she had your Dad, at that.”
+“Well, then Dad should have.”
+Granpap chuckled. “Not the zeitgeist. All that big family, Dad-in-charge and meek little wifey stuff died about the same time God did.”
+During the weeks Mom had been reorganizing European companies while Dad was deployed to Iraq, Granpap came over with DVDs of old, old shows like Ozzy and Harriet and Father Knows Best and it had been like science fiction. “Why did it change?”
+A moon-tinted shrug. “People got rich, got selfish. Lots of cash and cars and fun and investment in the present. Kids? An afterthought. Poor people, though, they invest in the future, so they push out kids. Lots of kids, hoping one or two of ‘em will reach Paradise or Nirvana or whatever those people believe in.”
+“And now they’re coming here.”
+“Why not?” Granpap smacked the pipe and sparks flew upward. “Lots of open space. Always was, but now,” he laughed. “There’s open space everywhere. Japan’s pretty much empty, the Uighers moving on that after they finish off the Chinese, who’re regretting that ‘one-child’ policy now, I'll bet. The Chechens have got half the steppes and’ll have the other half before too long. England is an Islamic country now and, pretty soon, we will be, too.” He looked at Curtis. “Your services will no longer be required.”
+Curtis was sent to DC to be a poster boy and make recruitment videos that were never mailed. He lived on an empty street in Rosslyn, the Syrian landlord so ecstatic to have a paying customer in an empty building that he sprang for the utilities. Which were sporadic. “No one wants to live in the cities anymore,” the Syrian fumed, “They all want farms to raise goats. Goats! Have you heard of anything so backward?”
+Curtis rented a plane to fly back and tend to Granpap in his final weeks, the airlines now so packed with immigrants you could barely get a seat. Or would want to. “A slow Apocalypse. Like the Celts, the Romans,” Granpap had wheezed from his oxygen tent, “the Aryans, too. Not that the Aryans were anything like those idiot Nazis said, but they’re gone.” And so was Granpap. 
+Curtis stayed. His Navy paychecks had stopped coming weeks before, and he'd been the only one showing up for work so he doubted he’d be missed. The cabin was self-sufficient and he lived there for years, until the Saudi lawyer and two of his enforcers came, traditional garb mixed with jeans and guns. “A Turkish family has successfully bid ownership,” the Saudi was almost apologetic.
+“I inherited this place,” Curtis said. “I thought you people were big on inheritance.”
+“The law is now different.” More apology.
+“That’s not American. Not at all.”
+The Saudi blinked at him. “What do you mean, that’s not American? Laws are American, especially when they change. And they’ll change, again. Don’t you see what’s happening?” the Saudi waved his hand over the place. “You ‘Americans’ forgot your purpose. The Turk and his family waiting for you to leave, they’re just discovering theirs. Right now, they cling to the old ways. Their children, though, are reading your history and admiring your patriots and their children, well, they’ll be Americans. Real ones. It’s an idea, you know, not a skin color. Or a religion. Please leave.”
+Curtis took a backpack and started walking. The streets and towns were empty, the countryside was not. He would stay for months in a city, for months not seeing anyone except curious Egyptians or Somalis or whoever poking through the rubble, gasping in surprise whenever he appeared, sometimes running up to stare or, for the few crazies still left, to swing a sword. Those guys were usually suppressed by their companions who would gabber and gesture Curtis away and he would move on because the crazies would come looking for him, some tribal memory of duty to Allah as spark. In the countryside he invoked lochay and would be feted, a novelty, other tribes coming from miles around to look at him. He told stories of the war through the increasingly rare interpreters, earning his keep, earning enmity, too, although lochay kept him safe, after a fashion.
+He told the same stories to the old man and his family that night, the young men muttering and eying Curtis with bad intent but the kids settled in giggling, like they were hearing ancient tales of far away times and deeds and races long gone. The Iliad.
+“You could stay,” the old man saw Curtis to the gate in the morning.
+“No thanks,” Curtis accepted some dried meat and fruit and moved onto the road. “So where are you going?” the old man called.
+“There’s supposed to be some of my people left around Morgantown, at least that’s what I keep hearing.”
+“Your people?” the old man started. “But we are your people now.”
+Curtis stopped, considered that, then shook his head. “Not yet. But you will be.”
+He headed north.
+
+back to top
+
+An Inappropriate Response
+(original in The Battered Suitcase, March 2009. http://vagabondagepress.com/90301/V1I10SS1.html
+
+The Denebians landed on the Mall between the Vietnam and Korean War Memorials at about 8:15 on a Monday morning, which is how they escaped major notice. The Stantatac drive allows for almost instantaneous movement between two points, and the Denebians were parked before you knew it. DC drivers, notoriously intent on cutting off their fellows and proudly blasé about their monuments, didn't look over. There weren't a lot of tourists about, either, and those who were thought the copper-looking two-story box just another museum. When the three Denebian crewmen emerged, a couple from New Jersey tried to enter, but were politely rebuffed. The couple was sufficiently inured to oddballs that the crewmen, dressed in what appeared to be aluminum foil and carrying something like Ipods, did not elicit much comment.
+Nor did they from the DC drivers as the Denebians made their leisurely way across the Mall to Constitution Avenue, pointing out the sights to each other with short fingered, slightly emerald hands and doing something akin to taking pictures with the Ipod-looking things. "Tourists," the intent drivers snorted and tried to frighten them with exceedingly 
+dangerous maneuvers. But when you've spent the last week playing Dodge Comet in the Oort Cloud, you don't scare easily.
+Eventually, the Denebians found themselves in the lobby of the State Department building, the guards assuming they were just one more act in the daily circus parade that constituted official legations. A very efficient desk clerk thought exactly the same 
+thing and was quite disturbed that such an obviously important tribal delegation had shown up unannounced and unappointed. "Take us to your leader," one of the Denebians responded to her query, causing the other two to chuckle. The desk clerk knew the leaders were off solving some other tribal concern, so she called around until she located an Assistant Assistant Undersecretary for Policy.
+His name was Thurston Henry Cadwallader, III, "Third" to his few friends, "Thud" to everyone else, and he had ambitions and grievances to match the exalted name, which had been inherited from proven forebears to his unproven self. Some of those forebears had quietly despaired of the proven manifesting in Thud, an attitude of which he was acutely aware. The phone call from the desk clerk, then, caused his flagging hopes to soar.
+"Deneb?" he said. "Never heard of it."
+"They said it was pretty far," the clerk assured.
+"Obviously," Third put on his best Harvard-legacy voice, letting the clerk know her place. "Well, don't leave them standing, show them in. And call Protocol."
+The Denebians took three chairs across from Third, waving off his apologies for slothful underlings who had the temerity to leave such important representatives waiting. "Are you the leader?" the one who spoke before asked.
+"No, no, well, at least not yet," and he chuckled. So did the Denebians, still unsure of the nuances of Terran humor, it being a rather unique thing in the Galaxy. Third saw it as appreciation. "So," he said, sensing a career-making  opportunity, "what can I do for you gentlemen?"
+The Denebians let that pass, knowing that Terrans were unfamiliar with the quadra-sex roles most common to the rest of the Galaxy. "We were in the neighborhood, decided to drop by."
+Third furrowed his brow and wondered what quaint tribal ritual was involved here because no indigenous peoples came to the State Department simply to pass the time. They came to negotiate things like trade agreements or border disputes, all the while maintaining self-imposed dignities and playing out face-saving moves before availing of Uncle Sam's largesse. The trick was recognizing the play and indulging it to a fruitful conclusion. Hazardous situation, this, because Third hadn't the foggiest of Denebian protocols and just might well botch things, as seemed to be his wont.
+Fortunately, just as Third began to sweat, the Protocol Officer, Charles Widden, knocked and entered. Widden's particular value was his ability to quickly size a situation, and, while Third was relieved, Widden was alarmed because he knew immediately these were not ordinary visitors. He considered, then discarded, a call to Security. Seeing that the obviously other-world delegation had penetrated this far, Security would be pointless.
+"Hello," Widden said in as neutral a way possible, "and welcome," and then said nothing more nor offered a hand or bowed, coolly letting the Denebians take point. Third thought this was customary and tried to appear sage.
+"Well, thank you," the Denebian said with some relief, recognizing Widden's professionalism, and offered the short-fingered hand because he (or she or a combination either way) knew this as a comforting Terran gesture. Widden took it with no trepidation, figuring an advanced race was well aware of contagions and would have taken precautions, 
+unless plague was their intent, in which case there was little to save him. Third furrowed his brow, expecting something a little more exotic.
+"You are from... " Widden deferred again to the Denebians, conveying none of his consternation nor the numerous calculations he was making about necessary notifications and the complete revamping of standard State responses. 
+"Deneb," Third answered for them, mostly because he did not want Widden gaining an upper hand in these negotiations. "Which, I'm a little embarrassed to say," he continued, spreading placating, folksy hands, "I've forgotten is the capitol of which desert 
+kingdom?" Dangerous, that, to admit geographic ignorance in an organization proud of its global knowledge, but Third needed to know right away if oil or mineral rights were at stake here. Perhaps both?
+Widden lifted a half-astonished eyebrow, realizing Thud had not caught on to the situation. What did you expect? It was Thud, after all. The Denebians chuckled, truly appreciating this humor because mistaken identity was a universal. "It's a star," the Denebian spokesman said.
+"No doubt," Third smiled because the indigenous were given to hyperbole, "but what are your main exports? Cotton, rice?" Perhaps he could gain a clue from that. 
+The Denebians looked at each other and passed what would be considered a shrug between themselves. "Stantatac drives, I guess," the Denebian said.
+Third was puzzled but Widden, who had only attended GW but had been a good student with wide ranging interests, was intrigued. "Isn't Deneb a white supergiant?"
+"Indeed," the Denebian nodded vigorously, "the giantest." Which was only slight exaggeration, Deneb having been certified by the District Council as one of the five or six largest white stars in the galaxy, despite the objections of the Arcturans, who had no dog in that fight but were just contrary.
+"But," Widden was now suspicious, the limits of Earth science leading him to the inevitable error, "how can that be? I mean, how could you survive the radiation and gravity? And you're humanoid," his gesture took in their form which, given his quite sophisticated  understanding of current, but incorrect, Terran planetary theory, was impossible near such a harsh star. The Denebians should be radically different, worms, perhaps, or crystals.
+The Denebians chuckled indulgently. Oh these pre-trans cultures and their quaint beliefs. "All intelligent life takes this form," the spokesman made a gracious pass of a hand. "More efficacious."
+"Really?" Widden was nonplussed, "Even under such conditions? How can you withstand it?"
+The Denebians smiled. "Dark matter, of course."
+"Really?" and here Widden was excited. To be the first human to know the riddle of dark matter! He swallowed. "And what exactly is that?"
+The three Denebians smiled, joyous, not patronizing, lifted their eyes to the ceiling and said together, "The grace of God."
+And this is the point where everything went wrong. While Widden experienced shock at the implications of the Denebian response, Thud did not. His reaction was a bit different. He had become increasingly bewildered ever since the mention of a white supergiant, which he'd presumed was an important Denebian deity. The subsequent conversation had been quite 
+baffling. His glances toward Widden had become more daggerish as he concluded the somewhat lesser officer was invoking a set of arcane protocols designed to cut Third out of the process. He saw his primacy in this delicate matter disappearing, along with the inevitable accolades and the easing of the patrimony's despair.
+That was his mood when the Denebians simultaneously spoke, and he could not help himself. After all, he came out of blue blood and Ivy League-everything and, while he could never be described as scholarly, he had imbued the zeitgeist. If you wanted invitation to the better houses (and parties), certain combining attitudes of postmodernist deconstructive 
+condescension were necessary.
+So, Thud snorted.
+The Denebians started and their jaws dropped fairly akin to the way Bugs Bunny's used to, although not half as far. That was rather startling to Widden and Thud, the latter getting the uneasy feeling things weren't as they seemed. The Denebians fixed their disconcerting looks directly on him. "You don't believe in God?"
+Salvage this! Thud's bloodline screamed, as did Widden's rather aghast expression, and sweat popped onto his forehead. Desperately, he raced through the templates and patterns of his prep school life and quickly cobbled together a standard harmless response for Confrontation With Unsophisticated Churchmen: "I respect your beliefs but I, personally, don't hold 
+them."
+The Denebians paled to a deep emerald, which Widden and Thud misinterpreted as an angry flush. The crew exchanged gestures any Terran would consider expressions of rage but were really alarm and terror. That is why Widden and Thud remained frozen, holding their breaths while the Denebians stood, looking all the world like they intended to phaser or light 
+sword the two of them when they, instead, sought safety. The Denebians made a hasty exit, trouping out in a line that, under other circumstances, would be comical. Widden recovered quickly after the door slammed shut, saying to Thud at the end of his released breath, "You idiot."
+Denebians are pretty fast when they intend to be and, by the time Widden had stopped yelling at Thud in a manner egregiously insulting to the patrimony and called Security, they were already across Constitution Avenue. When sirens approached, they made greater haste, weaving through the curious Japanese tour group gawking at the box, entered, strapped in, and transported to a stationary orbit exactly 300 miles straight up, an event partially captured by Hideki Noh 
+on his Konica but which, because of subsequent events, held no benefit.
+"My God! Atheists!" the first crewmen said, the same way Terrans would blurt 'Neanderthals!' It was an understandable mistake, the Council being unaware of Terran religious complexity. Indeed, most knowledge of Earth came only from broadcasts of Burns and Allen, Hitler's speeches, and I Love Lucy, those somehow hooking onto the wake of a trans-star freighter passage and popping out for review. Most Council planets considered Terrans a combination of hyper-crazy madmen and women with great senses of humor, which, come to think of it, was not far off. 
+The second Denebian was still trembling so added nothing and the third was downright incredulous. "How," he said, throwing a still deep-emerald hand towards the Earth below, "can 
+a race so obviously primitive and barbaric have reached the point of space travel?" They all three noted the International Space Station and the numerous satellites and then looked at each other.
+Denebians don't really need to speak; they do so because they find it interesting. Most of their communication is angling of various body parts, quite rapid, so, a few seconds later, when the third crewman grimly reached for the Stantatac drive, they had all agreed this was a matter for the Council, that a decision would take some time (not because of distance, of 
+course, but due to the universal nature of bureaucracies, especially regarding such a weighty matter. Worse, the Arcturans had the Chair) and the threat must be contained in the interim.
+When Thud had previously asked about exports, the Denebians weren't sure how to answer. All Council cultures manipulated molecules, which meant autonomy and no great concern over natural resources. So everyone had Stantatac drives, although that was somewhat of a misnomer. They were more like shields, able to repulse objects, and were generally used for games like Dodge Comet, or for diffusing a dispute when it got to the point of missiles being thrown between angry worlds.
+But each culture lent a unique twist to their molecular manipulation, giving products different aspects and that meant a brisk trade between systems, with accompanying profit and loss and the occasional dispute leading to the toss of a missile. Denebian Stantatac drives were one such product because, unlike everyone else's, they could be thrown, engulfing an area about two or three parsecs away from the generator, which was great for practical jokes, such as keeping someone from opening their front door or a mating couple from each other. Pretty funny stuff, although it could be taken too far and result in a couple of missile exchanges between a Denebian practical joker and his (hers, whatever) target, especially if that was a sour faced Arcturan.
+In this case, though, the throwing of a shield was not a joke but a Godsend, and the Denebians noted the symmetry between the problem of the Terran deviation and their presence in the area. Suppose no one had ventured by in, oh say, ten thousand years? Godless Terrans overrunning the planetary systems! The horror of that left them speechless (and 
+gestureless) and the crewman threw the shield around the Earth with something akin to heroic determination. "There," he said, "That'll hold 'em." And it would. He'd been careful to shape the shield so it encompassed the current orbits of Terran satellites, but not allow anything beyond that. The cancer was contained. They all praised God and headed home to report.
+It took about eight months. The Arcturans wanted to bring the three Denebians up on charges for unauthorized contact with a primitive species, but use of nuclear power was the dividing line between primitive and modern, so that didn't wash. They then went after them for the Stantatac drive throw, but most other Council members (and everyone in every culture 
+was a full fledged member) considered them heroes for it. "Imagine," just about everyone (except the Arcturans) said at one time or another, "such godless barbarians loose in the Galaxy!" "With nukes!" someone else would say and there'd be a collective shudder. By the time all that was sorted out and an expedition of Acolytes carrying the Thousand Books of God assembled to go, some thought too much time had gone by and the Terrans may have figured out a way through the drive and they were all in big trouble.
+So there was much trepidation when the ships popped into 300-mile orbits surrounding the planet. That quickly became consternation. "You're sure this is the place?" the Chief Acolyte frowned at the Denebians. 
+"Yeah! This is it!" the first crewman goggled at the ice world floating in front of them. "It wasn't like that when we left it."
+It took a bit to figure it out, and the Denebians felt really bad. Seemed the settings of the Stantatac drive were normal for Deneb, with its raging power, but a little too dense for Sol. The shield had not only prevented anyone from leaving, but also the little star's rays from entering. 
+Ice age, almost overnight, so to speak. Nothing, and no one, left alive.
+The Arcturans were all for execution of the three Denebians for accidental genocide, but there wasn't a lot of support. Considering the nature of the dead Terrans, it might not have been the mistake it seemed.
+Could have been the grace of God.
+back to top
+
+About the Author
+
+D. Krauss was born in Germany, adopted by a military family, and so became a US citizen in a roundabout way. He lived in Oklahoma and Alabama, somehow ending up in New Jersey. Every single Bruce Springsteen song is about him. He joined the USAF, staying twenty years longer than intended. He has been a: cotton picker, sod buster, painter of roads, surgical orderly, weatherman (yes, a weatherman), librarian, special agent, counterterrorist analyst, bus driver, and layabout. D’s been married over 40 years (yep, same woman) and has a wildman bass guitarist for a son. Contact him through his website: http://www.dustyskull.com and blog: http://dustyskull.com/blog. Or, follow on Twitter @dokrauss
+
+back to top
+
+Like these stories? There's ten more waiting for you here: 
+
+
+
+Here's the title story:
+
+The Moonlight in Genevieve's Eyes
+(original version in Crime and Suspense, November, December 2007)
+
+It's October, Genevieve, October, and you know what that means.
+They'll be running the streets in sheets, in sheets the streets, streets, sheets, yes, yes I know, rhymes, I'm caught in them again. 
+But they'll be in sheets, they will. Delicious. There’ll be a moon this year, maybe not full, but a moon nonetheless though I must check, I must check to be sure because you know, Genevieve, how the moon lights your eyes.
+Ah, I can see it now. With one or two shots I put out the street light at the end of the driveway and plunge the night, frosty and white, night and white stop! plunge it into lovely half-light, so spooky, so spooky, the people in sheets and black capes will look around nervously because they have lost the comfort of sodium glow, the safety of it.
+They'll be vulnerable.
+Do you remember the first time, Genevieve, the first time we dressed in sheets and ran through the alleys and caught up with your sister and my little brother and we jumped at them and they screamed and screamed and it was so delicious, so fun, we run, fun and run, fun and run and we kept finding them at the ends of the streets because you and I know these ways so well who can stop us, who? and finally they were crying, so afraid, so afraid, and we laughed. We laughed, Genevieve.
+We were ten. And your eyes in the moonlight, Gen...
+I have to carve the pumpkin.
+It might be too early because there's still September in the air, still too much of the heat that September steals from August and pushes past its borders fooling us all, fooling us because it's too hot, just too hot for October but, wait it's cooling off a bit so maybe, finally, but no, no, warm again. Damn damn damn. So if I get the pumpkin now you know what'll happen, you know, the melting, the scrunching so it looks like an old geezer pumpkin, the bones of its face sagging to a blur and you don't know who it is, you don't recognize him unless you see a picture of him younger then maybe you can recognize the misshapen, wrinkled, smooshed thing he's become.
+Like Mr. Gardner. Do you remember him? I saw his picture, Air Corps uniform and smiling and young and looked so devil-may-care, Gen, had a scarf around his neck. Imagine! And unless you saw that photo on his mantel with the blue medal draped over it you would never have known, ever, Genevieve, that it was Mr. Gardner. Old, sour, mean Mr. Gardner who yelled at us and put the hose on you for riding your bike across his lawn. 
+I saw the picture just briefly, Gen. And he burned, oh did he burn. 
+I would have loved to see the orange in your eyes.
+That was when we were twelve, Genevieve, and I came over and you weren't even dressed yet and I said, hey, are we going, or what? And for a second, just a second, you hesitated and I thought, Genevieve, that you had somehow forgotten and how can you forget Halloween? Just how? And you laughed and said ohmigod a ghost, Teddy, Teddy the ghost and I was pleased when you said 'wait up' and got your sheet and we got the bikes and we were fast, so fast, and there, Mr. Gardner, lumbering on his lawn and you, you jumped the curb! I was so proud, so thrilled and you know, just before he turned the hose on you, just before you rent his roses, you looked at me and there was the moon in your eyes, Gen, there. 
+I always want to see that. 
+So, what, I should wait two more weeks, I think, and I will go out to the country and look over fields and pick one, a big one, always a big one because I want everyone to see. The candle has to be big, too, big light, so bright, the only thing in sight for the ghosts and black capes and skeleton boys and little princesses as they stand in the dark under the broken globe trembling a little and there, over there, what's that? The biggest, glowiest, orangiest, scariest pumpkin on the block.
+They'll all want to come and see.
+Like when we were fifteen, Genevieve, and I had it, the biggest, most orange of them all, sitting on my porch. I put dry ice and a blue candle inside with a glow stick and it was eerie, really eerie and I knew we could scare the kids and make them cry. But what did you do, Genevieve, what did you do? You just looked, you just stood there at the bottom of the driveway and you didn't even come close and I kept saying come here, come here, there's nothing to fear, here and fear, nothing to fear here
+But you didn't come, you didn't. You looked at me kinda like you looked at the frog we had to dissect (and you didn't even dissect it with me, did you, no, no you didn't, but with Franklin. Franklin!) and you said, gee, nice, and your eyes were all away, no moonlight in them, and you were not my Genevieve, no you weren't, you were someone else, a junior varsity cheerleader and steady of a football player
+(a football player, Gen?)
+and you had that face, that face I always got from all the girls and not just the cheerleaders and I knew that face would go somewhere later, the girl's bathroom, and laugh and call names. And you just walked away.
+And when I came to your house, you weren't even there.
+Oh, Gen, you shoulda seen my fury. I was the white-sheeted fury and I raced on my bike and I hit the alley, spraying puddles and pebbles and there was a full moon, Gen, there was a full moon and I did not get to see it in your eyes. But I did see the kid in the ninja costume at the end of the street.
+With a rock, Gen, with the proper application of a rock you just happen to find like it was purposely placed there by the gods of all the carved pumpkins that come alive when the moon, the full moon, is shining down on them, Gen...you can get a kid down a storm drain. Mostly in one piece. 
+I will carve the vicious grin, the most malicious grin, just dripping with scorn. I've gotten very good at that, don't you think? And everyone will stand at the end of the drive and crane their necks and be disturbed because I will use the blue candle and the glow stick and the dry ice. They will all want to come closer. They will all want to look.
+Franklin standing over me and I am bloody and black-eyed and crying and everyone's laughing at me, all of them as usual but you're there, you're there, too, Gen, and you look down at me and your face is screwed up like an old, heat-shrunk pumpkin and your mouth is open and it's twisted into that same look of malice I have gotten so good at carving and I see, I see, Genevieve, not the moon in your eyes, not the orange. I see something else, Gen. 
+Contempt.
+For me, for me, Gen? Don't you remember the runs through the alleys and the scaring of the little kids and the slingshots at the cats and the ghost bikes tearing such big holes in so many people's yards and you laughing, laughing and we are free and scary and screaming and wet from Mr. Gardner (and he was orange later) and you looked at me with the moon, the silver power of the moon, shining so bold in your eyes? We were of the moon, Gen. And you traded the moon for contempt.
+When I got out of the hospital that other time, Gen, I read that you and Franklin were engaged and you were going to some school. Maybe you shouldn't put stuff like that in the papers, Genevieve, maybe you shouldn't because I got upset and stopped taking the medicine. Mom moved out. She did. The state sends a nurse but I can lie, oh yes, 'cause we both learned how together, didn't we?
+Can you hear them shuffling up the driveway, Genevieve, drawn by the light because it's so dark on the street now? They all want to look. Oh please let there be a full moon.
+So I put on the sheet and had with me the best of my carvers, the very best, so sharp, so precise, for such delicate work. 
+How many years now, Gen? I'm not very good with time, but I can rhyme, rhyme with time, and climb, in time I can climb and there I am supine and you whine 'what's that noise?' and sublime! the balcony door slid too fine and you, you, the moon in your eyes, divine
+I am so fast.
+They came to ask me questions but, Genevieve, I can lie. 
+So maybe I will shoot out the other street light and make the whole place dark so the only attraction, the only thing to see is the big, big orangey pumpkin on my porch, delicious and malicious, and they will shuffle and sidle and look at each other and feel scared, oh, scared, because those eyes, those eyes, they look so real.
+And if the moon is up, Gen, if it's there, and if there's still enough frost from the freezer, you will gleam at them.
+Just gleam.
+And if it's apocalyptic mayhem you crave:
+
+John Rashkil is having a very bad day.
+On his way to work, CDC thugs force him off the road. DC cops (or whatever they are) harass him at the Key Bridge checkpoint.
+And then he finds a body hanging from the ceiling...
+Based on an Irish legend of the same name, Partholon is post-apocalyptic, alternate history. 
+No law, no help; just you.
+
+
+back to top

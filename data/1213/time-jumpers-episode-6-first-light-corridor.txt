@@ -1,0 +1,954 @@
+﻿Time Jumpers
+Episode 6: First Light Corridor
+Published by Philip Bosshardt at Smashwords
+Copyright 2019 Philip Bosshardt
+Smashwords Edition, License Notes
+
+This ebook is licensed for your personal enjoyment only.  This ebook may not be re-sold or given away to other people. If you would like to share this book with another person, please purchase an additional copy for each recipient.  If you’re reading this book and did not purchase it, or it was purchased for your use only, then please return to Smashwords.com and purchase your own copy.  Thank you for respecting the hard work of this author.
+
+A few words about this series….
+
+1.Time Jumpers is a series of 20,000-30,000-word episodes detailing the adventures of Ultrarch-Jump Captain Monthan Dringoth and his crew and their experiences as time jumpers with the Time Guard.
+2.Each episode will be about 40-60 pages, approximately 25,000 words in length.
+3.A new episode will be available and uploaded every 4 weeks.
+4.There will be 12 episodes.  The story will be completely serialized in about 12 months.
+5.Each episode is a stand-alone story but will advance the greater theme and plot of the story arc.  
+6.The main plotline: Time Guard must defeat the enemy Coethi and stop their efforts to disrupt or eliminate Uman settlements in the Galactic Inner Spiral and Lower Halo sectors of Uman space.  
+7.Uploads will be made to www.smashwords.com on approximately the schedule below:
+
+Episode #	Title						Approximate Upload Date
+1.            ‘Marooned in Voidtime’ 			February 1, 2019	
+2.            ‘Keaton’s World’				March 1, 2019
+3.            ‘A Small Navigation Error’ 			April 15, 2019
+4.            ‘Cygnus Rift’ 					May 3, 2019
+5.            ‘The Time Guard’				May 31, 2019
+6.            ‘First Light Corridor				June 28, 2019
+7.            ‘Hapsh’m and the First Coethi Encounter’	August 2, 2019
+8.            ‘Operation Galactic Hammer’		August 30, 2019
+9.            ‘Byrd’s Draconis’				September 27, 2019		
+10.            ‘First Jump Squadron’			November 1, 2019
+11.            ‘Planck Time’					November 29, 2019
+12.            ‘The Time Twister’				January 3, 2020
+
+Chapter 1: “Icarus and Scooter”
+
+“In the beginning, the Universe was created.  This made a lot of people very angry and was widely regarded as a bad move.”							
+								Douglas Adams
+
+Keaton’s World
+Gibbons’ Grotto 
+Time Guard Base Minkowski
+Time Stream: T-001
+T-date: T-08-02-2815 CE
+
+Thanks to Wolfus Linx and his cobbled-together singularity drive, Trivandrum eventually made it back to T-001 and the Sturdivant system. But it was Evelyn M’Bela who found they had also carried along a stowaway from the past, none other than Dr. Linx himself, wedged into a tiny locker on F deck.  
+“What the hell are you doing here, Doc?  Come on…come on out of there.”
+Linx squeezed out and immediately wished he hadn’t for Trivandrum was in micro-grav at the moment, docked at Gateway Station and orbiting around Keaton’s World.  His face turned a sickly pale green.  M’Bela helped steady him, then guided him gently up the gangway to the ship’s crew’s mess on B deck.  They met Golich and Acth:On’e coming down.
+M’Bela secured Linx at a table and gave him some water and an anti-nausea pill.  Presently, his color began to return, though his white hair and beard made him look like an escapee from an institution.
+“I just wanted to see how my drive worked,” he explained, sipping the water gratefully.  “And learn more about what life is like in your time.  What time is it, anyway?”  He looked hopefully, from Golich to Acth:On’e to M’Bela.
+Golich was furious.  “Doc, you can’t stay here.  You can’t even be here.  You’ve probably already messed up the worldline.  These things are tricky.”
+“Plus it’s against all regs,” M’Bela added.  She stood next to the table, hands on her hips.  
+“You showed up in my time.”
+Golich said, “That was a mistake.  We shouldn’t have been there.”  His face softened a bit.  “And we do thank you for your drive.  It basically got us home.”
+“So where’s home?”
+Golich looked at M’Bela and Acth:On’e.  They both shrugged, as if to say, well, it won’t matter now.
+“To you, this would be around the year 2815.  We keep time a little differently these days.  You’re at Gateway Station, orbiting a world called Keaton’s World.  Home of the Uman Alliance.  That sun you see out the porthole is Sturdivant 2180.  From where you were, it would be a small reddish star in the constellation Cygnus.  You know: The Swan.”
+Linx’s eyes were wide and he rubbed them.  “Mother of God, I never dreamed—”
+That’s when Time Guard Security showed up.  
+Dr. Wolfus Linx was taken into custody and escorted offship, riding the Security shuttle down to K-World’s biggest village, Gibbstown.  Golich nodded as the doctor was hustled aft down the gangway to Trivandrum’s lockout.  He knew their unexpected visitor would be facing many hours, probably days, of interrogation.
+M’Bela actually felt sorry for him.  “He did make it possible to get home, Commander.  Maybe they’ll go easy on the guy.”
+Golich headed up the gangway.  “I don’t know.  Stowing away on a Time Guard ship, even a freighter…the JAGs will have a field day with that.  I hope they get him a good lawyer.” 
+“I’m for heading down to the Zanz, Commander.  You could buy us all a round of Smoking Craters.”
+“You’re on, Queenie.  Captain said he’d meet us there at 2200 hours.  You up for a tilt, Acth?”
+The Telitorian said he was.
+
+The Zanzibar Grill was Base Minkowski’s canteen, done up to resemble a pirate’s lair, complete with disparate nautical items scattered around the space:  a rusty old anchor, stretches of canvas hanging down from the ceiling, brass fittings along rails and miniature clove trees some bio had cultured in the lab two floors down.  Only the icy cliffs of Gibbons’ Grotto outside the portholes and the black vacuum of space clashed with the theme, and one wag had seen fit to hang wicker and rattan baskets from the portholes, all bulging with seashells and assorted seagoing flotsam.
+The three time jumpers were heartened by the sight of their 1st TD crewmates, already bent over a polished oaken bar, nursing their drinks.  Captain Dringoth was there, as was Alicia Yang, even URME had shown up, taking time off from his maintenance duties aboard Cygnus.
+There were hugs, backslaps and handshakes all around and an assembly line of fresh, steaming Smoking Craters soon appeared on deck, courtesy of the autobar.
+Dringoth toasted the return of their wayward crewmates.  “To Cygnus…if she ever gets the hell out of Refit and jumps time again—”
+Yang squawked.  “No family should ever be broken up like this again…it ain’t right.”  She jabbed at M’Bela’s waist.  “See what sightseeing does to you…look at this flab.  Queenie’ll have to be confined to the gym for a month.”
+Dringoth added, “Trying to skate through the Rift like that…what the hell were you thinking, Commander?”
+Golich smiled ruefully.  “Only of getting back here to this eyesore and swilling this aractyl piss.”  He chugged a good portion of the Crater and his eyes and tongue burned with satisfaction. 
+M’Bela had noticed other ships parked at Gateway overhead, orbiting around the Grotto.  “Who’s our company upstairs, Captain?”
+Several vid screens spotted about the Grill had live views of the refit and repair work going on around Gateway.  
+Dringoth watched the scene for a moment.  Gateway could handle five jumpships at a time and her bots and dockhands scurried around the docked ships like so many worker bees serving the nest.  “Virgo and Scorpio are in in for refit, same as us.  In fact, I just came from a meeting with Gateway’s Chief Engineer, going over ripout and installation timing on our collapser.  URME’s got all the details in that big robotic brain of his.”
+URME, 1st TD’s Unit Reserve Memory Entity, was a para-human swarm, which brightened noticeably when attention shifted to him.  His voice sounded like it was coming out of a barrel.  “Collapser refit should be done in two days.  Refit Activity’s giving us all new chronotron banks, new targeting arrays, and a better converger, the latest design out of the Labs.  She’ll still have to be tested in shakedown, but the early reports are encouraging.”
+Golich smirked.  “Just what URME needs, a new whizbang toy to play with.”
+“Yeah, one that gives Cygnus one hell of a sting, for Bugs and other nasties.”
+“Captain,” asked M’Bela, “what’s on the boards for 1st TD now?”
+Dringoth fingered some Crater ‘dust’ from the rim of his mug.  His face turned serious, the big moustache straightening out as it did when something was bothering him.
+“There’s a classified briefing for senior officers tomorrow down on the surface—the Big Spleen—and word is Commandstar’s rolling out the whole plan for the Hawking Line.”
+They all knew the Hawking Line was intended to be a defensive line of Time Twisters sited at key locations, from K-World in the center of the Alliance out to Epsilon Eridani and the settlements at Hapsh’m.  Later versions of the Line even had extra Twisters installed in a curving arc around Newton’s Jaw toward Sigma Albeth B and 40 Omicron 2, home of settlements at Gavrilon and Nanjiang, not part of the Alliance nominally but more than willing to cooperate in a common defense against probes by the Coethi along their outer frontiers.
+“Does that mean more handholding?” Yang asked.  “More babysitting new Twister crews?”
+“Probably,” Dringoth admitted.  “Commandstar likes what we did at Storm…and here at Gibbons.  We’ve become the poster children for how to deploy a Twister.”
+Golich smacked Crater dust from his lips.  “Wonderful.  Just freakin’ wonderful.  I’d really rather be out on the front lines, or in voidtime, squashing Bugs for a living.”
+“You may well get your—” But Dringoth’s words were instantly drowned out by a warbling siren blaring throughout the base.  
+“WAH…WAH…WAH…WAH….”
+“The scramble alert!” Yang shouted.
+“Get your asses moving!” Golich added.  Drinks and snacks and smokes were overturned, and flew in all directions as the Zanzibar Grill erupted in a frenzy of movement and chaos.
+Then, came an auto-voice over the speaker….
+“ALL HANDS, BATTLE STATIONS-JUMP…ALL HANDS TO SHIPS AND STATIONS…THIS IS NOT A DRILL…ALL HANDS TO….”
+The jump ships were in orbit around Gibbon’s Grotto, most of them parked at Gateway Station, most of them in varying forms of refit and repair.  In a battle stations-jump scramble, speed was vital; there was no time to load up and launch shuttles or ride up the Skystalk that connected Base Minkowski to Gateway.  A few tried the Stalk but the cars could only hold so many and they always took an hour to reach Gateway anyway…cars cruising up and down the Stalk had to be carefully balanced or the thing would rip itself right out of its foundations on the icy surface of the Grotto. 
+Most jumpers just slammed on their hypersuits and boosted directly from Minkowski’s airlocks straight up to the station.  Moments after the scramble alert sounded, dozens of time jumpers were in boost, looking from a distance like spiders spinning webs from the ice-filled ravines of the Gibbon’s Grotto up to Gateway.  
+First TD came in one after another: Golich, then Dringoth and M’Bela at the same time, followed by Acth:On’e and Yang.  URME collapsed himself down to a small containment capsule and rode on the web belt of M’Bela, as she boosted up.
+“Captain, we’re still in refit,” Yang said, as she scrambled aft down Cygnus’ gangway to her post at the DPS station on E deck.  “Our magazines are low and the collapser’s not fully operational.  There are still--“
+“I know, I know.  Take your stations, like you’re trained to.  It’s a full scramble…we don’t have the luxury of signing off on Gateway’s work.  Queenie, get URME out and cooking.  I want propulsor power in five minutes.”
+“Aye, sir,” M’Bela said, as she took her post on the command deck, the Search and Surveillance station.  She extracted the containment capsule and thumbed a control stud on the side.  Instantly, the capsule began spewing a faint, flickering mist out onto the deck. Moments later, the mist had thickened and assumed a vaguely human-like form.  “URME, get aft…get the propulsor powered up!  Captain wants Cygnus ready to move out in five.”
+The para-human swarm entity answered back in a tinny voice.  “On…my…way…”
+ It flowed quickly off the deck and down the gangway.
+“Receiving TACTRON flash traffic, Captain,” Golich reported from his console next to Dringoth.  “Your eyes only.”
+“Port it to me, Secure 1.”  Dringoth waited a second, then the orders materialized on his eyepiece viewer—Dringoth was still in hypersuit but had taken off his helmet and stowed it under his seat.  He whistled, scanning the orders quickly as they scrolled.  “You wanted to squash some Bugs, Commander.  Looks like you may have your chance.”
+“What is it?”
+Dringoth summarized.  “SPACEGUARD, Icarus Station.”  Icarus and Scooter were the innermost worlds orbiting Sturdivant, two worldlets in contact binary arrangement, nearly touching each other at their surface, racing around the copper-red sun in superfast orbits of less than a K-World day.  “They’re reporting major fluctuations along the voidtime barrier in their neighborhood.  All indications are something big’s coming out of the Dark.”
+Golich’s voice lowered to a menacing whisper.  “It’s the Twister, Captain.  On the Grotto.  The Bugs know they can’t move in with any force while the Twister’s operating.  It just shreds their formations.”
+“There’s more,” Dringoth scanned on.  “TACTRON’s reporting something—wait one—this can’t be right…TACTRON’s reporting that SPACEGUARD has detected a small complex on the surface of Icarus…just showed up on their sensors.  Their sensors are indicating some kind of thin stream coming off Icarus…maybe a bot stream of some kind.”
+“Streaming to where?” Golich asked.
+Dringoth blinked, shook his head, made an adjustment to his viewer.  “This part I don’t understand…TACTRON says SPACEGUARD’s detecting a small stream, maybe bots, flying off Icarus and streaming directly onto Sturdivant, into the sun. They’re checking now but—”  Dringoth looked over at Golich with a perplexed question on his face.  “Why stream bots into the sun?”
+Then M’Bela piped up from her Sensor station.  “Sir, I noticed when Trivandrum came back and docked at Gateway that Sturdivant seemed a little dimmer than usual.  I know it fluctuates in luminosity every so often—we all know that—but this seemed unusual…maybe it’s because we were away for a while.”
+Dringoth considered that, even as URME was reporting sixty percent propulsor would be available in ten minutes, as soon as all moorings and dock connections could be cleared.  “I’d better ask TACTRON for clarification.  I don’t like the sound of this.”
+By the time Gateway had been granted departure clearance for Cygnus, Dringoth had his explanation.  He whistled again and toggled it over to Golich, despite the EYES ONLY classification.
+Golich read the report with a cold gnawing in the pit of his stomach.  “This says SPACEGUARD thinks the luminosity fluctuations in Sturdivant aren’t a natural phenomenon at all, Skipper.  This can’t be right, can it?”
+Dringoth concentrated on backing the ship away from her slip.  “Aft moorings?”
+“Clear aft,” reported M’Bela.  “Clear port and starboard.”
+Golich momentarily put his questions aside to focus on maneuvering the jumpship out into free space.  “Acth:On’e, set maneuvering to condition one.”
+“Setting one,” came the Telitorian’s answer from E deck.  
+“All back full,” Dringoth ordered.  “URME, give me whatever you’ve got.”
+“Sixty-five percent on both propulsors, sir.  That’s all we can get. Bringing singularity core on line now.”
+“Very well.  Commander, bring us around…heading two one five.  Maneuvering to condition two.  Maintain one-quarter propulsor until Gateway gives us full clearance.”
+“Aye, sir….”
+Waiting for Gateway Departure to fully clear the ship, both Dringoth and Golich went over TACTRON’s orders and SPACEGUARD’S report line by line, still not fully believing what they were reading….
+
+Dispatch #12.175.222.  OpOrd 16.9
+All Time Stream Directorate Jumpships and Battalion Ops 
+Transto: Ult.-Capt. Dringoth, CDR 1st Time Displacement Battery (CYGNUS UA
+Coded.
+
+This operation will be designated OPERATION Icarus Hammer, per directive Commandstar C-A22119.9
+SPACEGUARD Watch Report S-99887 is appended, detailing Notams to all combatant vessels in Sturdivant system, re: luminosity fluctuations in sun Sturdivant 2180.  Long-range sensors have detected a previously unidentified botstream emanating from unknown facility on the surface of Icarus.  Botstream seems to be directed at photosphere, chromosphere and convective zones of the sun.  SPACEGUARD has measured significant luminosity losses in Sturdivant solar output in recent months.   
+T2 analysis of measurements, combined with supporting intel from SPACEGUARD and Time Guard, indicates that purpose of botstream is adversarial, likely of Coethi origin, with intent to nanobotically bank fusion processes of star by disassembling hydrogen atoms and blocking the fusion process.  Net effects still being measured but further reductions of Sturdivant energy output seem likely.
+Alliance Council has issued orders to investigate this phenomenon immediately and if initiated by Coethi, to render botstream and Icarus facility inoperative by all means necessary.
+OPERATION Icarus Hammer will consist of two ground assault teams to assault and eliminate detected base on Icarus surface.  Ground team troopship will be escorted by jumpships Cygnus, Virgo and Scorpio, to provide top cover for assault and to engage any Coethi defensive efforts to protect suspected seeding and doping operation.  Engagement probability is high, given local fluctuations in voidtime barrier.  T2 believes Coethi are massing heavy forces to prevent Alliance efforts from stopping their seeding operation.  
+Maneuvering and approach orders for supporting assault teams and providing defensive cover are appended to this general alert.
+
+TACTRON 101 (Tactical Operations Coordination Unit)
+Endtrans
+End Code.
+Dringoth looked over at Golich.  Neither said a word.  What was there to say?  Then M’Bela interrupted.
+“Gateway clearance just came in, sir.  Cygnus is free to maneuver.”
+Her words snapped Dringoth out of his funk.  “Very well.  Maneuvering, set condition 3MT.  Half propulsors.  Maintain heading and speed.  Commander, advise Virgo and Scorpio.  Our next move is to rendezvous with the troopship and head sunward.”
+Two hours later, the small fleet was underway, slamming on the brakes in Sturdivant’s steep gravity well, as the quartet of ships dropped sunward, past Montes, Segovia, and Luytens, toward the battered contact binary world of Icarus-Scooter, innermost of all the worlds, orbiting less than forty million kilometers above the scalding photosphere of the star sun Sturdivant 2180.
+
+Icarus-Scooter orbit
+Time Stream: T-001
+T-date: T-08-04-2815 CE
+0100 hours (ship time) 
+
+Less than a day after Trivandrum and her wayward crew had jumped back to their own time and K-World, the expedition known as Icarus Hammer was launched, on a speed trajectory to the inner system.  Two days later, Colonel Nguyen Thanh stared out the observer’s cupola on his corvette command ship, UAS Meiji, at the forbidding terrain of Icarus-Scooter as the ground slid by beneath them.  Meiji and her sister ship UAS Khayyam had dropped into orbit after an uneventful trip to the inner system and now the bell was about to ring for the big show.
+He didn’t know if they were ready but the time had come to find out.  He only hoped that the rest of Icarus Hammer would fare as well.  And who the hell would ever build a base on this mangled potato of a world anyway?  Jeez, the damned thing looked like two cockroaches trying to hump each other.
+The expedition had been divided into two parts, an Icarus squadron, which had been given the innocuous sounding name of Detachment Bravo, and a Space Support squadron, known as Detachment Alpha.  Meiji and Khayyam were part of Detachment Bravo.  The Space Support task force also consisted of three Time Guard jumpships, Cygnus, Virgo and Scorpio, providing top cover in case the Bugs moved on the Icarus team.
+Two hundred men and women and a shelf full of containment capsules crammed with ANAD systems of every conceivable configuration made up the expedition.  That and each ship’s complement of HERF, magnetic loop and coilgun batteries and the two squadrons sported enough firepower to reduce a small planet to rubble.
+Icarus-Scooter was a small planet, Thanh told himself, but early sensor indications were that she would be a particularly hard nut to crack.  As he watched the cratered, sun-blasted landscape roll by below, he saw the first rugged walls of Perseus Basin sliding into view from the horizon.  A bulls-eye hit by some big asteroid, he figured, as he watched the grid of lights of the enemy’s base winking at him like a baleful eye from a hundred kilometers below.  The whole basin was nearly fifteen hundred kilometers wide, with walls two kilometers high all around.  And there in the middle, snugged up against some low hills, was their primary target...the Bug base that SPACEGUARD had warned them about.  
+“Standard orbit, Colonel.”  The voice startled him out of his reverie.  It came from Captain Gabriel Lynx, Khayyam’s skipper and Thanh’s exec.  Long-standing practice aboard Time Guard ships was to assign an angel, a para-human swarm entity, to the executive officer spot, but Commandstar had nixed that.  Nobody trusted the ANAD descendants in such close proximity to the Bugs.  They could be turned or bollixed up too easily by alien bot clouds from outer space that probably had powers no Normal could even imagine.
+“Anything more on that barrier?” Thanh asked.  Khayyam’s sensor suite had detected a nanobotic barrier draped over half the planet, centered on the Perseus Basin facility.  
+Lynx shrugged.  He was nominally ship’s captain, second only to the Detachment commander.  Bald and scarred from a run-in with a rogue swarm on a mission long ago, Lynx said, “We’re studying it now.  It’s made out of bots, we know that much, but we can’t get a lot of structure on them.  Sensors don’t have the resolution…they’ve got a multi-lobed bodies, probably effectors out the wazoo, but we need a closer look.”
+“You think we can punch a hole when we drop Hawk and Griffin?  I’ve got two assault teams I need to put on the ground.  Plus we’ve got the hoppers.”
+“Only one way to find out, sir.”
+Thanh gave the order.  “Commence drop preparations.”
+
+Aft of Khayyam’s command deck, CSO Sergeant George Namibe squeezed past LP Corporal Sanjay Viyawanda and parked his butt in a web seat along one wall of Hawk’s rear troop compartment.  
+“Hey, Sanjay, can’t you make these seats any more comfortable?  This thing feels like I’m sitting on a head that hasn’t been sanitized in about ten years.  You prang this crate on some mountaintop while we’re landing and it’ll take me a day to get out of this.”
+“The head’s right where you belong, Nimbo,” retorted Viyawanda.  “At least you know what the hell you’re doing in there.”
+Namibe settled himself in as best he could and checked the action on his HERF carbine for about the millionth time.  He was buttoned up tight in a glorified straitjacket that the engineers called an X-suit…all armored and servo-ed to the heavens, and the damned thing felt wrong, too tight here, scraping something sensitive there…OUCH! that hurt... and he wanted to scream and claw his way out of this madness but he didn’t.  He’d done enough drops to earn another stripe but they never felt right and he often dreamed of better things.  
+Riding Hawk down to any kind of gravity surface was like falling down a lift shaft without a helmet.  When it was all over, you couldn’t even count up all the things that hurt. 
+Assault Team One—the Bug Smashers!—consisted of five troopers: Lieutenant Moncke, the CC1 and a quartet of assorted lowlifes.  Sergeant Sly was HERF1.  Sergeant Berkowitz was MAG1.  Namibe was CSO1…that meant Combat Swarm Operator.  And the LP, lander pilot, was Corporal Sanjay Viyawanda.  A finer team could not be found anywhere inside the Guard this side of K-World or anywhere else in the System and the Bug Smashers had the awards to prove it.
+Both assault teams boarded their landers at Captain Lynx’s orders.  In less than an hour, assuming the Captain and the Exec could figure out how to breach that orbiting barrier, Hawk and her sister lander Griffin would be descending like angry bees toward a combat landing somewhere inside Perseus Basin.  
+Several minutes later, the landing detail of Assault One was aboard Hawk and the lander was signaling Khayyam that she was ready to depart.
+Randy Sly and Rod Berkowitz were strapped into their seats in the back, George Namibe between them.  Viyawanda, the lander pilot and Lieutenant Ty Moncke were up front, in command.  
+Sly smacked his chewing gum loudly, a nervous habit that made everybody roll their eyes.  “This bugger reminds me of a stack of pancakes, folks.”
+“Yeah,” said Berkowitz.  “With legs and three sausages on top.  Does everything remind you of food, Sly?”
+“Knock it off back there,” Lieutenant Moncke ordered.  “Okay, Khayyam…we’re secure and ready.  Give me the count….”
+A few minutes after everybody was through bitching and moaning and had gotten themselves secured and strapped in, pilot Viyawanda punched up the departure program on the ship’s computer and counted down the last seconds before separation.
+“Five…four…three…two…one…bingo!” 
+There was brief shudder and lurch as Hawk’s thrusters fired to make a positive separation. 
+“Hawk away…” he announced.  Moncke and Viyawanda watched through the forward windscreen as the gaping mouth of Khayyam’s side-mast docking ring receded into the distance.  From two kilometers off, when Viyawanda had stopped their motion and re-oriented Hawk for de-orbit, the great cycler ship looked like a massive bird soaring off into the heavens. 
+Moncke counted down the last moments to the initial burn that would start Hawk on her long curving descent to the surface of Icarus.  The limb of the dark reddish world could barely be seen through the portholes, dim and shadowy.  
+       “Ten seconds to PDI,” Viyawanda announced.  He checked over his console: track, engine status, attitude…everything seemed ready.  “Get ready for a major kick in the ass—“
+The burn, when it came, made Hawk shake and shudder like a wet dog.  Randy Sly felt the acceleration build up rapidly.  After weeks of microgravity, the ship’s descent felt like an elephant had planted its posterior right on his chest.  He forced a sideways glance at Namibe in the next seat.
+The trooper was exhaling out in quick, forced breaths, as they had been trained.  He met Sly’s eyes and grunted back.
+“Randy…remind me to…put in…for a…transfer…when we get back….”
+ Even as Hawk was already descending, Khayyam and her sister ship Meiji had moved off to punch holes in the bot barrier that hovered over their target LZ like a faintly shimmering veil.  If all went well, both ships would pump a few gazillion joules of mag gun and HERF rounds into the barrier, opening up holes for Hawk and Griffin to slip through, like trolling through a minefield in a wartime harbor.
+Viyawanda and Moncke watched the trajectory plot on the board carefully as Hawk began her initial pitchover and slowed noticeably.  The plot showed several lines, indicating nominal and actual course, all converging on an actual window in space, the entry point called High Gate, where the lander would begin firing her descent engines continuously, maneuvering and navigating across Icarus’ tortured and battered surface as they fell toward the LZ in the middle of Cone Crater…so named by Randy Sly because the formation reminded him of a big ice cream cone.  The crater was officially known as Landing Site Hawk, some ten kilometers northwest of the big Bug base and inside Perseus Basin. 
+The descent and landing took half an hour.  No bot barrier disturbed their descent, or Griffin’s.  The mother ships had done their job, though already they could see in the sky above the shimmering veil of the barrier closing up again. 
+ “Open sesame,” muttered Berkowitz nervously as they slipped below the barrier. 
+	“Touchdown…good job, Skipper,” said George Namibe.  Hawk settled with a bump onto a mostly level plain pocked with craters and strange blood-red hillocks.  More hills surrounded them.  “Right in the crosshairs.”
+“Okay, boys and girls, let’s get moving,” Moncke unstrapped himself and headed for the lockout in the aft compartment.  
+The assault plan called for AT-1 to make tracks, mostly by suit boost, from landing site Hawk along a northwest to southeast bearing, closing on the Bug base from over a low hill and digging in on top of that hill--designated Witches Tit by common agreement—while AT-2 moved from landing site Griffin from the southeast.  Terrain favored both assault teams but the aurora-like bot barrier over their heads made everybody nervous.
+“Stick together,” Lieutenant Moncke ordered.  “Boost on low…let’s go—“
+The troopers of Assault Team One lifted on rooster-tails of dust as one and soared ten meters over the crater-pocked landscape, as they settled onto the proper heading for approach.  Ahead of them, Witches Tit and other low-rise hummocks loomed like crumpled bed sheets of rock.  
+Thirty-three kilometers southeast of their position, Assault Team Two was also on the move.  Soon enough, Icarus’ short horizon dropped Landing Site Griffin far behind them. 
+
+The two Assault Teams closed rapidly on the Bug base.  Ten kilometers away, though, the Bug Smashers ran head on into another nanobotic barrier.
+Lieutenant Moncke called a halt to their advance and all troopers de-boosted down to the ground.  Towering before them was a faintly visible, glowing throbbing wall of flickering light, shimmering and popping even in the strong sun glare.  
+Moncke got on the crewnet.  “CSO, get up here.  Bring your bot pack.”
+Namibe came up with his mobile containment pack and studied the barrier.
+“Can we boost over it?” Moncke asked.
+Namibe shook his head.  “I doubt it, sir…I’m guessing it’s semi-sentient…it can detect us and shift to block any moves we make.  See how it reacts as we move about.”  He demonstrated by making a short lunge toward the barrier.  Immediately, the wall flared in front of him and extended tendrils of bots, which Namibe batted away as he retreated.  “Best bet is to hose it down with HERF and mag, then let me config something—maybe C-77, the porcupine I call that—and engage directly.”
+Moncke didn’t need any more convincing.  “Berkowitz, Sly, get up here.  Set your weapons on max.  Fire when I give the word.”
+The two troopers hustled forward, taking up firing positions to either side of the CC1.  
+“HERF primed and enabled,” said Sly.
+“Ditto mags,” reported Berkowitz.  “You want original recipe or extra crispy, Skipper?”
+“Just smash the Bugs good and open a path,” Moncke ordered.  “Nimbo, get that config going and tell me when you’re ready.”
+It only took a few minutes for Namibe to hack out a configuration and launch his ANAD combat swarm.  The containment pod on his backpack frame flared into brilliance as it discharged the bot master.  It was like watching a slow-motion thunderstorm emerge from Namibe’s back.  The faint mist formation coiled and drifted forward, stopping less than a meter from the barrier. 
+“Swarm up and running, sir.”
+“Very well.  MAG and HERF, let ‘em have it!”
+The troopers opened fire at the same time.  Round after round of rf pulses and magnetic loops pummeled the bots of the enemy barrier.  The barrier glow faded and fought back, throbbing and pulsating at it absorbed and tried to deflect the energy of the blast.  
+That’s when Namibe sent his combat ANAD swarm into battle.
+The line of engagement was easily visible as a jagged crack of light whipping in front of them like a snake on fire.  Inside the melee, trillions of bots collided and discharged their bond disrupters.  The effect was of two storm fronts colliding overhead, throwing lightning and popping flares bright enough to momentarily wash out the sunglow.
+Shadows writhed on the ground and the troopers of Assault One backed away from the barrier to let the swarms duke it out.
+“Another blast!” Moncke ordered.
+Berkowitz and Sly hosed down the barrier, now weakened from battle with ANAD, with everything they had.  Soon a visible hole in the wall opened up, then as if dissolving in translucent flame, the barrier began shrinking right in front of them.  After a few more rounds, a ten-meter gap in the barrier was pried open by ANAD. 
+“Open sesame,” muttered lander pilot Viyawanda.  “I just hope it stays open—“
+Moncke had the same concern.  “Nimbo, make configs to hold that opening.  The rest of you, come with me.”
+Moncke was first through.  Sly, Berkowitz and Viyawanda followed, eyeing the thrashing edges of the barrier cautiously. 
+“ANAD’s kicking butt,” Sly muttered.  “Just don’t let the door shut behind us.”
+Inside the barrier, Assault One advanced another half a kilometer, bounded down into a shallow ravine still on the ground and came upon a row of strange blood-red hillocks spotting the ground, a line of low mounds spaced several meters from each other, extending to the horizon in every direction.  The space between the hillocks seemed agitated, disturbed, as dust and pops of light crackled and swirled like miniature tornadoes close to the ground.
+“What the hell are those?” asked Viyawanda.  “Are they natural formations?  More bots, maybe?”
+“Looks like a pile of crap to me,” Sly decided.  “With flies buzzing around.”
+“Let’s try boosting over,” Moncke said.  As one, the troopers lit off their suit boost and rose quickly ten meters above the line of hillocks.  But as soon as they jetted forward, the hillocks erupted in dust clouds and they found themselves enveloped in dust and light.  
+“Hey—what the--!”
+“I’m spinning…out of control—“
+“Jeez…what the fuck--!”
+The dust and light that had enveloped them now tore them from that exact moment of time and flung them backwards, through a spinning kaleidoscoping tunnel of crazy, spinning, whirling things and they hurtled at breakneck speed down the tunnel, dodging polygons and cubes and tetrahedrals and things they couldn’t describe until at last, they came to hard, bumpy, bone-rattling landing right on their butts.  
+Assault One had just taken an unexpected trip in space and time right back to the Hawk lander.
+ “Hey, keep back, keep back…I don’t know what the hell that is!”  Lieutenant Moncke waved his troops away from the slow-motion eruption of the hillocks.  
+Directly above each hillock, the background wavered and shimmered like a highway on a hot summer day.  Then electrostatic forces dispersed the nanobots that comprised each mound and the path was clear.
+Moncke scooped up some regolith with his gloved hand and flung it in the direction of the nearest mound.  It sprayed out and fell to the ground with no obvious effect.
+“Okay, I think it’s clear.  I don’t know what the hell happened.  Hawk troop, move out…again… in squad order!”
+Assault One continued its advance south across a cratered plain, cautiously edging past the mounds.  Twenty-two kilometers to their southeast, Assault Two resumed their advance as well.
+A kilometer from the closest buildings, Moncke could see a faint haze shrouding the base.
+“Nimbo, what is that crap?  Dust?  Or some kind of bot cloud?”
+Namibe scanned the compound.  “Reading high thermals, well above ambient, sir.  High electromagnetics too…lots of atom smashing going on down there.  I’d say what we’re seeing is a swarm or swarms of some type.”
+From their distance, the base didn’t seem like much…a series of low domes, some cabling and smaller structures, and that eerie-looking haze.  
+“Okay,” Moncke decided, “this is as far as we go.  Tactical plan says we hose down the place with coordinated HERF and mag fire first, then approach with suppressing fire and destroy or otherwise render inoperable each structure.”  He tapped a button on his wristpad, called up Lieutenant Lyon, Assault Two commander.  “Griffin, this is Hawk One…in position…ready for Phase 1, say status…over—“
+Lyon’s voice crackled back reporting Assault Two ready.  Time was checked and clocks were synched and at the appointed moment, both forces opened up inside Perseus Basin.
+In the vacuum of Icarus’ surface, no one could hear the booms of the rf pulses, but dust and regolith flew in all directions as all weapons were discharged at the same time.  
+The radio frequency beams shattered clouds of bots all across the base, raising geysers of dust and dirt in mushroom clouds of debris.
+“Jeez, the whole place is nothing but Bugs!” yelled Berkowitz, kneeling on the lip of an oblong crater.  “Every damn thing down there is nothing but a collection of bots.”
+And it was true, though no one was surprised.  Each dome and structure, each housing and assembly was in fact a tightly meshed swarm of nanobotic elements, a hive of Bugs that dissolved in the face of Assault One’s withering fire.  Deprived of its shielding, the base became easy pickings for the troopers as they poured fire down into the valley.
+“Squad One, move forward fifty meters, and flank left!” Moncke commanded.  “Squad Two, maintain covering fire--!”
+Squad One was Sly and Berkowitz.  HERF1 and MAG1 scurried as fast as their X-suits would let them to a crater wall fifty meters left, then dropped below the wall and came up firing again.  
+Then Squad Two, CSO Namibe and Lander Pilot Viyawanda, pivoted forward to a flank right position, with Sly and Berkowitz providing covering fire.
+Like an awkward infant just learning to walk, Hawk Troop worked its way steadily closer to the first structures of the base.  The outer perimeter was a line of dish antennas—quantum coupler array, said the description scrolling on Moncke’s eyepiece, though he didn’t know where that intel came from.  
+Assault Two, Griffin Troop, did the same from the east.
+Building by building, installation by installation, the men and women of Assault One and Two reduced the Perseus Basin compound to rubble and smoking ruins.  As CSO, it was Namibe’s job to launch their tactical ANAD swarms and engage any Bugs not already fried in the HERF blasts.
+Namibe found their ANAD bots a more than equal match for the Bugs.  One skirmish happened on a humpback ridge overlooking the excavation trenches and catapult.  Here, Assault One, Squad Two ran into a dense swarm of Bugs trying to repair some kind of catapult.
+“Light ‘em up!” Viyawanda yelled.  “Blast the buggers to hell and back!”
+Namibe did just that.  
+The Bugs and the humans battled each other in a running series of skirmishes over the next few hours.  Inside the base, both assault teams found the Bugs’ equipment and facilities puzzling but the troopers had no trouble reducing the base to ashes.  Most of the structures weren’t solid anyway.  When slammed with HERF or mag, the troopers found their targets little more than solid-seeming swarms of bots, which flew apart like leaves in a wind. 
+Devoid of its shielding and entangler fields, the Bug base was little more than paper to the Normals’ weapons. 
+Nobody was more surprised at this than Detachment Bravo commander Colonel Thanh.
+Some hours after the troops of Assault One and Two had penetrated the main compound and leveled most of its equipment and structures to ashes, Thanh left his orbital command post aboard the Meiji and descended to the surface.  There he met with Lieutenant Moncke and Lieutenant Lyon of the assault groups.
+Moncke wandered across the rubble and ash of the compound with Thanh in tow.  “We found that once the outer bot barrier and those blasted red mounds were breached, the rest of the base was essentially swarms of bots.”  He pointed out small piles of smashed bots dotted across the floor of the huge crater.  “The swarms were programmed to gather themselves together and perform certain functions.  We’ve been trying to reconstruct what each swarm did: there were things that looked like domes for energy management…collecting and conditioning all the bots being streamed off, collimated and fed into the sun.  There were swarms for excavating and catapulting material to other sites, probably for expansion.  There were antennas for receiving and converting the streams of bots they were firing off into the sun.”
+Thanh was sobered at the scale of the base.  “And it was all swarms of nanobots?”
+“Yes, sir…all of it.  Nothing solid.  Once inside their barriers, we were able to smash the Bugs with HERF and mag fire.  All that intel we had was pretty accurate.”
+Thanh stopped on top of a low hill overlooking the now-destroyed excavation trenches and catapult.  “I’ll have to check with Captain Dringoth and see how the jumpships are doing topside.  Detachment Alpha has a different nut to crack.”
+
+Twenty-two million kilometers above them, it was Evelyn M’Bela who first saw the local voidtime barrier erupt.
+“Reading possible aspect change on the barrier, Skipper.  Sensors are hopping…convergence angles narrowing—this is the big one--!”
+Dringoth wasn’t surprised.  The Bugs had detected what Assault One and Two had done to their place on Icarus.  Now they were coming to push the Umans out and regain control of their seeding operation.
+“Confirm aspect change,” URME announced from his fire director station on the command deck.  “ISAAC reports an emerging formation, but it’s just inside the sun’s photosphere.  I don’t see how that—"
+“Never mind, URME,” Dringoth said.  “Queenie, give me a hack.  Where are we?”
+M’Bela’s fingers played over her board, checking their position and heading.  “ChronoNav says we’re where we’re supposed to be…I read us as smack in the middle of T-001, sixty-two degrees down by thirty-four degrees left, drifting a bit off center.  URME, do you concur?  I really need to get topside and shoot some stars to know for sure.”
+URME was physically stationed right next to M’Bela on A deck.  “Analyzing now, sir…Captain, detecting massive decoherence wake, dead ahead, forty-two thousand one hundred and five kilometers.  Could be the Coethi…lots of entanglement ripping spacetime around that heading.”
+“Is it the Coethi?”
+“Can’t determine yet, sir.  I’m asking ISAAC for a full sensor sweep.  Disturbance is emanating from inside Sturdivant’s photosphere.”
+Dringoth gritted his teeth, studied his board.  “Right where we can’t reach ‘em.  Where exactly are we?”
+M’Bela tapped a few keys.  “ISAAC puts us still in heliocentric orbit about Sturdivant, but close in…ten million kilometers at best, just skirting the upper edge of the star’s chromosphere. Hull temps rising fast.”
+Dringoth made his decision.  Like they said at the Academy, when you’re in command, command.  “I’m bringing us closer to that disturbance.  It has to be our target.  ISAAC, can you resolve the target?”
+The ship’s AI said back, “Long-range scan indicates that the formation is a diffuse cluster of discrete elements of mean size approximately twenty-five nanometers main dimension…smaller than normal dust particles.  Detecting increased energy levels in certain electromagnetic bands, consistent with assembler activity as we understand it.  Probability that this formation is a swarm of nanobotic elements now approaching ninety-four percent.  Probable Coethi formation now at sixty million, four hundred thousand kilometers, best range.”
+“Coming to rescue their buddies on Icarus, no doubt.  That’s good enough for me,” Dringoth decided.  “URME, bring the collapser on line.”
+URME was stationed at the Temporal Fire Director console at the rear of the command deck.  The TFD1 swarm, still in para-human config, brightened a moment, then noted, “May I remind the Captain that the collapser still has seven outstanding maintenance issues uncompleted. Perhaps a blast of HERF…modifications to the emitter frequency could—”
+But Dringoth wasn’t listening.  “I’m fully aware that we left our Refit too soon.  Get it online, URME. Bring it online now…the best way you can.”
+Golich looked over at the Captain.  “You’re thinking ‘flytrap’?”
+Dringoth watched the target on his detectors grow larger as Cygnus made her approach.  “Exactly.  Commander, we both had the same Temporal Ops instructor at the Academy.  You remember old man Jellicoe.  I can hear his gruff old voice now: ‘Just pinch off a time stream upstream and downstream of the enemy’s position, disrupt his singularity core, then slam the trapped adversary with overwhelming force.  Time jumpers call this a ‘Flytrap.’  The trick to succeeding with this tactic is to be able to out-jump the enemy and fend off any defenses he may have up his temporal sleeve…like singularity disrupters, etc.’”
+Golich swallowed hard.  “As long as it works…and the Bugs don’t have something else up their sleeves.”
+The next few minutes saw Cygnus maneuvering along a tangential approach, dropping lower and lower in Sturdivant’s gravity well to gain speed, come up below the Coethi formation.  The enemy swarm maintained a steady course and there was as yet no repetition of their displacement maneuver, where the Coethi could yank themselves to another place in an instant, just by manipulating quantum states.  But the Bugs stayed just beyond Cygnus’ reach, maneuvering inside Sturdivant’s photosphere.  
+Finally, Cygnus was within range.  URME had gone aft to make sure the collapser controls on E deck were operating as well as possible.  He knew they had had trouble with the weapon recently…misfires, misalignments, not fully pinching off a time stream (that had been an oscillator issue, URME had fixed it himself) and there were others.  And there was still Refit work to be completed.  The Icarus Hammer force had left K-World in a big hurry.  
+“This is a really bad idea,” URME muttered to himself.  If there were any hiccups.  URME knew of the Uman expression ‘holding your breath’.  He had never understood why withholding oxygen from one’s lungs would lead to better outcomes, but it seemed appropriate, though he didn’t consume oxygen the way Umans did.  
+“Collapser on line, Captain,” URME called up to the command deck.  “Green across the board, however I must point out that power is fluctuating outside of operational limits.  There may be oscillator anomalies in the circuit…we should take time to check this out.”
+“Not now,” came Dringoth back.  “Give me what you’ve got.”
+URME pressed SYSTEM ENABLE. 
+Now Dringoth fell back on his training.  Using a temporal collapser was not for the faint of heart.  As Nathan Golich himself once said, “There are about a million things that can go wrong with this stunt.”
+Cygnus fired her collapser.  At once, time stream T-001 shuddered like a coiled snake, jerking spasmodically, thrashing about enough to set Cygnus into a slow roll.  Golich counteracted the force immediately.  Spacetime didn’t like being snapped like a wet towel.  
+M’Bela saw the results immediately on her sensor panel.  “Direct hit, Captain!  You did it!  You sliced and diced the time stream approximately two years earlier along the worldline.”
+Dringoth sucked in his breath and pursed his lips.  “Now to get upstream…maybe two years out.  Give me a hack to that end of the worldline, Queenie.”
+M’Bela was in the middle of wringing computations out of ISAAC when something slammed Cygnus…hard.  Lights flashed on and off and the command deck went dark, with a faint hiss and burning smell thickening in the cabin, before backup power kicked in.
+They were in a spin, increasing in rate and already the crew could feel centrifugal force building up.
+“What the hell--!” Golich’s hands swept across his board, re-setting systems, checking busses and breakers, following diagnostic prompts.  ISAAC’s silky voice was barely audible over the warning klaxons of the Master Alarm.
+“Displacer impact…I am assuming command per emergency protocol E-1…ship systems at degraded level…time stream interface approaching…contact in twelve seconds…eleven…ten….”
+Dringoth disabled ISAAC to prevent the ship’s AI from seizing control.
+M’Bela’s eyes widened at what she had just seen on her scope.  “Virgo got hit with that one too, Skipper.  Scorpio’s okay.  But Virgo…she’s breaking up, lots of debris, debris everywhere—” she swallowed hard.  M’Bela knew jumpers on that crew.  It could have been Cygnus.
+Dringoth and Golich wrestled for several minutes, trying to bring the ship under control.  “Queenie, where’s that formation now?”
+She checked her board.  “Sensors are showing leading edge just emerging from photosphere layer.”
+Dringoth had an idea.  “Let’s play dead, Commander.  Belay all efforts to regain control of the ship.  Let’s play possum for awhile.”
+Golich didn’t like the idea and said so. “Captain, we’ve got to take the shot when we can.”
+“No,” Dringoth willed his hands to lay off the controls.  Eventually, he sat on them.  “No, we don’t.”
+“You mean, we make ourselves—”
+“Exactly.  Bait.  Sit still.  Drift.  If we can pull the Bugs out of the sun’s photosphere, make them expose themselves, we can pull them in range of the Twister.”
+Golich said, “But, Captain…we’re in range too.  If the Twister fires now, while we’re in proximity, while we’re on the same worldline, we’re toast.”
+“Queenie, contact the Twister battery.  Tell ‘em what we’re doing.”
+M’Bela looked up.  “What exactly are we doing, Captain?”
+Dringoth explained.  “Trying to draw the Bugs into range.  If and when we get them in their sweet spot, we jump to another time stream, say well downstream on this worldline.  Twister sees what we’ve done, and Scorpio should be advised too, then blam…Bugs are yanked to the ass end of the Universe.”
+Nobody said a thing, but the skepticism was so thick you could slice it.  “Very well, sir…I’m advising Scorpio and the Twister of our plans.”
+Dringoth let Cygnus continue to drift and even allowed her uncontrolled roll to continue, thrusting only slightly to keep the spin manageable.  
+M’Bela kept her sensors trained on the outer layers of Sturdivant’s photosphere.  What had started as a small formation of Bugs grew steadily as the Coethi cautiously emerged from the protection of the sun’s fiery outer cloak.  
+Golich went aft to watch with M’Bela as a scallop-shaped form lifted away from the star and emerged out into heliocentric space, like a flower budding off petals.  
+He swallowed hard.  “T2 says they must have been seeding the sun for decades.  We didn’t detect it until a few days ago.”
+“Why?” M’Bela wondered.  “Why not just assault K-World directly?”
+Dringoth knew why.  “It’s the Time Twister.  They have no defense for that.  Bugs wanted to make this whole system uninhabitable.  If they could seed Sturdivant with bots and interfere with its fusion process, they could make K-World and all the other worlds unlivable.  A neat plan too, if it works.  We’d think Sturdivant was just dying of natural causes.   Stars do that.”
+Golich was forced to admire the strategy.  “Bugs know all about the Hawking Line.  They know we’re trying to shore up the Alliance frontiers this side of Newton’s Jaw, all along the line of engagement.  If they let us put up a line of Twisters along the frontier, that makes it harder for them to move into Uman space.”  The Commander saw lights blinking on M’Bela’s panel.  “Is that…was that Virgo?”
+M’Bela nodded.  “Yes, sir.  What’s left of them?  Scorpio advises they’re scanning for survivors but don’t expect any.  That displacer round was—” she didn’t finish.  She didn’t have to.
+“We were damned lucky,” Dringoth admitted.  “URME, damage report.  Can we jump when we have to?”
+The Unit Reserve Memory Entity brightened and roiled, waves washing across the outer surface of his swarm.  He did that when he was concentrating.  M’Bela figured he just needed a config upgrade…and soon.  Another Refit job not completed before they had shoved off from Gateway.
+“Barely, sir.  Core’s reading ninety-one percent capacity at the moment.  Chronotrons have suffered some damage, but within operational limits.  Converger is spotty.  We can jump, sir, but I’m not sure how well we can control it.”
+“Copy that,” Dringoth came back.  “Advise Scorpio we’re going to try to jump downstream along this worldline, maybe ten years.  If we lose control of the jump, that should give any rescue parties somewhere to start.”
+Golich heard a beep on his board.  The blinking light told him what he wanted to know.  “Twister battery, sir.  They say the Bug formation’s in range now.”
+That was all Dringoth needed.  “Okay, URME, it’s in your hands.  We’re jumping in ten seconds.  Bring the core on line.”
+URME did that.  “Online, sir.  Eighty-nine percent.  Chronotrons coming up to speed.  Lorentz compensator armed.  Converger has a valid solution.”
+M’Bela was studying the convergence angles of local worldlines.  “I concur, sir.  All rates are nulled.  Recommend maintain current heading.”
+“Very well…give me the count.”
+Golich did the honors.  “Now at six…five…four…three…two…one…mark!” 
+“Execute jump!”
+URME pressed ENABLE.
+“Hold on to your hats, ladies and gentlemen,” Dringoth called out.  “This will be one wicked ride.”
+M’Bela felt a rising stream of vomit in the back of her throat and she muttered to herself, “Girl, African queens do not throw up, African queens do not throw up—”
+At the exact moment of the jump, jumpship Cygnus groaned and shook as if a ferocious hand had just swatted her.  Hull plates bent.  Stanchions squealed.  Shards of something shot across the command deck.  Seats swayed under the tremendous stress, joints cracked, seams burst and anything not bolted down went flying…a sleet of debris pelted them for many seconds.
+“Inflection point!” yelled URME.  “Max q!”
+Then, suddenly as it had started, the roll began falling off and Cygnus seemed to take a breath, as her structure was suddenly released from the bite of converging worldlines.   Dringoth tentatively felt his controls and sensed a reassuring pressure; there seemed to be just enough maneuvering to give him a little feedback at the main console.  Grateful, he pulsed the ship’s flowvaters and planes and she responded, reluctantly, awkwardly, but there was something there.
+“Channel walls, URME…how close are we?”
+The TFD1 checked their heading.  “On course, Captain…right in the middle of the exit pipe…now exiting the distortion cone!  Past max q—now riding the outer bands!”
+Evelyn M’Bela managed to turn her head just enough to take a peek out a nearby porthole.  What she saw nearly made her throw up.
+The light from scores of distant suns had come through the gravitational lens and expanded into a million lights, all swirling and revolving like a slow-motion explosion, a tornado of glass shards caught in a vast floodlight.
+With no more control, M’Bela lost what little she had left of her breakfast.
+“Channel walls, Captain…dead ahead…ten seconds—”
+Dringoth gritted his teeth.  There were about a million things that still go wrong with this stunt.  “Maneuvering’s sloppy…I’ve got nothing here…Give me the count, URME!”
+“Five…four…three…two…one…MARK!”
+Cygnus slammed into the walls of the time stream channel like a rowboat plowing into a monster wave.  
+They had the speed.  URME had confirmed ISAAC’s calculations.  They had the trajectory.  The approach to the inflection point had been precise, gaining them maximum advantage from the jump.  The ship was trimmed as well as she could be, with minimal rates in all axes.
+The question was: could she hold together?  The Coethi had bodyslammed the ship just hours before and somehow, she had held.  But multiple passes through the mouth of the dragon weren’t what the designers of Cygnus had in mind when her shipwrights had welded and beamed her together in the drydock at K-World.
+Dringoth felt his mouth go dry as the ship plunged into the maelstrom.  
+Scorpio and Cygnus were both yanked into the midst of a million tomorrows, careening down the main worldline together.  
+At that same moment, on a promontory above an icy canyon on Gibbons’ Grotto, the Mark I Time Twister discharged its fury.
+Forty million kilometers away, the bulk of the Coethi formation had just emerged from the photosphere of Sturdivant 2180 and was instantly shredded into atom fluff, flung off to the farthest reaches of the galaxy.
+
+Chapter 2: “First Light”
+
+“In the beginning there was nothing and God said “Let there be light.” And there was light.  There was still nothing, but you could see it a whole lot better.”
+
+Ellen DeGeneres									
+Keaton’s World
+Time Guard Headquarters
+Time Stream: T-001
+T-date: T-08-14-2815 CE
+
+After several days of engagement and a few pulses from the Time Twister, the Coethi formation—what was left of it—withdrew back into voidtime and was gone.  For now, the worst was over, the Coethi had been driven off and Uman casualties, beyond the loss of Virgo, were relatively light.  Monthan Dringoth was pleased when Commandstar itself showed up at Gibbons’ Grotto to present a Meritorious Service award to the Battery and the surviving jumpships Scorpio and Cygnus, all of which gave a good account of themselves.  Commandstar remarked, after the ceremony, that more Twisters would be set up as Time Guard built out the Hawking Line from K-World and Sturdivant to Epsilon Eridani and the settlements at Hapsh’m.  1st TD’s work with 2nd TD and the new Twister site at Landfall was noted as exemplary and they would be needed again to train others.
+Commandstar then elliptically ordered Dringoth and his exec Golich to a Headquarters briefing at K-World’s Gibbstown the next day.  Highly classified.  It was to be a new mission, unlike any other mission that Time Guard had ever undertaken.
+
+When Dringoth and Golich arrived at Gibbstown Port and took a Time Guard jetcar to the Big Spleen on the outskirts of town, they were both mightily curious about their orders.  Once scanned in through all the biometrics—fingers, retinal, gait and olfactory-- a sentrybot escorted them to Commandstar’s briefing theater on the sixtieth floor.  
+There they encountered not only Commandstar himself and members of the General Staff and T2, but another participant they had never expected to see again.
+Dr. Wolfus Linx smiled enigmatically at the officers as they took their seats.
+Commandstar was a tall, rangy black man, of athletic build, with bristly gray hair.  He was mildly amused at the astonishment on Dringoth and Golich’s faces.
+“Gentlemen, Dr. Linx has been helping us out for some time here. Take your seats.  By the way, this briefing is eyes only, classified Level 1, SCI-Purple.”
+“Yes, sir,” the time jumpers replied in unison.
+TACTRON, the chief of Time Streams Directorate, was also on hand.  The swarm entity was opposite Commandstar, more or less sitting, well contained with minimal edge effects, and spiffy in his ersatz Time Guard black and gold uni with its single tri-orbital insignia.  
+Time Guard Intelligence was also present, in the person of Jump Commander Tariq Maktoum.  The T2 officer was short, olive-skinned, with black hair and moustache.
+Commandstar wasted no words.  “Captain, your ship Cygnus is even now undergoing special modifications for an upcoming mission.  No doubt, you’ve seen some of this already.”
+Dringoth admitted he had.  “I saw areas cordoned off by dockhands, sir.  I did see the Purple tape, so I knew something was up.”
+“What’s up, Captain, is something we’re calling Operation First Light.  Ever hear of T-9998?”
+Dringoth and Golich shook their heads.  Golich said, “Only rumors and scuttlebutt, sir.”
+“Good.  That’s because Time Guard protects this time stream with special security forces.  In fact, the Alliance has passed strict regulations and laws forbidding any unauthorized entry and transit into and through this time stream.  T-9998 is effectively quarantined from use by order of the Secretary-General.  Time Guard has had this mission for years.”
+Dringoth glanced over at Golich.  “We’ve only heard stories, sir.  Whispers, jumper talk, that sort of thing.”
+TACTRON said, “Research probes have occasionally been sent into T-9998.  But none have ever returned data, signals or been recovered.  Your own mapmakers on old Urth would have labelled T-9998 with something like ‘Here be demons.’”
+“The mission of Cygnus,” Commandstar went on, “is to penetrate T-9998.  Reconnaissance and interdiction…that’s what First Light is all about.  Dr. Linx--?”
+Linx cleared his throat, ran a hand through his thinning white hair.  “Yes, well, the operation is called First Light because T-9998 is a channel back in time, back to the very beginnings of the Universe, back to a time several hundred million years after the Big Bang, possibly earlier if it can be done.”
+Commandstar indicated Commander Maktoum.  “T2 has recently developed and corroborated some intelligence that gives us a reason for sending you into this protected time stream.  Commander--?”
+Maktoum rubbed his moustache nervously.  Golich had the impression that the thing might come alive and leap right off his face.
+Maktoum massaged some keys on the small panel in front of him.  Instantly, the 3-d pedestal in the center of the table sprang into life.  Dancing in mid-air was a cone of space, sprinkled with flecks of lights and a timeline at the base of the image.
+“This is the history of our Universe,” Maktoum explained.  “From the initial singularity to today.  In recent weeks, T2 has been observing some rather unusual movements of various Coethi formations, into and out of voidtime and even through normal space, movements all around the perimeter of the Alliance.”
+TACTRON interjected.  “The pattern of these movements was fed into HAPPE for analysis.”
+Dringoth blinked. “Happy, sir?”
+“HAPPE.  Heuristic Algorithmic Pattern and Prediction Engine.  HAPPE has produced several scenarios that could explain these movements.  The scenario with the best correlation is that the Coethi are somehow using voidtime to go back to the time of First Light, some two or three hundred million years after the Big Bang to somehow affect time stream T-9998.”
+Linx added, “This time stream T-9998 is sometimes called the First Light Corridor.”
+Commandstar said, “Now we don’t know exactly what the Bugs are up to, but Commander Maktoum has some intel that is very disturbing.  HAPPE gives this the best correlation score, based on available data.  It hypothesizes that the Coethi are trying to ‘shepherd’ the primordial elements of the early universe to form early stars, but in a different location and of a different type that actually occurred.  They are trying to alter the small-scale evolution of the Universe.  Dr. Linx here has theorized they intend to develop new stars, seed this part of the Universe in a different way to make what will follow more compatible with their own type of life, maybe even prevent their own birth star from going supernova, billions of years later.”
+Linx explained it this way.  “Run the Universe clock backwards, right to the beginning, and you get to a place that was hotter and denser than it is today.  So dense that the entire Universe shortly after the Big Bang was just a soup of protons, neutrons and electrons, with nothing holding them together. In fact, once it expanded and cooled down a bit, the entire Universe was as hot and as dense as the core of a star like our sun, Sturdivant 2180. It was cool enough for ionized atoms of hydrogen to form. Because the Universe had the conditions of the core of a star, it had the temperature and pressure to actually fuse hydrogen into helium and other heavier elements. Based on the ratio of those elements we see in the Universe today: 74% hydrogen, 25% helium and 1% miscellaneous, we know how long the Universe was in this “whole Universe is a star” condition.”
+ Linx changed the 3-d display to advance time, showing a slightly later period of evolution.  “All this took about seventeen minutes. From three minutes after the Big Bang until about twenty minutes after the Big Bang.  In those few, short moments, a lot happened.
+“The fusion process generated photons of gamma radiation. In the core of our Sun, these photons bounce around from atom to atom, eventually making their way out of the core, through the Sturdivant’s radiative zone, and eventually out into space. This process can take tens of thousands of years. But in the early Universe, there was nowhere for these primordial photons of gamma radiation to go. Everywhere was more hot, dense Universe. The Universe was continuing to expand, and finally, just a few hundred thousand years after the Big Bang, the Universe was finally cool enough for these atoms of hydrogen and helium to attract free electrons, turning them into neutral atoms. This was the moment of first light in the Universe, between 240,000 and 300,000 years after the Big Bang, known as the Era of Recombination. The first time that photons could rest for a second, attached as electrons to atoms. It was at this point that the Universe went from being totally opaque, to being transparent.”
+Commandstar brought the discussion back from outer space to the particulars of the mission.  “Captain, we’re sending you and the crew of Cygnus back to this time period.  But you’re being equipped to enter voidtime and make the transit inside voidtime.”
+TACTRON said, “We’re not certain how navigable T-9998 is, at least back to the time of First Light, so voidtime is the only sure way to go.”
+Dringoth had a question for Commandstar.  “What exactly will Cygnus be doing, sir?”
+“Just this: surveillance of the Coethi, intel on their mission and interdiction up to and including destruction of the Coethi force if their mission turns out to be hostile to the UA.  And Dr. Linx is assigned to your crew as Science Officer.”
+Dringoth and Golich just stared at each other.  There were no words that could match the magnitude of what was being planned.  Finally, Dringoth regained his bearing.
+“What about my ship?”
+TACTRON had the details.  The 3-d display was wiped clean, to be replaced by rotating schematics of Cygnus and all the refit work being done on her at Gateway.
+“Since we don’t believe Cygnus can navigate T-9998 safely back to the time of First Light, we’re modifying her to operate safely in voidtime.”
+“My crew will need training on this,” Dringoth pointed on.
+Commandstar agreed.  “That’s why we’ve already arranged for your crew to shuttle down here and begin school at the War Lab at 0700 hours tomorrow.  You’ll be with them, Captain.”
+TACTRON went on, his outer swarm only slightly throbbing with annoyance at the sidebar discussion.  “Special navigation equipment is being installed right now.  Dr. Linx is helping us with this.  Commander Maktoum’s T2 shop will be providing accurate coordinates for Cygnus to drop out of voidtime into T-9998 and pursue the Coethi force we think will be there.”
+Commandstar smiled.  “And you’ll like this little trick, Dringoth.  Cygnus’ collapser is being modified to operate from within voidtime.  If it proves out, you can pursue Bugs from within voidtime, pinch off a time stream and get away, all within voidtime.”  He sank back in his seat proudly.  “Never been done before.”
+Discussions and details proceeded for another hour.  Then Commandstar called the briefing to a halt.
+“Get back to Gateway, Captain.  Get with your crew.  You’re authorized to provide basic details but the ultimate purpose of Operation First Light must remain sealed until twenty-four hours after you’re underway, in voidtime.  Is that understood?”
+“Understood, sir.”
+“Very well.  This briefing is over and you’re dismissed.  Details of your orders, rules of engagement and all the tactics, techniques and procedures for your new equipment will come over the next few weeks.”
+Dringoth and Golich saluted their way out of the briefing and returned to the Skystalk outside Gibbstown.  They waited for another car to appear.  
+Golich stared up at the length of the tower, disappearing into thin, dusty clouds above the town.  The trip up the Stalk would take several hours, straight into Gateway Station at the other end.
+“Captain, I don’t mind telling you this operation strikes me as a one-way trip.”
+Dringoth had a bad feeling about it as well.  “Possibly.  The intel seems legit, though.  Bugs are up to something, that much seems certain.  We blew apart their little seeding operation inside Sturdivant.  Now, they’re going bigger.  I guess extraordinary measures have to be taken, given the stakes.”
+Golich shuddered slightly.  “I don’t know…taking Cygnus into voidtime…that just gives me the creeps.  She was never designed for that.  And spending how many days in voidtime, no idea where we are or where we’re going.  I can see the headlines now: heroic jumpship lost, cause unknown, crew missing.  We’ll all be heroes, probably wind up with our names engraved on the Wall of Fame at the Academy.”
+“You could be right.  But I would like to see some of these mods they’re making to the ship.”
+The passenger pod arrived, hissing to a smooth stop at the debarkation station.  Dringoth and Golich were alone with a single other passenger…a female Gateway engineer, who seemed absorbed in something on her wristpad.  
+Golich watched grimly as clouds slid by the climbing car, followed by a purple glow, then the black of space. Nobody said a word for the entire three-hour trip.
+
+One of their first tasks was to make sure the Time Twister installed on Gibbon’s Grotto was manned properly by 2nd Time Displacement Battery.  Once that was done, and all logs signed off, 1st TD departed Gateway for War Lab school on the ground, a training operation buried deep inside the Big Spleen, screened off and isolated from all traffic inside Time Guard Headquarters.  
+Here, Cygnus’ crew: Dringoth, Golich, Yang, M’Bela, Acth:On’e and URME, along with their new science officer Dr. Linx, underwent a grueling two-week regimen of classroom and lab work, re-learning details and practicing procedures on all Cygnus’ modified systems.
+It was like learning to walk all over again.
+Golich and M’Bela would have the honors of navigating Cygnus through voidtime and determining when the ship should exit into the First Light Corridor.  And the more Dr. Linx explained current theories about what they would probably find, the wider M’Bela’s eyes got.
+“You mean to tell me…” she complained to her instructor one day, a gaunt red-haired gnome whose name patch read Finley, “…that even with the ship pulsing her little heart out, I can actually read these infinitesimal fluctuations in voidtime and figure out where I am…?”  M’Bela put her hands on her hips.  “No way, Finley. Really--?”
+Finley nodded energetically.  “Yes, ma’am, Jump Master M’Bela.  It’s true.  All we’ve done here is soup up your sensors to react to vacuum fluctuations, quantum-scale perturbations.  In a normal time stream, you navigate by measuring worldline convergence, all those angles, right?”
+“Uh, yeah…that’s right.”
+Finley was warming to his explanation.  His eyes shone with excitement that only a temporal engineer could feel.  “Well, we can’t detect worldline convergence in voidtime.  So instead, we look for minute little ripples in the vacuum, right down to almost Planck scale, where quantum effects prevail.  With this little gizmo—” he proudly patted something that looked to M’Bela like one of the beer taps at The Lucky Dinar in Gibbstown.  “—we can measure those ripples, their amplitude and frequency.  And inside is a little processor that knows how to interpret them.  When you know how to read and interpret voidtime fluctuations, we can put you within a few zillionths of a second right where you need to be…pop out of voidtime when the readings are right and, voila! you’re right there in the land of First Light.”
+M’Bela just shook her head.  Right where nobody in his right mind would ever want to be.  But she didn’t say that.
+Aboard Cygnus itself, Golich and URME were keenly interested in finding out how the ship’s new collapser could be fired effectively from within voidtime.
+It was Dr. Linx who explained it.  “What a device, gentlemen.  I never dreamed there would be such a thing…imagine it: being able to pinch off a time stream and trap an enemy.  In my time, we weren’t even sure there were such things as time streams.”
+Golich sniffed.  “It was your singularity drive that got Trivandrum back home, Doc.  Now tell me how we can use this thing to pinch off time streams from inside voidtime…I’m having trouble buying that myself.”
+“Well, as I understand it…and as your techs have explained it to me, it all starts with understanding what voidtime really is…a kind of inside-out time stream where time doesn’t flow at all, a kind of extended temporal singularity, like being stuck in a big pipe at the bottom of an ocean.  Except this big pipe is permeable to certain kinds of signals.  Here, I’ll show you—” Linx led them down the gangway to Cygnus’ E deck.
+
+Two weeks of twenty-four hours days followed.  Gateway was a beehive of activity as Ops, Engineering, Munitions, and other departments bent to the task of fleshing out the jumpship’s refit and the details of the mission that would follow.  Dringoth himself routinely put in eighteen and twenty-hour days, working at times in the Sim Tank wargaming every possible detail of the mission, studying topographic details of the known time streams, arguing with engineers and machinists in the shops over the ship’s design and fittings and working with techs at the labs to optimize the ship’s singularity engine for traversing time streams that no one had ever followed before.   
+As Midtober rolled into late Noraster, Commandstar’s promised deadline evaporated as surely as the late season snows atop K-World’s highest peaks below. Through daily briefings and unannounced strolls through the labs and shops, Dringoth could see that the whole compound was mobilized to support the First Light mission.
+They’re good kids, he told himself after one late afternoon inspection of the ship, now encased in scaffolding and catwalks inside space dock at Gateway’s Hangar C.  They’ll get the mission accomplished, one way or another.  
+He thought grimly as he drifted back to the glass cube of the Ops center.  They have to.  There’s too much at stake to fail now.
+Bit by bit, beams and spars and panels and struts and framing came together and the renovated jumpship gradually took shape inside the hangar. By the second week of December, she was powered up for the first time and Dringoth and her crew tested her for fit and function, exercising her flow vanes, propulsors and cycling the singularity core on and off.
+The lead engineer was a ruddy-cheeked sunburned K-Worlder named Murchison, with scarred hands and a booming voice.  He climbed up onto the command deck and sat beside Dringoth in the cockpit, while a trio of electricians pulled wiring bundles through the forward consoles.
+“She’ll be ready for maneuvering exercises, next week, Captain.  We’re stripping down the hangar bay over the weekend.  Your crew ready?”
+Dringoth, like any good jumpship skipper, had always enjoyed burying himself in the details and was checking off switches and buttons against a diagram he had spread across his knees.  “We’ll be ready, Murch.  I just have to clear it with TACTRON.  Are you going to load a live singularity core aboard for the test?”
+Murchison nodded.  “Soon as the engineers okay the test core, we’ll load her up and put her to work.  The test conductor has already laid out a course for you…some local time streams and some further out.”  He handed over a map of the test flight to Dringoth.
+The Captain studied the test course for a few moments, following the track through the time streams with his finger.  The route would take the jumpship from her launch point at Bay 2, along a serpentine route across time streams T-001 and T-002, eventually diving through a known temporal anomaly called Newton’s Jaw.  The test then had the ship circling through several known rifts and time shoals, tunneling her way across multiple substream eddies at a ‘depth’ of two days into the future, before circling back toward the hangars at Gateway.
+“This should put her through her paces, Murch.  How’s she coming along?”
+Murchison shrugged, pulled out a small tablet and checked files.  “Power plant full-up test this afternoon, Captain.  We’re still tracking down a current leak in the batteries, but that should be fixable.  Tomorrow, we hang her vanes and motors on; they’re powered up in two days.  It’s tight but we’re getting there.”   The chief engineer shook his head ruefully, patted the instrument panel and played with her controls like a child.  “I don’t mind telling you, Captain…up until a week ago, I never thought all these extra contraptions would work.  I mean…look at her…it ain’t natural doing what she’s doing, going where she’s going.”
+“You mean splashing around time streams like a…kid in a sandbox?”  Dringoth chuckled.  He went on. “The way I look at it, maneuvering through time is no different than maneuvering through air or water,” he lied.  Or, for that matter, through atoms and molecules.  “It’s just another medium.  Time Guard has to stay focused on the mission, on the target.”  He squeezed the control stick affectionately.  “This baby’s just our ride to the show.”
+Murchison was already climbing down from the command deck, off to check on some parts in the shop.  
+“I’ll make sure she’s a good ride, Captain.  Don’t you and the guys worry none about that.”
+
+For nearly two weeks, each crew member had relearned and practiced new procedures with every one of Cygnus’ modified systems.  Finally came the day when she was pronounced ready to depart.
+Commandstar himself, escorted by TACTRON and a bevy of junior officer-sycophants showed up to revel in the moment.
+Launch day dawned bright and clear across the Sand Sea of Keaton’s World, two hundred kilometers below them, the sun Sturdivant 2180 shining down its hard, bright ruddy light on dune hills that never ceased their restless heaving.  A dust storm boiled across half the Sea, nearly obscuring the towns and villages that bordered the vast desert.
+Inside the hangar bay, jumpship Cygnus waited in her cradle.  Inside Cygnus, Jump Captain Monthan Dringoth sat apprehensively in the CC1’s seat on the command deck, silently watching the chronometer count down the last few moments.  Cygnus had a competent well-trained crew of six.  He had no doubt about them.  But she also had one extra crew member: newly minted Science Officer Dr. Wolfus Linx.
+Cygnus’ sensor tech, Jump Master Evelyn M’Bela seemed to read his mind.
+“Your face can’t hide it, sir.  I’m thinking the same thing.”  She nodded in the direction of the vid showing Linx’s anxious face, down on E deck.  “You wonder how he’ll react.  This was never a good idea, sir.”
+Dringoth shrugged.  “Probably not, but orders are orders.  Where we’re going, we may need his expertise.”
+“No one’s ever been where we’re going, sir.”  Immediately, she wished she hadn’t said that.
+Dringoth took a deep breath.  “Like Golich says, there are already about a million things that can wrong with this stunt.  Let just focus on what we can control.”
+For launch, Cygnus had been moved to her launch cradle outside the hangar bay, now fully exposed to space.  Dringoth checked his board.  All green, all copacetic and no flags. Cygnus had been powered up several hours before, her MHD power plant and singularity core ticking over, humming, now sending a slight shudder through her hull.
+“Ready all systems…stand by for final check and all-call.”
+One by one, the crew came back.
+“Ready, Search and Surveillance.”
+“Nav is go!”
+“DPS1 ready.”
+“TM1…yo and go!”
+ “Propulsors on line…ease her out, Commander Golich.”
+Cygnus lurched as her MHD jets opened up to one-quarter throttle and she slipped her ways and surged out into open space beyond Gateway.  
+“Answering one-quarter, handling nicely, CC1.  Nulling residual rates now.”
+“Steady as she goes…steer course zero eight eight.  TS1, how do we look?”
+M’Bela checked her boards and instruments.   Active sensors were pinging all around, showing up specks and chirps on her waterfall display.  “Some traffic, CC1, but we’re clear on this heading.  Recommend maintain speed and course.”
+“Very well.”  Dringoth opened up the 1MC to talk to the others.  “Cygnus now underway on propulsor.  We execute first jump in ten minutes.  TM1, advise status of singularity core.”
+Acth:On’e’s voice came back.  “Core on line and ticking at sixty-five percent.  Deco wakes in the green, entanglers humming.  She’s ready for action.”
+Cygnus closed the distance to the planned jump point in nine minutes. 
+So far, so good, Dringoth muttered to himself.  Hope the dockhands did their jobs.  
+It was Wolfus Linx back on E deck, slightly green and tight-lipped next to Acth:On’e and Alicia Yang, who noticed the first effects of the singularity core coming online.
+Linx had drifted off into a light doze when a faint tug on the side of the craft startled him awake.
+“Something’s happening—“
+Alicia Yang, the Defense and Protective Systems tech, patted Linx on the knee.  “Patience, Doc, patience…this is normal.  Just relax, okay?”
+“I don’t know, but it feels like we’re moving sideways.”  Linx plastered his nose to the porthole, trying to make something out.  “It’s awfully bright out there.  We seem to be tumbling too.  You feel that?”
+Some kind of force was pushing them sideways.  At the same time, the compartment picked up a light shuddering vibration, gyrating like a top at the end of a string.
+“Yeah…we’re already inside the initial vortex fields…that’s what’s happening.”
+Linx gripped his seat so hard his knuckles turned white.  “…everything’s rushing sideways, dirt, pieces of things…I can’t really make it out.”
+“Relax, man…just enjoy the ride.  It’s better than an E-ticket.”
+The force began to increase, a centrifugal force that soon shoved them to one side of the compartment and pressed them hard against the walls.  Worse, the compartment began a slow roll, a rotation that didn’t remain slow for long, but picked up rate at a steady clip.
+Soon, they were spinning enough to become slightly disoriented and dizzy.  
+“Now, it’s my stomach…I don’t feel so—“
+Linx’s words were suddenly lost in a bright flash of light, a searing, painfully white strobing light that flooded the compartment and blinded all of them.
+“Rudder amidships!” Dringoth ordered.  He thumbed a small dial, straining against the centrifugal force.  “Flow vanes to thirty percent!”
+The spin kept accelerating and moments later, Dr. Wolfus Linx passed out.  Even Yang found it harder and harder to focus on her panel, her view steadily graying out in a tunnel rapidly narrowing.
+Two hundred kilometers below, on the surface of K-World, early morning strollers along The Big Spleen’s upper promenade decks were treated to an incredible sight above them, just before dawn.  Backlit with the orange glow of sunrise to the east, an eerie starburst of light exploded several kilometers beyond the horizon, visible as far south as the northern shores of Loch Lithgow, now shrouded in a dingy veil of dust.  As the starburst expanded and skipped across the horizon, a bright pulse of light emerged from the center and burned a hole in the sky, leaving only faint trails of fading light pulses showering down through the early morning haze.
+The light pulses disappeared into low-hanging clouds and vanished, leaving only a faint iridescent flicker, like a silent lightning discharge.  
+Moments later, the dim outlines of the starburst were gone and the Great Sand Sea returned to its restless heaving.  
+Unknown to the staff workers who filled the Big Spleen every day, the crew of jumpship Cygnus had just been catapulted into the whirling heart of the singularity she had created, ripping open the very guts of spacetime itself.  Caught in a roaring, crashing river of infinite eddies and currents of time, they rode the dragon’s tail until Jump Master M’Bela saw her display light up green and called bingo.
+At her signal, Monthan Dringoth slammed Cygnus’ flow vanes out full and punched the ship hard over, right into the faint, barely perceptible fingers of voidtime.  Like a cocked fist, voidtime grabbed them and yanked them out of the mainstream and into the midst of a million tomorrows.
+After that, Dringoth slumped back in his seat and let the black hole of unconsciousness wash over him.
+His last shred of a thought was the hope that jumpship Cygnus had somehow managed to successfully complete the maneuver and were now on their way to the programmed coordinates, their entry point into T-9998, their entry point to a time before Time itself. 
+
+Physics tells us that mass affects the flow of time. Because of this, Time Guard jumpships have to navigate around large masses to stay in the primary time stream or accept that their transit speed and time will vary according to how close they pass near to large masses, like stars or black holes.  Often navigation charts and courses are plotted to steer clear of known mass concentrations, just as a kayaker in whitewater would steer clear of hydraulics or rocks in a stream.  Other routes are plotted to take advantage of known time stream effects and make quicker runs to common destinations.  
+In the late 28th century, a new temporal phenomenon was discovered called voidtime.  Certain extreme singularity core conditions allowed a jumpship to enter a time stream and yet flow as if it were literally “outside of time”.  Voidtime was a place where time did not flow, nothing aged or deteriorated, a sort of featureless ether that was nonetheless traversable using pulsing features of a jumpship’s singularity core.  Some physicists had theorized that voidtime was like a black hole turned inside out, a place and time where normal laws didn’t apply.  In historical terms, voidtime could be considered to be like an ancient sailing ship becalmed in the doldrums, unable to go anywhere, but able only to drift with the prevailing currents.  Now, with singularity pulsing as a possible technique, it was theoretically conceivable to traverse voidtime, though speeds and navigation accuracy were less than occur in a normal time stream.  
+There were always sound tactical reasons for Time Guard to explore and try to utilize voidtime, for a ship in this medium was effectively outside of time and undetectable.  Time Guard continued to explore and chart voidtime as a way of gaining military advantages over enemies such as the Coethi, who also had perfected temporal travel as a technology. 
+
+When he came to, Monthan Dringoth felt the difference.  It wasn’t on instruments.  The panel was dark, the ship’s sensors detecting nothing, for there was literally nothing to detect outside.  But he could still feel something.  
+From somewhere deep in his memory, Dringoth heard a voice…was it old man Jellicoe again?  Lecturing on time in that gruff, hoarse voice that reminded Dringoth of the grunts of cave bears on Gibbons Grotto:
+“Listen up, jolts…there is no single time: there’s a different duration for every trajectory and time passes at different rhythms according to place and speed.  It’s not directional; the difference between past and future doesn’t exist in the equations of the world.  Its orientation is merely something that appears when we look at things and neglect the details.  It’s a blurred view of existence.  In this blurred view, the past of the universe was in a curiously particular state of entropy…low entropy.  The notion of a present doesn’t work either.  In this universe, there is nothing, beyond higher entropy, that we can call the ‘present.’  The substratum that determines the direction of time is not independent, different from other things that make up the world.  It’s an aspect of a dynamic field.   It jumps, fluctuates, materializes only by interacting with other things and is not found beneath a minimum scale…the Planck scale…you’ve got to deep-six your watch, you got to try and understand…the time it seems to capture is just the movement of its hands….”
+Dringoth shook himself awake and smiled ruefully.  You had to love old man Jellicoe.  He felt more than heard the stirrings of others behind him.
+Golich sat up in his seat groggily.  He stared bleary-eyed at his console and said what no one wanted to hear.
+“Well, here we are…in voidtime.  Queenie, can you get a hack…figure out if we’re where we’re supposed to be?”
+Evelyn M’Bela checked ChronoNav.  “Sir, if I’m reading this gadget like they trained me…I really have no idea.  There’s a fluctuator at the heart of this gizmo…it’s supposed to be reading tiny vacuum fluctuations in space, even picking up string vibrations.  When it all reaches a certain intensity, that’s when we punch out of voidtime.”  She sat back, slightly exasperated with her own explanation.  “That’s what they told me.”
+Dringoth figured as much.  “Very well.  Let’s get to work.  Check every system, run tests and verify we’re in readiness to punch out of voidtime when the time comes.”
+Several days passed in similar fashion.  The crew of Cygnus told stories.  They told dirty jokes.  They sang songs.  Inspected every inch of the ship, re-calibrated every system, every instrument, cleaned things that didn’t need cleaning…all to stay sane, while the ship picked up speed, now caught in the grasp of the narrowing voidtime corridor, the result of temporal contraction as they cruised back in time toward the very Beginning of Time itself. 
+Dringoth set up alternating shifts at the critical functions: navigation, maneuvering and the core.  One person would be off-shift at any given time, resting, checking other ship systems, and trying different comm and signal channels, watching sensors for any appearance of the Coethi.
+Six hours in, Evelyn M’Bela found herself on the command deck with Nathan Golich.  Dringoth was off-shift, probably in the mess compartment or his bunk.  URME was still in the tailpod, monitoring the core.  Linx had buried himself in Engineering, devouring the ship’s technical documentation.
+M’Bela was curious about why and how Golich had wound up in Time Guard.
+“You’re a K-Worlder, aren’t you, Commander?”
+Golich was watching some old vid on his wristpad.  “Born and bred.  Nomad Township.  My father was Kennard Golich, deputy mayor of Nomad and formerly a life-support-systems engineer.  Mother was Mariska Golich, pilot-officer aboard one of many airships—you know, the skyships-- that ply the skies of K-World between communities.  I’ve got one sibling: my sister Naomi.  Nowadays, she’s a master chef at one of Nomad’s best restaurants…the floating restaurant Tsunami, which drifts about K-World’s one large body of water…Loch Lithgow.”
+“I remember it.  You always wanted to be in Time Guard?”
+Golich sniffed, paused his vid and turned around in his seat. M’Bela was at her station, the TS1 station, Search and Surveillance.  
+“Hardly.  When I was 11, Mama was caught in a bad fire--a severe type known as a Level 2 flamer--while aboard a skyship cruising toward town.  The ship caught fire and went down in the Loch with no survivors.  I was pretty devastated.  To this day, I guess I associate the Loch with the death of Mother.”
+“Hey, I was reading your bio the other day—you know, crew manifest and all.  URME was doing his psych workup and I sweet-talked him into giving me a few details.  Strictly non-reg, but you know how URME is. You joined the Sky Service right after your mom died.”
+Golich closed his eyes, remembering.  “I did, until the day I had my own accident.”
+“Oh…I didn’t hear about that.”
+Golich shrugged.  “Just as well.  I barely survived a skyship encounter with a flock of arachtyls over the Sand Sea and went down, lost for days in ‘The Dunes.’  One of the passengers, Amanda Kilgorlee, was a nurse who also survived. She managed to nurse me back to health as we waited for rescue.  After the incident, we became romantically involved and a year later, we married.  Then we lived for three years in Nomad, later Sabra Township, while I recovered and went back to work for the Sky Service and Amanda worked at a local hospital.  Wasn’t too long before we had our first child, Kylie.  She became the love of my life.”
+M’Bela had seen something on her board, but it was just a stray rock drifting by.  “No Coethi,” she explained.  “Then it was on to the Time Guard?”
+Golich said, “Not exactly.  I shouldn’t be telling you this, but what the hell: we’re in voidtime and URME’s back in the tailpod.  If he hears I told you this, they’ll cashier me out of the Guard in a heartbeat.”
+“Tell me what?”
+Golich lay back in his seat and stared at the baffling on the ceiling of the command deck.  The memories came flooding back, real as if they had just happened.  His voice was thin and soft.
+“I had just turned thirty.  Still flying for the Service, I came home one night to our bungalow in Sabra to find both Amanda and Kylie dead, murdered by some mentally disturbed villager named Henzik Tavoy who had gone on a rampage that day and killed several people, before being terminated by killbots just outside the village.”  
+“I was…oh, I don’t even know how to describe it.  There aren’t any words.  Devastated, empty, bereft, what can you say after something like that?  Kind of my own personal voidtime, I guess.  I went back to work—what else was there to do? But I nearly caused a lot of accidents as a skyship pilot and finally the Service had to ground me for my own good and the safety of passengers.  For months, after I was disabled out, I moped around the village, took long dangerous trips into the Sand Sea, hoping to be killed myself by mesodonts and generally showing little desire to live any longer.  
+“It was a sandseer—you know, one of those hermits who live in the desert, who befriended me one night and kind of nursed me back to health, then put me to work for several weeks as a helper.  It was from this sandseer that I got the idea of joining Time Guard.  I needed to get away from Keaton’s World and from myself.  The sandseer had prophesied this very decision, saying “that which is lost cannot be found…until it is discovered.”  The mysterious saying made no sense to me until I learned that Time Guard was hiring.”
+M’Bela was sympathetic.  “I can’t imagine—maybe you shouldn’t be telling--"
+“No,” Golich held up a hand.  “No, I need to say this…and to somebody other than URME.  I found out that to join the Guard, I’d have to make my way to Urth and apply and take a physical.  The journey would take about two years by torch ship, but the sandseer made me see I had nothing to lose.  So I boarded the Frontier Corps ship Columbo, went into stasis for two years and awoke to find myself at High Gate Station in Urth orbit, entering Time Guard’s Recruit Center.  I applied, passed the physical and was sent on to the Time Guard Academy, back then, it was at Lunar Farside, shortly thereafter.  And here I am today.”
+M’Bela smiled.  “Stuck in voidtime again.  You think we’ll ever survive this trip, Commander?”
+Golich spread his hands.  “Who knows?  Some writer I read in Net Tutor school once said, ‘The past is never dead.  It’s not even past.’  Maybe we can’t escape who we are.  Me, I’d rather take my chances flying through voidtime than going back home again.”
+M’Bela gave that some thought, watching on her console another round of pulsing from URME back in the tailpod.  “He’s still finagling with the core, looks like.  I hope URME knows what he’s doing.”
+“Well, we can’t be any worse off than we are.  How about you, Queenie?  I’ll bet you were always a Time Guard groupie.  When I was in the Academy, the jolts used to make up stories about people like you.”
+“Commander,” M’Bela showed him a face of mock disgust.  “Really…I was never a groupie, not the way you think.  And, by the way, I really hate that nickname Queenie.  Sounds like somebody’s pet cat.”
+“Sure thing, Queenie…so spill it already, since we’re both violating out psych workups at the same time.  Your ancestors really came from royalty?  Or is that just jolt-speak for ‘playing hard to get’?”
+M’Bela took a deep breath.  “It’s not like that at all, Commander.  I’m a K-Worlder, just like you.  Village of Douala.  My father was Eric M’Bela.”
+“The councilor Eric M’Bela?”
+“The one.  Delegate councilor with the Free Council of Douala and a trained chemist too.  Later, he became General Secretary of the Delegate Assembly for all of Keaton’s World.  My Mother was Salwan M’Bela—she’s gone now-- one-time freighter crewperson with Frontier Corps cycler corps, cycling between all the planets and those thousands of satellites and moons around Sturdivant.  I have two sisters, Amanda and Larissa, and two brothers, Patrick and Kano.”
+Golich watched his instruments as URME’s pulsing ceased abruptly.  He checked ship’s trim, tweaked something and turned back around in his seat.  “Your family really came from African royalty, back on Urth?”
+“My father often read me stories of the great warrior princes and princesses of our ancient Igbo forebears back on Urth.  Cameroon. He even told me I was a direct descendant of Dzugudini, the Rain Queen of Lovedu and that she had great, even magical powers.  One of my prize possessions was a necklace of cowrie shells said to have been handed down from the hands of Dzugudini.  In this period of my life—I was maybe fifteen, sixteen, I became intensely interested in all things Igbo and I was constantly being reminded by my father of our royal background and illustrious heritage.  He warned me to honor that heritage, to honor Dzugudini.  He always said things like: “Ura ga-eju onye nwuru anwu afo,” which means “A dead person shall have all the sleep necessary.”  In other words, “keep our heritage alive in your heart and never forget who you are.”
+“That’s why we call you Queenie.”
+“I guess…not my favorite name.  I didn’t want to go into politics, like my father.  It was my mother who prompted me to get away, try something new and still find a way to live my heritage.  So, I shipped out from K-World and here I am.”
+Golich nodded.  “Every jumpship needs some royalty.”
+An insistent beep interrupted them.  M’Bela frowned at her panel.  “If I’m reading this right, we’re pretty close to the correct fluctuator reading…we may be pretty close to our punch-out coordinates.”
+Golich sat up abruptly.  “I’ll get the Captain—”
+Moments later, Dringoth showed up and took his seat on the command deck.  He got on the 1MC.
+“All hands, take your stations.  Prep for voidtime exit.  Secure loose items and hold on.  Commander--?”
+Golich had the controls.  “Executing jump in ten seconds, on my mark…nulling all rates.”  Under his deft hands, Cygnus centered herself in the voidtime channel and zeroed out all motions in each axis.    
+“URME, go to eighty percent on the core.”
+URME’s voice came back, crisp and professional.  “Answering eighty percent, Control.  All twist buffers cleared, chronopods aligned and temporal inverters are online.”
+“Very well…five seconds to jump.   Four…three…two…one…mark! Executing NOW!”
+Cygnus rattled and shuddered as she plummeted through the voidtime corridor walls, shaking like a wet dog as she shed convergence and the resistance that had been building up inside the channel.  Now free of voidtime, the jumpship plunged ahead, hopefully into the rushing, crashing maelstrom of time stream T-9998.
+Into the corridor of First Light.
+M’Bela kept her eyes glued to ChronoNav and the fluctuator readings.  “Right on the money, Commander.”
+“This should be it,” Dringoth muttered.  Involuntarily, he squeezed his seat handle hard, his knuckles turning white.  
+Cygnus rocked a bit as Golich struggled to trim out any perturbations.  He told URME to bank the core and opened up her MHD throttles a bit, to give them more way.  
+“Flow vanes to max,” he muttered and as her planes bit into the time stream, all of them lurched forward in the abrupt deceleration.
+It was M’Bela who took the first glance out a nearby porthole, after ascertaining they were still on the proper fluctuator reading.
+“My God—” she breathed.  “My God, look--!”
+Dringoth chanced a peek.  Outside his portside window, nothing was visible.  An opaque haze washed out all details.  Where once, there might have been stars and galaxies and nebula and pulsars, now there was only haze, bright, featureless except for small eddies, but glowing and throbbing to some unknown rhythm.  Faint and dim pinpricks of light speckled the glowing fog.
+Four decks below, Dr. Wolfus Linx was beyond words.  “I never dreamed…we’re in it, don’t you see?”  He grabbed Acth:On’e by the shoulders.  “We’re right in the middle of it.  The primordial plasma. The quark-gluon soup.  We really did it! The First Light Corridor.”
+Like lightbulbs in a dark hallway, the baby Universe was turning itself on.  
+
+Chapter 3: “Leviathan”
+
+“Here we are, trapped in the amber of the moment.  There is no why.”
+
+									Kurt Vonnegut
+
+First Light Corridor
+Time Stream: T-9998
+T-date: Unknown
+
+Thanks to Wolfus Linx, the crew of Cygnus had at least a faint understanding of what they were looking at, what they were experiencing.  They had traveled back in time, through the voidtime corridor, to a time 250,000 years after the primordial Big Bang, when photons could first blast their way across the cosmos and the Universe was shedding her veil, no longer opaque. Neutral atoms were forming.  Photons were decoupling from matter.  
+First Light had come to the Universe.
+There were no stars yet, no galaxies, only space itself and a brightening superheated plasma glow from all directions.  It was like flying through a bright fog, a fog slowly but surely thinning out.
+“I can’t see a thing out there,” Golich commented.  “It’s like riding a subskimmer below Loch Lithgow on K-World.”
+“There are no stars yet,” Dr. Linx said.  “No galaxies, no planets, nothing but this.”
+Dringoth was concerned about their position.  “Queenie, check our coordinates on punch-out.  Did we exit voidtime at the right coordinates?”
+Evelyn M’Bela studied her board.  “Well, there aren’t any convergence angles in voidtime.  But based on the fluctuator readings, I’d say we’re right on the money…right where Intel showed the Bugs might emerge.”  She looked up.  “I don’t think we can be any more accurate in navigation than this.”
+“But where are we?” Golich asked.  “And when?”
+Linx studied the view out a porthole.  “There are all kinds of theories about what this era would look like.  My guess is we’re in the time of recombination.  The time of photon decoupling.”
+Golich just shook his head.  “They didn’t teach this at the Academy, Doctor.”
+Linx tried to explain.  “The best theories of cosmologists talk about this time, right after the Big Bang.  At this point, the universe was a hot, dense plasma of photons, leptons, and quarks: the Quark epoch. At 10−6 seconds, the Universe had expanded and cooled sufficiently to allow for the formation of protons: the Hadron epoch. This plasma was effectively opaque to electromagnetic radiation due to something called Thomson scattering by free electrons, as the mean free path each photon could travel before encountering an electron was very short. This is like the current state of the interior of our Sun.  As the universe expanded, it also cooled. Eventually, the universe cooled to the point that the formation of neutral hydrogen was favored, and the fraction of free electrons and protons as compared to neutral hydrogen decreased to a few parts in 10,000.
+“Recombination involves electrons binding to protons or hydrogen nuclei to form neutral hydrogen atoms. Because direct recombination to the ground state…the lowest energy state…of hydrogen is very inefficient, these hydrogen atoms generally form with the electrons in a high energy state, and the electrons quickly transition to their low energy state by emitting photons.”  Linx shrugged.  “I think that’s what we’re seeing now…photon decoupling.”
+Dringoth considered that.  “We’re the first people to ever see this.”
+“Somehow, that doesn’t make me feel any better,” Golich said.
+Dringoth checked his console.  “We do have maneuvering with propulsors, at least.  Queenie, do a full sweep, all sensors.  I want to know what’s around us.”
+M’Bela complied, studied her scans.  “Sensors showing nothing at all, Captain.  EMs, thermal, radar, no point sources.  Just this diffuse glow, like we’re in a fog.”
+URME spoke up from his station, the Temporal Fire Director console.  “I’m seeing something, Captain.  Quantum effects.  It’s very slight and I’m trying to narrow it done.”
+Dringoth was instantly alert.  “What is it, URME?”
+“Quantum wake, sir…decoherence wake disturbance.  Just popped up.”
+Golich snapped his fingers.  “Hundred to one, that’s our friends.  Bug swarms ripple spacetime like that.”
+Dringoth left his seat, and went aft to see for himself.  “Show me.”
+URME manipulated the display and an amorphous blob centered on his scope, very faint, first there, then not there.   “Could be Coethi, sir.  ISAAC has already made a match on the signature.  It’s a pretty common reading for Coethi formations…just very faint.  Probably some kind of singularity drive, pulsing to maneuver them around.”
+Linx said, “The plasma may be distorting the returns.”
+Dringoth told Golich.  “Steer toward that source.  Half propulsor.  It’s all we’ve got to go on.”
+Golich took manual control of Cygnus and made a slight adjustment to their heading.  “ChronoNav is no good in this stuff,” he muttered.  “I’ve got no landmarks, nothing.  I’m flying blind for the moment.”
+“Just keep URME’s target in sight.”
+Golich did the best he could.  The ship heeled slightly to port as he brought Cygnus around to center them on course.  
+The jumpship plowed through the plasma for many minutes, while URME called out slight course corrections to keep them aligned with the suspected swarm.  Slowly, over several hours, the formation signal grew stronger.
+“We do seem to be getting closer,” URME said.  
+Dringoth studied URME’s display, alternating with glances out the porthole and quick peeks at M’Bela’s sensor station.
+“Okay, slow to one quarter propulsor.  Let’s just keep up with them, study the tactical situation for awhile.”
+Acth:On’e was manning the Engineering station, four decks aft, along with Alicia Yang.  “Answering one quarter propulsor.”  Cygnus decelerated slightly.  The falloff was noticeable but felt more as a slight shudder through the hull.
+“Keeping station with swarm centroid,” Golich announced.
+“Opinions?” Dringoth asked.  “What are the Bugs up to?”
+Linx studied M’Bela’s sensor readings more closely.  He offered further explanations about the early history of the Universe.  “Once photons decoupled from matter—and that seems to be what we’re witnessing outside--they could travel freely around the Universe without interacting with matter.  We see that in our own time as the cosmic microwave background radiation…sort of an echo of this time.”
+“But why would the Bugs take an interest in this part of T-9998?” Golich asked.
+Linx shrugged.  “I’m not sure.  I’m still learning about all this temporal physics stuff.  But it might be possible, given the right technology, to sort of ‘shepherd’ the primordial elements of this part of space to form early stars.”
+“You said there aren’t any stars,” Dringoth said.
+“Not yet.  But the materials are out there.  We’re in this era of recombination when gravitation and other effects will start pulling matter together into clumps, and those clumps will be the first stars.  It could be that the Coethi are trying to alter the small-scale evolution of the early Universe…develop new stars different from the ones we know about.  And don’t forget, in this part of the time stream, the Universe is much, much smaller physically than in our time.”
+Dringoth snapped a finger in sudden understanding.  “It makes tactical sense, if you think about it.  Seed this part of the Universe in a different way, to make what will follow more compatible with their own type of life.”
+M’Bela said, “Didn’t we see intel one time on where the Bugs came from initially…that their own sun went supernova and they went into space, some kind of big exodus?”
+“I remember that,” Golich said.  “T2 distributed that report years ago…that the Coethi originated on an actual home world, somewhere in the M75 cluster of Sagittarius.  The data showed that the home world was destroyed by a nearby supernova and the surviving elements dispersed into space in a sort of interstellar diaspora.  As we Umans reckon universe time, that happened at least four billion years ago, before us, at a time when the Universe was approximately seven billion years after the Big Bang.  You’re right, Queenie, I do remember all that.”
+“They’re trying to change the way the Universe evolved,” Dringoth said, more firmly.  “Keep their own sun from going supernova.”
+“And keeping us from ever happening,” M’Bela added.
+There was silence on the command deck, as M’Bela’s words sank in.  
+Dringoth took a deep breath.  “Okay, now we know what we’re dealing with here.  My orders are specific.  Recon what the Bugs are doing and intercede and prevent them from messing up anything in this time stream.”
+“If your theory’s right,” Captain,” said Golich, “they’re definitely trying to mess up the time stream.  It does make sense, in a crazy sort of way.  But the question is: what can we do about it?”
+“And do they even know we’re here?” Dringoth asked.  “Rules of engagement say we collapse T-9998 upstream of the swarm, pinch off the Bugs downstream and try to trap them in a bubble of time…the flytrap maneuver we all learned at the Academy.”
+“Right,” said M’Bela, pumping a fist in the air.  “Then engage with direct weapons, counterswarm with our ANAD systems, or HERF and magpulse…try to shred that swarm into atom fluff.”
+Golich seemed unsure about that.  His face was cagey, a little cautious.  “Captain, is that such a good idea?  Maybe flytrap’s not the best tactic.  Maybe we just close and counterswarm from close range.”
+Dringoth said, “I’m not sure how close we can get, or should get.  I’m assuming the Bugs still have quantum displacement ability.  They could slam us off to who knows where in a heartbeat.  Flytrap at least keeps them close by and trapped.”
+“If it works.”  Golich turned to Linx.  “Doctor, won’t anything we do here in this time stream affect the future of the Universe…our future?”
+Linx was thoughtful, rubbing fingers through wisps of white hair.  “Possibly, if I understand what you’re talking about.  But if it’s done from voidtime…maybe not as much.  Haven’t your engineers modified your—what is it called?…your collapser, to work from within this voidtime?”
+“He’s right,” Dringoth said.  “We close with the Bugs, pop into voidtime, and slam ‘em with the collapser from there.  If Engineering is right, we should have some protection from temporal  effects…or Bug defenses, inside voidtime.”
+“And if Engineering’s not right?” M’Bela asked.
+Nobody had an answer for that.
+Dringoth had already made up his mind.  When you’re in command, command.  “We do have a mission from Commandstar.  We have to stop the Bugs, anyway we can.  Queenie, keep your eyes glued to those sensors.  And URME, when that deco wake effect is right on top of us, yell.  I want to get as close to that Bug swarm as we can.  Then we slip into voidtime and light ‘em up.”
+“Now I know why Time Guard quarantined this time stream,” Golich muttered.  He resumed his position at the maneuvering console. 
+And so the battle was joined.  It would be fought across one of the strangest battlefields ever encountered by human beings…a time and cosmic region near the beginning of Time itself, in the first half million years after the Big Bang.  There were no navigation landmarks, no stars, no galaxies, just elemental photon ‘soup’ and high temperatures.  Both Cygnus and the Bug swarm carefully groped around each other, trying to gain an advantage by pinching off the time stream upstream…earlier in time…to prevent the other from achieving their tactical aims…a strange kind of a temporal leapfrog game.  Whatever the Umans did however, they were cognizant of not damaging T-9998 so much as to prevent their ability to return to voidtime and back to T-001.   The engagement had to be conducted with due regard for the effects of their weapons and tactics on the environment, which they didn’t really understand all that well anyway.
+ “Queenie, give me a hack.  Where and when are we?”
+M’Bela’s fingers played over her board, checking their position and heading.  “ChronoNav has no idea, sir…all I’m getting is gibberish.  I can’t get a reading or a hack on anything out there…there’s nothing to get a reading on.”
+URME was physically stationed at the fire director console beside her.  “Analyzing now, sir…Captain, detecting massive decoherence wake, dead ahead, reading forty-two thousand one hundred and five kilometers.  Could be the Coethi…lots of entanglement ripping spacetime around that heading.”
+“Is it the Coethi?”
+“Can’t determine yet, sir.  I’m asking ISAAC for a full sensor sweep.”
+Dringoth studied his board.  “Where exactly are we?”
+M’Bela tapped a few keys.  “That’s what I’m trying to tell you, sir…we’ve got nothing to tell us where we are…except in relationship to the Bugs.”
+Dringoth made his decision.  “I’m bringing us closer to that disturbance.  It has to be our target.  ISAAC, can you resolve the target?”
+The ship’s AI said back, “Long-range scan indicates that the formation is a diffuse cluster of discrete elements of mean size approximately twenty-five nanometers main dimension…smaller than normal dust particles.  Detecting increased energy levels in certain electromagnetic bands, consistent with assembler activity as we understand it.  Probability that this formation is a swarm of nanobotic elements now approaching ninety-three percent.  Probable Coethi formation now at forty thousand one hundred kilometers, best range.”
+“That’s good enough for me,” Dringoth decided. He got on the ship’s 1MC.  “All hands, secure for voidtime.”  Then he turned to Golich, “Take her in.”
+Straight away, Golich firmly grasped a joystick at his console and gently nudged it forward.  Cygnus’ flow vanes responded and the ship shuddered as it approached the edge of the time stream and the barrier wall into voidtime.  It was like roaring down a swiftly-moving river and sticking your toes out to grab a piece of the river bank.  Gingerly, he nudged the ship ever closer to the barrier.  
+At contact, they were yanked out of the time stream, spinning, rolling and yawing liked a top. For Nathan Golich, the first impulse was like a giant fist had grabbed him and started squeezing.   He was whirling and spinning, dizzy, round and round, he could feel the force of the spin against his head, pressing, crushing him—
+He had a fleeting glimpse of one of the crew—maybe it was M’Bela, maybe the Captain—and he nearly vomited at the sight.  It seemed all wrong, though he knew it was coming…the image was wrong and his mind always refused to accept it—there was Queenie, with two heads, now three, now four, now eight heads, popping out of her shoulders like geraniums in a fast motion video, Queenie M’Bela with her head missing, distorted in a cracked mirror, and he closed his eyes, couldn’t look at it anymore—
+…and then it came.  An image of geometric forms—icosahedrons, polygons, trapezoids—all compressed into a tunnel, a long curving corridor and he found himself hurtling at breakneck speed down this corridor, until—
+With a hard bump, his whole body jarred from the impact and when he opened his eyes, caught his breath and came to his senses, he was…where?
+They had sliced right through the barrier that separated all time streams from that which was beyond time itself.
+Voidtime.
+Golich fought the rising well of black that narrowed his vision down to a tunnel, fought to regain control of Cygnus, even as she was spinning like a top and the centrifugal force kept him pinned to the back of his seat.  Slowly, gradually, the spinning died off and there were moans and groans behind him, as M’Bela and URME collected themselves.
+Dringoth had already come around.  He studied his displays, firmly announcing “Welcome to voidtime, boys and girls.  Queenie, what’s your fluctuator say now?”
+M’Bela checked her board, hmmm’ed at the readings.  “Decoherence wakes close aboard, Skipper.  Quantum point source, probably our Bug friends. Fluctuator is within a few hundred kilometers CEP, within the zone of effect for the collapser.” 
+“Do we have a valid target?”
+“We do, sir.  That’s my read.”
+“Very well, URME, bring the collapser on line.”
+URME was stationed at the Temporal Fire Director console at the rear of the command deck.  The TFD1 swarm noted, “May I remind the Captain that the collapser still has several outstanding maintenance issues uncompleted. Perhaps a blast of HERF…modifications to the emitter frequency could—”
+But Dringoth wasn’t listening.  “And I did order those issues to be resolved, did I not?  Get it online, URME. Bring it online now…the best way you can.”
+Golich looked over at the Captain.  “You’re thinking ‘flytrap’?”
+Dringoth watched the target on his detectors grow larger as Cygnus made her approach.  “Exactly.  This collapser’s supposed to work, even from voidtime.  Of course, the damn thing never got tested properly.  But this is what we’re here for, Commander.  Old Man Jellicoe would turn over in his grave if he knew what we’re about to do.” 
+Golich swallowed hard.  “As long as it works…and the Bugs don’t have something else up their sleeves.”
+The next few minutes saw Cygnus maneuvering along a tangential approach to the voidtime barrier, paralleling M’Bela’s heading callouts. The enemy swarm maintained a steady course and there was as yet no repetition of their displacement maneuver, where the Coethi could yank themselves to another place in an instant, just by manipulating quantum states.  
+Finally, Cygnus was within range.  URME had gone aft to make sure the collapser controls on E deck were operating as well as possible.  He knew they had had trouble with the weapon recently…misfires, misalignments, not fully pinching off a time stream and there were others.  How well it would work from within voidtime was anybody’s guess.  The engineers said it would work.
+“This is a really bad idea,” URME muttered to himself. 
+“Collapser on line, Captain,” URME called up to the command deck.  “Green across the board, however I must point out that emitter power is fluctuating outside of operational limits.  There may be oscillator anomalies in the circuit…we should take time to check this out.”
+“Not now,” came Dringoth back.  “Give me what you’ve got.”
+URME pressed SYSTEM ENABLE. 
+Cygnus fired her collapser.  At once, it seemed that the voidtime channel shuddered like a coiled snake, jerking spasmodically, thrashing about enough to set Cygnus into a slow roll.  Golich counteracted the force immediately.  Even this deep in voidtime, spacetime didn’t like being snapped like a wet towel.  
+M’Bela was in the middle of wringing computations out of ISAAC when something slammed Cygnus…hard.  
+With a sudden, spine-rattling lurch, Cygnus was flung right back through the voidtime barrier, right back into T-9998 but this time, they were riding the crest of an infinite temporal wave, tossed and bounced and slammed and rattled like a piece of paper in a river…driven back and back and back, down the narrowing funnel of a nascent Universe into the throes of violent birth, to the deepest, earliest rapids of the time stream, back to the very First Moments, to the primordial Time.
+The collapser had misfired and squeezed them right out of voidtime and thrown them hundreds of millions of years further back in time, to a moment scant seconds after the Big Bang itself…and right into the maelstrom of the Great Cosmic Inflation.  Like a balloon, the Universe was swelling and expanding exponentially, from the fireball of its initial singularity to something incomprehensibly greater. 
+And Cygnus was caught in the surf of a positive energy vacuum state, riding the rapids of expanding spacetime like a fly on the edge of an explosion.
+“What the hell--!” Golich’s hands swept across his board, re-setting systems, checking busses and breakers, following diagnostic prompts.  ISAAC’s silky voice was barely audible over the warning klaxons of the Master Alarm.
+“System Failure ship control…System Failure temporal navigation…System Failure possible hull breach F deck…I am assuming command per emergency protocol E-1…ship systems at degraded level…time stream interface approaching…contact in twelve seconds…eleven…ten….”
+Dringoth was out cold.  URME had lost config control back on E deck and tried to gather himself back into some kind of recognizable form.  M’Bela was nursing a slight head injury; the impact of whatever had slammed them had sent her careening into a hull stanchion.  
+Up front, Golich was conscious, barely, gritting his teeth against the centrifugal force.
+Got to get Cygnus under control…got to get her stabilized…null all rates before we hit something….
+Golich had been 1st TD’s Temporal Ops guy, her TT1 and second-in-command for only a short time, but he knew a bad situation when he saw it.  The ship had been hit by something—possibly a Coethi displacer or maybe a rebound effect of the damn collapser…the thing must have freakin’ misfired-- and they were now adrift and it felt like they were riding some kind of wild wave, heading toward God knew where.  If they hit something, if they didn’t have good control…
+He didn’t want to think about it.   
+If it had been a displacer round that had hit them—time jumpers called it a twist loop—Cygnus had likely been thrown a long way in space and time from her last position, to another time and place in the time stream.  They could easily be God knew where inside T-9998.  They could easily have been thrown completely out of T-9998 to another time stream.  Worse, if Cygnus was near the edge of the time stream…oriented just the wrong way….
+Nathan Golich heard M’Bela stirring behind him but he didn’t have time to help her.  He had to get Cygnus under control…NOW…before she made contact with the outer wall of the time stream.
+He gritted his teeth, hung on tight to his joystick and squeezed hard, feeling Cygnus’ lurching, first this way NOW pulse!...then that way NOW pulse!, then again and PULSE, damn you, PULSE hard!
+Instinctively feeling a part of the ship, Nathan Golich carefully judged the rhythms of her shaking, and timing the lurches and heaves and wobbles and reeling, rattling and swaying, he found himself slowly but surely able to counter each motion, first yaw, then pitch, then roll, then the couplets, bit by bit slowly, gradually bringing the jumpship back under some semblance of control.
+Groans filled the air all around him.  Golich killed the alarm klaxon and made sure ISAAC had attended to the minor hull breach on F deck, filling the rupture with a swarm of repair bots that would quickly seal and patch the opening.
+He chanced a quick glance out a nearby porthole and was instantly dizzy from the view, for the ship was clearly riding the crest of some vast wave—he could feel the acceleration-- and he porthole was filled a brilliant afterglow of light, blinding and painful, washing out everything.
+He heard Dr. Linx muttering something behind….
+“—don’t believe this…it can’t be….”
+Captain Dringoth had regained consciousness and was rubbing his face, trying to get some feeling back into his cheeks.  “Believe what, Doctor?”
+Shielding his eyes, Linx made his way to a porthole behind Dringoth, clutching the back of the Captain’s seat as Cygnus rocketed further along, but to where no one knew.
+“Don’t you feel it, Captain?”
+Dringoth grasped the armrests of his chair.  “It feels like the ship is zooming along at a pretty high rate of speed…M’Bela, where are we?  When are we?”
+M’Bela checked her instruments, frowned in frustration and threw up her hands.  “I don’t know, Captain. I’ve got nothing.  Everything’s haywire back here…all the instruments…it’s crazy—”
+Dringoth came back to stand beside Linx at the porthole.  “I can’t see a thing…what is that light anyway…it’s killing my eyes—”
+Linx rubbed his hands like a child in a candy shop.  “If I’m right, Captain, this is the time of the great cosmic inflation…feel the speed?  We’ve come back in time…to a point just moments after the Big Bang itself.  We’re literally surfing along with the rest of the Universe—the baby Universe is undergoing something cosmologists could only speculate about…exponential expansion.  Metric expansion of space and time, from the initial singularity to now.  Incredible--!”
+“What?”
+Linx explained the details of the Universe’s first moments as cosmologists understood them.  “It’s like a phase transition, like when water freezes into ice from a liquid.  At this very moment, though we can’t see it, there are tiny density fluctuations in the plasma just outside that porthole.  They’re caused by quantum effects, the uncertainty principle.  Those little disturbances will ultimately seed the Universe and become the first stars, the first planets, then you and me…fourteen billion years from now…we’re witnessing the very act of creation right now.”
+Dringoth frowned.  There was still a mission to be completed.  “What about the Bugs?  Where are they?”
+Linx shrugged.  “Unknown, Captain…perhaps further along in the same time stream.  Maybe they weren’t thrown back in time like we seem to have been.”
+Dringoth slammed a fist into the palm of his other hand.  “Damn collapser…Commandstar didn’t give Engineering enough time for testing.  We’ve got to find out where the damned Bugs are…that’s what we’re here for…wherever here is.  Are we even still in T-9998?”
+Linx had an answer.  “Captain, this early in the history of the Universe, I’d be surprised if there were anything other than a single time stream.  This probably is T-9998, just in its first moments.”
+Golich kept his eyes glued to his instruments.  “It feels like the ship is slowing slightly.  Feel that?  Not as many currents and tides and eddies now, in this…soup.”
+Linx agreed.  “This is what cosmologists believe happened.  First came the Bang itself, then seconds later, the exponential acceleration of the Inflation Epoch, then things begin to slow down and cool off, though that took hundreds of millions of years.”
+M’Bela said, “You mean to say we’ve traversed hundreds of millions of years in the span of a single breath?”
+“Very likely.  That’s what cosmology thinks happened in this Inflation Epoch.”
+Dringoth was in a sour mood.  “We need to get back to voidtime, try to locate the Bugs again.  Before they…or we…really mess things up even more.”
+“If we haven’t already,” Golich said.
+Linx said, “There may be no voidtime right now, Captain…if I’m understanding our situation.  We’re too early in the history of the Universe…when did voidtime begin?  Do your scientists even know?”
+Dringoth shrugged.  “Not that I’m aware of.  You’re saying we’re stuck, riding this big wave?  How long do we have to do this?  Couldn’t we jump to a time further along in T-9998?”
+Linx said, “You could…but it’s a fast-moving river right now…it would be like trying to jump out of whitewater rapids into cleaner water, to use the same analogy.  You might make it and you might not…and the river’s moving incredibly fast underneath you.  Jumping now is a big risk.”
+That made Dringoth even more grumpy.  “So what do we do?”
+Linx had an idea.  “Ride the inflation.  Ride it along this time stream as fast and as far as it will take us, maybe to the first stars.  You have ways of detecting your adversary…the Coethi?”
+“Yeah, decoherence wakes.  All their quantum systems generate a detectable trail of entanglement states.  That’s how we detect them.”
+Linx pointed to Dringoth.  “Then use that.  Ride the inflation wave until we see the first stars.  Then start hunting for your decoherence wakes.”
+M’Bela said, “It might work, Captain.  But how long do we have to ride this ‘inflation wave?  Couldn’t we just leapfrog ahead?  Time jump ahead?”
+“Probably too much of a risk,” Linx warned them.  “Cosmology believes the inflation epoch lasted several hundred million years, our years.  How long it might take us to get to the time of photon decoupling, the first stars, in subjective time…who knows?  We could try some short time jumps…test it out.  But I’d be careful with them.  We don’t really know all the details about  how the early Universe evolved from the time of the Big Bang.”
+Golich snorted.  “In another words, caveat emptor.  I say we take the chance.”
+Dringoth agreed.  “We’ll do a test jump, ahead as far as Dr. Linx thinks is safe.  We can’t wait a hundred million years to start looking for the Bugs.”
+So it was decided to take the risk of a short-range time jump.  Dringoth ordered that all systems be checked out, all alarms and flags raised by ISAAC be cleared and the ship rigged for jump.
+This took several days, ship subjective time.
+Finally, Dringoth declared Cygnus ready.  ISAAC concurred.
+Dringoth checked his board.  All green, all copacetic and no flags. Cygnus had been powered up several hours before, her MHD power plant and singularity core ticking over, humming, now sending a slight shudder through her hull.
+“Ready all systems…stand by for final check and all-call.”
+One by one, the crew came back.
+“Ready, Search and Surveillance.”
+“Nav is go!”
+“DPS1 ready.”
+“TM1…yo and go!”
+ “Propulsors on line…ease her forward, Commander Golich.”
+Cygnus lurched as her MHD jets opened up to one-quarter throttle.  
+“Answering one-quarter, handling nicely, CC1.  Nulling residual rates now.  She’s as stable as I can make her.”
+“Steady as she goes…steer course…well, steer straight ahead.  TS1, how do we look?”
+M’Bela checked her boards and instruments.   Active sensors were pinging all around. “I’ve got nothing, sir…we’re clear on this heading.  Recommend maintain speed and course.”
+“Very well.”  Dringoth opened up the 1MC to talk to the crew.  “Cygnus now underway on propulsor.  We execute test jump in one minute.  TM1, advise status of singularity core.”
+Acth:On’e’s voice came back.  “Core on line and ticking at sixty-five percent.  Deco wakes in the green, entanglers humming.  She’s ready for action.”
+Cygnus closed the distance to the planned jump point in three minutes. 
+So far, so good, Dringoth muttered to himself.  Hope everybody did their jobs and we haven’t missed anything.
+At the instant of the jump, the ship shuddered and shimmied like a dog shaking off.  A slow roll started, which Golich countered immediately.
+“Flow vanes to sixty,” he announced.  All along Cygnus’ hull, the control surfaces steepened their angle of attack, as the crew fought to keep the ship centered in the time stream.
+“Singularity to ninety percent,” Dringoth called out.  Aft on E deck, Acth:On’e thumbed increased output from the core at his console controls.  The drive rammed Cygnus ever deeper into the core of the wormhole they had created and the whole crew felt the acceleration.
+Outside the porthole, space itself seemed to fracture into a million glass shards, each a small universe in itself, streaming chaotically past the ship.  
+The acceleration deepened and the ship began shaking violently, enough for Dringoth to order the core cut back to seventy per cent.
+“Temporal eddies and currents,” Golich realized.  He adjusted trim and the shaking subsided slightly.
+“Answering seventy percent,” came Acth:On’e’s voice over the comm.
+“Captain—”  M’Bela’s voice was strained from the vibration.  “—Captain, I don’t recognize anything.  Convergence angles are all wrong.  It’s like…well, sir, I don’t know what it’s like….”
+Dr. Linx had been assigned a temporary station on the command deck, between M’Bela and URME.
+Linx had a theory.  “Lorentz contractions…that has to be it.  The Universe is much smaller than what you’re used to.  All your angles and parameters will be off.  The time stream is much more constricted.”
+Dringoth grew more concerned with the shaking and shuddering and jolting the ship was receiving.  
+“This vibration’s really picking up.  Let’s slam on the brakes here.  Core to twenty percent.  Commander, full flow vanes.  Queenie, watch your angles…see if you recognize anything.”
+As if Cygnus has slammed into a wall of water, the ship lurched and trembled and shivered.  The crew were thrown forward against their harnesses.  Slowly, the vibrations died off until only a faint tremor remained, a faint quiver through the hull.
+Outside, the maelstrom of a fractured universe collapsed into a black void, bereft of anything M’Bela could see or recognize.  She hand-motioned Linx to come over and the two of them peered out, while she checked her board from time to time, trying to resolve the crazy readings on her displays.  M’Bela clucked and shook her head.
+“They’re just crazy, all of them.  This makes no sense at all.  Where are we, Doc?”
+Linx h’mmmed.  “If I’m right, we’ve jumped ahead to the Galactic Dark Ages.  We’ve shortcut some of the early evolution, bypassed photon coupling and the era of recombination.  Now we’re in a kind of void, before the first stars and galaxies.”
+“But I don’t see a thing.  And my instruments are going haywire…I mean, look at ChronoNav.  It’s all messed up.”
+“What you don’t see are neutral atoms out there.  They haven’t coalesced into clumps and clusters yet…not enough matter to pull them together.  And if I remember my cosmology, it’s a pretty warm void out there too…maybe as much as four thousand degrees Kelvin.”
+Dringoth checked all ship systems.  “We seem to have come through the first jump in one piece.  URME, anything on your board?  Decoherence wakes, anything indications of a Bug swarm?”
+URME was still exploring the nuances of an updated language module.  “Nada, Captain.  Nichts.  Nichego.  Nothing.  Not a peep.”
+Dringoth freed himself from his harness and came aft to stand with M’Bela and Linx at the porthole.  “Doctor, we’ll do a full systems check of the ship.  But if we can make a short jump like that, and we’re stuck in this void, we must still be a long way in space and time from our adversary.  What if we just make a series of short time jumps…leapfrog ahead…until URME starts getting hits on deco wakes…maybe we can catch up to the Bugs.”
+Linx shrugged.  “It’s hard to say exactly where we are in spacetime.  This appears to be the Dark Ages, maybe six or seven hundred million years after the Bang.  The first stars are still hundreds of millions of years in the future.”
+Dringoth was thinking out loud.  “The mission really depends on what we believe the Coethi are trying to do.  If they’re really trying to alter the early evolution of the Universe, and make things come out differently, doesn’t it stand to reason that they might try to do this when the first stars are forming?  Put a star here, rather than over there?  Make these stars group together into this kind of galaxy rather than that?  Can they even do that?”
+Linx said, “Unknown, Captain.  I’m not from your time, remember.  And your Intelligence people don’t have all the answers either.  Your idea makes sense, sort of.  Perhaps, that’s a good way to proceed.”
+“That’s all I need,” Dringoth decided.  “When we get back home, I’ll tell TACTRON and Commandstar that Dr. Linx made the call.”  He pressed a button on a nearly hull stanchion.  “All hands, prepare for another jump.  Check your systems carefully, all-up diagnostics and let me know what you find.  After that, we start playing leapfrog across the eons.”
+Nothing major was discovered in the diagnostic runs.  Cygnus was made ready for her next leap in spacetime.
+For the next week, in ship time, the jumpship made a series of short-distance time jumps ahead.  Each jump catapulted them further into the future of the Universe, an expanding Universe, Dr. Linx pointed out.  After the fifth jump, Evelyn M’Bela was overjoyed to see something on ChronoNav she recognized.
+“Look at this…jeez, it warms my heart.  Actual worldline convergence angles.  They’re all scrunched up and tangled like worms, but I recognize ‘em.  Finally, something a girl can get her head around….it just makes my head spin.”
+Golich chuckled up at the secondary console.  “If that’s all it takes to make your head spin—”
+After a few days, a sort of schedule was set up.  One time jump in the morning, one in the afternoon, then checks and diagnostics to close out the day and the crew gathered for a big meal in the galley and some alone time afterward.  Great store was placed in the view outside the porthole, which rarely changed from a fathomless black void, though after one jump, URME swore he could “see’ pinpricks of light in the ether.  Linx doubted it and the para-human swarm entity came in for some good-natured ribbing about grabbing photons from the cabin and seeing things that weren’t there.
+Through it all, though, Dringoth became increasingly aware of an undercurrent of apprehension among the crew.  It was getting worse every day that came and went with them seeing no change in their position.
+Cygnus was four days into her jump schedule when the master alarm sounded throughout the ship.  Barely five minutes before, Monthan Dringoth had decided that he just couldn’t stay in his cramped bunk compartment a second longer.  It was hot, stuffy, noisy and what the hell was that smell, anyway?  Better to slip out and head for the galley.  A sandwich and a beer…or what passed for beer aboard Cygnus…that ought to do the trick.
+But before he could exit the crews’ berth on B deck into the gangway tunnel, a shadow had drifted by the hatch opening.  Instinctively, he held back to let whoever it was pass by.
+It turned out to be Evelyn M’Bela, heading down the tunnel.  
+Where’s she going? he wondered.  Partly from instinct, partly from curiosity, Dringoth waited a few seconds, counted off to five, then headed out into the gangway himself.  M’Bela had gone aft to E deck, and was just sliding through the hatch.
+Dringoth followed.
+He stopped outside the hatch, hearing voices.  Alicia Yang’s voice was clear.  Then he heard Acth:On’e as well.  The three of them were engaged in intense discussion on the Engineering deck and it wasn’t about getting the ship ready for another jump.  Dringoth listened in.
+Yang was speaking, her voice trembling slightly.  “I don’t care what you think, Acth…Captain’s going to get us all killed.  Who knows where the hell we are…or when we are.  This whole mission’s just—”
+Acth:On’e’s voice rose an octave over hers.  “Hey, stuff it, Alicia.  Okay?  Just stow that crap.  We’re all scared…not just you.  Nobody’s ever been here before…I get that.  But Captain’s in charge.  We’re jumpers.  We follow orders.”
+M’Bela piped up.  “And what’s with Linx?  He was just a stowaway.  A dinosaur from the past.  He should be extinct.  Captain’s following his ideas like they were holy writ from Commandstar.”
+Acth:On’e turned on her now.  “Hey, Captain knows what he’s doing.  We’ve got a mission.  The Bugs are up to something and our job is to find out what it is and stop it.”
+“Yeah, and we all wind up getting killed in the process.  Acth, I just hope you like jolts at the Academy worshipping your moss-covered statue when all this is over.  That’s what’s going to happen, if we let this go on—”
+Dringoth had heard enough.  
+No doubt about it, the crew was going to be his hardest challenge.  Cygnus could make at least short-range jumps…they’d proven that.  The damage done by the wayward collapser could be fixed.  But he wasn’t sure the crew could be fixed.  They were uneasy as it was, flying off into the Deep Past, farther back than anyone had ever gone before.  And the collapser incident hadn’t helped.  Now no one trusted anybody.  Somehow, he had to get them to focus on the ship and the mission, focus on things they could do, things they could see and trust.  
+He figured an all-hands meeting might help clear the air.  He was already composing some ideas in his mind when the 1MC chirped.
+It was URME, up on A deck, in command.
+“Captain, I’ve just finished a long-range scan of our surroundings, after the last jump. Something’s showing up…something you should see yourself.”
+Dringoth sprang up the gangway, thankful for something to keep his mind occupied.  “On my way.”
+He was on the command deck in less than a minute, easing into the left-hand seat.
+URME seemed at full config, all edges and perimeter structures sharp, his hands and fingers not blurry or fuzzy at all.  Dringoth was grateful.
+“What have you got, Jump Master?”
+URME called up a display on the main board.  “Infrared, sir.  There’s an off-nominal spike in temperature above ambient, this sector—“he highlighted a region of space, with the temperature spike color-enhanced.  “It could be a cloud of dust or debris, but no other sectors show anything. Normally, debris clouds cause a smooth increase and decrease in temperature…the dust is distributed according to a normal distribution…but this, sir…this is a quick and large rise in temperature.  Statistically unlikely.”
+Dringoth studied the plot.  Cygnus was now seven days into her jump sequence and, according to Linx, many days of jumps away from being able to detect the first stars.  What the hell was this?
+“What am I looking at, URME?”
+URME ran his hands quickly over the board.  The blurring effect kicked in—it was like looking at someone’s hands through a distorted mirror-- and Dringoth decided not to focus on that.  He changed the display to bring the region of elevated temperature into greater contrast. 
+“Here’s the latest known position of the anomaly, sir.”  URME had merged more recent data with ISAAC’s earlier sensor readings.  Dringoth could read from the scale that the two were separated in distance by several million kilometers.  
+“Then this can’t be normal for this point in spacetime, Commander.  There’s too great a gap…that’s three million kilometers.  And in the last few minutes, before you came up here, the anomaly was starting to disperse…becoming fainter.”
+
+Dringoth looked over at his Temporal Fire Director.  “Just what, exactly, are you saying?”
+URME never changed expression.  His face could best be described as determined concentration…or perhaps, official Time Guard poster-boy determination…or even some kind of weary resignation.  No extra lines for character, no wrinkles.  Just a bland face, fully there but somehow waiting for Life to draw lines on it.  
+“Sir, there is one possibility.  Statistically unlikely, but it should be considered.”
+“So, spill it.”
+“The temperature spike does have some resemblance to the temperature profile of a nanobotic swarm.  Not a perfect match, but I have been running some correlation routines and the probability is not zero for this possibility.”
+Dringoth took a deep breath.  “I was afraid you’d say that.  So it’s possible, remote but possible, that we could be looking at some kind of swarm?”
+“That is affirmative, Captain.  It’s a remote possibility, but it can’t be discounted.  We may be seeing a faint trail of our Coethi friends, and they may be time jumping just as we are, perhaps slightly ahead of us.  In effect, the infrared signals I’m seeing could be a shadow of their appearance…and another possible jump…a jump they just made.”
+Dringoth took a deep breath.  “Okay, it may be time for us to make a bigger jump.  Where’s Linx?  I need to talk with the Doctor.”
+“Sir, he indicated he was heading to the galley to get something to drink.”
+“Not a bad idea.  I think I’ll join him.”
+Dringoth found Dr. Linx in the crew’s mess, sipping quietly at a mug of hot tea.  The Captain decided he needed something a little stronger and hovered over the replicator waiting for the tumbler to materialize. 
+Linx brushed back an errant lock of his wispy white hair and studied Dringoth thoughtfully.  “How’d you get into this business, Captain?  What brought you into Time Guard?”
+Dringoth tossed his drink back and let his eyes and throat burn for a moment.  He sat down at a table, fingering the tumbler.
+“I was always a lifer, I guess.  I came from a military family, as do many residents and colonists of Keaton’s World.  For awhile, I was a commercial ship captain with Keaton’s Transport and Storage.  After that, I joined the Time Guard.”  Dringoth sat back in his chair, closed his eyes.  “I needed something more than boring freighter duty from one world in the Sturdivant system to another, and all those other worlds in the borderlands between the Lower Halo and the Inner Spiral…you know: the Centaurus Arm run.”
+“You were always a military brat?”
+“I wanted experiences that had some hope of bringing recognition, glory and fame.  I came from a family where my parents, Pyotr Dringoth and Natalya Dringoth, were famous in their fields of expertise.  Pyotr was a great explorer in the outer system of Sturdivant 2180, which has some twenty planets and thousands of moons and satellites, by the way.  The only more famous person on Keaton’s World was General Oscar Keaton himself.  He led the colony-founding expedition-- First Fall-- to Sturdivant’s fifth planet several hundred terr before I was born.  Pyotr was best known as the discoverer of the great underground ice labyrinth called the Hollows, part of an icy satellite called Gibbons Grotto that orbits K-World.  This is a dwarf planet, all hollow inside with thousands of kilometers of caves, caverns, grottoes, mazes and warrens.”
+Linx was intrigued.  “And your mother?”
+   
+“Natalya Dringoth, biochemist and neuro-engineer, perhaps best known as the discoverer/creator of scope.  That’s a mildly addictive compound that later became essential for preparing Umans for mind uploading, something I guess you don’t have in your time.”
+Linx said, “You felt trapped with such famous parents?”  
+Dringoth nodded.  “I had to get out and left home for Frontier Guard at an early age.  I signed onto a freighter crew making the rounds of Sturdivant’s worlds.  Initially, I was a robotics’ mate, but worked my way up over a number of years into positions of command.  Ten terr after joining the Guard, I went through officer candidate school on Telitor…that’s a nearby world of the star-sun Delta Recursa III. About five years after that, I got my first command, a small corvette called Lalande, which I skippered for another five terr, until a navigation error caused us to crash into a small asteroid in the Boru system.  Extensive damage to the ship led to an investigation.”  Here Dringoth smiled ruefully, sucking on the lip of his tumbler.  “They found I had been negligent and at fault.  I got cashiered from Frontier Guard.”
+“What about this enemy we’re chasing…the Coethi…the Bugs?”
+“About this same time, some new developments in temporal science and engineering led to new breakthroughs allowing us to travel through time for limited excursions.  Not long after that, we Umans learned of a new threat in the Inner Spiral and Lower Halo sectors of the galaxy.  A race of machine-like swarm entities called the Coethi had also developed a means of conducting temporal operations and were beginning to alter time streams around outlying Uman settlements in such a way as to eliminate these Uman settlements from ever having been established…changing the very nature of space-time and the historical record. We had to counter this threat immediately.  A new military force was set up, known as the Time Guard.”
+“What were you doing at that time?”  
+“Well, I had been cashiered out of Frontier Guard and I was trapped in a dead-end job on Sturdivant Eleven…mining camp cook, bot repairman.  But I had dreams, big dreams. I became intrigued by this new development.  I plotted to join Time Guard, mainly as a way of getting off Sturdivant Eleven, making a name for myself, independent of my over-achiever parents. 
+“I volunteered for service with Time Guard and signed a contract after spending nearly seven terr on Sturdivant Eleven.  After passing the physical I went to recruit camp on Poona-Peona, Jeez, I nearly died in physical training there, after a pretty serious fall in the Escape and Evasion course.  But I recovered and did well enough as a recruit-we were known as jolts to everybody-- to get out of Basic.  My first assignment was to Hapsh’m, where I was a systems mechanic for a small detachment of time troopers, who rode special vehicles back then…they were called chronopods in those days…into alternate time streams to hunt down, engage and destroy Coethi scouts and troopers, who were trying to alter the time streams.”
+Dringoth got himself another drink from the replicator.  “And the rest is history, as they say.  What about you, Doc?”
+Linx folded his arms across his chest and shook his head.  “All academic, I’m afraid.  Nothing like you.  I prefer to do my flitting about in a lab, or a classroom.”
+“You did cobble together a rudimentary singularity drive.  You’ll become famous for that, in time.  In my time, that is.  I remember studying your earlier work in Temporal Ops class.”
+Linx was proud of what he had done. “Thanks.  Always feels good to be an icon.  For me, I guess it was always about curiosity.  I wanted to know if it was really possible to move physical objects through time.   After Cal Tech and SolNet Tutor and Copernicus Institute, that just took over my mind…looking at the physics of time travel, the causality paradoxes, the problems.  I would love to have met Kip Thorne.”
+“Who’s that?”
+“Cal Tech physicist in the late 20th century.  He did papers on creating and stabilizing wormholes, then described how if you could tow a wormhole to a neutron star, the extreme gravity would make it possible to create a time difference between the ends of the wormhole.”  Linx smiled broadly, pleased with himself.  “I found you didn’t need a neutron star at all.”
+“And that got my people back from your time to my time, aboard an old freighter named Trivandrum.”
+Linx turned serious.  “I just hope I can replicate what I did, with all I’m learning from you people.  Isn’t it ironic, Captain?”
+“Ironic?  How do you mean?”
+“We’re sitting here in a time-traveling jumpship named Cygnus, discussing your past and mine, how you came to be in Time Guard.  And your mission is to go back into that very past and prevent your enemies from altering everything.  Time travel on multiple levels, I guess.  Yours, mine and the Universe’s.”
+Dringoth decided not to pursue that.  It only made your head hurt.
+“I’d better get back upstairs.  We’ve got another jump coming up.”  He left the galley and went up the gangway to the command deck.
+Just before he had come to the galley, Dringoth had been pulled aside by URME, down in Engineering.  The swarm entity had told the Captain that he had developed a way to detect and track decoherence wakes even in the middle of a time jump.  
+Dringoth blinked in disbelief.  “How’d you accomplish that?”
+The swarm entity brightened a bit, perhaps with some kind of programmed, simulated pride.  “Sir, it involves detecting the decay of entanglement states in a contracting Lorentz field.  I’ll have to modify some of Queenie’s sensors to make it work.”
+Dringoth held up a hand.  “Save the details for the Academy’s classrooms…just tell me: will it work?”
+“Yes, sir, it should.  And ISAAC hasn’t found any flaws in the logic.”
+ “That’s good enough for me.  How long will it take to modify the sensors?”
+“Two days, sir.”
+“Get on it.”
+
+With URME’s mods in place, Cygnus executed several more jumps, each time longer and further into the future.  The jumps became progressively smoother, a result, said Dr. Linx, of the continuing expansion of the inflation wave they had been riding.  
+“More and more like our own Universe,” was how Linx explained it.  “The Universe is expanding, growing and the plasma we’ve been in is thinning out.  We should be seeing the first stars lighting up pretty soon.”
+Golich asked, “How far along are we, Doc?  Queenie still can’t make out very much in the way of worldlines or convergence angles.”
+Linx thought, consulted something on his wristpad.  “Maybe two to three hundred million years after the Bang.”
+M’Bela sniffed.  “Will I ever see worldlines I can recognize?”
+“You should, in time.  I don’t know where or when that point is.  There seems to be only one time stream here, and one worldline.  Somewhere in the future, time streams start to branch off.  That’s when you’ll see familiar things.”
+M’Bela went back to nursing and baby-talking her ChronoNav.
+Slamming out of the last jump, URME announced a hit on his newly modified deco wake detectors.  
+“Strong signal, Captain.”  URME had moved to station himself at the engineering console on E deck.  “Analyzing now…Captain, detecting massive decoherence wake, dead ahead, can’t quite get a distance reading yet.  Could be the Coethi…lots of entanglement ripping spacetime around that heading.”
+“Is it the Coethi?”
+“Can’t determine yet, sir.  I’m asking ISAAC for a full sensor sweep.”
+Dringoth studied his board.  “Queenie, where exactly are we?”
+M’Bela tapped a few keys.  “ISAAC puts us still fronting that inflation wave.  No worldline angles detectable yet.”
+Dringoth made his decision. “I’m bringing us closer to that disturbance.  It has to be our target.  ISAAC, can you resolve the target?”
+The ship’s AI said back, “Long-range scan indicates that the formation is a diffuse cluster of discrete elements of mean size approximately twenty-five to fifty nanometers main dimension.  Detecting increased energy levels in certain electromagnetic bands.  Probable Coethi formation now at six point one billion, four hundred million kilometers, best range.”
+“I’ll buy that,” Dringoth decided. 
+“Look!” Golich pointed to the forward portholes.  “Stars!”
+All hands went to the nearest portholes.  There were gestures, fingers pointing, numbers being counted, a few nervous chuckles.
+Linx stood beside M’Bela at the aft portside view.  “A cosmologist’s dream…I never thought I would see something like this.”
+“A sight for sore eyes,” M’Bela agreed.  She fondled her bone necklace nervously.
+“The very first stars, turning on.  Lighting up.”  
+Laughter erupted, becoming contagious, cascading around the command deck.  There were backslaps and fist pumps and Dringoth sensed a great weight being lifted.  The sight of something familiar had energized his crew and now they responded as if they were schoolchildren on the last day of school.
+“URME, you and Acth:On’e get the collapser powered up.  Can you track the target?”
+The swarm entity replied, “Very faint, sir…almost a whisper, but I’ve got him.  I’ll send the bearing to ISAAC.”
+Dringoth watched his controls move on their own accord, for ISAAC was now in command, following the heading information URME fed to the ship’s AI.  Cygnus rolled slightly to port and Dringoth saw his display reflect slight trim adjustments ISAAC was making to her flow vanes and rudder.  They were still in the main time stream of T-9998 and steadily making way toward URME’s decoherence wake source, closing at a rate of several hundred thousand kilometers per minute. 
+“Any indications they know we’re here?”
+URME replied, “No, sir…target is operating as before.  Maintaining original speed and heading.”
+It was M’Bela who first realized where they were going.  She pointed something out to Dr. Linx.
+“It looks like we’re getting closer to that big star over there…maybe two o’clock, just beyond that dust cloud…see it?”
+Linx nodded.  “I see it.  These are all what cosmologists call Population III stars.  Often, they grew really enormous, hundreds of times more massive than Earth’s sun.  And they were unstable too…lots of supernovas, spreading elements out into space.  We’re in a really violent epoch here…cosmologists call it the Age of Re-ionization.  The big stars seeded the Universe with primordial heavy elements, cooked up in their nuclear fires.”
+“Wonderful,” M’Bela whispered.  “I just hope we know what we’re doing here.”
+Within a few hours, it became unmistakable that URME’s deco wake source was heading for one particularly massive star.  It outshone everything else nearby and its glow was only slightly dimmed by the thick veil of dust and gas that laced all of space around them.
+By consensus, the crew gave it a name: Leviathan.
+“Stars like this were often extremely volatile,” Linx explained.  “Some grew so massive that the fusion reactions that powered them couldn’t counter the gravity of their mass.”
+“They collapsed?” M’Bela asked.
+“In a few seconds.  Indescribable detonations, popping off all over the young Universe.  Supernovas everywhere.  They spewed heavier elements all over space…that’s how Earth and K-World and you and I came to be.  The big stars were like awkward babies in a nursery.  But in their death throes, they gave birth to everything that came after.”
+Dringoth checked with URME.  “Target distance and bearing, URME.”
+“Definitely approaching Leviathan, sir.  Direct heading.  They…and we… are probably still days away, but the centroid of the swarm, the locus of decoherence wake density, is currently on a collision course with the star.”
+“What the devil are they up to?” Dringoth asked.
+Nobody had an answer.
+Golich said, “We’d better assume the Bugs plan to make some changes, maybe interfere with that star.  It could be on a critical worldline…Queenie, can you make out a worldline yet?”
+M’Bela checked her ChronoNav display.  “Just barely, Commander.  We do seem to be following some kind of worldline but it’s faint.”
+Dringoth slammed a fist into the palm of his other hand.  “Okay, I’ve heard enough.  All hands to the crew’s mess.  War council at 1800 hours.”  
+
+The entire crew—Golich, M’Bela, URME, Acth:On’e and Yang, with Linx also there—sat around tables in the galley.  Dringoth explained the tactical situation and what he planned to do about it.
+“Operation First Light gives us a strict mission—surveillance of the Bugs and interdiction if they try to mess up anything.  My guess is that star—Leviathan—is special to them in some way. Therefore, we have to prevent the Bugs from doing anything to the star.  I’m not sure what they can do but we’re not taking any chances.”
+Yang spoke.  “Collapser, sir?  Are we going to try that again?”  Her voice gave no doubts as to what she thought of the idea.
+“It makes sense, tactically.  We have a collapser that in theory can work even from voidtime.”
+Yang argued, “Sir, we tried that.  Look what happened.  It threw us a zillion years into the past.  I don’t think we should use the collapser again, sir.  It’s too unpredictable.”   The DPS tech looked around, seeking agreement.  A few heads nodded, notably M’Bela.
+Dringoth wasn’t surprised.  He had sensed the undercurrents for days.  The crew’s as unstable as that star, he told himself but didn’t say.  
+“It’s our best shot.  Look, I know you’re all a bit nervous about using the collapser again.  But URME’s checked it out…tell them, URME.”  He waved at the swarm, hovering by the hatch to the galley.
+The swarm roiled visibly but its voice was firm.  “I conducted an all-up systems test and ran Level I diagnostics against every operational scenario in the book…and a few I made up.  The collapser performed per spec and as designed in all of them.  It’s possible there are some unknown interactions between the collapser’s twist fields and this inflation wave we’re been riding.  But on test results alone, the collapser’s solid and completely functional.”
+M’Bela sucked at a straw in her drink.  “Doesn’t make me feel any better.  Captain, maybe we should just close and engage with kinetic weapons…like the old days.”
+Dringoth shook his head.  “We’re going ‘flytrap.’  I’ve already decided that tactically gives us the best options and the best chance to get away.  Linx here has already told us how unstable Leviathan may be.  She could go boom any day.  We slip into voidtime, fire the collapser, and pinch off T-9998 upstream and downstream of where the Bugs are now.  The closer we can get the better.  Then, they’re trapped and if the balloon goes up and Leviathan blows, we should be better protected in voidtime and the Bugs’ll be incinerated in the detonation.  That’s our mission—” he looked at each crew member in turn—“and that’s what we’re going to do.  Any other questions?”
+A few sour faces and frowns led to nothing being verbalized.  
+Dringoth tried to soften the edict.  “Look, I know we’ve all been under a lot of stress lately…thrown back to the first days, a damaged ship, no way to navigate, no way to know where we were, no detectable target to follow…I get it.  It seemed like we were on a pointless trip to nowhere.  But we have a mission and we’re all jumpers.  And we have a valid target and rules of engagement.  Time Guard, and Commandstar, gave us the mission because they believed we could carry it out.  This is what you all signed up for.  So…let’s get to it.  Company dismissed…and all hands to stations.”
+The crew sat for a long moment, then after a stern look from Golich, the ship’s exec, one after another, the crew of Cygnus slipped out of the crew’s mess and went silently to their posts.
+Dringoth just shook his head, seeing Linx hovering by the hatch.
+“Doc, just how unstable is that star out there?  We’re getting awfully close.”
+Linx shrugged.  “Stars this big are inherently unpredictable, as well as unstable.  There’s so much gas and dust around in space, these Population III stars swell to gigantic, unsustainable sizes.  The fusion reactions can’t stop a full gravitational core collapse.  There are all kinds of scenarios for these hypergiants: electron capture, pair instability, iron core collapse.  I’m not sure what we’re dealing with in the case of Leviathan.   But we should probably not venture too close for too long.”
+“Any way to tell if ahead of time if Leviathan’s going to blow?”
+“Not without extensive study…and your ship doesn’t have the right gear.”
+Dringoth gave that some thought.  “Okay, Doc.  We do have a mission.  Take your post on the command deck and keep an eye on that monster out there.  Any warning you can give me…yell it out loud and clear.”
+
+The prep for jumping into voidtime proceeded without incident.  All systems were checked and declared free of cautions, warnings and any maintenance flags.  The collapser was powered up, monitored especially closely by Acth:On’e and no anomalies were detected.  
+URME studied his deco wake detector indications.  A slight frequency shift bothered him and he brought it to Dringoth’s attention.
+“Possible aspect change in swarm, Captain.  They may have spotted us.  I’m seeing a shift across the spectrum, entanglement states bunching up along one vector.”
+“Give me a heading,” Dringoth sat at the forward ship control station, the left-hand seat.  He fed URME’s data to ISAAC, now in control of Cygnus.  
+Dringoth checked his board.  All green, no flags. Cygnus had been powered up several hours before, her MHD power plant and singularity core ticking over, humming, now sending a slight shudder through her hull.
+“Ready all systems…stand by for final check and all-call.”
+One by one, the crew came back, in full readiness. 
+“Propulsors on line…take us into voidtime, Commander Golich.”
+Cygnus lurched as her MHD jets opened up to one-quarter throttle.  
+Golich had disabled ISAAC’s autopilot and taken control himself. “Answering one-quarter, handling nicely, CC1.  Nulling residual rates now.”
+“Steady as she goes…steady on course.  URME, where are our friends, how do we look?”
+URME checked his boards and instruments.   Active sensors were pinging all around, showing up specks and chirps on his deco wake display.  “Some shifting continuing, sir but deco wakes strongest on this heading…recommend maintain course and speed.”
+“Very well.”  Dringoth opened up the 1MC.  “Cygnus now underway on propulsor.  We execute the jump in one minute.  TM1, advise status of singularity core and collapser.”
+Acth:On’e’s voice came back.  “Core on line and ticking at sixty-five percent.  Deco wakes in the green, twist buffers humming.  Collapser showing no flags, converger aligned, powered up and cooking.  She’s ready for action.”
+Cygnus closed the distance to the planned jump point. 
+So far, so good, Dringoth muttered to himself.  
+The force of collapsing worldlines began to increase as they approached the jump point, a centrifugal force that soon shoved them to one side of the compartment and pressed them hard against the walls.  Worse, the compartment began a slow roll, a rotation that didn’t remain slow for long, but picked up rate at a steady clip.
+Soon, they were spinning enough to become slightly disoriented and dizzy.  
+“I think that’s my stomach…” came a weak voice.  It was Linx.  “I don’t feel so—“
+Linx’s words were suddenly lost in a bright flash of light, a searing, painfully white strobing light that flooded the compartment and blinded all of them.
+“Rudder amidships!” Dringoth ordered.  He thumbed a small dial, straining against the centrifugal force.  “Flow vanes to thirty percent!”
+The spin kept accelerating and moments later, Dr. Wolfus Linx passed out.  Even Evelyn M’Bela, next to the doctor, found it harder and harder to focus on her panel, her view steadily graying out in a tunnel rapidly narrowing.
+In a blinding flash, the crew of jumpship Cygnus were catapulted into the whirling heart of the singularity she had just created, ripping open the very guts of spacetime itself.  Caught in a roaring, crashing river of infinite eddies and currents of time, they rode the dragon’s tail until Jump Master M’Bela saw her display light up green and called bingo.
+At her signal, Monthan Dringoth slammed Cygnus’ flow vanes out full and punched the ship hard over, right into the faint, barely perceptible fingers of voidtime.  Like a cocked fist, voidtime grabbed them and yanked them out of the mainstream and into the midst of a million tomorrows.
+
+Once they had come through the jump to voidtime, Dringoth made a quick check out his porthole.  Nothing.  Black as night. Maybe some faint but fading spider web lines, barely perceptible, the leftover residue of Cygnus’ singularity squeezing worldlines and pulling herself through the bottleneck that was the channel into voidtime.
+Dringoth shook his head clear.  “URME, have you still got a track?”
+The swarm entity’s hands moved swiftly around his board, a blur that his swarm config controller couldn’t quite match but no one was really looking. 
+“Barely, sir.  Best guess, swarm is nearing Leviathan…same heading, same vector, ranging maybe a few hundred million kilometers out, basic heading is unchanged.” 
+“Very well.  Acth:On’e, get the collapser fully powered up.  Any flags?  Any anomalies?”
+On intership comms, Acth:One’s voice had a slight quiver, odd for a Telitorian. Dringoth wondered if there were a problem back there.
+“Nothing, Skipper.  T-buffers fully primed.  Chronotron pods on line.  There’s a slight surge in temporal oscillator output…we’re watching it but it’s within tolerances.  Nominal on all twist fields.  Collapser good to go, Captain.”
+His voice didn’t match his words but Dringoth decided if there were any real problems, Acth would speak up.  Probably nerves, thought Dringoth.  Firing a collapser from within voidtime was definitely not for the faint of heart…or anybody in their right mind.  Time Guard Engineering said it could be done but still….
+Just as Dringoth was about to give the command, something slammed Cygnus…hard.  Lights flashed on and off, then went out, with a faint hiss and burning smell thickening in the cabin, before backup power kicked in.
+They were in a spin, increasing in rate and already the crew could feel centrifugal force building up.
+“What the hell--!” Dringoth’s hands swept across his board, re-setting systems, checking busses and breakers, following diagnostic prompts.  ISAAC’s silky voice was barely audible over the warning klaxons of the Master Alarm.
+“Voidtime channel collapse imminent…I am assuming command per emergency protocol E-1…ship systems at degraded level…”
+The crew of Cygnus could not see anything beyond the collapsing voidtime bubble they were in.  But beyond the channel, in the truetime of interstellar space, Leviathan had suddenly awakened.
+At that instant, the fiery blue-white glow of Leviathan, nearly opaque from view by thickening clouds of dust and gas, invisible from within voidtime, detonated and the supernova process began.  
+Within the mass of Leviathan, the onion-layered shells of its elements underwent catastrophic fusion, eventually reaching the Chandrasekhar limit of mass and began to collapse.  The inner part of the core was compressed into neutrons, causing the infalling material to bounce and form an outward-propagating shock wave.  The shell started to stall in this collapse but was quickly reinvigorated by neutrino interaction across its interior.  Then, the surrounding material was blasted away in a titanic rebound explosion, as the collapsing envelope of the star was explosively ejected away, sending material out into space in all directions at speeds in excess of 70,000 kilometers a second.  
+Every object nearby was quickly incinerated, vaporized into its constituent atoms.  Leviathan spilled its guts out into space, sending material and shockwaves trillions of kilometers outward in only a few minutes.
+Only the bubble of voidtime spared Cygnus from annihilation, but the bubble was quickly collapsing.
+
+TO BE CONTINUED
+About the Author
+Philip Bosshardt is a native of Atlanta, Georgia.  He recently retired but worked for nearly 25 years for a large company that makes products everyone uses…just check out the drinks aisle at your grocery store. He’s been happily married for over 28 years.   He’s also a Georgia Tech graduate in Industrial Engineering.  He loves water sports in any form and swims 3 miles a week in anything resembling water.  He and his wife have no children.  They do, however, have one terribly spoiled Pekingese dog named Chance. 
+     For technical and background details on his series Tales of the Quantum Corps, visit his blog Quantum Corps Times at http://qcorpstimes.blogspot.com.  For details on other books in this series, visit his website at http://philbosshardt.wix.com/philip-bosshardt or learn about other books by Philip Bosshardt by visiting www.smashwords.com. 
+     To get a peek at Philip Bosshardt’s notes and the backstory on how the Time Jumpers series was created, recent reviews, excerpts from upcoming books and general updates on the writing life, visit his blog The Word Shed at: http://thewdshed.blogspot.com.
+      Download the next exciting episode of Time Jumpers from Smashwords.com and other fine ebook retailers.  It’s called ‘Hapsh’m and the First Coethi Encounter’.  Available on August 2, 2019.
+
+
+
+
+
+
+ 
+
