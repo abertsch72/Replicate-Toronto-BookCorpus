@@ -1,53 +1,14 @@
 #!/bin/bash
-curl https://www.smashwords.com/books/download/116775/6/latest/0/0/have-a-bloody-christmas.txt -o data/883/have-a-bloody-christmas.txt
-curl https://www.smashwords.com/books/download/406407/6/latest/0/0/elixir-of-flesh.txt -o data/883/elixir-of-flesh.txt
-curl https://www.smashwords.com/books/download/336749/6/latest/0/0/the-horror-from-the-blizzard.txt -o data/883/the-horror-from-the-blizzard.txt
 #!/bin/bash
-curl https://www.smashwords.com/books/download/566708/6/latest/0/0/blood-shadow-the-vampire-hartwell.txt -o data/1206/blood-shadow-the-vampire-hartwell.txt
-curl https://www.smashwords.com/books/download/751415/6/latest/0/0/the-ones-who-were-chosen.txt -o data/1206/the-ones-who-were-chosen.txt
-curl https://www.smashwords.com/books/download/354169/6/latest/0/0/ren-of-atikala.txt -o data/1206/ren-of-atikala.txt
-curl https://www.smashwords.com/books/download/651895/6/latest/0/0/the-third-adam.txt -o data/1206/the-third-adam.txt
-curl https://www.smashwords.com/books/download/894006/6/latest/0/0/bloodspate.txt -o data/1206/bloodspate.txt
-curl https://www.smashwords.com/books/download/559871/6/latest/0/0/something-about-a-sword-and-a-stone.txt -o data/1206/something-about-a-sword-and-a-stone.txt
-curl https://www.smashwords.com/books/download/382782/6/latest/0/0/choices.txt -o data/1206/choices.txt
-curl https://www.smashwords.com/books/download/330431/6/latest/0/0/soldiers-of-legend.txt -o data/1206/soldiers-of-legend.txt
-curl https://www.smashwords.com/books/download/596409/6/latest/0/0/the-infiltrators.txt -o data/1206/the-infiltrators.txt
-curl https://www.smashwords.com/books/download/715566/6/latest/0/0/fire-destroys.txt -o data/1206/fire-destroys.txt
-curl https://www.smashwords.com/books/download/363162/6/latest/0/0/traphis-a-wizards-tale.txt -o data/1206/traphis-a-wizards-tale.txt
-curl https://www.smashwords.com/books/download/177061/6/latest/0/0/hunt-for-the-fallen.txt -o data/1206/hunt-for-the-fallen.txt
-curl https://www.smashwords.com/books/download/888371/6/latest/0/0/tristan-merryweather-cheltenhams-finest-supernatural-detecti.txt -o data/1206/tristan-merryweather-cheltenhams-finest-supernatural-detecti.txt
-curl https://www.smashwords.com/books/download/639686/6/latest/0/0/eko-nine-series-1.txt -o data/1206/eko-nine-series-1.txt
-curl https://www.smashwords.com/books/download/27421/6/latest/0/0/sea-of-dreams.txt -o data/1206/sea-of-dreams.txt
-curl https://www.smashwords.com/books/download/1126419/6/latest/0/0/uranus-exodus.txt -o data/1206/uranus-exodus.txt
-curl https://www.smashwords.com/books/download/30498/6/latest/0/0/living-after-midnight-hard-and-heavy-stories.txt -o data/1206/living-after-midnight-hard-and-heavy-stories.txt
-curl https://www.smashwords.com/books/download/137429/6/latest/0/0/alayna.txt -o data/1206/alayna.txt
-curl https://www.smashwords.com/books/download/547552/6/latest/0/0/reap-repent.txt -o data/1206/reap-repent.txt
-curl https://www.smashwords.com/books/download/1082503/6/latest/0/0/when-you-wish.txt -o data/1206/when-you-wish.txt
-curl https://www.smashwords.com/books/download/636912/6/latest/0/0/harley-awakening.txt -o data/1206/harley-awakening.txt
-curl https://www.smashwords.com/books/download/551583/6/latest/0/0/myths-of-the-magaram-1-follow-the-fairy.txt -o data/1206/myths-of-the-magaram-1-follow-the-fairy.txt
-curl https://www.smashwords.com/books/download/409732/6/latest/0/0/the-heros-chamber.txt -o data/1206/the-heros-chamber.txt
-curl https://www.smashwords.com/books/download/327476/6/latest/0/0/tail-of-the-dragon.txt -o data/1206/tail-of-the-dragon.txt
-curl https://www.smashwords.com/books/download/137090/6/latest/0/0/secrets.txt -o data/1206/secrets.txt
-curl https://www.smashwords.com/books/download/438906/6/latest/0/0/infinite-fate.txt -o data/1206/infinite-fate.txt
-curl https://www.smashwords.com/books/download/577705/6/latest/0/0/daygar-legacy-05-journey-to-darlet.txt -o data/1206/daygar-legacy-05-journey-to-darlet.txt
-curl https://www.smashwords.com/books/download/1085845/6/latest/0/0/queen-of-cards.txt -o data/1206/queen-of-cards.txt
-curl https://www.smashwords.com/books/download/1130701/6/latest/0/0/in-search-of-the-land-of-the-goddess-of-summer-book-1-sword-.txt -o data/1206/in-search-of-the-land-of-the-goddess-of-summer-book-1-sword-.txt
-curl https://www.smashwords.com/books/download/424489/6/latest/0/0/nights-embrace.txt -o data/1206/nights-embrace.txt
-curl https://www.smashwords.com/books/download/1039640/6/latest/0/0/northern-exposure-the-beginning.txt -o data/1206/northern-exposure-the-beginning.txt
-curl https://www.smashwords.com/books/download/15436/6/latest/0/0/lethe.txt -o data/1206/lethe.txt
-curl https://www.smashwords.com/books/download/518219/6/latest/0/0/bell-book-and-sandals.txt -o data/1206/bell-book-and-sandals.txt
-curl https://www.smashwords.com/books/download/448752/6/latest/0/0/book-one-of-the-sons-of-odin-odins-awakening-angel-magic-edi.txt -o data/1206/book-one-of-the-sons-of-odin-odins-awakening-angel-magic-edi.txt
-curl https://www.smashwords.com/books/download/498922/6/latest/0/0/the-greylands-volume-vi.txt -o data/1206/the-greylands-volume-vi.txt
-curl https://www.smashwords.com/books/download/92783/6/latest/0/0/shadow-of-the-sun.txt -o data/1206/shadow-of-the-sun.txt
 #!/bin/bash
-curl https://www.smashwords.com/books/download/535918/6/latest/0/0/lady-longshaws-lover.txt -o data/1235/lady-longshaws-lover.txt
-curl https://www.smashwords.com/books/download/513657/6/latest/0/0/kiss-of-awakening.txt -o data/1235/kiss-of-awakening.txt
-curl https://www.smashwords.com/books/download/467794/6/latest/0/0/troubled-waters.txt -o data/1235/troubled-waters.txt
-curl https://www.smashwords.com/books/download/416254/6/latest/0/0/innocence.txt -o data/1235/innocence.txt
-curl https://www.smashwords.com/books/download/519386/6/latest/0/0/beyond-50.txt -o data/1235/beyond-50.txt
-curl https://www.smashwords.com/books/download/335061/6/latest/0/0/ford-at-valverde.txt -o data/1235/ford-at-valverde.txt
-curl https://www.smashwords.com/books/download/533562/6/latest/0/0/playing-favorites-book-one.txt -o data/1235/playing-favorites-book-one.txt
-curl https://www.smashwords.com/books/download/504653/6/latest/0/0/disposable-lives.txt -o data/1235/disposable-lives.txt
-curl https://www.smashwords.com/books/download/758043/6/latest/0/0/for-the-love-of-scott.txt -o data/1235/for-the-love-of-scott.txt
-curl https://www.smashwords.com/books/download/547630/6/latest/0/0/it-happened-at-cafe-nix.txt -o data/1235/it-happened-at-cafe-nix.txt
-curl https://www.smashwords.com/books/download/355388/6/latest/0/0/invasion-earth-delroi-connection-1.txt -o data/1235/invasion-earth-delroi-connection-1.txt
+#!/bin/bash
+#!/bin/bash
+#!/bin/bash
+#!/bin/bash
+#!/bin/bash
+#!/bin/bash
+#!/bin/bash
+#!/bin/bash
+#!/bin/bash
+#!/bin/bash
+#!/bin/bash
