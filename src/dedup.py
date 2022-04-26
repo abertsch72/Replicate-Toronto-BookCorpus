@@ -3,8 +3,8 @@ def dedup(filename):
     with open(filename) as f:
         lines = f.readlines()
         print(len(lines))
-        lines = list(set(lines))
         lines = ["https://www.smashwords.com/" + url.strip("https://www.smashwords.com") for url in lines]
+        lines = list(set(lines))
         print(len(lines))
     with open(filename, 'w') as f:
         f.writelines(lines)
