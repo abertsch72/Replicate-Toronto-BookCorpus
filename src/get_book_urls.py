@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 import json
 import os
+import random
 from concurrent.futures import ThreadPoolExecutor
 from itertools import count, cycle, repeat
 from pathlib import Path
@@ -38,10 +39,15 @@ def main(this_category):
     # YA/teen: 1018
     # mystery & detective: 879
 
+    endcap = list(range(0, 10000 + 1, 20))
+    random.shuffle(endcap)
+    #endcap = endcap[:500]
+
     # determine search_urls (should be roughly 0.9B words in total)
+    #https://www.smashwords.com/books/category/1126/downloads/0/free/medium
     search_urls = [
         f"https://www.smashwords.com/books/category/{this_category}/downloads/0/free/medium/{i}"
-        for i in range(0, 30000 + 1, 20)
+        for i in list(range(0, 10000 + 1, 20))
     ]
 
 
@@ -189,7 +195,7 @@ def main(this_category):
 
 if __name__ == "__main__":
 
-    categories = [1126] #[883, 1206, 1235, 1213, 892, 1126, 871, 882, 61, 873, 874, 877, 1018, 897]
+    categories = [883, 1206, 1235, 1213, 892, 1126, 871, 882, 61, 873, 874, 877, 1018, 897]
 
     num_attempts = 1
     for i in range(num_attempts):

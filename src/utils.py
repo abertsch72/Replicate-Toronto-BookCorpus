@@ -14,8 +14,8 @@ from lxml import html
 from requests import ConnectionError, RequestException, Response, Session, Timeout
 
 ALLOWED_SUFFIXES = {".json", ".pkl"}
-SUCCESS_SLEEP = 0.5
-RETRY_SLEEP = 1.0
+SUCCESS_SLEEP = 2.0
+RETRY_SLEEP = 5.0
 
 
 def bytes_to_str(bytes_str: bytes) -> str:
