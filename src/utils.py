@@ -15,7 +15,7 @@ from requests import ConnectionError, RequestException, Response, Session, Timeo
 
 ALLOWED_SUFFIXES = {".json", ".pkl"}
 SUCCESS_SLEEP = 2.0
-RETRY_SLEEP = 5.0
+RETRY_SLEEP = 8.0
 
 
 def bytes_to_str(bytes_str: bytes) -> str:
