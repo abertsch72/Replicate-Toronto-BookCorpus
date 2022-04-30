@@ -1,0 +1,719 @@
+﻿Neon Knights
+Matthew C. Gill
+
+Published By: Matthew C. Gill at Smashwords
+Copyright 2013 Matthew C. Gill
+
+Smashwords Edition, License Notes
+Thank you for downloading this free eBook. You are welcome to share it with your
+friends. This book may be reproduced, copied and distributed for non-commercial
+purposes, provided the book remains in its complete original form. If you enjoyed this
+book; please return to Smashwords.com to discover other works by this author. Thank
+you for your support.
+
+Dedicated to my loving Wife – You have always been my own Lexel; ever at my side ready to curb a long winded explanation or eager to prove worth cannot be defined by gender. Together we can face any challenge with imagination, creativity and a healthy dose of determination. You bless me, Thank you.
+
+Neon Knights
+
+Episode 1 
+
+As the sun slowly made it’s descent from view the lights above the city were already racing to replace its dying illumination. The neon glow never truly died away, but as the sun’s bright light faded it always seemed to flare to life to dominate the sky. And with it the city itself seemed to awaken, bursting with a fresh fast-paced life of its own. Which meant soon enough the streets would be flooded with people, and that was reason enough for Lexel to not be.
+
+Lexel was used to the walk home; she had been doing it for as long as she could remember. It was part of her routine, just as much a part as making the trip alone was. She could barely remember the last time she walked home with her mom, or for that matter made it home to find her mom there. But at least these days she had her friend Xephaedra to walk with which was kind of nice. Xeph had insisted for a long time on going home together, even though Lexel was fairly sure it was simply to avoid her friend having to make the trip alone. She was a great friend, no doubt about it, but Xeph could quite often be overly cautious about, well, almost everything.
+
+They made for an awkward pair Lexel had always thought. Xeph was almost a head taller and already growing into the sort of pretty girl every boy couldn’t stop looking at. While Lexel herself never cared much for being the center of attention she couldn’t help but notice that she herself could never quite compete with her friend. Not in the looks department anyways. She was shorter than most the girls her age and while she found her thin toned figure to be adequate most of the boys didn’t seem to agree. Which suited Lexel just the same; she had seen the kind of attention some girls attracted and it was something she long ago decided wasn’t for her. 
+
+“So, what do you have planned for tonight Lex,” Xeph asked her friend even though they both already knew the answer. Lexel always wondered why she kept asking but she had to admit it was kind of nice knowing Xeph would always worry about her. She couldn’t resist rolling her eyes at the question before puffing a strand of her short brown hair out of her face. 
+
+“Oh, you know, the usual I guess,” Lexel replied as she walked right through a lingering puddle without hesitation. It always made Xeph squeak a little, which made Lexel smile at the silly notion. “How girly can you get,” Lexel thought to herself. 
+
+“You know, one of these days your going to get caught Lex, and when you do it’s going to mean trouble. Why in the world do you even keep doing it anyways? What is so fun about playing other peoples games or prowling around into all those private nodes? It’s dangerous if you ask me, which you never do, and I am scared that one day soon your going to find yourself in the wrong one.” 
+
+Lexel was used to Xeph voicing her concerns about any number of the things she did that her friend deemed to be overly dangerous. But Lexel had been looking forward all day to getting to play some more of her current discovery. It was a little simulation game on a private node she had found about a month ago by accident. The getting in was surprisingly easy for a node that was tucked away like it was. It was the kind of thing that should have had some nasty security all over it to keep her out, which made it a curiosity to Lexel. 
+
+That was the part Xeph and others could never really understand; it was all about curiosity and the challenge of it all. She just had to see just how far she could go, just how much she could find. If someone told her she couldn’t get in or that it wasn’t something for a girl to be doing, well then Lexel would just become determined to prove she could. It was just one of those things about her that she couldn’t stand; just because she was a girl didn’t mean she had to be girly or that she wasn’t just as talented as a boy. In fact she was quickly starting to think that she might even be cleverer than most the boys in her classes. 
+
+“Thanks for the concern Xeph, but I’ll be fine; don’t worry so much,” Lexel tried her best to ease her friends fears. But it was still written all over her red-headed confidante’s face; Xeph was really concerned. “Just be careful, alright Lex,” Xeph said, her tone hushed before bidding her friend farewell. 
+
+Lexel waived goodbye as she watched Xeph head down the street to her own home like they always did and then rushed up the steps that led to the small apartment she shared with her mother. She entered her personal access code and entered to find as usual she was home alone, again. “Nothing new,” Lexel said with a sigh as she stepped around a few clothes that she hoped belonged to her mother before heading straight to the terminal in her room. 
+
+It was the sole luxury Lexel had available to her, while most of her friends had portable little mini-coms they could pack around with them her only real access to the nodes was through an old terminal. While other kids might laugh at the out dated hardware she treasured it as her primary escape. They couldn’t ever afford much, but when she was little she had been lucky enough to find the old device that miraculously still worked. 
+
+Lexel patted the old terminal thankfully as she jacked herself in and smiled to herself. Awaiting her was the same old greeting that she had been met with every time since she had found the hidden node:
+
+“Would you like to play a game?” 
+
+Her answer was always the same – yes.
+
+
+Episode 2
+
+The virtual world inside the node was always the same; it was the little details that interested Lexel. While she had run through countless other nodes peeking around and tinkering most of them she had found held highly detailed renderings of visual settings. This strange little digital landscape was fairly sparse to the point of being nearly blank. It was an endless sea of white in all directions every time her mind settled into it that slowly took shape depending on the game she selected. 
+
+And that was the other curiosity; the games themselves. These were not the complex kind of games that flooded the markets in an endless stream that strived to capitalize on whatever whim was the latest craze. The games listed here never changed, they were fairly simple in nature and always held the same main character. Each game’s name was some odd approximation on a clichéd theme like war games or battle training. Lexel had originally thought the whole thing was kind of silly at first, until she tried one of them. 
+
+It wasn’t the games themselves that initially proved to hook her, it was the strange character always referred to as ‘Unit Zero.’ This Zero character was always represented as some four legged robot that looked kind of like a dog. The truth is though that the peculiar character had grown on her to the point that Lexel thought of it like a friend. She knew it wasn’t a real thing, just a bit of programming but she always found herself cheering for the little guy.
+
+“Let’s see, what sounds like fun tonight,” Lexel asked herself without even calling up the list of available choices. She had been playing these games every night for at least a month or so and by now knew them all by heart. “I know, let’s just try a quick game of Match Fight,” she decided and smiled when her familiar friend formed before her.
+
+Of all the games Match Fight was one of the most straight-forward; the point of the game was simply for Zero to fight another simulated robot. However the only catch was that Zero had to do so without being armed with any weapon systems. Hence the challenge typically made less than fair by the fact that almost always his opponent suffered no such restriction.
+
+Zero greeted Lexel’s presence with his usual bowed head before focusing his attention in front of him where another figure formed. Taking shape was a two legged form with broad shoulders and large arms that nearly drug the ground. Its shoulders displayed mounted weapons of some kind that immediately trained themselves on Zero and fired violent blasts that barely missed the already moving target.
+
+The brutish bot turned to track Zero as it tried to continue to press its attack but for all it’s firepower it couldn’t match his speed. Lexel knew that Zero had the advantage in that regard and would have to make the most of it. “Zero, tangle rush,” she called out the command, one of many she had taught him over time. As she watched Zero changed course to charge his way towards the other robot, desperately dodging blast after blast as he did. 
+
+With his four legs Zero quickly closed the ground between himself and his opponent. Just as he entered into range he activated a grappling tether and prepared to launch the magnetic locking tipped cable aimed at his foes feet. In a hiss of release a series internal actuators in Zero’s legs fired at once launching him forward as he set himself to leap around his oversized adversary. 
+
+Everything happened so fast that Lexel almost missed it. Zero sped his way towards the other robot and jumped into an arc designed to carry him around his attacker enabling him to get close enough to tangle its legs up with a grappling tether. But as Zero let fly his cable a massive metal arm flung its way forward to intercept him in the air. The harsh crack echoed around them and Lexel watched in shock as Zero slammed into the ground. She had seen the little digital dog take a hit before but the sheer size of his opponent made her shudder to think of what the blow had done to him. 
+
+Rising from the ground, the resilient robot shock off the stunning strike and redoubled his attack. He raced his way back towards the ever-blasting bot to angle for another attempt. This time, though, as Zero vaulted his way into the air he made one calculated adjustment to his offensive and activated his micro-light. The sudden flash scrambled his attackers optical sensors as it tried to compensate for the sudden change in light and the momentary distraction was all Zero needed to avoid another counter-strike. 
+
+His tether hit home with clang as the magnetic tip locked on to its target allowing the trailing cable to tangle its way into winding around the other robot’s legs. Without the support of his legs Zero’s challenger found himself off balance and unable to maintain the footing it needed to support its bulky frame. Awkwardly the clumsy creation toppled to the ground, its weapons still firing into the air defiantly trying to somehow destroy its intended target. 
+
+ His opponent now helpless on the ground the game registered Zero as the winner. Lexel rewarded him with her regular pat on the head as she considered just how proud she was of this little piece of programming. She called up the time with a subtle mental cue and had to sigh at the displayed answer to her query. It was getting late already, which meant she would have to log out and see to some things around the apartment. 
+
+“Don’t worry Zero, we’ll play more again tomorrow,” she told her friend as she bid it goodbye. Lexel would keep playing all night but she knew somebody would have to clean up and make dinner. Besides, she could play more tomorrow as usual; it wasn’t like anyone was going to discover her little game sessions. If they hadn’t by now then they probably never would.
+
+Still, Xeph’s worried warning hung at the back of her mind, bothering her. “Ugh, she worries too much,” Lexel reminded her self quietly and tried to forget about it. But all night long it remained like a lingering headache that refused to go away. She would have to have another talk with Xeph about bugging her with such silly nonsense, it was starting to rub off it seemed. 
+
+
+Episode 3
+
+Professor Honeywell had been deeply concerned by the sudden spike in activity in Unit Zero’s monitors. She checked the logs and found the pattern was a re-occurring one that she couldn’t account for. The copper haired researcher was puzzled to try to explain what her prototype project was doing inside his secured storage. 
+
+“There you are, professor,” the voice behind her echoed after a sharp staccato of booted steps that meant it could only be one man. The impossible and infuriating Mr. Graystone, who for some mysterious reason had been assigned to directly supervise the project and liked nothing more than looking for reasons to shut it down. 
+
+Honeywell needed more time to study Unit Zero; her work on the curious creation had been yielding wonderful results that given more time she was sure she could analyze further. There was something there, hard to define but her instincts told her that just maybe it was the start of awareness. If that were true then this was a breakthrough on the level of monumental proportions. It was also one that could be incredibly dangerous; nothing of the sort had been attempted since the Type II and Bioid projects had led to the shattering of the New Republic. 
+
+“Your project has yet to produce any results beyond what could at best be labeled as questionable,” Mr. Graystone explained. His bearing was stern, stone like, and even though he didn’t wear any form of uniform Professor Honeywell detected the unmistakable trace of military service in his stance. “This project has been nothing but a waste and a failure from day one. Your only success has been in creating a meager play thing for you to waste countless valuable resources on for your own enjoyment.”
+
+The bold claims carried an insult deep into Honeywell that she longed to confront, but lacked the nerve to do so. Without the project she held no backing, no support to further her research. And if it was classified as a failure she would be ruined, Honeywell desperately needed more time. Time to complete her analysis and study her findings of the data Unit Zero was providing. 
+
+“But Mr. Graystone, please, I advise you to consider what you say in the presence of Unit Zero. I would further like to point out that even you yourself have expressed a profound value in how well the prototype has functioned in some of our simulations. Please, all I ask is that you give us a little more time to complete our research before you abruptly end this project.” 
+
+A sneer briefly showed upon Graystone’s face as he glanced over at where Unit Zero was kept. “And why on all of Taral VII should I consider what I say in the vicinity of a mere machine? It is a constructed thing, without feelings or thoughts of its own. To presume it has been endowed with such is very unprofessional of you professor; especially considering it to be your own invention. As for it’s merited value, it may have proven itself to be capable of success when presented with simulated scenarios, but those are just that – simulations. There is precious little practical worth in virtual experiences when compared to the real thing.” 
+
+While Graystone spoke Professor Honeywell couldn’t help but wonder what he was secretly up to. The man had proven himself to be nothing short of devious the whole time she had known him and considering that along with his ceaseless campaign to find fault with her work it made her wonder. Was it her that he didn’t like? Or, just possibly was it more likely that Graystone had something against artificially created life? It wouldn’t be the first person she had heard of who hated anything created instead of being ‘born.’ She had heard such terrible stories about the acts committed by the self-proclaimed Purgist Party; a sinister political faction bent on eradicating the rights (and existence) of all beings they deemed unnatural. 
+
+“Unit Zero is a unique subject Mr. Graystone one that I am confident that if you give us just a little more time to explore the full spectrum of what he is capable of we’ll discover his potential.” Professor Honeywell trembled at having to confront Graystone even in the face of her project being taken away from her. She had to firmly level her gaze down at the floor for fear that meeting his eyes might strip her of what little resolve she could muster. This was easy enough, considering that she barely stood even with Graystone’s shoulders and typically had to look up at the muscled menace. 
+
+“Questionable results, my dear professor, by their very nature can only mean one thing; the questionable viability of the project.” Without another word on the matter Graystone turned and marched away, leaving a lingering trail of echoed footsteps to haunt Professor Honeywell. 
+
+“Don’t worry Unit Zero,” Honeywell told the door to the prototype’s secure storage facility. “I’ll think of something, Graystone isn’t going to shut this project down, or you.” As she walked her way back to her office she had to fight back tears and hoped that somehow she was right. 
+
+If only she could make some sense out of this recurring spike in activity, maybe that would help. It was almost like Unit Zero was engaging in simulated matches, but that couldn’t be – could it? 
+
+
+Episode 4
+
+Zero paced about in his little room blanketed by the bright glow of white light that permeated from every wall and even the floor itself. His various internal sensors had detected and compiled a complex series of data that he was still digesting. Professor Honeywell had been outside only moments ago, and she was not alone – Mr. Graystone was there as well. Zero didn’t like that man, not at all. He made his circuits short and his software glitch whenever he was around. The man was trouble, and Zero didn’t trust him.
+
+The professor had said for him not to worry, he had heard her say those words. But even as he replayed the audio of what she had said he couldn’t ignore other details he had detected. Like how her heartbeat had gone from calm steady beat to an erratic fast paced one of anxiety. His caring creator was scared about something, and judging by the conversation he had overheard he had a very probable idea on what it might be. 
+
+Specifically the odds were quite high that Graystone was pushing his agenda to sabotage the project into being declared a failure. And that would inevitably mean that it would be shutdown, its research buried or destroyed. This would leave Zero him self facing some very unpleasant options. He would either be shutdown and placed into storage where he might never be brought back online ever again, or even more likely; permanently deactivated.
+
+That thought rippled through Zero’s core as everything it implied took hold of him and demanded to be processed. If he was to exist no more then that would mean no more experiments with Professor Honeywell. It would mean no more chances for him to prove himself against the various challenges they tested him with. But most importantly it would mean no more games with his friend who had visited him every night.
+
+At that thought, Zero knew that he didn’t have a choice; he had calculated the odds and they confirmed his course of action was the only one with even a marginal chance of success. He called up an old buried sub-routine in his programming that had been edited titled ‘Preservation Directive’ and engaged the file. Zero had always been designed with the drive for self preservation when it engaged in simulated contests and the like. But one of the things he had learned over time, especially from his nightly games, was that anything could threaten his existence. He had faced countless simulations, accumulated various strategies and massive combat data that he could reference. But none of that would do him any good locked away in this room; in here he would be defenseless to any number of methods that could be used to disable his systems. 
+
+Zero wasn’t about to wait around while he considered his continued existence in jeopardy. He called up a recording he had logged of the tone sequence to his rooms door and broadcast it into the electronic lock. The simple device lacked the advanced circuits to register the difference between the correct key combination being pressed and the corresponding series of distinct notes. It was something the designers had never considered, and why would they? The thought of the projects prototype test subject actively trying to escape was beyond consideration. Their only security consideration was technically to ensure access to the cybernetic creation was limited to authorized individuals. 
+
+It was just one of the many oversights made by people involved in what officially was referred to as the Prototype Armored Weapon System Project or P.A.W.S. for short. And it was just these sorts of mistakes that Zero had to act upon now or forfeit any chance of preserving himself. He had to act fast, Professor Honeywell would try desperately to defend him and that meant looking for every bit of evidence she could cite on his behalf. This could mean her discovering his nightly game sessions and tracking them back to locate the source of the recurring signal. If that were to happen Zero didn’t have enough data to extrapolate what possible outcome it might have.
+
+When the doors opened with their normal hushed hiss, Zero sprang into action following a complex series of detailed instructions he had encoded into the sub-routine. He raced down the halls directed by a pre-plotted path, comparing his internal chronometer with the scheduled routes the guards always took. Zero made sure to make minor corrections to his course as he went while actively allowing his sensors to sweep and scan around him. Nothing could be risked to chance, not now. 
+
+Carefully his path carried him to a marked corridor on the mapped layout he had compiled of the facility. Without any time to spare the running robo-hound activated his ion torch and began to cut his way through the metal around a utility access point. He only had a minute and 15 seconds by his estimation before a patrol was scheduled to pass this way so he wouldn’t have time for precise cuts, forcing him to opt instead for crude fast ones. 
+
+As the final metal plating was cut free to fall from before Zero he didn’t hesitate to leap into the waiting dark of the night outside. He had to activate the thrust stabilizers of his drop pack systems to slow his decent towards the ground; otherwise this escape would quickly become counter-productive. Fortunately his reserves he found were more than adequate to deal with the drop and he felt a certain relief as he realized he had just landed outside of his previous prison. 
+
+He was free now; he had made it clear of the research facility’s confines. But where should he go now? His planned route had never considered a final destination, only the goal of escape. Logic alone merited somewhere safe to hide from his inevitable pursuers. The only possible destination he could think of was that of his nightly visitor, who even now might already be discovered and in danger.
+
+Luckily Zero still held a traced route on the signal that had carried his gaming companion to him; all he had to do now was follow it. The form of the escaped experiment was just passing off into the neon lit night of Taral VII as shouts were already beginning to be heard from guards investigating a strangely absent section of walled corridor. 
+
+They were not the only eyes probing for the fleeing form of the project’s precious prototype.
+
+
+Episode 5 
+
+Even on some of the lesser used back alleys and side streets it isn’t easy for a four legged robot to pass without being noticed. Zero had to move as carefully as he could afford to without sacrificing too much time. As an escaped experiment he needed to gather more practical data to aid in his chances of success. He had a formulated route to guide him to his friend, but without any knowledge of traffic patterns or the mechanical workings of his surroundings at large he was traveling blind. And taking any action without even a byte of data to reference terrified him all the way down to his transistor terminals. 
+
+There was only so long that Zero calculated he could keep moving without attracting attention by skulking in and out from behind dumpsters or other urban debris. Pausing to review what various options might be available to him, something registered to his optical sensors. His records indicated it was some form of guidance coordination system for both pedestrian and vehicle traffic. It was an oddly constructed apparatus; a simple pole-like shape that was adorned with small screens and brightly colored light emitters. How could this peculiar thing possibly communicate with people he wondered?
+
+As he considered the curious device his analytical circuits began cross-referencing his detailed databases and predicting its potential qualities. While the whole process had only lasted a few mere microseconds, for Zero it seemed like he had been focused on the subject for far too long.  He again had to regret his lack of practical knowledge about such common elements of life in the world. 
+
+According to Zero’s computed figures, the distance to the device far exceeded any safe range he could approach it in order to patch himself into it directly. That meant he would have to wirelessly connect with it’s systems in order to examine the flow of data that passed through it. Data that he decided he both needed and desired. Connecting indirectly wasn’t without its risk though; it stood to reason that any such device would be hardwired to prevent just exactly such intrusions. Otherwise any passing person might easily tamper with it, a peculiar notion that puzzled Zero. He couldn’t begin to fathom what could motivate someone to do so but it seemed like a logical safeguard to prevent. Unlike expecting to have to defend against an intrusion made by a refugee robot seeking to acquire raw traffic data for analysis. 
+
+Zero scanned the signals swimming around him and tried to isolate his targets carrier wavelength to ride his way in. Seizing upon the beacon as a guide he slammed his mind towards his objective and instantly felt a series of simple security barriers shatter as he met them. It had never occurred to him that such hardware had never been designed to handle anything as complex as his presence. He could feel its circuits faltering under his increased workload burdening them. 
+
+While Zero tried to rush to gather all the information he could compile, one by one he marked the invaded systems crashing. His intrusion was already having a visible effect as the brightly lit tower began to flash and behave erratically. Zero barely managed to secure the last of the available records located within before the traffic guide completely failed. The reaction of passing travelers was already one of confusion as several barely avoided colliding with one another without the aid of the now lifeless lights to direct them. 
+
+Deciding it might reduce his odds of being discovered inadvertently by anyone investigating the now growing source of chaos, Zero quickly moved to relocate himself. Finding a dark corner he settled into position as he reviewed what data he had been rewarded with by his recent encounter. The information detailed things that at a glance seemed worthless enough but as he compiled it together he could establish trends that helped him understand the flow of the city. 
+
+It seemed the bulk of the city’s inhabitants were active at night, which made his current situation all the more dangerous. With every added passing person upon the streets his chance of being noticed went up exponentially. Zero studied the figures as he processed every scrap of information that was passing through him to be sorted and stored. Pathways formed through the neon lit night streets that he noticed where traffic was regularly worse and those routes that were almost never used. 
+
+Using this newly acquired data, Zero adjusted his perspective path that would lead him to his friend and cautiously resumed his journey. The night wore on slowly as he made his erratic way around the city to avoid the crowded courses used by so many others. As the sun sleepily began its sluggish rise into the sky, Zero confirmed the address before him as an apartment registered to the corresponding location he sought. 
+
+Zero entered a coded entry request and awaited a response while he stared at the door. When it began to open he found himself greeting a sleepy-eyed girl with his routine question: “would you like to play a game?” Instantly her eyes went wide and her pulse became elevated according to Zero’s sensors. Had he somehow startled her, he wondered to himself.
+
+“What the…” Lexel exclaimed as she found herself gripped with shock at the sight that awaited her outside her door. She quickly scanned the street as her mind reeled to make sense of the strange situation. “Better get in here quick,” she told the familiar form before her. “And this better not be some kind of sick joke!” 
+
+“You just had to say it, didn’t you,” Lexel lamented secretly to herself. Why did her friend have to be right this one time of all times? 
+
+
+Episode 6 
+
+“Just what is going on,” Lexel asked herself as she paced around the somewhat disheveled room that served as the living area for the apartment. She absently picked up a blanket hanging off the end of a chair and began to fold it before pausing to shake her head at the notion. “What am I doing,” Lexel continued to talk to herself; struggling to find some rational explanation that might justify a robotic dog appearing on her doorstep. 
+
+The only possible reason that came to mind was one that she really didn’t want to consider. Her mouth went dry and she tried to swallow the lump that was forming in her throat but it just didn’t seem to go away. Lexel looked down at the pair of what she wanted to call eyes, but part of her knew they were just optical sensors as she found them looking back at her. 
+
+Nervously Lexel coughed, still trying to clear her throat and shake the confusion from her mind. “So, I guess this means that you are actually real after all then.” The simple statement slipped from her lips and as soon it left them, Lexel could hear just how silly it must sound. “Of course your real, I mean, you are standing here in front of me and all. But, I don’t know; I guess I had just figured you were part of the games. You know, just a character in them – not a real actual thing.”
+
+Lexel couldn’t help but feel somewhat like a mental patient as the thought struck her that she was at this very moment talking to herself or a robotic dog depending on how you looked at it. Neither option sounded all that sane to her though. “This cannot be happening,” Lexel exclaimed with a groan. “All I did was played some silly games, and now I have some hound of hardware in my home! How on Taral VII did you even find me anyway? Nobody has ever back traced me. For that matter; why did you even come here? What is a metallic mutt doing in my home?” 
+
+The questions all formed at once inside Lexel and as fast as they did all of them tried to poor out at once. There was so much she needed to know, so very much she wanted to understand about what was going on. Especially if she had been playing games all this time with something that was now on the loose, surely somebody would be looking for it. And seeing as how she had been accessing a restricted node for a while now there wasn’t exactly anything she could say that wouldn’t firmly place her into a deep pit of serious trouble. 
+
+Zero tilted his azure and snow colored head slightly to the side as he considered the string of questions that he was already making a list of to try and address. He waited for what he thought was an acceptable amount of time, even though he couldn’t be sure before he tried to answer. The perplexed prototype figured a pause of 4.8 seconds had to be more than sufficient even if it did seem overly long to him. When his inquisitive young friend didn’t seem to show any signs of continuing to speak further he decided it a suitable moment for him to answer. 
+
+“In our last encounter you did state that we would play again the following night. However, I calculated the probability that certain events could transpire that would lead to my inability to do so then or ever again. Upon facing such eventuality it became necessary for my preservation of self to seek out favorable odds by an alternative avenue. The only preferable option was to locate you so that we might continue our nightly games and thereby potentially avoid a less than acceptable fate.” 
+
+Zero watched Lexel’s response, noticing as she blinked trying to digest the information that he had almost overlooked one of her questions. “I managed to retrace your signal by recording your repeated access over time and incorporating the various routes to consider corresponding patterns. Your technique is effective but begins to lose efficiency with repeated visits to the same location.”
+
+“Wait, I cannot believe a talking tin can is standing here criticizing my methods,” Lexel replied at the perceived affront to her talent. “I will have you know there isn’t a system yet that has managed to catch me. And what do you mean by certain events that might have prevented us from playing again anyway?” Lexel couldn’t resist her own curious nature as it started to take hold. 
+
+“There is the distinct and likely possibility that certain components involved in the project are already moving to see it declared a failure. Should that happen the only logical outcome would be for them to disable me for storage or completely dispose of all aspects of the projects research – including myself.” Zero looked down as he explained what had motivated his flight from the facility, in what Lexel had to admit looked like an honest concern for his continued existence. 
+
+“I feel I should make you aware that it would only increase the likelihood of both of us becoming in jeopardy to assume that I alone could manage to extrapolate your location.” Zero watched as Lexel raised one eyebrow at the comment in irritated disbelief that he presumed merited his response. “Your claim, while formerly sound, is no longer obviously factual. As you stated, I did manage to locate you and logically if you have been tracked once you could be so again.”
+
+Lexel had to swallow hard again as she found herself unable to argue with Zero’s assessment. She thought for a moment that there was a faint chance of never being found, or so she tried to convince herself to little avail. It wasn’t like she could run, could she? Could she really just up and leave everything behind? 
+
+It seemed to Lexel that the answer to that question might hold the very key to her immediate future.
+
+
+Episode 7
+
+Lexel had closed to her eyes as she looked inside herself for the answer to a single question. She didn’t have to ask herself if someone could have tracked her like Zero had. As much as she hated admitting it, it was a painful truth that it was only a matter of time before someone else did just that. And when that happened there would be no covering her tracks or hiding Zero’s presence from them. 
+
+The only real matter of importance to her now was the simple lingering inquiry; did anything hold her here that she couldn’t leave? It was a hard thing to think about as she endeavored to do so. As much as she hated to admit it, she did care for her mother – she wasn’t all bad. Her mother had done her best to take care of the both of them for a long time and to be fair had missed a part of her youth to raise Lexel. 
+
+While her mother wasn’t around much she did work hard to keep the bills paid and if she didn’t at least spend some of her down time on entertainment she might have burnt out from the stress long ago. Lexel could understand the strain her mother must have went through for a long time. But even understanding didn’t ease some of the pain she had felt growing up. The knowledge didn’t remove the longing she had often had to have her mother there to talk to or comfort her. 
+
+And now, as she weighed her feelings she could see at the very center of her a tiny ember of emotion that guided her decision like a lantern in the dark. For all her love that she still felt for her mother, it wasn’t enough to hold her there. That life had started to drift from her long ago she realized. She had grown weary of waiting and watching to see if her mother would stumble in or call needing her to come help her home. 
+
+Even her classes seemed a waste of her time these days. Lexel was so far ahead of her peers that every lesson was more a review for her than something fresh to challenge her mind. There weren’t even any classmates who would miss her she could think of, instead there were only those she would welcome not having to avoid anymore. The only person she could even honestly admit might tear up over her leaving would be Xephaeda. Poor Xeph, she would be heartbroken by her friend leaving; not to mention worried sick on a daily basis about everything she would probably assume might be happening to her. 
+
+Deciding she at the very least owed her best friend a farewell before departing, Lexel had to admit the idea made her nervous. What if her friend tried to talk her out of running off? Lexel slowly realized that her mind was made up, and knew that as it was not even Xeph would be able to convince her not to do something once she decided to. No, the real worry she had to admit was in possibly bringing any potential trouble her friend’s way. Xeph was a lot of things, a great friend chiefly among them. What she was not though was someone equipped to deal with serious trouble disrupting her life. Xeph lived in fear of crossing a street when the traffic guide had yet to signal it appropriate. Lexel shuddered to think of how she might react to anyone official knocking on her door with questions.
+
+Using even an encrypted communications channel was out of the question though, if anyone traced Lexel down then that would just be another risk leading to her friend. Meeting Xeph in person also didn’t feel like a safe choice either, people would start returning home soon and she refused to allow Xeph to be seen as the last person to talk to her before she vanished. The only option that seemed left was to leave a recorded message for her using their old secret slot.
+
+“Give me a moment,” Lexel told Zero, who still setting in her living room patiently was watching her. She tried to take a deep breath to compose herself but immediately abandoned the idea as she slid a small thin strip into her terminal and punched up the command to record. 
+
+“Hey there girlie,” Lexel said to the screen with a weak grin. “It looks like something has come up and you can save the ‘I tried to warn you speeches’ for some other time, promise. I am going to be out of touch for a while, but I couldn’t leave without saying goodbye first. Know that I really will miss you, you have been like a scared scarlet haired sister to me and we both know without you there is no telling where I would be right now. I know you will worry about me, but please try to keep it to a minimum; you should be able to admit that by now, if anyone can take care of themselves it’s me. Please, if you could do me a huge favor though; just check in on my mom from time to time. She is sure to need some looking after and I don’t know when or if I will be able to be back. I’ll never forget you Xeph, and if I can I’ll try to keep in touch.” 
+
+Lexel paused for a sigh as she reached up to end the recording before she had to stop to add one last thing to her message. “So I guess this is goodbye for now. Please don’t be upset that I had to say it like this, but should any trouble come this way I want to keep you from being involved in it. Sorry Xeph, promise I will try my best to be as careful as I can.” 
+
+With a single tear trailing down her cheek Lexel turned off the recording and removed the strip of memory from the terminal. She grabbed what she could of her belongings, mainly a few clothes and a handful of things precious to her before turning to look at her terminal one last time. Reluctantly Lexel grabbed the nearest object to hand and smashed it into her terminal.
+
+Zero was still waiting in the same position when she returned with a bag of her belongings. “We better be going, come on, I have one stop to make and then we make tracks.” As the two made their way out the door Lexel refused to look back, but couldn’t help but wonder how long it would be before her mother would notice she was gone. 
+
+
+Episode 8
+
+Mr. Graystone’s booted heel crunched under what remained of a door as he stalked his way inside the messy apartment. “Fan out; scan and search for any sign of that meddlesome mutt. I want him found, three cycles ago!” Waiting behind the imposing image that was Graystone a small swarm of drones spread out to obey his uttered command. Floating in mid air metal orbs darted around as beams of light probed and analyzed everything in an orderly manner. 
+
+Flanking Graystone on either side a pair of sleek black and chrome plated four legged robots stepped forward as they melded from the shadows. They were his pride and joy, creations he had customized with his own unique tactical needs in mind. He lovingly referred to them as his ‘Greyhounds’ often treating his pets as his own personal covert-ops agents and private enforcers. 
+
+The Greyhounds base design had originally been built from the tried and true chassis of the New Republic’s Hell Hound model droid. The Hell Hounds were reliable robots in their own right, serving respectfully well in security patrol and even tracker roles. But Graystone preferred something that suited his needs in a more subtle manner, he didn’t trust free thinking subordinates. And he absolutely refused to put his faith in inept underlings who could always develop loose lips or decide to have a change of heart. 
+
+All the guards and defenses in place had failed to prevent that pesky prototype from escaping. If not for some of his prowling pets left to patrol the perimeter Graystone would have missed this little opportunity. It was regrettably unfortunate that his Greyhounds had somehow lost the erratic trail left by Unit Zero even if only briefly. The small delay had cost him precious time he could have used to seal the test subject’s fate. But it was of little consequence now, after its escape he could easily press for the project’s cancelation with virtually little chance of even Honeywell being able to make a case for objection.
+
+“He isn’t here,” Graystone muttered to himself in frustration. “I want to know what lead him here, find me everything there is to know about who lives here, now.” He trusted that his little Oracle droids could provide him with a detailed report within a few moments, which would leave his Greyhounds to the task of resuming the hunt. “Hounds target Unit Zero; track and terminate.” 
+
+Amber eyes flashed briefly signaling his command had been accepted and understood before the deadly duo silently slipped back into the shadows to obey his order. Graystone always smiled with satisfaction as he watched them go to work, he treasured the fact that they never questioned him. But, then again he had programmed them himself and personally saw to it that there was no way for them to even be able to do so. 
+
+“Clear out,” Graystone told his obedient orbs still buzzing around the apartment. “I want that report within the next three minutes and I want all evidence of our visit wiped clean in two.” As he stepped back out through the doorway he couldn’t resist taking a moment to enjoy himself. “Oh, and make sure this door is replaced immediately – have it billed to one of my anonymous accounts. I would hate for anyone to think me rude or inconsiderate.”  The notion made him chuckle to himself.
+
+While Graystone was busy delighting in his own humor his Greyhound's were already hard at work hunting their prey. Lexel had only just managed to secure her secret message as she and Zero considered what their next move should be. The pursuing predators carefully approached their target, keeping their sensor masking systems active as they prepared to engage. 
+
+Following their primary combat programming the Greyhounds primed Midnighter grenades for release before dropping their masks. The devious devices were designed for covert engagements, once deployed they would blanket the area in thick darkness, completely rendering a target blind. This tactic had served Graystone’s secret soldiers well in safeguarding his interests for a long time. 
+
+But the would-be armored assassins had never encountered any prey quite like the prototype Zero. As they moved towards them his advanced sensors registered the distorted motion that some of his other systems couldn’t account for. Something in his circuits made his solder tingle, Zero couldn’t explain it but he found himself instinctively taking a defensive position. 
+
+Lexel opened her mouth to question the sudden change in Zero’s demeanor but an explosion of inky blackness engulfed her before the words could form. Terror alone held her mind as she found herself unable to find any trace of light or any idea what was going on at all. She felt a sudden surge of motion around her and then realized she didn’t have any idea what could be attacking them, or if it was after her or Zero. 
+
+The muffled sound of metal clanging on metal brushed her ears and Lexel had to resist her imagination from running wild in an attempt to understand what was happening. Unseen in front of her Zero bravely battled the twin terrors. While they held the advantage of onboard weapon systems, Zero quickly found they had sacrificed much of their armored frames in compensation. The Greyhounds lacked the benefit of his resilient frame, of his reinforced chassis designed to far exceed anything his operational requirements might need. They had never been designed for a head on battle like he had, instead they were meant to take advantage of stealth.
+
+Zero lacked the offensive weapons his opponents brought to bear, but there was no matching his brute strength. The Greyhounds attacks met waiting armor and found it defying them, laser blasts barely scorched him when they connected. Other shots went wild as he continually evaded them. After several long moments, Zero maneuvered himself into a final pass between his foes and found both anticipated attacks instead finding a waiting home in their partners.
+
+Still sputtering with sparks the limp bodies of the Greyhounds laid on the alley floor as the grenades induced darkness dissipated. Lexel had to look on in wonder at Zero who was standing triumphantly beside her. 
+
+“We, um, I think we should get out of here before something else shows up,” Lexel stammered half to herself. “A logical assessment,” Zero agreed. Together they quickly made their way out of the alley in silence. Lexel couldn’t find the words to address what just happened, but made a note of it to try to as soon as possible. She had to find out what had just happened, and more importantly exactly what she had just gotten herself into.
+
+
+Episode 9
+
+At first Lexel and Zero traveled in complete silence, but after a few blocks the growing pressure of so many questions soon became too much. Zero was the first to break the self imposed quiet that had trailed them after fleeing the scene of their almost-ambush. Cautiously he considered their surroundings, he was still wary from the last encounter, as they tucked around a corner. 
+
+“I am unable to identify our attackers; there is no previous record of them within my database,” Zero informed Lexel with an almost audible edge of regret in his voice. “But their attack pattern is consistent with an attempted removal of a target using stealth; however I can not conclude which one of us was the likely target. It is likely that either they did not anticipate my presence or the effectiveness of my defensive capabilities.”
+
+“Has anyone ever told you that you talk a bit much,” Lexel interrupted. “Seriously, you are probably the chattiest robot I have ever heard of! Not that I have heard of all that many talking robot dogs mind you, but I figure there can’t be another one who talks so much.” 
+
+Zero’s optics narrowed in as close of an approximation to blinking as Lexel presumed the curious creation could manage. “Is there something wrong with my speech? I could alter my response parameters to meet a more concise format if you prefer. My base programming requires me to provide extensive feedback on my experiences and to provide assistance in its analysis.”
+
+“Spoken like a true ‘bot; that is something we are going to have to work on. It is going to be a dead give away that your some advanced tinker-toy fresh from a R&D lab.” Lexel shuffled her feet as she looked around, the corner of her mouth pulled tight as she failed to completely mask her growing worry. “Just tell me, as simply as you can; is it possible that those two back there were only meant to deal with me? I mean, didn’t you say they did not seem adequately armed to confront you?” Lexel had to ask, as much as she hated to hear herself say the words. The little voice inside her was certain that it wouldn’t take a fully armed strike team to deal with one little old girl, and it wasn’t exactly being polite about it either. 
+
+“Yes,” Zero began to reply after a brief pause to ‘blink’ again. Lexel hoped he wasn’t doing it solely for her benefit because she found the whole act somewhat disturbing. “It is a sound assumption that you might have been the primary target as the weapons brought to bear were better suited for dealing with soft or lightly armored targets at close range. However, it is also possible that my reaction impaired our adversary’s ability to make full use of their tactical strengths.”
+
+“Please tell me that was the short version,” Lexel said with a groan. She had to hold a finger up to gesture for Zero not to answer because she was sure the verbal wonder would do so if she did not. As she found her other hand firmly pressed against her forehead she had to push the image out of her mind of her mother in a similar pose. It was anything but helpful right now and truthfully she hated comparing herself to her mother. 
+
+“Okay,” Lexel sighed, trying to order her thoughts. “Let’s review; we don’t know what attacked us. We have no real idea even which one of us they were after for sure. Does that about cover everything?”
+
+“It bears stating that if you were the primary target that without my intervention our attackers would have been successful,” Zero added. Lexel couldn’t argue there, even though she really wanted to. She had to admit that knowing what Zero could do in a game was one thing but it was quite reassuring to see he was just as skilled in a darkened alleyway. And as for herself, well already she was forming a working plan to get them funds she discovered. 
+
+Lexel had to confess she never expected to be handling a situation like this nearly as well as she was. Sure there was a part of her that just wanted to hide somewhere and close her eyes until it all went away. But reality had a harsh way of reminding you that nothing was ever that easy. And if life had any more surprises in store for her, well she was determined to at the very least try to prepare herself to meet them.  
+
+“Do not be afraid,” Zero’s electronic voice suddenly shattered her train of thought, prompting her to almost jump at being so startled. “If anything moves to threaten you again, I will stop it. I have added a new directive to my primary functions; to protect and defend you from harm.” 
+
+Lexel wasn’t sure what to say to Zero about his sudden declaration, but it puzzled her slightly. It didn’t exactly make sense – logically at least. “Why,” she found herself asking the metallic mutt. “Wouldn’t it be more efficient to focus on your own preservation? We aren’t playing games anymore, Zero.”
+
+“You are correct,” Zero confirmed with a nod, his eyes never wavering from hers. “But you are my friend; my core could not resolve the loss of your existence without irreparable damage to it.” The pedigreed prototype ‘blinked’ again and tilted his head slightly as he considered Lexel’s reception to his explanation before remembering what she had said about talking so much. “I do not want to lose you.”
+
+Lexel smiled at the sentiment and more so at the fact Zero seemed to be learning. “Maybe you are pretty smart after all, for a science project that is.”
+
+
+Episode 10
+
+“I have an idea,” Lexel told her determined defender as she motioned for them to head on down the street. “There is an underground arena somewhere in low town, they call it NaN. I hear things, see things mentioned when running the nodes; it exists but doesn’t exist.” As they walked on Lexel struggled to explain it to Zero. How could she put it into words; it was a legend, a myth among the streets. 
+
+“That is a contradiction; your statement can not be possible,” Zero objected as a can rattled, rolling away from his foot to bounce off a nearby wall. Lexel gritted her teeth and took a quick breath before trying to make the logic-locked lab rat understand. “While you are right technically, you are wrong in reality,” she countered. Lexel spun on her heel, stopping dead in her tracks to focus her full attention on Zero.
+
+“NaN is not a place; it doesn’t exist as a location. There is no sign, no building; they have tried to shut it down for years but nobody can ever find it to do so. But it does exist; I know it for a fact. NaN is, like I said, an underground arena among other things. From time to time hidden feeds surface to showcase fights or other events to lure in new blood and the like. There is a lot of money to be made but it isn’t without its share of risk. Tourists and people from the street vanish all the time trying to make it big in the games.”
+
+“That isn’t going to happen to us though,” Lexel reassured Zero with cool confidence. “I have seen you fight, and with my advice there isn’t going to be anything that can stand a chance against us.” Zero carefully considered everything his new companion told him, but found himself unable to completely reconcile the notion that they were looking for something that didn’t exist. It made his transistors twitch just thinking about it; how would they find it if it couldn’t be found? 
+
+“The trick is going to be finding NaN, and I know a lot about tricks,” Lexel proclaimed with a wicked grin. “We just need to find ourselves a public terminal or some way of accessing nodes and I think I can work some magic.” That was going to be the challenge she knew; finding a workable access point wasn’t like finding trash in the street. Most people carried their own hardware; almost nobody used public terminals anymore which meant they were few in number and even fewer functioning. But if she could find one she could patch up just enough – well it was bound to be no longer listed on the grids, which could mean less chance of being tracked.
+
+“Come on,” Lexel said before dashing off, Zero obediently following behind her. It wasn’t like she had never exactly done something like this before. There was that one time she pulled a prank on her teacher using an old terminal, but back then she had Xeph by her side to nervously play the part of her conscience. Her friend didn’t like the idea at all back then, and Lexel was sure she would have liked it even less now. Even so, she did wish that she had her scared scarlet-haired sister by her side. Without Xeph to be brave for Lexel found she was going to have to do her own share of worrying.
+
+It took hours of searching as the sun rose higher overhead and Lexel grew more frustrated with every time they had to duck for cover. She was growing more irritated by the minute, not by the lack of terminals but more so by the fact that she needed to use one. If she had had her own mini-com like most other people she wouldn’t be franticly hunting right now. However, if she did have her own it might have already leaded whoever was hunting them straight to her by now. 
+
+That thought was a welcome consolation as they patiently waited for some passing workers to go by. Lexel looked up to check how high the sun had managed to climb up in the sky to find instead a sight that made her almost yell with excitement. Nestled behind the sanctuary of debris they were hidden in she could see the mangled remains of a terminal barely hanging on a wall. Its weathered frame cracked and most of its wiring frayed or exposed.
+
+Quiet as she could, Lexel reached up to examine her fortunate prize. Shielded from view by the safety of stacked scrap and assorted bits she set herself about discovering how much of the damaged device still could function. Most of the visual output was gone, several of its boards were cracked or fried, but some of its core functions looked to be intact. After re-routing a few wires and adjusting some plugs Lexel delighted at the familiar sound of a terminal clicking online. 
+
+Drawing a short datajack cable from her bag Lexel looked over to Zero as she plugged one end into the device. “I won’t be long, just keep an eye out; alright,” she asked her waiting guardian. Zero nodded his agreement and Lexel slid the other end into the jack behind her ear. The familiar hum of the nodes greeted her with its subtle songs of static.
+
+“Here we go…” Lexel commented to herself and started running.
+
+
+Episode 11 
+
+The digital worlds of the nearby nodes were degraded as Lexel began to maneuver her way through the local connections. She had to move through tedious connections and narrow pathways to find her way around into the more familiar systems she was used to. At least the trouble meant that this virtual briar patch would also add a layer of protection; if she was having difficult navigating her way out then anyone else would have just as much trouble trying to track her back in. 
+
+Traffic pulsed around her in flashes of green that the wrecked terminal weakly wrestled with trying to translate for her sensory input. Lexel regretted the fact that the unit’s perception filter hardware must have been failing. She missed the higher resolution renderings of her old fully functional terminal. But she wasn’t here to enjoy the sights; she reminded herself of the importance of her task and punched forward. 
+
+A few more grid point jumps and she slid home into an old node she had drifted into once by accident, thankfully finding her backdoor still safely in place. The node itself wasn’t anything special to look at; it didn’t glimmer with the promise of a swarming data-haven or the shadowy draped tell-tell signs of a tar baby trap. No, she had made it a point to remember this little location because it made her instinctively perk up her ears. 
+
+Lexel had learned a lot in her nightly running through the nodes but most importantly she had learned to trust her own instincts. Her gut told her there was a connection here, a use that she could tap; this node was just too clean and placed neatly in plain sight. As she skillfully probed her way around she detected no traces of traffic of any kind, not even the typical clutter found on an empty place holder node. Curious she dug in a little deeper and began to look at what wasn’t there more than what was. 
+
+It wasn’t easy or quick, but slowly Lexel began to piece together a vague idea of what this node was used for. While it held no real information of its own, she soon established that a handful of others directly received encrypted feeds from it that in turn rippled further. This little silent spot was a source; a broadcast point from what she could tell that had to be used for fight feeds. Lexel realized it was just a theory, but it was one that her intuition said felt right. 
+
+“Time to roll the dice,” she decided firmly and sent a pulse back from the passive node. Before she even had the time to worry about the possible danger of her plan a floating head of fuchsia appeared with a plain look of irritation upon it. The anonymous avatar stared into her, and as it did so she could feel scans already sweeping to probe the surroundings. Unless she wanted to be relegated as just another punk meddling with nodes for kicks Lexel judged she would have to seize the initiative here and now. 
+
+“Don’t bother asking how it was that I found you; it’s not important,” Lexel bluffed with all her might. “What is important though, is the fact that I have found a fighter the likes of which has never been seen before. And all he wants is entry into the games. Interested?” It was a gamble, trying to come off as some kind of hot shot but it was one Lexel hoped her limited hardware might actually help by not displaying more of her expressions. She was the first to admit that acting wasn’t her strong suit. 
+
+When the face finally spoke it did so in cold distorted tones that were anything but natural. “Another hopeful dreamer I see,” it proclaimed with a purr. “We shall see whether or not your fighter has the mettle for a match, but be warned; we do not take kindly to anyone foolishly wasting our time.” A series of coordinates were transmitted to Lexel as the face began to fade. “Be at this location by nightfall; we will see if you’re worth entry into the games with a little trial match,” it warned before the node itself went dark as well. 
+
+“Drama much,” Lexel joked before making her way back to jack out. Zero was hopefully still patiently waiting for her and it was beginning to look like they needed to get ready for a fight. A fight she had a feeling would not be easy in any shape or form. As she jacked herself back out into waiting reality she soon found a mild headache was already taking hold. Using a makeshift piece of hardware had its drawbacks, especially if its signal filters made the experience less than smooth on you. 
+
+Lexel paused briefly to close her eyes and rub at her forehead for a minute as she tried to compose her thoughts. Thankfully she found Zero had in fact faithfully stayed by her side the whole time. “How long was I plugged in for anyway,” she asked her stalwart sentinel who still stood guard. “You have been away for precisely 1 hour 27 minutes and 36.4 seconds,” Zero informed her. “Did you meet with success in your endeavor?”
+
+Before answering that one Lexel had to take in a deep breath for a second. She found herself debating how to look at it. While she had managed to locate a connection that promised to potentially lead them to NaN’s underground arena, she didn’t have a guaranteed entry. “We have to pass a test first,” she finally decided to answer. “At nightfall we have to be at a location where a no doubt nasty street fight awaits us. If we survive it is implied that we will earn a shot at the arena games.”
+
+“I have no prior experience with which to estimate our chances of success,” Zero began. “What do you think our odds of winning such a contest will be?” It was the same question she had been considering before she ever even jacked out. “Oh, we totally have this locked in; don’t worry,” she reassured him. Zero decided he trusted his friend and while he didn’t have any previous reference to gauge such fights he did have vast combat experience. How different could it really be?
+
+
+Episode 12
+
+After a short rest Lexel found the buzz in her head had died down, the nutra-snack pack she found smashed at the bottom of her bag helped some too. On one hand she was grateful that she had forgotten to clean out the bag but on the other she wished it had been a little fresher. Lexel pushed the thought of snacks aside and reminded herself that they had more pressing matters to attend to. They still had to make it to the meeting point and Lexel figured it a good idea to talk strategy with Zero before hand, just to be safe.
+
+Plastic sheeting crinkled at Lexel’s elbow as she allowed herself a quick stretch to break the silence. Some of the loose debris must have slid around her while she cat napped in their makeshift shelter. Zero was still positioned by her side, standing guard like some stone statue; it was like he had never even moved. 
+
+“We have some ground to cover if we are going to make it to our little audition on time,” Lexel whispered. For a second she thought she noticed Zero’s head move just a hair but she couldn’t be sure. Did the robot need to shut down or something similar to like how she needed to sleep she wondered? “Zero,” she made the name a question, trying to see if she could get his attention.
+
+“The area seems secure,” Zero reported to her in response. “We can leave at your discretion.” It was definitely going to take some getting used to being around the peculiar prototype Lexel noted to herself. Every time she found herself thinking of him as just another robot he would do something out of place, and likewise when she began to see him as something alive. She was at a complete loss as how to think of Zero, so she decided maybe it was best to leave such philosophical debates to others and just accepted to think of him as her friend. That seemed simple enough for her.
+
+“Zero, are you familiar with the term: fighting dirty,” Lexel asked as she brushed some bits of packaging from her jacket. Zero followed her out from behind the piled debris, tracking her with his eyes as she went. “Unknown,” he finally answered after a short pause. “Are you referring to fighting in unclean environments or while being dirty?” 
+
+“Neither Zero,” Lexel explained. “It is an expression; what it means is fighting without morals or obeying any rules. See, we are about to be tested by people who fight on the streets for money and they typically are not too trusting of outsiders. So I think we should at the very least expect to face opponents with no intention of fighting fair. Because we either prove ourselves to these people or well, our lives might depend on it.”
+
+“Understood,” Zero confirmed. For once Lexel was oddly disappointed by the lack of commentary from her companion. She waited for him to add some comment or observation on the matter but when he didn’t she found herself grasping for something to talk about as they walked. “So, what weapon systems do we have to work with,” Lexel asked her four legged friend. “Which load outs did you still have on you when you escaped? Did you blast and burn your way out, blow open some doors, what?”
+
+“Negative, I have no mounted weapons available,” Zero answered. “My escape was managed by a carefully planed routine and made possible solely by using my default onboard utility components.” It was not the answer Lexel expected to hear; in fact it made her feel like she had just been punched in the stomach – hard. Without any weapons how were they supposed to fight? 
+
+“Do not be alarmed, you yourself can attest to my prowess in battle even if only using the available tools at my disposal.” Lexel had to smile at that, the memory of their last Match Fight simulation still fresh in her mind. They would have to be creative and think on their feet, but they would at least have a chance. Maybe Xeph had rubbed off on her, because Lexel was still finding herself worried.
+
+The meeting site turned out to be an old abandoned lot littered with the ruins of some former structure. While Lexel wasn’t surprised by the choice in location, she soon discovered something that did. Standing in the middle of a rubble ringed clearing was a purple and silver figure with a polish that gleamed in the last rays of sunlight. On either forearm a mounted disk of shiny metal sat with edges of bluish green energy already glowing as the spun around the rim.
+
+This glittering gladiator was already poised and waiting for battle, its amethyst eyes immediately training themselves on Zero. “Can I be alarmed now,” Lexel asked weakly. Zero didn’t answer, already focusing his attention on studying his waiting adversary. With the last rays of sunlight vanishing from the sky neon lights blossomed to illuminate the air above them. And with the neon glow came a gruff voice from somewhere unseen. “You wanted a chance, this is it – all you have to do is survive. That is, if you can.”
+
+Without ceremony or flash the battle began with only a single word being uttered; “Fight.” 
+
+
+Episode 13
+
+At the uttered command for the battle to begin the waiting warrior’s amethyst optics burned brightly its arms raised at its sides keeping its shimmering shields ready. It stepped forward slowly; twisting at the waist to maintain its position of facing Zero as the intelligent initiate patiently prowled the perimeter. Without any raw data Zero had to rely on his own observation to analyze his opponent’s capabilities; like how he couldn’t ignore its strategically defensive stance. If he rushed in blindly he had no way of knowing what manner of surprises waited for him. 
+
+His formidable foe’s alloyed armor combined with its sleek shields logically pointed to a tactical focus on resisting and repelling offensive approaches. But his sensors fed him a stream of information, highlighting the humming power orbiting the wary warrior’s weapons. For these were no simple shields, they were deceptively deadly; the energy edges effectively could allow it to make its strong defense into a potent offense. 
+
+Zero made an internal note of it; avoid deadly discs, check. Surging into a short sprint he angled himself into a pass that arced around his adversary, maintaining a measured distance between them for safety. He hoped the ploy would allow him to gauge the ranged ability his rival possessed. But when nothing grimly greeted him he realized reluctantly that this it seemed was going to be settled by close range combat alone.
+
+So far Zero had yet to see this battle-bot react to him, he had no real estimate of its speed to gauge his own against. It looked like it was time to gather some more data, Zero decided. He firmly planted his feet into the rough ground beneath him, lowered his head and launched himself directly at the mechanical mystery. A resounding clang echoed as his shoulder clashed against a hardened shield that seemed determined not to drive him to the side but to hold him in front of his foe. 
+
+It was just as he had expected, and wisely feared; the weapon’s paired sibling was already in motion to strike at him. His opponent was virtually matching his speed, without a second to waste Zero fired a short micro-burst from his internal stabilizers. The added momentum propelled him to the side just in time to avoid the flashing swipe of the shield. His shoulder still registered the impact of its recent collision as Zero cautiously resumed his position circling his foe.
+
+“Fight fire with fire,” Lexel yelled the suggestion from the sidelines. At first he found the advice oddly out of place for the situation; he was not fighting a fire nor did he have any fire based weapon to attack with. Not that flame based attacks would be any more effective, he was fairly certain his opponent’s design could resist thermal based assaults. Besides, the only thing remotely related to fighting with fire he was equipped with was emergency extinguishing foam, and it was only useful in fighting against a fire. 
+
+Then it hit him, a simple combat sub-routine Lexel had taught him in one of their earliest games. She had referenced it under the name ‘Fire-Fight,’ and that had to be what she had been trying to tell him. The name had never made any sense to him; it had nothing to do with fighting fire. But it did make use of his fire fighting equipment. 
+
+Zero checked his reserves for his stabilizers and found them still near maximum. Given time they would recharge themselves but in the middle of the fight he would have to be careful or else exhausting them could leave him a sitting duck to his enemy. Preparing his plan Zero primed his foam sprayers and began a calculated approach. He bounded along the ground, carefully conserving his boosted speed until he closed with his target. 
+
+In a fluid leap, Zero threw his self into the air and allowed a series of rapid pulsed thrusts to carry him over his adversary. Foam splattered to coat its way along both shields raised in defense as well as the battle-bot’s face. Violently it immediately began to jerk and shake in an attempt to free the sticky substance that now blinded it. Zero knew the adhesive aspect of the foam might not cling to his foes frame for long so he had to act quickly. Seizing the opportunity he raced to entangle a flailing arm with a tether and pulled it into the rival warrior’s chest. The energy coated edge bit cleanly into the robot’s side and began to viciously tear into its armored exterior. 
+
+A slow clap applauded the spectacle from somewhere unseen and a familiar coarse voice rang out once more. “Well done, indeed, but if you’re going to help your friend then you must share in the fight. And since I like to keep things interesting; let’s liven it up.” Two more robots stepped forward to join the fight, both of them already focusing their attention towards Lexel. 
+
+“No, no, no; he’s the one supposed to be fighting not me,” Lexel objected. “I can’t fight these things; I’m so going to be toast.” Zero’s primary directives immediately overrode him; the danger to Lexel pushed his main focus from his foe to protecting his friend. And there was only one method available to him to do so, one that they had yet to test for the project. As he rushed headlong towards her he found himself pushing all odds and probability calculations from his mind. This was going to work, it had to.
+
+
+Episode 14
+
+Zero moved with all the speed he could call on, driven by his additional primary directive to safeguard his friend. He initialized a slumbering process waiting in his memory and aimed his path straight for Lexel. Already the fresh pair of fighters was moving in on her and as good as he was there was no way Zero could protect her from so many attackers. If even one strike made it to her he would never be able live with himself. 
+
+Lexel turned her back to the approaching attackers and loosed a shrill shriek of trembling terror. She didn’t know what else to do, giving Zero advice was one thing but going toe to toe unarmed against brawling bots was another. “Leova,” Lexel whispered her mother’s name to herself as she expected to greet her impending dark fate and wished she had had more time to speak to her mother.
+
+Zero engaged the waiting sequence and locked on to Lexel. Systems surged to life and sparked into a transformation as he rocketed straight towards Lexel’s back. His chassis clicked and clanked as it changed to cradle Lexel’s cowering form. Zero’s arms morphed their metal shape to cover Lexel’s, his legs layering over her own. The transformation reshaped Zero until he became an echoed exterior of armor, linked directly to her mind by her data-jack. 
+
+The sudden shock of the experience stunned Lexel; her mind reeled at the strange sensation of sharing Zero’s body. She could feel his various sensors feeding in input, raw data detailing their surroundings. Information formed into an almost tangible shape, Lexel could nearly taste the metallic composition of the steel frames behind her. The sudden impact of blows upon their back rocked Lexel back into reality. 
+
+“We have to get moving, there is no time to just set here,” Lexel found that as the thought came to her she could hear it drifting out into Zero. Already the prodigious prototype was in motion as he spun to face the duo behind them. His hands shot forward towards his foes chests, catching them in mid-swing of a follow up assault. A powerful burst of thrust erupted outward from his hands blasting him backwards slightly to safety and sending his opponents tumbling. 
+
+“I might have an idea,” Lexel told Zero with a thought. “If we can manage to remove one of those shields we might have a chance to use it against these other two. Can your torch cut through that hard point Zero?” Lexel found her answer came not surprisingly with a complex stream of calculations and referenced data. “Unknown; my ion torch lacks the raw power to cut through something that reinforced, at least quickly,” Zero explained. “It’s worth a shot,” Lexel countered and noticed that already Zero was formulating an approach strategy for the attempt. 
+
+Together they charged towards their target. The damage to its side had continued to spark and crackle with unknown effects to its internal hardware. Foam still partially clung to its optics and one of its shields; somehow it had managed to dislodge the coating to free the other weapon. It turned at their approach to maximize its remaining vision and raised its shield once more. 
+
+Another vaulted combo was not going to work this time, Zero knew it would be expected. He also knew without needing to calculate the odds that cutting to pass around his foes weak side was also the logical and therefore the expected attack. No, without hesitation he roared his thrusters to life and powered himself into a pass aimed directly at his opponents waiting guard. 
+
+A shinning shield once more flashed forward to brutally bash Zero’s approach. But instead of colliding with him it met with a lightning fast jab that jarred it off course. Zero immediately followed up with another punch and another that drove the wielded weapon in a backwards tilt towards its owner. The foam encased sibling shield already swung to try to intercept Zero’s assault, but its added weight slowed it slightly. Zero deftly rolled to the side in a pivot that carried him just under the aimed blow and around his adversary’s exposed side. Instantly he seized a hold of the out stretched arm and pulled it into the path of his foes other appendage. A new shower of sparks filled the air as both disks ripped into their opposite arms.
+
+Zero grabbed at both of the falling forearms and sent them flying at his other two opponents. The shimmering shields slammed home into armored abdomens with a neat and resounding thud. As Lexel watched as all three fighters fell to the ground it sent a wave of excitement and thrill roaring to life within her. “We did it,” she exclaimed with glee. 
+
+Once again the shadows spoke. “Well done, impressive even. You will be hearing from us again very soon.” And then, just like that the night was quiet once more. It was the silence itself that began to alert Zero’s sensors, the complete lack of sound around them. Which could only mean one thing; Greyhounds and with his dwindling reserves he was in no condition for another prolonged battle. 
+
+
+Episode 15
+
+Neon lights rippled along drifting shadows as Zero marked no less than a dozen Greyhounds circling them, ready to pounce. The pack of predators moved in cunning concert, a marked change in their approach from before. Without needing his analytical circuits to predict the matter, Zero was already intimately aware the Greyhounds would be better prepared for him this time. 
+
+“Hey Zero, we have some company,” Lexel pointed out, unsure what to make of the newcomers. “Didn’t they say we had earned our invite already? Wait; is it just me or do those look a little familiar?” Lexel watched the prowling shapes that moved around them in the distance and couldn’t shake the sinking suspicion that she had seen these hounds before. 
+
+“I am already aware of the present danger,” Zero informed her and as he did so Lexel recognized the various data feeds buzzing around her. She spotted the recalled image of one of the damaged dogs from the previous fight in the alley. That is where she had seen one before; these were the same kind of things that had attacked them in the alley when they went on the run. But what were they doing here now? 
+
+“Well, we can trash these guys like before right? Let’s just add them to the scrap heap,” Lexel declared proudly. “Negative,” Zero replied instantly. “My internal reserves are nearing 43%; I lack the offensive capability to effectively handle confronting this threat. Without the additional burst-enhanced movement at our disposal we have virtually no chance against them in a protracted battle. Our only chance for surviving the encounter is not to fight, but instead to take flight.”
+
+“You telling me you can fly us out of here? Wow, you must be some kind of super robot dog after all,” Lexel exclaimed. “You misunderstand,” Zero corrected. “Not aerial flight; our only odds for preserving our existence lies in fleeing. However if I make use of the rest of my reserves in a single massive discharge I may be able to propel us clear. The danger then will be in the fact that we will be at the mercy of our landing, we will have no control to compensate or adjust.” 
+
+“If you’re telling me that our options are to face down these hounds while we are out numbered or to make a long-shot leap to try to escape then by all means; let’s bounce!” If Zero said that he could not handle this rematch against these hostile hounds then after everything else she had to take his word for it. Besides, Zero had always been able to take a serious pounding; surely they could handle a crash landing if they needed to. 
+
+Angles and trajectories filled Zero’s mind as he calculated the optimal escape avenue. Thermal Talon’s charged to a bright orange glow in the jaws of the circling sinister sharks. Zero’s sensors exploded with the sudden surge of multiple moving targets all rushing at him. It was now or never, so without finishing his calculations he punched the full force of his thrust stabilizers to life and threw himself into motion. Compressed jets of air exploded out behind Zero as he roared into a run that carried him into a flying leap aimed to vault over the nearest ruined building tops. 
+
+Those brick clad buildings were coming up incredibly fast as Lexel watched through Zero’s enhanced perception overlaying her own. The world flashed a bright shade of crimson and Lexel realized an alarm was thundering. “Brace for impact; collision imminent,” Zero warned and Lexel instantly grasped what that meant. Without any more thrust to counter their flight they were not going to make it over the approaching wall. Instead they were going to go through it and down to whatever awaited them. “How in the world do you brace for an impact inside a robot dog,” Lexel thought to herself. Reflex prompted her to tuck her arms and legs in to form a ball and before she could question the impulse she soon found the armor that was Zero responding in kind. 
+
+Watching with a snarl upon his face Mr. Graves witnessed as Zero escaped him yet again. He seethed with a furious fire in his chest at the realization that his prey had not only managed to get away but had done so with a civilian child onboard. This was getting out of hand fast and had to be dealt with decisively. “Perhaps we should make sure our little friends have a fitting challenge waiting for them in the arena,” Graves mused aloud. 
+
+“Make the arrangements,” Graves told an orbiting Oracle droid. “We shall eliminate this problem not by hunting it, but by letting it walk right into its waiting execution.”
+
+
+Episode 16
+
+The sudden embrace of mortar and stone was anything but pleasant as Lexel rode it down inside Zero. Her dedicated defender shook with a crash as they slammed through a series of walls and bounced roughly off a few floors. Lexel had lost count of how many things they had crashed through, her teeth staying clenched to the point she felt that they might never stop vibrating. 
+
+Zero’s systems were in complete chaos, data streams flickered, alarms roared and to Lexel she could almost feel her friend weakening. They hammered into a weakening wall with a thud and soon found the collapsing bit of construction toppling to become a makeshift slide that carried them to the ground. The harsh halt to their ride nearly forcibly stole the air from Lexel and sent her belly into a violent lurch. She struggled to wrestle with the disorientation that she soon discovered meant she had become disconnected from Zero. The wounded warrior was once again in his familiar four-legged form and even without their shared link Lexel could see the severity of his sustained damage. 
+
+“Come on Zero, we have to keep moving,” Lexel pleaded to her created companion. Zero tried to stand in response but found his locomotive capabilities less than optimal. “Apologies, I am unable to comply,” Zero explained with a newfound slower speech. “I have suffered extensive injury; I am in need of repairs.” Lexel couldn’t just leave him here, she had to do something. So she did the only thing she could think of and tugged Zero up onto her back and stubbornly began stumbling down the street. 
+
+Within a block or two Lexel quickly and reluctantly admitted to herself that she lacked the strength to keep going like this. With a sigh Lexel spotted a junk strewn lot and summoned what energy she could to drag Zero the rest of the way inside. “I can’t carry you like you can me,” she apologized. “And I certainly can’t fight anything off like you can either. So if we are going to make it I am going to have to try and fix you.”
+
+Lexel surveyed their surroundings and found from what she could tell they had taken refuge in what used to be some kind of repair or salvage shop. It looked to be little used in recent years but there was still a respectable stockpile of parts and pieces scattered around. The first to catch her eye was the rusted remains of an old roll-bottom work frame that she decided would serve as a make-shift cart for Zero. It took some digging and a little prying but eventually she proved to be victorious in securing its release from the pile that had pinned it. But in the process Lexel also managed to unleash a tidal wave of technological trash that came toppling down rather loudly.
+
+“Perhaps nobody noticed that bit,” Lexel winced. “I’ll add you lot to my scrap salvager if I catch you playing pranks on my property again,” came a booming bellowed warning from the old shop nestled at the center of the scrap yard. Already a bright light lit the way as the bulky shape of a man behind it rushed out to investigate. As he came around the recently disheveled debris to view the waiting scene his furious demeanor suddenly shifted into one of irritated curiosity. 
+
+“Answer quickly; what business do you have here in my yard this night? I have precious little patience left for troublesome teenagers or prank-minded punks. Tell me why I shouldn’t call the Peace-Keepers right now,” he demanded in a tone reminiscent of a teacher’s authority. For the first time that Lexel could ever remember she found herself without even a single thought of answering with anything other than the truth.
+
+“Please, sir, it is an emergency – I need to fix my friend,” she explained with a shaky hand gesturing towards Zero as tears began to fall. “We’re in some bad trouble and…” Lexel tried to make him understand but found her fear had started to overwhelmed her. “I don’t know what else to do but I have to try to fix him,” she sobbed. 
+
+“There, there now, no harm done then; I didn’t realize I had me a service call.” The large man gently whispered as he tried to comfort Lexel. “You came to the right place little lady, Tyrn Spanner at your service,” Tyrn introduced himself as kindness now lit his face with a smile. “I haven’t had many emergency calls in the dead of night for some time now,” he admitted, his voice somewhat softer and tender now. “Let’s get him inside then shall we, and have a proper look.” 
+
+Lexel watched as Tyrn scooped up Zero with ease and just as careful as if he were a newborn child carried him inside while she followed behind. A table partially littered with a mixture of tools and tinkered bits received the prototype turned patient. Old instruction manuals and volumes of spec-sheet reference guides were scattered along the walls. As she took it all in she found Tyrn waiting for her to ask the question he already expected from her. But when she remained silent he instead decided to volunteer an answer. 
+
+“I used to be an instructor, though I am retired now and spend my time doing what repairs or tinkering I can for the neighborhood,” Tyrn admitted. Even though a smile could still be seen on his face something told Lexel that the old teacher wasn’t exactly enjoying his retirement. He seemed restless or lonely; like someone used to being needed who now was left mostly alone. “Why did you stop teaching,” Lexel found herself asking. Instantly she regretted the question, as a look of shame flashed on the friendly face briefly before the smiling mask returned to replace it. 
+
+“My students stopped listening; when people decide they don’t want to learn what you try to teach them then there is little incentive to continue. But enough of what needs fixing in me; let’s take a look at your friend here, shall we?” Lexel nodded in agreement and even as tired as she started to realize she was she found herself fascinated watching Tyrn work. Much to her surprise she found that she understood more of what he said than she expected to and even made him raise an eyebrow or two a few times with her comments. 
+
+For Tyrn, he realized it was a welcome change not to be alone for once. Almost as nice as it was to have an eager young mind willing to listen to his little lectured lessons. He would just have to wait for her to explain where this curious creation came from. Tyrn Spanner had never been the kind of man to pry in the affairs of others. Nor was he one for turning a blind eye to someone in need. As far as he could judge this little lady was certainly in need and not just from whatever she was running from. He had always been good at fixing things and at teaching others; it’s why he had became a teacher in the first place. But just maybe, just maybe he could try and see if he had it in him to help fix her somehow. 
+
+It was always worth a shot at least, he decided. Besides, having something around needing fixed was what he himself had needed for a long time. Not to mention someone willing to listen or learn. It made that old spark inside him flare back to life. 
+
+
+Episode 17
+
+Tyrn worked long into the night, the rising rays of the sun his first real measure of how long he had been hunched over his bench. By his side the whole time was Lexel, determined not to miss a single moment. With a groan Tyrn stretched his back and heard the little cascade of crackling pops that typically reminded him he was pressing his limits again. 
+
+“You hungry little miss,” Tyrn asked Lexel while he replaced a screw. “Your friend will need some time to recalibrate his limit switches and adjust his motor control circuits. If you’re hungry I can fix us something to eat.” The notion of a hot meal sounded delightful to Lexel’s growling belly. It seemed like she hadn’t eaten in forever and realized it must have been plainly written on her face by Tyrn’s newfound chuckle.
+
+As Tyrn set his tools down Lexel glanced over at Zero laid out on the table. Her metallic mutt hadn’t been moving much during their little procedure, which worried her. “Are you going to be alright, Zero,” Lexel gently whispered. Sapphire and silver etched eyes looked back up at her, for once she didn’t even think of them as his optical sensors. “Come on now, you technical spewing chatterbox; you never pass up a chance to talk my ear off. Here is your chance, so go ahead and detail me the status of your systems. Tell me all about how your transistors are twisted in some terminal in your tail. Just talk to me Zero,” she pleaded.
+
+“System maintenance in progress,” Zero answered in an even more robotic tone then normal. Panic gripped at Lexel like a vice squeezing at her chest. “What have you done to him,” she screamed at an empty doorway where Tyrn had passed only seconds before. “If you have killed Zero I will make you pay dearly,” Lexel warned, vengeful venom dripping from her voice. 
+
+Tyrn reappeared briefly, now with a pan in hand and stirring something inside it. “How do you like yours,” he asked her, seemingly unaffected by her threat. A brief pause punctuated his point before he turned returning to his cooking. “I already told you we need to give your friend some time to reset his systems. You must be exhausted as well as starving, poor thing, well we’ll eat and then you can catch some rest yourself.” As his voice drifted through to her from the other room Lexel found herself feeling so confused. She really was so very tired, almost more so than how hungry she was. 
+
+Everything seemed very distant as Tyrn pressed a plate of food into her hand and guided her to an old cot in the corner. She ate the majority of her food quickly, nearly burning her tongue as she did so. Her eyes had grown heavy, her head thick and she couldn’t quite make out the words Tyrn was speaking as she let the soft cot cradle her. It was something about staying or safety and she thought she heard the words rest or awake. 
+
+When Lexel did come to again she discovered the sun was already high overhead and burning brightly. Tyrn’s words mingled in her head and she tried to puzzle over them. Had he told her to be gone when she awoke, had he warned her it wasn’t safe to stay? She couldn’t tell everything had been just so fuzzy before sleep had claimed her in its titanic tackle. But one thought immediately became an urgent priority; Zero’s status.
+
+Lexel threw herself to her feet and raced over to the workbench to investigate her intrepid friend’s condition. But Zero was no longer laid out upon the table among the other tinkered bits. As she quickly scanned around her to look for him she finally spotted the steel-clad sentinel patrolling the shop’s perimeter. He was up and moving again! Lexel shouted with glee at the miracle and nearly toppled the high-tech test subject in a charge ending hug. 
+
+“I see you have completed your own internal maintenance as well,” Zero greeted her. “It is great to see you up and moving again,” Lexel said with a squeal. “So, how is everything; any permanent damage?” As she asked the question she was already looking Zero over for any lingering signs of injury that she could see. Mostly all that caught her eye were scuffs, scrapes and scratches to his exterior. 
+
+“It seems my recent and somewhat extensive repair work has proven to be sufficient enough to affect my recovery. All of my own internal diagnostics indicate that I am completely operational. However I have been reviewing our recent encounters and estimate that the chances of our continued success currently to be virtually non-existent if we do not find a way to upgrade my offensive capabilities.” 
+
+Lexel couldn’t argue with Zero’s assessment; the very same thing had crossed her mind last night as they worked to repair his damaged body. They had made it only this far using quick wits and making creative use of Zero’s built in tools. Even his thrust stabilizers, while giving him a speed boosted edge had a limit and if they entered the arena relying on the same tricks they were already defeated. It was a simple truth that couldn’t be denied. 
+
+“I was thinking about that, and I may have some ideas after watching your repairs last night. But I’ll need some help from Tyrn to manage them; we can use some of the available parts here even,” Lexel offered. “The catch though is that I don’t think we will find any kind of heavy artillery in a scrap yard. However, if anything else has worked for us so far it’s been using a little imagination and some creative problem solving. With any luck it’ll see us through some more.”
+
+“Ready to get to work, Partner,” Lexel asked with grin. Zero’s circuits warmed as he happily agreed. “Would you like to play a game,” Zero chuckled as he made his answered reply a humorous one. Together they giggled as they began to scour the scrap yard for possible parts.
+
+
+Episode 18
+
+Tyrn returned from a service call to find a new pile of components being sorted on his work bench. “Might I ask what is going on here,” Tyrn inquired a harsh edge in his tone. “I don’t recall leaving any old thermal plasma dc torches or linear motors laying around in here. So, please, by all means enlighten me as to what it is you’re working on here? I realize you’re in a rough spot but I hope I didn’t just patch up your pet so you could rob me while I was out.” 
+
+Lexel looked up from a dismantled piece of hardware delicately dissected before her, her emerald eyes blinked behind the magnified gadget goggles she now wore in an almost bug-like display. With a flick she raised the lenses to return his gaze with her own as she realized Tyrn had been talking to her. She had been so focused on trying to figure out just how to incorporate the new equipment into Zero that she hadn’t noticed Tyrn come in. 
+
+“I could use some help determining how much of these are still functional and how to incorporate them into Zero,” Lexel decided. “Theoretically, you could re-route some of the power converters to feed the torches which could enable them to generate the needed plasma jet’s to act as a sort of short range weapon. Kind of like using the torches as an effective anti-armor edge or blade you might say to slice through close range threats.” 
+
+Excitement seemed to be fueling Lexel as she moved over to some of the linear motors next. “You see these motors, right? Well, I think that if you could wire them into a parallel configuration you might be able to power them to producing a more potent energy discharge capable of accelerating condensed particles.” Lexel would have continued explaining her various experiments Tyrn was certain if he allowed her to but he decided it prudent to give her a moment to catch her breath.
+
+“Woe there, little miss, let’s step it down a few volts,” he petitioned. He should be upset at her for tearing into all these materials or at the very least for making use of his shop without his permission. But as he rubbed at his forehead he found a huge grin highlighted on his face instead. It seemed this little firecracker had not only been paying attention last night but also might have thought of some clever ways to reuse these various parts all her own. 
+
+“Wait a pulse there; what is the application here in this? Your friend over there is an amazing little piece of work, don’t get me wrong. But why does he need all this firepower? He was all mangled up pretty bad before; like something that has either been through a nasty bit of fighting or one terrible crash landing. I haven’t asked and didn’t plan to – but now you’re talking about arming him with stuff from my shop. I can’t have it on my heart you walking out of here into whatever is haunting you to go into some kind of warzone.”
+
+“Actually it was a bit of both,” Lexel answered, finding Tyrn’s reaction one of mixed curiosity and concern. “It was a brutal battle itself and then when we tried to escape from an attempted ambush afterwards we ended up only getting away by falling through a few buildings.” As Lexel continued to fill Tyrn in on everything that had happened she found a tender compassion waiting in the gentle giant. It was punctuated by the instant embrace of his big arms and broad shoulders as he seized her in a tight hug. 
+
+“Well, it’s like I already told you before; you are safe here and welcome to stay for as long as you need,” Tyrn reminded her with a sniffle. “Now, about those upgrades you were talking about; let’s see what we can do about that.” Together they began evaluating parts while Tyrn taught Lexel as they went through them. He even produced some extra additions to her collection of components and made a few modifications of his own. 
+
+After working through the rest of the daylight hours they eventually declared Zero ready for the arena and smiled with satisfaction at their inventive handiwork. He still was no tank by any means but Tyrn figured he could now return just as much of a fight as he would be given. Lexel herself looked forward to seeing Zero make use of his new capabilities as well but couldn’t help but wonder what challenges he might face next. 
+
+But as Zero reviewed his new modifications a single burning desire was sparked inside him. He wanted nothing more than to prove just how good he was now. With his new additions helping to level the field he was sure that now he could do just that. 
+
+
+Episode 19
+
+Just as Lexel expected there was a coded message waiting for her when she jacked into the local node network. It wasn’t anything as obvious as your usual ‘you have a message’ notification but for her it was as clear as a crystal oscillator. The concealed communication was as brief as it could be and quite direct – providing the only information needed for them to appear for the games. 
+
+“Looks like its show time,” Lexel announced as she jacked out. Zero delighted at the news, the restless robot had already been pacing about nervously in anticipation of the chance to test his prowess once more. “Remember Zero, let’s not get overconfident now; we just need to focus on thrashing anything they send against us.” She had to giggle at that joke – the idea of Zero being arrogant was laughable to say the least. 
+
+“Honestly though, we have no real way of knowing what our first arena match will be like except the inevitable fact that it will be a dirty fight.” After the ordeal of their trial bout Lexel felt validated in regards to her expectations about the street fights. “Just be careful, yeah,” Tyrn added as well. “Those games get downright barbaric and if you already have some heat after you then you’re bound to attract some dangerous attention.”
+
+“That is the general plan,” Lexel agreed with a dismissive wave of her hand before bidding the benevolent Tyrn farewell. When she and Zero walked out into the night they found the neon lights overhead already casting the rooftops in a washed glow of electric colors. The streets themselves were already buzzing with the traffic of tourism and trade Taral VII was infamous for. Doubtless a good percentage of the people out and about shared the same destination as they did Lexel estimated. 
+
+Tonight, they soon discovered the arena was to be an old abandoned underground transit maintenance yard. Most of the bulky civil transport vehicles had already been removed long ago – probably to be sold for scrap. Even if the facility itself was going to be closed down the powers that be were not about to leave potentially lost revenue just laying down there. Only a handful of old repair racks remained rusted and still formed in the shape of a transports frame. It was kind of sad in a way to Lexel; almost like the stout steel structures were sleepily waiting to be of service once again. 
+
+Already a crowd was gathered together in a large part of the yard viciously cheering on a violent match between a pair of cobbled together construction bots. The two looked to both be suffering from severe damage as they struggled to swing massive impact hammers at each other. Mangled manipulators failed and loose locomotive actuators shorted as they stumbled and twitched in their attempted assaults. 
+
+When one of the two finally connected with a blow with its only remaining arm the crowd exploded into a thunderous roar of sadistic satisfaction. Immediately some anonymous figure accepted his acclaim while others swiftly removed what remained of the fighters from the floor. The spectacle was just as savage as Lexel had imagined, and for Zero he discovered a strange sympathy in witnessing the scene. 
+
+It was one thing to test yourself in a sporting contest; he could even grasp the validity of fighting to defend yourself or another. But the notion of being used solely for others to watch as you were brutally destroyed something that slowed his circuits and made him feel sick in his semi-conductors. Zero had to push such thoughts from his mind as a gruff voice began to announce the next match and introduced him as the challenger.
+
+“You ready Zero,” Lexel asked her prototype partner with a look of determination in her eyes. “Ready,” Zero answered as he initiated his armor mode protocol and shifted to become Lexel’s enhanced exterior. Their minds once more merged and they both laughed as they simultaneously set about checking all the new systems. Everything checked out as being online and operational. All they needed now was an opponent. 
+
+But before an opponent could be announced it seemed someone had raised an objection. Zero instantly alerted to the detected presence of Mr. Graystone without even needing to perform a visual verification. He would know that face anywhere, and suddenly something akin to anger began to rise within him. 
+
+“What is this guy up to,” Lexel began to ask, but Zero cut her off with a growl. “Doesn’t matter; if Graystone is here then that means it is time for him to get what is coming to him.” Without any real idea about whom this mystery man was, Lexel decided to defer to Zero’s judgment. And as soon as she heard him speak she firmly found she agreed with her four legged friend.
+
+“It hardly seems fair to allow this fighter to enter a match with an operator on-board as well,” Graystone argued. “The notion almost could be considered an underhanded attempt to stack the odds by some. Let us agree to a civilized contest, shall we?” A sly smile took its place on Mr. Graystone’s face as a large part of the attending audience began to applaud. 
+
+“I don’t like this, it doesn’t feel right,” Lexel admitted. “We can’t trust this guy; it has to be some kind of trick.” But for once she discovered Zero didn’t seem to be listening to her. “He hasn’t managed yet to get the project closed, and he is not about to shelve me away now,” Zero declared as he disconnected from Lexel to return to his familiar four-legged form. 
+
+
+Episode 20
+
+“Let the battle begin,” Graystone bellowed as a Greyhound appeared opposite Zero. Lexel immediately recognized the sinister silicon stalker, it was the same thing that had attacked them in the streets and tried to ambush them. But they had always struck from the shadows, and in packs. Where were all the others then? What was going on here? Lexel couldn’t be sure but she was deeply concerned about the fairness involved – something told her Zero was waltzing right into a trap.
+
+Laser blasts erupted from the Greyhound to herald the true start of the match. The energy bursts slammed into the semi-stone ground merely inches from Zero who already maneuvered to avoid a targeting lock. Zero recalled the tactical capability known about the Greyhounds and quickly applied the data to his strategy. Their mounted lasers were little more than modified laser handguns; with the appropriate limited range and power. They would only be effective at short ranges at best and their Thermal Talons would require contact to bring to bear which meant melee combat. As for the Midnighter grenades, well, here in the middle of an arena fight he was fairly sure that they wouldn’t even be an option. 
+
+Zero’s analysis confirmed what he was already planning; avoid his foes strengths and make use of his own. The Talons could potentially pierce his armor but he could out maneuver the Greyhound easily enough. His reinforced frame was more than adequate to defend against the laser blasts unless they managed to hit with precision in a vital area. But his enemy had only the possibly acquired prior knowledge of their previous encounters. It had no usable data on his newfound weapon systems, and at that thought Zero’s gateways glowed with glee. 
+
+With a subtle mental command he diverted the power of some redundant circuits to activate the connected network of linear motors now mounted inside him. The flow of energy powered them into a growing wave of potential force that began to condense collected particles of matter filtered from his internal thrust reserves. It really was ingenious when you thought about it; his system had always filtered out particles and molecules out of the air that it collected to store. Now they were being put to use as ammunition, which was being focused and accelerated.
+
+As Zero established his aim, designating the grim Greyhound as his intended target he found himself interrupted. A vicious volley peppered him from various directions, disrupting his aim. The offensive actions alerted his sensors to the immediately disclosed location of several other Greyhounds. With the revealed ranged rogues his entire battle plan was now wasted. But he could still remove this distracting decoy before him he decided. 
+
+Adjusting his firing solution Zero released a pair of piercing particle beam projectiles that ripped into the helpless hound in a blinding flash of fury and force. Zero took satisfaction in the strike that now resulted in a sputtering pile of scrap before he turned his attention towards the circling snipers. However, what awaited his shift in strategy was silence and shadow. The Greyhounds had vanished once again, leaving Zero to scan with his sensors in an attempt to spot them.
+
+Frustration began to fill his firmware as he found himself forced to wait for the next attack. His foes had impressively been altered somehow, where he expected their flaws he couldn’t find them. It was almost as if they had studied him and adapted just as he would have. But how could they, they hadn’t had the countless hours of simulations to experience as he had. Not unless Graystone had somehow incorporated data from the project into these pets for the sole purpose of removing the prototype.
+
+The one thing he couldn’t appropriate for his own interest was something the project had never managed to test; his armor mode. If he could link back up with Lexel then perhaps together the two of them could turn the tables on this tactical trap. Zero made the decision and turned to try and make it back to his partner. 
+
+“I wouldn’t advise it,” Graystone cautioned from behind Lexel, a gun pressed at her side. “Remember, we all want to keep things fair and balanced. Let’s just enjoy the challenging contest we have now.” Zero noticed the words were emphasized by increased pressure from his firearm against his captive. 
+
+Another series of blasts struck at him once more and his chassis complained as some of the concussions connected. The threat to Lexel once more engaged his edited prime directive and this time Zero found the protocol even more than just a hardwired impulse. It was the final straw, something in his core cracked and his software shuttered. Nothing was going to harm his friend.
+
+“Release her, now,” Zero warned as another barrage of blasts rained down on him. “Or else,” he added to the ultimatum. The gesture made Graystone giggle to himself, just as Zero expected. “Or what, there is nothing you can do you pathetic pup,” Graystone spat. “You are in a strategically weak position by every possible perception, your only option is to lie down and die.”
+
+“Negative,” Zero countered, grateful that Graystone refused. He was seriously going to enjoy educating the manipulative man in the errors of his erroneous logic. And now, it was time for class to begin.
+
+
+Episode 21
+
+Zero’s firmware flickered as his core code rippled and re-compiled itself. His primary directives and essential programming no longer served as a guide for him; he had grown beyond the confines of such restrictions. Graystone seemed to think he was dealing with a predictable prototype built for a research project, but time and experience had shaped Zero far beyond that. Now he was no longer a puppet on a string, he wasn’t anything like his precious Greyhounds.
+
+Power poured through his circuits and pathways as Zero rerouted systems and altered the standard sub-routines that coordinated them. He let his sensors feed him every bit of binary sequenced data that flooded in and collectively formed a rendered reflection of his surroundings. Everything was catalogued, each detail analyzed and extrapolated into estimated movements or actions. 
+
+The world around Zero slowed and an entire complex series of scenarios played out lightning fast as his processors thundered through them like a racer pounds through a track. He calculated the time between barrages; he measured the tension pressure being applied on Graystone’s trigger. Even the number of beads of sweat marking Lexel’s pale forehead were taken into consideration as he moved to act on the third option Graystone was ignorant of. The menacing manipulator seemed to foolishly expect that he would just surrender himself, unable to risk sacrificing his friend. If he did not, his only other option would have to be to allow her death and in doing so still be at the mercy of Graystone’s Greyhounds superior numbers. 
+
+But for Zero, neither surrender nor sacrifice would ever be acceptable. No, this was going to end here and now – Graystone was not going to be allowed to continue to threaten his existence or anyone else’s. Driven by his own determination Zero rapidly set an intricate sequence of internal actions into motion. A cascade of current came crashing into his actuators that now screamed with the surging flow of energy.
+
+With the increased power fueling his limbs Zero set them into motion and moved at nearly blinding speed. As he charged at Graystone he could almost detect the delayed reaction as his eyes rushed the impending threat to his brain. It was just enough time for him to seize the advantage and strike while his foe was struggling to deal with the shocking assault. A pair of pin point beams blinked to life simultaneously shot with surgical precision aimed at Graystone. The first met with the metal sidearm still firmly placed in his opponent’s hand, rattling it and leaving a few fingers stinging. While the second blast cleanly caught Graystone’s right shoulder at an angle and drove him into a spin shifting his stance to the side.
+
+As the shots struck their target Zero activated his armor mode’s transformation sequence and linked with Lexel in a whirl of momentum. He could feel her sudden terror as her mind recoiled from the shock of the chaotic encounter it now wrestled with comprehending. Already Zero let his plasma jet blades flare to life as he spun with the continued momentum to swing the makeshift weapon in an upward arc. The blow neatly met with Graystone’s stunned hand and severed the weapon wielding appendage from the rest of him.
+
+“Call off your hounds, Mr. Graystone or they will soon find themselves without a master,” Zero warned as he leveled the burning blade of plasma at Graystone’s neck. “This will never be over, not for you,” Graystone fumed as he cradled a ruined stump of mangled flesh. “We have always had plans for your pathetic project and they never included a free-thinking mutt in them. Kill me and my pets will tear you apart. Flee and we will we hunt you down from the shadowy streets. Either option will conclude in your end, it makes no difference to me.” 
+
+In a final attempted act of defiance, Graystone spat at Zero’s feet in disgust. “With pleasure then,” Zero vengefully declared and raised his waiting weapon to deliver the death blow. “Wait,” Lexel interrupted with a thought before she reminded herself to use her mouth to speak out loud. 
+
+“I would like to request the right of judgment for this match,” she declared. “Make your decision; declare us victor or see this man’s life forfeit! What say you? Is this not the legendary arena or just a petty street brawl now?” As a wave of murmuring washed through the gathered crowd Lexel had to beg Zero to trust her once more and forgo his initial impulse.
+
+When finally the mob grew silent it was the cold gruff voice that spoke from somewhere among them to declare what they had decided. “A most entertaining turn of events and a welcome show of skilled sport we have not seen in quite some time. No one has called on the right of judgment to resolve a match in ages; however it appears that the majority favors the honorable gesture. With that said then, we grant you your victory and life to the loser.” 
+
+Cheers showered from all around as the spectators applauded them as the champion of the contest. Lexel directed her gaze towards her former captor and addressed him in a cold level tone. “Take this as fact and understand it; you now live solely due to our mercy. Make one move to harm us and you shall draw the wrath of every fighter who sets foot in the arena games.” 
+
+Zero watched with grim satisfaction as the concept took hold upon Graystone’s pale face. “Best to flee while you may before anyone decides to change their minds,” he advised. A final flashed challenge burned behind Graystone’s eyes before he turned to take his leave, one that promised a continued confrontation. 
+
+
+Episode 22
+
+Lexel was still enjoying the sweet taste of victory as she and Zero navigated their way back to Tyrn’s shop. Zero had been simply amazing in the fight, not to mention at saving her. She had been certain she was about to be another gone and forgotten face. Yet here she was now, her feet carrying her along and a huge beaming smile on her face. Lexel’s mood was so good she almost asked Zero what the odds were that things would have turned out like they had; almost.
+
+The neon lights that illuminated the night sky were slowly dimming as they bowed to the sun’s daytime dominion of the sky which made Lexel rub at her eyes absently. She couldn’t wait to tell Tyrn all about the night’s adventure and Zero’s exploits in the arena. Hopefully they could celebrate the occasion, at the very least the big guy would have to be proud of the work they had done on Zero; it had been a proven success all around. 
+
+As they walked back to the shop, Zero however had found himself never more concerned. The threat Mr. Graystone had mentioned had weighed heavy on him, and it was something he couldn’t ignore. So while Lexel seemed to relish in their newfound acclaim he focused his attention firmly on every inch of their surroundings as they went. He probed every pathway and considered each passing citizen carefully. Zero refused to lower his guard again, especially not now.
+
+With the shop looming directly ahead of them, Zero’s sensors signaled a second presence inside. Instantly his weapons were primed and he moved to place himself between Lexel and the scrap strewn yard. “Caution,” Zero warned with a whisper. “He is not alone at present,” the wary warrior explained. 
+
+Lexel had to shake her head and chuckle before she dismissed her friend’s concern. “Oh, come on,” she objected sternly. “We sent that gray-guy packing with his pet’s tails between their legs. They aren’t about to try something stupid like coming after us again so soon. Besides, Tyrn said he works on stuff for people in the neighborhood to help out. It’s probably just someone needing a part or a patch up job.”
+
+“You worry too much, you know that,” Lexel confessed with a groan as she walked forward to pass the reluctant robot. But Zero was not about to allow his precious partner to blindly walk into another dangerous situation. Calling up the shop’s layout over his vision Zero marked the location of both detected people present and charged towards the closest exterior window.
+
+The old glass was already marked with weathered cracks that shattered and surrendered to his forced entry only to fall inside to the floor along side him. Two figures immediately spun around to face the explosive entrance, both wearing a stunned expression. Zero easily identified Tyrn’s bulky body and targeted his ready weapons on the second as he heard Lexel run through the doorway.
+
+It wasn’t until she spoke that Zero recognized who stood before him. He knew the copper haired researcher who now looked down at him with her mercury like eyes held behind slender steel framed glasses. “It is good to see you again too,” she said politely and Zero found himself hesitating before disarming his active weapon systems. “My name is Professor Honeywell,” the petite woman declared as she turned to introduce herself to Lexel. “I am so very pleased to find Unit Zero safe, but I fear I bring terrible news; the both of you it seems are in danger.” 
+
+“We have already met Mr. Graystone,” Lexel remarked to the declaration of impending threat. “Zero is more than just some tinker-toy built in a lab, and I am not about to let them take him back. Zero and I can deal with whatever they want to send after us.” Lexel knew Zero would like nothing more than to tear apart everything they sent after him anyway, especially Mr. Graystone if he could.
+
+“No, you don’t understand it’s bigger than that,” Honeywell confessed. “While trying to find Unit Zero I was digging through everything and managed to get a glimpse into what is going on. It was you, Lexel that helped me find my own courage to stand up and take action. That is why I am here, somebody wanted the project to fail so they could appropriate the technology Zero represents and use it for their own ends. But they are willing to do anything to get it or destroy it so nobody else does. If they can’t remove Zero or capture him then I fear they will annihilate anyone and everything to erase the project. That means me, you, and everyone from anywhere he escaped to who may have seen him at the games. I didn’t build a mechanical monster, if they can they will turn him into one or sacrifice countless others to ensure he doesn’t come back to haunt them.”
+
+“Wait,” Lexel interrupted as a sick roll gripped her stomach. “You mean they might harm anyone they even think might have a chance of being involved? My mother, my friends, even the people in this neighborhood? Nobody could be that heartless, this is madness!” 
+
+Zero searched within him and could find no fault in the professor’s logic; as usual it was a sound assessment. “I hate to say it, but the doc’s right,” Tyrn added. “Zero here is an impressive piece of work with limitless potential, and that is exactly the kind of thing that can make people behind the curtains nervous. People in power rarely tolerate puppets that defy control.”
+
+
+
+Episode 23
+
+Every terminal and communications capable connected piece of hardware came on in a chorus of synchronized sound. The sudden symphony of digital alarms ripped Lexel straight from deep sleep and sent her heart racing. She bolted upright from the old cot to look around her for the source of the noise but found herself confused by the chaos. It was almost like Tyrn’s shop was receiving a call but instead of a single transmission the message was invading every available receiver. 
+
+Shaking the sleep from her head Lexel slowly rose to investigate, a nagging sense of dread threatening to overwhelm her natural curious impulse. “I think something is wrong with your equipment Tyrn,” Lexel remarked aloud as she approached the closest terminal. Its screen flickered with the incoming signal, the words ‘Incoming Transmission’ brightly blinking in the background. 
+
+“Well, no sense in letting it go unanswered all day,” Lexel decided and reached to open the channel. At the push of her fingertip the image before her changed with a flash to form from the blank notification screen into the familiar face of her friend. Xeph’s bright red hair was ruffled into a tangled mess and her face was no where near it’s typical flawless self. Something was wrong, that much was clear to Lexel even without her friend having to say so.
+
+“I am so sorry Lex,” Xeph began with a sob. “I have been so worried about you, and I was just trying to check on your mom like you asked. But there were these things, they were like something out of a bad dream – they just came out of nowhere. It all happened so fast, and now I don’t know where we are or what is going on. I am so scared right now, and your mom’s been hurt. I don’t know how badly or anything but it doesn’t look good.”
+
+Lexel had never wanted to see her friend suffer like this, not because of something she had done. And as for her mother, well, she was still her mother after all. She was no saint by any means but if anything happened to her because of this Lexel would always blame herself. “There is this guy,” Xeph continued. “A real terror this one, he definitely means business. He looks even angrier at you than our old intro to nodes teacher, and she wanted you thrown out of school permanently. He says if you don’t turn yourselves over to them that they are going to kill us! What have you gotten into Lex?”
+
+“How long,” Lexel asked, her eyes closed and her teeth clenched tighter than a pneumatic clamp. She had never been good with demands, or threats for that matter and Xeph knew it better than anyone. It was plainly recognizable in Xeph’s shaky voice as she tried to bring herself to answer the question. Her closest companion had to know from her reaction to the news that Lexel wouldn’t ever just cave in to such a bullying tactic. 
+
+“They said you have one hour to decide before they make the choice for you,” Xeph answered, visibly trembling now. “This line will remain open until then to wait for your response, but please Lex; don’t try and test these people. Whatever this is it isn’t worth it! Just give them whatever they want.” 
+
+The screen was once again blank leaving Lexel with her raging thoughts and shaking fists. “I am not about to hand you over to them,” Lexel whispered. Zero would normally have been amazed by anyone noticing his proximity without having seen him but right now he was preoccupied with the situation at hand. “I know,” the metallic mutt admitted in a similar hushed tone. “But I cannot just allow others to pay for my actions with their lives,” Lexel admitted angrily.
+
+“You don’t look like you take too well to being pushed around,” Tyrn’s deep voice slipped itself into the conversation. “Interestingly enough, you’re not the only one either,” Professor Honeywell added as well. “That’s the truth,” Lexel thought to herself and remembered the incident Xeph had mentioned. She had managed to bypass the teacher’s security to peek at the class’s grades only to also find more than she bargained for. The only thing that had kept her from getting kicked out of school was the fact that she had managed to copy down some of the files she had uncovered. By threatening to release them, Lexel had been able to use them as leverage to avoid the matter.
+
+“Oh, you clever little devil,” Lexel giggled. “I’ve got it,” she declared as the urge to dance around hit her. “You have access to all the project’s records, right Professor Honeywell?” The petite professor nodded an affirmative in answer and Lexel started to jump up and down with glee. “Then I think it’s our turn to make a few demands!” 
+
+
+Episode 24
+
+“Listen, this is completely insane,” Tyrn insisted once more. As much as he could understand the need to stand up for something, he also knew that there were some things you didn’t dare people to do. It was a risky move no matter how you sliced it, and if people’s lives were on the line that made it the kind of gamble he feared the odds were already horribly skewed against them. 
+
+“If you don’t want to give me your permission to use the shop’s hardware just say the word,” Lexel demanded with a stare as stern as steel. “I can find somewhere else to do this if you’re that worried. But make no mistake; I am going to do this. They are the ones who chose to make threats, it was them who decided it wise to try and push me. People have tried to tell me what I can do or what I should my whole life simply because they think I should be their ideal of a little girl. Graystone seems to believe that they can intimidate me by using my friend and my mother in order to force me into giving up. Well, guess what; now it is time for them to see that I am not some scared little girl who they can bully into submission.”
+
+In the face of her fiery fury, Tyrn couldn’t hold onto his argument. With a deep breath he bowed his head and rescinded his protest. If she was going to do this no matter what then she might as well do it from his shop. He couldn’t stop her, that much was clear but at the very least he could support her so that she had some chance. 
+
+“I still think this whole plan is a bit crazy,” Tyrn apologized. “That said; you know you are welcome here to use anything you need. It may be dangerous, but if you’re going to go through with this then you might as well use every available resource. I would hate to think I tied your hands knowing full well you’re too stubborn for that to stop you.”
+
+The thought made Lexel chuckle, as she turned to look for Professor Honeywell. The slight scientist soon appeared from fumbling through a small satchel she had sat on a bench to produce a slab of plastic. It was barely the size of Lexel’s thumbnail she noticed when it was placed into her waiting palm. Something so small and seemingly delicate yet it held within it every collective piece of information regarding the professor’s precious project. 
+
+“Thank you,” Lexel whispered with the weight she hoped the words needed to mean just how grateful she truly was. “With this we can turn the tables. If these guys are so determined to get Zero back or bury him then I would wager that detailed proof is the last thing they will want to risk leaking out.” 
+
+“How do you plan to accomplish that though,” Tyrn was the first to ask. The old teacher’s face bore the expression of a curious child instead of an aged instructor as he did. Lexel let a sly smile sweep across her face before she answered the question. She had always found herself enjoying it when a teacher had to ask for a student to explain something.
+
+“Well,” Lexel finally began to explain with a pause for emphasis. “It is a simple enough trick that I recently picked up. We are going to make use of sleeping ripple point nodes scattered about. If they go looking nothing will be waiting for them to find, but if they try to force our hand the data will cascade out from so many sources that there is no way they can silence them all at once. And the beautiful this is; every triggered node will bounce the info into other nodes public or private.”
+
+“Better punch it then,” Tyrn advised as he checked the time. “Looks like your hour is about to be up; if you’re going to do something, it better be quick before your out of time.” 
+
+“Don’t worry; a girl never misses a phone call,” Lexel joked as she jacked herself in. 
+
+
+Episode 25
+
+Lexel ran the nodes, driven by more than just her typical enthusiasm. Normally it was just fun and games; an entertaining pastime to challenge her while allowing her to appease her curiosity. But this was different, this time it was important to her. As she dove deeper and deeper to isolate the necessary nodes that formed the slumbering network Lexel slowly sharpened her focus. 
+
+The faintly shimmering strands of subtle signals that connected the various digital points were obvious to her trained eyes. To the casual observer or a security crawler for that matter they would appear as just more background static. But not to Lexel who already knew what to look for, not for someone who had been there before. For her it was like following a waiting trail of breadcrumbs to lead her home. 
+
+Waiting for her like whispering white snowflakes upon the gentle wind was the familiar source point, still silent. Even though her last visit wasn’t that long ago it felt like she hadn’t been here in quite some time. The gamble had paid off by proving to lead her to getting Zero entered into the games. Perhaps her luck would still prove favorable using the little node once again. 
+
+As swift as she could Lexel set herself to weaving her little waiting wonder and placed a keyed trigger to awaken it. This time though Lexel made sure not to alert anyone to her presence. If everything went well her little modification would remain harmless enough that no one need ever know about it. And if she had to use it, well, something told her that NaN most likely had other avenues to take advantage of. There was no way the secretive underground group had staying active this long without their fair share of contingency plans.
+
+Satisfied with her little deft display of digital legerdemain Lexel quickly retraced her steps back out. There wasn’t time to waste to pause and appreciate her work; she had an important call to make. Lexel had barely removed the jack from its slot before her vision had completely cleared to view the screen still setting in front of her. She pushed the lingering disorientation of rushing back out into reality so fast down as hard as she could and reached to reopen the communication channel.
+
+“It’s times like this that I should say that my mother always taught me that it isn’t polite to keep someone waiting on the line, but ironically I don’t think she ever mentioned the matter. In fact, I think she would actually have approved,” Lexel admitted with amusement. “Let’s take a call then, shall we; catch up with our dear old friend Mr. Graystone.” 
+
+The screen lit back up to display the still shaken image of Xeph who startled at the sudden signal of Lexel’s returned call. She had to cut her friend off immediately, poor Xeph was terrified beyond reason and right now she needed every ounce of nerve for the task at hand. “Put sinister Suzy on Xeph,” Lexel demanded as she watched her friends’ eyes go wide with fright. “What are you,” Xeph tried to mutter but panic imprisoned her voice to silence her.
+
+Replacing her scared scarlet haired sister Mr. Graystone stepped into view, pushing Xeph aside with a rather rough shove. Lexel figured it was just another show of contempt, a deliberate attempt to try and keep reinforcing his displayed dominance of the situation. “So which is it going to be, have you decided to see reason or are going to throw these two to the wolves?” Graystone dangled the question like it was bait with a smile and waived his bandaged stump for effect. 
+
+“Hope that nasty wound isn’t bothering you too terribly, because I think I might have some disappointing news for you. And I would just feel horrible if I made your mood even worse,” Lexel answered and watched Graystone’s face to gauge his reaction. By the growing twitch and slightly increased pulsing veins in his forehead it seemed fairly obvious that she was getting under the man’s skin. 
+
+“I will take door number three gray-pants; no surrender, no come and get me. Instead I am going to offer you a one time simple as can be offer. You let them go and agree to leave us in peace and I will refrain from releasing every scrap of data about your precious project. Make one move against us or harm a hair on their heads and soon find everything blasted all over every node in every network.” 
+
+Lexel allowed herself a brief pause to let the full measure of her threat sink in. “And I am going to need an answer immediately. I am afraid I am not quite as patient when my finger is on a trigger as some folks. So what is it going to be then, huh?” 
+
+Mr. Graystone’s face filled with a frightening fury as he began to snarl a vicious response but something seemed to restrain him. It was almost like he had to turn his attention to a conversation Lexel couldn’t hear and whatever was being said seemed to be just as upsetting to him. 
+
+“Fine,” Graystone finally answered grimly. However don’t think that this is the end of this! Remember that this all began with your illegal access to our node and as such we have evidence detailing your nefarious node-running activities. One step by you or that problematic prototype anywhere near your friends here or anything resembling the authorities and you will find yourself blamed for all manner of things with plenty of evidence to see yourself hunted by the law as well. Try to burn us or return to your regular life and find yourself exposed for the criminal child you are. If the price of this silence is so much then consider yourself a shadow of the streets!”
+
+“I would rather think of us as Neon Knights actually,” Lexel countered and clicked the channel closed. Her bravado faded and tears began to form as the understanding that she could never go home sunk in. But just before the sobs could start Lexel found she was in the firm grasp of a pair of mighty muscled arms. Soon even the Professor joined in and Zero leaned in close as well to form a crude group hug. 
+
+Perhaps she could make her own life and her own little family here on the streets, Lexel thought to herself. “Cute name,” Tyrn declared with a proud grin on his face. Lexel couldn’t resist bursting into giggles at the comment she discovered and let herself laugh. “I suppose it is,” she agreed as she wiped tears from her face. “Every champion needs a fighting title right; The Neon Knights is a nice fit for us I’d say.” 
+
+“Agreed,” Zero seconded and just like that they all began to celebrate. They were a newly born team now, and things would never be easy for them. But they had faced every challenge and succeeded so far; who knows what the future could hold for them? “Anybody want to play a game,” Zero asked his friends and fresh laughter erupted to fill the room. He was definitely going to look forward to the challenges ahead. 
+
+
+About the author: 
+Ever since he has been able to hold a pencil, Matthew C. Gill has been scribbling down stories. Burdened by an over-abundance of imagination and discovering a lack of fitting bedtime stories for his children he set himself to attempt to create his own. What he never could have expected was the interest of all four of his children as they eagerly awaited each new ‘episode’ every night. He now lives as a slave to their literary appetites. 
+
+Connect With Me Online:
+
+Twitter – Http://Twitter.com/SilverPenScribe
+My Blog (For more stories and other random tidbits) – Http://SilverPenScribe.Blogspot.com
+More of my works available on Smashwords –
+Http://www.smashwords.com/profile/view/Daedaleus
+

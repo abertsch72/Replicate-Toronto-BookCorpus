@@ -1,0 +1,811 @@
+﻿Tossing Dice
+
+By A. E. Branson
+Copyright 2021 A. E. Branson
+
+
+Smashwords Edition
+Thank you for downloading this ebook. This book may be reproduced, copied and distributed for non-commercial purposes, provided the book remains in its complete original form. If you enjoyed this book, please return to your favorite ebook retailer to discover other works by this author. Thank you for your support.
+
+This one is for Karla, who in one way or another accompanied me on this long journey.
+God does not play dice
+--Albert Einstein, in a letter to Max Born, Dec. 4 1926
+Author’s Note
+October 1, 2019, I officially went off the deep end.
+The genesis of this descent began when I decided to follow and participate in a cyclical writing challenge called Blog Battlers.  A prompt word was issued at the beginning of each month, which we utilized for writing a story within a thousand words.
+This was a good way to spread my writing wings and rediscover the concise style needed in writing shorts.  It was also conducive for adding a little flesh to backstories.
+So when the prompt for that October turned out to be clone, I decided to dip into an event that would be a part of history to an upcoming novel. The humans in that tale would be in an ... interesting ... situation, so I decided to more deeply explore what got them there.
+Eighteen short stories functioning as chapters later, crafted while wrapping up or drafting two other novels, this serialization took shape as a novella.  And a bonus chapter, unavailable elsewhere, got thrown in to sweeten the pot.
+Since each monthly submission was written in response to a prompt word, they’re included here for the pleasure of those who like to satisfy idle curiosity.  As will become obvious, it was easier to work in those words some months than others....
+
+Clone - By Design  10/2019
+Harp - Best-Laid Schemes  11/2019
+Innocent - A Small Matter of Life and Death  12/2019
+Bucket - Rope’s End  1/2020
+Vivacious - Achilles’ Heel  2/2020
+Castle - For the Sake of the Name  3/2020
+Brooch - Degrees of Evil  4/2020
+Flute - Evil by Degrees  5/2020
+Liberate - Always an Alternative  6/2020
+Wretched - Only Other Option  7/2020
+Tea - Burning Bushes  8/2020
+Conceal - Double Deuce  9/2020
+Exotic - Deuces Wild  10/2020
+Miniature - The Red Sea  11/2020
+Charm - Standing on the Shore  12/2020
+Blank - Pharaoh’s Chariots  1/2021
+Revolution - Pillar of Fire  2/2021
+Fragment - Parting the Waters  3/2021
+
+The bonus chapter is of course written independently from the constraints mentioned earlier.  It is also where I decided to place the heart of this story.  So whether you’re already familiar with this tale from the #BlogBattle submissions, or happening upon it for the first time, it is my hope this will add a little something to your reading pleasure.
+About Pronunciation
+Intellectual Militant Prototypes are known by the acronym IMP.  Because of the meaning attached to the word imp, it is pronounced as the word instead by the letters I - M - P.  You’ll discover the reason for this....
+
+Chapters
+ 1.  By Design
+ 2.  Best-Laid Schemes
+ 3.  A Small Matter of Life and Death
+ 4.  Rope’s End
+ 5.  Achilles’ Heel
+ 6.  For the Sake of the Name
+ 7.  Degrees of Evil
+ 8.  Evil by Degrees
+ 9.  Always an Alternative
+10.  Only Other Option
+11.  Burning Bushes
+12.  Double Deuce
+13.  Deuces Wild
+14.  The Red Sea
+15.  Beyond Reason (Bonus Chapter)
+16.  Standing on the Shore
+17.  Pharaoh’s Chariots
+18.  Pillar of Fire
+19.  Parting the Waters
+
+By Design
+“What you’re proposing is unnatural.”
+That might have qualified as one of the funniest claims IMP17 ever heard if he wasn’t negotiating for his life.  He turned to fully face the panel of six persons, such as they were.  True representatives of the Elite, they were a mixture of men and women carved and grafted and interfaced, and sat in an elevated row behind a wall that separated them from the meeting-room pit he stood in.
+IMP17 made himself smile.  What he was about to say flirted with blasphemy in their opinion, but even the Elite couldn’t totally deny reality.  They admitted not yet attaining complete control of this world and its inhabitants.
+“Biological components are all that’s left when digital technology fails.”  Their expressions betrayed how aghast they were, urging him to continue.  “Any strategy that doesn’t account for such a possibility is no strategy at all.”
+“You say that because you still haven’t accepted enhancement.”  The second person in the row, someone whose face, and possibly body, shone like the gold it was supposed to mimic, frowned at him.
+It was a good thing IMP17 had been created to utilize strategy, because that was the only thing that could keep him preserved from their improvements.  “I haven’t accepted yet because as an integrated individual my role as investigator and instructor would be compromised.  Maintaining my organic faculties is paramount to drilling warriors how to use theirs.”
+“One, your neurobiology is modified beyond theirs.  Two, you are a failure.”
+He couldn’t deny either charge.  Decades ago, before the Elite rose to power, their progenitors expressed a more laissez-faire attitude toward reticent groups that refused to embrace progress.  After all, through applications of science and technology, humanity was going to expand their mental capabilities and extend life spans.  So let the troglodytes die out naturally.
+But then the progenitors discovered that death still waited at the end of a long life, and they’d lost the ability to replenish their ranks without laboratory intervention.  To make it worse, the rabble were rude enough to keep reproducing.  As the number of traditionalists began to overtake the progressives, the magistrates decided encouraging parents to improve their offspring was no longer good enough.  Biotechnological modification became mandatory.
+An uprising resulted.  Believers of an antiquated ideology broke away from the prevalent society.  Unwilling to integrate with technology, they had no problem using it otherwise, and demolished the android armies sent to subdue them.
+So the Elite tried using fully organic but physically improved clones.  Engineered to have only enough intelligence to follow orders, they were supposed to infiltrate the rabble and bring them down.  Unable to improvise when that darned reality struck again, they also failed.
+Despite reservations, the Elite were desperate enough to design an Intellectual Militant Prototype, known as IMPs, who could blend in with the rabble and make their own decisions under duress.  The administration was cautious enough to order only twenty-four products.
+IMP17 was not just a clone of some long-dead super soldier.  Although his biology matched, his neurology was configured to match that of their opponents.  The Elite wanted intelligence, but not enough for any IMPs to successfully stage their own revolution.
+When some IMPs turned out to be independent thinkers, they were swiftly executed.  Others died on the field of battle, sometimes while fighting alongside the rabble.  IMP17 was one of a mere handful left, and he knew that was only because the Elite hadn’t discovered his true thoughts.
+The IMP program was declared a failure like its predecessors, and the survivors were invited to accept modifications that included integration with the core data system.
+The other four were fully indoctrinated to their purpose, but IMP17 had reserved doubts that grew in strength over the years.  Supplementation with a neural implant connected to the system created a sort of virtual telepathy.  His private thoughts could be uncovered.  And he had too many unsanctioned ideas to risk that.
+The Elite would take no chances.  They would order his prompt execution, and another pitfall of being linked to the core meant there was no chance of escape.
+That left him only one option.
+“The mark of a true soldier is to wrest success from failure.”  His gaze slid across each face on the row.  “The cyborg troops you’re going to try next will be partially organic.  Mechanical limbs can still splinter.  Mechanized weapons can still malfunction.  Allow me to work with them, teach them how to use their organic components to your favor.  Otherwise you might as well just send in androids all over again.”
+He could tell the panel was discussing the matter because individuals would occasionally blurt out words or phrases to accentuate the thoughts they were sharing.  He wondered how much of their humanity was left, and how much had been shanghaied by the artificial intelligence they embraced.
+He also pondered how much humanity he could legitimately claim.  If his plan succeeded, he would need every shred of it when he faced the rabble again.
+“It has been decided.”  Number two regarded him with cold eyes and pinched mouth.  “We will give you a trial run with a team of cyborgs.  If you please us with your training, we will retain your services.  If they prove to be obsolete, then you will report for modification posthaste.”
+IMP17 bowed low before them, extending his arms to the front.  “Thank you, my Lords.  I will endeavor to serve you with all that I have, for you have given me all that there is.”
+As he stepped through the exit of the pit, the relief that flooded through him ebbed with consideration of how many steps were left before his plan would be complete.  After what he’d done to the rabble over the past few years, he knew they wouldn’t welcome him.  But his chances with rustics were still better than they would ever be with the Elite.
+Best-Laid Schemes
+“Now aren’t you a sight?”  The man with a trimmed, gray beard and streaks of gray in his tousled hair sat on an upturned log.  “All that’s missing is a bow on your head.  And I don’t even know what the occasion is.”
+On both knees in the dust and brittle grass, IMP17 stared back.  His arms were bound behind his back with synthetic ropes coiled around his chest, and cable shackled his ankles.  Twenty-two men stood behind and beside him, and also in two rows between him and the fellow on the log.
+It didn’t escape his notice that all of them aimed blasters, rifles, pistols, and even bows and arrows at his head.  That was only one of the reasons his heart thumped against his chest.
+“I’ve surrendered.”
+“Oh, yes, of course you have.”  The bewhiskered man smirked.  “That’s the only reason we were capable of getting you into custody.  But why did you surrender, my dubious sir?  Right now I can only believe it’s some kind of prelude to the next wave of attack.”
+“You’re correct there will be another attack.  The lords will desire to investigate why they lost an entire battery of troops.  But I can help you defend against them.”
+Whiskers raised an eyebrow.  “The lords?  Not your lords?  Is that supposed to have something to do with why you turned against all those cyborgs you led up here?”
+IMP17 tilted his head in the direction where he knew corpses of both cyborg and unimproved humans lay scattered.  “My actions have sealed my fate.  I can never return to my masters if I want to live.  In exchange for my life, I offer my services to you instead.”
+“Offer?”  He sat upright, pursed his lips for a few seconds, and then one corner of his mouth curled upward.  “And why would you think we’d be inclined to spare your life?  Your so-called masters did an excellent job genetically designing you, using you to mercilessly harp against us for refusing to mutilate ourselves in the name of their progress.  You’re called an IMP, right?”
+“Intellectual Militant Prototype.  I am the seventeenth of twenty-four products, thus my designation is IMP17.”  He’d determined volunteering information would help to win their trust.
+Whiskers’s brow furrowed as he leaned forward.  “We have a designation for you, too, but we can’t repeat it in front of the children.  You’re beyond a little devil.  You’re a murderer, a kidnapper, and a vandal.  Our blood drips from your hands.  Killing you doesn’t even begin to strike a balance against the damage you’ve done to us.”
+IMP17’s heart picked up in tempo.  He knew he was taking a risk by trying to defect to the Rabble of humanity, but he still stood more of a chance with them than his Elite overlords.
+“My intellect is devised for strategy, which must be based upon knowledge. The information I’ve gathered on your society displays a quality that is absent among the Elite.  You tend to your impaired members.  You share resources with deficient individuals.  You risk your own lives to rescue one incapacitated person.”
+The bearded man gazed at him for several seconds.  His eyes squinted and his lips pursed, and then he clasped both hands between his knees.
+“You don’t know squat about us.  You think you can waltz in here and perform a cutesy song and dance about po’ li’l ol’ me and expect us to pat you on the head while treating you to milk and cookies?”
+“That’s not -”
+“There’s at least a dozen people in this camp that would relish getting a piece of you, and that’s this camp.  There’s plenty more who think the same thing in the other communities.  It’s for their sake, not yours, that I don’t tell these gentlemen to ventilate you with extreme prejudice right now.”  He waved one hand dismissively.  “Get the deuce out of my sight!”
+So many men jumped on him at once that even IMP17 would have had to struggle in overcoming them.  But although he had the capacity to defeat them, he squelched his first impulse to burst free from the ropes, to pummel them down, to slice them with the cable between his ankles....
+Someone slapped a canvas bag over his head.
+As they lifted him from the ground, his battle with himself proved more intensive than any physical combat.  These people knew that although he was technically as human as they were, he was engineered to be stronger, faster, and more agile.
+The fact they didn’t kill him outright was an encouraging sign ... he hoped.
+Reflexively he did still keep track of where they carried him by noting where he felt the sun’s warmth, and distance by the length of time that passed before they stopped.  He heard a clank and a screech, and then he was tossed into someplace that was slightly cooler, but hard and saturated with the aroma of earth ... and something ... rotting....
+IMP17 sat up, and again subdued his impulse to break his bonds and uncover his head to examine his prison and determine how to escape.  He had to prove to them he wasn’t going to resist.  One wrong move on his part, and they would kill him as surely as the Elite would execute him if they ever got their hands on him again.
+As he crouched in the dark, determined to wait on the Rabble to come for him, he questioned the wisdom of his scheme.  That quality he was counting on was one of many traits the Elite had trained him to despise.  But in a way he’d grown to admire it, suspecting it was one of the reasons these people had resisted and evaded the Elite for so long.
+If the Rabble didn’t accept him, and if he escaped from them, he had only one option left: exist alone and as everybody’s enemy.  And that would be extremely inefficient.
+A Small Matter of Life and Death
+“Please tell me it’s dead,” Quint growled as he entered the makeshift tent.
+Although unable to comply with the young colonel’s request, Zeke raised an acrylic cup in greeting.  He also remained reclined in a folding chair, his feet propped on the field desk.
+“Not yet.”
+When Quint scowled, Zeke figured it was in response to both his reply and casual posture.  The colonel knew better than to expect military conduct from an old schmoe like him, but he still enjoyed annoying Quint.  It added levity to an otherwise apprehensive lifestyle.
+And things were pretty tense right now.  Less than an hour ago they’d won a battle against a battery of cyborgs commanded by a genetically-engineered super soldier.  Except the IMP, as his kind was called, turned on his own troops and slaughtered over half of them himself.  Then he surrendered to Quint’s battalion.
+Hmm ... Zeke realized he’d never before thought of any IMP as he.  Like Quint, he’d always considered them all to be it.
+“You were supposed to find out its motive and kill it.”  Quint sat in his chair behind the desk and reached for the drawer where Zeke knew the whiskey was stored.
+“No, you told me to find out his motive and decide if he needed to be killed.  I shook him up, but he didn’t spew.  So he’s stewing in the pit now.”
+The colonel scowled at him again before pouring a shot into his own cup.  “It’s probably waiting for the next wave of attack, and then turn against us like it did on the cyborgs.”
+“Come now, you know how keen the Elite are on efficiency.  They won’t waste a battery of cyborgs on a smattering of intelligence.”
+Quint squinted.  “Then why did it turn on its troops?”
+Zeke sipped the pilfered whiskey while considering his answer.  His interrogation of the IMP had been nothing like he expected.  All the answers only generated more questions.
+“He’s scared.”
+“Scared?”  Quint guffawed.  “The genetic engineers probably took that emotion out of its DNA.”
+“It’s not an Oh crap, I’m about to die scared.  It’s more like a ... I’ve lost my mommy scared.”
+The colonel’s squint hardened.  “It came out of a petri dish.  That thing never even had a mommy.”
+“Mm-hmm, true, but then again we are supposed to care for the orphan, are we not?”
+“Quit your mind games.  What’s that thing got to be scared of?”
+“What any slave might fear.”  Zeke shrugged.  “That his masters are not true masters.”
+Quint stared at him.  “Why did I expect a straightforward answer from a rabbi?”
+Any title like rabbi, doctor, judge or colonel was based on experience rather than any formal training.  When the authority that became known as the Elite mandated the remaining population must merge with biological and technological improvements, anybody who wanted to retain all of their humanity was forced to break away from established society and go underground ... somewhat literally.
+“Because you’re young and arrogant.”  Zeke was in his late sixties, which made him just old enough to remember what life was like before the rebellion.  “And that IMP in the pit worries you.”
+“That thing makes me as nervous as a naked titmouse tossed into a shed full of bony tomcats.  It can only be up to no good.”
+“You know, I have heard of a few IMPs that did join our cause.”
+“Rumors!”  Quint waved his free hand.  “They didn’t manufacture many of those things.  And all the stories end the same way:  They wind up getting killed.  A good IMP is like a flying saucer.  You hear about them, but you never see one.”
+“I didn’t say he was a good IMP.”  Zeke took another sip.  “Not yet.”
+“I sure hope you’re implying that the only good IMP is a dead IMP.”
+Zeke considered the fact that Quint, who claimed to be a descendant of Comanche chief Quanah Parker, just made a statement like that to a Jew.  He allowed the irony to rattle around in his subconscious.
+“Maybe you should go visit with our little devil yourself.  He’s not innocent, but he’s quite cooperative.”
+“I have to get us prepared for the next attack, which it confirmed is coming.”  Quint frowned again.  “Unless it lied ... it might be trying to get us to reveal our resources.”
+“So why didn’t you tell me to just kill him after my Q-and-A chat with him?”
+His frown hardened.  “Because I’m an idiot who trusts your judgment.  Now tell me why you didn’t, and give me a straight answer.”  He held the bottle of whiskey up before returning it to the drawer.  “Or I’m cutting off your supply.”
+“Oh, my, you are in a bad mood, aren’t you?”  Zeke smirked, but as he sank a little deeper into his chair he nursed a long sip from the cup to gain more time for considering his response.
+An honest but unexamined answer would be that he didn’t know.  Perhaps it had something to do with the IMP speaking of mercy, although he didn’t use that word and Zeke doubted it was part of his vocabulary.  Certainly before today the IMP had never shown any mercy to them.
+But he also thought about Quint’s remark of what qualified as a good IMP.  History proclaimed that others had said the same thing about their ancestors.  And despite his origin, the IMP in the pit was a man....
+“Because we need to keep our humanity.”
+“I’m going to start locking my drawer.”
+“Let me finish.  The Elite look down on us because we’re unimproved.  That IMP out there is genetically altered, but stick his DNA under a microscope and it’s still human.  Does that give us the right to look down on him?”
+Quint frowned at him.  “I hate it when you take the moral high ground.  All right, watch that thing as we prepare for the next attack.  But if it so much as twitches, kill it.”
+Rope’s End
+“Open this blasted gate right now!”  The woman’s shout to the guard startled IMP17 more than it should have.  “Zeke!”
+One reason she’d caught him off guard was because his conversation with the bearded man visiting this makeshift cell was essentially intense.  Earlier today he’d interrogated IMP17 and then had him thrown into this refuse pit.  The garbage was recent and shoved back into one corner, leaving enough room for IMP17 to remain kneeling, arms bound and ankles shackled, on the rough rock floor.
+The man whom he’d just learned was Zeke stood against the wall near the gate while aiming a blaster at IMP17’s face.  At least Zeke had done him the favor of removing the canvas bag that had been slapped over his head when the soldiers hauled him to this prison.
+The guard who’d been standing at the gate and aiming a blaster at IMP17 lowered his weapon to allow the woman in.  That was another reason he’d been caught by surprise.  The Rabble were notorious for keeping their females away from the fighting front, and only a kilometer away a battle raged ...  the second engagement that day.
+Zeke’s demeanor grew edgier.  “You shouldn’t be here!”
+“Quint sent me!”  She hesitated just inside the gate and glanced back and forth between the two of them with a fiery gaze.  Her clothes were bloodstained.
+Imp17 was distracted for a few seconds.  Throughout his life he saw conspicuous women only occasionally.  The Elite, who altered themselves to the image and function they desired, tended to go for an androgynous look.  It underscored their equality with each other and the inferiority of the unimproved Rabble.
+He noted the streaks of gray in her upswept, brown hair.  So that explained it.  She was beyond child-bearing age, which probably made her more expendable than the wenches who could still gestate.
+Despite her years she was strong in form and features, and IMP17 could have felt a primordial shift about her if he wasn’t discussing more pressing matters.  He redirected his attention to Zeke, noticing the gray in his beard seemed to match that in the woman’s hair.
+“Quint?”  Zeke’s frown deepened.
+“It’s a bucket of mayhem out there.”  Her fists clenched.  “The wounded and the dead are rolling in faster than we can treat them.  Quint’s decided it’s either death by cyborg...”  Her gaze locked on IMP17.  “...or take a chance on the IMP.”
+“It’s like I said.”  IMP17 continued to speak calmly even though his heart started pounding.  “You have to kill them twice.”
+Her eyes flashed.  “What?”
+“He was explaining that when you came here.”
+IMP17 nodded.  “Part of their biotechnology includes a Central Control Module, which is an AI application located in one of five areas.  If on a twenty-percent chance you neutralize the CCM, the biological unit remains functional.  If you kill the organism, the CCM takes over and the soldier will continue fighting.”
+“Abomination!” she rumbled.
+Zeke sounded more astonished.  “You mean the zombie apocalypse is for real?”
+“It virtually doubles the troops, so it’s efficient.”  His breath quickened.  The event that could seal his fate with these people was about to descend.
+If the cyborgs defeated the Rabble, they would either kill IMP17 immediately or capture him to bring in for execution.  Earlier today he became a traitor to the Elite by striking against the cyborg troops under his command.  He was the reason this second wave of attack was necessary.
+The Rabble mistrusted him ... and for good reason.  But allowing him to fight on their behalf would get him a step closer to gaining their confidence.  There was still no guarantee he would live, but this was the only option that gave him that chance.
+Zeke stared at him.  “You can kill these cyborgs like you did the others?”
+“Each has a tell the technicians use to identify upon sight the location of the CCM.  I recognize them.”  He returned the man’s gaze.  “If you release me, I can dispatch them more quickly than any of your people.”
+“Quint said to turn him loose.”  The woman shook her head.  “Even though it’s a risk, the IMP is our only chance.”
+And the Rabble were his only chance.  Even before today, if the Elite had discovered he’d come to conclusions that contradicted their ideology, they would execute him.
+“I never thought I’d live to see the day,” Zeke muttered as he strode the short distance to IMP17 and began unshackling him.  “I just hope this deuce doesn’t make me die the same day.”
+“Yeah.”  The woman’s glare hinted how she didn’t like the information she brought any more than Zeke did.  “Even if he wins, we’ve still got a super soldier on our hands.”
+He kept his gaze steady with hers as Zeke loosened the bonds around his arms.  “Determining CCM location and being genetically enhanced only gives me the prospect of defeating these cyborgs.  I’ve lost the element of surprise.  These troops are prepared to exterminate me, and my welfare is as much in your hands as yours is in mine.”
+Her attention shifted to Zeke.  “Is it always this mouthy?”
+“Pretty much.”
+Upon those words he was freed, and IMP17 sprang to his feet as he swung his hand, palm up, to Zeke.
+“Blaster.”
+“I can’t believe I’m doing this,” Zeke muttered as he placed the weapon into IMP17’s hand, and then shouted to the guard, “Open the gate!”
+The woman’s hand moved to her hip, probably to draw some small pistol if IMP17 acted in any unsuitable manner.  He strode out the gate, past the guard that gaped at him, and toward the clamor of battle.  Zeke and the woman followed.
+At least if he died here, it would be in combat, and that was preferable to being executed and cremated simultaneously by the Elite.  It was the most efficient way to dispose of anomalous people, but on the battlefield he had more chance for survival.
+Achilles’ Heel
+Through dust and ash and metal and blood, IMP17 surged forward on the battlefield.  Men who were not genetically improved as he was lay scattered with the cyborgs.  Cracks and booms and high-pitched whines reverberated from every direction.
+The four cyborgs that attempted to outflank him uttered nothing.  They didn’t need to, for the cyber-neural link that interconnected their battery allowed orders to be directed with a thought.  The shouts on the killing ground were launched from the unimproved people, but shrieks erupted from both opposing troops.
+IMP17 sprang to the side to prevent their surrounding him.  The same instant he fired off well-placed rounds from the blaster he gripped.  The cyborgs were slightly more machine than flesh, requiring precision in his targeting.
+He spied the blue, artificial eyes of the first soldier, and shot him in the left thigh to obliterate the Central Control Module that operated his technical framework.  The second opponent had a broad nose, so his CCM was located in the right hand.  There was a dimple in the chin of the third foe, so IMP17 shot him in the right upper arm.
+The appearance of the fourth cyborg presented a problem.
+All the features that designated where the CCM was located were on the face, and this one no longer had a face.  The organism was already dead, but enough of his head remained that the neural link was still in communication with the module’s Artificial Intelligence.  The machine part of him remained vivacious and continued fighting.
+IMP17 knew strategy involved each soldier of that team having the CCM located in a different area.  The possible locations totaled five.  With two possibilities left, he had a fifty-fifty chance of hitting the fourth cyborg’s module.  Without hesitation he shot him in the left lower arm.
+His guess was incorrect.
+It took less than two seconds to place those four shots, and IMP17 had to spring to the side again as all four combatants fired their blasters.  The ground where he just hesitated erupted into chunks of dirt and sprayed brittle grass.
+His next shots didn’t have to be as precise, so while darting back he fired the next volley at the heads of the first three cyborgs.  They whirled as they dropped, their faces as unrecognizable as their fourth companion’s.
+A searing pain flashed across his right shoulder.  Faceless Four had squeezed off a round that connected even as IMP17 shot at the cyborg’s left foot.
+The thwump from his blaster revealed it was out of ammo charges.
+Throughout the battle IMP17 had been snatching up derelict blasters and emptying them at his opponents.  He’d saved on some charges because organisms could also be killed by stabbing, bludgeoning, or snapping.  CCMs, however, could only be electronically disrupted or physically severed.
+He surged toward the fourth cyborg, leaping to avoid the next blast and ducking so that another shot missed.  While low, he swung the blaster like a club against the cyborg’s shins.
+His opponent toppled, and IMP17 pounced on the nearest blaster dropped by a felled cyborg.  He rolled as he grasped it because Number Four immediately began shooting at him.  Then he sprang up three meters to dodge the low volley.  His foe had scrambled back up, making that crucial left foot accessible.
+Still airborne, he fired three rounds, hoping to at least disable this combatant in case he’d been wrong about their strategy.  The cyborg collapsed as he landed nearby it.
+He spun around to assess his next movement of attack or defense.  There were roughly half a dozen cyborgs left.  Before IMP17 joined the battle, their troops were practically massacring the men.  But after he entered this arena and slaughtered most of the enemy, the remaining men outnumbered the cyborgs.
+The humans were ganging up on their opponents with blasters blazing.  These soldiers had picked up on where the CCM could be located, so they made it a point to hit all those normally nonfatal areas as well.  The remaining cyborgs were already crumpling.
+IMP17 took a step toward the nearest squad to assist them ... but his legs buckled and he had to catch his balance.
+His heart started to pound from a reason other than combat.
+This was the first day he fought cyborgs instead of men.  The enhancements made to his biology couldn’t compensate for all the blaster hits, gashes, and lacerations a more formidable adversary had given him.  He knew what was happening even though he’d never been this injured before.
+As soon as his brain acknowledged combat was no longer necessary to stay alive, his body began shutting down certain functions to stay alive.  The agony that now racked him almost provided distraction from the chill seeping to his core.  Despite the increasing lightheadedness that promised a respite from this torment, IMP17 struggled to remain conscious.
+Today he joined these men in battle.  But before today, he had been as much of an enemy to them as the cyborgs.  Today he tried to establish trust with these men, but it was extremely fragile.  They could still decide terminating him would settle their problems for the day.
+The training and discipline that kept him going earlier failed, and IMP17 toppled to his knees.  He seemed to collapse in slow motion, trying to brace himself with one arm, but sank closer to the ground stained with blood that probably included his own.
+His mind roared to his body that he might need to defend himself as two men approached.  But his vision dimmed and all he could focus upon was their boots.
+“Is it still alive?”  The soldier’s voice sounded distant.
+The toe of the other’s boot nudged against his ribs.  “Yeah.  You know these IMPs don’t die that easy.”
+Darkness descended, and nothing IMP17 tried would keep it at bay.  He had no idea what he would wake up to, assuming he woke at all.
+For the Sake of the Name
+Colonel Quint was still deciding how annoyed to be as he strode into the recovery room.  Most of his soldiers were lying in rows in other rooms not meant to accommodate so many patients.  After the tortuous battle they’d been through, they deserved better.
+But this IMP, this genetically modified interloper that ... he had to admit ... saved the day, got a room all to itself.  Before today it had been as much of an enemy to them as the cyborg troops they’d just vanquished.
+He didn’t know why it aligned with his battalion and nearly got itself killed.  But the IMP remained mistrusted, so it was separated from the rest of the troops.  By the time night fell they relocated all the wounded to the hospital zone of their underground dwelling.  Far surpassing a subterranean castle, the multiple levels of their city branched in various directions for different purposes.
+As he entered the room, his attention shot from the unwelcomed warrior reclining on the bed to Zeke, who sat on a chair beside it.  And he wasn’t holding a blaster.
+“Why aren’t you guarding it?”  Quint’s annoyance increased.
+Zeke returned the colonel’s gaze, his gray-streaked beard concealing nothing about his smirk.  “He can barely sit up, much less pick a fight.”
+Quint still couldn’t understand why the combat chaplain started calling this so-called improved soldier he.  Sure, technically it was human, it looked like a man ... but its DNA was altered.
+“It could be trying to lull you into complacency.”
+Zeke looked at the IMP.  “Am I complacent?”
+Its brow furrowed, which was no surprise because Zeke was notoriously perplexing.  “I am unable to determine that aspect of your psychological status.”
+Hearing it speak in a voice that was low and wavered caused Quint’s stomach to clench.  All the bandages wrapped around it made the IMP appear as though it might consider changing the meaning of its acronym from Intellectual Militant Prototype to Impostor Mummy Perpetrator.
+“We don’t know how fast these things heal,” Quint growled.
+The IMP regarded him with a steady gaze.  “My superior physiology does promote optimum recovery, but the extent of my injuries dictates a convalescence of several days.”
+“I’m starting to enjoy listening to him talk.”  Zeke shrugged.
+The door opened, and Kyla stepped into the room.  Gray strands in the physician’s hair hinted she was around Zeke’s age.  Her expression remained as determined as it was earlier today, when she tended wounded on the battlefield.
+“Oh, I see you came to check on our little problem.”  She nodded to Quint.
+He wished the problem was little.  Although the IMP had risked its life to save his battalion, Quint was unconvinced it wasn’t trying to gain their trust only to betray them later.  But he still had to do something with this thing.
+“How soon until it’s on its feet?”
+“Good question.  His wounds aren’t as critical as they are numerous.  But we can move him anytime you’d like.”
+Great, now she was starting to call it he.  “The problem is I’m not sure where to move it.”
+“I have a suggestion.”  Zeke’s gaze lingered on Kyla.  “Since our deuce will need medical attention for a while, I’ll volunteer to keep him.”
+She pressed her lips together as the IMP frowned again.
+“Your proposal is incongruous.”  It studied Zeke.  “You haven’t exhibited medical cultivation.”
+“No, but since the doc here is my wife, she can monitor your recovery.”
+“Wife?”
+From the way its frown deepened, Quint suspected it was a word that wasn’t prominent in its vocabulary.  His attention returned to Kyla.
+“You agreed to this?” Quint asked.
+Her eyes rolled.  “Yes, he’s already come to me with the can-we- keep-him question.  Zeke seems to think we can domesticate him.”  She locked her gaze on the IMP.  “If he gets too rambunctious, I can always sedate him.”
+Quint couldn’t resist.  “The IMP or Zeke?”
+Her smirk matched her husband’s.  “Either.  But we need to call him something other than IMP71.  That’s too much of a mouthful.”
+“IMP17.”  Its expression became quizzical as it regarded her.  “Only twenty-four of us were generated.”
+“I’m not calling you that, either.”
+Zeke leaned back in his chair.  “Mr. Popularity?”
+The IMP redirected its attention to him.  “I prefer the other designation you’ve utilized.”
+Quint savored more enjoyment than he should have upon seeing Zeke’s brow furrow for a change.
+“What designation?”
+“You’ve referred to me several times as Deuce.  I will accept that appellation.”
+Quint clamped his lips together to keep the rest of them from seeing him grin.  Okay, the last thing he expected was amusement, but he was starting to see why the chaplain had gotten intrigued by this IMP.  He cleared his throat before speaking.
+“Do you know what deuce means?”
+It studied him now.  “It is an archaic representation of the number two, usually in application to dice or playing cards.”
+Zeke winked at him, which the IMP didn’t see because it was looking at Quint.  “Well, I admit that does sound appropriate for a gambling man like him, after all the chances he took switching to our side in this war.”
+Kyla nodded.  “I can call him that.”
+Quint wasn’t sure if changing from one little devil title to another qualified as an improvement, but he could understand how that gap also existed in its vocabulary.
+Although he didn’t think Kyla deserved getting saddled with this IMP, Zeke did.  And if she was willing to undertake the task, they were the best people for the job.  The chaplain was an irritant, but he also possessed good judgment that Quint trusted ... and hated to admit.
+“Then it’s in your custody.”
+He left the room less annoyed than when he entered, and also dared to harbor the hope this Deuce was on the level with them.  If so, it ... or maybe he ... could help them finally bring an end to a war that had raged for generations.
+Degrees of Evil
+Deuce examined the weapon Quint handed him.  It resembled a rifle-style blaster, except the barrel was too thin and the magazine too thick.  He found it disconcerting to not recognize this particular instrument of war.
+“What is its designation?”  Deuce asked.
+“I call it an atrocity,” Kyla muttered as she gazed down the field the three of them stood upon.
+The artificial sunlight from the ceiling of the manmade cavern they occupied cast shadows beside them, distorted by the remaining stubble of harvested grains adapted to this environment.  Fifty meters away at the other end of the field, the carcass of a coyote, exterminated during a livestock raid above ground, hung between two poles.
+Quint shrugged.  “A correct designation would be disintegrater.  But we just call it a grater.  Fact is, shoot something with this thing or run it through a grater, you get the same result.  Go ahead, fire it.”
+Deuce aimed the weapon at the carcass and tapped the trigger.  The coyote burst into a cascade of bite-size pieces, hide and meat and organs raining down in a two-meter radius around it.  Only the main part of the skeleton remained hanging.
+Kyla’s demeanor was unchanged.  “That’s just nasty.”
+Considering she was a doctor, Deuce found her remark incongruous.
+The grater was effective, but he realized its shortcomings.  “This is highly efficient on organic matter, but the fact several of the heavier bones maintained integrity indicates limitations on dense materials.  And a coyote is lighter than a cyborg.”
+“Yeah, we never bothered to improve the original models before,” Quint replied.  “The reason we’re bringing them back to the drawing board now is because we all know the Elite will change the central control module locations on the cyborgs’ tech.  We need to be able to kill them once, not have to do it twice like before.”
+Something the colonel didn’t say stood out to him more.  “This isn’t a new weapon design?”
+“No ... we developed these a couple of decades ago.  But they’re ... too messy.”
+Kyla rolled her eyes as she fingered a malachite brooch on her shirt collar.  “Any new weapon can fall into enemy hands.  I’d like the chance to save my patients, thank you.”
+Deuce studied them as he contemplated the explanation.  “So you could have utilized these against the ameliorated soldiers I commanded before defecting to your camp, but decided not to?”
+“Not using them was the lesser evil.”  Quint shrugged.  “You should be grateful that was our choice.  Otherwise you might not be here now.  Anyway, we want to restructure the charges to an entirely electrical basis.  Shut down the cyborgs’ hearts and tech.”
+He was still grappling with the notion that his former enemies had developed an effective weapon they decided against using.  The organization Deuce defected from, the Elite, would have implemented these graters with no hesitation.
+“At least I can restart a heart.”  Kyla’s gaze locked on him.
+Quint stated the obvious.  “We want your expert opinion on what firepower we’ll need against these new cyborgs.”
+“I can’t claim expertise on the next method of attack.”  Deuce studied them both.  “It’s possible they won’t deploy cyborgs again.”
+His two comrades looked at each other.  Kyla, who was in her early sixties but only streaks of gray in her upswept hair betrayed age, returned her gaze to Deuce.
+“What could be next?”  Because of her years, she’d witnessed this entire, ongoing war.  “First they used androids.  Then they developed super soldiers, which they later supplemented with strategists like you.  Now they’ve combined android and soldier into cyborgs.  Do we suspect flying monkeys that spit venomous fireballs?”
+“I wouldn’t put it past them,” Quint grumbled.  He was in his thirties and had only ever known war.
+Deuce stared at the grater as he considered why he was here.  Chronologically in his twenties, he had been trained for warfare by the Elite as long as he could remember.  They had created him for warfare.  Unlike the genetically improved soldiers who could only follow orders, the Elite engineered him to think strategically.
+But they considered his creation, and the twenty-three other prototypes like him, to be a failure.  Creations that could think for themselves were considered a potential threat, which was why so few were produced.
+And some of those thinkers had defected before him, joining forces with these people he used to know as rabble.  Those predecessors were now dead.  Defective prototypes were overwhelmingly targeted in battle.  But in his case, joining the rabble became his only chance to continue living.
+Like the grater he held, the prototypes were judged to be undesirable for service.  He and four others who still survived were given one option to remain practical to the Elite.  They had to submit to biotechnical modifications that included interfacing with the core data system.
+By this time Deuce started considering Elite philosophy to be incorrect, and having those private doubts made public would get him executed.
+He’d been created to bring a war to its end, and failed.  And now the rabble looked to him to help them end this war.  His new society believed in Rules of Engagement.  How does one defeat an opponent who doesn’t share that outlook?
+“Utilize both.”  Deuce returned his attention to them.
+“Both of what?” Quint asked.
+“Both designs.”  He held up the grater.  “Implement your modifications.  But also increase the charge yield on these models.  They could prove advantageous.”
+“They could be suicidal.”  Kyla frowned.
+“You must be prepared for anything if you want to end the war.”
+“I want to end it.”  Her gaze locked on his.  “But not by getting us all killed in the process.”
+“Let’s not forget we’ve got an alternative,” Quint muttered.
+Deuce’s attention shifted to him.  “What alternative?”
+“That’s a discussion for another day.”  He shrugged.
+The only alternative Deuce could think of was retreat.  But there was nowhere in the world safe enough to retreat to ... was there?
+Evil by Degrees
+“I will crush him.”  IMP2 savored the vision that flashed through his mind as he imagined watching the spark of life in his opponent’s eyes dull to an empty glaze.
+Visual impressions didn’t translate well in the data core, but the panel of six members before him could still perceive his satisfaction.  Instead of basking in it, however, they drove urgency back to him, tempering his enthusiasm for the task they’d assigned to him.
+“It may be necessary to delay terminating IMP17.”  The second person in the row of members had a face that shone like gold but was otherwise impassive.
+The panel sat elevated above the meeting-room pit IMP2 stood in, a beige wall separating him from the group.  Although the data core bound the Elite as a virtually telepathic culture, speech was utilized to flute above the flurry of perceptions interspersed among them.
+IMP2 received a conception from the panel, theories about a plan involving technically engineered construction.  “You believe he’s involved in a particularly subversive plot?”
+“In the five months since IMP17 defected to the rabble, he has significantly participated in their revolution.”  The golden one’s gaze settled upon him.  “With his guidance they’ve succeeded in thwarting our cyborg armies around the globe, adapting too swiftly to modifications we make to the programming.”
+Another failure, IMP2 thought, and was immediately barraged with castigatory impulses from the panel.  He pushed back, recalling this war had waxed and waned over fifty years, enduring so long because the rabble resisted every technique the Elite employed against them.
+Even the Intellectual Militant Prototypes, a minor experiment resorted to because of continuing inefficacies, was a failure.  IMP2 acknowledged that reality.  But when it was deemed his skills were no longer necessary in the field, he embraced the culture that generated him ... unlike the cowardly IMP17 who fled to the enemy.
+The shadow of a smile tightened the gold member’s lips as the panel accepted IMP2’s response.  “We acknowledge the efficiency of your utility to this association.  That is why you have been selected to dispatch IMP17 and disclose this new artifice that has recently come to attention.”
+“A shrewd decision as always, my lords.”  IMP2 appreciated their cognizance in realizing that it might take an IMP to catch an IMP.
+All twenty-four prototypes had been generated in the same laboratory, their DNA varying only by surface appearances.  In order to infiltrate the rabble, they couldn’t all look alike, but they were otherwise matched in physical and intellectual capabilities.
+It was the intellectual matters that concerned the Elite sovereignty.  Although every IMP was designed with high intelligence, the strategy they were developed for also required independent thinking.  As feared, some developed outlooks that were incompatible with the cultural philosophy.  No more IMPs were generated, and in the course of warfare their number dwindled to only five true adherents.
+But then one of those adherents turned out to be a traitor after all.
+He was well acquainted with IMP17.  They had matured together, drilled together, and trained together.  While his associate’s defection had been a bit of a surprise, IMP2 pondered factors that might have led to such an act.  IMP17 had always been a stickler for discipline.  Know your enemy had been his prevailing mantra.
+It appeared his study of the enemy had corrupted him into secretly appreciating their backwards customs.
+Now that IMP17 was among the enemy, IMP2 considered what he knew about the defector.  IMP17 had always been unconventional with his strategy.  It was always difficult to second-guess him because sometimes he took risks that appeared irrational ... but would then pay off.
+And because IMP2 knew his enemy, he could work that trait to his advantage.
+“We only request that before you exterminate him, determine if he has any involvement with this alternative conspiracy.”  The golden one gazed at IMP2.  “We know only that these rabble have been developing it for longer than we’ve realized.  If you can uncover their activity through IMP17, he can at least be of value to us one final time before his demise.”
+IMP2 bowed before them, confident he would discover this latest secret, and adding the pleasure of experiencing IMP17’s humiliation before death made its claim.  “I will endeavor to serve you with all that I have, for you have given me all that there is.”
+The panel accepted his alacrity, and IMP2 exited the chamber with multiple ideas springing to mind – some his own, some from them.  As eager as he was to track IMP17 down, the matter of this not-so-new development lurked in the back of his thoughts like a serpent slithering along the edge of a meadow.
+If not for their heretical beliefs, the ingenuity of the rabble could be admirable ... but what new chicanery might they be plotting?  Whatever it was, he would insure that it came to naught.  After all, there was nowhere in the world safe enough to retreat to, so they were only putting off the inevitable.
+Always an Alternative
+“Does it have to be Taggart?”
+As Deuce sat beside Zeke on the underground rail transport, he remembered the serious tone to Kyla’s voice.  The conversation he overheard this morning, before leaving with Zeke, hadn’t been meant for his ears.  He glanced at his bearded traveling companion and recalled Zeke’s response.
+“Might as well start at the beginning, and besides ... he’s in the business of forgiveness.”
+Kyla’s final statement lingered most in his thoughts.  “I don’t think he normally needs to forgive something so personal.”
+Deuce was pretty sure what she’d meant.  His entire life had been devoted to combat.  When he defected from his creators to join the ranks of those who sought to liberate themselves, he hadn’t been readily accepted into this society.
+Many tolerated him because he offered assistance to help them win this long-fought war, but losing friends and family to troops he’d led made that acquiescence more begrudging.
+Deuce wondered how much more personal the dislike, which he was accustomed to, would be for this Taggart fellow.
+The transport slowed to a stop at the station where they disembarked.  It had taken a couple of hours to travel halfway across the continent, so the artificial lighting that mimicked the sunshine above ground was brighter than when they boarded.  They walked from the station into the subterranean city.
+Swift and silent conveyers delivered them to a different level of the municipality, a manufacturing district where the rattle and bangs of machinery were more apparent.  Zeke led him into a facility to the side, and they entered a room where a handful of people were discussing a three-dimensional, projected digital display of conduits.
+Most of them glanced casually toward the newcomers, but Deuce took note of the auburn-haired woman whose expression shifted into a subtle glare when her gaze fell upon him.
+“Didn’t you get the notification?”  Her eyes softened only slightly as they shifted back to Zeke, but she had an accent that Deuce identified as a brogue.  “Grandpa is still out on a service call.”
+“Something that always takes longer than expected.”  Zeke’s smile expressed an impertinent bravado Deuce had become accustomed to.  “I figured we could still begin the orientation with you, and Oswald could catch up to us.”
+Her eyes narrowed.  “That’s a bad idea.”
+His smile remained.  “Which part?”
+“All of it.”  Her gaze hardened again as it returned to Deuce.  “This whole affair is against my better judgment.”
+“You aren’t questioning your grandpa’s judgment, are you?”
+Some of the spark in her green eyes subsided.  “If the two of you weren’t friends, he wouldn’t have agreed to this, either.”
+Zeke’s smile warmed.  “But aren’t you and I friends also, Ita?”
+“That’s what I used to think.”  She glanced at her cohorts and excused herself before strolling toward the two men.  “But since I know the only other way I’d get you to take that thing out of here is to draw a blaster, I’ll take you to the office instead.”
+“Is that where you keep the blaster?”
+This was one of those times Deuce wasn’t sure if Zeke’s question was serious or a joke.
+Ita hesitated as she drew near, and slid a sideways gaze toward the bearded man.  “Don’t tempt me.”
+Zeke followed her as she brushed past, so Deuce fell into step with him.  As they accompanied her into a corridor, he wondered why his companion hadn’t told him about this young woman.  She certainly seemed to know who he was.
+Ita turned right, through a doorway, and they stepped into a room lined with various computer components.  She turned and locked her gaze on Zeke.
+“How much did you tell it?”
+Deuce was accustomed to being referred to as it by people who knew he was genetically engineered.
+“No more than Oswald said I could.”  Zeke continued smiling.  “But why don’t you ask Deuce himself?”
+“Deuce?”  Her gaze snapped to him, and then back to Zeke.  “How appropriate.  I have nothing to say to it.”
+“Surely your grandpa asked you to be nice to him?”
+“I am being nice.  I’m not blasting it.”
+Although he still wondered if a blaster was hidden in this room, Deuce decided it was time to speak, and it should be conciliatory.  “I’m sorry.”
+Her glare shot to him before locking on Zeke.  “You weren’t supposed to tell it!”
+“I presume he didn’t,” Deuce continued.  “I’ve no idea what you’re talking about.  I do know I’ve instigated anguish for many people, so I assume I’ve committed some form of distress to you.”
+This time her glare stayed locked on him.  “How dare you speak to me like that?  After all the times I’ve thought about this moment, about telling you who my dad was ... just before you die.  But that’s not the way it’s going to work, is it?”  She frowned at Zeke.  “Sort through the files if you must.  Grandpa will deal with you when he gets here.”
+She swept out from the room.  Zeke sighed as Deuce regarded him.
+“Sorry how that introduction worked out, but Ita won’t get the anger out of her system unless she confronts it first.”
+Deuce studied his companion as he decided to confirm if he’d added all the clues correctly.  “She’s Oswald Taggart’s granddaughter?”
+“Yes.”
+“And I killed her father?”
+Zeke pressed his lips together.  “Yes ... it was you personally.”
+“And is her father Oswald Taggart’s son?”
+Zeke drew a deep breath before replying.  “Yes.”
+Deuce was out of clues.  “So what was this meeting supposed to accomplish?”
+“Our ... alternative to annihilation ... is Oswald’s brainchild.  But he’s getting on in years and Ita is overseeing the project now.  You can’t help them unless she agrees to it.”
+“You still haven’t informed me what this alternative is.”
+Zeke smirked as he shrugged.  “I can’t tell you that yet, either.  Oswald wants to evaluate you himself ... and unlike Ita, he’ll have plenty of questions.”
+Only Other Option
+“How do I know this wasn’t your plan all along?”  Although his voice was thin and the brogue accent further stilted by flat inflections, Oswald Taggart’s gaze seemed to bore into Deuce.  “We’d be foolish to believe the Elite haven’t caught wind of our plans.”
+The question was like a right cross, delivered without warning after Deuce spent a half hour explaining his defection to the elderly man.  Oswald’s gaze was not antagonistic, but Deuce could have sworn it possessed the ability to stretch into his core and twist out his soul, revealing how wretched he really was.
+They sat only a meter apart, files and computer components surrounding them as silent witnesses to this interrogation.  Oswald still wore the light overcoat he had on upon entering the room, and Deuce figured he was one of those seniors prone to feeling chilly.
+He decided to try a method learned from Zeke, his mentor who Oswald asked to leave when their discussion began.  “So you believe I’ve refined my skills of infiltration to uncover your alternative to this war?”
+Oswald studied his face while simultaneously watching the screen of the communication device he held between them.  The man had gone deaf a decade ago – a detail Zeke didn’t tell him until they met – and the device rendered Deuce’s speech into text.
+The hand-held device was both anachronistic and a testament.  These people commanded the technology to insert an implant that would enable Oswald to hear.  But their ongoing war with the Elite precluded such conveniences.
+This conflict began decades ago with the Elite designing androids that perfectly mimicked people.  These imposters attacked members of the population who refused to accept the enhancements made mandatory by the authoritarians.  The resistors developed means to detect the hidden technology.  But that made using it on themselves for medical reasons, which they accepted, compromising to their own people.
+So the Elite next developed fully biological infiltrators to evade detection, super soldiers genetically engineered to carry out orders, but proving to lack necessary skills to adapt to deviations.  Deuce himself was a representative of their next innovation, retaining physical prowess but also designed as a strategist.
+Oswald’s gaze focused on his face.  “Is that an off-hand confession?”
+“I’m not sure there’s anything I can say to ease your suspicion.”  Deuce’s conscience writhed.  Earlier today he discovered he’d killed this man’s son, but didn’t know if Oswald had been informed of that inadvertent disclosure.
+The elder’s lips twitched.  “Surely you aren’t going to admit defeat already?”
+“Defeat is not an option.  But why should you believe any of my claims, that my life is now dependent on the success of your resistance?”
+“You seek to save yourself?”
+His guilt over the death of this man’s son made Deuce reconsider his motivation for defecting from the Elite.  “That was my original intention.  But the time I’ve spent among your people has ... opened my eyes.  I thought I understood why you didn’t want to be integrated into the central data core that binds the Elite together.  But I was wrong.  My reasons weren’t your reasons.”
+“How so?”
+“I questioned their authority.  You ... deny it.  They taught me compassion and mercy are weakness, yet that makes you strong.  I came to you, counting on that compassion, with the offer to show you how to be as ruthless as your enemy.”
+Oswald studied him but said nothing, so he continued.
+“I now know that if good stoops to evil, it was never good to begin with.  So the way good stands up to evil must be ... different.  Those are details I’m still working out.”
+“You believe the Elite is evil?”
+“How can they not be?”  His conscience stirred again.  “They demand the destruction of all who refuse to conform to their standard.  I carried out that task for them.  I ... was an instrument of their evil.”
+Oswald leaned forward.  “Was?”
+His guilt surged.  “I know what I’ve done to you.  To your son.  The assistance I offer will never be able to wash all the blood from my hands.  I can’t fathom why Zeke suggested I should assist you with this project, when I only remind you of your loss.  I regret what they’ve made me, and what I’ve done, but that can never change the past.”
+The senior leaned back and stared at Deuce.  During the silence that elapsed for several seconds, Oswald’s gaze softened and he blinked a few times.
+“I agreed to this meeting not so much to challenge your offer of assistance,” he murmured, “but to challenge myself if I could truly forgive you.  Part of me wanted you to fail, so I could justify dismissing your humanity.  But this old, deaf father can tell the difference between contrition and blowing smoke, and I see Zeke’s good judgment of character proves him right about you.”
+There was nothing comforting about the man’s words.  In fact, Deuce’s conscience cringed even more.
+“I don’t deserve your forgiveness.”
+“None of us deserve forgiveness, yet it’s always offered.  But you are no more evil than the Elite ... and if you can seek redemption, so can they.  This alternative I developed to ongoing war, it’s not only for our survival, it’s also for theirs.”
+He stared at Oswald.  “I don’t understand.”
+“Some days, neither do I.”
+The elderly fellow stood and shrugged off his coat.  Deuce recognized the black shirt with a white collar, but it took a couple of seconds to realize that Oswald wasn’t just an astrophysicist – another detail Zeke left out.  The revelation caused a tremor at the pit of his stomach he couldn’t explain.
+“Just what is this alternative?”
+Oswald studied him for a few seconds before replying.  “How familiar are you with the story of Moses?”
+Burning Bushes
+It wasn’t her grandfather Ita was upset with ... at least not directly.  Although he was somewhat to blame for the mangled mess of emotions that wrestled within her, she kept a tight rein on the anger that threatened to steamroll everything else.
+“I refuse to work with that thing.”  She spoke even as her hands gestured the words, and had to focus on not signing too quickly.  Although Oswald had a communication device that translated her speech into text, her deaf grandfather preferred to give her his full attention.
+“He is a man.”  It was only in the last decade he lost his hearing, so Oswald had no trouble speaking, except the inflection of his words tended to fall a bit flat.
+“It’s a genetically engineered –”  Ita caught herself nearly making the mistake of using the term human.  “– creature.  We can’t trust it.”
+Her grandfather leaned back in the easy chair and sipped from the cup of tea she’d given him.  The upholstered seat was one of the few furniture items in the rather Spartan quarters they shared.  When she first gave it to him as a gift a couple of years ago, he’d gently protested she was spoiling him.  But it pleased her that he enjoyed the subtle luxury it offered.
+His gaze leveled over the cup and on her.  “We must.”
+“The Red Sea was coming together just fine without that thing’s involvement.”
+His lips twitched.  “The Elite haven’t discovered our project ... yet.  If they do, Deuce may be our last chance to keep them from destroying it.”
+The Elite ... barely human themselves anymore, yet representing the worst humanity had to offer.  When Oswald was a young man they began their tyranny of demanding every person submit to the biotechnical improvements they deemed necessary.  During the ensuing war they engineered several atrocities to capture or kill those who resisted, including this thing that now called itself Deuce.
+It was one of several Intellectual Militant Prototypes, more commonly called IMPs.  She admitted technically it was a man, but designed to be stronger and faster ... and as cunning as a serpent.  This one in particular killed her father three years ago.
+Her father ... Oswald’s son.  On a certain level, his loss was greater than hers, yet somehow he managed to discover enough grace to forgive that ... brute.
+And now it claimed to no longer believe the Elite ideology, and offered to help her people....
+“It’ll betray us.  How do we know it’s not here precisely to sabotage the Red Sea?”
+“He’s cast his lot with us.  Only a handful of IMPs have ever defected to our side before, and the Elite immediately targeted and killed them.  He’s already lasted longer than the others because he’s laid low, helping to train and plan instead of getting involved in battles.”
+How unfortunate it had learned from its predecessors’ mistakes.  “That sounds like a convenient scheme to destroy all our work.  It already knows too much.”
+“He yearns to atone.  Understanding the project in more depth will help him to best develop the means to defend it.”
+“I’m not going to help it bring us to ruin.  Have one of the other team members do it if you insist on taking this gamble.”
+Oswald’s features loosened.  “Working with him will be helpful to you.”
+“I don’t need its help!”  As soon as the words burst from her, Ita wished she could retract them.  She didn’t like showing anger to him.
+His somber expression swelled her remorse, and Oswald drew a deep breath as he set his cup on the broad arm of the chair.  He held out both hands, palms up, and she placed her own there.  The warmth from the tea seeped from his skin into hers.
+“I ask this of you not only because I know you can do it, but because I pray it will also help you find peace.”
+Ita couldn’t imagine how any of this could work.  The IMP couldn’t be trusted and she had no interest in making peace with it.  Yes, she understood she was supposed to forgive it ... but what practicality was there in forgiving the snake that struck down her father?
+Still ... as much as she wanted to spurn her grandfather’s request, the awe and respect she’d always regarded him since childhood had wavered little over the years.  His mind was still sharp and intellect undimmed, but that wasn’t why she reconsidered giving in to his request.
+Ita softly pulled her hands from his in order to sign her words.  “Is it worth taking this chance?”
+He regarded her steadily.  “Is it worth saving humanity?”
+Ita drew a deep breath and shrugged her shoulders before locking her gaze on his.  There was no getting out of this.  Well, there was, but continued refusal would wind up haunting her.  She thought of that reluctant prophet who stood before an unfathomable fire and argued with God that He’d picked the wrong man for the job.  That was an event she could really relate to now....
+“All right, I’ll do it,” she grumbled, “but only because you’re the only person who could ever get me to say yes.  But if that Deuce so much as fidgets in a way I don’t like, I won’t be held accountable if he stumbles off a catwalk.”
+“I know you’re a better person than that.”
+Truthfully, she wasn’t so sure herself.  “Let me freshen up your tea.”
+As Ita carried the cup into the kitchen, she pondered how much civility she would have to maintain around that creature.  Maybe her grandfather was right.  Maybe practicing patience around a personification of the devil would be restorative for her.
+But she was still going to carry a blaster at all times while it was around.
+Double Deuce
+“I perceive you responded promptly for a coward.”  IMP2 sounded the same although he looked considerably different from the last time Deuce saw him.
+They stood about a decameter apart, facing each other in a field of shriveled weeds and stirring dust.  Deuce had a force of three hundred men concealed all around them in the barren trees and dry boulders.  He could spy the ranks of cyborgs lined half a kilometer behind IMP2, but his estimate of their numbers was only a hundred, although that was more than enough....
+His opponent had previously been a man like him – generated from the same DNA foundation for physical superiority, but as biologically whole as the soldiers crouched around them.  Now IMP2 resembled the troops he led.  Half his face was outfitted with technical components to enhance vision and hearing, and his left arm resembled a weapon more than a limb.
+“I see you’ve put on some weight,” Deuce deadpanned.
+The split-second pressing together of IMP2’s lips offered a gram of satisfaction.  Deuce figured there were plenty of other enhancements he couldn’t see, but had a good idea what they were.
+It occurred to him they were, in a sense, brothers, although the concept of family had been alien to him until a year ago, after he defected to this faction who still embraced their total humanity.  Despite IMP2’s so-called improvements, they even shared familial features, with the same russet skin and brown eyes and dark hair.
+He was also fully aware the playing field between them was no longer level.  If he wasn’t very careful, this encounter would end in blood and screams and fire for the people behind him, who comprised a community beyond the soldiers....
+“Your sojourn among the rabble has dulled your intellect.”  IMP2 raised his weaponized arm slightly, but Deuce remained still so as not to give away which direction he would dodge if needed.  “Instead of blathering nonsense, you should inquire why I requested this conference when I could simply assail the habitation.”
+Did he really used to talk like that?  “I figured you’d get around to it.”
+Hopefully his incongruous responses would disconcert IMP2 enough to make him start second-guessing that Deuce was no longer the IMP17 he used to know ... and therefore less predictable.
+“I’ll allot you credit on the difficulty in tracking you down.  In the interim since your departure, the regents have granted asylum if you return and divulge the relevant datum they require.”
+The Elite weren’t practitioners of forgiveness, although they would feign it if that achieved their objective.  “You do believe I’ve gone bonkers if you think I’d swallow that tripe.”
+But what type of ruse was IMP2’s offer?  Everybody agreed this was a trap, but Deuce consented to the meeting because of the chance he could discover what agenda hid behind it.  That also gave the people in the now-threatened city an opportunity to evacuate.
+So he didn’t come out here alone, and his troops had new weapons and supplementary training that the Elite and IMP2 didn’t know about....
+“I anticipated your obduracy,” IMP2 replied.  “But apply logic to the facts.  What purpose does it serve me to approach with only adequate forces, when I possess the option to overwhelm and devastate you?”
+What purpose, indeed?  Facts and truth weren’t always the same thing.  Deuce had accepted this invitation partly to give the citizens time to escape.  IMP2 also seemed to be stalling for time ... and if that was the case, Deuce should deny him that option.  Besides, an engagement would still allow the inhabitants to withdraw.
+He cocked his head to the left and muttered the code to attack.
+Blaster fire and grenades shot from the sheltering trees and boulders.  Deuce took a blaster crack at IMP2 the same instant his opponent’s weaponized arm fired at him.  Both successfully evaded, but Deuce retreated behind the lines of soldiers that pressed closer to the enemy.
+He didn’t like trying to command from behind his troops, but knew he was the most sought-after target on the battlefield.  Even from this lesser vantage point he ascertained the ambush had been expected, so their forces hadn’t gained any surprise advantage.
+Something wasn’t right....
+The com patch near his left ear crackled with a voice on the edge of panic.
+“Troops have breached the city!  There’re still citizens on grounds!”
+Deuce swore under his breath.  Of course – this whole encounter had been a distraction.  While he was out here with most of his forces, a skeleton-crew guard remained in the city to facilitate evacuation.  And now those defenders were both outgunned and outnumbered by the cyborg ranks.
+IMP2 predicted he would do this....
+Not only were there vulnerable children and elderly, Ita might still be there, too.  She and Deuce arrived only yesterday to negotiate about some components for a certain project.  And Ita was much too important to that project to fall prey to the Elite in any manner.
+“Withdraw to the city!”  Deuce knew his command couldn’t be obeyed effectively.  IMP2’s cyborgs would try to hold them here while the larger enemy force razed the city.
+But maybe at least he could do something to atone for his blunder....
+He sprinted across the cracked earth and scattered gravel, outdistancing any of his troops that tried to follow.  Behind he heard the continuing cacophony of battle, and it seemed to swell toward him, as though the combatants were caught in his wake.  Those who could were in pursuit, and he knew who would be in the lead.
+Deuce tried to run even faster.
+Deuces Wild
+As explosions and crackling erupted in every direction of the underground habitation, the com patch near Deuce’s left ear rarely fell silent.  Reports from all fronts kept streaming in, and if he wasn’t so busy evading IMP2 while trying to help with the evacuation, he could have appreciated pride in his troops.
+The men he’d trained were already battle-hardened veterans; Deuce only polished some skills and introduced others, and the new weapons also proved effective.  The original ranks he’d led from the city had managed to regroup, keeping the invading cyborg armies from swarming the area and hold them to a manageable standoff.
+But his success at keeping ahead of IMP2 caused concern.
+Standing orders had always been to kill a deserter like him on sight.  And it wasn’t luck that allowed him to consistently escape or terminate troops that tried to close in on him.  The enemy was trying to capture him, which made their job harder....
+“We’ve got one group left!” A distraught voice rang from the com patch.  “But a hatch near the western exit is inoperative and they’re caught behind it!”
+Deuce was close enough to that location – and just finished mowing down a platoon of cyborgs with his improved breaker-blaster – to limp that direction to provide assistance.  The charred wound on his right calf afflicted gait but not speed, and within a minute he reached the dozen soldiers leaning against a round, studded metal door that rotated from below.
+With a bark of orders to allow him access, Deuce positioned himself at the crux point on the opposite end of the barrier.  Bracing his good leg against the terminal wall, he pushed downward with the other men to force the door open enough so the remaining evacuees could escape.
+Strength was one of his genetic enhancements, but the door was designed to resist such effort.  When it budged, he heard cheers from behind it, and realized the evacuees were also pushing from their side, and the door hadn’t been designed against that.
+Surely he didn’t recognize one of those voices...?
+He pushed even harder, and as the barrier slowly rotated into the floor, the top of the portal cleared first.  From the corner of his eye he noticed upswept auburn hair on the other side.
+It never occurred to him Ita would stay behind to help evacuate, and she was pushing on the door, opposite from him.
+The impulse to chastise her for taking this risk was easy to suppress – Deuce needed to focus his energy on pushing the door, and he knew better than to challenge her on anything.  But the project he had been assisting her with was the last chance of survival for her people, and her role was too important to gamble her life like this.
+She also realized who was opposite of her.  As the gaze of the woman who knew he’d killed her father locked on his face, her eyes flickered like emeralds reflecting firelight.
+Her attention shifted to the top of his head as she reached down.  When Deuce realized she snatched the blaster that became a permanent fixture on her hip when he began working with her, he had to suppress the impulse to duck.
+He knew she despised him for what he’d done, but he’d also been impressed by how much restraint she always showed.  Surely Ita wouldn’t choose now as an opportunity to claim revenge–
+The zap from the blaster rang in the same ear that felt the heat of the charge hurtle past.
+Immediate commotion thirty meters to the other side of him provoked Deuce to glance that direction.  In the midst of a cyborg platoon that had been advancing toward them, IMP2 tumbled backward as sparks flew from his head.
+Ita’s shot had struck the technological augmentation that covered half his face.  But she had only a standard blaster, not an exotic model like Deuce’s, so he knew the commander was only wounded.
+Soldiers not as crucial for door-duty fired a volley into the cyborg troops that swept around IMP2 to cover him.  Some of the charges fired back struck the door and a couple of men, but purposefully missed Deuce.  He leaned against the barrier even harder, and it spiraled down enough for people of all ages to scramble over and gallop to the pod that would jettison them to safety.
+Ita was the last one out, and Deuce suppressed yet another impulse.  Instead of remaining to fight with his men, he decided it would be wiser to join the evacuees.  What was left of the cyborg ranks might withdraw if he vacated the premises, especially with IMP2 temporarily out of commission.  And he would also be on hand to defend the last pod should it come under attack.
+He stayed near Ita – while keeping respectful distance – and guarded the rear of their group, getting off a few more shots of his own to thin the diminishing cyborg ranks.  The group bustled into the escape pod, which then bolted into the network of tunnels.
+He sat across from Ita, who kept her focus on the rest of the evacuees.  Admiration intertwined with trepidation as he contemplated how great her shooting had been.
+“Thank you.”  He knew it was best to keep his interaction with her brief.
+“You be quiet!” she snapped, and then grumbled, “I’m still not convinced I shot the right IMP.”
+He gazed out the back of the pod, but could only discern ripples on black as it plunged away from their enemy.  Why had they tried to capture him?  Had they gotten wind of the project?  Did they suspect he was involved?
+And if they did capture him, he wouldn’t be able to hide what he knew from their central data core.  They would learn about the project.  They would then destroy it, and ultimately, destroy all these people.
+Deuce stared into the darkness behind them and also began to question if Ita shot the right IMP....
+The Red Sea
+“So why didn’t you call it Noah’s Ark?”  The awe and marvel over all the structural and technical engineering surrounding them subsided enough for Deuce to ask a long-standing question.
+He watched Ita’s frown from the corner of his eye since he knew better than to make any direct contact with her.  She had finally brought him on board one of the spaceships scattered, hidden, around the globe, a spectacular behemoth that offered hope for everyone ... but very few knew about their existence.
+“For one thing, Noah had it easy.”  She never looked toward him.  “All he had to worry about was his own family and two of each animal and one boat.  Our mess is more like what Moses had to contend with.  We’ve got multiple nations and all their livestock and rootstock, and have to keep them alive on several ships in the desert of space for multiple generations.”
+He nodded.  “Recreating a miniature facsimile of the world and condensing it to a dozen interstellar ships still sounds like an enormous risk.  Space is a vacuum that’s otherwise sprinkled with colliding asteroids and lethal radiation.”
+“No more risky than having the Elite attack us relentlessly, where they either annihilate us or we have to annihilate them.”
+“You’ll remember Pharaoh’s army got drowned in the Red Sea.”
+She almost cast a sidelong glance toward him.  “Pharaoh’s army, not the whole of Egypt.  And drowning the army is your job.”
+Yes, figuratively speaking, that had been the focus of his assistance over the last few months.  Once the exodus began, the Elite would do anything to stop them, even shooting the ships out of the sky as they launched.  He had been coordinating defensive measures around the Earth, and each location had different parameters around which to devise strategy.
+But less than two days ago he learned of a detail which dictated there was another part of his plan he would have to implement if they were to succeed.
+“I apologize to prevail upon you with a request.”  Deuce knew to get to the point, but this entreaty needed some prefacing.  “But there’s a matter, concerning that job, I need your help with.”
+The furrow in her brow deepened.  “This had better be good.”
+“I need to have a bomb implanted, preferably in my chest.”
+Ita stared at a display panel on the wall behind him, and didn’t respond for a few seconds.  “Why?”
+“Standing orders have always been to kill on sight any IMP like me that defected.  Instead, they tried to capture me at the last raid.  It’s a miracle the Red Sea stayed secret all these years, but that action can only mean the Elite have begun to suspect you have a project like this.”  He drew a deep breath before continuing.  “If they capture me, they will find out about it.  I can’t defend my knowledge from the central data core.  So ... I must ensure they never make that capture.”
+Her frown remained, but there was something pensive in how her lips pressed together.  “You would really blow yourself up?”
+Odd, he’d expected a more positive reaction from her, like a quip “Consider it done.”  Ever since the first day they met, Ita made it clear she despised him for killing her father.
+Deuce wasn’t sure whether to bless or curse the fact he couldn’t remember the man.  On the one hand it was nice not to look at her and recall the final few seconds in the life of a defender performing above the call of duty.  On the other, he would have liked to acknowledge the eminence of such a person, perhaps even confirming her father’s bravery.
+“The blast must be sufficient to shatter my remains beyond reparation.  I’ll need it set up where only I can detonate it, and I must have several options to do so should any avenue become inaccessible to me.  And since this procedure must remain as secret as the Red Sea is, we need as few people as possible involved to insert the implant.”
+Ita continued gazing at the wall as though she spied an instrument that didn’t belong.  “You need me to contact the right people?”
+“We’ll also need to override the security protocols that would detect the implant.”
+She studied the panel for several more seconds before responding, her words proceeding slowly.  “An ion bomb is small enough to do the trick, but as far as the programming ... I know a woman who could probably help.”
+Her statement didn’t surprise him.  With every able-bodied man needed for combat, the supportive fields of medicine, technology, and engineering were heavily populated by women.  Ita’s role in the Red Sea kept her in touch with the most pioneering individuals.
+“We need the procedure to be completed promptly.”  A surreal sensation pulsed through him as the reality of what they were discussing began to solidify.  His entire life he’d been conditioned to accept the possibility of death on the battlefield, but to personally sacrifice himself carried weightier implications.
+“I’ll stress its urgency.”  For a couple of seconds her gaze darted to his face, and then she turned aside and muttered, “You always have to keep us on our toes with surprises.”
+“What do you mean?”
+Ita hesitated and glanced back at him.  Her eyes met his for another couple of seconds, and her impassive expression continued to puzzle him.  She turned aside again and began walking away.
+“I wasn’t talking to you.”
+Too bad, Deuce thought.  That would have qualified as the nicest thing she ever said to him.
+Beyond Reason
+Battle of Cipher
+
+Deuce always found it strange that the sensation of being alive pulsed strongest in these moments when death threatened most.  The com device on his belt moaned in unison with those of other people in the data processing room, a subdued warning for most to evacuate and the remainder to scramble for defending the underground city.
+It also signaled the end of their meeting.  A couple of technicians began shutting down the equipment, three more simply left, but Ita hesitated as she glanced toward him.
+Hesitation wasn’t a trait for either of them, but her action caused him to pause a second longer before he began striding to a different door.  Deuce stepped from the building, carved into rock like the others, onto a street tunneled through a mountain.  He halted to survey the meager crowd and determine the best route for him to follow to the command post.  Considering the city of Cipher had a population of only around three thousand, nobody should impede him—
+“Deuce!”
+Hearing Ita use his name for the first time in the five months they’d been working together caused an unaccustomed jolt in his metabolism.  He turned back to see her stepping out the same door.
+“What’s wrong?”  He could think of no other reason she’d speak to him when it wasn’t necessary.
+She stopped less than a meter from him, which was closer than their habit.  Her auburn hair was tied into an upsweep as usual, but the gaze from her green eyes locked on his face in a way that was as novel as her speaking his name.
+“Maybe you shouldn’t go out there.”
+There could be only one reason she’d make that comment.  “The bomb should work.”
+“This is a bad time for you to get killed.”
+He speculated when it would be a good time ... especially since she would have been content to see him die long ago.  “I’m a warrior. This is what I was created for.  Why would you try to stop me?”
+“I’m not stopping you.”  The blaze in her eyes was customary, but its brevity wasn’t.  And then Ita grasped him by the hand, her fingers cool and firm against his wrist.
+They’d never touched at all before, not even so much as a handshake, and Deuce had to quash the impulse to jerk away in instinctive self-defense.  He hoped his sharp intake of breath didn’t signal an offensive reaction to her.
+“But I’ve decided there’s something I should say before you go.”  Her gaze remained firm.  “Just in case you don’t come back I figure I’d better go ahead and spit it out.  I forgive you.”
+He’d learned to appreciate her bluntness, but that final statement was like slugging him with a sledgehammer.  Those were words he’d never anticipated, never contemplated, never hoped to hear her say.  He wanted to know why, and why she would choose now to say that, but time was precious and he’d lost enough of it already.
+Yet he was compelled to offer some kind of acknowledgment ... and reassurance.  “The odds aren’t so bad against me.”  Deuce glanced upward, toward the surface, where the impending battle would clash.  The troops only had to hold the enemy at bay long enough to allow the citizens of Cipher to escape to Gath.  “After all, I exist to fight.  This is why I’m here.”
+She released him as his gaze fell back upon her face, but her resolute expression lingered in his memory as he turned away and strode toward the command post.  The city lighting that usually mimicked the cycle of the sun shifted to a blue-green cast.  People heading the same direction he was were all men in their twenties and thirties....
+When he killed Ita’s father nearly four years ago, that man would have been in his late forties.  Deuce didn’t even remember him.  Back then he was known as IMP17 and aligned with the enemy he now prepared to confront.
+Generated in a laboratory, genetically engineered to be physically superior, he was designed for warfare against these people who refused to submit to Elite totalitarianism.  But when he withdrew over a year and a half ago from the faction that produced him, he became one of a handful of their Intellectual Military Prototypes that defected to the insubordinates ... and the only one to survive this long after such an action.
+His so-called alliance with Ita, assisting her with the Red Sea project, meant traveling with her.  He couldn’t fault her attitude about the fact he killed her father, and truthfully, she could have treated him worse.  In fact, he found himself admiring the restraint she showed....
+She seemed to tolerate him better ever since he got the bomb implanted.
+IMPs healed quickly, so soon after the procedure he was back to working with Ita.  He thought he’d noticed she seemed a little less brusque lately.  But her last words to him reverberated within his core.  Why did she forgive him?  And why did she choose now to tell him that?
+He might dare to ask her after he returned ... assuming he returned ... but now needed to focus on engaging in the battle ahead.
+
+Fifty Years before Cipher
+
+Death was not yet imminent, but its final approach had begun.  Moira could no longer see nor hear the six lab technicians outside the harvesting cocoon that restrained her.  The metallic tentacles wrapped around her sent stinging prickles from her fingers and toes.  But the electrodes strapped around her head prevented the excision from being as agonizing as it should be.
+It was once miraculous, this delicate balance they had to maintain to keep her cells unadulterated from chemical contamination while minimizing natural pain.  But a therapeutic breakthrough from decades ago had degenerated into this atrocity, and Moira lamented the series of events that brought her here.
+During her childhood she paid little attention to the debates between the faction that considered itself progressive and the more traditional camp.  In adolescence she came to the conclusion that although she enjoyed the technological enhancements allowing her to indulge in games or movies with all five senses involved, people still had the right to decide if they wanted such modifications.
+She didn’t consider herself a traditionalist, but Moira was sympathetic to their views.  After all, she was a consummate athlete, strong and graceful and exceling in any sport she chose to participate in.  Her ability was both innate and cultured, and she determined there was no real competition when people elected to get augmented so they could execute amazing physical tasks with no effort.
+She did notice the subtle discrimination against the outnumbered traditionalists, and deemed it wise not to be too outspoken how they were relegated more consistently to subservient roles.  They were overlooked for promotions, denied housing and travel accreditation, and became barely represented in the political sphere....
+The change in policy didn’t happen overnight.  But when Moira received the decree to register for augmentation – which also stated the cells from her amputated parts would be preserved because she harbored promising genetic potential – she joined the growing number of fugitives.
+Her existing implants that enabled all her financial, communication, and social interactions had to be removed and destroyed to keep the authorities from tracking her.  Adapting to life without them proved inconvenient, but Moira drew strength from the acceptance she found in her new community.  She even married and over the next few years bore a daughter and then a son.
+But the day descended that android military forces discovered and raided the settlement they helped to establish.  Many residents were captured, including Moira and her husband and their children.  She had no idea what became of her family, but could only assume the worst....
+Children were automatically enhanced.  Adult captives were given a choice: submit to augmentation, or die.  The enhancements now included biotechnical chips that connected people to a central interface.  Moira had been familiar with its capabilities before she was driven underground, but like the harvesting cocoon that imprisoned her now, its original purpose paled in comparison to its current application.  Her thoughts would not only be policed, any contemplation deemed inappropriate would be corrected ... or punished ... by triggering pain or horrific hallucinations.
+Unwilling to submit to their control, Moira found herself regaled with what her particular outcome would be.  Advisors informed her that because she was an exceptional physical specimen, someone whose DNA might further the progressives’ research in improving the ties that bound them to the physical world, they were going to harvest her cells.
+The procedure would be carried out on a microscopic level, extracting bioplasts individually and discarding any without pluripotent properties that could be used for regeneration.  In a sense, she would be mechanically dissolved over several hours, beginning with her extremities and advancing to her vital organs.  Her life would be sustained artificially to maximize their harvest, and only when there wasn’t enough of her left to keep animated would death finally release her.
+Moira’s eyes misted for an instant, but the electrodes sensed the moisture and the same technology that would keep her alive suppressed that physiological response.  It wasn’t herself she had the impulse to weep for, however.
+There was no denying she missed her family and worried about them.  It was true she’d always savored life and anticipated hers would be long and prosperous.  The concept that haunted her, however, was why this was happening to her.
+Her question wasn’t new.  It was probably as old as humanity itself.  And during her acculturation into the traditionalists she’d come to share the belief that everything worked out for the best.  Somehow, in the midst of all the terror and disasters that continually plagued this world, increments of good could be extrapolated.  Somehow, despite the severity of the bad, good would overcome....
+But she couldn’t see that now, at least not in her case.  Her captors viewed her as nothing more than raw material, refusing to even acknowledge her name.  Instead they always designated her as Prisoner 07.1, stripping any vestige of humanity.  She wished her death could have amounted to nothing, but instead it was insult added to injury.
+The authorities would take her cells and use them to further the cause she opposed.  They would try to lengthen their own lives.  They would oppress the people she’d tried to help remain free.  Her fate was beyond ironic ... it was cruel.
+The progressives were going to get what they wanted, including the desire to prove her belief and hope was a fantasy.  They were going to establish the reach of their power and rob her of everything dear.
+No.
+There was still one way they couldn’t defeat her....
+The burst of defiance was like a match struck in the dark.  They could suppress her body.  They could control her reception of pain and any physiological responses.  But the one part of her they still had no control over was her thoughts.
+She believed.  She believed everything that flew in the face of their ideologies.  They could control everything else, but they couldn’t control her beliefs.  It was the one resource of defiance she had left, and she was going to use it as long as life sustained whatever was left of her body.
+Her activity must have been the explanation of how in these moments when death was inescapable, the sensation of being alive pulsed strongest through her.  Moira prayed.
+
+Thirty Years before Cipher
+
+“It seems it would be easier to make them androgynous,” Latry remarked.
+“As vulgar as it sounds, we must make them men,” Eru replied.  “Remember, these soldiers have to blend into rabble society when necessary.  Might as well put the testosterone to use for more than enhancing strength and aggression.”
+“Like keeping them stupid.”
+Eru smirked.  “We can’t get carried away in that arena.  Even with the rabble being as backwards as they are, they were still intelligent enough to figure out how to detect our androids.  So now we have to design strictly organic soldiers to replace them.”
+“Intelligent in all the wrong ways.”  With mechanical arms folded over metallic chest, Latry leaned closer to one of the readout screens lining the laboratory, and employed a couple of eyelid bats to produce an inventory of cellular cultures.  “If they would only use reason, they’d realize how our improvements make their lives better, and longer, and wouldn’t hide in their rat holes anymore.”
+“Too attached to their flesh ... in more ways than one.”  Eru chuckled.  “Although I’ve no complaint about the recreational activity they employ to initiate reproduction, everything after that is just disgusting.  It’s incredible how their females are forced to allow a parasite to grow inside them until it bursts out.”
+Latry shuddered.  “You’d think their women would be the first to come to their senses when they realize there’s a superior way to generate new individuals when necessary.  Especially when our method of recombination is so much more precise. No surprises.”
+“It will be even better when we finally achieve immortality.  No more need for new individuals.  And definitely by then, no more need for soldiers.”
+“Maybe we should design them as female and freak the rabble out.”  Latry leaned back.  “I understand they’re quite possessive of their women, maintaining some antiquated custom where each man claims one for himself.  I think it’s so he can assume he’s the one who sired the children their females are forced to bear.”
+“Wouldn’t that be funny?  Considering they keep their women out of battles so they can keep bearing babies, they might have an aversion to fighting against females. ” Eru chuckled again.  “They might even lay down their arms and surrender if a mere platoon of armed females marched into one of their settlements.”
+“If only it were that easy.”
+“If only.  Speaking of X chromosomes, that half of the soldiers’ genetic makeup should come from specimens 07.1.  That DNA structure is already specific for advanced physical ability, so it will provide a good foundation to build upon.”
+Latry nodded.  “Oh yes, we’ve gotten all kinds of good use out of old 07.1.  These soldiers should have the capability to crush the rabble before they realize what hit them.”
+
+Three Years before Cipher
+
+“Another one,” IMP17 murmured as he stood at the edge of the compound and faced away from the brawling celebration behind him.
+The soldiers cursed and laughed and made all sorts of ruckus as they dined and drank and generally celebrated the results of their latest raid.  It was the only time IMP17 didn’t keep them disciplined, and they took advantage of those opportunities.
+Before him stretched the Elite city.  Its gray and tan buildings maintained a low profile against the reddening sky.  His troops weren’t allowed inside the city proper.  Although his soldiers were the best behaved – he was the commander all the new productions hoped they wouldn’t be assigned to – their organic forms were still an offensive sight to the augmented residents.  IMP17 was allowed in, but even he had to remain largely out of sight.
+Sometimes it was hard to believe he was generated from the same genetic foundation as the brawlers behind him.  The Intellectual Militant Prototypes matched the soldiers in physical prowess, but had been developed later because the Elite discovered their soldiers needed commanders who could think strategically and adapt to changes in situations.
+And therein lay the problem the Elite feared, causing them to limit the number of IMPs produced to twenty-four, and then scattering them around the globe.
+The report he’d just reviewed about IMP9 made him reconsider what lay in the future.  When the first IMP defected to the enemy, IMP17 considered it a fluke.  When it happened again, he wondered what would motivate them to make such choices.  Now IMP9 was the third to take such action.
+Standing orders dictated all defective IMPs must be killed on sight.  IMP9 was in the opposite hemisphere, so there was little chance their paths would cross.  But he was beginning to realize that his own life wasn’t secure.
+That the Elite had suspected such a thing could happen made IMP17 wonder what else they knew and concealed.  Those three had used their ability to think independently and thought themselves right over to the opposing side.  The Elite assumed the defectors would try to rally the resistors to launch a full-scale attack and overthrow their authority, where the IMP would then establish himself.
+But the rabble he battled never showed such inclination.  They never launched any offensive attacks.  In three years of waging raids against them, Elite forces had always been the aggressor.  Those three IMPs would have known that....
+A program the Elite were already wary about was proving some of their worst concerns.  The IMPs would have to go, which meant the soldiers they commanded would need to be scrapped just like the androids they’d replaced.
+They would probably give loyal IMPs the option to accept enhancements and become linked to the central data core.  And that was the root of his problem.  Life in the field, experiencing what he had, made IMP17 begin to question more than his own future.  He was beginning to suspect the superior Elite were not so superior.  In fact, on some matters they could be outright wrong.
+Thinking like that wasn’t tolerated.  They used to correct unsatisfactory thinking with punishment.  But instead of forcing compliance, such treatment occasionally produced individuals who tried to poison the system.  So now anybody who didn’t think correctly was executed.
+If his thoughts were ever laid bare to the data core, IMP17 knew there could only be one outcome for him.
+He had some time to make plans.  The Elite wouldn’t terminate the current soldiers until they manufactured new forces to replace them with.  Once he made his escape, however, he wouldn’t be able to survive on his own.  Living as a target between two enemies was only asking to be killed.  He would have to do the unthinkable.  He would have to join the rabble.
+And he had to be sure that when he did, it would be a surprise....
+
+Battle of Cipher Aftermath
+
+The refuge city of Gath presented a familiar sight to Deuce.  Whenever he returned from battle, whatever community the refugees fled to became a flurry of activity.  Every city had to be prepared for both evacuation and sanctuary.  Most of the new residents would relocate to other domains, but for the first couple of days the temporary haven was filled with more people than were usually gathered in one place.
+He didn’t have the ease of getting around that he did in Cipher.  Some of the people were also on the move, but others gathered in groups and apparently regaled each other with stories they heard about the battle.  As Deuce weaved his way through the crowd, it seemed to him around a fourth of the citizens regarded him.  He was accustomed to remaining anonymous, but the recognition he noticed implied one of the stories circulating was about him.
+That only made him all the more eager to reach the shelter where he could retire to his quarters ... and also check in with Ita.  What minor wounds and bruises afflicted him didn’t need immediate attention.
+This shelter was a bit more private than most others, designed to house individuals who possessed important secrets and would move on within the day.  On the third floor he entered his tiny quarters, little more than a room where a bed could be pulled from the wall, and attached to a washroom.  Deuce left his gear on the narrow table against the wall and exited his room to approach Ita’s quarters next door.
+He used the com device on his belt to announce his arrival.  Her voice was noncommittal as it transmitted from the instrument.
+“Come in.”
+The door retracted, revealing Ita fiddling with some data processing equipment lined on the table just like the one in his matching quarters.  She glanced at him from the corner of her eye.  Deuce stepped just inside the room and the door closed behind him.
+“Do you need any assistance?”  He wasn’t sure why he always asked this question whenever they regrouped.  She would always shoo him off.  But he figured he should begin what would probably be a brief conversation before asking his pressing questions.
+“No.”  At least this time she didn’t respond with the insistence she needed absolutely nothing from him.  “It’s good to see you made it back in one piece.  And I heard ... you nearly didn’t.”
+She must have heard the same report as the people on the streets.  “With the Elite trying to capture me first, it makes it easier to draw their forces away from the other troops.  Then our side can outflank them.”
+“You nearly got captured.”  She straightened, and continued to regard the equipment instead of him.  “That means you nearly died.”
+“Does that have anything to do with why you said you forgive me?”
+She turned her head to look at him.  Her expression was much the same as it was back in Cipher, although this time there was something more contemplative about her gaze.
+“Why did you put a bomb in your chest?”
+Deuce’s brow furrowed.  “You already know.”
+“No.”  The rest of her body turned so that she faced him fully.  “I mean more than the practical reason.  Why are you willing to die to protect the project?”
+He grappled with providing her a more complex response.  “I suppose for one thing, I no longer view death as the end.  And ... I’m only one man.  My life weighs nothing in comparison to all the people we’re trying to save.”
+“Your life weighs something.”  She clasped her hands together.  “And that is why ... I thought you should know I’ve forgiven you.  My conscience would’ve bothered me if you died and found out later instead of sooner.  When you decided to put that bomb in your chest, when it became plain you would sacrifice yourself to save the rest of us, I finally began to reconsider you weren’t the same ... man ... I assumed you to be.”
+Man?  She was hitting him with all kinds of firsts today.  Usually she referred to him in less precise terms such as creature.
+“Your assumption wasn’t necessarily incorrect.  It might be more accurate to say I am no longer that man.  My origin as a warrior will never change, however, so I’ve long accepted the possibility of dying in battle.”
+She studied his face for a couple of seconds, and then stepped away from him but motioned with one hand to follow.  “You’re more than what the Elite created.  I want to show you something.”
+He followed her to the window that was also a sliding door.  Ita opened it and stepped out on a metal balcony.  Deuce followed and stood beside her at the railing, making certain he kept at least a meter between them.
+“Tell me what you see,” she said.
+He gazed upon the menagerie of people below.  The crowds were beginning to thin, but there was still plenty of activity for him to describe.
+“There are people walking and talking with each other and carrying some of their possessions.  Children are dashing about, playing some kind of games, I suppose.  And there are elderly, moving about slower but ... they’re involved with the others.”
+“People who will live to see another day.  People who still have their families intact.  People who still have hope to escape the Elite’s tyranny.”  When Ita raised her hand to grasp his arm, Deuce was less startled than the first time.  “It’s true the Elite designed you to destroy us, but their power isn’t as complete as they’d like to believe.”
+She stepped closer to him, and Deuce considered the fact he could get used to this change in her interaction with him.  “This,” she murmured while extending her other hand toward the masses, “is why you are here.”
+Standing on the Shore
+Ita strode into the medical ward.  Choking back tightness in her throat only seemed to push it down to her chest, and the sight of half a dozen terminal patients lying in beds on either side of the room increased the sensation.  Most were accompanied by monitoring equipment.
+The only other person present was an elderly nun in a light blue habit.  She looked up from an emaciated girl whose hand she grasped, then murmured something to the patient before stepping toward Ita.
+“How may I help you?”  Her voice was thin yet warm, like a shawl offering comfort on a cool summer evening.
+“I’ve come to see Oswald Taggart.”  As her eyes swept across the room, Ita spied her grandfather on a bed near the far wall.
+The nun nodded as her gaze matched.  “He’s weak, but coherent.  The priest has already been here.  Unless there’s something you’ll need, I’ll leave you be so you can visit.”
+“Thank you.”  The significance of the nun’s presence flashed into her conscience.  Mere hours ago the evacuation to the space ships began.  People all over the world discovered there was an escape plan, a last-ditch effort to elude once and for all the enemy that had hounded them for decades.
+But the plan also had to address the reality there would be individuals too weak to embark upon such a journey.  Volunteers stepped up to minister to the dying, and to remain behind to ultimately die with them.
+Why now?
+No sooner had the evacuation begun than Ita received word her grandfather had collapsed.  Leaving her own duties in capable hands, she sped across a quarter of the globe to reach him.  It was probable none of her aunts, uncles, and cousins had time to visit Oswald in his final hours.  They had to escape quickly ... before the enemy Elite caught up.
+The blankets failed to disguise how he looked thinner than the last time she saw him around three months ago.  Work on this project, a job he’d handed over to her, had kept her away for too long.  If only she had been better about staying in touch....
+“What brings you here?”  His eyes opened upon her approach, and he smiled.
+Only then did she notice the audio sensor attached near his ear.  Oswald had been deaf for over a decade, but he must have consented to using this device in order to artificially hear what others needed to say to him.
+Ita sat on the bed’s edge and grasped his hand.  “I came as soon as I found out, Grandpa.”
+“It seems our journeys will be separate now.”  His voice was weaker, but his speaking still had the flat tone that developed after he became deaf.
+“No, we’re supposed to travel into space together.”  Ita leaned closer to him.  As the youngest child of his youngest child, she always remembered him with gray hair, but until now he’d always been strong.  It was difficult to see him this way now.
+But the glint of oil on his forehead suggested the priest had been here more recently than she’d assumed, offering an incomprehensible consolation.  Its shimmer was subtle, a reminder that humility was a potent charm and strength surged far beneath the surface.
+“I always wanted to see the stars in their own element.”  Oswald closed his eyes, but his smile deepened.  “Though it seems I have other business to attend to.  And where I hope to head now will be even more spectacular.”  His eyes opened.  “When we see each other again, which I pray we will, you can tell me all about it.”
+Her own eyes burned as she squeezed his hand.  “It won’t be the same without you.”
+“Just pretend that Deuce is me.”  His gaze locked on her face, and his smile grew crooked.  “You have refrained from blasting him, haven’t you?”
+She couldn’t resist smiling back.  “I nearly did, once.  But since then....”  She hesitated.  Oswald didn’t know about the bomb Deuce insisted be implanted in his chest.  The Elite had gotten wind of their evacuation plans, and in order to keep the project protected, he had to insure they never captured him and discover information that would bring ruin to everyone.
+The willingness to sacrifice himself began altering Ita’s perception of him.  He once numbered among their enemy, and she considered him to be only a cold-blooded killer.  But lately she started admitting he exhibited appealing qualities, like discipline and humility, she’d hitherto ignored.  In fact, if he didn’t have his hands full with overseeing security to encourage success in launching the ships, he’d be here with her.
+She decided to not worry Oswald about Deuce’s predicament.  “I forgave him.”
+“And that right there is proof that miracles do happen.”  His eyes closed again, and his next breath staggered a bit.  When he spoke again, his voice was hoarse.  “Ita.”
+“I’m still here, Grandpa.”
+His eyes opened, and she could have sworn they blazed with the wonder of a child on Christmas morning.  His smile matched, and the decades seemed to slough off as though he were a young man again, the fullness of life ahead of him.
+“Don’t be afraid ... we are surrounded by light.”
+She was so focused on his smile that she didn’t notice the radiance of his eyes dim until realizing his hand no longer clasped hers.  Ita felt her own breath shudder as her eyes began burning again.
+“I’m so sorry for your loss.”  The nun’s warm voice must have come from behind her, but it seemed to travel from every corner of the room.  “I’m aware of your grandfather’s work, how it will save all these people.  He’s brought great blessing to us all.”
+Ita glanced at the woman destined to die with this remnant, and nodded.  As her attention returned to him, she appreciated his peaceful expression, and noticed again the oil on his forehead.
+The chrism continued to shine.
+Pharaoh’s Chariots
+His resolve steeled as Deuce surveyed the smoky battlefield.  Withdrawing from this arena alive was a natural desire, but his concern for the lives of the score of soldiers with him finalized his decision.
+Over twenty men had originally volunteered to assist him with luring the cyborg forces to this fallacious location, even though each one of them knew it was possible none would return.  And the ones that had already fallen knew no more about the bomb surgically lodged inside his chest than their surviving combatants.
+The people he had become part of were on the verge of escaping their tormentors.  There had been enough death already.  He was determined to see that these brave servicemen would rejoin the families they were fighting to keep free.
+“They’re flanking to cut off our access to the chute!”  The voice that buzzed from the com patch attached near his right ear disclosed strain but not panic.
+Although battle hardened, Deuce was a bit struck at how calm his own voice sounded.  “Retreat now, before they get there.”
+“What about–”
+“That’s an order!  I’ll hold them back.”
+There was a couple seconds hesitation before he heard “Yes, sir!”
+He set the charges in his blaster for a cluster spread.  That meant he would run out of ammunition soon after reaching the entrance of the passage that sloped down to the launch pad, but when he detonated the bomb within his chest, that wouldn’t matter anymore....
+Once the soldiers cleared the chute leading to a purposefully unfinished interstellar ship, they could board the real escape vessel hidden within.  Right now, in a dozen locations scattered around the Earth, completed space-bound behemoths were launching from their hitherto underground platforms.
+The com patch also chattered with reports from those other sites.  Some of them were under attack as well, but at least he’d succeeded in drawing the majority of the Elite’s forces here.
+He was, after all, the best bait he could offer.
+“Go!  Don’t wait for me!”
+Deuce leaped from behind the jagged boulder that was inherent to the rocky outcrop shielding the underground launch pad.  Maintaining cover behind other stony features, he fired into the closest enemy troops as he trailed his soldiers pulling back to the chute.
+Return fire was aimed more toward his retreating unit than him.  He knew why.
+Less than a minute after the last man disappeared into the downward tunnel, he darted into the entrance, but then held his ground.  After only a couple more blasts from his weapon, the cyborg forces scattered as though fearing the meager obstacle he presented.  They ceased fire and ducked into cover of their own on the other side of the rocks.
+He wanted to hold this position for as long as possible before activating the bomb and blank off this chute.  But even though he was fairly exposed here, the enemy still didn’t fire.  They had to be under orders to leave him for the individual who wanted him most....
+When IMP2 stepped into the clearing, Deuce figured his former ally wanted to make this confrontation really personal.  Good, it gave his soldiers more time to escape.
+“You’ve been wasting ammo.”  As IMP2 approached, he held a blaster in his remaining human hand even though his mechanized arm was also a shooting weapon.
+Deuce gripped his nearly empty blaster in the ready position.  “Considering your casualties, I wouldn’t call it a waste.”
+“What is your strategy, IMP17?  Your speculation is consistent, but this maneuver is deviant even for you.”
+Hearing his old designation churned a slight touch of nausea.  “Are you sure you want to find out?”
+A leering smile formed on his opponent’s face as he stepped closer.  “I will deign to compliment your evasiveness, but observation of your tactics conveys desperation.  Whatever ships don’t get grounded before takeoff will be terminated by the hunter satellites when they reach orbit.”
+They had a plan in action for those satellites, too.  But even though IMP2 was about to die with him, this was no time to tip his hand.  But he might enjoy giving them something to worry about, even if was a bald-faced lie.
+“Didn’t you know satellites can be remotely reprogrammed to change their targets?”
+The commander hesitated and studied his face, perhaps searching for some unconscious betrayal he might let slip.  With half of IMP2’s face outfitted with technological improvements, Deuce didn’t bother trying the same.  It didn’t matter.
+“You are too calm for somebody who knows his life is forfeit.”  That statement sent a chill through him, and Deuce began sliding his left hand up the front of his uniform.
+IMP2’s gaze locked on that hand.  Deuce knew he was anticipating he would draw a weapon, but had no idea what was actually about to happen.  Self-sacrifice didn’t register in his psyche.  When IMP2 continued, Deuce was relieved to hear his assessment confirmed.
+“But you will not remain so complacent.  My enhancements far outweigh our biological engineering, and you owe me satisfaction for the trouble you have caused.  By the time I’m through with you, you will wish you’d been executed by the Elite.”
+Deuce’s index finger reached the thoracic depression at the base of his throat.  The seconds began crawling, as though every cell in his body understood life in this world was about to end and wanted to savor what little time was left.
+A reflection on Ita, with her fiery hair and emerald eyes, surfaced from his subconscious.  More so it was her feisty personality and stoic bearing he would miss.  They had only recently started to understand each other, and he regretted they wouldn’t finish working out their differences.  Still, it was comforting to know he’d taken part in her ultimate escape....
+He pressed hard into the shallow cavity until his fingertip sensed a small, hard protuberance that hadn’t been there before the bomb’s implantation.  One more push set the device to standby, and he had only to murmur the single, five-syllable word that would detonate it.
+“Uni–”
+Fired charges from behind hurtled past him.
+IMP2 spun and twisted and leaped to avoid the barrage like any Intellectual Militant Prototype worth his genetic engineering should.  A couple of sparks emitted from his arm, but with a few shots of his own succeeded in taking cover with the cyborg troops.
+Deuce swung to one side as charges continued streaking past him.  Had anybody other than the colonel who strode forward and grasped his arm performed such an action, he would have demanded they withdraw.
+Quint was supposed to be back at the ship as the commander of the crew that would launch it.  But considering he was one of the first people to accept Deuce when he joined their forces, he was inclined to concede to this change in plans.
+“Let’s go, general!” Quint barked.  “No man gets left behind.”
+Arguing would only cause a delay that would endanger all of them.  Deuce retreated into the depths of the passage with his troops as they fired back at the enemy resuming attack.
+Pillar of Fire
+By the time the squad reached the launch pad, more cyborg troops started breaking through accesses that were barricaded earlier.
+Deuce’s annoyance, sparked with the realization his unit might have made a cleaner escape if they hadn’t come back to rescue him, flared with renewed resolve.  Since they took it upon themselves to get him to the shuttle hidden within a larger, incomplete ship, he might as well do everything in his power to insure they made takeoff.
+“Load everybody up!” he barked to Quint.  “I’ll hold them at bay!”
+“Don’t take too long!”  The colonel tossed his own blaster to him and drew a sidearm instead.
+Utilizing both blasters, Deuce sprinted in spurts toward the main bulk of the unfinished interstellar ship.  To his consternation, he no longer drew the brunt of enemy fire.  IMP2 must have decided stopping their escape took precedent over the satisfaction of killing him....
+The com patch near his ear continued to chatter with updates on the dozen completed ships.  Most had launched, but he’d lost track of which ones they were.  He glanced back toward the shuttle and regretted at least two more soldiers had fallen.  But the hatch door closed, securing the rest of them behind solid steel that repelled blaster fire.
+“The ship is down!” crackled from the com patch just before a searing punch thrust into his chest.
+The jolt knocked him against the frame of the doorway where he’d been taking cover.  Then he dropped to one knee.  No more reports issued from the com patch.
+He also couldn’t breathe.
+Deuce surged to his feet and staggered into the armory, one element of this decoy ship that was complete.  His body armor had managed to keep the buster round to penetrating only partially into his chest.  But he was mostly grateful it didn’t set off the bomb implanted only a decimeter above the wound.
+IMP2 had brought out the big artillery, and that was probably who shot him before refocusing on the shuttle....
+He lurched toward the turret controls and fumbled with the com patch near his ear.  It remained silent, and upon lowering his hand realized it wasn’t only his chest that was bleeding.
+What ship had gone down?  His throat tightened at the possibility Ita could have been on board that doomed vessel.  No, he couldn’t allow dread to overtake him....
+Breathe.  Only his genetically-engineered athletic superiority permitted him to suck in wisps of air, and that was still only with concentration.  He had to keep breathing.  Every breath, however meager, bought him a few more seconds.  And every second he gained allowed him to help the shuttle succeed in launching.
+The four cannons could be programmed to fire in a predetermined pattern, and Deuce activated three of them.  He took the controls on the fourth, however, and first targeted the battalion that directed more potent buster rounds at the shuttle.
+Steam was hissing from its launch boosters, but it wouldn’t be able to take off and fire upon enemy troops at the same time.  Then again, it wouldn’t need to – anybody in the vicinity of the launch pad would be reduced to a pile of ash from the flaming rocket engines.  That included him.
+Breathe.
+He bombarded several charges into IMP2’s battalion while the other cannons fired into the supporting flanks.  The booms and explosions muffled other sound, and it was only when he spied boulders and dirt and support beams falling around them he realized the ceiling was caving in just like it was supposed to.
+The descent of the debris was controlled, opening up the ground above them so the shuttle could blast off.  He also appreciated how it added to the chaos the enemy had to contend with.
+Concern surfaced in his mind about the ship that had gone down.  Was Ita on board?
+The view screen of the control panel showed steam and smoke and dust, but he couldn’t detect any more activity.  No movement.  No shooting.  Had IMP2’s forces been crippled that much, or were they only regrouping?  The roar of engines firing up confirmed the shuttle should lift off soon, so nobody had much time left here.
+Then this was it.  His vision grew blurry and fatigue seemed to seep down to his bones.  If he allowed unconsciousness to overtake him, he would stop breathing.  And maybe being unconscious or already dead might be merciful when the shuttle took off and engulfed the launch pad in flame.
+The revolution that had endured for decades was finally going to end ... at least as far as he was concerned.
+But what about the other ships?  There was no guarantee they would be safe upon breaching the stratosphere.  If his prayer that Ita was on board another vessel proved true, she and all the others could still be in danger.
+Dying now would be too ... convenient   He could almost hear Ita’s voice, tinged with droll sarcasm, telling him “Don’t think you’re getting out of this that easily.”
+Breathe.
+He stumbled off the platform and staggered in the direction of the shuttle.  It was just as well he experienced difficulty breathing – the air was thick with particulates.  And this attempt could turn out to be an exercise in futility.  His enemies might drop him with another shot.  His comrades might not be able to see his approach, and he’d be incinerated while trying to reach the vessel.
+He almost tripped over the ramp that led to the hatch, and nearly crawled up it.  He reached out and felt the smooth metal pitted slightly from buster hits.  Was any of the structure compromised?  Would he trade suffocating here to suffocating in a vacuum otherwise sprinkled with colliding asteroids and lethal radiation?
+The metal retracted from his fingertips and at least two pairs of hands grabbed his arms and yanked him forward.
+Breathe.
+The voices around him were muffled by more than the roar of engines.  With two soldiers supporting him, and a wall nearby, Deuce managed to stagger to his feet.  Despite his dimming vision he locked his attention on the view screen beside the hatch.
+The lurch of takeoff added to his wooziness, but through the haze both outside and in his head, he caught sight of movement where IMP2’s battalion had been.  From the familiarity of the motion, he figured it was IMP2 himself.
+And then flame filled the vicinity.
+“Get a stint for him!” Quint’s voice sounded oddly distant.
+His vision darkened more as a remorse he hadn’t anticipated swelled through him.  In a way, he was glad IMP2 perished this way.  Most likely his former comrade would have been executed by the Elite for failing to quash the evacuation.  And although they found death by cremation efficient, they were also known to take hours turning up the heat when especially displeased with the condemned.
+When the physical pain subsided as he faded from this world, Deuce couldn’t decide whether or not to welcome that release....
+Parting the Waters
+All was darkness.  And it was empty ... so very empty.  Deuce expected that, and the sensation of floating added to his disorientation.  Darkness and emptiness was all that space had to offer, except for the occasional colliding asteroid or lethal radiation ... wait a minute.  He was breathing.  That shouldn’t be possible.
+In fact, the last he recalled, breathing had required effort....
+No, he wasn’t floating.  He was lying on a bed.  And he was becoming aware of funny but familiar smells.  Ah yes, a medical ward.  And then his memory flooded with images of the battle where he was wounded.
+They could still be in danger–
+His eyes snapped open, and the light, although soft, caused him to squint.  He started raising one hand to shade them – except he couldn’t.
+“At ease, soldier.”  A familiar male voice he hadn’t heard in weeks offered more consolation than the words.  “Kyla said you might wake up ready to fight.”
+The speaker leaned into his field of vision, and Zeke’s gray-streaked beard didn’t conceal his grin.
+“Where...?”  Deuce’s voice came out in a squeak, which seemed to make him more conscious of the sore tightness in his chest.
+“You’re safely onboard the Ascension.  And you’ve been here for three days.  Kyla kept you sedated all this time so your lungs would have more time to heal before she took you off the respirator.  Yet again, your genetic engineering helped you survive something that would’ve killed anybody else.”
+He appreciated Zeke’s thoroughness, but then his memory dredged up a crackling voice transmitted from the com patch he wore in battle.  A ship had gone down during launch.
+“Ita?”  He wished his voice didn’t sound so pathetic.  “Which ship?”
+“Oh, you don’t have to go far to find Ita.”  Zeke started removing the restraints from his wrists.  “She’s here on the Ascension.  Good thing, too.  Told us about the bomb that needed to be removed from your chest while Kyla was patching your lungs.  Imagine the fracas that would’ve caused if we’d just stumbled upon it!”
+Ita was safe.  There was no more implanted bomb.  But his relief was transitory.
+“Rest of the fleet?”
+Zeke’s demeanor grew somber.  “We lost two ships.  One was taken down during takeoff, and the other was destroyed by a hunter satellite before our drones could take them out.”
+Deuce closed his eyes again.  Thousands of lives lost on the cusp of freedom.  That did leave them with ten interstellar ships and over thirty thousand persons ... a mere fragment of humanity.  And most of them found out only three or four days ago they would be spending the rest of their lives in space.
+Them ... and generations after them.
+“I regret I’ve got another bit of bad news.”
+His eyes opened, and Zeke continued.
+“Oswald passed away.”
+That statement was like a bolt from the blue, and Deuce stared at him.  Oswald was quite elderly, but the last he’d heard, his other mentor had been doing well.  “How?”
+“Old age, it would seem.  Right as the evacuation was beginning.  Ita managed to arrange being with him, so that’s been a comfort for her.  But I figured it would be good for you to know before she swings by to check up on you.”
+“When?”
+“She should be getting off duty in a couple of hours.”
+“I see you’ve turned him loose already.”  Kyla stepped beside her husband and locked her gaze on Deuce.  “But how do you feel?”
+He tapped his chest.  “Achy.”
+“That’s all?”  She smirked.  “Having you for a patient makes me look like a blessed genius.  You know, once you’re recovered, we might ask for a closer look at your DNA.”
+Between Zeke filling him in on more details and Kyla updating his medical condition, he lost all track of time.  When Ita walked into the ward, he was sitting up on the edge of the bed, and the smile that sprang to his lips was too spontaneous to suppress.
+He did manage to keep from cracking a grin when she smiled back as she approached.  “Well, I see our peace and quiet has come to an end.”
+“You have an odd definition of peace and quiet.”  His voice was slightly stronger, although Kyla had warned him not to push anything that involved breathing ... which meant everything.
+“I see Zeke has informed you of what’s transpired since evacuation.”
+He nodded as his smile evaporated.  “He also told me about your grandfather.  I’m sorry.”
+She shrugged, although a glimmer flashed in her green eyes.  “Thank you.  I at least got to be with him when he passed, and his last words will stay with me forever.  He was at peace.  He even smiled as he said, ‘Don’t be afraid.  We are surrounded by light.’”
+Those words seemed to soak themselves into his psyche as well, determined to become as permanent for him as for her.  “I suppose I’d expect him to say something like that.”
+“He asked about you.”
+“How so?”
+“He wondered if I’d blasted you yet.”  She tilted her head slightly.  “I told him that was no longer on my to-do list.  So, Kyla says you can walk around as long as you keep it to a saunter.  Want to see a little more of the ship?”
+“Might as well start learning my way around.”
+“Most people are still learning their way.”  She grasped his arm to help keep him steady as he stood.  “You can imagine the culture shock going on right now.  And not everybody’s thrilled about taking up permanent residence on a spaceship.”
+Although he didn’t need her assistance, Deuce was glad she continued to offer it.  “That’s perfectly understandable, considering you’re looking at one of them.”
+“You’re still nervous about space?  After all you’ve been through?”
+“Colliding asteroids.  Lethal radiation.”
+Ita smiled and squeezed on his arm as they strolled to the ward’s exit.  “I suspect you’ll get over it.”
+As long as she was around, he was sure he would....
+They discussed the challenges ahead for the ragtag remnant as they passed through the conduit-lined hallways.  Other pedestrians were sparse but representative of the occupants, ranging from singles to whole families.  She led him to a narrow, dim room that was little more than a corridor itself, but its oval windows caused his heart to flutter.
+“Storage and observatory,” she announced.  “One of the few places you can see the stars for real, instead of on a view screen.  This seems like a good first step to getting you acclimated.”
+He stood at one window and she at the one beside it, and the clarity of the constellations scattered around them did strike him with a sense of awe.  He glanced toward Ita and noted the slight part in her lips as she gazed into the depths of the universe.
+His attention drew back to the stars that pierced through what seemed eternal night.  Each was a point of light, and each shined on, defying the empty darkness that couldn’t overcome them.  He wondered if Ita was also thinking of Oswald’s last words.
+No matter what lay in store, no matter how much darkness overshadowed them, there was no need to fear.  They would always be surrounded by light.
+
+The End
+About the Author
+A. E. Branson is a native Missourian who has spent most of her life in the rural areas.  She and her husband live where they are outnumbered by a variety of farm animals, and their two children keep her in touch with modern technology despite her occasional kicking and screaming.  She is happy to hear from readers through her webpage:  http://aebranson.com.
+
+
+Other books available (End of an Age series)
+Darkness upon the Land
+Wail of the Tempest
+Cast into the Fire
+(and coming later in 2021)
+Wind Across the Water

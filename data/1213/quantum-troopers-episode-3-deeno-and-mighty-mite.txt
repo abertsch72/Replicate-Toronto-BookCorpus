@@ -1,0 +1,879 @@
+﻿Quantum Troopers
+Episode 3: Deeno & Mighty Mite
+Published by Philip Bosshardt at Smashwords
+Copyright 2016 Philip Bosshardt
+Smashwords Edition, License Notes
+
+This ebook is licensed for your personal enjoyment only.  This ebook may not be re-sold or given away to other people. If you would like to share this book with another person, please purchase an additional copy for each recipient.  If you’re reading this book and did not purchase it, or it was purchased for your use only, then please return to Smashwords.com and purchase your own copy.  Thank you for respecting the hard work of this author.
+
+A few words about this series….
+
+Quantum Troopers is a series of 15,000- 20,000 word episodes detailing the adventures of Johnny Winger and his experiences with the United Nations Quantum Corps.
+Each episode will be about 40-50 pages, approximately 20,000 words in length.
+A new episode will be available and uploaded every 3 weeks.
+There will be 22 episodes.  The story will be completely serialized in about 14 months.
+Each episode is a stand-alone story but will advance the greater theme and plot of the story arc.  
+The main plotline: U.N. Quantum Corps must defeat the criminal cartel Red Hammer’s efforts to steal or disable their new nanorobotic ANAD systems. 
+Uploads will be made to www.smashwords.com on approximately the schedule below:
+
+Episode #	Title					Approximate Upload Date
+1		‘Atomgrabbers’			1-14-16
+2		‘Nog School’				2-8-16
+3		‘Deeno and Mighty Mite’		2-29-16
+4		‘ANAD’				3-21-16
+5		‘Table Top Mountain’			4-11-16
+6		‘I, Lieutenant John Winger…’	5-2-16
+7		‘Hong Chui’				5-23-16
+8		‘Doc Frost’				6-13-16
+9		‘Demonios of Via Verde’		7-5-16
+10		‘The Big Bang’			7-25-16
+11		‘Engebbe’				8-15-16
+12		‘The Symbiosis Project’		9-5-16
+13		‘Small is All!’				9-26-16
+14		‘’The HNRIV Factor’			10-17-16
+15		‘A Black Hole’			11-7-16
+16		‘ANAD on Ice’			11-29-16
+17		‘Lions Rock’				12-19-16
+18		‘Geoplanes’				1-9-17
+19		‘Mount Kipwezi’			1-30-17
+20		‘Doc II’				2-20-17
+21		‘Paryang Monastery’			3-13-17
+22		‘Epilogue’				4-3-17
+ 
+
+“Mali”
+
+Banikaiyan, Mali
+October 2, 2048
+12:45 a.m.
+
+Major Kraft’s words rang in Johnny Winger’s ears like some kind of bell tolling.  “Just grab a corpse,” the Major had said at the mission briefing.  Operation Sahara Ghost was like that.   Kraft had dropped the mission and the rules of engagement on Detachment Alpha just that morning, just before they had boarded Charioteer for the two-hour suborbital hop to West Africa, to Mali and Banikaiyan.  They had lifted off from Table Top shortly thereafter, burned a hole in the sky like a meteor in reverse, and now the ocher tableland of the Sahara Desert was sliding toward them from the eastern horizon.
+“Ah…Banikaiyan, Mali,” enthused Deeno D’Nunzio as she tightened her shoulder harness for deceleration and re-entry.  “Flies, fleas and fun…what’s not to like?  All the comforts of home—“
+They would be on the ground at Bamako-Senou Airport in less than half an hour.
+The mission of Sahara Ghost was simple enough.  Winger went over the particulars in his mind, with help from vids and graphs on his wristpad…Kraft’s words droning on through its tinny little speaker…Q2 wants to know what Red Hammer has, what HNRIV’s made of…grab a  sample of HNRIV, any way you can…secure it…bring it back to Table Top…Q2 wants to know how much of ANAD is inside HNRIV….
+Deeno was nearby, watching Winger watch Kraft gesticulate on the tiny wristpad screen.  “Skipper, wouldn’t it be great if we keep Ironpants in that little gizmo…contained like ANAD?”
+“No chance…the Major’s larger than life.  I’m just glad he can’t replicate like ANAD…yet.”
+Deeno was a trash-talking New York kickboxing enthusiast, a bit of a wisecracker but she’d never met an ANAD interface, a hypersuit or satlink she couldn’t fix.  She loved all kinds of physical stuff, from wrestling to tai chi and could out hit and out lift half the guys in the platoon.  She had a great physique and she liked to show it off.  Hoyt Gibbs called D’Nunzio Her Magnificence.  Deeno loved every minute of it.  
+No question about it, Johnny Winger was the best code and stick man 1st Nanospace Battalion had ever seen.  He was a natural about it, like he'd been born to the interface controls, able to see and anticipate things at indescribably tiny scales in a way that was almost eerie.  As a platoon leader in 1st Nano, Lieutenant Winger was a short timer; he'd been in the billet less than three months.  Which was probably just as well.  With Major Kraft having named him to lead the ANAD Detachment on a recon of HNRIV's home territory in Mali, Winger had enough to deal with.  
+He didn't need any static from jealous colleagues like Dana Tallant.
+Quantum Corps' hyperjet Charioteer touched down at Bamako's airport a little after noon local time, kissing the tarmac with a hard bump after a grueling eight-thousand mile, two-hour flight from Table Top.  From the top of the ramp, Winger found the capital of Mali a sprawling, dun-colored metropolis perched on endless miles of grassland, desert sand and scrub bush.  Though the city was only a few hundred kilometers north of the Equator, the air was surprisingly cool and dry.  Through distant haze, red-topped mountains rimmed the horizon.  The Niger River flowed lazily right through the center of the city. 
+The Sahara is somewhere out there, Winger remembered from the maps.  But this was no time for sightseeing.
+"Fall out!" he yelled.  "Get the pallets unlocked and rolled out.  Lifters'll be here at 1350 hours."
+The ANAD Detachment was a bastard creation on anybody's organization chart, but Kraft had pulled all the talents and ratings a Level 1 mission would need and Winger was glad of it.  As the team floated their pallets of equipment out of Charioteer and stacked them for loading on the lifters that Quantum Corps Central had staged down from Balzano, Italy, Winger silently inventoried the team and their gear.
+First were the IC's, interface controllers to the uninformed.  IC's were the Detachment's 'code and stick' men, responsible for programming the ANAD mechanisms, or 'driving' the master replicant if the situation called for it.
+Next were the CEC's.  That stood for Containerization and Environmental Control.  The CEC's did service and support for the TinyTowns that ANADs traveled in, from one theater to another.  And you couldn't forget the CQE's, Communications and Quantum Engineering.  CQE's were the Mr. Fixits of the detachment.  They had responsibility for the comm and data links, for computer setup and maintenance, even the hypersuits the unit sometimes wore into combat.
+Rounding out the detachment were a pair of SDC's, whose main job was stealth and defensive countermeasures for the unit and another pair of DPS's, the Defense and Protective Systems specialists, who manned the coil-gun patrol bots and the group's HERF and magnetic weapon systems.
+Overseeing all, the CC's were command and control ratings who did all the mission planning, all the tactical decisions, the sitreps and writeups and most of the ass-kicking needed in the field.  
+That was ANAD Detachment Alpha, twelve people in all.  Only the two CC's were officers.  Everybody else ate from the non-comms' mess.
+Winger motioned the CC2 over.  Lieutenant Dana Tallant had been helping the CEC's with stowing the containment pods for loading aboard the lifters when they arrived, when she saw Winger's hand signal.  Tallant jogged over to see what was up.
+Winger was shaking hands with a heavy-set ruddy-cheeked man in a khaki outfit.
+"Lieutenant, meet Dr. Stuart McTierney…just flew in from Geneva.  Our WHO contact and guide."
+McTierney bowed and offered his hand.  Tallant snapped off a smart salute.  
+"A bit dry and dusty, gents," McTierney was saying.  He lowered his cap, squinting off toward the north.  A utility truck was speeding across the tarmac toward Charioteer, a rooster-tail of dust trailing behind it.  The truck jerked to a stop ten meters away.  A statuesque black man got out and came over.
+McTierney recognized the officer and made introductions.  "Ah, just in time…this is Colonel Udinka, Mali Territorial Guard.  He'll be our chaperon today."  
+Udinka saluted all.  "You have all your gear here, Lieutenant?"
+Winger nodded.  "Yes, sir…just waiting on the lifters."
+Udinka squinted into the western sun.  "Where we are going is kulwezi liwale…how do you say, most disturbing.  The spirits are angry…much death…great suffering--"
+McTierney spied the pair of UNQC lifters overhead, circling Bamako-Senou Field, ready to land near Charioteer.  "Here comes our ride, gents.  The Colonel has generously detailed two infantry platoons to use…we've already worked out the details with the village chief at Banikaiyan.  Rather obstreperous fellow.  Shell-shocked you might say, over the plague and all.  Name's Enkare.  Probably Tuareg.” 
+"We need to gather intelligence on the threat, Colonel," Winger said.  "Sampling the air, soil, some of the human remains, may give us some idea of what we're up against."
+McTierney cleared his throat.  "Mmm…that could present a slight problem."  He managed a sideways glance at Colonel Udinka.  "You see, Chief Enkare is dead set against any more desecration of the dead.  Restless spirits and all.  Seems we may have to do a little cajoling to smooth things over.  Chief Enkare won't take kindly to digging up corpses and launching your ANAD bugger inside them."
+"Not to worry," Udinka boomed.  "I have authority from the Government to assist you in any way."
+His voice was drowned out by two black lifters settling onto the ramp a few dozen meters away.  Winger hand-signaled for the Detachment to start moving their gear out.
+Before the dust had settled, the pallets were pressurized and hustled over on curtains of air, while the lifters squatted down to accommodate the loading process.  They looked for all the world like fat mosquitoes, their articulating landing skids retracted to ground level for mission onloading.  
+Lieutenant Tallant supervised the process.  Ten minutes later, she jogged over to Winger.  "Another half hour and the pods will be secured.  Then it’s just the DPS stuff...charges are being checked now--and we'll be ready to rumble."
+"Very well."  Winger checked his watch.  He wanted to be at the village before sundown.  "Muster the detachment for a final briefing.  We go airborne at 1400 hours."
+Udinka waved his own troops to fall out and board the Quantum Corps lifters.  "It's a half hour flight up to the village.  Kuluba Hills and some ancient craters straddle the boundary.  Banikaiyan's just on this side, right next to an old Berber fort…but then you already know that, don’t you?"
+“All too well,” Winger admitted.
+"Lieutenant, you figuring Level One…opposed entry?" Corporal An Nguyen asked.  Tactical doctrine called for proper protection any time 1st Nano troops went into unfriendly terrain.
+Winger had other ideas.  "My read of the tactical situation is no…it'll take too long to suit up.  But bring the hypersuits anyway.  HNRIV or Red Hammer may yet have some unpleasant surprises for us."
+Winger and Tallant oversaw the final loadout of the lifters, then gave the CQE's a hand with the hypersuits.  Hard-shelled, boosted exoskeletal frames, the tin cans were an infantryman's best friend, short of his assault weapon.  It took the Detachment half an hour to suit up and check systems.
+By midafternoon, in a stiff northwesterly breeze, the flotilla of lifters set off, bearing north by northeast on a direct vector to the Kuluba Hills district and the village.
+The flight went by quickly enough and Johnny Winger watched the burnished red plateau of the western Sahel slide by along the horizon, while he reviewed the tactical plan for Sahara Ghost in his mind, rehearsing scenarios and options over and over again.  SOFIE, the tactical AI, was always a comforting voice at times like this.  Rather like having your mother go over your homework with you, he thought.
+A grassy escarpment rolled by eight thousand meters below them, as the lifter pilots maneuvered toward Kuluba Hills.  Patches of baobab and kapok dotted an open desert hardpan with the green shoreline of the Niger River and the craggy faulted walls of Banik crater making an impressive backdrop.  As Winger and the rest of the Detachment looked on through scattered clouds, several caravans of camels and herders undulated across the plain, kicking up dust for kilometers around.  
+"Impressive, isn't it?" Dr. McTierney observed.  "I've been coming here with the Epidemic Intelligence Service for the better part of two years and I never tire of the view.  Over there'--" he pointed through a porthole at strings of smoke issuing skyward from an encampment on the steeply sloping ramparts of Banik volcano.  "Cooking fires from the village. That's our destination…Banikaiyan…and what’s left of La Maghreb.  I understand you pretty well demolished the place a few months ago."
+“We demolished what was underneath it,” Winger corrected him, referring to the Atom Hammer mission they had conducted while still nogs at Table Top.
+Moments later, the lifter pilots had circled the volcano several times to gauge the prevailing winds and set the small force down with a thump onto dark pebbly ground in a clearing southwest of the village.  A quick infrared and EM scan of the surrounding rocks and black hills produced no obvious threat signatures.
+As soon as the lifters touched down, Winger got on the tactical crewnet and issued dismount orders.
+"Step lively, fellows.  And keep your eyes and antennas open.  HNRIV may yet have something nasty in store for us."
+The rest of the Detachment had been unloading gear for a few minutes when a small group of local Tuareg appeared at the edge of the clearing.  They were tall, regal people, the men with colorful blue veils called alasho, bearing spears, and the women wearing intricate beaded necklaces and scarves, over black afetek burkas and red sandals.   Many of them seemed weak, drawn, haggard, even sad.
+The villagers moved into the clearing and surrounded the Detachment, not threateningly, but with purpose.
+Colonel Udinka and the Territorial troops moved out and secured a perimeter to block any further approach.  Udinka shouted out a few words in the local dialect.
+"Kombasa ulithi lugguru mahenge!"  
+One man, weighted with ornate headbands and an especially large spear, came forward.  
+"Mahenge maua.  Njombe!"  He swept his arms around, palms out, circling the clearing with his gestures.  "Mortangi…mortangi…" his head and voice dropped to a whisper.  "--mortangi…."
+McTierney muttered to Winger.  "That's Enkare, the chief.  He's rather distressed this afternoon."
+Udinka said a few more words, then brusquely ordered his troops to fan out toward the village.  The Colonel came over.
+"The chief says there is still great death here…he does not like us to come anymore…he says we bring more death."
+Winger had seen the plaintive looks of the villagers.  There was a grim determination to them.  "Tell them we've come to help out.  We're here to find what causes the Great Death and get rid of it."
+Udinka translated and added a few more orders for his troops.  Presently, Enkare came directly up to Johnny Winger.  He reached out with the tip of his spear and touched Winger on the top of his forehead.
+"Uleezi komangi…" several more gentle taps and a circle of the spear tip around the top of the Lieutenant's head.  "Ne…mortangi…chaki mabati."
+Udinka smiled, translating.  "Chief Enkare makes you a spirit warrior…komangi for the village."
+Winger met the Chief's grief-stricken eyes with a level gaze of his own.  "I'm honored.  My Detachment is here to fight the Great Death.  We want to study what he has done."
+While Udinka interpreted, McTierney nudged the Lieutenant in the ribs.  "Not bad for a Yank, eh?  You'll get the hang of this in no time."  The Scottish virologist recognized several friendly faces among the villagers and dived into an outpouring of hugs and handshakes.
+Winger explained, through Udinka, what he wanted to do.
+"We've got to take a look at the index case."
+Udinka exchanged words with Enkare, gesturing first at his own troops, then the Detachment.  "His name was Soweto.  Terrible, terrible mortangi, much suffering.  The Chief doesn't want to disturb the gravesite again.  It angers Kalbamba, the giant who lives in the volcano."
+Winger and McTierney and Udinka pleaded with Enkare for understanding but the 
+Chief was adamant.  Finally, exasperated, McTierney summoned his friends from the crowd of villagers.  Around the rotted stump of a kapok tree, arguments and tempers flared.  Winger knew they had the force to complete the mission even against the Chief's wishes.  He didn't want it to come to that.
+At last, Enkare relented, persuaded by pleading sobs from several women.  McTierney identified the older woman as Soweto's widow. 
+"Her name's Nalinka.  She's been through a lot.  Got the bug herself but somehow, with help the doctors and some good fortune, she threw it off.  Can't explain that at all."
+Winger was sympathetic.  ANAD needs to look at her too, he told himself.  After all she had been through…but it couldn't be helped.
+Enkare formed up a procession of the villagers and led them deeper into a tangle of kapok trees and scrubland to the village outskirts.  The gathering of huts formed a tight circle, no more than a hundred meters across, nestled in the brow of a ridge from the nearby crater.  Each hut was a crude twig and branch skeleton, draped with straw and cowhide.  Antennas and cables snaked across the clearing, powering Uliba's telecom systems, the only concession to the 21st Century.  
+What was left of Banikaiyan Mountain lay to their east, its top slumped and leveled off after the implosion of the Red Hammer lab a few months before.
+Throughout the village, listless addicts lay strewn about the dirt paths, entangled in the brush, propped up against trees, their eyes glassy from HNRIV overdose.  Several twitched and convulsed, trembling every few seconds, hard in the grip of the malfunctioning mech storm.  Legs and arms were half hidden in dense tufts of vine, still with rigor mortis, swollen bodies hosting angry hordes of flies and mosquitoes.  The lucky ones had already died. 
+Johnny Winger swallowed hard as they filed into the main clearing.
+"Nalinka's the only survivor from Soweto's family," McTierney explained.  "He had two other wives plus a menagerie of sons and daughters, probably thirty in all."
+"All died…from HNRIV?"
+"And attempts at treatment."  McTierney nodded somberly as they reached the darkened hut at the edge of the clearing, set off with twine and rope from the rest.  Bright red and blue majombe spirit faces had been fashioned out of straw and hung all around the hut.
+Enkare called the procession to a halt.  The villagers formed a ring around the abandoned hut.  He pointed to a mound of rock and dirt behind.  The mound was shrouded with a faintly visible gel, wispy as a spiderweb, secured to the ground, forming a ghostly dome over the site.  
+"Mortangi…Soweto enkilosa…dazo…dazo."
+"The gravesite," Udinka announced.  His face was ashen.  The Territorial troops hung back, visibly disturbed, muttering among themselves.
+Winger started forward but McTierney held him up.  "Not just yet, chum.  See that shimmering.  UN bioweb.  This is a Level Four isolation site.  You'll need the UN codes to breach containment."
+Winger swallowed hard.  "Right.  Sorry.  I was just--"
+McTierney nodded.  "Anxious."
+"DPS1…front and center!" Winger ordered.
+Sergeant Sheila Reaves was a Defense and Protective Systems specialist.  She was a chatterbox redhead with a sniper's rating in coil-gun competition.  As DPS for the Detachment, she had responsibility for dealing with protective gear, even UN stuff.  In seconds, she had worked her way up to the edge of the clearing and produced a small keypad.
+"Got it, boss.  I'm dialing up the UN codes now."
+Winger circled the shimmering field of microgel mesh.  "Corporal Nguyen, get everybody back at least twenty meters.  I want to expand that bioweb far enough for five people to work inside it."
+An Nguyen was DPS2.  With Mighty Mite Barnes and Hoyt Gibbs, he pushed and cajoled the villagers further away from the gravesite, giving the bioweb room to expand.  As that was being done, Reaves found the UN frequencies on her keypad and started sending.  
+"Uh oh--"
+Winger came over.  "What is it, Sergeant?"
+Reaves showed the Lieutenant the screen.  "We've had activity here…recent activity.  See that--" she fingered some graphs.  "Nanomech activity…right here…inside the web boundaries.  The bioweb's been cycled several times, in the last few months.  And here--signatures of nanomech.  Molecule debris…heat fused soil…organic residue."
+The hairs stood up on the back of Winger's neck.  It was a feeling he had long ago learned to pay attention to.  He summoned Chief Enkare, and Udinka.
+"Does he know anything about this?"
+Udinka translated.  Enkare nodded gravely.  Then he nodded more vigorously, gesticulating from Nalinka to the hut to the clearing.  
+"Chunya sumbawanga mpanda mpeke mawaru!  Mpeke mawaru…dazu!"
+Udinka nodded, translating, "He says a group of white men were here a month ago, working around the gravesite.  They had guards.  Wouldn't let anyone near."
+"What were they doing?"
+Udinka translated that and got a quick reply.  "He doesn't know.  They came one night and left the next day."
+Winger rubbed his chin.  "I don't like this.  DPS?"
+"Yes, sir?"
+"You've got bioweb control now?"
+"I'm into the UN channels.  I can make the thing sing and dance, if you want, Lieutenant.”
+"Expand the web perimeter, like I said."  He turned to Dana Tallant, his CC2.  "We need to push everybody back, way back.  If there's been mech activity here, recent activity--"
+Tallant was already hand waving the Detachment to push the villagers away.  "I'm on it.  Come on, move back…move back…."  Udinka ordered some of his own troopers to form a perimeter, now twenty meters back.
+"Get into your suits," Winger ordered.  "I'm not sure what we've got here."
+It took the Detachment half an hour to get into their suits and get powered up.  Winger let the servos level him as he knelt at the edge of bioweb, looking through his 'scope for fibers, treads, any signs of recent human presence at the edge of the isolation zone.  There was plenty.
+"Okay, DPS, do it."
+Reaves sent commands through her keypad to the bioweb controller.  Instantly, the shimmering changed color, becoming more opaque as the web generator expanded the clean zone.  In less than a minute, the web had grown to a faintly pulsating iridescence, washing over Winger and the rest of the Detachment, eventually growing to enclose most of the clearing.  It was eerie and vaguely unsettling and Winger found himself subconsciously holding his breath, as if a great wall of water were crashing over them.  
+Now they were inside, inside the hot zone of containment, where HNRIV and UN antidotes had dueled inside the body of Soweto.
+Winger knelt at the mound of rocks.  "Open it up," he said and started pulling rocks away with his hands.  Tallant, Winger and several others joined in.
+Moments later, they stopped suddenly.  
+Lieutenant--" it was Reaves again, her eyepiece glowing red with warning icons.  "--I got nano residue all over the place…Jesus, big spikes in carbon and silicon, assembler debris, molecule fragments all over the place, radicals galore…."
+"Get Superfly up…" Winger ordered.  "Fast!"  
+Nguyen's hypersuit whirred as he tapped out commands on his wrist pad.  Superfly was a swarm defense net for the detachment, a horde of micro-entomopters, that surrounded the unit and became its eyes and ears against nanomech assault.  In seconds, the swarm had formed up, a throbbing gray blur filling the clearing like real flies.  Nguyen dispersed the swarm to a mid-range surveillance distance, quickly forming a huge dome of nearly invisible sensors around the village of Banikaiyan.
+The villagers dropped to their knees, eyes wide, as the swarm deployed.  
+"Superfly's up and in position, Lieutenant."
+"Very well."  Winger let the others finish knocking down the rock mound.  When they were done, they found the grave empty.
+"What the hell-?"
+Winger whirred in his suit to a kneeling position, probing the soft ground.  He'd seen a faint streak of white ashy particles under the last stone.
+"I wouldn't do that, sir--"  DPS1 Reaves came over, probing with her own sensors.  "That's nanomech residue…organics, from what I'm seeing--"
+"Soweto--?"
+Tallant was kicking at the streaked dirt with the toe of her laminate boot.  "Looks like it, Lieutenant."
+"Mech assault…Jesus Christ--he's been--"
+McTierney's face was visible against the outer shimmer of the web.  "What is it, mates?  What's happening in there?"
+Winger stood up.  "There's nobody here, Doctor.  Soweto's gone.  Nanomech disassembly, it looks like."
+"What the devil--" McTierney's voice pinched.  "Are you sure?"
+"Quite sure," Winger said.  "Someone's been here, and recently.  We've got residue of nano activity, organic remnants.  There was a human body here.  But no more.  Just a few stray atoms."
+Through the faint veil of the bioweb, the Detachment could hear murmurs and raised voices, coming from the villagers.  Winger slipped through the bioweb boundary and emerged into the dusty afternoon sunlight, squinting to see what was happening.
+Enkare and Nalinka were engaged in heated argument, right in front of Soweto's hut.  Other villagers were taking sides.  There was shoving in the back, as more crowded in, jostling Udinka's troops, who wrestled and shoved back, trying to keep order.
+"Mortange…mortange…kip wezi kananga!"
+McTierney himself had been pushed to the outside of the melee, as Colonel Udinka waded in, shouting, three troopers wielding batons behind him.  It took several moments for the Territorial soldiers to calm things down.
+"What's going on?" Winger asked.  
+McTierney worked his way through the throng.  "Enkare's upset.  Nalinka too.  Soweto's grave was robbed.  They're afraid.  Afraid of Banik, the spirit in the volcano.  What did you find in there?"
+Winger shook his head, powering down the hypersuit.  He unlatched the helmet faceplate.  "Nothing…that's the problem.  Somebody got inside the bioweb and did a number on Soweto.  Burned him down to atoms.  Full disassembly.  But they left organic residue…like they wanted us to find it."
+"Damned peculiar, if you ask me."  McTierney stroked his red beard, batting away flies as he did so.  "I saw the body.  I was here at the burial.  I watched the ceremony."
+"Nobody around here could have done this," Winger said.  "I don't know who did…but I've got an idea."  He peered into the crowd, still roiling with shouts, jostling with Udinka's troops.  "Where's the widow?"
+"Nalinka?"  McTierney pointed out the tall somber woman with the blue checkered akhebay scarf and bone necklace.  "That's her.  You want to talk to her?"
+Winger ordered the Detachment to de-suit.  "And Sheila--" he radioed to Reaves, "--secure the bioweb.  Don't touch anything.  Just get out of there."  To McTierney: "Actually, I want to do a probe.  Launch ANAD inside her and see what's going on."
+McTierney swallowed hard, as he followed Winger over to Soweto's widow.  "This should be interesting."
+Johnny Winger introduced himself.  Dana Tallant came to, figuring a woman's touch was surely needed here.
+He explained what he wanted to do, as simply and gently as he could.  Udinka tried to translate, but stopped when Nalinka's eyes grew wide.  Enkare, the chief, was adamantly opposed.  Nalinka simply stared in disbelief.
+"She was treated with your antidote, wasn't she?" Winger asked.
+McTierney nodded.  "I treated her myself.  An early version.  It worked fairly well, but not without some complications.  She had HNRIV same as her husband, virulent strain, from my tests.  Nasty time, we had with her too…high fever, edemas all over her, tissue hemorrhaging, spasms, seizures and convulsions."  The Scot shuddered at the memory.  "It was a struggle, even so.  She was lucky."
+"Doc, I want to send ANAD inside Nalinka's brain, exploratory expedition.  She was infected with early HNRIV, you said.  But she hasn't suffered any of the post-treatment symptoms you told us about.  Neural impairment…limbic system trauma?"
+"Not that I'm aware of."  He asked Udinka to interrogate Nalinka about her recovery.  
+The woman listened, shaking with fear, then shook her head vigorously.  
+"Nalombe…ni mortange!"
+McTierney got the translation.  "She insists she's fine.  And she doesn't want to do this."
+Winger was frustrated.  "Tell her we can help find the body of her husband…it's the best way."
+Translations were done.  Nalinka was still reluctant, her eyes wide, pleading, looking from Udinka to Enkare to Winger.
+But bit by bit, her resistance was worn down.  McTierney's idea that the spirit of Banik be invoked overcame her remaining objections.  Forlorn and spent, her eyes lingered on Chief Enkare with dread.  Her daughters and neighbors consoled her, hugging and murmuring in her ear.  Nalinka finally relented, convinced she was soon join her dead husband in the infernal fires of Banik.
+At length, Enkare decided Johnny Winger could do what he was asking. 
+"But enkasa will guide you…protect Nalinka from evil.  Enkasa will lead you in this."
+McTierney whispered in Winger's ear, as the Lieutenant acknowledged the chief's help.  "That's the spirit doctor. The enkasa is the village's shaman and medicine man.  That's him over there."  He indicated an older, portly man with an elaborate black and white headband and clinking bone necklaces.  "I don't know his name."
+Enkare and Nalinka and the enkasa went inside their mud and thatch hut and came out a few moments later.  Nalinka was draped with ritual necklaces and beads and colored mud had been daubed around her face.  She seemed more at ease.
+The enkasa motioned Winger over, took hold of the Lieutenant's hand and firmly placed his fingers in a wad of colored mud on Nalinka's forehead.
+"Ni mortange…kulu Nalinka eskina somoru."
+Colonel Udinka translated.  "He says now you are the same soil.  Dirt to dirt.  Now your hands are protected too."
+Winger was touched but anxious to get started.  He smiled at Nalinka, took her trembling hands in his own.  "We'll be in and out in no time.  Don't you worry.  Okay, IC's, let's get her prepped and ready.  Deeno, break out TinyTown.  We'll set up inside her hut.  Prepare to launch ANAD."
+Nalinka's hut was a round twig and branch affair, draped with a facing of mixed mud, water and cow dung.  The pungent smell took some getting used to.  There was a hard-packed mud floor and a small fire pit for cooking.  Wood slats partitioned the place into zones for children and small animals.  A bed of tanned hide dominated one zone.  
+"Set up there," Winger ordered.  He helped Nalinka lie down.  She was already sleepy, her eyes heavy from sedation.  She was unconscious a few moments later, unaware of the TinyTown mobile containment cart being wheeled in beside the bed.
+The oddity of doing an ANAD insertion in a Tuareg hut in a tiny west African village wasn't lost on the Lieutenant.  
+It was a whole new way of fighting a war and Johnny Winger knew that half the time, they were inventing tactics as they went along.  
+"Okay, Lieutenant," Dana Tallant patted down the incision she had just made in the side of Nalinka's skull.  "Subject's prepped and ready."
+Winger handed Deeno D’Nunzio the injector tube, attached by hose to the containment chamber.  Deeno was the detachment's CQE1.  "Steady even suction, Deeno.  ANAD ready to fly?"
+The IC1, Hoyt Gibbs, came back, "Ready in all respects, Lieutenant."
+"Vascular grid?"
+"Tracking now.  We'll be able to follow the master just fine.  I'll replicate once we're through the blood-brain barrier."
+"Watch for capillary flow," said Winger.  "When her capillaries narrow, your speed will increase.  And viscosity will stay up."
+"Like slogging through molasses.  ANAD's inerted and stable…ready for insertion."
+The insertion went smoothly enough.  A slug of plasma forced the replicant master into Nalinka's capillary network at high pressure.  Winger got an acoustic pulse seconds later and selected Fly-by-Stick to navigate the system.  A few minutes' run on its propulsors brought the Autonomous Nanoscale Assembler/Disassembler to a dense fibrous mat of capillary tissues.  The image soon appeared on Winger's IC panel.  
+"Ready for transit," he told Gibbs.  "Cytometric probing now.  I can force these cell membranes open any time."
+Gibbs used ANAD's acoustic coupler to sound the tissue dam ahead, probing for weak spots.  "There, Lieutenant, right to starboard of those reticular lumps…that's a lipid duct, I'd bet a hundred bucks.  Try there."
+Winger steered ANAD into the vascular cleft of the membrane.  He twisted his right hand controller, pulsing a carbene grabber to twist the cleft molecules just so, then released the membrane lipids and slingshot himself forward.  Seconds later, ANAD was floating in a plasma bath, dark, viny shapes barely visible off in the distance.  The plasma was a heavy viscous fluid.  Winger tweaked up the propulsor to a higher power setting and took a navigation hack off the vascular grid.  
+"Ventral tegmentum, Lieutenant.  Just past the mesoencephalic nucleus.  Looks like we're in."
+Winger navigated ANAD through the interstices of Nalinka's brain for the better part of an hour.  He had programmed the assembler to send an alarm when it encountered any kind of unnatural activity…especially assembler maneuvering or replication.  If there were any remnants of HNRIV left in her brain, he wanted to be ready.  
+"Hopefully, the last treatment finished them off," he muttered to himself.
+At 1824 hours, ANAD sent the alarm.
+The imager screen was at first murky, crowded with the spikes and cubes of dissolved molecules.  Lumpy, multi-lobed sodium molecules darted across their view like shadowy ping-pong balls.  Winger studied readouts from ANAD's sounder…something was there, hidden in the data traces on the scope.  He fiddled with the gain on the imager, tweaking it, subtracting foreground clutter.
+Something approximately sixty nanometers in one dimension, narrow with a globe structure at one end…and scores of probes, effectors, cilia, whatever.  Incredible mobility…triple propulsors beat an idling rhythm as ANAD closed in….
+Gibbs let out a whoop.  "Will you look at that?"
+McTierney came closer, squinted at the vague, fuzzy outlines on the screen.  "Human Neuro-Receptor Inhibiting Virus, mates.  A whole colony of them.  A welcoming committee, it would appear.  Come to see what we're about."
+Winger's fingers flew over the interface controls.  "We're about to check this joker out…" Quickly, he signaled ANAD to prime its defensive mechanisms, and slowed its approach to a crawl.  
+Reconnoiter first.  He remembered a line from Sun Tzu, the Hunt Valley wargames last spring….
+He who is skilled hides in the most secret recesses of the earth.
+Under Winger's guidance, ANAD maneuvered among the jostling molecules of chlorine and sodium and potassium.  A huge kinked snakelike cluster of hematite molecules drifted by.  Winger had an idea.  He signaled ANAD to grab a few hematites as a shield.  Seizing oxygen atoms with its effectors, ANAD clutched several molecules.
+Gradually, the shape and size of the HNRIV device became clearer.  Bristling with effectors and arms, it looked like a miniature Apollo Lunar Module.  The head was a multi-lobed cluster of spheres and hexagons; inside the churning electron cloud dimmed out any detail.  
+Below the head was a cylindrical sheath, covered with pyramidal facets and undulating beads of proteins - the assembler's probes and effectors.  Winger was frankly awed at the sight.
+"Hell of a lot of gear for this bastard," he said
+"So many different kinds of effectors," Tallant marveled.
+Indeed, the horde of enemy assemblers were rigged out like battleships, with devices for every conceivable mechanical or chemical action.  A flatplane baseplate capped one end of the sheathed body.  The tail structure was a dense thicket of fibers, each tipped with penetrator clusters.  The penetrators enabled the virus to attach to and enter any structure.
+Winger brought ANAD to a complete stop.  The hairs on the back of his neck bristled.  Something wasn't quite right, but he couldn't put his finger on it. 
+"Dr. McTierney…what do you make of this?"
+The Scottish virologist was amazed at the images ANAD was returning.  "It's the basic viral structure we've seen before with HNRIV.  But it's enhanced, somehow.  Changed or evolved.  I've never seen so many effectors.  Amazing.  That probe for instance--" he fingered a dark, indistinct structure to one side of the nearest device--"looks just like a saw.  And that--I believe I recognize…I'll be damned--"
+Winger had seen it too.  "Sorting rotor?"
+"That's what it looks like."  At McTierney's request, Winger fiddled with the resolution, managed to tweak the view even sharper.  Dim outlines became clearer.  "A segment of a sorting rotor.  Cam-driven with carbene grabbers and--" he squinted down at the imager, adjusted his glasses "--looks like--yep, diamondoid follower rods.  "Probably process upwards of several hundred thousand molecules per cycle."  McTierney shook his head with grudging respect.  "Neat workmanship.  But I'd bet my aunt Emma's life savings that bugger's not part of the original template.  This is new."
+Dana Tallant was growing uneasy.  A small crowd had entered the hut, gathered around the prostrate body of Nalinka, now draped with the mesh of the vascular grid.  Enkare fidgeted with beads in one corner, toeing the hard dirt floor, clinking the beads nervously.  The enkasa was on one knee beside the girl, murmuring spells and incantations under his breath.
+ "Just what exactly are you saying, Doc?" Tallant asked.
+"Simply incredible."  McTierney pointed out the dendritic branches of nearby nerve cell tissue.  "Artificial nerve stimulation, gentlemen.  I'm sure of it.  HNRIV's been inserted into this poor woman's brain, then reconfigured itself as a sorting rotor.  Now it's sitting alongside her synaptic clefts like a circus performer, pumping dopamine back and forth on command.  Or more likely, according to a program stored in its processor.  What you're looking at is in vivo stimulation of artificial nerve impulses according to programmed nanobotic control.  Simply incredible."
+Dana Tallant paled at the implications.  "Is that what's infected this woman?"
+McTierney shrugged, tugged at loose hairs on his red beard.  "Impossible to say.  HNRIV's undoubtedly spun off swarms of these buggers.  Possibly the process isn't perfect.  Or who knows?  Maybe HNRIV just evolved to scramble the works…pump useless molecules of whatever its assembler brain decides…maybe formaldehyde or something…into the post-synapses.  Your central nervous system seizes up and shuts down…death in minutes, if not in seconds.  But the more likely probability--now that I see the bastard up close in a living victim--is more frightening.  Nalinka's suffering from overstimulation.  We've seen similar effects on addicts we've studied.  But until now, we've never been able to get small enough to watch these buggers in action.  HNRIV's too nimble.  We even experimented with this ourselves a few years ago.  Never could get it to work."
+Winger pulsed ANAD's propulsors, maneuvering in for a close-up look.    "I'd say somebody has."
+McTierney shook his head.  "Fantastic engineering, if it's what I think it is.  Acetylcholine, dopamine, serotonin…the possibilities are endless.  Synthesize enough of the right molecules and inject them across the synaptic gap here.  You're basically in control of a nerve impulse."
+Unnoticed by anyone, the swarm of HNRIV mechs had begun to re-orient themselves tail first toward ANAD.  Their tail fiber penetrators quickly reconfigured, locking into attack position.
+He is who is skilled in attack flashes forth from the topmost heights of heaven.
+Out of the corner of his eye, Winger saw the maneuver on the imager.  
+"Look out!" Gibbs saw it too.  "He's changing position…all of 'em, coming at us--"
+"I'm ready," Winger muttered.  His fingers flew across the keyboard.  Instantly, ANAD brought all its defensive mechanisms to attack position.  It cast off the hematite shield and closed for battle.
+McTierney was stunned.  "What the hell…?”
+Winger said.  "I'm need to get closer, grab one of those jokers for analysis--"  
+As ANAD sped forward, HNRIV grew and retracted appendages and surface structure with blazing speeds.  The outer membrane of the mech seethed with motion, as atoms and clusters of atoms twisted, bonded, twisted again, rebonded, broke apart, recombined, straightened, undulated and whirled.
+The gap between them vanished and ANAD grappled with the nearest mech.  Other mechs swarmed to the battlefield.
+Beside Nalinka's bed, the enkasa's voice rose and fell, repeating incantations in a shrill tongue.
+Winger was stunned by the speed of the assault.  A battalion of HNRIV soon engulfed ANAD.  No time to replicate now…got to get free…signal daughters….Winger fired off a burst of instructions to gather all the daughters ANAD had replicated going in.  It might be too late.
+The imager screen shook with the collision, then careened sideways.
+Several minutes passed.  The imager view vibrated with the ferocity of the attack.  Chains of oxygen molecules, pressed into service as makeshift weapons, whipped across the screen.   The water was soon choked with cellular debris.  HNRIV replicated several times, adding new molecule strings.  It stripped off electrons to make an armor shield of highly reactive chlorine atoms.   In seconds, ANAD was immobilized by the chlorine sheath.
+"I can't hold structure!" Winger yelled.  "I'm reconfiguring…shutting down peripheral systems!"
+Sergeant Gibbs had taken a place beside Winger at the interface controls.  "Got to disengage, Boss…emergency truncation.  Everything not critical.  We've got to get ANAD out of there before we lose him!"
+"I'm trying…but the damn mech's penetrated the signal path…if he cuts the link…."
+"I know, I know…just keep trying, Jesus…internal bonds on main body structure weakening…I've lost all grappling capability…."
+As they watched, HNRIV systematically dismantled ANAD, molecule by molecule.  ANAD was woefully unprepared for the assault.  With ruthless efficiency, HNRIV mechs whirred and chopped every device ANAD could generate.  ANAD tried to counter, replicating probes, inserters, jaws, cilia, pumps, blowers--but it was no use.
+HNRIV mutated too fast.  Somehow, the mech seemed to anticipate ANAD's every move.
+Winger was awed by HNRIV's combat capabilities.  "Incredible," he whispered.  "The perfect warrior.  Must have a hell of a processor."
+Dana Tallant agreed.  "Probably quantum, just like ANAD."
+They were all stunned at the ferocity of HNRIV's response.  "I thought these jokers went into hibernation when they got into your skull," Winger muttered.
+McTierney just shook his head.  "According to research at our lab in Geneva, that's exactly what HNRIV's supposed to do.  I don't understand it…ANAD closes for a quick look and--"
+"--the bastard blows up like we're some common virus."
+Winger's fingers flew across the keyboard.  "It doesn't make sense. The damn thing's actively trying to defend its position, trying to keep control of Nalinka's brain."
+He had no choice but to disengage to save the ANAD master.  Extract before ANAD was chopped to pieces and leave Nalinka to the HNRIV device.
+Yet unseen by anyone, a small force of HNRIV mechs had detached from the main formation.  Detected but not noticed, the force exited the ventral tegmentum and beat its way at flank speed toward the optic nerve, a bundle of fibers in Nalinka's visual cortex near the front of her brain.  Passing the Nodes of Ranvier, the force silently cruised outward along the fiber bundle, steadily closing on the inner membranes of the addict's eyeball.  
+It was the quickest way for any mech to exit the brain.
+Deeno, Mighty Mite Barnes and McTierney and a scattering of Detachment grunts stared at the speckling blooms of light winking on and off…the imager captured the sound and fury of nanomech battle deep inside Nalinka's immobilized skull and converted the acoustic waves to visual.  It was like watching some mad kaleidoscope of swirling dots, washed with brilliant daubs of color.
+"Like a thousand battles of Verdun," McTierney said.  "All in a space the size of a walnut.  Incredible--"
+"Reading high heat signature," Gibbs reported.  "Vascular grid's registering something like a hundred thousand picojoules, and rising."
+Winger acknowledged the figure.  "This lady's out like a slab of stone and she's emitting like a supernova."  He refreshed the imager with more data.  "Quick count, Doc…look at that, will you?  ANAD's pulsing the plasma and the density's dropping."
+McTierney saw the data.  "Fewer mechs, maybe?  Or a tissue leak?"
+"Hard to say at the moment.  Maybe ANAD's starting to hold its own.  Sure wish we could get an image--"
+"When the dust settles, Lieutenant.  Patience."  McTierney watched the same density readings Winger had pointed out.  Sure enough, the numbers were falling.  The original spike signaling the first thrashing moments of battle had now leveled off--all replications were done and Nalinka's brain was now thick with nanowarriors swarming to the melee--yet the density was steadily dropping.
+And still unnoticed, the small detached force of HNRIV mechs had reached its objective.  Slowing to transit the narrowing tube of interstitial fluid, the force passed through the lachrymal duct at the corner of Nalinka's eye and surfaced like a fleet of miniature subs through the corneal film to the outer surface of the eyeball.  There they floated for a few seconds, until the replication order came.
+A few dozen centimeters below the small fleet, uncounted trillions of HNRIV mechs had been cleaved and slashed into atoms before the enemy master had managed to stabilize the battlefront.  Then, for several minutes afterward, ANAD and HNRIV stalked each other relentlessly, drifting on brief propulsor bursts, sounding the fluid swamp with acoustic jolts, then listening, always listening, in a deadly game of hide and seek.  Both forces were exposed, both had suffered massive losses of replicants.  Each sought refuge in the dendritic jungle of Nalinka's ventral tegmentum.  One misstep, one maneuver too far could be fatal.  A billion billion times smaller than their submarine ancestors, who had prowled the oceans like predators stalking prey, HNRIV and ANAD drifted silently across Nalinka's cranial sea, scant microns from each other, hidden yet ever alert, waiting for that one chance to close and dismember the enemy forever.
+Johnny Winger had somehow managed to massage the imager enough to fine tune its resolution.  A few adjustments made, he coaxed a grainy image of the cranial plasma and axon fibers crisscrossing the terrain.  Then he took hold of the IC panel and started hunting again.
+The hunt went on for several minutes.  Taking a fix from the vascular grid, Winger navigated Nalinka's Islet of Duchin and cruised in expanding circles through jungles of thick axons, stopping from time to time to listen, occasionally sounding the debris for telltale pulses.
+It was damned frustrating but Winger tried not to show it.  He'd tried several tactics to find out what HNRIV was doing to the Nalinka's limbic system, but this swarm was smart and aggressive, seemingly always one step ahead of ANAD.  When Winger tried to outmaneuver, the enemy swarm countered.  Every maneuver seemed to be anticipated; it was quickly evident that HNRIV (at least this variant) was programmed to defend itself and wouldn't give up control of its host without a fight.  And to make matters worse, he'd been unable to grab an enemy mech for analysis.  
+"Nothing, Doc," he said.  "It's like he's just disappeared."
+"Perhaps ANAD has dispatched the enemy completely."
+Winger figured that to be unlikely.  "Anything else on the vascular grid?"
+It was Sergeant Gibbs who saw the pressure spike from Nalinka's eye, a fraction of a second before the swarm ballooned into the room.
+"Ah…Lieutenant, something seems to be--"
+"LOOK OUT--!!"  Deeno's scream filled the examining room.
+No one was quite sure when the first effects of the HNRIV attack were felt.  The debriefs later seemed to converge on the two CQE's, working hard to tweak ANAD's templates for the next phase of the engagement.  Deeno D'Nunzio had been working with Gibbs on new configs for ANAD.
+Both engineers noticed it right away; a shrill keening high-freq tone, almost beyond human hearing, yet irritating in a vaguely unsettling way.  Both wore hypervests, partial rigs that provided some protection, and their sensors registered the attack right away.  The enkasa’s panicked scream from the corner of the room as the nanomechs bored in to his head and arms would linger in everybody's memory for a long time.  The other CQE, Sergeant D'Nunzio, reported a different effect--just as panicky--when she found she couldn't squirm away along the floor as fast as she wanted to…by then, the HNRIV swarm was thick enough to form a barely visible fog, almost a blanket, muffling the hut with exponentially thickening mist.  It was something you could barely see but every sensor and caution alarm was going off in hypervests all over the place and you sure as hell could feel the resistance to movement.  
+"Mass assault swarm!" somebody yelled over the crewnet.  It was Tallant's voice.  The CC2 was already on one knee, swatting madly at the whizzing, spinning cloud of assembler mechs that had engulfed her.
+"Bond breakers!" yelled Mighty Mite Barnes.  She had been wrestling a containment pod into the hut when her arm servos quit.  The pod slipped and slid out under its own weight, pinning her against the wall.  "---aaarrrggghhh!!"
+"They've gone airborne!"  Johnny Winger recognized the scenario, too late.  They'd wargamed it enough times at Table Top.  "Fall back…fall back!  Go to TACREP 1!"
+Tactical Response One was already loaded in the IC's.  Winger pressed a few buttons on his wrist keypad and pushed through the thick spongy mist, struggling hard to make it to the hall outside, and help McTierney, who was already enveloped in bots, writhing on the dirt floor. 
+They didn't have long to act.  TACREP called for the unit to do an emergency opposed-force setup of the ANAD system.  Retrieve the master, get containment going, re-establish comm links, and counter-program like hell to beat back the assault before it consumed everything.
+The worst thing was that McTierney and Udinka and everybody outside the hut didn't even have hypervests to protect them.
+Winger knew full well they had only a few minutes at best.  In wargames, ANAD had demonstrated bond-breaking, molecule-disassembling speeds up to a hundred thousand nanometers per second, about a tenth of a meter every second, blown away as just so much atomic debris.  HNRIV was undoubtedly just as fast, if not faster.  If they didn't get countermeasures going quick, ANAD Detachment would cease to exist, not to mention Nalinka and all their evidence.
+"Re-config IC!" Winger yelled.  He worked with several others to free Deeno and together they managed to extricate the CQE1.  It was like swimming in oily water, trying to exert any effort against the mechs.
+"Re-configging--done now!" Gibbs called out.  "She's ready to go."  
+Winger hunkered down on the floor, covering himself as best he could, to punch out commands on his keypad.  Beneath his knees, the floor itself writhed and hummed like a thing alive.  He could feel the high-freq vibration through his field boot.  It wouldn't be long before he'd have to ditch the IC and retreat the hell out of there.
+But he'd be damned if he was going to leave ANAD or their hard-won evidence behind now.
+Winger flailed at the swarm with one hand while he punched buttons:  Comm link to SELECT…Program to FBS--Fly-by-Stick.  Launch would be opposed insertion.  Active defense…ISR Mode.  That stood for Intelligence-Surveillance-Reconnaissance.
+At last, he was done.
+"ANAD master in the tube!" called out Deeno.  "Primed to go, Lieutenant!"
+"Launch all groups!" Winger shouted.  "Airborne counternano--and get these civilians out of here!"
+Dana Tallant and Winger coordinated the insertion, while Barnes hustled McTierney and Udinka and the enkasa away from the examining room.  They'd be secure enough for the time being with the convoy outside. For good measure, Barnes erected a small MOBnet around the hut, gesturing at the terrified Territorial troops to stay where they were. 
+Back inside, ANAD was ready.  With a whoosh of compressed air, the TinyTown pod injected the recovered stream of ANADs into the midst of the enemy swarm.
+"Full imager?" Gibbs yelled back.
+"Do it!" Winger commanded.  "But run active defense first--it's programmed.  We've got to give these critters something else to chew on--besides us!"
+"Got an image, Lieutenant!" Tallant struggled to see her eyepiece through the dust churned up by the furious enemy swarm.  "I'm porting it to the net now…EMs are shaky…interference from the enemy, looks like."
+Eyepieces were useless.  The thermal bloom and dust exploded into a ball of fire, as ANAD swelled rapidly in an enveloping cloud, engaging the HNRIV swarm in a set piece battle of ionizing electrons and atom groups.  The white-hot heat expanded like a small nova, almost pulsating as the front lines churned back and forth; ANAD's exponential armies rallying to the assault, tangling with uncounted trillions of enemy mechs.
+The air grew thick and black with molecular debris.
+"Need to grab one of these critters," Winger muttered to himself.  
+He used the twin control sticks on the IC panel to zero in on a detached group of HNRIV mechs, scooting away from the main axis of attack, swirling near a corner of the hut, near a guttering firepit.  What the hell were they up to?  Were they under remote control too?  Was there some controller miles away joysticking the swarm through the assault?  There was no way to tell.
+Winger dove his ANADs at the HNRIV group and executed a perfect entrapment maneuver, neatly bracketing the swarm in a classic octahedral lattice.  The HNRIV mechs pressed outward, buzzing angrily, trying to break out of the lattice, probing for weak spots, but Winger had quickly reinforced his scout group with extra ANADs.
+"Gotcha!" he exulted.  Now they'd have something to take back to the Detachment bivouac at Bamako Airport.
+But his triumph was short-lived.  Even as he commanded the ANAD lattice to propel itself back toward containment, shepherding the trapped HNRIV mechs, fending off steady probes of the bond breakers, one of the enemy devices separated itself from the main body.  In the imager view, Winger stared in horror as the nanomech suddenly shed all its outer atom group armament in a puff of molecular debris and executed a daring fold/collapse, imploding in on itself in a flurry of segment cleavage and destruction.  Whirling on picowatt propulsors like a mad dervish, a blurry core of atoms exploded out of the sleet of fragments and rocketed through the lattice like a bullet.  In a fraction of a second, it was through the lattice and gone, off the field of view.
+Johnny Winger could only shake his head at the maneuver.  They'd wargamed tactical escapes from all kinds of capture maneuvers but nothing like this.  It didn't even seem possible.
+Ten to one that was the master replicant, he told himself.  Programmed to evade capture anyway it could, or commit atomic 'suicide' if it couldn’t.  He couldn't help but wonder if he wasn't jousting with an unseen human IC somewhere nearby.
+The skirmish continued for another five minutes, but Winger could tell the ANADs were steadily losing the battle.  Group by group, the ANADs were steadily and surely overwhelmed by sheer numbers.  He began to notice increasing resistance to movement again, a clear indication the HNRIV mechs had re-established themselves inside the examining room.  Soon the high-freq whine became audible again.
+"Dana, Deeno, I can't hold them back!"
+Dana Tallant, five meters away and nearer the door, had already lost all servos in her hypervest.  She lay on her side, virtually helpless, still fingering her own wristpad, pecking out counter-attacks against the stiffening HNRIV resistance.
+"I've lost servo power myself!  Help me up--"
+Johnny Winger clawed his way around the bed, where Nalinka lay pale and still, enveloped in a gray swirling mass, and went to his buddy's side.  He wrestled her up to a kneeling position.
+"--Jesus, it's like water polo…trying to move an arm's almost impossible--"
+Winger could see the situation was getting hopeless.  "Just mindless replication.  They're going to smother us, if they don't eat us first--"
+Tallant was tapping keys without effect on her wristpad.  "I'm not linked to ANAD--"
+"--I lost him," Winger admitted.  "I was trying to snag a master…thought I had him but he slipped out…damndest thing I ever saw--"
+Tallant finally gave up on her wristpad and concentrated on standing up.  
+Winger helped her get upright.  "This is no good--" His own hypervest was minus a few servos and he was wobbly to boot but at least it offered some protection.  "Dana, I can't hack fast enough to counter-attack.  This stuff is unbelievable…somebody's really juiced up the rep rate.  If it's an ANAD, they've really been tinkering under the hood."
+"There's nothing left…we've got to get out of here…unless DPS can give us some breathing room."
+Winger got on the crewnet.  "CC1 to Detachment…fall back!  Fall back at once!  Fall back to the convoy--"
+He slogged toward the door, through spongy mist a few paces and then made another call.  "CC1 to DPS1.  Mighty Mite, get your HERF guns spooled up.  It might not work but we need all the help we can get!"
+"Already on line, Lieutenant!"  It was Barnes' strained voice, from somewhere in the hospital lobby.  "I'm coming as fast as I can…we had to secure the convoy first—clear the villagers out."
+"Mite, fire short bursts of RF!  See if you can clear us a bubble or a zone around this hall!  I'm not sure we can get back to the convoy otherwise!  And make it quick…Lieutenant Tallant’s injured…infested!  We’ve got to get her out of here.”
+"CC1, we've now lost containment!"  It was Deeno.
+"Forget the pods!" Winger came back.  "Form up around me if you can.  DPS is going to try and stun these buggers with a big kick of RF, give us a chance to get the hell out of here!"
+Seconds later, the drone of the HERF pulse gun blasted through the village clearing.  A thick breeze of momentarily stunned nanomechs clattered against Winger's hypervest.  When the second pulse shook the hut and nearly toppled it, and he felt the thermal of high-frequency RF wash over them, Winger willed himself into motion, half carrying, half-dragging Dana Tallant.  The first seizure had died off and her body was limp.
+"Fall back now!  Outside, to the convoy…everybody--on the double…DPS, give 'em another shot!  Lifters are too far away now…we’ll have to go by ground….”
+Another drone-snap of radio energy and another wave of heat.  Winger slogged through the mist, kicking and pummeling blindly, pulling his load with him. 
+At last, blinded and disoriented, he stumbled out of the hut, what was left of it, making the nearest crewtrac out by a line of smoking kapok trees, and practically crashed into the crew compartment. A flurry of hands helped him hoist Tallant inside, rolling her to the back, where she curled up like a baby. The rest of the Detachment fell in--after Deeno had momentarily dropped the MOBnet--a sorry, bedraggled lot…weary, frightened, half-eaten hypersuited nanowarriors, scrambling against heavy resistance, scrambling just to pitch headlong onto the floor of the crew bay in the carrier's rear.  Already the whine of the turbine motors was drowning out everything else.
+"One more pulse, DPS!  Max power…leave it on and let it burn out!  And get your tails in gear, folks!  You'll only have a few seconds."
+The two Defense and Protective Systems techs, Barnes and 'Buddha' Nguyen, cranked up the HERF gun they had erected outside Nalinka’s hut and let it pulse at maximum power.  Rolling thunderclaps shook the entire structure and the team stumbled as they clawed their way to the carrier, but the pulse gun did the trick…momentarily flooding every cubic inch hut with high energy radio waves.  It was shock therapy for a nanomech swarm in mindless exponential overdrive, replicating and disassembling matter at blinding speeds.
+The hut vanished in a swirl of light and dust. 
+It was just enough shock therapy to stun the swarm into a stupor, just long enough to weaken the resistance to movement and give ANAD Detachment a fighting chance to evacuate what had now become a combat zone.
+Behind them, they had no choice but to leave the rest of the village, now filled with groaning Tuareg herders and their families, now caught in the HNRIV storm.  Winger gave them a moment's thought, but it couldn't be helped.  They didn't have enough of ANAD left to isolate the area or immobilize the enemy swarm.  
+Maybe it'll just burn itself out, he hoped.
+Struggling, whining, overheating and shuddering from the thunderclaps of collapsing HERF fields, the crew carriers rumbled off into the dark night sky, kissing the rock walls beyond the village at each sharp turn, as they spiraled down Banikaiyan Road into the bowels of Bamako, finally turning south and west and slowly but surely putting distance between themselves and the nanomech cloud.  Johnny Winger eyed the carrier driver warily through the sighthole as he fought to keep control of the vehicle on the steep winding road.  Only when the buffeting and the sonic pulses and the high keening wail of nanomech hell finally died off, did he finally begin to relax.
+The very first thing he did was quick-disconnect the hypervest helmet, yank the hat off and gulp tons and tons of cold, dry, night-time desert air.
+It was better than ice cream on a hot summer day.
+One minute later, Nalinka died.
+
+A somber tactical briefing was held on the tarmac at Bamako Airport, in the shadow of hyperjet Charioteer.
+Johnny Winger was frustrated.  He wiped sweat and flies from his face.  McTierney was at the rear cargo ramp, keeping an eye on the post-mortem analysis going on inside.  
+"What the hell are we dealing with here, Doc?  Is it evolution?  Or deliberate design?"
+McTierney was equally disturbed.  "Exactly my question.  Is it an accident of nature or intentional?"
+"What I saw could be an isolated malfunction."
+"Or it could be something more--"
+Winger agreed.  "One thing's for sure: HNRIV wouldn't let me alter anything inside Nalinka's limbic system.  I couldn't grab a mech either.  I was damn lucky to get what I did."
+McTierney eyed the gathering airport workers with concern.  The perimeter held by the remnants of Udinka's troops was getting smaller with every minute.  
+"Either way," the Scot said, "HNRIV's not what our lab thought it was.  Something's happened to its program. The structure’s changed.”
+Dana Tallant emerged from the interior and blinked in the pale ramp lights.  Her face was ashen.
+"What did you find?"
+Tallant stripped off her gear and stowed it.  "I'm still not sure.  I looked over all of our vids and data.  Nalinka died of neural trauma.  Poor woman expired like an old motor run at too high a speed for too long.  Neurotransmitter overstimulation of the central nervous system.  An excess of dopamine, flooding her synapses.  More like a tidal wave, actually.  I'd say ANAD triggered some kind of protective routine in the HNRIV resident in her brain."  She shook her head, bent to pack up her gear.  "It wasn't pretty."
+McTierney was intrigued.  "Same progression as all the addicts we're seeing.  Something's jazzing up the program, making it run overtime, pumping a river of dopamine through their limbic systems.  Triggers an avalanche of signals…your body just can't handle it.  Eventually, the seizures and convulsions cause a myocardial infarction, and kill you."
+Deeno D'Nunzio and Mighty Mite emerged from the jet’s interior, their faces somber.  They had Superfly vid footage of the village, what was left of it, now prepping Nalinka's body for burial.  The troopers watched in stony, uncomfortable silence. 
+Johnny Winger was deep in thought.  "We're not dealing with any ordinary nanomech here, guys.  This bastard's got brains.  I wasn’t able to grab anything but mech residue either.  Ironpants Kraft will eat me alive if I don’t come back with a master bot.”
+"Yeah," said D'Nunzio, "and he’ll slurp up the rest of us for dessert.  What do we do now, Lieutenant?"
+“I may have something here,” Gibbs piped up. 
+“What have you got, Gibby?”
+Gibbs pointed to a small graph on his wristpad.  “Just a hunch.  During ANAD’s probe, I kept seeing this little baby but I ignored it for a while…this little signal trace here.  Some kind of comms…going out from Nalinka’s body, from her brain, right where ANAD engaged HNRIV…her tegmentum.”
+Winger was instantly intrigued.  “Comms.  Did you get a trace?”
+“A little…but it doesn’t make any sense.”
+“Let me see….” Winger let Gibbs port the graph to his own wristpad.  “Jeez, if I’m reading this right, the signal went right into space…am I interpreting the analytics correctly here?”
+“I’d say so, Skipper.  Something inside Nalinka’s brain—a master bot or something like that—called home for instructions.”
+Winger sucked at his lower lip.  “And it looks like home is some place in low Earth orbit.  Maybe a satellite lab?”
+Deeno was still nursing some bruises and lacerations from their narrow escape.  “So what’s next, Lieutenant?”
+Winger gave the order to finish loading up Charioteer.  “First, we get all this squared away.  Then I contact Major Kraft.  I’ve got a feeling Old Ironpants may have another little trip in mind for us.”
+
+“Drugstore in Orbit”
+
+Aboard UNISPACE Assault Ship Archimede
+Low Earth Orbit
+October 9, 2048
+
+Johnny Winger watched the Earth slide by two hundred and fifty kilometers below them.  Deeno D’Nunzio and Mighty Mite Barnes crowded around the aft portholes of Archimede’s crew compartment as well, silently watching the brown tableland that was west Africa and the blue-green oval of the Med unfold.
+“I never did thank you two for what you did at Banikaiyan,” Winger said.  “You probably saved a hundred lives in that village, not to mention the rest of the Detachment.”
+“All in a day’s work, Skipper,” Deeno said.  “I saw the bots erupting out of that poor woman and I just reacted.  You know…training and all that.”
+“You got the HERF guns up and operating in record time…that was damned heroic.  Even Ironpants would have been impressed.”
+“Yes, sir,” Deeno said, “it’s not hard to be motivated when the bugs are chewing on your own ass.  I can read textbooks and do sims all day long.  When your butt’s on the line, you learn your lessons real fast.”  D’Nunzio looked across the seat at Barnes.  “Now, Corporal Barnes here, she’s got a natural advantage when it comes to being swarmed.”
+“Oh yeah, how’s that, Sergeant D’Nunzio?”
+“Well, sir, your Corporal Barnes here…she’s small in stature, as you can see.  Like under five feet small.  So when she curls up like a baby, she presents…shall we say, less surface area to be chewed on.  Bugs don’t like that.”
+Mighty Mite just stuck her chin out.  “So you’re saying that our rally cry ‘small is all,’ is literally true in my case.”
+D’Nunzio turned mock serious.  “All I’m saying is you don’t have to yell it out…’ cause you’re already there…” here, D’Nunzio broke up in raucous laughter, cracking herself up.  Behind them, smiles came to other troopers as they listened in on the exchange.
+The rest of Archimede’s approach to the target went on just like that.
+
+Johnny Winger was silent and pensive, as Archimede closed on the Pharmex station.  Twin cylinders, rotating about a longer perpendicular tube, the orbiting drug lab spun at a few dozen revolutions per minute, flashing like a strobe in the morning sunrise.  The UNISPACE assault ship, carrying the 1st Space Raider Platoon, and a detail from 1st Nano, closed rapidly on the platform and secured itself to the mooring collar in good order.
+Winger knew he still had orders to grab any HNRIV he could find.  Banikaiyan had turned up a dry hole; the bots were too clever.  But Q2 still wanted to know how much Red Hammer knew about ANAD.   This time, he was hoping to turn up a master bot.
+Captain Domenic Revel ordered his troopers to prepare for entry.
+"This is officially an inspection visit," he reminded the soldiers, now lined up outside the airlock chamber.  "But the mandate orders say Pharmex is to be seized and secured.  I intend to do exactly that.  Enable weapons--and Lieutenant--?"  Revel nodded toward Winger and the 1st Nano unit.  "I'll need a sweep from you before we execute entry."
+"Yes, sir."  Winger snapped and locked his helmet down, then took Gibby, Mighty Mite Barnes and Deeno D’Nunzio with him and eased past the mustered troops in full battlesuit gear into the airlock.  The lock was cycled and depressurized, with the 1st Nano troops preparing ANAD for launch at the same time.  When the "EQUAL PRESSURE" red light lit up, they were ready.  
+"Launch ANAD," Winger ordered.
+Gibby hosed down the lock seal with ANAD, letting the rapidly replicating assembler infiltrate the connecting tube and sweep for any mech barriers Pharmex might have set up.  In a few minutes, the assembler swarm had penetrated into the Pharmex outpost and was reconnoitering the transfer adapter of the station.  Revel wanted ANAD deployed, just in case.  On the ride up from Kourou, he had worked out tactics with Winger and Gibby to keep ANAD ready for action, while 1st Space Raiders fanned out around the platform and took over.
+"Pharmex is a UNISPACE-sanctioned facility but I don't know what we're getting into," Revel had said to Winger.  “I want your buggers to cover my ass while we secure the place."
+Winger had re-assured the UNISPACE commander.  "Don't worry, Captain.  ANAD'll keep the place sanitized."
+Moments later, ANAD reported back on the qc-link.  "ANAD to Hub…ANAD to Hub…nothing out of the ordinary…biowebs in the alpha compartment forward, level four isolation…a few stray proton clouds near the hull--probably cosmic ray spalling--kind of noisy over there…and some rad barriers in beta compartment, near the habitat--"
+Winger saw the areas ANAD was indicating flash on his helmet eyepiece.  "Hub to ANAD…no other nanomechs in the environment?"
+"ANAD to Hub…none detectable…ANAD dispersing to recon swarm now…."
+"Very well," Winger replied.  He signaled to Revel.  "Captain…ANAD reports no barriers…no hostile swarms.  Detachment is cleared for entry."
+Revel's voice was gruff.  "Keep your formation ready for action, Lieutenant…just in case."
+Half an hour later, 1st Space Raiders had occupied the entire Pharmex lab, securing all critical areas in both compartments.
+Nominally limited to a crew of six, the platform currently hosted ten technicians.  Johnny Winger was moderately surprised to recognize one of them: the Thai neurotraficante Theo Souvranamh.  A lifetime member of Q2’s most wanted list.  He could hardly believe their good fortune.  
+Souvranamh was florid and furious at the unannounced visit.  He seethed at Winger.  
+"Quantum Corps seems to have a bad habit of interrupting vital work, Lieutenant.  First, Bangkok…now up here.  Maybe we should just hire you on…you spend enough time snooping around, don't you?"
+Winger bounded past Souvranamh in the half-g gravity and slipped into the central passageway of Alpha compartment, one end of the dumbbell-shaped station.  "Don't blame Quantum Corps for this one, pal.  We're just along for the ride."  He checked with Gibby, who was right behind him, monitoring ANAD status.  Gibby gave him a thumbs up.  "UNISPACE and Captain Revel are running the show."
+Souvranamh found Revel just inside Alpha Compartment, studying the controls of a containment chamber inside one of the labs.  
+Revel snapped a finger and four space raiders instantly appeared.  "Take this man into custody."  He waggled a finger at two Pharmex techs tending some equipment nearby.  "These two as well."
+Souvranamh protested, resisting the efforts of the raider troops and pulled free.
+"What is the meaning of this out--"
+Revel cut him off.  "By authority of the United Nations Security Affairs Commissioner, I am taking control of this facility.  This lab is in probable violation of public health protocols and mandates on harboring dangerous organisms.  Search the rest of the compartment--" he directed two of the soldiers.  They spun about and shoved their way past Souvranamh into the central passageway.
+The station commander was a Norwegian named Rolf Holweg.  Holweg was incredulous.  "You can't be serious…we're doing critical research here…we're already working with WHO…and others…to combat HNRIV infections.”
+Souvranamh was adamant.  "This lab is fully licensed by WHO--check the files, Captain.  We've complied with all mandates.  This is nothing but harassment…a fishing expedition."
+Revel was unmoved.  "I have my orders."  Before Souvranamh and Holweg could argue any further, they were restrained and hustled out of the compartment, then taken back to Archimede under guard.
+The Captain issued orders in rapid sequence.  "Secure all manufacturing operations.  Furnaces, bioreactors, growth tanks, everything.  Shutdown this containment chamber too…I want it capped so nothing can go in or out.  Engles--" he snapped at a nearby corporal, "secure all comm links.  And I mean all.  Nothing goes out of here without permission.  Put two men on it now."
+Engles saluted and bounded off to the Operations pod in Beta compartment.  
+"Lieutenant?" Revel called Winger over.  
+"Yes, sir?"
+Revel ticked off more orders.  "There may be others hiding aboard.  Take your men forward to the Level Four pod.  I want a thorough search of this lab…samples, files, cultures, templates, everything.  Start with this containment chamber.  If there's anything out of the ordinary--like HNRIV fragments, that sort of thing--secure it."
+Winger acknowledged and motioned Gibby, Barnes and D’Nunzio into action.  The nanowarriors deployed throughout the lab, Winger and Gibby in Alpha, the others in Beta, looking for evidence of HNRIV mechs they could scoop up.  
+It was ANAD itself who discovered the most damning data of all.  Gibby had ordered a penetration of Pharmex's computer storage, with the ANAD swarm systematically reading nanobit impressions on each disk inside the servers.  An hour later, ANAD signaled Gibby that it had found something.  The raw data was imaged and sent back to the interface controls.
+Gibbs hhmmm'ed as he studied the image ANAD had recorded.  
+"What is it?" Winger asked, looking over his shoulder at the IC readout.
+Gibby stroked his goatee thoughtfully.  "Well, Lieutenant…I can't be sure but these patterns sure look like control algorithms for something."
+Barnes took a look herself, calling up basic replication routines on the IC for comparison.  "Bingo, Lieutenant.  I'd say Gibby's nailed it.  These patterns are like mirror images of ANAD's own basic replication instruction."
+Winger had hoped and prayed they would find something like this.   
+"Are you sure?  Rep routines look alike…maybe this is HNRIV stuff…you know: viral growth patterns, or something."
+But Gibby was more and more certain.  Before long, ANAD's scan had turned up electronic maps, maps of human brain architecture, maps of the limbic system, and maps of swarm dispersal and effectiveness.  Nanobotic swarms.  
+He pored over the data, shaking his head.  "Looks like we hit the mother lode, Lieutenant.  I'd bet a month's wages Pharmex does more than just make vaccines for WHO.  Either this is HNRIV stuff or my mother’s Chinese."
+Captain Revel had heard and seen all he needed to.  He listened impatiently to alternative explanations from several techs, but ignored them.
+"Pharmex is hereby placed under UNISPACE custody."  Revel motioned his platoon leader over.  His name was Horkum.  "Nobody else aboard this garbage dump?”
+Horkum shook his head.  “She’s clean as far as we can detect, Skipper.”
+“Very well.  Place all operating systems in a safe mode.  Make sure containment and the Level Four lab are secured.  Pick three of your men for a detail…I want a skeleton crew of techs only…they'll stay behind and make sure Pharmex stays shutdown."  Revel marched off, back to the Archimede.  "Mssrs. Holweg and Souvranamh are in custody and will be returning to Kourou with us."  
+Winger couldn’t believe their luck.  He told Gibby to re-capture ANAD.  "I'll get Mighty Mite and Deeno.  Looks like our work here is done."
+
+Winger went forward to the Level Four lab.  Outside the chamber, a small compartment was crammed with consoles and keyboards.  Two UNISPACE troopers were on duty inside.  They nodded grimly at Winger.
+"--just checking for residual nano, boys.  Making sure ANAD didn't miss anything."
+The lead trooper wore a mottled white on white battlesuit and a frown.  "Captain says this place is off limits."
+"No sweat, Sergeant.  I'm just doing my job."  The UNISPACE sergeant let Winger pass into the compartment.  For good measure, the Lieutenant had carried a mobile IC panel.  He knew Gibby and Barnes were safing ANAD even now, but the gear made him look official.
+Inside the compartment, Winger read off controls and displays labeled Comm/Swarm Interface and Synaptic Cartography.  Studying the layout of the place, he realized it was similar to what they had seen in Banikaiyan.  
+Here's where they control the swarms.  HNRIV's brain---
+"Lieutenant--" it was Barnes, her head stuck through the compartment hatch, between the two troopers.  "Lieutenant--it's Major Kraft.  He wants to speak with you…he's patched in through the ship."
+Winger made his way back to Archimede and her main cabin.  Her exec, Lieutenant Commander Sumida, was on duty.
+"He's on Comm C," the UNISPACE pilot said.  "--right here."  He indicated a small nook behind the flight deck.  Kraft's gruff face was lighting up a vidport.  Winger made himself visible and filled in the Major on what they had found.  Kraft seemed distracted.  
+"Major, I'd like to stay aboard with the UNISPACE detail, check out this place.  We may be able to figure just how Red Hammer is controlling HNRIV."
+"Negative," Kraft said.  "Get back to Table Top, as soon as you land.  CINCQUANT's got new intelligence on Red Hammer.  And Q2 is setting up a little interrogation session for Souvranamh.  With the control link to the swarms broken, I want to act fast to contain HNRIV.  The lab’s got some new ideas."
+Hey, just give me a chance, Winger thought but didn’t say.   "Major, I--"
+"That's an order, Lieutenant."  Kraft's tone of voice brooked no dissent.  "As soon as you hit Kourou, get your gear together and get back here…on the double."
+"Yes, sir."  Kraft's face vanished.  Winger forced his fingers to unclench.  Some days, there just was no pleasing the Major.
+Archimede undocked from Pharmex in good order several hours later and moved off to de-orbit.  The custody detail remained aboard--four 1st Space Raider Platoon troopers and the balance of the Pharmex techs who hadn't been arrested.  Holweg and Souvranamh chafed in restraints in the main cabin, surrounded by rest of the UNISPACE force.  Winger and the 1st Nano detail were secured in their seats in the rear of the cabin.
+The big winged bird shuddered as her de-orbit engines fired, and Winger felt like he'd been kicked in the back by an elephant.  They'd started the burn over Central Asia, heading for landfall on the northeast coast of South America, the Kourou spaceport.
+Out the porthole beside his head, Winger spied the bright white bumps of the Himalayas, poking through late afternoon sunlight above streaks of wispy cirrus clouds, casting shadows for hundreds of kilometers.  Further south, the setting sun made bright reflections off the green dappling of the Indian Ocean and the Bay of Bengal.  As Winger turned back to the cabin, his eye caught a flash in the darkened furrows between the mountain ranges below.  He turned back and saw it again--a red strobe flickered for an instant, and was gone.  Then again--
+A series of pulses followed.
+Seconds later, Archimede shuddered again, and her de-orbit engines abruptly shut off.  Winger froze in his seat, mesmerized by the red pulsing light illuminating the darkened valley below them.  What the--
+And then he knew what it was.
+Archimede had been hit.  A directed energy beam, arrowing up from a source deep in the Himalayas, had struck the ship.  The shudders got worse, as Archimede's engines cut in and out.  Suddenly, the ship began a slow roll to starboard.
+Up front, the flight deck was in an uproar.  Sumida and the ship commander, Lalande, fought the controls.  Captain Revel squeezed forward, poking his face into the deck.
+"What is it--what's happened?"
+Lalande stabbed a button again, and swore.  "No dice, no dice, dammit!  She's out--Captain…something's hit us.  Main engines offline…attitude control offline…verniers are out…we're drifting--"
+"Are we still in orbit?  What's our speed?"
+"Mon Dieu, Captain…we're--I can't get this rotation stopped.  We're drifting and we're helpless--"
+Sumida's face was grim.  "And we're dropping out of orbit fast!"
+Revel's eyes widened as the ship's gyration brought the earth back into view.  Now nearly in nightfall, Central Asia and China passed quickly below them, more than two hundred kilometers below them, and the pinpricks of city lights were just coming into view across the Yangtze River valley.  Ahead lay the vast black basin of the Pacific Ocean.  
+Revel knew there was no way they would ever make Kourou and the South American coast.
+Commander Lalande's eyes ricocheted from instrument to instrument, with a harried glance out the forward windscreen.  
+Speed down to Mach 16.4.  Altitude was 74,666 meters.  Rate of descent was four thousand meters per minute.  And Archimede was rolling to her wingtips, perilously close to a flat spin with each cycle.  Her aero controls were useless--not enough air--and her thrusters and verniers were damaged and out of commission.  He took a sideways glance at Sumida.  The pilot's face was as pale as his.
+They were falling out of the sky at sixteen times the speed of sound, enveloped in a fireball of ionized plasma, out of control, with no effective way to stop, slow down, turn or flatten out…not until the ship had bitten deeper into the atmosphere.  And by then, it might very well be too late.
+Outside the windows, flashes and streaks of plasma streamed by the ship, an inferno of flame and hot pink throbbing pulsations, as Archimede ripped deeper and deeper into the atmosphere.
+Beads of sweat had broken out on Lalande's face.  "Any idea where we are?"
+Sumida checked a profile display, tried updating it, even tapping it with his knuckles.  "Not really.  If we were following a normal path, we'd be about over the Marshall Islands about now.  But--" he shrugged.  "--your guess is as good as mine."
+Lalande nodded grimly.  "Hickam Field, Hawaii is probably our only shot to make a dry landing.  If we don't disintegrate first.  We'll have one shot at this…once we get below a thirty thousand meters, we should have aero control."
+"Commander, we're going into a spin.  And the rate is--"
+"I know, I know.  But we've got no choice."  
+Already centrifugal force was making it hard to stay in their seats.  Both pilots cinched up their harnesses even tighter.  "How long to the threshold?"
+Lalande studied his instruments.  "Airgate-One starts at one thirty thousand meters.  With our rate of descent, about a minute and a half.  We got power to the aerosurfaces?"
+Sumida cycled a switch.  "Everything's green there.  Flaps, slats, elevons, rudders, stabilators…all look good."
+The moment of decision came all too soon.  Lalande had just finished explaining to the rest of the crew--and their unwilling passengers from Pharmex--what he was going to do.  At just the right moment--designated Airgate-One in the book--Archimede's commander would pop every aero surface he had, pop them all to maximum deflection, in a last-ditch, desperate effort to stop their spin.  If it worked--and it was an enormous if--the ship could be brought under some semblance of control.  If they timed it right, they might be able to cruise--glide was more like it, since the ground laser had fried their engines and fuel tanks--far enough to avoid ditching in the middle of the Pacific Ocean.  
+Lalande was planning on Hickam Field, Hawaii.  But the airfield was probably at the far end of their gliding range.  Archimede was a so-so glider, since she normally returned to land under full propulsive power.  But now, she had no engines.  Gliding was their only chance.
+"Here she goes!" Lalande shouted.  He slammed his rudders and flaps out, with Sumida straining against the ever-increasing force of the spin to cycle the rest of the aero surfaces.  Archimede groaned and creaked with the strain.  Both men imagined they could hear the ripping of metal against the pounding of the airstream, tenuous though it was.  The ship shuddered, dropped, shuddered again, then slipped.  For a few moments, they fell freely, and the spin force ceased.  Then a vicious slam banging sounded against the hull as something gave way, clattering and clanking aft in the slipstream.
+"That was a flap--I think!" yelled Sumida, over the roar of the air.
+But the spin force had dropped off, noticeably lessened.
+"Hold on--" Lalande gritted.  "She's coming around--!"
+A series of pounding, teeth-jarring shudders hammered the ship as it torqued and bucked against the force of the airstream.
+Lalande slammed his stick in the opposite direction.  
+There was a loud groan, and then, as if a giant hand had seized them, Archimede shimmied like a dog shaking off water, rolled slightly back to port and dropped nose first, free of her spin, dropping like a fat needle deeper and deeper into the denser layers of air.
+"Ahh-ahhhhhh--!" yelled Lalande, seizing and centering his controls.  "We did it…Mon Dieu!  We did it!  I've got something--I've got control here--"
+Slowly, reluctantly, Archimede swung back to a level position, waggling a bit unsteadily but out of the spin.  Out the windscreen, a brilliant shimmering orange radiance was pulsating in a halo around the ship's nose.  There was no distinct boundary to the glow, more a hazy, diffuse aura with throbs of amber and gold brilliance like a living, breathing organism.  Torch blasts of deeper red and ocher flashed by the windows as solid particles flamed into incandescence.
+From kilometers below, on the cool shadowy dawnlit wave tops of a coral lagoon in the Marshall Islands, a meteor burst into brilliance in the southeastern sky, outshining for a few seconds every star in the morning heavens.
+Lalande called up the revised descent profile on the monitor in front of him and began gingerly executing a series of steep rolls to get onto their best track to Hickam Field.  Ground control had uplinked the profile a few minutes before, hoping Archimede would be able to pull out of her uncontrolled descent.  Now, Lalande banked the ship hard left, and the G-meter edged up past 4.0, pressing everyone into their seats with force equal to four times their own weight.  Lalande glanced hurriedly over at Sumida; they both knew Archimede would have to exceed her planned reentry g-loads by a sizeable margin, if they were to have any chance of making Hawaii.
+The alternative was a rough, high-speed ditching into the ocean or an even dicier bailout at low altitude.
+Neither choice seemed particularly promising.
+The neon-pink glow of thousands of molecules being heated to incandescence bathed the flight deck in a surreal glow.  Lalande cycled the cabin intercom, so he could talk to the crew in the aft compartment.
+"Loss of signal now.  We're in radio blackout.  Prepare for landing.  And hang on…this may be a rough one."
+Sumida glanced briefly out the forward windscreen as Archimede rolled smoothly out of her steep banking turn.  Nothing could be seen through the windscreen but a pink-white aura streaked with bursts of gold and deeper rose, radiating from the ship's nose like a starburst.
+"Through twenty-two and Mach seventeen," Sumida called out.  "Alpha steady at sixty degrees.  Descent path to Hickam is nominal."
+"We still have almost thirty-three hundred kilometers cross range to make up," Lalande replied.  "Next roll in thirty seconds.  This one's a doozy."
+Archimede banked steeply to port, biting deep into the atmosphere, standing on her wingtips in a ninety-degree roll.  The ship was blazing down into the earth's atmosphere in a corkscrewing trajectory, balancing speed and altitude to stay on the curve Kourou ground control had plotted for them.  Lalande had elected to take control of the ship from the computers; the trajectory they were flying now was not one for which the guidance and navigation system had been prepared.
+Now descending through 70,000 meters over the west central Pacific, Archimede had only once chance to reach the airstrip at Hickam Field.  If Lalande deviated at all from the path the computers at Kourou had generated, the ship would miss Hawaii altogether.  
+Nobody relished the thought of what might happen then.
+Several minutes later, the throbbing pink fog in which Archimede had been flying began to subside, and the air glowed by turns amber, rose, and gold before the plasma sheath surrounding the ship abated.  Brilliant sunlight flooded the flight deck and radio signals once again flowed into the ship's multiband antenna.
+"Archimede, Kourou.  Archimede, Kourou--"
+Lalande responded.  "Archimede, copy.  We're configured for acquisition of signal."
+"Archimede, Kourou.  We have you at one eighty and Mach four point one.  Distance thirteen fifty kilometers.  Nominal descent, Claude.  Looking good at this point."
+"I understand.  We have the coastline of the big island in view now."  Lalande glanced over where Sumida was pointing; they both grinned with relief.
+A new, deeper voice crackled over their headsets.  It was the voice of Hawaii.  "Archimede, Hickam Approach Control.  Welcome to the Aloha State, fellas.  Here's the met report: scattered clouds at eight and eleven thousand.  Winds on approach are ten knots, west-southwest.  Crosswinds at the runway are under two knots.  Visibility is six to eight kilometers.  And the beaches are great too."
+"We understand."  Lalande checked his altitude/velocity display.  "Estimating Archimede at the heading alignment circle in three minutes."
+Sumida pointed out the forward windscreen.  "I see Diamond Head, Claude.  And that's the Koolau Range.  God, isn't it beautiful?"  Ahead of Archimede, the misty green slopes of Oahu's eastern mountains made dimples in the white gauze of the late morning cloud cover.  
+"Terminal area energy management," Lalande commanded.  Sumida punched up a series of buttons on the data entry keypad, calling up the program for Archimede's approach to the runway.  "Autoland acquisition?"
+"Confirmed."
+"Waypoint one.  Here we go."  Lalande eased his control stick to the left, bringing Archimede onto the outer edge of an imaginary 6,000-meter diameter cylinder.  By following the perimeter of this cylinder, the ship would be properly aligned for its final, and only, approach to the runway.
+With her engines disabled from the laser hit, there would be no second chance.
+"Seven hundred meters," Sumida called out.  "Your glide slope is at twenty-two degrees.  On the HAC.  Preflare in twenty seconds."
+Archimede streaked into the clouds for a few seconds, dropping toward the ground seven times faster than a commercial spaceliner.  
+"TACAN data looks good.  Speed brakes to eighty percent.  Coming up on the runway entry point…now."
+Lalande smartly rolled Archimede out of the bank just as she dropped clear of the clouds.  The green carpet of Oahu's mountains lay below them.  Ahead on the horizon was the deep cobalt blue of the Pacific, and the tan ribbon of Runway Two-Fifteen.
+"Preflare."  Lalande brought the ship's nose up sharply, reducing their glideslope to just over one degree.  The deceleration drove them deeper into their seats.  "Arm landing gear."
+Sumida lifted the switch cover and depressed LANDING GEAR ARM.  "Landing gear armed.  And we're at one twenty.  On glide slope.  On centerline."
+The unmistakable shapes of buildings and vehicles rolling along the airfield perimeter began rushing by the windows.  
+"Forty meters.  Gear down."
+"Gear down is confirmed.  Over the threshold."
+"Thirty meters."
+Archimede settled gracefully over the black skid marks of Runway Two-Fifteen and the skyline of downtown Honolulu disappeared behind the mountains.
+"Twenty meters."
+"Ten meters."
+"Touchdown, Claude."
+"Speed brakes full.  Elevons one hundred percent."
+They both flinched as the tires bit into the concrete.  Sumida lurched forward against his shoulder straps when Lalande applied maximum braking.
+Back in the aft passenger compartment, the jolt seemed to awaken Johnny Winger.  His eyes fluttered open and he looked around, finally daring to take a breath.  His arms gripped the armrests tightly as he sagged under the full effect of earth gravity and the ship's braking.  The landing rollout brought Archimede nearly five thousand meters down Runway Two-Fifteen, to a full stop twenty-five seconds later.
+Winger looked around.  There was Gibby.  Deeno D’Nunzio.  Mighty Mite Barnes.  Souvranamh and Holweg and their Space Raider guards.  Nobody seemed to be seriously injured.  But the Thai cartel boss had a slight smile pasted on his face.  What the hell was that all about?
+Outside, a crowd had already gathered, piling out of trucks and cars and was pointing and gesturing at the ship and her graceful wings.  Archimede had sustained severe aerodynamic and heating damage, both from the steep unplanned reentry and from the laser hit, leaving skin panels scorched and unzipped along half the length of her starboard fuselage.  
+Winger breathed a sigh of relief and sank back into his seat.  They had been lucky.  Pharmex was finally down, off-line, and two of Red Hammer’s key suspects were in Quantum Corps custody.
+Then Winger shuddered slightly, realizing at that moment just why Souvranamh was still smiling.
+
+“Oh, it was a laser strike all right,” Kraft told Winger.  The whole Detachment was in Kraft’s office in the Ops center at Table Top.  “UNISPACE triangulated the hit…it came from somewhere in the Himalayas, maybe even from inside China.  Not that anyone’s surprised at that.  We’ll know more once we get Souvranamh hooked up.”
+“Interrogation, sir?” Barnes asked.
+Kraft wore a faint smile.  “Better than that…something brand new.  Memory trace matching.  When Q2 gets through with our unwilling guest, we’ll know every scrap of memory in that feverish brain of his.  It’s barely legal, ethically dubious and it works like a charm.”
+
+Dr. Irwin Frost tapped a short sequence of instructions on the keyboard.  Inside the containment cylinder, ANAD responded to the command, readying itself for launch.  
+"ANAD reports ready in all respects," came the high-pitched voice.  
+Frost suppressed a slight smile.  "The little guy sounds like a teenager on his first date."
+"Sounds pretty eager to me," Johnny Winger admitted.  Winger was alongside the interface controls, watching everything the Northgate University professor did.
+General Alexander Kincade, commanding general of Quantum Corps' Western Command base at Table Top, rubbed a hand across morning stubble on his chin.  "More eager than I am.  You sure this'll work, Doctor?"
+Frost nodded.  "It is a new technique but we've proven it at the Northgate lab many times.  I've trained Lieutenant Winger here in many of the details.  Shall we get started?"
+He moved aside, indicating that Winger should take his position at the controls.
+"Gives me the creeps, I don't mind telling you," Major Kraft admitted.  "Invading someone's mind like this--"
+"It's just a high-powered lie detector," said Major Lofton, Security Branch chief.
+"Let's get going," Kincade growled.  "If Souvranamh's got anything about HNRIV swarms or Red Hammer, I want to know it.  It's too late for legal niceties now.  Permission to launch."
+Strapped to a gurney next to the containment cylinder, Theo Souvranamh had been sedated and prepped for ANAD insertion.  His body was surrounded by a fine mesh of sensors--the vascular grid--that would precisely locate ANAD inside his body, once the mech was inserted.  
+Johnny Winger patted down the incision that had been made in Souvranamh's neck.  "Okay, Doc, subject's prepped and ready."
+Dr. Frost handed him the injector tube.  Inside, ANAD ticked over, ready to be launched.
+"Steady even suction, Lieutenant," Frost reminded him.  "ANAD, report status--"
+The teenager's voice crackled over the circuit.  "ANAD effectors safed for launch.  All parameters normal.  Internal bonds and states are stable.  Sensors primed and registered.  Core functions initialized…I'm ready to fly, fellows--"
+Frost glanced up at General Kincade, an embarrassed smile on his lips.  "The assembler uses a small percentage of his computational ability to simulate emotional states…sometimes, it correlates, er, inappropriately."
+"Get on with it," Kincade ordered.
+"Vascular grid?" Frost asked.
+"Tracking, Doctor," said Winger.  He tuned the grid to pick up the mech as soon as it was inserted.
+"Let's go, then."
+The insert went smoothly enough.  
+Frost studied the sounder image.  "Looks like you're ready for transit, Lieutenant.  You can force those cell membranes any time."
+Winger told ANAD to probe for weak spots in a clump of lipids, clinging like a bunch of grapes in the middle of the wall.  "I'll try there first--"
+He steered ANAD toward a cleft in the membrane lipids.  Seconds later, ANAD was floating in a plasma bath, dark shapes visible off in the distance.  He tweaked the propulsor to a higher power setting and took a navigation hack off the grid.
+"Aortic cavity, Doc.  Looks like we're in.  Where are we going now?"
+Start Fourier Transform;
+Start Delacroix Transform;
+Start Trace Matching…
+Souvranamh is florid and furious at the unannounced visit.  He seethes at Winger.  
+"Quantum Corps seems to have a bad habit of interrupting vital work, Lieutenant.  First, Bangkok…now up here.  Maybe we should just hire you on…you spend enough time snooping around, don't you?"
+Winger bounds past Souvranamh in the half-g gravity and slips into the central passageway of Alpha compartment, one end of the dumbbell-shaped station.  "Don't blame Quantum Corps for this one, pal.  We're just along for the ride."  He checks with Gibby, who is right behind him, monitoring ANAD status.  Gibby gives him a thumbs up.  "UNISPACE and Captain Revel are running the show."
+Souvranamh finds Revel just inside Alpha Compartment, studying the controls of a containment chamber inside one of the labs.  
+Revel snaps a finger and four space raiders instantly appear.  "Take this man into custody."  He waggles a finger at two Pharmex techs tending some equipment nearby.  "These two as well."
+Souvranamh protests, resisting the efforts of the raider troops and pulls free.
+"What is the meaning of this out--"
+Revel cuts him off.  "By authority of the United Nations Security Affairs Commissioner, I am taking control of this facility.  This lab is in probable violation of public health protocols and mandates on harboring dangerous organisms.  Search the rest of the compartment--" he directs two of the soldiers.  They spin about and shove their way past Souvranamh into the central passageway.
+The station commander is a Norwegian named Rolf Holweg.  Holweg is incredulous.  "You can't be serious…we're doing critical research here…we're already working with WHO…and others…to combat HNRIV infections."
+Souvranamh is adamant.  "This lab is fully licensed by WHO--check the files, Captain.  We've complied with all mandates.  This is nothing but harassment…a fishing expedition."
+Revel is unmoved.  "I have my orders."  Before Souvranamh and Holweg can argue any further, they are restrained and hustled out of the compartment, then taken back to Archimede under guard.
+ 
+(The imager blurs, shot through with streaks of light, peculiar starbursts and fragments of hazy, out of focus visuals, all jumbled up.  The speaker crackles with static--)
+Johnny Winger fiddled with his joystick, tried tweaking the gain on the signal.  "Looks like we lost that trace, Doc.  Just fizzled out."
+Major Kraft glared in disgust at the IC panel.  "Can you get it back, Lieutenant?"
+Winger shook his head.  "Faded out, Major…we didn't have a good gradient to follow.  I'll backtrack--"
+Lofton was there too, standing beside Kraft.  "Eerie, isn't it?  Seeing things through another man's eyes."
+"Gives me the creeps," Kraft admitted.  
+"It seems to work well enough," Lofton said.  "Couldn't tell you the theory behind it."
+"It's a damn circus trick," General Kincade growled.  "We can really play back someone's memories like a recording?"
+"Not exactly, sir," said Winger.  He was helping Dr. Frost sniff out new traces for ANAD to follow.  "We just put ANAD inside the suspect and replicate a few trillion times.  Then we put the whole herd in 'bloodhound' mode and go hunting."
+"What exactly are you hunting for?"
+"Everybody makes memories the same way.  It's called Long-term Potentiation.  One of the chemical signatures of LTP is a molecule called glutamate…helps open a second voltage-gated channel inside the post-synaptic membrane--"
+Dr. Frost intervened.  "Allow me, Lieutenant.  In plain English, General, what it boils down to is that we can construct crude renditions of memory traces existent in the subject's brain, up to ten to fifteen days after the memory trace is laid down.  We've been doing it experimentally at Northgate for the last six months.  ANAD shuttles around inside the subject's head like a bunch of bees, sniffing out calcium sinks in every neuron, looking for equal concentrations, down to the parts per trillion.  Everywhere that concentration is equal is a pathway, burned in, a memory trace.  ANAD follows it, sends back data on whatever it finds--calcium levels, sodium levels, activation times, lots of stuff.  We can re-construct a very crude version of what originally laid down that track.  Then we put it on the imager, cobbled out of visual and auditory sensory traces in this particular case.  They're the easiest."
+"It's sort of like painting somebody's portrait from their shadow," added Major Lofton.  "I've been to the Northgate lab.  They actually used me as a guinea pig too.  Kind of an echo of a memory, if you like."
+Kincade was dubious.  "Sounds pretty nebulous to me.  Why did we just now lose the trace?"
+"Unknown," said Winger.  His fingers were flying over the keyboard, managing ANAD's configuration, checking its parameters.  "Somehow, we lost the trace…just petered out.  It happens.  All you can do is backtrack to a known point and start sniffing again."
+Kincade stared from the imager display to Souvranamh's still body, lightly breathing, and back again.  He half expected to see the bastard twitch or move a leg or something.  "So where is ANAD now?"
+Major Kraft was keen to keep the upper hand in this demo.  Winger and Doc Frost occasionally drifted off into outer space with all their explanations.  It took an old infantryman to keep their feet planted firmly on Earth.  "Here's the vascular grid, General--" he fingered the IC display to the side of the imager.  The grid was a 3-D iconic image of Souvranamh's skull.  "--I'd say…right about here…basal hippocampus region.  Most of the swarm's about a hundred thousand microns anterior to the lateral septum."
+"We're picking up something," Winger muttered.  As Kraft watched over his shoulder, hoping to learn something more to impress the General with, Winger steered through a dense bog of dendrites.  Thickets of axon fibers clouded the imager, now slaved to ANAD's electromagnetic sounder.  "--strong trace…this one's holding, looks like--"
+"Stay with it," Dr. Frost encouraged him. He leaned over across Winger, to massage ANAD's configuration, souping up the sensors.
+"I'm altering config--" Winger said in a low voice.  "It'll help us sort out the traffic--lots of chem crap around here--"
+Souvranamh stirred lightly on the gurney, until Frost steadied his body.  "He's coming back through Level 4," Frost muttered.  "We'd better hurry, if we're going to get anything out of this--"
+"I'm trying, Doc."  Winger glared at the imager, flexed his fingers around the hand controllers.  He let ANAD finish changing config, noting that all the other trillion mechs slaved to the master had done likewise, then maneuvered the device into the lee of a dendritic 'breakwater'…sniffing for calcium, sodium, anything it could follow, grabbing molecules left and right, until at last, Winger cracked the barest hint of a smile.  Deep inside the unconscious brain of Theo Souvranamh, the Autonomous Nanoscale Assembler/Disassembler blazed away at incredible speed, spasmodically sorting and advancing along the barest whiff of a chemical highway.
+Seconds later, a green light illuminated alongside the screen.  The sparky haze began to part--ANAD sent back a signal indicating readiness--
+Start Trace Matching….
+Jiang Hao Bei's face hardens.  "What happened at Pharmex?  You were supposed to have stopped them--"
+Hands twitch nervously, kneading fingers so tightly they hurt.  "You don't understand…there were factors beyond my control…Quantum Corps--
+Jiang interrupts with a wave of his hand.  His face has changed again…morphed into something hard and impassive, an angry clown.  Was it the light…or maybe the nanoderm patches again?
+"This is no good."  The undulations on his cheeks and forehead seem to settle down, taking on a new firmness.  He frowns.  "With one of our HNRIV mechs, they’ll surely develop countermeasures."
+"But it'll take some time--"
+Now Jiang is visibly angry.  His face kneads itself into a hard fist.  His cheeks bulge slightly, a lion with a fresh kill in his mouth.  
+"They're not stupid, Theo.  Don't make that mistake.  You've made enough already."  His cheeks then return to normal planes, sleek and alabaster.  "HNRIV must be allowed to develop and expand globally.  The Project depends on it."
+"Maybe if I knew more about--"
+But he isn't listening.  "You're being well-paid for your services.  Yet you continue to fail us."
+"I can't work miracles."
+"Leave the miracles to us.  Just do your part."  His voice deepens, combining new frequencies, new tones, now multiple echoes overlapping.  "You must sabotage any more efforts to develop countermeasures.  ANAD must not be allowed to interfere with the Project.  This is a critical time now."
+A hot flash of nerves.  Throat constriction….
+"That's not the agreement…I only agreed to provide intelligence, not sabotage.  It's too dangerous--"
+"Your mission is changed…as of now.  You'll be--"
+
+Johnny Winger tweaked ANAD again, but the trace was gone.
+"What happened?" Kincade asked.  He was growing more and more annoyed with this harebrained stunt.
+"ANAD lost the trail, sir," Winger said.  "I'm trying to get it back now…"
+Frost changed ANAD's config slightly.  "I'll see if dropping a radical off this arm helps--"
+Lofton was thoughtful.  "Gentlemen, unless I’m mistaken, that was Jiang Hao Bei, the UN Security Affairs Commissioner.”
+Kraft was uneasy with the whole technique.  "Even in the Corps, a man accused has a right to counsel."
+"It won't help," Lofton told him.  "Jiang’s just admitted working with Red Hammer, giving payment to sabotage ANAD.  Tight with a known neurotraficante like Souvranamh…this is big.”
+"Admitted under duress," Kraft reminded him.  
+"This is huge…but now is not the time to be splitting legal hairs," Kincade told them.  "If what we're seeing is half of what really happened, we’re in a mountain of trouble.  Dr. Frost, just how reliable is this stunt?  How do you know this isn't something out of the man's imagination?"
+"That would take some explaining, General, but the basic answer is in the details of the glutamate molecule, and the trail it lays down.  There are subtle differences when the long-term potentiation is activated from direct sensory input--from external events, as it were--and when it's internally generated.  We've tuned ANAD pretty finely to be able to detect the differences."
+Kincade gave that some thought.  "How much further can you go with this?  Can you reconstruct everything?"
+Frost shrugged.  "Practically speaking, no.  The more convoluted the traces become--the more they become abstracted into higher levels of the brain--the harder it is to follow them.  There's a practical limit on the concentrations of glutamate that ANAD can follow.  Usually memory traces older than a few weeks are pretty much impossible to follow consistently.  And there is the matter of damage as well."
+"Damage?  What kind of damage?"
+Frost wanted to be precise in what he said.  "Every time ANAD follows a trail of glutamate molecules, he slightly damages the molecules in the process of examining them.  We call it a fragmentation trail.  The subject's memories are slightly altered with each probe."
+"So this can't be done accurately again, after this probe?"
+Frost nodded imperceptibly, admitting the truth of what the General was saying.  "Let's say the accuracy of the reconstruction suffers with each 'reading' of the trail."
+Major Lofton was anxious to continue the exam.  "General, every bit of evidence helps the investigation.  May I remind the General that this man holds information vital to defeating the HNRIV infestation that's sweeping the world.  Now is not the time to be squeamish--begging the General's pardon--about molecule fragments.  And now we have evidence that UNSAC himself is involved.  How high does this go?  Can anybody in Paris be trusted now?”
+Kincade glared at Lofton as if he were some kind of slug to be stepped on.  "I agree with the Major.  Continue the exam."
+ANAD sniffed for the better part of three hours.  When Frost became convinced that Souvranamh’s hippocampal tissues were scrambled enough to prevent any further accurate readings, Kincade ordered the examination terminated.
+Lofton and the General reviewed the record of what ANAD had found so far.   The latest readings had been the most revealing.
+Kincade scanned the transcripts.  "Jiang Hao Bei was originally suborned into Red Hammer two years ago--"
+Lofton agreed.  "Maybe we should take this CINCQUANT…maybe even the Secretary-General."
+Kincade clicked through the record on his reader, tapping the screen for emphasis.  "This is too big for us here at Table Top.  Somehow, we’ll have to get Internal Security on the case, without UNSAC knowing.”
+Lofton agreed.  “Does Quantum Corps even have jurisdiction in something like this?  How about immunity for UNSAC…I’m not so sure he can even be investigated by us…he’s at the top of the food chain.”
+Kraft pointed out something else.  “All these recordings point to some place in Hong Kong…Souvranamh keeps mentioning some place called ‘Lions Rock’.  Any idea or intel on what or where that is?”
+Dr. Frost was reviewing the same readings on his own device.  "General, I'm still not quite sure what to make of these fragments…the ones listed 0011 through 0023 in the file."
+Kincade and Lofton scanned the snatches quickly.  Kincade's face was a big question mark.
+“Kraft, looks like you’d better get a mission together to find out about this Lions Rock.  We’ll have to tiptoe through this minefield, now that we have evidence that UNSAC may be involved with Red Hammer.  Put together some names and a TOE and I’ll get a tasking order out of CINCQUANT somehow.”
+Kraft had no need to hear the rest.  "I'm on my way to Ops, General.  First Nano's got a hell of a lot of planning and packing to do.  I'm calling this mission Delta Helix."  
+While Kraft made plans for the deployment to Hong Kong, Winger finished safing ANAD.  
+“I have to make sure he’s stable,” Winger said.  “He’s been through a lot lately…I’ll check his core program against the template, every config, line for line if I have to.  And cycle all effectors and probes…I want to make sure everything works like it’s supposed to.”
+“You do that,” Kraft told him.  “You’re going to need ANAD hale and hearty and fully functional where you’re going.”
+
+“Lions Rock”
+
+Hong Kong, Special Autonomous Region
+People's Republic of China
+October 15, 2048
+5:00 pm
+
+ANAD Detachment Alpha hyperjetted into Hong Kong's Chek Lap Kok Airport just at sundown, circling the harbor several times to set up a proper approach.  The bejeweled panoply of night time Hong Kong lay before them…Victoria Peak lit up like a Christmas tree, the ancient Star Ferry plying the harbor like some glittering sea serpent.
+Johnny Winger directed off-loading of their mission gear onto trucks supplied by Quantum Corps' eastern base in Singapore, then the support unit headed out from the airport, eventually winding up in a maze of narrow streets outside the old walled confines of Kowloon City.   An Eastern Command lifter shadowed them overhead, providing eyes and top cover in case any nasties showed up.  The Detachment would approach the target from the air.
+Q2 had done their homework in the preceding days, using surveillance, signals and paid informants to finally locate the Lions Rock complex on a craggy hilltop overlooking the ancient City.
+The recon mission was to be a covert one, using specially configured swarms of ANADs, controlled from a lifter parked surreptitiously at the top of Shih Ho Mountain, just outside Kowloon City.  The purpose of the mission was to grab a few late-model Red Hammer mechs and gather all-spectrum intelligence on current Red Hammer operations.  Full-scale assault on the complex was deemed too risky by CINCQUANT; Red Hammer had protection from corrupt but high-ranking military officers in the People’s Liberation Army and UNIFORCE didn't want things to blow up…not just yet, anyway.  
+The job would have to be black and quick.  And UNSAC would have to be kept in the dark about the whole affair.  
+Winger and Sergeant Gibbs would be nominally in the driver's seat, controlling aspects of swarm operation, while Deeno D’Nunzio ran the intel side, studying the 'take' and directing where to go next.  The biggest question now was: what kind of nanomech defenses did Lions Rock have this time?  Could ANAD breach them or slip through?  They'd soon find out.
+The final briefing was done on the liftjet's flight up to Shih Ho Mountain.  Lions Rock itself was an ancient Han Dynasty castle, a gabled and turreted monstrosity perched on a sheer rock precipice overlooking the walled maze of old Kowloon City.  With a swooping roof of glazed tile, the castle perched on its ledge like a bird of prey, built on and into the mountain.  Two hundred meters below, the city of walls and dark alleys seethed with noise and life, oblivious to the winged shadows above.  
+"What about defenses, Lieutenant?" Corporal Colleen Barnes--'Mighty Mite' to the rest of ANAD Detachment--interjected a question.  "Scavengers, sentries, lookouts…any current intel on the environment?"  Barnes would be SDC2 for the operation.  
+"Intel's sparse," Deeno admitted.  "Defender mechs are circulating throughout the neighborhood--we know that much from their heat signature.  Pretty much like the guard dog leukocytes UNIFORCE uses in its biowar nets.  Same capabilities…they can grind an intruder to pulp in less than a minute.  Beyond that, no specific threats known."
+"Which means we keep ANAD's eyes and sensors open all the time," Winger said.
+"How long have we got?" Gibby asked.  He would be IC2 for the operation, backstopping Winger himself on ANAD's interface controls.
+"Maybe an hour.  Not long enough.  We've got our work cut out for us.  CINCQUANT wants us out before a fight develops.  We're just going in to look around."
+"And pick their pockets," Gibby added.
+"Piece of cake," said Mighty Mite.  The rest of the Detachment chimed in their agreement.  They were a tight unit, 1st Nano, and Winger wanted to keep it that way.
+"Let's review the basic plan," Winger said.  He took a quick peek at the outside video.  The lifter had circled north of the harbor and was descending now, lights out, coming about for a covert veetol approach from the mainland.  Ahead, Hong Kong harbor shone through light haze like a dazzling necklace of light, draped over the darkened shoulders and humps of the limestone cliffs.  
+Winger had SOFIE, the tactical AI, put up a timeline on everybody's crewnet eyepiece.  "We'll do an airborne launch, after we sanitize the area, and then put the lifter down on top of the mountain."
+"Full 'D', Lieutenant?" asked Sheila Reaves.
+Winger nodded.  "We're at Threat Con Red now.  Full-D is authorized.  Superfly, decoys, the works."
+"Got it."  Reaves made a few notes.  Full-D was Detachment slang for maximum countermeasures suite--the whole ballgame: HERF radio-frequency guns, mag weapons, coil-gun bots with full rounds, plus their usual mission gear.  Superfly would help too…it was damned hard to do anything now without the micro-entomopters sending back imagery from beyond the front lines.  Reaves made a mental note to check out the camou-fog generator.  The nanomech dispenser hadn't worked right in the last sim and 1st Nano had taken casualties meeting its objectives.  The Lieutenant had taken a sizeable chunk out of her ass for that.
+Winger stepped through the mission timeline, moment by moment.  "We'll be at the objective at 0100 hours local time.  I've already had SOFIE download schematics to the crewnet.  You can access any time after the briefing.  Buddha, you have the latest on defenses?"
+Corporal An Nguyen pressed a key on his wristpad.  Instantly, everyone's eyepiece was filled with details.  "This place is a fortress."  He called up a layout of the complex and SOFIE ported it to all eyepiece viewers.  "Red Hammer's got their own form of Superfly, just hordes of little micro-air vehicles buzzing around the mountain and streets below, sniffing out unwelcome visitors like us.  And that's just the first layer.  Tactically, as Lieutenant Winger has already indicated, our best approach is from above, down the northeast face of Shih Ho Mountain--" he let SOFIE highlight a path toward the top of the escarpment.
+"After ANAD's launched, we'll do a minimum rep…just enough to give us some mass.  When Mighty Mite has the landing zone cleared, we fastcable down to the top of Shih Ho and secure a perimeter for our little camp there."
+"Hypersuits?" asked Deeno D’Nunzio.
+"Vests and helmets only.  We need speed and flexibility.  We'll use camou-fog, let ANAD set up a screen to keep the 'flies' and mechs away.  With luck, the camou will make us look like part of the mountain."
+"I wonder how long that'll last?" Reaves muttered.  
+"Till you feel about a trillion mouths chewing on your ass, girl," said Mighty Mite Barnes. 
+They all leaned over as the lifter pilot swung them sharply toward the black hulk of Shih Ho Mountain.  Ahead, in the video, Winger could see the dim outlines of the castle, crouching like a black vulture on top of the rock.
+"Here's what we're going to do," Winger told them.  He tapped buttons on his wristpad.  Instantly, the crewnet beeped and dragged down a tactical map of Lions Rock and the top of the mountain, flashing with symbols in everybody's eyepiece.  "See the cursor?  I've put it on a service entrance…halfway down the front face.  That's our way in.  DPS?"
+Reaves was scanning the crewbay's sensor bank.  "I'm on it, sir.  Just as expected…flies and mechs all over the place.  Camou-fog generator already enabled.  They're swarming…not random, and I'm getting EM pulses…they know someone's here…just not exactly where yet."  She looked up.  "We're good to go anytime, Lieutenant."
+"We'll have company pretty soon if we don't move out.  Okay…same assault plan we simmed.  Sergeant Gibbs, launch ANAD.  Minimum rep.  I want a perimeter guard around the unit while we get our gear set up on top of the mountain."
+"Launching ANAD."  Gibby was already setting up the interface controls.  There was a subtle whoosh from the tubes, as the tiny swarm discharged into the air over the mountaintop.  "What kind of config, sir?"
+"Full engagement.  The works."
+The fastcabling ingress came off without incident.  Even as the lifter settled onto the rocky escarpment beside them, 1st Nano was already setting out their gear, sighting in their weapons, dragging equipment to cover positions, while the faint keening hum of the camou-fog mechs swarmed less than ten meters overhead.  Even from the lifter cockpit, the outlines of the recon camp were only faintly visible, shimmering in a dark washed-out smear of light, blending in more and more with the shadowy crags and recesses of the mountaintop.  
+Below the cloak, the Detachment grimly set to work.
+Ingress of the main swarm at the service entrance took less than a minute.  Probing ahead for ANAD, Reaves and Nguyen ran a horde of Superflies down the mountainside for a last minute recon.  Once the coast was clear, Gibby went to work, forming up the assembler group for quick and covert entrance through the door seals.  
+"No sign of any mechs," he muttered, as Winger hovered over his shoulders.  "DPS must have given them something to chase."  Seconds later, the first imagery fluttered into coherence on the viewer.  Winger took a feed for his own eyepiece; he wanted to be able to move about the encampment as the situation dictated.  "Seals are intact…just plain old garden variety polymer stuff.  Big daddy molecules.  I can squeeze through in a heartbeat, Lieutenant."
+"Do it," Winger commanded.  He swallowed hard, knowing full well they were in serious Indian country now.
+Gibby did it.  The assembler swarm dispersed and passed through the door seals like a faint breeze.  Odd, he thought, that Red Hammer wouldn't secure such an entrance with a mech barrier of some kind.  Maybe they aren't expecting company from this side.  In less than five minutes, the entire formation was inside.  
+Winger checked his nanotroops' deployment all around him.  Reaves and Nguyen were manning the HERF and mag guns, positioned at the perimeter of the camou field, ready to fry anything that popped up.  Gibby was at the IC panel, piloting elements of the ANAD horde.  Mighty Mite and Deeno were managing the camou generator itself.  They needed the cover to last long enough to grab a few mechs inside Lions Rock and get some quick intelligence on Red Hammer operations.
+"We're in," Gibby exulted.  "Forming up visual lens--"
+Winger let his eyepiece highlight the path ahead.  Hundreds of meters below them, a portion of the ANAD swarm formed itself into a rudimentary lens, snagging stray photons and other EM from the cave, fashioning a crude, sparkly sort of image.  Winger studied the view, overlaid with SOFIE's schematic, trying to make some sense of where they were.
+SOFIE laid in a red dotted line.  Winger agreed.  "That way, Gibby…move out!  Squad order!"
+The formation of autonomous nanoscale assemblers eased forward through darkened chambers, sliding past air molecules big as beach balls, pushed by picowatt propulsors, down and further down a spiraling path into the mountain.
+In seconds, they came to a stone staircase hewn out of the rock walls.  
+"Main ingress route, looks like," Gibby muttered.  He was monitoring ANAD status from his wristpad, ready to toggle to a new config at a moment's notice.  
+"Same as the schematic…" Winger said.  "SOFIE's right on target, so far."
+According to the plans, the staircase tunneled down deep into the bowels of Lions Rock, connecting five levels with a vast open complex in the very heart of Shih Ho Mountain.
+"Where is everybody?" Gibby asked.  "I'd have figured Red Hammer would be shielding every possible entrance."
+"Maybe it's a trap," Reaves said, uneasily.
+"Let's go--" Winger gave the order.  "Down the stairs."  
+A moment later, Reaves saw an instrument twitch on her wristpad.  "Uh oh--pressure pulse.  Somebody…or something's ahead."
+"I see it…"Winger steered the formation ahead cautiously.  "Big spike…moving a lot of air molecules.  People, most likely.  More than one--"
+"Disperse, sir?" Gibby asked.
+Winger shook his head.  "Guard detail, most likely."
+"They may have detected us…" Reaves suggested.
+And they had, for at that very moment, the visual lens was disrupted and the view was lost.  Four guards had swept up the stairs, mag guns drawn, scattering the formation for a moment, notified of a breach at the northwest service entrance.  If they got there--if they saw the MOBnet--the whole place could be alerted--
+"Execute a clampdown!" Winger yelled.  "Smother 'em so they can't breathe!"  He signaled DPS to get ready in case the camp came under fire.  "Replicate max rate…carbenes and radicals at the ends…blanket the place!"
+Gibbs was manning the config controls.  He sent the command, silently praying this version of ANAD would perform the clampdown properly. 
+In seconds, the air itself burned with the pressure of exponentially dividing ANAD replicants; a heavy, searing weight pressing down on everything in sight.  
+Deeper in the tunnel, a small force of Red Hammer guards tried to scream.
+The defenders, unable to react, clawed at their lungs and faces and staggered back from the service entrance, pitching backward, ears and eyes bleeding from the pressure, suffocated by ANAD.
+It was all over in less than a minute.
+Winger waited until the clampdown was lifted and, on command, ANAD began to disperse.  "Put the MOB on 'em," he told Mighty Mite.  "Keep 'em secure right there.  I don't want any more alarms going off."
+Corporal Barnes tapped the commands on her own wristpad.  "Done, sir.”
+"Form up again," Winger told Gibby.  The sergeant commanded trillions of ANAD assemblers to swarm into formation again, a faint coruscating iridescence pulsating through the air.  "Let's move on--"
+"Transiting, sir…transiting in motion.  I have the formation…visual element up…" he squinted at the grainy image on the viewer, tweaked it a bit--"…looks like big doors ahead…"
+"Very well."  Winger checked his eyepiece.  "SOFIE says it’s the growth complex.  The scope works.  If she's right, we could be in for a scrum, right here.  DPS, SDCs, front and center!"  And here's my chance to duke it out with enemy mechs.  He had to remind himself they had come to get intel, not create mayhem.  "Where are my coil-guns?"
+"On the way, sir," Barnes said.  She was running her own defense force behind and around the ANAD group…a team of coil-gun microbots hovering all around the assembler swarm.  "I'm bringing up a whole battery…."
+On her hand signal, Winger commanded the bots to fire.  Barnes crossed her fingers and prayed.
+Deep below them, Shih Ho Mountain had a fire in its belly.
+The riveted polysteel doors ahead cracked open, dissolving in a spray of flame and splinters.  Inside the huge cavern, sporadic small arms fire erupted but Winger had done his tactical homework.  The shooters had nothing material to shoot at.
+Reaves pursed her lips.  "So much for a covert entry.  I guess the neighborhood is awake now."  She felt her neck hairs tingle.  Combat did that to people, even when the enemy was a billion times smaller than a human being.
+ANAD poured into the cavern.  Winger ordered a portion of the swarm detached for perimeter guard, securing all ways in and out.  "Let's you and me part company, Gibby."  
+Gibby acknowledged.  "Executing swarm division now, sir."  With a few commands, the ANAD horde divided itself into two groups, one piloted by Gibby, the other by Winger.  The Lieutenant took a seat next to the sergeant, flexed his fingers, ready to joystick the troops into battle.  He massaged the visual element a hair, taking a look around the complex.
+The place was a vast cave, hewn right out of the bowels of the mountain.  Rows of growth tanks lined the floor, wall to wall, with huge leafy plants suspended in each tank.  It was the scope works, all right.  The mother lode and Red Hammer's main bank, all in one.  At the far end of the cavern, a pocket of Red Hammer technicians struggled to get up, stunned and gasping for air from the clampdown.
+Gibby saw them first.  "Enemy ahead…three o'clock…I count four--"
+"Weapons?"
+"None that I can see, sir."
+Winger checked the time.  Fifteen minutes.  They'd made better progress than he'd hoped for.  "MOB 'em.  Secure the whole cave.  Let's go hunting."
+From her station behind the ICs, Barnes acknowledged the order.  With her own wristpad, she took control of a small portion of the ANAD force, accepting replicants as fast as the master could slam atoms together and churn them out.  She detached the force and tapped out a command sequence…in seconds, the swarm under her control had reconfigured itself.  A fine smoky mist formed overhead, oscillating in and out of view.  Barnes took a fix on the Red Hammer techs and fed the coordinates to her brood.  The smoke pulsed and throbbed like a thing alive, then floated over and descended on the enemy, forming a Mobility Obstruction Barrier around the helpless group.  ANAD assemblers interlocked into an amorphous gel, cordoning off the technicians in a flexible prison cell of tightly bound assemblers.  Several techs clawed at the MOB, to no avail.  They were steadily forced down to the cavern floor and immovably secured there by the ANAD screen.
+"MOB in place, Lieutenant."
+"Very well…Gibby, what's up?"
+Gibbs had caught sight of something, a twitch in one of ANAD's sensors.  "Sounding pressure change.  Uh-oh…sounding heat pulse, big time heat pulse…looks like the cavalry's coming--"
+Even on the grainy image of the visual element, the throbbing mass forming in one corner of the cavern was evident.  It boiled out of the shadows like a thing alive and swept forward, closing fast to engage the ANAD swarm, Gibby's swarm.
+"Stay with 'em!  Hold your position--"
+Gibby's force took the full brunt of the assault.
+"Oh, Lieutenant….looks…like…I…GOT…MECHS!"  The sergeant's fingers flew over the keyboard and control sticks.  "Making a cage…all effectors out max…I am in automaneuver…"  He punched out commands, setting up his group of assemblers with full shields of fullerene arms, each one bristling with sticky molecules, juiced with torqued bonds, ready to zap all comers.  Even as he configged the swarm, Winger piloted his own group away from the melee, trying to flank the enemy, pinch off the assault from both sides, a pincer movement at atomic scale.  
+The boiling swarm of Red Hammer mechs closed with ANAD and flung themselves with fury against Gibby's shield.
+Gibby's fingers flew over the controls, managing config, pulling more atoms to add shielding, all the while fighting off thrusts and slashes from the enemy mechs.  
+"Change config!" Winger yelled.  "Do it now…Tactical Two--"
+Gibbs sent the command, ANAD trying to confuse the enemy swarm by shedding outer atoms in one big puff.  They'd wargamed it before…it didn't always work--
+Twenty meters in the air, trillions of ANAD assemblers received the same instructions: alter configuration to this design…grab atoms…cleave this group…fold here…build lattice here…the air churned with furious activity.  The cavern was suddenly bathed in an unearthly pale blue light as vast but unseen armies collided.  The gotterdammerung pulsed like a flickering aurora as the swarms clashed head-on.
+"What the hell?"  Gibby frowned as he fought the controls, tickling propulsors, spinning ANAD, managing effectors…"I can't grapple the damn things!"  Sweat broke out on his forehead, in spite of the cool night-time air rolling up the mountain side from Victoria harbor.  "It's like I'm too short!  Sluggish.  Lieutenant, check my config…what's wrong with my effectors…what the hell am I doing wrong here!  I've got no probes, grapples, it's like my pyridines are minus a few atoms--!"
+A voice behind them--"Lieutenant Winger, we got trouble."  Corporal Nguyen had jogged back to the interface control station.  "MOB net's wearing off.  DPS1 just has enough for one more discharge.  I'm out."
+Winger looked at Buddha.  "What the hell…those canisters were loaded full before we embarked.  Deeno…get over there…see what's going on?"
+D’Nunzio's eyes never met Winger's.  "Right away."  She bounded up the staircase and off toward the edge of the camou field outside, and dived into the lifter, rummaging for fresh MOB charges.
+"And we got company," added Mighty Mite.  Corporal Barnes was tweaking a grainy image on her eyepiece, taking a feed from the scout mechs circling the top of the mountain.  "Superfly says enemy force is outside the Rock, on the mountain top, closing on our position."
+Just friggin' wonderful.  "How many?" Winger asked, swearing as he fought the stick to free ANAD from entrapment.
+"At least a platoon, sir.  Moving across the top of Shih Ho from the southwest.  Must be an exit we didn't map."
+"Bots and HERF guns?"
+"Already moving up, sir.  We're strengthening our behinds too, just in case."
+"Very well…stand by."  Winger glanced over at Gibby.  "Sergeant, any replicants working?"
+Gibbs threw up his hands.  "I sent the right command.  Enemy caught me right in the middle of a rep.  It's a friggin slaughter, sir…I'm losing signals everywhere--red across the board!  Most of 'em didn't get fully assembled!"
+Winger was growing more frustrated by the moment.  Gibby needed help…but his swarm was falling apart faster than he could close the pincer.  "I can't explain it either.  No electron lens…no enzymatic knife…hardly any effector control.  It's like ANAD's becoming crippled."
+"Lobotomized, sir.  I can't hold at all.  I'm showing propulsor failure, major bond breaks, shielding's gone…main structure being disassembled…we've got to withdraw now--"
+"Not yet!"  Winger was determined, his face set in grim concentration, fingers flying over the keyboard.  "Gotta close the trap…got to get in and get data…probe the bugger, get some structure on him…if I can just get my pyridines stabilized--"
+"Lieutenant, look out!"
+Across the base camp, a squad of Red Hammer guards had breached the camou field, slicing through the mesh in a flurry of arms and legs and shouts.   The muzzles of laser carbines flashed in the faint light.  Beam fire erupted across the ground.  
+Winger and Gibbs ducked as the first volley narrowly missed the IC station, carving out a seam in a boulder field behind them.  Rock and debris exploded, flying everywhere.
+Sheila Reaves and An Nguyen dove for cover behind the boulders.  Reaves rolled, found an opening between the rocks and squeezed off a few coil-gun rounds.  The programmable kinetic slugs slammed into the lead Red Hammer guards before detonating.  The concussion was deafening as smoke and body parts scattered.
+"Keep 'em pinned down!" Winger shouted.  "I'm trying to help Gibby out--"
+"Nothing left to pin down, Lieutenant," Reaves called back.  Her aim had been true, sighting in the rounds after slaving the slugs to her tracker.
+"Superfly's got nasties all over the place," Buddha Nguyen watched the remote infrared take on his own eyepiece.  "All over the top of the mountain…they'll be on our perimeter in no time, unless we get some help from ANAD."
+"ANAD's busy, Corporal." Winger told him.  He brushed himself off, climbed back to the IC station and grabbed a joystick, maneuvering his force closer to what was left of Gibby's.  The sergeant was still skirmishing with the remnants of the force.  Good man…hang in just a few more seconds…."--got to map this sucker and fast, before he chews up ANAD for good.  Just keep those Red Hammer scumbags off my back, will you?"
+"Yes, sir…we'll sanitize the area right now."  Nguyen and Reaves grabbed Mighty Mite to set up HERF guns covering every direction.  With enough warning from Superfly, they could hold off a sizeable force for awhile using the radio frequency stun fields.  But only for awhile.
+Winger piloted his own swarm right into the heart of the melee.
+"Whatever you are," he muttered to himself, "you act one helluva lot like ANAD."  He worked the config controller, at the same time pulsing in and out of contact range with the main enemy group, slashing and weaving, scrunching up atoms and twisting bonds to zap the bastards with their own electron charge.  
+Keep coming, you atomic assholes…keep on coming…right into my hands--
+He bored right into the heart of the enemy horde, slashing left and right.  
+Winger drove ANAD deep into the formation.  He cruised in at flank speed, propulsors whining, and seized a phosphor group off the nearest mech, twisting atoms until the bond broke.  Liberating thousands of electron volts, ANAD's disrupter zapped the mech and shattered its outer shell, ripping off probes left and right.  The Red Hammer assemblers shuddered and spun with the pulse, then re-engaged to fight off another bond snap.  Throughout the cavern, trillions of ANAD replicants duplicated the same tactic.  
+The air burned with furious combat.
+Gibbs was exultant at the maneuver.  "Eat my carbene effectors, you jerks!"
+Winger grinned in spite of himself, deftly steering through the floating detritus of shredded assemblers.  "Gotcha…" He changed config, realizing he had to grab one of the mechs before it was completely disassembled.  "…right with your pants down."
+Like a backhoe scooping up dirt, he closed on the nearest mech and extended his cage effectors to grapple.  This command was not duplicated by the rest of ANAD; Winger wanted his army to finish off the enemy formation for good, while he grabbed a mech for analysis.  He armed the ANAD master's carbene fingers and set to work, folding and tucking the enemy device neatly into a scaffold nestled in its base.  
+Like a carpenter fitting a door frame, Winger pronounced himself satisfied.  He heaved a sigh of relief.  Gibby's swarm was gone, nothing but atomic fluff now and his own force probably wouldn't be able to fend off another determined assault.  For the moment, the Red Hammer swarm—HNRIV--whatever they were--had been immobilized by the ferocity of ANAD's attack.  Working with Gibby, he'd managed to pinch off a small portion of the enemy force and isolate it, then smash it atom from atom.  
+But how long would it be before Red Hammer regrouped?
+Behind him, he heard more voices echoing across the boulder fields on top of Shih Ho Mountain.  Distant beamfire ripped the air, just over the edge, as bots engaged enemy making their way up through the crevices and folds of the hill.  Red Hammer was moving in and remote coil guns were going off all over the place.
+Time to get the hell out of Dodge.
+Winger sent final commands for all ANAD replicants but the master to commit seppuku, disassembling themselves into atomic fluff, and hand motioned Mighty Mite Barnes to get TinyTown ready for a combat extraction.  
+"Quantum collapse, Lieutenant?"
+Winger shook his head.  "No way, Mite.  I've got precious cargo with me…the innards of one of the mechs.  We need it to study.  Soon as ANAD's inerted, I'm pulling the plug."
+"Understood, sir."  Barnes was already off and running, hustling the TinyTown unit into position by the edge of the mountain.  In a few minutes, the ANAD master would be exiting Shih Ho's northwest service entrance in one hell of a hurry.  It was her job to capture the master and secure it.
+Barnes moved the containment pod into position while Winger readied the assembler for the trip out.  Speeding back up from the depths of the Lions Rock, a faint green phosphorescent glow boiled out of the side of the mountain.  The green light became a fuzzy patch of fog and drifted upward toward the camp.  As it came level with the camp, Barnes readied the pod for insertion, signaling ANAD to configure itself for capture.  The coruscating green fog intensified in glow, becoming a pearly white, as ANAD shut down systems and sloughed off unnecessary atoms.  Deep inside the master's carbene embrace, the kernel of the Red Hammer mech was still imprisoned, still ticking over, ready to burst out at the slightest chance.  ANAD would not give the mech the slightest opening to squeeze out.
+There was a breeze around the pod as the pressure pulse cleaved the air.  In an instant, ANAD had transited the capture tube and plunged into the soothing home waters of the TinyTown container, still clinging to its prey.
+Barnes capped and stowed the end of the tube and stabbed a button, sealing the tank.  "Got 'em, Lieutenant!  Safing now…pressure coming up, temps okay, pH in the green.  ANAD's sealed in and safe."
+"How about our little guest, Mite?"
+Barnes grinned.  "Caught like a fly in a spider's web."
+Winger was already snapping shut the IC panel, even as he powered down.  He hung the control pack on a sturdy wire frame slung off Barnes' back, buttoning down the catches.  When he was done, he slapped Mighty Mite on the shoulders, then got on the crewnet.  
+"DPS1, what are our options?"
+Reaves' voice was breathing hard.  She had been sprinting from one weapon site to another around the mountain top, trying to keep the camou-fog up, the weapons trained, and the bad guys off the summit.  "More company, Lieutenant.  I'm down to a few charges left on the HERFs.  Mags and coil guns are okay, but the camou's giving out.  Red Hammer's pushing in a dozen places…some kind of mech attack…but so far, the barrier's holding.  It won't last much longer."
+"We've got what we came for," Winger said.  "All hands…grab your gear…let's exfiltrate like hell!"
+Buddha Nguyen was dismantling one of the HERF guns, to shrink the perimeter around the lifter, as the rest of the unit collected and stowed their equipment.  The mission was done; now it was up to him and Reaves and their Superfly scouts to get 1st Nano out of harm's way.
+They scrambled across the rocky escarpment, even as Red Hammer mechs probed the barrier around them.  Seconds later, the first breach occurred as the camou-fog generator ran out of steam.  A thick black horde darkened the night sky and trillions of enemy mechs poured through the gap.
+"Fry 'em!" Reaves yelled back to Nguyen.  Buddha re-sighted his HERF gun and lit off a charge.  The thunderclap of the discharge sent searing waves of hot air roaring across the ground.  Winger and the rest of the unit flattened themselves against the mountain top, letting the pulse pass.  It was like riding out a tornado.
+For the next few minutes, they fought a series of running duels with Red Hammer's flying mechs, all the way to the very edge of Shih Ho Mountain.  Below and behind them, night time Hong Kong lay liked a jeweled carpet, Victoria Peak festooned with lights as the din of midnight traffic from the streets below wafted skyward.
+"Bots!" yelled Nguyen as the first of the Detachment made the lifter with their gear.  "Here they come…hit the deck!"
+Johnny Winger swatted at the clouds of stinging mechs closing on their position.  Red Hammer had discharged clouds of the mechs around the top of the mountain, hoping to penetrate the Quantum Corps barrier and snare the intruders before they could escape.  ANAD had already been safed and inerted inside TinyTown.  It was too late to launch countermeasures.
+"Fall back!" he shouted, running for cover.  "Fall back to the lifter!"  He got on the crewnet.  "Helix One," He yelled to the lifter pilot-- "get that jalopy spooled up fast!  We're making a run for it!"
+The Red Hammer horde of micron-sized bots fell on the Detachment with a fury.
+"Arrrggghhh--my head--!" cried Deeno D'Nunzio.  She stumbled across the rocky ground, slogging through the lifter's downwash, as she flailed wildly at the swarm engulfing her.  "--my eyes!--"
+Winger dove for D'Nunzio and flung her to the ground, covering her body with his.  He heard the high keening whine of trillions of mechs buzzing at them.  They were dumb bots, without the smarts or the assembler coding of an ANAD, but dangerous all the same.  Unprotected, a soldier had about ten minutes before his skin was flayed open and he was sucked dry by the little bastards.
+"Reaves?  Where's Superfly?"
+"Assembling now, sir!"  DPS's voice was shaking, as she pecked out commands on her wrist keypad, calling the unit's own microfliers to the rescue.  Superfly couldn't match the Red Hammer mechs in numbers, but it could drive a wedge in the enemy swarm, carve out a bubble and let the troops make it the last few meters to the lifter.
+Reaves swung and swatted at the buzzing cloud around her head, finally sending the command to the lead bot.  From well down the slopes of Shih Ho Mountain, a mass formation of mite-sized fliers formed up and raced up the escarpment, homing on Reaves' transmitter, seeking gaps in the camou barrier.
+Deep in her bones, Reaves shuddered.  Come on Fly, get…up…here…now….she could feel the mechs whirring away on her neck and forearms--"get the hell up here…."
+Suddenly, the air thickened to a gelatinous mist and the shriek of the mechs became unbearable, tearing at their eardrums.  The nighttime glitter of Kowloon dimmed momentarily as Superfly swarmed onto the mountaintop and enveloped the Detachment.  The shriek of the attack screeched into inaudibility, a scream of rage no longer heard but felt in the interstices of every bone of her body.
+"Attack config--" she squeezed out, nearly out of breath, burrowing as deep as she could against the cold rock of the mountaintop.  "Give it to 'em, Superfly!  Right in the chops!"
+The onslaught slackened for a moment, but it wasn’t enough.  Too many bots.  Reaves groaned, pressing forward, finally crawling and clawing at the barrier that had fallen into place around the lifter.  The thing glowed blue-white and every time she pushed, it pushed back.
+They weren’t going to make it.
+“Come on…push--!” Winger cried out over the crewnet and as one, the troopers of 1st Nano propelled themselves forward for one final lunge.  That’s when the Red Hammer MOBnet dropped out of the sky and draped itself over the lifter and every one of the troopers.  One by one they were forced down to the ground, squeezed, crushed, flattened, trampled and compacted as uncountable trillions of enemy mechs pressed them to the ground.
+Only D’Nunzio and Mighty Mite Barnes were able to slip out from under the net…barely.  They scrambled together on all fours, at first clawing their way across the rocky ground, then breaking into a run.  Unseen, they headed up a narrow winding path, up toward the Han dynasty castle that dominated the peak of the mountain. Still somehow undetected, they plunged through a ground-level window, and fell heavily to the floor of a darkened room.  There, they waited, listening for the shriek of mechs, the high-keening buzz that would warn them of an approaching swarm.  
+They heard nothing but the crackle of HERF guns, then…the deafening concussion of a fiery explosion.  
+For the moment, it was all over…but the screaming.  That went on for a few more minutes, as Red Hammer troops scrambled up on to the top of the mountain.  Coilgun fire lanced the ground and Johnny Winger stopped squirming when one of the beams gouged out a seam of rock and dirt.  Chips and debris flew into his eyes and he was momentarily blinded.  The lifter was hit too, and its fuel tanks cooked off, erupting into spires of flame which seared the ground for fifty meters all around.
+Cautiously, like ghosts in a twilight horror movie, the Red Hammer troops advanced forward through burning pyres and smoke and flickering fog.  Winger squirmed and pushed against the MOB barrier for as long as he dared.  Then a single trooper bent down to where Winger was pinned to the ground.  He used the end of his carbine as a bayonet and poked and prodded at the Lieutenant.  When Winger resisted and kicked out at the trooper’s leg, the Red Hammer soldier discharged his weapon right into the MOBnet.
+Before he blacked out completely, Johnny Winger felt like he had fallen into a vat of a billion boiling needles.  The mag weapon had fried his skin and he soon went tumbling and falling down a deep spiraling tunnel, into unconsciousness.
+
+He awoke to a feeling of spiders crawling all over his skin.  Slowly, he lifted his head.  He saw faces—with effort, he could make out the faces of Gibbs and Nguyen somewhere in the distant, distorted faces like a circus funhouse.  But this was no circus funhouse.  With a groan, he realized that when he saw solid rock walls behind their faces.  
+They were in a holding cell inside Lions Rock.
+Hands helped him to sit up.  They belonged to Gibbs.  Nguyen dabbed something wet on his face.
+“Take it easy, there, Skipper.  You’re were magged pretty bad up there—“
+Winger sank back and rested.  “Where are we?”
+Gibbs shrugged.  “A cell.  Made out of rock walls.  Red Hammer did something up top…overwhelmed ANAD…dropped a MOBnet on us through some kind of seam they found or created in our defenses.”
+“What…what happened to ANAD.”
+Nguyen shrugged.  “We don’t know, sir…but best guess is that Red Hammer has the master.”
+Winger took a deep breath, rubbed his stinging eyes.  His skin was red, tender where the magnetic loops had burned him.  “Great.  Just friggin’ great.  How about Barnes, Deeno, Reaves…where are they?”
+Gibbs was running hands all along the rock wall, feeling for any kind of seam, weak spot, a Get Out-of-Jail button, anything.  “We don’t really know, Skipper.  Either dead, swarmed or like us, in a cell.  Unless somehow they got away—“
+Johnny Winger made a herculean effort to stand and managed to pull himself upright.  He was about to join Gibbs in examining their cell when a commotion sounded outside the cast iron door.  Someone was coming.  There was a brief flash of light.  
+The door rattled and its lock squealed.  The door swung open.
+There stood Jiang Hao Bei, Security Affairs Commissioner of the United Nations.  UNSAC.
+Winger forced his fingers to unclench.  “The rumors were true.  I see you’ve found a new employer…sir.”
+Jiang scowled.  “And they pay well, Lieutenant Johnny Winger.  Welcome to Lions Rock.  I trust you’re finding the accommodations suitable.”
+Winger had taken an instant dislike to Jiang, though he had never met UNSAC in person.  The Commissioner was a short, rotund man, balding on top.  Scuttlebutt had it that UNSAC dabbled in some kind of unpronounceable martial arts discipline…Tibetan in origin, went the stories. 
+“We have one of your mechs, sir…it seems to be an ANAD clone.  We’ll be examining it and developing countermeasures soon…Table Top won’t take long to put this whole circus out of business.  And where are the rest of my troopers?”
+Jiang seemed to fill the entire door, though Winger could tell there were guards just outside.  He could see the reflections of their gun muzzles in the iron hinges of the door.  “I doubt that, Lieutenant.  As for the rest of the Detachment, rest assured they’re well…at least as well as you are.  We have them in similar quarters.  We’re not animals here, you know.  You’ll be treated properly…depending, of course, on how willing you are to cooperate with us.”
+“Won’t be happening, sir.  We’ve still got ANAD with us…and we’ll be taking leave of your hospitality as soon as we can…”
+Jiang’s hard-edge resolve seemed to momentarily weaken, but perhaps it was only a shadow.  He checked with one of the guards, conversing in some dialect Winger had never heard, then turned back to the troopers.
+“Oh, I doubt that, Lieutenant.  You were all thoroughly scanned before you became our honored guests.  No, I’m sure we’ll be working quite closely together on many projects…I have so many ideas, actually—we’ll have to talk over dinner—really, I can’t wait to discuss them with you.  You’ll be my guest for quite some time here, I’m afraid.”
+“Unwilling guests.  Quantum Corps knows all about your little lion’s den here.  They’ll be swarming all over this mountain in a few hours, maybe sooner.”  He didn’t want to go any further, but he knew that Major Kraft had upgrades to ANAD in the works already; he was confident ANAD 2.0 would soon make quick work of whatever Red Hammer could put out.  
+Now, Jiang turned serious.  His face hardened in the dim light, looking for all the world like a statue…or maybe it was just nanoderm patches…Winger had heard of people spending fortunes for the things…bots in your facial tissues sculpting you into any look you could afford.  It was already a Red Hammer monopoly throughout Shanghai, Djakarta and much of east Asia.  No more facial recognition when you could have any look you desired in a few hours…and change it again tomorrow.
+“Perhaps, Lieutenant, but I’m afraid you’ll be staying with us indefinitely.  No one gets out of Lions Rock without the Keeper’s permission.  And who knows…when we’re done with our discussions, you may yet be able to actually play out your vaunted Quantum Corps rally cry: small is all.  In truth, Lieutenant, our Red Hammer mechs can make you quite small…small as an atom, in fact.”  
+Winger waited for some kind of diabolical laugh to follow, but Jiang just glared at him like a mad bullfrog, cheeks puffed out and face red.  He sniffed and wheeled about and the door was slammed shut with a loud clang.  Pale blue light flared beyond the door and Winger knew immediately what that was…a mech barrier.  
+They were trapped but good inside Lions Rock. 
+Winger saw the looks on the faces of Gibbs and Nguyen and immediately felt a pang of guilt.  “I got us into this, guys, and I’ll get us out.”  He didn’t know how, and didn’t even suspect that in the days ahead, yet unknown capabilities of their smallest trooper ANAD would play a key role in fighting off the growing menace that was Red Hammer.
+For now, though, all Johnny Winger could think about was finding out if Deeno, Mighty Mite and Sheila Reaves were still alive.  
+And if there really were any ANAD bots still floating around. 
+ 
+
+About the Author
+
+Philip Bosshardt is a native of Atlanta, Georgia.  He works for a large company that makes products everyone uses…just check out the drinks aisle at your grocery store. He’s been happily married for 25 years.   He’s also a Georgia Tech graduate in Industrial Engineering.  He loves water sports in any form and swims 3-4 miles a week in anything resembling water.  He and his wife have no children.  They do, however, have one terribly spoiled Keeshond dog named Kelsey.
+For technical and background details on his series Tales of the Quantum Corps, visit his blog at http://qcorpstimes.blogspot.com.  For details on other books in this series, visit his website at http://philbosshardt.wix.com/philip-bosshardt or learn about other books by Philip Bosshardt by visiting www.smashwords.com. 
+Download the next exciting episode of Quantum Troopers from www.smashwords.com.  It’s called “ANAD.”  Available on March 21, 2016. 
+To get a peek at Philip Bosshardt’s upcoming work, recent reviews, excerpts and general updates on the writing life, visit his blog The Word Shed at: http://thewdshed.blogspot.com.

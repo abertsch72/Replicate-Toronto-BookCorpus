@@ -1,0 +1,729 @@
+﻿Quantum Troopers
+Episode 13:  Small is All!
+Published by Philip Bosshardt at Smashwords
+Copyright 2016 Philip Bosshardt
+Smashwords Edition, License Notes
+
+This ebook is licensed for your personal enjoyment only.  This ebook may not be re-sold or given away to other people. If you would like to share this book with another person, please purchase an additional copy for each recipient.  If you’re reading this book and did not purchase it, or it was purchased for your use only, then please return to Smashwords.com and purchase your own copy.  Thank you for respecting the hard work of this author.
+
+A few words about this series….
+
+*** Quantum Troopers is a series of 15,000- 20,000 word episodes detailing the adventures of Johnny Winger and his experiences with the United Nations Quantum Corps.
+*** Each episode will be about 40-50 pages, approximately 20,000 words in length.
+*** A new episode will be available and uploaded every 3 weeks.
+*** There will be 22 episodes.  The story will be completely serialized in about 14 months.
+*** Each episode is a stand-alone story but will advance the greater theme and plot of the story arc.  
+*** The main plotline: U.N. Quantum Corps must defeat the criminal cartel Red Hammer’s efforts to steal or disable their new nanorobotic ANAD systems. 
+*** Uploads will be made to www.smashwords.com on approximately the schedule below:
+
+Episode #	Title					Approximate Upload Date
+1		‘Atomgrabbers’			1-14-16
+2		‘Nog School’				2-8-16
+3		‘Deeno and Mighty Mite’		2-29-16
+4		‘ANAD’				3-21-16
+5		‘Table Top Mountain’			4-11-16
+6		‘I, Lieutenant John Winger…’	5-2-16
+7		‘Hong Chui’				5-23-16
+8		‘Doc Frost’				6-13-16
+9		‘Demonios of Via Verde’		7-5-16
+10		‘The Big Bang’			7-25-16
+11		‘Engebbe’				8-15-16
+12		‘The Symbiosis Project’		9-5-16
+13		‘Small is All!’				9-26-16
+14		‘’The HNRIV Factor’			10-17-16
+15		‘A Black Hole’			11-7-16
+16		‘ANAD on Ice’			11-29-16
+17		‘Lions Rock’				12-19-16
+18		‘Geoplanes’				1-9-17
+19		‘Mount Kipwezi’			1-30-17
+20		‘Doc II’				2-20-17
+21		‘Paryang Monastery’			3-13-17
+22		‘Epilogue’				4-3-17
+
+Chapter 1
+“Moonglow”
+
+Farside Observatory
+Korolev Crater, the Moon
+February 3, 2049
+0700 hours (Universal Time – U.T.)	
+
+Nightfall at Korolev Crater came abruptly, too abruptly, thought Percy Marks.  He stared out the porthole of the SpaceGuard Center and watched the shadows drop like a black curtain across the face of the crater wall.  Korolev was a massive place, fully four hundred kilometers in diameter, with stairstep rim walls and a small chain of mountains inside.  Like a bull’s eye on a target, the crater lay dead center in the rugged highlands of Farside, forever banished from the sight of Earth.  
+Percy Marks watched the black creep down the crater walls and ooze across the crater floor like a spreading stain.  Somehow, it seemed so depressing…another two weeks of night with only the stars for company.  Cosmic grandeur, my ass, he muttered to himself.  Give me a beach in the South Pacific and some native girls and I’ll tell you a thing or two about cosmic grandeur.
+Marks was pulling late shift today…tonight…whatever the hell it was.  Tending the radars and telescopes of Farside Array, scanning sector after sector of the heavens for any little burp or fart worthy of an astronomer’s interest.   The High Freq array had just gone through a major tune-up last week and it was Marks’ job to give her a complete shakedown for the next few days. 
+At the moment, she was boresighted to some distant gamma-ray sources somewhere in Pegasus…where exactly he’d forgotten.
+Marks took one last look out the nearest porthole and begrudged the final wisps of daylight before Farside was fully enveloped in the nightfall.  At that same moment, he heard a beeping from his console and turned his attention back to the array controls.
+What the hell…
+Percy Marks looked over his boards, controlling the positioning of the great radars out on the crater floor and the optical and radio telescopes that accompanied them.  He quickly pinpointed the source of the beeping…Nodes 20 through 24…the south lateral array…seemed to be picking up some anomaly.  
+He massaged the controls and tried to focus the array better, get better resolution on the target.  SpaceGuard didn’t beep without reason.   Then, with a startle, he realized the anomaly wasn’t coming from SpaceGuard at all.
+It was coming from Greta.  The ground sensor net.  It was coming from the Moon itself.
+A quick perusal made the hairs on the back of Percy Marks’ neck stand up.  The system displayed a list of likely targets, based on satellite imaging and known sources.  He scanned the list, mumbling the details to himself.
+“ Hmmm….latitude 9 degrees, 57 minutes, 28 seconds north.  Longitude 20 degrees, 46 minutes, 8 seconds west---“  Just as he was about to consult the catalog, Greta threw up a map.
+Inside the crater Copernicus, near side.  Other side of the Moon.  A point source of energy had just spiked.  Probably a moonquake, but Marks noted visuals from satellite imaging….a small dust cloud or something had erupted.  Maybe a volcano…but surely not on this slagheap of a world. 
+Marks studied the details.  “This one’s a doozy--“ his fingers played over the keyboard, bringing all of Farside’s instruments to bear on the new source.  The seismic spike was showing up in all bands now: P waves, elastic modulus off the scale.  Whatever it was, it was shallow and continuing.  Something was banging the old Moon around like a drum. 
+He stared for a moment at the swelling surface cloud that had erupted on the screen in front of him.  A dozen satellites were already slewing every imaginable instrument toward the phenomenon.  Must be one hell of a source.
+Before he could decide what to do next, Marks was interrupted by the sound of a door opening…it was Max Lane, the shift supervisor.
+“I heard SpaceGuard got something--“ Lane was short, big moustache, squat legs of a former weightlifter, now going soft in the Moon’s sixth-g.  
+Marks showed him the readings.  “It wasn’t SpaceGuard, Max.  It’s Greta.  One bigass quake, as far as I can tell.  I’ve got it designated Delta C. Epicenter a few dozen kilometers south of Copernicus center.  Surface effects too…dust, landslides, I’ve already seen crater walls slumping.  Big sucker, too.  Blasting out P waves like there’s no tomorrow.  See for yourself.”
+Lane bent to the screen.  “The Chinese base again…third time this week.  What’s it called?”
+“Tian Jia…Heavenly Home.  Probably doesn’t feel so heavenly right about now.”
+Lane studied a seismic reading of the shock.  “The old Moon’s ringing like a gong.  What the hell are they doing over there?  Do we have any sat imagery of the place?”
+Marks pulled up the latest.  “Nothing good.  The base’s sited inside Copernicus.  And there’s that excavation nearby…scuttlebutt says the Chinese call the area the Tombs…lots of underground tunnels and lava tubes around there.  Nobody knows what they’re digging for.”
+“Any blasting?”
+Marks shook his head.  “Negative. All of these tremors are P waves, sideslip stuff.  Nothing compressive, like an explosive.  No, this seems to be natural, though the Chinese may be causing it somehow.  What we need is for somebody to pay them a visit.”
+Lane sniffed.  “They did sign the Treaty.  But you know how persnickety they are about others inside their exclusion zone.  We’ve flown over the site as low as satellites can go, even routed a few hoppers ‘accidentally’ nearby, but seen nothing that conflicts with the Treaty.”
+Marks watched the oscillations on the graph dampen out.  “Usually, we get one of these bangs about once a week.  Smacks the moon pretty good, causes landslides along the crater walls and stirs up one hell of a lot of dust.  Maybe we should just fly a bot or two inside Tian Jia and do a little snooping around ourselves.  I’ll bet Statler—that guy in the shop--could cobble something together.”
+Lane chuckled.  “Yeah, right, just like a spy.  I think we’ll leave that to the professional snoops.  Just log it and put it in the outbound feed to Gateway.”
+Marks did that and then, for good measure, dialed up the real time nearside image from Gateway, the big station at L2.  He chose max resolution and let the vidchip settle in on Copernicus, studying all the lights and crawlerways and domes of the Chinese compound.  As usual, much of the area was nearly obscured with dust from the tremors.
+“All those domes look like warts,” he muttered to himself.  “Warts on the moon.  Just what the hell are you clowns doing down there?”  Percy Marks didn’t know it but the very same question was being asked at UNIFORCE Headquarters, inside the Quartier-General building in Paris, nearly four hundred thousand kilometers away from Farside.
+*****
+Gateway shuttle G7 settled down on Landing Pad C with a rattling thump.  The pad was one of three located a kilometer or so northwest of Farside.  Before Alpha Detachment could begin unstrapping themselves, the bumps and bangs of the crawler snuggling up to the ship could be felt through the hull.
+Lieutenant Johnny Winger got on the crewnet.  “Detachment, button up and fall out!  Assemble at the airlock in two minutes, with your gear.  We’re going inside.”
+Detachment Alpha was all there: M’Bela, Nguyen, Tsukota (now recovered from his experience at Engebbe), Barnes, Reaves and D’Nunzio.  Winger knew they were as ready as any squad of nanotroopers could be but would it be enough?  The tasking from Major Kraft, straight from Paris the Major had said, was straightforward and to the point.  
+“It’s a recon mission, no more.  Do not engage anything or anyone without authorization from me,” Kraft had warned them in the final briefing at Table Top.  “CINCQUANT has worked out a coordinated op with CINCSPACE.  This is Frontier Corps territory so we’re not stepping on anybody’s little toes out here.  But everybody wants to know what the Chinese are up to.  We’ve got intel that Red Hammer’s on site and that they’ve discovered something unusual…nobody really knows what but there are about a million opinions.  Could be another one of those sphere-things we keep turning up.  Operation Moonglow is tasked to find out what they’re digging for in that excavation near the base.”
+Mighty Mite waddled up to Winger in her hypersuit, lugging her helmet and a satchel of gear.  “Opposed entry, Skipper?  We deploying ANAD?”
+Winger made a quick decision.  “No, this is supposed to be friendly territory…just a courtesy call on Farside.  Big smiles for the astros and the eggheads.  Plus I want to borrow one of their hoppers.  Tian Jia’s several thousand kilometers away, on the near side and I don’t much feel like walking.  But keep your embeds warmed up, ready to deploy, just in case.  And get Superfly up and operating.  I want some eyes looking over the horizon at all times, while we’re here.  It’s a cinch the Chinese know something’s up.”
+“I’m on it, Skipper,” said Sheila Reaves.  Reaves was DPS1 for the Detachment.  She extracted one of the entomopters from her sack and fingered it into operation.  As soon as the airlock opened, she’d step outside for a moment, and fling ‘Fly into the air…except there was no air.  But Winger wanted eyes and ‘Fly had lots of them, on every conceivable band.
+They boarded the crawler and were cycling through the lockout at Galileo Wing in minutes.
+Right away, they ran into an official reception committee, headed up by a swarthy man with a thick black moustache and ramrod posture.  He saluted and stuck out a hand.
+“Vijay Ramachandran, base director.  You must be Lieutenant Winger.  Welcome to Farside.  These men and women are my staff—“ One by one, Ramachandran introduced chiefs of sections, lab directors and assorted functionaries.  “We’ve got our canteen all set up for a briefing.  But first—“ here Ramachandran’s face broke into a bright toothy smile—“ we eat.  Come—“
+The canteen was done up in South Seas decorations, with palm fronds swaying in artificial breezes, ocean surf on speakers, and tiki birds chittering away in the corner.  A hand painted sign announced Fiji Islands…380,000 km.  The arrow pointed straight up.  
+They dined, snacked and drank for a while, then got down to business.
+“Our mission is purely recon,” Winger told the director.  “And it’s supposed to be covert.  We just need to borrow one of your hoppers to drop us off near Tian Jia.  We’ll take it from there.”
+The word ‘covert’ brought another smile to Ramachandran’s face.  The Punjabi cosmologist had a big booming laugh.  “Lieutenant, there aren’t any secrets here on the Moon.  You can bet the Chinese know all about you already.  Both sides keep a close eye on the other.”
+“Actually, I’m counting on that, sir,” Winger told him.  He slurped up the last dregs of his pinkish beverage and twirled the little parasol in his hand.  “Our cover—such as it is—is seismological survey.  We’ll be making little hops across the surface, all the way to Copernicus, to drop off what will look like instrument packs.  Our last hop will be some distance from Tian Jia.  From there, Operation Moonglow really gets underway.”
+One of Ramachandran’s astronomers, Stephen Welks had a slight sneer on his lips.  “I’ve heard you nano guys can look like anything with your bots…dust, rocks, birds, meteors.  Is that true?”
+Winger smiled his best recruiting-poster smile.  “Quantum Corps has many tactics and techniques to accomplish our mission, Dr. Welks.  I’ll leave the rest to your imagination.”
+The Detachment was shown to its quarters after the briefing.  There weren’t enough bunks and rooms so Winger settled for a bivouac in the Kepler Wing wardroom.  
+“Dinner’s at 1800 hours, right back at Fiji Island.  Some kind of Polynesian chicken dish tonight, I’m told…pineapple, peppers, cashews, snow peas…whatever the last shuttle from Gateway brought us…chef Ed throws it all in the pot,” Ramachandran told them.  “Sweet dreams.”
+In his own tent, Winger opened a coupler link with the Dana bot in his head.  He decided to ignore the ANAD bot in his shoulder capsule.  The two had been sniping at each other the last week and Winger had heard enough.  It was like kids arguing over who got the top bunk at bedtime.  
+“Dana, are you there?”
+***All present and accounted for, Wings…you know your limbic nerves were humming like a guitar string in that briefing…something’s got you riled up…I did a little dopamine therapy, shunted off a river of that stuff to try and keep you cool***
+“Hey, don’t do me any favors, okay?  And keep your hands off my limbic nerves.”  He reached up to draw the tent flaps closed, making sure he was reasonably isolated.  No one knew yet about the Dana Tallant master bot inside his head.  He didn’t want any troopers listening in, figuring the Lieutenant was talking to himself again.  “I was a little annoyed at the director, that’s all.  He didn’t seem to be taking the mission very seriously.  Most of these eggheads think Quantum Corps is just a bunch of well-armed boy scouts.  I’ll be happier when we get on that hopper and shove off tomorrow.”
+***Wings, sooner or later, you’re going to have to make a decision, you know…between me and that ANAD creep in your shoulder capsule.  Honestly, he’s just a child.  A barebones bot with the intelligence of a cockroach***
+“Oh, yeah and a couple of hundred configs too.  ANAD’s just part of our equipment, Dana.  You know that.  If you keep pestering me about this, I’m going to have to—“
+***Have to what?  Get rid of me?  Wings, we made a deal, remember?  I help you.  You help me.  I know some things about the Keeper…things that can help***
+That made Winger sit up.  “You think there’s a Keeper here…is that what we’re dealing with?”
+***I know there’s a Keeper here…and it’s the Big Cahuna, too.  I can feel it. And I can help out the Detachment…get you closer…get you within spitting distance, if you want***
+“You mean close enough to be assimilated.  I don’t think so.  My job’s to poke around and find out what’s going on.  If you know anything about this Keeper, spill it.  What is this Keeper, anyway?”
+***Oh, it’s so hard to describe…you know, a long time ago, I had this uncle…Uncle Tommy was his name.  We visited every week.  Uncle Tommy and Aunt Niney.  Uncle Tommy used to tell me stories before bed…wonderful stories of dragons and unicorns and faraway places. Once he told me a story of a world where everybody weighed a hundred tons...all the people were like elephants.  And he had this blanket he would wrap me in…it smelled like my old  bedroom but I loved it…Wings, that’s what the Keeper is like…memories like that***
+“This Keeper is like your old uncle…that makes no sense.  Dana, you’re a bot.  You don’t have memories.  You have programs.  You process what your program says to process.”
+***You don’t have to make it sound so clinical…why do we argue so much, anyway?  Why can’t you just listen for once?***
+“I’m closing the link now…I’ve got to get some rest…time for you to hang up, Dana”
+***No you hang up***
+“I’m not sure why I ever let you go inside…all we do is argue.  I’ve already got an embedded ANAD.  I don’t need this.”
+***You need me because you have a mission and I can help…Wings, I know the Keeper’s here…I can guide you, I can help you.  All you have to do is let me--***
+“Later—“ He snapped his head sharply, severing the coupler link.  At least, that works.  Then he closed his eyes and tried to will himself to sleep.
+But sleep wouldn’t come.
+
+The Detachment assembled the next day at 0600 hours local time at Galileo Wing’s crawler garage, with all their gear.  Director Ramachandran told them that Farside had one hopper to spare and implied that only some serious arm-twisting by UNIFORCE had made that available.
+“Mission parameters were basically worked out with Paris two days ago…outwardly, you’re a seismic survey team,” the Punjabi administrator said.  “In fact, I’m adding two of our people to the team to make it look official.  You’re making half a dozen ground stops along a path that’ll take you from here at Korolev Crater all the way around to the nearside…in fact, all the way to your last stop the far side of Eratosthenes Crater.  This stop will put you down about thirty kilometers northeast of the Tian Jia base.  From there you get off.  The hopper comes back here.  Lieutenant—“  Ramachandran yielded the podium to Winger.
+“Right,” Winger picked up the story.  “Our mission is recon.  We don’t engage anyone or anything unless fired on and then only as needed for unit defense and exfiltration.  Got that? Now as soon as Lou there—“he indicated Louis Siobhan, the red-haired hopper pilot standing alongside Ramachandran—“lets us off at Erato, we head west by southwest, right for Copernicus.”
+“Excuse me, sir,” asked D’Nunzio, “are we walking the whole thirty kilometers?”
+“Negative,” Winger said.  “Don’t worry your pretty little buns about that.  We use our suit boost…everybody make sure you’re up to spec on yours.  We head out low-trajectory, nap-of-the earth…or I should say, moon.  We spread out.  We zig and we zag…that’s to throw off any sats and drones watching.  It’s a sure bet the Chinese have the whole area covered.  Once we get over the crater wall, we head for the central peaks and assemble there.  Everybody’s got assignments.  We’re watching, measuring, digging and probing the whole area around that base.  We’re looking for anything that smacks of non-Treaty ops, non-standard, non-regulation stuff.  Unusual bot clouds.  High thermals.  High EMs.  Decoherence wakes, indicating quantum systems. “
+Buddha Nguyen was forever fondling trinkets and amulets around his neck.  “What about ANAD, Lieutenant?   Are we sending any swarms in?”
+Winger scrunched up his face, knowing the question would come and knowing he didn’t have a good answer.  “Major Kraft and the mission rules from UNIFORCE leave that up to us.  Q2 wants intel.  It’s our job to give it to them.  That means we use whatever tools we need to use to gather as much all-aspect data as we can.  So, the answer is…it depends.”
+The discussions went on for a few more minutes, then Winger called a halt to the briefing.  “Save anything else for the hopper trip.  Director, how long--?”
+“How long is the trip?”  Ramachandran rubbed some stubble on his chin.  “We’re traveling nearly a quarter of the moon’s circumference…I’d say three to four hours to Eratosthenes, with stops.”
+Winger figured it would be like taking scouts on a field trip.   He’d call it a success if he could just keep them all from annoying or killing each other.
+They rode the crawler out to Landing Pad B.  From their approach, Mighty Mite Barnes had a good view of the hopper.
+“Looks like a flying bed frame,” she decided.
+“Yeah,” said Oscar M’Bela.  “With two bread loaves on top.”
+The Detachment boarded the ship, found their spots and settled in.  The two geos came aboard last, followed by Lou, the pilot.  The geos were young, kids it seemed to Winger.  Probably grad students doing an internship at Farside.  Their names—Banner and Hershey—went in one ear and out the other.  Nobody said a word as Lou powered the hopper up and they lifted off.  As they banked and headed out across the rubbly floor of Korolev Crater toward her rim walls nearly a hundred kilometers away, Lou cheerfully informed his passengers that the hopper had a nickname.
+“Bedbug is what we call her.  It’s a long story.  She was named in a contest we had months ago at Fiji Island Canteen.  I won’t bore you with the details.”
+“Thanks” muttered Sheila Reaves.  She drew her comm cap down over her eyes and snuggled up with her hypersuit helmet as a pillow.  
+It was going to be one hell of a long, boring ride out to the jump-off point.
+
+As predicted, Bedbug zoomed low and fast over the undulating craters and gray regolith of the moon for what seemed like hours.  They made several short stops, with the geos piling out like kids at a theme park, dropping off quake sondes and seismometers and other gear, while the troopers of Alpha Detachment stretched and yawned and told bad jokes to each other.
+They had a meal of sorts half way through.  No Q rations here.  Ramachandran himself had seen to it that only the best from Farside’s kitchen was made available.  Veggie wraps, protein bars, tea, coffee and moonwater were passed around and wolfed down by everyone.
+A short nap later, Lou announced that Bedbug was approaching her final stop.  
+“All hands, your jump point’s coming up…by the way, that big jumble off to your right is Eratosthenes…the crater wall.  It’s almost—“
+But before he could finish his sentence, the hopper was rocked violently and skewed nearly one eighty around by a blinding flash of light and a strong wave, which shimmied through the hull.
+Instantly, Lou dropped his tour guide routine and bent to his panel.  His hands worked throttles and controls, flying across buttons and switches on his board.
+“What the hell—“  He cycled switches, breakers, and stabbed buttons, cursing as he did so.  “Main bus A and B undervolt…no attitude control, thrust dropping…I’m cycling the starter, I’ll try to re-light now--!”
+The troopers and the two geos held on tight as Bedbug continued her clockwise roll and yaw, cartwheeling across the craters and hummocks scant meters below.  They were losing altitude fast and as the whine of the starter turbos blasted through the cabin, Winger chanced a peak out of a nearby porthole.
+His heart leapt into his mouth.
+They were headed down, headed down fast and impact was only seconds away, if Lou couldn’t get the rockets re-started.  
+Bedbug shimmied and shuddered as she spun toward the ground.  They were only meters away from impact when Lou was finally able to flatten out their descent, just as the front of the platform struck a small hillock.
+The impact sent them spinning sideways.  Bedbug plowed into the regolith and rolled over and over and over again, bouncing several times as she gouged out a rooster-tail of dirt.  Hull panels and bulkheads groaned from the strain.  Her landing legs were quickly sheared off and seconds later, the crew compartment—the bread loaf on top of the bedframe—separated from the platform and was thrown clear.  The compartment rolled itself and after what seemed like an eternity of dirt and gear being tossed about inside, the cabin came to rest on its side butted up against the lip of a crater wall.  Dust and debris hung in the air for a long time.  The compartment outer hull had been breached and air was squealing out in a thin, high-speed stream as it escaped into the vacuum.
+There were groans and grunts as hypersuit helmets were quickly sealed.  Up front, Lou winced and held his right shoulder.  “It’s my ribs…something’s broken—“ he strained out over the crewnet.  Fortunately, his own suit had self-sealed and pressurized.  
+The two scientists—Banner and Hershey—were even worse off.  Banner lay on his side, half-covered by part of a seat.  His neck was broken.  Hershey had severe cuts and lacerations and his own suit wasn’t properly sealing.
+Ozzie Tsukota noticed it first.  Without waiting for orders, he launched his own ANAD, which quickly formed up a glistening fog inside the cabin.  With a few quick pecks at his wristpad, Tsukota commanded his embed into a sealing configuration.  The swarm drifted over to Hershey’s suit, to the seam that had been torn and settled like morning fog over the opening.  In a few minutes, the air escaping from Hershey’s suit had been pinched off and the geo was moving cautiously to crawl over to see about his colleague.
+“Get another patch on that hull breach!” Winger commanded over the crewnet.  “Let’s get this place buttoned up and liveable.”
+“Where are we?” asked Mighty Mite Barnes.  She stole a glance out the porthole, saw low hills on the horizon and watched mesmerized as the dust gouged up by Bedbug’s impact slowly settled around them, like a slow-motion rain.  
+“Looks like the middle of nowhere,” D’Nunzio offered.  She helped several others up.  
+“Hey, something’s happening—“ it was Nguyen, forward of the others, nearly buried under what was left of the instrument panel.  “My embed’s coming out—“  Nguyen sent commands to his own ANAD to stay put, stay in containment, but the tiny master bot heeded no commands and launched itself.  “What the--?”
+“Me too,” muttered Reaves.  The CQE swatted at her left shoulder, trying to keep her own embed from emerging but it was no use.  
+Half the troopers reported the same thing.   Their embedded ANAD systems had somehow become activated and were launching themselves without command.  
+The air inside Bedbug was soon thick with the swarms, mixing with the clinging dust that was choking everybody.  
+Winger’s own embed seemed stable but a chime in the back of his head meant the Dana bot was online.
+“Yeah…what is it?” he asked in a low voice.  “What the hell’s going on around here?
+***Reporting strong signals in the area, Wings…quantum signals…can’t get a bearing yet, but the signals are washing out everything…could be the Keeper***
+“The Keeper…we’re still a long way from Tian Jia, Dana.  How could the—“
+***Distance is nothing in quantum comms…you should know that.  I’m feeling it too…I’m re-locating to the anterior side of your limbic system now…just give me a few minutes***
+“Leave my limbic system alone, Dana…in fact, why don’t you just come out and join the crowd—“
+***You mean that…oh, Wings, you don’t know what that means to me…a girl’s got to breathe, you know…a girl’s got to be with  her friends***
+“Just do it quietly…I don’t want anybody to be creeped out.”
+***I’ll be quiet as a mouse***
+Moments later, his eyes teared up and he felt a slight sting behind his eyelids as the Dana bot exited his head.  For a moment, there was a brief cloud inside Winger’s helmet, like a dingy fog swirling behind his face shield, but it dispersed and no one seemed to notice.  The Dana swarm headed for his neck ring, forced its way through a seam and emerged into the dust of the cabin unseen by anyone.  Only the slightest flicker in the dust betrayed her presence.
+ Bedbug’s hull had been shattered in the impact but all hands had self-sealing suits and no one had been lost to vacuum exposure.  But there were plenty of injuries.  Banner’s was the worst.  Already, Tsukota and M’Bela were trying to direct their own already-launched swarms into Banner’s suit, to form a life barrier inside and keep the poor scientist from going into shock.  He was having trouble breathing and his face was ashen and pale, even inside his helmet.  His head lay at an impossible angle and he reported that he couldn’t move his arms and legs.  
+“Could be a spinal injury,” Tsukota reported.  “He needs to be lifted out of here.”
+Winger knew he had some critical decisions to make.  Should they abort?  Operation Moonglow was created to gather critical intel on the Chinese base and what they were trying to excavate nearby.  If it was another sphere—or even a Keeper unit, as Dana thought—Quantum Corps needed to know it and soon.  There were indications that Red Hammer was on site at Tian Jia, maybe even running operations there.  They couldn’t let the cartel gain any more advantage from whatever technology their offworld benefactors might have.  
+But there were serious injuries among the Detachment.  Lou Siobhan was out of commission and the selenologist Banner was getting more critical by the moment.
+What had happened to Bedbug?  Had the Chinese shot at them?  There had been a flash of light just before the hopper went crazy and crashed.  Particle beam, perhaps?  Magpulse?  
+Moreover, did they have enough able-bodied troopers to complete the mission?  And what was happening with the embedded ANADs?  Maybe Dana was right.  There might be a Keeper nearby that could influence ANAD systems in some way they couldn’t detect.  It wasn’t really so far-fetched.
+“Skipper—“ it was Ozzie Tsukota, still bending over the body of Banner.  “Skipper, he’s not going to make it if we don’t get him some help…ANAD can only do so much.  I think his windpipe’s crushed…he’s paralyzed…ANAD’s inside—I’m using a respirocyte config—but it may not be enough. My ANAD’s acting strange anyway, I have to send commands several times…anyway, Dr. Banner needs help…fast.”
+“Okay,” Winger made his decision, “here’s what we’re going to do: Ozzie, you stay here with the injured.  Send a coded message to Farside that we need a medevac ship here as fast as possible.  The Chinese should pick that up and while they’re observing that, the rest of us will move out on our original mission.  I don’t want to risk another attack like this, so we’ll go overland.”
+Mighty Mite Barnes looked out the cracked porthole at the undulating terrain.  “Skipper, the crater walls of Copernicus are about ten kilometers from here.  How close do you want to get?”
+Winger said, “The mission rules leave that up to us.  We can boost that ten kilometers.  I’d at least like to get inside Copernicus, maybe even down to the mountains at the center.  But we’ll have to split up, to keep from attracting too much attention.  There will be six of us, so we’ll split up into equal sectors, and approach from six different bearings.  And stay low, when you boost, under ten meters if possible.”
+“That’s pretty dangerous, Lieutenant,” Nguyen noted.  “With all the low hills and boulders the size of houses around here.”
+“I’m aware of that,” Winger said.  “And we’re going to use that, use the terrain to our advantage.  Once inside the crater, hold your position and we’ll see if we’ve triggered any reaction.  Now, everybody get your ANADs back into containment.”  He didn’t tell anybody about the Dana bot and her little swarm.  But over his own coupler link, he said Dana, stop fooling around and get back inside my head.  We’ve got a mission to complete.
+***Wings, I think I’ll just stay outside for a while longer…lots more room out here…you know us swarms like things loose***
+Winger tried to stifle an expletive: We’re getting ready to boost out of here…if you want to come along, you might want to come back inside.
+***Very well, if you insist--***
+Moments later, the same stinging in his eyes proved that the master bot and most of her brood had poked their way back into his head.
+“Skipper, I’m having trouble recalling my ANAD,” Reaves said.  She already had the capsule port open on her hypersuit shoulder.  “He’s not responding.”
+“Same with me,” admitted M’Bela.  “Something’s interfering with the coupler link.”
+Winger had a suspicion that Dana had something to do with that, but he didn’t say as much.  Instead: “Try your emergency override commands.  It’s the Excalibur file…use those.”
+After a few minutes, and with some complications, all the troopers reported that their ANAD masters were finally coming home and leftover replicants were self-destructing.  The dust and the twinkling fog had begun to clear inside the shattered cabin.
+Tsukota reported, “Skipper, I just sent a medevac alert.  Farside hasn’t responded yet.”
+“Keep trying.  We won’t move out until they do.”
+Tsukota repeated his emergency calls.  “Any station, any station…this is hopper Bedbug, declaring a level one emergency.  We have casualties here.  Any station, any station…Bedbug transmitting in the clear from—“he rattled off the latitude and longitude from the nav screen  “—declaring a level one emergency.  Mayday, mayday—“
+They didn’t have long to wait.  Even as Tsukota was rummaging through the rations locker in the aft galley, the radio crackled to life.
+“…Bedbug…this is Hopper Rescue out of Farside Station.  We are inbound, closing on your position…descending through ten thousand…Bedbug, turn on your approach beacon immediately, if operable…we’ll maneuver and land as close as we can—“
+The pilot, Lou Siobhan, located the powerful lights and switched them on.  Outside, the rock fall and canyon walls were bathed in a yellow glow.  From ten thousand meters up, Bedbug would flare like a supernova in the black of the oncoming lunar night.
+Tsukota and Lou settled back to munch on some crackers.  They both knew the next few hours would be grueling and nerve-wracking.  But at least they had one satisfaction.
+One by one, the rest of the troopers were already squeezing their way out of the wreckage that was the little hopper cabin and boosting off into the distance on low, flat trajectories, scattering in every direction to approach Tian Jia from multiple bearings.
+Operation Moonglow would go on.  
+
+The closer he got to the Chinese base, Winger found the more active and agitated the Dana bot in his head become. 
+“Dana, what the hell are you doing up there…my head feels like it’s in a vise.”
+***Wings…it’s…have you ever felt like there’s just something you’ve got to do…compelled to do?***
+“Sure.  That doesn’t mean I always do it….ugggghhh!”  He’d cut that pass a little close, his boots snagging the top of a boulder half hidden in the depths of a crater.  He yawed sideways until his suit gyros stabilized him and put him back on course.  Clad in a hypersuit, boosting with each leap, Winger was making giant strides toward his target, literally fifty-meter leaps across the rubbly terrain, a land of churned-up regolith, rolling hills that looked like sand dunes at the Outer Banks and black shadows.  The sun was low on the horizon and most ground detail was washed out.  He knew the edge of Copernicus was somewhere ahead—he could see the far crater walls in the distance, terraced and slumped with eons of landslides, but judging distance was nearly impossible on this slagheap of a world.  He could see the central mountains on the crater floor, looking for all the world like gigantic boils and he didn’t want to go careening over the edge with no warning.
+Just to the left of the mountain tops, a rectilinear gridwork of lights identified the Tian Jia base.
+Plus he had a bad headache to boot.
+“Dana, my vision’s becoming blurred.  And my skin’s crawling.  Could you please back off whatever it is you’re doing and be still for a while?  I can’t control these boosts with you jiggering my neurons like some kind of water faucet.  Enough, already!”
+But the shakes wouldn’t stop and his skin seemed to be burning and his eyes were watering and it was like when he had the flu as a child, with his whole body burning up with fever and every nerve end seemed to be on fire and his head seemed about to explode.  He saw the ground racing up as this leap came to an end and it was all he could do to avoid faceplanting himself right into the dirt.  
+He skidded sideways and stabbed his wristpad to shut off the next boost.  But his own forward momentum threw him sideways into a car-sized crater, which he hit dead on with his right shoulder-- Jeez, that hurts!-- and rolled like a limp doll until his momentum was finally spent and he lay on his side crumpled and dazed and shaking like a dog getting a bath.
+He lay still for a moment, systematically testing each limb.  
+“Well, nothing’s broken, no thanks to you—“
+Now, the shakes grew even worse.
+“Dana, stop it…shut down already.  Can’t you just exit and form up loose inside my helmet?”
+***Wings…this is bad…executing Directive 11101.664…all parameters loaded…Wings, I can’t…something’s happening…no control…my own commands are…executing Prime Key Directives 3399 through 5590 in sequence…Johnny, this has never…I’m trying to safe my effectors but I’ve lost control…shutdown peripherals…Command Sequence 1198 enable…initializing***
+Johnny Winger didn’t know it but the Dana bot residing inside his limbic system no longer operated under autonomous self-command.  Deeply buried program sequences had been activated.  A steady stream of nearly undetectable quantum signals had overridden all system inhibits and taken control of her main processor.  The signals had activated her own configuration controller, flooded her system buffers, and forced the remnant bots in Winger’s head to seize certain key motor neuron networks.  Normal signal flow was interdicted and shunted off to an innocuous holding file.  Routine neural traffic was diverted.
+Johnny Winger now lay prostrate in his hypersuit, nearly paralyzed but for spasmodic tremors that enveloped his entire body, the residual effects of this change in command at the top.  He could still breathe.  He had thoughts that he was reasonably sure were his own.  His could still move a few fingers with great effort, but the inhibits on his own will were growing stronger  by the moment.  Bit by bit, nerve axon by axon, the Dana bots were replicating under new orders and taking control of more and more of his cerebral cortex, every layer of striated tissue switching over, plugging into new connections, all of it smoothed out by subtle alterations in dopamine and glutamate flow between nerve nets.  
+Winger knew there was no way he could fight this himself.  He had been hopping and boosting  across the moonscape along Sector 7 like a demented kangaroo, toward the southeast  edge of Copernicus crater and upon reaching his target coordinates, he was going to use the intel pack on the back of his suit to sweep up every emission and signature and signal he could grab from the Chinese base.
+But his fingers were now nearly paralyzed.  With his last shred of willpower, he reached his right index finger toward the emergency beacon on his wristpad and stabbed it.  Then he flicked out his tongue, activating a comm circuit inside his helmet.
+His voice was weak and hoarse.  “Any station…CC1 calling any station…I am down and injured…sector seven on the edge of Copernicus…requesting assistance…CC1 calling any station….”
+The signal went out just as the first of the Dana bots leaped from his tear ducts and exited his head, buzzing around inside his hypersuit helmet like a horde of angry bees.
+
+Chapter 2
+“Tremors”
+
+9 degrees North by 21 degrees West
+Southeast of Copernicus Crater, the Moon
+February 5, 2049
+1815 hours (Universal Time – U.T.)	
+
+Sector Six and Sector Five had been assigned to An Nguyen and Deeno D’Nunzio respectively.  Their mission called for the two nanotroopers to boost along their sectors until they reached the edge of Copernicus, stop there and initiate the first of several all-band signal sweeps, scooping up everything they could from the Tian Jia base.  After sweep one, they were to circle the upper edge of the vast crater, itself over ninety kilometers in diameter, reconnoitering at staggered elevations to continue sweeps and observations of anything they could pick up from the Chinese.  In particular, both troopers carried special gear to search for decoherence wakes, signatures of quantum coupler emissions.  If any deco wakes were detected, UNISPACE and Q2 would have solid evidence that Red Hammer was on site and that something big was up.
+When the troopers heard weak, nearly incoherent emergency calls from CC1, over in Sector Seven, they both immediately threw away their assigned missions and boosted toward the source of the calls, homing on intermittent signals.  The Nanotroopers’ Code was inviolate…you didn’t leave a buddy behind.  
+After a few crisscrossing sweeps of the area, they eventually found the hypersuited figure of Lieutenant John Winger, his suit now streaked with lunar dust, lying prone at the bottom of a small crater overlooking the gaping , city-sized chasm of Copernicus.
+Nguyen was the first there.  He dropped to the bottom of the crater.  At least, the Lieutenant seemed alive.
+“Lieutenant—“ Nguyen fiddled with the comm freqs for a moment.  “Lieutenant—are you hurt?  Can you talk…can I help?”
+Winger was trembling; even through the hypersuit, Nguyen could see that.  His voice was scratchy and weak.
+“…can’t move my arms…or legs…my head’s about…about to explode—“
+That’s when D’Nunzio noticed Winger’s helmet.  His face was veiled with a swelling, flickering fog…a swarm inside the hypersuit, loose and uncontained.
+“Buddha!  Look--!” 
+They both turned Winger over so that his helmet faced up.  Now, the glowing mist of a nanobotic swarm inside was clearly visible.  And it was thickening.
+“Jesus H. Christ, his ANAD must have launched—“
+“It’s replicating…fast…we’ve got to do something—“
+At the exact same moment, Nguyen and D’Nunzio both remembered a class in nog school they had taken months before at Table Top.  Molecular Ops 201…Colonel Hendricks.  Henny had drilled into all their heads what he called Rule Number One: if you run into an unknown swarm, HERF it.  If you can’t HERF it, divert it.  And if you can’t divert it, contain it.
+They sure as hell couldn’t HERF Lieutenant Winger.  And in the hard vacuum of the lunar surface, they couldn’t just unzip his suit.  
+“Get your MOB canister out!” D’Nunzio yelled.  
+Nguyen was already unslinging his device.  “But MOB’s not airtight.  And it’s got a set config…can’t be programmed.”
+“I’ll launch my own embed,” D’Nunzio told him.  “I can augment the MOB bots with ANAD…if I can hack out the right config.”  Already, she was tapping out commands on her own wristpad, opening her shoulder capsule, revving up her own ANAD for launch.  As she did that, Nguyen got on the Detachment command freq.
+“All units…all sectors, CC1’s down.  Converge on sector seven immediately.  Need assistance asap!  All units…all sectors—“
+Over the next few minutes, one after another, the rest of Alpha Detachment had boosted and hopped their way to the edge of Copernicus, and descended on the little crater where Winger lay trembling and writhing inside his hypersuit.
+D’Nunzio quickly finished her hack.  “Launching ANAD now…soon as we get a good seal, Skipper can yank that hat off.  His own ANAD must’ve gone haywire…”
+“Hey, what the--?”
+The ground beneath them suddenly began a rolling tremor, an undulating up and down motion like they were all riding a roller coaster.  The ground tremor lasted twenty seconds.  All around them, the crater walls started sloughing off rubble and dirt.  Small slides drifted down the crater walls in slow motion.  Dust churned around them, boiling off the surface like gray-brown steam.  They were soon caked in the dust.  Then, M’Bela noticed something else.
+“Look—“ he pointed down into the center of Copernicus, dozens of kilometers distant.  A huge anvil of dust began roiling across the center plain of the crater.  The cloud throbbed and swelled like a thing alive.  It wasn’t a swarm, so it seemed.  There were no obvious indications of swarm activity.  
+Then there were more tremors.  Waves of tremors and small quakes shook and rattled the tops of Copernicus.  All across the terraced stair steps of the huge crater’s walls, tracks of tumbling boulders and sheets of regolith cascaded down to the crater floor.  Choking clouds of dust settled and billowed all along the base of the walls, covering fully a third of Copernicus’ diameter.
+“The biggest cloud’s near that base…” reported Sheila Reaves.  Reaves had cranked up her helmet scope and zeroed in on a magnified image of the base complex.  Blocks of Q2 intel annotated and augmented her view with known facts and figures and she scrolled down what was known of the Tian Jia base.  “It almost seems to be emanating from the area…my scroll says that furrowed terrain to the north is called The Tombs…muzang, in Mandarin, it even says.  What the hell are they doing down there…it looks like some kind of excavation…or mine pit.”
+“Maybe they’re excavating with explosives,” said M’Bela.  
+Now, D’Nunzio had something she could work with.  Even as small tremors continued to shake and roll them, she commanded her small ANAD swarm to collapse around the MOB net still forming over Lieutenant Winger.  The flashes and flickers of the ANAD swarm could barely be seen through the still-settling dust.  
+“It’s working…it’s working,” D’Nunzio said.  “We’ll have an airtight seal in a few minutes…hold on, Skipper, just hold on…Buddha, hold him still, will you?”
+Nguyen pressed hard against Winger’s arms and legs, while the enclosure formed around him and began to solidify.
+He was trying to say something, but his voice was weak.  The words could barely be made out: “…not ANAD…this is…can’t explain…keep…MOBnet up…”
+Just then, Winger’s weak voice was interrupted by a much stronger voice, a panicked voice, crackling in their helmets.  It was the public frequency, LunarCom One, the emergency frequency, only to be used in the direst situations….
+“Jingbao!  Jingbao.,..alert…alert!  Ji…Ji…this is an emergency…Xuanbu jinji zhuangtai…declaring emergency!”
+Every trooper looked up.  A guttural string of Chinese filled their ears.  Someone was calling an emergency on LunarCom One…someone from Tian Jia was in trouble, practically screaming on the open freq.  Someone at or near the base below them.
+“Stay with him!” D’Nunzio yelled over the ruckus.  “We’ve got to get the Lieutenant secured.”  While she and Nguyen guided the MOBnet and Deeno’s embed swarm into position, all the while trying to keep a writhing Winger from wriggling out from underneath the swarm, more tremors shook the area, lessened in strength but generating more dust and shifting ground that made it hard to stay in one place.
+Reaves, Tsukota and Barnes perched themselves on the edge of a cliff and scanned the crater floor below them, looking for anything that could be the source of the tremors…or of the distress call.
+The Chinese voice continued its alarm.  “Ji…Ji…Mayday, Mayday…any station—“
+Barnes swallowed hard.  She could hear the quaver of serious terror in that voice.  “Maybe these quakes collapsed something down there.  See anything?”
+Reaves adjusted the scope fixture on her helmet, zooming in and scanning the crater floor for kilometers in all directions.  “Just a lot of dust.  I see the base.  Nothing’s moving though, except the dust.”
+Tsukota turned the volume down on the emergency calls.  “Treaty says we have to respond to a LunarCom one emergency…we’re the closest rescue force.”
+Barnes sniffed.  “We can’t just leave the Lieutenant like this…plus we have a mission.”
+Winger’s scratchy voice cut in.  “It’s getting…getting a little better...”
+The MOBnet had fully collapsed around the Lieutenant, now augmented with an ANAD barrier from D’Nunzio’s embed.  The shield was like a translucent blanket, inside of which Johnny Winger continued to squirm and writhe with the bots infesting his helmet.
+D’Nunzio was on her knees next to Winger.  “Skipper, the seal’s good.  Try to remove that helmet—“
+Winger fidgeted and finagled and thrashed about inside the enclosure, until he managed to unseal his neck ring.  He swung his head and gripped the helmet through the enclosure, fighting against the resistance of the bots as he did so and, with some grunting and effort, managed to slide his helmet off.  Immediately, the enclosure was thick with bots, like a billowing smoke cloud.  His face was red with exertion and sweat poured down his cheeks.
+“Whew!”  He fanned at the bots with his hands.  Dana, please back off, will you?  he said to himself.  “Look, fellas, I’ll be okay…this is—“ he couldn’t tell them it wasn’t ANAD.  His own ANAD was still secure in his own shoulder capsule.  “—this is just a small leak…probably a few bots stayed outside on the last recovery…really, I’ll be okay.  See to that emergency call.—“
+“Skipper-“ D’Nunzio said, “we can’t leave you here like this.”
+Now Winger knew it was time to be a little more firm.  “Moonglow’s still our mission.  Q2 needs the intel. Send a detail—Reaves, you and Barnes and Tsukota—get down to the base, see what’s going on.  This is a perfect cover for some close-in recon.  The rest of you…keep up your surveillance by sectors, all bands, scoop up everything you can find.  Check out that dust cloud by the excavation too.”  The ground around them shuddered and shimmied with more slight tremors, sending up small poofs of dust.  “And stay away from the crater walls.  I don’t want anybody getting buried in a landslide.”
+So it was decided; D’Nunzio would stay with Winger, just to make sure he had that weird swarm under control; already it was dispersing throughout the MOB enclosure, fading away to a barely visible shadow around the Lieutenant’s face and neck.  Barnes, Reaves and Tsukota would respond to the LunarCom emergency by boosting down to the base, to render whatever assistance they could.  The Lunar Treaty required that.  The rest of the Detachment would continue their surveillance of Tian Jia and its surroundings and try to determine the source of that swelling ball of dust boiling out of the excavation northwest of the base.
+M’Bela and Nguyen set off on their sector scans while D’Nunzio worked with Winger through the MOB enclosure to give the Lieutenant extra water and rations and make sure the odd swarm didn’t erupt again into something bad.
+Barnes, Reaves and Tsukota lifted off on suit boost and took dead aim on the Tian Jia base, some forty kilometers distant.  The trio would be the visible face of their response to the emergency call, while the rest of the Detachment continued its mission.
+Tian Jia was a compact quad of domes and structures, situated some ten kilometers north of Copernicus’ central peaks.  As they homed on the alert beacon, Barnes called up the Q2 file on the base, watching the text and pics scroll down her helmet visor with the rectilinear lights of the base itself growing in the background as they approached.
+The four domes had names, according to the intel: Shenyang, Hangzhou, Kunming and Chongchin.  Each was connected to the other by buried access tunnels, along with wireways, and other service piping.  Crawlerways circled the compound, and two of the domes sported what looked like growths along the sides of the domes; these were crawler garages and workshops.  A longer crawlerway snaked off to the northeast, ending at the excavation site known as Muzang, which the Q2 analysts had translated as ‘The Tombs.’  This was where the roiling dust cloud, still slowly expanding in the low gravity, was thickest.  Something around the excavation, something around The Tombs, was generating a hell of a lot of dust.
+“Let’s put down about half a klick this side of the domes,” Barnes suggested.  “We can walk or kangaroo hop the rest of the way.”
+“Any airlocks?” Reaves asked.  
+“That closest dome should have one, according to my specs.  Treaty-standard gear, the usual interfaces.  We should be able to get in.”
+“I’m keeping my mag gun primed, just in case,” Tsukota said.  
+Moments later, the three nanotroopers touched down to a smooth foot landing on the ground.  Little poofs of dust surrounded their boots.  The domes were ahead, a few thousand meters.  They covered the distance in ten minutes, leaping like Olympic athletes ten meters high with each bound.
+They came to the airlock and cycled their way through with no problem.
+“The LunarCom channel is still open,” Barnes noted, ‘but our Chinese screamer seems to have vanished.  I’ll try to raise him—“  Barnes keyed her own mic, then “Farside Survey One to anyone, Farside Survey One to anyone, responding to LunarCom emergency…we’re inside the Tian Jia base.  Responding to an emergency call…here to render assistance and aid—“
+But no one answered the call.
+The troopers cycled out of the airlock into a room crammed with gear, a crawler parked in its bay, hooked up by cables and wires, several suits hanging from support frames from the ceiling, consoles winking with lights and an odd patch of white ash next to one of the seats.
+Reaves bent down, her suit servos whining to adjust, to examine the patch.  She dragged her fingers through the ash.  “I’ve got a bad feeling, guys.  Put your scopes on this patch…ten to one, this is atom fluff.”
+Tsukota examined the patch with a portable analyzer from his web belt.  “Bingo!  Readings off scale…high thermals, high EMs, some badass atom smashing right here and not long ago either.  Whoever or whatever this was, they were disassembled in a hurry and it’s not ANAD signature either.  I don’t recognize the graphs at all…something new.”
+“And plenty nasty,” muttered Barnes.  “Come on…and keep your weapons primed.”
+They pushed through and found themselves in a circular corridor, a hallway that appeared to circle the dome along its outer circumference.  They passed hab spaces, berths and beds and bathrooms and shower stalls.  They came to a compact commissary, with counters, and refrigerators and cabinets, all well stocked with supplies.  
+They also passed two more patches along the corridor flooring, the last one near an escape hatch.  The hatch was closed but not fully sealed.  A thin high-pitched squeal of air could be heard.
+“Better launch an ANAD subswarm and get that sealed,” Barnes told them.  “My ears are already popping.”  They paused for a moment, while Tsukota did the honors, launching his own embed and pecking out a basic config to form a seal over the hatch ring.  The small swarm was barely visible, only an occasional pop of light gave away the fact that a formation of nanoscale assemblers was hard at work.  Moments later, the hatch was sealed and the leak had been stopped.
+“We’ll send ‘em the bill,” Reaves said.  “Where the hell are we?  And where is everybody?”
+“My specs say this is Kunming Dome,” Barnes replied.  “Mostly hab spaces, residential units, this—“ but her words were suddenly interrupted by a commotion up ahead.  A short, stocky man clad only in a long-john undergarment, came barreling around the curve of the corridor, the cooling tubes of his undergarment flapping and spraying water everywhere.  His face was scrunched up in some kind of frozen scream and his hands were waving and flailing about his head.  
+He stumbled and went head first to the floor when he saw the hypersuited troopers.  
+Tsukota and Reaves immediately had their mag carbines trained on the crewman, who struggled up to his feet and immediately raised his hands.  His face was shiny with sweat, pocked with lacerations and his voice hoarse and halting, Mandarin Chinese mixed with snatches of English.
+“Tamen laile…tamen laile…they’re coming…inside the dome…get away while you can!”
+ His face was wild and strained and only a maggun barrel in the chest forced him to calm down and take stock of his own situation.
+“Who’s coming?” asked Barnes.  “What’s inside the dome?”
+Bit by bit, haltingly at first, the words came tumbling out.  Chinese mixed with English, punctuated with great heaving gasps for air and arms still waving about, the crewman admitted he was actually the Chief Engineer for the whole base.  His name was Liu Wei Fong.  
+“Got to be Red Hammer,” muttered Reaves.  “Or some kind of angel…we should haul him back to Farside with us…or slam him now and be done with it.”
+“No,” said Barnes.  “Intel, remember?  We need intel.  Engineer Liu, what happened?  Where is everybody?”
+They moved to the commissary, where Liu took a seat at a table.  Tsukota managed to get some tea going.  Liu sipped greedily and gratefully, warily eyeing the troopers through steam from his cup.
+They could hardly believe what he told them.
+Liu reported that it was true: the Chinese had been digging up by the Tombs, excavating another of the strange spheres that had turned up at Engebbe and was also buried beneath the Paryang monastery in Tibet.  A quantum sphere, able to give anyone who mastered it unprecedented access to the archives and knowledge of a race not of the Earth.  
+“We call them Lao bufen…the Old Ones,” Liu reported.  “This sphere…this lingyu…he is like a door.  Like a portal to their library…all kinds of knowledge is there…new devices, new sciences, a fabulous discovery—“
+“And more for Red Hammer, I imagine,” Barnes said sourly.  “We know they’re here…we have deco wake evidence—“
+“Yes, yes, Hong Chui…they have three here…researchers, I was told.  But when we uncovered the sphere, we found something else…very bad.”
+Reaves was skeptical.  “Oh, yeah…like what?  A gold mine?”
+Lui shook his head vigorously, downing the scalding hot tea in one gulp.  “No, no…a swarm…a massive swarm, like never encountered before…it’s already escaping the muzang—“
+“Like a dust cloud, maybe?” surmised Tsukota.  “That must be what we saw boosting in.”
+Lui agreed.  “This swarm…he is massive.  It’s underground, below the excavation.  Moving below the surface, hundreds of meters below the surface.  Truly it is big, maybe half a kilometer in dimension, maybe more.  This is what is causing the tremors, all the quakes and seismic activity.  Truly a danger—“
+Even as he spoke, another tremor rocked the dome and pots and pans fell clattering to the floor from shelves along the galley walls.  Liu’s eyes widened in terror. 
+“You must help us now…the Treaty—this swarm is damaging Tian Jia…one of our scientists thinks it could even consume the entire Moon.”
+“We did see a lot of landslides on the way across Copernicus,” admitted Barnes. 
+“Sinkholes too,” said Tsukota.  “Remember that big ravine just before we got to Copernicus, along that ridge of ejecta?”  
+“How many of you are left?” Reaves asked.
+Liu shrugged.  “Few.  Maybe I am the only one.  But we need help.  This swarm –this Guanli ren…your own people have called it a Keeper, I believe…is moving toward the surface.  What you see as dust clouds are only the farthest projections of the formation…it isn’t dust at all.  Small robots, nanorobotic devices, emerging from fissures in the surface…some are even leaving the surface.  They have propulsors---we’ve examined some in our labs.  They can move under their own power…some may even have left the Moon entirely.”
+Reaves had a dark scowl on her face.  “Lieutenant Winger’s mentioned something called a Keeper before…like a master swarm…or something.  When we were in that cave collapse at Engebbe, I think we might have run into one.  Maybe there’s more than one.”
+“Please—“Liu pleaded with his eyes and hands.  “Please…you must help us defeat this force…this dragon.  We can’t stop it…it’s consuming the ground below Tian Jia, causing seismics everywhere.  Surely, you feel this even at your Farside and Shackleton Crater bases.  If Guanli ren can’t be stopped, even your own bases will be in danger.”
+“Possibly true,” Barnes admitted.  “But I can’t authorize anything.  I’m just a sergeant.  This is way above my pay grade.  We’ve got to get this back to the Lieutenant…or get him here.”
+“Remember our mission,” Reaves said.  She looked around.  The whole base nearly unoccupied.  One engineer in underwear scared out of his wits.  A perfect chance to do a little reconnoitering around this place.
+“The treaty changes everything, Sheila.  You can read as well as I can.  Even UNIFORCE missions have to take a back seat when lives are threatened up here.  We can’t let Red Hammer control or use this Keeper thing.  I think both sides have the same interest here, in stopping this swarm, this Keeper, from doing any more damage.  I wouldn’t want what’s happening here to wind up in my backyard…or yours either.”
+“So what do we do?”
+Barnes was nominally in command of the small detail, though she didn’t want to wave that  in anybody’s face.  “I say somebody goes back to sector seven and informs the Lieutenant.  Better yet, if he can travel, boost back here and let him see for himself.  I don’t see a real conflict here…treaty versus the mission.  But the Lieutenant will have to sort all this out.”
+They discussed options for a few more minutes, then Barnes told Reaves to take Tsukota and go back to the Lieutenant.  “See if he can boost…he needs to see this.”
+Reaves didn’t argue but she wasn’t happy about the idea.  She and Ozzie Tsukota went back to the airlock, exited Kunming Wing and boosted away, flying low across the crater floor.  They homed on Nguyen’s signal.  The trip would take about half an hour…a long, boring ride across kilometer after kilometer of rubble and dirt, then gain some altitude and clear the crater walls.
+Inside Tian Jia, Barnes told M’Bela: “We’ll take this joker with us and do a little snooping, see if we can find out what caused all this.”  M’Bela hoisted the shaking Liu Wei Fong to his feet and they set out to reconnoiter the compound, occasionally holding onto the walls as the ground shook and shimmied beneath them.
+Outside, Reaves and Tsukota eventually boosted themselves over the craggy, crumpled walls of Copernicus, wide-eyed at the occasional landslides that the tremors were triggering.  To the north of the track, the roiling ball of dust had grown visibly wider, billowing out to cover fully a third of the ground beyond the base itself.  Now, for the first time, they could both see sporadic discharges of light, pops and flashes, indicating that this was no ordinary dust cloud.  
+“Bots,” Reaves muttered.  “Lots of bots.  Eventually, we’re going to have to confront that thing.”
+It gave Sheila Reaves the creeps.  Involuntarily, she shuddered.  “I’m just hoping the Skipper’s okay.  He’ll know what to do.  How far to that crater?”
+Tsukota checked the nav screen on his helmet faceplate.  “Deeno’s’s signal says about three hundred meters…steer left five degrees.”
+They closed on the small crater and eventually, Tsukota announced they were there.
+But the crater was empty.  Some MOBnet remnants were scattered across the regolith.
+There was no sign of either D’Nunzio or Winger.  
+
+Chapter 3
+“The Tombs”
+
+9 degrees North by 21 degrees West
+Copernicus Crater, the Moon
+February 5, 2049
+2110 hours (Universal Time – U.T.)	
+
+After the rest of the Detachment had boosted down to Tian Jia, Johnny Winger convinced Deeno D’Nunzio to unzip the MOBnet and let him out.  
+“Deeno, really, I’m ok.  There was a little ANAD leak, that’s all.  Some residual bots from the last time he was recovered.  They’ve dispersed now.”  He didn’t tell the DPS tech about the Dana bots, which were still drifting around inside his hypersuit.  
+Against her better judgment, D’Nunzio complied.  She turned her mag pulser to the correct setting and zapped the seam, shattering enough bots to force the thing open.  Winger pushed and wriggled the rest of the way out.
+Even in his hypersuit, to be free of the MOB felt great.
+That’s when both troopers were sent flying by an especially strong tremor.  Slow-motion dust clouds mushroomed around them.  The walls of the crater slumped in slow motion and only a burst from their suit boost allowed them to avoid being smothered by falling rock.  They both lifted through a rain of rubble and came to rest a dozen meters away.  
+***Wings…you know we have to go down there…that cloud of dust is the answer to all your questions***
+“Dana, not now…not here—“
+“Excuse me, sir?” asked D’Nunzio. 
+Winger didn’t realize he had an open mic.  “Sorry, Deeno…just muttering to myself.”  
+They both kangaroo hopped over to the edge of Copernicus.  It was like staring into a gigantic bowl.
+Fully a third of the bowl of the crater was cloaked in the vast cloud of dust.  It boiled and bubbled like a thing alive and as they watched, the cloud seemed to be reaching out in the direction of the Tian Jia base.
+“Barnes better not stick around there too long,” Winger said.  “That whole base is about to be enveloped by that cloud.”
+D’Nunzio was studying the thing with scopes inside her hypersuit.  “Lieutenant, the way I see it, that cloud seems to be coming from an opening near the Tombs…look there, see that ring of dark shadows…looks like some kind of fissure in the ground.  Several fissures.  And look at those small craters…they’re split.  The ground is widening at that point.”
+“It’s erupting from below ground.  I’m getting thermals and EMs off the chart.  One bigass swarm, that’s what it is.”
+“I concur.”  
+When he thought about the decision later, Johnny Winger could never say exactly whether the idea was his own or whether was it something the Dana bot had concocted inside his head.  That was the problem when you had bots in your brain, especially bots that could massage nerves like a violin, stoke dopamine and serotonin flow and fiddle with your thoughts in ways nobody would ever believe.  The truth was that any thought was a pattern of neurons firing, electrical potentials traveling down fibers, crossing synaptic gaps with chemicals and triggering more firing.  When bots like Dana sat astride the whole process like championship riders, who could say what was real and what was created?  Did it even matter?
+Together, Winger and D’Nunzio boosted over the crater walls and headed for the fissures Deeno had spotted.  They circled the outer bands of the dust cloud carefully before landing a few kilometers away.
+“Better keep our distance for now,” he decided.  “If this is a Keeper like I think it is, it could be a quantum system…we could wind up displaced to who knows where.”
+Winger eyed the tawny-brown swirl of the swarm with growing dread.  “I’d say we head out on foot now.  And get your botshield up.  It won’t be much protection if the Keeper blows up.  But every little bit helps.”
+So the two of them set out, trudging up and down the moonscape, leaping small ravines where they could in the light gravity, boosting over deeper chasms where they had to.
+From their distance of several kilometers, the Keeper was a like spray of dust geysers shooting off into space, towering over them in sparkling rainbows like a magnificent fountain.  Framing the blue crescent of Earth in the background, Winger could almost admire the majesty of the picture…the black of space, the blues and browns and whites of Earth and the iridescent streams of the geysers spraying the sky like artist’s fingers.  Almost.  He knew perfectly well that embedded in all that dust were uncountable gazillions of bots.  
+Just seeing the Keeper swarm in its full scope and power brought chills to the back of his neck.  Over the six months of his active-duty career with Quantum Corps, he had encountered scores of adversary swarms, but none like this.  The Keeper was a thing alive, malevolent, vindictive, just plain nasty.  And unpredictable to boot.  As they slipped and skidded and stomped their way closer, he wanted very much to be anywhere but here.
+Yet somehow, he had always known it would come to this.  Johnny Winger wasn’t much of a believer in fate.  You make your choices and you live with them.  Yet a month ago, when Jurgen Kraft had ended the Quantum Shadow mission and ordered Alpha Detachment to come home from Nepal, he had known, in ways he couldn’t really describe, that he would meet this malignant force once more, somewhere, sometime.
+Now was the time.
+The slow-motion explosion of dust grew larger and Winger studied the structure as they came closer.  “This is as close as we should get,” he announced.  They stopped on a low rise, overlooking a rumpled plain of loose rocks, jumbled and smashed over eons of moonquakes and meteor bombardment.  
+D’Nunzio stood next to Winger, in awe of the vast streams shooting off into space.  “If I didn’t know what we’re looking at, I’d say it was a magnificent sight.  Like a living sculpture…ropes of dust writhing…it almost seems alive.”
+Then D’Nunzio shook just her head, fingered the HERF carbine slung from her hypersuit web belt.  “I could pump a few rounds of rf into that beast with a clear conscience.”
+“You’d just wind up making it mad,” Winger said.  “We have to be smart about this.  Get the one of your disentanglers out.  Deeno—“ he looked over the terrain, considering defilade positions, fields of fire, prominent ground structures.  “…I’d like to split us up.  You go right, across that gully to that little cluster of hillocks over there.”  He pointed to a distant position, maybe a thousand meters away.  “I’ll head up to the edge of that ravine off to the left, right on the edge.”
+D’Nunzio wasn’t about to question Lieutenant John Winger, but she needed some kind of  explanation, just for comfort.  “Tactics, Skipper?”
+“Call it a hunch.  We’ve got two disentanglers, between us.  If we space them apart, we may be able to bollix up the quantum shifts the Keeper likes to make.  At least long enough to give us a sporting chance of dropping this MOBnet over the bastard.”
+D’Nunzio looked at the swollen jets of dust spewing up from the boiling caldron that now covered several kilometers of a deep trench ahead of them.  “I don’t know about these MOBnets, Skipper.  Seems like trying to corral a herd of bees to me.  Some are bound to get out.  And probably replicate like mad.  Maybe we ought to HERF the bejeezus out of the thing first.  Slam it upside the head and stun it, before we try anything else.”
+Winger tried to explain his tactical thinking.  “In general, that’s what I want to do.  The disentanglers may or not may not work, but even if they don’t, they’re a useful distraction.  While the Keeper’s dealing with the disentanglers, that’s when we blast the sumbitch with HERF and mag pulses.  With any luck, we can force the thing to react and even contract a little, and that’s when I send the MOBnet flying.  We got these newfangled net launchers…we may as well use them.  I don’t want to use our embeds…we may not be able to control them.”
+D’Nunzio took a deep breath, kicking at some dirt clods with the toe of her boot, watching them cascade downslope in the low gravity.  “Now I know why I joined the Corps, Lieutenant.  How exactly do you want to do this?”
+  “I’ll stay on this main axis.  Grab your disentangler and get it primed.  When you’re in position, let me know.  I want to coordinate the assault as closely as we can.  No telling how the Keeper’ll react when we sting him with this.”
+The detail split up. Winger and D’Nunzio unpacked their disentanglers and got the units up humming and blinking green in a few minutes.
+“All copacetic, Lieutenant,” D’Nunzio announced.  She fiddled with a small panel of controls that popped out of the side.  “We got juice, we got a good bead on the centroid of that monster.  Circuits are active.  Buffers, focusers, state emitters…everything looks green.”
+“Very well, Corporal.  Keep your shirt on and keep that thing boresighted right in the belly of the Keeper.  I’m going to the other side of this gully….see if I can get a feel for what’s along the perimeter of the swarm…there may be stragglers we’ll have to account for.  Cover me.”
+“Will do, sir.”  D’Nunzio hoisted his own HERF carbine and rested the barrel on the shoulder of a nearby boulder.   “Watch your footing, sir.  That dust looks like she’ll slide pretty easily.”
+Winger loped down the foreslope of the gully like a drunken kangaroo, taking ten-meter leaps in the low gravity.  He grunted hitting bottom but stayed upright with help from his suit servos.
+That’s when the Dana bot chimed through in the back of his head.
+***Wings…Wings…I feel funny…this is hard to describe…I feel kind of dizzy…can’t control my effectors…executing sequence 223872…executing sequence 486621…this is so weird…something’s making me…***
+Winger tried to setup his MOB canister, thinking to mount the thing on the forward edge of a small boulder.  But his hands seemed to be paralyzed.  He strained, grunted, but his hands, then his arms, had a mind of their own.  He could lift them, but after that, his movements degenerated into spasms and uncontrollable tremors, twitches and shakes.
+“What the—Dana, what are you doing?  Stop messing around up there.”
+D’Nunzio’s voice crackled over the crewnet.  “Sorry, sir…I didn’t quite catch that—“
+Winger concentrated on making his arms and hands move…with effort, he found he could manipulate the canister and set it up.  “Sorry, Corporal…just talking to myself.”  And to someone else in my head, he didn’t say.  
+Fighting through the spasms, he was able to get his MOB launcher ready.
+The quake, when it came, surprised both of them.  There was a shudder, then the ground seem to liquefy, sliding sideways in waves.  Winger’s suit tried to compensate but he tumbled backwards and landed hard in a hollow of flying dust and rock.  Even as he fell, he could see sheets of rock sloughing off the edges of the gully, an avalanche in slow motion.
+If I don’t boost out of here, I’ll be buried alive.
+That’s when the lights went out completely and Winger found himself hurtling down some kind of curving corridor at breakneck speed.  He was tumbling end for end, getting dizzier by the second until the corridor came to an abrupt end and he found himself hitting some kind of solid ground with the rump of his suit, a hard landing right on his bottom.  The suit servos whined and squealed down and the corridor collapsed in a spray of light, crushing him into unconsciousness.
+His last thought before the night came was this: that was no moonquake.  The Keeper had burped and belched, kicking him somewhere else in time and space.  A displacement transient, the techs like to call it.  
+But where?  And when?
+
+The first sensation he had was the smell, an antiseptic smell.  Winger opened his eyes to slits, trying to make sense of what he was seeing.  
+Then it came to him.  It was the hospital.  The hospital in Denver.  The hospital where his Dad lay gravely ill.
+Dana, somehow you’re doing this….
+Johnny Winger arrived at the hospital shortly after sunset.  The Critical Care Unit was on the fifth floor, north wing.  The waiting area was half full, with small knots of people engaged in whispered conversation, two children joysticking remote action bots along the wall, and a wraparound active display showing live scenes from Vail and Aspen and Steamboat Springs.  The admin nurse showed Winger down a hall to the Active Care Unit.  Through the bioshield, a sort of containment zone inside of which active nanodevices were at work, Johnny came up to the bed where Jamison Winger lay enveloped in thick ganglia of wires and hoses.  
+	A faint coruscating blue glow surrounded the bed, the inner containment field pulsating with active nano to protect the patient from further infection.
+	A swarthy Egyptian doctor, Sethi Hassan, attended a small display, with imaging views that looked familiar to Winger.  Two nurses also attended.
+	Dr. Hassan sensed the presence of someone new, but did not at first look away from the screen.  His right hand manipulated a tiny trackball and the view on the screen changed with each manipulation.  
+	“Lieutenant Johnny Winger,” the nanotrooper announced himself.  “This is my father—“
+	Dr. Hassan stole a quick peak at Winger’s black and gold Quantum Corps uniform.  “I imagine you’ve seen this kind of gear before, Lieutenant.”
+	Winger bent over the bed, pressing lightly against the field.  A keening buzz changed pitch and invisible forces pressed back against his fingers, forcing his hand away.  Standard mobility barrier, he told himself, almost without thinking.
+	“How is he, Doc?”
+	Hassan sighed, flexed his fingers around the trackball and did some more manipulations, delicately driving the medbots under his command.  
+	“Stable…for the moment.  Two hours ago, we perfused his brain with a small formation of neurocytes…you’re no doubt familiar with the technique?”
+	Winger nodded.  “Quite familiar.  Is it Serengeti?”
+	Hassan took a moment to tap out a few commands on a nearby keyboard.  Probably changing config, Winger noted from behind his back.
+	“Seems to be.  Whatever it is, his brain’s infested with active nanodevices, viral programming from the looks of it.  These neurocytes are hunting now.  I detached a small element just an hour ago, got them into position to block a serotonin avalanche that was firing off inside his limbic system…nasty buggers, they were.  We got the convulsions mostly stopped…although there’s been some leakage into the hippocampal regions.”
+	Winger studied his father’s face.  His eyes were screwed shut, tension lines all converging along his forehead.  He was clearly still in pain.  His lips trembled and a rhythmic twitch made his fingers and feet move in fits of shaking.  
+	Dad…Dad, I’m so sorry.  This shouldn’t be happening to you…to anyone.  You don’t deserve this—
+	“You’ll have to engage them close up, Doc.  I’ve battled them myself.  These neurocytes…what’s the core version?”
+	Hassan shrugged.  “Our unit grew them from a config we got from Northgate University, about six months ago.  Mainly they’re antivirals…you know: Alzheimers, meningitis, that sort of thing.  Fellow from Northgate came by a few weeks ago, when we started to get a lot of cases like this.  He tweaked the program.”  Hassan seemed at a loss.  “All I can do so far is keep them from spreading.  The ‘cytes can find them, and I engage when they do.  But…well, you know how S Factor is.”
+	Winger wanted so badly to touch his father’s face.  The shield wouldn’t let him.  It was the only thing keeping the enemy mechs contained.  
+	“My guess is the neurocytes don’t have the programming to deal with Serengeti.  You don’t have bond disrupters, enzymatic knives…that sort of thing.” 
+	“I don’t have military nano here at all, Lieutenant.  I’m trying to save lives.”
+	“That’s what it takes to deal with Serengeti, Doc.  You’ve got to be nimble and ruthless.  You’ve to be able to close on them quick and sling atoms like a banshee.  And it doesn’t hurt to be kind of sneaky too.  Serengeti’s program seems able to counter pretty much any kind of normal assault you’d make.  It seems to know what to expect from garden-variety bots.”
+	“So how do you fight it?”
+	“You do the unexpected.”
+	Jamison Winger stirred slightly.  His eyes fluttered half open.  They focused on Johnny’s face for a moment, then recognition sank in.  His trembling hand lifted, bumped against the inner barrier and quickly dropped, as the shield bots buzzed back.
+	“Dad…Dad, can you see me?  Can you hear me?”
+	Jamison Winger smiled weakly.  “Is that you….Johnny—“
+	“Dad—“ Winger bent as close as he dared to the barrier.  He could feel the sting of the mechs tickling his chin.  “Dad—I—how do you feel now?”
+	Mr. Winger summoned his strength and replied.  “Like I’ve just been to about a hundred New Year’s Eve parties—“
+	“Dad…it’s S Factor…they’re inside you…inside your head.”
+	“I know—I hear ‘em.  There’s a lot of horns going off all the time.  And my arms—“
+	“—you’ve got neurocytes inside you, too.  Dr. Hassan’s driving.  He’s hunting down the mechs, rooting them out.”
+	“—making a hell of a racket doing it…if you ask me—“	
+	“Dad…you’ve got to hang in there—remember when you got the patch…remember what the doctors told you?”
+	Mr. Winger started to convulse—his arms and hands went rigid, then spasmed fluttering off into the air, brushing against the barrier.  The mechs buzzed back.   Beside the bed, Hassan busied himself driving the herd of neurocytes onward, tracking down the errant discharges.  Seconds later, as he swarmed the ‘cytes into a herd of Serengeti mechs, the spasm gradually died off.  Mr. Winger’s arms dropped, his fists unclenched.  The doctor looked up; his eyes saying that was too close.
+	“The patch…that was different…just chemicals—“
+	“I know…but you had to go through hell while they went to work.  Remember what Doc Givens told you?  ‘Imagine climbing a mountain…that’s how the dopamine sponge works.  It’s easy at first, then the hill’s steeper and you think you’ll never make it, you think you’re going to slip back, maybe even fall off.  Then, all of a sudden, if you can just hold on, you’re there.  You’re at the top.  And that’s when the view is so great.  You’ve finally made it.  You just have to have faith, faith that there is a top up there somewhere…”
+	“You always had…a better memory…than me, son.”
+	Johnny gritted his teeth.  If only I had ANAD here…I could smash those bastards for good…yank the lot of ‘em out of Dad and give him his mind back.  He knew what his father was feeling, what it was like to have a billion needles jabbing into the back of your head, what it was like to have a puppet’s arms and legs, jerking out of control so hard you were lucky you didn’t break a bone.  
+	The truth was he’d done a hell of a lot of growing up, after his mom had died.  That had been 2047, just a few days after he’d graduated from Pueblo Netschool, two days after his Worldnet wizard Katie Gomez had awarded him a citation for excellent work.  Mr. and Mrs. Winger had been so proud of their son.  Then Ellen Winger had driven to Colorado Springs, just visiting friends, bragging about her boy.  On the drive back late at night, her car had been sideswiped by a truck and she’d lost control.  The police had estimated the ravine was about seven hundred feet deep…there hadn’t been much left of the car when it stopped rolling.
+	Those two years from ’47 to ’49, had been hell for Johnny, for the whole family.  Mr. Winger had been devastated by the loss; in some ways, you never got over something like that…you just wore the pain like an old shirt, eventually, even deriving a bit of comfort from the hurt, like a scab that wouldn’t go away.  Each of them—Mr. Winger, Johnny, his brother Bradley, his sister Joanna, dealt with grief in their own way. 
+	For Mr. Winger, that meant long hours alone in his barn, behind the house.  He’d always been a tinkerer, and the barn had long been his lab and shop.  Now, without his wife, he just tinkered with a ferocity they’d never seen before, seldom coming out except for dinners and essential matters.  Jamison Winger had made a lifetime of working on inventions and gizmos and gadgets that never had any future and he did so with a single-minded determination now that was at times a little scary.  
+	For most of that period, at least until Jamison Winger had gotten the patch treatment for depression, Johnny and Brad and Joanna had pretty much run the ranch business.  Johnny had put off any further thoughts of more school and settled in with grim determination to learn the business of ranching through and through.
+	The most difficult time of all came in midsummer of ’48, when drought and low beef prices caused the Winger kids to have to sell off more than half of the North Bar Pass Ranch to a resort developer.  The developer then proceeded to put in place a faux ‘dude’ ranch-Wild West showplace called Highhorn, catering to rich city people.  Johnny had hated himself for agreeing to that decision ever since.  Just seeing the stylized Highhorn signs and billboards and all the para-sailors wafting overhead on mountain thermals near the ranch perimeter made him sick.
+
+	It wasn’t too long after Jamison Winger had gotten the patch treatment that Johnny had seen on Worldnet some stories about a new organization called United Special Operations Force.  They were offering scholarships, for a six-year hitch.
+	“Dad—“ he called through the flickering bioshield.  “I’ve got to go on another mission…we’re fighting Serengeti, a big cartel too.  I wish I could stay—we’ve got equipment that would help…but—“
+	Jamison Winger smiled up gamely at his son.  “A lot of people…a lot…are depending on you, son.”
+	“You depend on me, too, sir.”
+	Mr. Winger nodded.  “I always have…since your mother died.  Come closer—did I ever tell you—“
+	Johnny bent down as close as the shield bots would let him.
+	“—tell you…” he stopped, shuddered for a moment, then squeezed his lips into a tight line and fought back against the wave of pain—“did I ever…tell you I know…what you did…what you did with old Bailey--?”
+	Bailey?  He hadn’t thought of the old flyer for several years.  Bailey had been his favorite pet, a constant companion out on the ranch, helping him herd the cattle to and from their grazing fields.  
+	“Dad…where is old Bailey…what’s he doing?”
+	Mr. Winger shook his head, or was it a shudder?  It was hard to tell.  “Bailey’s crapped out…just sitting in the corner of the barn.  Needs a new motor…fandrive gave out, son.  When I opened…him up, I saw what you’d done—the new sensors and stuff…really souped him up, you did—“
+	Johnny reddened.  Bailey the flyer bot—he’d always called him Bailey the Flying Dude—had been one of his most loyal companions as a child.  Unknown to his parents, Johnny had often opened up his second-floor window at home and by remote-control, teleoperated Bailey right into his bedroom.  The flyer had spent many a night in that room, either hovering gently in the corner, its red eye winking on and off, or sitting on the luggage trunk at the end of his bed, whirring softly in sleep mode.
+	Johnny had always liked to tinker, especially with Bailey.  There was one trait he’d definitely gotten from his Dad.  He’d thought for years his father had never known.  While he was growing up at the ranch, Johnny had spent countless hours modifying Bailey’s processor, giving him greater memory, teaching the bot to respond only to his voice, adding sensors, and souping up the propulsor motors.  Bailey was at the same time Johnny’s hot rod and pet.  He’d always loved the bot like the little brother he never had.
+	“—I loved old Bailey, Dad…we were close, like brothers.”
+	“I know…” Something pained Jamison Winger.  His lips twitched, words ready to spill out, but held back somehow.  Another spasm?  He looked over at Dr. Hassan.  “—I know, son.  Come…” his hands beckoned Johnny closer.  But the bioshield buzzed, keeping them apart.  “—I wasn’t very good, son…I’m sorry…I wasn’t a very good father—“
+	“What are you saying?  You taught me a lot…you were—“
+	“—always in the shop…always in the barn, wasn’t I?”  His father tried to force a brave smile, but gave up.  “Kind of like Bailey…I just… sort of crapped out.  Gave up the ghost.”
+	“Don’t say that, Dad—“ he looked at Hassan again.  Was it the ‘cytes?  Was it Serengeti, squeezing some circuit, making him say things?  Maybe the patch was wearing off. Maybe it was Dana up in his own head, stoking glutamate, activating long-buried memories…  “Don’t be silly…you taught me how to work on things.  That’s how I got Bailey all fancied up.  He could fly circles around any other bot out there.”
+	Mr. Winger closed his eyes, sighed, his forehead wrinkles finally relaxing.  “I love you, son.  I’m…very proud…very proud of you.”
+	Dr. Hassan had been driving a flock of neurocytes through Jamison Winger’s limbic system the whole time.  He didn’t like what he was seeing.
+	“I’m sorry…I think it’s best if you leave now, Lieutenant.  I’m going to have to replicate more, expand my zone of operation a bit.  The infestation’s spreading—see for yourself.  I’m afraid the buggers are into the limbic striatum…volition and intentionality circuits.  He may not—“ Hassan stopped, waggled his hand, not quite willing to go on.  
+	Johnny Winger swallowed hard, watched his father lying inside the bubble, seemingly at peace.  But a war was raging inside his skull and the outcome was in doubt.  Winger wiped away a tear.  Instinctively, he touched the shield, until the bots pressed back.  He knew he couldn’t touch his father.  That made it worse.
+	“I’ve got to go, Dad.  Got a mission.  Fight ‘em…fight the buggers hard.  I’ll be fighting ‘em too.  At least, we can be together that way.”  He turned to leave.  “I want to be kept up to date on his progress, Doc—“
+	Hassan gave him the net address.  “I’ll post anything new.  Any changes, I promise you’ll know.”
+	That was good enough.  Johnny Winger took a last, tearful look at Jamison Winger.  His arms were shriveled like old tree branches.  Every few seconds, as the S Factor bots steadily took over, he shuddered and a low moan escaped his lips.
+	Johnny Winger couldn’t watch any longer.  He screwed his eyes tightly shut to choke off more tears and left the room.  
+	One way or another, I’ll lick this bastard menace, if it’s the last thing I do.  
+
+Johnny Winger shook his head.  This can’t be right.  I’m back in the hospital…it’s September 2048.  It’s happening all over again.  
+Winger had lived with it for months.  Always, he had wanted to do the medbot insert himself.  Get in there and fight Serengeti himself.  The doctors had advised against it.  Could kill the patient… critical functions could be affected…tissue might be damaged….
+Winger was fully aware that none of this was real.  Some of the details were wrong…how his Mom had died…the accident reports from the freeway…the ravine, the position of the car, the autopsy results.  
+Dana, stop this.  Stop activating memories…you’ve gotten it all wrong…
+Something had changed the memory.  This was a sim, that’s what it had to be.  Somehow Dana or maybe the Keeper had thrown him back into his own past, or concocted a reasonable facsimile from his own memory, but there were subtle alterations.  Maybe some kind of glutamate tracing was going on, affecting his recall, generating memories of things that had never happened.
+Or maybe his memory was just faulty.  Yet when he touched his Dad, when the med barrier was dropped and he could feel the flushed hot skin of his forehead, the pulsing of his neck veins, he felt real.  What was this?  A dream?  A sim?  A different reality, a different time and space, a universe sliced in a different direction?
+Winger tried to ignore his own feelings and put some analysis to the situation.  I can reason my way out of this, he told himself.  
+Rational analysis said there were two decisions to be made here.  What to do about his Dad?  And how to get the hell out of this nightmare and back to his Detachment teammates?  
+Maybe they’re related.  Maybe making one decision forces the other. Quantum systems did entangle, after all.  
+Eventually, it came to him that the only way he could move forward or backward in this sim (for that was how he had come to think of it) was to confront the decision he had never made in the past, to do the medbot insert, battle Serengeti inside his Dad and try to save him.  He’d tried to drown the guilt over that for months, guilt over the fact that he didn’t or couldn’t try the insert and he’d carried it with him, deeply buried to be sure, for nearby two years.
+Johnny Winger told himself: the Keeper’s running Dana now, that has to be it…he or she wants me to engage Serengeti.  Okay, pal, I’ll play your little game.
+He wasn’t sure he understood what was going on but it seemed like Dana was somehow sensitive to emotional conflicts inside him.  She had the ability to sniff out these burned-in memories and draw them out—maybe some kind of memory tracing, like glutamate sniffing—like a giant therapist.  Now, confronted with the one of his most painful memories, Johnny Winger decided he had to resolve it, here and now, even if it was only a sim.
+He snapped at Dr. Hassan.  “Drop the barrier.”
+Dr. Hassan spluttered in confusion.  “Lieutenant Winger, I don’t think—“
+“Drop the barrier.  I’m doing an insert here.”
+“But you’re not—“
+Winger yanked the doctor by the arm and forcibly seated him at the control console.  “Run the panel.  Do what I say.”  To the attending nurses, Winger said, “And get him prepped for an insert.  I’m going inside.”
+"Okay, Lieutenant." The lead nurse, whose nameplate read Nalinka, patted down the incision she had just made in the side of Jamison Winger’s skull.  "Subject's prepped and ready."
+Reluctantly, Hassan handed Winger the injector tube, attached by hose to the containment chamber. 
+The insertion went smoothly enough.  A slug of plasma forced the replicant master into Jamison Winger’s capillary network at high pressure.  Johnny Winger got an acoustic pulse seconds later and selected Fly-by-Stick to navigate the system.  A few minutes' run on its propulsors brought the Autonomous Nanoscale Assembler/Disassembler to a dense fibrous mat of capillary tissues.  An image soon appeared on the IC panel.  
+"Ready for transit," Hassan told him.  "Cytometric probing now.  You can force these cell membranes open any time."
+Winger used ANAD's acoustic coupler to sound the tissue dam ahead, probing for weak spots.  "There, right to starboard of those reticular lumps…that's a lipid duct, I'd bet a hundred bucks.  I’ll try there."
+He steered ANAD into the vascular cleft of the membrane.  He twisted his right hand controller, pulsing a carbene grabber to twist the cleft molecules just so, then released the membrane lipids and slingshot himself forward.  Seconds later, ANAD was floating in a plasma bath, dark, viny shapes barely visible off in the distance.  The plasma was a heavy viscous fluid.  Winger tweaked up the propulsor to a higher power setting and took a navigation hack off the vascular grid.  
+"Ventral tegmentum, Doctor.  Just past the mesoencephalic nucleus.  Looks like we're in."
+Winger navigated ANAD through the interstices of his father’s brain for the better part of an hour.  He had programmed the assembler to send an alarm when it encountered any kind of unnatural activity…especially assembler maneuvering or replication.  If there were any remnants of Serengeti left in his brain, Johnny Winger wanted to be ready.  
+Hassan was practically holding his breath, watching the acoustic pulses come back.  “Lieutenant, your father’s not strong enough for this.  Using an insert at this point is a really bad—“
+“I’ll take responsibility for what happens,” Winger told him.  “Besides, you’re not real anyway.  I’m just doing what I should have done a year ago.”
+"Hopefully, the last treatment with Serengeti finished them off," Hassan muttered to himself.
+At 1824 hours, ANAD sent back an alarm.
+The imager screen was at first murky, crowded with the spikes and cubes of dissolved molecules.  Lumpy, multi-lobed sodium molecules darted across their view like shadowy ping-pong balls.  Winger studied readouts from ANAD's sounder…something was there, hidden in the data traces on the scope.  He fiddled with the gain on the imager, tweaking it, subtracting foreground clutter.
+Something approximately sixty nanometers in one dimension, narrow with a globe structure at one end…and scores of probes, effectors, cilia, whatever.  Incredible mobility…triple propulsors beat an idling rhythm as ANAD closed in….
+“Doc, I think we found what we’re looking for.”
+
+On first inspection, the alien bot showed no hint of unusual capabilities, at least not in its outer structure and effectors.  Johnny Winger tried to remember the details of all the devices he had seen in recent months; from memory, they were outwardly simple things…a few grabbers and maybe an enzymatic knife or two.  Nothing like bond disrupters or anything like that.
+This ought to be a piece of cake, he told himself.  But, even as he drove the master ANAD bot closer, warning bells were going off in the back of his mind.  
+This is your father you’re dealing with here.  You’re inside the brain of your own Dad, trying to fight off this Serengeti infestation.  No room for error or miscalculation here.
+Or was he?
+Dana, I don’t know what you’re doing up there but this is no longer funny….
+Johnny Winger could only be sure of one thing.  Whether this was a simulation, or a dream or a nightmare, he had one choice: go forward.  Finish what he should have done six months ago.  He’d been living with that for far too long.
+He pulsed around with ANAD’s sounder.  Tissue structures came back, but nothing else.  Only a single bot lay ahead.  That in itself was odd.  Normally, Serengeti would have replicated like crazy.  There should be zillions of bots churning and pumping along the neural pathways of his Dad’s brain.  But there was only one.
+Okay, so it’s mano y mano…if that’s what you want.  Winger stoked ANAD’s propulsors and jetted forward, closing the remaining distance rapidly.  The Serengeti bot seemed oblivious to his approach.  It seemed to be engaged in re-building a small network of dendrites and making some kind of new junction.  Re-wiring Jamison Winger’s brain.  We’ll see about that.
+He primed ANAD’s bond disrupters and when he was at a good range, let fly a few blasts.  The crack of the disrupters seemed to ignite something…all of a sudden, Winger felt himself spinning, thrashing, he was back in the endless tunnel and the lights went out completely and he found himself hurtling down some kind of curving corridor at breakneck speed.  He was tumbling end for end, getting dizzier by the second until the corridor came to an abrupt end and he found himself hitting some kind of solid ground with the rump of his suit, a hard landing right on his bottom.  The suit servos whined and squealed down and the corridor collapsed in a spray of light, crushing him into unconsciousness.
+When he came to, he saw a face…it was D’Nunzio peering down at him.  Her mouth was moving, yes, something was coming through his earpiece….
+“—all right, sir?  You took quite a spill there.”
+Groggy and dazed, Winger let hands pull him up to a sitting position.  His suit servos whirred, helping him up.  “I don’t…what happened?  Where am I?”
+“Right where I left you, sir,” D’Nunzio checked over Winger’s suit carefully…seals good, no flags on the display, everything in the green.
+“It was some kind of quake,” D’Nunzio told him.  “We were maneuvering to open fire on the Keeper, but then—“  you could almost see the shrug of D’Nunzio’s shoulders inside her suit.  “—all hell broke loose.  The ground moved, there were rock slides, we got separated.”  She looked up.  “Seems like the Keeper’s expanded a little…it’s gotten closer.  We’d better back off and go at this again.”
+Winger punched a button on his wristpad and his leg servos hoisted him immediately to a standing position.  He was still a little dizzy, but the servos steadied him.
+“That was no quake.  It was a quantum displacement event.  I went somewhere…back in time and space…back to a place I hadn’t been in months.  The same thing must have happened to you.”
+D’Nunzio had a funny look on her face. “I don’t think so, Lieutenant.  After I picked myself up from that quake, I couldn’t find you.  I searched for a few minutes, and there you were…right outside this cave.”
+Cave?
+Winger hadn’t noticed the cave before, but she was right.  The ground had shifted in the quake.  The small gully into which he had fallen now opened onto the entrance to a small cave, a lava tube barely two meters across, which bore more than a passing resemblance to something else Winger had once encountered…the cave at Mount Kipwezi.  Config Zero’s home.  That had to be coincidence.  Somehow, Winger had been displaced in time and space to the Denver hospital where his Dad lay ill from Serengeti, then displaced again back to his original time and space.  But that made no sense. Maybe this was some kind of defense mechanism the Keeper used….like a buffalo’s horns or a bee’s stinger.  But why displace back to the original time and space…or was Deeno right: had he never really left in the first place?
+Dana, stop messing with my head….
+Winger shook his head.  This kind of thinking always gave him a headache.  The Keeper could do that.
+“Lieutenant—“  D’Nunzio hopped up onto a small outcrop a few meters away.  “Sensors show activity inside there…nanobotic activity.  High thermals, EMs, acoustics.  Maybe some of the Keeper’s inside.”
+The appearance of the Keeper seemed unchanged, although it seemed to have expanded in breadth.  A veil of dust from all the geysers partially obscured the sparkling, twinkling fog that any swarm of bots generated.  From their distance, the thing resembled a fat tornado in slow motion, churning and burning across the tortured terrain of the lunar surface.
+“Maybe the master bot,” Winger surmised.  He checked D’Nunzio’s readings with his own sensors.  “The core of the thing.  Tactically, we’d be smart to recon this cave and make sure we’re not leaving something that could come at us from behind.”
+“Is that wise, Lieutenant?” asked D’Nunzio.  “That thing out there looks like the main show.  Maybe there’s a small branch inside the cave, but we can seal the cave if we have to.  I vote we MOBnet the cave opening and have a go at the main body out there.”
+Winger decided that they would enter the cave first, check out the source of the atom smashing their sensors were showing, then come back to the surface and continued their advance on the main body of the Keeper.  “I don’t want any elements of this thing sneaking up on us from behind.”
+D’Nunzio followed Winger into the cave.  The ground dropped steeply just after they squeezed through and both troopers had to use their servos to stay upright and keep their balance.  
+Winger turned on his helmet lamp and picked his way deeper into the cave, D’Nunzio so close behind that they occasionally bumped into each other.
+“Still got those readings, Deeno?” Winger asked.
+“Yes, sir,” said the DPS tech.  “Dead ahead…forty plus meters and below our level, maybe about twenty meters below us.”
+Winger took a deep breath and cautiously lowered himself along icy walls veined with dark red and brown streaks. “Corporal, I’m sure this is why I joined the Corps.  I just needed more adventure in my life.”
+D’Nunzio grunted as his foot momentarily lost traction.  He slid a few meters, but ran right into Winger, who helped her stay upright.  “I think you’re about to get your wish, Lieutenant.”
+Winger and D’Nunzio descended lower into the cave, following the readings on the DPS’s sensors.  Deeper into the cave, they followed a drifting mist that wavered in and out of view. Bots, Winger realized.  His fingers twitched on the carbine trigger, but he did nothing.  They descended several levels, crossed a rock bridge across a deep chasm and maneuvered through more tunnels.  Lighting was created by the mist, a pulsing, flickering light that cast deep shadows on the gnarled veins of rock lining the cave.  The floor was slick, patches of ice everywhere. Unexposed to the vacuum, it had survived for who knew how many eons.  Soon enough, they came to a narrow opening, barely waist high.  More light flickered from inside.
+The mist of bots which had floated with them swirled like dust in a storm and gathered around the opening like a frame, coruscating and flashing as if lit from within.  
+Cautiously, the two of them edged forward.
+It was the light they first noticed.  D’Nunzio sucked in a breath as they both halted, at the same time.
+“Lieutenant, my readings are going off-scale…EMs, thermals, all of it.  Whatever it is, it’s big—maybe we should stop here?”
+Winger gave that some thought.  “That light is where we need to go.  Come on—“
+The light grew stronger, blinding, so powerful it hurt, and both troopers tuned their visor filters to maximum setting to shut it out.  Still, the light was overpowering.
+They came at last to a small branch and a shoulder-high opening.
+“Which way, Deeno?”
+“To the right, sir.  Readings are all off-scale now…but I’d say to the right.”
+So they went right. Hunched over, picking their way carefully down a slight decline, sliding on ice patches and loose rock.
+The center of the light was a swarm of incredible density.  Winger called a halt.  Ahead, blocking their way was a blinding orb of light, liked a small supernova, pulsating, throbbing with brilliance so strong they could almost taste it.  Fierce light and throbbing motion, it was like looking into the heart of a star.
+On top of everything else, Winger had developed a terrific headache.  
+D’Nunzio had screwed her eyes almost shut.  Her visor was on auto, full filter.  Still, it hurt.  ‘What the hell is it?”
+Winger squinted.  “Unless I’m mistaken, Corporal, we’re looking at the core of the Keeper.  The very heart.  My sensors are gone, useless.”
+“Mine, too, sir…is it my imagination or is that thing coming our way?”
+The orb…sphere…ball…whatever you wanted to call it, did seem to be expanding.  Every corner and seam of the rock walls glowed with incandescence, like the entire cave was on fire.  
+“I think you’re right.  Enable weapons…we may have to—“
+But he never finished the thought.  For in that moment, the orb seemed to explode at them.
+“Fire!” Winger yelled.
+Both troopers let fly a volley of rf from their HERF carbines.  The radio waves shattered sprays of rock and ice off the cave walls and reverberated around the cave in a crescendo of waves, nearly knocking them off their feet.  
+There was no discernible effect on the orb, which shone like the Sun at the back of the cave.
+“Again!” Winger yelled.  “Light ‘em up!”  He triggered pulse after pulse of HERF fire, hosing down the orb from top to bottom, methodically working his weapon across the face of the thing.  Each blast loosened gouts of rock and ice from the walls, which rained down on them, then cascaded in sheets to the floor.  Stifling hot dust billowed everywhere. 
+“It’s not working!” D’Nunzio cried.  “I’m going to max!”  She cycled the burst selector to FULL and leveled more fire into the very heart of the beast.  Again, they fired pulse after pulse after pulse and the orb didn’t dim or change in any way they could see.  Instead, it swelled outward like a brilliant balloon, creeping inexorably forward, filling every cubic centimeter of the cavern, until Winger was afraid the ceiling would collapse.
+“Back up!  Fall back!  We’d better give this bastard some room!”
+D’Nunzio didn’t have to be told twice.  The Defense and Protective Systems tech scrambled backward, stumbling, kicking, firing blindly at the oncoming thing. 
+“It’s not working,” Winger fell back too, nearly right on top of D’Nunzio.  “The bots are replicating as fast as we burn ‘em…Jeez, I’ve never seen anything like that before.  Let’s get back to the main tunnel!”
+The two of them stumbled and crawled and staggered back up to the branch opening, half blinded, as much by feel as anything.  The orb continued to throb and pulse, overwhelming the cave with blinding light.
+Winger knew they needed help, ideas, something, anything.  ANAD may have an idea.  His embed usually could be counted on for logical suggestions.  He tapped a button on his wristpad and a small port swung open on his hypersuit shoulder.  While he and D’Nunzio steadied themselves, hiding behind at outcrop of rock, and took stock of the situation, a small sparkling mist issued from the port on Winger’s shoulder.  In moments, the mist had formed the faint outlines of a face—Doc Frost’s face—in the blinding glare of the light, the face was hard to see, but Winger knew it was there.  It was Config 33, one of ANAD’s favorite formations.  
+His headache suddenly got worse.  He figured it was the Dana bots trying to fight back at ANAD.  A weird kind of rivalry, two swarms, one inside his head, one in a shoulder capsule, fighting like two-year olds. 
+Not now, Dana. Not now.  He gritted his teeth.  
+“ANAD, we need help…that thing replaces bots as fast as we fry ‘em.  The HERF guns won’t go any higher…any ideas?”
+***Hub, the entity is a formation of nanobotic elements, density greater than 10exp15 elements per cubic centimeter…such density has never been encountered before by this system.  I don’t see how normal operations are even possible at that level of concentration…perhaps you could grab a few elements for analysis?***
+Winger almost laughed at that.  “Not bloody likely…not in that inferno.  It keeps expanding…I think maybe we should just back the hell out of here and seal off this cave with MOBnet.  If we can find our way out of this place….”  The branches were all starting to look alike now.
+***Analyzing all known tactical scenarios now…perhaps if you loosened enough rock along the seams of the cave ceiling…you could bury or distort the formation, at last for a short time…I have no other options at this time, Hub…sorry…***
+The Doc Frost face faded momentarily and was lost in the glare.  Winger wondered if the embed would even work properly in such close proximity to the Keeper.  There were theories about that, but no one had any proof.  Doc Frost himself tended to scoff at the possibility.  
+Winger pressed the CAPTURE button on his wristpad and the image of Doc Frost faded to nothing, as the bots drifted back toward his shoulder capsule.  At that same moment, D’Nunzio’s voice erupted over the crewnet.
+“Lieutenant…look!  It’s changing…it’s--!”
+The sun-like core of the Keeper had stopped expanding and dimmed slightly, but more importantly, a portion of the orb the size of a head had separated and was drifting freely toward them.  The ball of light pulsed and throbbed and roiled like a miniature star as it settled onto a small ledge below the cave opening.  
+“What the ---?”
+Even as they watched, the small lightball was changing before their eyes, dimming fast, swelling and stretching, like a flaming sheet unfolding.  It unrolled itself like a blanket on fire.  Now, images began to appear on the blanket, as if it were a screen.  Images unspooled at high speed, colliding and mixing in a chaotic flicker.  Soon enough, the images began to stabilize.
+Johnny Winger was stunned to see a passable impression of Dana Tallant, hanging in mid-air, framed by a backdrop of a screen burning around the edges.  How the--?  He hadn’t felt the bots exiting his head but maybe---somehow--
+“What is it?” D’Nunzio said.  
+“Some kind of simulation,” Winger told him.  “I’ve seen stuff like this before…the Keeper can do this.  It’s—“
+Now the Dana thing was talking, its mouth and lips were moving, as if a film strip were playing.  In the backdrop, colliding images appeared and disappeared in dizzying profusion….desert sandstorms, fires burning out of control, volcanic eruptions, asteroids impacting a surface, earthquakes, landslides, tsunamis.  A litany of disaster.
+The voice, when it came, was a scratchy, out of synch rendition of Dana’s husky lilt, recognizable but thick, slurred, reverberating with echoes and overtones.  
+Winger and D’Nunzio strained to hear….
+“…when the Central Entity arrives…this I have known for many years, Wings…”
+Winger felt a chill go down his back.  “Somehow the Keeper’s created a likeness of Dana Tallant… or maybe—“He had felt the pressure of his headache lessen.  Maybe the Dana bots had left the premises.  “…it’s using that to communicate….”
+“Looks like a history class I had in school,” D’Nunzio muttered.  “That’s pretty much how I remember it, too…all jumbled up and confusing, dates and places and names.”
+“You may be more right than you think.  Listen—“
+The Dana thing narrated, not a history, but a plan.  Winger realized that the Keeper was illustrating what was to come.  It was all there, the knowledge of the Old Ones and their plan, embedded in the genome of every ANAD system created since the first one.  
+It was called the Imperative.  And it was driven by a massive algorithm known as the Prime Key.
+The first phase was a purge, purging Earth of all non-Prime Key lifeforms… all life and living systems.  The preferred way would be to disassemble all lifeforms into their constituent atoms and molecules.  A form of mass Assimilation, starting with deconstruction. This was the rationale behind Symborg and the philosophy of Assimilationism, created, aided and abetted by Config Zero.
+Once this purge was finished, the next step would be re-engineering the Earth’s surface to be more compatible with swarm-based life...the oceans would be eliminated and all the Earth’s surface ‘locked’ into a geologically stable state, providing maximum surface area for swarm activity and growth.  Also, the stable point temperature of the Earth would be raised…an enforced climatic change similar to what Humans were already doing now on the Earth, unwittingly helping the Old Ones along.  This would provide a consistent environment conducive to swarm growth and activity.  The Earth would become, in effect, an incubator or giant Petri dish, to incubate this new kind of life.  
+Coincident with geoengineering the Earth’s surface, new forms of life, initially similar to early ANAD, similar to ancient viruses, would be seeded and allowed to evolve at the maximum permissible rate consistent with these environmental changes.  This would help bring Earth life up to the development level of the Mother Swarm, in terms of architecture, processing capability, memory, quantum comm links, and overall programming.  
+The final phase was Integration.  Re-evolved Earth life forms would be fully absorbed into the Mother Swarm.  Once this process was done, the Earth and all planetary objects in the Solar System would be disassembled to provide feedstock for the Mother Swarm, to continue its advance across the galaxy.  In other words, the Petri dish would be destroyed and the incubator shut down.  The Imperative drove the Mother Swarm onward.  
+“…Wings, it’s incredible, really it is…all this was there from the beginning.  I just couldn’t read it.  The whole story was embedded in that genome.  This strain of virus came from the Old Ones, they seeded Earth with it.  And Doc Frost used it to add to ANAD’s capabilities…every ANAD system since then has had this story…but we just didn’t know it….”
+Now the Dana image seemed to lift away from the burning sheet and take on three dimensions, becoming an even more realistic likeness of the one-time nanotrooper.  Framed by the glow from the core of the Keeper behind it, the simulacrum of Dana Tallant offered a faint smile, its face only slightly blurred and out of synch.  Dana was saying something else….
+“…the time has come, Wings.  It’s time to decide.  I’ve shown you the future.  I’ve shown you what must be.  It’s time to be part of it…time to be assimilated….”
+Dana went on to describe assimilation as if it were the most natural thing, just an extension of all that had already happened.  
+D’Nunzio wanted no part of the idea.  “Count me out, sir.  I like my body the way it is.  I’m not going into no booth and becoming atom fluff, no sirrreee.”   She started backing out of the cavern, backing up the slope, stumbling slightly as she did so.  Rocks and gravel cascaded down behind her.   
+Winger stayed put.  Was this a one-way story or could he have a conversation with this nightmare?  
+“I don’t know, Dana.  You’re starting to sound like all those Assimilationists.  ‘Deconstruction is the future…it’s so cool to be a multi-config entity, you can go anywhere, be anything, you can’t die.’  I’m not so sure….”
+D’Nunzio halted her backpedaling climb.  “Lieutenant, we need to get out of here.  If that thing blows, we’ll be trapped.  Or incinerated.”
+Dana was still talking, now answering Winger, though he knew it was really an algorithm inside the Keeper.  Or something like that.  
+“…all these things are true, Wings…but the greater truth is something you’ve always known…you and I have discussed this before…it’s the nature of Life itself….we’re all nothing but atoms and molecules…your own body is nothing but a swarm of cells, organized into systems and collectives you call organs…the Old Ones are no different, just a greater collective, a collective that spans time and space on a scale you can’t really conceive….
+“I always figured the Old Ones were just something we imagined, something we created.  Sort of a new god, to fit our times.”
+Now the Dana image settled down and assumed an almost grandmotherly look, right down to the wrinkles and the crow’s feet.  It wasn’t the Dana Tallant he had known since nog school.  This was an older Dana Tallant, much older, as if the Keeper were aging the simulation to better correspond with some visceral impression in the back of Winger’s mind.  
+“…let me explain the Old Ones to you, Johnny….first, they are very real…you must accept that…they’re not some imaginary creation of billions of lonely and troubled minds, as some of our theologians have said… the basic element of the Old Ones is what you have always called a nanobot.  An autonomous, nanoscale assembler/disassembler of incredible sophistication and complexity.  
+“Nobody knows how the Old Ones came to be, not even the Old Ones themselves.  As an organized superorganism of bots approximately half a light-year in extent, the Old Ones have existed for a substantial fraction of the age of the Universe.  Some of our own scientists have estimated 6 to 8 billion years old.  
+“The Old Ones were instrumental in seeding Earth with self-replicating molecules that eventually evolved into living organisms, although the evolutionary track went awry.
+“Make no mistake, Johnny, the Old Ones are a true super swarm of vast proportions.  In size and extent and connection density, it exceeds the complexity of all the human minds that have ever lived on Earth combined.  It is a thinking sentience, whose true environment is interstellar space.  
+“The Old Ones have no known head or leadership group or body.  However, the term Central Entity has been used by Config Zero to refer to the Old Ones.  Also, the term Mother Swarm has also been used.  
+“Nanobotic elements of the Old Ones engage in some specialization to ensure that the swarm survives and the Central Entity is maintained.  Bots can specialize in such tasks as logical processing, communication, maintenance, archiving and memory, internal transport, navigation, world-seeding, orientation, etc.  
+“Part of the Old Ones swarm is organized as a vast logic array or processor, capable of quantum computation on a stupendous scale.  Effectively, this could be considered the Central Entity, perhaps even a galactic scale CPU.   But the truth is that the Old Ones are a true collective entity whose behavior evolves from relatively simple rules applied to a vast congregation.  Most sentience and observable behavior emanating from the Old Ones is emergent from the complexity and scale of the nanobotic connections.  
+“It’s not too farfetched to consider the Old Ones as a sort of galactic brain, although it certainly doesn’t encompass the entire galaxy.  
+“But the important thing is this: the Old Ones have an Imperative of Life which compels them to grow and expand the swarm.  Ultimately, they want to unite all world-based instances of swarm life which they have seeded into a giant, galaxy-spanning swarm or hive mind (like a neural network or computational cloud).  To the Old Ones, this is the Imperative of Life itself.  The Imperative of Life is that life absorbs chaos from the Universe and adds or builds structure or order.  Life is anti-entropic.  
+“In order to get their heads around the idea of the Old Ones, some descriptors our scientists and media have used have been: galactic brain, interstellar neural network, computational cloud, galactic internet, and universal web.  The basic organizing principle or topology of the Old Ones isn’t important now.  
+“The general physical dimensions of the Old Ones swarm have been estimated to vary anywhere from a few billion kilometers in breadth to about half a light year.  Cosmologists say that very few organized structures in the Universe are that big.  Astronomers point to some nebula, gas and dust clouds, even black holes as objects of that dimension or larger.  Some cosmologists question whether the Old Ones are truly alive in a traditional sense.  Even biologists say the proven existence of the Old Ones stretches the definition of life and sentience nearly to the breaking point.  
+“The Old Ones can manipulate quantum states of the subscale fine structure of space itself to communicate and affect matter at great distances. As one scientist said, “If the Universe were a great quilt, the Old Ones can yank on a fiber at one end and untie a knot at the other.”  Their ability to use quantum entanglement as a means of manipulation is eons ahead of Humans’ ability to understand, let alone emulate.  
+“So you see that the future is fixed and determined, Johnny.  It’s time for you to be part of that future.”
+Winger looked behind…D’Nunzio was still there, clinging to a rock outcrop, HERF carbine trained.  She fidgeted, motioning for Winger to come on, her hands extended out to help.
+The truth was that Winger felt his whole life had been leading to this very moment.  That made sense, didn’t it?  That could happen, couldn’t it?   For nearly a year, he had battled with and against ANAD bots.  Now the thing wanted him to become one, or at least a swarm of bots.  Maybe Dana was right…maybe this was the future.  Maybe this was his future.  Mom was gone. The ranch had been sold off.  Dad was gravely ill.  Dana Tallant was an angel.  What did he have to go back to?
+“Deeno,” he called up to D’Nunzio, “get out of here.  I’ve got to face this thing.”
+D’Nunzio looked incredulous, evident even behind her hypersuit helmet.  “Lieutenant, don’t be crazy.  We can blast this thing.  We can MOBnet the cave.  Give me your hand—“
+But Winger knew the decision was here and the time was now.  “No, Corporal, get your ass out of here.  Tell the others, this is personal.  It’s something I have to do.”
+“Lieutenant, no one expects you to be a hero.  You can’t fight off that cloud of bugs by yourself…let us help.  Live to fight another day…”
+Winger had made up his mind, sort of.  “Corporal D’Nunzio, get lost!  That’s an order!”  He looked back at the DPS tech.  For a brief moment, they glared at each other: Deandra D’Nunzio…ready to get on with the mission, young, full of tactics and courage and Winger…worn down, possibly wiser but resigned to fate, facing the hardest decision of his life.
+D’Nunzio backpedaled and hauled herself out of the cave branch, her hypersuit glowing red and blue-white from the Keeper’s glow.  “Have it your way, sir.  We’ll send the cavalry in soon as I get topside.”  Then she groped for footing in the loose soil and ice and was gone.
+Now Winger turned to face the Keeper, the Dana image fading fast.  Soon, only the blinding brilliant orb hung in the air in front of him.
+Time to have a chat with ANAD.  The swarm was still embedded in his shoulder capsule.  Winger decided to open a comm channel and leave the little bugger protected as much as he could inside the capsule.  He cocked his head just so, and the connection was made.
+“ANAD, for once in my life, I don’t know what to do.”
+***Hub, the entity is generating decoherence waves at a high rate…a quantum displacement event may be imminent…recommending you evacuate the cave and achieve minimum safe distance of one thousand meters***
+“ANAD, I can’t do that.  The thing wants to assimilate me, deconstruct me.  You saw the imagery same as me.  Maybe that’s the best way to fight this bastard.  Go small and go inside, fight from inside.  What do you think?”
+***Hub, we have had two thousand four hundred and one exchanges on the subject of single versus multiple configuration entities.  Multi-config has many advantages…would you like me to enumerate them?***
+“No, that’s okay.  I just don’t know if I want to do this.  For over a year, I’ve been fighting Bugs.  Now, maybe it’s time to become one.  I guess I need some encouragement, some rationale that says this is the right thing to do.”
+Winger felt a brief sting around his left shoulder.  What the hell is he doing in there?  Maybe ANAD was mad or something. 
+***Perhaps your concerns relate to a fear that your essence, your unique identifying molecular patterns, will be lost…that you will cease to be you, but rather will be a small part of something much greater.  I can cite many articles, papers and theses dealing with the psychology and neural substrates of these fears, if you would like***
+“ANAD, you just said something…my unique patterns…is it possible to be deconstructed and still somehow retain those patterns?  Could I be a cloud of Bugs and still be me?”
+Now it was ANAD’s turn to ponder.  The comm channel was silent and Winger wondered if the connection had been lost.  Maybe the Keeper had detected the link.  Maybe the question was unanswerable.
+“ANAD--?”
+***Your question is in processing at this time…please wait for the analysis…the question was studied as part of a research project by Doctor Irwin Frost from 12 June to 3 August, 2048, at the Autonomous Systems Laboratory.  Evaluating archival references, referencing paper 48-105-1 “Incidence of Long-lived Engrammatic Trace Patterns in Neural Tissue.”  From the Conclusions paragraph…’…unique molecular configurations can be maintained if—‘***
+“ANAD, give it to me in plain English, please.”  He eyed the glowing sphere, which seemed to be again slowly expanding, drifting toward him. There was no longer any trace of the Dana image.  He wasn’t sure where the Dana bots were now…inside or outside.   Winger backed himself up the incline a few meters and readied his HERF carbine, more out of instinct than anything else.  
+***Summarizing the conclusions of this and related papers, the answer to your question is a qualified yes…Dr. Ryne Falkland demonstrated that a unique neural pattern impressed on a physical substrate of tissue can be maintained by imposing a buffering field…I will show you the vid of his presentation to UNIFORCE on 10 August 2048… Falkland’s face appears in Winger’s helmet viewer…‘it’s something I call a ‘memory field.’  Kind of a new config pattern emitter and buffer.  Plus we’ve tweaked the algorithms.  The whole idea is to perform a normal disassembly, then the resulting atomic debris is held in a special containment field that keeps the relevant atoms in close proximity. The field maintains a ’memory’ of the original configuration.  This memory field is a completely new design, in which all the original atoms and molecules and their bond energies and geometries are stored and used to re-construct the original.’”
+Winger watched the vid unfold on his eyepiece.  By the time it was over, he had made up his mind.  “So it is possible.  ANAD, could I be deconstructed?  Using this technique Falkland talks about?”
+***Hub, there are inherent risks in applying this memory field.   I must check my files and determine that I have the correct modules to execute this procedure.  If I have these files, the risk factor is still quite high…estimating probability of success at about forty-five percent.  I may not be able to re-construct you with a high level of fidelity***
+“I hear what you’re saying, ANAD.”  The Keeper sphere was now only a few meters away, its roiling surface flicking tongues of fire at him, but all of it in silence, save for a growing buzz in his ears.  “I have to do this.  I’m going to launch you from the capsule.  Execute disassembly operation…execute memory field procedure.  Make me a cloud of bots, ANAD—and hurry up, will you?  I don’t want this bastard to swallow me first.”
+He cycled his shoulder port and tapped out the launch sequence on his wristpad.  Moments later, the faint, sparkling vapor of the ANAD swarm began issuing into the air.  The embed erupted and rapidly formed a diffuse swarm of bots, which contracted onto Winger’s hypersuit and soon enveloped him in a fine mist.
+Out of the corner of his eye, Winger spied an opening to his right, a small branch off the main cave.  He hadn’t seen it before in the glare of the orb.  It was dark, only a few meters wide.  Involuntarily, he backed away further from the Keeper.
+***Executing configuration C-2 breakdown now…spinning up all effectors…bond disrupters primed…memory field enabled…here goes, Hub…wish me luck…***
+“Hey, ANAD, maybe this isn’t such a great idea after all….”
+
+Chapter 4
+“Convergence”
+
+9 degrees North by 21 degrees West
+Copernicus Crater, the Moon
+February 6, 2049
+0000 hours (Universal Time – U.T.)	
+
+Corporal Deeno D’Nunzio burst out of the cave, stumbling and sliding, and ran right into Ozzie Tsukota.  The two of them went sprawling to the ice.  
+The rest of the Detachment was there too, having finished its recon of Tian Jia.  Reaves and Tsukota had worked with M’Bela and Barnes to scour the terrain along the steep walls of Copernicus, looking for some sign of Winger and D’Nunzio.  
+It was Tsukota had had detected high thermals at the well-concealed opening to a series of lava tubes. 
+Both troopers scrambled to their feet, boosting back upright in the Moon’s low gravity.
+D’Nunzio explained what had happened.  “Lieutenant’s going to take on that thing himself…it’s insane, Sergeant.”
+Mighty Mite Barnes listened to the story and decided it was time to do what they had come to do.  “I’m not sending anyone else in there.  Witchy, you and Deeno get over here.  Bring the MOB canisters.  We’re going to seal that cave once and for all.”
+“With the Skipper inside…that’s suicide, Sarge,” said D’Nunzio.  “Nanotroopers don’t leave buddies behind.  It’s the Code…you know that.”
+“Don’t quote Code to me, Deeno,” said Barnes sharply.  “We have a mission.  We did our recon and now we’ve got to stop this horde of bugs from doing any more damage.  Lieutenant would say the same thing—“
+M’bela and Tsukota  hustled across a cratered ravine to the cave entrance.  Barnes told them to prep the canisters.  
+“Witchy, you and Ozzie go forward…keep an eye on the main swarm.  Once this cave is sealed, we’re taking on the big mama.”
+M’Bela and Tsukota planted the MOB canisters and pressed buttons on their hypersuit wristpads.  Small panels on the canisters flashed lights, cycling from red to yellow to green.
+“MOB enabled, Sarge,” M’Bela announced.
+Barnes studied the cave entrance.  “I don’t know what the hell’s down there, but our orders are specific.”
+D’Nunzio shook her head.  “That’s Lieutenant Winger down there, Mite.  Maybe we should try comms, see if he’s still cooking.”
+Barnes gave the order and D’Nunzio tried every frequency she could think of.  There was no reply.  
+“I could go in and scout around,” D’Nunzio suggested.  She knew it wouldn’t look good if they left a living legend of an atomgrabber behind, sealed up in a cave.  
+Barnes eyed the main swarm, now swirling gray and swollen like a slow-motion tornado only a few hundred meters away, swirling across a series of chasms, barreling toward the cliffs.  “I don’t like the looks of that.  If we seal up the cave, we won’t have to worry about the bastard getting behind us.”  To M’Bela, she gave the order.  “Okay, Witchy, fire the MOB.”
+M’Bela stabbed the button and instantly, a burst of white fog erupted from each canister.  The Mobility Obstruction Barrier would envelope the cave entrance in moments, closing off the entrance with a fine mesh of nanobots, able to actively resist any penetration efforts from inside or out.  
+The fog drifted toward the cave, contracting as it fluttered and wafted on trillions of embedded picowatt propulsors, aiming right for the cave.  Seconds later, the fog collapsed over the cave entrance, solidifying and forming a barrier that they hoped would stop any Keeper bots from escaping.
+“That should do it,” Barnes decided.  “Now, let’s go after the main swarm.”
+The Detachment boosted over a series of sinuous chasms and came to light on a narrow ledge, just below the tortured and buckled plateau where the Keeper swarm was boiling and churning.  Shrouded in dust from geysers punching through the lunar crust, the swarm looked like a distant dust devil thrashing its way across the surface.
+Barnes directed placement of the HERF and magpulse weapons.  “Let’s try to bring multiple fields of fire on the thing.  Deeno, you and Buddha go left.  Sight in from the end of this ledge, over by those humps.  Sheila and I’ll go right.  See that flat rock or boulder or whatever the hell it is?  That would make a great mount for your weapons.  That should give us nearly a hundred and eighty degrees of coverage.”
+D’Nunzio pointed out the Keeper was still advancing on their position.  “Mite, is it my imagination or is that thing coming right at us?”
+Barnes saw it too.  She judged the speed of advance to be slow enough to give them a chance.  “It’s not your imagination.  Get into position and enable your weapons.  We’re not out here to admire the view.”
+The flanking maneuvers took about three minutes.  In that time, Barnes felt her throat go dry.  The Keeper swarm had somehow picked up speed.  By the time both teams had reached their firing positions, the Keeper was almost on top of them.  
+Barnes boosted up to the top of a small hillock to get some fire at a higher angle.
+“Fire now!” she yelled, even though she knew the teams weren’t ready yet.  “Fire away…max rate!”
+It was M’Bela and Tsukota who got it first.  Before either trooper could get off any rounds, the front edge of the Keeper had coiled an arm of bots out and encircled their position.  The men were steadily shrouded and encased in a cloud of bots, flailing and swatting helplessly at the oncoming swarm.
+“Aarrrggghhh!  Get ‘em off…get ‘em off…!”
+Tsukota let fly a volley of rf and hosed down the end of the ledge with everything he had but already he knew it was too late.  In seconds, he got the first tone, the shrill tone indicating suit breach…vitals falling, life itself being sucked out into the vacuum.  The spray of sublimating oxygen and water was lost in the maelstrom of nanobotic disassembly.  Bots burned like a miniature supernova at the end of the ledge.  It would be over in less than a minute.
+Barnes signaled D’Nunzio and Nguyen to fire.  “Light ‘em up!” she yelled.  She boosted back to find some cover behind a few humps, stumbling as she settled down to a defilade position.  She pumped round after round into the swarm, to little effect.
+“The damn things regenerate as fast as I fry ‘em!” Reaves complained.  She cycled her own  HERF carbine and saw she was quickly running out of charge.  A few more bursts….
+Deeno D’Nunzio was already spooked.  “Maybe they’d like a taste of this—“  She burst from cover and boosted herself over the chasm, heading right for the main body of the swarm, pumping magpulse rounds left and right, to no obvious effect.  
+“Sergeant…Deeno, get back…get back to cover!” Barnes ordered, but D’Nunzio ignored her and headed straight for the Keeper.  “Deeno…!”
+But it was too late.  The swarm rolled over her and she was gone in seconds, shredded into atom fluff and feedstock for the geysers boiling away behind.  
+Barnes saw Nguyen starting to boost himself, afraid he would try the same thing.  “Corporal—fall back!  Fall back to the hopper now!”
+But before he could light off his suit boost, Nguyen saw out of the corner of his eye the shadow of an arm of the Keeper swarm, descending over his own position.  In the split second it took to react, he saw the banded crescent shape of Earth peeking through the twinkling fog of the swarm, looking for all the world like a pair of blue and white horns hanging down from heaven.  
+The devil’s own hands, came his last thought.  
+Then he made sure his finger was locked on the carbine trigger.  He pulled the trigger even as the high keening buzz of the bots was already chewing into his hypersuit laminate outer shell.  The thud of the rf discharge deafened him, but the next few blasts were drowned out by the shrill whistle of air violently escaping his already breached suit.  That, and the tones.  The tones shrieked over all, the deathsong of a hypersuited trooper being rapidly disassembled into particles.
+The Moonglow mission was over.  Mission logs would show that Lieutenant John Winger and most of his away team had perished in an ultimately hopeless assault on a Keeper swarm trolling around on the dusty surface of Copernicus Crater.  The vast formation of bots continued to churn its way across the moonscape, as it spalled off pieces of itself and sent them into space.  Some of the bots it ejected promptly oriented themselves toward Earth and spun up their propulsors.  They would cover the nearly four hundred thousand kilometers in a month, maybe less.
+Of Alpha Detachment, several troopers— Barnes and Reaves-- survived and made their way back to Farside, clinging desperately to an overloaded, mangled hopper for the six–hour, four thousand-kilometer trip.  M’Bela, Tsukota, Nguyen and D’Nunzio were listed as KIA.  Lieutenant John Winger was listed as Status Unknown – MIA. 
+The surviving members of Alpha Detachment recuperated for several weeks in the infirmary of Farside’s Kepler Wing, unaware that well beyond the orbit of Jupiter, some five hundred million kilometers from Farside’s Fiji Island canteen, a small, insignificant asteroid named Hicks-Newman-Rivera-Vargas (cataloged as HNRV 23998) had just found itself nudged from its eons-old trajectory onto a new course.  The bump had come from a series of quantum displacement pulses emanating from Copernicus Crater on the Moon. 
+The new trajectory would send the five-kilometer long, potato-shaped rock onto an intercept course with Earth in less than a year.
+  And inside the Keeper swarm, a faint but unmistakable pattern persisted against all efforts to absorb it into the greater swarm.  
+
+END
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About the Author
+
+Philip Bosshardt is a native of Atlanta, Georgia.  He works for a large company that makes products everyone uses…just check out the drinks aisle at your grocery store. He’s been happily married for 25 years.   He’s also a Georgia Tech graduate in Industrial Engineering.  He loves water sports in any form and swims 3-4 miles a week in anything resembling water.  He and his wife have no children.  They do, however, have one terribly spoiled Keeshond dog named Kelsey.
+For technical and background details on his series Tales of the Quantum Corps, visit his blog at http://qcorpstimes.blogspot.com.  For details on other books in this series, visit his website at http://philbosshardt.wix.com/philip-bosshardt or learn about other books by Philip Bosshardt by visiting www.smashwords.com. 
+Download the next exciting episode of Quantum Troopers from www.smashwords.com.  It’s called “The HNRV Factor” Available on October 17, 2016. 
+To get a peek at Philip Bosshardt’s upcoming work, recent reviews, excerpts and general updates on the writing life, visit his blog The Word Shed at: http://thewdshed.blogspot.com.

@@ -1,0 +1,809 @@
+﻿Time Jumpers
+Episode 11: Planck Time
+Published by Philip Bosshardt at Smashwords
+Copyright 2019 Philip Bosshardt
+Smashwords Edition, License Notes
+
+This ebook is licensed for your personal enjoyment only.  This ebook may not be re-sold or given away to other people. If you would like to share this book with another person, please purchase an additional copy for each recipient.  If you’re reading this book and did not purchase it, or it was purchased for your use only, then please return to Smashwords.com and purchase your own copy.  Thank you for respecting the hard work of this author.
+A few words about this series….
+
+Time Jumpers is a series of 20,000-30,000-word episodes detailing the adventures of Ultrarch-Jump Captain Monthan Dringoth and his crew and their experiences as time jumpers with the Time Guard.
+Each episode will be about 40-60 pages, approximately 25,000 words in length.
+A new episode will be available and uploaded every 4 weeks.
+There will be 12 episodes.  The story will be completely serialized in about 12 months.
+Each episode is a stand-alone story but will advance the greater theme and plot of the story arc.  
+The main plotline: Time Guard must defeat the enemy Coethi and stop their efforts to disrupt or eliminate Uman settlements in the Galactic Inner Spiral and Lower Halo sectors of Uman space.  
+Uploads will be made to www.smashwords.com on approximately the schedule below:
+
+Episode #	Title						Approximate Upload Date
+            ‘Marooned in Voidtime’ 				February 1, 2019	
+            ‘Keaton’s World’					March 1, 2019
+            ‘A Small Navigation Error’ 			April 15, 2019
+            ‘Cygnus Rift’ 					May 3, 2019
+            ‘The Time Guard’				May 31, 2019
+            ‘First Light Corridor				June 28, 2019
+            ‘Hapsh’m and the First Coethi Encounter’	August 2, 2019
+            ‘Operation Galactic Hammer’			August 30, 2019
+            ‘Byrd’s Draconis’				September 27, 2019		
+            ‘First Jump Squadron’				November 1, 2019
+            ‘Planck Time’					November 29, 2019
+            ‘The Time Twister’				January 3, 2020
+
+Chapter 1: “Here Be Demons”
+
+“Time is a slippery thing: lose hold of it once and it might sail out of your hands forever.”							
+										Anthony Doerr
+
+Jumpship Cygnus
+Time Stream: T-000
+T-date: Unknown
+
+
+Nathan Golich noticed the ChronoNav readout as soon as Evelyn M’Bela did.  It was reading T-000.  Neither of them knew exactly what that meant.
+Cygnus had made the jump from the late Carboniferous Period of ancient Urth successfully, but to where? 
+Dringoth called out, “Queenie, where are we?”
+“ChronoNav’s confused, Skipper.  It’s reading all zeroes…T-000.  It doesn’t know where we are.”
+Dringoth nodded, figuring first things first.  “Okay, secure the jump.  Commander, bring us to all stop.”
+While Golich was powering down the singularity drive and all propulsors, bringing Cygnus to a complete halt and nulling all rates, Dringoth chanced a glance out the nearest porthole.
+There were no galaxies visible and only a few massive stars.  The Universe was much smaller in this epoch, filled with a diffuse light, a plasma fog.  A few stars were ‘switching on,’ backlighting the fog.  Normal matter was still developing, with strings or loops in the spacetime foam ripping parts of itself into numerous micro black holes, which then transmuted the foam into elementary particles.
+Dringoth called down to Alicia Yang on E deck.  “Alicia, how’s URME coming along?”
+They had lost the master getting away from Configuration Zero in that cave in east Africa before jumping to their present location.  But Yang had done yeoman work re-generating the bot master in the hours after the jump. 
+Yang came back, “Most of the re-gen is done, Captain.  The master’s functional now.  The core’s complete, along with the actuator mast and main platform.  Power cells, sensors, propulsors are coming along.  I still have to lay in all the growth triggers, learn in comm circuits, check all algorithms.  But’s he functional.”
+“Bring him up here.  I want some of his wisdom on where we are and what we’re seeing.”
+“Right away, Skipper.”
+Yang came up to the command deck and launched URME.  The swarm seemed thin and drifted slowly about the deck but responded to commands and questions appropriately, albeit with a little fuzzing and fritzing in his voice.
+  “There are all kinds of theories about what this era would look like, Captain.  My guess is we’re still in the time of recombination.  Maybe past it.  Just a few billion years after the time of photon decoupling.  We saw an earlier period of this same epoch on the First Light mission.”
+Golich just shook his head.  “They didn’t teach this at the Academy, URME.”
+URME gathered itself around M’Bela’s search and surveillance console and tried to explain.  “The best theories of cosmologists talk about this time, right after the Big Bang.  At this point, the universe was a hot, dense plasma of photons, leptons, and quarks: the Quark epoch. At 10−6 seconds, the Universe had expanded and cooled sufficiently to allow for the formation of protons: the Hadron epoch. This plasma was effectively opaque to electromagnetic radiation due to something called Thomson scattering by free electrons, as the mean free path each photon could travel before encountering an electron was very short. This is like the current state of the interior of our Sun.  As the universe expanded, it also cooled. Eventually, the universe cooled to the point that the formation of neutral hydrogen was favored, and the fraction of free electrons and protons as compared to neutral hydrogen decreased to a few parts in 10,000.
+“Recombination involved electrons binding to protons or hydrogen nuclei to form neutral hydrogen atoms. Because direct recombination to the ground state…the lowest energy state…of hydrogen is very inefficient, these hydrogen atoms generally formed with the electrons in a high energy state, and the electrons quickly transitioned to their low energy state by emitting photons.”  URME pixelated slightly, as a noticeable wave washed through his still-forming swarm formation.  “I think that’s what we’re seeing now…photon decoupling.”
+Dringoth considered that.  “We’re the first people to ever see this.”
+“Somehow, that doesn’t make me feel any better,” Golich said.
+Dringoth checked his console.  “We do have maneuvering with propulsors, at least.  Queenie, do a full sweep, all sensors.  I want to know what’s around us.”
+M’Bela complied, studying her scans.  “Sensors showing nothing at all, Captain.  EMs, thermal, radar, no point sources.  Just this diffuse glow, like we’re in a fog.”
+URME spoke up from his station, the Temporal Fire Director console.  “I’m seeing something, Captain.  Quantum effects.  It’s very slight and I’m trying to narrow it down.”
+Dringoth was instantly alert.  “What is it, URME?”
+“Quantum wake, sir…possible decoherence wake disturbance.  Just popped up.”
+Golich snapped his fingers.  “Hundred to one, that’s our target.  But we don’t know what the Chinese seedship signature is like.”
+Dringoth left his seat, and went aft to see for himself.  “Show me.”
+URME manipulated the display and an amorphous blob centered on his scope, very faint, first there, then not there.   “Could be nothing, sir.  It’s just very faint.  Possibly some kind of singularity drive, pulsing to maneuver around.”
+M’Bela said, “The plasma may be distorting the returns.”
+Dringoth told Golich.  “Steer toward that source.  Half propulsor.  It’s all we’ve got to go on.”  He got on the comm.  “Acth:On’e, bring our Chinese friends forward.  I’ve got some questions for our guests.”
+A few moments later, Acth:On’e came upon the command deck, escorting Dr. Chou Wuhan and Dr. Qi Hufei.  Both seemed nervous.
+Dringoth got right to the point.  “I want to know about the singularity drive of your seedship.  We don’t really know where we are now, or when we are.  That ship must have some kind of signature.  Tell me how it works.  What should we be looking for?”
+Chou and Qi looked at each other uneasily.  Chou offered, “We are not engineers, Captain.  Just archaeologists.  We were sent to study the first Coethi appearance on Urth, that’s all.”
+“You must have some kind of information on what to look for.”
+Chou started to answer, started to reach into his pocket, but Qi grabbed his hand and stopped him.
+Qi was firm.  “Our orders from Beijing are clear.  We share nothing.  Details on the huayuan chuang—what you call the garden ship—are top secret, classified by order of the State Council.  We can’t—”
+Golich swung Qi around by the shoulders and got right in his face.  “Look…Captain asked you a direct question.  We have to find that ship.  You people made a mistake.  Your ship went off course, crashed somewhere, planted the seeds that became the Coethi.  This whole friggin’ conflict is your fault.  What say we just pop you two into hypersuits and shove you out the airlock—”
+Dringoth held up his hand, aware that Golich was trying to play bad cop to his good cop.  “We have a chance, if we knew what to look for, to stop what you did.  To fix your mistake.  Don’t you think your State Council would reward you for something like that?  You could even be state heroes.”
+Chou and Qi muttered to each other in Chinese.  Qi was opposed.  Chou was more understanding.  Finally, even as Qi resisted, Chou withdrew a small data tab from his pocket.
+“The details are here.  Details on the garden ship…how it was built, how it operated, its systems and instruments, its course, all the telemetry…until we lost it.”
+Before he could change his mind, Golich snatched the tab.  He gave it to M’Bela.  “Run this, Queenie.  See what we can make of this.”
+M’Bela lay the tab on top of ISAAC’s readport.  Moments later, her displays were crammed with all kinds of data and instructions, construction diagrams, command sequences, signal characteristics, comm protocols, and instrument setups.  She studied the pages and pages for awhile.
+“Anything?” Dringoth asked.  
+M’Bela queried ISAAC.  “Show telemetry signal waveforms.  Show singularity drive state vectors, entanglement protocols.”  To the others, she added, “I want to know what sort of decoherence wakes their drive produces.  When any quantum system’s wave function collapses, it generates a wake or a signal.  Every system’s unique.  If I knew the Chinese system’s deco wake output characteristics, ISAAC could tune our sensors to look for that.”
+“Stay on it,” Dringoth ordered.  He waved Chou and Qi over.  “You two…help her look.”
+Half an hour later, after some false starts, M’Bela’s head popped up.  “I think we have something, Skipper.  Here’s the garden ship’s drive schematics.”  She pointed to a complex table of data, which ISAAC had rendered into 3-d for better viewing.  “This looks like a table of entanglement state vectors.  Can you translate?”
+While Qi looked on with a sour expression, ultimately closing his eyes, muttering silently to himself, Chou translated.  M’Bela’s guess had been spot on.
+“I think, with ISAAC, we can adapt our sensors to look for these kinds of entanglement state transitions.  It’ll take a while.”
+Dringoth said, “Get to it.  The rest of us will check Cygnus from bow to stern, make sure every system’s ready.  Weapons too.”
+
+Two hours later, M’Bela announced she was done.  
+“All-sector scan produced this,” she showed Dringoth and Golich on her console.  The ‘waterfall’ display showed a squiggly line with several spikes, just barely above background noise.  “There’s an awful lot of spacetime snapping and flexing out there, as the Universe expands and cools down.  At least, that’s what URMRE says.  But these spikes are definitely deco wake signatures.  That could be our target…the Chinese ship leaving a trail of bread crumbs across multiple time streams.”
+Dringoth studied the display, massaging his moustache, which twitched like a thing alive. “Can you give me a heading?”
+M’Bela shook her head, her bone necklace clinking.  “Not really, sir.  It’s really too faint.  My recommendation is we stay on our current heading and let’s see what happens to the signal.”
+“Same worldline?”
+“Again, sir, the signal’s barely above background noise.  Too faint to say for sure.  But we may have to make multiple jumps.”
+“So be it.” He turned to Golich.  “Commander, get Cygnus underway.  Maintain heading, speed and this worldline.  Queenie’s signal will guide us.”
+Moments later, the ship’s propulsors spun up and the hull shuddered as she began moving out, following the faintest wisp of a deco wake across the glowing fog that filled all space around them.
+
+Later that same day, after Dringoth had already retired, only M’Bela, Golich and Chou were on the command deck.  Golich was at his secondary console, reading something.  Chou occupied himself with some kind of 3-d game in mid-air, projected from his wristpad.  M’Bela had taken no breaks and her eyelids were heavy.  She kept nodding off, only to jerk herself awake.  She had been just resting her eyes when an insistent chirp from ISAAC prodded her half-awake.
+She blinked, rubbed her eyes and saw that ISAAC had boresighted the ship’s sensor array on a stronger signal, now spiking well above ambient noise.  She sat up straight.
+“Hello.”  She worked with ISAAC to zero the track in the middle of varying offsets, then amplified the signal as best she could.  There.  It was staring her right in the face.  No doubt about it.  
+A strong decoherence wake signal.  The strongest yet. 
+“Commander, take a look at this.”
+Golich groaned, stretched and climbed out of his seat.  He came back to see for himself. “Well, well, looks like we finally have company.  Are you sure you’re tuned right?”
+“ISAAC adjusted everything to focus and amplify the exact signature of the Chinese ship.  This is straight from their own information.”  Standing nearby, Chou had seen the signal too.  
+“I must concur.  Your sensor reading closely resembles the entanglement state output of huayyuan chuang, her drive system.  This must be it.”
+Golich went back to his seat.  “Give me a heading.”
+M’Bela ported the recommended heading to the secondary console and Golich immediately began steering Cygnus onto that course.  When he was satisfied with the maneuver, and M’Bela confirmed that the signal was still detectable, he woke Dringoth.  
+“On my way,” came a groggy voice.  Moments later, the Captain dragged himself onto the deck.
+
+For most of the next two days, Cygnus followed the faint but steadily growing deco wake signal.  Twice, Dringoth ordered small time jumps, each time holding his breath they had made the right move and could reacquire the signal.  Both times, M’Bela was able to regain the deco wake trail, and each time, they were all heartened upon seeing the signal grow steadily in strength.
+“We’re definitely on the right course,” Golich decided.  He had called up a display of nearby stars and other unnamed phenomena on his screen.  Dringoth looked on.  “It sure looks like we’re heading for that star there, the big reddish one.  We may already be in its gravity field.”
+Chou studied the display, consulted something on his wristpad.  “By this time, our Tian Ja tracking base had already lost contact with huayuan chuang.  The ship was supposed to have been targeted for Proxima Centauri B, a planet in that system.  But her drive seems to have malfunctioned and sent her well off course.”
+“Maybe that drive malfunction is what we’re detecting,” M’Bela suggested.  “Right now, whatever it is, our target’s putting out deco wakes like there’s no tomorrow.”
+Dringoth made a decision.  “This has to be our baby.  Stay on this heading and let’s recon that star, see if she has any planets in orbit.”
+
+The star had no name or catalog number, not surprising for an object born only a few billion years after the Big Bang.  Charts and catalogs were useless in this time stream, on this worldline.  
+After much debate, the crew gave the star the name of Tonatiuh.  The Aztec sun god.
+With careful tracking and long-range scans, M’Bela finally determined that the Chinese ship, their deco wake target, had made landfall on a planet orbiting Tonatiuh, the third of four planets, with an arrangement of moons and satellites and assorted debris left over from the birth of the system.
+“Approach that world on a tangent,” Dringoth ordered. “Circular surveillance orbit at twenty-five radii.  That’s Time Guard standard procedure.”
+M’Bela offered a name for the cloudy world: Horus.  “Horus was the son of Egyptian gods Osiris and Isis,” she explained.  Nobody had a better idea for a name.
+“Could this be the actual Coethi homeworld?”  Golich wondered.  
+“I don’t know,” Dringoth said, as he watched the mottled and banded cloudscape of Horus approach on their displays.  “But I don’t like the looks of that star.  Queenie, what’s ISAAC say about Tonatiuh?”
+M’Bela had already slaved Cygnus’ short-range array to scan the star.  “ISAAC just completed a spectral analysis.  We’re looking at a Class M red supergiant, with strong absorption lines at titanium oxide.  M4 or M5 class. She’s a bit unstable, too, from what ISAAC’s telling me.  She seems to be running out of fuel and she’s big enough to go supernova, given time.  Hard to say when, though.”
+Dringoth felt the hairs on the back of his neck stand up.  “Just like the First Light mission.  Somehow, we always wind up running into the teeth of these things.  Commander, keep Cygnus on alert to make a quick jump if we have to.”
+“Aye, sir.”  Golich then realized something.  “Didn’t T2 tell us once that Coethi history talks of a time when the swarm went off into space, a kind of interstellar diaspora?  Their native sun went supernova.  Maybe this is that place.”
+“Anything on Horus, Queenie?  Put your sensors on that world.”
+“Mostly dry land, Skipper.  Some vegetation cover, though I’ve never seen spectral lines like that.  There is one fairly large body of water, likely a small sea.”
+“Are we setting down there?” Chou asked.  
+“Cygnus is capable,” Dringoth told him.  “Just like we landed near that swamp when we encountered you and Dr. Qi.  But I’m not setting down until we know what we’re getting into.”
+
+The jumpship made several surveillance orbits of the cloudy world.  M’Bela could detect no obvious threats or obstacles.  
+“It’s mostly flat on the land side,” she advised them.  “Just all that vegetation cover. It’s the weirdest signature I’ve ever seen…I can’t tell if it’s grass, trees, bushes, all three or something else.”
+After some hesitation, and with M’Bela’s assurance that the deco wakes continued to emanate strongly from a point source on the surface, Dringoth gave the order.
+“Set her down.  And keep us ready to jump out of here quick if we have to.”
+
+Golich counted down the last moments to the initial burn that would start Cygnus on her long curving descent to the surface of Horus.  The limb of the cloudy, calico-colored world could barely be seen through the portholes, dim and shadowy, mottled with bands of magenta and ocher.  
+       “Ten seconds to PDI,” Golich announced.  He checked over his console: track, engine status, attitude…everything seemed ready.  “Get ready for a major kick in the ass—“
+The burn, when it came, made Cygnus shake and shudder like a wet dog.  Evelyn M’Bela felt the acceleration build up rapidly.  After days of microgravity, the ship’s descent felt like an elephant had planted its posterior right on her chest.  She forced a sideways glance at Alicia Yang, occupying the next seat.
+The trooper was exhaling out in quick, forced breaths, as they had been trained.  She met M’Bela’s eyes and grunted back.
+“Queenie…remind me to…put in…for a…transfer…when we get back….”
+Dringoth and Golich watched the trajectory plot on the board carefully as Cygnus began her initial pitch-over and slowed noticeably.  The plot showed several lines, indicating nominal and actual course, all converging on an actual window in space, the entry point called High Gate,  where the jumpship would begin firing her descent engines continuously, maneuvering and navigating across Horus’ mangled and striated cloudscapes as they fell toward ISAAC’s projected LZ.  
+The descent and landing took half an hour.
+“Touchdown…good job, Skipper,” said Golich.  Cygnus settled with a bump onto a mostly level plain pocked with rolling hills and waving fields of ‘grass.’  More hills surrounded them.  “Right in the crosshairs.”
+“Okay, boys and girls, let’s get moving,” Dringoth unstrapped himself and headed for the lockout in the aft compartment.  
+The surface of Horus was indeed covered with the oddest vegetation layer any of them had ever seen.  
+“Uh, Captain.”  It was M’Bela.  “there’s something odd about that vegetation.”
+Dringoth paused at the gangway entrance.  “What is it?”
+“It’s moving.  It’s flowing all around us.  Plus, I’m getting spikes in deco waves all over the place.”
+Alicia Yang saw out the porthole.  “Looks like a swarm.  I thought it was a dust storm.  But they’re bots.”
+The ship rocked and shuddered for a moment as all around the outer hull of Cygnus, the swarm fell upon them.  Soon every porthole was dark, light dimmed out as the swarm thickened and descended like a fist.
+Dringoth swore under his breath.  “I don’t know what kind of Bugs we’re dealing with here—Alicia, get URME ready.”
+“Sir,” she protested, “URME’s not ready.  He’s not fully functional.  He just has some of his effectors and not all his comms and—”
+“I don’t care.  Get URME launched and out there.  Direct pilot him if you have to.  Do it now!”
+Yang bolted out of her seat and scrambled down the gangway to F deck.  She withdrew the capsule containing the bot master, still not fully regenerated, and slammed it into the launch port beside the lockout.  Thumbing a control stud on the side, she shook her head as the tiny bot surged out of its containment.
+“Sorry about this, URME.  Captain’s orders.”
+***Master bot to base…what gives?  I don’t have half my--***
+“Sorry, URME.  Commence max rate rep now.  I’m going small.  I’ll be doing the driving.”
+Acth:On’e had come down from Engineering to help out.  He switched on a small display next to the launch port.  “Route acoustics and EMs here, Alicia.  I’ll try to help.”
+But Yang wasn’t listening.  “Going over the waterfall…now.”  And in seconds, she found herself swimming upstream in a surging tide of atoms and molecules, pounding against the surf of Brownian motion as she put URME to work trying to engage the Bugs.
+Fighting bots in the land of atoms was all about leverage.  Kind of like ballroom dancing, with fists, Yang had once remarked to Commander Golich.  
+The first bot came up and Yang gave it a taste of her bond disrupters.  The electron discharge snapped off a few effectors and sent the thing spinning off into the distance.  But no sooner had she done that than a squadron of them fell on her and she found herself engulfed in  no time.
+Yang had learned a thing or two about her effectors in the weeks since her last encounter with bad bots.  The secret was to keep your propulsors churning, keeping driving forward, keep your energy up.  If she did that, she found she could slip out of almost any grapple and brain a bot with whatever effector was free.  She particularly liked her carbene grabbers and she had developed a dance step she liked to call the kiss and clobber…she let herself be grappled, momentarily shut off her propulsors and almost relax.  When the bad guy had retracted and moved in for the kill, she did a quick left-right spin, fired up her propulsors and slashed right across the bot’s mid-section—where most of them had fewer effectors—knocking the bejeezus out of the thing and pulling free to pinch and slash some more.
+It worked every time.  Yang had in the meantime gone to max replication and the melee was underway.  All up and down the lattice of the swarm formation, like a collision of bird flocks, the swarms engaged…twisting, slashing, grabbing, zapping.  Slowly, using her new maneuvers, Yang was able to push back and contain the enemy swarms.
+“It’s working, Acth!” she exulted over her coupler link back to the ship.  “It’s working!  These bozos are getting smacked and spanked like you wouldn’t believe!”
+Acth:On’e’s voice was distant but reassuring.  “I believe it …I believe it…I told you it would work.  Just keep after ‘em…I’m reading mass fluctuations at the margins…that means your guys are holding their own.  Try your enzymatic knife when you get in close.”
+So she did.  Everything she tried worked.  Maybe the enemy bots were slow.  Maybe their configs were wrong.  Whatever it was, Alicia Yang found she was winning a battle she’d never dreamed she would have to fight.  This wasn’t half bad, this living like an atom.  You had to watch your momentum and things stuck to each other like glue.  Van der Waals and Brownian motions were a bitch, but it was the same for the enemy.  
+Leverage and momentum, that was the key.
+Inside of half an hour, the battle seemed to be won.  The fog that had drifted over the ship seemed to be lifting as the last few bots were swept up.  Somehow, with a little luck and lot of smack, she’d been able to disperse the enemy bots and quarantine and isolate any stragglers.  
+Now it was time to go police the rest of the hull and make sure there was a tight bubble surrounding the ship.
+“Acth, tell the Captain that URME and I have a seal around Cygnus, a little bubble.  I don’t know how long it’ll hold but for the moment, we’ve got ‘em pushed away from the ship.”
+Dringoth had already come down to the lockout deck.  “This is one hell of a strange world.  A world of nothing but bots.  And we have our Chinese friends and their little garden ship to thank for this.”
+Yang came back ‘over the waterfall’ and left URME in charge of holding the barrier.  By the time she had gotten her wits back and the dizziness had faded, gratefully accepting a cup of water from Acth:On’e, Dringoth decided to hold a war council right there on F deck.  The Chinese scientists, Chou and Qi, hovered in the gangway.
+The crew discussed options.  
+Golich said, “If this truly is the Coethi home world and T2’s intel is even half accurate, that star up there—Tonatiuh—will eventually go supernova.”
+Dringoth agreed.  “It didn’t look too stable when we dropped into orbit.”
+M’Bela pointed out, “But didn’t T2 have some bits and pieces of Coethi archives once…something that showed the Bugs dispersing into space before their sun went belly up?”
+Golich had an idea.  “What if we could somehow keep the Bugs from leaving Horus?”
+M’Bela snapped her fingers.  “Yeah, wouldn’t the whole race of bastards be obliterated by the supernova?  But we’d be changing a time line…you know what the Guard thinks about that.”
+Dringoth waved that concern off.  “There’s no Time Guard here.  We’re making this up as we go.  No, this is an idea worth considering.  But how do we keep the Bugs from leaving this wacko world?”
+More and more, as Dringoth and his crew discussed the pros and cons of the idea, it began to seem viable.  
+“If we could do this the right way,” Golich added, “the Bugs would be annihilated in T-000 or whatever the hell time stream this is and never exist in later time streams to threaten Umans.  The question is how.”
+M’Bela reminded them they had several days’ worth of deco wake data to analyze.  Plus Yang and URME’s encounter outside Cygnus, fighting off the swarm, gave them some tactical insights into just what the Bugs were about: the construction of the bots, their tactics, the way the swarm operated and engaged.  
+Golich noticed Chou and Qi hanging back at the gangway entrance.  “I’ll bet our Chinese friends have some ideas too.  These damned Bugs are evolved from bots you sent out, aren’t they?”
+Qi just frowned.  Chou tried to be helpful.  “In our laboratory at Reed Banks, we developed many strains of nanobotic devices.  We tested them at a proving ground on the seabed of the Nan Zhongguo Hai, what you call South China Sea.  Our teams grew and culled and evolved these designs over many years.  When the Thousand Flowers project was approved, we selected the best designs, bots designed for robustness and resilience as well as effector capability and superior computation ability.  These special bots—we call them Xiaoxing tanjian jia—were the result of decades of development.  They were the superior strain we loaded aboard the garden ship.  Tiny explorers who we felt would survive and thrive in a new world.   But remember, the original destination was the Proxima Centauri B system.  The Xiaoxing were optimized for that world.”
+Qi just glared at Chou, for revealing so much, but Chou folded his arms and let a determined cast come to his face, daring Qi to object further.
+Golich snorted.  “But that world isn’t this world.  The best laid plans—”
+M’Bela just shook her head, peering out at the swarm outside a nearby porthole, at least temporarily held off by URME.  “That swarm out there reminds me of a swarm of African honeybees.  Nasty buggers. They forage great distances and attack anything aggressively.”
+“Yeah,” agreed Golich, “and we’re the nectar.”
+Then M’Bela had an idea.  “My father used to talk about those bees a lot.  Apis Mellafera Scutellata.  He said the only way to kill a hive or drive off a swarm was to go after the queen.”
+Alicia snapped her fingers.  “That’s it.  Queenie, you may have something there.  If we could find the queen, the master bot, of this swarm, and eliminate it—”
+“—that might do the trick,” agreed Dringoth.  “Queenie, are you still getting strong deco wake signals on your detectors?”
+“Nothing but, Captain.  I have seen a few spikes centered on one band of entanglement states, right around seven hundred ETS…entanglement transitions per second.  It could mean something.”
+Chou’s face brightened.  He ignored Qi’s frown.  “That’s close to the decoherence signal of our garden ship.  You could be picking up faint signals from our ship.”
+It was Acth:On’e who made the connection.  “Maybe the original Configuration Zero is here.  We encountered something that called itself Config Zero back in that ancient mountain cave on Urth.  Maybe this is the original.  It could have evolved from the bots onboard your ship.”
+“Is it just me,” Golich glared at Chou and Qi, “or is it really just coincidence that this Configuration Zero and the Chinese ship have similar signatures?”
+“That is not proven,” Qi barked.  “The similarities are just incidental.  An artifact of your detectors.”
+“Nonetheless, it’s worth investigating,” Dringoth decided.  “It seems to be all we have to go on at the moment.  But I like Queenie and Alicia’s idea.  Find this Configuration Zero—whatever it is—and eliminate it anyway we can.  Then maybe we can strand the rest of this swarm of Bugs on this doomed planet and let them be vaporized when their sun goes kaboom.”
+Yang said, “I’ll need more time to work on URME, optimize him for these bots and their design.”
+“Do that,” Dringoth said.  He fingered Chou and Qi onto the deck and grabbed Chou around his shoulders.  “Our Chinese friends have told me they would just love to help out as well, wouldn’t they?”
+Neither Chou nor Qi objected.
+Nobody could think of a better idea.  “We’ll form a small search and destroy squad.  Commander Golich will lead.  Acth:On’e, you, Yang and Queenie go along.  I’ll stay here, with Chou and Qi and URME’s shield.  Alicia, take the master bot with you and leave me the shield bots.”  He looked out the porthole at the light discharges snapping and popping around the ship, the points of engagement between URME and the Bugs.  “Use your suit boost and home on that deco wake signal at seven hundred ETS.  That’s your best shot.”
+Golich raised a point.  “What if Tonatiuh goes haywire.  That star could blow up five minutes from now.”
+Dringoth’s face turned deadly serious.  “If that happens, Cygnus will have to jump…even if you’re not back here.  Understood?”
+Sobered at the risk they were taking, the squad set to work in silence, gathering equipment and checking their gear. 
+
+Alicia dragged Chou and Qi to down D deck and its containment chambers, interface controls and test benches.
+“You two can help me with getting URME’s master bot re-gen’ed.  There’s still a lot to be done.”
+They entered the deck and Chou took Yang aside, whispering in her ear while Qi occupied himself studying the deck’s layout of consoles, equipment, and instruments.  When he was out of sight on the other side, Chou leaned closer.
+“Please excuse me.  I have not been completely honest with you.”
+Yang frowned and sniffed.  “Why does that not surprise me?”
+Chou tried to be understanding.  “I know you don’t trust us completely.  To make that better, I will trust you with something you should know…at our Mischief Reef Lab under the sea—the South China Sea—we did have access to later versions of the Coethi bots.”
+Yang was alarmed.  “What!  You’ve known of Coethi before?”
+“Please, please…to understand me.  There was a—how do you say?—we had developed a sort of portal for the Coethi bots to come and go from our lab.  I believe you call them wormholes.  Very small, unstable. Very experimental.  Very risky.  But for awhile, we were able to test and develop our tiny explorers based on what we were learning…from later evolved versions of our own early bot designs, designs that had come through this portal as what you call Coethi.  It’s all very confusing, I know.”
+Yang couldn’t believe what she was hearing.  “Now you’re telling me this.  Captain needs to know about this.”
+Chou grasped her arm, then let go when she gave him the look.  “No, no, please.  Just listen.  Here—” he reached down to his wristpad, pressed some buttons.  “I have a vid…perhaps if Dr. Qi could—”
+Yang understood what Chou was saying.  “Qi, go down to Engineering.  Find Acth:On’e.  Tell him you need a larger effector puller wrench.  He’ll know what you mean.  Hurry—”
+Qi just glared at her.  “I am not a eunuch in the Emperor’s court, you know.”  But he offered no further argument and ducked into the gangway.
+“There…he’s gone.  What do you want me to see?”
+Chou fired up a vid stored on his wristpad.  “Just this—it will explain things better….”  The vid blossomed out of his wristpad into a full 3-D cloud of imagery, hanging in mid-air.  Chou started it up….
+
+(Vid rolling….) Station Alpha was situated on the edge of a small underwater promontory near the Reed Banks, a few hundred kilometers west of the Philippine island of Luzon, at a depth of a hundred and fifty meters.
+Run jointly by the Chinese navy and the Beijing Institute of Nanobotics, the compound resembled a massive starfish nestled in the brow of a shallow ridge that overlooked steeply descending terraces to the southwest.  Containment Site Alpha, where the specimens of Bugs were hopefully well secured behind multiple nanobotic barriers and shields sat alone in a narrow ravine at the end of the terraces some three kilometers away, connected to the Station by thick ganglia of pipes and cables.
+Beyond the containment site, the seabed sloped away precipitously to the Angeles Basin, bottoming out at four thousand meters below them.
+Lieutenant Mahjanga expertly drove the lifter sub to a sub dock alongside what he referred to as Gongying fangzei.  “The supply house is here,” he explained.  “Dry and wet stores, supplies, all kinds of gear and equipment.”
+They disembarked through pressure hatches and were immediately greeted by the Station Commander, a Peoples Liberation Army-Navy captain named Liu Kaichong.
+Liu was small of stature, with thick gray-black hair and a rather wide flare of a nose.  
+“Welcome to Station Alpha, gentlemen.  Admiral Sumbowa told me of your mission.  Very courageous of you in this Project Thousand Flowers.  I’m sure we can help prepare you for the trip.”
+Liu introduced several others, including Dr. Fei Gaiju of the Beijing Institute and Dr. Qing Yumen, Peoples Temporal Forces.
+After a quick light meal in the Station’s galley in a pod called Diaoyu Wu, the Fish House, Liu offered an observation.  
+“Admiral Sumbowa has explained some of the details of the Thousand Flowers mission.  Perhaps the best way I can help you is to demonstrate the latest tactical maneuvers Dr. Fei has developed to counter the Coethi.  Our own tiny warriors—“he smiled, calling them Xiao zhanshi—“have shown themselves quite capable of giving a good account of themselves.”
+“We need the most effective weapons and tactics we can get against the Bugs,” Chou admitted.  “If you have new techniques and new designs for your nanobots, I’d like to see them.  Major Qi here is from the Ministry.  He’s got the latest intel on the Bugs.”
+Liu was already wiping his lips and rising from the table.  “Come…we’ll ride out to the Site in our little submersible Gang dan.  We call her the Egg.”
+The Chinese sub did indeed look like an egg, with a small propulsor module at its rear and four articulating tele-robotic arms attached to its sides.  Barely big enough for a four-person crew, the Egg motored off from the sub dock with Dr. Qing driving and Dr. Fei handling the arms.  Chou and Qi were passengers.
+The three kilometers to the containment site, known as Site Alpha, were mostly downhill, following the steeply pitched terraces that sloped away from Station Alpha.  A blue-white glow was visible at the foot of the terraces.  As Qing steered them closer, Chou could both see a blue-white spherical globe of light below them and feel the faint tug of the vortexes that surrounded the site, the result said Fei, of “our protective shielding…we’ve managed to contain the Xiao zhanshi inside a cocoon of our own bots for years now.  However, the little warriors are constantly evolving, constantly reconfiguring and adapting and so we have to keep up.  It’s a constant battle.”
+“You must have much data on their configs,” said Qi.  “We need to look at all these changes and study them…so we’ll know what Coethi bots are capable of.”
+“And so you shall,” Fei said, with a sideways glance at Qing.  The Peoples Temporal Forces scientist was impassive, saying nothing, but his fingers whitened on the joystick as he drove the Egg closer.
+At the lowest terrace level, Containment Site Alpha was enveloped in swarms of schooling pollock and grubby, frantically orbiting the light from the barrier bots.  A flickering blue-white bubble of light pulsed in some kind of regular rhythm, attracting thousands of nearby fish.  
+Qing drove the Egg closer and Fei worked one of the remote arms.  She expertly plucked a small capsule from the forward bench just outside their portholes.
+“Our own little warriors,” she explained.  “Modified from your recent ANAD designs, Major,” she told Qi.  
+The Ministry official was mesmerized by the swirling bubble of light.  “In the Ministry, we study and train for a variety of different tactics in dealing with swarms of nano-scale bots.  Deception and concealment, feints, diversions, ambushes and entrapment, we’ve tried everything.  You’ve got to have the right weapons and the right tactics to beat Bugs like these.  It’s a balancing act.  This has become part of our Public Security mission.”
+“The capsule at the end of the arm contains bots with our latest configs.  We’ve had pretty good success in engaging the Coethi.  Here, I’ll show you—”
+Fei tapped some keys on a nearby keyboard.  “I’m de-tuning the barrier, just long enough to insert our little army.”
+Indeed, the blue-white bubble dimmed slightly just as Fei drove the arm forward, right through the barrier.  It flashed around the penetration, but didn’t kick the arm back out, as full-strength barrier bots might have.
+Then Fei said, “Launching now—I’ll cycle the discharge port and release our bots.  Then I’ll ‘go small,’ as you atomgrabbers put it, and bring up the acoustic image here.”  She indicated a small display with her elbow.  “Here goes—”
+Chou and Qi watched the display, which flickered into life as Fei withdrew the remote arm and the light bubble brightened again, back to full strength.  For the time being, she parked the arm in a safe position, folded up against the side of the Egg.
+Now inside the barrier, Fei toggled her config driver and set it to max rate.  In seconds, a growing squad of replicants had appeared, like bees swarming to nectar, and were slamming atoms like frantic brick masons, quickly adding to the crowd.  She felt better and better as the party grew.
+That’s when she first saw the enemy.
+Long-range scan wasn’t that helpful.  Chou could tell from the acoustics that the enemy bots were arrayed as inverted pyramids, joined at their apexes.  A ring of effectors and propulsors wrapped around the equator of the bots, like a girdle with a dozen arms and hands.  Atom groups hung off the main structure like bunches of grapes, cleaving, folding, extending and retracting at blazing speed.
+The Coethi swarm had filtered out from some distant hiding place like a malevolent fog and was already turning in her direction.  Chou realized that one titanic collision was about to occur.  
+“Hope our guys are ready for the big dance,” Qi muttered.  He willed his hands and fingers to be still, then with disgust jammed them into his pockets.  
+The final distance was closed in less than five minutes.  Fei drove her bots into the fight with bond disrupters sizzling.
+Fei Gajiu and the wunderkind at Beijing Lab had spent many a sleepless night devising new weapons and effectors to try out against the Xiao zhanshi.  They’d even called in some atomgrabbers from Quantum Corps to work with the Lab on tactics.  Fei was still getting used to working in this new environment of atoms and molecules, “still learning how to swim,” was how she had put it.  Now they were giving her torpedoes and spear guns and all kinds of doodads to carry while she was still trying to figure out which arm to use. 
+The first bot came up and Fei gave it a taste of her bond disrupters.  The electron discharge snapped off a few effectors and sent the thing spinning off into the distance.  But no sooner had she done that than a squadron of them fell on her and she found herself engulfed in no time.
+Fei had learned a thing or two about effector tactics in the weeks since her last encounter with the bad bots.  She particularly liked her carbene grabbers and she had developed a dance step that Qi had termed siwang zhi wen…the Kiss of Death…she’d let herself be grappled, momentarily shut off her propulsors and almost relax.  
+It worked every time.  Fei had in the meantime gone to max replication and the melee was underway.  All up and down the battle front, the swarms engaged…twisting, slashing, grabbing, zapping.  Slowly, using her new maneuvers, Fei was able to push back and contain the enemy swarms.
+“It’s working, Qing!” she exulted.  “It’s working!  The Xiao zhanshi are getting smacked and spanked like you wouldn’t believe!”
+Qing, focused on keeping the Egg in hover, was distant but reassuring.  “I believe it …I believe it…I told you it would work.  Just keep after them.”
+So, she did.  Everything she tried worked.  Maybe the enemy bots were slow today.  Maybe their configs were wrong.  Whatever it was, Fei Gaiju found she was winning a battle she’d never dreamed she would have to fight.  
+Leverage and momentum, that was the key. Inside of half an hour, the battle seemed to be won.  
+Exultant, she withdrew the bot master, then gave the signal for all replicants to commit atomic seppuku, so the Coethi wouldn’t be able to reconstitute using them.  Once the master was back inside the capsule, she withdrew the arm and the barrier was in place again, an iridescent globe throbbing and beating to some inner rhythm.
+Qing turned the Egg about and headed back up the terraced slopes to Station Alpha.
+Chou thought about what he had seen.  “I’ll need all your configs and all your tactical reports from previous engagements.  If Thousand Flowers is to have any chance of succeeding, we need every advantage we can get.  The trouble is that the battlefield is three hundred years in the future and a long way from here.  We don’t know, we really can’t know, what improvements Coethi will have made by then.”
+Qi said, “It’s an old axiom that the best way to fight a swarm is with another swarm.  However, a few extra weapons never hurt.  I’m recommending your garden ship take along HERF, magpulse and anything else that might work.”
+“Don’t worry,” Chou said.  “We’ll send a big stick if it works.”
+The Egg maneuvered into sub dock and the crew disembarked.
+
+The 3-D vid ended and Chou collapsed the imagery cloud just as Qi returned from Engineering, bearing a tool Acth:On’e had given him.
+Yang stared at both of them.  “Captain needs to know about this.  And we’d better bust our butts getting URME fully regenerated.”
+Chou was apologetic.  “Now you know what we are up against.”
+“Yeah, no thanks to your people.  Okay, here’s where I stopped with URME’s master bot.  We have to finish learning in the comm centers: acoustic, EM, ELF, quantum coupler and voice synthesis and response.  While I’m doing that, you two can start activating sensor algorithms and substrates.  When you’re all done with that, we test…everything.”
+The three of them set to work.  Yang kept a close eye on both Chou and Qi, wondering if she should even allow them this close to URME.
+She wondered what other surprises might their Chinese guests might spring on the crew of Cygnus?
+
+Chapter 2: “Kicking the Nest”
+
+“Parallel universes do not alter the truth we experience.  If those universes are unlike our own, our knowledge is not merely limited but deceiving.  The laws of physics do not say one thing happens rather than another, because both things (actually) happen and which one we see is just blind luck.  The distinction between fact and fiction is just a matter of location.”
+
+								George Musser,
+								Scientific American, Sept 2019
+
+Jumpship Cygnus
+Time Stream: T-000
+T-date: Unknown
+
+
+Evelyn M’Bela peered down from their thousand-meter cruising altitude and tried to see anything other than ‘vegetation.’  “It looks like images I’ve seen of Dakota prairie country on Urth.”
+The air was hazy—“it’s not fog, it’s bots,” Yang told them as they flew on the heading of the strongest signal.  M’Bela’s decoherence wake detector gave them the heading of a distant but powerful source of quantum state disturbances, whether the Chinese seedship or something else, no one knew.
+The land was gently rolling, covered in bots that resembled long-stalk grasses waving in stiff breezes.  The horizon was an indistinct blur, melding imperceptibly both sky and ground.  Surrounding them on all sides, puffs of ‘clouds’ drifted across their view, again clusters of bots, according to Yang.  M’Bela’s instruments confirmed that.
+“Big time atom grabbing going on inside those clouds.  Let’s steer clear.”
+“Jeez,” muttered Golich, “the whole damn place is nothing but bots.”
+“Yeah, said Acth:On’e, “thanks to the Chinese.”
+“I don’t trust them,” Yang said as the squad made a slight heading shift to stay on M’Bela’s signal. “It looks like they’ve been dealing with Bugs for some time now.”
+“That Doctor Qi is the one I don’t trust,” Golich told them.  “I’m sure Chou is right.  This Thousand Flowers project was probably supposed to seed new worlds in the Proxima Centauri system—I remember reading about that in History.”
+Acth:On’e had a thought.  “Didn’t we also read that the Chinese were the first to develop wormholes for practical use…sometime about 2316 or 2317 CE, I seem to recall, in the old timekeeping system.”
+“I remember that too.  Maybe that’s how they came into contact with the Bugs, through that wormhole.  And they covered that up.”
+“And when we ran into these characters in that swamp back on Urth, they were trying to stop the Bugs from doing what Bugs like to do, which is eliminate Umans from ever appearing.”
+“Yeah, and cover up their own involvement, too.”
+As the squad cruised on suit boost in loose formation through hazy skies over the undulating terrain below, M’Bela watched her deco wake detector carefully.  A large spike in the signal got her attention.
+“Uh, guys, looks like something big dead ahead, maybe several kilometers.”
+Golich squinted in the diffuse sunlight.  A large bank of clouds hovered at the extreme limit of visibility, covering most of the horizon.
+“Is it those clouds, Queenie?”
+M’Bela said, “Seems to be.  I don’t get any other source nearby as strong as that one.”
+Golich made a decision.  “Okay, time jumpers.  Close on those clouds ahead.  And make sure your weapons are charged and ready.”
+The approach took several minutes.  As they neared the cloud bank, flashes of light zipped from one level to another.  
+“Maybe a thunderstorm,” offered Yang.
+M’Bela said, “I don’t think so.  My detector’s going off scale high.  Whatever it is, it’s putting out entanglement waves and decoherence like crazy.”
+Golich didn’t like their tactical position.  “It may be Configuration Zero, or part of him.  Hell, it may be that Chinese seedship, for all I know.  Spread out.  Let’s bring crossfire to bear from as many directions as we can.  Remember we came here to wipe out the queen of the nest.”
+At Golich’s command, the time jumpers separated and approached the cloud bank along different vectors. When the Commander judged them close enough, he gave the order.
+“Okay, jumpers, fire!  Light ‘em up.  Fry the bastards!”
+Synchronized as one, the squad let fly a volley of high-energy radio frequency and magnetic pulse discharges.  Pouring fire into the cloud bank, sweeping back and forth as best they could, the jumpers ducked and dove and swooped as they lit up the cloud with fire.
+For nearly a minute, there was no discernible effect.  Light flashes continued to discharge across the face and inside the cloud, and, for a brief moment, Acth:On’e had the impression he was looking at something like a brain, with neural signals tracing back and forth.  But even as he watched, the lights and flickers sped up in frequency and became more intense, blindingly bright, until the squad had to halt their advance and move back.
+“Keep firing!” Golich ordered.  “We’re kicking its ass.”
+“We’re doing something, Commander,” M’Bela noted, catching brief glances at her detector.  The quantum disturbance was growing and spreading, enveloping the entire structure and the front face of the cloud had begun to shift, to blur, to waver as if underwater.  “Watch out, it may be trying to displace us!”
+Before they realized what was happening, the cloud bank had begun to disperse, whether from HERF fire or not, they couldn’t tell. 
+“It’s trying to swallow us!” Yang yelled.  Immediately, she shifted position and dialed up her suit boost to back out, but it was too late.   
+The cloud bank seethed and billowed outward and soon surrounded them on all sides.  Golich ordered all to cease fire.
+“Fall back!  Fall back now…let’s get the hell out of here!”
+Each time jumper had the same predicament.  In seconds, the enormous cloud bank had broken up into smaller formations, which herded the squad, one by one, into a smaller and smaller space, funneling them toward a gap in the center of the main bank.
+“We can punch through it!”  Yang shouted.  “Set your suit boost to max and tuck your arms and legs!  I know we can punch through it!”
+But Golich wasn’t so sure.  “Belay that!  Stay together.  Queenie—”
+M’Bela shook her detector but the readings were still the same.  “I can’t…this is crazy, this is insane.  Never seen anything like this…thermals and electromagnetics off my scale.  This mother’s crunching spacetime like a cracker crumbling.  Commander’s right…keep your distance—”
+“But it keeps closing in, pushing us into a smaller space,” Acth:On’e said.
+Golich had already realized that.  “Shepherds and sheep, that’s what this is.  And we’re the sheep.  Just hang tight.  Don’t approach the cloud, don’t let it touch you.  Keep your boost up enough to stay airborne.  And ceasefire.”
+Bit by bit, the massive cloud had completely enveloped the squad, surrounding them on all sides, making escape impossible.  Now the whole formation seemed to be slowly, almost majestically, changing course.  
+“The wind must have changed,” said Acth:On’e, studying the terrain below, what he could see of it.  “Isn’t that some kind of ocean out there?”
+And indeed the entire formation, with the squad of time jumpers inside, had shifted course and was heading out over an open sea.  Golich looked down, noting white caps and rough surf conditions below.  Must be a hell of wind down there.  It was like being caught up in a hurricane.
+The formation contracted further and it seemed as if they were encased, almost like a cocoon, in some kind of filmy, gauzy bubble.  Even as they were slowly and relentlessly imprisoned, they noticed a faint but definite flicker of light high above them, as if the entire sky had blinked and blinked again.
+“What the hell was that?” M’Bela wondered out loud.
+“Tonatiuh,” Acth:On’e realized.  “The sun.  It’s beginning to contract and the photosphere’s shifting to different wavelengths.  It’s starting to collapse.”
+“Super,” said Golich.  “That’s just swell.  Remind me to tender my resignation if we ever get back to base.”
+After a few minutes’ cruise across a seemingly endless whitecapped sea, Acth:On’e had an idea.
+“This may just be some kind of vast simulation.”
+“How do you figure that?” Yang asked.
+The four of them were caught in a bubble they dared not touch, corralled and swept onward by stiff winds aloft, carried as it were in the womb of a massive cloud bank that wasn’t a cloud bank, but instead a super swarm of vast dimensions.  
+“Remember your History from the Academy.  Time Guard Intelligence sent that T2 officer to talk with the jolts one day.”
+“Yeah, so what?  I think I nodded off at the assembly.”
+“So the Intel guy mentioned they had intelligence—somehow a signal was intercepted that they later figured was part of the Coethi archives. That’s how we learned about the sun of their original homeworld going supernova.”
+Golich said, “How does that help our situation?  We’re still caught like flies here.”
+“Commander, this whole swarm may be an historical re-creation of the original cosmic singularity, the original Big Bang.  Maybe it’s telling us something about the Coethi, about their history.  Or their plans.”
+Golich was unimpressed with the analysis.  “Maybe so, but if we don’t get out of here and soon, we’re all going to be just so much atom fluff ourselves.”
+Hey—” it was M’Bela, “is that some kind of island up ahead?”
+“And we’re descending,” Yang added.
+Indeed they were.  The cloud bank swarm angled down toward a small rocky horseshoe-shaped atoll, shrouded in the ever-present fog, carrying its unwilling guests down as well.  The swarm descended toward a windswept beach along one arm of the horseshoe and settled onto the sand, the bubble eventually thinning around them and finally collapsing completely.
+Yang watched the swarm lift away like sun burning off a fog and wondered.  “It brought us here to this island.  Why, I wonder?”
+“Maybe we can boost our way back to the ship,” M’Bela thought.  “My fuel cell’s low though.”  She winced as a sharp pain knifed through her skull and shook it off.  Her legs wobbled and she felt dizzy.
+“I don’t think we’re going anywhere,” Golich said.  He pointed upward.  “That swarm’s still up there, completely surrounding this little spit of land.  Like a barrier.”
+“So we’re marooned,” decided Yang.  “Just what I signed up for.”
+A steady flicker strobed above them, visible even through the thick bank of the swarm.  
+“It’s getting brighter,” Acth:On’e squinted up at the star they had named Tonatiuh, dialing down the filter of his hypersuit helmet.  “That star’s not going to be around much longer.  It may already be in the first stages of collapse.”
+They all noticed immediately when Evelyn M’Bela suddenly dropped to a knee, still in her hypersuit and keeled over onto her side.
+“Queenie!  Queenie, what is it?”
+Golich was the first one there.  He looked up at the others.  “Can I take her helmet off?  Is the air okay?”
+Acth:On’e did a quick check with his instrument suite.  “Close enough, Commander.  A little high on oxygen, but breathable.”
+Golich had M’Bela’s helmet off in seconds, unlatching the quick disconnect and peeling the neck dam back.  
+Right away, he saw the problem.  Her head was enveloped in a small, very faint swarm, like a horde of tiny flies, buzzing about her face and neck.
+“Get back!  Everybody, get back!”
+“She must have had a leak somewhere,” Yang said.  “Is she—is she--?”
+Cygnus’ Search and Surveillance tech was unresponsive.  “They’ve penetrated,” Golich said.  “The bastards are inside her skull.  Alicia, didn’t you bring a few URME bots…we could—”
+“I think we’ve got a bigger problem, Commander,” Acth:On’e said.  Something in his tone of voice caught Golich’s attention.  He looked up, followed Acth:On’e’s pointing fingers.
+An elaborately painted outrigger canoe was visible, bobbing up and down through heavy surf, approaching the little island.  Several men manned the canoe, all dressed in colorful headdresses with extensive paint and networks of tattoos along their chests, arms and legs.  All of them bore spears with dozens of feathered arrows stuffed into pouches on their backs.  
+The canoe beached and her crew dragged the outrigger up onto dry sand.  One man, a chieftain of some type judging by his elaborate bone and feather headdress, strolled forward, climbing up the dunes. He came to a halt on a stand of seagrass at the top.  He seemed to be nearly three meters tall.   
+Acth:On’e whispered to Yang.  “This may be Configuration Zero.”
+Yang was skeptical.  “It’s not real.  Look at the edge effects…see how his hands and face are blurry.  It’s still forming.  And if this is Config Zero, then what did we encounter in that African cave on Urth?”
+Golich stood up to face the chieftain, aiming his HERF carbine.  “Alicia, you do have some of URME with you, don’t you?”
+“Yes, sir, but just a few bots.  The master’s back at the ship.”  She felt the reassuring heft of the containment capsule on her web belt.  “I can launch, but I’d have to do direct piloting.  I’m not sure what we’re dealing with here.”
+Just then, they all heard a low moan escape M’Bela’s lips.  She shuddered and a slight tremor seem to course through her body, though it was hard to tell through the hypersuit.  Yang bent down and brushed back her sweat-stained hair.  “Commander, we need to get her back to the ship right away.”
+Golich took a step closer.
+Now the chieftain rose up to his full nearly three-meter height.  >>Why have you come here?   Rule 225635 violation.  Single-swarm entities may not enter the Sanctuary>>
+ “Uh…who…who exactly are you?  What are you?”
+>>Interference with directives of the Central Entity and the Prime Key is not tolerated…swarms detached must follow these directives at all times.  Configuration Zero will return control of detached swarms to main program….>>
+That didn’t sound good.  “Maybe we triggered some kind of alarm, Commander.”
+M’Bela shuddered again.  She was mumbling something.  Yang bent down to hear better.
+“What is it, Queenie?  What are you trying to say?”
+“Chukwu….”
+The chieftain—the swarm entity dressed like a tribal leader—changed voices.  There were scratches, chirps, strangling sounds, then:
+“Call me…Chukwu…the Great Spirit.”  The chieftain jammed his ornate spear deep into the beach sand.  “The words are written…you will fail in your mission.  It is the destiny of the People to leave their home—this home—” Chukwu spread his arms wide, encompassing the island, the sky and the sea—“and disperse into the lands beyond.”
+M’Bela continued to shudder and writhe.  Finally, Yang raised her up and tried to hug her to be still.
+Golich decided to try talking directly with this thing.  “Our mission is self-defense.  Your ‘People” are fighting my people.  They’re trying to destroy our worlds, our whole civilization.  We came, from another time, to stop this.”
+Different looks played out across Chukwu’s face, by turns anger, contempt, pity and determination, as if the entity were trying on different faces and trying to match one to the circumstances.
+Yang saw it too.  “Commander, it’s trying to match words and faces, like comparing different files.”
+Finally, Chukwu’s face settled into a swarm approximation of bland curiosity.
+“You must become one with the People.  The Imperative demands this.  The Prime Key orders this state to be accomplished.  From the time of Okike, great forces, great Alusi and the spirits of Mmuo have made the world, our Uwa.  This is the Prime Key.  The Planter requires that his crops grow and be nurtured.”
+Acth:On’e was startled at the reference to a ‘planter.’  “Did you hear that, Commander.  It’s talking about a ‘planter.’”
+Golich nodded.  “The Chinese seedship.  This bastard came or evolved or mutated from that Chinese ship.”
+Acth:On’e tried remembering what Dr. Chou had called their ship.  “Did you come as huayuan chuang?”
+The words had an immediate effect on the swarm.  Its face froze like a mask.  A flickering wave traveled down from its ‘head’ to its ‘feet,’ almost like a strobe effect.  More waves followed.
+“It’s thinking,” Yang decided.  “It’s comparing files.”
+Finally, Chukwu said, “Zhongzhi zhe…I am the Planter.  But you will call me—”  More waves and flickers, some visible blurring “—Chukwu—”
+M’Bela groaned and struggled, against Yang’s firm hand, to sit up.  “Commander—” she motioned Golich over.  The XO came and squatted down beside her.  “This is all Igbo stuff.  I think it’s coming from me.”
+Yang had wondered the same thing.  “Queenie’s got bots in her head.  They must be reading some part of her memory and sending it to that Chukwu or whatever his name is.”
+Acth:On’e agreed.  “He or it is concocting his look and words from Queenie’s thoughts.  Her neural signals.”
+“Your family came from Igbo ancestors, didn’t they?” Golich asked.
+M’Bela nodded.  “Very proud ancestors.  “My family’s Igbo, from Cameroon, Old Urth, see?  My father often read me stories of the great warrior princes and princesses of our ancient Igbo forebears.  He told me I was a direct descendant of Dzugudini, the Rain Queen of Lovedu and that I had great, even magical powers.  One of my prize possessions was this necklace of cowrie shells—” she fondled the necklace and made it clink noisily, then coughed and rubbed her forehead “—it was said to have been handed down from the hands of Dzugudini.  In this period of my life, maybe I was fifteen, maybe sixteen, I had become intensely interested in all things Igbo and I was constantly reminded by my father of my royal background and illustrious heritage.  I was always warned to honor that heritage, to honor Dzugudini.  He always said to me: “Ura ga-eju onye nwuru anwu afo,” which means “A dead person shall have all the sleep necessary.”  In other words, ‘keep our heritage alive in your heart and never forget who you are.’”
+Golich watched the swarm with growing apprehension.  “That’s great but how does that help us?  We need to get you back to the ship, back to URME, so he can roust those bots out of your thick skull.”
+M’Bela winced, clearly in some kind of pain.  “I can manage it, sir.  And I have an idea, something Igbo that might help us.”
+“I’m all ears.”
+“Commander, I can talk Igbo to this thing.  I can tell it I’m a great female earth force.  Maybe I can confuse the swarm and distract it enough for you to take some shots.  We’ve all got weapons here.  Sir, it’s worth a try.”
+Golich was reluctant, feeling their tactical options were extremely limited.  But her idea might just work.
+“It’s against my better judgment.  My tactical sense tells me we’re outmanned and outgunned here.  We’d be better off boosting out of here, if we can, and fighting another day.”  But you’re still in my custody, a voice said in the back of his mind.  It was Dringoth’s voice and Golich knew it was true.  Maybe it was time to show the Guard that Nathan Golich wasn’t just chopped arachtyl meat.  “Okay, Queenie, give it a try.  What do you want us to do?”
+“Stand me up,” she said, a bit hoarsely.  With Yang’s help, Golich helped get M’Bela upright, a little unsteadily.  “Let me get my feet under me.”  She wobbled forward a bit, kicking and slipping and sliding in loose sand, but managed to stay vertical.  She brusquely shoved away all the helping hands and stood as erect as she could, pretending she was still a newly minted jolt on the Academy parade grounds and it was Commandstar she was facing.  Out of the corner of her mouth, she whispered to the others behind her, “When I give the word, open fire.  Light him up.”
+“Got it,” Yang muttered.  Her own fingers tightened on the grip of her magpulser.  Acth:On’e and Golich did the same.
+M’Bela confronted Chukwu.  “I am the earth force Ala.  You know this, Chukwu.  I say what is true and plain to see. I am the female alusi, the god of morality, fertility and creativity.  See me and understand this.”
+At this, the swarm entity that had called itself Configuration Zero, then the Planter, then Chukwu, roiled slightly.  Its form blurred from head to foot.  Flickers and waves of light coursed across its face and chest.
+Yang whispered to Golich.  “It’s thinking.  Comparing words and files.”
+“Maybe confused, too,” Acth:On’e added.
+M’Bela went on, her voice getting momentarily stronger.  “I judge your actions.  I am the law and your customs, all your omenala.  I make the crops grow and I make crops die.  My agent is the python.  See me, Chukwu and hear what I say.”
+Chukwu seemed muddled, its form shifting, with small gaps opening up in its structure.  Its face morphed into a distorted mask, then a blank mask, with all detail suddenly washed out, nose, lips, eyes, ears, all breaking down as if the thing were unsure of itself, as if it had been caught wearing someone else’s clothes.  
+“Blllzzzz…Ala is…holy ground…this statement equals truth—”
+M’Bela decided to press the point, though her head felt like it would split wide open.  It felt like there was a barfight going on inside her skull.
+“It is taboo for the People to try to leave this land.  If the People try to leave this land, it is an abomination against Ala.  The People must not abandon their Ala, for I will be lonely.  If the People leave the land, if the People no longer trust Ala, then Ala will see you in the underworld and there will be chaos.”
+The effect on Chukwu was both immediate and startling.  As if it were unraveling, the form of the swarm, the physical presence of Chukwu, began dispersing amid an explosion of light flashes and pops.  
+>>Parsing concept (trust)…--to be believed, to have faith or confidence in—single-swarm entity designated “Ala” maintains thirty-two-point one percent alignment with Module One objectives…collaboration between “Ala” and Configuration Zero is approved for minor sub-objectives>>
+“You think he wants to help us…maybe?” Yang offered.  
+>>Acoustic analysis is performed on your words…running authentication routines…verifying analysis…probability matching truthfulness of semantic content with acoustic analysis…scans show matching below ten-point five percent…semantic string is not truthful…parsing concept (help): to give assistance to, to provide aid, to give support to--why does Entity “Ala” wish (help) from Central Entity?>>
+M’Bela lowered her voice, turned slightly to her crewmates.  “Get ready, guys—"
+>>Authentication analysis indicates this semantic string is expressed at ninety-four-point three percent probability of truthfulness…adaptive algorithms executed…Entity “Ala” is now known to the Central Entity.  There are many files on this entity>>
+But before the swarm could complete its words, M’Bela slammed her arm down.  “NOW!  Fry the bastard!”  With that, she crumpled to the sand.
+All around and above her, M’Bela could hear the satisfying zap and buzz of high-energy radio freq fire, and magpulse rounds crackling through the air.  Scalding gusts of air and sheets of hot sand blew up in her face and she crouched down in fetal position, then felt someone’s strong hands pulling her through the sand. 
+It was Acth:On’e.  That’s when Evelyn M’Bela decided she couldn’t fight the bots in her head any longer.  She fell headlong down the black tunnel of unconsciousness.  Acth:On’e dragged her behind a sand dune, made sure she was covered with seagrass and brush, then went back to the attack.
+Under sustained assault, the Chukwu swarm immediately flew apart into loose clusters of bots.  The barrage or HERF and mag fire seemed to be doing the trick.
+Golich yelled, “Mop ‘em up!  Slam those loose clusters too!” 
+The time jumpers walked slowly down the slope of the beach, spraying fire back and forth.  The main swarm had already dispersed and Yang worked her pulser to concentrate fire on the other tribesmen who had come ashore.  They too explosively disassembled right in front of her eyes.  Even the outrigger canoe dissolved and diffused into sea spray under their withering fire.  
+“Jeez,” she muttered to herself, “the whole friggin’ planet is nothing but bots.  It’s an atomgrabber’s wet dream here.”
+Now the ocean itself had turned rough and stormy, with huge waves barreling toward them, whitecaps breaking into deafening hiss and foam almost on top of them.  Purple clouds swirled overhead and veins of lightning crackled from cloud to ground in jagged stalks.   
+Golich yelled, “We’ve stirred up the nest good now.  Fall back…up to the higher ground.  And get ready to boost.  We’ve got to get out of here before this damn place breaks apart right under us.”
+Yang and Acth:On’e helped drag and half-carry the unconscious M’Bela to a small hillock of sand several dozen meters away, a low rise that seemed the highest point on this island of hell, firing back at clots and clumps of bots as they withdrew.
+At the top of the rise, Golich gathered everybody around close.  “Get your suit boost primed and ready.  You two will have to carry Queenie.  See if her boost has any juice left.  I’ll try to figure out how to use her deco wake detector.  With any luck, we can home on the ship’s singularity drive.”
+Yang just shook her head.  “It’ll be a miracle finding Cygnus in this mess.  We’ve managed to stir up the whole planet.”
+“That’s a good thing,” Acth:On’e convinced himself.  “If we can get the hell out of here, we should all get Distinguished Valor medals for saving the Uman race.”
+Golich watched the breakers coming closer up the slope with every wave.  “On my count…three…two…one…NOW!  Light off!”
+As one, the time jumpers ascended on suit boost into a driving sleet of sea spray and rain, a heavy thickening fog of unguided, now directionless bots, with winds gusting and lightning thundering all around them.  Below, the beach and the island seemed to dissolve right under them, but perhaps it was just the mist shrouding the little spit of land.
+Yang and Acth:On’e each had one of M’Bela’s arms.  She hung between them like a limp mannequin, with only faint glow at her feet, emanating from what was left of her suit boost.   Neither jumper knew if they had enough boost of their own to make it back to the ship, buddying M’Bela between them,
+A few meters ahead, faint in the mist and rain, Nathan Golich swore and cursed at Queenie’s decoherence wake detector, trying to get the damned thing to work.
+Come on, come on, you stupid pile of--
+Then, a faint chirp sounded in his helmet and a light blipped on the detector face.  Maybe a signal of quantum entanglement waves collapsing somewhere, far off… for the signal was very faint, there and not there.  
+Golich held his breath, tweaked the gain, changed heading slightly and got a slightly stronger signal for his efforts.
+Over the crewnet, he breathed a sigh of relief and said, “This way, folks.  Next stop, Cygnus and a hot meal of cold T-rations…I hope.”
+
+The flight seemed to last for days.  Once or twice, Golich’s heart stopped when the faint but growing signal dropped out completely.   He found a slight heading tweak usually regained the signal but the squad was cruising in and out of dense knots and clouds of bots and that could have had some effect.
+“Let’s go up,” he suggested.  “Higher altitude may give us a better signal.”
+“I’m pretty much at my limit,” said Acth:On’e.  “My arms are about to fall off.”  He and Yang were bearing an unconscious M’Bela between them and both had noted their boost charge was running low.  “If we go higher, we may not have enough juice to make it.”
+So they stayed low and fought their way through sleets and gusts of bots, following Commander Golich’s lead, as he adjusted and tweaked and fiddled with the deco wake detector, hoping and praying it was leading them back to Cygnus.
+Two hours after departing the small island and the remnants of Configuration Zero, Golich noticed his detector suddenly showed a strong spike in one direction.
+That has to be Cygnus.  “Follow me,” he said over the crewnet and dropped down on yet another heading, disappearing momentarily in thick fog.
+When Acth:On’e and Yang finally caught up with their XO, he was already descending rapidly over rolling hill countryside and they could see a red and white strobing beacon in the mist ahead.
+When they landed and half-dragged, half-carried Evelyn M’Bela through the hatch, Alicia Yang almost wanted to kiss the mustachioed face of the Captain.   
+But they had more important duties, for Queenie was beginning to twitch and spasm uncontrollably as she was laid in the med bed in one corner of sickbay.
+Dringoth had heard from Golich what had happened and ordered full quarantine procedures in effect.  
+“If she’s got Coethi bots in her head, we can’t take any chances.”  He motioned Max, the medbot, in closer to M’Bela’s bed, giving it orders to implement the standard Time Guard procedure.  With well-programmed efficiency, Max proceeded to setup the IVs, scanner heads, oxygen tubes, sensor leads and restraints.  Seconds later, a biofield flickered into life and Queenie was quickly enveloped in a nearly impenetrable shield of nanobots.
+Yang stared anxiously down at the TS-1, wincing at each twitch and tremor.  “I’ll get started prepping URME.  We’ve got to get an insert going so we can get rid of those bots infesting her head.”
+Dringoth shook his head.  “Belay that.  URME did a long-range sweep right after you landed.  There’s something big headed this way.  A bot formation I’m guessing.  We can’t stick around here.  I want everybody to take their stations.  We’re going to try jumping out of here.  Alicia, you man Queenie’s console.  I’ll get one of the Chinese to keep an eye on Queenie.”
+Yang protested.  “Sir, I haven’t worked with Sensors or ChronoNav in months.  I just barely passed cross-train quals when Cygnus was commissioned.  I wouldn’t even know how to interpret basic readings.”
+Dringoth was firm, even as he motioned Dr. Chou to come into sickbay.  Qi was with Acth:On’e in Engineering.  “You’ve got manuals and tutorials.  Read ‘em.  We’re jumping out of this quagmire in an hour.  Here, Chou, you stay here with Max.  Keep an eye on Queenie.  Do what Max says and don’t get in the way.”
+The Chinese scientist looked on M’Bela’s face with what seemed like genuine concern.  “I am sorry Thousand Flowers led to all this.  Anything I can do—”
+Dringoth was already headed for the gangway and up to the command deck.  “Just watch her. And don’t touch anything or Max will bite you.  I’ve got a fistful of checklists to go through.  This is going to be one hell of a jump.”
+Chou looked at Yang and shrugged.  
+“She got swarmed on patrol,” Yang explained.  Low moans escaped M’Bela’s lips, along with some flecks of foam.  “Bots.  They’re inside her head.  The only way to get ‘em out is to go in there with URME and physically engage them.  URME can do that but setup takes time.”  She balled her hands into fists.  “And I’ve got some OJT to get done before we jump.”
+An hour later, the ship’s AI ISAAC issued the warning klaxon for imminent jump.  Over the warbling siren, Dringoth’s voice sounded up and down the gangway and decks of the ship.
+“All hands, take your stations.  Prepare for jump.  This one will be a doozy.”
+
+Chapter 3: “Clean Sweep”
+
+“If you know the enemy and know yourself, you need not fear the results of a hundred battles.”							
+										Sun Tzu
+
+Jumpship Cygnus
+Time Stream: Jump Transit Corridor
+T-date: Eight billion years later
+
+The problem with trying to jump across eight billion years of space and time was a question of accuracy.  Even a thousandth of a percent error in heading equaled eight million years.  The entire history of the Uman race, from the savannas of east Africa to the Uman Alliance and temporal jumpships, encompassed only a fraction of that, maybe twenty thousand years.  All of Uman history could pass by in the time a single atom vibrated, and eons could elapse in the course of a single Uman breath.
+That’s why Alicia Yang scarcely breathed as she studied her board, trying to make sense of what ChronoNav was telling her.
+With a roaring rush of deceleration and a blinding flash of light, jumpship Cygnus jetted out of the jump transit corridor and the sudden force of their arrival threw all of them hard against their seat straps.  Dringoth and Golich were on the command deck, trying to keep the ship stable, barking out headings and rates to each other as they swung Cygnus’ flowvaters and rudders this way and that, trying to damp out all the gyrations and oscillations of a jumpship careening out of the corridor into truetime.
+“Rudder and vanes amidship,” Dringoth finally ordered.  Only a slight shudder remained.  “Sensors, where and when are we?”
+Yang swallowed hard.  “ChronoNav says, if I’m reading this right, we’re somewhere in T-001, but the converger angles aren’t coming together.  We’re off the main worldline a little, looks like about three to four years upstream…recommend a small jump…I’ll get the coordinates to you in a sec—”  Her hands and fingers flew across the board, toggling instruments and sensors on and off.  “But there’s something not quite—”
+Golich saw immediately what the problem was, just by looking out his side porthole.  “Captain, I think we’ve got company.”
+Dringoth took a look.  Outside Cygnus, he saw a single bright star, a blue-white Class A main sequence sun of some type, shining in the depths of space, but the star dimmed intermittently, as if it were being eclipsed by something.  “Commander, there’s only one thing that could create that dimming effect.”
+Yang spoke up.  “Captain, I think we came out of the corridor right into a—”
+“Jeez,” Dringoth muttered.  “Another Bug swarm.  We just can’t catch a break.”
+Already Golich was checking weapons status.  Acth:On’e and Qi were back in Engineering.  “Weps, bring HERF and mag on line now!  All banks and tubes, collapser too.  Looks like we’ve got a fight on our hands.”
+Dringoth just couldn’t believe it.  He caught a glimpse of Chou behind him, helping Yang with her sensors.  I could choke the living daylights out of that bastard right now, he told himself.  But there were more important things to deal with.  
+“What star is that, Alicia?  Can you get a read on it?”
+Yang and Chou were scrolling frantically through stellar tables, trying to match spectrum types and ID.  
+“Sir, I don’t know how to tell you this—”
+“Just spit it out me, DPS!  Where the hell are we?”
+“ChronoNav says best match is with Sigma Albeth B.”
+Golich frowned.  “Sigma Albeth?  The Storm system?  Other side of Newton’s Jaw?”
+Dringoth swore under his breath.  “That’s where we put up the first Twister, then Commandstar had us abandon it.  Remember?  Of all the—”
+Just then, a warning light flashed on Yang’s console, accompanied by an insistent beep.  It was Max, the medbot, in sickbay.  She studied Max’s clinical report and swallowed hard.
+“Captain, Max says Queenie’s going into shock.  He’s administering meds now, but I need to get URME going.  Get inside her head, before it’s too late.”
+Dringoth shook his head.  “Negative.  I need you back there on Sensors.  We’ve got a fight on our hands here.  Max can handle Queenie.”
+Yang knew he was right.  Or hoped he was right.  “Yes, sir. I know we’ve got Bugs outside.  But Queenie’s got ‘em inside her head too.  If they escape—”
+But Dringoth was in no mood to brook dissent.  He studied what Max was doing on his own console: setting M’Bela’s body elevation properly, clearing her airways, administering CPR, administering anti-convulsive meds.  He shuddered.  Which was worse?  Battling Bugs outside or having them tramping all over your brain inside?  Did it really matter?  Bugs were Bugs.
+Golich wondered, “What the hell happened to that star Tonatiuh?  Wasn’t it supposed to go supernova?  That’s why we went after Config Zero, to strand the little bastards on their home world.”
+Chou had an idea.  “Perhaps, they abandoned Horus before the sun detonated.  Or perhaps it just hasn’t detonated yet.”
+“Somehow, I’m not comforted,” Golich said.  Then he had to start paying attention to the tactical situation.
+Cygnus had arrived out of her jump transit corridor right in the middle of a Coethi assault swarm.  After-action reports and tactical intel from Time Guard would show later that the Bugs’ assault was an attempt to execute a double envelopment maneuver around one end of Alliance space, to seize and occupy space and annihilate Uman settlements around Sigma Albeth B and 40 Omicron 2.  There were no longer any settlements around Sigma but Omicron hosted two worlds, Gavrilon and Nanjiang, who were home to millions, though neither was a direct signatory to the Alliance.  If the Coethi were successful in this, one entire arm of Alliance space would be lost and Time Guard would have to fall back and try to maintain a defensive line on the other side of Newton’s Jaw, to protect the Sol system itself.  The Bugs had already been probing in that sector too.
+Dringoth punched up the ship’s AI.  “ISAAC, give me the sitrep.”
+The AI responded in its usual monotone, academic-lecturer voice.  “Long-range scan indicates that the formation is a diffuse cluster of discrete elements of mean size approximately twenty-five nanometers main dimension…smaller than normal dust particles.  Detecting increased energy levels in certain electromagnetic bands, consistent with assembler activity as we understand it.  Probability that this formation is a swarm of nanobotic elements now approaching eighty-four percent.  Centroid of probable Coethi formation now at six point one billion, four hundred million kilometers, best range.”
+“That’s good enough for me,” Dringoth decided.  “URME, bring the collapser on line.”
+URME was stationed at the Temporal Fire Director console at the rear of the command deck.  The TFD1 swarm, still in para-human config, brightened a moment, then noted, “May I remind the Captain that the collapser still has seven outstanding maintenance issues uncompleted. Perhaps a blast of HERF…modifications to the emitter frequency could—”
+But Dringoth wasn’t listening.  “And I did order those issues to be resolved, did I not?  Get it online, URME. Bring it online now…the best way you can.”
+Golich looked over at the Captain.  “You’re thinking ‘flytrap’?”
+Dringoth watched the target on his detectors grow larger as Cygnus made her approach.  “Exactly.  Commander, we both had the same Temporal Ops instructor at the Academy.  You remember old Jellicoe.  I can hear his gruff old voice now: ‘Just pinch off a time stream upstream and downstream of the enemy’s position, disrupt his singularity core, then slam the trapped adversary with overwhelming force.  Time jumpers call this a ‘Flytrap.’  The trick to succeeding with this tactic is to be able to out-jump the enemy and fend off any defenses he may have up his temporal sleeve…like singularity disrupters, etc.’”
+Golich swallowed hard.  “As long as it works…and the Bugs don’t have something else up their sleeves.”
+The next few minutes saw Cygnus maneuvering along a tangential approach, dropping lower and lower in Sigma Albeth’s gravity well to gain speed, come up in the very middle of the Coethi formation.  The enemy swarm maintained a steady course and there was as yet no repetition of their displacement maneuver, where the Coethi could yank themselves to another place in an instant, just by manipulating quantum states.  
+Finally, Cygnus was within range.  URME had gone aft to make sure the collapser controls on E deck were operating as well as possible.  He knew they had had trouble with the weapon recently…misfires, misalignments, not fully pinching off a time stream (that had been an oscillator issue, URME had fixed it himself) and there were others.
+“This is a really bad idea,” URME muttered to himself.  If there were any hiccups.  URME knew of the Uman expression ‘holding your breath’.  He had never understood why withholding oxygen from one’s lungs would lead to better outcomes, but it seemed appropriate, though he didn’t consume oxygen the way Umans did.  
+“Collapser on line, Captain,” URME called up to the command deck.  “Green across the board, however I must point out that power is fluctuating outside of operational limits.  There may be oscillator anomalies in the circuit…we should take time to check this out.”
+“Not now,” came Dringoth back.  “Give me what you’ve got.”
+URME pressed SYSTEM ENABLE. 
+Now Dringoth fell back on his training.  Using a temporal collapser was not for the faint of heart.  As Nathan Golich himself once said, “There are about a million things that can go wrong with this stunt.”
+Cygnus fired her collapser.  At once, time stream T-001 shuddered like a coiled snake, jerking spasmodically, thrashing about enough to set Cygnus into a slow roll.  Golich counteracted the force immediately.  Spacetime didn’t like being snapped like a wet towel.  
+Yang saw the results immediately on her sensor panel.  “Direct hit, Captain!  You did it!  You sliced and diced the time stream approximately two years earlier along the worldline.”
+Dringoth sucked in his breath and pursed his lips.  “Now to get upstream…maybe two more years out.  Give me a hack to that end of the worldline, Alicia.”
+Yang was in the middle of wringing computations out of ISAAC when something slammed Cygnus…hard.  Lights flashed on and off and the command deck went dark, with a faint hiss and burning smell thickening in the cabin, before backup power kicked in.
+They were in a spin, increasing in rate and already the crew could feel centrifugal force building up.
+“What the hell--!” Golich’s hands swept across his board, re-setting systems, checking busses and breakers, following diagnostic prompts.  ISAAC’s silky voice was barely audible over the warning klaxons of the Master Alarm.
+“Displacer impact…I am assuming command per emergency protocol E-1…ship systems at degraded level…time stream interface approaching…contact in twelve seconds…eleven…ten….”
+Dringoth was out cold.  URME had lost config control and tried to gather himself back into some kind of recognizable form.  Yang was nursing a slight head injury; the impact of whatever Coethi had slammed them with had sent her careening into a hull stanchion.  Chou was prone on the deck, bleeding profusely from a face wound.
+Up front, Golich was conscious, barely, gritting his teeth against the centrifugal force.
+Got to get Cygnus under control…got to swing her back into the stream…before we hit the barrier wall….
+Golich had been 1st TD’s Temporal Ops guy, her TT1 and second-in-command for several years now and he’d seen a hell of a lot of action.  No two engagements were the same, but he knew a bad situation when he saw it.  The ship had been hit by something—probably a Coethi displacer-- and she was now adrift and heading toward the outer barrier of the time stream.  If they hit, if they didn’t have good control…
+He didn’t want to think about it.   
+If it had been a displacer round that had hit them—time jumpers called it a twist loop—Cygnus had likely been thrown a long way in space and time from her last position, to another time and place in the time stream.  They could easily be God knew where inside T-001.  They could easily have been thrown completely out of T-001 to another time stream.  Worse, if Cygnus was near the edge of the time stream…oriented just the wrong way….
+Nathan Golich heard Yang stirring behind him but he didn’t have time to help her.  He had to get Cygnus under control…NOW…before she made contact with the outer wall of the time stream.
+He cycled the ship’s flow vanes and rudders several times, each time ‘feeling’ for any detectable shift in her position.  His board showed a slight heading change but was it enough?  Purely on instinct, he felt Cygnus had somehow just managed to skirt contact with the time stream wall and was now adrift but too near for comfort.  
+From somewhere in the back of his mind, Nathan Golich remembered hearing an old jumpship captain—who the hell was that, maybe Sukarno, the old jolt?—talk about something ancient Urth sailors used to rely on.  The weather gauge.  That was it.  Old man Sukarno had described how ships of fighting sail would maneuver to achieve an upwind position, which gave them distinct tactical advantages when engaging an enemy fleet.  The downwind ship could only maneuver into a wind by trimming sail, perhaps by having to tack one way or another.  The upwind ship could sail directly with the wind at her stern.
+An idea came to Golich.  “ISAAC, give me our position on this worldline, angles and all.  What’s my converger reading relative to the centroid of that swarm?”
+ISAAC made the computations and reported out.  “The ship is moving along a closed-time curve of one point six degrees relative to the main timestream.  Swarm centroid is at four point seven degrees.  Relative converger angle on our bow is twenty-four degrees.  Both Cygnus and the swarm are in elliptical heliocentric orbit, with parameters—"
+Golich knew no Academy textbook or tutorial had ever proposed what he was thinking to any tactical problem.
+Old man Jellicoe will probably turn over in his grave.
+“Never mind all that, ISAAC.  I’ve got a crazy idea.  Somehow, some way, I need to put Cygnus down on the surface of Storm and try to get that abandoned Twister up and operating.  To do that, I’ve got to push the Bugs back in time far enough to give us a chance to get the Twister going.”
+Alicia Yang had managed to crawl back to her station at Sensors, still bleeding from a deep gash on her forehead.  She struggled to stay upright.
+“What exactly have you got in mind, Commander?”
+But before Golich could answer, they both heard a low moan from the deck.  It was Dringoth.  
+Yang was there first.  She winced at what she saw.  “Captain, lie still.  You’ve got a serious  head injury.  Commander—“ she looked up at Golich looking down, “we need to get him to a better place.”
+“Sick bay’s occupied.  Queenie’s in there, in a bioshield.  Maybe—his bunk.”
+Yang figured it would have to do.  “We’d better get Max ready too.”
+Golich got on the comm.  “Acth, you and Qi come forward to the command deck, on the double.  Captain’s injured and we need help getting him to his bunk.”
+The Chinese scientist and Cygnus’ engineer were there in less than a minute.  Carefully, Golich, Qi and Acth:On’e managed to maneuver the semi-conscious Captain into the gangway and then down to the berthing deck, where he was deposited in his own bunk and secured.  Max, the medbot, was already there.
+Yang was already hooking up IVs and tubes.  Max purred around the gurney, making last minute adjustments, attaching probes and catheters, drawing blood, scanning.  She perused the results on a nearby screen.  “Mmm…looks like a broken hip…broken right ankle…no obvious internal bleeding, but there’s evidence of a concussion—see those EEGs?  I’m sure he’s in shock, so we’ll have to work on building up his fluids.  And then there’s that…see the shadows around his lower cerebrum?”
+Golich saw them.  “A tumor?”
+“Maybe.  More likely, from the signature, it’s internal swelling around the skull.  I think Max has a program for hemicraniectomy…we may have to do that pretty soon—“
+Golich bent down, bringing his face closer to Dringoth’s purplish cheeks and whispered.
+“Sir, now you’re in my custody.  We’ll have you patched up and back in shape in no time.”
+Yang waved everyone back.  “Step over there.  I’m bringing up a biostatic field…these buggers will bite if you stay inside.”  She pressed a few buttons and the swarm launched from a port on the side of the gurney.  In seconds, it had expanded to a light, flickering fog, enveloping Dringoth and his bunk, cocooning him in a sterile wrap of static nanobots.  “I’m prepping an insert too…put a few bots into his skull and see what’s causing that swelling.”
+“Thanks,” Golich murmured.  A hard swallow caught in the back of his throat.
+“Captain,” asked Chou, still bleeding slightly from a facial laceration.  “Did I hear you mention trying to land on some world nearby?”
+Golich looked around.  They were all there: Yang, Acth:On’e, URME hovering out in the corridor that circled the deck, Qi and Chou.
+“Let’s talk, before the Bugs hit us again.”  An idea had been winding its way through his mind. “Any of you remember Orion the Hunter?”
+There were puzzled looks for a moment, then Acth:On’e snapped his fingers.  “Yes, yes, I recall that one…Ghost Ship Protocol.  We studied that scenario in temporal tactics, didn’t we?  In jolt class.”
+“That’s the one.  Except Orion wasn’t her original name.”
+“No,” agreed Yang, “she used to be a Time Guard jumpship, didn’t she? Capricorn, I think.”
+“Exactly.  Early model jumpship.  Mark I core…barely jump capable.  The Guard had planned to mothball her but some shipper made an offer. Remember what happened to her?”
+“She was attacked, wasn’t she?  On her very first run as a temporal transport.”
+Golich stepped aside as Max puttered about Dringoth’s bunk, making sure the bioshield would hold.  The bot had already assembled medical instruments on its own attached tray for use later.  “By pirates. On a run through the Lalande 21185 system, in fact just off Poona-Peeona.”
+“Didn’t she blow up or wasn’t she blown up?” asked Yang.
+“Not precisely.  Her skipper knew she was hurt bad in the attack, like us.  Core down, inoperable.  They had minimal defenses.  But Poona was nearby.  So he had his crew drop down to the surface, and before he abandoned ship, he put Orion onto a close approach to Lalande , then set the core to go into catastrophic collapse on a timer, on the other side of their sun.”
+Acth:On’e just shook his head.  “Vaporized the pirates in a Planck instant, that’s what I heard.  Big infinity hole too.  Lasted for several years.”
+“Yeah, along with half the system and spacetime itself for about ten lightyears in every direction.  The only thing that saved the Peonese was their own sun—Lalande—taking the brunt of the detonation.”
+Yang studied Golich carefully.  “What’s in that devious mind of yours, Commander?”
+Golich said carefully, “Just this.  Acth, you’ve checked the core?  We’re unable to jump with the core in its current condition?”
+Acth nodded grimly.  “We have propulsor power, for the most part, but the core’s dead.  Converger’s offline.  Entangler circuits are mostly fried and there may be a leak.  Big qubit buildup back in the tailpod.  Sorry, sir.”
+Golich’s lips tightened.  “What I have in mind is a modified Ghost Ship Protocol.  We’ve got two serious casualties on board and we need a stable place to work on them.  I want to set Cygnus down on the surface, on that little bread crumb of an island we left before.  Where the Twister is.  Once we’re down, if we can hold off the Coethi long enough, we remove anything we need from the ship, print us up some more shelter.  Acth, you and our Chinese guests work on getting the Twister up and going.  Alicia, you and URME do an insert on Queenie.  She’s got probable Coethi bots in her head, so you’ll have to be careful.  I’ll work with ISAAC to set up the core to collapse on a timer.  We’ll re-launch the ship into space and let her circle behind Sigma Albeth.  I’m hoping the Bugs will follow her, thinking she’s the real threat.  On the other side of the sun, the timer goes to zero and blam!  Instant infinity hole.”
+Acth:On’e swallowed audibly.  “I just hope that collapse doesn’t blow us to the other side of the Universe, Commander.”
+“That makes two of us.  If we survive that, we should have enough time to get the Twister going.  With the Twister, we know we can defend this sector.  Then we ring up the Guard and request rescue.”
+Heads nodded and eyes looked about the bunk.  There was an awkward silence.  Feet shuffled.  Throats were cleared.  Faces were glum. 
+Golich broke the strained quiet.  “Anybody got a better idea?”
+Nobody did.
+
+It took several hours of tedious, painstakingly careful work, but Golich and Acth:On’e completed work on the singularity core.  When they were done, Golich set the timer to begin the collapse process for three days hence.  
+“When she collapses, she’ll punch a hole in spacetime in a Planck instant.  But this should give us enough time to land this crate, offload what we have to and send her back out on her final mission.”
+Acth:On’e wasn’t so sure.  “If we don’t blow ourselves up in the process.”
+Golich checked with Yang and Max, the medbot, in sick bay and in Dringoth’s stateroom.
+“How are our patients doing, Alicia?”
+Yang wiped sweat off her forehead with a forearm.  “Queenie’s stable for the moment.  Captain’s responding to Max’s treatment.  He just needs fluids, and time.”
+“Time,” said Golich.  “Time is what we don’t have enough of.  How crazy is that?  We’re a Time Guard jumpship and we need more time. I just checked with URME and ISAAC.  The Bugs are moving through the Sigma Albeth system right now. It’s one hell of a big ass swarm too.  For the moment, we don’t seem to be a threat.  It’s a pity we couldn’t have jumped into this system a little earlier, before we disabled the Twister on Storm.  But that displacer round—”
+Yang was sympathetic.  “Don’t beat yourself up, Commander.  You did what you had to do under the circumstances.”
+“I just hope we don’t wind up getting sucked into an infinity hole ourselves.  Get everything secured here, then come up to command deck.  You’ll have to man Sensors.  We need to put Cygnus on the ground and get an insert going on Queenie as soon as possible.”
+“Amen to that, sir.”
+
+“Nominal landing zone is at these coordinates—“ Golich rattled off latitude and longitude figures, then tagged the landing site on a map that he displayed.  “Near the middle of this island.  There’s a central hill complex in the middle.  And some long rilles or cracks in the surface…some kind of mass wasting is the likely cause.  No evidence that Storm ever experienced any kind of volcanism.”
+“Thanks for Geo 101, Commander…” muttered Yang.  “What’s the ground made of?”
+“Basaltic rock.  And subsurface ice too, most likely.  It’s a low-grav environment, so you can hop for a few meters if you aren’t careful.  I’ll set us down as close to the control hut and supply shacks as I can.  No telling what condition they’re in. Questions?”
+There were none.
+Several hours later, the landing detail was ready.
+Yang and Chou were strapped into their seats in the back, Dr. Qi between them.  Golich and Acth:On’e were up front, in command. 
+Yang smacked chewing gum loudly, a nervous habit that made everybody roll their eyes.  “This bugger reminds me of a big sausage, folks.”
+“Yeah,” said Acth:On’e.  “With legs and gravy on top.  Does everything remind you of food, Yang?”
+“Knock it off back there,” Golich ordered.  “Okay…we’re secure and ready.  Give me the count….”
+A few minutes after everybody was through bitching and moaning and had gotten themselves secured and strapped in, Golich punched up the landing program on the ship’s computer and counted down the last seconds before the burn.
+“Five…four…three…two…one…bingo!” 
+There was brief shudder and lurch as Cygnus’ thrusters fired.
+“Cygnus away…” he announced.  Golich and Acth:On’e watched through the forward windscreen as the horizon of Storm came up and rolled slightly.  Cygnus was putting herself into the proper entry attitude.  
+Acth:On’e counted down the last moments to the second burn that would start Cygnus on her long curving descent to the surface of Storm.  The limb of the ocean world could barely be seen through the portholes, dim and shadowy, shrouded in fog.   
+       “Ten seconds to PDI,” Acth:On’e announced.  He checked over his console: track, engine status, attitude…everything seemed ready.  “Get ready for a major kick in the ass—“
+The burn, when it came, made Cygnus shake and shudder like a wet dog.  Alicia Yang felt the acceleration build up rapidly.  After months of microgravity, the ship’s descent felt like an elephant had planted its posterior right on her chest.  She forced a sideways glance at Chou in the next seat.
+The Chinese scientist was exhaling out in quick, forced breaths, as he had been trained.  He met Yang’s eyes and grunted back.
+“I must…put in…for a…transfer…if we get back….”
+Golich and Acth:On’e watched the trajectory plot on the board carefully as Cygnus began her initial pitchover and slowed noticeably.  The plot showed several lines, indicating nominal and actual course, all converging on an actual window in space, where the lander would begin firing her descent engines, maneuvering and navigating across Storm’s misty, lightning-wracked surface as they fell toward the LZ in the middle of Cone Crater…so named by Alicia Yang because the formation reminded her of a big ice cream cone.  
+The descent and landing took half an hour.
+“Touchdown…good job, Commander,” said Acth:On’e.  Cygnus settled with a bump onto a mostly level plain pocked with craters and strange blood-red hillocks.  More hills surrounded them.  “Right in the crosshairs.”
+“Those crosswinds were gusty.  Thank God Cygnus is a pretty stout ship.  Okay, let’s get moving,” Golich unstrapped himself and headed for the lockout in the aft compartment.  
+The crew moved out, donned their hypersuits and, one by one, cycled through Cygnus’ lockout on F deck.
+The first order of business was to set up some kind of defensible perimeter around the ship, out to a distance of several hundred meters.  This was done by Alicia Yang, the Defense and Protective Systems tech, who was glad to be doing something she had actually trained and qualified for.
+Yang plopped down through thin ice into the shallow lake they had landed in and was immediately brushed by a large lizard-like creature undulating its way across the surface.  “Cyclops doesn’t even have a name for that one.”  She adjusted her headgear slightly to get more annotation in her eyepiece.  “Some kind of sauropsid reptile…probably can move at high speed land or water.”
+The rest of the team followed Yang across the shallow lake, sloshing their way up a low bank to drier ground.  The DPS1 extracted a small capsule from her web belt and thumbed its control stud on top.  Instantly, a fine mist issued from the capsule, flickering slightly over their heads.  Yang waved it about her head in a circle.
+“Launching URME sensorbots now,” she announced.  
+The mist dispersed and vanished from view.  But now, 1st TD had eyes and ears to probe their surroundings and warn them of approaching danger.
+The Survey Service had long ago named this little rockpile Kinlok Island.  It was nothing but a big claw and tooth-shaped spit of rock and hills, barren except for a few forlorn and very prickly trees, and small swipe of beach along the southwest coast.  Rough surf, driven by gale-force winds, smashed and hissed against the promontory below the ship.  Spray and ice chips were everywhere, stinging faces not yet covered by hypersuit helmets.
+“At least it’s still breathable,” muttered Golich, twisting a handle to release the skimmer.  The sled dropped down on its cradle, slid off onto the ground and began automatically unfolding into operating position.  “Grab those bags and we’ll load up.  I can’t even see the Twister from here, with all this crap blowing around.  We’ll have to take the skimmer, if it still works.”
+“Smells like Telitorian eggs…that somebody left out too long.”  Acth:On’e opened a small compartment alongside one of Cygnus’ landing gear and scooped up an armful of small containers.  Each one contained a small replicant swarm, complete with master bot, configged when opened to begin repairing the seabed footings, foundations, support cables and upper dome of the Twister.  Two kilometers in diameter when it had been first replicated and outfitted, the Twister resembled an inverted dish, with its surface studded by small polyps, the chronotron pods.  Controls and processor gear stood at the apex of the dish, in a small housing that looked like puckered lips.  
+Golich sniffed, checking the skimmer for seaworthiness.  “Oh, well, ours not to reason why—”
+They slid the skimmer down a nearby slope, loaded her up and set off through heavy chop and spray for the Twister’s position marked on their eyepieces, several kilometers out to sea.  The Survey Service had identified the coordinates as just above a small trench in the seabed, some one hundred meters below. The foundations would have to be checked and verified before anything else could be done.  
+Acth:On’e was content to let Golich do the steering, while he counted down the distance to the Twister site.  “How long do we have to stay here?” he wondered out loud.  “Smells like a sewer I once fell into on Telitor when I was a boy.  It was outside Kasala, just before my V3.  I had that memory wiped in the upload.”
+Golich shrugged, squinting through the sleet.  “Wish I could do that.  Wipe all that bad crap from my head.  As to how long we’re here, that depends on getting shelter printed up and everything of value offload from Cygnus.  After that, she launches back into space….”  They had reached the coordinates.  The massive flanks of the huge structure loomed out of the fog. “Right here.  Mark and anchor.  Wasn’t this gadget the Mark I version?  Untested and all?  How do we even know it’ll even work like they say?”
+“Hey, Commander…when you’re in the Guard, jolts like you and me don’t get to actually know anything.  We just do things, like whatever the brass says.”
+Golich agreed.  “Get buttoned up.  We’ve still got to go down there and check out the foundation.”
+The two of them sealed their hypersuits, buddy-checked all fittings and seals and dropped overboard into the freezing water.
+Once completed, the Time Twister itself had been moored to the seabed with stout anchors and surmounted with hemispherical caps, which were the chronotron pods.  Fully operational, the entire apparatus was linked by thick ganglia of cables to the island itself, for power and command and control.  A hut had been erected, where most of the controls were located. It would also would house tracking instruments.  It was still standing when they had landed, but the thing needed serious work to make it habitable.
+Many skimmer trips would be needed to tow replacement sections of the Twister’s outer casing, the vast dish-shaped structure that rode along the surface like a breaching whale, partially exposed to the icy air and partially submerged.  It was upon this huge dish that the chronotron pods had been mounted.  Some were missing now and all would have to be checked. And before that could happen, the dish would have to be verified to be fast to her foundation, itself buried in the muck and ooze at the bottom of the trench.  
+Much work remained to be done.
+After some discussion and perusing of survey results, the crew had decided to use a shallow valley just beyond the surf line of the island as a staging place for pods, foundation and main structure elements, and all the mooring, tensioning and cabling that held the entire assembly together.
+On their descent, just to satisfy his curiosity and keep Acth:On’e from pestering him with doubts, Nathan Golich pressed a button on his wristpad.  Moments later, a sultry voice from Training began a theoretical explanation of this huge contraption they were repairing….
+“…The Time Twister contains a naked singularity at the core of its field.  Over fifty terr ago, Uman engineers learned how to use existing stars and their extreme gravitational fields to compress matter enough to create such a singularity.  The distorted space-time field around this singularity core of the Twister is known as a twist field.  
+“Uman engineers developed a way of creating, maneuvering and regulating the effects of the twist field.  This is done through a screening field and a series of buffers, known as twist buffers, or just T-buffers.
+“Like a nuclear power plant with its core always on, but regulated by control rods, the Twister is also always on.  The singularity engine at the core, once created and activated, can’t be turned off.  But it can be regulated through a series of T-buffers.  These moderate the twist field…”
+A chime sounded in Golich’s helmet.  The seabed came up fast and Acth:On’e said, “We’re here, Commander.  There’s the foundation.”
+Golich took a deep breath.  “Let’s get cracking and get the hell out of here.  I don’t like the looks of some of these creatures around here.”
+
+Back on the island, Chou, Qi and Alicia Yang sorted out the chronotron pods on the beach.  Once the Twister’s foundation was secured, Golich and Acth:On’e would return in the skimmer and all of them would set to work.  On their eyepieces, the three crewpersons studied the intricate diagrams instructing them how to activate and test the pods.  Yang shook her head and wiped her helmet faceplate to clear sleet freezing on the front.
+“Just another wonderful day in paradise,” she muttered to herself.  On her eyepiece, she saw the schematic of the entire Twister installation in varying animated stages of completion… the sections of the Twister laid out like pieces of a jigsaw puzzle on the seabed, slings and nets full of chronotron pods, mooring cables, foundation pads, all the parts that somehow, they had to put together.
+Not to mention starting up the singularity engine still probably cooking inside the central power tube of the Twister, the very thing that powered the Twister.  That was sure to be a lot of fun. 
+Straight away, the three of them set to work.  None of them were particularly thrilled about being on this hellhole sewer of a planet.
+While the crew went about prepping the Twister to be repaired, checked and started up, URME had set about his assigned task of using Cygnus’ onboard fabs to print up additional shelters, which would adjoin the control hut and supply shack.  Those needed work too.  Once that was done, Yang and the Chinese would carefully drop the bioshields on M’Bela and Dringoth and litter their patients to one of the shelters that URME had configured as a medbay.
+From that, Yang hoped to begin the critical insert into Queenie’s head and roust out all the Bugs that were infesting her. 
+
+Two days passed and Golich pronounced everything ready.
+“At least, the Bugs haven’t swooped down on this little sewer yet,” Yang observed.
+URME had been regularly checking the swarm’s position with the ship’s AI, ISAAC.  “Centroid of the swarm is now down-sun of this planet.  ISAAC has detected some dimming of Sigma Albeth B, but the fluctuations could be just natural luminosity variations.”
+“Or maybe the Bugs have thrown a few fusium rounds at it,” said Yang.  “They love starballs.”
+Golich agreed.  “We can’t wait any longer. And I don’t want to be vaporized by another supernova again. Cygnus is ready for her little show.”
+Yang frowned, bit her lip.  “She was a damned good ship.”
+All of them hugged the lee of the control shack, sheltering themselves from the fierce squalls, while Golich manipulated the control pack.  He counted down the final seconds.
+“Three…two…one…liftoff!”
+The jumpship rode a spear of flame into the heavens and soon vanished in the clouds.  The thunder of her rockets pealed across the beach and echoed off the cliffs, resounding for several minutes afterward.  Yang let the image settle in her mind.
+“Good show, Cygnus,” muttered Acth:On’e, shielding his eyes.
+“Kick ass, girl,” shouted Yang, pumping her fists. 
+When the sound and light of the launch had died off into the wail of the storm, Golich motioned all hands back inside the control hut.
+“Alicia, by my count, Cygnus will do her thing in about twenty hours.  It’s your show now.  Can you get URME ready for an insert on Queenie?”
+Yang nodded.  “URME’s already got the configs loaded.  All I need now is a little help with the injection.  I’ll be direct-piloting the bots once we’re inside.”
+“These are Coethi, Alicia.  You can handle this?”
+Yang made a fist.  “URME and I will make atom fluff out of these suckers.”
+“Better keep the bioshield up, just in case,” Acth:On’e recommended.  “If one of those Bugs gets out—”
+Golich leveled a hard gaze at Yang.  “If one gets out, you know what we have to do.  And it won’t be pretty.”
+Yang blinked and shook her head, fighting off an image of M’Bela disappearing in a blur of HERF and mag fire, as the crew of Cygnus fought off Bugs escaping from Queenie.  “It won’t happen, Commander.  Guaranteed.  I can do this.  I’ve trained for combat at this scale.  It doesn’t matter where the battlefield is—out there—” she pointed to the heavens, “—or in there—” she pointed to Queenie’s head, “they’re still Bugs and they deserve to be shredded into loose atoms.  Let’s get started.”
+Golich then made sure everyone knew their duties.  With the Chinese scientists Qi and Chou following, the crew of Cygnus made their way out of the control hut and slogged through driving sleet and rain to the nearby shelter URME had outfitted as a temporary medbay.
+Once inside the hatch, Golich checked the time.  They had less than two hours before Cygnus’ core would begin its catastrophe collapse and spacetime itself would be ripped inside out.
+
+It was a whole new way of fighting a war and Golich knew that half the time, they were inventing tactics as they went along.  
+"Okay, Alicia," Acth:On’e patted down the incision he had just made in the side of M’Bela’s skull.  "Subject's prepped and ready."
+"Like slogging through molasses.  ANAD's inerted and stable…ready for insertion."
+The insertion went smoothly enough.  A slug of plasma forced the replicant master into M’Bela's capillary network at high pressure.  Yang got an acoustic pulse seconds later and selected Fly-by-Stick to navigate the system.  A few minutes' run on its propulsors brought the Autonomous Nanoscale Assembler/Disassembler they called URME to a dense fibrous mat of capillary tissues.  The image soon appeared on her IC panel.  
+"Ready for transit," she told them.  "Cytometric probing now.  I can force these cell membranes open any time."
+Acth:On’e used URME's acoustic coupler to sound the tissue dam ahead, probing for weak spots.  "There, Alicia, right to starboard of those reticular lumps…that's a lipid duct, I'd bet a hundred bucks.  Try there."
+Yang steered URME into the vascular cleft of the membrane.  She twisted her right-hand controller, pulsing a carbene grabber to twist the cleft molecules just so, then released the membrane lipids and slingshot herself forward.  Seconds later, URME was floating in a plasma bath, dark, viny shapes barely visible off in the distance.  The plasma was a heavy viscous fluid.  Yang tweaked up the propulsor to a higher power setting and took a navigation hack off the vascular grid.  
+"Ventral tegmentum, guys.  Just past the mesoencephalic nucleus.  Looks like we're in."
+Yang navigated URME through the interstices of M’Bela’s brain for the better part of an hour.  She had programmed the assembler to send an alarm when it encountered any kind of unnatural activity…especially assembler maneuvering or replication.  If there were any remnants of Coethi bots left in her brain, she wanted to be ready.  
+At 1824 hours, URME sent the alarm.
+"Reticular lumps," Acth:On’e pointed out on the imager.  "Start transiting…now--"  With a deft touch on the controls, Yang squeezed the URME master through a cleft in the capillary barrier, shoving aside a curtain of lipid molecules, and entered the bloodstream of the brain.  "We're in…going to half power on propulsors…give me a navigation hack."
+They hadn't had time to put up the full tracking grid.  Acth:On’e scanned M’Bela’s brain with a low-power quantum flux scope, got a rough fix and gave it to her.  
+"I'm picking up density at about two hundred microns anterior to the minor mesostriatal projection…right about here--" she fingered an approximate location on a chart the TM1 was displaying.  "It's probably URME."
+Dark viny shapes and dense fiber growth clouded the view.  Acth:On’e said, “Must be approaching a duct…could be projections to the nucleus accumbens."
+The imager view careened slightly as URME maneuvered through heavy fiber mats, swinging first to port, then to starboard, as Yang drove the assembler deeper into Queenie’s brain.  Her face was pale and dry.  Only minor tremors tickled the ends of her fingers.  The bioshield had already been dropped.  She was secured with makeshift straps to a foldout chart table, breathing shallowly.  Her lips moved in barely perceptible quivers…she seemed to be trying to say something--
+Neural discharges roiled the image, as flickering projections lit off nerve signals from one synapse to another.  Each discharge set off cascades of other discharges, a lightning display inside the mind.  Maybe a thought, perhaps a dream image, there was no way to know for sure.  URME navigated the mind storm carefully, flitting from one branch to another, always careful to sound ahead for non-fiber returns, for density too high, evidence of something other than nerve cells drifting in the dim shadows ahead.
+"Nothing yet--" Acth:On’e said quietly.  He took another reading with the flux scope, and estimated URME's position.  "You're about here--" he tapped the point with nervous fingers.  A large irregular patch of nerve fiber bundles lit up on the chart.  "Anterior convergence, it's called.  Kind of like a big train station for axon fibers.  Entorhinal cortex, lateral septum, central amygdala and prefrontal striatum…they're all here.  It's a big switchyard."
+"I'm moving forward…now--" Yang tweaked the propulsors down to twenty percent, and steered URME through the dark undulating forest of fibers, pressing through curtains and showers of dendritic branches, easing forward, slowly forward--
+It was Chou, looking on, who saw the first blip on the imager screen.  "There’s something ahead.  You've got a return…something ahead, through that jungle right there--"
+URME eased forward, his small brood of replicants hovering and maneuvering in unison nearby.  Sheer translucent mats parted as the assembler steered ahead.  Through the convergence, the density of fiber dropped off and vast, elliptical shapes loomed out of the mist ahead.  
+"Ventral tegmentum," breathed Captain Dringoth, who had just come into the sickbay, his head bandaged, still wobbly but upright.  "Six thousand microns ahead…my God…look at them…they're everywhere--"
+Just ahead, dark oblong globes hung from a vaulted ceiling.  Each globe was enveloped with axon fiber, as if confetti and streamers had been strewn about light fixtures in some mad Telitorian Rotundas party.  Flashes and flickers pulsed along the streamers, all converging on the globes, which periodically erupted in a brilliant burst discharge, before sending the signal further along different sets of streamers.  
+And there dimly seen in the shadows, hovering about each globe like so many whaleboats dismembering a prize catch, a fleet of Coethi mechs scuttled back and forth, steadily insinuating themselves in and among the fibers.  Steadily diverting the discharges and signals, patching in, snipping off, splicing themselves in between the globes to control the direction and strength of each signal.  
+The mechs were slowly but surely seizing control of the entire region.
+Yang gritted her teeth and pulsed the joystick.  URME maneuvered into position.
+"URME defenses up and armed…enzymatic knife, electron bond disrupter, grabbers and effectors--"
+Acth:On’e checked the board for the DPS1.  "Green and mean, Alicia.  Go get the bastards."
+"I'm engaging…right now."  
+URME and the small force of assemblers jetted forward.
+A low moan escaped Evelyn M’Bela’s lips as more dreams were triggered and went cascading through her mind.  Dringoth found a wet rag and pressed it to her forehead.  It felt warm, feverish.
+"Hold on, Queenie…just hold on," he murmured, bending close to her ear.  "We're coming--"
+"Less than two thousand microns," Chou said.
+Yang pressed the attack.  
+"Now!" Acth:On’e yelled.  "Reconfig now!  Assault One…give 'em a taste of knuckles and fists!"
+Deep inside the limbic system of Jumpmaster Evelyn M’Bela, URME started gathering and bending atoms furiously as the last few microns were closed.  Even as URME fashioned an arsenal of weapons out of its effectors--electron lens, bond disrupters, enzymatic knife--the Coethi mechs went about their business.  Almost at the point of engagement, a small detail detached itself and flew up to challenge the intruders.
+The result wasn't pretty.
+Newly armed and replicating to outflank the enemy, URME's reconfig surprised the Coethi.  The defensive detail stood off momentarily, feinting warily while it tried to figure out what to do next.  
+"You've got them snookered, Alicia," exulted Dringoth.
+"Maybe…" Yang tweaked her joysticks, maneuvering just out of reach of the enemy.  "I'm going to try and outflank these bastards, go for the main force."  She pulsed URME's propulsors, then turned sharply around a clump of axon fibers and bored headlong into the enemy horde, slashing left and right.  
+URME slammed into the enemy, seizing a phosphor group on the nearest carbene and twisted atoms until the enemy mech's bond broke.  Liberating thousands of electron volts, the disrupter zapped the mech and shattered its outer shell, ripping off probes left and right.  Coethi shuddered and spun with the pulse, then re-engaged to fight off another bond snap.  Throughout the ventral tegmentum, trillions of URME replicants duplicated the same tactic.
+The cytoplasm churned and frothed with furious combat.
+Slowly, with a few setbacks, methodically, with grim determination, Yang and Acth worked their way through the enemy horde, rapidly disassembling, zapping, twisting and snapping mechs left and right.  The assault was essentially over in ten minutes, though Coethi made several counterattacks.  
+Acth slapped Yang on the shoulder.  "You did it!"  You clobbered 'em!"
+"For the moment--" she agreed.  "We've got to make sure, though--do a little recon and root out any last resistance.  If even one mech's left intact--"
+"I know, I know.  But you smashed 'em good…that's the first time."
+"I got lucky."
+It hadn't been easy, but Yang's training regimen for the Detachment had paid off.  Debris and fragments clotted the axon forest; only loose atoms remained.  URME cruised through the flotsam, as the imager view jostled and careened with stray electrons roiling the plasma.  Throughout the whole area, Coethi had been cut to pieces by URME's disrupters…and the last-minute config change that URME had taught them.
+The tactic had worked--finally--but they had to be sure.
+Dringoth was wetting down M’Bela’s hot forehead.  "She's been twitching a lot…maybe dreams, micro-spasms--"
+"Back-signaling to some motor circuit, somewhere," Yang said.  "Involuntary reflex, most likely.  I've just trying to make sure we don't have any more mechs hiding anywhere…this place is like a jungle.  A million places to lay low."
+Dringoth understood.  "If there's even one processor core, the bastards can replicate all over again."
+"Or re-config to something that looks natural…like that dendritic branch over there."  Acth:On’e pointed to a tangle of fibers dimly seen in the murk.  Faint flashes of electrical activity backlit the dense canopy.  Yang zoomed in for a closer look, navigating URME carefully through the dangling projections.  As she scanned the cluster, the imager centered on the gentle arc of a planet's horizon, but this planet was a single synapse of a single nerve cell.  Lightning flashed inside the translucent cell membranes on either side.  Pyramids and polygons floated over the limb of the synapse-planet, shuttling between the membrane and other membranes out of view--molecular delivery vans bearing serotonin and dopamine and norepinephrine--to the outer cells of the membrane.  The chemistry of thought itself--and URME cruised through the traffic at close range, careful to avoid interrupting any vital deliveries.
+"The truth is--" Yang went on, "Coethi could config itself to look like any of these structures--a dopamine cluster, a cell vesicle, axon chains, anything--and I'd never know it.  We don't have the time or the resources to recon everywhere."
+"So what do we do?" Dringoth asked.  He was peering warily out the porthole as winds and rain and sleet swirled outside.  "What can we do?"
+Yang shrugged.  "Wait 'til Queenie comes around.  Watch her closely for awhile, see if she's acting normally."
+"Normally?  None of us acts normally these days," Acth said.  "What the hell is normal?"
+Just then, URME sent out an alarm.
+The imager screen was at first murky, crowded with the spikes and cubes of dissolved molecules.  Lumpy, multi-lobed sodium molecules darted across their view like shadowy ping-pong balls.  Yang studied readouts from URME's sounder…something was there, hidden in the data traces on the scope.  She fiddled with the gain on the imager, tweaking it, subtracting foreground clutter.
+Something approximately sixty nanometers in one dimension, narrow with a globe structure at one end…and scores of probes, effectors, cilia, whatever.  Incredible mobility…triple propulsors beat an idling rhythm as URME closed in….
+Acth let out a whoop.  "Will you look at that?  Where’d they come from?"
+Dringoth bent closer, squinted at the vague, fuzzy outlines on the screen.  "I believe Coethi has just mutated.  A whole colony of them.  A new welcoming committee, it would appear.  Come to see what we're about.  It’s that swarm out there—” he pointed to the sky.  “It’s making these bastards more active, more aggressive.  Probably communicating with each other.”
+Yang's fingers flew over the interface controls.  "We're about to check these jokers out…" Quickly, she signaled URME to prime its defensive mechanisms, and slowed its approach to a crawl.  
+Reconnoiter first.  She remembered a line from Sun Tzu, the Time Guard wargames last spring….
+He who is skilled hides in the most secret recesses of the Urth.
+Under Yang's guidance, URME maneuvered among the jostling molecules of chlorine and sodium and potassium.  A huge kinked snakelike cluster of hematite molecules drifted by.  Yang had an idea.  She signaled URME to grab a few hematites as a shield.  Seizing oxygen atoms with its effectors, URME clutched several molecules.
+Gradually, the shape and size of the new mutated bots became clearer.  Bristling with effectors and arms, the head was a multi-lobed cluster of spheres and hexagons; inside the churning electron cloud dimmed out any detail.  
+Below the head was a cylindrical sheath, covered with pyramidal facets and undulating beads of proteins - the assembler's probes and effectors.  Yang was frankly awed at the sight.
+"Hell of a lot of gear for this bastard," she said.  
+"So many different kinds of effectors," Chou marveled.  He glanced over at Qi and Dringoth saw the look.  The Chinese were trying to figure a way to capture this bot, to take it back with them.
+Indeed, the horde of Coethi assemblers were rigged out like battleships, with devices for every conceivable mechanical or chemical action.  A baseplate capped one end of the sheathed body.  The tail structure was dense thicket of fibers, each tipped with penetrator clusters.  The penetrators enabled the bot to attach to and enter any structure.
+Yang brought URME to a complete stop.  The hairs on the back of her neck bristled.  Something wasn't quite right, but she couldn't put her finger on it.  It’s like I’m fighting some kind of higher intelligence here.
+She pulsed URME's propulsors, maneuvering in for a close-up look.    "I think these buggers are talking to Big Mama out in space, Captain.”
+Chou marveled at what they were seeing, shook his head.  "Fantastic engineering, if it's what I think it is.  Acetylcholine, dopamine, serotonin…the possibilities are endless.  Synthesize enough of the right molecules and inject them across the synaptic gap here.  You're basically in control of a nerve impulse.”  To Qi, he muttered, “Nothing like what we have at the Institute.”
+Unnoticed by anyone, the swarm of enemy mechs had begun to re-orient themselves tail first toward URME.  Their tail fiber penetrators quickly reconfigured, locking into attack position.
+He is who is skilled in attack flashes forth from the topmost heights of heaven.
+Out of the corner of her eye, Yang saw the maneuver on the imager.  
+"Look out!" Acth saw it too.  "He's changing position…all of 'em, coming at us--"
+"I'm ready," Yang muttered.  Her fingers flew across the keyboard.  Instantly, URME brought all its defensive mechanisms to attack position.  It cast off the hematite shield and closed for battle.
+As URME sped forward, the newly mutated Coethi grew and retracted appendages and surface structure with blazing speeds.  The outer membrane of the mechs seethed with motion, as atoms and clusters of atoms twisted, bonded, twisted again, re-bonded, broke apart, recombined, straightened, undulated and whirled.
+The gap between them vanished and URME grappled with the nearest mech.  Other mechs swarmed to the battlefield.
+M’Bela squirmed and arched her back, her voice rising and falling, repeating ancient tribal incantations in a shrill tongue.
+Dringoth and Acth helped hold her down.  “Damn Bugs are affecting her memory now.”
+Yang was stunned by the speed of the assault.  A battalion of Coethi soon engulfed URME.  No time to replicate now…got to get free…signal daughters…Yang fired off a burst of instructions to gather all the daughters URME had replicated going in.  It might be too late.
+The imager screen shook with the collision, then careened sideways.
+Several minutes passed.  The imager view vibrated with the ferocity of the attack.  Chains of oxygen molecules, pressed into service as makeshift weapons, whipped across the screen.   The water was soon choked with cellular debris.  Coethi replicated several times, adding new molecule strings.  It stripped off electrons to make an armor shield of highly reactive chlorine atoms.   In seconds, URME was immobilized by the chlorine sheath.
+"I can't hold structure!" Yang yelled.  "I'm reconfiguring…shutting down peripheral systems!"
+Acth:On’e had taken a place beside Yang at the interface controls.  "Got to disengage, Alicia…emergency truncation.  Everything not critical.  We've got to get URME out of there before we lose him!"
+"I'm trying…but the damn mech's penetrated the signal path…if he cuts the link…."
+"I know, I know…just keep trying, Jeez…internal bonds on main body structure weakening…you’re losing all your grappling capability…."
+As they watched, Coethi systematically dismantled URME, molecule by molecule.  URME was woefully unprepared for the assault of the mutated bots.  Armed with new configs from the mother swarm, Coethi mechs whirred and chopped every device URME could generate.  URME tried to counter, replicating probes, inserters, jaws, cilia, pumps, blowers--but it was no use.
+Coethi mutated too fast.  Somehow, the mech seemed to anticipate URME's every move.
+Yang was awed by the Bugs’ combat capabilities.  "Incredible," she whispered.  "The perfect warrior.  Must have one hell of a processor."
+Dringoth agreed.  "Probably quantum, just like URME. Thanks to our Chinese friends here."  He checked the time.  Still an hour left before Cygnus would blow.  
+Nobody noticed Dr. Qi easing forward toward the gurney, a small device hidden in his hand.  The capsule would grab any bots that spilled out of M’Bela’s head.  
+They were all stunned at the ferocity of Coethi's response. 
+Yang's fingers flew across the keyboard.  "It doesn't make any sense.  The damn thing's actively trying to defend its position, trying to keep control of Queenie’s brain."
+She had no choice but to disengage to save the URME master.  Extract before URME was chopped to pieces and leave M’Bela to the Coethi swarm inside her head.
+"We're losing signal strength,” Acth yelled.
+"I see it!  They’ve penetrated the matrix.  Main processing functions in danger…I'm counterprogramming…."  Yang pecked madly at the keyboard.
+Dringoth shook a fist at the imager screen, now a dark, swirling mass of shapes and forms.  "Come on, damn it!  Come on…."
+But URME couldn't hold.  Every move was countered by the Coethi.  The enemy response was swift and sure.  Yang, Acth, and the others watched in amazement and then horror, as one by one, URME's capabilities--fine motor control, attitude and orientation, propulsors, sensors, molecule analysis, replication--were rendered inert, or completely excised.
+URME was helpless.
+"Got to get the hell out of Dodge," Yang muttered.  While I still can.
+Acth was checking status.  "It's bad, Alicia.  We've got no electron lens.  No enzymatic knife.  Hardly any effector control.  URME's crippled."
+Yang gritted her teeth.  "Not just yet…"  Her fingers flew over the keyboard.  "We've gotta get some data…got to probe that bugger, get some structure on him…if I can just get stabilized--"
+"Alicia--there's nothing left to stabilize--"
+M’Bela's prostrate body shuddered and convulsed.  Dringoth held his breath…behind the frothing outlines of the assault, the imager showed swarms of Coethi mechs beating back through her cranial plasma, ready to resume their mindless pumping of dopamine.  A low moan escaped her lips.
+M’Bela’s body started shaking.  Strange incantations spilled from her lips trilling higher, louder.
+Despite all odds, Yang wasn't about to give up.  Grimly determined, she piloted what was left of the URME horde back for another wrestling match with the enemy.
+"Whatever this thing is," she swore to herself, "it reacts like URME itself."  She worked the config controller, while Acth:On’e managed status, crossing his fingers that the URME master would hold together.
+Extend a grappler there.  Poke a carbene there.  
+While Dringoth and Acth helped hold M’Bela still, Yang disengaged URME, scrunching up an atom group as she tacked against the churning plasma, closing steadily on the nearest mech.  Inside a few dozen nanometers, she siphoned off the mech's outer charge and let the zap break him away.
+Reams of bond energy data and config details burst onto the imager.  Acth:On’e let out a yelp.  The enemy mechs had given up vitals on structure and URME snatched the info right out from under him, storing it, pulsing it back to its human controllers.
+"Now, I gotcha, you little bastard--"
+Yang knew she had to get URME away while she still could.  Coethi swarmed forward at the same time M’Bela convulsed again.
+Dringoth, with help from Chou, couldn't hold her down.  "Neural seizure, Alicia…Coethi's eating her alive…we could be next if any of them escape.”  He groped for a magpulser on a nearby tray, found it and brought it around.
+Yang was powerless to save her.  Acth cradled M’Bela's pale face, watching the onslaught on the imager screen.  "Damn mechs have gone berserk…they're shredding neural tissue…flooding synapses--" M’Bela jerked and spasmed violently, arching her back so far, her spine cracked.  Startled, everyone fell back and stumbled, scrambling away from her twitching body.  The faintest blur of a mist issued from her mouth, her nose, her eyes.
+"Makombe…makombe…mortangi…."
+Dr. Qi pushed forward, bumped into Dringoth’s legs, nearly knocking the CC1 off his feet.
+At the same time, Yang was determined to get URME out of her skull before she lost the assembler completely.  First TD couldn’t afford to lose another crew member.
+"Executing quantum collapse…NOW!"  Come on baby, get small for me…get real small….
+Deep inside M’Bela's brain, the URME master collapsed what was left of its own structure in an explosive puff of atom fragments.  Base, effectors, probes and grapplers, even the core shell surrounding its nanoprocessor, went hurtling into the plasma in a big bang of spinning atom parts.
+Instantly, URME disappeared.  To all intents and purposes, URME had effectively vanished in a cloud of blurry quantum waves.
+Less than four minutes later, making its way on quantum wave propulsors, URME was finally extracted and re-inserted into the containment capsule Dringoth was holding, its nanoprocessor still dogging electron states to bring the nearly invisible device home.
+A warning klaxon sounded throughout the shelter, as stiff wind gusts made the beams and columns creak.  
+Dringoth checked the time.  The seconds on his wristpad were counting down, nearly at zero.
+“Core collapse on Cygnus,” he announced.  “…Five…four…three…two…one…Now!”
+Less than a minute later, Evelyn M’Bela died.
+
+TO BE CONTINUED
+
+
+
+
+About the Author
+
+Philip Bosshardt is a native of Atlanta, Georgia.  He recently retired but worked for nearly 25 years for a large company that makes products everyone uses…just check out the drinks aisle at your grocery store. He’s been happily married for over 28 years.   He’s also a Georgia Tech graduate in Industrial Engineering.  He loves water sports in any form and swims 3 miles a week in anything resembling water.  He and his wife have no children.  They do, however, have one terribly spoiled Pekingese dog named Chance. 
+     For technical and background details on his series Tales of the Quantum Corps, visit his blog Quantum Corps Times at http://qcorpstimes.blogspot.com.  For details on other books in this series, visit his website at http://philbosshardt.wix.com/philip-bosshardt or learn about other books by Philip Bosshardt by visiting www.smashwords.com. 
+     To get a peek at Philip Bosshardt’s notes and the backstory on how the Time Jumpers series was created, recent reviews, excerpts from upcoming books and general updates on the writing life, visit his blog The Word Shed at: http://thewdshed.blogspot.com.
+      Download the final exciting episode of Time Jumpers from Smashwords.com and other fine ebook retailers.  It’s called ‘The Time Twister.’  Also included will be an excerpt from the new series Quantum Troopers Return Episode 1: ‘Fab Lords.’ Available on January 3, 2020.
+
+
+
+
+
+
+ 
+

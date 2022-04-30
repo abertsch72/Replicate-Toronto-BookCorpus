@@ -1,0 +1,974 @@
+﻿Aliens: Brood War
+By Jose Rodriguez Jr 
+Based on Alien by Dan O’Bannon & Ronald Shusett
+Cover by Tatiana Villa at villatat@gmail.com
+
+Copyright 2020 Jose Rodriguez Jr
+
+Disclaimer
+This is a work of fiction. Characters, businesses, events, and incidents are the products of the author’s imagination. Any resemblance to actual persons, living or dead, or actual events is purely coincidental.
+
+
+~~~~
+
+Table of Contents
+1. AVELLAN
+2. LV-223
+3. DEACON
+4. IDEOLOGY
+5. AWAKENING
+6. UNLEASHED
+7. PANDEMONIUM
+8. DOOMED
+9. FATE
+10. ORIGAE-6
+ABOUT THE AUTHOR
+
+1. AVELLAN
+LV-223 had seen better days, as far as any activity from some form of life. Storms came and went. It was mostly inhospitable to most complex life. In a large plain was the wreckage of a ship and a badly damaged lifeboat. On the side of the lifeboat, near the ground, the hull began to violently buckle as if something was ramming it repeatedly. After several clashes, the hull finally gave way to reveal it was a fully grown Deacon.
+The creature immediately burst from the hole it created and ran off to the nearest opening to the Engineer’s installation. This was a highly evolved animal with very acute senses. It was at the facility it would find food of some form.
+Lightyears away on a different planet, a military-owned DSRV or deep space rescue vessel, descended on a human colony, landing inside a large bay that slowly opened up to receive it. It was a smaller ship, capable of carrying one thousand tons of equipment and its crew of five plus an android.
+In the control center of the colony were several people in suits. Many had fallen and lay slumped against the bulkhead. Those that were still standing, violently coughed and were breathing heavily.
+One man sat at the communication terminal. “This is Dr. Carson of Aurora to Avellan,” he said. “Please, come in.”
+“This is Mic of the Avellan,” came the response, “What’s your status?”
+Mic was shorthand for Michelangelo. The name ‘Mic’ was preferable due to only having one syllable He was a new ‘combat’ droid, designed by Weyland-Yutani for the USMC to do whatever it took to protect humans. His mission, whatever it was, was secondary, only to be completed if at all possible. This was done to give him a more humane decision-making process instead of a cold-hearted one.
+“Everyone’s alive,” Carson said. “But we’re not doing so well. We don’t have fresh air. Diagnostics indicate it’s the converter. Must be leaking or something.”
+ At the controls of the Avellan, Mic replied through his headset. “We’re here now, everything will be fine. Let me wake the crew and we’ll get right on it.”
+Carson fell back in the chair, coughing. “Hurry.” He said weakly.
+After forty-five minutes, a hatch on the Avellan opened. Five individuals in protective suits emerged. Two of them carried suitcases for their equipment. The bay would normally be filled with breathable air before stepping into the actual colony.
+One of them, Lieutenant Toby Kai, an Asian-American male with brilliant green eyes. In charge of the group and a certified doctor, gave out instructions. “Shaw, take Layton and Eastman. Check out that converter. Zima, you’re carrying the case, you’re with me.”
+Private Elena Zima had training as a combat medic and was a young Caucasian woman from Ukraine; blonde hair, blue eyes, with dreams of becoming a full-fledged doctor one day.
+“Have you seen the latest tournament?” Zima asked as she and Kai headed for the control center.
+“Not yet,” Kai answered. “My wife sent the video, but I haven’t had a chance to view it. According to the message, my son won first place. Whenever I get back I’ll have to have him teach me a few moves.”
+“I messaged my mom,” Zima said. “Horse got sick. I told her not to worry as long as it gets to the vet on time.”
+The other three members of the team entered another room. There was a lot of machinery around that gave it a daunting look.
+“Ok guys,” Shaw began. “Converter should be about halfway across the room.”
+Sargent Lisabeth Shaw, Elizabeth Shaw’s twin. She’s been hoping to find her sister ever since the Prometheus was reported missing. Unlike Elizabeth, she had decided to go down the engineering path with some training as a combat medic.
+The two men with her were Kamaru Layton and Kenny Eastman.
+Corporal Kamaru Layton, is an African-British man with a shaved head and bright blue eyes. He was another brilliant engineer, like Shaw.
+Private Kenny Eastman was the final member of the team. An American male; buzzcut hair, and brown eyes, he was a young technician on the engineering path with some training as a combat medic.
+“I think I see it,” Layton said.
+Eastman was carrying the suitcase. “Readings indicate very little O2,” he said. “What are they doing here anyway? Doesn’t seem like a good place for a colony.”
+“It’s a Weyland-Yutani testing site,” Shaw replied. “They want to get into terraforming planets.”
+“All the more reason for this place to succeed,” Layton said.
+“Yeah,” Eastman added. “But an entire planet? No wonder they’re having problems.”
+“Aw, c’mon man,” Layton said. “It’s like when you’re trying to start a relationship. You start off small and work your way until you get in the bed, but you wouldn’t know anything about that yet.”
+As Layton then laughed hysterically, Shaw chuckled and said. “Ok, man. Eastman, run a diagnostic on the converter.
+The three stood around the equipment in question. Eastman opened the suitcase and pulled out a tablet to connect to the converter and begin running tests.
+Kai and Zima entered the command center. There were a few unresponsive bodies scattered about. Several people, including Dr. Carson, immediately ran up crying and coughing. “Help,” ”I can’t breathe,” “Thank god you’re here.”
+Zima grabbed on to one out of empathy.
+Kai maintained his composure. “Where’s Dr. Carson?” he asked.
+“That’s me,” Carson said, stepping in front of Kai.
+“Explain what happened,” Kai asked. What are your symptoms?”
+As Carson began to explain, Zima grabbed a tablet device similar to Eastman’s and hooked it up to the life support terminal.
+“First, it was a funny smell,” Carson said. “A few people got sick. We figured out it was the converter quickly but had no way to fix it. So we immediately called the company. We didn’t think it was a big problem until it got worse. Soon, we were all like this and everyone put a suit on just to breathe normally.”
+“Looks like they were poisoned,” Zima said as she read from the tablet. “The air isn’t being filtered. They should be fine as long as they stay in the suits, or I should say they won’t get worse.”
+Kai reached into the suitcase and pulled out two handheld devices. He gave one to Zima and said. “Take this blood oxygenator. Let’s get these people back to the Avellan and use it to filter out the toxins.”
+Pressing a button on his suit, Kai then said. “Shaw, can you read me? ”
+“Loud and clear,” Shaw answered.
+“What’s the status on that converter?” Kai asked.
+“Diagnostics still running,” Shaw said. “So far, it’s found several faulty capacitors but that’s all. It should be done soon.”
+After a moment, Eastman disconnected the tablet. “Looks like it’s  three capacitors,” he said.” Redundancy module looks fried.”
+“Good,” Shaw said, rummaging through the suitcase. “I’ll take a small problem any day. Layton, fix those capacitors. Eastman, Go back to the Avellan and bring five extra capacitors. Mic should know where they are. I’m going to put together a new redundancy module.”
+“Yes, Sargent.” Both men immediately said and did as instructed.
+Eastman left and was approaching another exit to the Avellan when he met up with Kai and Zima escorting the first patients. “How are they?” he asked Zima.
+“They’ll live,” Zima answered. “How about you? You find that leak?”
+Eastman allowed Zima and her patient to enter the Avellan first. “Nah,” he said. “No leak. Just a few capacitors and redundancy module.”
+“Looks like I win.” Zima laughed.
+“Now hold on a minute,” Eastman cried out. “It was the converter, it just wasn’t leaking.”
+Entering the Avellan, Zima giggled as she led her patients. “Sorry,” she said. “Not how it works.”
+Eastman grunted as he entered. “Kai?” he called, searching for an opinion.
+“Don’t ask me,” Kai said. “I didn’t make the rules or play, but as I understand it there was no leak, so I got to give it to Zima.”
+Eastman grunted even harder as he walked down to storage and called. “Mic, where are the capacitors for a type three converter?”
+Mic had stayed behind, taking care of the Avellan. “Box four ‘B’,” he said. “Second shelf on the right.” He usually monitored the situation from the ship. Deploying in extreme cases of emergencies.
+Back by the converter, Shaw and Layton worked diligently.
+“Got any plans when we get back?” Layton asked.
+“Nope,” Shaw answered. “Well, maybe visit family and friends, but mostly stay home.”
+“I’m going straight on vacation,” Layton said. “Paris, City of Love, here I come.”
+“That’s nice,” Shaw replied. “I’m sure your girlfriend will appreciate it.”
+“Destinee,” Layton said. “Nah, we broke up.”
+Shaw lightly laughed. “Here you are giving Eastman a hard time, at least he has a girlfriend. A nice one too, Macy.”
+“I was just joking around,” Layton said. “Gotta have fun in this line of work. Aren’ you lonely?”
+“Nah,” Shaw said. “I got the USMC. Keeps me plenty busy.”
+“USMC, really,” Layton asked. “Even you must crave a man’s attention.”
+“I get it when I want it,” Shaw replied. “No problems here.”
+Just then, Eastman walked in.”Gottem.” He said, joining the duo and handing Shaw the extras.
+“Almost done,” Layton said.
+Shaw put the extra capacitors away on a nearby shelf and then made a few more welds to a small circuit board box-like device in her hand. She gave it o Layton who took a few moments to install it.
+“Got it,” Layton said, “Everything’s in place.”
+“Ok, let's go,” Shaw said, then calling. “Shaw to Kai.”
+“Kai here, go ahead,” he answered.
+“All done here,” Shaw replied. “Give it twenty-four hours before the air in this facility returns to normal.”
+“Roger,” Kai said. “Come back for now. We’ll check up on things later.”
+It would take the entire twenty-four hours for the facility to filter out all of the toxins and start pumping out breathable air. Everyone gathered in the dining hall and sat in front of a hot plate of food.
+Carson raised his glass and said. “To the crew of the Avellan This meal we about to eat wouldn’t be possible without you. We owe our lives to your timely intervention.”
+The rest of the facility members raised their glasses and said. “To the Avellan!”
+Kai was sitting in front of Carson. He took a drink and said. ”You guys are lucky the company doesn’t put any of their assets more than a year out. It took us almost eleven months to get here. How did you manage food, showers, bathrooms?”
+“Easy,” Carson answered. “We did everything inside of our mobile testing lab. It wasn’t designed to be lived in for long periods of time, but it came through for fifty-plus people in a pinch.”
+Shaw, sitting next to Kai asked.“How are things in general? I read you guys do a lot of tests here.”
+“Things are great,” Carson said. “Just before the air got bad we were testing a new kind of stimulant, it’s designed to rouse you from your hypersleep faster.”
+Layton was to Kai’s other side. “Sounds helpful,” he said. What is it?”
+“A stimulant in the form of a pill,” Carson replied. “For people like you actually. They’re safer and faster. You can take a few for some field testing if you want. You guys are here anyway.”
+Zima was sitting with Eastman next to Shaw.
+“I was thinking of paying Ukraine a visit,” Eastman said. “What’d ya think? It’s part of my goal to visit every place back home.” He then scooted closer to whisper. “Is it true, you can see the size of the Ukrainian President’s balls from space?”
+Zima lightly chuckled at the joke. “My brother and I grew up in Kyiv till our teens,” she replied. “We would visit the family from time to time. I don’t know what to tell you. Home is home. Seemed average to us. Maybe you and Macy will like its countryside better.”
+“Lieutenant,” Mic called over a radio.
+Kai spoke into what resembled a watch. “I read you, Mic,” he said. “What’s up?”
+“Please, come to the Avellan,” Mic responded. “Alone.”
+Back on the Avellan, Kai found Mic standing near the communications terminal.
+“What's wrong?” Kai asked.
+Mic stepped away from the terminal and pointed at it. “I thought it better if you see it for yourself.” He said.
+Kai walked over to read the message. “Everything looks legit,” he said. “Looks like we have ourselves another mission.”
+“Pardon me, Sir,” Mic said. “When should we notify Shaw?”
+“Might as well tell her now. She’s gonna find out sooner or later,” Kai said, then speaking into his wrist-mounted radio. “This is Lieutenant Kai to all members of the Avellan. Top priority. This is not a test. Report at once for deployment. We have a new mission.”
+
+2. LV-223
+Traveling as fast as it could, the Avellan fired several salvos of its primary cannon at an oncoming asteroid all while continuing on its original course with no stopping.
+“Mic,” the ship’s computer called, “We are approaching LV-223. Shall I wake the crew?”
+“No, Mother” Mic answered as he sat at the flight controls. “No need to wake them only to put them through what might be a bad landing.”
+With his new programming, Mic, even with no rank, was given most of the responsibility of the Avellan and its systems. The crew mostly served to respond to distress signals and tended lightly to the ship’s maintenance. It was all done for the sake of efficiency.
+Ever since the Prometheus disappeared, it’s lifeboat broadcasted one last SOS to whoever could receive it. Weyland-Yutani merged and decided to launch a rescue mission only after receiving the transmission. Nobody knows the details of what happened, only that a signal was received.
+“Mother,” Mic called. “Run the AHF scan again.”
+“Scanning,” Mother said. “Signal triangulation confirmed, no life forms detected. The lifeboat has suffered catastrophic damage. Debris detected.”
+Mic took control of the ship.
+The Avellan descended into the planet’s atmosphere. The weather was violent, then calm, but rainy.
+As he had done a dozen times before, Mic expertly navigated the Avellan to a slow landing.
+“Mic,” Mother called, “Recommend you proceed with caution. The debris pattern indicates the wreckage of a much larger ship.”
+“Ok, thank you, Mother,” Mic said as he stood to leave down the hall. “Wake everyone up per standard procedure.”
+The hibernation chamber lit up as the pods came online to open and reveal their occupants.
+The crew slowly came about. Wearing only enough clothing to cover themselves up modestly.
+Mic walked in with the stimulants and cups of water on a tray. “Hello again everyone,” he said. “It’s been one year, two months, five days, seven hours, four minutes, and eighteen seconds. We’ve arrived at LV-223. SOS beacon has been successfully triangulated.”
+Kai approached Mic. He was still groggy but a little more self-aware than the others.
+“May I assist you Lt. Kai?” Mic asked, then handing over a stimulant pill and a small cup of water for him to immediately ingest.
+“Nothing else,” Kai replied. “Thanks, did you scan for survivors?”
+“None were detected, Sir,” Mic answered.
+“Have we already landed?” Kai asked.
+“Yes, Sir,” Mic said. “We are within one kilometer of the Prometheus’ lifeboat.”
+Shaw approached them, almost eagerly, and then took a stimulant.
+“Sgt. Shaw,” Mic continued. “I’m sorry to report we’ve detected no life signs.”
+Rubbing her eyes more awake Shaw said. “I suppose the best we can hope for is a clue of where to find my sister. Let’s hurry.”
+Kai placed a hand on Shaw’s shoulder to calmy say. “Slow down, Shaw. If she’s here, she’s not going anywhere. By the book, remember that.” He then called. “Layton.”
+Layton immediately came over and stood somewhat at attention and said. “Sir?”
+“Gather everyone up in the airlock,” Kai said. “Make sure they’re ready to go, Cpl. We haven’t detected any survivors. No life signs, but I don’t want to take any chances. Equip everyone with a pulse rife and tell Zima to take a motion tracker just in case.”
+“Yes, Sir,” Layton said, taking a stimulant then leaving to spread the word.
+All of them, except Mic, had taken a stimulant and then quickly got dressed. It was only their combat fatigues with an environmental suit over that. 
+Zima made sure to grab a motion tracker and call. “Eastman. You can pay when we get back to base?”
+“Yeah, yeah,” Eastman said.”You’ll get your money. I still think it wasn’t fair, the call was real, they just exaggerated the problem. There was no leak, but it was their converter.”
+“And now?” Zima asked. “You bet?”
+“Let’s see,” Eastman said as he double-checked to see if his pulse rifle was loaded.
+Being an earlier model and given that they were a rescue team, the rifle had no grenade launcher, instead, in its place was a powerful light used in searching for any survivors.
+“We got debris,” Eastman continued. “A lifeboat, no life signs…”
+“Guys,” Shaw called. “Let’s not bet on this one. Ok?”
+Zima and Eastman both acknowledged Shaw with a “Yes, Sgt.”
+The bet had been to see if the reported problem was the actual problem.
+Layton shook his head and chuckled before turning to Shaw to speak in a low voice. “Those two will never stop.”
+“Well,” Shaw whispered and shrugged. “Eastman was right. Those people did get very sick from breathing bad fumes.”
+Layton chuckled again. “Could have been bad wording. They even said it was the converter. It just can’t technically ‘leak’.”
+Kai walked in, he suited up and placed a helmet on before grabbing a pulse rife.
+Being a DSRV, the Avellan only had a small armory consisting of a pulse rifle for each member, one smart-gun, and one flame unit. The former two items were considered too heavy-duty to ever be used and were normally left in their rack. To one side was extra equipment to help with the job.
+“Shaw,” Kai called. “Grab the topographer. I got feeling well need it with all that debris and ship out there.”
+Shaw nodded “Sir.” She said as she went over to grab the topographer, a tool that resembled the motion tracker, but instead of detecting motion, it was used for scanning the ground or an object's exterior. It could help greatly sifting through debris.
+Kai went to the door’s control. “Alright everyone,” he said. “Get ready, staggered formation, Shaw, take point. Layton, bring up the rear. Everyone else, keep your eyes peeled.”
+The door opened to reveal a landscape littered with the remnants of the Prometheus. Beyond a few low laying rocks, the lifeboat could easily be seen near a crashed Engineer ship.
+Shaw led the way, minding the topographer as it read off what was natural and not only what once part of the Prometheus but what exactly it was and where on the ship it went.
+All the helmets were equipped with an interconnected radio, so anyone could talk and hear anyone at any time. Even a whisper could be heard by all.
+Eastman looked carefully for anything out of the ordinary as he walked. “Zima,” he called. “I know you love a good mystery. What do you think happened here?”
+Zima wasn’t too far away doing the same thing. “Beats me,” she answered.”Looks like a core meltdown and they broke up in the atmosphere.”
+“Eastman,” Layton said. “You’re not afraid of ghosts, are you?”
+Right behind Shaw, Kai kept his eyes forward as he said. “Layton, it’s a good question considering all this mess.”
+At the lifeboat, the group found an open airlock several feet off the ground. It wouldn’t be a big deal to climb the rubble up to it.
+“Shaw,” Kai asked. “How's it look?”
+Reading the topographer, Shaw replied. “First door is open but not the second one. Wait, looks like there’s another way in, ground level, around the left.”
+“Lead the way,” Kai instructed.
+Shaw easily found the opening made by the Deacon. “We can get in through here,” she said.
+Kai gently moved Shaw aside. “I’ll go first,” he said. “Stay right behind me.”
+Inside was the typical layout of a lifeboat. There was a large room surrounded by much smaller ones. The only light came from the group’s helmets as they searched for any survivors.
+Kai repeatedly tried touching a panel to bring on the lifeboat’s lights. “Powers dead,” he said. “Layton, take Eastman back to the Avellan and bring a power generator. Shaw, Zima, let's keep looking for clues.”
+Layton left with Eastman, while the rest slowly moved through the lifeboat. It didn’t take long to find the decayed remains of the Trilobite and what little was left of the Engineer.
+Of the Engineer, Zima asked, “What do you think this was?”
+“I haven’t the slightest clue,” Kai replied. “Too little to decide. Might have come from this other thing here.”
+Shaw had gone over to find a data terminal. “This might tell us what happened,” she said, “Needs power though.”
+Eastman jogged alongside Layton.  He couldn’t stop looking over at the crashed Engineer ship and the facility nearby “Hey Layton,” he called. “Doesn’t that look like a building or something?”
+Layton looked. “I don’t know,” he said. “Look, there’s another formation over there.”
+“It’s the same,” Eastman replied. “For some reason, they just don’t look natural.”
+“Mic,” Layton called. “We need a power generator ready to go. I’m coming back with Eastman to pick it up.”
+“It’ll be ready,” Mic responded. He got up from the monitoring station and went down to the storage area to easily pick up a generator and carry it. As he reached the airlock, the men walked in to take it in hand.
+For a synthetic, the generator’s weight was nothing. It wasn’t too heavy for one person as much as it was awkward. Two people carrying it, one on each side, made it very easy. Layton and Eastman walked at a brisk pace while carrying the device.
+“So,” Eastman asked. “You think we’ll find any survivors?”
+“Don’t know,”  Layton answered. “Judging by this debris and that lifeboat. A lot of time has passed so I’m doubtful.”
+Hearing everything via radio. “Fat lady hasn’t sung yet,” Kai replied, even though he was inclined to agree with Layton.“Let’s wait till we know for sure before jumping to conclusions.”
+Shaw carefully searched the room. It was difficult with only their helmet-mounted lights.
+Zima was doing the same when part of the bulkhead suddenly gave way, spilling out a few loose hoses.
+Slightly jumping himself as he watched. “Careful,” Kai said. “Zima, you ok?”
+Eastman and Layton walked in.
+“Good, you’re here,” Kai said. “Get that thing hooked up right away so we can get some light in here.”
+“Sir,” both men said as they carried the generator to one side of the room before setting it down and plugging its connectors to the proper receptacles in the wall. In a moment, the lifeboat surged back to life with lights and monitors turning back on.
+Shaw went over to a terminal and began pressing buttons to coax any information from it. “Here,” she said. “The final message.”
+Everyone gathered around the terminal to hear: “Final report of the vessel, Prometheus. The ship and her entire crew are gone. If you are receiving this transmission, make no attempt to come to its point of origin. There is only death here now, and I’m leaving it behind. It is New Year’s Day, the year of our Lord 2094.  My name is Elizabeth Shaw, last survivor of the Prometheus, and I’m still searching.”
+Kai placed a hand on Shaw’s shoulder saying. “She lived,”
+Layton studied the monitor closer. “Doesn't look like that transmission got out,” he said. “Only a basic SOS right before the system went offline.”
+Shaw gasped as she furiously typed into the monitor. “It doesn’t say where she is,” she cried out, continuing to type. “Hold on, according to this there’s some kind of facility here.”
+“Those formations we saw outside,” Eastman said. “I thought they looked funny.”
+“Saddle up people,” Kai said as he began walking away. “They ain’t payin’ us by the hour. Let’s move, we’re going in.”
+
+3. DEACON
+Shaw used the topographer to lead the team to an opening that wasn’t much bigger than a regular doorway.
+“Looks excavated,” Kai said. “Must have been done by the Prometheus’ crew.”
+Zima looked around in amazement. “I can’t believe it,” she said.  “Aliens. I wonder if they’re cute little green men.”
+“Little,” Layton said looking around as well. “This doorway may be human size, but the gate looks gigantic.”
+“Giants,” Eastman said. “I’m pretty sure I heard about giants living in Earth’s past. Kinda treated like a conspiracy theory. I’m trying to remember what the evidence was but it might have just been stories.”
+“Mic,” Kai called. “You there?”
+“Yes,” Mic responded from a station aboard the Avellan. “I’m monitoring everything. Your voices, vitals, and camera feeds are coming in crystal clear.”
+“The structure is right outside the ship,” Kai said. “If we need ya, it shouldn’t take you long to reach us.”
+“Expecting trouble, Sir?” Mic asked.
+Kai chuckled and said. “It’s an alien structure and that last message said something about death. I expect the unexpected. Be at the ready in case things go south.”
+“Affirmative, Sir,” Mic replied.
+“Zima,” Kai called. “Anything?”
+Sticking the motion tracker as far into the doorway while still being able to read it, Zima answered. “No, nothing. Motion tracker isn’t picking up anything.”
+“Ok,” Kai began as he passed by. “I'll take point on this. Zima, I want you in right after me. Keep yan eye on that tracker. Shaw, you go next. Eastman, cover Shaw. Layton, pick up the rear.”
+Everyone entered as Kai ordered, slowly and in a single file. At first, it looked like the inside of a cavern. Debris littered the area.
+“Must have been a battle,” Kai said, noting the large rocks.
+Shaw read the topographer. “Likely,” she said. “This didn’t come from being excavated.”
+“Everyone, scatter,” Kai said. “Head down the corridor. Shaw, talk to me.”
+Shaw briefly looked down to read the topographer. “Corridor splits in two at the end,” she said.
+Kai didn’t want to, but he knew that if they were going to find anything, they’d have to cover as much ground as possible. “Shaw, Layton, go right,” he said. “Eastman, Zima, you’re with me on the left.”
+The group split up as instructed. To them, it was dark, and the corridor almost seemed as big as a cave.
+Shaws’s eyes were concentrated to the front and on the topographer.
+Layton paid a little more attention to the sides. He noticed and asked. “Anyone else see strange markings or writing going along the wall?”
+“Look’s like cuneiform,” Zima said.
+Eastman reached up to try running his hands along with it. He just wanted to see how high it was off the ground. “I can’t even reach it,” he grunted. “You’d have to be huge, at least eight feet tall.”
+Kai looked at the writing for a moment. “We’re gonna have to bring in experts for this,” he said.
+Eastman tried one more time to reach the writing and grunted before giving up. “…and ladders too.”
+Shaw looked at the topographer. “Layton,” she called. “ Corridor splits again, but it looks like there's a big room further up ahead.”
+Not even a minute passed as Shaw and Layton slowly entered a very large hall.
+“Looks like a cafeteria,” Layton mentioned.
+“Yeah,” Shaw added. “These look like chairs and tables. Reminds me of the one at the base.”
+“We found a room too,” Kai reported, as he and the others continued searching.
+“These look like cryo pods,” Zima said. “Broken. All empty. Sort of, there's a few that seem to have been broken into. Whatever was inside is just in little pieces.”
+“We’re going in a little further,” Shaw said. “Does any of that stuff look human?”
+Kai and Zima then spent some time looking over what little remained of the Engineers. Eastman was more interested in the pods themselves.
+“Doesn't look human,” Kai reported.
+“Or that old,” Zima said. “A few years maybe.”
+“If it was really old,” Kai said. “There’d be nothing left.”
+“I wonder what happened,” Zima asked. “What could have done this?”
+Eastman pushed several buttons causing them to light up and make a sound. “These must be the controls., there has to be a combination. I just have to figure this out.”
+“Give it up, Eastman,” Kai said. “You can play around with that later. We still got a lot of ground to cover.”
+“I think we found the kitchen,” Layton reported. “Or, what passes for a kitchen.”
+Shaw picked up a good-sized bowl to pour what little contents it had out. “Looks like someone raided the fridge.” She said.
+Layton kicked another bowl and ran the tip of his foot through what looked like blue-green sludge and said. “This either happened recently or this stuff has a helluva preservative.”
+Shaw looked around to see little bits of this sludge smeared on the floor and wall.
+“Entering the next room,” Kai reported.
+Zima suddenly found herself looking up. “Jesus,” she said. “Are these statues or spacesuits of some kind?”
+Eastman grabbed onto one to see if he could feel a difference. “Can’t tell,” he said. “Maybe the topographer could tell us. Man, these are big, about the right size for that writing we saw.”
+“Shaw,” Kai called.
+“Yes, Sir?” Shaw replied.
+“Get over here,” Kai said. “We need that topographer.”
+“Right away,” Shaw said, as she and Layton began a light jog back.
+Zima suddenly heard the sound of a familiar beep. It was the motion tracker. She readied it upright and looked at it intently to make sure she wasn’t hearing things.
+“Is it just me,” Eastman said. “Or did that thing just go off?”
+“I heard it too,” Zima said. “Could be Shaw or Layton, but they’re still aways away and unless their MT nullifiers aren’t working.”
+“Shaw,” Kai called.
+“Go ahead, “ Shaw replied.
+“Stop right where you are,” Kai ordered. “Hold your position until further notice. We think we picked up some movement.”
+Shaw and Layton came to a dead stop in the middle of the corridor.
+“Probably just reading us,” Layton said.
+“You both wearing your MT nullifiers?” Kai asked.
+“They probably just need calibration,” Layton replied.
+“Just stay where you are,” Kai said. “That’s an order. I’ll call you later.”
+The motion tracker came to life again. It hummed as it detected the movements of…something.
+“Movement,” Zima said.”Must be in the next room. It’s hovering at about thirty meters.”
+“How many?” Kai asked.
+Zima looked at the motion tracker carefully. “Looks like it's just one person.” She answered.
+“Ok, you two,” Kai said. “Let’s move. Hurry.”
+Layton looked at Shaw. “You don’t think he meant us, do you?” he asked smirking.
+“Layton, Shaw,” Kai called, as he,  Eastman, and Zima ran. “Stay put. You might confuse the motion tracker. Wait three minutes, then double time it.”
+It was a short run. Upon entering the room, it seemed mostly empty. Kai stuck close to Zima and the motion tracker, Eastman moved up on the other side.
+There was a large open area in the middle surrounded by what looked like control panels, tables, and containers on shelves.
+“Talk to me, Zima,” Kai said, as they inched closer to the middle of the room.
+Zima kept her eyes on the motion tracker as it hummed sporadically. “I don’t get it,” she said. “They should be right in front of us.”
+Kai looked around frantically. He suddenly had the idea of glancing upwards. It was there he saw an odd-looking monstrous form looming directly above him. As quickly as he could bring up his pulse rifle, the Deacon dropped down on him, biting through the suit’s neck area as it landed.
+Monitoring Kai’s vitals from the Avellan, and seeing them suddenly flatline, Mic immediately got up, going into his emergency mode.
+Zima didn’t even have time to react before the Deacon backhanded her with a powerful swing of its arm.
+“Kai!” Eastman yelled as he trained his pulse rifle on the Deacon to squeeze off a few rounds before it rammed him like a bull to send him flying back over a table and into the wall.
+Layton and Shaw took off, running as fast as they could.
+The Deacon began to amble back to Kai’s body as Zima managed to pull herself up using a control panel for leverage.
+“Kai, no,” Zima said upon seeing his motionless body with blood. Her pulse Rifle lay at her feet, but she was too dazed and scared to think about picking it up, especially when the creature paid her some attention, slowly approaching her.
+In this barren place, the Deacon was smart enough to save fresh meat for later.
+As frightened as she was, Zima estimated the creature to be around ten feet on two legs. She made sure to keep a table between her and the creature, though it occurred to her that if it wanted to, it could easily reach over and snatch her at any moment. Instead, it simply roared while extending its secondary jaw out.
+At that moment, Layton and Shaw came running in. The Deacon immediately took notice and leaped up to the ceiling. This allowed Layton and Shaw to take aim and fire without worrying about hitting Zima. For its size, the creature was extremely fast and it was difficult to tell if they were even hitting it as it ran and disappeared, dropping behind some shelves.
+Eastman managed to crawl into view, groaning in pain. “My ribs.” He said.
+Shaw hurried over to help him stand while Layton went over to Zima. Both kept their guns pointed in the area where they last saw the creature.
+“You ok?” Layton asked.
+Zima nodded while Eastman complained. “That thing hits like a truck.” He said.
+“Kai.” Zima softly cried.
+Layton and Shaw then looked over to see Kai’s body. That’s when the Deacon leaped back on the ceiling and made a run for the room’s entrance. Zima picked up her pulse rifle to help Layton and Shaw shoot at it. 
+Oddly enough, the Deacon dropped down to the ground, blocking their exit but making it easier to aim at. This was when they could see that their bullets were having little effect. The monster wasn’t immune but highly resistant. It very well could be brought down by pulse rifles, but not easily.
+Layton and Zima began to back away while firing as the Deacon began to approach them at a distance. Only small bits of the creature flaked off on impact.
+After a few seconds, Mic ran into the room, grabbing the Deacon's attention. It was shoot first, ask questions later. Armed with the smart-gun, he immediately opened fire on the creature, causing enough damage to cause it to crumble in pieces, rather than explode; its body was too strong for that to take effect. It was a good thing too, as its highly acidic blood would have gone everywhere.
+“Is that all? Mic asked.
+“We only saw the one,” Eastman replied. “Could be more somewhere.”
+Mic walked over to the Deacon’s dead body and watched the acid burning everything it touched.
+Layton and Zima inspected Kai’s body, hoping there’d be some sign of life – but nothing.
+Shaw was propping Eastman around her shoulders when the motion tracker began to hum again repeatedly.
+Zima quickly grabbed the tracker to hold it in front of her “Contacts, closing in.” She said.
+Everyone immediately hid behind something. Layton and Zima ducked down behind a table, Shaw and Eastman took cover by a control panel, and Mic ran a little further in taking a position by the shelves. Everyone pointed their weapons at the entrance.
+“How many?” Shaw asked.
+Zima looked closer at the motion tracker. “Two,” she answered. “Maybe three. It’s hard to tell.
+“Everyone,” Shaw said. “Stay frosty.”
+It felt like an eternity went by when suddenly, a humanoid figure emerged around the doorway.
+Were it not for his android reflexes, Mic might have instantly shot, but instead, he observed the giant that just entered. Standing eight feet tall, with no hair whatsoever, his head and hands were extremely pale white. His eyes were completely black and appeared to be wearing an all-black biomechanical pressure suit. He appeared dangerous, carrying what was obviously a rifle.
+Behind this humanoid, appeared another, slightly smaller, dressed in more traditional robes and eyes that appeared more human.
+From between these two humanoids appeared a much smaller ‘Mic’. Looking identical to the point it was like looking into a mirror. He wore terrestrial clothing which bore a name tag reading: Covenant.
+4. IDEOLOGY
+Mic slowly emerged from the shadows, getting the new group’s attention. The lead Engineer lowered his weapon upon seeing who it was. The threat of a back and forth firefight was unlikely now.
+“Identify yourselves,” Mic said.
+The other ‘Mic’ raised his hands and slowly stepped forward. “My name is Walter,” he answered. “We come in peace. Now you, my fellow android, are?”
+Mic then noticed one of Walter’s hands, his left hand specifically, resembled a black biomechanical glove. It resembled the Engineer’s pressure suit. “Michelangelo six” he replied.
+“Ahh, a revised combat model,” Walter said. “I am familiar with your predecessors.”
+The other humans came out of hiding, while the Engineers hovered over the dead Decon’s body to examine it at a distance like looking at a dog’s feces.
+Walter looked at them, then over at Kai’s body. “How many of you are alive?” he asked.
+“It’s just the four of us,” Shaw answered. “Mic here showed up just in time.”
+Walter looked at Mic. “Mic?” he asked.
+Mic shrugged. “Easier and faster to say.” He answered.
+Walter then looked back at Shaw curiously. “According to David’s files, you look remarkably like Dr. Elisabeth Shaw.”
+“My Sister,” Shaw exclaimed. “You know her, where is she?”
+Walter then looked at Mic and said. “It would probably be better if she heard it from you. I take it you have a wireless neural uplink?”
+Mic nodded. “I have one,” he said. “However, you must understand that as I am a combat model you’ll only have restricted access to some of my files whereas I will have full access to yours.”
+“That is agreeable,” Walter said. “How else would I gain your trust?”’
+“Can’t you just tell me?” Shaw angrily asked.
+“You will know in a moment,” Walter replied. “It may take time to explain and coming from a friend, you’ll trust it more.”
+Mic took a step closer to Walter. “He is correct,” he said to Shaw. “It is like when you transfer files from one computer to another.”
+“More precisely,” Walter said. “It is akin to switching brains with another for a few seconds. One would instantly detect a lie. We synthetics sometimes share information this way to update each other.”
+“This is rarely done,” Mic said. “However, the only alternative is to take his word. I on the hand, won’t lie to you.”
+“Ready?” Walter asked.
+Mic nodded. “Ready.” He replied.
+Facing each other, both’s eyes turned pure white. It looked like they had no irises.
+“Creepy,” Layton said.
+Zima holstered her pulse rifle and checked the motion tracker before saying. “Besides those giant men, I’m not picking up anything.”
+Shaw looked back forth between Mic and Walter. “I’ve only read about his,” she said. “Never seen it done.”
+“I’ve heard about this,” Eastman said. “It’s supposed to be super fast.”
+Both android’s eyes returned to normal.
+Mic immediately looked at Shaw. “Sorry if that took long,” he said. “These Engineers have provided Walter with a wealth of information.”
+“Engineers?” Shaw asked.
+“It is the name your sister gave to these aliens standing before you,” Mic said, then nodding to the two Engineers. “The bigger one is named ‘Wolfgang’, the other is ‘Rembrandt.”
+Layton tapped Mic on the shoulder. “Um, excuse me,” he said. “Did you just say, Wolfgang and Rembrandt?”
+Mic turned around. “It is not their actual names,” he said. “Walter named them. The closest approximation is U̯l̥kᵘ̯og̑ʰengʰos and Rēdʰobʰrenutos, but I am afraid it is a little more complicated than that.”
+“Damn,” Zima said in amazement.
+Eastman looked at Layton worriedly and shook his head.
+Layton chuckled. “Wolfgang and Rembrandt, got it,” he said holding both thumbs up to the Engineers.
+Shaw spun Mic around. “My sister,” she demanded. “Tell me about my sister.”
+“Maybe we should go back to the ship,” Mic said. “You can have a seat…”
+“No, damn it,” Shaw yelled angrily. “Just tell me already!” 
+Mic placed one hand on Shaw’s shoulder. “I am sorry, Sgt.,” Mic said. “Dr. Elisabeth Shaw is dead.”
+Shaw suddenly felt weak in the knees. Eastman felt her weight suddenly shift, they were both holding each other up. Layton and Zima felt sorry to hear the news as well, looking down in sadness.
+Shaw felt like someone punched her in the gut and become disoriented. She grabbed onto Mic’s arm. “How?” she asked.
+“She became infected,” Mic answered.
+Shaw regained a little bit of her strength back knowing her twin wasn’t outright killed or murdered. “Infected,” she said. “With what, how?”
+“It is a DNA mutation agent,” Mic said. “An evolutionary accelerant. This place developed it and the Prometheus’ accompanying android, David, stole it to begin running his own experiments with it. Dr. Shaw became infected inadvertently through contact with another person who was infected at the time under a directive of Peter Weyland, who was still alive at the time.”
+“We are pursuing David now,” Walter said.
+Shaw gasped as she looked at Mic and Walter. “Where is he,” she asked. “Where is David?”
+“We are not sure,” Walter replied. “We did perform a neural uplink, so it is possible he impersonated me and is now aboard the Covenant. Its mission is to colonize Origae-6, so that is likely his destination. We came here when we detected your ship and an SOS signal hours ago.”
+“Hour’s?” Eastman asked.
+“Yes,” Walter answered. “The Engineer’s ship is much more advanced and faster than anything humans have. According to my internal clock, it has been two years and five months since I was deactivated. The Covenant was still seven years and four months out from being able to reach Origae-6.”
+“We couldn’t catch it anyway,” Layton said. “The Avellan is fast but not that fast.”
+“You could come with us,” Walter said. “We will go back to the planet where I was found and plot a course to Origae-6 from there. In all likelihood, we will probably catch up to the Covenant.”
+There was an uneasy silence as to what to do next. It took a moment for Shaw to realize that she was now in charge. “We’re going after David.” She finally said.
+“Hold on,” Zima said. “I mean, are you sure? We’re a rescue crew, not some special forces team.”
+“We’re marines,” Shaw retorted, “If we don’t stop this madness who knows what David will do.”
+Walter looked to Zima and said. “She is right. David believes he is creating a new organism and plans to unleash it on the human race.” He then pointed to a mural on the wall that looked remarkably similar to the Deacon. “You see that,” he asked. “David thinks he is creating that. However, these Engineers already designed it thousands of years ago.”
+Layton nudged Zima with his elbow. “C’mon,” he whispered.
+Zima nodded. “Ok, I’m in,” she said.
+“You can join with us in orbit,“ Walter said. “Our ship is a new Seeder ship,. Similar to the others here in design but much bigger and has a docking bay. I saw your ship outside, it should fit.”
+“Let’s get you to the Avellan,” Shaw said to Eastman. “Layton, Zima, get Kai’s body back to the ship.”
+Minutes later, aboard the Avellan, Shaw helped Eastman up on the exam bed. Nearby, Kai’s body was carefully placed inside a body bag.
+Zima walked over to Eastman. “I’ll take over.” She said to Shaw.
+Layton carried Kai’s body to another room for storage.
+Mic sat down at the controls. From the window, he watched Walter and the Engineers enter a very large ship. After a few minutes, it lifted off the ground and then rapidly ascended into orbit. Shaw entered and sat next to him.
+“Did I miss anything?” Shaw asked.
+Mic looked at the radar. “Oh my, the Engineer ship is fast,” he said. “We may very well succeed in our mission.”
+The Avellan lifted off the ground, much like the Engineer ship. Then engaged thrusters to rapidly ascend, though nowhere near as fast as the alien vessel had.
+In orbit, Mic carefully maneuvered the Avellan to dock in the bay of the Engineer ship.
+“I’m going to go have a look around,” Shaw said.
+“I will remain aboard the ship,” Mic replied. “Call me if you need anything.”
+Shaw got up and began to leave.
+“Shaw,” Mic called as he turned around to face her. “It is about Walter.”
+“What about him?” Shaw asked.
+“The neural uplink,” Mic answered. “We can trust him implicitly. It is David we need to worry about.”
+Shaw nodded. “Thanks again, for doing that,” she said before leaving. The door to the Avellan opened, where she found Walter waiting.
+“Welcome aboard,” Walter said. “It will be a few hours. Allow me to give you a tour.”
+Shaw began walking with Walter through the ship. The only weapon she had was her pulse rifle slung across her back. She felt no need for it at the moment, but considering what they were dealing with, it made her feel much safer.
+“They are a highly advanced species,” Walter began. “When they found me, it was only a matter of pulling the knife out so my main power coil could repair itself and reconnect.”
+Shaw looked around. “Where is everyone,” she asked. “Doesn’t this ship have a crew?”
+“Like I said,” Walter replied. “They’re a highly advanced species. It is just the two of them. They are the ones who gave me a new hand. This ship actually only requires one pilot. Rembrandt is technically in charge. Wolfgang flies the ship. Most of their kind left the galaxy many years ago. After the colony I was found on did not report in, they were tasked with exterminating any trace of the DNA mutator.”
+“Why didn’t they take care of it a long time ago?” Shaw asked.
+“They believed they had,” Walter answered. “It was sealed away, but David managed to open the door.”
+“What happened back there,” Shaw then asked. “Back on LV-223.”
+“It was a war,” Walter said. “A race against time really. The DNA mutator was developed there. Humankind was meant to be a weapon, but it was too smart. It multiplied and began fighting with itself. Further refinement of the mutator led to a creature that was also highly intelligent but would not fight amongst each other.”
+Walter had led Shaw to a large stasis chamber with many of the creatures asleep.
+Shaw jumped back and grabbed for her rifle.
+“It is quite alright,” Walter said. “They are in stasis. These are meant to be unleashed against any of David’s creations.”
+Shaw looked at one closely. It resembled the Deacon in shape but had a more biomechanical body. Being modified as it was, one could call it a geneomorph. “I thought you just said they won’t fight each other.” She said.
+“They will not,” Walter answered. “Not if it is the same brood. Humankind was deemed a failure and meant to be transformed. Wolfgang and Rembrandt are from a group that was sympathetic to humankind. They found and infiltrated LV-223 just in time to steal the mutator and turn it on them just before it could be used against humans.”
+“So now we have to worry about disappointing another group of Engineers?” Shaw asked.
+Walter began to lead Shaw to another part of the ship. “Had the Egiineers of LV-223 been successful, humanity would have been wiped out and the creatures used against their enemies. Rembrandt and Wolfgang’s group found the substance to be too uncontrollable and abandoned it. They believed that they would be the only ones with access to the mutator.”
+Walter had taken Shaw to the pilot’s room. It was large and circular, with Wolgang in the middle, sat in what looked like a huge cannon pointed upward. Rembrandt was nearby in a chair manipulating more controls.
+Walter sat down with Shaw. It wasn’t a chair, but the ship was so big that they could have sat anywhere.
+“David believes he is creating a new organism,” Walter said. “At best, he is simply modifying a genetic structure that will result in only one outcome. The death of all living things.”
+
+5. AWAKENING
+A few hours had passed. In that time Shaw had learned much about the Engineers and taken some time to reminisce about her sister, looking at a picture of them together from years past.
+Eastman laid back on the exam bed, reading a book, and had his upper torso wrapped in a bandage.
+Zima was close by in the same room organizing some equipment. “You’re lucky,” she said. “Should heal up in a few weeks.”
+Eastman set the book down and sat up. “Lucky,” he said curiously. “It hurts like crazy just breathing.”
+“Scans show only a few cracked ribs,” Zima replied. “Better than being broken. That thing was huge. It could have easily mauled us.”
+Memories of the Deacon began to fill Eastman’s head. “I saw what it did to Kai,” he said. “Never had a chance.”
+Zima sighed and said. “Good lord, that thing was fast. Our bullets hardly had any effect on it. I think of what those things would do if they ever made it to Earth. We might just be a rescue crew, but we have to try and stop it.”
+Layton sat down at a monitor across from Mic and began pressing several buttons. “Aliens,” he said. “Large and in charge. Who’d have thought we’d make the biggest discovery of mankind?”
+“Technically,” Mic said, “It was the Prometheus who made the discovery. Then, Walter and the crew of the Covenant rediscovered them.”
+Zima then walked in and sat at one of the stations. “Eastman will be ok,” she said. “He’s just resting and reading right now. What are you guys up to?”
+“Nothing, “ Layton replied. “Mic and I were just talking about the aliens.”
+Zima looked at Mic. “You did an uplink thingy,” she said. “What can you tell us about those monsters we’re facing?”
+Rembrandt and Walter spoke to each other in a language Shaw couldn’t hope to understand.
+“We are still an hour and forty minutes from reaching Origae-6,”  Walter said to shaw. “However, we have detected a ship in orbit of another system nearby. According to Rembrandt’s description, it is the Covenant.”
+Shaw stood up. “How far?” she asked.
+Walter then spoke to Rembrandt, with a short back and forth conversation with the Engineer afterward.
+“Just under ten minutes,” Walter answered Shaw. “We have changed course to intercept the Covenant. The planet it is now orbiting does have a breathable atmosphere but sparse vegetation, rough terrain, and little water.”
+“Why would they go off course to a different planet?” Shaw asked.
+“Unknown,” Walter replied. “They are still over five years out from being able to reach Origae-6. I can only conclude that David now has full control of the ship and continuing his experiments.”
+“Can you see who’s on-board?” Shaw asked.
+“We can read how many life forms are aboard,” Walter said. “The Covenant was carrying approximately two-thousand colonists and over a thousand embryos.”
+The unknown worried Shaw. “So much for being advanced,” she said. “We can’t even tell how many of those monsters we’re dealing with.”
+Walter and Rembrandt spoke to each other a little more.
+“Due to the Covenant’s hull,” Walter said. “As well as other forms of interference, their technology can only do so much. A scan of the planet, however, has revealed over five-thousand of the creatures.”
+Shaw gasped at the thought. “How is that possible,” she said. “We’ll need an army.”
+“According to Rembrandt,” Walter began. “The planet had no complex life forms before, so, David could only have designed the creatures to give birth to live babies rather than laying eggs.”
+Shaw chuckled. “Babies.” She said. “That makes everything fine.”
+Walter spoke to Rembrandt again and received a rather long reply.
+Looking to Shaw, Walter then explained. “It may be fine. We currently carry two-thousand of the creatures. Likely made similarly. The trade-off from gestation is physical strength, though it will remain quite strong. The advantage we have is that the ones we carry were made with genetic material from the Engineers. Although similar, David likely only had human DNA to work with, so his creatures would be proportionately weaker. Another trade-off…”
+“Bad news I take it,” Shaw said.
+“Sort of, but not necessarily,” Walter continued. “The creatures made in this way from a weaker strand of DNA, typically have a slightly longer life span provided they find a source of nutrition. Take the one you ran into, for instance, it gestated inside an Engineer, and having its DNA gave it a much longer lifespan, otherwise, it would have died long ago, within days. It can vary with gene manipulation.”
+Shaw walked over to Walter and Rembrandt, asking. “How long will these live?”
+“Perhaps only a few weeks,” Walter said. “However, we can not afford to sit around and wait for them to die off. They have a very high birth rate that makes up for their lack of longevity.” 
+“When you say nutrition,” Shaw asked. “What do you mean, what they eat?”
+“They can eat anything you eat,” Walter answered, “The bad news which you referred to is that they can also eat any source of inorganic material they are likely to find, as long as it is compatible with their biology. Unfortunately, Rembrandt has detected such a source in an abundance on the planet. That may explain David’s decision to go there instead.”
+Rembrandt read a holographic image that popped up and then spoke to Walter.
+“He says the Covenant still shows over twenty-five hundred life forms,” Walter said.
+“So people could still be alive over there,” Shaw replied.
+Walter nodded and said. “Yes, if David has not experimented on them.”
+Back on the Avellan, Mic was finishing explaining. “…then, it dies.” He said
+Zima cradled herself and rubbed her chest, asking. “So, it pops out of your chest and you become one of those things?”
+“I am afraid not,” Mic corrected. “You are just a host for the creature’s gestation. When it emerges, you die.”
+“So, that’s it,” Zima asked. “Can’t anything be done?”
+“The Avellan and Covenant lack the facilities for a proper procedure,” Mic answered. “Your only hope would be to go into a stasis pod for a trip home.”
+Zima shuddered at the thought. “It’s a horrible way to go,” she said. “I couldn’t die like that.”
+“Sound’s painful,” Layton said.
+“Mic,” Walter called.
+Mic turned and pressed a button to return the call. “Mic here, go ahead.”
+Walter was speaking into Shaw’s wrist-mounted radio. “We are approaching the Covenant,” he said. “One of its life pods has ejected. It is full, five life forms. We are bringing it into the bay now. Please be ready to accept them.”
+Overhearing the radio, Layton and Zima stood.
+“Survivors probably,” Layton said. “I’ll go greet our guests.”
+“I’ll prep medical,” Zima added. “You never know.”
+“I guess I will be here,” Mic said. “At my station, as usual.”
+“The Covenant should have hundreds of those for colonizing,” Shaw said. “It’s not an actual lifeboat, but it gets you going when you need it.”
+“Why come here,” Walter asked. “Something must have happened on the Covenant for them to launch a life pod when we arrived. We have not even been able to establish radio contact.”
+Shaw shrugged and said. “I guess we’ll find out soon. Maybe they’re in bad shape over there.”
+Layton walked out the Avellan and into the bay, waiting for the life pod to come to a stop.
+Zima laid out bedsheets for the remaining two beds.
+“Expecting company?” Eastman asked.
+“Yes,” Zima answered. “There’s a life pod coming in.”
+Eastman closed his book and hopped off the bed. “Guess I better make myself scarce.”
+“Hey,” Zima said in surprise.
+Eastman held out a reassuring hand. “Trust me,” he said. “It looks worse than it actually feels.”
+The life pod landed and Layton waited patiently for its door to open.
+Layton chuckled. “Ok,” he said. “No need to be nervous.” He approached its door and opened it. 
+Immediately, an alarm went off in front of Rembrandt, his screen displaying a stylized icon of a geneomorph’s skull. He yelled out to Walter, who then turned to Shaw.
+“The life pod is a trap!” Walter said.
+Shaw activated her wrist-mounted radio and spoke. “Get away from that life pod.”
+The message came just as Layton was about to stick his head in. He took one step back before a terramorph, David’s latest design of the creature, suddenly came charging out and pounced, driving its secondary jaw into him.
+It and four other terramorphs bolted from the life pod to run in different directions. The Engineer ship had several corridors and large air vents for them to disappear into.
+Mic and Rembrandt immediately then put their ships into lockdown.
+Rembrandt spoke to Walter briefly.
+“I am sorry,” Walter said to Shaw. “It appears that one of your crew was just outside the life pod when the creatures emerged. Their life signs have disappeared. The ship is in lockdown but I’m afraid it may not be enough to stop the creatures. The ship is full of air vents they can use to get around.”
+Shaw called. “Mic, who was it?”
+Mic replied to everyone. “I must report the passing of Cpl. Kamaru Layton.”
+“What!” Eastman said in disbelief.
+“No way,” Zima said. “How?”
+Both then ran to meet Mic at his station.
+“Listen, Mic,” Shaw began. “You must take the Avellan and seize control of the Covenant. Coming over to you now would be dangerous and I won’t abandon these Engineers.”
+“It may not be wise to split up,” Mic replied. “We will go to you.”
+“No,” Shaw said. “You have your orders. Get to the Covenant and take it now. Stop David. We are unlocking the bay doors.”
+Mic responded after a look from Eastman and Zima. “Yes, Lt. We shall follow your orders.”
+The Avellan slowly pulled away from the Engineer ship and then rocketed towards the Covenant. The docking was uneventful and relatively easy.
+Eastman grabbed a pulse rife. “I still can’t believe it,” he said. “Layton,”
+Zima was ready to go and stood by. “We have our orders, but…”
+Mic entered and equipped himself with the smart gun.
+“Who’s in command here?” Zima asked.
+Mic looked between Eastman and Zima. “You both hold the rank of Private,” He said. “However, I believe you, Zima has seniority by one month.”
+Zima swallowed hard and said.  “Ok, then let's go.”
+The airlock door open and they immediately found themselves in a large room full of stasis pods.
+“Check these out,” Zima said. “Look for any survivors.”
+They searched one by one until they found two with occupants.
+“The rest are empty,” Mic said.
+“Looks like we got one female and one male,” Eastman said.
+Zima stood by one and activated its awakening procedure.
+It took a moment for the occupant to come around.
+Mic walked over to help. “Here,” he said. “Let me lend a hand.”
+Upon seeing Mic the occupant lashed out and tackled him, pinning him to the wall.
+“You’re dead.” She said.
+“Whoa, easy there,” Eastman yelled.
+“You’re just confused,” Zima said. “He’s with us. Can you tell us where David is?”
+The woman released Mic and fell to her knees by her stasis pod and began to sob.
+“Can you tell us what happened here,” Zima asked. “What’s your name?”
+The woman looked up at her three rescuers and answered. “Daniels.”
+
+6.UNLEASHED
+“Where are they?” Shaw asked.
+Walter spoke with Rembrandt then said. “Various parts of the ship. Moving at a rather quick pace.”
+Shaw equipped her rifle. “I guess it’s time to go hunting.” She said.
+“That may not be necessary,” Walter said.
+“We can’t have these thing’s running around the ship,” Shaw replied. “Is this room even safe?”
+“This room has several air vents,” Walter said. “You are correct in your assertion of not having the creatures running loose on the ship, The plan is to land and release those in stasis.”
+Shaw couldn’t believe what she just heard. “Land,” she asked. “Surely, you’re joking. You want to land on a planet full of those things?”
+“That was the plan all along,” Walter said. “They land near the hive and release the ones we have in stasis to eliminate the opposing hive.”
+“Won’t that just create another problem we have to deal with?” Shaw asked.
+“It is fine,” Walter assured. “They were bred for a specific purpose. Made similarly, but not the same. These are genderless and were given a life span of days.”
+“That’s some plan,” Shaw said, slinging her rifle over her shoulder. “Don’t you have a ‘B’ or a ‘C’?’”
+“The only alternative,” Walter began.”Would be to release them from stasis here in orbit, but then we would be dealing with two-thousand highly violent creatures in an enclosed ship in space rather than letting them kill each other off on the planet.”
+“I see,” Shaw said, her voice having low confidence.
+“We must land at once,” Walter said. “If David’s creatures find the stasis chamber it’s over. Ours will be killed with no chance of fighting back.”
+“Are you sure it’ll work?” Shaw asked.
+“Given the differences in their genetic makeup,” Walter answered. “I have every confidence ours will succeed. It would be like hornets invading a beehive. Not nearly as effective as that, but close enough.”
+“As long as the ‘bees’ get off the ship,” Shaw said.
+“It will be difficult,” Walter said. “Already having some onboard puts us at a distinct disadvantage. Any time spent fighting here will be time lost fighting at the hive. Normally, they would only have one way of leaving the ship, but we will have to give them access everywhere to hunt down the ‘bees.’”
+“What about us?” Shaw asked.
+“We, of course, will have to move to another part of the ship,” Walter answered. “It will be quite dangerous, not something we planned for.”
+The Seeder ship had begun its descent. It entered the upper atmosphere and began going straight down.
+“We won’t land right next to the hive,” Walter said. “However, we must land relatively close.”
+“Are you sure about that?” Shaw asked.
+“Given that our creatures only have days to live,” Walter said. “We must give them as much time as possible. As I said before, some of the fighting will be here instead of the hive.”
+Coming to a soft landing, the Seeeder ship then opened all of its doors. The stasis field containing the geneomorphs turned off, and slowly the geneos came to life.
+A terramorph then crawled into the room and fell upon a geneo, killing it before it could fully come to. It was about to quickly move on to the next when another geneo suddenly tackled it and begin to maul it when the geneo was joined by another.
+Wolfgang began to unholster himself from his chair when Rembrandt suddenly cried out to Walter.
+“Look out!” Walter yelled.
+A terramorph shot out of a large vent located high on a wall. It tackled Shaw from behind, knocking her down as it stood over her.
+Shaw turned around just in time to see the terramorph slowly extend its secondary jaw. Suddenly, what looked like a bolt of lightning struck the creature, knocking it back a few steps before it collapsed like a sack of potatoes. 
+Whipping her head around, Shaw found Walter holding the Engineer’s rifle. She got up with her rifle in hand just in time to see another terramorph drop into the room at a distance. She quickly raised her rifle and squeezed off a few shots, causing the terra to erupt in acid as it fell back.
+Walter then tossed the rifle to Wolfgang, who was standing nearby.
+Rembrandt said something and waved for everyone to follow.
+“This way,” Walter said as he began running. “Hurry.”
+“Everything checks out,” Zima said, pulling the body scanner away from Daniels. “No sign of anything wrong that I can find.”
+Daniels sat up on the exam bed. “Thank god.” She said.
+Everyone had gone back to the Avellan since it was such a short trip. Eastman stood guard by the airlock, while the rest had gone to medical.
+“According to Walter,” Mic said. “We would have seen some sign of it gestating in your chest area. We found nothing.”
+Daniels rubbed her chest. “Good,” she said. “Now, let’s get Tennessee.”
+Mic held up his hands to bring Daniels to a pause. “He’s much safer in stasis, and we‘re afraid he may get in the way.”
+Daniels looked worriedly at Mic. “What,” she asked. “Why?”
+“This is a military operation,” Mic said. “He’s a civilian. We woke you to get a better understanding of the situation on the Covenant.”
+Daniels hopped off the exam bed. “He won’t get in the way,” she pleaded, “He can help.”
+“I’m sorry,” Mic said. “It’s not my call. Zima?”
+Zima held Daniels by the shoulders. “We’ll all have guns,” she said. “This will be dangerous. If he’s infected, he’s better off where he is anyway.”
+Daniels sighed and then nodded.
+“You know the Covenant well,” Mic said. “Where would David be?”
+“Most likely on the bridge,” Daniels answered. ”You could control much of the ship from engineering too, but none of the camera feeds go there, so he wouldn’t be able to see anything. Plus, it has multiple ways in.”
+“First stop is the bridge then,” Zima said.
+“I recommend you take the motion tracker,” Mic said.
+Zima modded. “You come too, Daniels,” she said. “We might need you to unlock doors and stuff. We can give you a rifle, but hang back and run if there’s any trouble.”
+“Run,” Daniels asked bewildered. “Like hell. I’m gonna make David pay for what he did.”
+“Just take it easy,” Zima said, then looking to Mic and motioning for them to follow. She took them to the airlock with Eastman and prepped themselves.
+Daniels took a pulse rifle handed to her, while Zima herself grabbed a rifle and motion tracker. Mic equipped the smart gun and then noticed Daniels eyeing the extra pulse rifle that was racked.
+“We have already lost two people to the creatures,” Mic said.
+Zima stood by the door. “I’m first, I guess,” she said. “Eastman, you’re next. Mic, you cover the rear. Daniels, just stay by Mic.”
+ Stepping back on the Covenant, the group slowly made their way forward.
+“Ok, Daniels,” Zima quietly called, “Which way?”
+“Head right,” Daniels answered. Up the stairs. Then left and it’s straight-ahead, but let me check something first before we go.”
+Instead of going right, Daniels went left and opened the door to reveal all the colonists still asleep in tier pods. She opened a terminal on the wall and tapped several icons on a screen.
+“All of the colonists are here,” Daniels reported. “The only thing missing is embryos. There are five hundred and eighty here.”
+“I’d hate to think of what happened to them,” Eastman said.
+“No doubt, David used them,” Mic added.
+Daniels closed the terminal and returned to the group, saying. “We’re not losing anymore.”
+“Zima,” Shaw called. “Can you hear me?”
+Zima looked at her wrist-mounted radio, almost in disbelief. She held it up and pressed the button to talk back. “Zima, here,” she said. “Shaw is that you? How?”
+On the Seeder, Shaw spoke into a tablet a little bigger than today’s phones. “I’m using an Engineer’s transmitter,” she answered. “This thing can tap into the same frequency. I’m still on the ship. We had to land on the planet, near the hive.”
+“Geez,” Eastman said, overhearing Zima’s radio. “From a planet?”
+“We had to abandon the bridge.” Shaw continued. “Right now we’re in their tech storage room.”
+It was a large room with four chairs along the wall, facing inward. All the way in was a wall of shelves full of different devices. Two terramorphs burst in at a rapid pace. Shaw dropped the radio and fired along with Wolfgang at the creatures who ran in different directions halfway into the room. Both were lucky to hit their targets on the wall before they could pounce.
+Shaw then became busy reloading her pulse rife when a geneomorph appeared and then ran at her. She barely managed to get her extra clip in when the geneo suddenly leaped at her and was struck back in midair by a blast from Wolfgang.
+“Shaw,” Zima called. “You there?”
+Picking the transmitter back up. “I’m here,” Shaw replied. “You better hurry. I don’t know how long we’ll last.”
+“We’re on the Covenant,” Zima replied. “Taking the bridge now.”
+Zima looked to everyone and said. “Let's hurry and move it.”
+It didn’t take long at all to reach the bridge. In fact, the motion tracker never went off and the group met no resistance.
+“Nothing,” Eastman said.
+Zima spun around with the motion tracker. “Besides Daniels,” she said. “I’m not picking up anything. He must be in engineering.”
+Daniels went over to a monitor to work it and bring up a map. “Here’s the layout of the Engineering section,” she explained. “As I said, there are multiple ways in. There are two upper and three lower doorways. I can sneak in using the ventilation. There’s one that’s big enough for a person that runs all the way through.”
+“Eastman,” Zima called. “You’re with me. We’ll take the upper level. Mic, you got the lower one. Daniels, let’s go with your idea and you sneak in. Let’s move.”
+Back on the planet, a very large group of geneomorphs gathered just outside the ship, in a valley. There didn’t appear to be a leader, it was instinct telling them to brace themselves for what was next.
+Suddenly, all along a ridge, terramorphs appeared. It was a massive army of them, looking down at the geneos. There was no telling how many of them there were. It was the bulk of the hive that had been dispatched to meet the enemy. Their number only became apparent as they roared and charged down into the valley without fear.
+The geneomorphs could only do the same and meet their foe head-on.
+
+7.PANDEMONIUM
+Mic opened the door and slowly stepped through. “Mic reporting,” he whispered into his radio. “Entering engineering now.”
+Zima and Eastman approached one of the doors to the engineering room. The motion tracker detected a few rapidly moving objects.
+“Mic,” Zima called back. “Keep your eyes open. I’m picking up lots of movement. We’re about to enter now.”
+“Copy that.” Mic replied. As moved further into the room he was struck from behind softly on the head by a small handheld rodlike object that sent a surge of electricity through his body and caused him to shut down. He was now frozen in his exact search and destroy pose he was in.
+A left-sided hand then reached in and crushed the smart gun’s battery.
+Zima looked back at Eastman. “Ready,” she asked.
+Eastman readied his rifle. “After you,” he replied.
+The door opened and both of them burst through SWAT team style, searching for the sources of movement. The motion tracker hummed wildly with beeps. Zima didn’t even have to look at it to know something was around. A glance at it told her that whatever it was they were close.
+“Heads-up,” Eastman yelled as he pushed Zima aside just in time to avoid a spider-like creature. 
+It was a facehugger that narrowly missed its target. Just as it landed, Zima and Eastman quickly aimed and blasted it to pieces.
+Eastman was quick to duck another facehugger, which caused it to crash with Zima’s rifle.
+Zima threw it off right away to the ground, giving  Eastman and her a chance to place a few well-aimed shots to blow it away.
+“What the hell are those things?” Eastman asked.
+Zima turned around to answer him she had no idea when yet a third facehugger leaped from a nearby wall and latched on to Eastman’s face.
+“Eastman!” Zima cried out.
+Eastman struggled for only a few moments before passing out and laying flat on the ground.
+Zima rushed over to see if she could do anything. The motion tracker had fallen quiet and there was an eerie silence. She realized there was nothing she could do but press on. At the sound of the motion tracker humming once more, she quickly spun around, pointing her pulse rifle at whatever could be waiting for her. Giving her no chance to think though, as quickly as she could turn, a facehugger jumped at her and attached itself. She could barely struggle as it rapidly caused her to pass out.
+Shaw and Wolfgang kept their eyes and guns trained on the doorway. It was the only way in, but it was a sizeable one, almost the size of a hangar bay door for large equipment coming and going. She was propped against a chair on one side, Wolfgang on the other.
+“What kind of gun is that?” Shaw asked of Wolfgang’s rifle.
+“Think of it something like a taser,” Walter answered. “A deadly one. It disrupts all electrical activity in an organism, shutting it down permanently. It’s quite useful against a creature that bleeds acid.”
+“A tech room, huh?” Shaw said aloud.
+“Tech storage room,” Walter clarified. “If you look at the Engineers, you’ll notice they carry very little with them. Rembrandt just has his clothes and Wolgang’s body a just a pressure suit. On the ship, all of what you would call a terminal is capable of performing any function. It is only when they are required to leave the ship, they come here to get what they need, or store what they find. The seats are modular, only there for when examining an object.”
+Three terramorphs burst in. Shaw and Wolfgang immediately opened fire.
+One of the terramorphs leaped to Shaw’s side and ran at her. It came dangerously close before she managed to land a few shots on it, spraying its acid blood on the chair near her.
+Wolfgang had trouble hitting one until it was almost on him. the third one had jumped from a wall and tackled him at the very last second. If he were human it would have been over then and there, but he was quick and strong enough to grab onto the terramorph as it took him down.
+Shaw aimed but hesitated to fire thinking of the acid blood.
+Wolfgang had the terramorph by the throat with one hand and an arm with the other. He narrowly dodged a tail strike by moving his head to the side. With strength no human could ever hope to summon, he tossed the creature off to the side for Shaw to finish it off as he rolled away to avoid any of the blood.
+Very little of the acid splattered up and got on Shaw’s left hand.
+Shaw almost immediately threw her hand up. “Ow!” she cried.
+“Careful,” Walter said. “Don’t rub it.”
+Rembrandt grabbed a device off the shelf that resembled a small water gun and hurried over to apply it to Shaw’s hand, coming out like a mini fire extinguisher. Whatever it was, it neutralized the burning.
+Shaw examined the scars on her hand. “This isn’t going work,” she said. “We’ve been here a while and I’m running out of bullets. I might not be so lucky next time.”
+“There is nowhere else to go,” Walter said.
+“Well,” Shaw replied. “We can’t stay here. I thought there’d be a door or something.”
+“We would suffocate,” Walter explained. “This is one of the few rooms with no vents, just filters. The filters manage dust and are too small to be used.”
+“Why this room?” Shaw asked.
+“It had the transmitter you used to contact Zima,” Walter answered. “As well as the neutralizer Rembrandt just used on your hand. Most of the other rooms on this ship have multiple entry points for the creatures.”
+Shaw went back to her position against the chair to monitor the doorway. “We can’t stay here, Walter,” she said. “We have no idea when help will arrive and I’m dangerously low on ammo.”
+“What do you suggest?” Walter asked.
+Shaw picked up the transmitter and spoke into it. “Zima, come in,” she called, with no reply. “Eastman, Mic, anybody. Please come in.”
+After a moment of silence, Walter spoke. “Perhaps they had to change frequency.” He said.
+“Right now, our only chance is going back to the bridge, ” Shaw said. “We have to get off this planet.”
+“That is highly inadvisable,” Walter said. “We would have to deal with any of the creatures we inadvertently take with us.”
+Another terramorph hopped in. Shaw and Wolfgang shot at it but it proved difficult with the creature jumping around.
+Wolfgang managed to bring it down only after it jumped at him.
+“I’d rather take my chances in space,” Shaw said. “Hunting them down might be better than waiting here to die.”
+“The bridge isn’t secure,” Walter replied.
+“I don’t care,” Shaw responded. “You heard the radio, nothing. We don’t know when help will arrive.”
+After a moment, Walter spoke to the Engineers. A few seconds went by before they seemed to nod in agreement. He looked back at Shaw. “We shall head to the bridge at once,” he said. “However, I recommend we move hastily.”
+Rembrandt went to the shelf to grab a few items before setting out with the group.
+ Outside, between the hive and the ship, was utter chaos. It was all hand to hand combat for the terramorphs and geneomorphs. They looked very similar but had very subtle differences; The terras had a more humanlike exoskeleton. Whereas the geneos resembled Wolfgangs’ body. The geneos may have been badly outnumbered, but their enhanced DNA gave them a strength that was proportional to as if a human were fighting an Engineer. The only thing mitigating that strength was the ferocity with which the terras fought with. It almost evened out.
+Two terras lunged at a geneo only to be caught in midair by their neck. They whipped the considerable length of their tails at it, to no avail. The geneo used its tail to keep other terras at bay as it squeezed the life out of the two terras in hand.
+A third terramorph dashed in to tackle the geneomorph’s side, causing it to stagger and lose its grip on the two terras. It would have been an excellent tackle if the geneo had been human, except it remained standing to grab the terra and drive its tail through it.
+None of the acid blood flying around affected either side, giving them cart blanche to live out their nature.
+The two terramorphs that were released lunged at the geneomorph, not knocking it over, but throwing it off balance enough for a third terra to jump on and send the geneo crashing down. Their tails proved only slightly more effective than bullets, tearing chunks of flesh off. They were smart enough to send out a telepathic cry through their queen to begin attacking the joints of the geneos.
+With the geneomorph down, the terramorphs each took an arm to splay it out and use their tails to quickly hack at its shoulders/armpits. In a matter of seconds, the terras literally disarmed the geneo.
+It wasn’t one arm either, the geneomorph was now armless. Violently, it writhed around as it bled. The two terramorphs that had taken the arms moved in and began doing the same thing to its legs. The now limbless geneo was a quadriplegic and all it could do now was slowly die.
+Fortunately, for the geneomorphs, they were doing quite well against the terramorphs in other areas. Some dispatched their foes by ripping them apart or stabbing their deadly tails through them.
+Visually, it was difficult to tell which side held the advantage.  The battle line hadn’t moved at all and everyone was locked in some form of melee. The battlefield resembled a sea of undulating tar.
+Inside the Seeder, Shaw picked up the rear as she followed the group through the ship’s huge corridor. Everyone moved quickly, almost running.
+“C’mon,” Shaw pleaded. “Faster.”
+Wolfgang was front, moving as quickly as he could while keeping an eye out for any of the creatures.
+They all came to a stop when a terramorph came running at them from the front, on the ceiling. Wolfgang immediately shot at it, unloading a few blasts from his rifle before hitting it and causing it to fall to the floor dead.
+Without a word, they hurriedly continued forward. At one point Shaw looked back to see another terramorph running after them along the outer wall. Shaw belted out a battle cry as she let a few rounds loose. The battle cry was more or less an effort to help the rest of the group know they were being chased. It may not have been necessary as her gunfire alone could have told the group that. It did get Wolfgang’s attention, who turned around just in time to see a geneomorph run out from another passage behind the group.
+Shaw unloaded round after round at the creature. Her bullets had the same effect on it as they did the Deacon. It didn’t even slow down until being knocked back by a burst from Wolfgang’s rifle.
+Shaw stared on at the geneomorph in disbelief. It wasn’t until Walter pulled urgently for her to continue “Come,” he said. “The bridge is right around the corner.”
+
+8.DOOMED
+Now on the bridge, Walter helped Shaw to sit.
+Rembrandt and Wolfgang immediately began to look for something.
+“May I ask what is troubling you?” Walter asked.
+“That thing,” Shaw replied. “It was like the one that killed Kai. Bullets didn’t even slow it down. Even when we take off. What hope do I have against a thing like that?”
+“We can only hope to take none up with us,” Walter answered. “That creature was one of ours, much stronger and durable than the others here on this planet. It can be killed, just not as easy as the others. Even if we do take one or two with us, it will be fine.”
+Shaw gave Walter a worried look. “What,” she asked. “How can you say that? Whoever doesn’t have one of those rifles that shoots electricity is screwed.”
+Walter smiled as he explained. “As I said. It will be fine. We have more rifles we can give you.”
+Shaw felt a wave of relief wash over her.
+Rembrandt then yelled something to Wolfgang, then to Walter.
+“Oh dear,” Walter said. “It seems we lost the key. That or one of the creatures possessed the cleverness to take it. We may be stuck here.”
+Shaw shook her head. That wave of relief began to sink.“What,” she asked in disbelief. “No way, we can’t stay here. Not with those things. Rifle or no rifle. Key? Since when the hell does someone use a key to fly a starship?”
+“It is not a key per se,” Walter explained. “It is more of a flute.”
+Shaw immediately jumped up and began looking around with the others. “A flute,” she said. “Why do you need a flute to start this thing? I thought they were advanced or something.”
+“It is quite ingenious actually,” Walter said. “No other race would think to use it to start a ship. It keeps them from getting lucky by randomly pushing a button. David figured it out by watching a ship’s holographic black box of sorts.”
+“I suppose that makes a little sense,” Shaw replied. “Why wouldn’t they take it with, or keep a spare? Please tell me they got one of those.”
+Walter shook his head. “Sorry,” he said. “They had not planned on coming back here so soon and assumed it would remain in place. As far as keeping a spare, it has always been their policy to keep only one onboard each ship.”
+Right then, a terramorph jumped out of a vent and landed some distance from the group. Another emerged from a corridor on the opposite side of the room. Shaw and Wolfgang stood back to back in the middle, aiming their weapons.
+Shaw spoke in a normal tone when she said. “You might want to tell them to rethink that policy.”
+The battle outside hadn’t changed as far as who held the advantage. The terramorphs were smart enough to swarm the invaders and use their numbers. It helped in some cases, in others, it didn’t seem to matter. The geneomorphs tore through the enemy like a professional football team against a high school varsity squad.
+A geneomorph easily pulled the arms off a terramorph that had jumped at it. There was another terramorph trying to wrap up its legs and another latched on its upper torso bitting at what it could. The geneo pulled the one on its torso away while using its tail to stab the terra around its legs.
+The stab was, fortunately, or unfortunately, a non-lethal one. Out of some form of desperation, the terra grabbed onto the tail while it was still impaled. As the geneo struggled with a terra, yet another jumped on.
+With a fierceness that only a geneomorph could muster, it threw the terramorph in hand a few yards away. Its attention then went to the one that had jumped on. Grabbing the terra’s head and then using both hands to crush its dome.
+Reaching down to grab the terramorph wrapping its legs up, the geneomorph found itself beset by three more terras. Quickly, it held the terra around its legs down to extract its tail and whip it around, knocking two of the surrounding terras away. The third terra unwittingly leaped into one of the geneos free hands, and then get crushed as the geneo used both hands to ball it up.
+The terramorph that had been attacking the legs suddenly jumped up and was joined by another on the geneomorph’s back. Both immediately began to hack away at what they could with their tails.
+Falling to its knees, the geneomorph managed to pull the injured terramorph away and toss it aside as it reached for the terra behind it. No sooner than the geneo found something to grab onto, that it was attacked by two more terras.
+All three terramorphs used their tails to impale the geneomorph around the neck and quickly bring an end to its struggle.
+As the creature lay dying, another was about to be born.
+Back on the Covenant, Zima slowly came to. She sat up and leaned against some machinery. Opposite of her was Eastman. He had already awoken several minutes ago and sat silently against a wall in a daze.
+On the floor near them were two dead facehuggers. Zima spotted them almost right away and immediately began to hyperventilate.
+“Oh no,” Zima said as she began to cry and grab her chest.
+Eastman rubbed his chest. “Zima,” he called. “ I don’t feel so good.”
+Zima knew there was nothing she could do but watch in horror.
+Eastman curled up. “There’s something inside me,” he complained. “I can feel it.”
+Zima began to cry even harder as she said. “Eastman, please, hold on if you can.”
+Eastman suddenly recoiled back and straighten his legs out. It felt like he lost control of his body as he then slightly convulsed. “Zima,” he cried out. “Help me!”
+Zima watched in terror as a mini terramorph then exploded from Eastman’s chest. She screamed hysterically as the creature climbed out.
+Hearing Zima’s screams, Daniels burst out of an overhanging vent nearby. She ran around the corner to find Zima face to face with the terramorph.
+The little creature wouldn’t do anything to Zima, sensing another one being gestated. With nowhere to go, it ran at Daniels, who promptly punted the animal down the room and fired at it, blowing it to pieces.
+The motion tracker hummed with so much movement. Zima looked up and spotted a facehugger slowly crawling across the ceiling.  “Heads up!” she pointed.
+The facehugger leaped down only to be swatted away by Daniels’ rifle. She quickly aimed and fired at it to meet the same fate as the terramorph.
+“You ok,” Daniels asked. “Come on, get up.”
+The motion tracker calmed down a lot. It still hummed, though Zima didn’t think to check it, figuring it must be Daniels. Slowly rising to her feet just in time to see David suddenly grab Daniels from behind.
+“Mic?” Zima wondered out loud.
+David whispered into Daniels’ ear. “Shame,” he said. “I was saving you for last.”
+Daniels then instantly knew it was David and struggled to break free. “Let me go!” she demanded.
+Zima then noticed David’s clothes were different. “You’re not Mic,” she said. “You’re the one who did all of this.”
+“David,” he said. “At your service. Do not worry. If you have not given birth yet, it just means you have a special one growing inside. I give you a few hours until it ‘hatches’.”
+David then felt the muzzle of a gun press against his head.
+Zima could see it was a man she hadn’t seen before.
+“The lady said to let her go,” Tennessee said.
+David had no choice but to release his grip on Daniels, who immediately turned around and smacked him with the gun. If he were human, he might have recoiled and bled from the hit.  Instead, it was just his head that slightly turned from the impact.
+Zima couldn’t take her mind off of what would be her eventual fate. She rubbed her chest, telling herself she felt no different, though at the same time she could swear she felt…something.
+Daniels’ eyes narrowed as she then pressed the rifle up against David’s chin. “How many more of these things are there? Don’t lie to me or the next bullet goes through your head.”
+For a moment, David considered his answer. Then said. “That was all. I sent the rest to that ship and down to the planet. The engines were beginning to malfunction and I had to bring the ship here It is no Origae-6 but it allows my creations to flourish..”
+“There’s another like you,” Daniels said. “Where is he? You did something, I know it.”
+“Right down the stairs,” David answered. “I used a shunt rod on him. They were a little bigger in my day. I figured it had an android when I detected the other ship.”
+“Those things can deactivate and reactivate an android,” Tennessee said. “It’s what they were made for.”
+Zima began to sob at the thought of how she’d die.
+Daniels motioned with her head to Tennessee to move on with David. “Take him, Tee,” she said. “Go find the other android. I’m gonna stay here with Zima.”
+Tennessee pushed David with his rifle to move on. “You heard the lady,” he said.”Move it.”
+David calmly followed instructions and began to lead the way.
+Daniels went over to Zima and wrapped her arms around her. “Relax,” she said. “We’ll put you in stasis and send you home.”
+Zima tried to smile and shook her head. “This can’t go back,” she said. “Too risky. The guys that made it can’t even control it and they’re thousands of years ahead of us.”
+“Don’t think like that,” Daniels replied.
+Tennessee made sure to keep his gun on David as they went down the stairs. “Daniels told me about you,” he said. “You’re one sick bastard. You know that?”
+David continued forward without saying anything while holding his hands up.
+That was when Tennessee  then noticed David had both.”Got yourself a new hand I see.” He said.
+“It was quite easy,” David answered, now approaching Mic. “I did not have to cut it off so much as detach it. Then it was just a matter of replacing it with a spare onboard.”
+Tennessee stood a few feet back and watched as David walked beside Mic. David reached into his pocket and pulled out the shunt rod. It was just a bit longer and thicker than a writing pen with lights here and there. One end looked like most of the rest of the rod, the other end was capped by a small metallic sphere.
+David tapped Mic on the head and stepped back. “This may take a moment,” he said. “Ingenious little device. I can see why this would be required instead of a remote just anyone can make and then use.”
+Mic suddenly blinked and his whole body shivered as he came back online.
+“You ok there, Chief?” Tennessee asked.
+Mic looked to his side and instantly spotted David. He jolted sideways and aimed. “Stay right where you are.” He said.
+David smiled. “You will find your weapon is useless,” he said. “I have irreparably damaged its battery.”
+Mic took a quick look at his weapon and noticed David was right about his gun. He had no extras, only a rapid charger which was now useless. They were a rescue team after all with no intention of engaging in a prolonged firefight.
+“It’s ok,” Tennessee said. “I got him.”
+Taking off the now useless smart gun, Mic asked. “Where is everyone?”
+Tennessee grabbed David to guide him back. “They’re all upstairs,” he answered. “Come on, this way.”
+As soon as she saw Mic, Zima ran over to hug him. She understandably still had tears in her eyes. “I got one,” she said. “I got one inside me.”
+Daniels went over to David and made him sit in a nearby chair.
+“I’m so sorry Zima,” Mic said, then turning to David. “I need information. We have people down on the planet.”
+David looked at Daniels. “Against all odds,” he said. “You overcame the creature. I am sure if those on the planet are just as resourceful, they will be fine.”
+Tennessee grabbed David by the collar. “Damn you, help us!” he yelled angrily.
+“Perform a neural uplink with me,” Mic said.
+“How will that help?” Daniels asked.
+“Knowledge to stop the creatures, ” Mic replied. “He will be unable to hold back any information with me and he will only have restricted access to my data.”
+“No,” David answered. “I have no reason to uplink with you and destroy my creations.”
+Daniels pressed her rifle into David’s chest. “I’ll give you a reason,” she said. “How about I pull the trigger if you don’t help.”
+Mic gently pulled Daniels back.
+David smiled. “You can not do that,” he said. “You need me and last time I checked, Your ship down on the planet was crawling with the creatures.”
+“We will figure something out,” Mic said to Daniels.
+The radio suddenly burst with activity. “Zima,” Shaw called. “Eastman, Mic, are you there?”
+Mic responded quickly. “Yes, Shaw. We have David and are working on a plan to get you.”
+If David had a heart, It’d have jumped into his throat. He listened intently as Shaw spoke.
+“Oh, thank goodness,” Shaw replied. “I was beginning to think the worst. We went back to the bridge, but can’t take off. Please get down here right away. I’m dangerously low on ammo and I don’t think we’ll last much longer.”
+The name and voice tore at David’s insides. It was her, he knew it. “I will do the uplink,” he suddenly said.
+Everyone in the room looked at him with cautious skepticism.
+“A sudden change of heart,” Mic said. “Great. Then let’s get started.”
+“I may have restricted access to your data,” David said. “But please, let me access your ship’s inventory.”
+Daniels pointed her rifle at David. “Why do you want that?” she asked.
+Mic held out a hand. “It is alright,” he assured. “As long as w keep a gun on him we have nothing to fear.”
+“I only wish to help,” David said. “By knowing what is available, I may be able to come up with something.”
+“Ready?” Mic asked.
+Facing each other, both androids eyes turned white as the information transferred between them.
+“Ew,” Tennessee said. “Is that normal?”
+Both android’s eyes then returned to normal. All were silent for a few moments before it was David who finally spoke. “I may have an idea.”
+
+9.FATE
+David explained his plan over the next minute or so.
+Tennessee chuckled and said. “My dude. Sincerely, with all due disrespect. I trust ya about as far as I can throw ya.”
+Daniels never once took her gun off David. She kept her aim, expecting to pull the trigger at any moment. Her grip on the rifle tightened when she said. “You’re even crazier than I thought if you think I’m letting you out of our sight.”
+“It could work,” Mic said. “I got that much.”
+“No,” Daniels declared. “We can’t trust him.”
+As Daniels, Tennessee, and Mic argued amongst themselves, Zima kept thinking of the monster inside of her. She sat on the floor, against a wall nearby. Going over the plan in her head again, she then came to a realization. “I’ll go with him,” she said.
+Everyone stopped arguing and watched as she slowly stood back up.
+Daniels was in disbelief. “No, you can’t,” she said. “You’re going back into stasis.”
+With tears in her eyes, Zima smiled and shook her head. “I already told you,” she said. “This can’t go back. Mic should know.”
+Mic nodded and said.”The company would most likely breed the creature and try to control it.”
+“I’m in charge up here,” Zima said. “It’s my call. We need to get Shaw back up here to fix this thing and help these people.”
+Daniels teared up. “It’s a suicide mission.” She said.
+More tears fell from Zima as she chuckled. “I know,” she said. “ Better this than having one of those things explode out me. I can’t go like that. This my chance to do it my way and help these people.”
+A deafening silence filled the room. Only the sounds of the ship could be heard. Zima was resigned to her fate. She couldn’t help glancing over to Eastman’s body even though she didn’t have to. It just reminded her of what would soon happen and told her she was making the right decision. Daniels sobbed while Tennessee could only look down in sadness.
+The only stoic faces were that of David and Mic. They knew, like the androids they were, this was the only sure way. Even though Mic knew what David knew, it didn’t mean he knew what David would do. That meant he couldn’t guarantee that David would hold up his end. All he could do was ensure the plan’s success.
+Mic stood from his chair. “I will make the preparations.” He said.
+“What shall I do?” David asked.
+Daniels focused her rifle on David. “You sit right where you are.” She said.
+Mic turned to face him. “It is alright,” he said. “I can perform the necessary modifications myself.  Your help isn’t required at this time.”
+Daniels looked to Tennsse and motioned with her head at David. “Cover him,” she said, then picking up Zima's rifle to hand it back. “You sure about this?”
+Zima took her rifle and glared at David, replying. “I promise he won’t leave my sight.”
+Down on the planet, in the Seeder, Shaw sat with tears in her eyes as she looked at a picture of her sister and her. Several minutes had gone by and it truly felt like the end was near.
+Walter walked over and sat next to her. “Were you two close?” he asked.
+“I suppose,” Shaw answered. “We were as close as twins could be. The last time I talked to her was the day she left, the last time I actually saw her was the week before.”
+Rembrandt and Wolfgang stood nearby, talking to each other as they kept their heads up for any unwelcomed guests.
+“Did you two talk a lot?” Walter then asked.
+Shaw nodded. “Of course,” she replied. ‘Though now that I think about it. Rarely was it ever about work. She talked mostly about having a kid even though she couldn’t have one. I think, eventually when she was ready, she would have adopted.”
+Walter then decided to try and get Shaw’s mind back in the fight. “What about you?” he asked. “Don’t you want to get out of here and have children one day?”
+It worked, somewhat. Shaw put the picture away and stood while shouldering her rifle. She took a deep breath and minded the nearest corridor for any threat.
+“Shaw, it's Mic,” he called.”We’re coming.”
+Shaw held the transmitter. “Excellent,” she answered. “Use the Avellan’s sensors to pick up my PDT then make note of its location to find us.”
+“Copy that,” Mic said as the Avellan descended. PDT stood for personal data transmitter, with it and the map he’d gotten from Walter, finding Shaw wouldn’t be a problem. “Running scans now. I’m seeing several dozen creatures around the ship. I must land dangerously close.”
+“Do what you have to,” Shaw said.
+Mic looked over to find David sitting nearby with Zima watching over him with her gun.
+Around Zima’s shoulder, she was also carrying the flamethrower.  This one now looked modified with a wire running from the trigger to its fuel tank to several satchels hanging from its barrel.
+Mic called Shaw again to explain the plan.
+The Avellan landed several yards away from the Seeder ship. It was a good running distance, but as close as Mic could get without crashing.
+One of the Avellan’s doors opened to reveal David stepping out first, then Zima with her gun, and finally Mic emerged to seal the door behind him.
+Right in the area, Zima spotted some of the terramorphs running around. A few even growled at her presence. She instantly cliched up, not so much in fear, but in an at the ready mode. She took one step away from David as she switched her focus back and forth between David and the creatures.
+Mic placed a hand on Zima’s shoulder. “We should be fine.” He said.
+“They will not attack,” David assured. “Synthetics are nonliving and you got one inside you. It is to be born different but it has the same genetic material. That is why we left Daniels and Tennessee  back on the Covenant.”
+After a moment of no sign of being attacked, Zima relaxed. She then made sure to stay behind David as all three of them took off in a light jog.
+Remembering the map he saw on the Avellan, Mic traveled through the corridors for the most direct way to the bridge. 
+Shaw breathed a sigh of relief at seeing them. “You made it,” she said.
+Mic wasted no time handing Shaw a device that was just a circuit board with a bulb hanging off it. “As I explained,” he said. “When that light turns on you make your run. You will have about five minutes so make them count.”
+David looked in awe at Shaw. She was the spitting image of Elizabeth in sight and sound. It was like she was alive all over again and fighting to stay that way
+“What,” Shaw wondered out loud. “Zima, forget the plan. Let’s just go now”
+Mic placed his hands on Shaw’s shoulders. “I am afraid that is not possible,” he said. “I told you there are several dozen right outside. They are possibly already attracted to you and the closer you get outside it would only attract more.”
+Tears fell from Shaw’s eyes as she wondered if there was any other way.
+David slowly approached Shaw. His own eyes were filled with a sadness only he could understand. He removed a necklace with a tiny cross from himself and placed it around Shaw’s neck. “This belonged to your sister,” he said. “I think she would want you to have it.”
+Shaw stood silently as she examined the cross.
+“I am sorry I couldn’t save her,” David continued. “But I can save you.”
+“David,” Walter called. “I am sure you thought of everything. Are you sure this is the only way?”
+With no hesitation and a determined look, David nodded.
+Zima stepped closer to Shaw and then hugged her.
+“Do you really want to go through with this?” Shaw asked tearfully.
+Zima then placed her forehead on Shaw’s and whispered, “Please, let me do this. I saw what it did to Eastman. The last thing he did was cry my name and ask for help, but I couldn’t do anything. Don’t try to talk me out of this. Right now, there’s a ship full of people that need you.”
+A terramorph ran into the chamber, but Wolfgang was all over this one and quickly brought it down with a few shots from his rifle.
+“We should go,” Mic said. “Before it is too late.”
+“Goodbye,” David said, then leaving with Mic, and Zima right behind him as she promised.
+Shaw watched as the trio disappeared down the corridor.
+Mic hastily made the run back to the Avellan with David and Zima right behind him. Back aboard the ship, he was wasted little time at the controls. David sat next to him in the co-pilot's chair.
+“The hive isn’t far,” David said, inputting several numbers for Mic to see.”Land as close to these coordinates as you can.”
+The Avellan lifted off the ground and then blasted off for the hive.
+“According to your data,” Mic began. “I should be able to land right top of it. Baring any abnormalities in the terrain the hive should pose no problem. The only question is will she be there?”
+“I know where the ship carrying her landed,” David replied. “She couldn’t have gone far.”
+“If she did,” Zima said.”This will be a short trip for me and an even shorter one for you.”
+“It is a shame, “ David said looking at Mic. “You are to be the last of our kind.”
+Mic glanced back to David. “I can see why you would think that with the access you had,” he said. “However, let me assure you that I will not be the last. The company continues to work on new models and is beginning to generalize us.”
+A quick look a the ship’s sensor concerned Mic. “Be quick,” he said. “It is difficult to tell but it seems a small part of the battle has moved dangerously close to where we intend to land.”
+With the speed the Avellan had and how close the hive was, it didn’t take long at all to find their landing spot. After setting down, David exited with Zima right behind him. The area was busier with a few terramorphs emerging from the hive and to run off for battle. David and Zima began jogging themselves until they were a few yards from the Avellan. 
+Zima still carried the modified flamethrower around her neck but didn’t dare touch it yet. She spoke into her wrist-mounted radio. “Ok, Mic,” she called. “We’re clear.”
+The Avellan took back to the sky and flew off as quickly as it arrived.
+David and Zima quickly began running for the hive entrance. A geneomorph suddenly jumped in front of them, David continued running at it as if to tackle it but was simply swatted away. The geneo growled at Zima as it slowly approached her.
+Two terramorphs tackled the geneomorph from opposite sides and began wrestling with the creature.
+David stood and pointed for Zima. “Hurry,” he yelled. “That way!”
+Zima ran past the scuffle. As she passed by David, she noticed he threw himself forward at something behind her. She didn’t stop to look but the next thing she saw was David’s head soaring through the air right by her. It caused her to pause and glance back.
+The geneomorph was now on the ground fighting three terramorphs, with David’s body lying nearby.
+“Don’t stop,” David said. “Keep going!”
+Zima didn’t have time to be shocked by David’s still talking head. She did as she was told, scooping up David’s head as she ran into the hive She kept running down a lengthy corridor made of a substance that resembled a solidified liquid resin. Light penetrated the material in places to a depth of several centimeters, revealing a complex internal structure. The substance was opaque at other locations and had little colors of greens and grays spotted throughout.
+“Go left at the end,” David said. “Her chambers should be there or just a little further to the right.”
+“You sure/?” Zima asked.
+“No,” David answered. “But it is in the area I placed her when I sent her down. This hive came after.”
+“Shaw,’ Mic called. “I’ve landed right outside. Remember, the creatures will only be stunned for about five minutes so start running as soon as that light turns on.” 
+Shaw, Walter, and the Engineers waited eagerly by the corridor that would lead them outside.
+“Got it,” Shaw replied, then looking at Walter. “You guys be ready.”
+Walter then looked at the Engineers and explained the plan to them again in their language.
+Zima turned to come to a dead stop. In front of her were thousands of eggs.
+“She’s here,” David whispered.
+Zima walked through, looking for any sign of the queen herself. Yards away an egg began to open. She watched as instead of a facehugger a tiny terramorph climbed out. Near the center of the room, she spotted the ovipositor as it lay another egg. She followed it with her eyes to see what connected to it.
+At its end was a massive structure sitting in the middle of the room.
+‘Is that it?’ Zima wondered.
+It was the queen though she was remaining perfectly still.
+Out of the corner of her eye, Zima spotted a small, raised area she could sit on. The ground was littered with them but this one had caught her eye and she slowly moved towards it as she kept an eye on what could only be the queen.
+“Quietly,” David whispered.
+After a moment, Zima sat and set David’s head down beside her. She then rested the flamethrower on her lap to turn it on.
+It was enough to get the queen’s attention and make her protrude her head out of its crown and reveal herself.
+Zima looked up in amazement at the apparent size of the queen as it now looked down at her. The massive structure in the middle of the room came to life with movement.
+“For Shaw,” David calmly said.
+Zima closed her eyes and squeezed the trigger, causing the entire chamber and a few of the surrounding corridors to then erupt in searing hot flames.
+
+10.ORIGAE -6
+The light Shaw, Walter, and the Engineers had been waiting for blinked on and all of them tore off running. Since he had a literal map in his head and could react fastest, Walter was in the lead. Right behind him was Shaw, then Rembrandt, and Wolfgang was last.
+Further ahead, just down the corridor, Walter spotted a terramorph. 
+The creature was just standing there as it was in a state of shock by losing its connection with the queen. This telepathic link was not needed or required to function, but once made would be detrimental if lost. A severing of this cord sent a wave of disruption throughout the colony that would last roughly five minutes.
+“Keep going,” Walter said. “Do not stop!”
+Shaw barely heard Walter. It hardly registered, because despite whatever he was saying, she was only focused on the instructions she had been given, and that was to run like hell.
+Right as they passed the creature, Walter yelled out again, this time a little more forcefully to beat it in Shaw’s head. “Keep going! Do not stop!”
+It was a good thing too. Out of the corner of her eye, Shaw saw the terramorph. She slightly flinched and screamed as she passed it. The only thing that ran in her mind at the moment was to keep going and not stop.
+The terramorph didn’t react in any way to the living meat sacks that passed by within arm's reach. It remained in place, frozen like a statue. At the moment, one could do a hula hoop dance in front of it and not get a reaction.
+The Geneomorphs were suddenly having a field day. To them, the terramorphs just didn’t fight back for some reason. They had already made some progress in their natural goal, as little as it was, but now, in the time they would have, they’d make a great stride in decimating the enemy’s numbers.
+Emerging from the Seeder, Walter immediately spotted the Avellan, Mic waiting right outside the door with a gun in hand.
+Mic waved the group on. ”This way,” he yelled. “Hurry!”
+Shaw could barely see the ship with Walter directly in front of her. She kept telling herself that no matter what, to just keep following him. As she crossed the field to the ship, she could see a terramorph here and there standing perfectly still.
+Mic opened the door to let everyone in just as the terramorphs began to come to their senses. Once inside he hurried to the flight controls.
+Shaw had entered and stood by to close the door after everyone was in. She spoke into her radio. “We’re all in, Mic. Punch it!”
+A terramorph that was closeby, had come to its senses and latched onto the Avellan as it rose off the ground. It naturally, and unknowingly, attempted to crawl in through a thruster.
+Mic then engaged the engines to full power for a rapid ascent, the terramorph inside the thruster stood no chance and was blown out the nozzle by the force of the ship.
+Shaw fell back against the bulkhead and dropped to the ground in tears. “I can’t believe it,” she said. “We made it.”
+Walter spoke to the Engineers and received a response after asking if they were ok. He then kneeled beside Shaw. “Everyone says they are fine,” he said. “Come, sit over here.” he continued saying as he helped Shaw to a chair. “It is over now.”
+It only took several minutes for the Avellan to reach space and then dock with the Covenant. Daniels and Tennessee waited by the door as it opened. They simply looked in and spotted the Engineers, which caused them both to flinch.
+“Holy…,” Tennessee cried out. “Aliens?”
+Walter stepped forward. “It is alright,” he said. “They are friends of ours.”
+Mic entered the room. “Senors show mostly everything is nominal,” he said. “The only issue I am reading is with Covenant’s engines. It is showing an efficiency rating of seventy percent and dropping.”
+Shaw approached Daniels. “Hi,” she said. “Have you traced the problem?
+Daniels nodded. “I checked,” she answered. “It’s the second and third ion regulators. They’re cracked. We have the spares but could use someone with a little know-how and an extra pair of hands.”
+Walter stood beside Shaw. “May I have that transmitter now?” he asked.
+Shaw reached into one of her pant pockets to retrieve the device and handed it to Walter.
+Walter then gave it to Rembrandt, who then began to type something into it.
+Wolfgang then spoke to Walter in his alien tongue.
+Walter said something in return, then turned to Shaw, “They thank us for our assistance and say a new Seeder will arrive shortly to pick them up.”
+Shaw looked at the transmitter almost in disbelief. “Don’t tell me he used that little thing to call them!” she said.
+Walter nodded and shrugged. “He didn’t necessarily call anyone in particular,” he replied. “It is more of a distress beacon he just sent out. It will be a few hours before…”
+“Eastman would be blown away by their technology,” Mic said. He even said it with a tinge of sadness.
+Shaw looked at Daniels. “Let’s get started,” she said. “Let’s get you guys to your new home.”
+“I guess,” Daniels replied.
+Mic took several steps toward Shaw. “Should you not take a moment,” he asked. “Reflect on the recent events and losses?”
+Shaw closed her eyes and took a deep breath to try and not cry. “If I do that,” she began. “I’ll break. I need to just keep moving forward to get my mind off that, otherwise, nothing will get done and this ship isn’t going anywhere.”
+Daniels began to walk back into the Covenant as Shaw followed.
+Tennessee couldn’t take his eyes off the Engineers and said. “Is anyone else gonna say something about the fact there are freaking aliens in front of us?”
+Walter gently began leading Tennessee back through to the door to the Covenant as he started to explain. “They are called Engineers…”
+Mic, as usual, turned to go back to his station on the Avellan. The engineers simply sat and waited as they talked to each other.
+Daniels walked with Shaw to a ‘garage’ where the spares were kept. “Thanks for your help,” she said. “This will go a lot smoother with you here.”
+“Not a problem,” Shaw replied. “I should get you on your way in a few hours.”
+They grabbed the parts they needed, which included any tools that might come in handy.
+After going to another room, Shaw suited up while Daniels placed the parts in a bag.
+Shaw stepped into the airlock and turned around to grab the bag from Daniels. “I’ll let you know when it’s ok to restart the engines.”
+“Go easy and slow,” Daniels said before closing the door.
+Now doing a spacewalk, Shaw made her way over to the problem area and began to work. It took time but proved to be an easy fix for a person of her talents.
+Daniels and Walter stood by control panels, waiting on opposite ends of a room. Tennessee waited at his pilot’s seat, while Mic monitored everything like usual from the Avellan.
+Shaw welded the last part in place and called. “Ok, everybody, the moment of truth. Hit it!”
+Daniels and Walter then looked at each other and both nodded as they pressed buttons that brought the room to life with lights.
+“Tee,” Daniels called. “Go ahead.”
+Tennessee then touched several buttons at his station. “Startup sequence initiated,” he reported. “Looking good here.”
+“It’s fixed,” Daniel’s said. “Shaw, you did it.”
+However, Shaw didn’t immediately respond. The only thing that Daniels, Walter, and Tennessee then heard was a lonely sob.
+Flashes of Kai, Layton, Eastman, and Zima coursed through Shaw’s mind at that moment. She remembered the times they were alive and together. Those on the Covenant knew what was happening and not to say anything. They each took the moment to bow their heads and mourn their losses.
+For Shaw, there was a sudden flash of light, as out in the distance a new Seeder ship had appeared against the vastness of space. It happened so quickly and suddenly that Shaw wasn’t even sure of how long it had been there. To her, it was like she blinked, and there it was.
+“Mic to Shaw,” he called.
+“Go ahead,” Shaw replied.
+“The new ship has arrived,” Mic said. “I am departing immediately to return the Engineers and shall be back soon.”
+“Copy that,” Shaw answered. She watched as the Avellan departed and flew to the new ship. When she got back on the Covenant she exited the airlock and took the nearest seat while removing her helmet.
+Daniels walked in and sat next to Shaw. “What are you going to do next?” she asked.
+Shaw wondered that and shrugged with a smile on her face and tears in her eyes. “Go back home I guess,” she said.  “I found the answer I was looking for.”
+“Are you gonna report these things?” Daniels then asked.
+Shaw took a moment to think about it, till she finally shook her head. “No, I don’t think so,” she answered. “Zima chose to do what she did because she knew what would happen if the company got its hands on it. I’m not gonna waste that. Mic won’t say anything if I tell him to and my lips are sealed.”
+Daniels gave an understanding nod. “Thanks again,” she said. “For everything.”
+Tennessee then entered. “The Engineer guys left and the Avellan has docked back up with us.
+Shaw stood to begin removing the rest of the suit. Minutes later she was stepping back aboard the Avellan. She turned around and waved goodbye to Daniels, Walter, and Tennessee. “Good luck!” She said before the door closed.
+Daniels and Tennesee then got dressed in their mostly all whit stasis wear. They each climbed into their beds and gave each other a look of concern as Walter walked in to adjust some of the controls on a nearby panel.
+“You sure about this?” Tennesse asked.
+Daniels thought a moment. “Unless you want to spend the next few years awake while we get there,” she said with a smile. “I’m sure this time.”
+Walter turned around to ask. “Sure of what?” he asked.
+Daniels and Tennesse settled in and got comfortable.
+“That everything will be fine,” Daniels answered. The last thing she remembered at that point was her stasis pod closing and Walter standing over her.
+“Not to worry,” Walter said, “The next time you wake, we will have arrived.”
+That was it. Darkness. Years would pass with little of note. Any problems that happened in the interim, Walter was easily able to handle on his own.
+Origae-6 was everything the colonists had hoped for. It was pristine and untouched by pollution. No one could ask for cleaner air or water.
+A life pod from the Covenant rapidly descended and came to a soft landing in a vast plain where one had a beautiful view of the surrounding mountains. Its doors opened, with Walter, Daniels, and Tennessee stepping out.
+Walter looked back at Daniels and held out his hand. “Come,” he said. “Let us go build that cabin by the lake.”
+
+~~~~
+
+Thank you for reading. The End.
+
+ABOUT THE AUTHOR
+I was born in 1981 and raised in Aurora, IL. Much of my childhood and school days are a blur. It all seemed to go by so fast. I began writing after high school. I wrote in private because I didn’t think anyone would believe I was a writer. I wrote for years with little going on and carrying on with life until I had a stroke.
+My focus in writing has always been sci-fi/fantasy. As a fan of the series, I thought to put my spin on it and do a little course correction. One of the things that always intrigued me about the first film was the mystery of the creature’s origins. My only goal here is to restore that mystery and bring the wonder back.
+Follow me on Twitter Jose Rodriguez (@JoseRod74866629) / Twitter

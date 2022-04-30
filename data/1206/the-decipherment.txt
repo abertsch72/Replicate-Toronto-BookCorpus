@@ -1,0 +1,993 @@
+﻿
+
+The Decipherment
+By Rayan Ali
+Copyright 2013 Rayan Ali
+Smashwords Edition
+
+Smashwords Edition, License Notes
+
+This ebook is licensed for your personal enjoyment only. This ebook may not be re-sold
+or given away to other people. If you would like to share this book with another person,
+please purchase an additional copy for each recipient. If you’re reading this book and did
+not purchase it, or it was not purchased for your use only, then please return to
+Smashwords.com and purchase your own copy. Thank you for respecting the hard work of this author.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+PART 1
+
+PART 2
+
+PART 3
+
+PART 4
+
+PART 5
+
+PART 6
+
+PART 7
+
+PART 8
+
+PART 9
+
+PART 10
+
+Author’s Note
+
+Salvador Dali & The Persistence of Memory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PART 1
+
+Some say the power of Fire is the strongest and nothing can stand against it. Others say the power of Water is even stronger; still others claim the power of Air is the mightiest of all and nothing is its equal while many more claim the power of Earth surpasses all… but each of these is the equal of the other. The true power, a seemingly vast ocean in comparison of which these are nothing but mere drops of water, is the power whose spell we are all enchanted in, the power which makes us the way we are, a power so strong which takes us to worlds existing just in our wild imaginations, far from Reality. It shows us vivid colors and phenomena we call dreams, making us look far and deep into the darkest of realities, and that power is the immortal, power of Thought – a power whose seed has been planted in the mind of each one of us since the beginning of Time.  
+ Everything we dream about, all we imagine, every bitter and sweet memory we cherish, every idea we create, every feat of intelligence we perform, everything we conceive as a mere impossibility or something out of our reach yet somehow manage to catch hold of – all these are nothing but mere wonders performed by the power of Thought. But as we are enslaved by Ignorance, we do not see these wonders and try to find, though in vain, living miracles, when one already exists within us – the thoughtful Mind itself! Indeed it is nothing less than a living miracle.
+ Since the beginning of Life, we have explored deeply the countless realms of this living miracle, but no matter how hard we try or how further we search, never will we come even close to the last realm and discover the full extent of its powers. We may never know how deep the realm of Memory is or till how far it goes; we may never realize the scope of our Imagination or what it can do, and we may never truly grasp the true potential of our Mentality.
+    
+
+Though many of us do not truly realize the immensity of the power of Thought, a few who are so mesmerized by the beauty of their own imaginations and ideas, by the memories they like to live with and most of all, by the thoughts they create vividly, forget if anything else exists or not; so lost they are in the magical world of the Mind that they get separated from what is in existence and what lies in their artful imaginations, separated from Reality. They are captivated by their thoughts and the places they take them, the faces they show them and the things they make them believe in, that they can no longer differentiate between what is in Reality and what is in their Mind. 
+ Thus all the places their thoughts had taken them, all the faces they have seen and everything they believe in, comes blooming to life before them, in full and vivid colors, in what we call hallucinations. Still others, who think of the world as a mere ruin of the bloom that once was, start living in the caves of their own Thoughts and prefer to give no heed whatsoever to what goes on around them. We may call them ‘insane’ or ‘dreamy’ but as they are so captivated by the power of Thought, they do not mind as to what or how others think of them. So powerful is the control of their dreams and imaginations on them that they get lost in the void realms of the Mind which captivates them in its shadows.
+    
+
+No one can specifically point out the immensity of the power of Thought or what it can do with the way we perceive the world around us or where it can take us. Sometimes the Mind likes the idea of Thought itself, making us plunge into its depths. The Mind loses its grip from the colors of Reality, doing nothing but wandering into its own realm of Thought, giving rise to wild imaginations and ideas. Such was the mind of Isabelle Aimery – a 25-year-old Parisian working at the cryptology department for the French police. 
+  At the age of 10, Isabelle lost her parents in a road accident, which she luckily survived and was later on raised by her aunt. Soon afterwards, at 20, Isabelle had completed her 3-year course and gotten her degree in cryptology from the American University Of Paris, when her aunt died from a severe fever. Isabelle wasn’t entirely left helpless, in fact her parents had left a considerable amount of money and a house for her near the outskirts of Paris. All this they had left under the care of her aunt who, in her will, had prescribed all means Isabelle needed to know to take in possession all that was to become hers.
+ Isabelle found the house her parents had left her an epitome of beauty; built of huge granite walls, marble stone floors, it was nothing much less than a palace for a single person to live in. There was a large living and dining hall the size of an art gallery, made of elegant yet splendid decor, a long corridor, like that in a museum, filled with famous paintings and huge tapestries and balconies with every room overlooking a vast yard rich in beautiful plants and trees. Isabelle could do nothing but marvel at her parents’ taste of design and how long such a beauty would have taken to be erected.
+  Yet more she wondered how her parents or aunt had never mentioned anything about this to her before. After settling in her new home, Isabelle had searched for a job, which she had found quite easily in the national cryptology department serving the French police authorities. She had given an advertisement in a newspaper to apply for a job, giving her educational background along with the mention of her courses and degrees in cryptology, hoping she would get lucky and someone would take her. She had received enormous acceptance letters - from banks to software companies and computing departments to software analysts, willing to offer her a job as either a minor technician or assistance, but she had rejected all the offers. They were not her taste and seemed too less of a work for her. She wanted to do something more. Some weeks later she had received a phone call from the French police headquarters in Paris, asking her if she was still interested in applying for a job at their cryptology department. She had accepted right away.
+ As a young child, Isabelle had always wanted to become a cryptologist. Though both her parents were archaeologists, they always kept Isabelle busy solving puzzles and crosswords; once they discovered how good she was at the task. They didn’t force her to study history books or go on expeditions with them if she wasn’t interested in it. They just wanted her to do what she liked doing best: breaking codes. Often her father gave her codes to break he created himself and over the years, Isabelle had grown fond of the world of numbers and codes and the methods of deciphering ciphers. 
+ She made paintings hidden with numbers and simple figurative codes beneath the layers of paint. Unlike other children of her age, she never wished for a doll or a stuffed pet-animal, instead her parents got her large puzzle-boards and simple code-breaking games for her birthdays at which she worked at day and night.
+When she was 9, her father had once told Isabelle about the magic square: a square containing numbers arranged in equal rows and columns such that the sum of each row, column, and diagonal is the same. Only when she saw the square in a famous painting, Melancolia I by the German artist Albrecht Durer, did she truly realize the magic of numbers that is un-noticed by many and this kept her wondering in awe of what other meaning some tiny figures such as numbers may hold in them. Since then, she had made up her mind to find those meanings herself by becoming a cryptologist.  
+ 
+    
+
+The world has a habit of calling someone, who finds peace and comfort in solitude, a ‘loner’; but what it doesn’t understand is the fact that these ‘loners’ have many other things which interest them and keep them happy instead of its plastic and un-realistic colors. Isabelle Aimery was one of them to fall under the title. Though she was liked by all of her colleagues, had a boss who always praised her for her work and exclaimed to have never seen someone with intelligence as that of hers, Isabelle always found the idea of friendship somewhat boring. For her, God was the only true friend and doing what she liked best pleased her. Now, at 25, leading a perfect little life, with a career she always dreamed of, earning a good pay, being liked by those who met her and living in a home which was perfect in every way, Isabelle wanted nothing more in life.
+  
+    
+
+In work, there are always two classes of people: those who find some time off from work and those who find some time off for work. Many of us sometimes find the work we do tiring, no matter how good we are at what we do, while some of us just find peace and comfort in our work and tend to keep ourselves indulged in it for most of the time. Isabelle Aimery was one of them. She worked longer and harder than most of her colleagues. Everyone knew how skillful she was when it came to code-breaking and de-encrypting texts which would otherwise seem un-solvable to others. 
+ She had shown her skills on the very first day of work. Upon entering the office, no one had seemed to notice her come; everyone had been staring at a small computer screen on which appeared strange looking codes, similar to numbers, looming on it in the form of shapes. At first glance, Isabelle had known how to de-encrypt the code. She had gone up to the spot everyone was gathered at, around the computer, and taking a piece of paper and pen, made five sets of numbers in the form of five different shapes and arranged them altogether in the Fibonacci sequence; a sequence of numbers, such as 1, 1, 2, 3, 5, 8, 13... in which each successive number is equal to the sum of the two preceding numbers. As soon as she had typed the numbers in the sequence, the shapes had broken instantly and sentences had appeared on the screen. It had left everyone staring at her wide-eyed as to where they worked so hard trying to decipher a code; a stranger walks in and does the job, making everyone dumb-founded
+ It had been much of a start of an introduction for Isabelle and everyone had come rushing towards her, asking for her name and who she was and how she cracked open the code. After the usual introduction, it hadn’t been as hard as Isabelle thought it would be when it’s your first day at work – once everyone knows how good you are at what you do. Thus it was for Isabelle that she was always lost in her work. If there was a code the de-encrypting machines could not break or an encryption no one would be able to decipher, Isabelle was the one to find a solution to it all – and she always did, no matter how hard the consequences. 
+  Her office was a small, comfortable place to work in, with simple yet elegant furniture and cocoa-colored walls, a small working desk, two leather armchairs and a computer table neatly put in the corner. She didn’t mind the size of the office. It was like a second home for her; a place she could work in any way she liked. She worked long hours in her office when everyone else would be having a good night’s sleep; receiving a dozen cryptograms from different police departments often found on the site of a crime, left by criminals or killers to confuse the police. So it was Isabelle’s job to decipher the cryptograms in time, submit them to the police and thus help them in their investigations. Often Isabelle took the files of cryptograms home, solved them out and submitted them to the office the next morning from where they were sent to the police departments. She had often gone a month or two without sleep during such times.
+  Isabelle didn’t think of her job as one serving her country’s police authorities in helping them in their investigations. Rather, she liked to think of it as being in a world of numbers and codes and all that lies behind them. She liked to spend long hours working on cryptograms and deciphering the meaning they held in them. It amazed her how the human mind, other than all the normal tasks we do in our everyday life, can even master in a world of symbols and numbers and actually create something hidden in them. She always thought the mind capable of so much more than it is known for. The only things she did like were ice cream and going to libraries. As a child, whenever Isabelle got sad over something, her father used to take her out for ice cream to cheer up her mood. 
+ Though busy in practical life, Isabelle was always free in her mind. She was a deep thinker; going into the depths of something to understand it, looking into the realities of life further than just the ordinary possibilities which lie on the surface, being lost in her thoughts and the peace which overcame her and imagining deeply what only thrives in the imagery of our mind. With no one but herself to care for in life, she found the images her mind played in her thoughts entertaining enough to not make her feel lonely.
+  She often thought of how her life would be if her parents were alive, seeing her accomplish her dreams – dreams they had helped her built. She thought of what she would do without a job, how she would survive in this world where only someone who has accomplished something is given a place of respect and honor, and she thought of what she would do if her life suddenly ended without her even coming to the finish line of the race she had started in this world. In other words, she thought of what could be other than that which already is. Thus, Isabelle was a person of her own thoughts, wild fantasies, dreams and imaginations – a world she liked to dwell in.
+
+    
+
+It is often said that the deeper you search for something, the closer you get to finding it – but that is not always the case. Sometimes, searching deep enough into something brings us to even more depths, which may not even be close to what we’re looking for. Such is the case with the human Thought. The deeper we dig into its unfathomable realms to better understand it, the more we find ourselves plunged into crevasses with seemingly endless boundaries to Reality. This is the reason we seem so ‘lost’ in thought while trying to catch the essence of our ideas, dreams and imaginations.
+So it was with Isabelle Aimery, who also got ‘lost’ while trying to find the core of what dwelled in her mind. Sometimes even deep thinkers never seem to grasp the true meaning of their own intelligence – they just want to ‘dig deeper’.
+ It was one of the usual long work-hour nights when Isabelle finished de-encrypting the dozens of cryptograms she had received on her computer from one of the police departments. She couldn’t remember the last time she had slept. Though she didn’t mind the load of work at her desk every night, she did sometimes feel like sitting in one of the huge leather armchairs in her study at home, with a cup of coffee in one hand and a nice book in the other. 
+Now as she was done with her work for the night, she thought now was the time to bring that feeling to life. It was midnight, and gathering her things from her desk, she left the office and headed for home. When she reached there, changing into her night-clothes and making herself a hot cup of coffee, she went straight into her study and picking up a small book which read The Complete Poems of Emily Dickinson, Edited by Thomas H. Johnson, comfortably sat her in the black leather armchair. It was early dawn when Isabelle finished reading. She hadn’t realized how quickly the time had passed. Eyes filled with sleep, she didn’t have the strength to go upstairs and into bed. Instead, she put her head on the back of the chair and curling herself up, slept.
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PART 2
+
+It was dark and cold, and it smelled like… hot coffee. Even the floor was cold. It seemed as if time had stopped…
+Isabelle took a few steps forward. She just wished there was some light so she could see where she was. As soon as she thought this, a faint, thin streak of light appeared at some distance to where she was standing. She followed the light rays in front of her and to her amazement; she found the whole floor made of glass. She came close to the light and found it coming from a lantern placed on the floor. As she picked it up, she found it similar to the one that hung in her guest room. 
+  She liked the different shades of color it gave from its multi-colored glass and so had decided to hang it in the guest room where it matched well with the rest of the décor. She walked across the place she was standing at and found it empty as far as she could see. She went to where she was standing earlier and lowering the lantern down to the floor, she found it was made of glass, the kind she admired: thick and shiny, with what looked like colorful bits studded into in, making it look like a lake of different colored waves. She always wanted the floor of her home to be made of this kind of glass. Confused as to how these things were here, and wondering where exactly was this here, Isabelle starting walking on the glass floor, with the lantern in her hand. She did remember sitting in her study, reading and drinking coffee, when she fell asleep there on the couch, but didn’t remember waking up after that. 
+Maybe I’m dreaming. 
+  And just as the thought struck her, a thousand images floated and drifted in front of her; images of places she had dreamt of, people she had seen in her dreams, things she had never really known about but had only seen them in her dreams…every single image was that of what she had dreamt about.  
+Blinking her eyes from the sudden rush of colors and light the images had brought, Isabelle walked slowly across what seemed like faint ruins of a castle. She wondered if she had been kidnapped and her kidnapper had brought her here and shown her all this to scare her. As soon as the thought hit her, the real feeling of being scared rushed on her like a splash of water. Adrenaline cruised through her spine and the hair of the back of her neck shot up. Just as she was about to wipe away a bead of sweat trickling down her forehead, she heard a low growling, like that of a cat. As she turned around, Isabelle found dozens of large, black, green-eyed cats staring directly at her. 
+She had always been afraid of cats, especially black ones. They were her worst fear. 
+
+    
+
+My worst fear, Isabelle thought, just as more cats started to appear before her out of nowhere. It took her a few minutes to figure it out: everything she thought of now was coming to life right before her eyes. Does this mean I should stop thinking so all this stops? Isabelle thought to herself. She did it again, she had thought and now something worse would happen. But just then, the whole place around her turned blank and white, like a huge sheet of paper without words. It seemed as if the air had been sucked right out of her lungs. Isabelle didn’t make a move in fear of something else suddenly appearing before her – nothing happened. She still needed to figure out where she was. Maybe if she could form a question in her mind as to what this place was and how she got here, she could find a way out. Thinking of it, Isabelle concentrated hard on the question
+  In that instance, the whole glass floor beneath her, cracking into a thousand pieces, gave way and Isabelle found herself falling downwards. The walls around her seemed to fall with her too. To her amazement, she noticed that the pieces of broken glass although they touched her body didn’t pierce through her skin or cut wounds into it, instead, they passed right through her, as if she was transparent, without leaving any scratch. 
+Afraid she might not even survive the fall, Isabelle closed her eyes shut and thought hard of some way to land safely on the ground. Remembering she could control the happenings by thinking of them, she concentrated hard to form a notion so as to touch the ground safely without getting hurt. Not concentrating on anything but her thoughts and unaware of anything around her, Isabelle opened her eyes a moment later just to realize that she had at last landed on hard ground, only that she didn’t feel it. It was as if she had fallen on a heap of cotton. She stood up, feeling quite numb. 
+What she found around her made her utterly lost and confused: dozens of large-sized, gleaming images were hanging vertically as if hung by something to the roof, like a large painting hung on the wall, only that there was no roof. They seemed to be…floating in about the air by themselves, as if by some invisible force. The whole place looked like a torn gray sky. There were no walls about it or any roof and it looked like a piece of desolate land floating in an open universe. 
+ Isabelle went closer to one of the huge images hanging near her and when she put her hand on its surface, it literally sank into it, making large, round ripples around it, like those formed on a water surface when something is submerged into it. It looked as if the images were themselves made of water, with color filled in them. Isabelle went to the rest of the images hanging around her and the same happened with all of them whenever she put her hand on one: it went through and left ripples around it. Too dazed by all that she saw, Isabelle hadn’t noticed that like all the rest of images hanging around her, there were also many floating above her. 
+  I’m in a picture land.
+  The ones above her were moving slowly, one upon the other, like hovering aircrafts. Lost in her confusion as to what to make of all that was around her, Isabelle missed the fact of what the images were of. Some of them were very familiar to her, while others just made her feel as if they were memories of a distant past. Going up to the one on her right, Isabelle looked at it closely, trying to figure out what it depicted. Though the picture was blurry and faint, she could still make out something of it. She ran her fingers through the surface and it became clearer as if all it needed was a slight touch to remove the blurriness. The picture looked vaguely familiar to Isabelle, showing a man sitting on a desk piled high with papers, working under the dim light emanating from a small lamp placed at the desk, and next to him, a girl stood holding a paper with loads of numbers and alphabets, talking to the man in a cheerful manner.
+  As Isabelle started to take in every detail of the picture, she had the strange feeling of somehow being a part of what it depicted. She looked more closely at the picture; the man sitting at the desk had some resemblance to her father, the girl standing next to him was holding something that she thought she had come across in the distant past, the room and everything in it seemed all to familiar to her but she still couldn’t make out how. Using a technique her professor of cryptology had once taught her to use when unable to concentrate or remember something, Isabelle closed eyes and envisioned herself in the room, with the man and the little girl next to her. Like a rush of pain shot through her, she suddenly opened her eyes, realization suddenly dawning. Everything made sense to her now. The man in the picture, which she took to be the likeness of her father, was indeed her father and the little girl was none other than herself, when she was 9, and the room was her father’s study. The paper held by the little girl, or she herself, was a solution to an arithmetical cipher. She remembered it all now.
+  
+    
+
+It was sometime before her parents died. One day Isabelle was busy in her schoolwork when her father gave her a new code he had made and told her it was nothing like she had ever come across. He had promised her a small present if she managed to decipher the cipher and then went back to his study. Smart as she was, it had taken Isabelle just a few minutes to solve the cipher. After using all the different techniques and methods she knew at that time to decipher a message, she had finally hit upon the correct one: The Caesar Cipher, a type of substitution cipher in which each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet. Isabelle replaced all the numbers and letters in the cipher according to their original places and after she finished, she happily went to her father in his study and showed him the solution she had made for the code. Surprised and delighted at the same time at her cleverness, her father explained more of the Caesar Cipher to Isabelle and how it came into existence by the great Julius Caesar. After he had finished, Isabelle asked him for her present. At that he had told her a present in not only something we can receive from someone else or achieve ourselves by gaining something, in fact, the greatest present a person can possibly receive from someone else is the one that stays with him always, no matter what happens.
+ Isabelle asked her father what it was; eager to know what such a big present could be, and upon that he told her that the greatest present one can receive is the wisdom of life, because whatever life has in store for us is utterly un-perceivable – if we don’t have the wisdom about it. We may reject a great chance of happiness just because we didn’t realize the meaning that it was meant for us; we may stumble upon a great beauty and walk away from it just because we didn’t have the insight of it.  And so he had told her one of the Wisdoms of life that by taking chances and risks we can learn new lessons in life and those lessons are learned better than what we learn from our mistakes or fall-outs. At that time, though, Isabelle didn’t seem to understand but later in life she got to know what her father had meant; that you can’t always expect to be shown every emptiness in life that needs to be fulfilled, rather, you have to take chances and risks in order to come across new aspects of reality, whether they turn out to be what we like or not.
+ Now, glaring at what had been a dear memory of her, Isabelle started to wonder just what else this place had to show her. But seeing her own memory – it made no sense to her at all. She wasn’t poring over the possibility of seeing something that had been her past; she was captivated by the feelings these images brought to her, the reminder of all the happy moments she had spent with her parents and the lessons she learned from them. It was the only reason she liked to dwell on her past, never caring about the present or the future. In her solitary life, only these memories brought her happiness and consolation one needs to survive. 
+Stepping away from the picture, Isabelle went on to look at the others. There were so many around her, they looked like a huge puzzle floating in the air. Walking in between the many rows of these bitter reminders of her past, Isabelle found a one that touched a deep broken cord in her heart. She went up to it, and upon running her fingers over its surface, it became clearer. It showed a girl struggling with ridding a bicycle and a woman beside her, guiding and helping her with it. 
+ 
+    
+
+Upon getting 1st position in third grade, Isabelle’s parents had bought her a new bicycle and she had started ridding on it on the very next day. She had some difficulty with it at first but got better at it once her mother helped her. But even that had not made it easy for her. She had been scared that if her mother let go of her and stopped walking along by her side, she might fall – but that hadn’t happened. Her mother had held on to her firmly, making her keep her balance upright. After a while, her mother had told her to ride by herself, without taking any support so that she might learn how to keep herself from falling. She had insisted her mother go with her for a few more steps and then she would be on her own, but after riding some further blocks, when her mother had let go of her, Isabelle had been a bit scared that she might not be able to balance herself on the huge wheels of the bicycle and would fall. She hadn’t been able to balance herself well. 
+ Her mother had told her to let go and let the bicycle ride by itself and then take control of it. Following her mother’s advice, Isabelle had let go of the handles and let the bicycle balance upon its own. Surprisingly enough, instead of going left and right, unbalanced, it had gone straight. She had been enjoying the whole moment, when suddenly, she had stumbled upon a dent in the path and had fallen. She had fractured her ankle. Her mother immediately came to her and carried her home, where she lay for two whole weeks in great pain. She had also missed school. The images of that time suddenly disappearing from before her eyes, Isabelle blinked away back tears and tried to ignore the hurt she now felt deep inside from the loss of her parents and the time they spent together. She didn’t know she still had this memory within her. 
+  You have to let go. 
+  Her mother’s voice echoed so clear in her mind still. Though at that time she had only meant for Isabelle to let go of the bicycle so it might balance itself, yet now, in all the twists and turns she had to face in life, Isabelle knew what her mother had meant. Often times we come across things in life which we don’t have control over, which we can’t change as to the way they flow. Because of our blindness, we don’t see the light at the end of the dark tunnel, but only pray to get out of it. Just like everything happens for a reason, we have close encounters with misery or hardships so that we can search for something better. Other time, we can’t really do much and have to let go, and let time and fate decide. 
+  
+    
+
+Feeling as if wounds of her past were open afresh, Isabelle made up her mind not to look at any other of these painful reminders of her past. She didn’t believe that time healed all wounds, like its said, but only makes them deeper, concealing them in our soul, and reviving them again when their memories seem to fade. It looked as if nearly all her past had been engraved into these pictures and left to be remembered again.  From her darkest to the most pleasant of memories, Isabelle found all her past before her. 
+ She found pictures showing her memories of the first time she learned to write, of the first time she learned the art of numbers and the first code she ever broke, memories of all the pleasant moments she had spent with her father, learning new and surprising things from him, memories of her mother telling her tales of great men in history who gave us something to live upon, and finally, memories of the time she was separated with a happy life by fate: the time she lost her parents. The memories of that time were so clear and vivid before her, she felt as if she was re-living that moment.  Isabelle realized just how cruel time seems to be sometimes, making us live in the past moments in such a vibrant way. 
+It was the 30th of June; a day that started for Isabelle waiting for her parents to return from their archaeological trip to Peru, but left her waiting for them for her whole life, with the impending doom of realization that they’d never return again. Her parents had got an invitation three days before her birthday from the main head department of archaeology in Paris to visit an ancient temple in the outskirts of Peru, where countless historical monuments stand to this day. They had accepted the invitation gladly. Isabelle had a vague feeling they might not be able to safely back home and insisted them not to go. They promised her that they’d be back soon for her birthday, and left her at her aunt Agnes’ house. 
+Isabelle recalled now, waking up early that morning, with a knot of worry in her stomach and a strange feeling of something not being right. She spent the better part of her day at home watching TV with her aunt, not uttering a word the whole time. Her aunt knew her distress so she didn’t press her much. Aunt Agnes had baked a lovely little cake for her and tries her best to keep her cheered-up and all smiles. When night had fallen and there was still so sing or her parents’ coming home, Isabelle had gone to bed, feeling tired from waiting all day. She remembered having a strange dream that night, She dreamt about her parents, standing in what she thought were the ruins of some kind of old monument. They were reaching out for her, asking her to come with them. There was a raging storm all around, with a furious wind blowing and heavy rainfall, ready to take-up everything in its wake. Isabelle focused hard to make out the hazy forms of her parents, as it was so blurry because of the rain and wind that she couldn’t see much clearly. She stepped up real close to them and to her horror, when she reached out to them they suddenly vanished, like smoke, and she touched thin air.
+ Isabelle had woken up with a start, opening her eyes suddenly as if she woke up from a fit. Too dazed in her sleep, she hadn’t heard her aunt’s anguished screams, calling out her name, telling her to wake up. When her aunt had seen her open her eyes, she thrust her arms around her neck in a tight, secure hug, as if she hadn’t met in a long time. Isabelle saw her aunt’s tear filled eyes, and struggled to take her voice out to ask what was wrong. But deep down inside, in the empty corners of her heart, she knew exactly what was wrong, had felt it all along. Strong as she was, she readied her aching heart to take in all that was about to come, and asked her aunt again what was wrong. At the beginning there was nothing but the silent, painful sobs of aunt Agnes filling the quietness of the room, but then she gathered up her strength, to explain to a 10 year old child that her parents were gone forever, and began to speak in broken, muffled sentences. 
+  There really had been a storm in the place Isabelle’s parents had been working on: a 4.000 years old site near Cusco, on the outskirts of Peru, where a temple of sun and moon worship stood worn-out condition. The early Incan emperors, devoted to sun and moon worship built the temple to carry out their sacrifices in the honor of the two “heavenly deities”, as they referred to the sun and moon. It was this temple the Aimerys had been sent to dig up some ground and look for something that might be of historical importance and help in understanding the civilization’s age-old history. The temple had stood there for centuries, fighting against every kind of weather, but this storm was too much for it to hold against. As the storm grew more fuming by each blow of wind, the walls and pillars started to give way, and all at once the whole temple had come tumbling to the ground, its each and every brick turning to pieces.
+  The Aimerys had been working in an undergoing recess that was beneath the temple. The Incas, at the time of their enslavement by the Spanish conquistadors, had tried to save as much of their valuable treasures as much as they could from the Spaniards catching hold of it. For this purpose, they had made large clay pots and stored in them all of their gold, precious stones and jewels, steel ornaments and all the rest of their things of value, and then hid these pots in underground stores they made beneath their temples, hoping their gods to protect them. 
+  So it was one of these underground stores the Aimerys were searching in – un-earthing clay pots buried deep inside the ground, when the walls around them had started to shake and tumble from every direction. They had hurriedly collected all their research equipments and made their way for the passage leading to the opening. The walls were falling one by one all around them and the passage had been blocked from the concrete falling above at the ground. Not finding any way out, they had helplessly accepted the danger they were in, realizing they could do nothing but leave their fates in the hands of God. 
+Though Death is an un-invited guest, yet it does somehow warn its host about its arrival. Thus we say that a person knows he’s about to die, as if he can see his death coming. The Aimerys, knowing they could do nothing and go nowhere, had sat in a corner of the underground pit that was to become their grave, huddled in each other’s arms, being one another’s warmth and comfort. Realizing deeply they would be crushed to death under a centuries-old temple, with no one there to find them, they had thought of just one thing to ease their pain: their daughter. 
+ Isabelle had begged them not to go, and they regretted it deeply ever coming there. They had felt ashamed for breaking their promise with their daughter that they would be there for her birthday. Suddenly the passage joining the ground above with the one below, gave itself away, and had fallen right down on the place where the Aimerys had been sitting. One by one, every single mast fell down, crushing the walls around it too. The structure that had stood there for centuries, reflecting the lives once lead there and the rituals and sacrifices carried out on its very ground, turned into a devastated ruin. Back at the archaeology department, when they hadn’t heard from the Aimerys for nearly 3 days, a rescue team had been sent to the place to look for them. The whole place had turned into a ruin, and even though every piece of rock was searched under, no body had been found – just the signs all around of a horrible storm. The director of the board of the department had personally called aunt Agnes and told her about what had happened. He had expressed how sorry they all were and wished none of it would have happened, as they lost some real good people, and that they could do nothing more to help. Isabelle hadn’t first reacted much; didn’t shed a drop of tear or expressed her sorrow, but when her aunt had left, she had crawled up in bed and cried, letting out all her pain in silent, painful, anguished sobs. Her mother had always taught her to learn to let go of things in life we don’t have control over but she found it hard to let go of the only thing she held dear in the whole world, her parents. But she learned eventually that no matter how hard the times becomes, there is always something good at the end. 
+ From that day onwards, Isabelle had experienced the true feeling of being lonely, and for her, it wasn’t just about having no one to spend your time with or share your feelings with – for her, it all seemed a plot made by fate, to take from us what we hold dear, something that makes us happy and gives us a reason to live for . . . and then to test us for how we react to it. 
+  Now, as Isabelle stood their, looking at that memory, she felt all alone again, something she had gotten quite used to now. She learned long ago that despite the fact that memories bring pleasant moments afresh in times of sorrow, they are also man’s weakness: they take us back to the times we spent happily and make us long for them, so much do they draw us towards them that we forget what we have at the present moment; and wanting to go back in those moments. Isabelle cherished the idea of having some pleasant memories to look upon when she felt alone, but she never let herself get absorbed in them too much; just enough to keep her from the demons always lingering in her mind, eager to consume her. When she fully came back to her present state, recalling to mind she still hadn’t figured out where she was or how to get out of there, Isabelle gathered up her strength, kicked off the forlorn emotions bubbling within her and walked away from the images hanging around her. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PART 3
+
+Isabelle Aimery felt helpless, a feeling unknown to her. She was always there to help others and knew what to do, but now, she was the one in need of it, and she had no one to do that. 
+ Over the years, she had learned to help herself; she believed the biggest help one could attain was that of one’s faculties which guide him in every step in life, and clear the fog one sees in the realities around him. But now, she felt utterly helpless; her head throbbed from pain she had never experienced before, her eyes hurt from the stark light given off by the images, she felt numb and weak, and her mind didn’t focus like it should. Nothing made sense to her. She had been reading Emily Dickinson and drinking coffee, and now here she was, lost in a place she had no idea of, with strange things all around her. 
+Maybe it’s just a dream. Maybe I’m still asleep and dreaming of these wild things and I’ll soon wake up. Everything would be back to normal then. 
+She closed her eyes, expecting to be in her leather armchair with the book in her hand and the aroma of coffee filling the air. But when she opened her eyes, to her distress, she was still standing there. Instead of seeing the welcoming look of her home, she saw something else.
+
+    
+
+Isabelle stared wide-eyed, as a small portal opened before her. It got wider and hollow as Isabelle stepped closer to it. The whole atmosphere around felt…numb, like nothing was there except that dark portal. She didn’t find the gloomy, void look of it welcoming at all. She wanted to run away from there. She wanted to go home, to the comfort of her solitary life, to her work, to her reality . . . but right now, none of this seemed even close to real.  She ignored the negative feelings arising in her mind and stepped close enough to the opening of the portal that she could peep inside. She saw nothing. It was just dark and hollow; yet she felt a strong force surging her forward to enter it. It was stronger than her strength. She tried to step back but her legs carried her closer to the opening – and she couldn’t resist. She felt strangely connected to whatever was inside that portal, like the feeling we get when we have a strong, deep connection to something, like places or things, and they urge us nearer to them. 
+ Isabelle breathed deeply and inching closer, stepped into the opening. She didn’t fall or bump into something, like she expected she would. The moment her aura had touched with the blackness of the portal, her whole frame got submerged in it, like little sparks of light falling slowly into a dark room. It was as if she had entered another world. After that, all went blank. 
+
+    
+
+Isabelle woke up with a start. She felt as if she’d been drugged; her head was dizzy and her headache had grown worse. She sat up and looked around. She could make out nothing but blurry, dim sparks of light globules dancing before her eyes. Her head ached with each blink of the eye and she held her head in her hands, putting her chin on her knees, cradling herself in a ball. The coldness around chilled her to the bone. She felt as if her head would explode any minute; the pain was too much for her to bear. She closed her eyes and tried to calm her blaring nerves. She bit back tears as she realized how helpless she was now. 
+Helplessness.
+  It was the feeling she hated the most. She knew how it creeps up into the soul and cuts off every connection it has with the outer world and with reality, making it feel dejected and longing for help. She felt the pain of others who are victimized by this feeling, because she herself was one. Though she did believe in the fact that God’s help and nature’s forces are always there to aid man in his difficulties, yet she considered one’s own psychological powers to be more helpful, because if one learns to use his mind’s great faculties along with the natural laws empowering it, he would have the greatest help of all. 
+  But of course in order to do that, one has to believe in the true, divine Help that’s responsible for guiding every other aid. Isabelle tried to focus on her surroundings, but her vision was blurred and she could see nothing. Gathering what strength she had left, she stood up and flung out her arms to catch hold of anything around for support, but she caught thin air. She felt her head spin in circles and again seeing nothing but dots of light dancing before her eyes, she slumped to the floor, unconscious. 
+
+    
+
+Our mind has many ways to clear itself from the fog building inside it. Sometimes, it plunges into a deep sleep, resting far away from all the confusion and worry, and preparing itself to think anew. When that doesn’t happen, it simply erases every trace of reality weakening its mentality. Other times, it wanders into a lost world of its own…something we call unconsciousness. 
+It doesn’t rebuild its resilient bonds with reality and ignore the past confusion that broke them; it doesn’t forget the questions and doubts hindering its balance; it just plunges into the depths of veracity, going back to the spot where it lost itself, finding answers and explanations, trying to figure out logic such as why and how. Sometimes, it emerges from those depths with satisfactory results that moralize the true reason of its confusion, and sometimes, it emerges with more questions regarding its own mentality; and sometimes…it just never comes out at all.
+
+    
+
+Isabelle Aimery opened her eyes as if from a deep trance. 
+ How long have I slept? What time is it? I must be late for work. Still have a dozen of coded files to de-encrypt and…
+She thought she was back home and it had all been a dream. Opening her eyes fully and expecting to find herself in her room, she found herself lying on a cold, marble floor in what looked like a vault deep underground. Suddenly everything came back to her in a quick flash. She remembered it all now.
+I was standing in the middle of a large empty place. I saw a portal open before me, and I entered it, hesitatingly, and was snatched in it by some strong force. I felt dizzy and my head ached so much… I couldn’t see properly; my vision was blurred. I tried to examine the place around but was too light-headed and couldn’t balance myself. And then I tried to grab hold of something, but there was just vast emptiness…and then I lost consciousness.
+ Suddenly she started to panic again. Despite the fact that it was intolerably cold, little beads of sweat trickled down her forehead. She felt anxiety take over her whole frame. 
+  I have to find what this is all about.
+She rubbed her eyes hard. She could see crystal clear now, no dots before her eyes. She realized her headache was gone for once. She didn’t know why, but she felt better now…related somehow, to whatever place she was in. She didn’t know how long she had been lying there, helpless, unaware of what was around her…She walked up to some distance. 
+The basic rule everyone is taught in cryptology is the process of observation. Not just common, ordinary observations, but precise and deep observations; over-analyzing every line, every angle and every pattern of the code in order to understand its encryption. Even in other scientific calculations, one has to observe the problem at hand, its causes, effects and the very logic behind its existence. Only then can it be easily solved. Now, standing there with no possible clue of where she was headed, Isabelle stood still for a moment and tried to observe anything peculiar around her. Any strange sound, movement, anything that she might have missed before…and like so many other times, it was her observation alone that helped her this time also. 
+She had been walking lost in confusion and hadn’t noticed what she was walking into. Now as she looked round about her, she could make out tiny black and white specks of light morphing into different shapes and sizes all about her. And she couldn’t believe how ignorant she had been of walking right into them without every noticing it.
+ As the speckles of light were very small and just taking shape, Isabelle couldn’t quite see what they illustrated. She concentrated hard on them, remembering she could control things around here – though she still couldn’t fathom how. If she could just make them more apparent and perceivable by somehow thinking of it…It took all her mental strength to visualize something non-existence and bringing it into existence. She just imagined the specks getting larger and forming into whatever images they were to be formed into. Eventually, the entire place around was filled with sharp streaks of light taking forms, and it looked like a clash of lightning from opposite sides, both crashing into one another, canceling each other’s effect. Isabelle put her hands over eyes, shielding them from the sudden explosion of brightness. It was strong enough to make her blind. Slowly, bit-by-bit, it all blackened. When she opened her eyes, what she saw before her was a beautiful yet strange sight: the light itself had taken shapes and sizes, forming a black and white film of a sort. It rather looked much like a soap opera – but just a very large one. It wasn’t hanging from something up above or floating in mid air. It was like a very large image sending off sparks of light, emitting a certain kind of glow. 
+  Isabelle stared wide-eyed. By now she had a perfect idea of what it all was. It was nothing unfamiliar to her. She knew all this, had seen all this - just not in reality. But it all seemed too…bizarre to her to be true. Each speck of light that had formed into a whole illustration represented a hope, a belief, and a fear…a dream. Isabelle never knew she dreamt so much. We never know what we dream, how we dream, or why we dream; yet we all like to cherish the very idea of it. 
+ These are my dreams. I’m actually looking at my dreams… but how can that be? 
+ 
+    
+
+Sometimes our mind becomes ignorant of its own thoughts…it forgets. It is then that Chance and Reason come along, morphing the reality we see around us in such delicate yet easily perceivable consequences that bring what’s forgotten to our memory, vividly.
+  It all came back to her now, baffling her mind all at once, as she stood there, gazing at what she once thought was only an un-realistic, meaningless, morbid flesh of her imagination take shape. She understood now how she came to be here, in her dream world - because she had thought of it. 
+ Though it still seemed utterly bizarre to her, she had forgotten she could control things, make things happen around her just by giving it a little thought - and it was exactly what she had done while standing before that dark portal which she had stepped into and was thrust here - in her dreamland!  
+  Maybe it’s just a dream. Maybe I’m still asleep and dreaming of these wild things…
+ It was the only logical explanation she could think of at that moment, just when things had started getting stranger. And now, it was that very thought that had plunged her here. She had come across many obstacles in her life, especially after she was left all alone when her parents died. The first rule she was taught in her cryptology course was not to look at the complications in the encoded texts, but to look for the simplest of patterns in the figures, patterns so simple that they gave rise to many possible solutions and techniques, thus puzzling the mind. But this was something she couldn’t deduce some meaning from.
+ 
+    
+
+It was cold. She felt the shivers run through her whole frame, chilling her senses, but she kept herself intact. 
+ When she was 5, Isabelle had visited Tundra Biome with her parents on one of their archeological researches. It was said that fossils of some rare kind of species, those that dwelled in cold regions, were buried there somewhere in the ice. Her parents had been assigned to find out of that was really true.
+ She always did some research of her own of the place they were to go to. She had read some things about Tundra Biome, some of which she still remembered. She had read that Tundra is the coldest of all the biomes, noted for its frost-molded landscapes, extremely low temperatures, little precipitation, poor nutrients, and short growing seasons. Dead organic material functions as a nutrient pool. The two major nutrients are nitrogen and phosphorus. Nitrogen is created by biological fixation, and phosphorus is created by precipitation. She liked chemistry and was glad to find it playing its magic in such a region when only ice covered everything on a barren piece of land, like cotton placed on a piece of dry wood. 
+ It had been the most adventurous journey from all the places she had been to with her parents. She found the high peaks of mountains with crystal-clear ice sprinkled over them, along with little pieces of land scattered around the towering mountains and blue chunks of streams flowing about even more beautiful than the pyramids in Egypt and the ancient monuments and temples in Rome. She found the 10-hours ride in the chopper more fun than flying in a plane – she could see everything from above through the huge glass window. She had stuck her nose on the mirror, gazing down on the greens and blues and whites scattered here and there, thinking of how God created it from total nothingness and how man spills smoke and dust over it, hiding away its beauty.  
+ They had landed safe and sound. Her father had been working on the navigation computers and setting up all the electronic devices while her mother had been busy setting up the camp and preparing hot steaming tea to warm them up. Isabelle was left on her own.  It was a good opportunity to stroll away silently, she had thought. 
+ Taking her father’s large woolen coat over her shoulders, she had silently stalked away, without her parents knowing. They hadn’t even glanced at her, asked her where was going. Sometimes it annoyed her; how they were so absorbed in their work they never paid much attention to her, ignoring her as if she wasn’t even there. But she convinced herself that what they were doing – un-veiling secrets and truths about nature and its aspects that would otherwise have been hidden from the world, rotting away in the dark of ignorance, was more important. The world needed to know the countless secrets and treasures hidden in the folds it daily walks on. 
+  She had been looking for peculiar things in the ice, some rare kind of stone or a fossil, to add to her large collection of artifacts from all the places she had been to. It was when she had heard a heavy, distant sound, like a bear grumbling far away. Looking around she had found no sing of any danger. The noise had grown louder each minute. She had thought it might be a storm – if storms could come in places like that, when a puff of white had risen far away, descending from a hill covered with ice. She didn’t know why, but her brain had acted too slow, flaring warnings of the danger ahead when it was too late: the puff descending from the hill was part of an ice cap of the highest mountains in north of the Tundra Biome. It was why she had heard the sound as clearly – she had been in the northeast of the valley.  
+Fear and panic gripping her senses all at once, she had looked around helplessly for some kind of cave or rock to hide under, but there had been no sign of any mass till far away… except ice.  She had been at a loss of what to do or where to go. She had been far from her parents. She had screamed for her them but her cries had been muffled in the crushing sound of the glacier. Realizing she could do nothing to save herself, she had sat right there in the center, knees cradled up to her chin, looking like a miserable, helpless child. Looking straight in the mist of the glacier rising closer each minute, she had known her death was certain; alone and a quite one it would be. She had been ready to face the monsters waiting for her in the hands of fate. 
+
+    
+  
+ They say imagination is nothing but a world we create in our head with all that we have seen or heard or felt, blending some of our creativeness in it, giving it beauty and meaning…but they say a lot of things just for the sake of satisfying their own troubled minds. 
+Isabelle had a good imagination, and a very vivid one. She always memorized things by imagining them; moving and shifting them to the state we see them in. It always helped her a lot in understanding biological phenomena. She had closed her eyes tightly but had felt the cold ice wash over, burying her tiny frame like a gust of wind blown over a feather. The weight of ice had increased tenfold whenever she stirred; her movements gave way to more ice to fall down under its upper layer. She had grown stiff due to the cold, which luckily had helped her remain still.
+  Isabelle always wondered why our thoughts don’t have some effect on the world around us, apart from our practically applying them in life. If a tiny grain of sand could have attraction to the earth’s gravity, why couldn’t our thoughts have some likely effect too, even if they are a tiny seed in the depths of our mind? She had asked her father once about it. He hadn’t said anything, but had taken her to their back garden and had dug a small hole in the ground and placed a stone inside. He had then covered it with soil. 
+  He had then asked her whether it would take longer for a worm from under to reach it or someone standing on the top. She giving it a little thought, she had replied that of course, a worm could reach it before, because as it lived under the soil, it would be closer to the stone than someone standing on top of it, far away from it. He had smiled passionately to her and told her to imagine the stone as a thought, the worm as the mind and the soil on top of it as the physical forces around us. 
+  After she had got the picture clear in her mind, her father had explained to her that as the worm is closer to the stone lying almost in the depth, it would take a short time for the worm to reach it. Contrary to this, it would take longer for the person standing on top of the ground to reach the stone, as he will be on the surface, far from the depth it lies in. 
+  Same is the case with our thoughts, which are closer to our mind’s core than they are to the outer physical world. He had told her that the distance between the depth the stone is lying in and the top surface basically signifies the barrier between our thoughts and the outer world, the barrier being the aura whirling around us like a magical sheath, keeping the powers inside us from unleashing themselves and fencing the majority of them from reaching us. 
+ It’s this very aura that keeps the physical forces around us from reaching into our mind – those that try to enslave our free thoughts and dreams and make them strangers to us. They can reach that depth though, but just like the worm is closer and has a stronger attraction for the stone; our mind has a stronger hold of our thoughts, guarded by our aura, than the physical effects outside it. They can reach our thoughts, but it would require all their will and power, leaving them broken. As for our thoughts, they are an un-breakable glass; they are strong, but eventually, they break. And so, it was only her imagination and positive thinking that had kept her from falling in the hands of death. 
+ The mass of ice had been un-bearable for what little strength she had in her body, but she had kept her mind working like a machine…just without fuel. All she had to do was imagine. She thought of fire, loads and loads of it, surrounding her from everywhere, its heat flaring her senses. She had imagined herself in a pit full of fire, lightened up by its flames and its fast burning embers emanating from everywhere. The ice around and above hadn’t turned to fire or warmed all of a sudden, as if by magic. But she had had a funny feeling – other than the numbing coldness around her: she had felt warm inside. Images of flames had kept rising before her closed eyes, and she had somewhat found it soothing in the cold.
+  Isabelle had used her best not to shut off her mind completely, in the hope that her parents might find her, so that she may do something, scream or hit the ice or make some other kind of sign to let them know where she was. No matter how hard she had tried to keep her lungs breathing and her mind working non-stop, she just couldn’t outrun nature’s forces; when the mass of ice settled on top was more than she could bear, her insides became deadly numb. The last thing she saw was light, a lot of bright, white light blinding around her irises, and after that, she thought she might have gone to a place no one returned from . . . 
+ Isabelle hadn’t known how long it had been since she lay in what she had thought might be her deathbed. Her parents had gone looking for her the moment they had heard the loud noise of the icecap falling down. They had caught a glimpse of her overcoat stuck in between patches if ice on the ground, the place where she lay with tons of ice on top of her. As soon as the icecap had stopped its flow downwards, they had started clearing ice from the ground and had found Isabelle unconscious, with her legs curled up to her chest, her face blue as death. 
+ They had thought they had lost her, judging by her deathly paler and rigid body as if death prevailed over it, but she still had a pulse, though very meek one; and some warmth still remained in her. 
+
+    
+ 
+Death is an un-expected guest. For some it gives a sign of its arrival, for some it comes without a warning while for some, it comes but turns its back on them, sparing them a chance of wandering more in the valley of life . . . and it’s when it seems as if chances of survival are very bleak.
+Isabelle had lapsed into unconsciousness for a very long time. Her mother had wrapped her up in blankets and kept water bags under her arms to make her warm. After long last, the redness in her cheeks had returned and when she had re-gained her senses, her mother’s happiness knew no boundaries; seeing her daughter re-cover from a near death accident, blooming once again to life. Hugs and kisses were exchanged, and soon everything was back to normal.
+Soon, arrangements had been made for their safe return. The research into the Tundra Biome for the so-called hidden fossils had never been carried out. Isabelle hadn’t blamed herself for anything that had happened – like most of us do in bad times, making ourselves responsible for everything that happens when it’s actually fate and luck that set the chain of such events in motion. She believed in cause and effect, and that everything happens for a reason. 
+She had kept her feelings to herself; she hadn’t told her mother or father the impending doom that had gripped her heart when she had been buried under the cold icecap. She had simply crushed that feeling and started looking at the better side of things; she only felt lucky to escape from such a near death experience.
+  Now, standing face-to-face with the treasures of her mind: her dreams, she recalled the power of imagination and the roles it had played in her life. And it had once again knocked on her doorstep. She just didn’t know whether to let it in or not . . .
+
+*  *  *
+
+It was a beautiful yet strange sight altogether. There still remained some specks of light dancing around in the air from the sudden outburst of glow that had formed into images. It looked like a 3-D animation, as if all the things in the images were sticking out somehow.
+ It was these things in the images that Isabelle found most astonishing. They were exactly the things she saw in her dreams, except that they were black-and white. She wondered if they were black-and-white in her dreams too, though she always remembered them as colorful images. 
+She had read that most people do dream in colors, but some may not notice or remember colors in their dreams. Because color is such a natural part of our visual experience, we sometimes overlook it in our dreams. Another reason is poor memory recall and how our dreams fade so quickly from our minds that we may only be able to recall the dream in shades of gray. Dreams that are in black and white are an indication of a depressed or saddened mood.
+ She always remembered her dreams in colors, but the dreams in front of her were all black-and-white. Maybe it was time to find out what her dreams were really like.
+Whatever the images showed, Isabelle couldn’t make out what they were exactly. The visual content of dreams is highly phantasmagoric; that is, different locations and objects continuously blend into each other. The visuals, including locations, characters or people, objects or artifacts, are generally reflective of a person's memories and experiences, but often take on highly exaggerated and bizarre forms. It is the reason why the content of dreams is not clear when we try to remember it. It is all just a mixed up world of fantasy and color.
+There were no sounds, no sensations, just the eerie glow emanating from the shapes trying to blend themselves into order. Isabelle stepped closer to the 3-D like structures, and as she did, everything became clearer, more visible. She could clearly see what the content the dream she was standing before was showing. It was a dream she didn’t have often. But whenever she did, it made her so scared that she often woke up with clammy hands and forehead.
+  It was a dream that looked like a beautiful portrait from far, but standing right in front of it didn’t make it look all that lovely. It was a broken bridge, made of loosely tied wood planks from both sides to edges of a cliff, and a furious sea thousands of feet below it.  
+  Isabelle usually dreamt it the same way: that she is standing on the bridge and just when she starts walking in front to reach the other end, the bridge starts to crumble and shake, and the wood planks break under her feet, slowing falling off from both sides. All of a sudden, the whole bridges collapses into pieces. She never really made it to the sea beneath. She always woke up before that, feeling as if all of it was so real, and that she really had drowned. 
+  Isabelle had gephyrophobia: fear of bridges. Although phobias are mostly caused due to some real-life events that may or may not be consciously remembered, Isabelle had never experienced some event that may have been the reason for her to form gephyrophobia. She just found the whole idea of crossing some thin path on a considerable height dangerous – especially if there was tons of water beneath ready to gulp you up in a moment, taking the life right out of your lungs.
+Now, as she stared into her fear, she felt the same sensation of being washed over in the water all over again, just like she did after she woke up from the dream. She stood close enough to the image now that she almost felt like she was inside it. She slowly raised her hand to touch it but hesitated, afraid something might happen. But she was past taking risks. She put her hand on the scene. Nothing happened at first. The same cold and silence continued around her, but then she smelled something like . . . seawater. Before she could contemplate it, she was pulled right through the dream. It all happened in a millisecond, and she felt the whole air escape from her lungs – exactly what she felt when she stood on the bridge in her dream.
+
+*  *  *
+
+It was a whole new world out there on an open sea. Isabelle was still trying to replay what had happened just now, but she had better things to worry about than that; things like she could live in her dream. She knew exactly what she would find if she looked down to where she stood: the raging and deep sea. Resignation is the only remedy in fear . . . but only for those who can not face their fear. Isabelle started to look closely at her surroundings; taking in every bit of detail . . . it was her dream after all.
+ The bridge was hanging loosely from both ends tied to cliffs. Isabelle looked at her back and then front, but it was . . . blank, like nothing existed beyond the edges of the cliffs. Maybe it was just a dead space, she wondered. It looked as if it had been hanging there for years. Every time she stirred, it started to shake and tremble violently, as if it might fall any minute. Fungus had grown on its undersides. It seemed to be about 100 feet above or so and beneath it lay the raging sea.
+ Even from up above so high, Isabelle could clearly hear the rushing sound of the waves beneath, and the damp smell of seawater made her nauseatic. Nature exhibits it beauty and brutality at the same time. Looking down, Isabelle couldn’t help but forget her fear at once and take in the soothing blue and green of the ocean beneath, with rippling waves rising high above. 
+  It wasn’t the water or the depth of the sea that scared her – just the height from it did. She ignored the clammy feeling building up on her whole frame and held on firmly to the rope binding either side of the bridge. She didn’t even know where the other end might take her, or which side she should turn to, or whether she should move at all, as the bridge wouldn’t hold for long.
+Judging from where she stood, Isabelle found the end of the bridge closer to her right side than the one to her left. Therefore, she decided to take the path to the right.  Gripping firmly on the rope, she took one step, than two steps, and when she was sure the bridge wouldn’t give way all of a sudden, she became more firm in her steps. She didn’t rush either, afraid she might put too much and pressure on the already loose edges. 
+ It all felt so real . . . so concrete, but Isabelle knew it just a fragment of the thousands of fantasies that were only in her mind. She had seen nearly almost everything she thought existed in the confines of her mind come to life.  She wondered if she was still dreaming somehow, because the last thing she remembered doing was falling asleep on the couch in her study. 
+A dream within a dream, she thought. 
+
+*  *  *
+
+Isabelle soon got what she thought for: a dream within a dream.
+She stopped dead in her tracks. She could hear a distant sound of something . . . swirling, in the air. She looked closely in front of her but nothing seemed out of place. But when she looked back, her heart suddenly stopped beating.
+The ropes from the end of the bridge had opened and half of it had lost contact with the edge of the cliff it was tied to. Isabelle wandered if it  was because she put too much pressure on the bridge. She didn’t stir for a long time. Slowly, the bridge stopped moving and the ropes stayed tied from the far end where she stood. Just when she thought the danger had dissipated and she started walking again, suddenly all the loose ties opened and she felt the wood planks behind her fall one by one. 
+Just as she turned, the last of the ropes holding the bridge in place became loose and the bridge started shaking violently. She tried to remain her ground, but it was too late. The whole bridge tumbled from one side and gave way all at once. Isabelle hoped she was still dreaming all this, like she used to often at nights, and that she would wake up before she hit the cold waters beneath. But the bridge was collapsing right before her eyes – and she could do nothing. Finally, the wood planks under her feet became loose as the ropes binding them uncoiled and she was swept off her feet, deep into the abyss below.
+ As she was falling downwards, Isabelle tried hard to think of something concrete to emerge into reality by the power of her thought so she might hold onto it, but nothing happened. 
+  Guess I don’t have control over my dreams, she thought. 
+ She felt so light-weighed, like a falling feather. The sky above her seemed further and further apart, like a distant world fading away quickly. Suddenly, she didn’t care if she drowned. It would at least end this . . . game that had started. She just let go, letting gravity do the rest. The cold wind hit her face, and the sounds of the hungry waves ready to gulp her seemed closer. 
+ Just when she was close to hitting the water, she realized something she hadn’t before. She had faced her worst fear – and it didn’t feel all that bad. At least she could die with the comfort of knowing that she had fought the demons of her fear.  Just as the sea neared her, she closed her eyes. The smell of seawater grew strong. She wasn’t ready to see the end of her dream, no matter how much it puzzled her or the fact that she didn’t wake up before it all ended. One touch of the waves beneath, and soon it would all end. 
+ But it didn’t.
+
+*  *  *
+
+Isabelle felt the same cold, damp feeling wash over her again. She hadn’t fallen in the sea. She landed on hard floor. She was there again – in her dream land. 
+ She got up on her feet and looked down. Her clothes were completely dry, a sign that she hadn’t drowned after all. She turned to look at the pictures that were her dreams. She couldn’t believe it . . . the bridge dream wasn’t there anymore. 
+  Guess I did face my fears after all.
+ And maybe that was the reason the dream itself had just vanished, because she didn’t feel the fear she felt whenever she saw that dream – mainly because she faced that fear. The possibilities were great, but Isabelle didn’t want to think about them, afraid they might put her in some worse situation.
+ She heard the gurgling sounds coming from her stomach and realized how hungry she was. Her throat was parched too.  But she wasn’t about to give up just yet. She knew there was more to this world. And she was determined to find out.
+As she moved closer, all the dreams became more distinct, more visible. She wanted to visit each of them, to know what it would feel like in the places they might take her, but she thought better of it. All that glitters is not gold. They were dreams after all, things that take you to places far from reality, and the only thing she needed right now was a glimpse of some real aspect of this whole world she was stuck in. 
+One image did catch her eye, though. It was in the midst of all the glimpses of light just taking shape as she neared each of them. It was also one of her dreams, one she had quite often, and one that always left her puzzled at the end of the night. She had searched for a long time for its meaning, but all the interpretations she found didn’t satisfy her. She somehow felt that there was more to it. Maybe now was the time to find out.
+  Isabelle ignored the feeling of growing unease building up within her as she neared the image. The tiny globules of light dancing around it took full shape and Isabelle saw how real and intricate every detail in it looked like, just as it did when she dreamt it. It was a simple imagery if one looked closely – yet its meaning didn’t seem all that simple. 
+  There was a large chess board, floating in mid air, like in space, with darkness all around it. The board was lighted somehow, as if the light was coming from up above or down below, but it could be seen clearly. The most intriguing thing about it was what was on the board.
+  Instead of chess pieces, there were people, live humans, standing on it. And they weren’t just scattered here and there on the board. Each white and black tile had either a man or woman standing on it. They were all standing there patiently, not moving a limb, as if waiting for something. Each person standing on the black tiles spoke something, and then he/she disappeared, just like that, vanishing completely into thin air.
+  Everyone kept disappearing like that; everyone but the people standing on the white blocks. At the end, only a few remained, standing on the white tiles smiling to themselves. 
+Isabelle had tried hard to find some meaning out of it, to understand what the chess board represented and why it had people on it instead of chess pieces. She always ended up getting more confused. Whenever she had this dream, she always woke up feeling . . . hollow, like a shadow of the person that she once was. She never heard anything in her dream, just saw those standing on the black tiles disappear one by one, the shimmer of life draining from their eyes.
+But now, with the world of her dream right before her, all it would take was one step forward into it to make her understand what she hadn’t for so long.
+ She didn’t know if she could get out of the dream once she entered it, like she in the previous one. But she had to take the chance. Just as Isabelle inched closer, the hazy and distorted colors and shapes morphed into exactly the precise visuals as in her dream; and just as she raised her hand close to it, she was whooshed right into it.
+
+*  *  *
+
+Sometimes, the things that lie at the back of our lids make us open our eyes and see the light in front. But sometimes, these things can shut the windows of our minds forever, thus keeping our minds captured in the dark of ignorance.
+  Isabelle Aimery had never thought of what she might see at the other side of her dreams . . . but now that thought seemed far away, distant from where she was. When the same feeling of hollowness settled within her, she was sure she was in her dream; that she hadn’t fallen in some other lost and estranged place. And she was also sure that when she looked round her, she would find the same people standing on a chessboard. She could feel the unease building up within her, but didn’t have the strength to fight it. It was as if all her energy had been drained. 
+Maybe the dream world is channeling my energy or something, she thought.
+She had seen others standing on the chess board, but hadn’t thought she’d be one of them too. 
+You chose to be here, remember? There’s no turning back now. 
+ She was in the last, eighth column, first row from the right, last block . . . and it was white. As it was the end of the board, she could clearly see everyone – all the men and women in front of her, occupying all the black and white blocks. They were all standing so silently, patiently, looking in . . .
+What are they looking into?
+As Isabelle looked closely, she found the others staring intently into videos flashing before their eyes, playing fast and rapidly. They all looked hypnotized. She tried to focus on what the videos were showing. Her jaw dropped open at the sights before her.
+  She noticed that the videos played differently for everyone. Those who were standing on the white blocks had pleasant and happy flashbacks before them, of good times and memories, whereas the videos playing for those standing on the black tiles were dark, gloomy, of torture and killing. 
+  Isabelle wandered why there was no video playing before her. But as she concentrated hard, she could see there were flashbacks moving in front of her too, though in distorted blurs. 
+What are they? 
+My memories?
+My dreams? 
+Thinking they were just another of her mind’s fragments, she tried to see through the blurs on the flashbacks. Little by little, everything became clear. Isabelle gasped in shock. And then she realized that what these flashbacks were of. 
+  Just like the rest of the men and women standing near her, she was looking at all the good parts of her life; all the happy moments she had spent with her parents as a child, all the places and people that had inspired her and made her feel good, every good deed she had ever done – it was all there, rehashing rapidly right before her eyes. It was as if someone had made a recording of her life and was now playing it before her. 
+  It bought tears to her eyes, to see how happy she had once been with her parents, all the joy they had brought her, all the good times she had spent with them. She was happy then.
+Now where is that woman who once truly knew how to smile?
+  You abandoned her long ago, remember? Isolated her just to be in the confines of the  shadow you think is you!
+But she ignored the dark thoughts hovering in her mind. Right now, she needed to deal with this. 
+Why isn’t everyone doing or saying anything?
+She tried to call out to them, but no one seemed to hear her. She couldn’t even hear her own voice, like it had died within the silence all around – and then it started to happen, just like in her dream.
+ Every person standing on the black tiles started to disappear, vanishing completely into thin air. She bit back a tremble of fear just as the man standing before and the woman standing next to her vanished too. Nothing was left of them, not even a puff of smoke.
+ Now only a few people were left standing on the board, all on the white tiles. Isabelle tried her best to think of a meaning to all this, of anything that might explain why all this was happening the way it was, but she came up blank.
+  Start over again.  
+  A chess board, eight columns, eight rows, black and white tiles . . . but no chess pieces,only living humans.
+  Evil and good deeds, black and white . . .
+  Black and white! 
+  And then it struck her. Finally, it all made sense now.
+  White for good and black for evil – two colors signifying two simple aspects of nature.
+  Why hadn’t I thought of this before?
+  She had read it somewhere that each aspect of nature is often represented by a symbol or a color. Just like there were symbols for the four basic elements fire, air, earth and water, there were colors too. Just like blue stands for water; green for earth; yellow for fire and so on, black stood for evil, signifying a dark side just like evil itself; and similarly white stood for good, symbolizing purity and peace. Now it all made sense to her.
+Those standing on the white tiles were being shown the good side of their life and all the good deeds they had done while those on the black tiles were being shown the dark, sinister side of their life along with the evil they had done
+  Perhaps that’s why they disappeared, as a punishment for their sins, and the good ones stayed . . . but for what? To get a reward or something of that sort?
+  But she figured she would find out soon enough as she was also among the ones still standing. She couldn’t help but chuckle to herself.
+That means I’m one of the good guys.
+ She was busy thinking of her “reward” when suddenly the board started moving; shaking and tumbling from every side. Isabelle tried to look down, to see if it was joined with something or held on to some strong support, but she found herself unable to move from her place, as if some strong invisible hands held her there. 
+ The whole board began to shack violently. The others didn’t even seem to notice or feel anything. They all just stood their ground like statues. Isabelle tried desperately to free herself from whatever was restraining her movements. And then the board started to break, small cracks appeared in its centre, and started to grow outward, shattering the tiles around them. Isabelle wished this dream to end – and now seemed the perfect time for that to happen. 
+ She saw the front rows fall and the cracks deepening fast, inching closer to the edges until the last bit of the board was broken. Isabelle wandered if she would die, or get saved at the last minute like she was in her previous dream. Just then the last remains of the board broke off and it shattered to pieces, falling in the void beneath.
+The tile Isabelle stood on also separated from the rest of the board, but just before she was going to fall downward, she felt a kick start up her spine and then the whole world collapsed around her. All the people falling around her vanished, the blackness disappeared and her little flight landed her right where she had left – right before her dreams!
+
+*  *  *
+
+It felt like falling from total nothingness. Isabelle stood up and looked around her. She was back to where she had entered the dream; everything was the same around her. The other dreams moved and shifted around her in hazy colors. It was all exactly like she had left it – except that the dream of the chess board wasn’t there anymore, just like the previous one had disappeared. 
+Maybe because I finally understand what it meant.
+  She knew she couldn’t spend all her time stuck here . . .  in her dreamland. That made her wonder what time it was. She locked at her watch. It read 12:30 AM. It was the time around which she had fallen asleep. Was her there something wrong with her watch, or had time really stopped here?
+  She reminded herself that she had to keep moving. She wouldn’t waste more time. Finding a way out of this place was her only objective now. She took one last look at the dreams around her; dreams she wished she could explore, reach, see what they wanted to show her and where they wanted to take her, but she pushed away that longing and turned away. She didn’t know where she was going. It was all dark and . . . empty, like walking into a vacuum. She just wished she wouldn’t end up in some other portal, or fall into a hole or something . . . but then she heard it. A distant sound that sounded somewhat familiar to her. She could make out the soft and rhythmic melody of light violin strings playing somewhere very far that made their sound muffled. 
+  As she tried to strain her ears and her mind to concentrate more on the sound, it became more audible. And then suddenly, the first sparks of realization dawned on her face.
+It’s Beethoven’s Moonlight sonata . . . my favorite!
+  During her first year at the university, Isabelle had heard the name Beethoven from the mouth of one of her cryptology professors, Mr. Higgs. He had been teaching the class how to make codes and symbols using music. The musical instrument chosen, whatever it might be, like a violin for example, would make a small sound and the waves from that sound would be captured on a small humming device that was the creation of Mr. Higgs himself. He called it machine de chiffrement mélodie, French for ‘melody cipher machine’. 
+  To show the class how it worked, he had taken a violin and had played a small C major 5th scale, which was a hard and loud yet harmonic sound. As he pressed the bow on the violin strings for a long time, rows of words and then gradually sentences appeared on the monitor screen attached with the wave-capture device. He had then explained that the way to decipher a code made in such a way was to play the right tunes with the musical instrument it was created with. With the right notes played, the code would crack open itself.
+  Then he had played few other notes from different symphonies by some of the greatest composers of all time, including Mozart, Haydn and Beethoven. He had praised each one of them as he played parts of their symphonies. That was when Isabelle had heard the name Beethoven for the first time.
+She had wondered why the name wasn’t familiar to her, especially if it was mentioned with some of the masters of music. Ignorance was not something she liked. When she went home that night, she had done a lot of research and it didn’t take a long time for Ludwig Van Beethoven to inspire her, just like he did a million others all over the world, every time they laid eyes on his charismatic personality. 
+She had felt a soul-deep sympathy for him. A person not being able to hear his own music, music that he put all his heart and soul into. It struck her how he never gave up; despite the fact that he couldn’t hear the music he himself created.
+While going through his works, Isabelle had found the Moonlight sonata, listed as one of the most prolific creation ever made by using only a single piece of musical instrument, the piano. 
+ Most found it rather melancholy, its tune sounding gloomy and desolate to the ears. But Isabelle found it peaceful. Listening to it reminded her of the pains and struggles of its creator. It was like he spoke of his miseries through each notes of the sonata, telling the world of how it could never understand him, how it always made him dejected and how helpless he had been to not hear the art of his own hands. She found the sound of it soothing, keeping the demons in her mind silenced. 
+  Now, with that same sound reaching her ears and calming her restless mind, she wanted to just give it all up and sit there and listen to that soft hum play on its own.
+ But she thought better of it. 
+  You have to get out of here, she reminded herself. 
+She couldn’t see where the sound was coming from; it was dark and empty. 
+Follow the sound. 
+She took a dew steps back, but the sound seemed further. When she moved forward, it grew fainter. To her right was no luck either. Only one direction remained for her to go. Moving to her left, she strained her ears to hear if it was any clearer. That would mean she was closer to it – and she was. She started walking fast, following the sound, and then she started to run, as it became more loud and clearer. She was close. Then she stopped dead in her tracks. She didn’t know where she was. The same void and darkness surrounded her. But wherever she was, the sound seemed to be coming from somewhere here. It was the loudest here. 
+ Isabelle tried her best to concentrate on the sound, hoping that maybe somehow she could see where it was coming from. After all, anything she thought of was coming to life here. So maybe if she thought more about it, she could see its source . . . and she was right. 
+ She forced each neuron in her brain to just concentrate on the sound. And then all of a sudden, everything changed, and the emptiness was no more.  
+ 
+
+
+
+PART 4
+
+Magic, supernatural phenomena, miracles – these were things way out of Isabelle Aimery’s belief. All she believed in was the one true power, that of the powerful mind, which filled  one’s aura with the colors of its imaginations and ideas. That was what made things seem like ‘supernatural’ or ‘magical’. That had been her belief . . . until now.
+The sound of the Moonlight sonata was still resonating in the cold atmosphere around her, but everything else had changed. The whole emptiness and darkness had given rise to what Isabelle concluded were her thoughts. 
+ First, she couldn’t see what she was walking on; now the floor was of glass, tiles of colored glass which threw off glows of white. It looked like a nebula with many stars in it. The reds and greens and blues and yellows, all seemed to be blended inside the glass, as if on the other side of it. And then the tiny specks of white dots made it look all the more beautiful.
+  This is exactly the kind of floor I wanted for to be in my home.
+ Isabelle always wanted to make at least one of the rooms in her house to be made of a colored glass floor. And she often thought about it; imagining it in her mind how pretty it would look and what it be like to walk on it, like walking on top of a nebula.
+She walked slowly and carefully, all the while looking at how all the colors were intermingled in the glass, and cautious as well of it breaking. It didn’t even as much as show a tiny sign of a crack as she walked briskly on it. As she moved forward, every inch of the dark and void evaporated. Isabelle’s jaw dropped open with shock as she saw what was left behind. 
+ Unlike the images of her memories and dreams hanging in midair, there appeared holes, large whirling holes – and they were not empty. Each of them had images whirling in them too. They looked like portals into other dimensions, except that the dimensions seemed to be moving and shifting within them. 
+ Isabelle felt her head was going to explode. First the memories, then the dreams, and now this . . . Was she going crazy? Was she still asleep in her study on the couch and was dreaming all this? Had someone drugged her? But that was not possible; she lived alone. Had she taken some medication lately that might have lulled her into such a deep sleep that she was dreaming all this? 
+  More questions filled her mind she had no answers to. 
+But how come I would know I was dreaming while I was still asleep? 
+ She had barely thought of it when she realized it. 
+Lucid dreaming!
+  She was aware of the term lucid dreaming: dream awareness and control, referring to a dream in which the dreamer is aware of his/her dreaming state and can change things in the dream, meaning that he/she has control over the dream. It is considered a conscious process due to the dreamer’s control and ability of manipulating the imagery of the dream environment. 
+ But it still did not make sense. Assuming it was lucid dreaming after all, it would not give her access to her memories and to whatever these things were that had just appeared out of nowhere, swirling in strange holes which seemed to have no other end. Walking and thinking all the while, Isabelle reached one of the holes that were the first to appear. The moving and shifting imagery in it stopped whirling and formed clear shapes and figures, as if all it needed was her presence there to clear its fog. 
+  It was like a small oval portrait, depicting a sunset at seashore, with seagulls flying low under clouds streaked with long caramel rays of the setting sun. The foam rising from the waves splashed on the edges of the sea and came to rest on the sand. A small cliff was also visible by the seaside; its pointy rocks nestled upon one another. It was a peaceful sight, a sight Isabelle only thought of whenever she needed something to comfort her and give her inner peace. 
+But how can that be?
+Does this really mean I’m looking into one of my thoughts?
+  She knew it was too absurd; to actually see one’s own thoughts. But everything she had seen lately had been more than absurd. Suddenly, a single word came into her mind that she did not want to contemplate. 
+  Subconsciousness!
+ Dream, thoughts, and memories . . . the three basic elements of the mind’s subconscious state!
+ Does that mean I’m in my . . . mind?!
+  She couldn’t believe what she was thinking. She had surely gone insane.
+ But what other explanation is there? 
+ You saw your memories, then your dreams and now your thoughts?
+This IS your subconsciousness! You just don’t know yet because your consciousness is mixed with it. 
+ But then there was the whole coming-to-existence thing. Everything she thought of was coming to life before her on its own. How could she explain that?
+ It’s YOUR subconsciousness, remember? You have control over the world around you. It is part of your lucid dreaming, along with your conscious mind emerging into it!
+ Part of her wanted to believe what her mind was telling her, and part of her just wanted to let go and let reality deal with it. But she couldn’t just let go – not if it was her own subconsciousness she was stick in.
+  It was times like this, when she did not know what to do and where to go, that she thought of the view of the seaside and the setting sun. It would make her calm from the inside and help her think straight. Sometimes she wished she could just stay there forever, in that distant place of where only the sound of the seagulls and the waves caressed her mind and the only light was that from the setting sun washing the hazy clouds with the last of its rays. She wanted to feel the freedom of being somewhere she liked, somewhere she could let it all go for even a second, forget about the whole world will all its bitterness and let the peace and solitariness be her only companions. To walk on the wet sand with the waves hitting her feet, to sit there on the cliff and through rocks in the sea, with the cold sea breeze touching her face – that was what she longed for. And right now, she was glad that view, that thought was right before her, giving her that same peace and solitude as she stared deeply into it.
+  She willed herself to look away and not let her mind drift away to that comfort. She needed all her concentration here, on the present - on her unconsciousness.
+  It is often said that we can never fathom the depth of our thoughts or understand just how complicated they are . . . but now Isabelle wasn’t so sure about that. She had all her thoughts before her, moving and shifting just like she saw them in her mind’s eye. From her oldest and deepest to the most bizarre of cognitions – it was all there. 
+From the many portals around her, one specifically caught her eye. It was one of her thoughts about her parents. Their smiling faces looking up to her, before the last time they went to their archeological trip, was a memory as fresh in her mind as it could be; and a recurrent thought as well. Thinking of her parents as happy as they were made her happy too, since it was just their memory she could live on. Now, as she stared at her mother’s deep set brown eyes and her father’s warm smile, she could feel that old welt of pain and loss in her heart reopen. 
+  Be strong. You know you can not bring them back. 
+  She knew better than to cry over something she couldn’t change, though the hurt of being alone haunted her over and over again. Instead, she could make her parents proud by fulfilling the dreams they had for her bright future. 
+  As she buried the thought deep in her mind – as she always did, the portal also disappeared from before her. She remembered how she could control everything here. It was starting to make sense, now that she realized she was in her subconscioussness. She had always believed in the concept of our thoughts having some physical effect on the outside world, especially the ones we give rise to from our subconscious mind. Maybe that was the reason everything she thought of came real; her subconscioussness was emerging into reality from her consciousness.
+My God. I really am in my mind. 
+  She could hardly believe it herself, but it was the only logical explanation before her right now.
+  The one peculiar thing that Isabelle noticed about the portals was that not all of them were lighted. Some were glowing brightly, while some were dark and sinister, casting a gloomy look. For instance, the portal with her thought of her parents was glowing brightly in fact; it was the brightest of all. The one with her thought of the beach was also lighted. But there were other ones that were not only without a glow around them, but were in black-and-white colors. Isabelle focused on one particular one and found that it held one of her negative thoughts. Then she realized.
+White for positive and black for negative, meaning that the glowing and colorful portals hold my positive thinking while the dark ones hold my negative thinking.
+Interesting . . .
+ She didn’t want to think negatively, fearing it would become real since everything she thought of came into existence. She tried concentrating on all the positive thoughts. It wasn’t surprising for her to find most of the portals filled with thoughts that she was always lost in: codes. Many portals glowed with strange looking numbers and codes; shapes and dots forming into numbers, large angles dividing into smaller ones making decipherable texts – it was like a dictionary of codes. She was amazed at how she had filled her mind with the world of numbers and codes. 
+ Even the oldest ones that her father had taught her at a young age were there in her thoughts. Every code was breaking itself into decipherable text just the way she had thought about it in the distant past. Changing the places of digits, putting them in different orientations, using symbolical techniques to form words – it was just the way she thought while breaking a code. She was looking at her own mind work before her. 
+  Among all the green and black portals of codes moving here and there, Isabelle saw a bunch of her other thoughts too. One portal showed an old man with large glasses wearing an overcoat that had codes and mathematical formulae carved on it. Mr. Boz, her professor for quantum cryptography, was one of the influential people Isabelle had met during her lifetime. His real name was Emit Heep, but he had changed it to Charles Emit Dickens as he was a big fan of Charles Dickens. Dickens was nicknamed as ‘Boz’. Hence he nicknamed himself Boz as well.
+  Mr. Boz had been what might be called an ‘out of this world’ person. He was much devoted to his job. Codes and numbers were his whole world, as if his whole life depended on them. It was all he thought of. He had a theory that the whole universe was a complex piece of matter sitting on top of another more complex world of codes and numbers – codes we penny humans couldn’t understand . . . codes created by God.And he also believed that the stars were in fact the dots jumping off from the codes and formulae. Other students made fun of him, but Isabelle admired him a lot. She found his ‘encoded world’ theory quite interesting. And due to his love for cryptology and symbolism, he had codes carved onto his overcoat that we wore to the university every day, even during summer. 
+  Mr. Boz was an epileptic, but he never let his illness get in the way of his intelligence. He always tried to create genius from his infirmity, exclaiming how Edgar Allan Poe, the great master and creator of the gothic fiction genre, too suffered from epilepsy yet he always made genius and experiences from his illness in the form of his amazing poems and stories. It was something that Isabelle found intriguing of all, of how the mind can even create positive aspects out of something that would otherwise hinder its abilities.
+  Isabelle had been very close to him. He was like a mentor to her. But just like she had lost most of the good things in life, so did she loose Mr. Boz. 
+ Once, when he didn’t come to class, everyone got curious since he never was never absent and so punctual that during the 15 years he had been teaching at the university, he had never been late. When Isabelle had gone home that day, she wondered what might have happened to him, keeping in view his illness. Later that evening, his doctor called Isabelle that Mr. Boz had received a silent stroke and had passed away the previous night. 
+  It had left Isabelle broken. She had a heart deep connection with Mr. Boz, who was like a father to her. There were just a few people she cared about, and Mr. Boz was one of them. Loosing the only ones we care about is indeed a hard fate to suffer. 
+  Mr. Boz never married and so, he didn’t have a family to entrust his belongings to. He had left his will with his trusted friend who was also his doctor and had advised him to give it to Isabelle after his death since she was the only person he trusted and cared about the most. 
+  It turned out that Mr. Boz had already arranged for his house, a condo in the silent part of Paris city, to be sold and the money be donated to hospitals where people suffered from diseases but couldn’t afford to pay for their treatment. The little savings he had were entrusted solely to Isabelle. The only thing he had urged upon in his will and which Isabelle found surprising too since he never mentioned it to her, was that after his death, his body should be donated to a science research facility for research purposes. 
+  He had advised Isabelle to make sure his wish was fulfilled. She did as he had wanted her to, but it had been extremely hard and painful for her; watching them take away the person she once sat and shared good times with like a piece of toy they could experiment on. 
+  Time passed by. Another professor took Mr. Boz’s place. Rather than teaching, all he did was boast about his degrees and qualifications in cryptology and so, everyone loathed him and his proud nature. It was then that all the students and teachers realized the difference Mr. Boz made, his importance, and the fact that he wasn’t crazy after all; just a genius born out of craziness. When we loose something only then do we realize its importance – when it is too late. 
+Now, as Isabelle stood there watching that same old smile flicker on the face that once made her happy, she couldn’t help the tears bubbling in her eyes. Whenever she felt the urge of giving up on something, she always thought of Mr. Boz, of how he never gave up on his illness to take the better part of him. She thought about his humorous nature, the way he often shook his head in excitement whenever he had to solve a tricky question or deal with some complex code breaking. It helped her to move on. 
+She had saved his dear memory the best she could and always remembered him in her thoughts. That’s why he was there, in the portals of her thoughts. 
+ There were many other small portals as well with the thoughts Isabelle had for a short period of time, unlike the ones she had frequently which were in larger portals. One of the small portals glowed brightly with different paintings and sculptures made by famous artists. She guessed they were her thoughts of art. 
+  She loved art since she was a child. Anyone living in Paris – home to so many great artists, would understand the importance of art. The first place she had been to in Paris was Louvre, the greatest art museum in the world. She had spent the whole day, from morning to midnight, exploring every piece of art she laid eyes upon. Her parents had to drag her back to home. She could have spent eternity enjoying all the beautiful artwork and still not get enough. 
+ Some portals showed the places she wanted to visit and often thought of. One of them was Vatican City. Though it was not far away from France, she never quite got the chance to take out some time off and go to visit it. It was her favorite places on earth. For her, it was a whole different world of symbols, hidden passageways, codes and so much more that is otherwise invisible to the mind’s eye.  Places like the Pantheon, St. Peters Basilica, the Sistine Chapel – these were places she would kill to see even once. 
+  In one of the portals, she saw small mountainous valleys and an ancient and ruined tower standing at the edge of a cliff. 
+Languedoc.
+ It was another place she wished desperately to visit. 
+  Her parents, being archeologists, had been there once on one of their Cathar researches, travelling to country from country to discover the many hidden secrets of the long forgotten civilization. 
+ Languedoc, the home of people called Cathars, was the eastern province of France resting peacefully among the many folds of mountains and cliff. Isabelle found Cathar history the most intriguing of all – even more than Egyptian, Roman or Greek histories. The Cathars were an extremely intelligent race of people who discovered so many things the world doesn’t give them credit for; astrology, ptolomy, alchemy, mathematics, art – you name it; they were people who truly appreciated the metaphysics of the cosmos and tried to explain it in their own terms and methods, yet the knowledge deep in their hearts was buried with them. 
+ Majority of the Cathars were burnt alive on the stack during the Albigensian crusade due to refusal of accepting Christianity, others were killed mercilessly and the 500,000 population of this genius and creative race was erased from the face of the earth. 
+  The ruined castle that was depicted in the portal was The Château de Montségur, the last stronghold of the Cathars which was besieged in 1244, during the Albigensian crusade. To walk on the ground where the beings so diverse in their forms and who the world has forgotten now once walked upon, to touch the walls blood of the innocent and helpless had dried upon, to stand there and just feel the greatness that once roamed the air – it was the experience Isabelle wished to have. 
+Maybe someday she would get the chance. She just had to wait and let the course of time handle it all.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PART 5
+
+Memories, ideas, imaginations, dreams, thoughts – what are they? We call them the ‘aspects mind is made of’ . . . but are they really what we think they are? Aspects?
+Could they be feelings of the mind? Mechanisms the mind worked upon? Do we even fully understand them? 
+These were the questions bubbling up in Isabelle Aimery’s confused mind, questions anyone would think of once in a while. She could only think of one answer to all of them: miracles. These were what the memories, ideas, imaginations, dreams and thoughts were; miracles God planted in our minds. 
+And just as miracles can never be fully understood by mere mortal powers, these miracles can also never be fully comprehended.  
+Isabelle wandered how many others got the chance to actually see their mind, to witness all that went inside it – and she also wandered if they got out of it or were stuck there for God knew how long. 
+  But how did I get here in the first place? HOW can my subconsciousness slip into my consciousness?
+ But you just answered it, didn’t you? These are miracles, things we can’t understand completely. 
+She felt too tired to argue with her mind. She was hungry, her throat was parched dry and she felt extremely cold, for some strange reason.
+Guess the mind is cold from the inside.
+  She didn’t know how such bizarre things were coming to her. She didn’t know how much more she could take of this. She had to find a way out.
+Follow your instincts.
+She trusted her gut feelings since they always told her the right thing to do. But right now she was so spent out that there was no warmth or sensation left in her body – much less a gut feeling. It was like her subconsciousness was draining out all her energy. 
+However, the determination to survive this through to the end gave her strength to think properly.
+She willed herself to think of something . . . real, since this was just her un-aware state of mind and if some conscious and realistic aspect morphed into it, maybe it could be the reality itself. 
+  Real. Reality. Think of something real!!
+She thought of the people from work, her colleagues, even her teachers from college, bringing up images of each one of them. Images of all the faces she envisioned in her thoughts came bumping before her out of nowhere, jumping into one another so fast they hit her form every side. Passing through her frame like thin air, they all dispersed in the surrounding atmosphere, just as she stopped bringing up the thoughts in her mind.
+So this is how thoughts work, colliding into one another. 
+  She was amazed at how distorted these things come to the mind which arranges them in proper forms we call thoughts. 
+ Isabelle was clueless as to what to think. Why did it seem so hard now, when it was something so easy?
+You can do this. You’re a cryptologist. Thinking is what you do. Breaking codes, solving problems, math equations, remember? This is what you do. You can do it now as well. Don’t give up on yourself. 
+ There are times when we think of something too suddenly and at other times the thought comes slowly and dully. This was the experience Isabelle was having at the moment. One moment some thought came to her mind and the next it just disappeared, leaving blankness behind. Then the same old void washed over her, just like it did when she had been in one of her dream worlds.
+Focus on something real.
+ Gradually, realization dawning at her face, she finally came up with something concrete to focus upon. How could she not have thought of the most realistic thing such as this before: life. It was the only reality that existed in the cosmos, a reality that gave rise to other realistic aspects within it. Everything that moved, breathed, and felt was a sign of life, was real. 
+Isabelle could literally feel every neuron of her brain working at its best to focus on everyday things in her life: her home, her work and everything else that was in the living, real world . . . and in her consciousness. Images of her home, office, art collection, books – it all came flashing by her and just as before, passed through her like smoke. 
+What appeared next was something Isabelle had not expected. She didn’t think of it, so why it came in the material form, she had so idea. All the portals before her gave way and from the back there appeared a small portal that had a different kind of glow around it, a rather faded one, unlike the others. What it showed inside it was a thought Isabelle never really had quite often. It showed a small piece of paper that was filled with numbers and letters – a complex code. She had the feeling she had seen it before, but couldn’t remember when.
+ She strained herself to recall where she had seen the code before. Had she seen it in some book? On some of the many encrypted files that she de-encrypted every day at work? Had it been one of the code-and-cipher games that she played when she was young? She came up with nothing. Then finally, out of a distant memory coming crashing to her mind, she remembered.
+ Back in college, when Isabelle was doing her 2-year course in solving projects and cases on encrypted analogues from all over the world, she had come up with a case which involved a failed robbery of from the Louvre. 
+ A bunch of misfits living in the streets had tried to rob nearly half of the art collections from Louvre, including some of the greatest works of Leonardo Da Vinci, Michelangelo, Vincent Van Gogh, Rembrandt, Picasso and the like. It turned out that the robbers were not more than teenagers, only good with codes but not with planning something good enough to rob a place such as Louvre that is guarded 24/7 by special security systems in every nook and cranny and covered by security officers covering more than 700 square meters of one gallery. 
+ They communicated each day at midnight through local internet booths. The messages were in coded form, of course, mostly about the names, dates and artists of the paintings and artifacts they planned on stealing. The computers in the national police department detected any piece of data that was not in common text but in coded form, meaning that no matter from which part of the country the secretive communications were being carried out in codes, they would appear automatically in the de-encoders’ database. 
+ As soon as the computers had detected the codes appearing between multiple users, the source was traced but came up blank. Most of the codes were de-encrypted and the whole plan of the heist was revealed to the cryptographers at the cryptology department who had immediately informed it to the police. 
+ A team had been issued to the Louvre and the surrounding areas. The security at the museum had also been ready for what was thought to be a heist, but turned out to be a failed attempt at the part of the robbers. They didn’t even as much as pass through the laser detection points in the galleries and the alarm was sounded as soon as one of them stepped inside the vaults. They were caught, sentenced to spend a few months in jail, and hence the matter was hushed. No commotion was created and the museum’s dignity remained as spectacular as ever. 
+ Isabelle didn’t see anything peculiar in this case since it involved the same old techniques used by people who thought they could create a ‘secret means of communication’ which no one else understood and thus spy on whatever and whoever they wanted. All these kind of maniacs needed was a better view of the world to make them realize that there was more going on than just spying on others. Code language was just the stepping stone for a complex system of mind control they planned on forming later on. Secrecy is the first concern. 
+ Anyhow, after clearing the database of the code language the robbers has used for their silent communication, one of the cryptologists at the department had found an ‘anomaly’ in the clearing system on the de-encrypter machine. 
+ All the codes that were broken into simple text were either stored in the machine, in case some other situation appeared where they might be helpful in encrypting other codes, or were completely destroyed from the system due to their un-importance, seeing that they were nothing more than failed attempts of someone at creating their own code language. But from this code language that the robbers had used, one specific code was neither destroyed nor saved in fact, it was never deciphered. Either it was due to some fault in the encryption methods used by the computers or the program didn’t consider it worth looking at. However, it was not de-encrypted. 
+ Isabelle had wandered why none of the members at the department had paid much attention to it. Probably because it didn’t pose any serious issue regarding the heist, and since the matter was gotten over with and forgotten soon, no one might have bothered to check this anomaly. 
+Isabelle had spent hours trying to decipher that code, but she had come up with nothing. Finally, she had given it up and never thought much about it again. Now, as that same image of the codes and numbers appeared before her, she started to think it was not as much of an un-important piece of code as she had taken it to be. 
+  It was there in her subconsciousness, and it had come into her consciousness as she had thought of real things. Did it have something to do with reality? Why else would it be the only thing her mind was presenting her with when it was clear it wasn’t even one of her thoughts? Sure, it had been part of consciousness once, but that was so long ago she didn’t even realize her mind still held the thought of it. If it was her consciousness now, it was because of a reason. She just had to find out.
+
+*  *  *
+
+Stuck in the world of her thoughts, far from life, thirst and hunger pangs making her loose energy, without a single clue of how to get out of her mind – though it was as strange as it could be, Isabelle was left with no choice but to rely on whatever her mind was presenting her with. Besides, she had a long time to solve the mysterious code, considering the fact that she wasn’t getting out of her some time soon. 
+ The cryptologist within her was dying to work its mind on something that it did best: deciphering codes. Maybe, just maybe, the key to finding a way out was through this code, since it was what had come up in her consciousness. 
+It was a snapshot from the article she had read about the robbery. Having a set of numbers and dates on it, it looked like a mesh of an unperceivable language.
+
+אפּירליזהג׳ייטסיג'ייבשוואטימשוואטסוואטגיסחפּגוימ[XIX III I]
+
+When she had first seen the code, Isabelle had tried many de-encryption techniques to decipher, but she had come up with nothing. Sometimes the grids, bases on which a code is built, had some fault in them which ultimately led to wrong encryption of a code. Isabelle had tried as many grids as she could, hoping that maybe if she got the right grid, she could break the code. From the look of it, it didn’t look like a simple code, or else its grid would be easy to trace. 
+ Isabelle had plenty time therefore, she decided to start from scratch; to use as many methods and formulae as she could remember to crack this code open. She had a strong feeling it would lead her to something or somewhere. Anything other than this cold, dark and lonely place would be better. 
+ But then again, it was her own mind she thought of as dark and lonely.
+ The only thing she needed was to somehow enlarge the image of the thought in the portal which showed the code. It was too small for her to see properly. She wondered if she could empty the portal from the image and make it clearer. It was a far fetched idea, but she tried anyway. As Isabelle neared the portal, it took in her aura and glowed brightly – her thoughts, the subconscious, was draining her of her energy. She decided getting closer to it was not such a good idea anyway. She had to do something else to bring the image up close. 
+  Think. What can you do? This is your mind, remember? Think.
+  Think!
+That was it. She had to think. Anything she formed in her thoughts would come to real form, thus giving her the control over what existed. She looked very closely in the portal and concentrated in the image of the code in it. She formed a complete replica of it in her thought. Thinking of it – in a bigger size though, soon bought the exact same image before her in material form. She had actually created something, bought it in existence just by giving it a single thought. The amazing power a mind possesses. 
+
+*  *  *
+
+With Beethoven’s Moonlight Sonata still echoing, Isabelle felt far more relaxed to put her mind at the task of deciphering a code. The soft and melancholic melody kept her at bay with her confused state of mind. 
+As she started to take in the details of what she had created from her thoughts, the code image, the whole place around her turned into black with loads of ciphers, symbols, numbers, formulae, graphs and everything else that existed in the world of codes and cryptology. It looked like the inside of a working computer system, with all the greens jumping and colliding over one another in a black space. 
+ Guess my mind does want me to help figure this out. 
+  The writing, as she had noticed before, was Hebrew. She liked Hebrew – she found it beautiful. It was a tough language to learn. If the code was translated into English, the following sentence was obtained:-
+ 
+XWPERLEZHGIITSIJVQWIMQWSWCISHPCVEM
+[XIX III I]
+
+At first sight it looked like jumbled up words, but Isabelle had tried all the words her brain could muster. It all seemed so . . . naïve. The thing that struck her most was the use of two different languages in the cipher. The letters were in Hebrew, but the counting at the bottom was Roman numerals. Using two languages to create a code was somewhat of a pointless idea to her. Sure, codes can be created in any way possible – as long as they were confusing. But using separate grids in a single code was redundant. She had to look at the problem from a new direction and think.
+ She mentally made a list of all the simple and basic codes she could think of, in the hope that some might match with this code. She could then figure out how to break it. 
+ She first concentrated on the Roman numerals at the bottom. They seemed easy to decipher. The first set of numerals was 19, second was 3 and the third was 1. 
+  19.3.1.
+  The numbers could represent anything, considering the fact that they were real numbers, a universal set of all the numbers including integers, fractions, decimals, and so on. The spaces among the numbers seemed odd. It showed how weak the creators had been in forming such a code that contained spaces among its numbers. Codes always have joined numerical values in them. It makes it all the more confusing for the person to think that the joined numbers are not one but different parts in the code.  Only if the numbers had no spaces between them, they might form something else. 
+  What if there were no spaces after all? 
+Isabelle could easily eliminate them herself. In her mind, she joined all the Roman numerals. In the enlarged portal before her, the image changed as she had thought. The numerals joined themselves. It now appeared as:
+ 
+[XIXIIII]
+
+Now if they were translated into English, they formed 1931.
+  1931.
+  A year.
+ But a year of what?
+What was so important in that year that it was worth mentioning in the code? Of course, many events might have occurred in that space of time, but Isabelle couldn’t possibly know all of them. She wasn’t even born then. She only knew what she learned from books – and she didn’t think any of that would help her crack open a code. But the possibilities are always endless. She had to think outside the box, which meant she had to recall all she knew to be a part of that specific era. 
+  She didn’t know much, but she had to give it a try.
+  Ernest Lawrence invented the cyclotron in 1931 used to accelerate particles in study of nuclear physics
+ Harold Urey discovered heavy water, water that contains deuterium, a rare hydrogen isotope.
+ Kurt Gödel published his incompleteness theorem in 1931.
+ The first International Neurological Congress, attended by individuals from 42 countries was formed in Berne, Switzerland.
+ The first electric guitar was also invented in 1931 by George Beauchamp
+ László Bíró first exhibited his ballpoint pen, in Budapest.
+ Thomas Edison died 1931. 
+ Australia gained independence from Great Britain.
+ Empire State Building was completed in 1931 and stayed the world’s tallest building till 1974. 
+ Yellow River flood (Huang He flood) generally thought to be the deadliest natural disaster of historic times, occurred in 1931 which killed between 900,000-2,000,000 people in China
+First Dracula movie was released in 1931.
+  Why had the thieves chosen this specific date? They had to steal some precious piece of art from the museum. Then why do all the history talking in secret language? Maybe it had something to do with what they were to steal. It could be the year of death or birth of the artist whose painting they were going to steal . . . or better yet, it could be the year the painting itself was created in – it was as simple as that.
+Isabelle wondered why she hadn’t thought of such a simple thing before. Whatever it was the robbers had planned on stealing belonged to the year 1931, or was created in that specific era. In that case, the sentence about the numerals in the code might be the name of the artist or his painting – the supposedly stolen piece of art. 
+ It was the only thing that made sense. What else would be said through a code language than something to be stolen? No one would know of it if it was in some other language. It was a farfetched scheme, but wasn’t that what everyone did these days? Isabelle wondered.
+ She looked at the letters in the code again. It seemed as if they were encoded using a simple technique.  
+
+XWPERLEZHGIITSIJVQWIMQWSWCISHPCVEM
+AZRHUOHCKJLLXVLMYTZLPTZVZFLVKRFZHP
+
+All the types of ciphers and codes are classified into two main head categories: transition cipher and substitution cipher. In the former one, the letters of the message are simply rearranged following a straightforward system, effectively generating an anagram; whereas in the latter one, the alternative to transposition cipher consists of simply replacing each letter or groups of letter in the plaintext by another letter, symbol or number. Once it is determined which type of cipher it is, it becomes easier for the encoder to decipher the code. 
+From her experience, Isabelle knew this to be a substitution cipher. The continuous repetition of some letters, along with their disordered arrangement convinced her it was not a transition cipher. Mostly the strange and confusing impression that codes have is due their transposed or substituted nature. It makes it all the more hard to think of a way to decipher the code. 
+From what Isabelle had learned and experienced over the years she worked in the cryptology field, she had never come across such a code in which two different languages were used simultaneously. Although some would see it as a sign that showed how naïve its creators had been, Isabelle thought it made the code more difficult to encipher since one would have to use multiple languages and hence multiple techniques to break the ciphertext, making it all the more complicated.  
+ But no matter how complex this code was, she had to break it. It was her ticket to freedom – from her own mind!
+  Starting simple was always best. Sometimes, it’s the simple things that are the hardest of all. Isabelle had learned it the hard way. Since her parents passed away and her aunt not shortly after, she had no relation left in the family to support her. Being a successful and independent woman as she was is not an easy goal to achieve, especially with no family support and in a world where looks and money did the job. 
+Of course, when she had no family left, she had to provide for herself. And hence she had learned that instead of going into too many complications over what is to be and what is not to be, is it always better to ride with the chances life presents us with – even the risky ones. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+PART 6
+
+It is generally observed that when the body experiences hunger and thirst, and is exposed to weather that it normally doesn’t face for example cold, it looses its ability to function as well as it should – mainly because it is not getting the appropriate amount of nutrients and oxygen it needs for proper functioning. The muscles start to loose strength, hence resulting in reduced physical activity and the brain, being deprived of the essential components it needs for working, becomes tired and malfunctioned. It affects the ability to think properly as well. 
+This may not always be the case. Sometimes, the body itself has the power enough to stabilize itself even in such energy-deprived condition; it can harness the weakness growing inside of it and use it to prevent itself from slowing down completely. Today, we search for ways to do such wonders: to create such methods that could utilize the amount of destruction being born in the universe and harness it to create something useful, something with energy. 
+Yet ever so blinded we are in this aspect that acquires simple observation into our own complex selves. Little do we realize that this power resides deep within us, and when we learn to use it for our own good energy, only then can we learn to recycle the energies surrounding us. The math of the universe would definitely help us to calculate those energies and the extent to which we can restore them from their ruins. 
+ Order out of chaos. 
+ Isabelle Aimery was among the few lucky ones who had the capability to energize themselves despite falling weak. Even though she was all spent out, hunger and thirst forced her to give up and slump right there on the floor and most of all, she felt as cold as ever; yet she painstakingly willed herself to continue with whatever this madness was. She didn’t let the hunger pangs deprive her mind from thinking straight. She had taught herself to be strong even without an ounce of energy left in her body. 
+ The cold and damp atmosphere around also didn’t seem to be such a problem. No matter where she was or what she did, her mind always conjured up numbers and symbols, keeping her absorbed in a magical world of codes and formulae – it was indeed magical for her. 
+Even now, as she stood there tired and aching everywhere, she could clearly remember all the ciphers and anagrams she had learned over the years. Her mind brought up perfect images of all the code-breaking methods she had learned, small bits and pieces of texts and illustrations from books she had studied on cryptology and what she knew of the art of codes and symbols came bouncing up in her mind, making her find anything that might help break the code. But she didn’t bring up much complex thoughts.
+Think simple. Think straight. 
+Simple is always best.  
+ A simple code; a simple cipher. 
+
+XWPERLEZHGIITSIJVQWIMQWSWCISHPCVEM
+
+As Isabelle had predicted, if this was a substitution cipher, there was only one simple way of deciphering it: by using the Caesar cipher.
+The very first use of substitution cipher appears in Julius Caesar’s “Gallic Wars”. The great general sent secret messages to one of his commanders named Cicero, giving him specific military commands that he wished remained secret from the enemy troops.
+The Caesar cipher, also known as shift cipher, Cesar’s shift or Caesar’s code, is one of the simplest and widely used encryption techniques. It is a type of substitution cipher in which each letter in the plaintext is replaced or substituted with one fixed number of places down the alphabet. Like every other cipher, this one also follows a specific grid that is given to it by its creator.
+A grid is any basic rule on which a code is based. It can be a number, a letter or any other constant. For example, if the grid in Caesar cipher is 2, then each letter in the plaintext is replaced by another letter 2 places down the letter; A would become C, B would become D and so on. Once the constant of the grid is known, it becomes very simple to decipher a code made in this way.
+Now, the only problem Isabelle faced was that she did not know the grid. It could be any number. The world of numbers is infinite. She couldn’t possibly try putting each of them in the grid and break the code. The most common grid was 3, but then again, it could be anything. Still, she had to give it a try.
+Isabelle mentally arranged all the letters of the code by using a shift of 3. The portal before her that held the image of the code changed and the green digits replaced themselves with 3 letters next to them. The new code that formed appeared thus:
+
+AZRHUOHCKJLLXVLMYTZLPTZVZFLVKRFZHP
+
+It still made no sense. Isabelle tried breaking it up in pairs. If she divided all the letters into groups of threes, she would get eleven pairs. But to do that, one group would be the odd one out since it would be occupied by a fourth letter left at the end. 
+ 
+AZRH UOH CKJ LLX VLM YTZ LPT ZVZ FLV KRF ZHP
+
+Now this was a trigraph cipher, with 3 letters in each group. But it was uncrackable. No phrase in English could possibly consist of all the words containing only 3 letters in them. She tried shifting the places of the trigraphs instead. Maybe they were not supposed to be aligned in a single line.  
+Often times, the plaintext could be shifted into different locations on the same plane so as to render it unintelligible. The opposite could be done as well. If the characters of the cipher actually form one single phrase or are positioned together in a single row or column, they can be split up and moved into different places, thus making it look like each character of the code is different from the rest and stands independently.
+During one of her early cryptanalysis lectures, Isabelle had learned a few basic and simple encoding methods that involved the principle of shifts. If each letter in the plaintext that was to be encoded is shifted according to some selected number of places, either in rows or in columns, it could form an entirely different code. It would look as if some letters have been omitted to confuse the receiver when although it is one single message split up into parts scattered at different places. For example, if the word ‘the’ was to be encrypted, its letters would be simple relocated into rows or columns. It would look something like this:
+ T 
+H
+E
+
+Or, it could be arranged like this as well:
+ T  E 
+ H
+The alignment of the letters could be set in many different ways, so long as it was confusing. This is called the rail fence cipher. It simply follows one rule according to which alternate letters are written on separate upper and lower lines.  The sequence of letters on the upper line is then followed by the sequence on the lower line, to create the final encrypted message. The security of the cipher can be improved by choosing more than two lines to encrypt the message with.
+To decipher a code of such type, it is crucial to know how many lines were used to encrypt the message. Although this was one of the simple ways of encoding, it was not a substitution cipher. It was one of the transposition ciphers. Isabelle wondered how it could work out for this code – a substitution cipher. 
+ The world of codes is extensive, stretching beyond boundaries of logic and reason we can only begin to comprehend. The methods used to write a simple text into something entirely different are both simple and complex. 
+And if these methods are inter-mixed with one another, the result is even more complicated and diverse in form.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PART 7
+
+  Harmony. 
+  One of the leading and foremost aspect of all the correlation and balance in the entire universe. Every single particle of matter unites itself with other particles to form either simple or complex structures. This world, along with hundreds of others thriving beyond this one – all stand on the pillar of unison. This basic yet resilient rule is what life itself lives upon. It is also recognized as the general idea of what we perceive as combination, association, mixture, accord, grouping and so on. But the one idea that underpins this general rule is the same – everything stands with unison to something else. 
+ The origin of this rule has not been created by master minds such as Einstein or Newton or Galileo; it has not been made by engineers, architects or artists. And it has definitely not formed by itself. 
+  The moment life was breathed into every single material object in the universe; the very need of existence forced this rule to be born. And this rule which is quite simple in its terms has been followed ever since.
+  If it wasn’t for the millions of hot fuming gases floating about in space to unite with one another, there would be no such thing as the beautiful stars and galaxies that we know of today. If it wasn’t for the forces surrounding each planet to become as one strong pull, there would be no such thing as a complete, unified solar system; every planet would be scattered here and there with no proper arrangement. 
+ We define an atom as one of the simplest particle. Yet little do we see the immense harmony in its every bit and piece. If it wasn’t for atoms to combine with one another and form molecules which in turn combine to form compounds, there would be no water, the most basic compound; along with many other materials which are made up of different types of compounds. And finally, if there was not enough harmony in the particles of matter, there would be nothing, completely nothing whole in the universe.  Everything would dissipate. 
+ From the most ancient principles of alchemy that form the bases of modern day chemistry to the complex formulae in mathematics that cover every logic, from the tiniest grains of sand to the large oceans and seas, from the millions of waves passing through the air each passing second to the forces acting on every material object in the universe – there is harmony and accord. In other words, life’s diversity is nothing but the combination of its simpler aspects. 
+ The large numbers that beautify the laws of universe are nothing but mere combinations of smaller numbers.
+ Same is the case with cryptology, the art of numbers, formulae and symbols – together which unite to form codes and ciphers.
+
+*  *  *
+
+Isabelle Aimery was a very intelligent woman. From an early age, she had been fond of numbers and how they functioned. Math was her whole world. She always spent her time solving puzzles and doing word problems that were higher for her standard and age. She was the brains of her family. If someone asked the answer to some long division sum, Isabelle would be the first to answer it. Her father never had difficulty with bills or bank accounts. Isabelle would be the calculator for him. 
+She used to wonder why most people found math hard when it could be so much fun. It wasn’t the solution she found interesting, but the process of solution that intrigued her most of all. The logic in following specific detailed and step-by-step methods for solving mathematical questions was what fascinated her. She never for once got fed up if she didn’t get some answer right or misunderstood something. The world of numbers beautified itself all the more to her. 
+ After her parents died, Isabelle’s sole comfort and companion had been math. Indulging her mind in numbers and formulae kept her at bay. Digging deeper and deeper had brought her into the realm of cryptology. As soon as she had spent more and more time discovering the subject, the more she started liking it. Finally she had made the decision of adopting it as her profession. And it had been a successful decision indeed. 
+ It had taken her on a journey where she had met interesting people, seen amazing wonders, experienced many wonderful things and learned so much intriguing things. She had made friends as well as enemies. There are always a few stings on the way along with some flowers. The smart thing is to walk safely and not get hurt by the stings. Besides, it is just another of life’s aspects that where there are a few who see us with loving eyes, there are also those who see us with shadows of hatred lurking around them. 
+ Isabelle had performed amazing things in her field of work. She had cracked open codes that had taken effort and many smart minds a long time to break. She had been in the company of great personalities in honor of her work. She had inspired many around her and had the pleasure of being one herself. She had found happiness, mostly in her work, but also among the company of others. Grief and loneliness had also been her companions, but not so much as to deprive her of other good things in life. She found herself living well enough and independently, hence marriage was out of the question. She valued her freedom. All in all, she had been successful in the walk of life. 
+ But just like many great souls that have walked this earth and still do, Isabelle Aimery had made a mistake; and in something very simple.
+  
+*  *  *
+
+Isabelle looked closely into the portal before her with her thought containing the code. She was growing extremely weak by the passing of each second. She would kill for a nice hot bath and some food. All she wanted to do right was to give up this whole madness that had started God knows how and just return to her life – to her peaceful solitary life. But this was something she wanted to do. What she needed to do was to keep trying. 
+She looked across her shoulder at the portal that had her thought of the seaside, in the hope that looking at the calm and serene view would relax her blaring nerves. To her surprise, the rest of the portals had all been dimmed. She was completely surrounded by the greens and blacks of codes and numbers all around her. It was because she had been only thinking and concentrating about them from a long time that her subconscious only showed that now. 
+ The key to end this lay solely in one thing – the code. As far as Isabelle had predicted and hoped it to be true as well, if she broke the code, surely there would appear something or some way she could find a way out of her subconscious; the code was the only thing her mind had showed her when she had thought of reality and some way to get out of here.
+  She closed her tightly, took a deep and calm breath and then released all the pent up weakness that had taken place inside her. She wasn’t sure how much longer she could survive like this, especially in the bitter cold that engulfed her. Then again, in order to gain something, we must loose something. If she wanted her freedom back, she would have to bear this.
+ Isabelle had realized the mistake she had made. She had forgotten the basic principle she was taught since a child, a principle that appeared repeatedly in all subjects. 
+In the process of enciphering, often times more than one type of ciphers were used for the encryption of a single message. The purpose for this is not only to render the code all the more difficult to crack, but also for creating the original text more protective. If it followed one simple type of encryption method, it would be cracked quite easily, hence proving the code to be weak. On the other hand, if multiple types of techniques were used to encrypt a message, it would be hard to crack it and thus, such a code would prove to be strong. A strong code can take months or even years to be cracked; and once it is deciphered, it becomes vulnerable and can be read by anyone, thus making it a weak code again. This in turn can be enhanced in its complexity by using more sophisticated encryption methods to hide the secret message. 
+ As Isabelle thought more of the idea, it became clearer to her why the computers had failed to crack this code. It was because it was a combination of two different encryption ciphers. Computers are normally not programmed to de-encrypt such codes but in highly advanced institutions, they are fed with the information to detect the multiple ciphers being used in a code and hence convert it into plaintext. The computers which were given the code language the robbers had used might not have been so advanced so as to perform such a task. 
+ It seemed all the more clearer now. Such a basic principle of combination had been used, by people who might not even have known the value of what they had been creating, to make a code that seemed nearly uncrackable. Isabelle knew now exactly how to break the code. The enthusiasm that always rose within her, before she started to work at something new and complex, brought out the smart skills of a cryptologist that she was and suddenly she got all excited about what she might discover hidden in the code. She took the image on the code fresh in her mind and started again.
+ 
+XWPERLEZHGIITSIJVQWIMQWSXVISHPCVEM
+
+Looking at it from a whole new perspective, Isabelle knew that this code used both the transposition and substitution ciphers – better yet, she even knew which ones they were. All she had to do was think of arranging the ciphertext in her mind. Her subconscious would do the rest.
+Since the transposition cipher was more likely to appear before in this code, like it mostly did, Isabelle decided to go with the rail fence cipher, a type of transposition cipher. She mentally arranged all the letters in the code according to the rail fence and the figures before her shifted thus:
+
+ XPREHITIVWMWXIHCE
+ WELZGISJQIQSVSPVM
+
+If each letter was read from top to bottom, in the form of a rail fence, it would give the initial order of the letters. The use of transposition cipher was till here only. Now came the use of substitution cipher. Isabelle smiled to herself. The creators of the code had surely thought they could over-smart the people who are supposed to break codes. But if those people include a master mind such as Isabelle Aimery, they were surely mistaken. 
+Isabelle had spent a long time fiddling with codes and numbers. Now, after so much training and insight into the subject, she found code-breaking as easy as a child’s play, like something you could do at the back of your hand. Some of the most puzzling and difficult codes she had cracked at first sight. She never quite understood how, but her mind seemed to work like a crazy machine over-loaded just at the sight of these mischievous little figures that leave many others dumbfounded. 
+ Right now, her mind was screaming the next possibility. The type of substitution cipher used here was yet again the simplest one: the Caesar cipher. And yet again, the only problem she was facing was the grid – which could be anything. 
+ She had tried using the grid 3, but it had not worked. She looked closely at the letters, thinking which number could be applied; a number that could possibly be the key to the door behind which lay her escape. There were infinite numbers. Which one should she use? After 3, which is an odd number, the next number is 4, an even number. Isabelle had always liked working with even numbers. They are more common than odd numbers and besides, even is the same as positive, which is good. Therefore, she decided to go with 4.
+ Using the grid as 4, Isabelle shifted each letter 4 places down the letters. Since the Caesar cipher is always created by replacing each letter with a specific number of places next to it, therefore, while converting it to plaintext, the letter is replaced that same number of placed previous to it. In this way, the same letter that had been encoded would be obtained, in a reverse process. The first letter of the code was ‘X’. In the English alphabet, ‘T’ comes four places before ‘X’. Hence, the first letter of the code would be ‘T’. In this way Isabelle thought of each letter being replaced by the fourth letter previous to it. The portal changed the image it represented of the code in exactly the same way Isabelle had though about it. The new code that formed now appeared thus:
+
+  TLNADEPERSISTEDYA
+  SAHVCEOFMEMOROLRI
+
+If she looked closely at it, Isabelle recognized some words might form out of this. In the upper row of letters, she could clearly make out a half word ‘PERSISTE’
+  Persiste…
+That could be the starting of a word. It could be persisted, or persistence, or persisted, or persistency . . .
+Just as she was thinking about it, her eyes caught a glimpse of the letters ‘N’, ‘C’ and ‘E’, placed at different positions in the codes. The ‘N’ was in the upper row at the third place. The last two letters ‘c’ and ‘e’ were in the lower row, before of. 
+ Isabelle had spent a lot of her childhood solving puzzles. She was pretty good at them. She could easily recognize the words at first sight in their jumbled up positions. Now, looking at this code, she easily spotted the words the, of and memory, although the word memory appeared in such a way that the first letters memor were in the lower line while the last letter y was just above it, but it was close enough to guess that it formed the word memory. 
+ The arrangement was not right; she was sure of it. Maybe if the letters were arranged differently, they would form meaningful words. The best way, Isabelle knew, was to first omit all the letters, leaving behind only the ones that formed proper words. She imagined the code with the few letters left and suddenly, the image before her changed as well. The code now appeared as:
+
+  T N  EPERSISTE Y
+ H CEOFMEMOR  
+
+From the upper row, she picked T and E. From the lower row she picked H and combining these, the word the was formed. For simplicity, she omitted the from the above letters. What now remained was:
+
+  N  PERSISTE Y
+ CEOFMEMOR
+
+From this, the word persiste, from the upper row, combined with N and CE from below formed persistence. So now there were two words: the and persistence. As before, Isabelle removed the letters that had made words and the remaining code now consisted of:
+Y
+  OFMEMOR
+
+Finally, the words of and memory remained. 
+The. 
+Persistence.
+Of.
+Memory.
+The persistence of memory.
+  Isabelle wondered what that could mean. Of course, It could be anything. But Isabelle had to think in terms of art. She had hypothesized that whatever was in the code, it had to be related to something with artistic background. The code itself was used by the robbers with respect to their failed heist. In her mind’s eye, Isabelle brought the image of the code again, thinking what other words could be made. 
+
+TLNADEPERSISTEDYA
+SAHVCEOFMEMOROLRI
+Since she had already made out half of the words, she now removed the phrase the persistence of memory from the code. What remained now was: 
+
+ L ADD A
+  SA V  OLRI
+
+Isabelle concentrated hard on the image before her. And all of a sudden, the words were clear before her eyes. The answer to this whole puzzle had been in front of her all along.
+ Salvador Dali.
+Arranging the letters from the above lines, the name Salvador Dali was what formed. Though the letters were on top of or below each other, putting them into the right order gave the name. 
+
+ L AD 
+ SA V  OR
+
+Isabelle arranged the letters in order and she got Salvador. Thus omitting this from the code above, she simple got the remainder as Dali. 
+  The persistence of memory.
+  Salvador Dali.
+And then she remembers the year 1931 that was written under the code in Roman numerals. So now she had deciphered the whole code. 
+  The persistence of memory.
+  Salvador Dali.
+  1931.
+ She had cracked open the code. Its secret message was right before her – and yet she had no idea what it meant. She could sense every wheel of her mind working fast, recalling every bit of memory in the hope that the name Salvador Dali might come up. It seemed familiar to her. Maybe she had seen it written somewhere? Or maybe someone might have mentioned to it. However, she strongly felt like she was familiar to her. 
+  And then those vague sparks of realization started to dawn on her face – and she remembered. 
+
+
+
+
+
+
+
+PART 8
+
+Isabelle had grown up knowing nothing but numbers and codes. During all her life, her parents had been very supportive to her about the type of career she wanted to choose. Both her father and mother were archeologists. They had met one another in Egypt, during one of their archeological research. They both came separately with their research teams, but they were to work together. The shared many interests, the major one being archeology itself. Over time, they had formed a strong friendship. Then one day, out of the blue, her father had proposed her mother near the very edge of the Giza pyramid, the sight of their research. She had agreed the very moment. 
+ After one year of marriage, they had a beautiful daughter who was named Isabelle, which means ‘God’s promise’. She had grown up to be a smart, obedient and kind person. The first thing she had learned was numbers. She could do math better than anything. She drew numbers and formulae on walls in her room. She solved puzzles and word problems instead of reading bedtime stories before going to bed. 
+ When her parents had discovered her love for math, they did all their best to bring the most out of her. They never told her to diverge her interests into something else. They brought her all sorts of books and puzzle games that would help enhance her skills. When it was time for her to decide her career, she had chosen cryptology without giving it a second thought. It involved both mathematical techniques as well as the art of codes and symbols. Her parents had agreed with her decision with no hesitation. They wanted the best future for their daughter – and if that meant her breaking codes, then so be it. 
+ Isabelle’s parents were always very co-operative and understanding, but if there was anything they made her put her interests in, it was art. Though her mother was not so much fond of it, her father surely was. Just like the world of numbers and codes meant everything to Isabelle, the world of art meant everything to her father. He adored art. He had given their home a nice and smooth artistic touch. He found art in everything. From the ancient fossils he studied to the starts in the night sky – he found traces of art everywhere. He always told Isabelle to look and observe deeply the patterns of nature that rule the universe and even the anatomy of the human body; it is arranged in the most artistic and creative yet efficient way imaginable. 
+ He used to show her paintings from some of the famous artists that ever walked this earth. The whole idea of a mind’s ability to form creative images just from imagination thrilled him. Once, when he had been showing Isabelle his collection of paintings and sketches, she had asked him who his famous artist was. He had replied, ‘God’.
+ Growing up surrounded by fossils and old artifacts discovered from years old ruins, Isabelle had not really liked archeology. But growing up with a father who was a lover of art was surely exciting and fun. Isabelle used to go with her father to the Louvre Museum every Friday. He liked to look at all the marvelous art pieces and statues erected so magnificently. The whole structure of the building, its painted roofs, ornately made walls – he just couldn’t get enough of it. Isabelle also liked such things – well, how couldn’t she? Her father always kept her engaged in some art-related work. He was an excellent painter himself. He had made her take art classes, and she had done so willingly. 
+  Now, standing in her subconscious mind, with her body nearly frozen from cold, Isabelle realized that all the effort her father had put into introducing her to the world of art had not been in vain. Even now, after all these years, it was due to his love and enthusiasm for art that she might be able to escape from her entrapment – which was her own mind. 
+  Among the many paintings his father had shown her, he had specifically pointed out one painting that was one of his favorite . . . and it was none other than The Persistence of Memory (1931) by the great artist of the 20th century, Salvador Dali.
+ Isabelle’s father had tried to explain to her the meaning of the painting, but she had been too young to understand. He had promised her that he would explain later, when she was old enough. But sadly, he couldn’t live long enough to fulfill his promise. Later in life, Isabelle had never given up her love for art. She had did some research herself about the painting and like her father, it had become one of her favorites as well. 
+ Salvador Domingo Felipe Jacinto Dalí i Domènech, short for Salvador Dali, was a renowned Spanish surrealist. Creator of the Cubism, Dada and Surrealist movements, Dali was best known for his exceptionally striking and bizarre surrealist artwork. He claimed his ancestors descended from the Moors; hence he attributed his artistic passion to a self-styled Arab lineage. 
+ Dali was highly imaginative and creative. What makes him exceptional from other reserved artists of his time was his unusual and grandiose behavior. His eccentric manners drew more public attention than his artwork did. This often led to the dismay of those who held his art in high esteem.
+ He had a personality that was peculiar yet fascinating at the same time. The art he created simply reflected his genius. Bringing the imagery of the dream world and the subconscious mind into amazing art was Dali’s greatest specialty. Whenever he signed autographs for fans, he always kept their pens. In an art exhibition, he arrived for his lecture wearing a deep-sea diving suit and helmet; he had nearly suffocated. When questioned, he simply commented, "I just wanted to show that I was 'plunging deeply' into the human mind."
+  No matter what his actions were, they never hindered the genius within him to express itself.
+The Persistence of Memory is one of Salvador Dali’s most famous works. He produced over 1,500 paintings in his career. However, The Persistence of Memory holds a specific beautiful peculiarity in its own way. 
+ Salvador Dali often called his paintings ‘hand-painted dream photographs’; and The Persistence of Memory can surely be thought of as such. The painting’s original title is ‘La Persistencia de la Memoria’. It depicts a landscape of a sandy beach, as Dali often used in many of his paintings; most of the imageries he used is his art were the ones he had been exposed to as a child. There is a fetus-like head lying in the centre, like a fish washed ashore and now in the process of decaying after gasping for air. There are four watches in the painting, three of which appear to be molten, as if they were made out of cheese. The fourth watch, which is orange in colour – the only one which is still intact in its structure, is placed on a desk-like object on the left. A great many ants are seen on this watch, spreading on top of it. 
+This painting earned Dali world-wide recognition at the age of 27. Its meaning, which is both complex and diverse in its form, has been under debate since the time of its creation. When Isabelle had been doing her research on it, she had found a number of interpretations for it made over the years. Even to this day, new theories are being made to clear its meaning. 
+Perhaps the most widely accepted interpretation about this painting, through the use of its complex symbolism, suggests Einstein’s theory of relativity that time is relative and not fixed. The drooping watches in the painting possibly point out the irrelevance of time during sleep. In other words, when we are asleep, or not conscious, the time does not persist, memories do. Often times, this distortion of time can be easily observed by just about anyone who ever attempted to think about their own dreams. Thinking of our dreams is the enigma of the dream state in the first place. 
+ Where am I? How did I get here? Am I really dreaming? These are the most common possibilities a mind can trigger on itself during its dream state. Dali's artistic genius lies in his ability to create ideas that lie on the edge between being disturbing and arousing curiosity. Instead of analyzing the painting as a whole to interpret the logic behind its detail, if each of its separate detail is analysed first, it would be lot easier to understand the concept Dali tried to explain. 
+ Often times, the best ideas come from the most bizarre inspirations. Dali’s idea of creating such a master piece, that would leave the world at a loss to understand it for years to come, was inspired by the melting Camembert cheese left for too long of a period of time on the table on a warm sunny day. It was the time when the genius within wondered the deeper psychoanalytical values of the reality of the mind as we understand them. The melting clocks in the paintings are nothing more than ideas influenced by the melting Camembert cheese. 
+ Any how, whatever the meaning a mind can formulate behind the artistic genius expressed in the form of the world’s most recognizable surrealist artwork, the one true fact about it is that the painting is nothing more than a collection of ideas that are to do with the interpretation of dreams, perception of reality, time, birth and death. 
+ When Isabelle had seen the painting herself, she had magnified every inch of it to take in all its intricate details. One peculiarity that she had noticed was the way the artist had used light to express ideas of his painting. There are two tiny rocks sitting in the sand on the beach in the background. The rock to the left is in the shadow, and the one to the right is lit. The remaining components of the painting which include the three melted clocks, the ants on the orange watch and the fetus-like head lying in the centre of the ground – all lie in the shade. 
+Isabelle’s father had explained her once that in art, there are multiple ways of differentiating the types of ideas and thoughts, depending on the artist’s creativity. Some artists use variant sizes of certain objects in their paintings to represent their positive or negative ideas; some use bright or dull colours to represent the respective types of ideas, signifying bright for positive feelings/ideas and dull for negative ones. This is probably the most widely used method in art of expressing different forms of ideas and feelings. But Salvador Dali had introduced a new method in this field of art as well. Dali had used the aspects of light to differentiate between his ideas. 
+At that time, Isabelle had not realized what was so great in that. To her, it was simply a method of making specific portions of a painting shaded and leaving the rest as they were; just another of the many art techniques. But later, when she had given it more thought, the idea of creating such a method did seem intriguing to her.
+ As she stood there now, in the realm of her subconscious mind, she started to comprehend this one bit of peculiarity in the painting. She knew it had something to do with dreams and ideas – the basic logical stuff the mind is made of. 
+ Yet is it as simple as we think it is? Just logic? To this day, with such advanced technology and vast scientific knowledge, the process of how memory works has still not been understood – except that it consists of four main types.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PART 9
+
+Isabelle Aimery, a successful Parisian cryptologist, stood in her subconscious mind. She had explored her whole mind. She had seen her ideas, dreams and thoughts. After wondering helplessly in the layers of her subconsciousness, she had found something that might help her to go back to reality. Among her thoughts, she had found a code. It was something she had given little thought to – but it was there, among the bits and pieces of everything she ever thought of. She was s smart cryptologist; she was good at what she did and hence, she had cracked open the code without much difficulty.
+The secret message she had found hidden in the code was the name of a very famous painting made by one of the greatest artists who ever lived. The year of its completion was also mentioned in the code. Isabelle knew the painting. She had seen it as a young child. Her father was a big lover of art, and it was he who had shown her the painting for her first time.
+At that time, she had been unable to understand the meaning of the painting, but later in life she had studied it herself and gotten to understand it better. It was now one of her favourite pieces of art. She thought it was more beautiful and creative than the famous Mona Lisa created by another master mind, Leonardo Da Vinci.
+Although Isabelle understood most of the things depicted in the painting, there was still one thing that troubled her. She didn’t understand why the artist had used light to express ideas – as was the general view proposed by most art historians. As depicted in the painting, the mountains and water in the background are lit by sunlight, whereas the objects seen in the front: the ants, watches and the head in the middle –all are in the shade.
+Isabelle knew that the artist, Salvador Dali, was not just an artist – he was also a philosopher. He never truly explained the meaning behind his artwork. To think like the way he did, to perceive reality in the way he did and all-in-all, to see the world in the eyes of Dali – it would be a naïve thing to do. Sure, every mind is exceptional in its own way and is a genius of itself. But molding its mentality according to someone else’s genius is something a mind can not do well. Every mind has its own individuality as far as its creativity and genius is concerned.
+Isabelle wondered if this had something to do with positivity and negativity. She did not let her mind think of anything positive or negative, afraid it might actually happen; since all the thought of in her consciousness would emerge out into her subconsciousness, thus taking material form.
+Could she really return to reality if it meant figuring out the meaning of this painting’s peculiar aspect of light and dark? Was it that simple? But then she reminded herself.
+Sometimes, the simplest things are the hardest of all
+But if it really did mean getting out of here – back to her life, then she would do whatever was needed to be done – even if that meant understanding the meaning of an old painting!
+
+*  *  *
+
+Isabelle Aimery was not a very philosophical person; she liked things simple and to the point. Life is a big puzzle itself. Why complicate it more by mere mortal thoughts and perspectives? Sure, deep thinking is necessary, because in a sense, it is what the mind thrives upon. But sometimes, that deep thinking becomes deeper and deeper – until it forms a large pit, from which it gets hard to find a way out. The power of thought is like soil; if one digs deeper into it, it will get deeper and finally form an unfathomable pit. What is being searched for will not get close; it will just keep getting further and further away from reach.
+Answers to some things are right at the top of the questions themselves. Digging deeper into the questions and adding more doubts into it will just hinder their surface, hence plunging the answers deeper as they are dug into.
+Same is the case with a mind’s thoughts and ideas. Plunging deeper into their mesmerizing world will not bring us close to the end; it will just open more doors for us. Discovering what lies behind those doors may make us trapped into that world of thoughts – and we may possibly never get out.
+ Now, after discovering each and every realm of her mind – her thoughts, memories, dreams and ideas, Isabelle realized what a foolish mistake she had made. She had no need whatsoever to see all that she had so far. There had been no need for her to open all the doors or look into every portal. It had been her want, not her need, to discover every nook and cranny of her subconscious. She could be stuck in it till eternity. Who knew? There was no one to save her. Her only companion was her own mind. 
+But then again, it was her mind. She could make it do whatever she wanted it to do. Besides, every mortal is a master of its own mind. If there is one thing no one can take away from a mortal are the jewels of his mind – his thoughts, ideas, memories, dreams and feelings.
+It is said that the human mind has access to only some of its powers, and that it uses only half of those powers when they are called upon. But to Isabelle Aimery, who had her thoughts and ideas as her sole companions from a long time now, knew that to be the most bizarre thing ever said in the history of time. She had many times heard people say that when we think, we are actually using less than half of our brain. Some even go as far as to say that Albert Einstein used only 10% of his brain. But it is just out of their naïve and ignorant natures that they say such things. They are ignorant of the profound power of the human mind. 
+ Even while thinking and remembering something simple, like dates or names, the mind is correlating its powers from different dimensions and it is the combined result of these powers: memory, cognition, dreaming and ideas, that we perform the specific task at hand. 
+ Sometimes, we have a certain memory buried deep in the chambers of our mind, or a specific type of feeling we might have experienced in the past that may also be stored in our memory, but we might not be aware that we possess that memory. However, the mind is not so ignorant of what it possesses. From somewhere deep down, where that memory is buried, the mind has the ability to bring it up to consciousness – and hence we realize. We remember. 
+As a child, when Isabelle’s father had showed her The Persistence of Memory for the first time, he had interpreted to her some tiny details, but after seeing the confused look on her face, he had given up. He had saved the explanation for future time. Unfortunately, life had different plans for him. He passed away that same year, and hence Isabelle could never really understand what her father had been trying to tell her.
+Now, the faintest flickers of the memories of that time returned to her. Those memories were in the phase when something from the mind’s subconscious state is being rehashed to its consciousness.
+After a while, the whole ground beneath her feet started to shake violently. The images of the code that she had broken earlier dissipated and fell away all of a sudden, looking like falling grains of sand. The black and green illumination that surrounded her also faded into thin air, giving way to a light orange glow of light all around. The sound of Beethoven’s Moonlight sonata, that had still been playing, stopped abruptly and a dead silence fell all around. The darkness that covered the whole space also faded. It looked like the time when the morning sun slowly replaces the darkness of the night.And then a single image flashed before Isabelle . . . that of her father showing her the painting for the first time. 
+
+*  *  *
+
+It was raining heavily outside. The Aimerys had been back from Rome after one of their archeological trips. Isabelle’s father had bought some ancient artifacts from a shop in the streets of Rome. It was a round pot with Homer’s depiction of the Trojan wars. While keeping it safe in a chest, Isabelle found some rusted pages with upturned corners. She had unfolded them – they were painting. Colourful and artistic, each one was a beauty in itself. Some of them her father had made himself, while the rest were copies of a few famous artworks from all over the world. Isabelle had started looking at them when her father had come and showed them to her himself, telling each one’s names and of the artists who painted them.
+Isabelle still remembered as her father uttered the words, naming each painting one by one. Until now, she didn’t know she still held that memory. Her father named each one so clearly, she had wondered if she could ever remember so many names at once. 
+      . . . The Annunciation by Leonardo da Vinci.
+ The Last Supper by Leonardo da Vinci.
+The Battle of Anghiari by Leonardo da Vinci.
+Et in Arcadia ego by Nicolas Poussin.
+       The Night Watch by Rembrandt.
+      The Persistence of Memory by Salvador Dali.
+  Isabelle had liked Da Vinci’s paintings the most. But when her father had showed her the last painting, Salvador Dali’s The Persistence of Memory, she had claimed that she liked it the best.
+  Her father had given her some introduction regarding Salvador Dali. She had found his moustache the most amusing thing of all. Her father had told her how the artist was often times asked to paint with his moustache. However, it was this flamboyant moustache style that made him somewhat of a cultural icon for the bizarre and surreal.
+ In the image, Isabelle, aged 10 at that time, sat beside her father, looking curiously at the painting with eyes wide open. Though she saw her father’s lips were moving, she could not hear what he was saying. But from her memory, she remembered all her father had told her. Amazed, she still couldn’t fathom the fact that the memory of something she hadn’t even understood or paid much attention to was still in her mind. She heard her father’s tender voice as if he was speaking to her now.
+“Look closely here, Isabelle. Observe carefully how the artist has kept the mountains and water in the background lit by sunshine, but the clocks and this head that you see here appear somewhat dark, don’t you think? Do you know why this difference is? The artist has tried to keep a boundary line between the mind’s two states: the conscious and subconscious, by representing the distorted or soft images in the shade as a sign that they are the subconscious images. In the same way, the images at the back which are lit, they are the hard images representing consciousness. So you see, in a sense, the soft objects that appear to be melting signify uncertainty whereas the hard objects that are firm in shape signify certainty. Just like at first sight, the viewer’s eye falls directly upon the objects in the front, on the subconscious; and after that on the background, the consciousness, which is lit. With these different lit and dark sides of the painting, the idea that Dali wanted to express is that the world of dreams and thoughts, which is in the subconscious, is more distinct than our aware state, the consciousness. And keeping this in view, Dali also suggests here that during the unconscious state, only time stops, our memories do not.”
+  After experiencing this herself, Isabelle fully understood now what her father had told her. It actually made more sense to her than anything else – she had witnessed it herself, after all. 
+ So that is why my watch stopped working – because time has stopped in my subconscious. 
+ So far, she had recalled most of her memories. Even the ones she had seen earlier seemed to be persistence. 
+  So in a sense, I have practically proved Dali’s supposition.
+ Apart from the memories, Isabelle thought, her whole subconsciousness – including her thoughts, ideas and dreams, were persistent. 
+ The moment Isabelle knew what she had done; she prepared herself for the worst. 
+ She had thought.
+ In the blink of an eye, the image before her broke into pieces like shards of glass. The silence around her intensified so much that it made a certain pointy sound. The portals that held her thoughts re-appeared. The glows around them dimmed and then gradually faded. The opening of each closed and the images broke within them. Their round shapes were lost and they turned into thick, black streaks of black, like large black snakes that began to swirl round in the air. They looked like dark shadows looming overhead. Isabelle was afraid of shadows . . . and now, her own thoughts had turned into her darkest fears. 
+She stared wide-eyed as the shadowy black streaks started to whirl and spin above her – and then they came after her. 
+
+
+
+
+
+
+
+PART 10
+
+The whole world around Isabelle was falling apart. Her subconscious was dissolving into nothingness, and she could do nothing to stop it. What once had been her happiest and calm thoughts were now her worst fears. And they were coming after her. 
+As she looked closely into the snake-like shadows looming overhead, she saw they changed their direction of movement and suddenly, all of them turned towards her. It sent a trickle of fear through her spine. The adrenaline surged through her whole frame and instantly she could feel her racing heart inside her throat. The blood supply to her brain increased in speed and the instinct of fight or flight took position. 
+The reflex was tremendous: without thinking of nothing else, Isabelle ran. She ran like she had never did before in her whole life. The obnoxious feeling setting in the pit of her stomach of knowing there were dark creepy shadows chasing her made her legs move in an abnormal speed. 
+ She had no idea where to go, where to hide. She could see no way of defending herself; she just kept running. But for how long would she be able get away? She knew she had to face her fears . . . or else, prepare herself for the worst to come.
+As she ran on and on, she saw the large canvas-sized images she had seen earlier of her memories nearly falling. They too were crumbling down into pieces. She saw them fall into pits of nothingness; and the whole space was erasing where the images had been. She wondered if she could ever experience those ideas again, considering the fact that they were almost destroyed now.
+ She turned to look across her shoulder. She was nearly blinded by fear as she saw how fast and close the long black streaks of shadows were turning in on her. She felt like they would swallow her any minute. Her whole mind was crumbling down around her. She wondered what would happen to all her dreams. Would they destroy like this too? 
+ She was still thinking about this when she passed the vault-like structure she had seen earlier that contained all her dreams. The opening was closing in on itself slowly, but Isabelle caught a glimpse of the inside. To her horror, the huge 3D-like images, which were her dreams, were all merging into one another, bending and breaking themselves. The colors mixed into one another until a large whirlpool formed. Just before the opening closed completely, she saw the swirling mass burst within the space of the vault, sending off tiny specks of light and dust. 
+  She had built the world of her dreams with care and affection; and seeing that world shatter like that broke her heart. She felt a deep loss inside. 
+  She had not stopped running all the while. She did not how far she would go but she had to get away from the shadows lurking behind her. All around her the whole space – the emptiness that held her subconscioussness, was totally fading. Even as she ran, the floor behind broke away and left cracks till the edge of the ground, making it fall beneath as well. There was just the ground that lay ahead of her which was still intact. Every step she took, the floor faded from there, replaced by emptiness. The cold and bitter feeling of numbness grew stronger each minute. But this was nothing to what lay ahead. 
+ Each grain of her unconscious state of mind: every memory, idea, thought, feeling, perception – all blended into one another and started to literally crumble and fall away like dust. Isabelle saw it all happening from a distance, but she witnessed the destruction as if she was close nearby. Like tall buildings falling one by one, all the giant structures of her subconscious world fell apart. It was a complete catastrophe.  
+ And then the last bits of ground that remained started to break from the front edge. The last thing that Isabelle saw was her memory of hugging both her parents when they had returned home from a trip. The image dissolved in itself and dissipated into dust and tiny globules of light. 
+ The ground beneath started to shake and finally, every particle of matter that held it firmly, broke and it started to fall. Isabelle saw it coming. She had seen the other end breaking but she found nothing she could do to stop that from happening. And then it all broke, like a piece of glass breaking from its centre. The ground beneath Isabelle’s feat gave way and she started the fall which she did not know would land her where. Until this time, she had thought the shadows chasing her would have left, probably dissolved into themselves like everything else – but they hadn’t. As she kept falling, they increased their approach to her and then, all of sudden, they came as close to her as she could imagine. She screamed just as all the dark looming streaks of black hit her.
+
+*  *  *
+
+Isabelle Aimery opened her eyes with a jolt. She could not see properly. Everything was blurry. Her eye-sight was not weak. She blinked a few times, but it was the same blurred vision. It wasn’t the vision that she felt most troubling; it was the incredibly intense pain in her body. Her legs hurt as if she had just run a marathon, her neck hurt even as she blinked, and her head – it felt as if it was going to explode from pain any minute now. She felt a weakness like she had never experienced before. It was as if she had done a lot of work without any intake of energy. She hadn’t felt like this for years. She had always been physically strong fit and healthy. 
+ She found herself sitting in a large, brown leather chair. 
+  My study.
+There was a little book in her lap which read The Complete Poems of Emily Dickinson, Edited by Thomas H. Johnson. Isabelle couldn’t remember when she had been reading it the last time. She saw an empty coffee mug sitting on the side-table beside her. 
+ When did I last drink coffee?
+She always kept her house clean. Leaving behind things like that was not usual about her. As she took the book from her lap and was about to keep on the desk, her heart skipped a beat at what she saw. 
+My hands!
+  She found her hands had become thin, the skin on them aged. The veins were etched clearly against the pale of her skin. She traced the skin along the length of her arm and to her extreme horror; it looked nothing but an old woman’s arm. 
+What happened to me? 
+  She touched her face. It also felt like the skin there was drooping, like in old age. She looked down at her toes, which had also aged, the veins on them clearly visible under the ghastly white skin. Standing up on weak legs, she went to the mirror that hung on a wall nearby. The image that she saw went her spiraling backwards. She felt the air from her weak lungs escape in a flash. The face that looked back from the mirror was that of a woman with gray hair and a face that possessed every single bit of old age upon it: the skin around the eyes was loose, deep creases edged everywhere and the veins around the forehead were visible. Isabelle Aimery had grown old. 
+  How did I get old so quickly? How could I get so old like this? 
+ I was young only yesterday! What happened to me?
+Did someone cast a spell on me or something?
+  And suddenly, the images that came before her eyes in a quick flash left her dumb-founded. 
+ My memories . . .
+Thoughts . . . 
+Dreams . . . 
+The code . . .
+My subconscious . . .
+Everything had been destroyed! It all fell apart.
+  And then realization, the bitter realization of what had happened, came crashing to her like a heavy blow.
+ Isabelle Aimery had just stepped out from limbo. 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Author’s Note
+
+Much of the mysteries of the human mind and its tremendous powers are still not properly understood up to this day. It is, after all, the most complex enigma in the entire cosmos. However, the very struggle of trying to understand it is what makes worthy of possessing such a marvelous creation of God. 
+ The facts and figures explained in this book are scientifically valid. The concept mentioned about the great master mind, Albert Einstein, using only 10% of his brain is also a view held by many people; including important personalities well-acquainted with the sciences . . . but it is a view altogether wrong in every possible sense. As I said earlier, the human brain is the most complex thing we have ever known. Even today, with amazing technology and important breakthroughs of science, there are many areas of the human mind that are still not so well recognized. Surprising as it is, our brains are eager to know about themselves.
+ The human brain is extremely coordinated in every act it performs. While picking up an empty glass, for example, not only the hands are being controlled by the brain to position them precisely so as to hold the glass carefully and firmly, but also the eyes are focused completely on the object so that it becomes clearly visible and hence easy to see. Apart from this, all senses are acute; if anything should happen in the surroundings, the brain would analyze it and thus act accordingly, making the person’s actions flow in a safe field. If a fire starts around somewhere, the brain would send off messages to every limb of the body to move away from the place of danger to somewhere safe, where the chances of catching fire are not so great. Hence, it is the correlation of every power of the brain that the person does not pick up the glass but instead runs away for his life. 
+  Same is the case with thinking. During this complex process, the mind not only concentrates at what is present in its consciousness; it is also searching into its subconsciousness for a memory or an idea or even a dream that might help to make the thought more comprehendible. Therefore, even if it is just a thought of a colour, the mind is using all its powers to help better shape that thought.  
+  And so, it is incredibly naïve to say such a thing as a person using only half his brain while thinking – or doing anything else, for that matter. 
+  
+
+
+
+
+
+
+
+
+
+
+Salvador Dali & The Persistence of Memory.
+
+For the sake of simplicity, very little is said in the book about perhaps one of the world’s greatest creations ever made in the history of art. After Leonardo da Vinci’s Mona Lisa which first saw the light of day in 1505, the next piece of art that was about to become the most surrealist and debatable project in the following years was The Persistence of Memory, made by the most renowned surrealist artist, Salvador Dali.
+ By studying Dali’s painting, scientists, psychiatrists, psychoanalysts, philosophers and other artists have been able to pour deeply into the creative imagination of the human mind. It has proved to be a gateway into the many secrets that lie hidden among the folds of our perception and cognition. 
+ Dali was a genius, no doubt, but he never really explained the meaning of his works to the public with seriousness. His artistic genius lies in his ability create ideas that lie on the edge between being disturbing and arousing curiosity. His art is often times found to be horrific and strange. But anyone who truly understands art would know that Dali didn’t go over the border to create visions based on disgust and shock value alone. The purpose of his creating such art as he did was not to bewilder or shock the viewers of his paintings, but to simply make the images speak for themselves. And in the complex case of Salvador Dali, it becomes difficult to realize what questions the viewer should be asking by looking at his paradoxical visual statements.
+ It should be noted that Salvador Dali was a philosopher and had significant interest in and science and psychology. He had, for example, studied works of Sigmund Freud and Nietzsche. The meaning of The Persistence of Memory strongly suggests psychoanalytical values, those related with the research of Sigmund Freud. Dali himself had shown much interest in science through his paintings until after World War II, when the Hiroshima atomic bomb made a long-lasting impression on him, hence giving rise to the nuclear or ‘atomic’ period of his work. During this period, the painter focused on adding elements to his paintings that suggested atomic composition of what is known as matter. This can be further acknowledged by another painting Dali painted later in his life called The Disintegration of The Persistence of Memory.
+  In this painting, completed in 1954, Dali literally took its contents apart suggesting the end of the importance of psychoanalysis, which is replaced by the knowledge of subatomic particles – a concept that supersedes psychology as a higher form of existence. Seemingly, the ants in the painting spreading on the orange clock could represent the anxiety associated with time. But what exactly are the origins of our anxieties with time? Is it being too late for work? Or is it not being able to complete or accomplish something before we die? The possibilities are infinite. Whether we realize this or not, we all understand, even on a subconscious level, that we will die one day. This psychology and understanding of the reality of death may configure our behavior.
+According to Dali, he was a self-proclaimed genius. However, he sometimes gave ridiculous explanations for his paintings just to confuse others. The Camembert cheese that had supposedly been his inspiration for the melting pocket watches in the painting was just that. By doing this, Dali not only proposed new ways for discussing multiple interpretations of his art, but also made criticizing his work nearly impossible for people he thought possessed lesser intellect than that of himself. This is the same as was the case with Leonardo da Vinci, who wrote backwards in his journals so that the meaning of his work could only be interpreted when looked at in a mirror's reflection by those who were clever enough to understand it.
+In the light of recent discoveries by scientists, forming memory is a four-step process. It is known that human memory actually consists of four types: sensory memory, working memory, short-term memory and long-term memory. According to one theory, the sensory memory is the persistence of sensations. Dali's paintings are psychologically deep, and perhaps the sensory memory is what influenced the famous "melted clock" painting since it is precisely this type of memory that makes it possible to attach our experiences to something we end up remembering at its deepest level.
+ A genius like Salvador Dali is one of the few gems that fall upon the earth once in a while. And in the words of Dali himself,
+“Dali is immortal and will never die”.

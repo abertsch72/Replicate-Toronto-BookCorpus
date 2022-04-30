@@ -1,52 +1,14 @@
 #!/bin/bash
 #!/bin/bash
-curl https://www.smashwords.com/books/download/718717/6/latest/0/0/swords-and-magic.txt -o data/1206/swords-and-magic.txt
-curl https://www.smashwords.com/books/download/245831/6/latest/0/0/the-hypnotic-cue.txt -o data/1206/the-hypnotic-cue.txt
-curl https://www.smashwords.com/books/download/623943/6/latest/0/0/facade-of-evil-and-other-tales-from-heathen-with-teeth.txt -o data/1206/facade-of-evil-and-other-tales-from-heathen-with-teeth.txt
-curl https://www.smashwords.com/books/download/345716/6/latest/0/0/the-darkening-still.txt -o data/1206/the-darkening-still.txt
-curl https://www.smashwords.com/books/download/239754/6/latest/0/0/descent-book-1-descent-from-man.txt -o data/1206/descent-book-1-descent-from-man.txt
-curl https://www.smashwords.com/books/download/214728/6/latest/0/0/the-vessel.txt -o data/1206/the-vessel.txt
-curl https://www.smashwords.com/books/download/675837/6/latest/0/0/the-sultans-heir.txt -o data/1206/the-sultans-heir.txt
-curl https://www.smashwords.com/books/download/502681/6/latest/0/0/a-promised-fate.txt -o data/1206/a-promised-fate.txt
-curl https://www.smashwords.com/books/download/592556/6/latest/0/0/never-trust-the-moon.txt -o data/1206/never-trust-the-moon.txt
-curl https://www.smashwords.com/books/download/289277/6/latest/0/0/the-lone-wolf-saga-the-lone-wolf.txt -o data/1206/the-lone-wolf-saga-the-lone-wolf.txt
-curl https://www.smashwords.com/books/download/808208/6/latest/0/0/hooking-alexander.txt -o data/1206/hooking-alexander.txt
-curl https://www.smashwords.com/books/download/903565/6/latest/0/0/battle-of-souls.txt -o data/1206/battle-of-souls.txt
-curl https://www.smashwords.com/books/download/720050/6/latest/0/0/the-weathermaker-hearts-desire.txt -o data/1206/the-weathermaker-hearts-desire.txt
-curl https://www.smashwords.com/books/download/1112556/6/latest/0/0/heart-of-the-reaper-a-dark-monster-romance.txt -o data/1206/heart-of-the-reaper-a-dark-monster-romance.txt
-curl https://www.smashwords.com/books/download/1025472/6/latest/0/0/turning-red.txt -o data/1206/turning-red.txt
-curl https://www.smashwords.com/books/download/363936/6/latest/0/0/the-prince-of-zammar-the-complete-serial-books-1-6-zammar-bo.txt -o data/1206/the-prince-of-zammar-the-complete-serial-books-1-6-zammar-bo.txt
-curl https://www.smashwords.com/books/download/836164/6/latest/0/0/age-of-mystics.txt -o data/1206/age-of-mystics.txt
-curl https://www.smashwords.com/books/download/987967/6/latest/0/0/fantasy-games.txt -o data/1206/fantasy-games.txt
-curl https://www.smashwords.com/books/download/16297/6/latest/0/0/legon-awakening-book-one-in-the-legon-series.txt -o data/1206/legon-awakening-book-one-in-the-legon-series.txt
-curl https://www.smashwords.com/books/download/485853/6/latest/0/0/moonlight-revenge.txt -o data/1206/moonlight-revenge.txt
-curl https://www.smashwords.com/books/download/281671/6/latest/0/0/a-dream-of-hope-and-sorrow-book-one-of-the-druid-saga.txt -o data/1206/a-dream-of-hope-and-sorrow-book-one-of-the-druid-saga.txt
-curl https://www.smashwords.com/books/download/490069/6/latest/0/0/the-road-between-gods-and-monsters.txt -o data/1206/the-road-between-gods-and-monsters.txt
-curl https://www.smashwords.com/books/download/415996/6/latest/0/0/murder-too-close-to-home.txt -o data/1206/murder-too-close-to-home.txt
-curl https://www.smashwords.com/books/download/673564/6/latest/0/0/moonrise.txt -o data/1206/moonrise.txt
-curl https://www.smashwords.com/books/download/610387/6/latest/0/0/we-three-queens.txt -o data/1206/we-three-queens.txt
-curl https://www.smashwords.com/books/download/423591/6/latest/0/0/a-world-of-worlds.txt -o data/1206/a-world-of-worlds.txt
-curl https://www.smashwords.com/books/download/648012/6/latest/0/0/necromancy-and-other-mystical-things.txt -o data/1206/necromancy-and-other-mystical-things.txt
-curl https://www.smashwords.com/books/download/871410/6/latest/0/0/india-bones-and-the-ship-of-the-dead.txt -o data/1206/india-bones-and-the-ship-of-the-dead.txt
-curl https://www.smashwords.com/books/download/621072/6/latest/0/0/destiny-scorns.txt -o data/1206/destiny-scorns.txt
-curl https://www.smashwords.com/books/download/727800/6/latest/0/0/deadly-little-mermaids.txt -o data/1206/deadly-little-mermaids.txt
-curl https://www.smashwords.com/books/download/55652/6/latest/0/0/bellatrix-swords-of-chaos-book-one.txt -o data/1206/bellatrix-swords-of-chaos-book-one.txt
-curl https://www.smashwords.com/books/download/649802/6/latest/0/0/multiplicity-of-being.txt -o data/1206/multiplicity-of-being.txt
-curl https://www.smashwords.com/books/download/367520/6/latest/0/0/werelord-thal-a-renaissance-werewolf-tale.txt -o data/1206/werelord-thal-a-renaissance-werewolf-tale.txt
-curl https://www.smashwords.com/books/download/21479/6/latest/0/0/skull-face-revealed.txt -o data/1206/skull-face-revealed.txt
-curl https://www.smashwords.com/books/download/152/6/latest/0/0/princess-electra.txt -o data/1206/princess-electra.txt
-curl https://www.smashwords.com/books/download/348149/6/latest/0/0/blood-stained-lives.txt -o data/1206/blood-stained-lives.txt
-curl https://www.smashwords.com/books/download/73399/6/latest/0/0/avion-book-one-of-the-crystal-rose-chronicles.txt -o data/1206/avion-book-one-of-the-crystal-rose-chronicles.txt
-curl https://www.smashwords.com/books/download/1125422/6/latest/0/0/a-dance-of-two-worlds.txt -o data/1206/a-dance-of-two-worlds.txt
-curl https://www.smashwords.com/books/download/138713/6/latest/0/0/the-prince-of-graves.txt -o data/1206/the-prince-of-graves.txt
-curl https://www.smashwords.com/books/download/899806/6/latest/0/0/incubus-tormented.txt -o data/1206/incubus-tormented.txt
-curl https://www.smashwords.com/books/download/588019/6/latest/0/0/home.txt -o data/1206/home.txt
-curl https://www.smashwords.com/books/download/40395/6/latest/0/0/the-dragon-who-didnt-fly.txt -o data/1206/the-dragon-who-didnt-fly.txt
-curl https://www.smashwords.com/books/download/832480/6/latest/0/0/nightjar.txt -o data/1206/nightjar.txt
-curl https://www.smashwords.com/books/download/66007/6/latest/0/0/crossover-the-chosen-one-trilogy-book-one.txt -o data/1206/crossover-the-chosen-one-trilogy-book-one.txt
-curl https://www.smashwords.com/books/download/1064816/6/latest/0/0/wizards-character-backstory-examples.txt -o data/1206/wizards-character-backstory-examples.txt
-curl https://www.smashwords.com/books/download/368635/6/latest/0/0/beyond-the-western-sun.txt -o data/1206/beyond-the-western-sun.txt
-curl https://www.smashwords.com/books/download/252893/6/latest/0/0/the-prince-of-ravens.txt -o data/1206/the-prince-of-ravens.txt
-curl https://www.smashwords.com/books/download/661475/6/latest/0/0/keep-azeroth-tidy-from-vanilla-to-mop.txt -o data/1206/keep-azeroth-tidy-from-vanilla-to-mop.txt
-curl https://www.smashwords.com/books/download/74544/6/latest/0/0/gifted-apprentice.txt -o data/1206/gifted-apprentice.txt
-curl https://www.smashwords.com/books/download/77747/6/latest/0/0/exmortus.txt -o data/1206/exmortus.txt
+#!/bin/bash
+#!/bin/bash
+#!/bin/bash
+#!/bin/bash
+#!/bin/bash
+#!/bin/bash
+#!/bin/bash
+#!/bin/bash
+#!/bin/bash
+#!/bin/bash
+#!/bin/bash
+#!/bin/bash

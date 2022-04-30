@@ -1,0 +1,894 @@
+Quantum Troopers
+Episode 9:  Demonios of Via Verde
+Published by Philip Bosshardt at Smashwords
+Copyright 2016 Philip Bosshardt
+Smashwords Edition, License Notes
+
+This ebook is licensed for your personal enjoyment only.  This ebook may not be re-sold or given away to other people. If you would like to share this book with another person, please purchase an additional copy for each recipient.  If you're reading this book and did not purchase it, or it was purchased for your use only, then please return to Smashwords.com and purchase your own copy.  Thank you for respecting the hard work of this author.
+
+A few words about this series?.
+
+*** Quantum Troopers is a series of 15,000- 20,000 word episodes detailing the adventures of Johnny Winger and his experiences with the United Nations Quantum Corps.
+*** Each episode will be about 40-50 pages, approximately 20,000 words in length.
+*** A new episode will be available and uploaded every 3 weeks.
+*** There will be 22 episodes.  The story will be completely serialized in about 14 months.
+*** Each episode is a stand-alone story but will advance the greater theme and plot of the story arc.  
+*** The main plotline: U.N. Quantum Corps must defeat the criminal cartel Red Hammer's efforts to steal or disable their new nanorobotic ANAD systems. 
+*** Uploads will be made to www.smashwords.com on approximately the schedule below:
+
+Episode #	Title					Approximate Upload Date
+1		'Atomgrabbers'			1-14-16
+2		'Nog School'				2-8-16
+3		'Deeno and Mighty Mite'		2-29-16
+4		'ANAD'				3-21-16
+5		'Table Top Mountain'			4-11-16
+6		'I, Lieutenant John Winger?'	5-2-16
+7		'Hong Chui'				5-23-16
+8		'Doc Frost'				6-13-16
+9		'Demonios of Via Verde'		7-5-16
+10		'The Big Bang'			7-25-16
+11		'Engebbe'				8-15-16
+12		'The Symbiosis Project'		9-5-16
+13		'Small is All!'				9-26-16
+14		''The HNRIV Factor'			10-17-16
+15		'A Black Hole'			11-7-16
+16		'ANAD on Ice'			11-29-16
+17		'Lions Rock'				12-19-16
+18		'Geoplanes'				1-9-17
+19		'Mount Kipwezi'			1-30-17
+20		'Doc II'				2-20-17
+21		'Paryang Monastery'			3-13-17
+22		'Epilogue'				4-3-17
+Chapter 1
+"Demonios"
+
+Village of Via Verde
+Republic of Valencia, South America
+December 30, 2048
+0645 hours
+
+	For Dr. Hector del Compo, the trip up the Yemanha River came at a particularly bad time.  Work was piling up at the Ministry, his eldest daughter was set to be married in less than two weeks, and the Deputy Minister had just rejected his choice to head up the public health lab, the dolt.  So when U.N. BioShield advised the Ministry of some kind of 'disturbance' in the vicinity of Via Verde, "unusually high nanobotic activity" was the way the report had phrased it, del Compo gritted his teeth and organized a quick expedition to see what BioShield had detected. Maybe it would be a distraction from all the politics back at the Ministry.   After all, it wasn't every day you got a message from BioShield that some kind of mass casualties had occurred way upriver in the black heart of la selva, the rain forest that covered the western two thirds of Valencia.
+"Esta aqui?" came a voice from the back of the boat.  It was Montoya, sergeant of the Guardia Nacional detail that was accompanying the scientists from the Ministry upriver.  "The village is nearby, no?"
+Del Compo watched the coffee-colored waters of the Yemanha River slide by.  The two-boat fleet had chugged nearly forty kilometers upriver from Afalamos, heading for the last known encampment of Xotetli Indians, a place called Via Verde, the locus of the 'disturbance' according to BioShield.  The sun was high in the sky-it was just after noon locally-but the light had fallen off in the dense canopy of wiry pandanus and tapang trees, now forming a cathedral arch over the sluggish river.
+"Just around the bend, Sergeant," Del Compo called out.  "Let's maneuver closer to shore."
+Montoya waved acknowledgement, then barked, "Watch for logs and shoals!  De reche?steer toward the shore!"
+The two boats slowed and shifted course, their props thrumming and churning water as the helmsmen turned them to starboard.  The prow of the lead boat nosed around the curve of the shoreline, through swarms of buzzing insects and the first crude thatch lean-to's of the Xotetli village came into view, perched on a shelf of cleared ground.  Smoke issued from a smoldering fire in the center of the circle of huts.  
+Montoya snapped off more orders and the boats were poled to the river banks, their engines turned off.  The Guardia detail climbed out and quickly secured a perimeter around the village, nosing briefly into the forest, poking bayonets and mag weapons into the huts, looking for anyone.
+One soldier, Corporal Quinones, gave a shout.
+"Aqui?aqui!  Pronto!..."  The corporal waved the others over.  
+Del Compo scrambled over the makeshift gangway and clawed his way up the bank.  The village of Via Verde was little more than a collection of crude thatch huts and log lean-to's, gathered in a circle around a fire pit that was still smoldering.  
+Even as del Compo and his fellow scientists approached, they could see the legs of prostrate humans, sticking out of the huts.  
+Texeira bent to examine the nearest body.  Quinones shone a flashlight on the face of the Xotetli Indian?.it appeared to be a young male, otherwise healthy and uninjured, but indisputably dead.   He had died with his eyes open.  The young male was covered with painted tattoos and his lips and nose were pierced with tiny bone ornaments.  
+"What happened?" asked del Compo, noting at least four other males lying nearby.  
+"I'm not sure, but-" Texeira turned the body over, looking for lividity and other signs of external trauma.  "No open wounds?poison, maybe."  They both knew the Xotetli fashioned curare for their darts and arrows from the leaves and stems of chondrodendron vines.  
+"Gonzalez!" del Compo called back to the boat.  "Bring the equipment?we need to do an autopsy."  
+Gonzalez waved back, then hoisted up a crate and lugged it on shore, carrying the crate up to the village.
+As the scientists set up, Montoya and his detail did a quick reconnaissance of the village and surrounding jungle.  He came back after a few minutes, his face grim and pale.
+"Profesor?the whole village?they're all dead-"
+"What?'
+Montoya unholstered his own pulser and pointed it toward the huts opposite the fire pit.  "Come?see for yourself-"
+Del Compo went with Montoya around the village, where the rest of the Guardia detail?Herrera, Uruguin, Fuentes and Goncalves?were systematically probing every hut and bush, turning up bodies by the dozen, slumped, sprawled and folded in every conceivable position.
+Del Compo bent to examine an older man, maybe the curaca, or chief.   He was adorned with a complex cape of vines and strips of tree bark.  His face was hidden behind a mask of feathers-when del Compo peeled the mask back, he saw a middle-aged face staring up at him, eyes open.  His lips and cheeks were noticeably blue.  
+The exam was interrupted by the sound of a heavy thud.  Del Compo and Montoya both turned, and saw two of the soldiers had dropped to their knees, and were having trouble breathing?both were heaving deeply, gasping for air.
+Del Compo got up and went to Herrera and Uruguin.  "What is it?  What's wrong-what is it?"
+Uruguin was young, his eyes wide.  His hands fluttered about his chest.  "I don't know?I can't breathe?my lungs?no air?"  He gurgled and throttled, then pitched onto his side, his mouth working up and down like a fish out of water.  
+Del Compo bent down to examine the soldier's face.  It was turning pale, somehow he wasn't getting enough oxygen.  He started to probe around the soldier's mouth, but stopped, feeling light-headed himself.  Startled, he stood up abruptly.
+"Texeira-"
+The chemist had already uncrated the autopsy-bot and had set it to work on the dead man by the fire pit.  The bot attached itself to the man's chest and neck with programmed efficiency and extended forceps and probes as it deftly sliced into the corpse.
+"Texeira?the air?it's bad!  There may be an underground leak, toxic gases venting-"
+Texeira nodded, quickly reading results from the bot.  "Asphyxiation, senor Profesor?I thought so?blue lips and cheeks.  The CO2 level's way too high in his bloodstream?.if this thing is right, it reads better than twenty kilopascals."
+Del Compo was now coughing as he came over.  Others too?Montoya was already tending to Uruguin, even as two more Guardia soldiers collapsed.  
+"Hypercapnia?there's too much carbon dioxide around here," del Compo croaked.  
+"That's?that's not all," said Gonzalez from the shoreline.  He was struggling with more instruments, taking measurements from the riverbank.  He swayed dizzily, then clung to a vine of strangler fig for support.  "The air?she's crazy?look at this!  Not just the carbon dioxide is loco?it's everything.  Chlorine?fluorine?methane?this isn't normal air, profesor!  It's crazy-"
+"Poisoned--" Del Compo breathed out.  His own lungs were on fire.  "Something's in the air?we've got to get out of here!"
+Montoya signaled for the detail to return to the boats.  The soldiers stumbled, coughing, clawing at their faces and chests, as they fell down the riverbanks and into the boats.  
+Del Compo sucked, coughed and wheezed as he helped Gonzalez get his gear back aboard.   Montoya helped his own men and the boats were started up, their engines chugging against the water.  Moments later, the craft eased out against the current, heading further upriver.  Against Sergeant Montoya's wishes, del Compo wanted to track the boundaries of this 'bubble' of bad air.
+"If I'm right," he wheezed, panting for breath, "it's some kind of rogue nanobotic action, altering the air right here."
+"Or maybe toxic gases," suggested Texeira.  His face was still pale and beaded with sweat and he sat heavily in the stern, still gasping for breath.  "---venting from an underground reservoir."
+The fresh breezes helped and by the time the detail had rounded the next bend, the worst of the toxic air seemed to have fallen behind.  Del Compo and Gonzalez studied their instruments, increasingly uneasy at what they were finding.
+"A zone of death," Gonzalez said.  "All around Via Verde?maybe that's what killed the Xotetli."
+Del Compo nodded, studying the low hanging clouds that were scudding over the tree tops.  "A protected tribe?gone.  Maybe it was loggers?or ranchers."   There had been incidents before.  
+"Or worse," added Texeira, mopping his forehead with a wet handkerchief.  
+Gonzalez tuned the detectors.  "It doesn't make any sense.  Look, profesor?at the riverbank, the air quality is poor?even the basic percentages are all wrong.  See-?"  he pointed to several displays on the instrument face.  "Ozone levels practically at zero, partial pressure of oxygen falling, CO2 rising?"
+The small fleet rounded the bend and Montoya shouted aft.  Del Compo followed his pointing arm.
+On the riverbank, were more Xotetli, apparently dead, draped over fallen tree stumps and sprawled at the foot of trees.  Ten or more bodies.  Animals too.  The decaying carcass of a sloth lay half buried in the muck.  
+"?but here in the middle of the river?the air improves."  Del Compo saw he was right.  The instruments reflected it?oxygen and nitrogen levels approaching normal, the further they got from the banks.
+Del Compo signaled to Montoya.  "Pull up to that grotto!" he yelled over the wind noise.  A dank cavern of limestone overhung the river ahead of them and to the left, covered with boughs of moss and fallen branches of screw pine.  To Gonzalez:  "Watch the instruments as we approach."
+The boats eased landward, bouncing through a small hydraulic foaming around a tree stump and nosed toward the cavern.  Bats screeched inside, fluttering the air, with the drone of a thousand wings.  
+Del Compo felt light-headed as they bumped against the limestone outcropping.  The instruments didn't lie?even as he watched, the oxygen levels had begun falling off.  Carbon dioxide had already risen well beyond fifteen kilopascals, high enough to impair judgment.  Trace constituents were all wrong, like some kind of pall of pollution had fallen over the grotto?it was crazy.
+Ashore, when their eyes had grown accustomed to the gloom of the lighting, animal carcasses by the dozen littered the bare rock sides of the limestone cliffs.  
+Something was altering the air and, in his imagination, del Compo thought he heard the faint keening whine of nanoscale robots above the screech of the bats.  Gonzalez was right?a bubble of noxious, deadly air was swelling up from this grotto and around the village of Via Verde, killing every living thing as it expanded outward.
+A gas vent underground, perhaps?  It had happened before, and killed thousands in Africa last century.  A new strain of virus, mutated or genetically altered to affect air molecules themselves?.was that what BioShield had detected?
+Or perhaps a baby reservoir of nanobots sown by unscrupulous ranchers and loggers, trying to clear another swath of the upper Amazon basin for production.
+The soldiers were already coughing and gagging and del Compo realized with a start that they'd have to vacate the area and come back with the right protective gear?and the Guardia Nacional as well.  They didn't have the equipment to fight this.
+"Let's go back!" del Compo decided, rubbing the temples of his head.  He had a fierce headache splitting the back of his head, like needles being driven into his skull.  "Downriver?head back to Afalamos!"
+Montoya gave the order gratefully but before the two boats could turn about, the river water began foaming and bubbling between them, sending huge waves washing over the gunwales.  Something thrashed just below the surface and as Corporal Fuentes bent over the rail to investigate, a pair of mottled green arms breached the surface and wrapped themselves around the soldier's neck.
+Instantly, Fuentes was pulled from the boat and into the midst of the foaming water!
+"Fuentes!  Uruguin!"  Montoya stumbled as the creature bumped against the boat, rocking them sideways.  The sergeant scrambled across the deck, fumbling for a weapon, a machete, a pulser, anything-
+At the same time, more creatures breached the surface, snagging the second boat with their arms-tentacles-trunks?it was hard to see in all the foaming, thrashing water.  
+"Watch out!" yelled Texeira, as del Compo lost his balance, thudding heavily to the deck.  He slid to the railing, as the boat tilted, just as a third creature reared up in a spray of water, and for a second, the profesor was face to face with the black button eyes of a demon from the depths of Hell itself.
+It was taller than a man, but thinner, vaguely human in general shape, with a leathery head bristling with black fuzzy hair.  Tiny slit eyes dripped or oozed black silt from the riverbed and below what passed for a neck, five or six arms or appendages flailed against the side of the boat with the ferocity of a crazed beast.  
+"Demonio!" yelled one of the soldiers.  The crack of magpulser fire stitched a line of death across the chest of the demon and it fell back with keening whine, more black oozing from the gaping wound across the bony breastplate of its chest.  It sank quickly beneath the water, even as del Compo scrambled to his feet.
+All around and between the boats, the demonio had surged to the surface, thrashing and slamming against the two boats, pitching and tossing them as if they were small rafts.  Soldiers stumbled and clung to whatever they could find.  Fuentes was gone.  He'd never surfaced.  As del Compo watched, Uruguin took dead aim with a pulser at the face of one, trying to climb aboard the boat from the stern, and sliced a slash of black death across its bony head.  It screeched and clawed at the air for a moment, then pitched backward into the river.
+"There's dozens of them!" Herrera yelled.  
+"We're outnumbered!" someone else screamed.
+Montoya was already ducking into the pilothouse, gunning the engine of his boat, while Gonzalez was nearly pulled from his perch along the starboard rail.  Green mottled arms wrapped themselves around his legs and were pulling him inexorably toward the edge.
+'Help!  HELP ME!!..."
+Del Compo dove for the nearest thing he could find?a fire ax mounted on a bulkhead behind the pilothouse.  He scrambled forward and swung with all his strength, striking the green arm with the ax edge.
+Black fluid exploded in the air as he severed the arm from Gonzalez' leg.  From the side of the boat, a bony head appeared momentarily, its face scrunched up in pain, as it reached out for something else. 
+Again, del Compo swung the ax like a halberd and struck the creature on the side of the head, cleaving its skull with a sickening thud.  It clawed the air, thrashed wildly, then slipped off the gunwales and slid beneath the water.
+"GET US OUT OF HERE!" del Compo yelled at the top of his voice.  Headache still pounded his own skull, though the demonio seemed unaffected.  Texeira had made it to the pilothouse and was already turning them downriver, even as the engines rumbled to life.  
+But the water all around them was thick with the creatures.
+"There must be hundreds!-"
+"We're surrounded--!"
+Pulser fire stitched and ripped the air, as beams crisscrossed the small grotto.  Del Compo saw two more demonio clambering aboard their own boat, as Texeira rammed the throttles forward.  They clawed their way up onto the stern deck well and began crawling like huge, dripping spiders up the incline of the stairs.  Ten meters away, from the stern of Montoya's boat, Corporal Quinones saw what was happening.
+He took dead aim with his own weapon and let fly a magpulse at point blank range, burning off half the creature's back and head.
+It reared up in pain and lost balance, pitching sideways into the river, where it was promptly struck by the surging bow of the boat.  
+The second creature scuttled forward a few more feet, but this time del Compo and Gonzalez were ready, with fire ax and fathoming pole.  As soon as the creature scuttled within range, they attacked.
+Del Compo managed to sever two of its appendages by the time Gonzalez had clubbed the thing into a semi-conscious stupor.  It slid back down the stairs and lodged in a seething heap in a corner of the deck well, oozing life.   Neither man saw the ragged stumps where its tentacles had been hacked off?starting to regrow, starting to regenerate.  
+The other boat pulled alongside, with Quinones and Fuentes both taking dead aim at the still moving creature.
+"WAIT!" yelled del Compo.  "Don't shoot?!"
+"Are you loco, profesor?this thing is the devil itself!"
+"Don't shoot?" del Compo held up his heads.  "Maybe we can tranquilize it, immobilize it.  I want to take it back to the city.  To my lab."
+The two Guardia soldiers looked at each other, each thinking the same thought.  El profesor es loco? They shook their head, partially lowered their weapons.  
+"At least the air's getting better, eh?" shouted Texeira from the pilothouse.  He dropped the throttle and the boat slowed, with Montoya's boat slackening off as well.  
+Soon the small flotilla was chugging downriver at a more manageable ten knots.  Montoya directed his pilot, Private Uruguin, to bring them alongside.  When the boats were only a few meters apart, he leaped to the deck of the scientists' boat and landed on all fours.  He stood up and regarded the wounded demonio shaking and moaning in the deck well.  A blurry cloud, like a horde of flies, buzzed around its severed stumps.  
+"We can't take that thing back with us?too dangerous," Montoya decided.  He withdrew his own pulser sidearm and dialed it up to maximum, taking aim at its oozing head.
+"Don't shoot it," del Compo pleaded.  "Let's restrain it, throw some netting over it.  Gonzalez?you have serum in that kit of yours?  Maybe we sedate it."
+"They already killed one of my men," Montoya said.  "I can't take a chance."
+Del Compo jumped down from the catwalk and stood between Montoya and the creature.  "I can.  My job is to find out what's happened at Via Verde.  And what killed all the Xotetli.  Something's going on and it triggered BioShield.  This?creature?may be part of the answer."
+Montoya was doubtful but he holstered his weapon and glared down at the creature.  
+"It's truly demonio, just like Herrera said.  "Face of the devil, if you ask me.  We should dump it in the river, where it belongs?where it came from."
+The same strange keening whine he had heard before now seemed louder, more insistent to del Compo.  Is it my hearing?  A burst eardrum?  It came from the direction of the creature. Flies, he realized.  Hordes of river flies?or mosquitoes.  He didn't see that both stumps were being steadily re-formed, below the swarm of insects.  
+"I'm not sure where it came from," del Compo said.  
+'It didn't seem affected by the bad air," Gonzalez observed.  "Not like we were."
+"I don't know what happened back there, at Via Verde," admitted del Compo.  He found himself a perch and sat down wearily to study the creature.  "But this?this thing? it has to be part of the answer?I'm sure of it."
+That's when he realized the keening buzz he'd been hearing for the last hour wasn't flies at all.  
+
+Chapter 2
+"The Briefing"
+
+U.N. Quantum Corps
+Table Top Mountain
+January 2, 2049
+0645 hours
+
+For Major Jurgen Kraft, the commanding officer of 1st Nanospace Battalion, briefings at Table Top were always a royal pain in the ass.  It wasn't so much the formality and the time involved in 'putting on a show', as it was all the little things you had to do whenever the brass linked in from remote sites?the special details like side presentations to expand on certain points, enhanced video and animation, sim packages from SOFIE to help with decisions.  
+At least, nobody's figured out how to do coffee and doughnuts over the Net yet, he told himself.
+If anything, today's briefing would be worse?half the command leadership of UNIFORCE was vidlinked in to the briefing theater.  Whatever it was, it was big.  
+CINCQUANT himself, in the person of General Wolfus Linx was on one screen, linked in from Paris.  The Commander in Chief was a bearded, fierce-eyed Teutonic warrior whose name carried the merest hint of ferocity barely contained.  Linx had a withering glare that no amount of distance could dissipate.  
+Kraft involuntarily shuddered every time he glanced over at the screen.
+Also linked in from UNIFORCE Headquarters on the Rue du Montaigne was Rene Camois, an Assistant Deputy to the Director General.  Camois was to Kraft an unknown quantity, though he was highly enough placed to be obnoxious if he wanted to be.  Camois was on hand to represent the office of the DG himself, and thus spoke with the absolute authority of the top commander.  Even Linx had to defer to the DG.
+One other vidlink completed the trio of screens that lined one wall of the briefing theater.  His name was Hector del Compo, and from what Kraft had read of the précis', del Compo was Valencian, said to be the chief inspector of the Ministry of Public Health in that landlocked South American country.  Del Compo had data from some kind of environmental 'disturbance' in the upper Amazon River basin that was the official impetus for the briefing.  
+Assembled in the briefing theater along with the vidlinked participants were several others.
+Lieutenant Johnny Winger, 1st Nanospace Company, the Battalion's top code and stick man and for nearly a year now, Kraft's personal project in building an effective commander for nanoscale combat operations.  Winger was the wonder boy of the Corps, and Kraft took a perverse delight in both showing off his prize commander to the brass and roughly reminding the kid who was really in charge.
+Also on hand was Lieutenant Dana Tallant,, 2nd Nanospace Company, and every bit the equal of Winger in raw ability, though she didn't have Winger's charisma or guts.
+Kraft brought the briefing to order and acknowledged all the participants.
+"Quantum Corps got tasking at 0430 hours this morning from CINCQUANT to convene a briefing for the purpose of determining what tripped BioShield yesterday.  Shortly before noon local time in Valencia, BioShield Ops received several alerts from remote swarms patrolling the atmosphere over the Amazon Basin.  The alerts indicated nanobotic activity over and above the lawful amount was occurring in northwest Valencia, some-" here Kraft checked his notes-" fifty kilometers upriver from the capital city of Afalamos.  BioShield contacted the Valencian Ministry of Public Health and the Interior Ministry.  Dr. Del Compo here led the first expedition to investigate.  Doctor-"  Kraft yielded to the Valencian official.
+Del Compo was a compact, dark-haired man, with steel-rim glasses.  He consulted some notes off-screen.
+"The results of our inspection were surprising," del Compo noted.  "I'm sending the compiled data now."  A new squirt off the satellite refreshed all screens and several plots and graphs materialized into view.  
+"BioShield data showed the center of this perturbation was in the vicinity of a small Indian village called Via Verde.  The territory is along the Yemanha River in upper Valencia.  This territory is home to a small tribe called Xotetli?or, I should say, was.  The Xotetli were a protected tribe, basically Bronze Age forest-dwellers which our government was trying to protect from ranchers and loggers."
+General Linx cut in gruffly.  "Doctor, BioShield has a mandate to search for airborne nanobotic mechanisms and that's all.  If BioShield was tripped, some kind of nanoscale mechanism was in play, replicating in the area."
+"I thought the same," del Compo admitted.  "When we arrived at the site, our investigators noticed right away a sort of aires toxico, a kind of bubble or zone of toxic air had developed.  In and around Via Verde, the Xotetli tribe had all died, of asphyxiation.  Scores of them.  We did auto-autopsy on several and discovered the symptoms you see on your screens?hypercapnia, blue lips and cheeks, excessive concentrations of CO2 and other toxic gases in their blood and lungs."
+"Excuse me, Doctor?"  It was Rene Camois.  "You said the entire tribe had died?"
+"We found no survivors.  The air in and around the village and along the riverbanks for several kilometers up and downstream was composed of gases in the concentrations I have displayed here?as you can see, toxic levels of fluorine and chlorine, carbon dioxide and reduced levels of oxygen and nitrogen."
+"This doesn't make any sense," Kraft studied the data.  "Normal air is seventy-eight percent nitrogen and twenty-one percent oxygen.  This is all cock-eyed?are you sure your instruments are calibrated, Doctor?"
+"Perfectly," del Compo said.  "The air even affected me and my inspectors.  We had to vacate the area?it was too dangerous for us there.  No, the data are real, gentlemen.  There is a bubble or zone of toxic air over Via Verde and the surrounding jungle and it's expanding outward.  We're not sure where the source is, though some evidence suggests it's in or around a grotto of caves further upriver, a place called Sulpeda.  We tried to go there but we couldn't-"
+Linx raised a bushy eyebrow.  "You suspect what, exactly, Doctor?an illegal nanobotic reservoir?"
+"Possibly, General.  Whatever it is, it's changing the air in that whole area, and every living thing, Xotetli Indians, jungle life, everything, is being affected.  Mass casualties are piling up along the riverbanks.  Several villages downstream have already reported floating corpses in the water."
+Linx checked with someone behind him and returned to the screen.  "UNIFORCE confirms that atmospheric perturbations were detected in the area you're talking about, Doctor.   Satellite and aerial 'bot inspection have characterized the phenomena as a 'toxic cloud' spreading outward from Via Verde, altering the composition of the atmosphere, breaking down ozone and other molecules.  "So far, it's said to be a relatively small scale event, but whatever it is, it's resistant to nanobotic intervention to this point.  BioShield has deployed enforcement nano into the area with no effect."
+"General," asked Johnny Winger, "are we dealing with a natural outbreak or some kind of rogue 'bots somebody let loose?"
+"That's unknown at this time, Lieutenant.  Perhaps, Deputy Camois has something to add."
+The UNIFORCE official was a precise, almost effeminate bureaucrat.  "UNIFORCE has been receiving reports for several days now, actually reports, data, even imagery from multiple locations around the world.    We're getting reports of similar atmospheric disturbances, in places like Tibet, the south Pacific, the Antarctic, the Congo basin in central Africa."
+"What kind of disturbances?" Linx asked.
+"Similar to what's being reported here," Camois consulted some background material, squirted it off the satellite to Table Top.  The master display showed a map of the world, with the areas mentioned highlighted.  "Constituent gas concentrations all mixed up, oxygen and ozone levels dropping, carbon dioxide levels rising, pressure fluctuations?BioShield is reporting nanobotic activity in or near all spots, so we think that's the cause.  Who or what's behind it-"  Camois looked up and shrugged, visibly frustrated even on the screen.  "The Director General's meeting with UNSAC this evening, 1900 hours our time.  We have intelligence that indicates the Red Hammer cartel has undertaken a rather extensive effort that sources are calling The Project.  We don't know what this means exactly, but there are correlations with the growth of angel technology, and the appearance of Symborg.  All of this may be related."
+Johnny Winger studied the displays, trying to make sense of it all.  "There's no obvious pattern.  What makes all these places so special?"
+"Unknown, Lieutenant," said Camois.  "We running routines now to try and match a pattern, possibly predict any further outbreaks.  So far, the public's unaware of the disturbances, except in the affected areas?the media haven't sniffed this one out yet.  But the problem seems to be growing."
+"Maybe it is Red Hammer again," Major Kraft suggested, hoping someone had evidence to the contrary.  But nobody disagreed.  "We think two of our top scientists, Dr. Irwin Frost and Dr. Mary Duncan, may have been taken by the cartel?we tracked a beeper into Hong Kong, but now we've lost it.  There's a possibility that the two are inside China?Red Hammer has known operations in the Tibet region."
+"A distinct possibility," Camois agreed.  "General, would Quantum Corps like the threat condition from UNIFORCE raised?  Do we need to raise the alert level here?  The Director General will undoubtedly ask the same question."
+Linx was reluctant to admit there was something the Corps couldn't handle, especially when a mandated mission like atmospheric patrol was involved, but he agreed.
+"It would be best," he admitted.  "I'm thinking we may need to go beyond BioShield and send in a special ops team?an ANAD unit.  I'm not sure BioShield can handle this."
+Camois took that grimly.  "Very well.  I'll recommend to the Director General that we go to UNICON Purple."
+Del Compo spoke up.  "The Ministry's team encountered more than just atmospheric perturbations, gentlemen.  We also ran into some kind of strange organism?the men have taken to calling them demonio?in the river near Via Verde."
+"What kind of organism?" Linx asked.
+Del Compo was physically located in a conference studio at the Ministry's headquarters in Afalamos, the capital of Valencia.  He turned from the screen a moment, then synched a video stream into the data feed.  Moments later, all screens were refreshed with new imagery, this time of one of the riverine creatures the expedition had captured.
+""It's vaguely humanoid," del Compo narrated over the imagery.  "It has radically modified lungs, and as you can see, extra appendages.  We've scanned all of its internal structures as well, in some detail."  Ghostly images appeared, outlining the results of the scans.  "There are the lungs, all four of them.  Something that we're calling a heart, or circulatory pump, and there are other organs we haven't puzzled out yet.  Interestingly, it has no brain or central cognitive-processing center that we can detect."
+"Demonio?" Linx mulled over the word.  "Little devil.  And no brain?what the hell is it?  An animal of some type?"
+Del Compo chose his words carefully.  "I want to be precise in what I am saying here: the demonio is not an organism in the conventional sense.  In the sense, General, that you and I are organisms.  Properly speaking, it is a colony."
+"A colony--?"
+"A colony of endosymbiotic structures, somewhat similar in appearance, external structure and apparent function to our ANAD mechanisms."
+Johnny Winger's mouth dropped open.  "ANAD?  You mean-"
+Kraft finished the thought.  "This bugger's a bunch of nanoscale mechanisms?  Like assemblers?  Like angels?"
+Del Compo nodded.  "A very advanced colony of apparently designed and programmable mechanisms, small as a virus, but with extraordinary capability-here, I'll show you what I mean."  The doctor directed someone off screen with a flurry of Spanish.  "I've got imagery?this is a Quark Flux image of one of the devices here."  
+The screens flickered and the grainy image of a polyhedral structure filled the view.  The structure was festooned with grapplers, hooks, extended chains of polypeptides, bristling with molecular tools.  
+"I'll be damned," Kraft muttered.  "What on God's green earth are all these doodads?"  He squinted at the image, measuring a fuzzy protuberance on the screen using his fingers as a caliper.  
+"Off hand, I'd say something like a fullerene hook," Winger said.  "Same as ANAD, only it's got a lot more complicated set of radicals at every end.  How the dickens does it stay like that?"
+"We don't know," del Compo admitted.  "I had the same question.  Bond energies should make this structure fly apart, but it doesn't."
+"We're looking at some very advanced nanoscale engineering here," Linx said.  
+"Red Hammer?" thought Camois.
+"Possibly, but this?this is so far beyond what we've ever seen of their work.  Indra, Serengeti, none of them looked like this.  And the lot of them?they're organized?not a swarm but-"
+"Exactly, General.  Organized and held together somehow in a colony that vaguely resembles something humanoid.  These demonio, as we call them, are nothing more than a collection of autonomous nanoscale assemblers, ANADs, if you will.  And here's what's really strange: all the internal structures you see in the internal scan are perfectly designed, if I can use that word, to adapt this creature to living inside these zones of altered atmosphere."
+Del Compo's words hung in the air for a few moments, until the full import of what he had said sunk in.
+"Is this a new species," Camois asked.  "Some branch off the human evolutionary line.  Or some kind of experiment?"
+"Or are we being invaded?maybe colonized ourselves?" Kraft said.  
+"It reminds me of what we saw at Kurabantu Island," Winger realized.  "This may be one of Red Hammer's angel nurseries.  A hatchery of some kind.  All the angels that are showing up have to originate from somewhere."
+Del Compo shook his head.  "Unknown at this time.  It's my belief, however, that these atmospheric alterations, whatever their source, and the existence of the demonio, are related."
+"Did one cause the other?" Linx asked.
+"We don't know, General.  That'll require more investigation."
+Deputy Camois had heard enough.  "This tells me we've got a crisis on our hands and it's growing fast.  If what happened at Via Verde spawned or was somehow created by these?creatures?or  by Red Hammer, then what the hell is happening at all the other sites BioShield has detected?"
+"This could explain why BioShield is detecting heightened nanobotic activity,"  Johnny Winger said.  "Maybe they're detecting these creatures."
+"I'll get tasking from the DG and UNSAC, before the night is over," Camois promised.  The investigation mission will be assigned to Quantum Corps and your ANAD units."
+Linx was satisfied with that.  "Thank you, Deputy.  We won't let UNIFORCE down.  Major Kraft--?"
+"Sir?"
+Linx ticked off what he wanted done on his fingers.  "Work up a tactical plan, every scenario you can think of, and whatever resources you'll need.  Work SOFIE until she's smoking.  Get it to me by 2200 hours tonight.  I'll see the orders are written and scoped to make it all work."
+Jurgen Kraft was already halfway out the door and Johnny Winger was right behind him.
+Table Top Mountain was situated on a high mesa in the Snake Mountains of southern Idaho, like the palm of a hand with ridges and valleys fanning out in all directions.  Hunt Valley and Buffalo Valley swept away in a steep incline to the east and northeast, buttressed by snow-capped mountains.  Desolate ravines folded over the land to the south and west.  The mesa was an isolated, windswept escarpment kilometers from any town or settlement.  The closest town was Haleyville, some thirty kilometers to the east along the twisting, turning Highway 7.
+It was in all respects a perfect location for Quantum Corps' Western Command base.
+The Ops center was a glass and earth building half-buried along the mesa's eastern limb, surrounded by a grassy quadrangle and connected by enclosed tube and walkway with A Barracks and the dome of the Containment Facility directly to the south.
+Inside Ops, the sim tank was the center of activity as the new UNIFORCE tasking came through.  The tank was a small theater run by SOFIE, the Special Operations Force Information Environment, where scenarios and missions could be simulated and rehearsed ahead of time.  
+Johnny Winger was there, along with Dana Tallant, Major Kraft and a select team of planners from 1st Nano.  
+They discussed possibilities, and how to put the tasking into effect.  
+"We've got to send a team into Valencia," Winger was saying.  "Covertly, in case the Valencians are behind this."
+Kraft was inclined to agree.  "I think it's significant that BioShield 'bots have had no impact on what's going on.  Whatever's modifying the atmosphere down there is tougher than BioShield can deal with."
+"And they're using ANAD 2.0 as a base, aren't they?" asked Dana Tallant.  "Doesn't that just scream Red Hammer?  Maybe Doc Frost is working for the cartel now."
+"Two point two, to be exact," Winger recalled.  He felt a buzzing in the back of his head, it was the ANAD master, on the neural circuit.
+***Antique jalopy, if you ask me, Boss.  That version couldn't break a hydrogen bond if his life depended on it***
+Winger smiled.  "Just got a raspberry from ANAD, guys.  He doesn't think much of ANAD 2.0 either.   SOFIE, "he commanded the sim system, "display locations of all atmospheric perturbations detected by BioShield in the last forty eight hours."
+The concave displays of the sim tank flickered and a map projection of the world came up in pieces.  Small whirlpools danced along the upper Amazon, among an island chain in the south Pacific, in the central Congo and in the highlands of Tibet.  
+"Isolated pockets," Kraft observed.  "Widely separated."
+"For now," Winger said.  "SOFIE?best prediction for disposition of these disturbances over the next seventy-two hours?."
+The displays changed again, this time showing larger whirlpools and more of them.  
+"I was afraid of that," Kraft said.  "BioShield data says the disturbances will grow?maybe even link up."
+"We've got to find out what we're up against," Winger said.  "Where's that toxic gas coming from?what's modifying the air."
+"And is it a natural process," Tallant added.  "?or something else?"
+"Red Hammer," Winger shook his head.  "I'd bet money on it."
+***Those demonio creatures have me worried, Boss?.colonies of nanoscale mechanisms?gives me the creeps?***
+"ANAD's right," Winger added.  "We've got to find out what's behind these creatures Dr. del Compo found."
+"Lieutenant Winger," Kraft looked curiously at the atomgrabber, "I know we approved implanting ANAD into containment in your shoulder, but hang it, it's friggin' bizarre when you get involved in one-way conversations."
+"Yeah, Wings," said Tallant, "think you could clue us in once in awhile?"
+Winger shrugged.  "ANAD was just saying those creatures, demonio or whatever, that Dr. del Compo found give him the creeps."
+Kraft hmmpphhed and commanded SOFIE to put up the raw investigative files from the BioShield 'bots that had detected the disturbances.  "How can a device the size of a molecule get the creeps, for Chrissakes?  It's starting to act like my teen-aged daughter."
+Winger found himself defending the little assembler all the time.  "Doc Frost says ANAD's processor is that powerful?he's got the cognitive abilities of a small child."
+"And the temperament too, sounds like," Tallant said.  "But what if you have to spank him?"
+Winger reddened.  "It's not like that at all-"
+"Never mind," Kraft interrupted.  He paced about the tank, studying the displays SOFIE had put up.  Real-time feed from BioShield nanobots patrolling the Earth's atmosphere showed up as undulating virtual cloud masses, as swarms of the nanoscale mechanisms probed and sniffed for illegal nanobotic activity, biohazards and environmental outlaws, all part of UNIFORCE's new mandate.  Isolated pockets of disturbances were highlighted, with the nature of threat attached as floating tags around dancing whirlpools.  The whirlpools over central South America and the other places Camois had mentioned had no descriptive tags at all?only blank fields hovering nearby, as if BioShield couldn't figure out what was going on.
+"We've got to get a handle on this before it spreads too far," the Battalion commander said.  "Winger--?"
+"Yes, sir?"
+"You sit down with Tallant and put together a full ANAD team for insertion.  People, equipment, tactics, the works.  Pull from 1st Nano, and 1st Bio as well.  We might just be looking at a counter-twist mission here and I want to be ready."
+Thinking of the demonios, and how severely the epidemic of twist, or pirated, rogue DNA had infected parts of the world, Winger nodded gravely.  "You thinking these things could be a gene experiment gone bad, sir?"
+"I don't know what to think anymore.  Red Hammer's up to something and it's big.  All I know is what I can see: BioShield's run into something it can't figure out and it can't stop and people are dying because of it.  That's all we need to know.  CINCQUANT's given us our orders?now we have to execute."  His stomach churned at the scenarios they'd already played out?none of them had a happy ending.  "UNIFORCE has given this thing a UNICON Purple priority.  That means we move fast.  Lieutenant, I'm forming an ANAD detachment immediately.  You'll be in command but I'm pulling elements from anywhere I can.  Get over to Mission Prep and get your gear ready for a little recon trip to Valencia.  I'll notify a hyperjet to stand by."
+"On my way," Winger said.  He and Tallant hustled out of Ops to head over to the Ready Room at Mission Prep, across the quadrangle, to go over personnel and gear.
+On the sprint across the grassy expanse of the quad, Winger and Tallant ran headlong into Holt and Reinhart, from 1st Bio.
+"Hey, Wings," called Holt.  "I hear you're off to South America, with half my people.  Sure you don't need some help with all those creepy-crawly things?"
+Winger was deep in thought, listening to ANAD chatter over his internal neural circuit.  
+***Looks like the real creeps are here, Boss.  I guess virus-lickers can't help it?what are they qualified for anyway?wiping cow's asses?  That's all a virus is?a stupid cow?all bubble head of DNA and some lipids, grazing in a field of cells***
+"I think we can manage it, Holt.  Maybe your guys will learn some manners after a few missions with 1st Nano."
+They hustled along the pebbled path to Mission Prep, where expeditionary equipment for ANAD detachments was housed: hypersuits, HERF guns and coil-gun rounds by the thousands in the ordnance bunker, plus racks of Super-Fly entomopters for recon, MOB-net canisters for immobilizing the enemy, camou-fog and fully enabled interface controls ready to go.  
+Beyond the roof of the bunker lay the three liftjet hangars, A, B, and C, and beyond that, perfectly framed by the snow-covered mountain backdrop of the Snake Range, lay the north liftpad, where a sleek black hyperjet was veetoling in for a vertical touchdown.  
+"There's our ride now, Holt.  Hope your guys don't mind riding rear seat to the elite."
+Holt snorted.  "Elite, my ass.  I'm just waiting for a chance to show you nano guys what a real combat outfit does for a living.   Why don't you stand down and let the adults take over?  No sense assigning kids to do what real men do better."  
+Winger tapped the soft skinpatch where the ANAD capsule had been implanted in his shoulder a year ago.  "You want me to show you what my little brother here does to real men?  It takes about two and half minutes?then we have to call Facility Services to come clean up the puddle of protoplasm that's left."
+Dana Tallant turned and faced the 1st Bio puke nose to nose.  "Look, Holtzie, lay off, will ya?  This deal's UNICON Purple?and you're not invited."  She brusquely shoved the taller man back down the steps as they went inside.
+"What a creep!" Winger said as they wound their way through corridors to the Battalion Ready Room.  
+***Let 'em have it, Boss?me and my friends eat scum like that for breakfast***
+Winger smiled at that.  "Maybe so, ANAD, but right now, we've got some packing to do.  You and me are taking a little trip across the Pond."  
+Tallant veered off to sign herself into the ordnance bunker and check out enough ammo to cover the mission.  Winger headed for the hypersuit lockers?they'd need twelve at least, and the programming still had to be updated.
+***Hey, Boss, I've been thinking about those demonio creatures.  I've got a theory--***
+"Shoot, ANAD.  I'm listening."  Winger pressed a few buttons on the wrist keypad of the first 'suit and its servos whirred as it clamshelled open.  
+***The doctor said it was a colony of nanobots, kind of like me.  I've got a theory why maybe BioShield didn't detect any such bots until it was too late***
+"And what might your theory be, ANAD?"
+***Just this: what if the 'bots that make up the creature don't really look and act like nanobots?  What if they don't produce the heat signature and atomic activity that I do when I replicate?  What if they look just like ordinary molecules of air and dust, floating around like normal?  Would BioShield even see them?***
+Even though he had the cognitive ability of a twelve-year old, once in awhile ANAD hit on something that made you think.  Johnny Winger paused in his checkout of the first hypersuit, dropping his head back out of the helmet and sitting on the bench seat that served as the control center of the suit.  
+"Maybe not until it was too late.  I don't know, ANAD?I hope that's not true.  From the very beginnings, BioShield was installed to be able to detect and prevent illegal nano outside of containment, just to keep the world safe, you know.  The whole thing's predicated on being able to detect nanobot activity?.all assemblers produce atomic debris, heat, that sort of stuff.  If you're right and we're dealing with 'bots that can go about their work and leave no detectable trace-"  Winger shook his head.  "-that's bad news.  Really bad news.  I just hope what Kraft says about Doc Frost isn't true?that he's working for Red Hammer now. "
+***Sorry to bring bad news, Boss?but if I can think of it, somebody else can too***
+
+Chapter 3
+"Escape from Paryang"
+
+Paryang Valley
+Gangdise Shan, Tibet
+People's Republic of China
+January 3, 2049
+
+"Irwin, do you even know how to operate this thing?"  Mary Duncan tightened her seat belt a little tighter as the lifter wobbled, descended slightly and then stabilized itself.
+Dr. Irwin Frost checked his flight controls.  "I have the profile and destination programmed in?I'm doing exactly what I saw the real pilot do two days ago.  Maybe a setting is wrong-we shouldn't talk too much either, Mary.  We don't know what might trip these halos."
+Duncan bit her lip and sank back in the seat.  Frost was right.  Last week, Duncan had been just fantasizing about a day long ago at Northgate University-the Autonomous Systems Lab-when ANAD was still being developed-and her halo had gone off.  It was like sticking your head in a vise.   The bots inside her brain had stoked the dopamine receptors around her ventral tegmentum for only a few minutes.  As a result, she'd spent three days in the infirmary?.and gotten a visit from a swarthy Russian named Kulagin, said to be someone from the Ruling Council itself.
+"Let's not have too many more of these episodes, Dr. Duncan," Kulagin had warned her.  "Your neural synapses can't take it."  From the first day they had arrived at Paryang, her brain had been infested with uncountable gazillions of mechs, all working in unison, all stimulating and massaging the neural pleasure circuits, pretty much on command.  Dr. Frost too.   Kulagin chuckled at the prospects, envisioning  the froth inside her head churning in dopamine soup, as the mechs plied their trade, working the synaptic gaps like a musical instrument.  A symphony of fake agony played out on Kulagin's face.  "Sit up straight and think Red Hammer thoughts and everything will be kosher, no?"
+The Russian left with a smile tickling his lips.
+From that day on, Frost and Duncan had learned Lesson No. 1.  When you were a prisoner of the cartel and you had the halo, you didn't spend ten seconds thinking about anything other than what you were supposed to.  Which meant they focused almost all their attention on the Project.  Almost all--
+Mary Duncan watched as the sere wasteland that was Tibet's high desert rolled by beneath them. The crumpled white peaks of the Himalayas lay off to their right?the roof of the world, some called the area.  It still amazed her that somehow, some way, Irwin had managed to wrangle a ride on one of the cartel's lifters-a few days ago, they'd made a quick trip to a Red Hammer lab down in Kolkata and come back that same day-and in the process, had learned enough to commandeer a vacant lifter later and program it to take off, follow a flight profile and set them down at a destination.  It helped that Kolkata was one of the programmed destinations.  It also helped that Irwin had been able to finagle his way through multiple layers of security, out onto the little landing field behind the monastery and convince the guards, human and robotic, that he had a reason to be there.  She'd seen a side of the doctor she'd never seen before during their imprisonment at Paryang.  A hard edge and ruthlessness that she'd never noticed before, hiding underneath the avuncular exterior that made Johnny Winger always refer to the professor as "Doc."
+Somehow, they'd made it onto the lifter.  Frost had input the programming details and the rotors and thrusters had spun up and the little bird had bounced into the sky as if it were a fly about to be swatted.  They'd left the monastery that dominated the valley behind quickly and turned almost due south.  Frost had told her they would fly low, only a few thousand meters over the desert hardpan and rolling brown hills and make the Indian-Nepal border in a few hours.  After that, a straight shot into Kolkata and they could notify Quantum Corps and the authorities of what had happened to them.  Frost was sure his beeper would be picked up as soon as they left Chinese airspace.  If they could just avoid the radars.  And the killsats.  And most importantly, the halos.
+They flew on in silence, only daring a few words here and there, trying to keep the focus of their thoughts on aspects of Red Hammer's Project?a years-long effort to replace key people in business, politics, sports and entertainment, all around the world, with duplicates.  Angels, most people called them.  Symborg was the first step in that direction.  And the Church of Assimilation which had sprung up around the robotic celebrity and created a whole mythos about going through deconstruction and merging with some greater entity that Red Hammer had given the name of the Old Ones?it continued to amaze the hardened members of the Ruling Council how gullible people were.
+The latest aspect of the Project was atmosphere modification, starting with the nurseries for angels that the cartel had created in several places around the globe.  Modifying the atmosphere, creating bubbles of toxic air and growing them into country-sized zones of death was a pure ransom play, nothing else.  But if the Project succeeded, Red Hammer would have a clear and level playing field in which to run its criminal enterprises.  Quantum Corps would be scrapped, its ANAD systems shown up to be worthless and ineffective against Red Hammer.  Profits would soar.  A pusher's dream.  Addiction on demand?the Halo had been the first element of that part of the plan.
+Duncan and Frost both knew they had to escape, they had to get away and notify Quantum Corps and UNIFORCE as to what they were facing.  When Kulagin casually mentioned over dinner one night that the halos were being upgraded and everyone's efforts would be 're-doubled,' Irwin Frost knew he had to act.  If they waited any longer, they might not be able to act.  The halo bots were already able to stoke dopamine and serotonin fires in a wearer's brain on command.  Pain and pleasure at the push of a button.  With Kulagin's upgrades, so Frost surmised, even free will and motivation circuits might be compromised.
+"We have to go now, Mary.  Tomorrow, after the upgrades from what I hear around here, it may be too late."
+So they went.
+"Fifty kilometers to the border," Frost announced in a low monotone.  One popular notion about the halos was that you talked in monotones and didn't get too excited about anything.  
+Duncan looked out the porthole.  "Pretty desolate down there.  A few villages.  Smoke from cooking fires.  Saw a herd of something a few minutes back?Irwin, do you really think we can stop the cartel?  I mean, these angel assemblers are basically ANAD clones?but they replicate and fold like crazy."
+"It's all in the algorithms, Mary?the configs?they're doing things in code I never thought possible-" Frost stopped in mid-sentence, aware of a faint buzz inside his head, realizing after it was already too late that he'd tripped the halo, broached a forbidden subject, elevated neural activity and synaptic cascades in places he shouldn't have and now?now?it was like going over a waterfall, there was no stopping it?.
+	"Irwin?Irwin?what's wrong?you need to let that controller go?you're putting us into a turn?Irwin-"
+He was fighting it, she could see that, with his face turning blue and his eyes scrunched up-the pain had to be excruciating...a gazillion hot needles all jabbing into your skull at the same time.  His fingers had been forced to grasp the control stick, though his hands shook with uncontrollable tremors and his fingers flexed as he fought against the commands tumbling through his cerebral cortex.  A force greater than any man's willpower was already exercising contractile fibers against his will and slowly, but surely squeezing his fingers onto the control stick.
+The lifter rocked and wobbled and began to descend at an alarming rate.
+"Irwin--!"
+"I can't fight it, Mary!  It's-my hands?arrrggghh--"  
+Duncan winced as a bone cracked loudly, and she nearly fainted when the bone ripped through the skin of his index finger in a way no bone was ever meant to move.  His face was white and sweat poured down his cheeks.
+Despite the halo, Frost gripped the controls with white-hot knuckles.  "It's trying to make me turn us around!" he said.  "But?so far?so far?I've got-"
+The lifter swerved, dived and rose, banking hard left and right.  Duncan noticed they were in a gradual descent; through all the turns and banks and swerves, the flyer had lost altitude and now they were less than a thousand meters above the desert.  The sharp peaks of mountains were ahead of them on the horizon. 
+Frost took a peek at the map.  "We're off course?going east-southeast?looks like?"  a vibration rattled his voice into tremors, "looks like one two five degrees.  That's not Nepal or India ahead-"
+"Myanmar," Duncan noticed from the map and murmured out loud.
+Frost fought for many minutes against the commands of his halo, and the lifter mirrored the struggle, at first following one heading, then jerking back to another heading, then hunting for yet a new heading.  Through it all, Frost's hands and arms jerked in spasms as he struggled against the Red Hammer bot swarm infesting his head.  His face was a grimace, pale and shiny with sweat.
+Mary Duncan knew he had to be in one hell of a lot of pain.
+"Anything I can do--?"
+At that moment, they passed over the granitic limestone humps of the Kachin Hills, into Myanmar.  A green canopy lay before them, divided by the sinuous ribbon of a muddy river.  The map said Irrawaddy.
+Doc Frost made one last effort to wrest his hands and arms back under control, but the halo was too strong.  Weak from the struggle, his whole body trembling, his wrists blue from the strain of working the controls against the contractions his halo dictated, Frost finally passed out.  He slumped in his seat.
+Mary Duncan gasped, tried reaching for the stick but it was already too late.  They were in a terminal plunge.  All she could do was watch the terrain streak by at an ever-increasing blurry speed?and pray.
+Below the lifter, the great river made its sluggish way down toward the Andaman Sea, hundreds of kilometers to the south.  Lined with dense banks of mangrove stands, the flyer screamed a hundred meters over a raft of teak logs lashed together, barging its way downriver to some port they couldn't see.   Beyond the mangrove tops, the hills were covered with golden mounds-stupa for deceased Buddhists-- looking like rows of stone anthills as they sank ever closer to the ground.
+In the last seconds of their descent, Mary Duncan was able to wrest enough of the stick out from under the prostrate body of Doc Frost and lean hard on it, hard to the left.  
+The underbelly of the lifter snagged the tops of a mangrove stand and cartwheeled hard left, then sank spinning nose-first toward the river banks, before finally plowing into shallow river water just offshore.  As the lifter skimmed the top of the water, sending up a plume of spray in all directions, she felt the flyer gain lift for a few meters once more, before burying its nose into the water.  The craft plowed head-on into the teak log raft and groaned to a halt, with a screech of metal bending.
+Seconds later, the lifter, by now holed in multiple places belowdecks, began taking on muddy water, filling the cabin and flight deck in seconds.  The craft upended nose first and began steadily sinking into the muddy river bottom.
+Mary Duncan was knocked unconscious for a few moments by the impact and the spin.  Doc Frost was thrown clear of his seat and slammed against the forward windscreen.  Although she didn't know it, the moment of impact had re-activated the beeper that Quantum Corps had implanted in Frost's shoulder months ago.  Faint and intermittent, the locator signal shot skyward and was soon picked up by UNIFORCE satellite orbiting overhead.
+Meanwhile, Mary Duncan clawed her way back to some semblance of consciousness.  The gurgle of water rising at her ankles got her moving.  With every ounce of strength she had left, she wrestled Doc Frost from being pinned at the shattered windscreen and dragged and muscled him out the back of the cockpit.  A jagged hole, filling with water and now thrashing with fish, greeted them.
+Duncan took a series of deep breaths and, with one arm tucked under Frost's shoulder,  ducked them both head first through the hole, now completely underwater.
+
+Chapter 4
+"Quantum Collapse"
+
+Via Verde, Republic of Valencia
+South America
+January 6, 2049
+Early morning?.
+
+Johnny Winger didn't know what to expect when the Detachment finally made their LZ a hundred and fifty kilometers west of Afalamos, Valencia.  All he knew was how thick and impenetrable the jungle was below the lifter skids and how forbidding the terrain seemed from several thousand meters.  Clumps of misty clouds drifted lazily over the quilted green carpet as far as the eye could see.  Even finding the Yemanha River was hard; the building clouds offering only occasional glimpses of the muddy brown ribbon.
+"Village coordinates coming up, Lieutenant," said the lifter pilot, Sergeant Graves.  "Dead ahead?around that bend in the river, looks like-"
+"I don't see a thing?not even a clearing."
+"Me neither, Skipper.  I'm hunting now for a place to set you guys down."
+Their mission was simple enough to state, if damnably hard to pull off:  reconnoiter the village of Via Verde and its surroundings.  Ascertain who or what was causing the atmospheric perturbations BioShield had detected.  Was there some kind of illegal nanobotic reservoir in the area, modifying the air locally?  Was Red Hammer behind it?  And find out where those strange, predatory demonio creatures came from.  Dr. Del Compo had theorized there was some kind of nursery in the vicinity of the abandoned Xotetli village.  What connection did the creatures have with the changes in the atmosphere?
+Sergeant Chris Calderon was CEC1 for the Detachment, in charge of containerization and environmental control.  With the ANAD master embedded in a capsule in Johnny Winger's shoulder, the CEC's didn't have a lot to do.  Winger had put Calderon to work monitoring the atmosphere as they approached the LZ.
+"CEC, what's the air like outside?"
+Calderon was a humorless, by-the-book type, and a bit of a tinkerer.  He read tech manuals for entertainment.  
+"Reading minor fluctuations, Lieutenant, that's all for the moment.  Oxygen levels down ten percent, actually dropping even as I speak.  Nitrogen's good, but CO2 is up over a thousand parts per million?that's about three or four times normal.  We need to stay in our suits.  Soon as we set down, I'll release the sniffers."
+If we can find a place, Winger thought.  "Very well.  Graves, it's up to you.  How about that small beach over there?"  The atomgrabber pointed to a narrow peninsula jutting out into a bend in the river.
+Graves cleared his throat.  "I'll try it, Skipper."
+The lifter whirred sideways, scuttling through the air like a drunken bat, tilted and eased down to a soft thump on the bank of wet sand.  Graves let her settle gingerly, unsure of their footing on the soil.  But the lifter stabilized and he cut the rotors.
+"Detachment, fall out!"  Winger buttoned up his own hypersuit-it went without saying the suits were universally detested, but in Indian country, it was best to have the protection.  With each trooper plugged into the crewnet, the whole Detachment could move and make tactical decisions almost as a single organism.  
+Alpha Detachment assembled on higher ground above the LZ, while the packbots offloaded their gear and set it up: the MOB canisters, the HERF guns and mounts, coilguns, camou-fog generators and SuperFly pods.  
+Winger got on the crewnet.  "Okay, let's get 'Fly up and circling.  I want some eyes overhead."
+"Underway, Skipper."  DPS1 Sergeant Sheila Reaves was the Detachment's comic cutup, with her red hair burred down to the nubs and a flair for the unpredictable.  Disarmingly clumsy with a snorky kind of laugh, she was also the Corps' reigning coilgun master marksman and could put a magazine of rounds on target faster than you could blink your eyes.  Reaves unbundled the case of tiny fly-sized entomopters and spun them into the air, activating their motors.  Moments later, a horde of 'flies' buzzed overhead, competing with the native Drosophila swarming around the LZ.
+Winger had already programmed their ground route and called up the path.  The ghostly lines flickered on a dozen eyepieces simultaneously.  
+"We head north by northwest, according to the sat images and what Dr. Del Compo said.  Along the riverbank.  Those caves and the grotto are that way.  Calderon--?"
+The CEC1 had just released a swarm of sniffers, tiny dust-mote sized sensors spreading out to check the air.  "Definitely deteriorating, Captain.  Sniffo reports CO2 levels rising rapidly?now reading over five thousand parts per million.  O2 partial down and dropping.  Pressure's fluctuating too, mostly down?we're in a little bubble of Mars, almost."
+"That's a good sign," Winger decided.  He whirred his suit servos into action, setting mobility on auto.  The motors moved his legs with no effort on his part, gyros keeping him upright and stable in the slippery footing along the riverbank.  "Means we're heading in the right direction.  Okay?move out."
+As one, the hypersuited troopers slogged forward along the edge of the jungle, surrounded by hordes of flies, as they headed west by northwest.  The going was hard, owing to the treacherous footing, though the undergrowth was minimal, mostly hard ropy vine and cypress 'knees' half buried in wet sand.  Out on the river, a formation of tapirs made a "V" in the water as they padded upstream, their black snouts just visible above the wake.  
+"Lieutenant?look at this!"  It was Corporal Chandra Singh, the DPS2, running point guard for this leg of the trek.  
+Winger cut his suit back to manual and thumped up to the high ground where Singh stood by the weathered trunk of an araucaria tree.  It mushroom canopy rained sharp needles on them in a slight breeze.
+Singh had found some sort of sign or totem: two tapir jawbones, still filled with teeth, slung from a low branch of the tree, crossed in the shape of an X.
+"What is it?" asked Reaves.  Her own suit motors hummed trying to keep her level in the soft earth.  "Some kind of warning?"
+"Maybe," said Winger.  "We've seen plenty of evidence of the Xotetli around here.  Look over there-" his pattern recognizer had found more evidence of habitation and bracketed the image in his eyepiece.  
+A cone-shaped cage fashioned from sticks had been gouged into the ground just inside the tree line.  Alongside it lay a perfectly round, soot-blackened clay pot.  
+"The universal language of the jungle," surmised Master Sergeant Al Glance, the CC2 and Winger's second-in-command.  "It means 'stay out'. ' Come no closer'.  We must be real near the Xotetli village."
+"Or what's left of it," Reaves said uneasily.  
+"Something sure came this way," Singh added.  "And it wiped out the whole tribe."
+The hairs on the back of Johnny Winger's neck bristled.  It was a sign he had long ago learned to pay attention to.  He clicked open a separate channel to ANAD.
+"We'd better get you launched and formed up, pal.  I don't like the looks of this.  We're exposed as hell and the atmosphere's going south in a hurry."
+***ANAD ready in all respects?let me take a look, Boss?anything naughty out there, I'll sniff it out...***
+Winger got back on the crewnet.  "Let's halt here.  I'm launching ANAD, putting up a swarm screen for defense.  Gibby, you take control when he pops."
+Sergeant Hoyt Gibbs was the IC2.  He replied, "Standing by to take control, Skipper-"
+The Detachment halted.  
+Winger pressed a small control stud on his wrist keypad.  The whole sequence was automatic, taking less than twenty-two seconds now, since they'd practiced the maneuver so many times.
+The containment capsule port in his left shoulder cycled open, and in unison, a separate tube and port on the hypersuit shell did likewise.  Now an open path was clear.  
+Inside the capsule, ANAD reported his progress over the link to Winger.
+***?safing now?effectors folded?bond weapons enabled and primed?propulsors spinning up?processor in tactical one?***
+"Load max rep program," Winger commanded over the link.  Only he and ANAD could hear them talking.  The quantum coupler link bypassed the crewnet completely.  "I want a full defensive screen airborne, all azimuth."
+***?loading max rep program?done?ANAD ready for launch?configuring ejector?counting down?three?two?one?and AWAY!!!!...***
+As the Detachment looked on, a small puff of mist escaped from the left shoulder of Johnny Winger's hypersuit, quickly dispersing in the breeze.  Instantly, the port squeezed shut.  The suit was fully buttoned up again.
+Overhead, the mist quickly swelled into a shimmering pulse of light, as trillions of daughter assemblers were born from loose atoms.
+"ANAD signaling--," Gibby reported.  He watched readouts on his eyepiece?pH, pressure, temperature, the rep counter ticking over in a blur as exponential numbers showed the growth of the swarm.  "-I've got data now?good data?numbers coming up and everything's in the green?swarm now at one quarter and accelerating-"
+"Move out," Winger commanded.  "ANAD can follow along."   His suit had the coordinates and he put the thing back on automobility, so he could think as they trundled deeper into the jungle.  
+Sooner or later, he thought, we're going to run right into whatever is changing the atmosphere around here.  
+It turned out to be sooner.
+
+Gibby's voice startled him out of his thoughts.
+"ANAD reports temperature rising ahead, Lieutenant.  Picking up loose radicals, atomic debris?something's happening and it's chewing up the air."
+They had cleared the bend in the Yemanha River and were now tracking almost due west, bearing two six five degrees, along the riverbank.  Limestone cliffs had formed inland, squeezing the beach down to a narrow footpath of wet sand and soft loamy black mud, making footing treacherous, even for their suit treads.  The water was strangely slow and sluggish, as if it had somehow thickened.  Small humps of rock and mats of grass made gurgling hydraulics all across the river.  
+"I see it," Winger reported.  The feed from ANAD, as well as from the sniffers and Superfly tiled the image viewer on his eyepiece.  He flicked out a tongue at the control stud, letting ANAD's take expand to cover the view.  Gibby was right:  acoustic sounding showed hydrogen radicals had thickened along with loose chains of oxygen atoms.  The air was choked with them.  Oxygen was highly reactive?any atomgrabber knew that.  It hated being a single atom and clumped together into pairs like lint to a wool sweater.  Something was stripping oxygens apart and keeping them that way.  Something with a lot of energy.
+"Gibby, command ANAD into tactical two?full defenses.  I'm taking a closer look-"
+"Got it," Gibby reported.  He sent the command and, as one, the ANAD swarm armed its full weapons suite: enzymatic knife, bond disrupters, the works.
+Winger linked in to see what the tiny assembler was dealing with.  A dizzying image came up on his eyepiece--
+--Long, whippy chains were hurtling at him?a sleet of shapes of every size and description.   Cones, polygons, tetrahedrals, pieces of lattice, a junkyard of molecules streamed at him and he soon found he had to squeeze down to minimum radius just to keep from being sliced in half-
+"ANAD?what the hell is all this crap?"
+***sorry, Boss?had to stow my effectors?it's a blizzard down here?something's really churning up ahead?stripping off atoms and  pieces and junk like crazy?I'm up to max propulsor but I'm barely moving?may have to go quantum if this keeps up***
+"Can you move in closer?see what's causing it?"
+***I'm trying?but it's a battle?I'll have to fold in a few more effectors?get real small?whatever it is, it's kicking up a storm?and it's huge too***
+Winger let his hypersuit carry him forward, along with the rest of Alpha Detachment, while he monitored ANAD's progress.  
+***Sounding major pressure pulse ahead?I'm slowing to half power? temperature spikes?big temperature spikes?whew!  The debris is picking up?it's really tough--***
+Winger could feel the battering the tiny assembler was taking.  It was like wading into the ocean surf in the middle of a hurricane.  The coupler link was working a little too well?Johnny could feel the impacts of errant atoms and radicals, molecular junk hurtling at him, pounding and slamming into him.  
+I've got to turn this down a bit?I can't even see or think straight.   Maybe Doc Frost could tweak the quantum coupler, drop the gain a bit, so he wouldn't be fully exposed to what ANAD was feeling.  Maybe humans weren't made to sense things at atomic scale.
+"I'm not seeing a thing," Winger muttered.  He switched back and forth from ANAD's view to an exterior scan of the jungle around them.  It was disorienting, to say the least.  
+***Just getting a tickle now?see those shadows up ahead?here?I'll maneuver sideways?get a better angle?***
+And then he saw it, materializing into view like a battleship in a fog bank.
+Straight away, Johnny Winger knew in the pit of his stomach what he was staring at?Del Compo's demon itself?the master nanobotic device, hove to like a menacing predator coiled to strike.
+Roughly cylindrical, with pyramidal diamondoid bases, the bot was festooned with uncountable effectors, cilia, propulsor banks, peptide chains wavering in the currents, pyridine probes and bond disrupters lining every available space like so many cannon ports.  The thing resembled a great dreadnought, primed for slaughter.  
+And ANAD was closing fast.
+"Config One!" Winger ordered.  But he didn't have to.  ANAD was already deploying to engage.
+A furious combat ensued.  The enemy was one hell of a big bot but surprisingly nimble for so much mass. Surrounded by daughters, it grew and retracted appendages and surface structure with blazing speeds.  Even as Winger watched, the master bot discarded an armful of carbon monoxide molecules it had been altering and prepared to engage.
+***Closing now?five thousand microns?I am in Config One?bond disrupters are enabled?four thousand microns?***
+For a brief moment, Winger clicked his eyepiece to external view.  Just as he suspected, a faint green phosphorescent glow had just boiled off the top of the river, and was now sweeping shoreward, toward them.  
+"DPS?get your HERF guns spooled up and ready!  We got company!"
+Sheila Reaves was already on it.  "Weapon is enabled, Lieutenant.  I'm sighting in now?what the hell is that?"  She cycled the HERF weapon and boresighted on the target.
+"I don't know exactly, but ANAD's view isn't pretty.  I'm guessing it's the main pulse?the bots that are messing up the atmosphere.  ANAD's replicating now-I'll detach a formation to screen us.  Detachment, halt!  Take cover?and for God's sake, get small!  This one's big---and coming fast!"
+As one, the rest of Alpha Detachment hunkered down along the edge of the river, wedging themselves into the sand and dirt as deep as their leg servos would drive them.   Singh put Superfly in a defensive orbit while Calderon switched the sniffers to auto.  With any luck, they could ride out the first assault and resume the engagement in a few minutes.  
+It all depended now on ANAD.
+Winger switched back to ANAD view and tried to orient himself into the maelstrom of nanoscale combat.
+Up close, the master bot had one tough outer membrane.  Crosslinked peptide chains, from the looks of it, Winger figured.  The membrane seethed with motion, as atoms and clusters of atoms twisted, bonded, twisted again, rebonded, broke apart, recombined, straightened, undulated and whirled.
+The gap between them vanished and ANAD grappled with the nearest bot.  Others swarmed into the battlefield.  
+The imager screen shook with the collision, then careened sideways.  And, linked in over the quantum circuit, Johnny Winger winced hard at the sting of the assault.
+Jesus?that hurts?
+***?come on, you atomic assholes, eat my carbenes, you jerks!...take that--***
+ANAD swung a chain of bond disrupters forward, engaging the nearest bot.  He cruised in at flank speed, propulsors whining and seized a phosphor group off the bot, twisting atoms until the bonds finally broke.  Liberating thousands of electron volts, ANAD's disrupter zapped the bot and shattered its outer shell, ripping off probes left and right.  The enemy bot shuddered and spun with the pulse, then re-engaged to fight off another bond snap.
+***gotcha, didn't I? you want another piece of that, huh?  Take this--***
+ANAD closed again, intending another bond snap, but this time, the bot was ready.  It whirled in a faster spin, wheeling about like a carrousel, making contact impossible.  At the same time, something tough grappled him from behind-Winger felt the kick in his seat-he tried to turn but he was caught, pinioned in a vise-like grip?
+***what the hell?...***
+Whatever it was, the bot had grappled ANAD from the opposite side and was steadily reeling him in like a truculent fish on a line.  He squirmed-Winger could feel the rubbery snare tightening like a ball of twine being wound up?squeezing hard, crushing the life out of him--
+"ANAD, can't you break out?get free?"
+***No?I'm caught?like a net?the harder I move?the tighter it gets?what the hell is this?***
+The imager view vibrated with the ferocity of the attack.  Chains of oxygen molecules, pressed into service as makeshift weapons, whipped across the screen.  The enemy's master bot still seethed with rapid motion, churning up a storm of debris as it whirled and vibrated.  All around, trillions of daughter replicants duplicated the same maneuver, an entire fleet turning and re-deploying.   Everywhere at the same time, the fleet added new strings of molecules, building structure to make an armor shield of highly reactive chlorine atoms, reaching out to grasp the ANAD swarm with stinging tentacles of atoms that quickly immobilized them.
+***?Base, I can't hold structure?it's these blasted chlorines?got to reconfig?shutdown peripheral systems!...***
+Gibby was watching the engagement on his own eyepiece, an acoustic image from ANAD itself.  He didn't like what he was seeing.
+"He's got to disengage, Skipper?emergency truncation.  Everything not critical.  We've got to get ANAD out of there before we lose him!"
+Winger knew he was right.  Hell, he could feel the snare tightening with each turn of the enemy bot, a great fist slowly closing.  It was almost like a MOB net in miniature?an impossibly long chain of atoms wrapping up the assembler like a spool.  Everywhere around them, the enemy bots were duplicating the same tactic.
+"I know, I know?just keep trying, Jesus?internal bonds on main body structure weakening?I've lost all grappling capability?" he had to focus, dammit! The pressure was enormous, atoms stripped from atoms, bonds snapping with a crackle?Winger swore and clicked out of the quantum circuit, out of the ANAD view.  He couldn't take it, couldn't take the intensity, the squeeze, the overwhelming smothering-
+Dammit!
+Angrily, Winger clicked back to acoustic view.  As he watched, the bot systematically dismantled ANAD, molecule by molecule.  The enemy was strong, more flexible than any structure that size had a right to be, with some kind of grappler that could extend impossibly far and sting like a tentacle.  With ruthless efficiency, they whirred and chopped every device ANAD could generate, all the while, squeezing ever tighter.  ANAD tried to counter, replicating probes, inserters, jaws, cilia, pumps, blowers-but it was no use.
+Amazon?for that was what he started to call the thing?was too strong.  Somehow, the master bot seemed to anticipate ANAD's every move.
+Winger was awed by Amazon's combat capabilities.  "Incredible," he whispered.  "The perfect warrior.  Must have one hell of a processor."  And he kicked himself for not being there with ANAD?somehow Doc Frost had to dial down the quantum circuit, cut down the intensity of the feed.  If they ever found Doc Frost again?
+They had no choice but to disengage.  The top atomgrabber in the Corps hated to admit he was beaten, but he had a responsibility, to ANAD, to the Detachment, to the mission.  He had to pull ANAD out-any way he could-before it was too late.
+"We're losing signal strength, Lieutenant!" Gibbs yelled.
+"I see it!  Amazon's got his fingers in the matrix now.  Main processing functions in danger?I'm counterprogramming?."  Winger pecked madly at the keyboard, dimly aware of a shrill keening whine outside his suit helmet.  
+With ANAD down, they were defenseless against the Amazon swarm.
+"DPS1?get that HERF gun ready?ANAD's got to pull back?when I give the word?slam 'em!  Fry the bastards!"
+"On your mark, sir-"
+ANAD couldn't hold.  The only hope looked to be a quantum collapse?but the timing had to be right.  If ANAD collapsed and the HERF fired before ANAD's core was safely contained, they'd lose everything: master assembler and all.  Then they would really be in a hurt.
+Gibby shook a fist at the image on his eyepiece, now a dark, swirling mass of shapes and forms.  "Come on, damn it!  Come on?."
+But it was no use.  ANAD was outgunned.  Every move was countered by the enemy swarm.  Amazon's response was swift and sure.  Winger, Gibbs and the others watched in their eyepieces in amazement and horror, as one by one, ANAD's capabilities-fine motor control, attitude and orientation, propulsors, sensors, molecule analysis, replication-were rendered inert or completely lost.
+ANAD was helpless.
+"Got to get the hell out of Dodge," Winger muttered, sick with anger at how little help he had been to the assembler.  You didn't abandon a buddy on the battlefield, no matter what?that had been drummed into every Quantum Corps trooper from the first day of nog school.  No matter what it took?you got your buddies out.  Even if they died in the effort.  
+Gibbs was checking status.  "It's bad, Lieutenant.  No electron lens.  No enzymatic knife.  Hardly any effector control.  ANAD's crippled.  We can't let 'em get to the core?can't let the enemy rob the bank-"
+Johnny Winger gritted his teeth.  "Not just yet?"  His fingers flew over the keypad.  "Gotta get some data on this bastard?got to probe that bugger and get some structure?know what we're dealing with?if I can just get stabilized-"
+"Lieutenant-there's nothing left to stabilize-"
+Despite the risk, the mission demanded something more.  Earth's very atmosphere was under threat?who knew what could stop these bots, if anything could?  They had to get data on what Amazon nanobots were like?and who was behind them.  If it meant sacrificing ANAD-
+Sorry little buddy, but the mission has to come first.
+Grimly determined, he piloted what was left of the ANAD horde back for another wrestling match with the enemy
+"Whatever this thing is," he swore to himself, "it reacts like ANAD itself, only supercharged a thousand times."  Was it Doc Frost's work?Frost now working for Red Hammer?  No, he'd never believe that.  He worked the config controller stick, while Gibby managed status, crossing his fingers that the ANAD master would hold together just a little longer.
+And that the Detachment could fend off the Amazon swarm now descending on them beside the river.
+While Sheila Reaves kept the HERF gun sighted in, and her fingers poised above the firing button, Winger 'wriggled' ANAD a bit more vigorously in its tentacle embrace.  Managing to move a few nanometers, he siphoned off some of the grappler's outer electrons until the charge had built up enough to send a zap down the length of the chain.
+Like being stung by a bee, the grappler loosened just a bit, and Winger was ready, commanding another squirming fit by ANAD.  Reams of bond energy data and config details burst onto the imager.  The enemy bot's grappler had given up vitals on structure and ANAD's core snatched the info right out from under him, storing it, pulsing it back to its human controllers.
+"Now, I gotcha, you little bastard-"
+It was time to get the hell out of Indian country.
+"Executing quantum collapse?NOW!"  Come on baby, get small for me?get real small?."
+Deep inside the crushing embrace of the grappler, the ANAD master collapsed what was left of his own structure in an explosive puff of atom fragments.  Base, effectors, probes and grapplers, even the core shell surrounding its main processor, went hurtling off into the air in a big bang of spinning atom parts.
+ANAD?at least, the barest whiff of what had once been ANAD?was finally free.
+And the Amazon bot's grappler was left holding?nothing?nothing but a ghostly afterthought?an entangled quantum shadow of its once squirming captive.
+Instantly, ANAD disappeared.  To all intents and purposes, ANAD had effectively vanished in a cloud of blurry quantum waves.
+Less than two minutes later, making its way on quantum wave propulsors, ANAD was finally captured in the embedded containment capsule in Johnny Winger's shoulder, its processor still dogging electron states to bring the nearly invisible device home.
+That's when Winger told Sheila Reaves to fire the HERF gun.
+A series of hot thundering waves of RF washed over the Detachment, hunkered down in wet riverbank sand below a swarming horde of nanobots.  
+Winger squeezed his eyes shut, waiting for the pulse to pass.  He felt the tinkle of dying bots clattering against his helmet.
+"DPS?give 'em more!  Keep slamming 'em!"
+With the ANAD master now little more than a quantum dot, he could only pray the HERF gun would destroy enough enemy bots to give them some room.
+More searing hot waves thunderclapped past the Detachment, shaking the earth and the river like a giant fist.  The Yemanha's oily waters stirred with restless waves.  
+When the third pulse was done, Winger commanded his suit servos to set him upright.  "Secure the HERF.  Move out?Sergeant Calderon?anything from the sniffers?"
+The rest of the Detachment struggled to unsure footing, while Calderon checked his airborne brood.
+"Got a strong reading, Captain?dead ahead, bearing zero five zero.  Those caves up ahead-"
+Winger steered the Detachment toward a steep cliff of limestone, riddled with caves and grottoes.  Del Compo had mentioned something about a grotto off the river.
+He could only pray they'd damaged the Amazon bots enough to clear a path.  With ANAD in containment, licking his wounds, collapsed down to practically nothing, Winger felt bare and defenseless.  Still, there was a chance some of ANAD's replicants had survived the HERF pulse.
+"Gibby, check your interface?see if any of our guys made it through the HERF blast-"
+Gibbs slogged through wet sand on automaneuver, just like the rest of the Detachment, wobbly but upright.  He pecked out a few commands.  "Good idea, Lieutenant?if enough made it-"
+"I could pilot the survivors myself," Winger finished the thought.  "Maybe even rep a few trillion bots to help out."  If I could remember the commands, he thought.
+The Detachment followed the bend of the river, angling forward toward the limestone cliffs.   The bank narrowed to a tiny shelf of sand, barely one man wide.  They went in single file, with Superfly watching carefully from overhead, circling like a horde of flies.  Something screeched and fluttered in the trees overhead, ten thousand bat wings heard but not seen.  Winger paid no attention.
+Instead, he concentrated on contacting ANAD, now deep inside the containment capsule in his shoulder.  He felt bad about the quantum collapse---it usually took a week to regenerate an ANAD master after such a drastic maneuver, but it was the only way.  
+"ANAD?are you there?can you hear me??"
+He tried several times, not expecting an answer but figuring it was worth a try.  The assembler was now little more than a few atoms of processor core, held together with tenuous quantum waves.  There weren't enough atoms to send a reply?just enough to keep the processor barely ticking over until he could be extracted and regenerated.
+Sorry, little buddy?.I had to do it?I had to get you out of there?
+He wondered what it felt like.
+"Skipper?got something-"  It was Gibby.  He'd been probing the air, trying to locate remnants of the ANAD swarm.  "Looks like a few stragglers survived?maybe enough to regroup-"
+"I'm on it," Winger said, grateful for the interruption.  He switched his eyepiece to acoustic sounding, signaled all surviving assemblers to form up overhead.  Moments later, he sent a basic replication command.   He'd have to monitor this one personally.  The ANAD master normally controlled basic operations of the swarm, like a top sergeant, but ANAD was contained, barely alive.  
+Have to do this the old-fashioned way, Winger told himself.   As the remaining assemblers grabbed atoms and rebuilt the swarm, he watched through the faceplate of his helmet.  A faint shimmer through the tree limbs told him the replication was underway, though it was subdued and tediously slow-going without the master.
+"Must be the entrance to that grotto," came a voice over the circuit.  It was Reaves, driving the Superfly horde ahead of them.  Imagery speckled on everyone's eyepiece, imagery of a dark recess in the limestone cliffs.  
+"Hold up," Winger commanded.  "Hold your position?let's get a basic swarm up and ready to go in.  I don't like the looks of this.  Calderon, what do your sniffers say?"
+Calderon was watching the readouts.  "CO2 up another fifteen per cent.  O2 down ten?looks like nitrogen's dropping?trace amounts of chlorine, methane, neon?all screwed up, Skipper.   Air's bad inside, not breathable at all.  Basically, toxic stuff coming out of that grotto and overhead too, venting from the cliff.  Whatever's going on, this is the epicenter."
+Something splashed in the river, and Superfly caught a glimpse of glistening dark limbs breaching the water.  The light was low but whatever it was, it was definitely alive.  Reaves tweaked Fly's sensors, got some infrared from the source, before it submerged.
+"Some kind of croc?or a snake, maybe?" muttered Deeno D'Nunzio.  The CQE1 was at the rear of the Detachment, running the packbots that carried their supplies.  
+"Hard to say," Reaves muttered.  "Readout says it's not a point source?more diffuse."
+"Like a swarm," Winger thought.  Del Compo had run into that here too.
+"Swarm's ready, Captain," Gibbs said.  "You driving or me?"
+"I'd better do it," Winger decided.  Gibby was a decent atomgrabber, but Winger was the top code and stick man in the whole battalion and knew he could handle the basics.  "Give me control."
+Gibbs passed the swarm interface to the Lieutenant.  Winger tapped out a few commands and watched as the shimmering ball flowed around the tree trunks and penetrated the grotto.  "Reaves, detach an element of Fly and send them in right after the swarm.  I want eyes and ears and I want to leave the ANADs for defense, if we need 'em."
+"Detaching now-" Reaves announced.  On her command, a small portion of the Superfly horde peeled off and followed the ANAD swarm inside the grotto.
+Acoustic imagery from the swarm filled Winger's eyepiece.  He switched to Superfly's visual and infrared, then checked EM wavelengths, before switching back.
+"Reading lots of thermal, Lieutenant," Reaves noted right away.  "Many sources, big sources, dead ahead-"
+"I see it," Winger said.  "Get the HERF guns ready.  Coilguns too?Detachment spread out and get down.  There may be another swarm-"
+Forms materialized in his eyepiece, human-like forms, dimly seen in the low light.
+"What the hell are they--?" someone asked.  The same imagery was on everyone's eyepiece.
+"Apes?maybe what's left of the natives-"
+Johnny Winger remembered something Dr. Del Compo had described in the briefing at Table Top.
+"It's vaguely humanoid," del Compo narrated over the imagery.  "It has radically modified lungs, and as you can see, extra appendages.  We've scanned all of its internal structure as well, in some detail."  Ghostly images appeared, outlining the results of the scans.  "There are the lungs, all four of them.  Something that we're calling a heart, or circulatory pump, and there are other organs we haven't puzzled out yet.  Interestingly, it has no brain or central cognitive-processing center that we can detect."
+"This may be what Del Compo was talking about," Winger said.  
+The grotto seemed to be alive with them, dozens, maybe scores of the demonio, writhing and undulating like so many pieces and parts of bodies.  Heads lay on the ground, waving in unseen currents like meadow grass.  Arms and legs whipsawed along between the heads, like snakes.  Torsos and parts of torsos vibrated like bees' nests.  Pools of water stirred with more creatures, and parts of creatures.  
+"Sir?are they?human?or what?"
+Winger switched back to acoustic imagery, letting the ANAD swarm filter in deeper, closer.  
+"Human-like organisms.  A colony of nanobots, that's what Del Compo said.  Only they're not really human?.more like bad copies of humans.  Del Compo thought they were adapted for the atmospheric changes going on, extra lungs, low-pressure blood-that sort of thing."
+"What is this place?" asked Singh.
+"It's a nursery, from the looks of it," said Gibbs.  
+Alpha Detachment had stumbled onto a colony of demonio in varying stages of formation.  
+"Look at them," whistled D'Nunzio.  
+"Proto-humanoids," said Mighty Mite Barnes.  "Colonies of bots?being assembled by other bots.  Is this what all those badass mechs have been protecting?"
+"Angels?." someone whispered over the crewnet.  "This is where they're born.  Maybe Symborg came from here."
+Many of them were only partially formed.  Winger knew of one creature already in captivity?the one Del Compo had brought back.  It was a cinch Quantum Corps could learn more.  What were they?  Why were they here?
+"I'm going to try an insertion," Winger decided.  
+"Excuse me, sir--?" asked Gibbs, incredulously.  "Without an ANAD master?"
+Winger had made up his mind.  Sure, there was a risk.  What was left of ANAD's master was now inside containment in his shoulder capsule.  It took a week and specialized care at Table Top to regenerate a master assembler after a quantum collapse.  A few trillions of ANAD's replicants were left in a barebones swarm; that's all there were to run an insertion into unknown territory like the demonio.  What kind of resistance would they put up?  The creatures were little more than colonies of nanobotic mechanisms in the shape of something vaguely human-like.  
+There's only one way to find out, Winger decided.  As Major Kraft was fond of saying, when you're in command?command.
+"Prepare for opposed entry," Winger ordered.
+The first step was to corral one of the demonio creatures, immobilize and contain it long enough to insert a small swarm to investigate.  
+"Sir, I have an idea," said Calderon.  
+"I'm listening."
+Calderon trundled forward, his suit servos trying to keep him level on the uneven ground.  The grotto interior was marshy, spotted with small pools, its limestone walls dripping wet.
+"Sir, suppose we blast this place with HERF a few times, enough to stun the bugs into a stupor.  Then, the DPS here-"  he indicated Sheila Reaves and 'Taj' Singh  "-fires off a few rounds of MOB.  Maybe that'll hold enough of 'em together to do a little recon?see what makes 'em tick."
+The idea had merit.  "We won't have long," Winger told them.  "Sheila, give me three blasts inside this grotto?then keep HERF trained outside.  What does 'Fly see outside right now?"
+The Superfly horde had been positioned just outside the grotto entrance, orbiting over the riverbank.  
+"Bots are re-forming now," Reaves reported.  "Small swarms?isolated elements at the moment.  I give us about four to five minutes."
+"Okay?keep 'em dispersed with HERF, coilguns, whatever you can.  Give me just five minutes of protection," Winger said.  "Then we've got to get the hell out of Dodge."
+"Will do, sir.  HERF's enabled now-"
+Winger ordered the rest of the Detachment to take cover.  As one, ten hypersuits lowered their occupants to the ground, assuming minimum profile.  
+"Fire the weapon!" Winger commanded.
+"Weapon is charging?charging?charging?fire in the hole!"
+Riding out a bolt from HERF was like sticking your head in an oven.  Twice?three times, Reaves discharged the high energy radio frequency weapon into the grotto.  Like a thunderclap, the sound exploded all around them, echoing off the walls, loosening seams of rock and flash-frying pools of water into steam columns.
+As expected, the RF blasts scattered the demonio into loose swarms and knots of mechs, buzzing around like so many disoriented hornets.  At the very moment Reaves wheeled the HERF gun back to cover the grotto entrance, Johnny Winger switched his eyepiece viewer back to nanoscale and signaled his own small swarm of bots to move forward, revving their propulsors to max, bearing down on a nearby horde of mechs.  
+"Okay, Taj?MOB'em!"  
+Taj Singh fired off several canisters of Mobility Obstruction Barrier.  The clouds of dumb bots were probably no match for the mechs making up the creatures, but at least, it would keep them occupied while ANAD probed.  
+The switchover to acoustic always made Winger dizzy but he recovered soon enough.  As always, piloting nanoscale bots through any medium, especially one that had just been HERF'ed, was like flying in a sleet storm.  
+He finagled with the scale on his viewer until he found one that was comfortable, then tickled the stick, pecking out a few commands.  In unison, the swarm extended all effectors, primed bond breakers and enabled grapplers and enzymatic knives.  He didn't have time to try a replication?they had maybe five minutes, maybe less, before the Amazon bots re-formed outside the grotto in numbers sufficient to overwhelm Superfly.
+When that happened, Alpha Detachment would have to fall back to the lifter?or be eaten alive.
+Gibby was monitoring the command circuit as well.  Qualified as an interface controller, the IC2 was an invaluable second set of eyes for swarm maneuvers and tactics.
+"Reading fifteen thousand microns?nearest formation," Gibby muttered.  "Our guys enabled, sir?"
+"Primed and ready," Winger said, concentrating on the image, trying to make out anything he could recognize.  Atomgrabbers spent a lot of time studying atomic configurations; the best of them could spot a peptide or a fullerene a long way off and knew instinctively how to counter it.  When you fought wars and skirmishes at this scale, long-range sounding and recognition was crucial.
+"-picking up some heat ahead," Winger noticed from the swarm's sounding.  "-small thermals, point sources?pretty spread out."
+"I don't recognize the signature," Gibby said.  
+The assembler swarm was in all respects ANAD in design and capability.  Same effectors, same construction and abilities.  Only the nanoprocessor core was missing, the brains of the master assembler.  Johnny Winger would have to provide the brains, trusting his instincts to react properly to moves and feints and maneuvers of the enemy.
+"Me neither?but that's not surprising?I'm slowing to half speed, spreading out a bit?maybe I can get better resolution-"
+He sent the commands.  As a single body, trillions of ANAD assemblers responded by cutting back propulsor rpms to half.  Spreading them further apart gave him a better angle to sound ahead, a sharper image on the acoustic to discern what lay before them.
+"-there!"  Gibby's voice was exultant.  Although both Winger and Gibbs lay prone inside their hypersuits on the dank floor of the grotto, their eyes and minds were elsewhere, speeding along through a hail of loose atoms, homing on a distinct mass dead ahead, a mass emitting lots of heat and loose radicals?.a sure sign of nanobotic activity.
+"I think we got one-" Winger switched momentarily from acoustic to macro and peered over the top of his eyepiece, out through his helmet.  Sure enough, a form loosely resembling half a human was bobbing in a small pool of water about six meters away.  Its head and shoulders were above the surface of the water, its still-forming arms and hands flailing away, splashing and thrashing about.  Mesmerized, Johnny Winger had to tear his eyes away from the scene, back to the world of atoms.
+The ANAD swarm was bearing down directly for the center of the creature's still-forming head.
+"Slowing to one-quarter speed," Winger announced.  
+"Extend your carbenes, Skipper?.see if you can grab one of those appendages-"
+Dead ahead, a tight flock of devices whirred and vibrated like mad dervishes, grabbing atoms left and right, building structure and emitting furious heat.
+"They're replicating-" Winger said.
+"Like crazy, Skipper?look at those effectors?"
+Indeed, as the swarm closed, the motions of the demonio mechs were almost a blur, so fast did they move.  The small horde grabbed and positioned atoms like a frantic crew of brickmasons.  In seconds, each bot had grabbed enough atoms to fashion a complete replica, which it topped off with a tetrahedral base, attached with crosslinked peptide chains and an undulating backbone of phosphates.  
+"Amazing?unbelievable?this is one souped-up bug," Gibby breathed.
+"The bastard's optimized for replication?that's all it's doing?not much of a core, that I can see."
+"Just a mindless nanobotic baby-maker," Gibby said.  
+"I'm going in?.this we got to investigate-"
+"Careful, Skipper?.those carbenes look nasty to me?I wouldn't get too close?he could pick us apart in no time."
+On command, the ANAD swarm eased forward.
+"Skipper?watch out!  Soundings are going haywire?thermals all over the place-"
+Before Winger could react, the ANAD swarm found itself enveloped in a cloud of churning babymakers, drawing closer and closer.
+"Where'd the hell they all come from?"
+"I don't know, Skipper, but we better get out while we can."
+Winger spun up the swarm's propulsors and ran head-on into a horde of babymakers.
+"All stop!" Winger yelled.  "Effectors out max?Jesus, those bonds are strong-"
+Gibby could see ANAD was quickly becoming enmeshed in a web of effectors, like a fly in a spider's web.  Its own momentum had helped spring the trap.
+"Trying backing out, Skipper!"
+"I'm trying just to get loose?these are covalent bonds?I ought to be able to break 'em, but-" 
+Trillions of ANAD assemblers squirmed and fought hard against the entrapment, but the babymakers were doubly bonded, their effectors sharing multiple electrons in strong, rigid loops.  
+Johnny Winger tried every combination of kick and feint he could think of, just trying to squirm free of the mesh of ever tightening mechs.  No matter what he did-flipping carbene grabbers, firing his bond breakers, slashing enzymatic knives-nothing worked.  The babymakers were too strong.
+He couldn't do a quantum collapse, again?the swarm would cease to exist.  Unlike the master assembler, there wasn't enough core to regenerate.
+Winger gritted his teeth.  "Maybe I can power my way out?"
+He revved up the propulsors to max, flexing every effector at the same time.  Slowly, grudgingly, the babymakers gave way, a little at a time, then more and more.  
+"Come on, ANAD?come on?.come on-"
+"Kick ass, Skipper?.give 'em hell!"
+The last flex did the trick.  Almost in unison, the ANAD assemblers sprung free and shot forward on max propulsors.  Half their grabbers were ripped off and most had platform damage, but the bots were intact and the worst damage could be repaired quickly enough.  
+The ANAD swarm catapulted beyond the first screen of babymakers and soon enough, found themselves approaching another dark, formless mass dead ahead.  The hailstorm of babymakers slipped steadily behind them.
+"Thermals are high?but it's a different signature, Skipper."
+Winger was puzzled for a few minutes, as he slowed and tried to regain some kind of control over the swarm.  Then it came to him.
+"Gibby?it's a brain."
+"A what?"
+"It makes sense?instead of each mech having a core like ANAD, they're grouped together into a single mass?like our brains.  Like one big mass of tissue and neurons, only these cells are individual nanobots."
+Gibby couldn't believe it.  "Del Compo was right then, wasn't he?  These creatures really are nothing more than colonies of bots."
+Winger knew he'd heard that before.  ANAD had once said the very same thing to him.
+"We've got to go in there-"
+"Skipper-"
+"Lieutenant-" it was Reaves on the crewnet circuit.   "-Amazon swarms approaching?I think this is it for 'Fly?permission to engage with HERF?"
+"Hold up, Sheila?we're right in the middle of something here-"  If DPS let fly with another round of HERF, even aimed away from the grotto, the impulse could shred the demonio again?scatter its nanobotic parts and make it impossible to probe the thing's 'brain.'
+"Lieutenant-"
+"Give me three minutes, DPS," Winger ordered.  He needed the time to probe ahead, see what the dark mass was.  "But keep HERF charged and ready.  When I give the word, light the bastards up."
+Back at the grotto entrance, Reaves swore under her breath.  Skipper's right, they needed the data?she knew that, but that swarm was growing fast and Superfly wouldn't be able to handle it much longer.  
+She peeked out across the river, warily eyeing the thickening mist that had descended over the waters.  The surface stirred, freshened not by a breeze but by furious nanobotic activity, as the Amazon bots replicated into a swelling horde.  In seconds, her view of the opposite bank had dimmed.  All she could see now was a patch of sky through gaps in the swarm, through gaps in the dense canopy of tree cover.  A dense flickering fog was rapidly descending on the grotto and Reaves didn't like the looks of it.
+
+She checked on Fly?the squadron of entomopters had already engaged the swarm along its perimeter and the results were predictable.  A fourth of the unit had been shredded in less than a minute.
+At this rate, Skipper won't have even three minutes, she realized.  She felt the warm, throbbing barrel of the HERF gun, wondering how much charge she had left.  A few shots at best.  After that-
+Johnny Winger bored in on the dark mass ahead.  Looks like a bunch of grapes, hanging on a trellis, he thought.  
+ "Sounding ahead?" Winger muttered.  ANAD pinged the mass for distance. 
+"I make it as three thousand microns," Gibby read off the result.  "You planning on engaging, Skipper?  We may not have time.  With the swarm outside, and HERF wearing off here-"
+More and more of the demonio had re-assembled themselves into forms vaguely resembling humans.  Heads and arms and pieces of torso scuttled around the pools and the limestone floor like disembodied wraiths.  Another blast would give them more time, but it might also scatter the colonies into loose atoms as well.  
+"I want to engage the outer mechs in that mass, see if we can sniff out anything we could use?a weakness, something.  These buggers are being formed for a reason.  I want to know what it is."
+"Two thousand microns, Skipper," Gibby read off the sounding.
+"I am in tactical three?defensive grapplers extended.  My bond breakers are active.  Maybe we'll get lucky?find us a glutamate trail."
+Gibby was skeptical but said nothing.  Several years ago, Doc Frost had added a new capability to ANAD, the ability to shuttle around inside someone's brain like a bunch of bees, sniffing out calcium sinks in every neuron, looking for concentrations of glutamate molecules.  Everywhere there was a certain level of glutamate was a pathway, burned in, a crude trace of memory.  Doc Frost had tweaked ANAD's hydrogen probes to search out these traces, sending back data on whatever it found-calcium levels, sodium levels, activation times.  With new algorithms in its processor, ANAD was able to re-construct a very crude version of what originally laid down the trace.  
+"Sort of like painting somebody's portrait from their shadow," Frost had explained.  "Kind of an echo of a memory, if you like."
+It had always given Gibby the creeps.
+But there was no reason to think the demonio were wired the same way.
+Movement to contact took another minute.  Outside the grotto, Sheila Reaves was increasingly nervous.
+"ANAD sounding less than one hundred microns, Skipper."
+"I see it.  I'm slowing to one quarter-grapplers primed?got my sticky radicals out?carbenes and pyridines too," Winger piloted the small swarm on a tangent toward the first humps of the mass.  Closing in, he saw that the formation of bots were tightly linked in a rigid lattice, each unit grappled with the next, in a vast undulating plain of nanobots.  The plain rippled like the surface of a lake stirred by breezes.
+As ANAD approached, the outer bots clicked defensive arms into view.  The lattice quickly grew spiky bristles.
+"Those are bond disrupters," Gibby announced.  "Pretty crude but-"
+"They could zap me if I'm not careful-all stop-" Winger brought the ANAD swarm alongside the lattice, hovering only a few microns away.  The bots made no move to contact or repel, simply spread their disrupters outward to ward off any attempts at contact.
+"Just dumb bots," Winger surmised, studying the structure of the nearest ones.  "Basic polyhedral core.  A few effectors.  So what's the deal?why are they linked like this?"
+Reaves' voice came over the crewnet.  "Skipper, Fly can't hold any longer.  The big swarm's almost at the grotto?permission to engage HERF?"
+"Give me one more minute, Sheila," Winger told her.  "Calderon, Taj, lay down some coilgun rounds?throw the sniffers at them?whatever you can?we're right in the middle of a mystery here-"
+Reaves snorted but said nothing.  What the hell are they doing back there?reading detective novels?  She motioned Calderon up to the entrance.  The CEC2 crouched next to her and they surveyed the tactical situation.
+"Chris?can you bring those sniffers down to block this entrance?"
+"I can but it won't even slow 'em down that much.  And we'll lose our ability to know what's happening to the atmosphere."
+Reaves was in charge of Detachment defense.  "Do it.  We need every second we can get."
+Calderon signaled the mote-sized bots to form up around the grotto entrance.  He shook his head.  "What a waste of good bots-"
+"Look, pal, if we don't hold off that big swarm out there, we'll be the ones who are wasted.  Stop bitching and give me some screening.  Taj?get your ass up here too?and bring that coilgun-"
+Back inside, Johnny Winger had made a decision.  "I'm going in, Gibby?see what's inside that core-"
+"Lieutenant?the time?we've got to start pulling out-"
+"Hold on-"
+Winger powered up the ANAD swarm and steered them into direct contact with the outer shell of mechs.
+The battle didn't last long.  Even without its master assembler, ANAD was more than a match.  
+A few zaps from ANAD's bond disrupters and the lattice unlinked like a zipper, the bots unlatching and folding back to make a path for the assemblers.  
+"It may be a trap, Skipper?watch out-"
+I'm watching?I'm watching already."  Winger cruised in and poked a pyridine probe right into the clumped core molecules of the nearest mech.  The sticky hydrogens tore a gash through blurry clouds of electrons.  Bonds snapped and sizzled as Winger drove ANAD in deeper, feeling its way along.
+Then, without warning, there was a blinding flash.  White light filled the imager screen, blinding Winger and Gibby at the same time.  Some energy source had discharged, liberating millions of volts and when the imager cleared, ANAD found itself pulled deeper into the lattice, surrounded on all sides in every direction by an unending plain of linked bots, like a boat stranded in a field of grain that stretched to infinity.  
+"What the hell-"
+"Look-" Gibby's voice caught.  
+The imager had gone crazy.  Lines of static flickered and scrolled across the viewer.  Winger checked his wristpad.  Still a signal, though it was weak and intermittent.  Still getting an image.  
+But the image didn't make any sense.
+Was it an actual image, Winger wondered?  Or was it like a glutamate trace in a human brain, a ghostly image of something else?  
+The grain field became a little sharper.  The plants undulated just like wheat or corn in a faint breeze but closer inspection showed they weren't plants at all?merely linked nanobotic mechanisms, of every size and shape, uncountable in number, sweeping to a distant featureless horizon.  The plants weren't alone either.  Drifting like clouds over an Iowa countryside were vast coils and shapes, themselves more linked masses of bots.  The world had turned upside down?everything was bots and mechs, no matter which way they turned.
+"What is this place?" Gibby breathed quietly.  
+Winger shook his head.  "I was going to say it ain't Kansas?but hang it, maybe it is.  But look?everything, everywhere?it's all bots-"
+"Are we still in that lattice?"
+Winger checked the sounding.  "ANAD signals don't make any sense.  I'm reading distances that can't be?almost off the scale?millions, billions of microns.  Gibby, it's like what we're seeing isn't atoms at all?like we've gone macro."
+"Not atoms?" Gibby's voice stuttered.  "Then?where the hell is ANAD?  Is this an image?"
+"Or a trace?  Maybe it's just some kind of gibberish or static inside the creature's 'brain.'"
+"If it's a memory trace?it's not like any world I've ever seen.   Maybe these buggers have nightmares?and we're in one."
+Winger was about to reply, but Reaves' strained voice crackled over the crewnet.
+"Lieutenant?we're out of time up here?.permission to engage the HERF NOW, sir-"
+Winger knew they had to fall back?or the whole Detachment might be trapped inside the grotto. 
+ "Light 'em up, DPS!  Fry the bastards!  ANAD's pulling out now-"
+In the last seconds before the thunderclap of heat rolled over them, ANAD squirmed free of the lattice, but not before tearing a huge gash in the mesh of linked bots, pulling away just as more bonds snapped and the crackle-flash! zapped the swarm once more.  Static and sizzling fog swelled up, filling their eyepieces.  A split second before the HERF gun scattered the colonies again into loose atoms, Winger saw something in his eyepiece that would stay with him for a very long time.
+The lattice into which ANAD had been embedded pulled away, as if the tiny assembler had been launched into the air over the countryside.  Up and up he flew, soaring higher and ever higher, until the pale blue faded into black, and the stars shone as hard bright unblinking lights.  
+As if ANAD had somehow been lofted into space, Winger remembered seeing the lattice retreat below him, fading into an indistinct seamless web, then curving and folding back on itself, forming first a horizon, then greater curvature, then a ball, then an entire world.
+When the hot wave thundered through the grotto and the demonio were shredded into fluff once more, the final image Johnny Winger remembered was just that: an entire world of lattice, an entire world of linked nanobotic mechanisms folded back on itself like the covering of a ball?a planet of ANADs or something very much like them, floating in space, throbbing like a thing alive.
+That's when the second HERF discharge came and the roof of the grotto came crashing down on them.
+
+Extricating the Skipper and Gibby took about half an hour.  Reaves, Singh, D'Nunzio, the whole Detachment pitched in, digging and pawing through the rock and rubble in their hypersuits, while the Amazon swarm tore at them like a furious wind, a wind with teeth.
+"Okay-" came Moby's straining voice?."now pull-"  
+Rubble, dirt and rock rolled down Johnny Winger's faceplate.  The first thing he saw was Sergeant Oscar M'Bela, his CEC1, peering into the helmet.
+"Come on, Skipper?got?to?get?you?out of here--."  He pulled and hoisted and pulled harder.  Winger squirmed free of a load of limestone shards, finally working one arm free.  Then he managed to snag a button on his wrist, activating his suit's leg boost.  Servos whined and moments later, his armored torso and legs were tilting upright, shedding debris in every direction like a wet dog.
+"I got about one more charge!" Reaves yelled over the circuit.  "If somebody could get the lifter overhead-"
+Master Sergeant Al Glance was scrambling up toward the grotto entrance.  Glance was second in command, Detachment CC2.
+"I've got the codes.  Give 'em another blast and I'll contact the ship."
+While Winger, M'Bela, D'Nunzio and the rest pulled back from the lower chamber, and headed up, Reaves primed the HERF gun once again.
+"Charging?charging?charging?I think this is the last of it?Geronimo?!!"
+The radio frequency weapon discharged its bolt of energy across the Yemanha River.  The thunderclap stirred the river into a boiling frenzy, while hordes of bats screeched off in vast hordes, blackening the skies.  A fine mist fell from above, but it wasn't rain?it was the debris of uncounted Amazon bots shattered by the pulse, raining out of the sky.
+"HERF's dead!" Reaves announced.  "We got about two minutes?tops!"
+"Here they come," said Calderon.  From the dim recesses of the inner grotto, splashing and scrambling through pools, slipping on the limestone floor, came the rest of the Detachment, a haggard, shaken crew.
+Al Glance poked his head out of the grotto and stood on the lip, signaling the liftjet down from its orbit over the area.  By command, the lifter had been circling the village of Via Verde at two thousand meters, in close formation with the hyperjet Mercury, both cruising in a racetrack pattern on autopilot.  Moments later, the black spidery rotors of the lifter came into view through the higher treetops, its articulating wings and rotors whop-whop-whopping as it descended over the river, and came to a hover fifty meters over a shallow sandbar.
+Johnny Winger had recovered his bearings enough to make it up to the entrance on his own.  
+"Thanks, Moby?now let's get the hell out of here."
+Gibbs followed behind.  "Any word from ANAD, Skipper?  I released the last of the swarm just before HERF went off."  It was standard doctrine when abandoning an ANAD swarm to command the bots to commit atomic seppuku, sloughing off all effectors and structures and zapping core bonds so that nothing was left.
+"Not a peep," Winger told him.  "There's not much left anyway?just a few atoms held together and the quantum kernel of his core.  There's probably not even enough core to communicate.  I can't raise him."
+Winger didn't want to think about it.  He'd let the assembler down plain and simple?let a fellow trooper down and that wasn't kosher.  He hadn't done his recon properly, hadn't made the right command decisions, hadn't gone by the book when every hair on the back of his neck was standing up, screaming warnings.  Instead, he gone with gut instinct, atomgrabber's instinct and he'd been wrong, dreadfully wrong.   He'd thrown the tiny assembler into something he couldn't handle.  ANAD couldn't keep up with the Amazon bots.  Whoever or whatever had created Amazon, the enemy mechs were faster and stronger.  That much was certain.  
+Only a quantum collapse had saved ANAD.  But it was like cutting off a trooper's arms and legs to save his head.
+"Lifter's on station, Lieutenant," Glance reported.  
+The Detachment assembled at the front of the grotto, slipping and sliding down to the tiny beach by the river.  They were a fatigued, beaten, hollow-eyed shell of a combat unit, hypersuited still but exhausted and dejected.  They'd lost much of their gear but thankfully no casualties had been taken, save for ANAD himself.  
+And they had about sixty seconds to exfiltrate before the Amazon swarm reconstituted itself and came at them again.
+"Bring her down," Winger told Glance, who was piloting the lifter from his own wristpad.   He eyed the growing ball of shimmering, sparkling fog that even now was swelling overhead, the enemy bots replicating in exponential overdrive.  In less than a minute, the bots would blanket and smother the whole area.  And the Detachment had nothing to counter the swarm with.  
+Glance sent the commands.  Instantly, the big spidery vehicle lowered itself to less than ten meters over the riverbank, translating laterally to position its belly doors.
+Combat exfiltration wasn't something the Detachment practiced very often but when you needed it, the suit boost had to work or else.
+One by one, with Winger and Reaves hurrying everybody up, the troopers of Alpha Detachment stepped onto the tiny beach and lit off their boosters.  Each hypersuit mounted two thrusters, one on each leg, which when fired, could lift a trooper fifty meters into the air in one big lift.  They'd wargamed escape maneuvers using suit boost but the problem was the landing?you had to manage your position in the air to come down in line with the thrust.  You could break your neck if you didn't, or worse.  It was a one-time shot, to be used only in times of dire necessity.
+Johnny Winger figured they were about to be annihilated by the Amazon swarm and that was reason enough.
+Each trooper lifted off into the air, scattering sand and water in all directions.  Fifty meters overhead, the lifter dropped grab rings from its belly.  Timed just right, with a little practice, a Quantum Corps trooper could shoot himself right up to the grab ring and be hauled aboard the lifter in about ten seconds.
+"GO?GO?GO?!"  Winger patted each trooper in turn on his shoulder, lighting them off in salvo like missiles being launched.  One after another, they boosted-D'Nunzio, Singh, Reaves, Calderon, Spivey, Gibby and the rest.  
+Finally, as the Amazon swarm rolled toward them like a miniature storm front, crackling and flickering with menace, only Glance and Winger were left.
+"Go, Al?get your butt up there-"  
+Glance met Winger's eyes.  "We did all we could, Skipper.  We just got outswarmed, that's all."
+Winger blinked at him.  Nobody outswarms me and ANAD, but he didn't say that.  "Thanks?now?off you go-"
+Glance lit off and boosted into the air.  Seconds later, he was swinging by his arms from the grab ring, riding up into the belly of the lifter.  
+Winger looked up.  Faces rimmed the belly bay opening, hands reaching out, imploring him to light off.  Voices came down faint but unmistakable over the whooshing of the rotors.
+"Come on?come on, Skipper?get going?"
+Winger acknowledged them, then took one last look at the swelling cloud of Amazon bots, now engorging the nearest tree limbs that overhung the beach.  The limbs disappeared in a shrill, whirring blur, consumed in a furious buzz of molecular deconstruction.  All around him, the air was thickening to a gelatinous mist and the shriek of the mechs had become unbearable, tearing at his eardrums even through the helmet.  
+And it was coming his way.
+You win this time, buggers?but it won't be the last time we meet.
+He took a deep breath, dimly aware that it was only the hypersuit that allowed him to breathe at all in this toxic cesspool of a swamp, and lit off his suit boost.
+The thrusters slammed him upward and he extended his arms like he'd been trained.  In no time, his fingers closed around the grab ring and the lifter was hoisting him up into its belly, a mother reclaiming her lost brood.  His suit gyros gave out at that same moment, and he toppled over inside the bay, nearly plummeting back out into the river, just as the lifter banked off into the humid late morning sky, kissing the upper tree branches as it spiraled up and away from the river.  
+Winger hung on tightly as the craft put some distance between itself and the nanomech cloud below.  The lifter shuddered under full military power, fighting remnant clouds of mechs boiling up from below, as it bucked and careened and shot skyward.  A hurricane of dust and sand and water mist and swarming mechs tore by, all blown to the wind, as the lifter spun and wobbled until its autopilot could right her.  
+Sheila Reaves had grabbed Winger's suit leg when the lifter took off and now she released it, sinking back against the bulkhead.  She wiped sweat and grit from her eyes and squinted up, seeing a familiar face.  It was Deeno D'Nunzio, looking for all the world like she'd just won a slam-boxing match?her hair was plastered to her face and she was flushed red.
+The two women glared at each other for a moment and burst into laughter.
+Too bad about Superfly, Reaves thought, as she sat up and wiped streaks of grime from her face.  He'd always been a kickass bot, her personal toy and one damned good scout for Detachment missions.  They'd miss this model for sure.  But Table Top could fabricate another one in no time.
+One hundred, two hundred, five hundred meters.  Reaves barely breathed until they'd put kilometers behind them and the only thing she could hear was the thrummm of the liftjets and the cold wind whistling through the cabin holes.  She shook her head, startled at the sight.  Mechs had burrowed into the lifter?the holes, she hadn't seen them before.  It had been that close.
+Three meters away, Johnny Winger was feeling much the same.  He sank back, sweaty and exhausted, and killed the crewnet.  His eyepiece went dark and he shoved it away from his face.  But only when the buffeting and the sonic pulses and the high keening wail of nanomech hell had finally died off, did he finally begin to relax.  
+The very first thing he did was quick-disconnect the hypersuit helmet, yank the hat off and gulp down tons and tons of cold, humid high-altitude air.  
+It wasn't toxic at all?in fact, it was better than ice cream on a hot summer day.
+Then he crawled through all the groaning bodies to the front of the compartment, to see about the rendezvous with Mercury.
+Above the belly on the flight deck, Al Glance massaged the controls like a master pianist, still in his hypersuit but minus the helmet.  He saw Winger poke his head up from below and grinned back, trimming the lifter for the short cruise up to three thousand meters, where hyperjet Mercury and their ride home were waiting like an expectant mother.
+
+They made rendezvous an hour later.  Al Glance deftly parked the lifter in Mercury's docking cradle and let the mothership hoist them aboard.  Climbing out into the docking bay, Johnny Winger couldn't wait to head forward to the suiting room and climb out of 'this tin can' , as most of them called the hypersuits.
+"Set a course for Table Top," he told Glance, who would be up on the command deck running the ship for the first watch.  "And get word to Battalion that we'll need a new ANAD master."  Winger absent-mindedly massaged his left shoulder, as if he could somehow feel the bot inside, ticking over, barely alive.  "I'll find out what ANAD's status is and get it to you as soon as I clean up."
+"Roger that, Skipper."  Glance bounded off to the command deck, to take Mercury out of her orbit and set the ship up for boost to Table Top.  The whole five-thousand kilometer trip would take about two hours, give or take, as they skimmed off the top of the atmosphere and skipped northward like a stone on a lake.
+Moments later, Winger was on the comm to Table Top.  The vidlink connected and Major Kraft's harried face peered up at the tone.
+That's when Winger learned that UNIFORCE had finally picked up faint beeper signals from Doc Frost?somewhere in the jungles of Myanmar. 
+"?last word we had from Frost's beeper," Kraft was saying, "they were in Hong Kong, maybe Lions Rock.  We had scouts and sniffers combing the area now but there was no sign of the Doc?nothing at all-until now."  Kraft's frown deepened and he looked away from the vid.  Losing a resource like Dr. Irwin Frost made him sick but he couldn't let Winger see that.
+Winger was exhausted, even after a shower and a change.  He shook his head, describing the engagement with Amazon.  
+"It was the damnedest thing, Major.  It was like ANAD was moving through molasses.  He was always a step behind, couldn't react fast enough and when he grappled, the bots just shrugged him off like a gnat.  Never saw grapplers like that-I tried to get structure on 'em and we got some?but it may not be enough."  He had squirted the data take from ANAD to Table Top at the beginning of the session.
+"I'll have our engineers take a look at it?maybe there's something they can do under the hood, soup up ANAD for future action.  We've got to get a hold of this menace now?UNIFORCE says BioShield can't even slow 'em down.  These atmospheric perturbations are growing?and spreading.  So far, no big population centers are affected yet, but it is just a matter of time, especially in central Africa.  It's worst of all in the Antarctic.  The icepack's melting like crazy and most of the world's coastal cities will be flooded in weeks if we can't stop it.  You may be right?Via Verde could be Red Hammer's central nursery for angels."
+Winger wasn't sure whether he should tell Kraft about the strange probe into the core of one of the Amazon bots.  What could he say, really?
+"Get your ass back up here, Winger?" Kraft was saying, "We've got some tactics to work out.  And then we've got to go after Doc Frost, if he's still alive."
+"ETA is 1930 hours, your time, sir," Winger told him.  "And we'll need to start regenerating another ANAD master.  I lost this one."
+Kraft killed the vidlink and Winger went forward from the comm shack to the cockpit.  Al Glance was there, on watch, but the ship was piloting herself.  Beyond the forward windows, the curvature of the Earth was backlit by a setting sun, spreading a pool of molten gold and red all along the western horizon.  Mercury was near the apogee of her suborbital arc, moments away from weightlessness, and her final plunge back into the atmosphere.  In less than an hour, she'd be circling onto final approach and settling down on the north lift pad at Table Top Mountain.
+"Bad news, Skipper?  You look kinda pale.  I can handle the ship, if you want to get some shuteye."
+"It's okay, Al?just talked to the Major.  UNIFORCE may have located Doc Frost?somewhere in Myanmar.  Singapore's not sure what happened."  Winger related all he had just heard from Kraft.
+Glance uttered a low whistle.  "Was he kidnapped by Red Hammer or what?"
+"Apparently," Winger said.  "Sniffers are up now?all assets air and space are looking, but so far-"  He shrugged.  "The Major's putting together another mission."
+The fatigued face of Sergeant Gibbs appeared in the door behind them.  "Sorry, Skipper?didn't know you were here.  I was?just sort of -"
+Winger understood.  "Restless."
+"Yes, sir? kind of..."  A puzzled frown came over his face.  "--just not sure what to make of?what we saw, sir.  Inside the core of that bot?inside that creature-"
+Winger shook his head.  "Me neither, Gibby.  I didn't say anything to the Major.  But it'll come out in the debrief."
+"How do you explain it, sir?  It was like a nightmare?maybe we were living through a kind of dream those buggers have, if they even have minds."
+"I don't know what to say.  It's more like a feeling.  Somehow, this Amazon bot swarm, and the demonio creatures are related.  And they're part of something much larger.  I don't know what yet.  I'd bet my atomgrabber's license that Red Hammer's involved.  But I doubt they're up to this kind of technology alone.  Somebody else is helping out."
+"Another cartel, maybe?  One we don't know about?"
+Winger thought about the odd sensation he'd had, just before the grotto roof collapsed, plugged in with ANAD into the core of that bot, of seeing imagery of an entire world of nanobots, a planet of mechs.  
+"Maybe something even bigger, Gibby.  But let's save it for the debrief.  Kraft wants us in his office at 0600 hours tomorrow.  Better get some rest now, while we can."
+"Sure, Skipper."  Gibby disappeared aft.  
+Johnny Winger left the cockpit and lay aft to his own compartment.  He settled wearily into the bunk but sleep wouldn't come.  He could feel Mercury maneuvering down through the denser layers of the atmosphere, visualizing her turns and descents toward Table Top.  But he was restless and it wasn't a vision of other worlds that kept him awake.
+It was ANAD.  And what had happened.
+Johnny Winger tossed and turned in a cold sweat, frustrated that ANAD had been bested by the Amazon bots.  
+Little fellow?I let you down?and that stinks.
+In a way, he'd let the whole damn Detachment down.  Sure, they'd gotten a little data on the Amazon bots, but it wasn't much.  Would it be enough?  
+Hell, maybe it's this friggin' quantum link.  
+Ever since Doc Frost had linked him in with the assembler, he'd had periods of confusion, indecision, just plain fog?like he was somebody else, somewhere else.  It was crazy, despite what the Doc said.  And Johnny Winger wasn't buying any of this signal leakage or combat symbiosis crap.  
+The fog--or whatever the hell it was--had nearly cost him and the Detachment their lives.  ANAD too?and that was the crux of the matter, wasn't it?  
+He had some apologizing to do but ANAD was mute, what was left of his core having barely enough atoms to keep the processor going.  
+His own Dad-Jamison Winger-had been like that too, when Johnny's Mom had died in the auto accident.  The Year of Hell, that was.  More than a year ago, but it seemed like yesterday.  Cold and silent as a stone wall.   Jamison Winger hadn't said ten words the whole year.   Then, the next year, they gave him the patch for depression and at least he was better.
+When you had something you wanted to get off your chest and you just couldn't, all you could do was swallow it and keep going.  
+Nanotroopers learned real well how to keep going.  They learned that practically from day one in nog school.   Maybe too well. 
+ Sometimes nanotroopers kept going until they crashed head on into a stone wall.
+
+Chapter 5
+"The Eightfold Path"
+
+Somewhere in Myanmar,
+Along the Irrawaddy River
+January 10, 2049
+Early evening?.
+
+Mary Duncan pulled against the river undercurrent with all her strength and landed in river mud up to her knees, her head popping above the waves, where she heaved in a few great breaths.  With all the strength she had left, she hauled a semi-conscious Doc Frost up behind her, dragging him onto the river banks.
+The two of them lay panting for many minutes.
+Doc seemed to have some head and face lacerations; there was a deep gash under his chin, leading down his neck.  It was bleeding profusely and Mary Duncan knew she had to get that stopped right away.  She tore off a patch of her trousers and knotted up a wad to try and stanch the flow.  She didn't have any 'cytes to work on suturing the skin.  But she found that if she applied enough pressure to his wound, the blood flow slacked off.  Ultimately, she managed to fashion a bandage of sorts with the wad of cloth and some torn strips of her shirt sleeves.
+The lifter was nowhere to be seen, presumably at the bottom of the river.  Doc Frost sat up and looked around, wincing and holding the side of his face.
+"Where are we?" Duncan asked.
+Frost didn't have a wristpad, palmpad or anything or the sort.  Red Hammer had long ago confiscated things like that.  
+"Last fix I took showed us crossing the Irrawaddy River as we came down.  Must be somewhere in Myanmar."
+"Uh oh-" Duncan pointed to the center of the river.  "Company-"
+A trio of saltwater crocodiles, their black snouts forming v-shaped wakes in the murky water, were heading right for them.
+Frost and Duncan both scooted up onto the bank and dove into a nearby forest, stumbling through heavy brush, until they came to a stand of screw pine.  Both wheezed and coughed for a few moments.  Duncan checked her makeshift bandage on Frost's face.
+"Looks like it's holding."
+Frost looked around and they began picking their way through the forest, keeping a wary eye on the river for any more things that slithered.  Howler monkeys screeched overhead.  Freshwater crabs scuttled off into the dirt underfoot.  In the distance, the forest thinned out a bit and they saw a field of statues, orderly ranks of golden stone stupas, each sitting serenely on a pedestal.  A narrow pagoda in the distance seemed like a good destination; help might be found there.
+They stopped at the edge of the forest, wary about crossing the field in the open.  Flies and bats darkened the skies overhead.
+"I'm not sure they're all flies, Mary," Frost muttered.  "Stop here.  I want to see if I can launch ANAD."
+"ANAD?"  Mary sat down on the rotted-out carcass of a teak log.  "I didn't know you were carrying ANAD."
+"Neither did those thugs back at the monastery.  It's the latest version, all the upgrades I gave Johnny Winger."  Frost unscrewed a tooth cap in the back of his mouth and held it up.  "My own containment capsule.  I just don't know what this blasted halo will do when I open it-"
+He thumbed the cap until his fingers found a slight protuberance.  "Here goes-'  He pressed the protuberance, then set the cap down on the end of the log.  Immediately, a faint fog began issuing from the thing.
+At that very moment, Frost felt his skull squeeze as if it were in a vise.  His whole head seemed on fire.
+"Arrrgghhh!"  He staggered back, fell heavily to the ground, then began rolling about in the soft mud.  Mary Duncan went to him, trying to cradle his head and propping him up against a bank of limbs and leaves.  "Ohhh?ahhhh?arrrggghhh?I can't-"  The pain was blinding, excruciating and he finally passed out.
+Ten minutes later, the ANAD master bot had formed a faint likeness of Frost himself and was leering down at both of them from a vine-covered backdrop.  Frost regained consciousness, found his head pounding and his heart racing.  Duncan tried to make him as comfortable as possible.
+"I think the worst is over, Mary," he forced out, gritting his teeth.  "I can get up-"
+"Be careful, Irwin.  Take it easy."
+He saw the pagoda wasn't more than a hundred meters across the field of statues.  "Let's try to make it to that little temple.  Maybe someone there can help us.  ANAD-" he picked up the tooth cap and stuck it in his pocket.  "-configure Transit One?follow us."  
+They set out to reach the temple.  The small swarm followed them like a ghostly pet.
+The pagoda was open at the front and cool inside.  Their steps echoed on stone and marble.  A small shrine enveloped in incense occupied the center of the single room.  A monk in saffron robes knelt at the shrine, mumbling and waving his hands.  Suddenly aware of visitors, he abruptly turned and stood up.
+He was thin and emaciated, with a wiry white goatee and deep set brown eyes.  His face was a canvas of wrinkles, topped by wisps of thin white hair.  He clasped his hands into a steeple.  
+Frost tried explaining their predicament.  "Our plane crashed into the river.  We want to contact our friends?United Nations Quantum Corps.  You understand me?I don't speak your language, I'm afraid."
+The monk smiled faintly and gave them some coarse bread and a small bowl of rice.  Frost knew he could tap into the ANAD master bot for translation on the fly, but he was wary of the halo and decided not to try it.  Instead, he and Duncan communicated with hand gestures and brief snatches of Tibetan they had picked up at Paryang.  The monk seemed to understand that Frost was troubled by something in his head, in his mind.  Frost could not make him understand the concept of a halo.  Frustration set in and the monk seemed to sense this.  He reached underneath the center shrine and produced a small parchment scroll.  Unraveling it, Frost saw the parchment was written in living ink and watched as the words and letters arranged themselves into a passable explanation of something called The Eightfold Path.  
+The monk insisted that Frost take the scroll.  "Better?." he mumbled out, his voice laden with a thick accent.  "Follow this-" he smiled with his broken English.   "Make better?."
+Then he left the pagoda and was gone.
+Frost read the headings as they aligned themselves in English.  The scroll had detected his own speech and already produced a rough translation.  The words blinked and became bolder as he read out loud?.
+"Just this noble eightfold path: right view, right aspiration, right speech, right action, right livelihood, right effort, right mindfulness, right concentration. That is the ancient path, the ancient road, traveled by the Rightly Self-awakened Ones of former times. Follow this path. Following it, you will come to direct knowledge of aging and death, direct knowledge of the origination of aging and death, direct knowledge of the cessation of aging and death, direct knowledge of the path leading to the cessation of aging and death. I followed that path. Following it, you come to direct knowledge of birth... becoming... clinging... craving... feeling... contact... the six sense media... name-and-form... consciousness, direct knowledge of the origination of consciousness, direct knowledge of the cessation of consciousness, direct knowledge of the path leading to the cessation of consciousness. Follow this path."
+It was Mary who snapped her fingers at a thought.  "Irwin?the monk's right.  This is it.  This can help."
+Frost carefully replaced the scroll on top of the shrine.  "What are you talking about?  I'm no Buddhist."
+"You don't have to be.  But the monk said this would make you better.  Follow these and you may be able to get around that blasted halo in your head.  These words will keep you calm.  Focus on these things and maybe the halo won't go off when you send commands to ANAD."
+Frost was dubious but it was worth a try.  "Pretty farfetched, if you ask me.  But what have we got to lose?  Let's go back to the river, see if we can get ANAD to help us make a canoe.  Heading downriver is our best hope."
+They picked their way back to the river banks.  The ANAD swarm, resembling a horde of flies, followed behind, sparkling and fluorescing in the bright sunlight.
+At the river's edge, Frost spied a few loose teak logs, jammed together and tangled in ropy vines and brush.
+"Mary, I don't have a wristpad or anyway to control ANAD.  This version's a barebones assembler.  And I don't have a config for a canoe anyway."
+They scouted around the bush, found some vine they could use as lashing and began  assembling strips of tree bark as well.  Duncan noticed that Frost was wincing; she wondered if the face and neck wound was stinging, or bleeding again under her makeshift bandaging.
+"No, it's in my head?the damned halo.  The bots are stoking dopamine again, it comes in waves.  Makes you nauseated-"
+Duncan said, "Remember that monk.  Right view, right speech, right effort?concentrate on what he showed you?focus on that."
+Frost sniffed.  "Right."  But it did seem to help.
+Through some basic verbal commands, Frost was able to direct ANAD how to help them fashion a crude raft, using tree bark and vine lashings, and the teak logs.  "At least, this ANAD should be able to do basic assembly and disassembly."
+Carefully, mindful of the halo pounding inside his skull, Frost was able to direct ANAD to hollow out enough wood in the logs to give them some place to sit and steer.  For good measure, the botswarm was able to fashion a set of crude oars as well.  When it was all done, the sun had dropped behind the trees, and a wind had fetched up across the river, stirring the muddy brown waters slightly.  The glowing bubble of the ANAD swarm began to disperse, collapsing in slow motion until only the bright marble-sized spot of the master glowed in the gathering twilight.  Frost placed his tooth cap containment vessel on top of the raft and guided the master bot back into containment.  "Can't lose him, Mary.  He could come in handy later on, since we don't have any tools."
+They climbed awkwardly onto the raft.  Mary Duncan looked about the makeshift boat and sniffed.  "Irwin, do you know how to steer this thing?"
+Frost shrugged.  "I can figure it out.  Have you a better idea?"
+Duncan didn't.  Above them, hordes of flies and mosquitos buzzed and above that, bats and flocks of birds soared and swooped, seeming to follow them out into the main channel of the river.  Frost used an oar to pole them into the current and then settled back, using another oar as a sort of rudder.
+Duncan shuddered at their aerial visitors.  "I don't like the looks of those birds.  Or the flies."
+Frost agreed, steering them through a choppy hydraulic that had erupted.  "We're under surveillance, I'm sure of that.  Probably Red Hammer.  As long as they stay up there.  We've got to get downstream, find some village, somewhere we can contact Quantum Corps.  Before those buzzards decide to make dinner of us?or worse."
+They cruised for an hour, alone on the river, with darkness settling over them.  Sporadic lights and fires could be seen onshore.  It was Duncan who spotted the pilings of a small village on stilts as the raft-canoe nosed around a headland thick with mangrove and wiry pandanus vine.
+"Irwin, look?look up ahead.  Some kind of village."
+Frost steered them in that direction cautiously.  Soon, they were spotted and shouts erupted from the windows of several huts.  Arms gestured.  Lamps were assembled.  The splash of boats putting out could be heard.
+Frost let them drift right up to the nearest kelong huts, small round structures of wood and thatch, mounted on hardwood stilts sunk into the riverbed.  
+They were quickly intercepted by three dugout canoes, each bearing two stout fishermen with knives, machetes and spears. 
+Frost held up a hand, tried explaining in halting Tibetan, who they were and why they had come.  The fishermen seemed to understand, somewhat startled at Frost's command of the dialect.  The boats turned about and expertly steered their raft to another house a few dozen meters away, where it was berthed below the main floor and tied to a post.
+As Duncan and Frost were being helped out and guided to a rope ladder nearby, a shrill screeching came from above them.  Duncan and one of the fishermen looked up.  A small flock of birds hovered just above the pitched roof of the house, shrieking at them, flapping wings, cawing loudly.
+"Naatsoemyarr!" the fisherman cried out.  "Nghaatmyarr!"
+A few birds swooped down and it was readily apparent that the attacking creatures weren't birds at all, but rather automated drones of some type, with a single bright blue flashing light on top, slashing claw-like pincers for talons and a whooshing jetpipe out the rear.   The drone-birds came at them with a ferocity unexpected and the fisherman was soon joined by his fellow villagers, swatting at the drones with everything they could find, slashing at them with poles, spears and machetes.
+Duncan and Frost were quickly hustled into the house and made to lie down beneath rattan mats inside the main room.  Frost found himself underneath the mat, face to face with a sniffling child, a girl, tears streaming down her face.
+"Mary?" he mumbled, "I think we've brought the Devil himself to these poor folks."
+It didn't take long for several drone-birds to swoop inside the house.  The things hummed as they flitted back and forth, methodically sweeping their recon eyes around the room.  A small boy peered out from behind a stool and was immediately flechetted by one bird, the boy's neck spurting blood as the shards sliced right through the skin.  He cried, fell back and went down in the corner in a bloody heap.
+The mama went straight for her son, cradling his head even as blood geysered out of his wound, while an older male, perhaps the father, swung an impressive long-pole spear at the bird.  He connected and sent the drone cartwheeling against the corner post.  But other drone-birds had flown into the house in the meantime and now they were hunting and sniffing and expelling flechettes at anything that moved.
+Through the loose weave of the rattan mat, Frost could barely make out something in the corner, next to an oil-fired camp stove.  He inched along the bamboo slats of the floor, a moving hump below the mat, until he came to the device.  It was a nanobotic containment vessel, an older model matter compiler, shaped like a gourd, but Frost was sure he was seeing right.  The vessel probably hosted an angel of some kind.  Maybe the family had scraped their savings together and sprung for a way to fab a long-lost uncle, or a beloved grandmother, a botswarm that could be configged to resemble a loved one.
+It gave Frost an idea.
+From underneath the mat, Frost unscrewed his tooth cap again and launched the embedded ANAD.  The flickering mist hovered around his face until he managed to make voice contact with the master bot.
+"ANAD, steer right?exit this space.  Disassemble that gourd on the stand over there."
+The mist began dispersing, as the bot commanded its replicants on propulsor to maneuver where Frost had directed.  If his plan worked, if ANAD could break the gourd's containment and release the angel inside, it might just be enough to create a nano signature that BioShield could detect.  If that didn't work, there was always ANAD itself.
+ Mary Duncan herself had hunkered down in a corner of the room, while the fishermen and his wife flailed and swung anything they could find at the drone-birds swooping and darting through the house.
+"Nghaatmyarr!" the fisherman cried out, swinging an ax against an oncoming flock.  The axe sliced through the formation and scattered wings and heads and props everywhere.  And still the birds came.
+Now, however, the fisherman's wife noticed the ANAD swarm hovering around the gourd, thickening, descending on the final resting place of an uncle.  She dove at the swarm, flailing and sweeping her hands back and forth, trying to shoo the bots away.  But when the first of the swarm stung her face, she stopped and backed off, shrieking at the top of her lungs.
+The gourd was engulfed in a pulsating ball of white light as ANAD slammed the atoms with bond disrupters and everything it had.  For a moment, the gourd was lost to view.  Then the light ball flared into blinding brilliance as the contained angel erupted, slaved to its own config, now engaging ANAD directly.
+For a few minutes, the drone-bird attack slackened as the gourd supernova'ed into incandescence and the swarms collided.  Even from beneath the mat, Frost could feel the heat and light of the assault.
+Go, ANAD.  Do your thing?make a big pulse...so BioShield can see it?
+If his plan worked, the nano signature of illegal fabs and swarms going off would trigger BioShield alerts from Mandalay to Singapore.
+And, Frost fervently hoped, that might just bring the cavalry to the rescue.
+The drones came back as the swarm engagement flickered away into a faint shadow of its former brilliance.  Now, Frost decided he and Duncan had to get out.  He crawled on hands and knees out from under the mat, spied Mary in the corner, half-hidden behind some furniture and grabbed her outstretched arms.
+"Come on!  We've got to get out of here!"
+The two of them slipped down the rope ladder and landed with a thump in a longboat canoe.  There were no oars but Frost was able to get a small outboard motor going.  He pulled and pulled on the cord and the engine sputtered to life.  Using the tiller, he unmoored the banca and they headed out into the river.
+The flock of drones dove at them immediately and Frost found the only way they could survive was to play hide and seek among the stilts of the village huts, darting from one to another, and swatting at the drones as they dove and careened among the village.  This went on for half an hour.
+Frost steered madly for a larger house further downriver, at the end of the village.  He rammed the banca into a stilt pole and grabbed Mary Duncan.  Together, kicking at the drones as the things nipped their heels, the two of them scrambled up a rope ladder, running right into a furious fisherman armed with spears.  
+But before he could clamber into the house, Frost's halo went off again.  Inside his brain, inside his ventral tegmentum, a fire had been lit and the halo bots stoked dopamine flow so high Frost felt his head was going to take off.
+He fell heavily to the bamboo slats of the floor, Mary Duncan right on top of him, convulsing and screaming at the top of his lungs.  Alarmed, the fisherman and his family backed off, spears and poles waving at the ready.  Already, another attack of the drone-birds was forming up below the floor slats, ready to leap into the house from below.
+For a few moments, Frost wailed.  "Arrrrggghhh?Maareeeee?.I can't?."
+Then a loud whine was heard above them, a shrill pulsing whine that was audible even over the flap and slap of the drones.  The fisherman and his family looked up in fear, while Duncan tried to cradle Frost's head, to keep him from banging himself to unconsciousness.  Even her own head was starting to pound?her own halo was awakening?the bots stirring-
+Overhead, a Quantum Corps lifter looked to the villagers of Suyang like a great angry bird about to descend on top of them.  The black hull, with its articulating jet rotors, beat down on the river and radiated out concentric waves that lapped against the stilt houses.  The houses shook and swayed with the waves and the downwash.  
+The lifter launched its own swarm of ANAD bots, beating back the drones, tearing many to pieces as their bond disrupters discharged, severing atomic bonds.  Drones and pieces of drones fell clattering out of the sky, raining parts all over the stilt village.  A small bubble of ANAD bots formed up, making a translucent shimmering veil, that draped itself over the village and fended off the Red Hammer birds to clear a space for the rescue that was now unfolding.
+Out of the rear of the great metal bird, a squad of nanotroopers boosted down to the hut, crashing right through the thatch roof.  Three of them landed with hard thumps on the bamboo slats, knocking furniture in every direction.
+One trooper pulled back the visor of his hypersuit helmet.
+It was Johnny Winger.
+"Come on, Doc?get him out of there?put the rope on him?Dr. Duncan too!"
+With practiced hands and the smooth choreography of a ballet troupe, the nanotroopers wrestled the writhing Doc Frost into an exfiltration sling and cinched it up.  At a comm signal, the lifter hauled the thrashing body of the professor skyward, right through the hole in the thatch roof.  Duncan went next.  
+Then, one after another, Winger and his rescue squad boosted back to the lifter and slammed the hatch shut behind them.
+Frost was still caught in the vise of the halo attack.  Two troopers pinned him to the floor to keep him from hurting himself.  
+Winger yelled up to the cockpit.  "Corporal?get this buggy going!  We're collapsing the bubble!"  Then he turned back to Frost.  "I may have to do an insert right here?if this friggin' halo doesn't shutdown."
+Sheila Reaves was stripping off her own hypersuit helmet.  "Skipper, it'd be better to wait until we get back to Singapore?this all pretty crude around here?you could do more harm than good."
+The lifter wheeled about and began accelerating away from Suyang village as the pilot lit off the afterburners.  They climbed at a steep angle, punching through a cloud deck and burned a hole in the sky, making best time back to the Quantum Corps East base.  The trip would take a good hour.  
+Winger bent down to Frost, now cringing, whimpering, curled up like a bawling baby, still twitching on the lifter cabin deck.  They covered him with blankets as best they could, forced him to drink water from a canteen, which dribbled out both sides of his mouth.
+Jeez," muttered An Nguyen, as he watched Frost's convulsions.  "It's like a big bang inside the man's head."
+The nanotroopers didn't know it, but they would soon be facing a real Big Bang in the coming days, as Red Hammer engaged Quantum Corps in a last-ditch effort to destroy 1st Nano and ANAD.  
+Finally, Johnny Winger couldn't stand to see Frost suffer any longer.  "Okay, I'm going in.  ANAD and I are doing an insert.  Let's get the Doc prepped and ready as we can."
+Reaves and Nguyen looked at each other for a long moment.  
+No one had ever done an ANAD insert on a living human, while flying in a lifter across the ocean.  Not even Johnny Winger himself.  
+Doc Frost moaned and cringed once again.  The troopers of 1st Nano grimly set to work.
+
+END
+
+
+
+
+
+
+
+
+
+
+
+
+
+About the Author
+
+Philip Bosshardt is a native of Atlanta, Georgia.  He works for a large company that makes products everyone uses?just check out the drinks aisle at your grocery store. He's been happily married for 25 years.   He's also a Georgia Tech graduate in Industrial Engineering.  He loves water sports in any form and swims 3-4 miles a week in anything resembling water.  He and his wife have no children.  They do, however, have one terribly spoiled Keeshond dog named Kelsey.
+For technical and background details on his series Tales of the Quantum Corps, visit his blog at http://qcorpstimes.blogspot.com.  For details on other books in this series, visit his website at http://philbosshardt.wix.com/philip-bosshardt or learn about other books by Philip Bosshardt by visiting www.smashwords.com. 
+Download the next exciting episode of Quantum Troopers from www.smashwords.com.  It's called "The Big Bang."  Available on July 25, 2016. 
+To get a peek at Philip Bosshardt's upcoming work, recent reviews, excerpts and general updates on the writing life, visit his blog The Word Shed at: http://thewdshed.blogspot.com.
